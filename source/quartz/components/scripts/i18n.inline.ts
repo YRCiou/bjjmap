@@ -35,6 +35,9 @@ const ZH: Record<string, string> = {
   "404.search": "搜尋相似頁面",
   "404.home": "回到首頁",
 
+  "page.Terms of Service": "服務條款",
+  "page.Privacy Policy": "隱私權政策",
+
   "search.placeholder": "搜尋技術…",
   "search.noResults": "沒有結果。",
 }
@@ -66,6 +69,26 @@ function applyLang(lang: Lang): void {
     const zh = ZH[key]
     el.textContent = lang === "zh" && zh !== undefined ? zh : el.dataset.i18nEn!
   })
+
+  // Whole-page language blocks: /terms and /privacy carry both versions in the markup, so a
+  // no-JS visitor and a crawler get the English one and nothing is hidden behind a fetch.
+  const blocks = document.querySelectorAll<HTMLElement>("[data-lang-block]")
+  if (blocks.length) {
+    blocks.forEach((el) => {
+      el.hidden = el.dataset.langBlock !== lang
+    })
+  }
+
+  // The <h1> of a language-blocked page comes from frontmatter, so it has no data-i18n of its
+  // own. Translate it by exact title match — only for the pages that carry both languages.
+  if (blocks.length) {
+    const h1 = document.querySelector<HTMLElement>("article h1, .article-title")
+    if (h1) {
+      if (h1.dataset.i18nEn === undefined) h1.dataset.i18nEn = h1.textContent ?? ""
+      const zh = ZH["page." + h1.dataset.i18nEn.trim()]
+      h1.textContent = lang === "zh" && zh !== undefined ? zh : h1.dataset.i18nEn
+    }
+  }
 
   document.querySelectorAll<HTMLElement>("[data-i18n-aria]").forEach((el) => {
     const key = el.dataset.i18nAria!

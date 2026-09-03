@@ -184,6 +184,22 @@ const NG_I18N_ZH = {
 // Text-node sweep: EN phrase -> ZH. Only exact, whole-text-node matches are replaced, and only
 // phrases this repo authored as chrome. See the header for why that cannot touch content.
 const NG_I18N_SWEEP_ZH = {
+  "Link incomplete ▸": "連結不完整 ▸",
+  "Link unreadable ▸": "連結無法讀取 ▸",
+  "Newer link ▸": "更新的連結 ▸",
+  "Shared class · this link is incomplete": "分享的課程 · 這個連結不完整",
+  "Shared class · this link can’t be read": "分享的課程 · 這個連結讀不出來",
+  "This link is incomplete": "這個連結不完整",
+  "It was cut short in transit — ask for it again": "它在傳送過程中被截斷了 — 請對方再傳一次",
+  "This link didn’t work": "這個連結無法使用",
+  "Check the whole link was copied": "確認整段連結都已複製",
+  "It was cut short in transit — chat apps and mail clients re-wrap long links. Nothing is wrong with the class itself; ask for the link again.": "它在傳送過程中被截斷了 — 聊天軟體與郵件程式會對長連結換行。課程本身沒有問題，請對方再傳一次連結。",
+  "This doesn’t look like one of our class links — a character may be missing or changed, or it may not be a class link at all. Check the whole link was copied, or ask for it again.": "這看起來不像是我們的課程連結 — 可能有字元遺漏或被更動，也可能根本不是課程連結。請確認整段連結都已複製，或請對方再傳一次。",
+  "Study this system": "研讀這套系統",
+  "Courses": "課程",
+  "View course": "查看課程",
+  "Members": "成員",
+  "Core positions": "核心位置",
   "+10% now · +3% forever · +2.5s": "現在 +10% · 永久 +3% · +2.5 秒",
   "A submission from your current position, connecting toward": "從你目前位置出發的降伏技，銜接到",
   "Full breakdown — definition, key principles, decision tree, common mistakes — is authored on bjjmap.pages.dev. Drill its deck to raise your odds.": "完整解析（定義、關鍵原則、決策樹、常見錯誤）都寫在 bjjmap.pages.dev。練它的牌組可以提高你的勝率。",
@@ -539,6 +555,85 @@ function ngI18nPattern(text) {
   return null;
 }
 
+
+// ─── the legal sheet, in both languages ──────────────────────────────────────
+// Same SHAPE in both: {title, updated, notice?, sections: [[heading, body], …], full}. Keeping
+// them as data rather than two blobs of markup is what stops one language quietly gaining or
+// losing a section. The authoritative long-form versions are /terms and /privacy; this is the
+// short sheet the app shows without navigating away.
+//
+// The copy states what is actually true of this build: no accounts, no server, no analytics.
+const NG_I18N_LEGAL = {
+  en: {
+    terms: {
+      title: "Terms of Use",
+      updated: "Last updated September 2026",
+      notice: [
+        "Safety first.",
+        "Brazilian Jiu-Jitsu is a contact sport with inherent risk of serious injury. bjjmap.pages.dev is a study companion for practitioners who already train at an academy under qualified instruction. It is not a substitute for in-person coaching, and it is not a self-teaching program.",
+      ],
+      sections: [
+        ["What this service is", "An interactive knowledge base and study tool: positions, transitions, submissions, flashcards, and a simulated “roll” for reviewing decision-making. The simulation, including any success percentage, EDGE figure or modifier, is a gameplay estimate for study purposes only — it is a model, not a measurement, and it does not predict real outcomes."],
+        ["Assumption of risk", "Only practice techniques under the supervision of a qualified instructor, with a willing, informed partner, and at an intensity appropriate to your level. You assume all risk arising from your training. Never practice chokes or joint locks outside supervised training."],
+        ["No accounts, no server", "There is no sign-in and no cloud sync. Your progress lives only in this browser’s local storage. Clearing it erases everything permanently, and nothing follows you to another device."],
+        ["No warranties", "Content is provided “as is”, without warranty of accuracy or completeness. Technique descriptions may contain errors, and what works varies by body type, skill, and context."],
+        ["Limitation of liability", "To the maximum extent permitted by law, bjjmap.pages.dev and its contributors are not liable for any injury, loss, or damage arising from use of this service or from training decisions informed by it."],
+        ["Affiliate links", "Some outbound links are affiliate links: if you buy through one we may earn a commission, at no extra cost to you. It never changes what the graph teaches."],
+      ],
+      full: "The full Terms of Service are at bjjmap.pages.dev/terms.",
+    },
+    privacy: {
+      title: "Privacy Policy",
+      updated: "Last updated September 2026",
+      sections: [
+        ["What we collect", "Nothing. This is a static site with no accounts, no database and no analytics of any kind. There is no server that could receive your data."],
+        ["What stays on your device", "Your study progress — flashcards answered, techniques mastered, roll history, lists, settings — is written to this browser’s local storage and never leaves it."],
+        ["Cookies", "We set none. Third parties may set their own when their content loads."],
+        ["Third parties", "Cloudflare Pages hosts the site, Google Fonts serves the typefaces, YouTube serves an embedded clip when you play one, and GitHub answers one request for the repository’s star count. Each sees your IP address the way any web server does."],
+        ["Your data, your control", "Clearing this site’s browser storage erases everything the app has ever stored. We hold nothing to delete on your behalf."],
+      ],
+      full: "The full Privacy Policy is at bjjmap.pages.dev/privacy.",
+    },
+  },
+  zh: {
+    terms: {
+      title: "服務條款",
+      updated: "最後更新：2026 年 9 月",
+      notice: [
+        "安全優先。",
+        "巴西柔術是具有固有受傷風險的接觸性運動。bjjmap.pages.dev 是給已經在道館、並有合格教練指導下訓練的人使用的研讀工具。它不能取代實體教學，也不是自學課程。",
+      ],
+      sections: [
+        ["這個服務是什麼", "一個互動式知識庫與研讀工具：position、transition、submission、閃卡，以及用來重新檢視決策的模擬「對練」。模擬中的任何成功率、EDGE 數值或調整值，都只是供研讀用的遊戲化估計 —— 它是一個模型，不是量測結果，也不能預測真實結果。"],
+        ["風險自負", "只能在合格教練監督下、與自願且知情的練習對象一起，以符合你程度的強度練習。訓練所生的一切風險由你自行承擔。絕對不要在無人監督的情況下練絞技或關節技。"],
+        ["沒有帳號，沒有伺服器", "沒有登入，也沒有雲端同步。你的進度只存在這個瀏覽器的 local storage 裡。清除它會永久刪除所有資料，而且不會跟著你到另一台裝置。"],
+        ["不予保證", "內容以「現狀」提供，不保證正確性或完整性。技術描述可能含有錯誤，且什麼有效會因體型、程度與情境而異。"],
+        ["責任限制", "在法律允許的最大範圍內，bjjmap.pages.dev 及其貢獻者對於因使用本服務、或因參考本服務而做出的訓練決定所導致的任何傷害、損失或損害，均不負責。"],
+        ["聯盟行銷連結", "部分外部連結是聯盟行銷連結：若你透過這些連結購買，我們可能獲得佣金，而你不會因此支付額外費用。這永遠不會改變圖譜所教的內容。"],
+      ],
+      full: "完整的服務條款請見 bjjmap.pages.dev/terms。",
+    },
+    privacy: {
+      title: "隱私權政策",
+      updated: "最後更新：2026 年 9 月",
+      sections: [
+        ["我們蒐集什麼", "什麼都沒有。這是一個靜態網站，沒有帳號、沒有資料庫，也沒有任何分析工具。根本沒有任何伺服器可以接收你的資料。"],
+        ["什麼留在你的裝置上", "你的研讀進度 —— 答過的閃卡、已精熟的技術、對練紀錄、清單與設定 —— 都寫入這個瀏覽器的 local storage，永遠不會離開。"],
+        ["Cookie", "我們不設定任何 cookie。第三方內容載入時可能會設定它們自己的。"],
+        ["第三方", "Cloudflare Pages 代管本站，Google Fonts 提供字型，YouTube 在你按下播放時提供嵌入影片，GitHub 則回應一次專案星星數的請求。它們都會像任何網頁伺服器一樣看到你的 IP 位址。"],
+        ["你的資料，你掌控", "清除本站在瀏覽器中的儲存空間，就能抹除 app 曾經儲存過的一切。我們手上沒有任何資料可以替你刪除。"],
+      ],
+      full: "完整的隱私權政策請見 bjjmap.pages.dev/privacy。",
+    },
+  },
+};
+
+/** The legal sheet's copy for the current language, falling back to English. */
+function ngLegal(kind) {
+  const pack = NG_I18N_LEGAL[NG_I18N_LANG] || NG_I18N_LEGAL.en;
+  return pack[kind] || NG_I18N_LEGAL.en[kind];
+}
+
 let NG_I18N_LANG = (function () {
   try {
     const saved = localStorage.getItem(NG_I18N_KEY);
@@ -765,4 +860,5 @@ function ngI18nAutoTranslate(root) {
   sweepTable: NG_I18N_SWEEP_ZH,
   attrTable: NG_I18N_ATTR_ZH,
   patterns: NG_I18N_PATTERNS,
+  legal: ngLegal,
 };

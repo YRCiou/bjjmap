@@ -3999,36 +3999,34 @@ class Component extends DCLogic {
         .catch(() => { /* plain link is the fallback state */ });
     } catch (e) { /* fetch unavailable — plain link */ }
   }
+  /**
+   * The legal sheet. Its copy lives in NG_I18N_LEGAL (i18n.src.js) as {title, note, sections},
+   * so English and 繁體中文 are the same SHAPE and cannot drift apart section by section — and
+   * so the language switch redraws it for free. The long-form versions are /terms and /privacy;
+   * this sheet is the short one the app can show without a navigation.
+   */
   openLegal(kind) {
     const card = this.modalCardRef.current; if (!card) return;
+    const doc = ngLegal(kind === "privacy" ? "privacy" : "terms");
     card.style.width = "min(520px,92vw)";
     card.innerHTML = "";
     const head = document.createElement("div");
     head.style.cssText = "padding:20px 22px 0;";
-    const title = kind === "privacy" ? "Privacy Policy" : "Terms of Use";
-    head.innerHTML = '<div style="display:flex;align-items:center;justify-content:space-between;"><div style="font-size:20px;font-weight:700;color:#eef1f6;letter-spacing:-.01em;">' + title + '</div><span class="x" style="cursor:pointer;color:#8b97b0;font-size:20px;">&times;</span></div><div style="font-size:11.5px;color:#7e8aa8;margin-top:5px;">bjjmap.pages.dev &middot; Last updated July 2026</div>';
+    head.innerHTML = '<div style="display:flex;align-items:center;justify-content:space-between;"><div style="font-size:20px;font-weight:700;color:#eef1f6;letter-spacing:-.01em;">' + doc.title + '</div><span class="x" style="cursor:pointer;color:#8b97b0;font-size:20px;">&times;</span></div><div style="font-size:11.5px;color:#7e8aa8;margin-top:5px;">bjjmap.pages.dev &middot; ' + doc.updated + '</div>';
     head.querySelector(".x").addEventListener("click", () => this.closeModal());
     card.appendChild(head);
     const body = document.createElement("div");
+    body.setAttribute("data-legal-kind", kind === "privacy" ? "privacy" : "terms");
     body.style.cssText = "padding:16px 22px 22px;overflow-y:auto;max-height:min(62vh,540px);display:flex;flex-direction:column;gap:14px;";
     const sec = (h, t) => '<div><div style="font-size:13px;font-weight:700;color:#dbe2f0;margin-bottom:5px;">' + h + '</div><div style="font-size:12.5px;line-height:1.6;color:#9aa6bd;">' + t + '</div></div>';
-    if (kind === "privacy") {
-      body.innerHTML =
-        sec("What we collect", "Your study progress (flashcards answered, techniques mastered, roll history) and, if you create an account, your email address. Guest progress is stored locally on your device.") +
-        sec("How we use it", "To sync your progress across devices, personalize which cards are surfaced, and improve the graph. We do not sell your data or share it with advertisers.") +
-        sec("Cookies & analytics", "We use minimal, privacy-respecting analytics to understand aggregate usage. No cross-site tracking.") +
-        sec("Your rights", "You can export or delete your account and all associated data at any time from Settings, or by contacting us.") +
-        sec("Contact", "Questions about this policy: privacy@bjjmap.pages.dev");
-    } else {
-      body.innerHTML =
-        '<div style="border:1px solid rgba(232,116,107,.3);background:rgba(232,116,107,.07);border-radius:11px;padding:12px 14px;font-size:12.5px;line-height:1.6;color:#c4cde0;"><b style="color:#eda49c;">Safety first.</b> Brazilian Jiu-Jitsu is a contact sport with inherent risk of serious injury. bjjmap.pages.dev is a study companion for practitioners who already train at an academy under qualified instruction. It is not a substitute for in-person coaching, and it is not a self-teaching program.</div>' +
-        sec("What this service is", "An interactive knowledge base and study tool: positions, transitions, submissions, flashcards, and a simulated \u201croll\u201d for reviewing decision-making. The simulation, including any success percentages or modifiers, is a gameplay estimate for study purposes only \u2014 it does not predict real outcomes.") +
-        sec("Assumption of risk", "Only practice techniques under the supervision of a qualified instructor, with a willing, informed partner, and at an intensity appropriate to your level. You assume all risk arising from your training. Never practice chokes or joint locks outside supervised training.") +
-        sec("No warranties", "Content is provided \u201cas is\u201d, without warranty of accuracy or completeness. Technique descriptions may contain errors, and what works varies by body type, skill, and context.") +
-        sec("Limitation of liability", "To the maximum extent permitted by law, bjjmap.pages.dev and its contributors are not liable for any injury, loss, or damage arising from use of this service or from training decisions informed by it.") +
-        sec("Your account", "You are responsible for activity under your account. We may suspend accounts that abuse the service.") +
-        sec("Contact", "Questions about these terms: legal@bjjmap.pages.dev");
+    let html = "";
+    if (doc.notice) {
+      // the safety notice is a WARNING, not a section: it keeps the red skin it has always had
+      html += '<div style="border:1px solid rgba(232,116,107,.3);background:rgba(232,116,107,.07);border-radius:11px;padding:12px 14px;font-size:12.5px;line-height:1.6;color:#c4cde0;"><b style="color:#eda49c;">' + doc.notice[0] + '</b> ' + doc.notice[1] + '</div>';
     }
+    for (const [h, t] of doc.sections) html += sec(h, t);
+    html += '<div style="font-size:11.5px;line-height:1.6;color:#7e8aa8;border-top:1px solid rgba(150,170,210,.14);padding-top:11px;">' + doc.full + '</div>';
+    body.innerHTML = html;
     card.appendChild(body);
     this.openModal();
   }
@@ -5752,7 +5750,9 @@ class Component extends DCLogic {
       if (this.deckShown) { this.styleViewToggle(); this._renderPaneBody(); this.renderPaneAnchor(); }
       // `.t-fc` is renderSettings's own tab handle: its presence is what says the modal is
       // showing SETTINGS rather than the legal sheet, without adding a second flag to keep in sync.
-      { const card = this.modalCardRef.current; if (card && card.querySelector(".t-fc")) this.renderSettings(); }
+      { const card = this.modalCardRef.current;
+        if (card && card.querySelector(".t-fc")) this.renderSettings();
+        else if (card && card.querySelector("[data-legal-kind]")) this.openLegal(card.querySelector("[data-legal-kind]").getAttribute("data-legal-kind")); }
       if (this._landEl) this._landBackfill();
       this.refreshOptionOdds();
     } catch (e) { /* a half-rendered surface must not strand the language switch */ }
@@ -8351,6 +8351,17 @@ class Component extends DCLogic {
         "BJJ Map earns a commission if you buy through this link, at no extra cost to you. " +
         "It never changes what the graph teaches.";
       shelf.appendChild(disc);
+      // The gated English sentence above is never edited. For a Chinese reader the disclosure has
+      // to BE in Chinese to be conspicuous, so it rides directly under it — still above every
+      // anchor, so a monetised link still cannot render without a disclosure it can read.
+      if (ngLang() === "zh") {
+        const zh = document.createElement("p");
+        zh.className = "ng-system-disclosure";
+        zh.setAttribute("data-affiliate-disclosure-zh", "1");
+        zh.setAttribute("data-i18n-skip", "1"); // authored here, not swept
+        zh.textContent = "\u82e5\u4f60\u900f\u904e\u9019\u500b\u9023\u7d50\u8cfc\u8cb7\uff0cBJJ Map \u53ef\u80fd\u7372\u5f97\u4f63\u91d1\uff0c\u800c\u4f60\u4e0d\u6703\u56e0\u6b64\u652f\u4ed8\u984d\u5916\u8cbb\u7528\u3002\u9019\u6c38\u9060\u4e0d\u6703\u6539\u8b8a\u5716\u8b5c\u6240\u6559\u7684\u5167\u5bb9\u3002";
+        shelf.appendChild(zh);
+      }
       // The DISCLOSURE IS APPENDED FIRST, above every anchor in this shelf, on purpose: a
       // monetised link then structurally cannot render without it. e2e/journeys/systems-surface
       // asserts that order in the live DOM and scripts/check_affiliate_surface.py asserts it in

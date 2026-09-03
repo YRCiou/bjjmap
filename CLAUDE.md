@@ -631,7 +631,7 @@ the same block, uncollapsed, from two places — the app's CTA shelf and
 > section's number breaks a deploy gate — five error messages name "section 7".
 
 <!-- CANONICAL-DISCLOSURE:START -->
-BJJMap earns a commission if you buy through this link, at no extra cost to you. It never changes what the graph teaches.
+BJJ Map earns a commission if you buy through this link, at no extra cost to you. It never changes what the graph teaches.
 <!-- CANONICAL-DISCLOSURE:END -->
 
 ---

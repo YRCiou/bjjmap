@@ -177,7 +177,7 @@ What distinguishes this system is its adaptability to different guard types whil
      in CLAUDE.md §7; the app CTA in neural/src/app.src.jsx carries the same sentence, and
      scripts/check_affiliate_surface.py fails the build if the copies drift or if a sponsored
      link ever renders without its disclosure above it. -->
-<p class="affiliate-disclosure">BJJMap earns a commission if you buy through this link, at no extra cost to you. It never changes what the graph teaches.</p>
+<p class="affiliate-disclosure">BJJ Map earns a commission if you buy through this link, at no extra cost to you. It never changes what the graph teaches.</p>
 
 <div class="product-cards-grid">
 
