@@ -1,0 +1,414 @@
+
+
+
+
+---
+title: "No-Gi Competition Approach | BJJ System | BJJ Map"
+description: "Master no-gi competition strategy in BJJ. Complete framework covering gripping, pacing, submission chains, and tactical adjustments. Proven competition methodology."
+---
+
+
+<body data-content-type="systems">
+
+<!-- Schema Markup - Auto-generated from JSON -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Implement No-Gi Competition Approach",
+  "description": "Step-by-step implementation sequence for No-Gi Competition Approach.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Pre-Match Preparation",
+      "text": "Develop comprehensive game plan based on opponent analysis, rule set understanding, and personal strength maximization. Study opponent footage when available, identify their primary positions and submissions, and plan specific tactical responses. Prepare physical conditioning for match duration and establish clear hierarchical position goals.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Initial Engagement",
+      "text": "Establish dominant grips and position from standing or guard pull scenario. In standing situations, immediately secure underhooks or collar ties and drive forward pressure. Control the pace of engagement, establish your preferred gripping configuration, and initiate your primary tactical approach whether passing, guard pulling, or leg entanglement entry.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Position Advancement",
+      "text": "Systematically advance position through your prepared passing sequences or guard attack systems. Maintain constant forward pressure, create and exploit angles, and chain multiple techniques together. If passing, progress through guard opening, angle creation, hip pressure, and position consolidation. If playing guard, establish retention mechanisms while creating sweep and submission opportunities.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Submission Pursuit",
+      "text": "Once dominant position is established, systematically pursue high-percentage submissions while maintaining positional control. Prioritize submission chains over isolated attempts. From back control, establish multiple rear naked choke grips. From top positions, pursue arm triangles, guillotines, or kimuras. From leg entanglement, systematically advance to finishing positions.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Tactical Adjustment",
+      "text": "Continuously assess match state including score, time remaining, energy levels, and opponent responses. Adjust tactical approach based on these factors. If ahead on points, emphasize position maintenance and defensive awareness. If behind, increase submission pursuit and risk tolerance. Manage energy expenditure based on remaining time.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Closing Strategy",
+      "text": "In final minutes of match, execute closing strategy appropriate to match state. If winning on points, transition to conservative position maintenance with submission threat. If losing or tied, increase offensive output and submission pursuit. Manage referee perception through constant activity and avoid passive positioning that invites penalties.",
+      "position": 6
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "No-Gi Competition Approach",
+  "description": "Master no-gi competition strategy in BJJ. Complete framework covering gripping, pacing, submission chains, and tactical adjustments. Proven competition methodology.",
+  "url": "https://bjjmap.pages.dev/Systems/No-Gi-Competition-Approach",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Systems", "item": "https://bjjmap.pages.dev/Systems/"},
+    {"@type": "ListItem", "position": 3, "name": "No-Gi Competition Approach", "item": "https://bjjmap.pages.dev/Systems/No-Gi-Competition-Approach"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Inability to establish dominant grips in slippery no-gi environment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on body position and frame control rather than relying solely on hand grips. Use underhooks, overhooks, and body locks systematically. Maintain constant forward pressure to prevent opponent grip establishment. Drill specific grip fighting sequences repeatedly until automatic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Getting stalled in neutral positions without clear path to advancement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Develop systematic sequences from common stalemate positions including seated guard versus standing, double guard pulls, and 50-50 positions. Establish clear hierarchical rules for when to initiate versus when to counter. Increase activity level and movement to force opponent reactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Energy depletion in middle rounds leading to defensive positioning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implement structured pacing strategy including intensity zones for different match phases. Utilize strategic position consolidation periods to recover while maintaining offensive threat. Develop superior conditioning through match-specific training intervals. Recognize high-energy versus low-energy positions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Opponent exploits leg entanglement systems to neutralize passing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Develop comprehensive leg entanglement defense including proper distance management, grip stripping, and systematic escape sequences. Study modern leg lock systems to understand entry prevention. Integrate leg attacks into your own game to recognize dangerous positions earlier."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Difficulty finishing submissions despite achieving dominant positions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Emphasize submission chains over isolated attempts. Develop systematic finishing sequences from each major position. Recognize common defensive patterns and prepare specific counters. Practice submission scenarios against high-level resistance. Improve technical understanding of submission mechanics."
+      }
+    }
+  ]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "No-Gi Competition Approach",
+  "description": "The No-Gi Competition Approach is a strategic framework for no-gi grappling that fuses underhook-and-bodylock grip fighting, pressure passing, leg-entanglement systems, back attacks, and front-headlock chains with deliberate pacing and tactical match management.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Systems/"
+}
+</script>
+
+
+
+<div class="principle-meta">
+<span class="meta-chip">Competition Strategy</span>
+<span class="meta-chip">Advanced difficulty</span>
+</div>
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+## What is No-Gi Competition Approach?
+
+**The No-Gi Competition Approach is a strategic framework for no-gi grappling that fuses underhook-and-bodylock grip fighting, pressure passing, leg-entanglement systems, back attacks, and front-headlock chains with deliberate pacing and tactical match management.**
+
+Modern no-gi competition has matured into a discipline with its own rule sets — ADCC, EBI overtime, submission-only, and IBJJF no-gi points — each rewarding distinct tactical priorities. Unlike gi-based competition where grips and control are established through fabric manipulation, no-gi demands control built from body position, underhooks, overhooks, and dynamic movement on a low-friction, slippery surface that speeds transitions and scrambles. This framework addresses those demands directly: positional dominance through systematic pressure passing, leg-entanglement systems serving as both control and attack, and submission chains engineered for the reduced-friction environment. Success also hinges on energy management across rounds — knowing when to explode versus when to conserve — and on a game plan that maximizes your physical attributes while neutralizing the opponent's strengths. The approach integrates contemporary leg lock systems, back-attack sequences, and front-headlock series that have become indispensable in high-level no-gi competition.
+
+</section>
+
+
+
+
+
+
+<section id="study-this-system" class="content-section system-study-free">
+
+## How do you drill No-Gi Competition Approach?
+
+<p class="section-subtitle">There's no instructional attached to this system yet &mdash; and you don't need one. It's taught here, free, from the 23 techniques it strings together.</p>
+
+- **Learn it in order** &mdash; the [implementation sequence](#implementation-sequence) is the path, not a list.
+- **Study each piece** &mdash; every technique in [this system's map](#related-content) has its own page, flashcards and film study.
+- **Then roll it** &mdash; on the [interactive graph](/) these same nodes light up as your game moves through them.
+
+</section>
+
+
+<section id="unlock-graph" class="content-section system-unlock" data-system-unlock hidden>
+
+## Unlock this part of the graph
+
+<p class="section-subtitle">This system teaches the highlighted nodes in the graph. Mark what you already know &mdash; be honest, it's your game.</p>
+
+<div class="system-progress" data-system-progress>
+<svg class="system-progress__ring" viewBox="0 0 44 44" aria-hidden="true"><circle class="system-progress__ring-bg" cx="22" cy="22" r="19"></circle><circle class="system-progress__ring-fill" cx="22" cy="22" r="19"></circle></svg>
+<div class="system-progress__text">You've unlocked <strong class="system-progress__known">0</strong> / <span class="system-progress__total">0</span> techniques in this system</div>
+<button class="system-progress__mark-all" data-mark-system type="button">Mark whole system as known</button>
+</div>
+
+<ul class="system-members" data-system-members></ul>
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Core Principles
+- Establish underhook and body lock control in the absence of gi grips
+- Prioritize positional advancement through systematic passing sequences
+- Integrate leg entanglement systems as primary attack and control method
+- Maintain constant forward pressure to prevent opponent reset and recovery
+- Exploit slippery conditions through dynamic transitional sequences
+- Develop submission chains rather than isolated finishing attempts
+- Manage energy expenditure across rounds with strategic pacing
+
+
+</section>
+
+<section id="key-components" class="content-section">
+
+## Key Components
+**No-Gi Grips Framework** (Establish and maintain dominant control positions without gi grips)
+The foundation of no-gi competition success lies in establishing dominant body connections without fabric grips. This involves systematic underhook battles, collar tie control, wrist control, and bodylock establishment. Understanding the hierarchy of grips in no-gi (bodylock > double underhooks > single underhook > wrist control > collar tie) allows competitors to systematically improve position through grip advancement. The slippery nature of no-gi requires constant pressure and active maintenance of connections rather than static holding.
+
+**Leg Entanglement Integration** (Utilize leg entanglement as primary control and submission system)
+Modern no-gi competition demands proficiency in leg entanglement systems including inside ashi-garami, outside ashi-garami, 50-50 guard, and saddle position. These positions serve dual purposes as both control mechanisms and submission platforms. Understanding entry sequences from standing, guard passing situations, and scrambles is essential. The system emphasizes safe entry, position consolidation, and systematic finishing sequences while maintaining defensive awareness against opponent leg attacks.
+
+**Pressure Passing System** (Systematically pass guard through pressure and positional advancement)
+No-gi passing requires constant forward pressure combined with systematic grip advancement and angle creation. The core passing sequences include bodylock pass, leg drag pass, long step pass, and knee slice variations. Each pass follows a systematic progression from initial grip establishment, posture control, guard opening, angle creation, hip pressure application, and position consolidation. Understanding when to switch between passing styles based on opponent defensive reactions is critical for high-level success.
+
+**Back Attack Chain** (Maximize back take opportunities and finish with rear naked choke)
+The back position represents the highest-value position in no-gi competition, offering both maximum control and highest-percentage submissions. This component emphasizes multiple entry paths including from standing (bodylock throws), from guard (technical standup to back take), from turtle (multiple attack angles), from front headlock (rolling entries), and from leg entanglement positions (inside position back takes). The system includes both seat belt control and body triangle variations with systematic rear naked choke finishing sequences.
+
+**Front Headlock Series** (Control and finish from front headlock position)
+The front headlock position serves as a critical control and transition hub in no-gi grappling. From this position, competitors can execute guillotine attacks, darce chokes, anaconda chokes, snap downs to back takes, and systematic positional advancement to side control. The system emphasizes head position, hip pressure, and grip configuration variations (arm-in versus chin strap). Understanding when to finish versus when to transition based on opponent defensive reactions is essential for maximizing effectiveness from this dominant position.
+
+
+
+</section>
+
+<section id="implementation-sequence" class="content-section">
+
+## Implementation Sequence
+1. **Pre-Match Preparation**: Develop comprehensive game plan based on opponent analysis, rule set understanding, and personal strength maximization. Study opponent footage when available, identify their primary positions and submissions, and plan specific tactical responses. Prepare physical conditioning for match duration and establish clear hierarchical position goals.
+Key points:
+- Analyze opponent tendencies and develop counter-strategies
+- Identify rule set specifics (ADCC, EBI, submission-only, points)
+- Establish primary position and submission goals
+- Plan energy pacing strategy across expected match duration
+- Visualize successful execution of primary techniques
+
+
+
+2. **Initial Engagement**: Establish dominant grips and position from standing or guard pull scenario. In standing situations, immediately secure underhooks or collar ties and drive forward pressure. Control the pace of engagement, establish your preferred gripping configuration, and initiate your primary tactical approach whether passing, guard pulling, or leg entanglement entry.
+Key points:
+- Establish dominant grip configuration within first 15 seconds
+- Control pace of engagement through forward pressure
+- Initiate primary tactical approach (pass, guard, legs)
+- Prevent opponent from establishing their preferred grips
+- Maintain constant movement to prevent stalling calls
+
+
+
+3. **Position Advancement**: Systematically advance position through your prepared passing sequences or guard attack systems. Maintain constant forward pressure, create and exploit angles, and chain multiple techniques together. If passing, progress through guard opening, angle creation, hip pressure, and position consolidation. If playing guard, establish retention mechanisms while creating sweep and submission opportunities.
+Key points:
+- Chain multiple techniques to prevent opponent reset
+- Advance position systematically through established sequences
+- Recognize and exploit opponent defensive patterns
+- Maintain offensive pressure while protecting against counters
+- Accumulate positional points according to rule set
+
+
+
+4. **Submission Pursuit**: Once dominant position is established, systematically pursue high-percentage submissions while maintaining positional control. Prioritize submission chains over isolated attempts. From back control, establish multiple rear naked choke grips. From top positions, pursue arm triangles, guillotines, or kimuras. From leg entanglement, systematically advance to finishing positions.
+Key points:
+- Maintain position while pursuing submissions
+- Chain multiple submission attempts together
+- Recognize when to abandon attempt and re-establish position
+- Finish systematically through proper mechanical application
+- Prevent opponent escape through control maintenance
+
+
+
+5. **Tactical Adjustment**: Continuously assess match state including score, time remaining, energy levels, and opponent responses. Adjust tactical approach based on these factors. If ahead on points, emphasize position maintenance and defensive awareness. If behind, increase submission pursuit and risk tolerance. Manage energy expenditure based on remaining time.
+Key points:
+- Monitor match clock and score differential
+- Adjust risk tolerance based on match state
+- Recognize opponent fatigue and exploit systematically
+- Prevent opponent from establishing their game plan
+- Execute strategic stalling when tactically appropriate
+
+
+
+6. **Closing Strategy**: In final minutes of match, execute closing strategy appropriate to match state. If winning on points, transition to conservative position maintenance with submission threat. If losing or tied, increase offensive output and submission pursuit. Manage referee perception through constant activity and avoid passive positioning that invites penalties.
+Key points:
+- Execute appropriate closing strategy based on score
+- Maintain activity level to prevent stalling penalties
+- Protect winning position through systematic control
+- Pursue high-percentage finishes when behind
+- Complete match with technical execution regardless of outcome
+
+
+
+
+
+</section>
+
+<section id="common-obstacles" class="content-section hide-minimal">
+
+## What Challenges Will You Face?
+- **Inability to establish dominant grips in slippery no-gi environment**: Focus on body position and frame control rather than relying solely on hand grips. Use underhooks, overhooks, and body locks systematically. Maintain constant forward pressure to prevent opponent grip establishment. Drill specific grip fighting sequences repeatedly until automatic.
+- **Getting stalled in neutral positions without clear path to advancement**: Develop systematic sequences from common stalemate positions including seated guard versus standing, double guard pulls, and 50-50 positions. Establish clear hierarchical rules for when to initiate versus when to counter. Increase activity level and movement to force opponent reactions.
+- **Energy depletion in middle rounds leading to defensive positioning**: Implement structured pacing strategy including intensity zones for different match phases. Utilize strategic position consolidation periods to recover while maintaining offensive threat. Develop superior conditioning through match-specific training intervals. Recognize high-energy versus low-energy positions.
+- **Opponent exploits leg entanglement systems to neutralize passing**: Develop comprehensive leg entanglement defense including proper distance management, grip stripping, and systematic escape sequences. Study modern leg lock systems to understand entry prevention. Integrate leg attacks into your own game to recognize dangerous positions earlier.
+- **Difficulty finishing submissions despite achieving dominant positions**: Emphasize submission chains over isolated attempts. Develop systematic finishing sequences from each major position. Recognize common defensive patterns and prepare specific counters. Practice submission scenarios against high-level resistance. Improve technical understanding of submission mechanics.
+
+
+</section>
+
+<section id="assessment-metrics" class="content-section">
+
+## How to Measure Your Progress
+**Position Dominance Rate**: Percentage of match time spent in dominant positions (top position, back control, dominant leg entanglement) versus neutral or defensive positions
+Proficiency indicators:
+- Beginner: 30-40% time in dominant position
+- Intermediate: 50-65% time in dominant position
+- Advanced: 70-85% time in dominant position
+
+
+**Submission Attempt Efficiency**: Ratio of submission attempts to successful finishes, indicating technical proficiency and recognition of high-percentage opportunities
+Proficiency indicators:
+- Beginner: 1 finish per 8-10 attempts
+- Intermediate: 1 finish per 5-7 attempts
+- Advanced: 1 finish per 3-4 attempts
+
+
+**Grips Success Rate**: Percentage of initial exchanges where dominant grips (underhooks, collar ties, body locks) are established before opponent
+Proficiency indicators:
+- Beginner: 40-50% grip fighting exchanges won
+- Intermediate: 60-70% grip fighting exchanges won
+- Advanced: 75-85% grip fighting exchanges won
+
+
+**Tactical Adaptation Effectiveness**: Ability to recognize and counter opponent strategies through mid-match adjustments, measured by improved performance in later rounds
+Proficiency indicators:
+- Beginner: Similar performance across all rounds
+- Intermediate: 15-20% improvement in position time in later rounds
+- Advanced: 25-30% improvement in position time and clear tactical adjustments visible
+
+
+
+
+</section>
+
+<section id="training-methodology" class="content-section hide-minimal">
+
+## How to Train This System Effectively
+
+### Drilling Approach
+No-gi competition training should emphasize specific situational drilling with progressive resistance rather than pure technique repetition. Begin each session with grip fighting scenarios from standing, establishing dominant connections against active resistance. Progress to position-specific drilling including guard passing sequences, back attack entries, and leg entanglement systems. Incorporate match simulation rounds with specific tactical constraints (e.g., start from disadvantageous positions, implement specific time limits, practice closing strategies). Emphasize transition drilling where techniques are chained together rather than practiced in isolation. Include conditioning-specific rounds that replicate match intensity and duration. Film training sessions regularly to analyze position time, submission efficiency, and tactical decision-making patterns.
+
+### Progression Path
+**Foundation Development** (Focus: Master fundamental no-gi positions, basic passing sequences, guard retention, and escape hierarchies. Develop cardiovascular base and technical proficiency in core techniques.) - 3-6 months
+**System Integration** (Focus: Integrate leg entanglement systems, front headlock series, and back attack chains into cohesive game plan. Develop submission chains from major positions.) - 6-12 months
+**Competition Application** (Focus: Apply systems in competition scenarios with emphasis on pacing, tactical adjustment, and strategic decision-making. Analyze match footage and refine approaches.) - 12-24 months
+**Advanced Refinement** (Focus: Develop opponent-specific strategies, advanced grip fighting nuances, and elite-level positional understanding. Refine closing strategies and pressure application.) - 24+ months
+
+
+### Common Mistakes
+- Over-relying on gi-based gripping strategies and failing to adapt to no-gi requirements
+- Attempting submissions from weak positions instead of establishing control first
+- Neglecting leg entanglement systems and allowing opponents to exploit this gap
+- Poor energy management leading to defensive posturing in later rounds
+- Failing to develop systematic passing sequences and relying on athleticism alone
+- Insufficient grip fighting practice resulting in constant defensive positioning
+- Ignoring tactical aspects of competition including score management and pacing
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Which Positions, Transitions, and Principles Connect to This System?
+
+- [[Positions/Back Control|Back Control]] (Position) - Primary high-value position in no-gi competition strategy
+- [[Positions/Ashi Garami/Inside Ashi-Garami|Inside Ashi-Garami]] (Position) - Core leg entanglement position for modern no-gi competition
+- [[Positions/Front Headlock|Front Headlock]] (Position) - Critical control position for no-gi transitions and submissions
+- [[Positions/Body Lock|Body Lock]] (Position) - Primary passing and control grip in no-gi environment
+- [[Positions/Ashi Garami/Saddle|Saddle]] (Position) - Elite finishing position for heel hook attacks
+- [[Positions/Ashi Garami/50-50 Guard|50-50 Guard]] (Position) - Common leg entanglement position requiring systematic approach
+- [[Positions/Guillotine Control|Guillotine Control]] (Position) - High-percentage no-gi submission position
+- [[Transitions/Body Lock Pass|Body Lock Pass]] (Transition) - Core passing technique for no-gi competition
+- [[Transitions/Leg Drag Pass|Leg Drag Pass]] (Transition) - Essential passing sequence for modern no-gi game
+- [[Transitions/Front Headlock to Back|Front Headlock to Back]] (Transition) - Key transition for back attack entry
+- [[Transitions/Saddle Entry from Top|Saddle Entry from Top]] (Transition) - Offensive leg entanglement entry from passing
+- [[Transitions/Back Step|Back Step]] (Transition) - Counter to leg entanglement attacks
+- [[Transitions/Guillotine Setup|Guillotine Setup]] (Transition) - Opportunistic submission entry in no-gi scrambles
+- [[Submissions/Rear Naked Choke|Rear Naked Choke]] (Submission) - Primary finishing submission from back control
+- [[Submissions/Guillotine Choke|Guillotine Choke]] (Submission) - High-percentage no-gi submission from multiple positions
+- [[Submissions/Darce Choke|Darce Choke]] (Submission) - Front headlock series finishing submission
+- [[Submissions/Inside Heel Hook|Inside Heel Hook]] (Submission) - Primary leg lock finish from inside ashi-garami and saddle
+- [[Submissions/Kimura|Kimura]] (Submission) - Versatile shoulder lock applicable from multiple positions
+- [[Principles/Energy Conservation|Energy Conservation]] (Principle) - Critical for pacing and performance across competition rounds
+- [[Principles/Positional Hierarchy|Positional Hierarchy]] (Principle) - Fundamental concept for systematic position advancement
+- [[Principles/Competition Mindset|Competition Mindset]] (Principle) - Tactical and psychological decision-making framework for competition
+- [[Principles/Fork Attacks|Fork Attacks]] (Principle) - Core offensive principle for forcing opponent errors
+- [[Principles/Pressure|Pressure]] (Principle) - Essential control mechanism in no-gi environment
+- [[Systems/Danaher Leg Lock System|Danaher Leg Lock System]] (System) - Foundational leg entanglement system for modern no-gi
+- [[Systems/Craig Jones Leg Lock System|Craig Jones Leg Lock System]] (System) - Practical competition-focused leg attack approach
+- [[Systems/Gordon Ryan Passing System|Gordon Ryan Passing System]] (System) - Elite no-gi passing methodology
+- [[Systems/B-Team Dilemma System|B-Team Dilemma System]] (System) - Modern approach to creating offensive opportunities
+- [[Systems/Modern No-Gi Passing System|Modern No-Gi Passing System]] (System) - Contemporary passing framework for no-gi competition
+
+
+</section>
+
+</main>

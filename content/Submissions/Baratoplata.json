@@ -1,0 +1,210 @@
+{
+  "name": "Baratoplata",
+  "description": "Master the Baratoplata shoulder lock in BJJ. Advanced submission from rubber guard combining omoplata mechanics with arm weave isolation for devastating finishing pressure.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "rubber-guard",
+    "10th-planet",
+    "advanced-technique",
+    "joint-lock",
+    "finishing-guide"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint and rotator cuff",
+  "starting_position": "Rubber Guard",
+  "success_rate": {
+    "gi": 42,
+    "nogi": 42
+  },
+  "variant_uniqueness": "Arm weave creates closed kinetic chain isolating shoulder rotation",
+  "summary": "The Baratoplata is a 10th Planet shoulder lock that weaves the attacker's arm through the opponent's trapped arm and levers the shoulder past its range from rubber guard, functioning as the omoplata's harder-to-defend cousin.",
+  "overview": "The Baratoplata is an advanced shoulder lock submission that originated from the 10th Planet Jiu-Jitsu system, combining elements of the omoplata with unique arm isolation mechanics. This technique is typically initiated from rubber guard positions, particularly Mission Control or New York, and represents a sophisticated understanding of shoulder manipulation and control. The submission works by trapping the opponent's arm while rotating their shoulder beyond its natural range of motion, creating intense pressure on the rotator cuff and shoulder capsule. Unlike traditional omoplatas that focus primarily on forward shoulder rotation, the Baratoplata incorporates a unique arm weave that increases the mechanical advantage and makes escape more difficult.\n\nThe technique exemplifies the innovation within modern no-gi grappling, offering a creative solution to opponents who defend conventional rubber guard attacks. The arm weave creates a closed kinetic chain that eliminates the primary defensive hand fighting available against standard omoplatas, while the high guard leg maintains constant posture control throughout the finishing sequence. While technically demanding and requiring significant flexibility and timing, the Baratoplata has proven effective at the highest levels of competition when executed with proper setup and control. The submission chains naturally with triangle chokes, standard omoplatas, and armbar attacks, creating a decision tree from rubber guard where each defensive reaction opens a different submission pathway.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear or strain",
+        "severity": "High",
+        "recovery_time": "6-12 weeks for moderate tears, 3-6 months for severe tears"
+      },
+      {
+        "injury": "Shoulder capsule damage",
+        "severity": "High",
+        "recovery_time": "4-8 weeks minimum"
+      },
+      {
+        "injury": "Labrum tear",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months, may require surgical intervention"
+      },
+      {
+        "injury": "Shoulder dislocation",
+        "severity": "CRITICAL",
+        "recovery_time": "8-12 weeks minimum, potential for chronic instability"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum application time, shoulder submissions require exceptional care",
+    "tap_signals": [
+      "Verbal tap",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap on partner or mat",
+      "Any distress signal or vocalization",
+      "Rapid tapping motion with free hand"
+    ],
+    "release_protocol": [
+      "Immediately stop all forward pressure on shoulder",
+      "Release arm weave and unwrap controlling leg",
+      "Remove high guard position and lower hips",
+      "Allow partner to safely extract their arm",
+      "Check for shoulder mobility and comfort before continuing training"
+    ],
+    "training_restrictions": [
+      "Never apply explosive or jerking motions to shoulder submissions",
+      "Never use competition speed during training rolls",
+      "Always ensure training partner has clear tap access with free hand",
+      "Never force the position if partner has limited shoulder flexibility",
+      "Stop immediately upon any tap signal, do not wait for verbal confirmation",
+      "Beginners should only practice entry mechanics, not finishing pressure"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Crackhead Control",
+      "slug": "from-crackhead-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Baratoplata from Triangle",
+      "description": "When opponent defends triangle by grabbing their own bicep, thread your arm through to establish arm weave while maintaining triangle control with legs",
+      "when_to_use": "When triangle defense creates the necessary arm isolation, particularly effective in no-gi where arm grip defense is common"
+    },
+    {
+      "variation_name": "Rolling Baratoplata",
+      "description": "If opponent attempts to roll forward to escape, maintain arm weave and follow the roll, often ending in crucifix or improved finishing angle",
+      "when_to_use": "Against opponents who use forward rolls as primary omoplata defense, the roll actually improves your position"
+    },
+    {
+      "variation_name": "Baratoplata from Closed Guard",
+      "description": "Establish arm isolation from standard closed guard by controlling wrist and bringing leg over shoulder, transitioning to weave without rubber guard setup",
+      "when_to_use": "When opponent presents arm across your body in closed guard, faster entry for experienced practitioners"
+    },
+    {
+      "variation_name": "Baratoplata to Armbar Transition",
+      "description": "If shoulder submission is defended by opponent's flexibility, maintain arm isolation and transition to traditional armbar by adjusting leg position",
+      "when_to_use": "Against flexible opponents or when shoulder pressure is insufficient, creates submission chain that's difficult to defend"
+    }
+  ],
+  "from_positions": [
+    "Rubber Guard",
+    "Mission Control",
+    "New York",
+    "Closed Guard",
+    "Triangle Control",
+    "Omoplata Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Omoplata",
+      "relationship": "Sister shoulder lock sharing rubber guard entries and rotational shoulder mechanics"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Rubber guard chain submission available from same control positions"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Arm attack transition when Baratoplata shoulder lock is defended"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Complementary shoulder lock targeting same joint from different angle"
+    },
+    {
+      "name": "Armbar Finish",
+      "relationship": "Alternative arm submission when arm weave partially fails"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Related shoulder lock in same joint lock family with opposite rotation"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Counter submission opportunity arising from Baratoplata defense scrambles"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Rubber Guard",
+      "relationship": "Primary starting position and control structure"
+    },
+    {
+      "name": "Mission Control",
+      "relationship": "Initial rubber guard position for Baratoplata setup"
+    },
+    {
+      "name": "New York",
+      "relationship": "Transition position that creates angle for arm weave"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Alternative attack from same rubber guard control positions"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Position that can result from opponent's forward roll defense"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Transition target when opponent defends Baratoplata aggressively"
+    },
+    {
+      "name": "Meathook",
+      "relationship": "Rubber guard position that can transition to Baratoplata"
+    },
+    {
+      "name": "Carni",
+      "relationship": "Alternative rubber guard position with similar arm isolation"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Foundation position from which rubber guard is established"
+    },
+    {
+      "name": "Omoplata Control",
+      "relationship": "Related control position for shoulder submissions"
+    }
+  ],
+  "clips": [
+    {
+      "id": "1O-BoOWXhzY",
+      "title": "Baratoplata basics from rubber guard",
+      "by": "True Believer Jiu Jitsu",
+      "vertical": false,
+      "channel": "True Believer Jiu Jitsu",
+      "duration": 232,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "tNlNA20iGRw",
+      "title": "Duda to the baratoplata",
+      "by": "Eddie Bravo",
+      "vertical": false,
+      "channel": "Eddie Bravo",
+      "duration": 365,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "v30lrt84x-Y",
+      "title": "Baratoplata shoulder lock from north south",
+      "by": "Show the ART",
+      "vertical": false,
+      "channel": "Show the ART",
+      "duration": 158,
+      "verified": "2026-07-15"
+    }
+  ]
+}

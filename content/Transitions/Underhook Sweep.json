@@ -1,0 +1,671 @@
+{
+  "name": "Underhook Sweep",
+  "description": "Master the Underhook Sweep from Butterfly Guard in BJJ. Complete breakdown of setup, hook-elevation mechanics, counters, and defenses to come up on top.",
+  "tags": [
+    "bjj",
+    "sweep",
+    "butterfly-guard",
+    "underhook",
+    "bottom-game",
+    "guard-sweep"
+  ],
+  "from_position": "Butterfly Guard/Bottom",
+  "outcomes": [
+    {
+      "to": "Side Control/Top",
+      "probability": {
+        "gi": 55,
+        "nogi": 55
+      },
+      "result": "success"
+    },
+    {
+      "to": "Half Guard/Bottom",
+      "probability": {
+        "gi": 25,
+        "nogi": 25
+      },
+      "result": "failure"
+    },
+    {
+      "to": "Flattened Half Guard/Bottom",
+      "probability": {
+        "gi": 20,
+        "nogi": 20
+      },
+      "result": "counter"
+    }
+  ],
+  "success_rate": {
+    "gi": 55,
+    "nogi": 55
+  },
+  "summary": "The Underhook Sweep is a butterfly guard reversal where the seated bottom player secures a deep underhook, loads the opponent onto a butterfly hook, and falls to the shoulder to elevate and roll them over, coming up to side control.",
+  "overview": "Built on the same inside-hook leverage that defines butterfly guard, the underhook sweep weaponizes a single deep underhook to control the opponent's upper body while a butterfly hook elevates their hip. Rather than relying on raw bilateral elevation like the standard butterfly sweep, this variation isolates and rotates the opponent's torso through the underhook, making it especially reliable against opponents who post their hands in or drive forward to pass. The deep underhook prevents the crossface, locks their shoulder line to yours, and turns their body into a single unit that topples over your falling shoulder.\n\nThe sweep functions as a hub for the entire butterfly bottom game. Loading the opponent's weight onto the hook and threatening the reversal forces predictable defensive reactions, and each reaction opens a different attack: a wide far-side base feeds an arm drag to the back, a committed whizzer feeds a back take through the dogfight, and a backward retreat opens leg-entanglement entries. When the sweep is stuffed, the position regresses gracefully — a stalled attempt drops you into half guard bottom, while a strong whizzer-and-drive counter can flatten you into half guard, both of which remain re-attack platforms rather than dead ends.\n\nMastering this single reversal therefore unlocks a chain-reaction system that keeps the top player perpetually reactive. It teaches the core butterfly principles of inside position, weight-loading the hook before lifting, and using an opponent's defensive commitment against them, all of which transfer across the modern seated-guard system.",
+  "related_content": [
+    {
+      "name": "Butterfly Guard",
+      "relationship": "Primary starting position for the sweep"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Primary ending position after a successful sweep"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Failure outcome where you regress to a bottom retention position"
+    },
+    {
+      "name": "Flattened Half Guard",
+      "relationship": "Counter outcome when opponent whizzers and flattens you"
+    },
+    {
+      "name": "Butterfly Sweep",
+      "relationship": "Sister sweep sharing butterfly-hook elevation; underhook variant emphasizes a single deep underhook"
+    },
+    {
+      "name": "Arm Drag to Back",
+      "relationship": "Chain attack when opponent bases wide to the far side"
+    },
+    {
+      "name": "Back Take from Bottom",
+      "relationship": "Chain attack when opponent whizzers the underhook"
+    },
+    {
+      "name": "Deep Half Guard",
+      "relationship": "Fallback position when flattened or smashed"
+    },
+    {
+      "name": "Dogfight Position",
+      "relationship": "Intermediate scramble en route to the back take"
+    },
+    {
+      "name": "Kimura from Butterfly Guard",
+      "relationship": "Alternative attack when opponent exposes the near arm"
+    },
+    {
+      "name": "Underhook Pass",
+      "relationship": "Counter concept from the top player's perspective"
+    },
+    {
+      "name": "Butterfly Half Guard",
+      "relationship": "Hybrid configuration for executing the sweep with one trapped leg"
+    }
+  ],
+  "conditions": [
+    "Seated butterfly guard established with at least the sweep-side foot actively hooked inside the opponent's thigh",
+    "Deep underhook secured on the sweep side, hand reaching the opponent's far hip or wrapping their lat",
+    "Upright posture on the underhook-side hip, off the back, to create the angle for elevation",
+    "Opponent's weight loaded forward and onto the hooked leg rather than based wide and settled",
+    "Head tight to the opponent's chest on the underhook side, preventing the crossface"
+  ],
+  "attacker": {
+    "name": "Underhook Sweep Attacker",
+    "description": "How to execute the Underhook Sweep from Butterfly Guard in BJJ. Attacking perspective with setup, hook-elevation steps, and counter responses.",
+    "overview": "From butterfly guard bottom, the underhook sweep is the seated player's most controlling reversal because it removes the opponent's upper body from the equation before the elevation even begins. Securing a deep underhook to the far hip glues the opponent's shoulder line to yours so that when you load their weight onto your butterfly hook and fall to your underhook-side shoulder, their entire torso rotates as one unit over the top. Success depends on a strict sequence — underhook depth, an active loaded hook, posture broken to the sweep side, then a simultaneous fall-and-elevate — followed immediately by coming up on top into side control. Executed well it both reverses position and feeds a web of follow-up attacks when the opponent defends.",
+    "key_principles": [
+      "Secure a deep underhook to the far hip or lat before committing - it controls the upper body so the opponent rotates as a single unit",
+      "Load the opponent's weight onto your butterfly hook before lifting - you cannot elevate a based, dead-weight opponent",
+      "Elevate with the hook by lifting the knee toward the ceiling, not by kicking the foot laterally",
+      "Sacrifice your own base by falling to the underhook-side shoulder to generate the toppling rotation",
+      "Time the sweep to the opponent's forward weight commitment - when they post in, drive, or attempt to pass",
+      "Come up on top immediately - the sweep is incomplete until you have technical-stood-up into side control",
+      "Keep your head tight on the underhook side to deny the crossface and to help drive the rotation"
+    ],
+    "setup_requirements": [
+      "Seated butterfly guard with the sweep-side foot actively hooked inside the opponent's thigh using the instep",
+      "Deep underhook secured on the sweep side, hand reaching the opponent's far hip or wrapping their lat and back",
+      "Far hand controlling the opponent's wrist, sleeve, or hugging across their back to remove the far-side post",
+      "Upright seated posture on the underhook-side hip, off your back, creating the angle needed for elevation",
+      "Opponent's weight loaded forward and onto the hooked-side leg rather than based wide and settled",
+      "Head positioned tight on the underhook side to block the crossface and stay connected to the opponent"
+    ],
+    "execution_steps": [
+      {
+        "step_number": 1,
+        "action": "Establish deep underhook and far-arm control",
+        "description": "From seated butterfly guard, drive your inside arm deep under the opponent's armpit on your chosen sweep side until your hand reaches their far hip or lat. With your other hand control their far wrist, sleeve, or hug across their back. Keep your head tight on the underhook side and your posture upright so their shoulder line is welded to yours."
+      },
+      {
+        "step_number": 2,
+        "action": "Insert and load the butterfly hook",
+        "description": "Confirm your same-side foot is hooked actively inside the opponent's thigh with your instep, not merely resting. Pull their upper body into you with the underhook to shift their weight forward and onto that hook, loading their mass onto your elevating leg before you commit. Dead weight that is based out cannot be elevated, so you must feel their weight on your instep first."
+      },
+      {
+        "step_number": 3,
+        "action": "Break their posture and create the angle",
+        "description": "Off-balance the opponent toward your underhook side by pulling their shoulder across and down while getting onto your underhook-side hip. This kuzushi removes their ability to post on the sweep side and aligns their center of gravity over your loaded hook, setting the platform for the diagonal toppling motion to come."
+      },
+      {
+        "step_number": 4,
+        "action": "Fall to your shoulder and elevate",
+        "description": "Commit to the sweep by falling toward your underhook-side shoulder and upper back while simultaneously lifting the opponent's loaded thigh toward the ceiling with your butterfly hook. The fall generates rotation, the hook generates elevation, and the underhook drives their upper body over the top - all three happening as one explosive, coordinated motion."
+      },
+      {
+        "step_number": 5,
+        "action": "Pull the far side and complete the rotation",
+        "description": "As you elevate, pull their far arm or wrist across and drive your underhook through to topple them over your shoulder, eliminating their far-side post. Follow their body, keeping the underhook glued, until they roll past their base of support and your hips begin to come over the top of the rotation."
+      },
+      {
+        "step_number": 6,
+        "action": "Come up on top into side control",
+        "description": "Do not stay on your back. As they roll, post with your free hand and technical-standup, chasing the underhook into a crossface as you settle chest-to-chest in side control. Spread your base wide and drop your hips heavy against theirs to deny any immediate guard recovery or scramble back to neutral."
+      }
+    ],
+    "common_counters": [
+      {
+        "counter": "Opponent posts their far hand and far leg wide, basing away from the sweep direction",
+        "effectiveness": "Medium",
+        "your_response": "Switch direction using their commitment against them: arm drag to the back as their far side is exposed, or fall the opposite way to sweep toward the open side. A base committed to one direction always opens the other.",
+        "targets_outcome": "Half Guard/Bottom"
+      },
+      {
+        "counter": "Opponent whizzers (overhooks) your underhook arm and drives forward to flatten you",
+        "effectiveness": "High",
+        "your_response": "Do not fight the whizzer; ride it. Extend your legs and come up to the dogfight to take the back, or hit a single-leg or leg-entanglement entry as they drive. If they smash through, retain half guard rather than staying flat.",
+        "targets_outcome": "Flattened Half Guard/Bottom"
+      },
+      {
+        "counter": "Opponent pushes your head down and backs their hips away to kill the angle",
+        "effectiveness": "Medium",
+        "your_response": "Re-pummel the underhook deeper and follow them up to your knees rather than staying seated. As their hips retreat and their near arm becomes exposed, transition to an arm drag to the back.",
+        "targets_outcome": "Half Guard/Bottom"
+      },
+      {
+        "counter": "Opponent kills your butterfly hook by pinching their knee in and pushing the leg down",
+        "effectiveness": "Low",
+        "your_response": "Re-insert that hook or switch the sweep to your other active hook. If the hook is fully dead, thread the leg to trap half guard and re-fight for the same underhook sweep from there.",
+        "targets_outcome": "Half Guard/Bottom"
+      },
+      {
+        "counter": "Opponent stuffs the underhook and drives a crossface to flatten you to your back",
+        "effectiveness": "High",
+        "your_response": "Frame on the hip with your bottom hand, shrimp back to your side, and recover half guard or deep half where the underhook remains effective. Reset the angle and re-attack rather than forcing the original line.",
+        "targets_outcome": "Flattened Half Guard/Bottom"
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Attempting to lift before loading the opponent's weight onto the hook",
+        "consequence": "You try to elevate dead weight that is based out, the hook stalls, and you expose yourself to the pass",
+        "correction": "Pull with the underhook to shift their weight forward onto the hook first; only elevate once you feel their mass settle on your instep"
+      },
+      {
+        "error": "Shallow underhook with the hand stopping at the ribs",
+        "consequence": "The opponent's upper body does not rotate with you, they posture out, and the crossface neutralizes your arm",
+        "correction": "Drive the underhook to the far hip or lat so their torso turns as one unit the instant you elevate"
+      },
+      {
+        "error": "Kicking the hook laterally instead of lifting the knee upward",
+        "consequence": "You shove the opponent sideways without elevating their hips, so they simply step over or post and stabilize",
+        "correction": "Lift the knee toward the ceiling with your instep, raising their hip off the mat rather than pushing them away from you"
+      },
+      {
+        "error": "Staying flat on your back instead of falling to your shoulder",
+        "consequence": "You generate no rotational power, the opponent settles their weight back down, and they begin passing",
+        "correction": "Commit to falling onto your underhook-side shoulder to create the toppling rotation, then chase the come-up"
+      },
+      {
+        "error": "Failing to come up on top after the elevation",
+        "consequence": "You tip the opponent over but stay on your back, allowing them to re-base or scramble back on top",
+        "correction": "Post your free hand and technical-standup immediately, chasing the underhook into a side-control crossface"
+      },
+      {
+        "error": "Losing the butterfly hook mid-sweep",
+        "consequence": "The opponent frees their leg, re-bases, and passes to the top before you complete the reversal",
+        "correction": "Keep the instep actively lifting until you have rotated past their base and your hips are coming over the top"
+      }
+    ],
+    "training_progressions": [
+      {
+        "phase": "Phase 1: Static Underhook and Hook Loading",
+        "focus": "Underhook depth, active hook insertion, and shifting weight onto the hook",
+        "description": "Partner remains stationary while you drill establishing the deep underhook to the far hip, inserting an active butterfly hook, and pulling their weight forward onto that hook. Focus on feeling the load transfer to your instep before any lift. Drill 10-15 repetitions per side, with the partner giving feedback on underhook depth and weight loading."
+      },
+      {
+        "phase": "Phase 2: Off-Balance and Elevation",
+        "focus": "Kuzushi to the underhook side and lifting the knee in one motion",
+        "description": "Partner offers light resistance by basing slightly. Practice breaking their posture to the underhook side, falling to your shoulder, and elevating the loaded thigh simultaneously, allowing the sweep to complete. Repeat 10-15 times per side, emphasizing the coordination of fall, hook lift, and underhook drive as a single explosive movement."
+      },
+      {
+        "phase": "Phase 3: Coming Up on Top",
+        "focus": "Technical standup into side control after the elevation",
+        "description": "Add the finish to the rep. Drill rolling the partner through, posting your free hand, technical-standing-up, and chasing the underhook into a chest-to-chest crossface side control under light resistance. The objective is to never finish the rep on your back."
+      },
+      {
+        "phase": "Phase 4: Counter Recognition",
+        "focus": "Reading whizzer, wide base, and head-push defenses",
+        "description": "Partner actively defends with the common counters - whizzer and drive, wide far-side base, head push and hip retreat. Practice branching to the appropriate response: arm drag to the back, dogfight back take, or half-guard and deep-half retention. Emphasis on reacting to the defense rather than forcing the original sweep."
+      },
+      {
+        "phase": "Phase 5: Live Butterfly Sparring",
+        "focus": "Timing the sweep during passing and standing attempts with full resistance",
+        "description": "Partner attempts to pass your butterfly guard or stand up with full resistance while you hunt underhook sweep opportunities. Focus on recognizing weight-forward windows and chaining the sweep into back takes and arm drags based on their live reactions. Track which defenses cause the most trouble and build specific solutions."
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "When is the optimal moment to initiate the butterfly underhook sweep?",
+        "answer": "The optimal window is when the opponent commits their weight forward - driving into you, posting their hands in, or beginning a pass - because their mass is already loaded toward the sweep direction and onto your hook. Sweeping a settled, based-out opponent whose weight is back will fail regardless of technique, since there is nothing loaded on the hook to elevate.",
+        "answer_line": "Opponent commits weight forward",
+        "distractors": {
+          "plausible": [
+            "Once your hook is fully inserted",
+            "When opponent is set and based"
+          ],
+          "trap": [
+            "Sweep a settled, based opponent"
+          ]
+        }
+      },
+      {
+        "question": "Why must you load the opponent's weight onto the butterfly hook before lifting?",
+        "answer": "A based, settled opponent is dead weight you cannot elevate; the hook will simply stall under their immovable mass. Pulling with the underhook shifts their center of gravity forward and onto the hook so the lift actually raises their hip. Loading first is the difference between a hook that elevates a hip and one that just presses against a planted leg.",
+        "answer_line": "Loads their hips onto the hook",
+        "distractors": {
+          "plausible": [
+            "Lift first, then pull underhook",
+            "Hook alone lifts a based opponent"
+          ],
+          "trap": [
+            "Yank underhook without loading"
+          ]
+        }
+      },
+      {
+        "question": "How deep must the underhook be and why does depth matter for this sweep?",
+        "answer": "The hand should reach the opponent's far hip or lat. At that depth their torso rotates as a single unit when you elevate, so the upper body topples with the hips. A shallow underhook that stops at the ribs lets them posture out, invites the crossface to neutralize your arm, and leaves their upper body free to counter-rotate against the sweep.",
+        "answer_line": "Reach opponent's far hip or lat",
+        "distractors": {
+          "plausible": [
+            "Underhook to the ribs is enough",
+            "Grip cross-collar for control"
+          ],
+          "trap": [
+            "Push off their chest instead"
+          ]
+        }
+      },
+      {
+        "question": "What is the correct direction of force between the hook and your falling body?",
+        "answer": "Lift the knee toward the ceiling with your instep while falling to your underhook-side shoulder. The hook elevates the hip, the fall creates the rotation, and the underhook drives the torso over the top. Kicking the hook sideways or staying flat produces elevation without rotation, which the opponent simply rides out and re-bases against.",
+        "answer_line": "Lift knee up, fall to shoulder",
+        "distractors": {
+          "plausible": [
+            "Kick the hook out sideways",
+            "Stay flat and just lift hook"
+          ],
+          "trap": [
+            "Fall away from underhook side"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent whizzers your underhook arm and drives forward - how do you adjust?",
+        "answer": "Do not fight the whizzer; ride it. Extend your legs and come up to the dogfight to take the back, or hit a single-leg or leg-entanglement entry as they drive forward. If they smash all the way through, retain half guard rather than staying flat. The whizzer only kills the original sweep direction; it actually feeds the back take.",
+        "answer_line": "Ride it, take the back",
+        "distractors": {
+          "plausible": [
+            "Fight to free the underhook",
+            "Abandon position, reset guard"
+          ],
+          "trap": [
+            "Force the original sweep line"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent posts their far hand and bases wide away from the sweep - what do you do?",
+        "answer": "Their commitment to one side opens the other. Switch to an arm drag to the back, since their far side is now exposed, or fall the opposite direction for a sweep toward the open side. Forcing the original line against a wide base wastes energy; redirecting to the undefended direction turns their defensive post into your opening.",
+        "answer_line": "Arm drag to back, open side",
+        "distractors": {
+          "plausible": [
+            "Force sweep through their base",
+            "Switch to guillotine choke"
+          ],
+          "trap": [
+            "Push harder into their post"
+          ]
+        }
+      },
+      {
+        "question": "Why do many butterfly underhook sweeps stall halfway through?",
+        "answer": "Usually the lifter kicks the hook sideways instead of lifting the knee upward, or stays flat instead of falling to the shoulder, so there is elevation without rotation. Either error lets the opponent re-base before they pass the tipping point. The fix is to combine an upward knee lift with a committed fall to the underhook-side shoulder.",
+        "answer_line": "Kick hook sideways, stay flat",
+        "distractors": {
+          "plausible": [
+            "Not deep enough underhook",
+            "Opponent bases too fast"
+          ],
+          "trap": [
+            "Muscle the hip without falling"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent pushes your head down to break your posture - how do you preserve the sweep?",
+        "answer": "Re-pummel the underhook deeper and follow them up to your knees rather than collapsing back into your seat. As their hips retreat and their near arm exposes, switch to an arm drag to the back. The head push is meant to flatten you; meeting it by coming up converts a stalled sweep into a back-take opportunity.",
+        "answer_line": "Re-pummel deep, follow them up",
+        "distractors": {
+          "plausible": [
+            "Collapse back to your seat",
+            "Push their head away instead"
+          ],
+          "trap": [
+            "Let them flatten you completely"
+          ]
+        }
+      },
+      {
+        "question": "Why is the sweep incomplete the moment the opponent tips over?",
+        "answer": "Tipping the opponent while you remain on your back lets them re-base, frame, or scramble back on top before you secure anything. You must post your free hand, technical-standup, and chase the underhook into a side-control crossface. The reversal only counts once you have settled chest-to-chest on top with your weight controlling their hips.",
+        "answer_line": "Must chase to side control top",
+        "distractors": {
+          "plausible": [
+            "Sweep ends once they tip over",
+            "Stay on back after the tip"
+          ],
+          "trap": [
+            "Release underhook to celebrate"
+          ]
+        }
+      },
+      {
+        "question": "How does the underhook sweep create a complete butterfly attack system?",
+        "answer": "Every defense opens a counter: a wide far-side base feeds the arm drag to the back, a committed whizzer feeds the dogfight back take, a head push and hip retreat feed an arm drag as their arm exposes, and a flatten-out is recovered to half or deep half to reset. The single threat forces reactions, and each reaction becomes the entry to a different attack.",
+        "answer_line": "Each defense feeds a counter",
+        "distractors": {
+          "plausible": [
+            "One fixed sweep, repeat it",
+            "Only works if hook stays in"
+          ],
+          "trap": [
+            "Abandon attack if hook dies"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent kills your butterfly hook by pinching their knee - what is your option?",
+        "answer": "Re-insert that hook by re-angling your hip, or switch the sweep to your other active hook if it is loaded. If the hook is fully dead, thread the leg to trap half guard and re-fight for the same underhook sweep from there. A dead hook on one side does not end the attack; it just relocates where you elevate from.",
+        "answer_line": "Re-angle hip, reinsert hook",
+        "distractors": {
+          "plausible": [
+            "Give up and pass to mount",
+            "Force original hook back in"
+          ],
+          "trap": [
+            "Release all leg contact"
+          ]
+        }
+      },
+      {
+        "question": "Why does head position on the underhook side matter during the sweep?",
+        "answer": "Keeping your head tight on the underhook side blocks the opponent's crossface, keeps your shoulder connected so the underhook can lift, and helps drive the rotation as you fall and elevate. If your head drifts to the wrong side, the opponent can crossface, separate your shoulder from their body, and posture out of the sweep entirely.",
+        "answer_line": "Head tight on underhook side",
+        "distractors": {
+          "plausible": [
+            "Head position doesn't matter",
+            "Head buried in their chest"
+          ],
+          "trap": [
+            "Turn head toward far side"
+          ]
+        }
+      }
+    ],
+    "safety_considerations": "The butterfly underhook sweep is a low-risk technique involving no joint locks or chokes, but a few precautions apply. Because the finish elevates and rotates your partner over your shoulder, control the speed of the lift so they are not dropped onto their head or neck - guide the landing rather than launching them. When your underhook is whizzered, do not force the arm against the resistance, as this stresses the shoulder joint; branch to a back take or recover position instead. Keep your head out from under your partner's body during the roll-through, and ensure adequate mat space so the reversal does not carry either player off the training area. When drilling with less experienced partners, scale your explosiveness and let them feel the mechanics before adding speed.",
+    "clips": [
+      {
+        "id": "mJyjWNGm_XE",
+        "title": "The hook sweep in 5 steps vs kneeling opponent",
+        "by": "Stephan Kesting",
+        "vertical": false,
+        "channel": "Stephan Kesting",
+        "duration": 31,
+        "verified": "2026-07-15"
+      },
+      {
+        "id": "is7gMf-wYuA",
+        "title": "2-on-1 hook sweep from butterfly guard",
+        "by": "grpplng",
+        "vertical": false,
+        "channel": "grpplng",
+        "duration": 14,
+        "verified": "2026-07-15"
+      }
+    ]
+  },
+  "defender": {
+    "name": "Underhook Sweep Defender",
+    "description": "How to defend the Underhook Sweep from Butterfly Guard in BJJ. Recognition cues, underhook denial, whizzer counters, and base management for the top player.",
+    "overview": "Defending the underhook sweep from butterfly guard top is fundamentally a battle for the upper body and your own weight distribution. The seated attacker wants a deep underhook, your weight loaded forward onto their butterfly hook, and your posture broken to one side; deny any one of those and the elevation collapses. The highest-percentage defense is prevention - winning the underhook or establishing a two-on-one before they reach depth, while keeping your hips back and your base wide so there is no weight on the hook to lift. Once the underhook is established you must react immediately with a whizzer, flatten them with a crossface, and kill the hook by pinching your knee in, all without diving forward into the very momentum the sweep needs. Reading the setup early and refusing to feed the hook turns their best reversal into a stalled, passable scramble.",
+    "key_principles": [
+      "Win the underhook battle first - fight for your own underhook or a two-on-one before the opponent reaches depth",
+      "Keep your weight off their butterfly hook by basing wide with your hips back, so there is nothing loaded to elevate",
+      "Whizzer an established underhook to neutralize the lift, but flatten laterally rather than diving forward",
+      "Maintain a crossface to drive their head away, killing the angle their torso rotation requires",
+      "Kill or pin the hook by pinching your knee in or pushing the leg down to remove the elevator",
+      "Never reach your far arm behind you to post - keep your arms in front to deny the kimura and the back"
+    ],
+    "recognition_cues": [
+      "The attacker's inside arm digs deep under your arm and reaches toward your far hip or lat, not just your ribs",
+      "The attacker comes off their back onto their underhook-side hip, angling their shoulders toward you",
+      "You feel an active butterfly hook lift under your thigh as they pull you forward to load your weight",
+      "The attacker's far hand grips your wrist or sleeve, or hugs across your back, to remove your far-side post",
+      "Their head drives tight to your chest on the underhook side, blocking your crossface attempts"
+    ],
+    "defensive_options": [
+      {
+        "action": "Contest the underhook early - pummel for your own underhook or establish a two-on-one",
+        "when_to_use": "Immediately as the attacker reaches under your arm, before they secure depth to your far hip",
+        "targets_outcome": "Flattened Half Guard/Bottom",
+        "if_successful": "You deny their primary control, flatten them to their back, and begin your passing sequence from a dominant position",
+        "risk": "If you contest too late after the underhook is already deep, they may secure the angle and load the hook"
+      },
+      {
+        "action": "Whizzer the underhook arm and drive a crossface to flatten them, keeping hips back",
+        "when_to_use": "Once the opponent has secured a deep underhook and you can no longer prevent it",
+        "targets_outcome": "Flattened Half Guard/Bottom",
+        "if_successful": "You neutralize the lifting power of the underhook, flatten their shoulders, and can begin passing or threaten a kimura",
+        "risk": "Over-driving the whizzer forward feeds the dogfight back take, so you must flatten laterally rather than diving in"
+      },
+      {
+        "action": "Kill the butterfly hook by pinching your knee in or pushing the leg down, hips back",
+        "when_to_use": "As you feel them trying to load your weight onto the hook before the elevation begins",
+        "targets_outcome": "Half Guard/Bottom",
+        "if_successful": "There is no active elevator, the sweep stalls, and you can pressure forward into a passing position",
+        "risk": "Reaching down for the leg can break your posture and expose your head if you over-commit"
+      },
+      {
+        "action": "Keep your weight off the hook and base wide with a tall, hips-back posture",
+        "when_to_use": "Throughout the exchange, especially the moment you feel them pulling you forward to load",
+        "targets_outcome": "Half Guard/Bottom",
+        "if_successful": "They cannot load and elevate, the sweep never gets started, and the position stays neutral or passable",
+        "risk": "Staying too tall and static invites the arm drag to the back, so combine base with active hand-fighting"
+      }
+    ],
+    "favorable_outcomes": [
+      {
+        "outcome": "Flattened Half Guard/Bottom",
+        "how": "Whizzer the underhook arm, drive a crossface across their jaw, and flatten their shoulders to the mat while keeping your hips back. Once they are flat, the underhook loses all lifting leverage; settle your weight and begin your half-guard passing sequence."
+      },
+      {
+        "outcome": "Half Guard/Bottom",
+        "how": "Kill the active hook by pinching your knee in and keep your base wide with your hips back so the elevation fails. As the sweep stalls and they retain a half-guard leg, consolidate top half guard with a crossface and start working knee-slice or smash pressure."
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Letting the opponent secure a deep underhook unopposed",
+        "consequence": "Their upper-body control becomes the launchpad for sweeps and back takes, and all later defenses become far harder",
+        "correction": "Contest the underhook from the moment you engage - pummel for your own underhook or a two-on-one and drive your shoulder into their chest"
+      },
+      {
+        "error": "Loading your weight forward onto their butterfly hook",
+        "consequence": "You hand the attacker the exact elevation the sweep needs, making the reversal nearly automatic",
+        "correction": "Keep your weight back and off the hook, basing wide so there is nothing loaded for them to lift"
+      },
+      {
+        "error": "Posting your far arm back behind you when you feel the tip",
+        "consequence": "The exposed arm becomes an easy kimura target and provides almost no real base to stop the sweep",
+        "correction": "Post forward or wide with your hand near their head, and recover base with your legs rather than reaching backward"
+      },
+      {
+        "error": "Whizzering but driving forward too aggressively",
+        "consequence": "Your forward momentum feeds the dogfight back take as they come up underneath you",
+        "correction": "Whizzer with your hips back and flatten them laterally; do not dive your weight forward into the whizzer"
+      },
+      {
+        "error": "Staying tall and static to avoid the sweep",
+        "consequence": "A passive upright posture invites the arm drag to the back even if it stops the elevation",
+        "correction": "Combine a low, based posture with active hand-fighting to deny both the underhook and the arm drag at once"
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "What is the single most effective early defense to the butterfly underhook sweep?",
+        "answer": "Win the underhook battle before the attacker reaches depth. By pummeling for your own underhook or establishing a two-on-one and keeping your weight off their hook, you deny the upper-body control the sweep is built on. Prevention is far more energy-efficient than countering a fully loaded, angled sweep, and it lets you flatten them rather than react.",
+        "answer_line": "Win underhook before it's deep",
+        "distractors": {
+          "plausible": [
+            "Whizzer once hook is loaded",
+            "Base wide after being loaded"
+          ],
+          "trap": [
+            "Let them get the underhook"
+          ]
+        }
+      },
+      {
+        "question": "They have a deep underhook and are loading your weight onto their hook - what is your emergency response?",
+        "answer": "Whizzer the underhook arm, drop your weight back off the hook, base wide, and drive a crossface to flatten their shoulders. You must address all three elements at once - the underhook, the loaded hook, and your base - because a whizzer alone while your weight stays on the hook will still result in being elevated or giving up the back.",
+        "answer_line": "Whizzer, unload, base, crossface",
+        "distractors": {
+          "plausible": [
+            "Whizzer arm, keep weight forward",
+            "Base wide only, ignore whizzer"
+          ],
+          "trap": [
+            "Post hands and dive forward"
+          ]
+        }
+      },
+      {
+        "question": "Why is committing your weight forward dangerous against this sweep?",
+        "answer": "Forward weight loads their butterfly hook and aligns your center of gravity over the sweep direction, doing roughly half of the attacker's work for them. The underhook then only has to redirect momentum you are already supplying. The correct adjustment is to keep your hips back and base wide, applying any flattening pressure laterally rather than from a forward dive.",
+        "answer_line": "Loads their hook, aids the sweep",
+        "distractors": {
+          "plausible": [
+            "Forward weight speeds the pass",
+            "Only the underhook matters"
+          ],
+          "trap": [
+            "Drive forward to flatten them"
+          ]
+        }
+      },
+      {
+        "question": "You whizzer and they extend their legs to come up to the dogfight - what happened and how do you respond?",
+        "answer": "You over-drove the whizzer forward, feeding them the momentum to come up underneath you toward your back. Re-square your chest to them, pull your hips back to break their angle, and re-flatten them before they circle behind. The lesson is that a whizzer must be paired with hips-back pressure, never a forward weight commitment.",
+        "answer_line": "Re-square, pull hips back",
+        "distractors": {
+          "plausible": [
+            "Whizzer harder, drive forward",
+            "Release whizzer immediately"
+          ],
+          "trap": [
+            "Keep driving forward weight"
+          ]
+        }
+      },
+      {
+        "question": "What are the earliest cues that a butterfly underhook sweep is being set up?",
+        "answer": "The first cue is their inside arm digging deep toward your far hip rather than stopping at your ribs. The second is them coming off their back onto their underhook-side hip and angling their shoulders at you. The third is an active hook loading your thigh as they pull you forward. Addressing the underhook depth first prevents the other two from developing.",
+        "answer_line": "Deep arm digging to far hip",
+        "distractors": {
+          "plausible": [
+            "Hook loading is the first cue",
+            "Shoulder angle is first cue"
+          ],
+          "trap": [
+            "Ignore arm depth, watch hips"
+          ]
+        }
+      }
+    ],
+    "training_progressions": [
+      {
+        "phase": "Phase 1: Underhook Denial",
+        "focus": "Winning the underhook or two-on-one from butterfly top",
+        "description": "Partner works to establish the underhook from seated butterfly while you focus exclusively on pummeling for your own underhook or a two-on-one and driving shoulder pressure. No passing yet - purely win the upper-body control battle and keep them from turning onto their hip. Drill 30-second rounds with reset when either player wins the grip."
+      },
+      {
+        "phase": "Phase 2: Hook and Weight Management",
+        "focus": "Keeping weight off the hook, basing wide, and killing the hook",
+        "description": "Partner establishes an underhook and attempts to load your weight onto the hook. Practice keeping your hips back, basing wide, and killing the hook by pinching your knee in or pushing the leg down. Partner adds moderate resistance and tries to elevate; focus on never feeding weight to the lifting leg. Drill both sides."
+      },
+      {
+        "phase": "Phase 3: Whizzer and Counter Chains",
+        "focus": "Whizzering without over-driving and defending the branches",
+        "description": "Partner chains the underhook sweep into the arm drag when you stay tall and into the dogfight back take when you over-drive the whizzer. Practice whizzering with hips back, flattening laterally, and recognizing each chain so you can re-square and re-flatten. Use progressive resistance from 50% to full."
+      },
+      {
+        "phase": "Phase 4: Live Positional Defense",
+        "focus": "Passing the seated butterfly while defending the underhook sweep system",
+        "description": "Positional sparring from butterfly top with the goal of passing while defending the underhook sweep. Start standing or in combat base against a seated partner; score for passes, partner scores for sweeps or back takes. Develop the ability to keep weight off the hook and stay offensive rather than purely reactive."
+      }
+    ],
+    "clips": [
+      {
+        "id": "kNfVYhZbgrg",
+        "title": "Four levels of butterfly sweep defense",
+        "by": "Wim Deputter",
+        "vertical": false,
+        "channel": "Wim Deputter BJJ",
+        "duration": 87,
+        "verified": "2026-07-15"
+      },
+      {
+        "id": "dOdO6xJ-TcU",
+        "title": "Stop the half guard underhook",
+        "by": "Malachy Friedman",
+        "vertical": false,
+        "channel": "Malachy Friedman",
+        "duration": 98,
+        "verified": "2026-07-15"
+      },
+      {
+        "id": "C09VDq-tbaY",
+        "title": "Countering the butterfly sweep when you post",
+        "by": "Carlos Machado",
+        "vertical": false,
+        "channel": "Carlos Machado",
+        "duration": 108,
+        "verified": "2026-07-15"
+      }
+    ]
+  },
+  "variants_and_adaptations": [
+    {
+      "variant_name": "Marcelo-Style Hook Sweep with Underhook",
+      "description": "The classic single-deep-underhook version: control the opponent's far wrist or hug their back with the free hand, load their weight onto your same-side butterfly hook, then fall to your shoulder and elevate to roll them over and come up to side control.",
+      "when_to_use": "When the opponent is kneeling or in combat base with their weight committed forward and their hands posting in"
+    },
+    {
+      "variant_name": "Double-Underhook Elevation Variation",
+      "description": "Instead of controlling the far arm, bring both arms inside for a body-lock-style clamp around the opponent's torso, then elevate with the butterfly hook and drive them over with the double control. The bilateral upper-body control sacrifices the far-arm pull for crushing torso connection.",
+      "when_to_use": "When the opponent stacks or drives in heavy and squares their shoulders, denying you a clean far-arm grip"
+    },
+    {
+      "variant_name": "Underhook Sweep to Arm Drag",
+      "description": "When the opponent bases their far hand and leg wide to defend the elevation, abandon the lift and convert the same deep underhook into an arm drag, dragging their near arm across and circling to the back through the dogfight.",
+      "when_to_use": "When the opponent posts wide away from the sweep direction or backs their hips out to deny the loaded hook"
+    },
+    {
+      "variant_name": "Butterfly Half Guard Underhook Sweep",
+      "description": "From butterfly half guard, combine the trapped leg with the underhook so that the half-guard hook and the deep underhook work together. Use the trapped leg to anchor and off-balance while the underhook drives the rotation, blending half-guard and butterfly mechanics.",
+      "when_to_use": "When one butterfly hook is cleared during a passing attempt and you retain a half-guard leg with the underhook intact"
+    }
+  ],
+  "position_integration": "The underhook sweep sits at the center of the butterfly guard bottom system, complementing the standard butterfly sweep by adding dedicated upper-body control through a single deep underhook. Where the basic sweep relies primarily on bilateral hook elevation, the underhook variation isolates and rotates the opponent's torso, making it the higher-percentage option against forward-pressuring, hands-in passers. Its real value is connective: the same underhook that powers the sweep also threatens the back, so a wide defensive base feeds an arm drag, a whizzer feeds a dogfight back take, and a retreating opponent opens leg-entanglement entries. When stuffed, the position degrades into half guard or deep half rather than a finished pass, preserving the bottom player's offense. This makes the technique a foundational teaching tool for inside position, weight-loading the hook, and the principle of using an opponent's defensive commitment against them - concepts that transfer across the entire modern seated-guard game."
+}

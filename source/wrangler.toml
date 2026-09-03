@@ -1,0 +1,25 @@
+# Wrangler Configuration for BJJ Map on Cloudflare Pages
+# Documentation: https://developers.cloudflare.com/workers/wrangler/configuration/
+
+name = "bjjmap"
+compatibility_date = "2024-01-01"
+
+# Pages configuration
+pages_build_output_dir = "public"
+
+# Production environment
+[env.production]
+name = "bjjmap-production"
+
+# Development environment (preview deployments)
+[env.preview]
+name = "bjjmap-preview"
+
+# Build configuration
+[build]
+command = "npx quartz build"
+cwd = "."
+
+[build.upload]
+format = "directory"
+dir = "public"

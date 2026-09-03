@@ -1,0 +1,310 @@
+{
+  "name": "Omoplata",
+  "description": "Master the Omoplata shoulder lock in BJJ. Complete guide covering setup, execution, safety protocols, and variations from guard positions with sweep options.",
+  "summary": "The Omoplata is a guard-based shoulder lock that traps the opponent's arm with the legs and rotates the shoulder by sitting up and driving the chest forward, doubling as a control hub with sweep and back-take options when the finish is defended.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "joint-lock",
+    "omoplata",
+    "guard",
+    "sweep",
+    "hub",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Omo Plata",
+    "Coil Lock"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint (rotator cuff, capsule, AC joint)",
+  "starting_position": "Closed Guard",
+  "from_position": "Omoplata Control/Top",
+  "success_rate": {
+    "gi": 52,
+    "nogi": 52
+  },
+  "variant_uniqueness": "Dual-function shoulder lock serving as both submission and positional control system",
+  "overview": "The Omoplata is a sophisticated shoulder lock that attacks the opponent's shoulder joint through controlled rotation and leverage. This technique involves trapping the opponent's arm with your legs while controlling their posture, then rotating their shoulder beyond its natural range of motion. The Omoplata is unique among submissions because it functions as both a finishing technique and a powerful positional control system, offering numerous sweep and transition opportunities even when the submission itself is defended.\n\nThe technique is particularly effective from guard positions, where the bottom player can use their legs to control distance and angle while isolating the opponent's arm. The finishing mechanics rely on sitting up tall, establishing a perpendicular angle to the opponent's body, and progressively driving your chest forward over their trapped shoulder to create internal rotation. Far-side control of the opponent's hip or collar prevents the two primary escapes: posturing up and rolling forward.\n\nModern competition has elevated the Omoplata from a low-percentage novelty to a high-level control position that creates multiple offensive dilemmas for the opponent. When the finish is defended, the position naturally feeds into sweeps to top position, back takes from the opponent's roll escape, and transitions to triangle or armbar when posture is recovered. This versatility makes the omoplata a cornerstone technique in any guard player's arsenal.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear or strain",
+        "severity": "High",
+        "recovery_time": "6-12 weeks for minor tears, 3-6 months for major tears"
+      },
+      {
+        "injury": "AC joint separation",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks"
+      },
+      {
+        "injury": "Shoulder capsule damage",
+        "severity": "High",
+        "recovery_time": "8-16 weeks"
+      },
+      {
+        "injury": "Labrum tear",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months with surgery"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 4-6 seconds minimum pressure increase",
+    "tap_signals": [
+      "Verbal tap (any vocal signal)",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on opponent or mat",
+      "Any distress signal or sound",
+      "Roll forward escape attempt (release immediately)"
+    ],
+    "release_protocol": [
+      "Immediately stop all forward pressure and rotation",
+      "Release leg pinch on shoulder",
+      "Unwind hip position to neutral",
+      "Allow opponent to extract arm slowly",
+      "Check for injury before continuing"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the shoulder rotation",
+      "Never apply competition speed in training",
+      "Always allow opponent access to tap",
+      "Stop immediately if opponent rolls forward (escape attempt)",
+      "Never apply full finishing pressure until advanced belt level",
+      "Always control the rate of shoulder rotation"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Armbar Control",
+      "slug": "from-armbar-control"
+    },
+    {
+      "name": "from Butterfly Guard",
+      "slug": "from-butterfly-guard"
+    },
+    {
+      "name": "from Crackhead Control",
+      "slug": "from-crackhead-control"
+    },
+    {
+      "name": "from De La Riva Guard",
+      "slug": "from-de-la-riva-guard"
+    },
+    {
+      "name": "from Double Sleeve Guard",
+      "slug": "from-double-sleeve-guard"
+    },
+    {
+      "name": "from Guard",
+      "slug": "from-guard"
+    },
+    {
+      "name": "from Inverted Guard",
+      "slug": "from-inverted-guard"
+    },
+    {
+      "name": "from Omoplata Control",
+      "slug": "from-omoplata-control"
+    },
+    {
+      "name": "from Rubber Guard",
+      "slug": "from-rubber-guard"
+    },
+    {
+      "name": "from Russian Leg Lasso",
+      "slug": "from-russian-leg-lasso"
+    },
+    {
+      "name": "from Spider Guard",
+      "slug": "from-spider-guard"
+    },
+    {
+      "name": "Rolling Omoplata from Omoplata Control",
+      "slug": "Rolling-Omoplata-from-Omoplata-Control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Standard Omoplata from Closed Guard",
+      "description": "Classic entry from closed guard using collar and sleeve control. Break posture, create angle, swing leg over shoulder, sit up and finish with progressive chest-forward pressure. The foundational variation that all others build upon.",
+      "when_to_use": "Against opponents who maintain heavy top pressure in closed guard and commit their weight forward. Works best in gi with collar and sleeve grips for maximum control."
+    },
+    {
+      "variation_name": "Omoplata from Spider Guard",
+      "description": "Using spider guard foot positioning, create the angle by pushing with your foot on their bicep while pulling with the other foot on their hip. Swing your leg over as they try to pass.",
+      "when_to_use": "When opponent is attempting to pass your spider guard with forward pressure. The foot on bicep creates perfect positioning for leg insertion."
+    },
+    {
+      "variation_name": "Omoplata from Triangle Defense",
+      "description": "When opponent defends triangle by posturing or tucking arm, transition by releasing the triangle position and rotating your hips to insert the leg over their shoulder.",
+      "when_to_use": "When triangle is defended and opponent has their posture up with one arm trapped. Creates seamless transition between two shoulder attacks."
+    },
+    {
+      "variation_name": "Rolling Omoplata",
+      "description": "From standing or when opponent has good posture, jump and swing your legs around their arm while doing a forward roll, ending in omoplata position.",
+      "when_to_use": "Against standing opponents or when you need a dynamic entry. Common in competition when opponent is defending statically. Requires significant practice for safety."
+    },
+    {
+      "variation_name": "Omoplata from Closed Guard with Collar Grip",
+      "description": "Establish deep cross-collar grip, use it to break posture and control angle as you open guard and insert leg. The collar grip prevents posture recovery throughout the entry.",
+      "when_to_use": "In gi against opponent attempting to break your closed guard. The deep collar grip makes the setup much tighter and more controlled."
+    },
+    {
+      "variation_name": "Omoplata to Back Take",
+      "description": "When opponent defends by rolling forward or turning into you, release the shoulder attack and use their momentum to take back control with hooks.",
+      "when_to_use": "When the submission is well-defended but opponent's escape gives you their back. This is why omoplata is considered more of a control position than pure submission."
+    },
+    {
+      "variation_name": "Baratoplata",
+      "description": "From omoplata control, thread your arm under their trapped arm and grip your own shin, creating a figure-four configuration with modified finishing angle that attacks the shoulder from a different direction than the standard omoplata.",
+      "when_to_use": "When standard omoplata is defended by opponent turning into you, or from spider guard positions. Particularly effective against wrestlers who defend by facing you. Higher risk so apply even more slowly."
+    },
+    {
+      "variation_name": "Tarikoplata",
+      "description": "Advanced variation combining omoplata mechanics with wrist control and opposite-side leg pressure. Your near-side leg controls the head while your opposite leg creates pressure across their back, with the finish coming from isolating the trapped arm and rotating their shoulder.",
+      "when_to_use": "From rubber guard positions or when opponent is defending with strong posture. Works well when you have deep overhook control and want to attack the shoulder from unconventional angles."
+    }
+  ],
+  "from_positions": [
+    "Closed Guard",
+    "Open Guard",
+    "Spider Guard",
+    "Lasso Guard",
+    "Triangle Control",
+    "Rubber Guard",
+    "De La Riva Guard",
+    "Collar Sleeve Guard",
+    "Butterfly Guard",
+    "Seated Guard",
+    "Omoplata Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Triangle Choke",
+      "relationship": "Primary chain attack from failed omoplata when opponent postures up"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative submission from similar arm isolation control positions"
+    },
+    {
+      "name": "Reverse Kimura",
+      "relationship": "Complementary shoulder lock attacking from similar guard positions"
+    },
+    {
+      "name": "Baratoplata",
+      "relationship": "Direct omoplata variation with modified arm threading configuration"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Complementary guard submission using similar leg-over-shoulder positioning"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Related shoulder lock attacking opposite rotation direction"
+    },
+    {
+      "name": "Mounted Crucifix Armbar",
+      "relationship": "Alternative arm isolation submission from top control positions"
+    },
+    {
+      "name": "Armbar Finish",
+      "relationship": "Common transition when omoplata is defended by posturing up"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Transition option from omoplata control when opponent flattens"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Omoplata Sweep",
+      "relationship": "Primary sweep option when submission is defended"
+    },
+    {
+      "name": "Omoplata to Back",
+      "relationship": "Transition when opponent rolls forward to escape"
+    },
+    {
+      "name": "Triangle to Omoplata",
+      "relationship": "Common transition when triangle is defended"
+    },
+    {
+      "name": "Spider Guard to Omoplata",
+      "relationship": "High-percentage entry from spider guard control"
+    },
+    {
+      "name": "Omoplata Control",
+      "relationship": "Position that provides control before finishing"
+    },
+    {
+      "name": "Mission Control",
+      "relationship": "Rubber guard position that creates omoplata entries"
+    },
+    {
+      "name": "Lasso Guard",
+      "relationship": "Guard system with direct omoplata entry options"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Alternative arm trap position with similar control principles"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Primary starting position for omoplata setups"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Complementary attack that chains with omoplata attempts"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Common transition target when omoplata finish is defended"
+    },
+    {
+      "name": "Armbar Control",
+      "relationship": "Alternative submission when opponent defends omoplata by posturing"
+    }
+  ],
+  "clips": [
+    {
+      "id": "TNvcL55uvrE",
+      "title": "Reverse Omoplata, Keenan style",
+      "by": "Keenan Cornelius",
+      "vertical": false,
+      "channel": "ufctalkingthailand",
+      "duration": 22,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "zZv3V0b3tqg",
+      "title": "Teaching the reverse omoplata",
+      "by": "Bradley",
+      "vertical": false,
+      "channel": "Logan Cook",
+      "duration": 106,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "HtMbIJCiz-4",
+      "title": "Omoplata to armbar transition",
+      "by": "Asbury Park Jiu Jitsu",
+      "vertical": false,
+      "channel": "Asbury Park Jiu Jitsu",
+      "duration": 70,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "hZMbgWNh7MI",
+      "title": "Omoplata to armbar",
+      "by": "Bicudo Maciel",
+      "vertical": false,
+      "channel": "Bicudo BJJ",
+      "duration": 25,
+      "verified": "2026-07-14"
+    }
+  ]
+}

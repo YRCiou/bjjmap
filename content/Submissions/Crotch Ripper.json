@@ -1,0 +1,199 @@
+{
+  "name": "Crotch Ripper",
+  "description": "Master the Crotch Ripper leg lock in BJJ. Groin compression submission from lockdown with safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "compression",
+    "lockdown",
+    "10th-planet",
+    "half-guard",
+    "groin-attack"
+  ],
+  "submission_category": "Compression",
+  "submission_type": "Groin Compression",
+  "target_area": "Hip flexors, groin muscles, and inner thigh adductors",
+  "starting_position": "Lockdown",
+  "from_position": "Lockdown/Bottom",
+  "success_rate": {
+    "gi": 42,
+    "nogi": 42
+  },
+  "summary": "The Crotch Ripper is a 10th Planet compression submission applied from the lockdown, prying the opponent's trapped leg open to wrench the groin, hip flexors, and inner-thigh adductors until muscular strain forces the tap.",
+  "overview": "As the offensive counterpart to the Electric Chair within the 10th Planet Jiu-Jitsu system, the Crotch Ripper transforms the lockdown's leg entanglement into a direct attack on the hips and groin rather than a purely defensive hold. This technique applies intense pressure to the opponent's groin, hip flexors, and inner thigh muscles through a combination of lockdown control and strategic knee positioning. Unlike traditional joint locks that target specific joints, the Crotch Ripper creates a painful compression that forces the opponent to tap due to muscular strain rather than joint damage. The submission is particularly effective in no-gi grappling where the lockdown can be secured without gi grips interfering with leg positioning.\n\nThe Crotch Ripper represents the offensive potential of the lockdown system, transforming a traditionally defensive half guard position into a legitimate finishing threat. When combined with the Electric Chair sweep, it creates a powerful dilemma where defending the compression opens the sweep and vice versa. This technique requires excellent flexibility, hip control, and precise timing to execute effectively, making it a hallmark of the 10th Planet methodology's emphasis on unconventional attacks from bottom positions. The submission's effectiveness depends entirely on the attacker's ability to maintain lockdown integrity while creating the correct body angle through underhook control.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Groin strain or muscle tear",
+        "severity": "Medium",
+        "recovery_time": "2-4 weeks with proper rest"
+      },
+      {
+        "injury": "Hip flexor strain",
+        "severity": "Medium",
+        "recovery_time": "2-3 weeks"
+      },
+      {
+        "injury": "Adductor muscle damage",
+        "severity": "Medium",
+        "recovery_time": "3-6 weeks depending on severity"
+      },
+      {
+        "injury": "Lower back strain from excessive arching",
+        "severity": "Low",
+        "recovery_time": "1-2 weeks"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 4-6 seconds minimum to allow partner to recognize pressure and tap",
+    "tap_signals": [
+      "Verbal tap (most common due to leg entanglement)",
+      "Physical hand tap on mat or opponent's body",
+      "Physical foot tap with free leg",
+      "Any distress signal or vocalization"
+    ],
+    "release_protocol": [
+      "Immediately release lockdown figure-four grip",
+      "Remove knee pressure from groin area",
+      "Straighten attacking leg to remove compression",
+      "Allow opponent's leg to naturally extend and decompress",
+      "Do not suddenly jerk or twist during release"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the submission - apply gradually",
+      "Never practice at competition intensity during training",
+      "Always communicate with partner about pressure level",
+      "Stop immediately if partner shows any sign of discomfort",
+      "Avoid practicing on partners with known groin or hip injuries",
+      "Never combine with sudden sweeping motions that could increase injury risk"
+    ]
+  },
+  "from_positions": [
+    "Lockdown",
+    "Half Guard",
+    "Deep Half Guard",
+    "Butterfly Half Guard",
+    "Quarter Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Electric Chair",
+      "relationship": "Primary combination - defending Crotch Ripper opens Electric Chair sweep/submission"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Related groin and hip flexibility submission from similar leg entanglement positions"
+    },
+    {
+      "name": "Boston Crab",
+      "relationship": "Related compression submission targeting lower back and hips from top control"
+    },
+    {
+      "name": "Twister",
+      "relationship": "10th Planet system submission accessible from shared lockdown and truck entries"
+    },
+    {
+      "name": "Toe Hold",
+      "relationship": "Complementary leg lock from similar leg entanglement configurations"
+    },
+    {
+      "name": "Kneebar",
+      "relationship": "Alternative leg lock option when Crotch Ripper angle is unavailable"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Upper body submission threat from lockdown when leg attacks are defended"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Alternative submission when opponent postures up to escape compression"
+    },
+    {
+      "name": "Straight Ankle Lock",
+      "relationship": "Basic leg lock from related guard positions sharing leg control principles"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Related compression submission targeting calf muscle from leg entanglement"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Lockdown",
+      "relationship": "Primary position where Crotch Ripper is executed - lockdown control is prerequisite"
+    },
+    {
+      "name": "Electric Chair",
+      "relationship": "Primary combination sweep when Crotch Ripper is defended - creates submission/sweep dilemma"
+    },
+    {
+      "name": "Old School",
+      "relationship": "Alternative lockdown attack when angle for Crotch Ripper is not available"
+    },
+    {
+      "name": "Truck",
+      "relationship": "Advanced position that can be entered from lockdown system, shares leg entanglement principles"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Parent guard position from which lockdown and Crotch Ripper are developed"
+    },
+    {
+      "name": "Leg Entanglement",
+      "relationship": "Fundamental principle underlying all lockdown-based attacks including Crotch Ripper"
+    },
+    {
+      "name": "Deep Half Guard",
+      "relationship": "Related half guard variation that shares lockdown system entries"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Advanced 10th Planet position accessible from lockdown system"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Crotch Ripper to Electric Chair combination",
+      "description": "Set up Crotch Ripper compression, and when opponent defends by grabbing your attacking leg or sprawling hips back, immediately transition to Electric Chair sweep by loading their weight onto your hip and rolling them over. This creates a powerful submission/sweep dilemma.",
+      "when_to_use": "When opponent is defensive and attempts to prevent knee pressure by controlling your attacking leg"
+    },
+    {
+      "variation_name": "Crotch Ripper from quarter guard",
+      "description": "If opponent begins to extract their leg from half guard but you maintain partial control (quarter guard), you can still establish lockdown on their ankle and attempt modified Crotch Ripper with different angle. Your knee pressure comes from different vector but still targets groin area.",
+      "when_to_use": "When transitioning between half guard and opponent's attempted pass, creating offensive opportunity from defensive scramble"
+    },
+    {
+      "variation_name": "Double attack with Twister hook threat",
+      "description": "From lockdown with underhook, threaten Crotch Ripper while simultaneously working Twister side control entry by getting your outside leg over opponent's shoulder. This forces opponent to defend multiple attacks, often leaving one open.",
+      "when_to_use": "Against experienced opponents who defend Crotch Ripper well - the double threat creates openings"
+    }
+  ],
+  "is_family": true,
+  "variations": [
+    {
+      "name": "from Lockdown",
+      "slug": "from-lockdown"
+    }
+  ],
+  "variant_uniqueness": "Lockdown compression targeting groin and adductors",
+  "clips": [
+    {
+      "id": "Bsj_vOLnNx4",
+      "title": "Crotch Ripper finish demonstration",
+      "by": "Bowerhouse MMA",
+      "vertical": false,
+      "channel": "BOWERHOUSE MMA",
+      "duration": 59,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "n5BLxIJKuHs",
+      "title": "3 Crotch Ripper variations",
+      "by": "Bowerhouse MMA",
+      "vertical": false,
+      "channel": "BOWERHOUSE MMA",
+      "duration": 61,
+      "verified": "2026-07-14"
+    }
+  ]
+}

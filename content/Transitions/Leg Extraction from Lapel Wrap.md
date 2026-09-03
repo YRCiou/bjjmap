@@ -1,0 +1,346 @@
+
+
+
+
+---
+title: "Leg Extraction from Lapel Wrap | BJJ Technique | BJJ Map"
+description: "Master Leg Extraction from Lapel Wrap in BJJ. Systematic method to escape Ringworm Guard lapel control and restore neutral passing position."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Leg Extraction from Lapel Wrap",
+  "description": "Master Leg Extraction from Lapel Wrap in BJJ. Systematic method to escape Ringworm Guard lapel control and restore neutral passing position.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Leg Extraction from Lapel Wrap", "item": "https://bjjmap.pages.dev/Transitions/Leg-Extraction-from-Lapel-Wrap" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Leg Extraction from Lapel Wrap \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Stripping a Strong Lapel Grip",
+      "description": "Leg Extraction from Lapel Wrap film study: Stripping a Strong Lapel Grip, taught by Stephan Kesting.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vjgfip220zk/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vjgfip220zk",
+      "url": "https://www.youtube.com/watch?v=vjgfip220zk",
+      "creator": { "@type": "Person", "name": "Stephan Kesting" },
+      "duration": "PT255S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Beat Lapel Guards - Stomp the Leg (Lapel Slayer)",
+      "description": "Leg Extraction from Lapel Wrap film study: Beat Lapel Guards - Stomp the Leg (Lapel Slayer), taught by Keenan Cornelius.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DFckzHWWJ4c/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/DFckzHWWJ4c",
+      "url": "https://www.youtube.com/watch?v=DFckzHWWJ4c",
+      "creator": { "@type": "Person", "name": "Keenan Cornelius" },
+      "duration": "PT379S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "How to Pass One of the Most Annoying Guards",
+      "description": "Leg Extraction from Lapel Wrap film study: How to Pass One of the Most Annoying Guards, taught by Jon Thomas.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uvuV9GnMvFQ/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uvuV9GnMvFQ",
+      "url": "https://www.youtube.com/watch?v=uvuV9GnMvFQ",
+      "creator": { "@type": "Person", "name": "Jon Thomas" },
+      "duration": "PT458S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Leg Extraction from Lapel Wrap",
+  "description": "Leg Extraction from Lapel Wrap is the top player's systematic escape from Ringworm Guard, peeling the threaded gi lapel off the trapped leg and circling it free to restore a neutral combat-base passing position while defending sweeps and back takes.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Leg Extraction from Lapel Wrap/Attacker|Play as Attacker]]
+[[Leg Extraction from Lapel Wrap/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**Leg Extraction from Lapel Wrap is the top player's systematic escape from Ringworm Guard, peeling the threaded gi lapel off the trapped leg and circling it free to restore a neutral combat-base passing position while defending sweeps and back takes.**
+
+The danger of Ringworm Guard is mechanical, not muscular: by threading your own gi lapel around your leg, the bottom player tethers your lower body to their control system, so every ounce of forward pressure or explosive movement you generate is converted into sweeping momentum against you. Recognizing this is the prerequisite for escaping — you cannot pass your way out, you must extract first.
+
+The extraction works by understanding how the wrap functions. The lapel creates friction and leverage that pins your leg and disrupts your base. Rather than fighting directly against those forces, you create slack in the system, control the opponent's grip-fighting hand, and systematically peel the material away from the point of least friction while keeping your shoulders square against back-take threats.
+
+Strategically, this extraction must be completed before any passing sequence. Loose lapel material left near your legs is re-threaded within seconds, and aggressive passing against a live wrap simply feeds the sweep. Master this extraction to neutralize modern lapel guard systems — Ringworm, Worm, and Squid — and restore your ability to implement your preferred passing game from combat base or headquarters.
+
+**From Position**: [[Positions/Ringworm Guard]] (Top)
+**Success Rate**: 58%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Leg Extraction from Lapel Wrap in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=vjgfip220zk)
+
+<p class="clip-credit"><strong>Stripping a Strong Lapel Grip</strong> — taught by Stephan Kesting · 4:15 · <a href="https://www.youtube.com/watch?v=vjgfip220zk" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=DFckzHWWJ4c)
+
+<p class="clip-credit"><strong>Beat Lapel Guards - Stomp the Leg (Lapel Slayer)</strong> — taught by Keenan Cornelius · 6:19 · <a href="https://www.youtube.com/watch?v=DFckzHWWJ4c" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=uvuV9GnMvFQ)
+
+<p class="clip-credit"><strong>How to Pass One of the Most Annoying Guards</strong> — taught by Jon Thomas · 7:38 · <a href="https://www.youtube.com/watch?v=uvuV9GnMvFQ" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Combat Base]] | 50% |
+| Success | [[Positions/Open Guard]] | 15% |
+| Failure | [[Positions/Ringworm Guard]] | 25% |
+| Counter | [[Positions/Back Control]] | 10% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Address the lapel grip before attempting any passing movemen... | Maintain constant tension on the lapel wrap by pulling the t... |
+| **Options** | 7 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Leg Extraction from Lapel Wrap/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Address the lapel grip before attempting any passing movements, as the wrap converts your energy into sweeping momentum
+
+- Use both hands systematically in the grip-breaking sequence rather than fighting with one hand while leaving the other vulnerable
+
+- Maintain constant awareness of back exposure throughout the extraction, keeping shoulders squared to the opponent
+
+- Create slack in the lapel system through hip movement and angle changes rather than pulling directly against the grip
+
+- Control the opponent's grip-fighting hand to prevent them from re-securing or establishing secondary controls
+
+- Keep your weight distributed primarily through your free leg to maintain base during the extraction process
+
+
+### Execution Steps
+
+
+- **Assess the wrap configuration**: Identify exactly how the lapel is threaded around your leg and where the opponent's grip is securing...
+
+- **Control the grip-fighting hand**: Use your lead hand to control the opponent's wrist or sleeve on their non-lapel hand. This prevents ...
+
+- **Create slack in the system**: Step your trapped leg slightly toward the opponent and angle your hip inward. This creates momentary...
+
+- **Strip the lapel grip**: While maintaining the slack, use your free hand to peel the lapel material away from your leg starti...
+
+- **Extract the leg through the opening**: As the lapel loosens, step your leg backward and outward in a circular motion to extract it from the...
+
+- **Clear the loose lapel material**: Push the freed lapel material toward the opponent's body or toss it to the side so it cannot be quic...
+
+- **Establish neutral position**: Immediately widen your base, square your hips to the opponent, and establish combat base or headquar...
+
+
+### Common Mistakes
+
+
+- **Attempting to extract while only using one hand on the grip**
+  - Consequence: Insufficient force to break the grip while the free arm remains vulnerable to secondary controls from the bottom player
+  - Correction: Commit both hands to the extraction sequence, accepting temporary defensive compromises to prioritize completing the extraction
+
+- **Pulling directly against the lapel grip rather than creating slack first**
+  - Consequence: Fighting against full grip strength exhausts your energy and allows the opponent time to establish additional controls
+  - Correction: Create slack through hip movement and angle changes before attempting to strip the grip, using leverage rather than strength
+
+- **Turning your back toward the opponent during extraction**
+  - Consequence: Exposes your back to easy back takes, converting a defensive situation into a devastating position loss
+  - Correction: Keep shoulders squared to the opponent throughout the entire extraction sequence, even if it slows the process
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Leg Extraction from Lapel Wrap/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Maintain constant tension on the lapel wrap by pulling the tail toward your hip whenever you feel slack developing in the system
+
+- Use secondary grips on collar, sleeve, or pants to create multiple control points that force the opponent to solve several problems simultaneously
+
+- Create angles by hip escaping laterally when the opponent begins grip fighting, making their stripping motion less mechanically efficient
+
+- Threaten sweeps immediately when you feel the opponent commit both hands to the lapel, exploiting their temporarily compromised base
+
+- Attack the back whenever the opponent turns their shoulders during extraction, as this is the highest-value counter available from the position
+
+- Transition to Worm Guard or Squid Guard if the primary wrap begins loosening rather than fighting a losing grip battle
+
+
+### Recognition Cues
+
+
+- Opponent's free hand moves toward the lapel material near your grip or near their trapped leg, indicating they are beginning the stripping sequence
+
+- Opponent steps their trapped leg inward toward you, creating slack in the wrap system that signals the extraction is imminent
+
+- Opponent pins or controls your non-lapel hand, attempting to neutralize your secondary grips before committing to the lapel strip
+
+- Opponent shifts their weight heavily to their free leg and lightens the trapped leg, preparing to extract through a circular stepping motion
+
+
+### Defensive Options
+
+
+- **Retighten the wrap and re-establish secondary grips immediately when you feel slack developing** - When: At the earliest sign of extraction - when the opponent steps inward or begins moving their hand toward the lapel material
+
+- **Load and execute a sweep when the opponent commits both hands to grip breaking, exploiting their compromised base** - When: When the opponent releases their base-posting hand to work on the lapel strip, leaving them supported only by one leg
+
+- **Attack the back by threading behind them when they turn their shoulders during the extraction attempt** - When: When the opponent's shoulders rotate away from you during the extraction, exposing their back angle even momentarily
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**Standing Extraction**: Stand up completely while stripping the grip, using the elevation to create distance that makes ground-based attacks harder for the opponent. Requires good balance but creates better extraction angles. (When to use: When opponent has multiple control points established and you need distance to break free)
+
+
+**Combat Base Extraction**: Stay in low combat base throughout the extraction, maintaining heavy hip pressure to prevent sweeps while working the grip strip incrementally. (When to use: When you have isolated the lapel grip as the only control point and want maximum stability)
+
+
+**Backstep Extraction**: Use a backstep motion to extract the leg while simultaneously clearing the lapel, potentially transitioning directly into a passing sequence. (When to use: When opponent is focused on maintaining the wrap rather than threatening sweeps)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+Leg Extraction from Lapel Wrap is an essential defensive skill within the modern guard passing toolbox, specifically addressing the growth of lapel guard systems in gi competition. The technique sits at the intersection of grip fighting fundamentals and lapel guard counters, requiring practitioners to combine systematic grip breaking with positional awareness. Successful extraction allows transition to Combat Base or Headquarters Position for standard passing entries. This technique chains naturally with other lapel guard counters and should be trained alongside defenses for Worm Guard, Squid Guard, and other modern lapel configurations. Mastery of this extraction is prerequisite to effective passing against contemporary lapel guard players.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Positions/Ringworm Guard]] - Starting position - the guard you are escaping from
+
+- [[Positions/Combat Base]] - Primary target position after successful extraction
+
+- [[Positions/Headquarters Position]] - Alternative target position for passing initiation
+
+- [[Positions/Worm Guard]] - Related lapel guard requiring similar extraction principles
+
+- [[Positions/Lapel Guard]] - General category of guards this technique counters
+
+- [[Positions/Open Guard]] - Neutral position reached after extraction
+
+- [[Positions/Back Control]] - Position to defend against during extraction
+
+- [[Positions/Squid Guard]] - Related lapel guard the opponent may transition to during extraction
+
+- [[Transitions/Backstep Around Worm Guard]] - Alternative lapel guard counter using backstep mechanics
+
+- [[Transitions/Lapel Grip Break and Posture Recovery]] - Complementary grip-breaking technique often used in sequence
+
+
+</section>
+
+
+
+</main>

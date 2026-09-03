@@ -1,0 +1,429 @@
+
+
+
+
+---
+title: "Mount | BJJ Position Guide | BJJ Map"
+description: "Master the Mount position in BJJ. Complete guide to control, submission chains, escape systems, and mount variations for top and bottom practitioners."
+---
+
+
+<body data-content-type="positions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Mount",
+  "description": "Master the Mount position in BJJ. Complete guide to control, submission chains, escape systems, and mount variations for top and bottom practitioners.",
+  "alternateName": ["Full Mount", "Tate Shiho Gatame"],
+  "disambiguatingDescription": "Often confused with Reverse Mount \u2014 Reverse Mount faces away from your opponent, not toward them.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Positions", "item": "https://bjjmap.pages.dev/Positions/" },
+    { "@type": "ListItem", "position": 3, "name": "Mount", "item": "https://bjjmap.pages.dev/Positions/Mount" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Mount \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Roger Gracie Mount Cross Collar Chokes",
+      "description": "Mount film study: Roger Gracie Mount Cross Collar Chokes, taught by Roger Gracie.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dfP-Ov8FBUo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/dfP-Ov8FBUo",
+      "url": "https://www.youtube.com/watch?v=dfP-Ov8FBUo",
+      "creator": { "@type": "Person", "name": "Roger Gracie" },
+      "duration": "PT80S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Mount Control Fundamentals - Roger Gracie Style",
+      "description": "Mount film study: Mount Control Fundamentals - Roger Gracie Style, taught by MMA Leech.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Gxj5VQj8bc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5Gxj5VQj8bc",
+      "url": "https://www.youtube.com/watch?v=5Gxj5VQj8bc",
+      "creator": { "@type": "Person", "name": "MMA Leech" },
+      "duration": "PT184S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Maintaining the Mount Position",
+      "description": "Mount film study: Maintaining the Mount Position, taught by Demian Maia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FO5aipaY0cc/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/FO5aipaY0cc",
+      "url": "https://www.youtube.com/watch?v=FO5aipaY0cc",
+      "creator": { "@type": "Person", "name": "Demian Maia" },
+      "duration": "PT262S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Mount",
+  "description": "Mount is the dominant top position where you straddle a supine opponent's midsection, worth 4 IBJJF points and prized as jiu-jitsu's best balance of stifling control and high-percentage submission access.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Positions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<aside class="entity-relations">
+<p class="also-known-as"><em>Also known as:</em> <strong>Full Mount</strong>, <strong>Tate Shiho Gatame</strong></p>
+<p class="often-confused-with"><em>Often confused with</em> <strong>[[Positions/Reverse Mount|Reverse Mount]]</strong> — Reverse Mount faces away from your opponent, not toward them</p>
+</aside>
+<div class="role-links">
+
+[[Mount/Bottom|Play as Bottom]]
+[[Mount/Top|Play as Top]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**Mount is the dominant top position where you straddle a supine opponent's midsection, worth 4 IBJJF points and prized as jiu-jitsu's best balance of stifling control and high-percentage submission access.**
+
+The Mount position represents the pinnacle of positional dominance in Brazilian Jiu-Jitsu, awarded 4 points under IBJJF rules and universally recognized as one of the most decisive positions in grappling. From this elevated position, the top practitioner sits astride the opponent's torso with knees on either side, generating overwhelming control through gravity, hip pressure, and freedom of upper-body movement. The Mount has been refined across decades of competition at the highest levels, evolving from a simple pinning position into a sophisticated attacking platform with multiple variations, each serving distinct tactical purposes.
+
+Modern Mount strategy centers on creating submission dilemmas where every defensive reaction from the bottom practitioner opens a new offensive avenue. The top player's goal is not merely to hold the position but to systematically advance through mount variations, from low mount emphasizing stability and pressure, to high mount providing direct submission access, to technical mount bridging toward back control. Each variation trades one attribute for another: stability for submission proximity, control breadth for finishing leverage, or positional security for transition speed.
+
+The position's mechanical effectiveness derives from the top practitioner's ability to use their full body weight to pin the opponent's hips and torso while retaining mobility in the upper body for grip fighting, posture manipulation, and submission entries. Gravity becomes a relentless ally, as every passing second under mount pressure drains the bottom player's energy and narrows their defensive options.
+
+From bottom Mount, the position represents the most urgent defensive crisis in the positional hierarchy, demanding systematic escape knowledge, composure under extreme duress, and precise technical execution. Effective mount defense follows a strict hierarchy: prevent further advancement first, establish frames to create incremental space, then execute hip-based escapes to recover guard. The escape methodology prioritizes energy-efficient movement patterns over explosive strength, recognizing that the bottom player cannot win an attrition battle from this position.
+
+Understanding Mount from both perspectives is essential for complete grappling development. The position sits at the intersection of positional control and submission finishing ability, rewarding practitioners who combine patience with systematic pressure on top and technical precision with composure on the bottom. Competition data consistently shows that mount is among the highest-converting positions to submission finish, making proficiency from both roles a non-negotiable requirement for serious competitors.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Mount in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=dfP-Ov8FBUo)
+
+<p class="clip-credit"><strong>Roger Gracie Mount Cross Collar Chokes</strong> — taught by Roger Gracie · 1:20 · <a href="https://www.youtube.com/watch?v=dfP-Ov8FBUo" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=5Gxj5VQj8bc)
+
+<p class="clip-credit"><strong>Mount Control Fundamentals - Roger Gracie Style</strong> — taught by MMA Leech · 3:04 · <a href="https://www.youtube.com/watch?v=5Gxj5VQj8bc" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=FO5aipaY0cc)
+
+<p class="clip-credit"><strong>Maintaining the Mount Position</strong> — taught by Demian Maia · 4:22 · <a href="https://www.youtube.com/watch?v=FO5aipaY0cc" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="key-principles" class="content-section">
+
+## Key Principles
+
+
+- Weight distribution through hips while keeping upper body mobile for attacks and grip fighting
+
+- Base maintenance from bottom must prevent further advancement while creating incremental escape opportunities
+
+- Submission chains from top use opponent's defensive reactions to flow between complementary attacks
+
+- Systematic positional progression from low mount to high mount to technical mount based on opponent's responses
+
+- Frame creation from bottom establishes defensive structures using skeletal alignment rather than muscular effort
+
+- Hip control is the central battle from both perspectives and determines who dictates the exchange
+
+- Energy management separates effective practitioners from those who exhaust themselves in either role
+
+
+</section>
+
+<section class="content-section">
+
+## Top vs Bottom
+
+
+
+
+| Variant | Bottom Risk | Top Risk | Bottom Energy | Top Energy | Key Difference |
+|---------|-------------|----------|---------------|------------|----------------|
+| [[Mount]] | High | Low | High | Low | Highest points with control-submission balance |
+| [[High Mount]] | High | Low to Medium | High | Medium | Elevated knees trade stability for submissions |
+| [[Modified Mount]] | High | Low to Medium | High | Low | One leg posted for enhanced base stability |
+| [[S Mount]] | High | Low to Medium | High | Medium | Perpendicular body angle maximizes armbar leverage |
+| [[Technical Mount]] | High | Medium | High | Medium | Stepped leg creates armbar angle advantage |
+| [[Mounted Triangle]] | High | Medium to High | High | Medium | Trades mount stability for submission access |
+| [[Mounted Crucifix]] | High | Low | High | Low | Mount stability with arm isolation control |
+| [[3-4 Mount]] | High | Low to Medium | High | Medium | Asymmetric leg configuration for submissions |
+
+
+
+</section>
+
+<section id="bottom-summary" class="content-section">
+
+
+## Playing as Bottom
+
+[[Mount/Bottom|→ Full Bottom Guide]]
+
+### Key Principles
+
+
+- Frame early and structurally - establish elbow-knee connection frames before opponent settles heavy pressure
+
+- Protect neck first - keep chin tucked and hands defending collar and neck region against choke entries
+
+- Small movements accumulate - create incremental space through chained hip escapes rather than single explosions
+
+- Never stay flat on back - maintain slight angle to prevent full weight distribution and improve hip mobility
+
+- Escape hips before shoulders - hip movement creates space that shoulder turning cannot achieve alone
+
+- Conserve energy systematically - use technical movement patterns over strength to preserve stamina for escape
+
+- Follow the escape hierarchy - prevent advancement then frame then hip escape in strict sequence
+
+
+### Available Transitions
+
+
+- **[[Transitions/Elbow Escape from Mount/Attacker|Elbow Escape from Mount]]** (26% of attempts)
+
+- **[[Transitions/Upa Escape/Attacker|Upa Escape]]** (20% of attempts)
+
+- **[[Transitions/Trap and Roll from Mount/Attacker|Trap and Roll from Mount]]** (14% of attempts)
+
+- **[[Transitions/Heel Drag Escape/Attacker|Heel Drag Escape]]** (14% of attempts)
+
+- **[[Transitions/Explosive Bridge to Turtle/Attacker|Explosive Bridge to Turtle]]** (9% of attempts)
+
+- **[[Transitions/Bridge and Roll/Attacker|Bridge and Roll]]** (10% of attempts)
+
+- **[[Transitions/Mount Escape to Half Guard Back Take/Attacker|Mount Escape to Half Guard Back Take]]** (7% of attempts)
+
+
+### Common Mistakes
+
+
+- ❌ **Lying completely flat on back with no defensive frames or angle established**
+  - Consequence: Allows opponent to distribute full weight making escape nearly impossible and exposing all submission targets
+  - ✅ Correction: Immediately establish elbow-knee connection frames and maintain slight angle to prevent flat positioning
+
+- ❌ **Attempting explosive bridge without first trapping opponent's arm and corresponding leg**
+  - Consequence: Opponent posts free hand easily maintaining base while wasting defender's energy and potentially exposing back
+  - ✅ Correction: Only bridge explosively after properly trapping same-side arm and foot, or use bridge as setup for hip escape
+
+- ❌ **Pushing directly on opponent's chest or shoulders with extended straight arms**
+  - Consequence: Creates immediate vulnerability for Americana, Kimura, and armbar attacks on the extended limbs
+  - ✅ Correction: Frame on hips and cross-face area using forearm frames rather than extended arm pushing
+
+- ❌ **Turning to side prematurely without creating sufficient space through hip escape first**
+  - Consequence: Gives up back control to opponent who can insert hooks easily into the exposed space
+  - ✅ Correction: Create space through shrimping first, then turn only when sufficient distance prevents hook insertion
+
+- ❌ **Using only upper body strength for escape attempts without engaging hip escape mechanics**
+  - Consequence: Rapid energy depletion with minimal position improvement as arms fatigue against body weight
+  - ✅ Correction: Focus on hip escape mechanics and leg drive rather than arm strength for sustainable escape
+
+- ❌ **Reaching up to grab opponent's head or collar during escape attempts**
+  - Consequence: Exposes arms to armbar and Americana attacks while simultaneously reducing frame effectiveness
+  - ✅ Correction: Keep elbows tight to body and use frames on hips and cross-face area without extending limbs
+
+- ❌ **Panicking and attempting random explosive movements without systematic escape strategy**
+  - Consequence: Rapid energy depletion, increased submission vulnerability, and progressive worsening of position
+  - ✅ Correction: Maintain composure through controlled breathing and execute systematic escape hierarchy in sequence
+
+
+</section>
+
+<section id="top-summary" class="content-section">
+
+
+## Playing as Top
+
+[[Mount/Top|→ Full Top Guide]]
+
+### Key Principles
+
+
+- Heavy hips with light hands - maintain weight through hip pressure while staying mobile above for attacks
+
+- Control before submission - establish dominant control and read defensive patterns before committing to finishes
+
+- Create submission dilemmas - every defense must open a new attack, forming inescapable branching chains
+
+- Progressive advancement - move systematically from low to high to technical mount as opportunities arise
+
+- Pressure application - use constant forward pressure to exhaust opponent and degrade defense effectiveness
+
+- Base adaptation - adjust base width and posting positions based on opponent's specific escape attempts
+
+- Submission from reaction - allow opponent's defensive movements to guide your attack selection
+
+
+### Available Transitions
+
+
+- **[[Transitions/Mount to Armbar/Attacker|Mount to Armbar]]** (7% of attempts)
+
+- **[[Submissions/Cross Collar Choke/from Mount/Attacker|Cross Collar Choke from Mount]]** (0% of attempts)
+
+- **[[Transitions/Gift Wrap to Technical Mount/Attacker|Gift Wrap to Technical Mount]]** (9% of attempts)
+
+- **[[Transitions/S-Mount Transition/Attacker|S-Mount Transition]]** (6% of attempts)
+
+- **[[Positions/Mount/Mounted Triangle/Attacker|Mounted Triangle]]** (4% of attempts)
+
+- **[[Transitions/Consolidate Mount/Attacker|Consolidate Mount]]** (11% of attempts)
+
+- **[[Transitions/Mount Control/Attacker|Mount Control]]** (21% of attempts)
+
+- **[[Transitions/Mount to 3-4 Mount/Attacker|Mount to 3-4 Mount]]** (4% of attempts)
+
+- **[[Transitions/Mount to Knee on Belly/Attacker|Mount to Knee on Belly]]** (2% of attempts)
+
+- **[[Transitions/Mount to Technical Mount/Attacker|Mount to Technical Mount]]** (10% of attempts)
+
+- **[[Submissions/Americana/from Mount/Attacker|Americana from Mount]]** (8% of attempts)
+
+- **[[Submissions/Ezekiel Choke/from Mount/Attacker|Ezekiel Choke from Mount]]** (2% of attempts)
+
+- **[[Submissions/Kimura/from Mount/Attacker|Kimura from Mount]]** (3% of attempts)
+
+- **[[Submissions/Loop Choke/from Mount/Attacker|Loop Choke from Mount]]** (0% of attempts)
+
+- **[[Submissions/Monoplata/from Mount/Attacker|Monoplata from Mount]]** (1% of attempts)
+
+- **[[Submissions/Armbar/Reverse Armbar from Mount/Attacker|Reverse Armbar from Mount]]** (1% of attempts)
+
+- **[[Submissions/Armbar/from Mount/Attacker|Armbar from Mount]]** (8% of attempts)
+
+- **[[Transitions/Mount to Modified Mount/Attacker|Mount to Modified Mount]]** (3% of attempts)
+
+
+### Common Mistakes
+
+
+- ❌ **Sitting too high on opponent's chest without establishing proper base control first**
+  - Consequence: Vulnerable to explosive upa or bridge escapes resulting in complete position reversal to closed guard
+  - ✅ Correction: Maintain hips at solar plexus level with wide base until deliberately advancing to high mount with grips established
+
+- ❌ **Posting hands too far from opponent's body during submission transitions**
+  - Consequence: Creates space for opponent's hip escape and knee insertion leading to guard recovery
+  - ✅ Correction: Keep hands close to opponent's body using tight grips and maintaining chest-to-chest pressure throughout
+
+- ❌ **Committing to submissions prematurely without establishing dominant grip control**
+  - Consequence: Opponent escapes mount during overcommitted finish attempt, returning to neutral or guard position
+  - ✅ Correction: Establish dominant grips and verify control before progressing methodically to submission finish
+
+- ❌ **Allowing opponent to establish frames without immediately transitioning or attacking**
+  - Consequence: Opponent builds progressively stronger frames and eventually creates enough space for guard recovery
+  - ✅ Correction: Immediately advance to high mount or attack the framing arms when frames are established
+
+- ❌ **Remaining static in low mount without threatening submissions or advancing position**
+  - Consequence: Gives opponent time to develop effective defensive strategy and build frames for escape
+  - ✅ Correction: Constantly threaten submissions or advance position to maintain offensive pressure and defensive uncertainty
+
+- ❌ **Relying on upper body strength without engaging hips for sustained pressure control**
+  - Consequence: Reduced control effectiveness, faster energy depletion, and opponent finds escape windows
+  - ✅ Correction: Drive weight through hips keeping them heavy while upper body stays mobile for attacks and grip work
+
+- ❌ **Ignoring opponent's turn to side and missing the back take opportunity window**
+  - Consequence: Miss high-percentage transition to back control which is more dominant than mount
+  - ✅ Correction: Immediately follow opponent's turn with gift wrap control or hook insertion for back take transition
+
+
+</section>
+
+
+<section id="related-positions" class="content-section">
+
+## Related Positions
+
+
+- **[[Positions/Side Control]]** - Common transition to mount via knee slide or step-over from side control
+
+- **[[Positions/Back Control]]** - Technical mount serves as a bridge position between mount and back control
+
+- **[[Positions/Knee on Belly]]** - Alternative dominant position often used to set up mount entry or as transitional control
+
+- **[[Positions/North-South]]** - Transitional position accessed when opponent turns during mount escape attempts
+
+- **[[Positions/Closed Guard]]** - Primary target position for bottom mount escapes via upa or hip escape
+
+- **[[Positions/Half Guard]]** - Intermediate recovery position during mount escape sequences before full guard
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Submission-Clinic-System" data-cta="related-system-card" data-system-slug="systems/submission-clinic-system" data-system-name="Submission Clinic System" data-member-count="30"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Submission Clinic System</span><span class="system-card__unlocks-badge">Unlocks 30 techniques</span><span class="system-card__blurb">Primary attacking position for armbar, triangle, and collar choke chains</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Bernardo-Faria-Pressure-System" data-cta="related-system-card" data-system-slug="systems/bernardo-faria-pressure-system" data-system-name="Bernardo Faria Pressure System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Bernardo Faria Pressure System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Dominant position targeted after successful passing sequences</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/IBJJF-Strategy-Guide" data-cta="related-system-card" data-system-slug="systems/ibjjf-strategy-guide" data-system-name="IBJJF Strategy Guide" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">IBJJF Strategy Guide</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Highest-value position (4 points) critical for building IBJJF point leads</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/MMA-Crossover-Strategy" data-cta="related-system-card" data-system-slug="systems/mma-crossover-strategy" data-system-name="MMA Crossover Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">MMA Crossover Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Top control position ideal for ground-and-pound and submission integration</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Blue-to-Purple-Progression" data-cta="related-system-card" data-system-slug="systems/blue-to-purple-progression" data-system-name="Blue to Purple Progression" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Blue to Purple Progression</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Dominant position requiring ability to maintain control and finish submissions against competent escape attempts</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Training Methodology</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Scoring-Strategy" data-cta="related-system-card" data-system-slug="systems/competition-scoring-strategy" data-system-name="Competition Scoring Strategy" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Scoring Strategy</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Highest value position (4 points) and primary scoring target</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Strategy" data-cta="related-system-card" data-system-slug="systems/competition-strategy" data-system-name="Competition Strategy" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Strategy</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Dominant top position worth 4 points providing excellent submission opportunities and positional stability</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Teaching-Methodology-Framework" data-cta="related-system-card" data-system-slug="systems/teaching-methodology-framework" data-system-name="Teaching Methodology Framework" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Teaching Methodology Framework</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Primary offensive position for teaching control before submissions</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Training Methodology</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Roger-Gracie-Fundamental-System" data-cta="related-system-card" data-system-slug="systems/roger-gracie-fundamental-system" data-system-name="Roger Gracie Fundamental System" data-member-count="22"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Roger Gracie Fundamental System</span><span class="system-card__unlocks-badge">Unlocks 22 techniques</span><span class="system-card__blurb">Primary attacking position in Roger&#x27;s system - mastering mount control is foundational to entire approach</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Preparation-System" data-cta="related-system-card" data-system-slug="systems/competition-preparation-system" data-system-name="Competition Preparation System" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Preparation System</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">High-value scoring position essential for competition tactics</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Kimura-Trap-System" data-cta="related-system-card" data-system-slug="systems/kimura-trap-system" data-system-name="Kimura Trap System" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Kimura Trap System</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Secondary target position for mount transition pathway</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Defensive-Prioritization-Framework" data-cta="related-system-card" data-system-slug="systems/defensive-prioritization-framework" data-system-name="Defensive Prioritization Framework" data-member-count="20"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Defensive Prioritization Framework</span><span class="system-card__unlocks-badge">Unlocks 20 techniques</span><span class="system-card__blurb">Highest priority defensive situation requiring immediate framework application</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Self-Defense-Application-Framework" data-cta="related-system-card" data-system-slug="systems/self-defense-application-framework" data-system-name="Self-Defense Application Framework" data-member-count="18"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Self-Defense Application Framework</span><span class="system-card__unlocks-badge">Unlocks 18 techniques</span><span class="system-card__blurb">Dominant top control position when ground fighting is necessary</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Training Methodology</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Gordon-Ryan-Passing-System" data-cta="related-system-card" data-system-slug="systems/gordon-ryan-passing-system" data-system-name="Gordon Ryan Passing System" data-member-count="17"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Gordon Ryan Passing System</span><span class="system-card__unlocks-badge">Unlocks 17 techniques</span><span class="system-card__blurb">Advanced position target after establishing passing dominance</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Mental-Game-Framework" data-cta="related-system-card" data-system-slug="systems/mental-game-framework" data-system-name="Mental Game Framework" data-member-count="15"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Mental Game Framework</span><span class="system-card__unlocks-badge">Unlocks 15 techniques</span><span class="system-card__blurb">Dominant position where mental discipline prevents rushing and maintains control</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

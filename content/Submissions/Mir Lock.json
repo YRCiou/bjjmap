@@ -1,0 +1,232 @@
+{
+  "name": "Mir Lock",
+  "description": "Master the Mir Lock shoulder submission in BJJ. Complete guide with safety protocols, setup from top control, execution, and defensive strategies for all levels.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "joint-lock",
+    "top-control",
+    "mir-lock",
+    "americana-variation"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint (glenohumeral joint)",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "summary": "The Mir Lock is a straight-arm shoulder lock applied from top control that drives an isolated arm into shoulder hyperextension and external rotation using body weight, named after Frank Mir's UFC 48 finish over Tim Sylvia.",
+  "overview": "The Mir Lock is a powerful shoulder lock submission that targets the glenohumeral joint through hyperextension and rotation. The name pays homage to UFC Hall of Famer Frank Mir, who at UFC 48 secured a kimura grip on Tim Sylvia and finished with a straight armlock that snapped the forearm — a true arm/elbow break rather than a shoulder break, so the namesake honors Mir's signature figure-four arm control rather than this specific shoulder-hyperextension finish. Building on that figure-four grip lineage, this submission represents a devastating variation of the traditional Americana position. The mechanics involve isolating the opponent's arm while applying rotational pressure that combines external rotation with backward leverage against the shoulder's natural range of motion. Unlike the standard Americana which emphasizes figure-four control and lateral rotation, the Mir Lock utilizes a straight-arm position with the attacker's body weight driving the shoulder into dangerous hyperextension. This submission is most commonly applied from top control positions like side control, north-south, or modified mount, where the attacker has superior positioning and can effectively isolate one of the opponent's arms. The technique requires precise understanding of shoulder anatomy and careful application due to its potential for catastrophic injury. The Mir Lock exemplifies the principle that submissions should control the position first, establish the grip structure second, and only then apply finishing pressure with proper safety awareness.",
+  "variant_uniqueness": "Straight-arm shoulder hyperextension using body weight leverage",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Shoulder dislocation (anterior or posterior)",
+        "severity": "High",
+        "recovery_time": "6-12 weeks with physical therapy"
+      },
+      {
+        "injury": "Rotator cuff tear (supraspinatus, infraspinatus, teres minor)",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months, may require surgical repair"
+      },
+      {
+        "injury": "Labral tear (glenoid labrum damage)",
+        "severity": "High",
+        "recovery_time": "4-8 months, often requires surgery"
+      },
+      {
+        "injury": "Biceps tendon rupture",
+        "severity": "Medium",
+        "recovery_time": "8-12 weeks"
+      },
+      {
+        "injury": "Shoulder capsule damage",
+        "severity": "High",
+        "recovery_time": "3-6 months with potential chronic instability"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - minimum 5-7 seconds progressive pressure in training",
+    "tap_signals": [
+      "Verbal tap or audible distress signal",
+      "Physical hand tap with free hand",
+      "Physical foot tap on mat or opponent",
+      "Any vocalization indicating pain or distress",
+      "Head shake or nodding motion if arms restricted"
+    ],
+    "release_protocol": [
+      "Immediately stop all rotational pressure on the shoulder",
+      "Release grip on the wrist and elbow control",
+      "Allow the arm to return to neutral position naturally",
+      "Do not pull or manipulate the arm after release",
+      "Check with partner verbally before resuming",
+      "Allow full recovery time if any discomfort reported"
+    ],
+    "training_restrictions": [
+      "Never apply this submission at competition speed in training",
+      "Never jerk or spike the shoulder rotation",
+      "Always maintain verbal communication during drilling",
+      "Stop immediately if partner shows any hesitation to tap",
+      "Prohibited for white belts without direct supervision",
+      "Never practice on partners with existing shoulder injuries"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control",
+      "description": "Primary setup from perpendicular side control"
+    },
+    {
+      "name": "from North-South",
+      "slug": "from-north-south",
+      "description": "Application from head-to-head pin position"
+    },
+    {
+      "name": "from Modified Mount",
+      "slug": "from-modified-mount",
+      "description": "Variant when opponent turns to side from mount"
+    },
+    {
+      "name": "from Kesa Gatame",
+      "slug": "from-kesa-gatame",
+      "description": "Setup leveraging scarf hold arm isolation"
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Kesa Gatame",
+    "Modified Mount",
+    "Reverse Kesa-Gatame",
+    "Knee on Belly",
+    "Modified Scarf Hold"
+  ],
+  "related_submissions": [
+    {
+      "name": "Americana",
+      "relationship": "Traditional shoulder lock using figure-four grip with bent-arm lateral rotation mechanics"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Related shoulder lock using internal rotation that chains with Mir Lock attacks"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Head and arm choke available from similar side control setups and positioning"
+    },
+    {
+      "name": "Americana from Side Control",
+      "relationship": "Most direct shoulder lock alternative from the primary starting position"
+    },
+    {
+      "name": "Americana from North-South",
+      "relationship": "Shoulder lock alternative from secondary Mir Lock starting position"
+    },
+    {
+      "name": "Americana from Kesa Gatame",
+      "relationship": "Shoulder lock from scarf hold using similar arm isolation mechanics"
+    },
+    {
+      "name": "Arm Crush from Side Control",
+      "relationship": "Compression-based arm attack from the same primary control position"
+    },
+    {
+      "name": "Omoplata",
+      "relationship": "Alternative shoulder lock attacking the same joint from bottom guard position"
+    },
+    {
+      "name": "Armbar from Side Control",
+      "relationship": "High-percentage arm attack when opponent straightens arm defending shoulder locks"
+    },
+    {
+      "name": "Americana from Modified Mount",
+      "relationship": "Shoulder lock variant sharing the same modified mount setup opportunities"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Kimura Trap",
+      "relationship": "Control position for isolating the arm with similar shoulder lock mechanics and grip configurations"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Traditional shoulder lock using figure-four mechanics with bent-arm positioning rather than straight-arm hyperextension"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Primary starting position for applying the Mir Lock with dominant control"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative top position offering excellent Mir Lock opportunities with limited escape options"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Top position that can transition to Mir Lock when opponent turns to side defensively"
+    },
+    {
+      "name": "Kimura to Back Take",
+      "relationship": "Alternative transition if opponent defends the shoulder lock by rolling"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Related shoulder lock with internal rotation mechanics that chains well with Mir Lock attacks"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Alternative top control position offering strong arm isolation opportunities for Mir Lock setup"
+    },
+    {
+      "name": "Knee on Belly",
+      "relationship": "Transitional control position that can flow to Mir Lock when opponent exposes their arm defensively"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Mir Lock from North-South Position",
+      "description": "Apply the same shoulder lock mechanics from north-south control by capturing the near arm, establishing figure-four grip, and driving your chest weight downward through the shoulder while lifting the elbow. This variation provides excellent control as the opponent has limited escape options from this angle.",
+      "when_to_use": "When you achieve north-south position and the opponent extends their arm defensively or attempts to frame against your chest"
+    },
+    {
+      "variation_name": "Mir Lock from Modified Mount",
+      "description": "From modified mount position with one leg stepped over the opponent's body, isolate the trapped-side arm and apply the Mir Lock by dropping your weight to that side while maintaining mount control with your posted leg. This allows you to threaten both mount attacks and the shoulder lock simultaneously.",
+      "when_to_use": "When opponent defends mount by turning to their side and extends their bottom arm for framing or posting"
+    },
+    {
+      "variation_name": "Reverse Mir Lock (Kimura Mechanics)",
+      "description": "Apply similar shoulder rotation but with the figure-four grip positioned to create internal rotation rather than external rotation, functioning more like a Kimura but with the extended arm mechanics of the Mir Lock. This variation attacks the shoulder from a different angle when the standard Mir Lock angle is defended.",
+      "when_to_use": "When opponent defends the standard Mir Lock by straightening their arm and turning their palm upward"
+    },
+    {
+      "variation_name": "Standing Mir Lock from Turtle Position",
+      "description": "When opponent is in turtle and posts their arm to the side for base, capture the wrist with both hands and drive your hips forward while lifting the elbow and pulling the wrist backward. This standing variation creates tremendous leverage but requires careful application due to the difficulty of controlling the opponent's body position.",
+      "when_to_use": "When attacking turtle position and opponent makes the mistake of posting their arm wide for base rather than keeping elbows tight"
+    }
+  ],
+  "clips": [
+    {
+      "id": "6IVQPq5BJZ0",
+      "title": "Top Side Mir Lock (Shoulder Submission) No-Gi",
+      "by": "ZombieProofBJJ",
+      "vertical": false,
+      "channel": "ZombieProofBJJ",
+      "duration": 83,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "8dFph1erRNE",
+      "title": "Knee Shield Series - Mir Lock",
+      "by": "TAPS BJJ",
+      "vertical": false,
+      "channel": "TAPS BJJ",
+      "duration": 168,
+      "verified": "2026-07-14"
+    }
+  ]
+}

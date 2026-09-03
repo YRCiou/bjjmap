@@ -1,0 +1,270 @@
+{
+  "name": "Anaconda Choke",
+  "description": "Master the Anaconda Choke in BJJ. Complete guide covering setup from turtle and front headlock, finishing mechanics, safety protocols, and defensive strategies.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "blood-choke",
+    "front-headlock",
+    "turtle-attacks",
+    "gi",
+    "no-gi",
+    "anaconda",
+    "darce-connection",
+    "hub",
+    "finishing-guide"
+  ],
+  "disambiguations": [
+    {
+      "name": "Darce Choke",
+      "reason": "the D'Arce threads under the opponent's near arm — opposite arm threading"
+    }
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "Front Headlock",
+  "from_position": "Anaconda Control/Top",
+  "success_rate": {
+    "gi": 65,
+    "nogi": 65
+  },
+  "summary": "The Anaconda Choke is a front-headlock blood choke that traps the opponent's head and near arm in a figure-four, driving their own shoulder into one carotid while your forearm compresses the other.",
+  "overview": "Within the modern front-headlock attack system, the Anaconda is the arm-in strangle you turn to when the opponent buries their head and keeps their near arm pinned to their body. Named for the constricting serpent, the submission wraps around the opponent's neck and trapped arm to create a powerful strangling mechanism, most commonly applied from turtle position or front headlock control when the opponent defends with their head down. Unlike the rear naked choke which attacks from behind, the Anaconda approaches from the side, threading one arm under the opponent's neck and opposite armpit while the other arm completes the figure-four grip.\n\nThe submission's effectiveness comes from the combined pressure of the choking arm against the carotid artery while the opponent's own shoulder is driven into their opposite carotid. This dual-sided pressure creates a rapid loss of consciousness if not defended immediately. The Anaconda is particularly effective in no-gi grappling where the absence of collar grips forces opponents to defend with posture, creating the head-down position ideal for this attack.\n\nThe technique has become a staple in modern BJJ competition, with the Anaconda-to-Darce chain representing one of the highest-percentage front headlock attack systems available. Mastering the Anaconda requires understanding the precise arm threading depth, the critical role of the opponent's trapped shoulder in creating bilateral compression, and the rolling mechanics that generate finishing pressure through hip drive rather than arm strength alone.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from carotid artery compression",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential for confusion lasting 5-30 seconds"
+      },
+      {
+        "injury": "Tracheal compression and airway damage",
+        "severity": "Medium",
+        "recovery_time": "1-3 days for minor bruising; 1-2 weeks for significant trauma"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress",
+        "severity": "Medium",
+        "recovery_time": "3-7 days for minor strain; 2-4 weeks for moderate injury"
+      },
+      {
+        "injury": "Shoulder impingement from trapped arm position",
+        "severity": "Low",
+        "recovery_time": "1-3 days"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum from initial pressure to full compression. Allow partner time to recognize position and tap.",
+    "tap_signals": [
+      "Verbal tap (any verbal signal of submission)",
+      "Physical hand tap on opponent's body",
+      "Physical foot tap on mat",
+      "Desperate hand waving or frantic movement",
+      "Any loss of resistance or limpness"
+    ],
+    "release_protocol": [
+      "Immediately open figure-four grip upon tap signal",
+      "Remove choking arm from under opponent's neck",
+      "Create space by moving body away from opponent",
+      "Monitor partner for 10-15 seconds to ensure full consciousness",
+      "If partner shows signs of unconsciousness, place in recovery position and alert instructor"
+    ],
+    "training_restrictions": [
+      "Never crank or jerk the choke - apply pressure smoothly and progressively",
+      "Never use competition speed during drilling or light sparring",
+      "Always ensure partner has clear tap access with at least one hand",
+      "Stop immediately if partner makes any distress sound or shows panic",
+      "Never continue pressure after tap signal - instant release required",
+      "Avoid practicing on partners with known neck injuries without instructor approval"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Anaconda Control",
+      "slug": "from-anaconda-control",
+      "description": "Primary finish from established anaconda control position"
+    },
+    {
+      "name": "from Dead Orchard",
+      "slug": "from-dead-orchard",
+      "description": "Finishing sequence from Dead Orchard control (10th Planet front headlock system)"
+    }
+  ],
+  "from_positions": [
+    "Front Headlock",
+    "Turtle",
+    "Anaconda Control",
+    "Standing Position",
+    "Clinch",
+    "Combat Base",
+    "Half Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Darce Choke",
+      "relationship": "Sister arm-in choke with reversed arm threading direction sharing identical setups"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Front headlock choke family sharing common entries from turtle and sprawl"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Arm-in choke family with similar bilateral carotid compression mechanics"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Blood choke targeting same carotid arteries from rear control position"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Gi-specific arm-in choke variation from front headlock and passing positions"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Arm-in guillotine variation with shared front headlock entries and transitions"
+    },
+    {
+      "name": "Anaconda Choke from Dead Orchard",
+      "relationship": "Advanced finishing variation accessed through Dead Orchard control pathway"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Front Headlock to Anaconda",
+      "relationship": "Primary setup transition from front headlock control"
+    },
+    {
+      "name": "Anaconda from Turtle",
+      "relationship": "Common entry transition from opponent's turtle position"
+    },
+    {
+      "name": "Anaconda Setup",
+      "relationship": "General setup technique for establishing Anaconda control"
+    },
+    {
+      "name": "Darce from Turtle",
+      "relationship": "Alternative submission from same position with related mechanics"
+    },
+    {
+      "name": "Darce Setup",
+      "relationship": "Complementary technique with shared setup principles"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Control position from which Anaconda is commonly initiated"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Primary attacking position for Anaconda setups"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Position you can transition to if Anaconda attempt fails"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative finishing position for Marce variation"
+    },
+    {
+      "name": "Darce Control",
+      "relationship": "Control position closely related to Anaconda mechanics"
+    },
+    {
+      "name": "Anaconda Control",
+      "relationship": "Specific control position for setting up the Anaconda finish"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Anaconda from Failed Sprawl",
+      "description": "When opponent shoots a takedown and you sprawl, but they maintain head-down position with arm between your legs, secure front headlock control and thread your arm under their neck from the sprawl position. This is a common MMA and no-gi entry.",
+      "when_to_use": "When defending takedowns against wrestlers or when opponent drives forward with poor posture"
+    },
+    {
+      "variation_name": "Anaconda to Darce Transition",
+      "description": "If opponent defends Anaconda by straightening their trapped arm, immediately transition to Darce choke by switching your choking arm to the opposite side of their neck. The two techniques are closely related and this transition is seamless.",
+      "when_to_use": "When opponent's trapped arm escape makes Anaconda finish impossible"
+    },
+    {
+      "variation_name": "Anaconda from Turtle/Far Side",
+      "description": "From turtle position, instead of threading under near side, reach across opponent's back to far side and thread your arm under their far-side neck, trapping their far-side arm. This requires more mobility but surprises opponents defending the near-side attack.",
+      "when_to_use": "When opponent is defending near-side attacks effectively or when you have better angle to far side"
+    },
+    {
+      "variation_name": "Marce Choke (Modified Anaconda)",
+      "description": "Similar setup to Anaconda but instead of rolling to side with figure-four, you transition to North-South position and apply pressure from top. This variation works when opponent's base is too strong to roll them.",
+      "when_to_use": "When opponent has strong base and prevents your roll, or in gi when you can use lapel control"
+    },
+    {
+      "variation_name": "Standing Anaconda",
+      "description": "Apply Anaconda choke from standing position during takedown defense or front headlock clinch. Less common but effective when you have strong front headlock control and opponent cannot counter-wrestle effectively.",
+      "when_to_use": "In standing grappling exchanges or when opponent is on knees but not flat on turtle"
+    },
+    {
+      "variation_name": "Arm-In Anaconda",
+      "description": "When opponent posts defensive arm to prevent standard anaconda roll, capture their arm inside your lock alongside their head. This variation sacrifices some pure choking efficiency but gains superior control and prevents their primary defensive frame. The trapped arm becomes an additional compression point. Particularly effective against wrestlers who instinctively post.",
+      "when_to_use": "When opponent establishes strong defensive post with near arm; when opponent has superior scrambling ability requiring maximum control; in no-gi when arm control is more reliable than position"
+    },
+    {
+      "variation_name": "High Elbow Anaconda",
+      "description": "Instead of rolling or dropping elbow, maintain elevated elbow position near opponent's temple while driving shoulder into their neck. This creates darce-style shoulder pressure while maintaining anaconda arm configuration. Highly effective standing or when opponent sprawls. Requires less body movement, making it faster to finish in scrambles.",
+      "when_to_use": "When opponent stands or sprawls making rolling difficult; when in scramble situation requiring quick finish; against flexible opponents who can defend standard roll; in transitions from takedown attempts"
+    },
+    {
+      "variation_name": "Marce Choke (Anaconda-Darce Hybrid)",
+      "description": "Combine anaconda arm positioning with darce-style shoulder driving mechanics. After securing anaconda grip, instead of rolling, walk your feet toward opponent's head while driving your shoulder into their neck. This creates intense pressure from unusual angle that defeats traditional anaconda defenses. Named for its hybrid nature combining arm triangle and anaconda mechanics.",
+      "when_to_use": "When standard anaconda angle is compromised; when opponent defends their neck exceptionally well; from certain turtle positions where rolling is impractical; when you want standing finish option"
+    },
+    {
+      "variation_name": "Reverse Anaconda Roll",
+      "description": "After securing standard anaconda, roll toward your non-choking shoulder instead of choking shoulder. This unorthodox direction often surprises opponents and can create tighter angle when their body positioning makes standard roll awkward. Requires excellent body awareness and comfort with unusual mechanics.",
+      "when_to_use": "When opponent's base is particularly strong on choking side; when standard roll direction is blocked by cage or training partner; as surprise tactic against opponents familiar with your standard pattern"
+    },
+    {
+      "variation_name": "Standing Anaconda Variation",
+      "description": "Secure anaconda lock while both you and opponent are standing or in combat base. Instead of rolling, use your free hand to post on opponent's far hip or back of knee. Drive your choking shoulder downward while lifting with your hips. This creates severe compression without requiring ground transition. Particularly effective in no-gi or MMA contexts where staying standing has strategic value.",
+      "when_to_use": "In scrambles where both grapplers are standing; when you want to avoid guard pull or bottom position; against opponents with dangerous guard games; in MMA contexts where ground fighting is disadvantageous"
+    }
+  ],
+  "clips": [
+    {
+      "id": "DHYmDsncdS8",
+      "title": "Anaconda choke finish",
+      "by": "Marcelo Garcia",
+      "vertical": false,
+      "channel": "forlogosVideos",
+      "duration": 126,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "RbkOnRb2lvA",
+      "title": "Anaconda choke",
+      "by": "Ninja Pinto",
+      "vertical": false,
+      "channel": "Ninja Pinto BJJ",
+      "duration": 49,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "1e2GPOUYR-o",
+      "title": "Fix your anaconda chokes",
+      "by": "Lycan",
+      "vertical": false,
+      "channel": "Lycan",
+      "duration": 41,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "dr66s8QK9_g",
+      "title": "Anaconda finish details, S-grip",
+      "by": "Ben Eddy",
+      "vertical": false,
+      "channel": "Ben Eddy Bravo",
+      "duration": 96,
+      "verified": "2026-07-14"
+    }
+  ]
+}

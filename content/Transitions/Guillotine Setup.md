@@ -1,0 +1,369 @@
+
+
+
+
+---
+title: "Guillotine Setup | BJJ Technique | BJJ Map"
+description: "Learn Guillotine Setup in BJJ. Step-by-step execution from Front Headlock to Guillotine Control with grip mechanics, angle creation, and finishing paths."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Guillotine Setup",
+  "description": "Learn Guillotine Setup in BJJ. Step-by-step execution from Front Headlock to Guillotine Control with grip mechanics, angle creation, and finishing paths.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Guillotine Setup", "item": "https://bjjmap.pages.dev/Transitions/Guillotine-Setup" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Guillotine Setup \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Guillotine choke setup from turtle",
+      "description": "Guillotine Setup film study: Guillotine choke setup from turtle, taught by Cavalo Jiu-Jitsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mw5qLLzjay4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Mw5qLLzjay4",
+      "url": "https://www.youtube.com/watch?v=Mw5qLLzjay4",
+      "creator": { "@type": "Person", "name": "Cavalo Jiu-Jitsu" },
+      "duration": "PT49S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "High elbow guillotine from front turtle",
+      "description": "Guillotine Setup film study: High elbow guillotine from front turtle, taught by Michael Hoffman.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6mHJ8Mh6fDs/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/6mHJ8Mh6fDs",
+      "url": "https://www.youtube.com/watch?v=6mHJ8Mh6fDs",
+      "creator": { "@type": "Person", "name": "Michael Hoffman" },
+      "duration": "PT22S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Snap down setup off the single leg",
+      "description": "Guillotine Setup film study: Snap down setup off the single leg, taught by Marcelo Garcia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QMKv_AlTie8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/QMKv_AlTie8",
+      "url": "https://www.youtube.com/watch?v=QMKv_AlTie8",
+      "creator": { "@type": "Person", "name": "Marcelo Garcia" },
+      "duration": "PT134S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Guillotine Setup",
+  "description": "The Guillotine Setup is a submission-entry transition that converts dominant front-headlock control into a locked guillotine choke by threading the choking arm deep under the opponent's chin, clasping a grip, and angling off to trap the neck.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Guillotine Setup/Attacker|Play as Attacker]]
+[[Guillotine Setup/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**The Guillotine Setup is a submission-entry transition that converts dominant front-headlock control into a locked guillotine choke by threading the choking arm deep under the opponent's chin, clasping a grip, and angling off to trap the neck.**
+
+The Guillotine Setup represents one of the most fundamental and highest-percentage submission entries in Brazilian Jiu-Jitsu, serving as a critical bridge between controlling the opponent's head and securing a fight-finishing choke. This transition capitalizes on the dominant front headlock position, where the practitioner has already secured head control and posture dominance, and systematically converts this control into a guillotine choke configuration. The setup is characterized by precise arm placement around the opponent's neck, proper hand positioning for maximum leverage, and strategic body alignment that maximizes choking pressure while minimizing escape opportunities.
+
+What makes this setup particularly valuable is its versatility across multiple contexts—it can be executed from standing exchanges, scrambles, failed takedown attempts, or ground transitions, making it an essential tool for practitioners at all levels. The guillotine setup embodies the principle of capitalizing on opponent mistakes, as it most commonly presents itself when an opponent shoots for a takedown, turtles defensively, or attempts to pass guard with poor posture. Understanding the nuances of grip configuration, head positioning, and hip placement during the setup phase dramatically increases the success rate of the subsequent choke, as a properly established guillotine is extraordinarily difficult to defend once locked in place.
+
+**From Position**: [[Positions/Front Headlock]] (Top)
+**Success Rate**: 37%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Guillotine Setup in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=Mw5qLLzjay4)
+
+<p class="clip-credit"><strong>Guillotine choke setup from turtle</strong> — taught by Cavalo Jiu-Jitsu · 0:49 · <a href="https://www.youtube.com/watch?v=Mw5qLLzjay4" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=6mHJ8Mh6fDs)
+
+<p class="clip-credit"><strong>High elbow guillotine from front turtle</strong> — taught by Michael Hoffman · 0:22 · <a href="https://www.youtube.com/watch?v=6mHJ8Mh6fDs" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=QMKv_AlTie8)
+
+<p class="clip-credit"><strong>Snap down setup off the single leg</strong> — taught by Marcelo Garcia · 2:14 · <a href="https://www.youtube.com/watch?v=QMKv_AlTie8" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Guillotine Control]] | 60% |
+| Failure | [[Positions/Front Headlock]] | 25% |
+| Counter | [[Positions/Front Headlock]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Secure deep arm placement around opponent's neck before atte... | Chin tucked to chest at all times—preventing neck extension ... |
+| **Options** | 7 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Guillotine Setup/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Secure deep arm placement around opponent's neck before attempting to finish—depth determines choking power
+
+- Maintain head control throughout the transition to prevent opponent from posturing or escaping
+
+- Position your choking arm's wrist bone against opponent's trachea for focused pressure
+
+- Control opponent's posture by keeping their head low and preventing them from standing upright
+
+- Create proper angle by stepping to 45 degrees rather than staying square to opponent
+
+- Lock your grip tightly before committing to the finishing position
+
+- Use your non-choking hand to reinforce the primary grip and eliminate gaps in the choking loop
+
+
+### Execution Steps
+
+
+- **Secure front headlock position**: Establish dominant front headlock control with your arm wrapped around opponent's head, controlling ...
+
+- **Thread choking arm deep**: Release your controlling arm and immediately thread it deep under the opponent's chin, driving your ...
+
+- **Establish choking grip**: Once your choking arm is deep, bring your opposite hand to meet it. For maximum leverage, use a palm...
+
+- **Step to angle**: Step your feet to create a 45-degree angle relative to your opponent's body, moving toward the side ...
+
+- **Secure head position**: Drive your chest and shoulder into the opponent's head, pinning it against your ribcage. Your head s...
+
+- **Lock elbow position**: Bring your choking-side elbow tight to your ribcage, creating a compact, powerful frame. Your forear...
+
+- **Transition to finishing position**: From the established guillotine setup, transition to your chosen finishing position: pull guard and ...
+
+
+### Common Mistakes
+
+
+- **Threading the choking arm too shallow under the chin**
+  - Consequence: Opponent easily tucks chin and creates defensive space, making the choke ineffective and easily escapable
+  - Correction: Drive your shoulder forward as you thread the arm, aiming to get your wrist bone—not your forearm—across their throat. Think about reaching for their far shoulder as you penetrate.
+
+- **Staying square to opponent instead of stepping to angle**
+  - Consequence: Opponent can drive straight into you, stack you, or simply posture up to escape, as you have minimal leverage from a squared-up position
+  - Correction: Always step to create a 45-degree angle toward your choking arm side. This angle multiplies your leverage and makes it nearly impossible for them to drive into you effectively.
+
+- **Releasing head control too early before securing the grip**
+  - Consequence: Opponent immediately postures up and escapes before you can establish the guillotine configuration
+  - Correction: Maintain front headlock control until the exact moment you thread your choking arm. The transition should be smooth and continuous with no gap where their head is free.
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Guillotine Setup/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Chin tucked to chest at all times—preventing neck extension is the single most important defensive action
+
+- Fight the choking arm at the wrist or elbow before the grip is locked, not after
+
+- Drive into the attacker rather than pulling away—retreating tightens the choke and exposes your neck further
+
+- Use your near arm to create a frame against the attacker's hip to prevent them from stepping to an angle
+
+- Recognize the difference between front headlock control and guillotine setup intent early—the earlier you react, the easier the defense
+
+- If the grip is secured, immediately address your body angle relative to the attacker to reduce choking leverage
+
+- Maintain composure and systematic defensive responses rather than panicking into explosive movements that waste energy
+
+
+### Recognition Cues
+
+
+- Attacker releases far shoulder control and begins repositioning their arm under your chin rather than across the back of your neck—this is the transition from front headlock to guillotine
+
+- You feel the attacker's wrist bone or forearm blade moving across the front of your throat rather than pressure on the back of your neck—indicating they are threading the choking arm
+
+- Attacker begins stepping laterally to create an angle on your choking arm side, often accompanied by a shift in their hip pressure from directly above you to the side
+
+- Attacker's opposite hand releases your far shoulder and moves toward their choking hand to establish a clasped grip—this is the grip formation phase
+
+- Attacker drives their shoulder and chest forward into the side of your head, pinning it against their ribcage—this head-pinning action confirms guillotine intent
+
+
+### Defensive Options
+
+
+- **Tuck chin and strip the choking arm at the wrist before the grip is locked** - When: During the initial threading phase when the attacker is transitioning from front headlock to guillotine—before they clasp their hands together
+
+- **Drive forward aggressively with your shoulder into the attacker's hips while keeping chin tucked to stack them** - When: When the attacker has begun stepping to an angle but has not yet established a deep grip—use their transitional instability against them
+
+- **Circle away from the choking arm side while hand fighting to prevent grip consolidation** - When: When the attacker has partially established their grip but has not yet pinned your head—circling removes you from their optimal angle
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**High Elbow Guillotine Setup**: Instead of keeping the elbow tight to the ribs, the choking arm's elbow is raised higher, with the forearm driving at an upward angle against the throat. This variation is particularly effective when the opponent has successfully tucked their chin. (When to use: Use when opponent tucks chin defensively or when you have long arms that create gaps with traditional positioning. Also highly effective in no-gi situations where clothing cannot be used for additional leverage.)
+
+
+**Arm-In Guillotine Setup**: The opponent's near arm is trapped inside your guillotine grip rather than being left outside. Your choking arm goes over their shoulder and under their chin, capturing their arm in the process. This creates a different choking mechanism that is harder to defend once established. (When to use: Excellent when opponent drives into you with their arm extended, during scrambles where you catch them mid-movement, or when transitioning from failed takedown defense. Particularly powerful from guard positions.)
+
+
+**Standing Guillotine Setup**: The entire setup is completed while both practitioners remain standing, with the finish executed by dropping weight downward and arching the back while maintaining vertical posture. No guard pull is involved. (When to use: Use in MMA contexts, submission-only competition where guard pulls may be penalized or strategically disadvantageous, or when your opponent is particularly dangerous from top positions and you want to avoid pulling them into your guard.)
+
+
+**Jump Guard Guillotine Setup**: After establishing the basic guillotine grip, instead of pulling guard normally, you jump and wrap your legs high on the opponent's back at shoulder blade level, creating additional breaking pressure on their posture while securing the choke. (When to use: Most effective when opponent is bent over significantly and you have an exceptionally deep grip. Common in submission-only formats where aggressive attacks are rewarded. Requires good timing and explosive jumping ability.)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+The guillotine setup occupies a critical junction point in the BJJ positional hierarchy, serving as the primary offensive weapon from the front headlock position while also functioning as an opportunistic attack from numerous transitional scenarios. From a systematic perspective, the front headlock itself sits in the category of dominant head control positions, alongside back control and certain north-south variations, where controlling the opponent's head provides significant strategic advantage. The guillotine setup represents the natural evolution from front headlock control to a submission threat, forcing opponents to respect your offense even when they believe they are in a relatively safe position. This technique integrates seamlessly into multiple strategic frameworks: it serves as a punishment for poor takedown execution, a defensive counter to over-aggressive passing attempts, and an offensive weapon from bottom guard positions. The setup creates a decision tree for opponents—if they drive forward to escape, you can pull guard and finish; if they try to back out, you can follow and maintain control; if they circle away, you can transition to alternative front headlock attacks or take the back. Understanding the guillotine setup is essential for developing a complete submission game, as it represents one of the highest-percentage submission entries in both gi and no-gi contexts across all skill levels.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Transitions/Front Headlock to Guillotine]] - Direct follow-up transition from front headlock to guillotine finish
+
+- [[Submissions/Guillotine Choke]] - Primary submission finish after successful guillotine setup
+
+- [[Submissions/High Elbow Guillotine]] - Submission variation using elevated elbow mechanics
+
+- [[Transitions/Front Headlock to Anaconda]] - Alternative attack from same starting position
+
+- [[Transitions/Front Headlock to Darce]] - Alternative attack from same starting position
+
+- [[Transitions/Snap Down to Front Headlock]] - Entry method to establish the starting position
+
+- [[Transitions/Guillotine from Turtle]] - Alternative entry when opponent turtles
+
+- [[Submissions/Arm in Guillotine]] - Submission variation with trapped arm
+
+- [[Submissions/Ten Finger Guillotine]] - Grip variation for the finish
+
+- [[Transitions/Guillotine Defense]] - Counter-perspective showing opponent's defensive options
+
+- [[Transitions/Front Headlock to Back]] - Alternative positional advancement from same control
+
+- [[Submissions/Chin Strap Guillotine/from Front Headlock]] - Submission variation with chin strap grip
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Danaher-Front-Headlock-System" data-cta="related-system-card" data-system-slug="systems/danaher-front-headlock-system" data-system-name="Danaher Front Headlock System" data-member-count="30"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Danaher Front Headlock System</span><span class="system-card__unlocks-badge">Unlocks 30 techniques</span><span class="system-card__blurb">Setup mechanics for guillotine pathway entry</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Control System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/MMA-Crossover-Strategy" data-cta="related-system-card" data-system-slug="systems/mma-crossover-strategy" data-system-name="MMA Crossover Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">MMA Crossover Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Explosive submission entry from sprawl and front headlock positions</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Marcelo-Garcia-Guillotine-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-guillotine-system" data-system-name="Marcelo Garcia Guillotine System" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia Guillotine System</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Initial entry mechanics and grip establishment sequences</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Tactical-Framework" data-cta="related-system-card" data-system-slug="systems/no-gi-tactical-framework" data-system-name="No-Gi Tactical Framework" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Tactical Framework</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">High-percentage submission entry in no-gi exchanges</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Marcelo-Garcia-X-Guard-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-x-guard-system" data-system-name="Marcelo Garcia X-Guard System" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia X-Guard System</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Submission entry when opponent defends by lowering posture</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Competition-Approach" data-cta="related-system-card" data-system-slug="systems/no-gi-competition-approach" data-system-name="No-Gi Competition Approach" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Competition Approach</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Opportunistic submission entry in no-gi scrambles</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

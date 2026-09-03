@@ -1,0 +1,412 @@
+
+
+
+
+---
+title: "Invisible Collar Bottom | BJJ Position Guide | BJJ Map"
+description: "Defend Invisible Collar position from bottom with grip removal tactics, neck defense mechanics, and escape strategies. Complete defensive framework."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Escapes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Escape Invisible Collar Bottom",
+  "description": "Step-by-step guide to escaping and defending Invisible Collar position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Hand Fighting to Remove Collar Grip",
+      "text": "From this position, attempt Hand Fighting to Remove Collar Grip. This technique is attempted in 39% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Hip Escape to Guard",
+      "text": "From this position, attempt Hip Escape to Guard. This technique is attempted in 21% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Elbow Escape to Remove Hooks",
+      "text": "From this position, attempt Elbow Escape to Remove Hooks. This technique is attempted in 15% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Rolling Escape to Guard",
+      "text": "From this position, attempt Rolling Escape to Guard. This technique is attempted in 8% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Standing Escape",
+      "text": "From this position, attempt Standing Escape. This technique is attempted in 11% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Granby Roll to Guard",
+      "text": "From this position, attempt Granby Roll to Guard. This technique is attempted in 6% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you failing to recognize invisible collar setup until choke is already tight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Defender forced into emergency defense with very limited escape options and high submission probability The correct approach is: Develop habit of constantly checking opponent's hand positions during back control, treating any collar contact as potential threat requiring immediate attention"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you using single hand to fight collar grip while opponent has both hands available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ineffective hand fighting that allows opponent to maintain and deepen grip while defender wastes energy The correct approach is: Commit both hands to removing collar grip using two-on-one control, accepting temporary vulnerability to other attacks in exchange for neutralizing primary threat"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you extending chin upward or away while attempting escape?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creates additional space for choking mechanics and increases angle of attack for opponent's finishing pressure The correct approach is: Maintain aggressive chin tuck throughout all escape attempts, using neck muscles to compress the space and limit choking effectiveness"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you panicking and using explosive movements without systematic approach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Burns energy rapidly while creating opportunities for opponent to transition to alternative submissions or tighten existing control The correct approach is: Follow systematic escape sequence addressing grip removal, hook removal, and position recovery in logical order rather than random explosive attempts"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you ignoring hook control while focusing entirely on collar grip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent maintains positional dominance and can simply wait for defender to tire before applying finishing pressure The correct approach is: Coordinate simultaneous attacks on both grip and hooks, using hip movement and hand fighting together to create compound problems for opponent"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Invisible Collar Bottom",
+  "description": "Defend Invisible Collar position from bottom with grip removal tactics, neck defense mechanics, and escape strategies. Complete defensive framework.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Invisible Collar Bottom",
+      "item": "https://bjjmap.pages.dev/Positions/Invisible-Collar-Bottom"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Invisible Collar (Bottom) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Invisible Collar Choke from Rubber Guard",
+      "description": "Invisible Collar (Bottom) film study: Invisible Collar Choke from Rubber Guard, taught by David Thomas.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CHT81JnfD2Q/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CHT81JnfD2Q",
+      "url": "https://www.youtube.com/watch?v=CHT81JnfD2Q",
+      "creator": { "@type": "Person", "name": "David Thomas" },
+      "duration": "PT57S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Rubber Guard Double Invisible Collar Choke",
+      "description": "Invisible Collar (Bottom) film study: Rubber Guard Double Invisible Collar Choke, taught by Denny Prokopos.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/km9506KvIJg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/km9506KvIJg",
+      "url": "https://www.youtube.com/watch?v=km9506KvIJg",
+      "creator": { "@type": "Person", "name": "Denny Prokopos" },
+      "duration": "PT41S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+Defending the Invisible Collar from bottom requires immediate recognition of the deceptive grip structure before full choking pressure develops. Unlike standard back control escapes, invisible collar defense demands specific attention to hand fighting the collar grip while simultaneously working to remove hooks and create escape opportunities. The defender must understand that what appears to be a passive positional grip can transform into a fight-ending choke within seconds, making early recognition and aggressive defense critical.
+
+The primary defensive challenge lies in the grip's concealed nature—many practitioners fail to recognize the invisible collar setup until choking pressure begins, at which point the grip is often too deep to remove through conventional hand fighting. Effective defense requires proactive grip checking and awareness of subtle hand positioning changes that indicate collar setup. The defender must also manage multiple threats simultaneously, as attempting to remove the collar grip often creates opportunities for rear naked chokes, armbars, or crucifix transitions.
+
+Successful escape from invisible collar bottom involves systematic approach to neutralizing the grip, protecting the neck, and recovering to safer positions. This requires coordinating hand fighting with hip movement, maintaining defensive posture to limit choking angles, and exploiting moments when the attacker commits to finishing attempts. The defender must also understand the submission chain logic the attacker employs, recognizing that purely defensive reactions often lead to alternative submissions rather than genuine escape opportunities.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Invisible Collar (Bottom) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=CHT81JnfD2Q)
+
+<p class="clip-credit"><strong>Invisible Collar Choke from Rubber Guard</strong> — taught by David Thomas · 0:57 · <a href="https://www.youtube.com/watch?v=CHT81JnfD2Q" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=km9506KvIJg)
+
+<p class="clip-credit"><strong>Rubber Guard Double Invisible Collar Choke</strong> — taught by Denny Prokopos · 0:41 · <a href="https://www.youtube.com/watch?v=km9506KvIJg" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Invisible Collar (Bottom)?</p>
+
+- Defender's back exposed to opponent with attacker's chest connected to defender's upper back, maintaining back control position that defender must escape from immediately
+- At least one opponent hook inserted under defender's leg creating lower body control that limits hip mobility and escape angles available to defender
+- Opponent's hand deeply inserted into defender's collar creating immediate submission threat that defender must address through aggressive hand fighting and neck protection
+- Defender experiences forward compression of posture with opponent's weight driving down onto shoulders and upper back, limiting breathing and creating submission vulnerability
+- Defender's defensive hand positioning focused on protecting neck area and attempting to remove collar grip while managing hook control and preventing additional attacks
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Invisible Collar (Bottom)?</p>
+
+- Opponent has established back control with at least one hook
+- Defender wearing gi with collar material available for opponent's grip
+- Opponent has established or is establishing deep collar penetration
+- Defender has not yet recognized full extent of submission threat
+- Opponent maintains seatbelt or similar upper body control structure
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Defensive Principles
+
+<p class="section-subtitle">What are the key principles for defending Invisible Collar?</p>
+
+- Recognize invisible collar setup early through proactive grip checking
+- Protect neck immediately when collar grip depth increases
+- Coordinate hand fighting with hip escape movements simultaneously
+- Maintain chin tucked to limit choking angles while working escape
+- Prioritize removing hooks over pure hand fighting to reduce overall control
+- Create frames and space to prevent opponent from tightening finishing position
+- Escape to guard or neutral position rather than attempting to reverse to top
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Invisible Collar (Bottom)?</p>
+
+**If collar grip is shallow and not yet dangerous:**
+- Execute **[[Aggressive Hand Fighting to Remove Grip/Attacker|Aggressive Hand Fighting to Remove Grip]]** → [[Positions/Back Control]] (Probability: 40%)
+- Execute **[[Focus on Removing Hooks First/Attacker|Focus on Removing Hooks First]]** → [[Positions/Turtle]] (Probability: 45%)
+
+
+**If collar grip is deep and immediate threat exists:**
+- Execute **[[Emergency Chin Tuck and Neck Defense/Attacker|Emergency Chin Tuck and Neck Defense]]** → [[Positions/Back Control]] (Probability: 50%)
+- Execute **[[Explosive Hip Escape Attempt/Attacker|Explosive Hip Escape Attempt]]** → [[Positions/Half Guard]] (Probability: 35%)
+
+
+**If one hook is removed but collar grip remains:**
+- Execute **[[Turn into Opponent to Remove Second Hook/Attacker|Turn into Opponent to Remove Second Hook]]** → [[Positions/Half Guard]] (Probability: 48%)
+- Execute **[[Stand Up Escape/Attacker|Stand Up Escape]]** → [[Positions/Clinch]] (Probability: 30%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Defensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when defending Invisible Collar?</p>
+
+### 1. Failing to recognize invisible collar setup until choke is already tight
+
+- ❌ **Consequence**: Defender forced into emergency defense with very limited escape options and high submission probability
+- ✅ **Correction**: Develop habit of constantly checking opponent's hand positions during back control, treating any collar contact as potential threat requiring immediate attention
+
+### 2. Using single hand to fight collar grip while opponent has both hands available
+
+- ❌ **Consequence**: Ineffective hand fighting that allows opponent to maintain and deepen grip while defender wastes energy
+- ✅ **Correction**: Commit both hands to removing collar grip using two-on-one control, accepting temporary vulnerability to other attacks in exchange for neutralizing primary threat
+
+### 3. Extending chin upward or away while attempting escape
+
+- ❌ **Consequence**: Creates additional space for choking mechanics and increases angle of attack for opponent's finishing pressure
+- ✅ **Correction**: Maintain aggressive chin tuck throughout all escape attempts, using neck muscles to compress the space and limit choking effectiveness
+
+### 4. Panicking and using explosive movements without systematic approach
+
+- ❌ **Consequence**: Burns energy rapidly while creating opportunities for opponent to transition to alternative submissions or tighten existing control
+- ✅ **Correction**: Follow systematic escape sequence addressing grip removal, hook removal, and position recovery in logical order rather than random explosive attempts
+
+### 5. Ignoring hook control while focusing entirely on collar grip
+
+- ❌ **Consequence**: Opponent maintains positional dominance and can simply wait for defender to tire before applying finishing pressure
+- ✅ **Correction**: Coordinate simultaneous attacks on both grip and hooks, using hip movement and hand fighting together to create compound problems for opponent
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Defense
+
+<p class="section-subtitle">How do you train Invisible Collar defense?</p>
+
+### Collar Grip Recognition Drill
+
+Partner establishes back control and randomly either establishes invisible collar or maintains standard seatbelt. Defender must identify within 3 seconds whether invisible collar is being set up and respond appropriately. Builds recognition speed and defensive awareness.
+
+**Duration**: 5 minutes, switch roles
+
+
+### Progressive Resistance Escape Drill
+
+Start with invisible collar established at 50% depth. Defender works systematic escape focusing on hand fighting and hip escape. Partner gradually increases resistance from 25% to 75% as defender improves technique. Reset when escape succeeds or submission occurs.
+
+**Duration**: 4-minute rounds, 3 rounds each
+
+
+### Emergency Defense Positional Sparring
+
+Start with invisible collar fully established and tight. Defender has 90 seconds to escape or survive without tapping. Develops emergency defensive skills and mental toughness under extreme pressure.
+
+**Duration**: 90-second rounds, 5 rounds with rest
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 30% |
+| Advancement Probability | 35% |
+| Submission Probability | 60% |
+
+**Average Time in Position**: 15-45 seconds from establishment to submission or escape
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/Back Control]]** - Position being defended against
+- **[[Positions/Half Guard]]** - Common escape target position
+- **[[Positions/Turtle]]** - Transitional escape position
+- **[[Submissions/Rear Naked Choke]]** - Alternative submission opponent may use
+- **[[Positions/Open Guard]]** - Recovery position after successful escape
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/10th-Planet-Rubber-Guard-System" data-cta="related-system-card" data-system-slug="systems/10th-planet-rubber-guard-system" data-system-name="10th Planet Rubber Guard System" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">10th Planet Rubber Guard System</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">No-gi collar control substitute position</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Rubber-Guard-to-Omoplata-System" data-cta="related-system-card" data-system-slug="systems/rubber-guard-to-omoplata-system" data-system-name="Rubber Guard to Omoplata System" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Rubber Guard to Omoplata System</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Advanced rubber guard variation integrating with system</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

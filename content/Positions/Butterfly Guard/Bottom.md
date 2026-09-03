@@ -1,0 +1,479 @@
+
+
+
+
+---
+title: "Butterfly Guard Bottom | BJJ Position Guide | BJJ Map"
+description: "Master Butterfly Guard Bottom in BJJ. Dynamic open guard with explosive sweeps, back takes, and X-Guard entries. Beginner 50%, Intermediate 65%, Advanced 80%."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Escapes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Escape Butterfly Guard Bottom",
+  "description": "Step-by-step guide to escaping and defending Butterfly Guard position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Butterfly Sweep",
+      "text": "From this position, attempt Butterfly Sweep. This technique is attempted in 22% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Elevator Sweep",
+      "text": "From this position, attempt Elevator Sweep. This technique is attempted in 11% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Arm Drag to Back",
+      "text": "From this position, attempt Arm Drag to Back. This technique is attempted in 13% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Butterfly Guard to X-Guard",
+      "text": "From this position, attempt Butterfly Guard to X-Guard. This technique is attempted in 11% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Guillotine Choke from Butterfly Guard",
+      "text": "From this position, attempt Guillotine Choke from Butterfly Guard. This technique is attempted in 7% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Single Leg X Entry",
+      "text": "From this position, attempt Single Leg X Entry. This technique is attempted in 10% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you lying flat on back instead of maintaining upright seated posture with active core?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eliminates leverage for sweeps and makes it easy for opponent to apply pressure and pass guard The correct approach is: Keep chest forward, core engaged, and maintain active seated position with weight on hips and hooks creating constant upward pressure"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you passive hooks that do not actively engage opponent's thighs with continuous elevator pressure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reduces elevation power and makes sweeps ineffective, allowing opponent to easily control distance and establish passing position The correct approach is: Actively drive hooks upward into opponent's inner thighs with constant elevator pressure, treating hooks as active tools not passive barriers"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you poor upper body control or ineffective gripping strategy that allows opponent good posture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent can maintain good posture and base, neutralizing sweep attempts and controlling the engagement The correct approach is: Establish strong grips on collar, sleeves, or underhooks to break opponent's posture and control their weight distribution before attempting sweeps"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you attempting sweeps without proper timing or setup, forcing techniques against opponent's base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wasted energy on failed sweep attempts and vulnerability to counter-passes during committed sweep attempts The correct approach is: Time sweeps with opponent's forward pressure or weight shifts; use grips to create off-balance before committing to sweep execution"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you neglecting transitions when sweeps are defended, becoming stagnant in position?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting stuck in stalemate or allowing opponent to establish dominant passing position while you remain inactive The correct approach is: Chain sweeps together and transition to X-Guard, Deep Half, or Back Takes when primary sweep is defended; maintain constant offensive pressure"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Butterfly Guard Bottom",
+  "description": "Master Butterfly Guard Bottom in BJJ. Dynamic open guard with explosive sweeps, back takes, and X-Guard entries. Beginner 50%, Intermediate 65%, Advanced 80%.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Butterfly Guard Bottom",
+      "item": "https://bjjmap.pages.dev/Positions/Butterfly-Guard-Bottom"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Butterfly Guard (Bottom) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "2-on-1 lift to back from butterfly",
+      "description": "Butterfly Guard (Bottom) film study: 2-on-1 lift to back from butterfly, taught by Lorenz Sadychow.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sJfkAL95S9k/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/sJfkAL95S9k",
+      "url": "https://www.youtube.com/watch?v=sJfkAL95S9k",
+      "creator": { "@type": "Person", "name": "Lorenz Sadychow" },
+      "duration": "PT61S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Butterfly sweep to crucifix",
+      "description": "Butterfly Guard (Bottom) film study: Butterfly sweep to crucifix, taught by Jean Jacques Machado.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_wEmnFzwFl0/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_wEmnFzwFl0",
+      "url": "https://www.youtube.com/watch?v=_wEmnFzwFl0",
+      "creator": { "@type": "Person", "name": "Jean Jacques Machado" },
+      "duration": "PT56S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Marcelo Garcia push sweep at ADCC",
+      "description": "Butterfly Guard (Bottom) film study: Marcelo Garcia push sweep at ADCC, taught by Marcelo Garcia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ml2YppHVvj0/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/Ml2YppHVvj0",
+      "url": "https://www.youtube.com/watch?v=Ml2YppHVvj0",
+      "creator": { "@type": "Person", "name": "Marcelo Garcia" },
+      "duration": "PT11S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+Butterfly Guard Bottom represents one of the most dynamic and offensive-minded guard positions in Brazilian Jiu-Jitsu. From the bottom perspective, this position offers exceptional sweeping opportunities through the combination of inside position via hooks and superior upper body control. The bottom player sits upright with both feet inserted as hooks under the opponent's inner thighs, creating constant elevator pressure that compromises the top player's base and posture. This configuration allows for explosive, high-percentage sweeps while simultaneously providing pathways to back takes, leg entanglements, and submission opportunities.
+
+The fundamental strength of butterfly guard from bottom lies in its offensive capabilities paired with good defensive retention when executed properly. Unlike more passive guards, butterfly guard demands active engagement and constant pressure, rewarding practitioners who maintain aggressive intent. The seated posture provides excellent mobility for angle adjustment, hip movement, and defensive framing, while the hooks create immediate sweeping threat that opponents must constantly defend against. This forces opponents to make tactical decisions under pressure, creating opportunities for the guard player to capitalize on defensive reactions.
+
+From a tactical perspective, butterfly guard bottom serves as a central hub in modern guard systems. It connects seamlessly to X-Guard when opponents stand, transitions naturally to deep half guard under pressure, and provides excellent entries to back control through arm drags and back takes. The position is particularly effective in no-gi where the absence of gi friction makes other guards more difficult to maintain, as the hooks provide mechanical control independent of grips. Elite practitioners use butterfly guard as both a destination position for launching sweeps and as a transitional position for entering more dominant configurations.
+
+The learning curve for butterfly guard involves developing several interconnected skills: maintaining upright posture under pressure, generating constant elevator pressure through hooks, establishing and maintaining dominant grips, timing sweeps with opponent weight shifts, and smoothly transitioning to alternative positions when primary attacks are defended. Success requires coordination between upper and lower body, understanding of leverage mechanics, and ability to read opponent's defensive reactions. When mastered, butterfly guard bottom becomes one of the most versatile and high-percentage positions in competitive Brazilian Jiu-Jitsu.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Butterfly Guard (Bottom) in action — curated instructionals</p>
+
+
+<div class="film-clip film-clip--vertical">
+
+![](https://www.youtube.com/watch?v=sJfkAL95S9k)
+
+<p class="clip-credit"><strong>2-on-1 lift to back from butterfly</strong> — taught by Lorenz Sadychow · 1:01 · <a href="https://www.youtube.com/watch?v=sJfkAL95S9k" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=_wEmnFzwFl0)
+
+<p class="clip-credit"><strong>Butterfly sweep to crucifix</strong> — taught by Jean Jacques Machado · 0:56 · <a href="https://www.youtube.com/watch?v=_wEmnFzwFl0" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=Ml2YppHVvj0)
+
+<p class="clip-credit"><strong>Marcelo Garcia push sweep at ADCC</strong> — taught by Marcelo Garcia · 0:11 · <a href="https://www.youtube.com/watch?v=Ml2YppHVvj0" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Butterfly Guard (Bottom)?</p>
+
+- Both hooks inserted under opponent's thighs with insteps or balls of feet making contact against inner thighs, creating inside position and leverage points for elevation
+- Seated upright position maintained with core engaged, chest forward, and hips mobile rather than flat on back, allowing for dynamic movement and proper leverage mechanics
+- Upper body control established through grips on collar, sleeves, or underhooks, controlling opponent's posture and preventing them from standing tall or creating excessive distance
+- Opponent facing you in combat base, on knees, or standing posture, positioned close enough for hooks to engage their thighs while attempting to pass or establish dominant grips
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Butterfly Guard (Bottom)?</p>
+
+- Sufficient hip mobility and flexibility to maintain seated position with knees flared outward comfortably for extended periods
+- Core strength and stability to maintain upright posture under opponent's forward pressure and passing attempts
+- Understanding of inside position concepts and how hooks create mechanical advantage through elevation
+- Ability to control distance and timing with upper body grips while coordinating lower body hook pressure
+- Basic knowledge of sweeping mechanics, leverage principles, and rotational force generation
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Defensive Principles
+
+<p class="section-subtitle">What are the key principles for defending Butterfly Guard?</p>
+
+- Maintain inside position with hooks deep under opponent's thighs to maximize elevation potential and prevent opponent from establishing outside control
+- Keep seated posture upright with active core engagement to prevent being flattened, maintaining offensive capability and sweep readiness
+- Control opponent's upper body through strategic grips to break posture, prevent defensive base, and set up sweeping directions
+- Generate elevation through coordinated leg drive and upper body pull in same direction, creating unified rotational force
+- Time sweeps with opponent's weight shifts and forward movement for maximum effectiveness and energy efficiency
+- Maintain defensive awareness for passing attempts while staying offensive-minded and ready to capitalize on opportunities
+- Use hooks dynamically to adjust angles, create off-balancing opportunities, and transition to alternative positions when needed
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Butterfly Guard (Bottom)?</p>
+
+**If opponent maintains low combat base with hands posted forward defensively:**
+- Execute **[[Transitions/Butterfly Sweep/Attacker|Butterfly Sweep]]** → [[Positions/Mount]] (Probability: 65%)
+- Execute **[[Transitions/Elevator Sweep/Attacker|Elevator Sweep]]** → [[Positions/Mount]] (Probability: 60%)
+
+
+**If opponent extends arms or creates distance defensively to avoid sweep:**
+- Execute **[[Transitions/Arm Drag to Back/Attacker|Arm Drag to Back]]** → [[Positions/Back Control]] (Probability: 58%)
+- Execute **[[Transitions/Butterfly Guard to X-Guard/Attacker|Butterfly Guard to X-Guard]]** → [[Positions/X-Guard]] (Probability: 52%)
+
+
+**If opponent stands up or begins withdrawing from hooks to establish standing pass:**
+- Execute **[[Transitions/Butterfly Guard to X-Guard/Attacker|Butterfly Guard to X-Guard]]** → [[Positions/X-Guard/Single Leg X-Guard]] (Probability: 55%)
+- Execute **[[Transitions/Technical Stand-up/Attacker|Technical Stand-up]]** → [[Positions/Standing Position]] (Probability: 50%)
+
+
+**If opponent drives heavy pressure forward attempting to flatten you to mat:**
+- Execute **[[Transitions/Granby Roll to Guard/Attacker|Granby Roll to Guard]]** → [[Positions/Closed Guard]] (Probability: 48%)
+- Execute **[[Transitions/Deep Half Entry/Attacker|Deep Half Entry]]** → [[Positions/Half Guard/Deep Half Guard]] (Probability: 45%)
+
+
+**If opponent clears one hook or establishes half guard configuration:**
+- Execute **[[Transitions/Half Guard Recovery/Attacker|Half Guard Recovery]]** → [[Positions/Half Guard]] (Probability: 50%)
+- Execute **[[Transitions/Deep Half Entry/Attacker|Deep Half Entry]]** → [[Positions/Half Guard/Deep Half Guard]] (Probability: 46%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Defensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when defending Butterfly Guard?</p>
+
+### 1. Lying flat on back instead of maintaining upright seated posture with active core
+
+- ❌ **Consequence**: Eliminates leverage for sweeps and makes it easy for opponent to apply pressure and pass guard
+- ✅ **Correction**: Keep chest forward, core engaged, and maintain active seated position with weight on hips and hooks creating constant upward pressure
+
+### 2. Passive hooks that do not actively engage opponent's thighs with continuous elevator pressure
+
+- ❌ **Consequence**: Reduces elevation power and makes sweeps ineffective, allowing opponent to easily control distance and establish passing position
+- ✅ **Correction**: Actively drive hooks upward into opponent's inner thighs with constant elevator pressure, treating hooks as active tools not passive barriers
+
+### 3. Poor upper body control or ineffective gripping strategy that allows opponent good posture
+
+- ❌ **Consequence**: Opponent can maintain good posture and base, neutralizing sweep attempts and controlling the engagement
+- ✅ **Correction**: Establish strong grips on collar, sleeves, or underhooks to break opponent's posture and control their weight distribution before attempting sweeps
+
+### 4. Attempting sweeps without proper timing or setup, forcing techniques against opponent's base
+
+- ❌ **Consequence**: Wasted energy on failed sweep attempts and vulnerability to counter-passes during committed sweep attempts
+- ✅ **Correction**: Time sweeps with opponent's forward pressure or weight shifts; use grips to create off-balance before committing to sweep execution
+
+### 5. Neglecting transitions when sweeps are defended, becoming stagnant in position
+
+- ❌ **Consequence**: Getting stuck in stalemate or allowing opponent to establish dominant passing position while you remain inactive
+- ✅ **Correction**: Chain sweeps together and transition to X-Guard, Deep Half, or Back Takes when primary sweep is defended; maintain constant offensive pressure
+
+### 6. Allowing hooks to be cleared or stepped over without immediate reaction or recovery
+
+- ❌ **Consequence**: Loss of butterfly guard entirely and vulnerability to immediate pass with no defensive structure remaining
+- ✅ **Correction**: Immediately recover hooks, transition to alternative guard retention strategy, or work for technical standup when hooks are threatened
+
+### 7. Crossing ankles behind opponent's back which eliminates elevation capability
+
+- ❌ **Consequence**: Transforms position into ineffective configuration with no sweeping power and vulnerability to pressure passing
+- ✅ **Correction**: Keep hooks independent with feet under opponent's thighs, never crossing ankles; maintain hook separation for maximum elevation
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Defense
+
+<p class="section-subtitle">How do you train Butterfly Guard defense?</p>
+
+### Hook Insertion and Elevation Drill
+
+Partner starts in combat base while you practice inserting hooks and generating elevation with progressive resistance. Focus on feeling the leverage points and timing the elevation with upper body pull. Start with compliant partner and gradually increase resistance as technique improves.
+
+**Duration**: 5 minutes per round, 3 rounds
+
+
+### Butterfly Sweep Chain Drill
+
+Practice flowing between different butterfly sweep variations as partner defends each attempt. Work on reading defensive posts and weight shifts to attack different angles. Include transitions to X-Guard and Deep Half when sweeps are completely shut down. Partner provides realistic but controlled resistance.
+
+**Duration**: 6 minutes per round, 3 rounds
+
+
+### Positional Sparring from Butterfly
+
+Start in established butterfly guard and work against live resistance. Bottom player scores for sweeps or back takes, top player scores for passes. Reset after each score. Emphasizes maintaining position under pressure and executing techniques against resistance.
+
+**Duration**: 5-minute rounds, 4-6 rounds
+
+
+### Grips and Upper Body Control
+
+Focus specifically on establishing and maintaining dominant grips from butterfly position. Partner actively fights grips and attempts to establish their own controlling grips. Work on breaking posture and controlling distance through grip strategies without using hooks for sweeps.
+
+**Duration**: 4 minutes per round, 3 rounds
+
+
+### Butterfly to X-Guard Transition Flow
+
+Practice smooth transitions from butterfly guard to various X-Guard positions as partner stands or creates distance. Work on maintaining connection and control throughout transition. Include returning to butterfly when X-Guard is defended.
+
+**Duration**: 5 minutes per round, 2-3 rounds
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 60% |
+| Advancement Probability | 64% |
+| Submission Probability | 36% |
+
+**Average Time in Position**: 20-45 seconds before sweep or transition
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/X-Guard]]** - Common transition target from butterfly when opponent stands or defends sweeps effectively
+- **[[Positions/X-Guard/Single Leg X-Guard]]** - Alternative transition when opponent withdraws one leg or stands asymmetrically during passing
+- **[[Positions/Half Guard/Deep Half Guard]]** - Defensive transition when opponent applies heavy pressure to flatten butterfly configuration
+- **[[Positions/Half Guard]]** - Common position to transition from when one hook is cleared during passing sequences
+- **[[Positions/Closed Guard]]** - Alternative guard to establish when butterfly is pressured and hooks cleared completely
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Bernardo-Faria-Pressure-System" data-cta="related-system-card" data-system-slug="systems/bernardo-faria-pressure-system" data-system-name="Bernardo Faria Pressure System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Bernardo Faria Pressure System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Open guard structure addressed with bodylock and over-under techniques</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Standing-Defense-Strategy" data-cta="related-system-card" data-system-slug="systems/standing-defense-strategy" data-system-name="Standing Defense Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Standing Defense Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Guard option when pulling from standing defense</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Caio-Terra-Guard-Retention-System" data-cta="related-system-card" data-system-slug="systems/caio-terra-guard-retention-system" data-system-name="Caio Terra Guard Retention System" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Caio Terra Guard Retention System</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Dynamic guard position using retention system&#x27;s hip movement and frame principles</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Marcelo-Garcia-Guillotine-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-guillotine-system" data-system-name="Marcelo Garcia Guillotine System" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia Guillotine System</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Alternative guard position for guillotine finishes with sweep integration</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Tactical-Framework" data-cta="related-system-card" data-system-slug="systems/no-gi-tactical-framework" data-system-name="No-Gi Tactical Framework" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Tactical Framework</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Dynamic guard system emphasizing underhook battles without gi</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Blue-to-Purple-Progression" data-cta="related-system-card" data-system-slug="systems/blue-to-purple-progression" data-system-name="Blue to Purple Progression" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Blue to Purple Progression</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Dynamic guard system emphasizing elevation sweeps and quick transitions to dominant positions</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Training Methodology</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Scoring-Strategy" data-cta="related-system-card" data-system-slug="systems/competition-scoring-strategy" data-system-name="Competition Scoring Strategy" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Scoring Strategy</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Explosive sweep position for rapid point accumulation</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Strategy" data-cta="related-system-card" data-system-slug="systems/competition-strategy" data-system-name="Competition Strategy" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Strategy</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Dynamic guard position providing explosive sweep opportunities and strong control against standing opponents</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Marcelo-Garcia-X-Guard-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-x-guard-system" data-system-name="Marcelo Garcia X-Guard System" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia X-Guard System</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Primary entry position - butterfly hooks convert to X-Guard hooks</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Berimbolo" data-cta="related-system-card" data-system-slug="systems/berimbolo" data-system-name="Berimbolo" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Berimbolo</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Alternative guard system that can be integrated with Berimbolo for varied attack entries</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Preparation-System" data-cta="related-system-card" data-system-slug="systems/competition-preparation-system" data-system-name="Competition Preparation System" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Preparation System</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Dynamic guard system effective for aggressive competition approaches</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Mikey-Musumeci-Berimbolo-System" data-cta="related-system-card" data-system-slug="systems/mikey-musumeci-berimbolo-system" data-system-name="Mikey Musumeci Berimbolo System" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Mikey Musumeci Berimbolo System</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Secondary backup system providing sweeping options from failed berimbolo attempts</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Dynamic-Guard-System" data-cta="related-system-card" data-system-slug="systems/dynamic-guard-system" data-system-name="Dynamic Guard System" data-member-count="20"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Dynamic Guard System</span><span class="system-card__unlocks-badge">Unlocks 20 techniques</span><span class="system-card__blurb">Close-range guard for powerful sweeps and quick transitions</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Modern-No-Gi-Passing-System" data-cta="related-system-card" data-system-slug="systems/modern-no-gi-passing-system" data-system-name="Modern No-Gi Passing System" data-member-count="20"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Modern No-Gi Passing System</span><span class="system-card__unlocks-badge">Unlocks 20 techniques</span><span class="system-card__blurb">Guard type requiring smash and bodylock passing approaches</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Marcelo-Garcia-Butterfly-Guard-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-butterfly-guard-system" data-system-name="Marcelo Garcia Butterfly Guard System" data-member-count="18"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia Butterfly Guard System</span><span class="system-card__unlocks-badge">Unlocks 18 techniques</span><span class="system-card__blurb">Primary position for entire system implementation</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

@@ -1,0 +1,366 @@
+
+
+
+
+---
+title: "Armbar from Knee on Belly | BJJ Submission | BJJ Map"
+description: "Master the armbar from knee on belly in BJJ. Complete guide to setup, execution, defense, and finishing mechanics from this dynamic dominant position."
+---
+
+
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Armbar from Knee on Belly",
+  "description": "Master the armbar from knee on belly in BJJ. Complete guide to setup, execution, defense, and finishing mechanics from this dynamic dominant position.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Armbar from Knee on Belly", "item": "https://bjjmap.pages.dev/Submissions/Armbar-from-Knee-on-Belly" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Armbar from Knee on Belly \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Armbar from Knee on Belly",
+      "description": "Armbar from Knee on Belly film study: Armbar from Knee on Belly, taught by Mauricio Gomes.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JQMSXF2uVfA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JQMSXF2uVfA",
+      "url": "https://www.youtube.com/watch?v=JQMSXF2uVfA",
+      "creator": { "@type": "Person", "name": "Mauricio Gomes" },
+      "duration": "PT80S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Shotgun Armbar from Knee on Belly",
+      "description": "Armbar from Knee on Belly film study: Shotgun Armbar from Knee on Belly, taught by Raymond Tan.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LrWL-ILB4ME/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/LrWL-ILB4ME",
+      "url": "https://www.youtube.com/watch?v=LrWL-ILB4ME",
+      "creator": { "@type": "Person", "name": "Raymond Tan" },
+      "duration": "PT62S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Armbar from Knee on Belly",
+      "description": "Armbar from Knee on Belly film study: Armbar from Knee on Belly, taught by Team Daruma Dojo.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jxZaCP3bBuM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/jxZaCP3bBuM",
+      "url": "https://www.youtube.com/watch?v=jxZaCP3bBuM",
+      "creator": { "@type": "Person", "name": "Team Daruma Dojo" },
+      "duration": "PT65S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Armbar from Knee on Belly",
+  "description": "The armbar from knee on belly is a joint lock that traps the bottom player's arm when they push against the knee, then swings a leg over their head to hyperextend the elbow for the tap.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The armbar from knee on belly is a joint lock that traps the bottom player's arm when they push against the knee, then swings a leg over their head to hyperextend the elbow for the tap.**
+<div class="principle-meta">
+<span class="meta-chip">Joint Lock</span>
+<span class="meta-chip">Arm Lock</span>
+<span class="meta-chip">Targets Shoulder and elbow joint</span>
+<span class="meta-chip">45% success</span>
+</div>
+
+> [!danger] Safety
+> Armbar from Knee on Belly targets the Shoulder and elbow joint. Primary risk: Hyperextension of the elbow joint causing ligament damage to the ulnar collateral ligament and medial structures. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<div class="role-links">
+
+[[Submissions/Armbar/from Knee on Belly/Attacker|Play as Attacker]]
+[[Submissions/Armbar/from Knee on Belly/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+The armbar from knee on belly exploits one of the most predictable defensive reactions in Brazilian Jiu-Jitsu: the bottom player pushing against the knee to relieve diaphragm pressure. This push creates an exposed arm that the top player captures and finishes through a rapid transition from knee on belly to a perpendicular armbar position. The technique leverages the urgency of the bottom player's respiratory distress against them, converting a defensive reflex into a submission opportunity.
+
+What makes this armbar particularly effective is the speed of entry. Unlike armbars from mount or guard that require extended setup sequences, the knee on belly armbar capitalizes on an immediate reaction. The top player's elevated position provides momentum for the leg swing over the head, and the bottom player's compromised breathing makes sustained defense difficult. The technical challenge lies in maintaining wrist control throughout the transition while positioning the hips tight to the opponent's shoulder before sitting back.
+
+Strategically, the armbar from knee on belly functions as part of a broader attacking system from the position. When combined with baseball bat choke threats and collar attacks, it creates a multi-layered offensive dilemma where the bottom player cannot safely defend every threat simultaneously. The armbar punishes the most natural defensive reaction, making it a cornerstone attack from this position at all competitive levels.
+
+**Starting Position**: [[Positions/Knee on Belly]] · **From**: [[Positions/Knee on Belly]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Armbar from Knee on Belly in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=JQMSXF2uVfA)
+
+<p class="clip-credit"><strong>Armbar from Knee on Belly</strong> — taught by Mauricio Gomes · 1:20 · <a href="https://www.youtube.com/watch?v=JQMSXF2uVfA" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=LrWL-ILB4ME)
+
+<p class="clip-credit"><strong>Shotgun Armbar from Knee on Belly</strong> — taught by Raymond Tan · 1:02 · <a href="https://www.youtube.com/watch?v=LrWL-ILB4ME" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=jxZaCP3bBuM)
+
+<p class="clip-credit"><strong>Armbar from Knee on Belly</strong> — taught by Team Daruma Dojo · 1:05 · <a href="https://www.youtube.com/watch?v=jxZaCP3bBuM" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[game-over]] | 45% |
+| Failure | [[Positions/Knee on Belly]] | 30% |
+| Counter | [[Positions/Closed Guard]] | 25% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | Provoke the push reaction through heavy knee pressure on the... | Avoid extending your arm to push the knee — use hip escape a... |
+| **Options** | 6 execution steps | 3 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Submissions/Armbar/from Knee on Belly/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Provoke the push reaction through heavy knee pressure on the solar plexus before attacking the arm
+
+- Capture the wrist with both hands before initiating any leg movement to prevent arm retraction
+
+- Commit fully to the leg swing — half-committed transitions allow escape and waste the opportunity
+
+- Keep hips tight to the opponent's shoulder throughout the finish to eliminate space for arm extraction
+
+- Squeeze knees together around the upper arm to create a fulcrum point for maximum leverage on the elbow
+
+- Finish by elevating hips into the arm rather than pulling the arm down with your hands
+
+
+### Execution Steps
+
+
+- **Establish heavy knee pressure**: Drive your knee into the opponent's solar plexus with maximum downward pressure, channeling your bod...
+
+- **Capture the wrist with two-on-one control**: The moment the opponent extends their arm to push your knee, seize their wrist with both hands using...
+
+- **Step far leg over opponent's head**: While maintaining the two-on-one wrist grip, swing your far leg over the opponent's face and head in...
+
+- **Sit back while pulling arm to chest**: Lower your hips to the mat by sitting back along the opponent's arm, keeping their captured wrist pu...
+
+- **Secure leg position and squeeze knees**: With your hips on the mat, squeeze both knees together tightly around the opponent's upper arm just ...
+
+- **Finish with controlled hip elevation**: With the arm secured and knees tight, finish the armbar by elevating your hips upward into the oppon...
+
+
+### Common Mistakes
+
+
+- **Attempting the leg swing before securing a strong two-on-one wrist grip**
+  - Consequence: Opponent retracts arm during transition, leaving you in a compromised position straddling their head with no submission, often recovering guard
+  - Correction: Always establish firm two-on-one wrist control as the non-negotiable prerequisite before initiating any leg movement
+
+- **Leaving a gap between hips and opponent's shoulder when sitting back**
+  - Consequence: Opponent extracts their arm by pulling the elbow past your hip line, completely negating the submission attempt
+  - Correction: Sit back with hips as tight to the opponent's shoulder as possible, eliminating all space by squeezing knees and scooting hips inward if needed
+
+- **Pulling the arm down with hands instead of elevating hips for the finish**
+  - Consequence: Insufficient breaking pressure because arm strength cannot generate the force needed against a defending opponent, leading to exhaustion and failed finish
+  - Correction: Keep the wrist pinned to your chest and drive the finish entirely through hip elevation, using your entire posterior chain rather than just your arms
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Submissions/Armbar/from Knee on Belly/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Avoid extending your arm to push the knee — use hip escape and framing on the opponent's hips instead to address KOB pressure
+
+- If your arm is captured, immediately retract it by bending the elbow and pulling toward your body before the leg swings over
+
+- Recognize the wrist capture as the critical moment — all defense becomes exponentially harder after this point
+
+- If caught in the armbar position, clasp your hands immediately and begin turning toward the attacker to reduce extension angle
+
+- Never straighten a captured arm to try to pull free — this accelerates the submission rather than preventing it
+
+- Turn toward the attacker during escape attempts to reduce the lever angle and create space to extract the elbow past their hips
+
+
+### Recognition Cues
+
+
+- Opponent shifts grip from your collar to your near-side wrist or forearm while maintaining knee on belly
+
+- Opponent's weight shifts backward or laterally, indicating preparation for the leg swing transition
+
+- Opponent's far leg begins lifting or swinging in an arc toward your head side
+
+- Two-on-one grip suddenly appears on your extended arm after you push against the knee
+
+- Opponent's posture changes from forward pressure to a sideways or backward lean with arm control
+
+
+### Escape Paths
+
+
+- Arm retraction before leg swing: Bend elbow explosively and pull arm to centerline the instant you feel wrist control, returning to knee on belly defense
+
+- Grip defense and turn-in: After clasping hands, turn your entire body toward the attacker while walking your feet in their direction, progressively reducing the extension angle until you can extract your elbow past their hip line
+
+- Stack and posture: Bridge into the attacker, driving your weight forward over their hips to collapse the lever structure, then extract the arm and recover to guard or top position
+
+
+</section>
+
+
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+- [[Positions/Knee on Belly]]
+- [[Positions/Side Control]]
+- [[Positions/Mount]]
+
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Far Side Armbar]]
+- [[Submissions/Armbar]]
+- [[Submissions/Flying Armbar/from Closed Guard]]
+- [[Submissions/Baseball Bat Choke]]
+- [[Submissions/Americana]]
+- [[Submissions/Cross Collar Choke]]
+- [[Submissions/Belly Down Armbar]]
+- [[Submissions/Kimura]]
+- [[Positions/Knee on Belly]] - Primary starting position — armbar exploits opponent's reaction to knee pressure
+- [[Positions/Armbar Control]] - Control position reached during finishing phase of the armbar
+- [[Positions/Side Control]] - Common entry position before establishing knee on belly for the armbar setup
+- [[Positions/Closed Guard]] - Common counter position where opponent recovers guard during failed armbar transition
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Hyperextension of the elbow joint causing ligament damage to the ulnar collateral ligament and medial structures | High | 4-12 weeks for mild to moderate sprain, 6-12 months for surgical repair of complete tear |
+| Shoulder subluxation or dislocation from combined rotational and extension force when opponent resists by rolling | High | 6-16 weeks for subluxation, 4-9 months for surgical repair of dislocation |
+| Radial head fracture from sudden explosive hyperextension against locked arm defense | CRITICAL | 6-12 weeks for non-displaced, 3-6 months for displaced fracture requiring surgery |
+
+
+**Application Speed**: SLOW and progressive. Apply extension gradually by elevating hips while maintaining tight control. Never jerk or spike the arm. The elbow joint has very little tolerance for sudden extension force.
+
+**Tap Signals**:
+- Verbal tap (saying 'tap' or any distress signal)
+- Physical hand tap on partner, own body, or mat with free hand
+- Physical foot tap on mat with either leg
+- Any unusual screaming, groaning, or distress vocalization indicating pain
+
+
+**Release Protocol**:
+1. Release hip elevation and arm extension immediately upon any tap signal
+2. Maintain wrist control briefly during release to prevent opponent's arm from whipping free and causing self-injury
+3. If in doubt whether a tap occurred, release immediately — the position can always be re-established
+4. After release, check with training partner before continuing the roll
+
+
+**Training Restrictions**:
+- Beginners should drill the positional transition without applying finishing extension until technique is controlled
+- Never apply sudden or explosive extension force — always use slow progressive pressure
+- Avoid full resistance armbar sparring until both partners demonstrate controlled application and timely tapping
+- Partners with pre-existing elbow or shoulder injuries should communicate limitations before drilling
+
+
+</section>
+
+
+
+</main>

@@ -1,0 +1,251 @@
+{
+  "name": "Baseball Bat Choke",
+  "description": "Master the Baseball Bat Choke in BJJ. Devastating collar choke from top positions with tight control. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "collar-choke",
+    "top-position",
+    "gi-technique",
+    "blood-choke",
+    "hub",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Baseball Choke"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and jugular veins",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "Crossed-hands baseball bat grip creates scissoring collar pressure",
+  "summary": "The Baseball Bat Choke is a gi blood choke that scissors the carotid arteries using crossed, baseball-bat-style collar grips, finished from dominant top pins such as side control, knee-on-belly, north-south, and turtle.",
+  "overview": "Named for the grip configuration that resembles holding a baseball bat, this technique creates a highly effective compression of the carotid arteries through crossed collar grips. The Baseball Bat Choke is particularly effective because it allows the attacker to maintain superior position while applying the submission, making it difficult for opponents to escape once the grips are secured. The technique works by using one hand deep in the collar near the opponent's far shoulder while the other hand grips high on the near collar, creating a scissoring action that cuts off blood flow to the brain. Unlike many collar chokes that require specific positioning, the Baseball Bat Choke can be applied from multiple top positions including side control, north-south, turtle, and transitional scrambles. The crossed-hands configuration generates tremendous pressure with relatively little effort, making it accessible to practitioners of all sizes and strength levels. The submission is highly reliable in gi competition and represents a fundamental finishing option that every BJJ practitioner should master as part of their attacking arsenal from dominant positions.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from carotid compression",
+        "severity": "High",
+        "recovery_time": "Immediate with proper release; potential complications if held after tap"
+      },
+      {
+        "injury": "Trachea damage from improper collar placement",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks with rest"
+      },
+      {
+        "injury": "Neck strain from explosive application",
+        "severity": "Medium",
+        "recovery_time": "3-7 days"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum in training",
+    "tap_signals": [
+      "Verbal tap",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap on mat",
+      "Any distress signal including loss of muscle tone"
+    ],
+    "release_protocol": [
+      "Immediately release all collar grips upon tap signal",
+      "Remove hands completely from opponent's neck area",
+      "Allow partner to recover in side position without pressure",
+      "Check partner's awareness and breathing before continuing",
+      "Wait for verbal confirmation of readiness before resuming training"
+    ],
+    "training_restrictions": [
+      "Never apply at competition speed during drilling",
+      "Never jerk or spike the choke",
+      "Always ensure partner can tap with both hands",
+      "Never continue past initial resistance in training",
+      "Stop immediately if partner shows any signs of distress or unconsciousness"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Knee on Belly",
+      "slug": "from-knee-on-belly"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Standard Baseball Bat Choke from Side Control",
+      "description": "Executed from standard side control or knee-on-belly by establishing grips and using your chest pressure to drive through the choke while opponent is pinned. Often requires transitioning to north-south position for optimal angle.",
+      "when_to_use": "When opponent is defending against mount transitions and keeping their arms in tight. The side control variation catches opponents who are focused on preventing position advancement."
+    },
+    {
+      "variation_name": "Baseball Bat from Turtle Top",
+      "description": "When opponent is in turtle, circle to their side and establish the far collar grip by reaching under their near arm. Secure the near collar grip and drive your chest into their shoulder while sprawling your hips back. This variation is extremely high percentage because the turtle position gives you easy access to the collar and they cannot effectively defend while protecting their back. Can be finished from the side or by transitioning to back control.",
+      "when_to_use": "When opponent turtles to defend guard passes or after failed takedown. Particularly effective when combined with clock choke attempts."
+    },
+    {
+      "variation_name": "Baseball Bat from North-South",
+      "description": "From north-south position, slide one hand deep into the far collar while using your other hand for the near collar grip. Your head should be on the mat beside their head as you apply the scissoring pressure. This variation allows you to apply the choke while maintaining heavy shoulder pressure that prevents their escape.",
+      "when_to_use": "When transitioning through north-south or when opponent defends mount by bridging"
+    },
+    {
+      "variation_name": "Rolling Baseball Bat",
+      "description": "If opponent begins to roll away from the choke while you have grips established, follow the roll and maintain your grips throughout. Often the rolling motion tightens the choke. Be prepared to land in mount or take the back while keeping the collar grips secured throughout the transition.",
+      "when_to_use": "When opponent attempts to escape by rolling or when you want to chain submission with position advancement"
+    },
+    {
+      "variation_name": "Baseball Bat to Bow and Arrow Transition",
+      "description": "If the baseball bat grips are secured but the angle is not optimal, use your control to take the back fully and transition to bow and arrow choke using the same collar grips. This creates a submission chain where opponent must defend multiple threats from the same grip configuration.",
+      "when_to_use": "When opponent successfully defends initial baseball bat angle but you maintain grips and can transition to back control"
+    },
+    {
+      "variation_name": "Standard Baseball Bat Choke from Back Control",
+      "description": "The fundamental variation executed from back mount with hooks in. Establish cross-collar grip with bottom hand thumb-inside, second grip above it, then fall to the side opposite your grips while maintaining hook control. This creates the classic rotational finish.",
+      "when_to_use": "Primary option when you have full back control with both hooks established. Most powerful when opponent is defending rear naked choke and exposing their collar."
+    },
+    {
+      "variation_name": "Baseball Bat Choke from Mount",
+      "description": "Applied from high mount by establishing the same grip configuration, then leaning your chest heavily toward the choking side while keeping opposite knee tight to prevent escape. The mount variation uses your body weight as the primary pressure source.",
+      "when_to_use": "When opponent is defending armbar attempts from mount and turning their head, exposing the collar. Particularly effective when you're in high mount position."
+    },
+    {
+      "variation_name": "Reverse Baseball Bat Choke",
+      "description": "Uses opposite grip configuration with four fingers inside on bottom grip and thumb inside on top grip. Creates different angle of pressure and catches opponents defending the standard version.",
+      "when_to_use": "As counter when opponent successfully defends standard grip configuration. Provides alternative finish angle that feels different to opponent and can catch them by surprise."
+    },
+    {
+      "variation_name": "Modified Baseball Bat with Same-Side Fall",
+      "description": "Advanced variation where you fall to the same side as your grips rather than opposite side, creating an inverted pressure angle. Requires excellent timing and body positioning but very difficult to defend.",
+      "when_to_use": "Against experienced opponents who defend the standard variation by following your fall direction. The unexpected angle makes this particularly effective in competition."
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Turtle",
+    "Kesa Gatame",
+    "Modified Mount",
+    "Half Guard",
+    "Scarf Hold Position",
+    "Combat Base"
+  ],
+  "related_submissions": [
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Similar collar grip mechanics using thumb-inside and four-finger grips from top positions"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Natural collar choke transition when baseball bat grips lead to back access"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Alternative lapel choke available from similar top control positions"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative finishing option from top positions when collar grips are unavailable"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Alternative collar choke from turtle top using rotational pressure"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Related cross-collar choke from side control with comparable grip configuration"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Alternative arm-in choke from similar top positions with no-gi applicability"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Available during scrambles when opponent lifts head defending collar grips"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Alternative head-and-arm choke from top when collar access is denied"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary attacking position for establishing initial grips"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "High-percentage position for baseball bat setup with easy collar access"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative attacking position with different finishing angle"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Related scarf hold position that can transition to baseball bat grips"
+    },
+    {
+      "name": "Side Control to North-South",
+      "relationship": "Common transition that creates baseball bat opportunities"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related choke from similar positions with different grip mechanics"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Natural transition if baseball bat grips are secured but angle needs adjustment"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Related collar submission using similar grip principles"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Baseball bat grips can facilitate back take if choke angle is not optimal"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Alternative collar choke from turtle top position"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Position advancement option when opponent turns into the choke"
+    },
+    {
+      "name": "Scarf Hold Position",
+      "relationship": "Transitional position that can lead to baseball bat setup"
+    }
+  ],
+  "clips": [
+    {
+      "id": "RxMwGEBoPYw",
+      "title": "Baseball Bat Choke From Knee on Belly",
+      "by": "Clayton Phillips",
+      "vertical": false,
+      "channel": "Clayton Phillips",
+      "duration": 105,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "JFk3ZiedLdY",
+      "title": "Baseball Bat Choke",
+      "by": "Iron & Soul",
+      "vertical": false,
+      "channel": "Iron & Soul",
+      "duration": 60,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "uvr8pF7ad7k",
+      "title": "Baseball Bat Choke",
+      "by": "Jiu-Jitsu Times",
+      "vertical": false,
+      "channel": "Jiu-Jitsu Times",
+      "duration": 67,
+      "verified": "2026-07-14"
+    }
+  ]
+}

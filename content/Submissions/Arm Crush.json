@@ -1,0 +1,192 @@
+{
+  "name": "Arm Crush",
+  "description": "Master the Arm Crush submission in BJJ. Learn shoulder lock mechanics, setup from side control, and safe application for training and competition.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "joint-lock",
+    "side-control",
+    "pressure-submission"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint and rotator cuff",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 52,
+    "nogi": 52
+  },
+  "summary": "The Arm Crush is a shoulder-lock submission family applied from side-control-based pins, using bodyweight compression and rotational torque through a figure-four grip to crush the trapped shoulder joint and force a tap.",
+  "overview": "The Arm Crush is a powerful shoulder lock submission that combines crushing pressure with rotational torque on the opponent's shoulder joint. Unlike traditional shoulder locks that isolate the joint through leverage alone, the Arm Crush uses body weight and positional pressure to compress the shoulder while simultaneously applying a twisting motion. This submission is most commonly executed from side control positions, particularly when the opponent's arm is trapped between their body and yours. The technique targets the rotator cuff muscles and shoulder capsule, creating intense pressure that forces a quick tap. The Arm Crush is especially effective against defensive opponents who keep their elbows tight to their body, as this defensive posture actually creates the necessary configuration for the submission. The finish combines elements of the Americana and Kimura while adding a unique crushing component that makes it extremely difficult to defend once properly applied.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear",
+        "severity": "High",
+        "recovery_time": "3-6 months with surgery, 6-12 weeks conservative"
+      },
+      {
+        "injury": "Shoulder dislocation",
+        "severity": "High",
+        "recovery_time": "6-12 weeks, potential chronic instability"
+      },
+      {
+        "injury": "AC joint separation",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks"
+      },
+      {
+        "injury": "Labrum tear",
+        "severity": "CRITICAL",
+        "recovery_time": "4-6 months post-surgery, career-threatening"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 4-6 seconds minimum application time in training",
+    "tap_signals": [
+      "Verbal tap or verbal distress",
+      "Physical tap with free hand",
+      "Physical tap with feet",
+      "Any unusual shoulder popping or grinding sounds",
+      "Opponent going still or rigid"
+    ],
+    "release_protocol": [
+      "Immediately reduce all rotational pressure on the shoulder",
+      "Release crushing pressure by lifting your chest off opponent's arm",
+      "Allow opponent's arm to return to neutral position slowly",
+      "Check with partner verbally before resuming training",
+      "Watch for signs of shoulder injury (limited range of motion, pain with movement)"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the submission - apply smooth, progressive pressure only",
+      "Never use competition speed in training - this is a high-injury-risk submission",
+      "Always maintain verbal communication with training partner",
+      "Stop immediately if you hear or feel any popping in the shoulder",
+      "Do not practice this submission on partners with previous shoulder injuries without explicit consent"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Knee on Belly",
+    "Kuzure Kesa-Gatame",
+    "Modified Scarf Hold",
+    "Kesa Gatame",
+    "Shoulder of Justice"
+  ],
+  "related_submissions": [
+    {
+      "name": "Americana",
+      "relationship": "Similar shoulder lock sharing rotational mechanics - alternative finish when opponent straightens arm during defense"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Alternative submission from side control when opponent defends Arm Crush by pulling elbow tight to body"
+    },
+    {
+      "name": "Armbar from Side Control",
+      "relationship": "Complementary arm attack from same primary position targeting the elbow joint instead of the shoulder"
+    },
+    {
+      "name": "Americana from Kesa Gatame",
+      "relationship": "Related shoulder lock from scarf hold variant with similar arm trapping configuration"
+    },
+    {
+      "name": "Americana from Kuzure Kesa-Gatame",
+      "relationship": "Related finish from modified scarf hold where arm is already in ideal crushing position"
+    },
+    {
+      "name": "Armbar from Knee on Belly",
+      "relationship": "Alternative arm attack from adjacent setup position when knee-on-belly pressure creates arm exposure"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary attacking position - establishes the control needed for submission setup"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Alternative finish - if opponent straightens arm during Arm Crush defense"
+    },
+    {
+      "name": "Kimura Trap",
+      "relationship": "Related system - Arm Crush can be integrated into Kimura-based attack sequences"
+    },
+    {
+      "name": "Kuzure Kesa-Gatame",
+      "relationship": "Ideal setup position - arm is already trapped in perfect configuration"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative position - allows Arm Crush variation from opposite angle"
+    },
+    {
+      "name": "Side Control to North-South",
+      "relationship": "Position change - if opponent begins escaping side control during Arm Crush attempt"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Related control position with similar arm trapping opportunities"
+    },
+    {
+      "name": "Knee on Belly",
+      "relationship": "Alternative setup position where defensive arm reactions create Arm Crush opportunities"
+    }
+  ],
+  "variant_uniqueness": "Combines crushing pressure with rotational shoulder torque",
+  "variations_and_setups": [
+    {
+      "variation_name": "North-South Arm Crush",
+      "description": "From north-south position, trap opponent's near arm with the same crushing mechanics but with your body oriented in the opposite direction. Your chest drives down onto their shoulder while your arms create the figure-four grip.",
+      "when_to_use": "When opponent turns away from traditional side control but keeps their elbow defensive and tight to their body"
+    },
+    {
+      "variation_name": "Knee-on-Belly Setup",
+      "description": "From knee-on-belly, use your knee pressure to force opponent to bring their far arm across their body defensively. As they do, drop your chest onto their trapped arm and establish the Arm Crush configuration.",
+      "when_to_use": "When opponent is defending knee-on-belly by framing with their far arm across their body"
+    },
+    {
+      "variation_name": "Modified Scarf Hold Transition",
+      "description": "From modified scarf hold (kuzure kesa-gatame), opponent's arm is already in ideal position for the Arm Crush. Simply adjust your grip to the figure-four and apply crushing pressure with a slight rotation.",
+      "when_to_use": "When in kuzure kesa-gatame and opponent is defending by keeping their trapped arm tight rather than trying to extract it"
+    }
+  ],
+  "clips": [
+    {
+      "id": "lN8yn5YaMi0",
+      "title": "Cradle from side control to armbar shoulder lock",
+      "by": "Andy Tong",
+      "vertical": false,
+      "channel": "Andy Tong",
+      "duration": 42,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "RFkSf7gQ18E",
+      "title": "Arm crush armbar",
+      "by": "AMAZIN BJJ",
+      "vertical": false,
+      "channel": "AMAZIN BJJ",
+      "duration": 65,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "LUxMvOFbxIY",
+      "title": "Killing the near side arm from side control",
+      "by": "Inverted Gear",
+      "vertical": false,
+      "channel": "Inverted Gear",
+      "duration": 123,
+      "verified": "2026-07-14"
+    }
+  ]
+}

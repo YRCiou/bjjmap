@@ -1,0 +1,298 @@
+{
+  "name": "Heel Hook",
+  "description": "Master the Heel Hook in BJJ. Complete safety-first guide covering inside/outside variations, setup from Ashi Garami positions, anatomical targets, and defensive counters.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "heel-hook",
+    "joint-lock",
+    "ashi-garami",
+    "saddle",
+    "advanced-technique",
+    "hub",
+    "finishing-guide"
+  ],
+  "disambiguations": [
+    {
+      "name": "Toe Hold",
+      "reason": "the Toe Hold attacks the ankle/foot via rotation — a different joint"
+    }
+  ],
+  "submission_category": "Joint Lock",
+  "submission_type": "Leg Lock",
+  "target_area": "Ankle joint, knee ligaments (ACL/MCL/LCL), and lower leg structural integrity",
+  "starting_position": "Ashi Garami",
+  "from_position": "Ashi Garami/Bottom",
+  "success_rate": {
+    "gi": 45,
+    "nogi": 45
+  },
+  "is_family": true,
+  "variant_uniqueness": "Rotational force attacks multiple knee structures simultaneously",
+  "summary": "The Heel Hook is a rotational leg-lock submission that twists the heel to torque the knee and ankle ligaments simultaneously, attacked from Ashi Garami entanglements such as the saddle and 50-50, and existing in inside and outside variants.",
+  "overview": "The heel hook represents one of the most devastating and dangerous submissions in Brazilian Jiu-Jitsu, targeting the ankle joint and knee ligaments through rotational force applied to the heel while controlling the leg. Unlike other leg locks that primarily attack in a linear fashion, the heel hook's rotational mechanics can cause catastrophic injury to multiple structures simultaneously—including the ACL, MCL, LCL, meniscus, and ankle joint—often before the opponent feels significant pain due to the nature of ligament damage. This delayed pain response makes the heel hook exceptionally dangerous in training environments.\n\nThe submission exists in two primary variations: the inside heel hook (rotating toward the inside of the opponent's leg) and the outside heel hook (rotating toward the outside). The inside heel hook is generally considered more powerful and is typically applied from positions like the saddle (4-11 position), inside ashi-garami, or 50-50 guard. The outside heel hook is commonly finished from outside ashi-garami or cross ashi-garami positions. Both variations require precise leg entanglement systems to prevent the opponent from rotating with the submission, which would dissipate the attacking pressure.\n\nSuccessful heel hook application demands mastery of positional control, understanding of breaking mechanics, and exceptional judgment regarding application speed and pressure. The technique's effectiveness increases dramatically with skill level as practitioners develop better leg entanglement control, hip positioning, and sensitivity to defensive movements. Due to its injury potential, many traditional BJJ academies prohibit heel hooks entirely, while others restrict them to brown and black belts. Competition legality varies significantly by ruleset, with IBJJF prohibiting them at most belt levels while organizations like ADCC and EBI embrace them as fundamental techniques.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "ACL tear (anterior cruciate ligament rupture)",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months with surgical reconstruction, extensive rehabilitation"
+      },
+      {
+        "injury": "MCL/LCL tear (medial/lateral collateral ligament damage)",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months for grade 3 tears, potential permanent instability"
+      },
+      {
+        "injury": "Meniscus tear (cartilage damage in knee joint)",
+        "severity": "High",
+        "recovery_time": "4-8 weeks to 6 months depending on severity and treatment"
+      },
+      {
+        "injury": "Ankle ligament damage and joint capsule injury",
+        "severity": "High",
+        "recovery_time": "6-12 weeks, potential chronic instability"
+      },
+      {
+        "injury": "Tibial/fibular fracture from extreme rotational force",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months, potential permanent mobility issues"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW and progressive - minimum 5-7 seconds from initial pressure to maximum force in training. NEVER apply sudden rotational force.",
+    "tap_signals": [
+      "Verbal tap (primary signal)",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap with free leg",
+      "Any distress vocalization",
+      "Frantic slapping or waving with hands",
+      "Leg stiffening or immediate defensive reaction"
+    ],
+    "release_protocol": [
+      "Immediately stop all rotational pressure upon any tap signal",
+      "Release heel grip completely before releasing leg entanglement",
+      "Slowly unwrap leg configuration while maintaining awareness of opponent's joint",
+      "Allow opponent to extract their leg at their own pace",
+      "Check with training partner about their knee and ankle status",
+      "Report any joint discomfort to instructor immediately, even if minor"
+    ],
+    "training_restrictions": [
+      "NEVER apply sudden or explosive rotational force in training",
+      "NEVER practice at competition speed with training partners",
+      "NEVER continue pressure if partner's leg begins rotating with the submission",
+      "Always allow immediate tap access for both hands",
+      "Only train with partners who have explicit experience with heel hook defense",
+      "Prohibited for practitioners below brown belt in most traditional academies",
+      "Never train heel hooks without instructor supervision during initial learning phases",
+      "Stop immediately if any popping, clicking, or unusual sensations occur in opponent's leg"
+    ]
+  },
+  "from_positions": [
+    "Ashi Garami",
+    "Saddle",
+    "Inside Ashi-Garami",
+    "Outside Ashi-Garami",
+    "50-50 Guard",
+    "Honey Hole",
+    "Cross Ashi-Garami",
+    "Single Leg X-Guard",
+    "Backside 50-50"
+  ],
+  "related_submissions": [
+    {
+      "name": "Inside Heel Hook",
+      "relationship": "Inside variation targeting knee ligaments through internal rotation from Saddle and Inside Ashi-Garami"
+    },
+    {
+      "name": "Outside Heel Hook",
+      "relationship": "Outside variation attacking through external rotation from Outside Ashi-Garami and Cross Ashi-Garami"
+    },
+    {
+      "name": "Kneebar",
+      "relationship": "Alternative leg lock from similar entanglements when heel is hidden and opponent straightens leg"
+    },
+    {
+      "name": "Toe Hold",
+      "relationship": "Complementary foot lock that chains with heel hook when opponent defends rotation"
+    },
+    {
+      "name": "Straight Ankle Lock",
+      "relationship": "Lower-risk leg lock sharing positional requirements from ashi-garami positions"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Compression lock available from similar leg entanglements as secondary attack"
+    },
+    {
+      "name": "Estima Lock",
+      "relationship": "Foot lock variation targeting ankle from similar guard passing scenarios"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Related ankle submission sharing straight-line finishing mechanics from ashi-garami"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Leg Entanglement",
+      "relationship": "Foundational principle governing all heel hook positions and control mechanics"
+    },
+    {
+      "name": "X-Guard",
+      "relationship": "Common entry position for leg entanglements leading to heel hook opportunities"
+    },
+    {
+      "name": "Deep Half Guard",
+      "relationship": "Guard position that can transition to leg entanglements and heel hook attacks"
+    },
+    {
+      "name": "Kneebar Control",
+      "relationship": "Alternative leg lock control position that shares leg entanglement principles"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Defensive position where opponent may expose legs to heel hook entries during scrambles"
+    },
+    {
+      "name": "De La Riva Guard",
+      "relationship": "Guard variation that can create single leg X-guard and subsequent heel hook entries"
+    },
+    {
+      "name": "Open Guard",
+      "relationship": "General category including multiple guards that facilitate leg entanglement entries"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Position from which leg entanglements can be entered when opponent attempts to pass"
+    },
+    {
+      "name": "Straight Ankle Lock Control",
+      "relationship": "Related finishing position with different mechanics but similar leg control requirements"
+    },
+    {
+      "name": "K-Guard",
+      "relationship": "Modern guard designed specifically for entries into ashi-garami heel hook positions"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Inside Heel Hook from Saddle (Honey Hole)",
+      "description": "The highest percentage heel hook variation, executed from the saddle position where your outside leg hooks across opponent's hip and your inside leg triangles under their knee. You attack the heel on the side away from you (far heel). This configuration provides maximum hip control and optimal breaking mechanics. The saddle traps their knee in the most vulnerable position for external rotation.",
+      "when_to_use": "Primary finishing position for most heel hook attempts. Enter saddle from single leg X-guard, inside ashi-garami, or off failed guard passes. This is the dominant finishing position emphasized in modern leg lock systems."
+    },
+    {
+      "variation_name": "Inside Heel Hook from Inside Ashi-Garami",
+      "description": "Your inside leg controls inside position across opponent's hip/thigh while outside leg hooks over their trapped leg. More mobile than saddle but with slightly less control. Allows easier transitions to other attacks and better options for following opponent's defensive movements.",
+      "when_to_use": "Versatile position for dynamic leg entanglement systems. Easier to enter than saddle from standing or passing situations. Good for practitioners who prefer transition-heavy leg attack games."
+    },
+    {
+      "variation_name": "Outside Heel Hook from Outside Ashi-Garami",
+      "description": "Your outside leg controls position while inside leg hooks over opponent's trapped leg. Heel rotates away from their body midline (opposite direction from inside heel hook). Generally considered less powerful than inside variation but creates different defensive dilemmas.",
+      "when_to_use": "Common in situations where inside position isn't available or when opponent's defensive reactions expose outside heel hook opportunities. Often chained with inside heel hook attempts as opponent defends one by creating vulnerability to the other."
+    },
+    {
+      "variation_name": "50-50 Heel Hook Exchange",
+      "description": "Both practitioners are in mirrored leg entanglement with both having access to heel hooks simultaneously. Success depends on who achieves superior heel exposure, grip security, and hip positioning first. Requires advanced understanding of micro-adjustments and positional details.",
+      "when_to_use": "Often occurs as result of scrambles or when both grapplers have similar leg entanglement skills. Requires exceptional composure and technical precision. High-level practitioners use subtle grip and positioning advantages to win the exchange."
+    },
+    {
+      "variation_name": "Truck to Heel Hook Transition",
+      "description": "From twister/truck control position where you control opponent's far hip and near leg, transition by releasing far hip control to focus both legs on securing proper ashi-garami configuration on their exposed leg. Common entry when opponent defends twister position by straightening their leg.",
+      "when_to_use": "Excellent for no-gi competitors who use truck position frequently. Creates surprising angle of attack since opponent expects back attacks or calf slicers from truck position."
+    },
+    {
+      "variation_name": "Entry from Single Leg X-Guard",
+      "description": "From single leg X position, use your elevation and leg positioning to off-balance opponent backward or force them to sit. As they react, transition your legs from X-guard configuration into ashi-garami by adjusting your inside leg across their hip while maintaining outside leg control. Immediately pursue heel exposure before they can establish defensive grips.",
+      "when_to_use": "Natural progression in guard systems that utilize single leg X. Particularly effective in no-gi where opponent's balance is easier to compromise. Can catch opponents who are focused on defending the sweep rather than recognizing the submission threat."
+    }
+  ],
+  "variations": [
+    {
+      "name": "from 50-50 Guard",
+      "slug": "from-50-50-guard"
+    },
+    {
+      "name": "from Ashi Garami",
+      "slug": "from-ashi-garami"
+    },
+    {
+      "name": "from Backside 50-50",
+      "slug": "from-backside-50-50"
+    },
+    {
+      "name": "from Carni",
+      "slug": "from-carni"
+    },
+    {
+      "name": "from Cross Ashi-Garami",
+      "slug": "from-cross-ashi-garami"
+    },
+    {
+      "name": "from Grasshopper Guard",
+      "slug": "from-grasshopper-guard"
+    },
+    {
+      "name": "from Honey Hole",
+      "slug": "from-honey-hole"
+    },
+    {
+      "name": "from Inside Ashi-Garami",
+      "slug": "from-inside-ashi-garami"
+    },
+    {
+      "name": "from Inside Sankaku",
+      "slug": "from-inside-sankaku"
+    },
+    {
+      "name": "from Kneebar Control",
+      "slug": "from-kneebar-control"
+    },
+    {
+      "name": "from Saddle",
+      "slug": "from-saddle"
+    },
+    {
+      "name": "from Ushiro Ashi",
+      "slug": "from-ushiro-ashi"
+    }
+  ],
+  "clips": [
+    {
+      "id": "U1vlUbJN3sc",
+      "title": "True 50/50 heel hook",
+      "by": "John Danaher",
+      "vertical": false,
+      "channel": "Dohn Janaher ",
+      "duration": 34,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "UuluKZKDt8w",
+      "title": "Heel hooks breakdown",
+      "by": "Lachlan Giles",
+      "vertical": false,
+      "channel": "Jiu Jitsu Moves",
+      "duration": 64,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "eb6ujAO09SY",
+      "title": "Get the 50/50 heel hook",
+      "by": "Asaf Mich",
+      "vertical": false,
+      "channel": "Asaf Mich",
+      "duration": 123,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "m4sGDhukUmk",
+      "title": "Nasty heel hook from outside ashi garami",
+      "by": "Craig Jones",
+      "vertical": false,
+      "channel": "The Bear's Den BJJ & MMA  熊派巴西柔術及MMA學院",
+      "duration": 141,
+      "verified": "2026-07-14"
+    }
+  ]
+}

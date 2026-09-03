@@ -1,0 +1,223 @@
+{
+  "name": "Tarikoplata",
+  "description": "Master the Tarikoplata shoulder lock in BJJ. Advanced guard submission combining omoplata mechanics with wrist control for devastating compound shoulder attacks.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "joint-lock",
+    "advanced",
+    "rubber-guard",
+    "10th-planet",
+    "omoplata-variation"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint and rotator cuff",
+  "starting_position": "Closed Guard",
+  "from_position": "Closed Guard/Bottom",
+  "success_rate": {
+    "gi": 45,
+    "nogi": 45
+  },
+  "variant_uniqueness": "Compound omoplata with added wrist torque lever",
+  "summary": "The Tarikoplata is an advanced compound shoulder lock from guard that fuses omoplata mechanics with a wrist-control lever, torquing the shoulder joint and rotator cuff simultaneously to defeat the posture and roll escapes that beat a standard omoplata.",
+  "overview": "Named after its innovator Tarik Hopstock, who showcased it across modern no-gi competition, the Tarikoplata evolved from the traditional omoplata by adding a second lever through wrist manipulation. The submission works by trapping the opponent's arm in an omoplata configuration while simultaneously controlling and twisting their wrist, creating a compound lock that attacks both the shoulder joint and rotator cuff. This technique is particularly effective when the opponent attempts to defend the traditional omoplata by posturing or rolling, as the added wrist control prevents these common escape routes. The Tarikoplata has gained significant traction in modern no-gi grappling and is a staple of innovative guard systems, particularly within the 10th Planet Jiu-Jitsu methodology. The submission requires excellent hip mobility, precise timing, and thorough understanding of omoplata mechanics before attempting the wrist control variation.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear (supraspinatus, infraspinatus, teres minor)",
+        "severity": "High",
+        "recovery_time": "3-6 months with surgical intervention possible"
+      },
+      {
+        "injury": "Shoulder dislocation (glenohumeral joint)",
+        "severity": "High",
+        "recovery_time": "6-12 weeks, potential chronic instability"
+      },
+      {
+        "injury": "Wrist hyperextension and ligament damage",
+        "severity": "Medium",
+        "recovery_time": "2-6 weeks"
+      },
+      {
+        "injury": "Labrum tear (glenoid labrum)",
+        "severity": "CRITICAL",
+        "recovery_time": "4-6 months post-surgery, career-threatening"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum application time, never spike or jerk",
+    "tap_signals": [
+      "Verbal tap (primary)",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on mat",
+      "Any verbal distress signal",
+      "Frantic movement or panic response"
+    ],
+    "release_protocol": [
+      "Immediately release wrist grip upon tap signal",
+      "Remove leg from over opponent's shoulder smoothly",
+      "Release hip pressure gradually",
+      "Allow opponent to extract arm naturally without resistance",
+      "Check for injury before continuing training"
+    ],
+    "training_restrictions": [
+      "Never use competition speed in training",
+      "Never spike or jerk the submission - apply progressive pressure only",
+      "Always allow tap access - opponent must have free hand available",
+      "Restrict to advanced practitioners only (minimum purple belt recommended)",
+      "Avoid practicing on training partners with existing shoulder injuries",
+      "Never combine with explosive movements or sudden adjustments"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Closed Guard",
+      "slug": "from-closed-guard",
+      "description": "Primary entry from closed guard bottom using omoplata setup with added wrist control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Rubber Guard Tarikoplata",
+      "description": "Enter from Mission Control or New York position in rubber guard system. Use high guard control to break posture, then transition leg over shoulder while maintaining wrist control throughout. This variation allows earlier wrist grip establishment.",
+      "when_to_use": "No-gi situations or against opponents with strong omoplata defense, provides better control through transition"
+    },
+    {
+      "variation_name": "Triangle to Tarikoplata Transition",
+      "description": "When opponent defends triangle by posturing and straightening arm, transition to tarikoplata by pivoting hips and bringing leg over their shoulder. Wrist is already controlled from triangle grip, making this a natural flow.",
+      "when_to_use": "When triangle is defended with good posture but arm remains extended, creates submission chain opportunity"
+    },
+    {
+      "variation_name": "Inverted Tarikoplata",
+      "description": "Applied from inverted guard position with similar mechanics but upside-down orientation. Requires exceptional hip mobility and spatial awareness. Less common but highly effective against opponents unfamiliar with the angle.",
+      "when_to_use": "From inverted guard entries, against opponents who defend traditional omoplata well, creates unexpected angle"
+    }
+  ],
+  "from_positions": [
+    "Closed Guard",
+    "Rubber Guard",
+    "Mission Control",
+    "New York",
+    "Triangle Control",
+    "Omoplata Control",
+    "Open Guard",
+    "Spider Guard",
+    "Inverted Guard",
+    "Half Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Inverted Triangle",
+      "relationship": "Guard submission chain partner sharing similar hip angle and leg positioning from bottom"
+    },
+    {
+      "name": "Baratoplata",
+      "relationship": "Sister compound shoulder lock using similar wrist manipulation and dual-lever mechanics"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Complementary rubber guard submission creating submission chain from same control positions"
+    },
+    {
+      "name": "Rear Triangle Choke",
+      "relationship": "Alternative finish when tarikoplata transitions create back exposure opportunities"
+    },
+    {
+      "name": "Omoplata",
+      "relationship": "Related omoplata variant sharing entry mechanics and shoulder rotation principles"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Chain submission available when opponent defends tarikoplata by extending arm"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Related shoulder lock sharing rotational attack mechanics and wrist control principles"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Complementary shoulder lock attacking opposite rotation direction from similar positions"
+    },
+    {
+      "name": "Triangle Choke",
+      "relationship": "Follow-up submission after successful tarikoplata sweep to mount"
+    },
+    {
+      "name": "Reverse Kimura",
+      "relationship": "Related wrist-controlled shoulder attack sharing compound joint lock mechanics"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Omoplata Control",
+      "relationship": "Parent position - tarikoplata is variation with added wrist control"
+    },
+    {
+      "name": "Mission Control",
+      "relationship": "Optimal rubber guard position for transitioning to tarikoplata"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Alternative transition when triangle is defended - flow to tarikoplata"
+    },
+    {
+      "name": "Baratoplata",
+      "relationship": "Related shoulder lock variation using similar mechanics"
+    },
+    {
+      "name": "Gogoplata Control",
+      "relationship": "Complementary rubber guard submission, creates submission chain"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Primary starting position for tarikoplata entries"
+    },
+    {
+      "name": "Rubber Guard",
+      "relationship": "Guard system containing optimal tarikoplata entry positions"
+    },
+    {
+      "name": "Inverted Guard",
+      "relationship": "Alternative entry angle for inverted tarikoplata variation"
+    },
+    {
+      "name": "New York",
+      "relationship": "Advanced rubber guard position for tarikoplata transitions"
+    },
+    {
+      "name": "Kimura Trap",
+      "relationship": "Related shoulder isolation control position sharing wrist and shoulder attack mechanics"
+    }
+  ],
+  "clips": [
+    {
+      "id": "jpNqecvfuFg",
+      "title": "The Power of the Tarikoplata",
+      "by": "Miha Perhavec",
+      "vertical": false,
+      "channel": "Miha Perhavec",
+      "duration": 63,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "hVXGAvOrwyA",
+      "title": "Tarikoplata quick demo",
+      "by": "bjjtaro",
+      "vertical": false,
+      "channel": "bjjtaro",
+      "duration": 8,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "ZbFNUmyWQkM",
+      "title": "Tarikoplata finishes + switch to Baratoplata",
+      "by": "Sam Bahador",
+      "vertical": false,
+      "channel": "Sam Bahador",
+      "duration": 60,
+      "verified": "2026-07-14"
+    }
+  ]
+}

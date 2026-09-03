@@ -1,0 +1,261 @@
+{# BJJ Principle Template V3 - Jinja2 #}
+{# Generates markdown from TEMPLATE.json for abstract principles/principles #}
+{# A/B Testing: variant-a-show/variant-b-hide CSS classes #}
+
+---
+title: "{{name}} | BJJ Principle | BJJ Map"
+description: "{{description}}"
+---
+
+{# PostHog A/B Testing Metadata #}
+<body data-content-type="principles">
+
+<!-- Schema Markup - Auto-generated from JSON -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Apply {{name}} in BJJ",
+  "description": "Decision framework for applying {{name}}.",
+  "step": [
+    {%- for step in decision_framework[:6] %}
+    {
+      "@type": "HowToStep",
+      "name": "{{step.decision_point}}",
+      "text": "{{step.action}}",
+      "position": {{loop.index}}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "url": "https://bjjmap.pages.dev/Principles/{{name.replace(' ', '-')}}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Principles", "item": "https://bjjmap.pages.dev/Principles/"},
+    {"@type": "ListItem", "position": 3, "name": "{{name}}", "item": "https://bjjmap.pages.dev/Principles/{{name.replace(' ', '-')}}"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for error in common_errors[:6] %}
+    {
+      "@type": "Question",
+      "name": "What is a common mistake in {{error.error}}?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{error.consequence}} The correction is: {{error.correction}}"
+      }
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+
+{% if summary %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{name}}",
+  "description": "{{summary}}",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Principles/"
+}
+</script>
+{% endif %}
+
+{# Metadata chips — single scannable row (replaces the old filler blockquote + duplicate bold lines) #}
+<div class="principle-meta">
+<span class="meta-chip">{{application_level}}</span>
+<span class="meta-chip">{{complexity_level}} complexity</span>
+<span class="meta-chip">{{development_timeline}}</span>
+</div>
+
+{# Flexbox wrapper for A/B testing #}
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+{# --- Film study clips: curated by scripts/source_clips.py, never AI-authored --- #}
+{%- set film_clips = clips if clips is defined and clips else [] %}
+{%- set film_context = name %}
+
+{% if film_clips %}
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ (film_context ~ " — Film Study") | tojson }},
+  "itemListElement": [
+    {%- for clip in film_clips %}
+    {
+      "@type": "VideoObject",
+      "position": {{ loop.index }},
+      "name": {{ clip.title | tojson }},
+      "description": {{ (film_context ~ " film study: " ~ clip.title ~ ((", taught by " ~ clip.by) if clip.by else "") ~ ".") | tojson }},
+      "thumbnailUrl": {{ ("https://i.ytimg.com/vi/" ~ clip.id ~ "/hqdefault.jpg") | tojson }},
+      "embedUrl": {{ ("https://www.youtube.com/embed/" ~ clip.id ~ (("?start=" ~ (clip.start | string)) if clip.start else "")) | tojson }},
+      "url": {{ ("https://www.youtube.com/watch?v=" ~ clip.id) | tojson }}
+      {%- if clip.by %},
+      "creator": { "@type": "Person", "name": {{ clip.by | tojson }} }
+      {%- endif %}
+      {%- if clip.duration %},
+      "duration": "PT{{ clip.duration }}S"
+      {%- endif %}
+      {%- if clip.upload_date %},
+      "uploadDate": {{ clip.upload_date | tojson }}
+      {%- endif %}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+<section id="overview" class="content-section">
+
+{% set is_plural = name.endswith('s') and not name.endswith('ss') -%}
+## What {{ 'are' if is_plural else 'is' }} {{name}}?
+
+{% if summary %}**{{summary}}**
+
+{% endif -%}
+{{overview}}
+
+</section>
+
+{% if film_clips %}
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch {{ film_context }} in action — curated instructionals</p>
+
+{% for clip in film_clips %}
+<div class="film-clip{{ ' film-clip--vertical' if clip.vertical else '' }}">
+
+![](https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&start={{ clip.start }}{% endif %}{% if clip.end %}&end={{ clip.end }}{% endif %})
+
+<p class="clip-credit"><strong>{{ clip.title | e }}</strong>{% if clip.by %} — taught by {{ clip.by | e }}{% endif %}{% if clip.duration %} · {{ "%d:%02d" | format(clip.duration // 60, clip.duration % 60) }}{% endif %} · <a href="https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&t={{ clip.start }}s{% endif %}" rel="noopener">Watch on YouTube{% if clip.start %} from {{ "%d:%02d" | format(clip.start // 60, clip.start % 60) }}{% endif %}</a></p>
+
+</div>
+{% endfor %}
+
+</section>
+{% endif %}
+
+<section id="building-blocks" class="content-section">
+
+## Building Blocks
+{% for principle in key_principles -%}
+- {{principle}}
+{% endfor %}
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+{% for skill in component_skills -%}
+**{{skill.skill_name}}**: {{skill.description}}
+
+{% endfor %}
+
+</section>
+
+<section id="where-to-apply" class="content-section">
+
+## Where to Apply
+{% for context in application_contexts -%}
+**{{context.context}}**: {{context.how_applied}}
+
+{% endfor %}
+
+</section>
+
+<section id="how-to-apply" class="content-section">
+
+## How to Apply
+{% for step in decision_framework -%}
+{{step.step_number}}. **{{step.decision_point}}**: {{step.action}}
+{% endfor %}
+
+</section>
+
+<section id="mistakes-to-avoid" class="content-section hide-minimal">
+
+## Mistakes to Avoid
+{% for error in common_errors -%}
+- **Mistake**: {{error.error}}
+  - **Consequence**: {{error.consequence}}
+  - **Correction**: {{error.correction}}
+{% endfor %}
+
+</section>
+
+<section id="how-to-practice" class="content-section hide-minimal">
+
+## How to Practice
+{% for approach in training_approaches -%}
+**{{approach.approach_name}}** (Focus: {{approach.focus}})
+{{approach.description}}
+
+{% endfor %}
+
+</section>
+
+<section id="progress-markers" class="content-section">
+
+## Progress Markers
+{% for metric in developmental_metrics -%}
+**{{metric.level}} Level**:
+{% for behavior in metric.observable_behaviors -%}
+- {{behavior}}
+{% endfor %}
+
+{% endfor %}
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+
+### Related Principles
+{% for rel in principle_relationships -%}
+- **[[{{rel.principle_name}}]]** ({{rel.relationship_type}}): {{rel.description}}
+{% endfor %}
+
+### Related Content
+{% for item in related_content -%}
+- [[{{ resolve(item.name) }}|{{ item.name }}]] ({{item.content_type}}) - {{item.relationship}}
+{% endfor %}
+
+</section>
+
+{{ resolve.related_systems_html(name) }}
+
+</main>

@@ -1,0 +1,236 @@
+{
+  "name": "Triangle Choke",
+  "description": "Master the Triangle Choke in BJJ. Complete safety guide with setup, execution, and defense. Success rates: Beginner 35%, Intermediate 55%, Advanced 75%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "triangle-choke",
+    "blood-choke",
+    "closed-guard",
+    "fundamental",
+    "hub",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Sankaku Jime",
+    "Sankaku"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Triangle_choke",
+    "https://www.wikidata.org/wiki/Q2375061"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and brachial plexus",
+  "starting_position": "Closed Guard",
+  "from_position": "Triangle Control/Bottom",
+  "success_rate": {
+    "gi": 65,
+    "nogi": 65
+  },
+  "variant_uniqueness": "Legs create blood choke using opponent's own shoulder as fulcrum",
+  "summary": "The Triangle Choke is a blood choke in which the attacker traps the opponent's head and one arm inside a figure-four leg configuration, driving their own shin across the neck so the opponent's trapped shoulder becomes the fulcrum that compresses both carotid arteries.",
+  "overview": "The Triangle Choke is one of Brazilian Jiu-Jitsu's most fundamental and high-percentage blood chokes, typically executed from the bottom position in closed guard. By trapping the opponent's head and one arm between your legs while using your shin to compress the neck, you create a triangle configuration that occludes the carotid arteries and restricts blood flow to the brain. The effectiveness of the triangle lies in its mechanical efficiency—once properly locked, it requires minimal strength to finish and becomes progressively tighter as the opponent struggles.\n\nHistorically developed from judo's sankaku-jime, the triangle choke has become a cornerstone technique in modern BJJ competition, especially in gi grappling where grips facilitate control. The submission works through a combination of structural alignment and proper angle creation, with the practitioner's body position and hip angle being more critical than leg strength. When executed correctly, the triangle creates an inescapable mechanical trap where the opponent's own shoulder acts as a fulcrum to compress their neck.\n\nThe triangle choke's strategic value extends beyond its finishing potential—it serves as a gateway to multiple transitions including armbars, omoplatas, and sweeps. High-level practitioners use the triangle position as a control platform, maintaining the configuration while attacking multiple submissions in sequence. This makes the triangle one of the most versatile offensive tools in BJJ, equally effective in both training and competition contexts across all skill levels.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from blood choke",
+        "severity": "CRITICAL",
+        "recovery_time": "Immediate upon release, but potential for injury if held after tap"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Brachial plexus compression (temporary arm numbness)",
+        "severity": "Low",
+        "recovery_time": "Minutes to hours"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum to allow partner to tap. NEVER spike or jerk the finish.",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any distress sound)",
+      "Physical hand tap (multiple taps on body or mat)",
+      "Physical foot tap (if hands trapped)",
+      "Any loss of resistance or going limp"
+    ],
+    "release_protocol": [
+      "Immediately open legs and release triangle configuration",
+      "Remove shin from neck and lower legs to mat",
+      "Release arm trap and create space",
+      "Check partner's consciousness and breathing",
+      "If unconscious, place in recovery position and alert instructor"
+    ],
+    "training_restrictions": [
+      "NEVER hold triangle after tap or loss of consciousness",
+      "NEVER use competition finishing speed in training",
+      "Always ensure partner has clear tap access with at least one hand",
+      "Release immediately upon any tap signal",
+      "Monitor partner's color and breathing throughout",
+      "Practice finishing mechanics on cooperative partners first"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Closed Guard",
+      "slug": "from-closed-guard"
+    },
+    {
+      "name": "from Crackhead Control",
+      "slug": "from-crackhead-control"
+    },
+    {
+      "name": "from De La Riva",
+      "slug": "from-de-la-riva"
+    },
+    {
+      "name": "from Mounted Triangle",
+      "slug": "from-mounted-triangle"
+    },
+    {
+      "name": "from Open Guard",
+      "slug": "from-open-guard"
+    },
+    {
+      "name": "from Spider Guard",
+      "slug": "from-spider-guard"
+    },
+    {
+      "name": "from Triangle Control",
+      "slug": "from-triangle-control"
+    }
+  ],
+  "from_positions": [
+    "Closed Guard",
+    "Mount",
+    "Spider Guard",
+    "De La Riva Guard",
+    "Mission Control",
+    "Back Control",
+    "Triangle Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Primary chain when opponent defends triangle by extending arm to escape lock"
+    },
+    {
+      "name": "Omoplata",
+      "relationship": "Alternative finish when triangle angle is denied and opponent pulls arm free"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Complementary guard submission sharing similar head control and posture-breaking principles"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Advanced submission from triangle configuration using shin pressure on throat"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Related blood choke targeting same carotid arteries from top position"
+    },
+    {
+      "name": "Armbar Finish",
+      "relationship": "High-percentage transition from failed triangle when arm becomes isolated during defense"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Complementary gi choke creating submission dilemma with triangle from closed guard"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Primary transition when opponent defends triangle by pulling arm free"
+    },
+    {
+      "name": "Omoplata",
+      "relationship": "Alternative finish when triangle is defended—opponent's defensive movements open omoplata"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Most common starting position for triangle choke setup"
+    },
+    {
+      "name": "Pendulum Sweep",
+      "relationship": "Sweep option that creates triangle opportunity when opponent posts hand to defend"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Complementary guard submission—similar head control principles"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Control position that precedes the triangle choke finish"
+    },
+    {
+      "name": "Spider Guard",
+      "relationship": "Open guard variation offering triangle entry opportunities"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Triangle from mount top position",
+      "description": "When opponent defends mount by bringing their arms up, trap one arm and throw leg over their shoulder, locking triangle while still in top position. Fall to side to finish.",
+      "when_to_use": "When opponent uses arms to defend mount rather than turning to escape"
+    },
+    {
+      "variation_name": "Triangle from spider guard",
+      "description": "From spider guard with one foot on bicep, kick that leg up and over opponent's shoulder while pulling their opposite arm across centerline, entering directly into triangle.",
+      "when_to_use": "When opponent is standing and you have spider guard control established"
+    },
+    {
+      "variation_name": "Reverse triangle (back triangle)",
+      "description": "Applied from back control or when taking the back, trapping opponent's arm and head from behind in triangle configuration using legs from rear position.",
+      "when_to_use": "From back control when opponent defends with arms in defensive posture"
+    },
+    {
+      "variation_name": "Flying triangle",
+      "description": "Jump guard entry directly into triangle position, typically used against standing opponent by jumping and locking triangle mid-air before landing.",
+      "when_to_use": "Competition or advanced training when opponent is standing and vulnerable to jumping attacks"
+    }
+  ],
+  "clips": [
+    {
+      "id": "rM8HMq3o9yY",
+      "title": "Triangle from closed guard",
+      "by": "Nicholas Meregali",
+      "start": 0,
+      "end": 26,
+      "vertical": true,
+      "channel": "Bernardo Faria BJJ Fanatics",
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "MbdpOmzThpQ",
+      "title": "Surprising triangle from guard",
+      "by": "Giancarlo Bodoni",
+      "start": 0,
+      "vertical": false,
+      "channel": "Bernardo Faria BJJ Fanatics",
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "9pjdpFCr4UI",
+      "title": "No-gi triangle from guard",
+      "by": "Chewjitsu",
+      "start": 0,
+      "vertical": false,
+      "channel": "Chewjitsu",
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "aR7JafPJ1lw",
+      "title": "Triangle off the overhook",
+      "by": "Jon Thomas · Grapplearts",
+      "start": 0,
+      "vertical": false,
+      "channel": "Stephan Kesting",
+      "verified": "2026-07-14"
+    }
+  ]
+}

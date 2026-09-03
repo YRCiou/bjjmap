@@ -1,0 +1,407 @@
+
+
+
+
+---
+title: "Choke from Crucifix | BJJ Submission | BJJ Map"
+description: "Master the Choke from Crucifix in BJJ. Complete guide covering blood choke mechanics, arm-trap finishing, safety protocols, and defensive escapes from crucifix."
+---
+
+
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Choke from Crucifix",
+  "description": "Master the Choke from Crucifix in BJJ. Complete guide covering blood choke mechanics, arm-trap finishing, safety protocols, and defensive escapes from crucifix.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Choke from Crucifix", "item": "https://bjjmap.pages.dev/Submissions/Choke-from-Crucifix" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Choke from Crucifix \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Crucifix to Rear Naked Choke",
+      "description": "Choke from Crucifix film study: Crucifix to Rear Naked Choke, taught by Greg Ferguson.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3t6j9HT6Mr8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/3t6j9HT6Mr8",
+      "url": "https://www.youtube.com/watch?v=3t6j9HT6Mr8",
+      "creator": { "@type": "Person", "name": "Greg Ferguson" },
+      "duration": "PT43S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Crucifix to Assassin Choke",
+      "description": "Choke from Crucifix film study: Crucifix to Assassin Choke, taught by Malachy Friedman.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A6H5KUCB_0E/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/A6H5KUCB_0E",
+      "url": "https://www.youtube.com/watch?v=A6H5KUCB_0E",
+      "creator": { "@type": "Person", "name": "Malachy Friedman" },
+      "duration": "PT84S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Assassin Choke from Back Crucifix",
+      "description": "Choke from Crucifix film study: Assassin Choke from Back Crucifix, taught by Hellfish MMA.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vCCarCZUPpM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vCCarCZUPpM",
+      "url": "https://www.youtube.com/watch?v=vCCarCZUPpM",
+      "creator": { "@type": "Person", "name": "Hellfish MMA" },
+      "duration": "PT175S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Choke from Crucifix",
+  "description": "The Choke from Crucifix is a high-percentage blood choke applied from the crucifix position, where both of the opponent's arms are trapped—one by the legs, the other pinned—leaving the neck defenseless for bilateral carotid compression via rear naked choke, short-choke, or arm-in grips.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The Choke from Crucifix is a high-percentage blood choke applied from the crucifix position, where both of the opponent's arms are trapped—one by the legs, the other pinned—leaving the neck defenseless for bilateral carotid compression via rear naked choke, short-choke, or arm-in grips.**
+<div class="principle-meta">
+<span class="meta-chip">Choke</span>
+<span class="meta-chip">Blood Choke</span>
+<span class="meta-chip">Targets Carotid arteries and trachea</span>
+<span class="meta-chip">63% success</span>
+</div>
+
+> [!danger] Safety
+> Choke from Crucifix targets the Carotid arteries and trachea. Primary risk: Carotid artery compression leading to loss of consciousness. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<div class="role-links">
+
+[[Submissions/Choke from Crucifix/Attacker|Play as Attacker]]
+[[Submissions/Choke from Crucifix/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+Strategically, this choke represents the culmination of the crucifix's weapons-denial logic: once both arms are isolated, the finish becomes a matter of time rather than a contest of strength. Because the opponent cannot bring a single hand to their neck, the defensive responses that rescue most chokes—grip stripping, hand fighting, the two-on-one—are simply unavailable, which is why high-level competitors treat reaching the crucifix as a near-guaranteed submission threat rather than merely a control position.
+
+The choke can be executed with multiple grips including rear naked choke mechanics, short chokes, or gi-based collar attacks. What makes this submission particularly effective is the opponent's complete inability to defend their neck with their hands, as both arms are controlled by the attacker's legs and body positioning. The psychological pressure of the crucifix position often causes opponents to panic, making the finish easier to secure.
+
+This technique is commonly seen in high-level competition and represents excellent understanding of positional hierarchy in grappling. The bilateral carotid compression creates rapid unconsciousness when applied correctly, making it one of the highest-percentage finishes available from any dominant position. Understanding the systematic approach of position consolidation before submission attempt is essential for consistent success with this technique.
+
+**Starting Position**: [[Positions/Crucifix]] · **From**: [[Positions/Crucifix]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Choke from Crucifix in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=3t6j9HT6Mr8)
+
+<p class="clip-credit"><strong>Crucifix to Rear Naked Choke</strong> — taught by Greg Ferguson · 0:43 · <a href="https://www.youtube.com/watch?v=3t6j9HT6Mr8" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=A6H5KUCB_0E)
+
+<p class="clip-credit"><strong>Crucifix to Assassin Choke</strong> — taught by Malachy Friedman · 1:24 · <a href="https://www.youtube.com/watch?v=A6H5KUCB_0E" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=vCCarCZUPpM)
+
+<p class="clip-credit"><strong>Assassin Choke from Back Crucifix</strong> — taught by Hellfish MMA · 2:55 · <a href="https://www.youtube.com/watch?v=vCCarCZUPpM" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[game-over]] | 60% |
+| Failure | [[Positions/Crucifix]] | 25% |
+| Counter | [[Positions/Back Control]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | Secure crucifix control first - submission is secondary to p... | Protect the neck immediately through aggressive chin tuck an... |
+| **Options** | 6 execution steps | 3 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Submissions/Choke from Crucifix/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Secure crucifix control first - submission is secondary to position dominance
+
+- Trap both arms completely before attempting choke to prevent hand fighting
+
+- Use body weight and hip pressure to maintain opponent flat and prevent rolling escapes
+
+- Keep your own base wide and low to prevent being rolled through
+
+- Apply choking pressure slowly and progressively, never explosively
+
+- Maintain constant connection between your chest and opponent's back throughout
+
+- Hide your choking arm by approaching from unexpected angles to prevent defensive turtling
+
+
+### Execution Steps
+
+
+- **Secure crucifix control fully**: Before thinking about the choke, establish complete crucifix dominance. Your top leg hooks over thei...
+
+- **Flatten opponent to expose neck**: Use hip pressure and chest weight to roll opponent away from you slightly, flattening them onto thei...
+
+- **Insert choking arm carefully**: Snake your choking arm (typically your bottom arm, the one on the same side as your bottom leg) unde...
+
+- **Secure grip structure**: Complete your grip configuration based on your chosen variation. For rear naked choke: grip your opp...
+
+- **Adjust body position for leverage**: Before applying pressure, ensure your body positioning maximizes leverage. Your chest should be tigh...
+
+- **Apply finishing pressure progressively**: Slowly squeeze your choking arm while simultaneously expanding your chest and pulling your opponent'...
+
+
+### Common Mistakes
+
+
+- **Attempting choke before securing full crucifix control**
+  - Consequence: Opponent escapes position entirely or frees hands to defend neck
+  - Correction: Follow proper hierarchy: position first, submission second. Spend extra time ensuring both arms are completely trapped and your position is unshakeable before thinking about the finish. Rushing costs you the position.
+
+- **Crushing the trachea instead of targeting carotid arteries**
+  - Consequence: Causes unnecessary pain, potential trachea injury, and is less effective for finish
+  - Correction: The blade of your forearm should be across the throat at an angle, with bicep on one side of neck and forearm on the other - creating a V-shape that compresses carotid arteries. If they can breathe but cannot think, your position is correct. Pain means wrong target.
+
+- **Using only arm strength to squeeze without body mechanics**
+  - Consequence: Ineffective choke that fatigues you rapidly and alerts opponent to danger
+  - Correction: The squeeze comes from your entire body: expand your chest, drive your hips forward, use your back muscles, and let your arm be the point of contact rather than the source of power. Your whole body structure should create the pressure.
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Submissions/Choke from Crucifix/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Protect the neck immediately through aggressive chin tuck and shoulder elevation before addressing positional escape
+
+- Prioritize freeing at least one arm from the leg traps - arm freedom is prerequisite to effective choke defense
+
+- Time defensive movements to exploit attacker's weight shifts during choke insertion attempts
+
+- Use hip movement and angle changes rather than direct arm pulling to create extraction opportunities
+
+- Maintain controlled breathing and avoid panic - energy conservation determines survival duration
+
+- Accept incremental position improvements rather than gambling on single explosive escape attempts
+
+- Recognize that prevention is the best defense - fight the crucifix entry before it consolidates
+
+
+### Recognition Cues
+
+
+- Attacker releases upper body grip or harness to begin snaking arm toward your neck while maintaining leg traps on both arms
+
+- Attacker shifts weight forward and flattens you onto your side or back, repositioning to expose your neck and create choking angle
+
+- Attacker's free hand begins manipulating your chin position upward or pulling your head back, indicating imminent choking arm insertion
+
+- You feel the attacker's forearm blade begin to slide along your jawline or under your chin from the side
+
+
+### Escape Paths
+
+
+- Extract near-side arm from leg control through hip rotation and angle change, then use freed hand to strip choking grip and fight to turtle or back escape position
+
+- Explosive bridge toward attacker's top side to disrupt base, creating momentary space to pull trapped arm free and transition to standard back control defensive sequence
+
+- Forward roll when attacker's hips are high, tumbling through to break the crucifix structure entirely and scrambling to recover guard or turtle position
+
+
+</section>
+
+
+<section id="variations" class="content-section hide-minimal">
+
+## Variations
+
+
+**Rear Naked Choke from Crucifix**: Classic RNC mechanics adapted to crucifix position. Arm under chin, grip opposite bicep, hand behind head. Creates strong bilateral carotid compression with deep penetration under chin. (When to use: Most versatile option effective in both gi and no-gi. Use when you have clean access under the chin without heavy defensive chin tuck. Best for beginners due to familiar mechanics.)
+
+
+**Short Choke from Crucifix**: In gi, grip high on your own lapel or opponent's far collar, pull across their neck with forearm blade. Creates crushing pressure with minimal arm insertion required. (When to use: Excellent when opponent has strong chin tuck making under-chin access difficult. Gi-specific variation that uses clothing for mechanical advantage. Very high percentage in gi grappling.)
+
+
+**Arm-In Choke from Crucifix**: Trap opponent's arm inside the choke structure, using their own shoulder to compress one carotid while your arm compresses the other. Also called crucifix smother. (When to use: Powerful when one arm begins to escape crucifix control. Instead of fighting to re-trap, incorporate their escaping arm into the choke itself. Turns their escape attempt into submission setup.)
+
+
+**Clock Choke from Crucifix Transition**: While maintaining crucifix, feed opponent's gi collar across their own neck, then walk your body position around their head like a clock while pulling the collar for choke. (When to use: Advanced gi variation that combines positional dominance with collar manipulation. Use when opponent is experienced at defending standard chokes from crucifix. The movement creates new angles they cannot defend.)
+
+
+
+</section>
+
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+- [[Positions/Crucifix]]
+- [[Positions/Mount/Mounted Crucifix]]
+- [[Positions/Back Control]]
+- [[Positions/Turtle]]
+- [[Positions/Gift Wrap]]
+- [[Positions/Harness]]
+
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Rear Naked Choke]]
+- [[Transitions/Clock Choke]]
+- [[Submissions/Arm Triangle]]
+- [[Submissions/Kimura]]
+- [[Submissions/Ezekiel Choke]]
+- [[Submissions/Bow and Arrow Choke]]
+- [[Submissions/Bicep Slicer]]
+- [[Submissions/Darce Choke]]
+- [[Transitions/Back Control to Crucifix]] - Primary transition to reach crucifix position for this choke
+- [[Transitions/Crucifix from Turtle]] - Alternative entry to crucifix when opponent turtles
+- [[Submissions/Armbar/from Crucifix]] - Alternative finish from same position when choke is defended
+- [[Positions/Crucifix]] - Parent control position from which this choke is executed
+- [[Positions/Mount/Mounted Crucifix]] - Variation position that provides similar choking opportunities
+- [[Positions/Back Control/Seat Belt Control Back]] - Back control variation that transitions well into crucifix
+- [[Positions/Crab Ride]] - Alternative back control position with crucifix entry options
+- [[Submissions/Rear Naked Choke/from Gift Wrap]] - Related choke sharing similar arm-control mechanics from back position
+- [[Positions/Back Control]] - Dominant position that commonly precedes crucifix establishment
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Carotid artery compression leading to loss of consciousness | CRITICAL | Immediate recovery if released promptly; potential for serious injury if held after unconsciousness |
+| Trachea damage from excessive pressure or improper hand positioning | High | 1-3 weeks for minor damage; months for severe crushing |
+| Shoulder strain from arm entrapment during resistance | Medium | 3-7 days with proper care |
+
+
+**Application Speed**: SLOW and progressive - 3-5 seconds minimum in training, always allow time for tap
+
+**Tap Signals**:
+- Verbal tap or any vocalization
+- Physical hand tap on opponent or mat
+- Physical foot tap on mat
+- Any distress signal or body convulsion
+- Loss of resistance or going limp
+
+
+**Release Protocol**:
+1. Immediately release choking arm upon any tap signal
+2. Maintain positional control briefly to ensure partner's safety
+3. Allow partner to recover in side position, do not immediately move away
+4. Check partner's awareness and breathing before continuing
+5. Never re-apply pressure after a tap, even if accidental
+
+
+**Training Restrictions**:
+- Never apply full pressure in drilling - use 30-40% maximum
+- Never hold choke after partner taps or goes unconscious
+- Always ensure both you and partner understand tap signals before training
+- Beginners should only practice entry and position, not finish
+- Never use competition speed or intensity in casual training
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Back-Attack-System" data-cta="related-system-card" data-system-slug="systems/back-attack-system" data-system-name="Back Attack System" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Back Attack System</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Advanced finish from arm isolation variations</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

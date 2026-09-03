@@ -1,0 +1,236 @@
+{
+  "name": "Estima Lock",
+  "summary": "The Estima Lock is a foot-lock submission that dorsiflexes an opponent's trapped foot against a knee-line fulcrum, rather than rotating it like a toe hold, compressing the ankle and foot from 50-50 guard and related leg entanglements.",
+  "description": "Master Estima Lock foot submission with safety protocols, setup from 50-50 guard, execution steps, defense patterns. Success rates: Beginner 30%, Intermediate 45%, Advanced 65%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "foot-lock",
+    "estima-lock",
+    "50-50-guard",
+    "toe-hold-variant",
+    "hub",
+    "finishing-guide"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Leg Lock",
+  "target_area": "Foot and ankle joints (dorsiflexion of foot)",
+  "starting_position": "Ashi Garami",
+  "from_position": "50-50 Guard/Bottom",
+  "success_rate": {
+    "gi": 55,
+    "nogi": 55
+  },
+  "variant_uniqueness": "Dorsiflexion pressure using knee fulcrum rather than rotational force",
+  "overview": "The Estima Lock is a sophisticated foot lock submission targeting the ankle and foot through dorsiflexion pressure. Named after Victor Estima who popularized the technique, this submission applies pressure by using the back of the opponent's knee to create a fulcrum while controlling the foot. The Estima Lock is most commonly executed from leg entanglement positions, particularly the 50-50 guard, where both practitioners' legs are entangled and the positioning creates ideal mechanical advantage for the foot attack.\n\nWhat makes the Estima Lock particularly effective is its deceptive setup - it often appears as a defensive position or transition rather than an attacking submission. From 50-50 guard bottom, the practitioner uses their leg position behind the opponent's knee to create pressure while controlling the foot with their hands. The submission works by forcefully dorsiflexing (bending upward) the opponent's foot while the knee joint is bent, creating intense pressure on the ligaments and tendons of the ankle and foot. Unlike traditional toe holds that rotate the foot, the Estima Lock applies direct upward pressure, making it distinct in its application and defense requirements.\n\nThe technique requires precise control and understanding of leg entanglement mechanics. Success depends on proper positioning of the attacking leg behind the opponent's knee, correct hand placement on the foot, and coordinated pressure application. When executed correctly, the Estima Lock can finish opponents quickly, but it also serves as an excellent sweeping mechanism and position advancement tool. The submission is particularly valuable in modern leg lock systems where transitions between different leg attacks create layered offensive threats.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Ankle ligament sprain or tear (deltoid ligament, talofibular ligaments)",
+        "severity": "High",
+        "recovery_time": "2-8 weeks depending on severity"
+      },
+      {
+        "injury": "Foot ligament damage (tarsometatarsal joint injury)",
+        "severity": "Medium",
+        "recovery_time": "3-6 weeks"
+      },
+      {
+        "injury": "Achilles tendon strain",
+        "severity": "Medium",
+        "recovery_time": "2-4 weeks"
+      },
+      {
+        "injury": "Metatarsal stress or fracture (with extreme force)",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 weeks"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum from initial pressure to maximum force. Allow partner multiple tap opportunities.",
+    "tap_signals": [
+      "Verbal tap (shout 'TAP' or any verbal signal)",
+      "Physical hand tap on partner's body or mat",
+      "Physical foot tap with free leg",
+      "Any distress signal or unusual sounds",
+      "Loss of resistance (unconsciousness risk)"
+    ],
+    "release_protocol": [
+      "Immediately release hand grip on foot",
+      "Remove attacking leg from behind opponent's knee",
+      "Allow opponent's foot to return to neutral position naturally",
+      "Maintain visual contact to ensure partner is okay",
+      "Never jerk or spike the release - controlled withdrawal only"
+    ],
+    "training_restrictions": [
+      "Never apply at competition speed during training",
+      "Never apply to beginners or those unfamiliar with leg locks",
+      "Always ensure partner knows the tap signals before drilling",
+      "Never apply with sudden jerking motions",
+      "Always allow clear tap access with hands",
+      "Stop immediately if partner's foot makes unusual sounds",
+      "Communicate throughout application in drilling"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Estima Lock Control",
+      "slug": "from-estima-lock-control"
+    },
+    {
+      "name": "from Honey Hole",
+      "slug": "from-honey-hole"
+    },
+    {
+      "name": "from Saddle",
+      "slug": "from-saddle"
+    }
+  ],
+  "from_positions": [
+    "50-50 Guard",
+    "Ashi Garami",
+    "Outside Ashi-Garami",
+    "Inside Ashi-Garami",
+    "Backside 50-50",
+    "Cross Ashi-Garami",
+    "Saddle"
+  ],
+  "related_submissions": [
+    {
+      "name": "Toe Hold",
+      "relationship": "Common transition when opponent defends Estima Lock by pulling foot free"
+    },
+    {
+      "name": "Heel Hook",
+      "relationship": "High-percentage leg lock creating submission chains with Estima Lock"
+    },
+    {
+      "name": "Straight Ankle Lock",
+      "relationship": "Transition option when opponent straightens leg to defend Estima Lock"
+    },
+    {
+      "name": "Kneebar",
+      "relationship": "Alternative leg attack from similar entanglement positions"
+    },
+    {
+      "name": "Flying Kneebar",
+      "relationship": "Dynamic kneebar variation creating offensive dilemmas in leg lock systems"
+    },
+    {
+      "name": "Aoki Lock",
+      "relationship": "Alternative leg lock from ashi garami positions creating offensive chains"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Related ankle compression attack from similar leg entanglement positions"
+    },
+    {
+      "name": "Heel Hook from Backside 50-50",
+      "relationship": "Complementary heel attack from related leg entanglement configuration"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Compression-based leg attack available from shared entanglement positions"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Ashi Garami",
+      "relationship": "Primary leg entanglement family containing 50-50 Guard and other positions for Estima Lock"
+    },
+    {
+      "name": "50-50 Guard",
+      "relationship": "Primary position for Estima Lock application and leg lock system integration"
+    },
+    {
+      "name": "Outside Ashi-Garami",
+      "relationship": "Foundational leg entanglement offering alternative entry angles for Estima Lock"
+    },
+    {
+      "name": "Inside Ashi-Garami",
+      "relationship": "Related leg entanglement creating dilemmas in modern leg lock systems"
+    },
+    {
+      "name": "Saddle",
+      "relationship": "Advanced leg entanglement position that can transition to Estima Lock"
+    },
+    {
+      "name": "Backside 50-50",
+      "relationship": "Reverse bilateral entanglement with unique Estima Lock entry angles"
+    },
+    {
+      "name": "Cross Ashi-Garami",
+      "relationship": "Cross-body leg control offering perpendicular Estima Lock setup angles"
+    },
+    {
+      "name": "Honey Hole",
+      "relationship": "Apex leg entanglement position enabling high-percentage Estima Lock entries"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Estima Lock from 50-50 Bottom (Classic)",
+      "description": "From bottom of 50-50 guard with opponent's weight on top, use your inside leg behind their knee and attack the trapped foot. This is the original and most common application where you appear defensive but are actually attacking.",
+      "when_to_use": "When opponent establishes 50-50 top position and commits their weight forward. Works best when opponent focuses on their own attacks and neglects foot defense."
+    },
+    {
+      "variation_name": "Estima Lock from Top 50-50",
+      "description": "From top of 50-50 guard, use your outside leg to attack opponent's foot while maintaining top pressure. This variation requires different mechanics but provides offensive control while attacking.",
+      "when_to_use": "When you achieve 50-50 top position and opponent is defending their legs. Combines position control with submission threat."
+    },
+    {
+      "variation_name": "Estima Lock from Outside Ashi",
+      "description": "From outside ashi garami position (your legs outside opponent's leg), thread your inside leg behind their knee and attack the foot. Requires repositioning but creates powerful angle for the lock.",
+      "when_to_use": "When opponent defends outside heel hook by straightening their leg. The straightening motion can be redirected into Estima Lock setup."
+    },
+    {
+      "variation_name": "Estima Lock to Sweep Combination",
+      "description": "Use the Estima Lock setup to break opponent's base and posture, then use their defensive reaction to execute a sweep to top position. The submission threat forces defensive reactions that create sweep opportunities.",
+      "when_to_use": "When opponent has strong leg lock defense but poor base. The submission threat can be used primarily as a sweeping mechanism rather than a finish."
+    },
+    {
+      "variation_name": "Rolling Estima Lock Entry",
+      "description": "From standing or open guard, execute a rolling entry to establish the leg entanglement and immediately attack the Estima Lock as you come up on your side. Dynamic entry that catches opponents by surprise.",
+      "when_to_use": "Against opponents who defend standard leg entanglement entries. The rolling motion creates momentum and makes it harder to defend the hand grip on the foot."
+    }
+  ],
+  "clips": [
+    {
+      "id": "_6BC8d5B5Hs",
+      "title": "Estima Lock",
+      "by": "bjjtaro",
+      "vertical": false,
+      "channel": "bjjtaro",
+      "duration": 31,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "Ao0IatSHEi0",
+      "title": "Estima Lock",
+      "by": "Leandro Dos Santos Flores",
+      "vertical": false,
+      "channel": "Sensei Leandro Dos Santos Flores",
+      "duration": 27,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "-RKlONkjanA",
+      "title": "Estima Lock Finish",
+      "by": "Yao Nkromah",
+      "vertical": false,
+      "channel": "Yao TheTruth",
+      "duration": 50,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "Cj9M9qeS0WE",
+      "title": "Estima Lock from Reverse De La Riva",
+      "by": "Revolution BJJ",
+      "vertical": false,
+      "channel": "Revolution BJJ",
+      "duration": 151,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Fix horizontal scroll: base.scss sets html { width: 100vw } which includes
+// scrollbar width. 100% uses the actual visible viewport instead.
+html {
+  width: 100% !important;
+}
+
+// Cap the overall article shell width and center it. Modals, drawers, FABs, and
+// the background graph are siblings of #quartz-root, so they keep full viewport.
+#quartz-root {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid var(--lightgray);
+}
+
+// ── #quartz-body grid: three overrides, one job — never reserve a column nothing fills ──
+//
+// base.scss lays #quartz-body out on Quartz's stock grids from variables.scss, all of which
+// budget a 320px `grid-sidebar-left` track. THIS SITE HAS NO LEFT GRID COLUMN: the left
+// sidebar (CategoryNav) is rendered inside `#sidebar-overlay`, which renderPage.tsx emits as a
+// SIBLING of `#quartz-root` — so `.sidebar.left`'s `grid-area: grid-sidebar-left` never
+// resolves against #quartz-body and that 320px track stays permanently empty.
+//
+// Unfixed, the stock grid squeezes the article: at >1200px `320px auto 320px` inside a
+// max-width:1100px shell leaves the <article> ~450px wide with a 320px void down its left
+// side. That surface is not decoration — it is the static article a crawler, a no-JS visitor
+// and a failed bundle fetch read (scripts/check_seo_parity.py + e2e/journeys/static-article-
+// layout.spec.ts gate it). v1.80.0 deleted these three overrides along with the legacy chrome
+// they sat next to; only the mobile one was restored, so desktop and tablet regressed.
+//
+// The right sidebar (TableOfContents) IS a real grid child, but base.scss hides it at
+// `max-width: 1200px` — hence three tiers, not two.
+//
+// Desktop (>1200px): center + the 320px ToC column. No left track.
+@media (min-width: 1201px) {
+  #quartz-body {
+    grid-template-columns: auto 320px !important;
+    grid-template-areas:
+      "grid-header grid-sidebar-right"
+      "grid-center grid-sidebar-right"
+      "grid-footer grid-sidebar-right" !important;
+  }
+}
+
+// Tablet (801–1200px): the ToC is display:none here, so a single content column. Its grid area
+// is still named so the hidden element stays placeable rather than auto-flowing into the grid.
+@media (min-width: 801px) and (max-width: 1200px) {
+  #quartz-body {
+    grid-template-columns: auto !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-sidebar-right"
+      "grid-footer" !important;
+  }
+}
+
+// Mobile (≤800px): "auto" lets content push the page wider than the viewport;
+// "minmax(0, 1fr)" takes available space without exceeding it.
+@media (max-width: 800px) {
+  #quartz-body {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
+
+// ============================================================================
+// Landing Page (Homepage)
+// ============================================================================
+//
+// The homepage used to be a special case in every direction: renderPage.tsx emitted a bare
+// #home-hero instead of the article shell, and this section drove a 5s cinematic intro over the
+// legacy background graph (#graph-overlay as a backdrop, staggered title/tagline fades, a Roll
+// FAB fading in at the end). v1.80.0 removed all of it — `/` renders the same article shell as
+// every other page so the site root has real crawlable copy, and the Neural app is the intro.
+//
+// What remains is the tagline ArticleTitle still emits under the homepage <h1>.
+.tagline {
+  font-size: 1.1rem;
+  color: var(--dark);
+  opacity: 0.7;
+  margin: 0 0 2.5rem 0;
+
+  .tagline-line {
+    display: block;
+  }
+}
+
+// The left category nav is emitted inside #sidebar-overlay (a sibling of #quartz-root) so it
+// stays in the DOM for crawlers and no-JS readers. It used to be a slide-in drawer owned by
+// TreeDrawer; with that script deleted it is simply a static block above the article.
+#sidebar-overlay {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 clamp(0.75rem, 3vw, 3rem);
+}
+
+// Pages that opt out of rendering their article body via `cssclasses: [hide-content]` in
+// frontmatter (content/Tree.md, content/Game Over.md). Kept when the Training Dashboard styles
+// were deleted in v1.80.0 — the class is declared by CONTENT, not by any component.
+.hide-content article {
+  display: none;
+}
+
+// ============================================================================
+// Global Dark Mode Scrollbar Styles
+// ============================================================================
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--gray) var(--light);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray);
+  border-radius: 4px;
+
+  &:hover {
+    background: var(--darkgray);
+  }
+}
+
+// ============================================================================
+// A/B Testing Infrastructure
+// ============================================================================
+
+// Enable flexbox layout for dynamic section reordering (order set via inline styles)
+article {
+  display: flex;
+  flex-direction: column;
+}
+
+// All content sections participate in flex layout
+.content-section {
+  // Order values injected dynamically via inline <style> tag from edge
+  order: 0; // Default fallback
+}
+
+// Metadata chip row at the top of Principle / System pages
+// (replaces the old filler blockquote + duplicate bold metadata lines)
+.principle-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0 0 1.25rem;
+}
+
+.meta-chip {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2em 0.6em;
+  border-radius: 999px;
+  white-space: nowrap;
+  background: rgba(132, 165, 157, 0.15);
+  color: var(--secondary);
+}
+
+// Question-based subtitles below section headings (SEO + readability)
+.section-subtitle {
+  font-size: 0.85rem;
+  opacity: 0.55;
+  line-height: 1.5;
+  margin-top: -0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+// ----------------------------------------------------------------------------
+// Test 3: Visual Enhancement Variants
+// ----------------------------------------------------------------------------
+
+// Common Mistakes Accordion
+#common-mistakes .mistake-heading {
+  cursor: pointer;
+  user-select: none;
+  padding-right: 1.5rem;
+  position: relative;
+
+  &::after {
+    content: "+";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: var(--gray);
+  }
+
+  &.open::after {
+    content: "\2212";
+  }
+}
+
+#common-mistakes .mistake-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+
+  &.open {
+    max-height: 600px;
+  }
+}
+
+// Decision tree styling (applied unconditionally for all pages)
+#decision-tree {
+  background: rgba(255, 242, 54, 0.08);
+  padding: 1.5rem;
+  border-radius: 4px;
+  border-left: 4px solid #f0b429;
+  margin: 1.5rem 0;
+}
+
+// Enhanced variant: Add visual styling to key sections
+.variant-visual-enhanced {
+  // Visual emphasis on key principles
+  #key-principles {
+    background: rgba(132, 165, 157, 0.08);
+    padding: 1.5rem;
+    border-radius: 4px;
+    margin: 1.5rem 0;
+
+    ul {
+      margin-top: 0.5rem;
+    }
+  }
+
+  // Subtle enhancement for execution/transition steps
+  #execution-steps,
+  #offensive-transitions {
+    padding-left: 1rem;
+    border-left: 2px solid rgba(132, 165, 157, 0.3);
+    margin: 1.5rem 0;
+  }
+}
+
+// ============================================================================
+// Collapsible Sections (Playing As Model)
+// ============================================================================
+
+details summary {
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+details summary h2 {
+  display: inline;
+  margin: 0;
+}
+
+details[open] summary {
+  margin-bottom: 1rem;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+// ============================================================================
+// Role Quick Links (Hub Pages)
+// ============================================================================
+
+.role-links {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+
+  a {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--secondary);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--secondary);
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: all 0.15s;
+
+    &:hover {
+      background: var(--secondary);
+      color: var(--light) !important;
+    }
+  }
+}
+
+// ============================================================================
+// Submission family "What positions can you finish from?" variants table
+// ============================================================================
+
+.variants-table {
+  overflow-x: auto; // graceful horizontal scroll on mid-width screens
+
+  // Play-as cells (cols 4 & 5) read as tappable launchers, matching .role-links.
+  td:nth-child(4) a,
+  td:nth-child(5) a {
+    display: inline-block;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--secondary);
+    border-radius: 8px;
+    color: var(--secondary);
+    font-weight: 500;
+    font-size: 0.85rem;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: all 0.15s;
+
+    &:hover {
+      background: var(--secondary);
+      color: var(--light) !important;
+    }
+  }
+}
+
+.mechanical-variations {
+  margin: 0.5rem 0 1.25rem;
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--secondary);
+  }
+}
+
+// Mobile: stack each variant row into a self-contained card (no horizontal scroll).
+@media (max-width: 600px) {
+  .variants-table {
+    overflow-x: visible;
+
+    table,
+    thead,
+    tbody,
+    tr,
+    td {
+      display: block;
+      width: auto;
+    }
+
+    thead {
+      display: none;
+    }
+
+    tr {
+      border: 1px solid var(--lightgray);
+      border-radius: 8px;
+      padding: 0.6rem 0.8rem;
+      margin-bottom: 0.6rem;
+    }
+
+    td {
+      border: none;
+      padding: 0.15rem 0;
+    }
+
+    td:nth-child(1) {
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    td:nth-child(2),
+    td:nth-child(3) {
+      display: inline-block;
+      font-size: 0.75rem;
+      opacity: 0.7;
+      margin-right: 0.75rem;
+    }
+
+    td:nth-child(4),
+    td:nth-child(5) {
+      display: inline-block;
+      margin: 0.4rem 0.4rem 0 0;
+
+      a {
+        min-height: 44px;
+        line-height: 44px;
+        padding: 0 1rem;
+      }
+    }
+  }
+}
+
+// ============================================================================
+// Dark Mode Adjustments for A/B Testing Variants
+// ============================================================================
+
+@media (prefers-color-scheme: dark) {
+  #decision-tree {
+    background: rgba(255, 242, 54, 0.05);
+    border-left-color: #c4961f;
+  }
+
+  .variant-visual-enhanced {
+    #key-principles {
+      background: rgba(132, 165, 157, 0.1);
+    }
+  }
+
+  // Dark mode shadow indicators for scrollable TOC
+  #toc-content {
+    box-shadow:
+      inset 0 0.5rem 0.5rem -0.5rem rgba(255, 255, 255, 0.08),
+      inset 0 -0.5rem 0.5rem -0.5rem rgba(255, 255, 255, 0.08);
+  }
+}
+
+// ============================================================================
+// Dark Mode: White hover text for navigation elements
+// ============================================================================
+
+[saved-theme="dark"] {
+  // General link hover
+  a:hover {
+    color: #fff !important;
+  }
+
+  // Breadcrumbs hover
+  .breadcrumb-element a:hover {
+    color: #fff !important;
+  }
+
+  // Explorer hover
+  #explorer-content ul li > a:hover,
+  .folder-container div > a:hover,
+  .folder-container div > button:hover span,
+  .folder-icon:hover {
+    color: #fff !important;
+  }
+
+  // Table of contents hover
+  #toc-content ul > li > a:hover {
+    color: #fff !important;
+  }
+}
+
+// ============================================================================
+// Article shell layout
+// ============================================================================
+//
+// What used to live here: the full-viewport Pixi/D3 background graph and the scroll-driven
+// "drawer" mechanic that slid the article card over it (--drawer-progress, #scroll-runway,
+// #graph-overlay, graph/content modes, the view-transition on .page). All of it belonged to
+// the legacy front-end and went in v1.80.0. The Neural app draws its own canvas inside
+// #neural-root and never touched these elements.
+//
+// These rules stayed because they are the ARTICLE's layout, not the graph's — they style the
+// crawlable page that Neural overlays and that no-JS visitors read directly.
+
+// Symmetric inner gutters so content does not hug the card's left edge (previously only the
+// 320px right sidebar padded the right side). Applied consistently to the title
+// (`.page-header`), the body article, and the footer so they share one left/right inset; the
+// right sidebar's existing 3rem padding already mirrors this on the right. The article and the
+// title each sit inside a `.popover-hint` wrapper, so descendant selectors are used — content
+// pages have exactly one article, no nesting.
+.page {
+  // Shared horizontal inner gutter (~12px mobile, ~24px tablet, 48px desktop).
+  --content-gutter: clamp(0.75rem, 3vw, 3rem);
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+.page > #quartz-body .center .page-header,
+.page > #quartz-body .center article,
+.page > #quartz-body > footer {
+  padding-inline: var(--content-gutter);
+  // border-box is LOAD-BEARING, not tidiness. base.scss gives `.center` and `footer`
+  // `min-width: 100%` (stock Quartz), and there is no global `* { box-sizing: border-box }` —
+  // only body/section/.sidebar get it. So on a content-box element `min-width: 100%` sizes the
+  // CONTENT box to the full grid track and this padding is then added OUTSIDE it: 2 ×
+  // --content-gutter of overflow past the track. At tablet width that is 60px past the
+  // viewport, i.e. the whole static page scrolls sideways (measured: 1043px of scrollWidth in a
+  // 1000px viewport). Caught by e2e/journeys/static-article-layout.spec.ts, which asserts
+  // scrollWidth <= viewport at 1440/1000/390.
+  box-sizing: border-box;
+}
+
+// Tables: align the table box with the article content gutter. Quartz's default
+// (.table-container > table in base.scss) adds margin:1rem + padding:1.5rem, pushing tables
+// ~2.5rem further in than body paragraphs. Drop the horizontal offset (keep vertical rhythm);
+// th/td cell padding still provides the inner spacing.
+.page > #quartz-body .center article .table-container > table {
+  margin-inline: 0;
+  padding: 0;
+}
+
+// Anchor links should not land flush against the viewport top.
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a[id] {
+  scroll-margin-top: 1.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+// === Search button — the only floating control on the static surface ===
+//
+// It used to sit second in a row: `left: calc(1rem + 44px + 5px)` reserved the first slot for
+// TreeDrawer's #tree-toggle at left:1rem. v1.80.0 deleted TreeDrawer, so that offset left a 44px
+// hole in the top-left corner with nothing in it. Now it takes the corner itself.
+//
+// Only ever visible on the STATIC surface: variant.inline.ts hides every `body > *` except
+// #neural-root while the app owns the screen, so this is what a no-JS visitor or a failed bundle
+// fetch sees. Rendered directly in renderPage.tsx as a sibling of #quartz-root (no longer nested
+// inside the sidebar), so the selector flattens to just #search-button.
+#search-button {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  right: auto;
+  z-index: 10;
+  width: 44px;
+  height: 36px;
+  padding: 0;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  opacity: 0.85;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: auto;
+  transition:
+    opacity 0.2s,
+    background-color 0.2s;
+
+  &:hover {
+    opacity: 1;
+    background: var(--lightgray);
+  }
+
+  // Hide the "Search" text label, show only the magnifying-glass icon
+  & > p {
+    display: none;
+  }
+}
+
+// ============================================================================
+// Mobile drawer fix — force the Explorer to render inside the drawer regardless
+// of its DesktopOnly wrapper (explorer.scss hides .desktop-only on mobile).
+// Scoped to inside #sidebar-overlay so we don't expose it anywhere else.
+// ============================================================================
+#sidebar-overlay .explorer {
+  display: flex;
+}
+
+// ============================================================================
+// Synonym / Variant / False-Synonym surfaces (aliases, family, disambiguations)
+// Rendered as an <aside class="entity-relations"> at the top of <main>,
+// directly under the H1, mirroring Wikipedia's infobox-row + hatnote idiom.
+// ============================================================================
+.entity-relations {
+  margin: 0 0 1.25rem 0;
+  padding: 0.6rem 0.85rem;
+  border-left: 3px solid var(--lightgray);
+  background: var(--light);
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--darkgray);
+
+  p {
+    margin: 0.15rem 0;
+  }
+
+  em {
+    color: var(--gray);
+    font-style: italic;
+  }
+
+  strong {
+    color: var(--dark);
+    font-weight: 600;
+  }
+
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .role-hint {
+    color: var(--gray);
+    font-size: 0.85em;
+    margin-left: 0.25rem;
+  }
+}
+
+// "Often confused with" hatnote gets a warning tint so it visually separates
+// from neutral alias/family lines.
+.entity-relations .often-confused-with {
+  border-left: 2px solid var(--secondary);
+  padding-left: 0.6rem;
+  margin-left: -0.6rem;
+  background: linear-gradient(to right, rgba(186, 38, 55, 0.04), transparent 30%);
+}
+
+// ============================================================================
+// Synonym / Variant / False-Synonym surfaces (aliases, family, disambiguations)
+// Rendered as an <aside class="entity-relations"> at the top of <main>,
+// directly under the H1, mirroring Wikipedia's infobox-row + hatnote idiom.
+// ============================================================================
+.entity-relations {
+  margin: 0 0 1.25rem 0;
+  padding: 0.6rem 0.85rem;
+  border-left: 3px solid var(--lightgray);
+  background: var(--light);
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--darkgray);
+
+  p {
+    margin: 0.15rem 0;
+  }
+
+  em {
+    color: var(--gray);
+    font-style: italic;
+  }
+
+  strong {
+    color: var(--dark);
+    font-weight: 600;
+  }
+
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .role-hint {
+    color: var(--gray);
+    font-size: 0.85em;
+    margin-left: 0.25rem;
+  }
+}
+
+// "Often confused with" hatnote gets a warning tint so it visually separates
+// from neutral alias/family lines.
+.entity-relations .often-confused-with {
+  border-left: 2px solid var(--secondary);
+  padding-left: 0.6rem;
+  margin-left: -0.6rem;
+  background: linear-gradient(to right, rgba(186, 38, 55, 0.04), transparent 30%);
+}
+
+// ===========================================================================
+// Systems conversion funnel — Related-Systems CTA cards (node pages),
+// Pokémon-style affiliate product cards (system pages), and the "unlock the
+// graph" progress UI. v1.41.0
+// ===========================================================================
+
+// --- Related Systems CTA cards (positions/transitions/submissions/principles) ---
+.related-systems {
+  .related-systems-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 0.9rem;
+    margin-top: 0.5rem;
+  }
+}
+
+.system-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 1rem 1.1rem;
+  border-radius: 14px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  text-decoration: none !important;
+  color: var(--dark);
+  overflow: hidden;
+  isolation: isolate;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+  animation: systemCardIn 0.5s ease both;
+
+  &:hover {
+    transform: translateY(-4px) scale(1.015);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.14);
+    border-color: var(--graphSystem, var(--secondary));
+  }
+
+  // staggered entrance
+  @for $i from 1 through 8 {
+    &:nth-child(#{$i}) {
+      animation-delay: #{0.04 * $i}s;
+    }
+  }
+
+  &__shine {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(
+      105deg,
+      transparent 30%,
+      rgba(255, 255, 255, 0.35) 50%,
+      transparent 70%
+    );
+    transform: translateX(-120%);
+    transition: transform 0.6s ease;
+    pointer-events: none;
+  }
+  &:hover &__shine {
+    transform: translateX(120%);
+  }
+
+  &__type-chip {
+    align-self: flex-start;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.15em 0.55em;
+    border-radius: 999px;
+    background: var(--graphSystem, var(--secondary));
+    color: #fff;
+  }
+
+  &__name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  &__unlocks-badge {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--secondary);
+  }
+
+  &__blurb {
+    font-size: 0.82rem;
+    color: var(--darkgray);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  &__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  &__chip {
+    font-size: 0.62rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.15em 0.5em;
+    border-radius: 999px;
+    background: rgba(132, 165, 157, 0.15);
+    color: var(--secondary);
+  }
+
+  &__cta {
+    margin-top: auto;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--graphSystem, var(--secondary));
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  &__arrow {
+    transition: transform 0.2s ease;
+  }
+  &:hover &__arrow {
+    transform: translateX(4px);
+  }
+}
+
+@keyframes systemCardIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// --- The no-product surface (44 of 47 systems) ---
+// Takes the slot the product cards would have filled, so a system with no VERIFIED instructional
+// still reads as finished instead of ending on a gap. Everything it offers is free and internal —
+// a generic vendor link nobody verified is exactly the guess docs/Affiliate.md forbids.
+.system-study-free {
+  border: 1px solid var(--lightgray);
+  border-left: 3px solid var(--secondary);
+  border-radius: 8px;
+  padding: 0.4rem 1.2rem 0.9rem;
+  background: var(--light);
+
+  h2 {
+    margin-top: 0.8rem;
+  }
+  ul {
+    margin-bottom: 0.2rem;
+  }
+  li + li {
+    margin-top: 0.35rem;
+  }
+}
+
+// --- Pokémon-style affiliate product cards (system pages only) ---
+.product-cards {
+  .product-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.1rem;
+    margin-top: 0.5rem;
+  }
+}
+
+.product-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+  animation: productCardIn 0.55s ease both;
+
+  // subtle gradient ring (the "card" frame)
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 16px;
+    padding: 1px;
+    background: linear-gradient(135deg, var(--graphSystem, #4477aa), var(--secondary));
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0.55;
+    pointer-events: none;
+    z-index: 3;
+  }
+
+  &:hover {
+    transform: perspective(800px) rotateX(2deg) rotateY(-3deg) translateY(-6px);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
+  }
+
+  &__holo {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: repeating-linear-gradient(
+      115deg,
+      rgba(255, 0, 128, 0.06),
+      rgba(0, 200, 255, 0.06) 12px,
+      rgba(180, 255, 0, 0.06) 24px,
+      rgba(255, 0, 128, 0.06) 36px
+    );
+    mix-blend-mode: color-dodge;
+    pointer-events: none;
+  }
+
+  &__shine {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    background: linear-gradient(
+      105deg,
+      transparent 35%,
+      rgba(255, 255, 255, 0.45) 50%,
+      transparent 65%
+    );
+    transform: translateX(-130%);
+    transition: transform 0.7s ease;
+    pointer-events: none;
+  }
+  &:hover &__shine {
+    transform: translateX(130%);
+  }
+
+  &__cover {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    background: var(--lightgray);
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+    }
+  }
+  &__vendor-badge {
+    position: absolute;
+    top: 0.6rem;
+    left: 0.6rem;
+    z-index: 4;
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.2em 0.6em;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+  }
+
+  &__body {
+    position: relative;
+    z-index: 4;
+    padding: 0.9rem 1rem 0.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  &__title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    margin: 0;
+    line-height: 1.2;
+  }
+  &__instructor {
+    font-size: 0.8rem;
+    color: var(--darkgray);
+    margin: 0;
+  }
+  &__unlocks-badge {
+    align-self: flex-start;
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 0.2em 0.6em;
+    border-radius: 999px;
+    background: var(--graphSystem, #4477aa);
+    color: #fff;
+  }
+  &__blurb {
+    font-size: 0.82rem;
+    color: var(--darkgray);
+    line-height: 1.4;
+    margin: 0.1rem 0 0;
+  }
+
+  &__cta {
+    position: relative;
+    z-index: 4;
+    margin: 0.4rem 1rem 1rem;
+    padding: 0.7rem 1rem;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 0.9rem;
+    text-decoration: none !important;
+    color: #fff;
+    background: var(--secondary);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    transition:
+      filter 0.15s ease,
+      transform 0.15s ease;
+    &:hover {
+      filter: brightness(1.08);
+    }
+  }
+  &__cta-arrow {
+    transition: transform 0.2s ease;
+  }
+  &__cta:hover &__cta-arrow {
+    transform: translateX(4px);
+  }
+}
+
+@keyframes productCardIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+// --- "Unlock this part of the graph" progress + member checklist ---
+.system-unlock[hidden] {
+  display: none;
+}
+
+.system-progress {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 0.4rem 0 1rem;
+
+  &__ring {
+    width: 56px;
+    height: 56px;
+    flex: 0 0 auto;
+    transform: rotate(-90deg);
+  }
+  &__ring-bg {
+    fill: none;
+    stroke: var(--lightgray);
+    stroke-width: 4;
+  }
+  &__ring-fill {
+    fill: none;
+    stroke: var(--graphSystem, #4477aa);
+    stroke-width: 4;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.45s ease;
+  }
+  &__text {
+    font-size: 0.92rem;
+    color: var(--dark);
+    strong {
+      color: var(--secondary);
+    }
+  }
+  &__mark-all {
+    margin-left: auto;
+    padding: 0.5rem 0.9rem;
+    border-radius: 8px;
+    border: 1px solid var(--graphSystem, var(--secondary));
+    background: transparent;
+    color: var(--graphSystem, var(--secondary));
+    font-weight: 700;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition:
+      background 0.15s ease,
+      color 0.15s ease;
+    &:hover {
+      background: var(--graphSystem, var(--secondary));
+      color: #fff;
+    }
+  }
+}
+.system-unlock[data-complete="true"] .system-progress__text strong {
+  color: var(--graphSystem, #4477aa);
+}
+
+.system-members {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.4rem 0.9rem;
+}
+.system-member {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+
+  &__toggle {
+    flex: 0 0 auto;
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 5px;
+    border: 1.5px solid var(--gray);
+    background: transparent;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    transition:
+      background 0.15s ease,
+      border-color 0.15s ease;
+  }
+  &__check {
+    font-size: 0.8rem;
+    line-height: 1;
+    color: #fff;
+    opacity: 0;
+    transform: scale(0.6);
+    transition:
+      opacity 0.15s ease,
+      transform 0.15s ease;
+  }
+  &.is-known &__toggle {
+    background: var(--graphSystem, #4477aa);
+    border-color: var(--graphSystem, #4477aa);
+  }
+  &.is-known &__check {
+    opacity: 1;
+    transform: scale(1);
+  }
+  &__name {
+    text-decoration: none;
+    color: var(--dark);
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+  &.is-known &__name {
+    color: var(--darkgray);
+  }
+  &__type {
+    margin-left: auto;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--gray);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .system-card,
+  .product-card {
+    animation: none;
+    opacity: 1;
+  }
+  .system-card:hover,
+  .product-card:hover {
+    transform: none;
+  }
+  .system-card__shine,
+  .product-card__shine {
+    display: none;
+  }
+  .system-progress__ring-fill {
+    transition: none;
+  }
+}
+
+// ============================================================================
+// SnapshotButton — dev-only camera, bottom-left
+// The element only ever exists on localhost with dev-serve.mjs answering (see
+// snapshotButton.inline.ts), so these rules are inert in production. It sits
+// above everything — including the neural overlay, whose hide-all rule exempts
+// this id by id (variant.inline.ts) — and stays dim until hovered so it doesn't
+// compete with the app while you work.
+// ============================================================================
+#dev-snapshot-btn {
+  position: fixed;
+  bottom: 14px;
+  left: 14px;
+  z-index: 9999;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.55;
+  transition:
+    opacity 0.15s ease,
+    background-color 0.2s;
+
+  &:hover,
+  &:focus-visible {
+    opacity: 1;
+    background: var(--lightgray);
+    outline: none;
+  }
+
+  &.snap-busy {
+    opacity: 1;
+    pointer-events: none;
+    animation: devSnapPulse 1s ease-in-out infinite;
+  }
+
+  &.snap-ok {
+    opacity: 1;
+    color: #3fb950;
+  }
+
+  &.snap-err {
+    opacity: 1;
+    color: #f85149;
+  }
+}
+
+@keyframes devSnapPulse {
+  50% {
+    transform: scale(0.92);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #dev-snapshot-btn.snap-busy {
+    animation: none;
+  }
+}

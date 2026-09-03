@@ -1,0 +1,229 @@
+{
+  "name": "Reverse Kimura",
+  "description": "Master Reverse Kimura in BJJ. Complete guide with safety protocols, setup from various positions, and execution. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "kimura",
+    "joint-lock",
+    "shoulder-lock",
+    "reverse-grip",
+    "standing",
+    "wrestling",
+    "no-gi"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint and rotator cuff",
+  "starting_position": "Standing Position",
+  "from_position": "Standing Position/Top",
+  "from_positions": [
+    "Standing Position",
+    "Front Headlock",
+    "Turtle",
+    "Overhook Control",
+    "Crucifix",
+    "Side Control",
+    "North-South"
+  ],
+  "success_rate": {
+    "gi": 52,
+    "nogi": 52
+  },
+  "variant_uniqueness": "Reversed figure-four grip for dynamic standing and scramble situations",
+  "summary": "The Reverse Kimura is a shoulder lock that applies the Kimura's rotational shoulder pressure through a reversed figure-four grip taken in front of the opponent's arm, enabling high-percentage finishes from standing, front headlock, turtle, and crucifix scrambles.",
+  "overview": "Within the broader Kimura shoulder-lock system, the Reverse Kimura occupies the niche of dynamic, scramble-heavy exchanges where the traditional figure-four grip behind the arm is unavailable. Instead of the standard figure-four grip with your hand grabbing your own wrist behind the opponent's arm, the Reverse Kimura involves gripping your wrist in front of the opponent's arm, creating a different leverage angle and control pattern. This submission is particularly effective from standing positions, front headlocks, and scrambles where traditional Kimura grips may not be accessible. The Reverse Kimura shares the same target area and injury mechanism as the standard Kimura—the shoulder joint and rotator cuff—but the reversed grip often provides superior control in dynamic situations and allows for unique transitions to back takes and other submissions. The technique is highly valued in wrestling-based grappling and no-gi contexts where grip fighting and hand fighting create opportunities for unconventional entries. Understanding both the standard and reverse Kimura variations creates a more complete shoulder lock system that adapts to different gripping scenarios.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear",
+        "severity": "High",
+        "recovery_time": "3-6 months with surgery potential"
+      },
+      {
+        "injury": "Shoulder dislocation",
+        "severity": "High",
+        "recovery_time": "6-12 weeks minimum"
+      },
+      {
+        "injury": "AC joint separation",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks"
+      },
+      {
+        "injury": "Labrum tear",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months with surgery likely"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 4-6 seconds minimum with constant communication",
+    "tap_signals": [
+      "Verbal tap (most important for standing submissions)",
+      "Physical hand tap on any available surface",
+      "Physical tap with free hand on partner",
+      "Any distress vocalization",
+      "Tapping feet if hands unavailable"
+    ],
+    "release_protocol": [
+      "Immediately stop all rotational pressure",
+      "Release grip completely and step back",
+      "Allow partner to externally rotate shoulder naturally",
+      "Do not force arm back to neutral position",
+      "Check with partner before continuing training"
+    ],
+    "training_restrictions": [
+      "Never apply quickly or explosively in training",
+      "Never continue rotation past 90 degrees in practice",
+      "Always maintain verbal communication during application",
+      "Never spike or drop weight during standing applications",
+      "Always allow partner clear tap access with free hand",
+      "Stop immediately at first sign of discomfort",
+      "Never practice on injured shoulders"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Standing Position",
+      "slug": "from-standing-position",
+      "description": "Applied during clinch and standing exchanges with overhook control"
+    },
+    {
+      "name": "from Front Headlock",
+      "slug": "from-front-headlock",
+      "description": "Entry from front headlock control against turtled or bent-over opponent"
+    },
+    {
+      "name": "from Turtle",
+      "slug": "from-turtle",
+      "description": "Applied against turtled opponent using top position pressure"
+    },
+    {
+      "name": "from Crucifix",
+      "slug": "from-crucifix",
+      "description": "High-percentage finish from crucifix with limited defensive options"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Reverse Kimura from Front Headlock",
+      "description": "When controlling opponent in turtle or front headlock position, isolate the far arm and establish reverse Kimura grip. Use your head pressure and body weight to prevent forward movement while rotating the shoulder. This setup is extremely common in wrestling-based grappling.",
+      "when_to_use": "When opponent turtles or you establish front headlock control during scrambles"
+    },
+    {
+      "variation_name": "Reverse Kimura to Back Take Transition",
+      "description": "As opponent defends by turning into the lock to relieve shoulder pressure, maintain your grip and follow their rotation to take the back. The reverse Kimura naturally creates back exposure during defensive movements. Use the grip to control their rotation and establish hooks as you transition.",
+      "when_to_use": "When opponent successfully defends the submission by rotating toward you"
+    },
+    {
+      "variation_name": "Standing Reverse Kimura from Overhook",
+      "description": "From standing clinch with overhook control, transition to reverse Kimura grip by threading your arm through and gripping your wrist. The overhook naturally sets up the arm position for reverse grip entry. Control their posture with your free hand on their head or collar.",
+      "when_to_use": "During standing exchanges when you establish overhook control in clinch"
+    },
+    {
+      "variation_name": "Reverse Kimura from Crucifix Position",
+      "description": "From crucifix control on the mat, one arm is already trapped. Apply reverse Kimura grip to the trapped arm while your legs control their body. This provides extremely secure control and high finishing percentage due to their limited defensive options.",
+      "when_to_use": "When you achieve crucifix position from back control or scrambles"
+    }
+  ],
+  "related_submissions": [
+    {
+      "name": "Kimura",
+      "relationship": "Standard Kimura with traditional grip behind the arm in the same shoulder lock family"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Reverse-direction shoulder lock targeting external rotation from pin positions"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Front headlock submission system sharing similar control positions and entries"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Joint lock option when opponent extends arm defending the reverse grip"
+    },
+    {
+      "name": "Baratoplata",
+      "relationship": "Advanced shoulder lock sharing reversed grip mechanics and similar arm isolation"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Primary alternative submission from front headlock and standing positions"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Front headlock choke system with overlapping entry positions and setups"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Arm-in choke from front headlock sharing common control and entry mechanics"
+    },
+    {
+      "name": "Japanese Necktie",
+      "relationship": "Front headlock neck crank sharing similar turtle and front headlock entries"
+    },
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "Standing choke alternative when reverse Kimura grip is denied at the neck"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Kimura Trap",
+      "relationship": "Control position incorporating reverse grip variations and systematic shoulder attacks"
+    },
+    {
+      "name": "Back Take",
+      "relationship": "Primary transition when reverse Kimura is defended by rotation, attacker follows to back control"
+    },
+    {
+      "name": "Overhook Control",
+      "relationship": "Standing setup position for reverse Kimura entry"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Alternative arm trap leading to similar submission mechanics"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Common position where reverse Kimura is applied from top control"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Position system where reverse Kimura is commonly applied"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Similar shoulder lock targeting internal rotation from different position"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Control position offering high-percentage reverse Kimura entries with limited defense"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Complete system of Kimura-family shoulder lock techniques"
+    }
+  ],
+  "clips": [
+    {
+      "id": "8tW1t_KO1T4",
+      "title": "Reverse Kimura Throw to Submission",
+      "by": "Coach Brian",
+      "vertical": false,
+      "channel": "TeachMeGrappling Coach Brian",
+      "duration": 69,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "dw9YtuvroXI",
+      "title": "Reverse Kimura Arm Drag to Back",
+      "by": "Grappling with Insanity",
+      "vertical": false,
+      "channel": "Grappling with Insanity",
+      "duration": 27,
+      "verified": "2026-07-14"
+    }
+  ]
+}

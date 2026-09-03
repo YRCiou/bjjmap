@@ -1,0 +1,341 @@
+
+
+
+
+---
+title: "Ringworm Guard to Worm Guard | BJJ Technique | BJJ Map"
+description: "Learn Ringworm Guard to Worm Guard transition in BJJ. Lapel reconfiguration for deeper control with systematic threading mechanics and timing."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Ringworm Guard to Worm Guard",
+  "description": "Learn Ringworm Guard to Worm Guard transition in BJJ. Lapel reconfiguration for deeper control with systematic threading mechanics and timing.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Ringworm Guard to Worm Guard", "item": "https://bjjmap.pages.dev/Transitions/Ringworm-Guard-to-Worm-Guard" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Ringworm Guard to Worm Guard \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Lapel guard examples: worm, reverse De La Worm, ring worm",
+      "description": "Ringworm Guard to Worm Guard film study: Lapel guard examples: worm, reverse De La Worm, ring worm, taught by Greg Hamilton.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CdPHu-ly6t8/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/CdPHu-ly6t8",
+      "url": "https://www.youtube.com/watch?v=CdPHu-ly6t8",
+      "creator": { "@type": "Person", "name": "Greg Hamilton" },
+      "duration": "PT287S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Worm guard back take and ringworm overhead sweeps",
+      "description": "Ringworm Guard to Worm Guard film study: Worm guard back take and ringworm overhead sweeps, taught by Meerkatsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ionS-bmfXxk/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ionS-bmfXxk",
+      "url": "https://www.youtube.com/watch?v=ionS-bmfXxk",
+      "creator": { "@type": "Person", "name": "Meerkatsu" },
+      "duration": "PT430S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Worm guard and ringworm guard basic sweeps",
+      "description": "Ringworm Guard to Worm Guard film study: Worm guard and ringworm guard basic sweeps, taught by Meerkatsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/--69GBxx7ig/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/--69GBxx7ig",
+      "url": "https://www.youtube.com/watch?v=--69GBxx7ig",
+      "creator": { "@type": "Person", "name": "Meerkatsu" },
+      "duration": "PT734S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Ringworm Guard to Worm Guard",
+  "description": "Ringworm Guard to Worm Guard is a gi lapel-guard reconfiguration in which the bottom player rethreads the opponent's lapel from around their leg to deep underneath it, upgrading into Worm Guard's tighter control and higher-percentage sweeps.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Ringworm Guard to Worm Guard/Attacker|Play as Attacker]]
+[[Ringworm Guard to Worm Guard/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**Ringworm Guard to Worm Guard is a gi lapel-guard reconfiguration in which the bottom player rethreads the opponent's lapel from around their leg to deep underneath it, upgrading into Worm Guard's tighter control and higher-percentage sweeps.**
+
+The Ringworm Guard to Worm Guard transition is a fundamental reconfiguration within the lapel guard system that allows the bottom player to upgrade their lapel control for deeper entanglement and enhanced mechanical advantage. This transition occurs when the Ringworm configuration becomes compromised or when the practitioner recognizes an opportunity to establish the more dominant Worm Guard position with its superior sweeping and back-taking opportunities.
+
+The transition involves maintaining lapel tension while rethreading the lapel around the opponent's leg in a different configuration. Rather than the Ringworm wrap around the outside of the leg, Worm Guard threads the lapel under and through the opponent's leg, creating a tighter mechanical connection that restricts movement more severely. This reconfiguration is particularly effective when the opponent attempts to stand or create distance, as these movements often create the space necessary to execute the lapel rethread.
+
+Strategically, this transition represents a progression within the lapel guard hierarchy. Ringworm Guard offers strong control but Worm Guard provides superior sweep mechanics and submission entries. Understanding when and how to transition between these positions is essential for anyone developing a complete lapel-based guard game. The transition can be executed proactively to upgrade position or reactively when Ringworm control begins to slip.
+
+**From Position**: [[Positions/Ringworm Guard]] (Bottom)
+**Success Rate**: 58%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Ringworm Guard to Worm Guard in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=CdPHu-ly6t8)
+
+<p class="clip-credit"><strong>Lapel guard examples: worm, reverse De La Worm, ring worm</strong> — taught by Greg Hamilton · 4:47 · <a href="https://www.youtube.com/watch?v=CdPHu-ly6t8" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=ionS-bmfXxk)
+
+<p class="clip-credit"><strong>Worm guard back take and ringworm overhead sweeps</strong> — taught by Meerkatsu · 7:10 · <a href="https://www.youtube.com/watch?v=ionS-bmfXxk" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=--69GBxx7ig)
+
+<p class="clip-credit"><strong>Worm guard and ringworm guard basic sweeps</strong> — taught by Meerkatsu · 12:14 · <a href="https://www.youtube.com/watch?v=--69GBxx7ig" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Worm Guard]] | 65% |
+| Failure | [[Positions/Ringworm Guard]] | 25% |
+| Counter | [[Positions/Open Guard]] | 10% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Maintain constant lapel tension throughout the transition to... | Monitor the bottom player's lapel hand constantly for grip a... |
+| **Options** | 6 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Ringworm Guard to Worm Guard/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Maintain constant lapel tension throughout the transition to prevent opponent from extracting their leg
+
+- Use hip movement to create space for rethreading the lapel while keeping the opponent off-balance
+
+- Time the transition when opponent attempts to stand or create distance, using their movement to facilitate the rethread
+
+- Keep secondary grips on sleeve or collar to prevent opponent from capitalizing on the momentary transition
+
+- Thread the lapel deep under the opponent's leg rather than shallow to establish secure Worm Guard
+
+- Angle your hips perpendicular to the opponent as you complete the transition for optimal control
+
+
+### Execution Steps
+
+
+- **Secure secondary grip**: Before initiating the transition, ensure you have a strong secondary grip on the opponent's far slee...
+
+- **Create space with hip escape**: Execute a small hip escape away from the opponent while maintaining lapel tension, creating the spac...
+
+- **Momentarily release lapel wrap**: Briefly release the Ringworm wrap while immediately sliding the lapel under the opponent's leg from ...
+
+- **Thread lapel deep under leg**: Feed the lapel deep under the opponent's thigh, passing it from the outside of their leg to the insi...
+
+- **Wrap lapel around shin**: Wrap the lapel around your shin or foot on the same side, creating the characteristic Worm Guard con...
+
+- **Establish Worm Guard tension**: Pull the lapel tight to eliminate all slack, angle your hips perpendicular to the opponent, and enga...
+
+
+### Common Mistakes
+
+
+- **Releasing lapel tension completely during the transition without maintaining hand contact**
+  - Consequence: Opponent extracts their leg entirely during the gap in control, collapsing the position to a neutral open guard or worse
+  - Correction: Keep at least one hand in contact with the lapel throughout the entire transition, sliding rather than releasing and re-gripping
+
+- **Attempting transition without establishing secondary grip on sleeve or collar first**
+  - Consequence: Opponent postures up and uses their free hands to strip lapel control or advance position during the vulnerable rethreading moment
+  - Correction: Always secure opposite sleeve or collar grip before initiating transition to limit opponent's defensive options
+
+- **Threading the lapel too shallow under opponent's leg rather than deep under the thigh**
+  - Consequence: Resulting Worm Guard is weak and easily cleared by the opponent stepping out or stripping the loose weave
+  - Correction: Feed lapel deep under the thigh, ensuring it travels completely under their leg before wrapping around your shin
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Ringworm Guard to Worm Guard/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Monitor the bottom player's lapel hand constantly for grip adjustments that signal an incoming transition attempt
+
+- Maintain forward pressure and heavy hips to deny the space needed for lapel rethreading under your leg
+
+- Attack the lapel grip immediately when you feel tension decrease, as this is the narrow window for successful defense
+
+- Keep your trapped leg active by pumping and circling to prevent smooth rethreading of the lapel
+
+- Control the bottom player's secondary grip hand to reduce their ability to maintain stability during the transition
+
+
+### Recognition Cues
+
+
+- Bottom player's lapel-gripping hand begins sliding along the lapel material rather than maintaining static tension, indicating preparation to rethread
+
+- Bottom player executes a hip escape to create angle and space under your leg, often accompanied by their free leg pushing against your hip
+
+- Momentary decrease in lapel tension around your leg as the Ringworm wrap loosens before the rethreading attempt begins
+
+- Bottom player's secondary hand strengthens its grip on your sleeve or collar, indicating they are anchoring before initiating the transition
+
+
+### Defensive Options
+
+
+- **Strip the lapel grip during the rethreading window by using both hands to peel the loosened lapel from around your leg** - When: The moment you feel lapel tension decrease and the wrap begins loosening around your leg
+
+- **Drive forward with heavy shoulder pressure and flatten the bottom player to deny rethreading space** - When: When you recognize the hip escape and angle creation that precede the transition attempt
+
+- **Circle your trapped leg backward and away from the threading direction while maintaining base with your free leg** - When: When you feel the lapel being fed under your leg in the new direction during the rethreading
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**Standing transition**: Execute the transition when opponent stands up from Ringworm Guard. Their elevation creates natural space under their leg for deeper threading. Use your free leg on their hip to control distance while rethreading. (When to use: When opponent stands to escape Ringworm Guard or attempts to create distance)
+
+
+**Sweep-to-transition chain**: Initiate a sweep attempt from Ringworm Guard that forces opponent to post or shift weight. Use their defensive reaction and momentary weight shift to create space for the Worm Guard transition rather than completing the original sweep. (When to use: When opponent has stable base in Ringworm Guard and direct transition attempts are being blocked)
+
+
+**Collar grip assisted transition**: Use a deep collar grip instead of sleeve grip as your secondary control. Pull opponent's posture down with the collar while hip escaping to create optimal threading space under their leg. (When to use: When opponent keeps arms tight and sleeve grip is unavailable)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+The Ringworm Guard to Worm Guard transition is a critical link within the lapel guard system. It represents a progression from the intermediate control of Ringworm to the more dominant Worm Guard, where sweep and back-take opportunities increase significantly. This transition allows practitioners to adapt their lapel configuration based on opponent reactions rather than abandoning the lapel system entirely. From Worm Guard, practitioners can execute high-percentage sweeps, triangle attacks, omoplata entries, and back takes. The ability to fluidly transition between Ringworm and Worm Guard makes the entire lapel system more resilient to passing attempts, as practitioners can reconfigure rather than lose position when one configuration is threatened.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Positions/Ringworm Guard]] - Starting position for this transition
+
+- [[Positions/Worm Guard]] - Target position after successful transition
+
+- [[Positions/Lapel Guard]] - Parent guard category containing both positions
+
+- [[Positions/Squid Guard]] - Alternative lapel guard transition when Worm Guard threading is blocked
+
+- [[Transitions/Lapel Elevator Sweep]] - High-percentage follow-up sweep from established Worm Guard
+
+- [[Transitions/Omoplata Sweep]] - Common offensive chain from Worm Guard after transition
+
+- [[Transitions/Back Take]] - High-percentage follow-up from Worm Guard sweeps
+
+- [[Positions/Spider Guard]] - Alternative guard if lapel control is lost during transition
+
+- [[Positions/De La Riva Guard]] - Fallback position sharing leg hooking principles
+
+- [[Positions/Lasso Guard]] - Alternative gi-based guard if lapel configuration fails
+
+
+</section>
+
+
+
+</main>

@@ -1,0 +1,279 @@
+{
+  "name": "Outside Heel Hook",
+  "description": "Master Outside Heel Hook in BJJ. Safety guide covering proper application, knee rotation mechanics, injury prevention, and defensive strategies from leg entanglements.",
+  "summary": "The Outside Heel Hook is a rotational leg-lock that twists the heel laterally to torque the knee, attacked from outside leg entanglements like outside ashi-garami, saddle, and 50-50 and threatening the ACL, MCL, and meniscus within seconds.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "heel-hook",
+    "outside-heel-hook",
+    "ashi-garami",
+    "advanced",
+    "dangerous",
+    "finishing-guide",
+    "no-gi"
+  ],
+  "disambiguations": [
+    {
+      "name": "Inside Heel Hook",
+      "reason": "the Inside Heel Hook uses the opposite leg configuration and finishing rotation"
+    }
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Leg Lock",
+  "target_area": "Knee joint, ankle joint, and surrounding ligaments",
+  "starting_position": "Outside Ashi-Garami",
+  "from_position": "Outside Ashi-Garami/Bottom",
+  "success_rate": {
+    "gi": 45,
+    "nogi": 45
+  },
+  "variant_uniqueness": "Rotational knee attack from outside leg entanglement positioning",
+  "overview": "The Outside Heel Hook is one of the most dangerous and effective leg lock submissions in Brazilian Jiu-Jitsu, targeting the knee joint through rotational force applied to the heel and foot. Unlike inside heel hooks which attack from inside positioning, the outside heel hook is applied when controlling the opponent's leg from the outside position, typically from outside ashi-garami or similar leg entanglement positions. This submission creates torque on the knee joint by rotating the foot and lower leg while the upper leg remains fixed, placing tremendous stress on the ACL, MCL, meniscus, and other knee structures.\n\nThe outside heel hook gained prominence in modern no-gi competition through the leg lock revolution and has become a fundamental finishing position in high-level competition. The mechanical advantage created by proper hip positioning and heel control makes this one of the highest percentage finishing attacks from leg entanglement positions. Due to its extreme injury potential and the speed at which damage occurs, this technique requires exceptional technical precision, safety awareness, and should only be practiced by experienced grapplers with trustworthy training partners.\n\nThe position demands systematic control before any finishing attempt: hip control with the inside leg prevents defensive rotation, hip extension removes slack from the system, and a deep heel cup provides the rotational lever. Only when all three control elements are established should the practitioner begin slow, progressive rotation. This submission represents the ultimate test of a grappler's responsibility, as the margin between a clean tap and a catastrophic injury is razor-thin.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "ACL tear (anterior cruciate ligament rupture)",
+        "severity": "CRITICAL",
+        "recovery_time": "9-12 months with surgical reconstruction"
+      },
+      {
+        "injury": "MCL tear (medial collateral ligament damage)",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months depending on grade"
+      },
+      {
+        "injury": "Meniscus tear",
+        "severity": "High",
+        "recovery_time": "3-6 months with potential surgery"
+      },
+      {
+        "injury": "LCL damage (lateral collateral ligament)",
+        "severity": "High",
+        "recovery_time": "6-8 weeks to 6 months"
+      },
+      {
+        "injury": "PCL strain (posterior cruciate ligament)",
+        "severity": "High",
+        "recovery_time": "3-6 months"
+      },
+      {
+        "injury": "Ankle ligament damage",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - minimum 5-7 seconds progressive pressure in training, NEVER sudden rotation",
+    "tap_signals": [
+      "Verbal tap (primary)",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap with free leg",
+      "Any vocal distress signal",
+      "Frantic movement or panic response",
+      "Any indication of discomfort"
+    ],
+    "release_protocol": [
+      "Immediately release rotational pressure on heel",
+      "Release the figure-four grip or heel cup",
+      "Remove hip pressure and extension",
+      "Allow opponent to straighten leg naturally",
+      "Check partner's condition before continuing",
+      "Never apply rotation while releasing"
+    ],
+    "training_restrictions": [
+      "NEVER apply sudden rotational force - always slow and progressive",
+      "NEVER practice at competition speed during training",
+      "NEVER continue past first sign of discomfort",
+      "Only train with experienced partners who understand leg locks",
+      "Always ensure clear communication before training leg locks",
+      "Tap early and often - do not test flexibility limits",
+      "Prohibited for white and blue belts in most IBJJF competitions",
+      "Never practice on injured knees or with prior knee injuries without medical clearance"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from 50-50 Guard",
+      "slug": "from-50-50-guard"
+    },
+    {
+      "name": "from Backside 50-50",
+      "slug": "from-backside-50-50"
+    },
+    {
+      "name": "from Cross Ashi-Garami",
+      "slug": "from-cross-ashi-garami"
+    },
+    {
+      "name": "from Honey Hole",
+      "slug": "from-honey-hole"
+    },
+    {
+      "name": "from Leg Entanglement",
+      "slug": "from-leg-entanglement"
+    },
+    {
+      "name": "from Outside Ashi-Garami",
+      "slug": "from-outside-ashi-garami"
+    },
+    {
+      "name": "from Saddle",
+      "slug": "from-saddle"
+    },
+    {
+      "name": "from Ushiro Ashi-Garami",
+      "slug": "from-ushiro-ashi-garami"
+    }
+  ],
+  "from_positions": [
+    "Outside Ashi-Garami",
+    "Cross Ashi-Garami",
+    "50-50 Guard",
+    "Backside 50-50",
+    "Ashi Garami",
+    "Saddle",
+    "Honey Hole"
+  ],
+  "related_submissions": [
+    {
+      "name": "Inside Heel Hook",
+      "relationship": "Mirror submission from inside leg positioning with opposite rotation direction"
+    },
+    {
+      "name": "Heel Hook",
+      "relationship": "Generic heel hook category encompassing all rotational heel attacks"
+    },
+    {
+      "name": "Toe Hold",
+      "relationship": "Complementary rotational foot lock often chained from heel hook defense"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Lower-risk straight ankle lock available from same leg entanglement positions"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Compression submission targeting calf from leg entanglement positions"
+    },
+    {
+      "name": "Estima Lock",
+      "relationship": "Foot lock variation available during leg entanglement transitions"
+    },
+    {
+      "name": "Aoki Lock",
+      "relationship": "Named leg lock variant targeting similar structures from entanglements"
+    },
+    {
+      "name": "Flying Kneebar",
+      "relationship": "Dynamic kneebar entry during standing-to-ground transitions"
+    },
+    {
+      "name": "Heel Hook from Backside 50-50",
+      "relationship": "Position-specific heel hook variant from back-facing entanglement"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Outside Ashi-Garami",
+      "relationship": "Primary attacking position for this submission"
+    },
+    {
+      "name": "Inside Heel Hook",
+      "relationship": "Mirror submission from inside positioning"
+    },
+    {
+      "name": "Saddle",
+      "relationship": "Alternative attacking position with similar mechanics"
+    },
+    {
+      "name": "Cross Ashi-Garami",
+      "relationship": "Entry position providing outside control"
+    },
+    {
+      "name": "Kneebar Control",
+      "relationship": "Alternative leg attack control position from same entanglements"
+    },
+    {
+      "name": "50-50 Guard",
+      "relationship": "Common entry position requiring transition to outside control"
+    },
+    {
+      "name": "Leg Entanglement",
+      "relationship": "Conceptual principle underlying all leg lock positions"
+    },
+    {
+      "name": "Backside 50-50",
+      "relationship": "Transition position with natural outside control"
+    },
+    {
+      "name": "Ashi Garami",
+      "relationship": "Parent leg entanglement category"
+    },
+    {
+      "name": "Straight Ankle Lock Control",
+      "relationship": "Lower-risk alternative control position from similar entanglements"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Outside heel hook from 50-50 guard",
+      "description": "From 50-50 guard position where legs are mirrored, transition to outside control by freeing your inside leg and establishing it over opponent's hip. This creates the outside ashi position from 50-50, allowing the standard outside heel hook attack. Often used when inside heel hook attempts from 50-50 are defended.",
+      "when_to_use": "When opponent successfully defends inside heel hook from 50-50 by controlling your legs, or when you achieve 50-50 but have better outside positioning available"
+    },
+    {
+      "variation_name": "Outside heel hook from backside 50-50",
+      "description": "From backside 50-50 (back-to-back leg entanglement), you have natural outside control of opponent's leg. Establish heel control while maintaining back-to-back positioning. The mechanics are similar but your body is facing away from opponent. This variation is common in scrambles and transitions.",
+      "when_to_use": "During scrambles from leg entanglements, or when opponent forces backside 50-50 during leg lock exchanges"
+    },
+    {
+      "variation_name": "Outside heel hook from cross ashi-garami",
+      "description": "From cross ashi position where you control opponent's opposite leg (right leg controlling their left leg), you have outside positioning. This creates a different angle of attack and is often more difficult for opponent to defend due to the crossed configuration limiting their mobility.",
+      "when_to_use": "After passing to cross ashi from guard transitions, or when opponent presents cross-body leg during scrambles"
+    },
+    {
+      "variation_name": "Standing outside heel hook (takedown finish)",
+      "description": "When opponent is standing and you secure outside ashi from bottom or during scramble, you can attack the heel hook while sitting with them standing. Fall back to create extension and finish the submission during the takedown. This variation is common in no-gi competition and requires excellent timing.",
+      "when_to_use": "When securing outside ashi from bottom during standing exchanges, or when opponent attempts to stand from leg entanglement"
+    }
+  ],
+  "clips": [
+    {
+      "id": "UuluKZKDt8w",
+      "title": "Heel Hooks breakdown",
+      "by": "Lachlan Giles",
+      "vertical": false,
+      "channel": "Jiu Jitsu Moves",
+      "duration": 64,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "5RyU5LDc3C4",
+      "title": "ADCC-style 50/50 heel hook",
+      "by": "Lachlan Giles",
+      "vertical": false,
+      "channel": "Alberto Serrano BJJ",
+      "duration": 86,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "sIYeSMSkqeE",
+      "title": "Backside 50/50 heel hook finish",
+      "by": "Craig Jones",
+      "vertical": false,
+      "channel": "Professor Buck",
+      "duration": 18,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "7I0Lj1aSon4",
+      "title": "Backside 50/50 to outside heel hook",
+      "by": "Marshall Stamper",
+      "vertical": false,
+      "channel": "The Bear's Den BJJ & MMA  熊派巴西柔術及MMA學院",
+      "duration": 47,
+      "verified": "2026-07-14"
+    }
+  ]
+}

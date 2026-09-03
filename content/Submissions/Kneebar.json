@@ -1,0 +1,318 @@
+{
+  "name": "Kneebar",
+  "description": "Master the Kneebar in BJJ. Complete guide covering safety protocols, setup from ashi garami, finishing mechanics, and defensive escapes for all skill levels.",
+  "summary": "The Kneebar is a leg-lock submission that hyperextends the opponent's knee by trapping their leg against your torso and driving your hips forward, attacked from ashi garami and other leg entanglements as the linear-force complement to the heel hook.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "joint-lock",
+    "kneebar",
+    "ashi-garami",
+    "leg-entanglement",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Knee Bar",
+    "Hiza Juji Gatame",
+    "Leg Bar"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Leg Lock",
+  "target_area": "Knee joint (primarily posterior cruciate ligament, medial collateral ligament, and joint capsule)",
+  "starting_position": "Ashi Garami",
+  "from_position": "Kneebar Control/Top",
+  "success_rate": {
+    "gi": 60,
+    "nogi": 60
+  },
+  "variant_uniqueness": "Hip-driven hyperextension attack on knee joint from leg entanglements",
+  "overview": "As one of the most accessible entries into modern leg lock systems, the Kneebar serves as both a high-percentage finish and a gateway to more complex leg entanglements. The submission works by controlling the opponent's leg while using hip drive and posterior chain engagement to create dangerous extension of the knee joint, and unlike heel hooks which attack rotational structures, it generates linear force that is somewhat more predictable but no less dangerous when applied carelessly.\n\nThe technique has evolved significantly with modern leg lock systems, particularly through systematic approaches that have refined entries, controls, and finishing mechanics. Understanding proper kneebar application requires not just technical knowledge of the finish, but comprehensive awareness of the control positions that precede it, the defensive reactions opponents employ, and the biomechanical principles that make the submission effective. The kneebar exists within a broader ecosystem of leg attacks, often serving as a transitional threat that opens opportunities for other submissions or positional advances. When an opponent hides their heel to defend heel hook attempts, the kneebar becomes the natural alternative, creating the kind of dilemma-based offense that defines elite leg lock systems.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Posterior cruciate ligament (PCL) tear",
+        "severity": "High",
+        "recovery_time": "6-12 months with surgical intervention"
+      },
+      {
+        "injury": "Medial collateral ligament (MCL) strain or tear",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks for grade 1-2, 3-6 months for grade 3"
+      },
+      {
+        "injury": "Joint capsule damage",
+        "severity": "Medium",
+        "recovery_time": "6-12 weeks"
+      },
+      {
+        "injury": "Meniscus tear (medial or lateral)",
+        "severity": "High",
+        "recovery_time": "3-6 months, may require surgery"
+      }
+    ],
+    "application_speed": "SLOW and progressive - minimum 3-5 seconds from initial pressure to finish in training",
+    "tap_signals": [
+      "Verbal tap or verbal signal",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on opponent or mat",
+      "Any distress vocalization or signal"
+    ],
+    "release_protocol": [
+      "Immediately stop all hip extension the moment tap is received",
+      "Release hip pressure by dropping hips away from opponent's leg",
+      "Maintain positional control while releasing the leg slowly",
+      "Allow opponent to extract their leg at their own pace",
+      "Check with partner verbally after release"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the submission - always apply smooth, progressive pressure",
+      "Never use competition speed or intensity in training rolls",
+      "Always communicate with training partners about leg lock experience level",
+      "Never continue pressure after any tap signal",
+      "Avoid training kneebars with partners who have pre-existing knee injuries without explicit permission"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from 50-50",
+      "slug": "from-50-50"
+    },
+    {
+      "name": "from Backside 50-50",
+      "slug": "from-backside-50-50"
+    },
+    {
+      "name": "from Carni",
+      "slug": "from-carni"
+    },
+    {
+      "name": "from Guard",
+      "slug": "from-guard"
+    },
+    {
+      "name": "from Half Guard",
+      "slug": "from-half-guard"
+    },
+    {
+      "name": "from Honey Hole",
+      "slug": "from-honey-hole"
+    },
+    {
+      "name": "from Inside Ashi-Garami",
+      "slug": "from-inside-ashi-garami"
+    },
+    {
+      "name": "from Inside Sankaku",
+      "slug": "from-inside-sankaku"
+    },
+    {
+      "name": "from Kneebar Control",
+      "slug": "from-kneebar-control"
+    },
+    {
+      "name": "from Leg Entanglement",
+      "slug": "from-leg-entanglement"
+    },
+    {
+      "name": "from Saddle",
+      "slug": "from-saddle"
+    },
+    {
+      "name": "from Single Leg X-Guard",
+      "slug": "from-single-leg-x-guard"
+    },
+    {
+      "name": "from Straight Ankle Lock Control",
+      "slug": "from-straight-ankle-lock-control"
+    },
+    {
+      "name": "from Toe Hold Control",
+      "slug": "from-toe-hold-control"
+    },
+    {
+      "name": "from Top",
+      "slug": "from-top"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Kneebar from 50-50 Guard",
+      "description": "From 50-50 position where both legs are entangled, fall back while controlling opponent's ankle and apply kneebar. This variation requires clearing their attacking leg while securing yours.",
+      "when_to_use": "When engaged in 50-50 and opponent is focused on their own leg attack. The mutual threat creates opportunities."
+    },
+    {
+      "variation_name": "Kneebar from Top Position",
+      "description": "From top positions like headquarters or top half guard, step over opponent's leg and sit back to kneebar position. This often surprises opponents who expect passing attacks, not leg locks.",
+      "when_to_use": "When opponent is defending passes by keeping legs between you. The entry requires good timing to catch their leg before they retract it."
+    },
+    {
+      "variation_name": "Kneebar from Closed Guard Bottom",
+      "description": "Break opponent's posture, control one arm, swing your leg over their head while pivoting to side, securing their trapped arm side leg for the kneebar. Classic entry from guard.",
+      "when_to_use": "When opponent has poor posture in closed guard or is reaching to break grips. The arm control prevents them from defending the leg attack."
+    },
+    {
+      "variation_name": "Rolling Kneebar",
+      "description": "Execute a forward roll while controlling opponent's leg, using the momentum to establish kneebar position. Advanced technique requiring good timing and spatial awareness.",
+      "when_to_use": "When opponent is standing and you're attacking from bottom, or when transitioning between positions and they expose a leg. Momentum-based entry."
+    },
+    {
+      "variation_name": "Reverse Kneebar",
+      "description": "Apply kneebar with opponent's leg positioned so their toes point away from you rather than toward you. Changes the angle but maintains the hyperextension principle.",
+      "when_to_use": "When the standard kneebar angle isn't available due to opponent's leg position or when transitioning from certain leg entanglements."
+    },
+    {
+      "variation_name": "Belly-Down Kneebar from Inside Ashi",
+      "description": "After establishing inside ashi control, transition to belly-down position by rotating your body over opponent's leg while maintaining leg entanglement. This variation provides superior control and finishing power by using gravity and body weight. Finish with hip extension while belly-down on their thigh.",
+      "when_to_use": "When opponent defends standard kneebar by maintaining knee bend, when transitioning from failed heel hook attempts, when maximum control is needed against strong opponents."
+    },
+    {
+      "variation_name": "Flying Kneebar Entry",
+      "description": "From standing position, jump and wrap legs around opponent's leg while simultaneously securing their thigh with your arms. Pull them forward while rotating backward to establish kneebar position during the fall. This spectacular entry requires precise timing and body awareness. Land with leg isolated and chest-to-thigh connection already established.",
+      "when_to_use": "In competition when opponent is defending standing, when opponent is bent forward presenting leg target, when element of surprise is needed. Primarily used by advanced practitioners."
+    },
+    {
+      "variation_name": "Reverse Kneebar from 50-50",
+      "description": "From 50-50 position where both legs are entangled, rotate your upper body to opposite side and attack kneebar with opponent's leg trapped in reverse orientation. Your chest faces away from their body. This variation uses the 50-50 leg configuration while changing upper body positioning for finishing angle.",
+      "when_to_use": "When standard 50-50 attacks are defended, when transitioning between leg attacks in 50-50, when opponent locks defensive posture in standard 50-50."
+    },
+    {
+      "variation_name": "Top Position Kneebar from Half Guard",
+      "description": "From top half guard, step over opponent's head with near leg while maintaining control of trapped leg. Rotate around their leg axis to achieve kneebar position from top. This variation attacks from top position rather than guard and uses stepping motion to secure entanglement.",
+      "when_to_use": "When passing half guard and opponent has deep underhook, when opponent's leg is exposed during half guard exchanges, when transitioning from failed passing attempts."
+    },
+    {
+      "variation_name": "X-Guard Kneebar Entry",
+      "description": "From X-guard position, use existing leg entanglement to transition to kneebar by removing top hook and rotating body to side. The X-guard structure already provides leg isolation. Transition by unhooking top leg, rotating chest to thigh, and securing standard kneebar finish position.",
+      "when_to_use": "When X-guard sweeps are defended, when creating submission chains from guard, when opponent pressures forward in X-guard presenting leg target."
+    }
+  ],
+  "from_positions": [
+    "Ashi Garami",
+    "Inside Ashi-Garami",
+    "Outside Ashi-Garami",
+    "50-50 Guard",
+    "Single Leg X-Guard",
+    "Closed Guard",
+    "Half Guard",
+    "Deep Half Guard",
+    "Butterfly Guard",
+    "Turtle",
+    "Kneebar Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Heel Hook",
+      "relationship": "Primary alternative leg attack from same entanglements, creates dilemma-based offense with kneebar"
+    },
+    {
+      "name": "Straight Ankle Lock",
+      "relationship": "Foundational leg lock from similar positions, often first attack before advancing to kneebar"
+    },
+    {
+      "name": "Toe Hold",
+      "relationship": "Complementary foot lock from similar leg entanglements, rotational attack versus kneebar's linear force"
+    },
+    {
+      "name": "Inside Heel Hook",
+      "relationship": "Primary rotational attack when opponent defends kneebar by bending knee and exposing heel"
+    },
+    {
+      "name": "Outside Heel Hook",
+      "relationship": "Alternative heel attack from outside ashi positions where kneebar is also available"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Compression attack from similar positions, often available when kneebar angle is compromised"
+    },
+    {
+      "name": "Estima Lock",
+      "relationship": "Foot lock attacking from different angle, available during kneebar defense transitions"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Straight ankle attack from overlapping leg entanglement positions"
+    },
+    {
+      "name": "Flying Kneebar",
+      "relationship": "Dynamic standing entry variation of the kneebar submission"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Saddle",
+      "relationship": "Primary control position for kneebar entries, offers transitions between kneebar and heel hook attacks"
+    },
+    {
+      "name": "Honey Hole",
+      "relationship": "Advanced leg entanglement position that creates kneebar opportunities while controlling both legs"
+    },
+    {
+      "name": "Cross Ashi-Garami",
+      "relationship": "Alternative leg entanglement with different angle, allows kneebar finish with modified mechanics"
+    },
+    {
+      "name": "Kneebar Control",
+      "relationship": "Specific control position optimized for kneebar finishing, emphasizes proper angle and hip placement"
+    },
+    {
+      "name": "Leg Entanglement",
+      "relationship": "Broader category of positions that includes all kneebar setups and control variations"
+    },
+    {
+      "name": "De La Riva Guard",
+      "relationship": "Guard with leg control hooks that can transition to kneebar attacks when opponent stands or passes"
+    },
+    {
+      "name": "Inside Ashi-Garami",
+      "relationship": "Foundation leg entanglement providing primary kneebar entries with inside position control"
+    },
+    {
+      "name": "Outside Ashi-Garami",
+      "relationship": "Alternative leg entanglement offering kneebar opportunities from outside angle"
+    },
+    {
+      "name": "Ashi Garami",
+      "relationship": "Parent position family encompassing the primary control positions for kneebar attacks"
+    }
+  ],
+  "clips": [
+    {
+      "id": "-5BXaxHLsyo",
+      "title": "50/50 Spinning Kneebar",
+      "by": "Revolution BJJ",
+      "vertical": false,
+      "channel": "Revolution BJJ",
+      "duration": 97,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "4DMk3pavYFA",
+      "title": "50/50 Kneebar from Top",
+      "by": "Revolution BJJ",
+      "vertical": false,
+      "channel": "Revolution BJJ",
+      "duration": 126,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "hn5ts5EWZ1A",
+      "title": "Kneebar from Bottom 50/50",
+      "by": "Dr. Deng",
+      "vertical": false,
+      "channel": "Dr. Deng",
+      "duration": 17,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "v4lhLkKgVvU",
+      "title": "Go Behind Kneebar",
+      "by": "Craig Jones",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 129,
+      "verified": "2026-07-14"
+    }
+  ]
+}

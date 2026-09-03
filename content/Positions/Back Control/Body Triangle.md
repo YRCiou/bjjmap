@@ -1,0 +1,371 @@
+
+
+
+
+---
+title: "Body Triangle | BJJ Position Guide | BJJ Map"
+description: "Master body triangle position in BJJ. Powerful leg control from back control creating breathing restriction and submission setups with comprehensive perspective analysis."
+---
+
+
+<body data-content-type="positions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Body Triangle",
+  "description": "Master body triangle position in BJJ. Powerful leg control from back control creating breathing restriction and submission setups with comprehensive perspective analysis.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Positions", "item": "https://bjjmap.pages.dev/Positions/" },
+    { "@type": "ListItem", "position": 3, "name": "Body Triangle", "item": "https://bjjmap.pages.dev/Positions/Body-Triangle" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Body Triangle \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "How to Properly Use a Body Triangle",
+      "description": "Body Triangle film study: How to Properly Use a Body Triangle, taught by Gordon Ryan.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8JwxpgWGsFU/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/8JwxpgWGsFU",
+      "url": "https://www.youtube.com/watch?v=8JwxpgWGsFU",
+      "creator": { "@type": "Person", "name": "Gordon Ryan" },
+      "duration": "PT294S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Body Triangle with Shoulder Lock",
+      "description": "Body Triangle film study: Body Triangle with Shoulder Lock, taught by Demian Maia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t85-T9z_evY/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/t85-T9z_evY",
+      "url": "https://www.youtube.com/watch?v=t85-T9z_evY",
+      "creator": { "@type": "Person", "name": "Demian Maia" },
+      "duration": "PT195S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Body Triangle",
+  "description": "The body triangle is a back control variation where the attacker figure-fours their legs around the opponent's torso, replacing standard hooks with a mechanical lock that restricts breathing and resists hip-based escapes.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Positions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Body Triangle/Bottom|Play as Bottom]]
+[[Body Triangle/Top|Play as Top]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**The body triangle is a back control variation where the attacker figure-fours their legs around the opponent's torso, replacing standard hooks with a mechanical lock that restricts breathing and resists hip-based escapes.**
+
+Body Triangle Position is a highly dominant variation of back control where instead of using leg hooks, you've locked your legs around your opponent's torso in a triangle configuration. This provides exceptional control with minimal energy expenditure while creating tremendous pressure and submission opportunities. The body triangle creates a mechanical advantage that restricts breathing, limits hip movement, and prevents common back escape strategies.
+
+The position is achieved by crossing one leg over the other and tucking it behind your own knee, creating a locked configuration around the opponent's midsection. This figure-four lock creates constant squeezing pressure on the ribcage and diaphragm, making it extremely uncomfortable for the opponent and forcing them to work urgently for escape. Unlike traditional hooks, the body triangle cannot be cleared with simple hip movement, making it one of the most secure forms of back control.
+
+From this position, you maintain upper body control with your arms while your legs create immobilizing pressure on the lower body. The breathing restriction creates a psychological urgency that often leads opponents to make defensive mistakes, opening up submission opportunities. Elite practitioners use the body triangle as both a controlling position and a finishing platform, with the constant pressure serving as a force multiplier for choke attacks. The position represents a fundamental shift from dynamic hook-based control to static mechanical dominance, offering superior retention rates and submission percentages across all skill levels.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Body Triangle in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=8JwxpgWGsFU)
+
+<p class="clip-credit"><strong>How to Properly Use a Body Triangle</strong> — taught by Gordon Ryan · 4:54 · <a href="https://www.youtube.com/watch?v=8JwxpgWGsFU" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=t85-T9z_evY)
+
+<p class="clip-credit"><strong>Body Triangle with Shoulder Lock</strong> — taught by Demian Maia · 3:15 · <a href="https://www.youtube.com/watch?v=t85-T9z_evY" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="key-principles" class="content-section">
+
+## Key Principles
+
+
+- Triangle Lock Security: Ensure proper figure-four configuration with foot locked deep behind knee, creating unbreakable connection that cannot be easily cleared
+
+- Breathing Restriction: Body triangle naturally restricts opponent's breathing and compresses ribcage, creating psychological urgency and physical fatigue that accelerates defensive errors
+
+- Energy Efficiency: Position requires minimal energy to maintain compared to standard hooks, allowing you to stay patient and wear down opponent while conserving stamina
+
+- Hip Position Management: Keep hips tight to opponent's back and positioned on mat for leverage, preventing them from rolling you over or creating escape angles
+
+- Upper Body Integration: Coordinate leg control with upper body attacks, using the immobilizing power of the triangle to free hands for aggressive submission hunting
+
+- Pressure Modulation: Apply gradual squeezing pressure with legs to tire opponent's core muscles, using pulsing or constant pressure depending on strategic goals
+
+- Angle Adjustment: Use hip movement to change squeeze angle and pressure points, attacking different areas of ribcage and adapting to opponent's defensive positioning
+
+
+</section>
+
+<section class="content-section">
+
+## Top vs Bottom
+
+
+
+
+| &nbsp; | Bottom | Top |
+|--------|--------|-----|
+| **Position Type** | Defensive | Offensive/Controlling |
+| **Risk Level** | High | Low to Medium |
+| **Energy Cost** | High | Low |
+| **Time** | Short | Long |
+
+**Key Difference:** Figure-four lock trades mobility for control
+
+
+
+</section>
+
+<section id="bottom-summary" class="content-section">
+
+
+## Playing as Bottom
+
+[[Body Triangle/Bottom|→ Full Bottom Guide]]
+
+### Key Principles
+
+
+- Breathing Management: Control your breathing despite restriction, taking measured breaths and avoiding panic that wastes energy and clouds judgment
+
+- Systematic Approach: Work methodically to clear triangle rather than explosive scrambling that wastes energy without solving the structural problem
+
+- Neck Protection Priority: Protect your neck throughout escape process as opponent will increase submission attempts when feeling triangle threatened
+
+- Triangle Mechanics Understanding: Identify how the triangle creates pressure to find weaknesses in the lock and attack the figure-four configuration
+
+- Distance Control: Generate space between your body and opponent's legs to reduce pressure and create opportunity for clearing attempts
+
+- Hip Movement: Despite triangle's hip rotation prevention, use whatever limited hip mobility remains to create angles for escape
+
+- Energy Conservation: Avoid constant maximum effort, instead using precise technique at key moments to avoid exhaustion under breathing restriction
+
+
+### Available Transitions
+
+
+- **[[Transitions/Triangle Clear to Side/Attacker|Triangle Clear to Side]]** (28% of attempts)
+
+- **[[Transitions/Hip Escape to Turtle/Attacker|Hip Escape to Turtle]]** (8% of attempts)
+
+- **[[Transitions/Body Triangle Escape to Side Control/Attacker|Body Triangle Escape to Side Control]]** (13% of attempts)
+
+- **[[Transitions/Body Triangle Escape to Half Guard/Attacker|Body Triangle Escape to Half Guard]]** (12% of attempts)
+
+- **[[Transitions/Frame and Shrimp to Guard/Attacker|Frame and Shrimp to Guard]]** (12% of attempts)
+
+- **[[Transitions/Elbow Escape to Remove Hooks/Attacker|Elbow Escape to Remove Hooks]]** (10% of attempts)
+
+- **[[Transitions/Back Door Escape/Attacker|Back Door Escape]]** (8% of attempts)
+
+- **[[Transitions/Standing up in Base/Attacker|Standing up in Base]]** (5% of attempts)
+
+- **[[Transitions/Rolling Back Take Reversal/Attacker|Rolling Back Take Reversal]]** (4% of attempts)
+
+
+### Common Mistakes
+
+
+- ❌ **Panicking from breathing restriction and attempting explosive scrambling without technical precision**
+  - Consequence: Wastes precious energy while under breathing restriction, creates submission opportunities for opponent, and fails to address structural problem of the triangle lock
+  - ✅ Correction: Maintain calm mental state, control breathing with measured breaths, and work systematically on clearing triangle using technical approach rather than athletic scrambling
+
+- ❌ **Focusing exclusively on clearing triangle while completely neglecting neck protection**
+  - Consequence: Opponent capitalizes on your distraction with triangle to sink in rear naked choke or other neck attacks, finishing submission while you work on leg position
+  - ✅ Correction: Maintain constant neck protection with chin tucked and hands defending neck throughout escape process, only exposing neck when absolutely necessary for clearing attempts
+
+- ❌ **Attempting to power out of triangle lock with pure strength and muscle**
+  - Consequence: Exhausts your muscles under breathing restriction without breaking properly locked figure-four configuration, leaving you depleted for actual escape attempts and increasing submission danger
+  - ✅ Correction: Use technical clearing methods that attack the mechanics of the triangle lock, finding weakness in foot position behind knee rather than attempting to overpower locked structure
+
+- ❌ **Staying flat on your back and not attempting to turn into opponent or create angles**
+  - Consequence: Allows opponent to maintain optimal back control indefinitely, maximizes effectiveness of triangle pressure, and provides them comfortable position to hunt submissions without defensive pressure
+  - ✅ Correction: Constantly work to turn your shoulders toward opponent, create angles that reduce triangle effectiveness, and threaten to face them which forces them to adjust control
+
+- ❌ **Giving up mentally from discomfort and accepting the position as inescapable**
+  - Consequence: Guarantees eventual submission as opponent works systematically through their attack options while you provide no defensive resistance or escape attempts
+  - ✅ Correction: Maintain fighting mentality despite discomfort, recognizing that body triangle has technical escape solutions and opponent's position requires energy to maintain submission attempts
+
+- ❌ **Reaching back to grab or attack opponent's legs without proper strategy**
+  - Consequence: Exposes your arms to armbar attacks and crucifix transitions while failing to effectively clear the triangle, creating multiple submission dangers simultaneously
+  - ✅ Correction: Only attack triangle lock with specific technical clearing sequences that protect your arms, using proper frames and leverage rather than reaching back blindly
+
+
+</section>
+
+<section id="top-summary" class="content-section">
+
+
+## Playing as Top
+
+[[Body Triangle/Top|→ Full Top Guide]]
+
+### Key Principles
+
+
+- Triangle Lock Security: Ensure proper figure-four configuration with foot locked deep behind knee, creating unbreakable connection that cannot be cleared with hip movement
+
+- Breathing Restriction Mechanics: Position triangle around lower ribs and diaphragm to maximize breathing restriction and create psychological urgency
+
+- Upper Body Attack Integration: Use leg control to free your hands for aggressive submission hunting without concern for positional maintenance
+
+- Energy Conservation: Maintain position with minimal effort, using pulsing pressure rather than constant maximum squeeze to conserve stamina
+
+- Hip Positioning: Keep hips on mat beside opponent for leverage and stability rather than directly on their back where you can be rolled
+
+- Pressure Modulation: Apply strategic squeezing at key moments rather than constant maximum pressure to prevent adaptation and fatigue
+
+- Angle Adjustment: Use hip movement to change squeeze angle and attack different areas of ribcage based on opponent's defensive reactions
+
+
+### Available Transitions
+
+
+- **[[Submissions/Rear Naked Choke/from Body Triangle/Attacker|Rear Naked Choke from Body Triangle]]** (38% of attempts)
+
+- **[[Transitions/Armbar from Back Transition/Attacker|Armbar from Back Transition]]** (4% of attempts)
+
+- **[[Submissions/Bow and Arrow Choke/from Body Triangle/Attacker|Bow and Arrow Choke from Body Triangle]]** (0% of attempts)
+
+- **[[Submissions/Short Choke/from Body Triangle/Attacker|Short Choke from Body Triangle]]** (12% of attempts)
+
+- **[[Transitions/Back Control to Crucifix/Attacker|Back Control to Crucifix]]** (2% of attempts)
+
+- **[[Transitions/Back Control Maintenance/Attacker|Back Control Maintenance]]** (21% of attempts)
+
+- **[[Transitions/Kimura from Back/Attacker|Kimura from Back]]** (5% of attempts)
+
+- **[[Transitions/Roll to Truck/Attacker|Roll to Truck]]** (5% of attempts)
+
+- **[[Submissions/Cross Collar Choke/from Body Triangle/Attacker|Cross Collar Choke from Body Triangle]]** (0% of attempts)
+
+- **[[Transitions/Body Triangle Squeeze/Attacker|Body Triangle Squeeze]]** (13% of attempts)
+
+
+### Common Mistakes
+
+
+- ❌ **Locking triangle too high on torso near shoulders instead of around lower ribs and diaphragm**
+  - Consequence: Reduces breathing restriction effectiveness, allows opponent more mobility, and makes it easier for them to defend neck and clear the position
+  - ✅ Correction: Lock triangle around lower ribcage and diaphragm area, ensuring maximum breathing restriction and body control while limiting opponent's ability to expand their chest
+
+- ❌ **Failing to secure proper figure-four lock with foot shallow behind knee**
+  - Consequence: Triangle becomes loose and can be cleared with hip movement, losing the position entirely and allowing opponent to escape back control
+  - ✅ Correction: Thread foot deep behind your own knee and squeeze legs together actively, creating tight unbreakable lock that cannot be opened through standard escape techniques
+
+- ❌ **Positioning hips directly on opponent's back instead of beside them on mat**
+  - Consequence: Creates unstable base that can be rolled over, reduces squeezing power, and makes it difficult to generate proper leverage for chokes
+  - ✅ Correction: Keep hips on mat beside opponent with chest on their back, allowing you to post with hip and generate maximum squeezing pressure while maintaining stable base
+
+- ❌ **Neglecting upper body control while focusing only on leg lock**
+  - Consequence: Opponent can defend neck easily, work to clear triangle without interference, or even counter-attack with reversals and escapes
+  - ✅ Correction: Maintain active upper body control with seatbelt, collar grips, or over-under while legs create lower body immobilization, creating complete control of opponent's body
+
+- ❌ **Constant maximum squeezing without strategic application of pressure**
+  - Consequence: Wastes your energy unnecessarily, causes leg fatigue, and allows opponent to adapt to constant pressure level and work calmly on escapes
+  - ✅ Correction: Use pulsing pressure or strategic squeezing at key moments, conserving energy while keeping opponent uncomfortable and preventing them from settling into defensive rhythm
+
+- ❌ **Crossing leg over opponent's centerline on wrong side of body**
+  - Consequence: Creates weak triangle configuration that opponent can escape by turning, reduces control effectiveness, and may expose you to counter techniques
+  - ✅ Correction: Study proper leg positioning for each body triangle variation, ensuring crossing leg traps opponent on correct side and creates maximum immobilization of their hips
+
+
+</section>
+
+
+<section id="related-positions" class="content-section">
+
+## Related Positions
+
+
+- **[[Positions/Back Control]]** - Parent position - standard back control with hooks before triangle lock
+
+- **[[Positions/Triangle Control/Rear Triangle]]** - Alternative triangle configuration from back control
+
+- **[[Positions/Crucifix]]** - Transition target when opponent reaches back to clear triangle
+
+- **[[Positions/Twister Control/Truck]]** - Advanced transition option from body triangle control
+
+- **[[Positions/Mount]]** - Alternative dominant position if triangle must be released
+
+- **[[Positions/Gift Wrap]]** - Upper body control variation that pairs well with triangle
+
+- **[[Positions/Turtle]]** - Common escape destination for the defender trapped in body triangle
+
+- **[[Positions/Half Guard]]** - Alternative escape destination through guard recovery sequences
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Submission-Clinic-System" data-cta="related-system-card" data-system-slug="systems/submission-clinic-system" data-system-name="Submission Clinic System" data-member-count="30"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Submission Clinic System</span><span class="system-card__unlocks-badge">Unlocks 30 techniques</span><span class="system-card__blurb">Superior back control variation for submission attacks</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Danaher-Straight-Jacket-System" data-cta="related-system-card" data-system-slug="systems/danaher-straight-jacket-system" data-system-name="Danaher Straight Jacket System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Danaher Straight Jacket System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Lower body control variation that integrates with upper body straight jacket system for maximum position retention</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Back-Attack-System" data-cta="related-system-card" data-system-slug="systems/back-attack-system" data-system-name="Back Attack System" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Back Attack System</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Alternative lower body control option for maximum compression</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Back-Defense-Protocol" data-cta="related-system-card" data-system-slug="systems/back-defense-protocol" data-system-name="Back Defense Protocol" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Back Defense Protocol</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Advanced back control variation requiring modified escape protocol</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

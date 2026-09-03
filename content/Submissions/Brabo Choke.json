@@ -1,0 +1,235 @@
+{
+  "name": "Brabo Choke",
+  "description": "Master the Brabo Choke in BJJ. Complete guide with safety protocols, setup from front headlock, execution steps. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "blood-choke",
+    "front-headlock",
+    "darce-family",
+    "no-gi",
+    "gi",
+    "turtle-attack"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "Front Headlock",
+  "from_position": "Front Headlock/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "Arm-in choke using opponent's shoulder as compression point",
+  "summary": "The Brabo Choke is an arm-in blood choke from the front headlock and top pins where you thread an arm across the opponent's neck and trap their own near-side shoulder against it, compressing the carotid arteries until they tap.",
+  "overview": "The Brabo Choke is a powerful blood choke from the front headlock position, closely related to the Darce and Anaconda chokes. The technique involves threading your arm under the opponent's near arm and across their neck, securing a grip on your own bicep to create a vice-like constriction of the carotid arteries. The name 'Brabo' is a Portuguese pronunciation variation of 'Darce,' though some practitioners distinguish between the two based on subtle grip and angle differences. This submission is particularly effective when the opponent is defending a front headlock by keeping their elbows tight, creating the necessary space for arm insertion. The Brabo Choke excels in scramble situations, turtle attacks, and failed takedown defense scenarios. Its effectiveness comes from the mechanical advantage created by using your entire body weight to compress the opponent's neck against their own shoulder, making it extremely difficult to defend once properly locked. The choke works in both gi and no-gi contexts, though grip variations differ slightly between formats. Modern competitors favor this submission for its high finishing rate and the control it provides throughout the execution process.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression causing loss of consciousness",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential for serious injury if held after unconsciousness"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress from improper angle",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Shoulder impingement from trapped arm position",
+        "severity": "Medium",
+        "recovery_time": "1-3 days"
+      },
+      {
+        "injury": "Trachea damage from improper forearm placement",
+        "severity": "CRITICAL",
+        "recovery_time": "2-6 weeks or longer; potential permanent damage"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum pressure buildup in training",
+    "tap_signals": [
+      "Verbal tap or any vocal distress signal",
+      "Multiple taps with free hand on opponent's body",
+      "Multiple taps with feet on the mat",
+      "Any unusual sound or movement indicating distress",
+      "Loss of resistance or body going limp (IMMEDIATE RELEASE)"
+    ],
+    "release_protocol": [
+      "Immediately release the choking arm grip upon tap signal",
+      "Remove arm from under opponent's neck smoothly (do not jerk)",
+      "Allow opponent to expand neck and breathe freely",
+      "Check partner's condition and allow recovery time before continuing",
+      "If partner was close to unconsciousness, extend rest period to 2-3 minutes minimum"
+    ],
+    "training_restrictions": [
+      "Never apply sudden or jerking pressure to the neck",
+      "Never use competition finishing speed during training rolls",
+      "Never continue pressure after tap signal for any reason",
+      "Never practice on opponents with known neck or spinal injuries without explicit medical clearance",
+      "Never hold the choke 'just to see' if partner will tap - always release at first signal",
+      "Avoid practicing at full intensity until proper technique is established (minimum 20+ controlled repetitions)"
+    ]
+  },
+  "from_positions": [
+    "Front Headlock",
+    "Turtle",
+    "Side Control",
+    "North-South",
+    "Half Guard",
+    "Clinch",
+    "Combat Base",
+    "Open Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Darce Choke",
+      "relationship": "Same arm-threading family with different entry angle and grip finish"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Complementary head-and-arm choke with opposite arm threading direction"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Chain submission when opponent lifts head to defend Brabo threading"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Related shoulder-trap choke using opponent's shoulder as part of mechanism"
+    },
+    {
+      "name": "North-South Choke",
+      "relationship": "Alternative blood choke available from similar top control positions"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Back-take alternative finish when Brabo defense gives up the back"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Similar trapped-arm choking mechanism from front headlock position"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative choke available from similar controlling positions in gi"
+    },
+    {
+      "name": "Anaconda Choke from Anaconda Control",
+      "relationship": "Related finish when arm threading angle favors anaconda over brabo"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Front Headlock",
+      "relationship": "Primary setup position - Brabo is initiated from dominant front headlock control"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "High-percentage entry - turtle defense creates ideal Brabo threading opportunity"
+    },
+    {
+      "name": "Darce Control",
+      "relationship": "Control position - intermediate position between Brabo setup and finish"
+    },
+    {
+      "name": "Anaconda Control",
+      "relationship": "Alternative choke - if Brabo angle is blocked, Anaconda threading may be available"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Alternative finish - if Brabo is defended, position may transition to crucifix control"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Closely related submission - same arm threading family with different entry angle"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Complementary attack - threaten both Brabo and Anaconda from turtle to create dilemma"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Chain submission - transition available when opponent defends by lifting head"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Setup position - Brabo available when opponent attempts to escape toward you"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Positional alternative - if Brabo fails, may transition to back take"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Related choke - similar trapped arm mechanism creates choking pressure"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "System connection - both submissions use opponent's shoulder as part of choking mechanism"
+    }
+  ],
+  "variations": [
+    {
+      "name": "from Front Headlock",
+      "slug": "from-front-headlock"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Brabo Choke from Turtle",
+      "description": "When opponent turtles, establish front headlock control and thread arm under their near arm before they can strengthen defensive posture. The turtle position provides excellent setup opportunity.",
+      "when_to_use": "Opponent turtles to defend guard pass or takedown; very common in competition"
+    },
+    {
+      "variation_name": "Rolling Brabo from Failed Shot",
+      "description": "After failed takedown attempt when you're stuck in front headlock, thread the Brabo and use opponent's forward pressure to roll them over you, landing in top position with choke locked.",
+      "when_to_use": "Your takedown is defended and opponent has strong sprawl pressure"
+    },
+    {
+      "variation_name": "Brabo from Side Control Transition",
+      "description": "From side control, if opponent turns into you to escape, capture front headlock and immediately thread Brabo before they complete the turn.",
+      "when_to_use": "Opponent attempts to turn toward you during side control escape"
+    },
+    {
+      "variation_name": "Standing Brabo from Guillotine Fake",
+      "description": "From standing clinch, fake guillotine entry to get opponent to defend, then switch to Brabo arm thread when they hand fight the guillotine.",
+      "when_to_use": "Standing grappling exchanges when opponent is guillotine-aware"
+    },
+    {
+      "variation_name": "High Elbow Brabo Variation",
+      "description": "Instead of standard bicep grip, bring your elbow high above opponent's back and grip your own wrist, creating different angle of pressure. More common in no-gi.",
+      "when_to_use": "Standard grip is difficult to secure or opponent is defending traditional angle"
+    }
+  ],
+  "clips": [
+    {
+      "id": "BMU1_wfjYTw",
+      "title": "Darce Choke from the Front Headlock",
+      "by": "Procel BJJ",
+      "vertical": false,
+      "channel": "Procel Brazilian Jiu-Jitsu",
+      "duration": 101,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "dS5HQNSyuXs",
+      "title": "Half Nelson to D'Arce/Brabo Choke",
+      "by": "Joshua Clements",
+      "vertical": false,
+      "channel": "Joshua Clements",
+      "duration": 94,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "pad9c-Ldljg",
+      "title": "Brabo Choke from Turtle",
+      "by": "Thiago Stefanutti",
+      "vertical": false,
+      "channel": "thiago stefanutti",
+      "duration": 46,
+      "verified": "2026-07-14"
+    }
+  ]
+}

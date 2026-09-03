@@ -1,0 +1,256 @@
+{
+  "name": "Twister",
+  "description": "Master the Twister spinal lock in BJJ. Complete guide covering Truck position setup, spine rotation mechanics, safety protocols, and defense strategies for advanced practitioners.",
+  "tags": [
+    "bjj",
+    "submission",
+    "twister",
+    "spinal-lock",
+    "10th-planet",
+    "truck-position",
+    "advanced-technique",
+    "hub",
+    "finishing-guide"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Spinal Lock",
+  "target_area": "Cervical and thoracic spine, shoulder girdle",
+  "starting_position": "Truck",
+  "from_position": "Twister Control/Top",
+  "success_rate": {
+    "gi": 40,
+    "nogi": 40
+  },
+  "variant_uniqueness": "Corkscrew spinal torque from opposing force vectors",
+  "summary": "The Twister is a 10th Planet spinal-lock submission that corkscrews the opponent's spine by driving their upper body one direction while a trapped leg pins their lower body the other, finished from the Truck position.",
+  "overview": "The Twister is an advanced spinal lock submission popularized by 10th Planet Jiu-Jitsu. This technique creates a corkscrew-like torque on the opponent's spine by controlling their lower body with a lockdown or body triangle while simultaneously controlling their upper body in the opposite direction. The Twister is primarily entered from the Truck position, where you have your opponent's back while they are belly-down, with their legs controlled in a specific entanglement. The submission applies pressure to the entire spinal column, creating a twisting motion that forces the tap.\n\nDue to the complex mechanics and significant injury potential, the Twister is considered an advanced technique requiring extensive training under qualified instruction. In competition, it is illegal in many rulesets including IBJJF gi divisions, though it is legal in most no-gi competitions at brown and black belt levels. The Twister represents the culmination of the 10th Planet systematic approach to back attacks and is the signature submission of the system. The position creates a true dilemma: defending the spinal rotation exposes the legs to calf slicers and banana splits, while defending the lower body allows the twisting finish to be completed.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Cervical spine damage (neck injury)",
+        "severity": "CRITICAL",
+        "recovery_time": "3-12 months, potentially permanent"
+      },
+      {
+        "injury": "Thoracic spine strain",
+        "severity": "High",
+        "recovery_time": "4-8 weeks"
+      },
+      {
+        "injury": "Shoulder dislocation or rotator cuff damage",
+        "severity": "High",
+        "recovery_time": "6-12 weeks"
+      },
+      {
+        "injury": "Intercostal muscle tears (rib area)",
+        "severity": "Medium",
+        "recovery_time": "2-4 weeks"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum progression, never spike or jerk the spine",
+    "tap_signals": [
+      "Verbal tap (most common due to limited mobility)",
+      "Physical hand tap on your body or mat",
+      "Physical foot tap if accessible",
+      "Any distress signal or unusual vocalization"
+    ],
+    "release_protocol": [
+      "Immediately release the head/neck control completely",
+      "Release upper body grips and allow opponent to turn face-up",
+      "Slowly unwind the leg entanglement",
+      "Do not pull or twist during release - let opponent move naturally",
+      "Check with partner after release to ensure they are okay"
+    ],
+    "training_restrictions": [
+      "NEVER apply at competition speed in training - always 50% speed maximum",
+      "NEVER use on beginners or those unfamiliar with the position",
+      "NEVER apply sudden or explosive pressure to the spine",
+      "NEVER continue if partner shows any signs of distress",
+      "ALWAYS allow clear tap access and communicate throughout",
+      "NEVER practice without supervision from a qualified black belt",
+      "Avoid training this submission more than once per week to prevent cumulative spine stress"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Cross Body Ride",
+      "slug": "from-cross-body-ride"
+    },
+    {
+      "name": "from Russian Cowboy",
+      "slug": "from-russian-cowboy"
+    },
+    {
+      "name": "from Twister Control",
+      "slug": "from-twister-control"
+    },
+    {
+      "name": "from Twister Side Control",
+      "slug": "from-twister-side-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Electric Chair to Twister Transition",
+      "description": "From the Electric Chair leg lock position, if opponent defends by turning away and going belly-down, transition directly to Truck position and then Twister.",
+      "when_to_use": "When opponent is defending the Electric Chair by turning away from you rather than toward you"
+    },
+    {
+      "variation_name": "Calf Slicer to Twister Chain",
+      "description": "Set up the Calf Slicer from Truck position, and when opponent turns belly-down to defend, maintain lower body control and transition to the Twister finish on the upper body.",
+      "when_to_use": "When opponent is defending leg attacks from Truck by flattening out"
+    },
+    {
+      "variation_name": "Twister from Turtle/Quarter Guard",
+      "description": "Enter Truck position from opponent's turtle or quarter guard by establishing the lockdown first, then rolling them to their stomach to set up the Twister.",
+      "when_to_use": "When opponent is in defensive turtle position or you have them in quarter guard"
+    },
+    {
+      "variation_name": "Banana Split to Twister Combination",
+      "description": "Start with the Banana Split leg lock setup, then if opponent tries to escape by going belly-down, transition to Twister while maintaining the leg spread.",
+      "when_to_use": "When working from bottom half guard or lockdown position and opponent is defensive"
+    }
+  ],
+  "from_positions": [
+    "Truck",
+    "Twister Control",
+    "Lockdown",
+    "Quarter Guard",
+    "Turtle",
+    "Crab Ride",
+    "Electric Chair",
+    "Half Guard",
+    "Twister Side Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Banana Split",
+      "relationship": "Alternative submission in the Truck attack system targeting hip flexibility"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Primary complementary leg attack from Truck position"
+    },
+    {
+      "name": "Electric Chair",
+      "relationship": "Related 10th Planet submission that chains directly with Twister entries"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Complementary arm attack from similar back-exposure positions"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Alternative back attack submission from similar control positions"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Available when opponent turns to escape Twister rotation"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Front headlock attack accessible during Twister scrambles"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Arm attack from similar back-exposure position"
+    },
+    {
+      "name": "Boston Crab",
+      "relationship": "Related spinal compression submission from back exposure"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Alternative slicer finish from the same 10th Planet leg entanglement system"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Alternative arm finish when the arm is exposed during Twister defense"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Truck",
+      "relationship": "Primary setup position - master this position before attempting Twister"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Dominant control position used to set up the submission"
+    },
+    {
+      "name": "Lockdown",
+      "relationship": "Essential lower body control mechanism for anchoring opponent's legs"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Alternative back attack position and common entry point to Truck"
+    },
+    {
+      "name": "Crab Ride",
+      "relationship": "Alternative back attack entry that can transition to Truck"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Common opponent position for Truck entry and Twister setup"
+    },
+    {
+      "name": "Electric Chair",
+      "relationship": "Related 10th Planet position that chains directly with Twister"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Starting position for lockdown entries leading to Truck system"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Complementary submission from same Truck control position"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Alternative submission in the Truck attack system"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Related back control position with arm isolation options"
+    }
+  ],
+  "clips": [
+    {
+      "id": "odT3-cVWXdc",
+      "title": "Twister Side Attacks",
+      "by": "Eddie Bravo",
+      "vertical": false,
+      "channel": "Eddie Bravo",
+      "duration": 61,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "FjWN_aBp2eE",
+      "title": "Eddie Bravo's Twister",
+      "by": "Eddie Bravo",
+      "vertical": false,
+      "channel": "CholoMMA",
+      "duration": 49,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "R55lmkc6Mus",
+      "title": "Twister from Side Control",
+      "by": "Eddie Bravo",
+      "vertical": false,
+      "channel": "Eddie Bravo",
+      "duration": 87,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "RVr67Kb-6ec",
+      "title": "Twister from Turtle",
+      "by": "Thunderdome BJJ",
+      "vertical": false,
+      "channel": "Thunderdome BJJ",
+      "duration": 24,
+      "verified": "2026-07-14"
+    }
+  ]
+}

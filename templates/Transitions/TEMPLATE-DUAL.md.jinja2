@@ -1,0 +1,267 @@
+{# BJJ Transition Hub Page Template #}
+{# Generates hub pages with summaries from attacker and defender perspectives #}
+{# Input: Root fields (name, description, overview, etc.) + attacker, defender, outcomes #}
+
+---
+title: "{{ name }} | BJJ Technique | BJJ Map"
+description: "{{ description }}"
+---
+
+{# PostHog A/B Testing Metadata #}
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ name | tojson }},
+  "description": {{ description | tojson }},
+  {%- if aliases is defined and aliases %}
+  "alternateName": [{% for alias in aliases %}{{ alias | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  {%- if disambiguations is defined and disambiguations %}
+  {%- set _ns = namespace(dd='') %}
+  {%- for d in disambiguations %}{% set _ns.dd = _ns.dd + 'Often confused with ' + d.name + ' — ' + d.reason + '.' + (' ' if not loop.last else '') %}{% endfor %}
+  "disambiguatingDescription": {{ _ns.dd | tojson }},
+  {%- endif %}
+  {%- if sameAs is defined and sameAs %}
+  "sameAs": [{% for u in sameAs %}{{ u | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": {{ name | tojson }}, "item": {{ ("https://bjjmap.pages.dev/Transitions/" ~ (name | replace(" ", "-"))) | tojson }} }
+  ]
+}
+</script>
+
+{# --- Film study clips: curated by scripts/source_clips.py, never AI-authored --- #}
+{%- set film_clips = clips if clips is defined and clips else (attacker.clips if attacker.clips is defined and attacker.clips else (defender.clips if defender.clips is defined and defender.clips else [])) %}
+{%- set film_context = name %}
+
+{% if film_clips %}
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ (film_context ~ " — Film Study") | tojson }},
+  "itemListElement": [
+    {%- for clip in film_clips %}
+    {
+      "@type": "VideoObject",
+      "position": {{ loop.index }},
+      "name": {{ clip.title | tojson }},
+      "description": {{ (film_context ~ " film study: " ~ clip.title ~ ((", taught by " ~ clip.by) if clip.by else "") ~ ".") | tojson }},
+      "thumbnailUrl": {{ ("https://i.ytimg.com/vi/" ~ clip.id ~ "/hqdefault.jpg") | tojson }},
+      "embedUrl": {{ ("https://www.youtube.com/embed/" ~ clip.id ~ (("?start=" ~ (clip.start | string)) if clip.start else "")) | tojson }},
+      "url": {{ ("https://www.youtube.com/watch?v=" ~ clip.id) | tojson }}
+      {%- if clip.by %},
+      "creator": { "@type": "Person", "name": {{ clip.by | tojson }} }
+      {%- endif %}
+      {%- if clip.duration %},
+      "duration": "PT{{ clip.duration }}S"
+      {%- endif %}
+      {%- if clip.upload_date %},
+      "uploadDate": {{ clip.upload_date | tojson }}
+      {%- endif %}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if summary %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{ name }}",
+  "description": "{{ summary }}",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+{% endif %}
+
+{# Flexbox wrapper for A/B testing #}
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+{% if (aliases is defined and aliases) or (family is defined and family) or (disambiguations is defined and disambiguations) -%}
+<aside class="entity-relations">
+{%- if aliases is defined and aliases %}
+<p class="also-known-as"><em>Also known as:</em> {% for alias in aliases %}<strong>{{ alias | e }}</strong>{{ ", " if not loop.last else "" }}{% endfor %}</p>
+{%- endif %}
+{%- if family is defined and family %}
+<p class="part-of-family"><em>Part of the</em> <strong>{% if resolve.family_exists(family) %}[[Families/{{ family }}|{{ family | e }}]]{% else %}{{ family | e }}{% endif %}</strong> <em>family</em></p>
+{%- endif %}
+{%- if disambiguations is defined and disambiguations %}
+{%- for d in disambiguations %}
+<p class="often-confused-with"><em>Often confused with</em> <strong>{% if resolve.page_exists(d.name) %}[[{{ resolve(d.name) }}|{{ d.name | e }}]]{% else %}{{ d.name | e }}{% endif %}</strong> — {{ d.reason | e }}</p>
+{%- endfor %}
+{%- endif %}
+</aside>
+{% endif -%}
+
+<div class="role-links">
+
+[[{{ name }}/Attacker|Play as Attacker]]
+[[{{ name }}/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+{% if summary %}**{{ summary }}**
+
+{% endif -%}
+{{ overview }}
+
+**From Position**: [[{{ resolve(from_position.split('/')[0]) }}]] ({{ from_position.split('/')[1] if '/' in from_position else '' }})
+**Success Rate**: {{ success_rate }}%
+
+</section>
+
+{% if film_clips %}
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch {{ film_context }} in action — curated instructionals</p>
+
+{% for clip in film_clips %}
+<div class="film-clip{{ ' film-clip--vertical' if clip.vertical else '' }}">
+
+![](https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&start={{ clip.start }}{% endif %}{% if clip.end %}&end={{ clip.end }}{% endif %})
+
+<p class="clip-credit"><strong>{{ clip.title | e }}</strong>{% if clip.by %} — taught by {{ clip.by | e }}{% endif %}{% if clip.duration %} · {{ "%d:%02d" | format(clip.duration // 60, clip.duration % 60) }}{% endif %} · <a href="https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&t={{ clip.start }}s{% endif %}" rel="noopener">Watch on YouTube{% if clip.start %} from {{ "%d:%02d" | format(clip.start // 60, clip.start % 60) }}{% endif %}</a></p>
+
+</div>
+{% endfor %}
+
+</section>
+{% endif %}
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+{% for outcome in outcomes -%}
+| {{ outcome.result | capitalize }} | [[{{ resolve(outcome.to.split('/')[0] if '/' in outcome.to else outcome.to) }}]] | {{ outcome.probability }}% |
+{% endfor %}
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | {{ attacker.key_principles[0][:60] }}... | {{ defender.key_principles[0][:60] }}... |
+| **Options** | {{ attacker.execution_steps | length }} execution steps | {{ defender.defensive_options | length }} defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[{{ name }}/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+{% for principle in attacker.key_principles %}
+- {{ principle }}
+{% endfor %}
+
+### Execution Steps
+
+{% for step in attacker.execution_steps %}
+- **{{ step.action }}**: {{ step.description[:100] }}...
+{% endfor %}
+
+### Common Mistakes
+
+{% for error in attacker.common_errors[:3] %}
+- **{{ error.error }}**
+  - Consequence: {{ error.consequence }}
+  - Correction: {{ error.correction }}
+{% endfor %}
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[{{ name }}/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+{% for principle in defender.key_principles %}
+- {{ principle }}
+{% endfor %}
+
+### Recognition Cues
+
+{% for cue in defender.recognition_cues %}
+- {{ cue }}
+{% endfor %}
+
+### Defensive Options
+
+{% for option in defender.defensive_options[:3] %}
+- **{{ option.action }}** - When: {{ option.when_to_use }}
+{% endfor %}
+
+</section>
+
+{% if variants_and_adaptations is defined and variants_and_adaptations %}
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+{% for variant in variants_and_adaptations %}
+**{{ variant.variant_name }}**: {{ variant.description }}{% if variant.when_to_use %} (When to use: {{ variant.when_to_use }}){% endif %}
+
+{% endfor %}
+
+</section>
+{% endif %}
+
+{% if position_integration is defined and position_integration %}
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+{{ position_integration }}
+
+</section>
+{% endif %}
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+{% for item in related_content %}
+- [[{{ resolve(item.name) }}]] - {{ item.relationship }}
+{% endfor %}
+
+</section>
+
+{{ resolve.related_systems_html(name) }}
+
+</main>

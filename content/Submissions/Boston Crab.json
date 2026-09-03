@@ -1,0 +1,226 @@
+{
+  "name": "Boston Crab",
+  "description": "Master Boston Crab submission in BJJ. Complete guide covering setup, execution, safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "compression",
+    "spine-lock",
+    "catch-wrestling",
+    "pro-wrestling",
+    "leg-control",
+    "turtle-attack",
+    "back-attack"
+  ],
+  "is_family": true,
+  "submission_category": "Compression",
+  "submission_type": "Spinal Compression",
+  "target_area": "Lumbar spine and hip flexors",
+  "starting_position": "Turtle",
+  "from_position": "Turtle/Top",
+  "success_rate": {
+    "gi": 42,
+    "nogi": 42
+  },
+  "variant_uniqueness": "Catch wrestling spinal lock via controlled sit-back on trapped legs",
+  "summary": "The Boston Crab is a catch-wrestling spinal compression submission in which the attacker traps both of an opponent's legs from behind and sits back, bowing their lumbar spine and hip flexors into a forced, painful arch until they tap.",
+  "overview": "The Boston Crab is a compression submission that targets the opponent's lumbar spine and hip flexors by creating extreme hyperextension of the lower back. Originating from catch wrestling and professional wrestling, this technique has limited application in modern sport BJJ due to rule restrictions in many competition formats, but remains valuable for understanding spinal mechanics and no-gi scenarios where it can create legitimate finishing pressure. The submission works by controlling both of the opponent's legs, typically from turtle or back control positions, then sitting back to create a bridge-like arch in the opponent's spine. The effectiveness comes from the combination of hip flexor strain, lower back compression, and the opponent's inability to effectively defend while both legs are controlled. This technique requires careful application due to the significant spinal stress involved and is most commonly seen in catch wrestling competitions or MMA scenarios where back control is established but traditional chokes are defended. Understanding the Boston Crab provides insight into compression-based submission mechanics and the importance of protecting your lower back when opponent has leg control from behind.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Lumbar spine strain or disc herniation",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months for severe cases"
+      },
+      {
+        "injury": "Hip flexor tears",
+        "severity": "High",
+        "recovery_time": "4-8 weeks"
+      },
+      {
+        "injury": "Lower back muscle strains",
+        "severity": "Medium",
+        "recovery_time": "2-4 weeks"
+      },
+      {
+        "injury": "Knee ligament stress from leg control",
+        "severity": "Medium",
+        "recovery_time": "3-6 weeks"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum progression to finishing position",
+    "tap_signals": [
+      "Verbal tap (critical as hands may be trapped)",
+      "Repeated hand tap on mat or opponent",
+      "Foot tap on mat",
+      "Any vocal distress signal",
+      "Frantic movement or panic signals"
+    ],
+    "release_protocol": [
+      "Immediately release leg grips and sit forward",
+      "Lower opponent's hips gently back to mat",
+      "Allow opponent to flatten out completely before moving",
+      "Check opponent's condition and allow recovery time",
+      "Never release explosively or drop opponent"
+    ],
+    "training_restrictions": [
+      "Never apply sudden or explosive pressure to the spine",
+      "Never use competition speed in training",
+      "Never bridge higher once opponent shows discomfort",
+      "Always ensure training partner can verbally tap",
+      "Prohibited in many IBJJF competitions - verify rule compliance",
+      "Never apply to training partners with known back issues"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Turtle",
+      "slug": "from-turtle",
+      "description": "Primary entry controlling both legs from turtle top position"
+    },
+    {
+      "name": "from Back Control",
+      "slug": "from-back-control",
+      "description": "Transition when traditional choke attacks are defended"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Single Leg Boston Crab",
+      "description": "Control only one leg while applying similar sitting-back pressure. Less effective as submission but useful for control and transitions. Opponent has one leg free to defend but the spinal pressure is still present. Often used as transitional control in catch wrestling.",
+      "when_to_use": "When opponent defends one leg successfully or when you want control position rather than immediate submission. Allows for easier transitions to other leg attacks."
+    },
+    {
+      "variation_name": "Boston Crab from Back Mount",
+      "description": "From full back control with hooks, transition to leg control by removing hooks and capturing ankles while opponent is flattened. Step over their body while maintaining some back control elements. More seamless entry but requires giving up back control position.",
+      "when_to_use": "When opponent defends rear naked choke attempts effectively and keeps chin protected. Transition to Boston Crab as alternative finishing option when back control is secure but traditional chokes unavailable."
+    },
+    {
+      "variation_name": "Elevated Boston Crab (Walls of Jericho)",
+      "description": "From standard Boston Crab position, instead of sitting back, stand up while maintaining leg control and create extreme spinal arch. Opponent's entire weight creates the pressure. Significantly more dangerous and requires extreme control and communication. Rarely used in BJJ due to injury risk.",
+      "when_to_use": "Only in professional wrestling contexts or advanced catch wrestling with highly experienced training partners who understand the risks. Not recommended for standard BJJ training."
+    },
+    {
+      "variation_name": "Boston Crab from Turtle Spin",
+      "description": "As opponent spins out of turtle to re-guard, capture their legs during the spinning motion before they complete the guard recovery. Use their momentum to facilitate stepping over their body. Timing-based entry that capitalizes on opponent's movement.",
+      "when_to_use": "When opponent uses rolling or spinning turtle escapes. Anticipate the leg exposure during their escape attempt and intercept with leg grips."
+    }
+  ],
+  "from_positions": [
+    "Turtle",
+    "Back Control",
+    "Crab Ride",
+    "Truck",
+    "Cross Body Ride",
+    "Twister Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "Twister",
+      "relationship": "Similar spinal compression submission with rotational component from back control positions"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Compression submission sharing hip and groin pressure mechanics with leg control"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Leg compression attack accessible from similar turtle and back control positions"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Leg attack accessible from shared leg entanglement entries during transitions"
+    },
+    {
+      "name": "Toe Hold",
+      "relationship": "Foot lock available during leg control exchanges when Boston Crab grip shifts"
+    },
+    {
+      "name": "Kneebar",
+      "relationship": "Leg attack sharing similar positional setups and leg control mechanics"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Primary back control finish that Boston Crab supplements when chokes are defended"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Alternative gi-based finish from back control that chains with Boston Crab threats"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Arm attack from similar turtle control setups sharing positional entries"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Arm lock accessible when opponent posts defensively against Boston Crab setup"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Turtle",
+      "relationship": "Primary starting position for Boston Crab entries"
+    },
+    {
+      "name": "Truck",
+      "relationship": "Alternative leg control position that can transition to Boston Crab"
+    },
+    {
+      "name": "Crab Ride",
+      "relationship": "Back control position with leg control access to Boston Crab setup"
+    },
+    {
+      "name": "Twister",
+      "relationship": "Similar compression submission targeting spinal rotation"
+    },
+    {
+      "name": "Turtle to Back Control",
+      "relationship": "Entry pathway where Boston Crab becomes option if traditional back control is defended"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Can transition to Boston Crab if opponent defends traditional choke attacks"
+    },
+    {
+      "name": "Lockdown",
+      "relationship": "Half guard control that shares leg control principles with Boston Crab mechanics"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Another compression submission involving hip and groin pressure with leg control"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Spinal lock position that shares anatomical targets with Boston Crab"
+    }
+  ],
+  "clips": [
+    {
+      "id": "iarztc8kRHk",
+      "title": "Boston crab as a legit submission",
+      "by": "Ramsey Dewey",
+      "vertical": false,
+      "channel": "Ramsey Dewey",
+      "duration": 148,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "UGmbBqnAQiw",
+      "title": "Boston crab footlock from closed guard",
+      "by": "Revolution BJJ",
+      "vertical": false,
+      "channel": "Revolution BJJ",
+      "duration": 111,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "fA1NxkhnYdM",
+      "title": "Half boston crab with kneebar setup",
+      "by": "Dan The Wolfman",
+      "vertical": false,
+      "channel": "DanTheWolfman",
+      "duration": 276,
+      "verified": "2026-07-15"
+    }
+  ]
+}

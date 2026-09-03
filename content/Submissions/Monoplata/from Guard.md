@@ -1,0 +1,382 @@
+
+
+
+
+---
+title: "Monoplata from Guard | BJJ Submission | BJJ Map"
+description: "Master the Monoplata from Guard in BJJ. Complete guide with safety protocols, setup, and execution steps. Success rates: Beginner 25%, Intermediate 40%, Advanced 55%."
+---
+
+
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Monoplata from Guard",
+  "description": "Master the Monoplata from Guard in BJJ. Complete guide with safety protocols, setup, and execution steps. Success rates: Beginner 25%, Intermediate 40%, Advanced 55%.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Monoplata from Guard", "item": "https://bjjmap.pages.dev/Submissions/Monoplata-from-Guard" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Monoplata from Guard \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Monoplata from Triangle Choke",
+      "description": "Monoplata from Guard film study: Monoplata from Triangle Choke, taught by Waza Brazilian Jiu Jitsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u9fF8OCRDks/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/u9fF8OCRDks",
+      "url": "https://www.youtube.com/watch?v=u9fF8OCRDks",
+      "creator": { "@type": "Person", "name": "Waza Brazilian Jiu Jitsu" },
+      "duration": "PT110S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Monoplata Trap System from Guard",
+      "description": "Monoplata from Guard film study: Monoplata Trap System from Guard, taught by Johnny Jitsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5J6Gtv1hAMo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5J6Gtv1hAMo",
+      "url": "https://www.youtube.com/watch?v=5J6Gtv1hAMo",
+      "creator": { "@type": "Person", "name": "Johnny Jitsu" },
+      "duration": "PT160S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Monoplata from Guard",
+  "description": "The Monoplata from Guard is an advanced shoulder lock that isolates the opponent's arm and traps it in a figure-four leg configuration, applying rotational pressure to the shoulder joint without the forward roll of a traditional omoplata.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The Monoplata from Guard is an advanced shoulder lock that isolates the opponent's arm and traps it in a figure-four leg configuration, applying rotational pressure to the shoulder joint without the forward roll of a traditional omoplata.**
+<div class="principle-meta">
+<span class="meta-chip">Joint Lock</span>
+<span class="meta-chip">Shoulder Lock</span>
+<span class="meta-chip">Targets Shoulder joint and rotator cuff</span>
+<span class="meta-chip">48% success</span>
+</div>
+
+> [!danger] Safety
+> Monoplata from Guard targets the Shoulder joint and rotator cuff. Primary risk: Rotator cuff tear or strain. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<div class="role-links">
+
+[[Submissions/Monoplata/from Guard/Attacker|Play as Attacker]]
+[[Submissions/Monoplata/from Guard/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+Emerging from the rubber guard and omoplata systems of modern no-gi grappling, the Monoplata earned its place as the answer to the strong-postured opponent who reliably defends the conventional omoplata roll. This submission attacks the opponent's shoulder joint by isolating their arm while using your legs to create a figure-four lock around their trapped limb. It is particularly effective when transitioning from failed omoplata attempts or when the opponent attempts to posture up aggressively from guard. The Monoplata creates severe pressure on the shoulder capsule and rotator cuff, making it a high-percentage finish once proper control is established. Unlike the traditional omoplata which rolls the opponent forward, the Monoplata maintains a more static control position while applying rotational pressure to the shoulder joint. This submission requires excellent hip mobility, precise leg positioning, and a deep understanding of shoulder mechanics to execute safely and effectively. It chains seamlessly with triangles, armbars, and back takes, rewarding practitioners who treat it as one node in an integrated guard-attack system rather than an isolated trick.
+
+**Starting Position**: [[Positions/Closed Guard]] · **From**: [[Positions/Closed Guard]] (Bottom)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Monoplata from Guard in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=u9fF8OCRDks)
+
+<p class="clip-credit"><strong>Monoplata from Triangle Choke</strong> — taught by Waza Brazilian Jiu Jitsu · 1:50 · <a href="https://www.youtube.com/watch?v=u9fF8OCRDks" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=5J6Gtv1hAMo)
+
+<p class="clip-credit"><strong>Monoplata Trap System from Guard</strong> — taught by Johnny Jitsu · 2:40 · <a href="https://www.youtube.com/watch?v=5J6Gtv1hAMo" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[game-over]] | 60% |
+| Failure | [[Positions/Closed Guard]] | 25% |
+| Counter | [[Positions/Side Control]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | Isolate the arm completely before attempting the leg configu... | Maintain strong posture with elbows tight to your body to pr... |
+| **Options** | 6 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Submissions/Monoplata/from Guard/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Isolate the arm completely before attempting the leg configuration
+
+- Create a tight figure-four with your legs to prevent arm escape
+
+- Maintain hip pressure toward the opponent's head to prevent posturing
+
+- Control the opponent's wrist to prevent hand fighting
+
+- Apply rotational pressure gradually through hip extension and leg squeeze
+
+- Keep your body angle perpendicular to opponent's trapped arm
+
+- Transition smoothly from omoplata or other guard attacks to maintain surprise
+
+
+### Execution Steps
+
+
+- **Isolate and control the arm**: From closed guard or open guard, secure a deep overhook or grip on one of the opponent's arms. Break...
+
+- **Swing your leg over the arm**: Open your guard if still closed, and swing your near-side leg (same side as trapped arm) up and over...
+
+- **Establish the figure-four leg lock**: Bring your far-side leg underneath the opponent's trapped arm and lock it in a figure-four configura...
+
+- **Control the opponent's posture and position**: Use your free leg (the one not in the figure-four) to hook around the opponent's far hip or post on ...
+
+- **Create proper angle for shoulder pressure**: Adjust your hip position so you are perpendicular to the opponent's body, with their trapped arm poi...
+
+- **Apply the finish with rotational pressure**: Slowly squeeze your figure-four legs together while simultaneously extending your hips slightly away...
+
+
+### Common Mistakes
+
+
+- **Attempting to apply the submission before establishing full control**
+  - Consequence: Opponent easily escapes and may pass your guard in the scramble
+  - Correction: Be patient and ensure all control points are established: trapped arm isolated, figure-four locked, posture controlled, proper angle achieved. Only then apply finishing pressure.
+
+- **Jerking or spiking the shoulder lock during application**
+  - Consequence: HIGH RISK of severe shoulder injury including dislocation or rotator cuff tear
+  - Correction: ALWAYS apply pressure slowly and progressively over minimum 5-7 seconds. Communication with partner is essential. This is not a submission to finish quickly.
+
+- **Failing to control opponent's wrist during setup**
+  - Consequence: Opponent can hand fight and extract their arm before you secure the figure-four
+  - Correction: Maintain constant wrist control throughout the entire setup sequence. Use both hands if necessary to prevent defensive grips.
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Submissions/Monoplata/from Guard/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Maintain strong posture with elbows tight to your body to prevent arm isolation from guard
+
+- Recognize the transition from omoplata or triangle defense to monoplata before the figure-four is locked
+
+- Never allow your arm to extend past the attacker's hip line - retract immediately when you feel overhook control
+
+- Address the threat progressively earlier in the sequence - prevention is far superior to late-stage escape
+
+- If caught in the figure-four, prioritize straightening your arm and stacking before the perpendicular angle is achieved
+
+- Tap immediately if the figure-four is locked, angle is set, and hip extension begins - explosive escape risks severe shoulder injury
+
+
+### Recognition Cues
+
+
+- Opponent secures a deep overhook on your arm and begins to angle their hips perpendicular to your body while in guard
+
+- You feel your arm being pulled across your body past the opponent's hip line with their legs beginning to swing over your shoulder
+
+- After defending an omoplata or triangle attempt, the opponent does not return to standard guard but instead begins threading one leg underneath your trapped arm
+
+- The bottom player's legs begin to form a figure-four configuration around your isolated arm rather than returning to closed guard or standard omoplata position
+
+- You feel increasing rotational pressure on your shoulder with your elbow pointing upward and your arm trapped between the opponent's legs
+
+
+### Escape Paths
+
+
+- Arm retraction to posture recovery: Pull your elbow sharply back to your ribs while driving your chest forward and hips back, breaking the arm isolation before any leg configuration is established. This is the highest-percentage escape at the earliest stage.
+
+- Stack and pass: Drive your weight forward onto the attacker while circling your trapped arm's elbow tight to your body. Use the forward pressure to collapse their guard structure and step your knee through to initiate a guard pass, extracting your arm as you transition to side control.
+
+- Forward roll escape: When the figure-four is partially locked but the attacker's free leg has not blocked your far hip, perform a controlled forward roll over your trapped shoulder. Tuck your chin and roll through to your knees, immediately posturing to face the opponent. This must be executed before hip extension begins.
+
+
+</section>
+
+
+<section id="variations" class="content-section hide-minimal">
+
+## Variations
+
+
+**Monoplata from Failed Omoplata**: When opponent defends the traditional omoplata by rolling out or maintaining base, transition by adjusting your leg configuration to the figure-four lock. This is the most common entry as it capitalizes on the opponent's defensive movement. (When to use: Use when opponent successfully defends your omoplata attempt but their arm remains trapped)
+
+
+**Monoplata from Triangle Setup**: When setting up a triangle but the opponent posts their arm, isolate that posted arm and transition to monoplata instead. This catches opponents who are triangle-aware but unfamiliar with the monoplata attack. (When to use: Use when opponent defends triangle by posting their arm strongly)
+
+
+**Monoplata from Spider Guard**: From spider guard with one foot on the bicep, break the opponent's posture and trap that arm while swinging your leg over for the monoplata. The spider guard foot position gives excellent initial arm control. (When to use: Use when opponent leans forward in your spider guard or attempts to remove the foot from bicep)
+
+
+**Inverted Monoplata**: An advanced variation where you invert your body position while maintaining the figure-four lock. This creates a different angle of attack on the shoulder and can be more effective against certain body types. (When to use: Use against flexible opponents who can defend the standard version or when you need a different finishing angle)
+
+
+
+</section>
+
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+- [[Positions/Closed Guard]]
+- [[Positions/Open Guard]]
+- [[Positions/Spider Guard]]
+- [[Positions/Rubber Guard]]
+- [[Positions/Rubber Guard/Mission Control]]
+- [[Positions/Omoplata Control]]
+- [[Positions/Triangle Control]]
+- [[Positions/De La Riva Guard]]
+- [[Positions/Lasso Guard]]
+- [[Positions/Collar Sleeve Guard]]
+
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Omoplata]]
+- [[Submissions/Baratoplata]]
+- [[Submissions/Triangle Choke]]
+- [[Submissions/Far Side Armbar]]
+- [[Transitions/Gogoplata]]
+- [[Submissions/Kimura]]
+- [[Transitions/Inverted Triangle]]
+- [[Positions/Omoplata Control]] - Primary transition position - monoplata often comes from failed omoplata
+- [[Positions/Triangle Control]] - Alternative submission when opponent posts arm during triangle setup
+- [[Positions/Rubber Guard/Mission Control]] - Rubber guard position that creates excellent monoplata opportunities
+- [[Transitions/Omoplata Sweep]] - Complementary technique using similar initial control
+- [[Transitions/Omoplata to Back]] - Alternative transition when monoplata is defended
+- [[Transitions/Triangle Setup]] - Creates arm isolation that can lead to monoplata
+- [[Positions/Spider Guard]] - Starting position with excellent arm control for monoplata entries
+- [[Positions/Closed Guard]] - Primary starting position for monoplata attacks
+- [[Positions/Rubber Guard]] - Guard system with multiple monoplata entry options
+- [[Positions/Gogoplata Control]] - Related advanced guard submission with similar control requirements
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Rotator cuff tear or strain | High | 6-12 weeks for minor tears, 4-6 months for major tears |
+| Shoulder dislocation or subluxation | CRITICAL | 3-6 months with potential for chronic instability |
+| Labrum damage | High | 6-9 months, may require surgical repair |
+| AC joint sprain | Medium | 2-6 weeks depending on severity |
+
+
+**Application Speed**: EXTREMELY SLOW - 5-7 seconds minimum pressure application with constant communication
+
+**Tap Signals**:
+- Verbal tap (primary signal)
+- Physical hand tap on legs or mat
+- Physical foot tap on mat
+- Any distress vocalization
+- Repeated tapping on your body
+
+
+**Release Protocol**:
+1. Immediately stop all rotational pressure on the shoulder
+2. Release the figure-four leg configuration
+3. Unwrap your legs from around the arm
+4. Allow the partner to extract their arm naturally
+5. Check for shoulder mobility and pain before continuing training
+
+
+**Training Restrictions**:
+- Never spike or jerk the submission - apply smooth, progressive pressure only
+- Never use competition speed in training - always start at 20-30% intensity
+- Always maintain verbal communication with training partner throughout
+- Never apply the finish without establishing full control first
+- Beginners must drill this with 0% resistance for minimum 50 repetitions
+- Never practice on partners with pre-existing shoulder injuries without explicit approval
+
+
+</section>
+
+
+
+</main>

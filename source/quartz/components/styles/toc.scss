@@ -1,0 +1,107 @@
+.toc {
+  display: flex;
+  flex-direction: column;
+  max-height: 100%;
+  &.desktop-only {
+    display: flex;
+  }
+
+  & > h3 {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 0 0 0.75rem 0;
+    color: var(--dark);
+    opacity: 0.35;
+  }
+}
+
+#toc-content {
+  list-style: none;
+  overflow: hidden;
+  overflow-y: auto;
+  flex: 1;
+  min-height: 0;
+  position: relative;
+
+  // Render the scrollbar on the LEFT edge of the panel (visually adjacent to
+  // the article) by flipping direction; restore LTR on children so text reads
+  // normally. Mirrors the Explorer's .scrollable-list "categories scrollbar".
+  direction: rtl;
+
+  // Contain scroll so reaching top/bottom doesn't chain into the drawer.
+  overscroll-behavior: contain;
+
+  // Shadow indicators for scrollable content
+  box-shadow:
+    inset 0 0.5rem 0.5rem -0.5rem rgba(0, 0, 0, 0.12),
+    inset 0 -0.5rem 0.5rem -0.5rem rgba(0, 0, 0, 0.12);
+
+  & > ul {
+    direction: ltr;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0.5rem 0;
+    padding: 0;
+
+    & > li > a {
+      color: var(--dark);
+      opacity: 0.35;
+      font-size: 0.82rem;
+      transition: 0.3s ease color;
+      // Opacity is now set dynamically via JS based on viewport coverage
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    // Top-level items (h2) get more spacing
+    & > li {
+      margin-top: 0.75rem;
+
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+
+    // Nested items get less spacing
+    & li li {
+      margin-top: 0.15rem;
+    }
+  }
+
+  > ul.overflow {
+    max-height: none;
+    width: 100%;
+    position: relative;
+  }
+
+  // Custom scrollbar styling for better visibility
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: var(--light);
+    border-radius: 3px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--gray);
+    border-radius: 3px;
+
+    &:hover {
+      background: var(--darkgray);
+    }
+  }
+
+  @for $i from 0 through 6 {
+    & .depth-#{$i} {
+      padding-left: calc(1rem * #{$i});
+    }
+  }
+}

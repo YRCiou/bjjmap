@@ -1,0 +1,247 @@
+{
+  "name": "Bicep Slicer",
+  "description": "Master the Bicep Slicer in BJJ. Complete guide with safety protocols, setup from crucifix and truck positions. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "compression-lock",
+    "bicep-slicer",
+    "crucifix",
+    "truck",
+    "advanced-technique"
+  ],
+  "aliases": [
+    "Biceps Slicer",
+    "Bicep Crusher",
+    "Biceps Crush"
+  ],
+  "is_family": true,
+  "submission_category": "Compression",
+  "submission_type": "Bicep Compression Lock",
+  "target_area": "Bicep muscle and elbow joint",
+  "starting_position": "Crucifix",
+  "from_position": "Crucifix/Top",
+  "success_rate": {
+    "gi": 52,
+    "nogi": 52
+  },
+  "variant_uniqueness": "Dual compression-hyperextension attack on bicep and elbow",
+  "summary": "The Bicep Slicer is a compression lock that drives your shin or forearm into the crook of the opponent's bent arm, crushing the bicep against the bone while levering the elbow toward hyperextension.",
+  "overview": "Among the most overlooked finishes in grappling, the Bicep Slicer earns its keep as a high-percentage backup the moment an opponent surrenders an arm to defend a choke or a more obvious joint lock. This advanced submission works by trapping the opponent's arm between your shin and forearm, creating a lever that compresses the bicep against the humerus bone while simultaneously hyperextending the elbow. Most commonly applied from the crucifix, truck, or modified mount positions, the bicep slicer is a technical submission that requires precise positioning and control. The compression creates intense pain in the bicep muscle belly, while the hyperextension threatens the elbow joint, creating a two-fold attack that is difficult to defend. This submission is particularly effective in no-gi grappling where the opponent cannot use gi grips to defend, and it serves as an excellent backup when traditional chokes or arm locks are unavailable. The bicep slicer's effectiveness comes from its ability to attack an area that most grapplers do not regularly condition or defend, making it a high-percentage finish when the proper positioning is achieved. Understanding the mechanical advantage required and the precise angles needed separates successful application from ineffective attempts.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Bicep muscle tear or severe contusion",
+        "severity": "High",
+        "recovery_time": "3-6 weeks for muscle damage, up to 12 weeks for severe tears"
+      },
+      {
+        "injury": "Elbow hyperextension or ligament damage",
+        "severity": "High",
+        "recovery_time": "4-8 weeks for moderate sprains, 3-6 months for severe ligament tears"
+      },
+      {
+        "injury": "Radial nerve compression",
+        "severity": "Medium",
+        "recovery_time": "1-3 weeks for temporary nerve irritation"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum with constant communication",
+    "tap_signals": [
+      "Verbal tap or verbal distress signal",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on mat",
+      "Any vocalization of pain or distress",
+      "Frantic body movement indicating distress"
+    ],
+    "release_protocol": [
+      "Immediately release all pressure on the bicep/elbow",
+      "Remove the shin from behind the opponent's elbow",
+      "Release any grip controlling the wrist",
+      "Allow the opponent to straighten their arm naturally",
+      "Check with partner about their condition before continuing"
+    ],
+    "training_restrictions": [
+      "Never apply sudden or explosive pressure",
+      "Never use full competition speed in training",
+      "Always maintain verbal communication during application",
+      "Never practice on beginners until they understand tap urgency",
+      "Do not apply this submission if opponent has existing elbow or bicep injuries",
+      "Always ensure training partner has clear tap access with free hand"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Crucifix",
+      "slug": "from-crucifix",
+      "description": "Highest percentage application with bilateral arm control"
+    },
+    {
+      "name": "from Twister Control",
+      "slug": "from-twister-control",
+      "description": "Attacks near-side arm from truck position"
+    },
+    {
+      "name": "from Technical Mount",
+      "slug": "from-technical-mount",
+      "description": "Transition from modified mount with trapped arm"
+    },
+    {
+      "name": "from North-South",
+      "slug": "from-north-south",
+      "description": "Uncommon variation catching opponents off-guard"
+    }
+  ],
+  "from_positions": [
+    "Crucifix",
+    "Twister Control",
+    "Technical Mount",
+    "North-South",
+    "S Mount",
+    "Gift Wrap",
+    "Modified Scarf Hold"
+  ],
+  "related_submissions": [
+    {
+      "name": "Kimura",
+      "relationship": "Alternative submission when opponent defends by straightening arm"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Related arm isolation and control concepts from top position"
+    },
+    {
+      "name": "Armbar from Armbar Control",
+      "relationship": "Alternative arm attack when defense creates arm extension"
+    },
+    {
+      "name": "Armbar from Side Control",
+      "relationship": "Alternative arm submission accessible from side control transitions"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Similar compression lock mechanics applied to the lower leg"
+    },
+    {
+      "name": "Arm Crush from Side Control",
+      "relationship": "Related compression submission from side control position"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Compression submission from similar truck and twister positions"
+    },
+    {
+      "name": "Twister",
+      "relationship": "Complementary attack from twister control sharing similar setup"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Available from crucifix when bicep slicer is defended"
+    },
+    {
+      "name": "Armbar from Crucifix",
+      "relationship": "Alternative submission from the primary setup position"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Crucifix",
+      "relationship": "Primary attacking position for bicep slicer"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Common setup position for bicep slicer and calf slicer combination"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Alternative submission when opponent defends by straightening arm"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Similar compression lock mechanics applied to the calf instead of bicep"
+    },
+    {
+      "name": "Technical Mount",
+      "relationship": "Modified mount position allowing bicep slicer setup"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Similar arm isolation and control concepts"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Position that can transition to crucifix and bicep slicer opportunities"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Another compression-based submission using similar mechanical principles"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Arm control position that can transition to bicep slicer setup"
+    },
+    {
+      "name": "Arm Crush",
+      "relationship": "Related compression submission targeting the arm"
+    },
+    {
+      "name": "Armbar from Armbar Control",
+      "relationship": "Alternative arm attack when bicep slicer defense creates extension"
+    },
+    {
+      "name": "S Mount",
+      "relationship": "Mount variation providing bicep slicer setup opportunity"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Bicep Slicer from Crucifix",
+      "description": "The most common and highest percentage application. From the crucifix position, you have both arms controlled, making it easier to isolate one arm for the bicep slicer. Use your leg positioning to trap their arm while your hands control their wrist, creating the perfect angle for compression.",
+      "when_to_use": "When you have established crucifix control and the opponent is defending chokes by tucking their chin or protecting their neck. The bicep slicer becomes an excellent alternative finish."
+    },
+    {
+      "variation_name": "Bicep Slicer from Truck",
+      "description": "From the truck position (twister control), you can attack the near-side arm with a bicep slicer. This variation often surprises opponents who are focused on defending the twister or back take. The leg configuration in the truck provides natural leverage for the shin placement behind the elbow.",
+      "when_to_use": "When attacking from the truck position and the opponent successfully defends the twister by straightening their body. The bicep slicer becomes available on the arm closest to your legs."
+    },
+    {
+      "variation_name": "Modified Mount Bicep Slicer",
+      "description": "From a modified or technical mount where you have one arm trapped under your leg, you can transition to a bicep slicer by threading your shin behind their elbow while controlling their wrist. This requires precise positioning and is typically a transition from failed mount attacks.",
+      "when_to_use": "When mounted and the opponent is defending by keeping their arms tight to their body. If you can isolate one arm and trap it under your leg, the bicep slicer becomes an effective attacking option."
+    },
+    {
+      "variation_name": "North-South Bicep Slicer",
+      "description": "A less common but effective variation from north-south position. Isolate one arm and use your leg to create the fulcrum behind their elbow while controlling the wrist with your hands. This requires significant flexibility and control but can catch opponents off-guard.",
+      "when_to_use": "When transitioning through north-south and the opponent extends an arm defensively. The unusual angle can make this variation particularly difficult to defend."
+    }
+  ],
+  "clips": [
+    {
+      "id": "u9bpAwBgPVo",
+      "title": "Crucifix to bicep slicer finish",
+      "by": "Ashraf Shishani",
+      "vertical": false,
+      "channel": "Ashraf Shishani",
+      "duration": 70,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "1BwmKjHGaPg",
+      "title": "Sneaky bicep slicer from side control",
+      "by": "Prism Jiu Jitsu",
+      "vertical": false,
+      "channel": "Prism Jiu Jitsu",
+      "duration": 74,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "WhRSftl4jlU",
+      "title": "Bicep slicer from top side control",
+      "by": "VOW BJJ",
+      "vertical": false,
+      "channel": "VOW BJJ",
+      "duration": 218,
+      "verified": "2026-07-15"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+
+
+
+
+---
+title: "Ten Finger Guillotine | BJJ Submission Family | BJJ Map"
+description: "Master the Ten Finger Guillotine in BJJ. Comprehensive guide covering setup, execution, and safety protocols. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%."
+---
+
+
+<body data-content-type="submissions-family">
+
+<!-- Schema Markup - CollectionPage (family hub entity) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Ten Finger Guillotine",
+  "description": "Master the Ten Finger Guillotine in BJJ. Comprehensive guide covering setup, execution, and safety protocols. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Ten Finger Guillotine", "item": "https://bjjmap.pages.dev/Submissions/Ten-Finger-Guillotine" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Ten Finger Guillotine \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Leg Grab Ten Finger Guillotine (No-Gi)",
+      "description": "Ten Finger Guillotine film study: Leg Grab Ten Finger Guillotine (No-Gi), taught by ZombieProofBJJ.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vNjdZQOI-cs/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/vNjdZQOI-cs",
+      "url": "https://www.youtube.com/watch?v=vNjdZQOI-cs",
+      "creator": { "@type": "Person", "name": "ZombieProofBJJ" },
+      "duration": "PT89S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "10 Finger Grip Guillotine choke",
+      "description": "Ten Finger Guillotine film study: 10 Finger Grip Guillotine choke, taught by Big Dan.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rYKci9GFisg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rYKci9GFisg",
+      "url": "https://www.youtube.com/watch?v=rYKci9GFisg",
+      "creator": { "@type": "Person", "name": "Big Dan" },
+      "duration": "PT20S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Front Headlock / Ten Finger Guillotine",
+      "description": "Ten Finger Guillotine film study: Front Headlock / Ten Finger Guillotine, taught by Torres Jiu-Jitsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GpP5UslUIGo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/GpP5UslUIGo",
+      "url": "https://www.youtube.com/watch?v=GpP5UslUIGo",
+      "creator": { "@type": "Person", "name": "Torres Jiu-Jitsu" },
+      "duration": "PT131S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 4,
+      "name": "Guillotine Finishing Mechanics",
+      "description": "Ten Finger Guillotine film study: Guillotine Finishing Mechanics, taught by John Combs.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k_j0NLNwKDA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/k_j0NLNwKDA",
+      "url": "https://www.youtube.com/watch?v=k_j0NLNwKDA",
+      "creator": { "@type": "Person", "name": "John Combs" },
+      "duration": "PT71S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Ten Finger Guillotine",
+  "description": "The Ten Finger Guillotine is a no-gi front-headlock choke in which both hands clasp with all ten fingers interlaced behind the opponent's neck, driving maximal carotid and tracheal compression through shoulder and lat engagement rather than arm strength.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What is the Ten Finger Guillotine?", "acceptedAnswer": { "@type": "Answer", "text": "The Ten Finger Guillotine is a no-gi front-headlock choke in which both hands clasp with all ten fingers interlaced behind the opponent\u0027s neck, driving maximal carotid and tracheal compression through shoulder and lat engagement rather than arm strength." } },
+    { "@type": "Question", "name": "What positions can you finish the Ten Finger Guillotine from?", "acceptedAnswer": { "@type": "Answer", "text": "You can finish the Ten Finger Guillotine from Guillotine Control, Front Headlock." } },
+    { "@type": "Question", "name": "Is the Ten Finger Guillotine dangerous?", "acceptedAnswer": { "@type": "Answer", "text": "Ten Finger Guillotine targets the Carotid arteries and trachea. Primary risk: Trachea damage from excessive crushing pressure. Tap early and release immediately on the tap." } }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The Ten Finger Guillotine is a no-gi front-headlock choke in which both hands clasp with all ten fingers interlaced behind the opponent's neck, driving maximal carotid and tracheal compression through shoulder and lat engagement rather than arm strength.**
+<div class="principle-meta">
+<span class="meta-chip">Choke</span>
+<span class="meta-chip">Blood Choke</span>
+<span class="meta-chip">Targets Carotid arteries and trachea</span>
+<span class="meta-chip">~62% avg</span>
+</div>
+
+> [!danger] Safety
+> Ten Finger Guillotine targets the Carotid arteries and trachea. Primary risk: Trachea damage from excessive crushing pressure. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<section id="overview" class="content-section">
+
+The Ten Finger Guillotine is a fundamental front headlock choke that utilizes an interlocking grip with all ten fingers, creating tremendous squeezing power around the opponent's neck. Unlike the traditional guillotine which uses a gable or arm-in configuration, the ten finger variation employs both hands clasped together with fingers interlaced, allowing for maximum compression of the carotid arteries. This submission is particularly effective in no-gi grappling where hand-fighting and grip transitions happen rapidly. The choke can be applied from standing positions during scrambles, from guard pulls, or when defending takedown attempts. The ten finger grip provides exceptional control even against sweaty or slippery opponents, making it a reliable finishing option across all skill levels.
+
+The submission works through a combination of blood restriction and airway compression, with proper technique emphasizing the former for safety and effectiveness. The finishing mechanics rely primarily on shoulder elevation and latissimus dorsi engagement rather than arm strength alone, making the choke sustainable even during extended exchanges. The versatility of this choke allows it to be integrated into multiple positional sequences, from front headlock control to closed guard variations, and it chains naturally with anaconda, darce, and other head-and-arm attacks when the primary finish is defended.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Ten Finger Guillotine in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=vNjdZQOI-cs)
+
+<p class="clip-credit"><strong>Leg Grab Ten Finger Guillotine (No-Gi)</strong> — taught by ZombieProofBJJ · 1:29 · <a href="https://www.youtube.com/watch?v=vNjdZQOI-cs" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=rYKci9GFisg)
+
+<p class="clip-credit"><strong>10 Finger Grip Guillotine choke</strong> — taught by Big Dan · 0:20 · <a href="https://www.youtube.com/watch?v=rYKci9GFisg" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=GpP5UslUIGo)
+
+<p class="clip-credit"><strong>Front Headlock / Ten Finger Guillotine</strong> — taught by Torres Jiu-Jitsu · 2:11 · <a href="https://www.youtube.com/watch?v=GpP5UslUIGo" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=k_j0NLNwKDA)
+
+<p class="clip-credit"><strong>Guillotine Finishing Mechanics</strong> — taught by John Combs · 1:11 · <a href="https://www.youtube.com/watch?v=k_j0NLNwKDA" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+
+<section id="variants" class="content-section">
+
+## What positions can you finish from?
+
+
+<div class="variants-table">
+
+| From Position | Seat | Success | Play as Attacker | Play as Defender |
+|---|---|---|---|---|
+| [[Submissions/Ten Finger Guillotine/from Guillotine Control|Guillotine Control]] | Top | 62% | [[Submissions/Ten Finger Guillotine/from Guillotine Control/Attacker|Attack →]] | [[Submissions/Ten Finger Guillotine/from Guillotine Control/Defender|Defend →]] |
+| [[Submissions/Ten Finger Guillotine/from Front Headlock|Front Headlock]] | Top | 52% | [[Submissions/Ten Finger Guillotine/from Front Headlock/Attacker|Attack →]] | [[Submissions/Ten Finger Guillotine/from Front Headlock/Defender|Defend →]] |
+
+
+</div>
+
+
+<details class="mechanical-variations">
+<summary>Mechanical variations (how the choke is finished)</summary>
+
+- **High Elbow Ten Finger Guillotine**: Position your choking elbow higher near their face while maintaining the ten finger grip. This variation creates a different angle of attack that's particularly effective against opponents who defend by tucking their chin, as it attacks from above rather than across the throat. (When to use: Use when opponent has excellent chin defense and you cannot get your forearm across the throat in the traditional position. Also effective from standing positions where you have superior height advantage.)
+- **Guard Pull Ten Finger Guillotine**: From standing front headlock position, jump to closed guard while maintaining the ten finger grip. As you land, squeeze your knees together and arch your back simultaneously with the choking squeeze. The guard pull often tightens the choke by changing the angle and preventing opponent's escape. (When to use: Ideal when opponent is driving forward aggressively or attempting a takedown. The guard pull uses their momentum against them and transitions immediately to a finishing position. Particularly effective in no-gi where grip fighting is constant.)
+- **Arm-In Ten Finger Guillotine**: Instead of clearing opponent's arm, trap it inside your choking grip along with their neck. Interlock your fingers in the ten finger configuration with their arm included. This creates tremendous pressure and is harder to defend against, though it requires more strength to finish. (When to use: Use when opponent's near arm is deeply underhooking or you cannot clear it without losing position. Also useful when opponent is hand-fighting effectively and you need to secure control quickly. The arm-in variation trades pure choking efficiency for increased control.)
+- **Seated Ten Finger Guillotine**: Apply the choke while seated on your hip with opponent in your butterfly or half butterfly guard. This position allows you to use your legs and hips to break opponent's posture while maximizing upper body compression. Particularly effective for transitioning from failed sweep attempts. (When to use: When starting from seated guard or when opponent successfully defends a guard pull but you maintain the grip. The seated position provides excellent control and finishing power while being less physically demanding than standing variations.)
+
+
+</details>
+
+
+</section>
+
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Guillotine Choke]] - Primary guillotine variation using standard grip configuration
+- [[Submissions/High Elbow Guillotine]] - High angle variation for defeating chin defense
+- [[Submissions/Arm in Guillotine]] - Arm-trapped variation trading choking efficiency for control
+- [[Transitions/Anaconda Choke]] - Transition option when opponent turns into the choke
+- [[Submissions/Darce Choke]] - Transition option when opponent turns away from pressure
+- [[Submissions/Chin Strap Guillotine/from Front Headlock]] - Alternative chin-based grip guillotine finish
+- [[Submissions/Arm Triangle]] - Related head-and-arm choke from front headlock transitions
+- [[Submissions/Brabo Choke]] - Gi-based head-and-arm choke alternative from similar positions
+- [[Positions/Hindulotine]] - Advanced guillotine variation from guard position
+- [[Positions/Front Headlock]] - Primary control position for entry
+- [[Positions/Guillotine Control]] - Related submission control position
+- [[Positions/Closed Guard]] - Common finishing position after guard pull
+- [[Positions/Standing Position]] - Primary entry context from sprawls
+- [[Positions/Turtle]] - Common opponent position for setup
+- [[Positions/Clinch]] - Standing control position for entry
+- [[Positions/Butterfly Guard]] - Alternative finishing position with hip control
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Trachea damage from excessive crushing pressure | High | 2-4 weeks with severe cases requiring medical attention |
+| Neck strain or cervical spine stress from jerking motions | Medium | 1-2 weeks |
+| Loss of consciousness from carotid compression | High | Immediate recovery but repeated incidents can cause long-term damage |
+| Jaw or temporomandibular joint (TMJ) injury from improper chin positioning | Medium | 2-6 weeks |
+
+
+**Application Speed**: SLOW and progressive - 3-5 seconds minimum to allow partner to recognize danger and tap
+
+**Tap Signals**:
+- Verbal tap (saying 'tap' or any distress sound)
+- Physical hand tap on partner's body or mat
+- Physical foot tap on mat or partner
+- Any unusual body stiffening or loss of resistance indicating unconsciousness
+
+
+**Release Protocol**:
+1. Immediately release the choking hand grip while maintaining head control
+2. Lower opponent's head gently to prevent whiplash or neck strain
+3. Create space by stepping back or opening guard to remove all pressure
+4. Check partner's awareness and allow recovery time before continuing
+5. If partner was unconscious, elevate legs and monitor breathing
+
+
+**Training Restrictions**:
+- Never apply full pressure at competition speed in training - always give partner time to tap
+- Never jerk or spike the choke with explosive movements
+- Never continue pressure after partner taps or shows distress
+- Never practice on partners with neck injuries without medical clearance
+- Always ensure partner has access to tap with at least one hand free
+
+
+</section>
+
+</main>

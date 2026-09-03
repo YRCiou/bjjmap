@@ -1,0 +1,31 @@
+import { ComponentType, JSX } from "preact"
+import { StaticResources } from "../util/resources"
+import { QuartzPluginData } from "../plugins/vfile"
+import { GlobalConfiguration } from "../cfg"
+import { Node } from "hast"
+import { BuildCtx } from "../util/ctx"
+import { FullSlug } from "../util/path"
+
+export type QuartzComponentProps = {
+  ctx: BuildCtx
+  externalResources: StaticResources
+  fileData: QuartzPluginData
+  cfg: GlobalConfiguration
+  children: (QuartzComponent | JSX.Element)[]
+  tree: Node
+  allFiles: QuartzPluginData[]
+  slugMap?: Map<FullSlug, QuartzPluginData>
+  displayClass?: "mobile-only" | "desktop-only" | "not-desktop"
+} & JSX.IntrinsicAttributes & {
+    [key: string]: any
+  }
+
+export type QuartzComponent = ComponentType<QuartzComponentProps> & {
+  css?: string
+  beforeDOMLoaded?: string
+  afterDOMLoaded?: string
+}
+
+export type QuartzComponentConstructor<Options extends object | undefined = undefined> = (
+  opts: Options,
+) => QuartzComponent

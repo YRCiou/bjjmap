@@ -1,0 +1,173 @@
+{
+  "name": "Mounted Crucifix Armbar",
+  "description": "Master the Mounted Crucifix Armbar in BJJ. Complete guide to arm isolation finishing mechanics, step-by-step execution, escape defense, and safety protocols.",
+  "tags": [
+    "bjj",
+    "submission",
+    "armbar",
+    "mounted crucifix",
+    "joint lock",
+    "arm isolation",
+    "advanced technique"
+  ],
+  "summary": "An elbow-hyperextension submission that capitalizes on the mounted crucifix's leg-trapped arm, the Mounted Crucifix Armbar finishes the pre-isolated limb directly while the defender's compromised frames make standard armbar escapes unavailable.",
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Arm Lock",
+  "target_area": "Shoulder and elbow joint",
+  "starting_position": "Mounted Crucifix",
+  "from_position": "Mounted Crucifix/Top",
+  "from_positions": [
+    "Mounted Crucifix",
+    "Mount",
+    "Crucifix"
+  ],
+  "success_rate": {
+    "gi": 50,
+    "nogi": 50
+  },
+  "variant_uniqueness": "Pre-isolated arm from crucifix control enables direct finishing",
+  "overview": "The Mounted Crucifix Armbar is a high-percentage joint lock executed from one of the most dominant control positions in Brazilian Jiu-Jitsu. The attacker leverages the mounted crucifix's inherent arm isolation—where one or both of the defender's arms are trapped by the attacker's legs—to hyperextend the elbow joint on the trapped arm. Because the defender's normal armbar defense mechanisms are severely compromised by the crucifix control, this submission converts at a significantly higher rate than standard armbar variations from mount.\n\nThe submission's tactical value lies in its complementary relationship with choke attacks from the mounted crucifix. When the defender commits their free arm entirely to neck defense against rear naked choke or collar choke attempts, the trapped arm becomes available for the armbar with minimal resistance. Conversely, if the defender attempts to free their trapped arm, the neck becomes exposed to choking attacks. This binary dilemma makes the mounted crucifix one of the highest-converting positions to submission finish in competitive grappling.\n\nMechanically, the armbar requires the attacker to pivot their hips toward the target arm while maintaining crucifix control, then extend the arm against the hip line with the elbow joint positioned for hyperextension pressure. The key distinction from a standard mount armbar is that the initial arm isolation is already established by the leg-based crucifix control, eliminating the most difficult phase of the armbar setup. This pre-existing control transforms the armbar from a multi-step sequence requiring significant positional transitions into a direct finishing technique with minimal setup time.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Elbow hyperextension with ligament tear (UCL/LCL damage)",
+        "severity": "High",
+        "recovery_time": "3-6 months with possible surgical intervention"
+      },
+      {
+        "injury": "Elbow dislocation from rapid or uncontrolled extension",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months, often requires surgery and extensive rehabilitation"
+      },
+      {
+        "injury": "Shoulder subluxation or rotator cuff strain from combined arm isolation and extension forces",
+        "severity": "High",
+        "recovery_time": "4-8 months depending on severity"
+      }
+    ],
+    "application_speed": "SLOW and progressive. The elbow joint is vulnerable to rapid damage once the arm is extended past the breaking point. Apply steady incremental pressure, never spike or jerk the submission. The mounted crucifix traps the arm in a mechanically disadvantaged position, meaning less force is required to cause injury than in a standard armbar.",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any distress signal)",
+      "Physical hand tap on partner, own body, or mat with free hand",
+      "Physical foot tap on mat with either leg",
+      "Any unusual screaming, groaning, or distress vocalization"
+    ],
+    "release_protocol": [
+      "Release immediately upon any tap signal without hesitation",
+      "If in doubt about whether opponent tapped, release immediately—position can be re-established",
+      "Lower the arm gently after release rather than dropping it to prevent additional strain",
+      "Check on training partner's elbow and shoulder condition after every submission application"
+    ],
+    "training_restrictions": [
+      "Begin with slow positional drilling at zero resistance before adding any progressive resistance",
+      "No explosive jerking, spiking, or rapid extension of the arm during training at any experience level",
+      "White and blue belts should only drill this submission with instructor supervision due to the trapped-arm dynamic reducing escape options",
+      "Partners must establish clear tap protocols before drilling and confirm both verbal and physical tap recognition"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Mounted Crucifix",
+      "slug": "from-mounted-crucifix",
+      "description": "Primary armbar entry from established mounted crucifix control with pre-isolated arm"
+    }
+  ],
+  "related_submissions": [
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative armbar variation sharing cross-body arm isolation mechanics"
+    },
+    {
+      "name": "Armbar",
+      "relationship": "Dynamic armbar entry using rotational momentum from top positions"
+    },
+    {
+      "name": "Spinning Armbar",
+      "relationship": "Rotational armbar setup sharing arm isolation finishing principles"
+    },
+    {
+      "name": "Gift Wrap Armbar from Gift Wrap",
+      "relationship": "Related arm control submission from similar trapping control position"
+    },
+    {
+      "name": "Triangle Choke",
+      "relationship": "Alternative mount-based submission sharing dominant positional control"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Compression submission that chains naturally from failed armbar extension"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Armbar finishing variation when opponent rolls prone to escape extension"
+    },
+    {
+      "name": "Armbar from Crucifix",
+      "relationship": "Related crucifix-based armbar sharing arm-trap isolation mechanics"
+    },
+    {
+      "name": "Armbar from Mount",
+      "relationship": "Standard mount armbar sharing positional context without pre-isolation advantage"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Mounted Crucifix",
+      "relationship": "Starting control position providing the arm isolation that enables this armbar"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Parent control position sharing arm-trapping mechanics and submission pathways"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Foundation position from which mounted crucifix develops through arm isolation"
+    },
+    {
+      "name": "Armbar Control",
+      "relationship": "Control position reached during armbar extension phase"
+    },
+    {
+      "name": "High Mount",
+      "relationship": "Common entry path to mounted crucifix through progressive arm isolation"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Alternative transition target when armbar attempt disrupts crucifix control"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Related arm control position with complementary trapping mechanics"
+    }
+  ],
+  "clips": [
+    {
+      "id": "hISwyzfmQr0",
+      "title": "Straight Armbar From Inverted Crucifix",
+      "by": "Laura Sanko",
+      "vertical": false,
+      "channel": "One On One | MMA",
+      "duration": 281,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "VL8WcZaILow",
+      "title": "Crucifix Attacks: Armbar and Rolling Reverse Omoplata",
+      "by": "Legion Jiu Jitsu Coach",
+      "vertical": false,
+      "channel": "Legion Jiu Jitsu ",
+      "duration": 441,
+      "verified": "2026-07-15"
+    },
+    {
+      "id": "uT8ryCrN3Q8",
+      "title": "Crucifix Redeemer Armbar",
+      "by": "Ayrshire Grappler Coach",
+      "vertical": false,
+      "channel": "Ayrshire Grappler",
+      "duration": 107,
+      "verified": "2026-07-15"
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "name": "Knee on Belly",
+  "slug": "knee-on-belly",
+  "description": "Master Knee on Belly in BJJ. Strategic control position balancing mobility with pressure. Complete guide covering both top control and bottom escapes.",
+  "aliases": [
+    "Knee Mount",
+    "Knee on Stomach",
+    "Knee on Chest",
+    "KOB",
+    "Uki Gatame",
+    "Joelho na Barriga"
+  ],
+  "variant_uniqueness": "Mobile pressure trading stability for speed",
+  "summary": "Knee on Belly is a mobile top control position where one practitioner drives a knee across the opponent's torso while posting the other leg wide, trading static stability for rapid transitions, point-scoring pressure, and submission threats.",
+  "overview": "Within the BJJ positional hierarchy, Knee on Belly occupies a distinctive role because it prioritizes mobility as much as dominance, sitting between side control and mount as an aggressive launching point. This position uniquely combines high pressure with exceptional mobility, creating a transitional platform that scores points while setting up submissions and positional advancements. Unlike static control positions such as mount or side control, Knee on Belly requires continuous weight adjustments and active pressure management. The position creates a strategic dilemma for the bottom player: defend against submissions, prevent transitions to more dominant positions, or alleviate the crushing diaphragm pressure. From the top perspective, this position offers point-scoring opportunities, submission threats, and rapid transition potential to mount, back control, or north-south. From the bottom perspective, it represents a high-risk defensive scenario requiring immediate escape protocols combining frame creation, hip movement, and systematic re-guard strategies. The position exemplifies the principle of dynamic control over static dominance, rewarding practitioners who master the balance between pressure application and transitional readiness. The top player's knee acts as a fulcrum through which bodyweight is channeled into the bottom player's solar plexus, creating respiratory distress that forces panicked defensive reactions. These reactions — pushing with extended arms, turning away, bridging — each open specific attack pathways that a prepared top player can exploit. The bottom player must recognize that every second spent flat under this pressure compounds the disadvantage, making immediate and systematic escape attempts essential. Understanding both perspectives transforms Knee on Belly from a simple pressure position into a complex strategic node within the positional hierarchy.",
+  "key_principles": [
+    "Knee on Belly combines mobility with pressure, requiring dynamic weight shifts rather than static settling",
+    "Top player must maintain offensive momentum through constant submission and transition threats",
+    "Bottom player must create frames immediately to prevent full weight settlement and enable hip escape mechanics",
+    "Position rewards anticipation and reaction speed, with success determined by who controls the transitional pace",
+    "Proper knee placement on solar plexus/diaphragm creates respiratory distress that accelerates defensive errors",
+    "The position's value lies in creating multiple dilemmas simultaneously - defend pressure, prevent advancement, and protect submissions"
+  ],
+  "related_positions": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary entry and exit position - natural transition point before and after Knee on Belly"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Common advancement target from top, common deterioration from bottom escape failures"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative transition when opponent turns into pressure or escapes toward head"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Primary re-guard target for bottom player, common destination after successful escape"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Opportunistic target when opponent turns away from pressure attempting to escape"
+    },
+    {
+      "name": "S Mount",
+      "relationship": "Advanced variation combining Knee on Belly pressure mechanics with mount control"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Emergency escape position when bottom player turns away under extreme pressure"
+    },
+    {
+      "name": "Open Guard",
+      "relationship": "Re-guard destination requiring frame creation and hip escape execution"
+    }
+  ],
+  "top": {
+    "name": "Knee on Belly Top",
+    "description": "Master Knee on Belly Top control in BJJ. Dynamic offensive position balancing mobility with pressure. Complete guide covering setup, transitions, and submission attacks.",
+    "tags": [
+      "bjj",
+      "position",
+      "knee-on-belly",
+      "top-position",
+      "pressure",
+      "control",
+      "dominant",
+      "intermediate"
+    ],
+    "overview": "Knee on Belly Top is a highly effective transitional control position where the top practitioner places one knee across the opponent's torso while maintaining a wide base with the other leg extended. This position creates immense pressure on the bottom player's diaphragm and solar plexus, making it difficult to breathe and forcing defensive reactions. The top player maintains constant forward pressure while staying light on their feet, ready to transition to mount, side control, or submission attacks. From a strategic standpoint, Knee on Belly Top serves as an excellent position for consolidating control after passing the guard, scoring IBJJF points, and setting up a variety of attacks. The mobility inherent in this position allows the top player to quickly respond to escape attempts while maintaining dominant pressure. Unlike more static positions like mount or side control, Knee on Belly requires active weight distribution and constant micro-adjustments to maintain effectiveness. This position is particularly valuable in competition settings where maintaining pressure while remaining mobile is essential. The threat of submissions, transitions to mount, and back takes forces the bottom player into a reactive defensive posture, allowing the top player to dictate the pace and direction of the match.",
+    "state_properties": {
+      "point_value": 2,
+      "position_type": "Offensive/Controlling",
+      "risk_level": "Low to Medium",
+      "energy_cost": "Medium",
+      "time_sustainability": "Medium"
+    },
+    "state_invariants": [
+      "One knee positioned on opponent's torso/solar plexus area with shin perpendicular to their centerline, creating direct downward pressure through the knee joint while controlling their breathing and movement",
+      "Opposite leg extended wide for base with foot planted firmly on the mat, toes pointing away from opponent to create stable tripod structure and enable quick transitions",
+      "Upper body weight distributed forward through the knee contact point while hands control opponent's collar and belt/pants, maintaining forward pressure that prevents opponent from creating space or turning into you",
+      "Opponent flat on their back with shoulders pinned to mat, unable to turn to their side or create effective framing due to constant knee pressure and grip control",
+      "Hips positioned high and mobile, allowing quick weight shifts and transitions while maintaining pressure through the knee on the opponent's diaphragm region"
+    ],
+    "prerequisites": [
+      "Successful guard pass to side control or direct entry from standing",
+      "Control of opponent's upper body through collar or cross-collar grip",
+      "Opponent flat on back with limited mobility",
+      "Ability to maintain balance on one knee while controlling opponent's movement",
+      "Understanding of proper weight distribution to maximize pressure without sacrificing mobility"
+    ],
+    "key_principles": [
+      "Keep knee positioned on opponent's solar plexus or lower ribs to maximize breathing disruption and control",
+      "Maintain wide base with extended leg for stability and quick transitional movement",
+      "Distribute weight forward through the knee while staying light on feet for mobility",
+      "Control opponent's near-side collar and far-side pants/belt to prevent turning and framing",
+      "Stay active and ready to transition - Knee on Belly is a mobile attacking position, not a static hold",
+      "Use opponent's defensive reactions to set up submissions and transitions",
+      "Keep hips high and forward to maintain downward pressure angle through the knee"
+    ],
+    "decision_tree": [
+      {
+        "condition": "If opponent remains flat and defensive without creating frames",
+        "actions": [
+          {
+            "technique": "Baseball Bat Choke",
+            "target": "game-over",
+            "probability": 55
+          },
+          {
+            "technique": "KOB to Mount",
+            "target": "Mount",
+            "probability": 65
+          }
+        ]
+      },
+      {
+        "condition": "If opponent pushes against knee or creates frames with arms",
+        "actions": [
+          {
+            "technique": "Far Side Armbar from KOB",
+            "target": "Armbar Control",
+            "probability": 60
+          },
+          {
+            "technique": "Kimura",
+            "target": "Kimura Trap",
+            "probability": 55
+          }
+        ]
+      },
+      {
+        "condition": "If opponent turns to side attempting to escape",
+        "actions": [
+          {
+            "technique": "Back Take from Top",
+            "target": "Back Control",
+            "probability": 50
+          },
+          {
+            "technique": "S-Mount Transition",
+            "target": "S Mount",
+            "probability": 70
+          }
+        ]
+      },
+      {
+        "condition": "If opponent successfully creates space by shrimping away",
+        "actions": [
+          {
+            "technique": "KOB to Side Control",
+            "target": "Side Control",
+            "probability": 75
+          },
+          {
+            "technique": "KOB to Mount",
+            "target": "Mount",
+            "probability": 65
+          }
+        ]
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Placing too much weight on the knee, causing loss of mobility and balance",
+        "consequence": "Opponent can easily sweep or escape as top player becomes static and heavy",
+        "correction": "Maintain forward pressure through the knee while keeping weight distributed and feet light, ready to move and transition"
+      },
+      {
+        "error": "Positioning knee too high on chest/shoulder area instead of solar plexus",
+        "consequence": "Reduced pressure effectiveness and easier for opponent to create frames and escape",
+        "correction": "Place knee directly on solar plexus or lower ribs for maximum breathing disruption and control"
+      },
+      {
+        "error": "Keeping base leg too close to opponent instead of extending wide",
+        "consequence": "Weak base makes position vulnerable to sweeps and opponent can easily turn into top player",
+        "correction": "Extend base leg wide with toes pointing away from opponent to create stable tripod structure"
+      },
+      {
+        "error": "Not controlling opponent's far side with grips (pants or belt)",
+        "consequence": "Opponent can turn away easily and escape the position or create space for guard recovery",
+        "correction": "Maintain strong grip on far-side pants or belt while controlling near-side collar to prevent turning"
+      },
+      {
+        "error": "Remaining static in Knee on Belly instead of using it as transitional position",
+        "consequence": "Opponent has time to develop escape plan and execute defensive strategy",
+        "correction": "Stay active, constantly threatening transitions and submissions to keep opponent defensive and reactive"
+      },
+      {
+        "error": "Leaning back or away from opponent instead of maintaining forward pressure",
+        "consequence": "Loss of pressure and control, allowing opponent to create space and begin escaping",
+        "correction": "Keep shoulders and chest forward over opponent with hips high, directing pressure downward through knee"
+      }
+    ],
+    "training_drills": [
+      {
+        "name": "Knee on Belly Maintenance Drill",
+        "description": "Partner lies flat while you establish Knee on Belly Top. Partner attempts various escapes (shrimping, bridging, turning) at 50% resistance while you maintain position for 2 minutes, focusing on weight distribution and quick adjustments to counter escape attempts.",
+        "duration": "5 rounds of 2 minutes"
+      },
+      {
+        "name": "Transition Flow Drill",
+        "description": "From Knee on Belly Top, practice flowing between mount, north-south, and back to Knee on Belly in continuous motion. Partner remains relatively static while you work on smooth transitions maintaining pressure throughout.",
+        "duration": "3 rounds of 3 minutes"
+      },
+      {
+        "name": "Submission Attack Chains",
+        "description": "Establish Knee on Belly and practice attacking with baseball bat choke, armbar, and kimura in sequence. Partner defends appropriately for each attack, allowing you to develop sensitivity to defensive reactions and smooth submission transitions.",
+        "duration": "4 rounds of 2 minutes"
+      },
+      {
+        "name": "Pressure Sensitivity Drill",
+        "description": "Partner gives feedback on pressure levels as you experiment with different weight distributions and knee placements. Find optimal pressure point on solar plexus and practice maintaining it while moving hands and adjusting grips.",
+        "duration": "10 minutes"
+      }
+    ],
+    "related_content": [
+      {
+        "name": "Side Control",
+        "relationship": "Primary entry position - Knee on Belly often entered from side control"
+      },
+      {
+        "name": "Mount",
+        "relationship": "Common transition target - natural progression when opponent creates space"
+      },
+      {
+        "name": "North-South",
+        "relationship": "Alternative transition - effective when opponent escapes toward head"
+      },
+      {
+        "name": "Baseball Bat Choke",
+        "relationship": "Primary submission - high-percentage attack from this position in gi"
+      },
+      {
+        "name": "S Mount",
+        "relationship": "Advanced variation - evolution of Knee on Belly toward mount"
+      },
+      {
+        "name": "Back Control",
+        "relationship": "Opportunistic target when opponent turns away from pressure"
+      },
+      {
+        "name": "Far Side Armbar from KOB",
+        "relationship": "Primary arm attack when opponent extends frames against knee"
+      },
+      {
+        "name": "Kimura",
+        "relationship": "Alternative arm attack targeting opponent's far arm from top control"
+      }
+    ],
+    "position_metrics": {
+      "retention_rate": {
+        "value": 68,
+        "description": "Moderate retention reflecting the position's inherently transitional nature - skilled players cycle through rather than hold"
+      },
+      "advancement_probability": {
+        "value": 68,
+        "description": "High advancement rate due to multiple transition paths to mount, back control, and north-south"
+      },
+      "submission_probability": {
+        "value": 48,
+        "description": "Strong submission rate driven by baseball bat choke, armbar, and kimura threats from opponent's defensive reactions"
+      },
+      "average_time": "30-60 seconds"
+    },
+    "transitions": [
+      {
+        "transition": "KOB to Mount",
+        "attempt_probability": {
+          "gi": 18,
+          "nogi": 22
+        }
+      },
+      {
+        "transition": "Far Side Armbar from KOB",
+        "attempt_probability": {
+          "gi": 13,
+          "nogi": 16
+        }
+      },
+      {
+        "transition": "Baseball Bat Choke from Knee on Belly",
+        "attempt_probability": {
+          "gi": 10,
+          "nogi": 0
+        }
+      },
+      {
+        "transition": "Cross Collar Choke from Knee on Belly",
+        "attempt_probability": {
+          "gi": 9,
+          "nogi": 0
+        }
+      },
+      {
+        "transition": "KOB to Side Control",
+        "attempt_probability": {
+          "gi": 15,
+          "nogi": 17
+        }
+      },
+      {
+        "transition": "Kimura from Knee on Belly",
+        "attempt_probability": {
+          "gi": 7,
+          "nogi": 12
+        }
+      },
+      {
+        "transition": "Back Take from Top",
+        "attempt_probability": {
+          "gi": 7,
+          "nogi": 9
+        }
+      },
+      {
+        "transition": "S-Mount Transition",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 9
+        }
+      },
+      {
+        "transition": "Armbar from Knee on Belly",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 10
+        }
+      },
+      {
+        "transition": "Belly Down Armbar from Knee on Belly",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 5
+        }
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "What is the optimal knee placement for maximum pressure and control in Knee on Belly?",
+        "answer": "The knee should be positioned directly on the opponent's solar plexus or lower ribs, with the shin perpendicular to their centerline. This placement creates direct downward pressure on the diaphragm, disrupting breathing and limiting their ability to generate power for escapes. Placing the knee too high on the chest reduces pressure effectiveness and makes it easier for the opponent to frame.",
+        "answer_line": "Solar plexus, shin perpendicular",
+        "distractors": {
+          "plausible": [
+            "Center of the chest",
+            "Knee angled along the body"
+          ],
+          "trap": [
+            "Knee on the hip bone"
+          ]
+        }
+      },
+      {
+        "question": "How should weight be distributed to maintain both pressure and mobility from Knee on Belly Top?",
+        "answer": "Weight should be distributed forward through the knee contact point while keeping the feet light and mobile. The hips stay high and mobile, allowing quick weight shifts. The opposite leg extends wide with the foot planted firmly, creating a stable tripod structure. Avoid committing full weight to the knee as this sacrifices mobility and makes you vulnerable to sweeps. Think of pressing down through the knee like a piston while your body remains ready to spring in any direction.",
+        "answer_line": "Piston knee, light mobile feet",
+        "distractors": {
+          "plausible": [
+            "Weight even on both legs",
+            "Weight back on the hips"
+          ],
+          "trap": [
+            "Full weight committed to knee"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent starts creating frames by placing their hands on your knee - what adjustment do you make?",
+        "answer": "When the opponent extends their arms to frame, this creates an immediate submission opportunity. Their extended arms become vulnerable to armbars and kimuras. Capitalize by attacking the extended arm with a far side armbar or trapping the far arm for a kimura. Alternatively, use their pushing reaction to slide your knee through and transition to mount. Never allow them to frame for free — punish every arm extension.",
+        "answer_line": "Attack the extended arm",
+        "distractors": {
+          "plausible": [
+            "Retract knee to reset",
+            "Slap the frames away"
+          ],
+          "trap": [
+            "Let them frame and settle in"
+          ]
+        }
+      },
+      {
+        "question": "What are the essential grips for maintaining Knee on Belly control?",
+        "answer": "The primary grips are near-side collar control and far-side pants or belt grip. The collar grip controls the opponent's upper body and prevents them from sitting up or turning toward you. The far-side pants/belt grip prevents them from turning away and creates control of their hip movement. Together these grips establish the control framework that enables pressure application and submission setups. In no-gi, replace collar with head/neck control and belt with hip cupping.",
+        "answer_line": "Near collar, far pants/belt",
+        "distractors": {
+          "plausible": [
+            "Both sleeves for control",
+            "Far collar, near belt"
+          ],
+          "trap": [
+            "Underhook the far arm"
+          ]
+        }
+      },
+      {
+        "question": "Why is Knee on Belly considered a transitional rather than settling position?",
+        "answer": "Knee on Belly's value comes from its mobility and attack versatility rather than static control. The position creates multiple dilemmas — defend submissions, prevent mount transition, or escape pressure — but prolonged stillness allows the opponent to solve these problems sequentially. Maintaining offensive momentum through constant threats keeps the opponent reactive and prevents them from executing coordinated defense. The position degrades quickly when you stop attacking.",
+        "answer_line": "Multi-threat beats stillness",
+        "distractors": {
+          "plausible": [
+            "Its low base is unstable",
+            "Mount is always the better hold"
+          ],
+          "trap": [
+            "Settle in and grind it out"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent begins to bridge and turn away from you - how do you respond?",
+        "answer": "When the opponent turns away, follow their movement and look for back control. Their turning motion exposes their back, creating an opportunity to transition to back control by inserting hooks or taking the seat belt grip. Alternatively, use their turning motion to slide into north-south position if back control isn't available. Never fight their turning momentum directly — redirect it into a positional advancement that benefits you.",
+        "answer_line": "Follow and take the back",
+        "distractors": {
+          "plausible": [
+            "Chase mount immediately",
+            "Hop to the far side instead"
+          ],
+          "trap": [
+            "Fight the turn, stay chest up"
+          ]
+        }
+      },
+      {
+        "question": "How do you recover position when an opponent partially escapes by creating space with hip movement?",
+        "answer": "When the opponent creates space through shrimping, immediately transition back to side control rather than fighting to maintain Knee on Belly. Use your grips to follow their movement and re-establish chest-to-chest pressure. From solid side control, you can re-establish Knee on Belly once they're flattened again. Chasing a compromised Knee on Belly often leads to guard recovery by the opponent.",
+        "answer_line": "Reset to side control first",
+        "distractors": {
+          "plausible": [
+            "Chase and re-flatten the hips",
+            "Drop to mount right away"
+          ],
+          "trap": [
+            "Force the knee back on belly"
+          ]
+        }
+      },
+      {
+        "question": "What role does the base leg play in effective Knee on Belly control?",
+        "answer": "The base leg provides the stable platform that enables both pressure application and rapid transitions. It should be extended wide with toes pointing away from the opponent, creating a tripod structure with your knee and posting hand. This wide base prevents sweeps, enables quick directional changes, and allows you to post and recover if the opponent disrupts your balance. A narrow base makes the position unstable and easily countered by even basic escape attempts.",
+        "answer_line": "Wide tripod base for stability",
+        "distractors": {
+          "plausible": [
+            "Base leg tucked in tight",
+            "Base leg bent under hips"
+          ],
+          "trap": [
+            "Narrow base for extra speed"
+          ]
+        }
+      }
+    ],
+    "clips": [
+      {
+        "id": "pa6Z7mP9VKU",
+        "title": "Ryron Gracie's Favorite Knee-on-Belly Attack",
+        "by": "Ryron Gracie",
+        "vertical": false,
+        "channel": "Hayabusa",
+        "duration": 52,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "XNhDD7N4JNY",
+        "title": "3 Knee-on-Belly Attacks for Beginners",
+        "by": "Lucas Lepri",
+        "vertical": false,
+        "channel": "Lucas Lepri Philippines",
+        "duration": 68,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "johFGyE29pY",
+        "title": "Knee on Belly to Brabo Choke",
+        "by": "Edward Anthony",
+        "vertical": false,
+        "channel": "Edward “Scissorhands” Anthony Jiu Jitsu ",
+        "duration": 51,
+        "verified": "2026-07-14"
+      }
+    ]
+  },
+  "bottom": {
+    "name": "Knee on Belly Bottom",
+    "description": "Master escaping Knee on Belly Bottom in BJJ. Defensive position requiring immediate frame creation and hip escape mechanics. Complete guide covering pressure management and re-guard strategies.",
+    "tags": [
+      "bjj",
+      "position",
+      "knee-on-belly",
+      "bottom",
+      "defensive",
+      "escape",
+      "pressure-defense"
+    ],
+    "overview": "Knee on Belly Bottom is a highly disadvantageous defensive position where the practitioner is flat on their back with the opponent's knee driving into their diaphragm or solar plexus. This position represents one of the most pressure-intensive scenarios in Brazilian Jiu-Jitsu, requiring immediate defensive action to prevent both submission attacks and further positional deterioration. The bottom player must manage overwhelming chest pressure while protecting their neck and arms from various submission threats including armbars, Americanas, and collar chokes. Understanding proper defensive framing, hip escape mechanics, and re-guard strategies is essential for survival and escape. The position scores 2 points for the top player in IBJJF competition and creates a significant advantage in the control hierarchy. Success from this position is measured not by offensive capability but by the speed and efficiency of escape back to guard or neutral positions. The key to effective defense lies in immediate frame creation, hip movement to create angles, and systematic pressure management that prevents the opponent from consolidating control or advancing to mount.",
+    "state_properties": {
+      "point_value": 0,
+      "position_type": "Defensive",
+      "risk_level": "High",
+      "energy_cost": "High",
+      "time_sustainability": "Short"
+    },
+    "state_invariants": [
+      "Bottom player's back is flat against the mat with shoulders making contact with the ground, limiting mobility and creating vulnerability to pressure-based attacks and submission setups from the top player",
+      "Top player's knee is positioned on bottom player's diaphragm, solar plexus, or sternum with direct downward pressure through their shin and kneecap, making breathing difficult and restricting movement",
+      "Bottom player's torso experiences constant compressive force from top player's weight distribution, requiring active defensive frames to prevent complete immobilization and submission setup",
+      "Top player maintains base with their opposite foot posted on the ground and hands controlling bottom player's upper body, creating stable platform for pressure application and attack initiation"
+    ],
+    "prerequisites": [
+      "Opponent has successfully passed guard or transitioned from another top position",
+      "Bottom player is flat on their back with shoulders on mat",
+      "Top player has established knee placement on torso with base",
+      "Bottom player's movement is significantly restricted by pressure",
+      "Top player controls at least one point on bottom player's upper body (collar, arm, or head)"
+    ],
+    "key_principles": [
+      "Create immediate defensive frames using forearms and elbows to manage distance and prevent full weight settlement",
+      "Turn body to the side to reduce surface area exposed to pressure and create hip escape angles",
+      "Protect neck and arms from submission attacks by keeping elbows tight and chin tucked",
+      "Generate hip movement away from the knee pressure to create space for re-guard entry",
+      "Maintain constant activity to prevent opponent from settling their weight and consolidating control",
+      "Use opponent's base disruption to create escape opportunities when they shift weight or attempt submissions",
+      "Prioritize re-guard over stand-up escapes due to opponent's superior pressure and control position"
+    ],
+    "decision_tree": [
+      {
+        "condition": "If opponent's weight is fully committed to knee pressure with hands posted low",
+        "actions": [
+          {
+            "technique": "Hip Escape to Guard",
+            "target": "Half Guard",
+            "probability": 50
+          },
+          {
+            "technique": "Elbow Escape to Guard",
+            "target": "Closed Guard",
+            "probability": 45
+          }
+        ]
+      },
+      {
+        "condition": "If opponent lifts knee to transition to mount or north-south",
+        "actions": [
+          {
+            "technique": "Frame and Shrimp to Guard",
+            "target": "Open Guard",
+            "probability": 60
+          },
+          {
+            "technique": "Knee Shield Retention",
+            "target": "Knee Shield Half Guard",
+            "probability": 55
+          }
+        ]
+      },
+      {
+        "condition": "If opponent attempts submission and loses base stability",
+        "actions": [
+          {
+            "technique": "Hip Escape to Turtle",
+            "target": "Turtle",
+            "probability": 50
+          },
+          {
+            "technique": "Technical Stand-up",
+            "target": "Clinch",
+            "probability": 35
+          }
+        ]
+      },
+      {
+        "condition": "If opponent controls far side collar and near side arm",
+        "actions": [
+          {
+            "technique": "Frame and Shrimp from Knee on Belly",
+            "target": "Half Guard",
+            "probability": 45
+          },
+          {
+            "technique": "Deep Half Entry",
+            "target": "Deep Half Guard",
+            "probability": 40
+          }
+        ]
+      },
+      {
+        "condition": "If opponent's base is narrow with feet close together",
+        "actions": [
+          {
+            "technique": "Push Knee and Reguard from Knee on Belly",
+            "target": "Butterfly Guard",
+            "probability": 55
+          },
+          {
+            "technique": "Turn to Turtle from Knee on Belly",
+            "target": "Turtle",
+            "probability": 50
+          }
+        ]
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Attempting to bench press or push opponent away with arms extended",
+        "consequence": "Arms become vulnerable to armbars and Americanas while wasting energy without creating effective escape angles",
+        "correction": "Keep elbows tight to body and use frames on opponent's hips and knees to create angles rather than trying to generate vertical lifting force"
+      },
+      {
+        "error": "Lying completely flat without turning to side or creating frames",
+        "consequence": "Maximum surface area exposed to pressure makes breathing extremely difficult and prevents any hip movement necessary for escape",
+        "correction": "Immediately turn slightly to side facing away from knee pressure while establishing forearm frames to reduce pressure and enable hip escape mechanics"
+      },
+      {
+        "error": "Reaching up to grab opponent's gi or arms during escape attempts",
+        "consequence": "Exposes arms to submission attacks and prevents proper framing structure needed for effective hip escapes",
+        "correction": "Maintain defensive frames on opponent's hips and legs while keeping hands below shoulder level during escape sequences"
+      },
+      {
+        "error": "Attempting to bridge directly into the knee pressure",
+        "consequence": "Increases pressure on chest and diaphragm while failing to create the lateral movement needed for escape",
+        "correction": "Use bridging only in combination with turning to side and shrimping away from pressure to create proper escape angles"
+      },
+      {
+        "error": "Giving up near side arm to opponent's control during escape",
+        "consequence": "Allows opponent to establish strong cross-face control and makes transition to mount or submissions significantly easier",
+        "correction": "Keep near arm tight to body or establish underhook to prevent cross-face and maintain structural integrity during escape attempts"
+      },
+      {
+        "error": "Stopping movement once initial escape attempt fails",
+        "consequence": "Allows opponent to settle their weight and consolidate control, making subsequent escapes exponentially more difficult",
+        "correction": "Chain multiple escape attempts together continuously, using each attempt to create small improvements in position even if full escape isn't immediately achieved"
+      },
+      {
+        "error": "Neglecting to protect neck during escape sequences",
+        "consequence": "Becomes vulnerable to cross collar chokes, arm-in guillotines, and other neck attacks during movement",
+        "correction": "Maintain chin tuck and keep at least one hand ready to defend collar grips while executing hip escape movements"
+      }
+    ],
+    "training_drills": [
+      {
+        "name": "Progressive Resistance Escape Drilling",
+        "description": "Partner establishes knee on belly with increasing resistance levels (25%, 50%, 75%, 100%). Bottom player practices frame creation, hip escape, and re-guard sequences at each resistance level. Focus on maintaining proper breathing and frame structure under pressure.",
+        "duration": "3 rounds of 2 minutes per resistance level"
+      },
+      {
+        "name": "Escape Chain Sequences",
+        "description": "Bottom player must execute three different escape attempts in succession (e.g., elbow escape to half guard, if blocked then shrimp to open guard, if blocked then deep half entry). Top player provides moderate resistance but allows progression through chain.",
+        "duration": "5 minutes continuous switching"
+      },
+      {
+        "name": "Frame Maintenance Under Pressure",
+        "description": "Top player establishes knee on belly and slowly increases pressure over 30 seconds. Bottom player must maintain proper defensive frames using forearms on hips and knees without letting elbows flare or frames collapse.",
+        "duration": "10 sets of 30 seconds with 15 second rest"
+      },
+      {
+        "name": "Submission Defense and Escape Integration",
+        "description": "Top player establishes knee on belly and actively hunts for submissions (armbar, Americana, collar chokes). Bottom player must simultaneously defend submissions while creating and executing escapes.",
+        "duration": "5 minute rounds, 3 rounds"
+      }
+    ],
+    "related_content": [
+      {
+        "name": "Side Control",
+        "relationship": "Similar pressure-based bottom position with related escape mechanics"
+      },
+      {
+        "name": "Mount",
+        "relationship": "Common progression if knee on belly escape fails"
+      },
+      {
+        "name": "Half Guard",
+        "relationship": "Primary escape destination for elbow escape and hip escape techniques"
+      },
+      {
+        "name": "Deep Half Guard",
+        "relationship": "Advanced escape destination when opponent shifts weight forward"
+      },
+      {
+        "name": "Closed Guard",
+        "relationship": "High-priority escape target for re-establishing offensive guard game"
+      },
+      {
+        "name": "Elbow Escape to Guard",
+        "relationship": "Primary escape technique using hip movement and frames"
+      },
+      {
+        "name": "Hip Escape to Guard",
+        "relationship": "Foundational movement pattern for all escape sequences"
+      },
+      {
+        "name": "Butterfly Guard",
+        "relationship": "Alternative re-guard destination when hooks can be established"
+      }
+    ],
+    "position_metrics": {
+      "retention_rate": {
+        "value": 40,
+        "description": "Low retention reflecting the position's urgency - bottom player either escapes quickly or situation deteriorates"
+      },
+      "advancement_probability": {
+        "value": 45,
+        "description": "Moderate escape probability through systematic frame creation and hip escape chains"
+      },
+      "submission_probability": {
+        "value": 12,
+        "description": "Very low submission threat from bottom - nearly all offensive output comes from escape and positional recovery"
+      },
+      "average_time": "15-45 seconds before escape or further deterioration"
+    },
+    "transitions": [
+      {
+        "transition": "Elbow Escape to Guard",
+        "attempt_probability": {
+          "gi": 14,
+          "nogi": 13
+        }
+      },
+      {
+        "transition": "Hip Escape to Guard",
+        "attempt_probability": {
+          "gi": 18,
+          "nogi": 17
+        }
+      },
+      {
+        "transition": "Deep Half Entry",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 6
+        }
+      },
+      {
+        "transition": "Knee Shield Retention",
+        "attempt_probability": {
+          "gi": 11,
+          "nogi": 11
+        }
+      },
+      {
+        "transition": "Technical Stand-up",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 7
+        }
+      },
+      {
+        "transition": "Frame and Shrimp to Guard",
+        "attempt_probability": {
+          "gi": 16,
+          "nogi": 15
+        }
+      },
+      {
+        "transition": "Hip Escape to Turtle",
+        "attempt_probability": {
+          "gi": 7,
+          "nogi": 8
+        }
+      },
+      {
+        "transition": "Frame and Shrimp from Knee on Belly",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 8
+        }
+      },
+      {
+        "transition": "Push Knee and Reguard from Knee on Belly",
+        "attempt_probability": {
+          "gi": 11,
+          "nogi": 10
+        }
+      },
+      {
+        "transition": "Turn to Turtle from Knee on Belly",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 5
+        }
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "What is the first defensive priority when your opponent establishes Knee on Belly?",
+        "answer": "The first priority is creating immediate defensive frames using forearms and elbows against the opponent's hips and knee. These frames prevent full weight settlement and create the structural foundation for all subsequent escapes. Without frames, the pressure becomes overwhelming and no escape is possible. Frame on their hip with your near elbow tight to your body, and use your far hand to control their knee or collar.",
+        "answer_line": "Frame forearms on hip and knee",
+        "distractors": {
+          "plausible": [
+            "Bridge hard immediately",
+            "Grab the far collar first"
+          ],
+          "trap": [
+            "Push the knee with straight arms"
+          ]
+        }
+      },
+      {
+        "question": "Why is turning to your side essential for escaping Knee on Belly?",
+        "answer": "Turning to your side reduces the surface area exposed to the opponent's pressure and creates the hip angles necessary for shrimping. When flat on your back, the opponent's full pressure drives into your diaphragm and your hips cannot generate escape movement. By turning to face away from the knee pressure, you enable the hip escape mechanics that create space for re-guard entry.",
+        "answer_line": "Shrinks target, enables shrimp",
+        "distractors": {
+          "plausible": [
+            "Frees the far-side underhook",
+            "Lets you sit up to grip"
+          ],
+          "trap": [
+            "Stay flat and bridge harder"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent lifts their knee to transition to mount - what opportunity does this create?",
+        "answer": "When the opponent lifts their knee to advance, they momentarily reduce the pinning pressure and create space. This is the optimal window to insert a knee shield or recover to open guard. React immediately by driving your knee between your bodies or shrimping your hips away to establish guard before they can complete the mount transition. The moment of transition is your best escape opportunity.",
+        "answer_line": "Insert knee shield or shrimp out",
+        "distractors": {
+          "plausible": [
+            "Grab the belt and stall",
+            "Wait for full mount, then escape"
+          ],
+          "trap": [
+            "Push their hips away with arms"
+          ]
+        }
+      },
+      {
+        "question": "What makes extending your arms to push against the opponent's knee a critical error?",
+        "answer": "Extended arms become immediately vulnerable to armbars and Americanas — the opponent can simply capture your extended arm and attack the submission. Additionally, pushing creates no effective escape angles because you're fighting their weight vertically rather than creating lateral space. The correct approach is keeping elbows tight and using structural frames that create angles for hip movement rather than vertical push.",
+        "answer_line": "Exposes arm to armbar/Americana",
+        "distractors": {
+          "plausible": [
+            "Wastes energy, no real risk",
+            "Slows your breathing recovery"
+          ],
+          "trap": [
+            "Straight-arm pushing is safe"
+          ]
+        }
+      },
+      {
+        "question": "How should you chain escape attempts when your first escape fails?",
+        "answer": "Continue moving immediately without pausing. If the elbow escape to half guard is blocked, transition directly into a shrimp toward open guard. If that's blocked, look for deep half entry. Each escape attempt creates incremental space improvement even if the full escape doesn't succeed. Stopping allows the opponent to re-settle their weight and consolidate control, making subsequent escapes exponentially harder.",
+        "answer_line": "Keep moving, chain attempts",
+        "distractors": {
+          "plausible": [
+            "Pause to reset your grips",
+            "Commit fully to one escape"
+          ],
+          "trap": [
+            "Stop and wait for their move"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent reaches for your collar while maintaining Knee on Belly - how do you respond?",
+        "answer": "When the opponent reaches for submissions, they must compromise their base and redistribute weight. Use this moment of instability to accelerate your escape. Their reaching hand means less control over your movement. Execute your hip escape while simultaneously defending the collar grip with your near hand. The submission attempt creates the opening for escape if you're ready to capitalize on their weight shift.",
+        "answer_line": "Escape hips as base wobbles",
+        "distractors": {
+          "plausible": [
+            "Grab their wrist and freeze",
+            "Lock both hands on their grip"
+          ],
+          "trap": [
+            "Bridge straight up into them"
+          ]
+        }
+      },
+      {
+        "question": "What breathing strategy helps manage the intense pressure from Knee on Belly?",
+        "answer": "Take short, controlled breaths using your diaphragm rather than chest breathing. Turning to your side shifts the pressure point and creates more breathing room. Don't panic or hold your breath — this depletes energy rapidly. Stay calm and breathe between escape attempts. The pressure is uncomfortable but manageable with proper technique and breathing. Mental composure is essential for executing technical escapes under duress.",
+        "answer_line": "Short diaphragm breaths, turn side",
+        "distractors": {
+          "plausible": [
+            "Hold breath through each attempt",
+            "Deep chest breaths only"
+          ],
+          "trap": [
+            "Explosive bridge to gulp air"
+          ]
+        }
+      },
+      {
+        "question": "When is Deep Half Guard entry a better option than standard guard recovery from Knee on Belly?",
+        "answer": "Deep Half Guard entry becomes optimal when the opponent shifts their weight forward or moves their knee position toward your hips. This creates space under their base that you can penetrate with your underhook and head. If they're maintaining pressure high on your chest with good posture, standard hip escapes to half or closed guard are better. Deep half requires getting underneath them, which is only possible when space exists under their hips.",
+        "answer_line": "When space opens under their hips",
+        "distractors": {
+          "plausible": [
+            "Anytime pressure feels heavy",
+            "Only from strong top posture"
+          ],
+          "trap": [
+            "Dive deep half under full pressure"
+          ]
+        }
+      }
+    ],
+    "clips": [
+      {
+        "id": "Wn01Ynw7O28",
+        "title": "How to Escape the Knee on Belly Position",
+        "by": "Evolve MMA",
+        "vertical": false,
+        "channel": "Evolve Mixed Martial Arts",
+        "duration": 40,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "LvhfomaVNqw",
+        "title": "Knee on Belly Escape to Heelhook",
+        "by": "Thunderdome BJJ",
+        "vertical": false,
+        "channel": "Thunderdome BJJ",
+        "duration": 30,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "DagXZb2hses",
+        "title": "Escape as They Transition to Knee on Belly",
+        "by": "John Kelly",
+        "vertical": false,
+        "channel": "John Kelly Brazilian Jiu Jitsu Ireland ",
+        "duration": 58,
+        "verified": "2026-07-14"
+      }
+    ]
+  },
+  "flashcards_position": [
+    {
+      "question": "What structural configuration defines Knee on Belly and distinguishes it from other top pins?",
+      "answer": "Knee on Belly is defined by the top player driving one knee across the bottom player's torso onto the solar plexus or lower ribs while posting the other leg wide with the foot flat on the mat, keeping the bottom player flat on their back. Unlike side control or mount, the top player's bodyweight funnels through a single narrow contact point rather than spreading across a chest-to-chest or hip-to-hip connection. This concentrated pressure trades the broad stability of those pins for mobility and a sharper, more painful pressure vector. The wide base leg and elevated hips are integral to the position, not incidental, because they enable the constant weight adjustments that keep the position alive.",
+      "answer_line": "Knee on torso, base leg wide",
+      "distractors": {
+        "plausible": [
+          "Chest-to-chest, hips square",
+          "Both knees driving into torso"
+        ],
+        "trap": [
+          "Full body weight flat on top"
+        ]
+      }
+    },
+    {
+      "question": "Why does the knee positioned on the solar plexus create such a decisive pressure point for both players?",
+      "answer": "The knee acts as a fulcrum that channels the top player's bodyweight into a small area over the diaphragm and solar plexus, compressing the region that governs breathing and core power generation. Because the force is concentrated rather than distributed, even a moderate amount of weight produces disproportionate respiratory distress and pain for the bottom player. This drives panicked reactions such as pushing with extended arms or bridging, which in turn open predictable attacking and escaping windows. For both players the solar-plexus contact point is the pivot around which the entire exchange revolves, so control of that point effectively controls the position.",
+      "answer_line": "Concentrated force stops breathing",
+      "distractors": {
+        "plausible": [
+          "It targets the floating ribs only",
+          "It pins the shoulder line"
+        ],
+        "trap": [
+          "It's just a resting spot"
+        ]
+      }
+    },
+    {
+      "question": "How does weight distribution in Knee on Belly differ from a settled pin, and why does this define the position?",
+      "answer": "In a settled pin like mount or side control, the top player commits weight fully into broad contact to eliminate movement, whereas Knee on Belly keeps the hips high and the feet light so weight can shift instantly. The pressure is applied through the knee like a loaded piston that can spring in any direction rather than a dead weight pressing down. Committing full static weight to the knee actually degrades the position because it sacrifices the mobility that makes it work and exposes the top player to sweeps. This dynamic, adjustable weight distribution is the shared reality both players are managing at every moment.",
+      "answer_line": "High hips, light adjustable weight",
+      "distractors": {
+        "plausible": [
+          "Same as mount, fully committed",
+          "Weight sinks into the mat"
+        ],
+        "trap": [
+          "Drop full weight to end the fight"
+        ]
+      }
+    },
+    {
+      "question": "What makes Knee on Belly a transitional launching platform rather than a position to hold statically?",
+      "answer": "The position simultaneously threatens submissions, advancement to mount or back control, and point-scoring, forcing the bottom player to solve several problems at once under respiratory duress. Its value comes from that unresolved multi-threat state, which collapses the moment either player wins the pace battle. If the top player stalls, the bottom player gets time to address each threat sequentially and rebuild frames; if the bottom player stalls, the pressure compounds and control consolidates. Both players therefore treat the position as a fast-moving junction where the tempo of transition, not static holding, decides the outcome.",
+      "answer_line": "Multi-threat tempo, not holding",
+      "distractors": {
+        "plausible": [
+          "Best used as a resting position",
+          "Purely a scoring pin"
+        ],
+        "trap": [
+          "Stall here to run the clock"
+        ]
+      }
+    },
+    {
+      "question": "What role do the base leg and posting structure play in stabilizing the concentrated pressure of Knee on Belly?",
+      "answer": "The extended base leg, planted wide with toes pointing away from the bottom player, forms a tripod with the driving knee and the top player's posting hand that keeps the single narrow contact point from becoming a liability. Because so much weight funnels through the knee, the position would topple to sweeps without this wide outrigger to catch balance and enable directional changes. The width of the base directly governs how much pressure can be safely applied and how quickly the top player can transition. A narrow base makes the whole configuration unstable, which is why disrupting or exploiting the base is central to the exchange from both sides.",
+      "answer_line": "Wide outrigger prevents sweeps",
+      "distractors": {
+        "plausible": [
+          "Base leg bent for quick hops",
+          "Posting hand replaces the base leg"
+        ],
+        "trap": [
+          "Cross the base leg over"
+        ]
+      }
+    },
+    {
+      "question": "How does the framing battle at the knee shape the dynamics of Knee on Belly for both players?",
+      "answer": "The bottom player's survival depends on inserting forearm and elbow frames against the driving knee and the top player's hips to prevent full weight settlement and create hip-escape angles. The top player's control depends on preventing or punishing those frames, since an extended arm reaching to push the knee becomes exposed to attacks while a well-placed tight frame relieves pressure and opens escape space. This continuous contest over whether frames can be established and kept tight is the shared mechanical struggle at the heart of the position. Whoever wins the framing exchange controls whether the position holds or dissolves.",
+      "answer_line": "Frames block settlement, open escape",
+      "distractors": {
+        "plausible": [
+          "Framing only matters for the top",
+          "Grip fighting decides it, not frames"
+        ],
+        "trap": [
+          "Push the knee with a straight arm"
+        ]
+      }
+    },
+    {
+      "question": "How does Knee on Belly relate to the surrounding positions in the top-control hierarchy?",
+      "answer": "Knee on Belly sits between side control and mount as an aggressive intermediate node, typically entered from side control after a pass and used as a springboard to mount, back control, or north-south. Its mobility lets it flow into these neighbors far more readily than a settled pin would, which is precisely why it is prized as a launching point rather than an endpoint. From the bottom, failure to escape commonly feeds into deterioration toward mount, while a successful escape recovers half guard, open guard, or turtle. Understanding these adjacencies clarifies why the position is inherently unstable and transitional for both players.",
+      "answer_line": "Springboard to mount or back",
+      "distractors": {
+        "plausible": [
+          "A dead-end finishing position",
+          "Equivalent to back control"
+        ],
+        "trap": [
+          "A downgrade from side control"
+        ]
+      }
+    },
+    {
+      "question": "How does maintaining high, mobile hips affect the pressure and control shared across Knee on Belly?",
+      "answer": "Keeping the hips high and stacked over the driving knee steepens the downward pressure angle so weight drives cleanly through the contact point into the diaphragm rather than leaking sideways. Elevated hips also preserve the freedom to shift weight and step the base, which is what allows the top player to answer escape attempts without collapsing the position. If the hips drop or the top player leans back, the pressure vector flattens and the bottom player gains the space needed to turn and frame. For both players, the height and mobility of the top player's hips are a direct readout of how much pressure and control the position is currently generating.",
+      "answer_line": "Steep angle drives pressure down",
+      "distractors": {
+        "plausible": [
+          "Hip height doesn't affect pressure",
+          "Low hips maximize the pressure"
+        ],
+        "trap": [
+          "Lean back to add more weight"
+        ]
+      }
+    }
+  ],
+  "clips": [
+    {
+      "id": "pa6Z7mP9VKU",
+      "title": "Ryron Gracie's Favorite Knee-on-Belly Attack",
+      "by": "Ryron Gracie",
+      "vertical": false,
+      "channel": "Hayabusa",
+      "duration": 52,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "XNhDD7N4JNY",
+      "title": "3 Knee-on-Belly Attacks for Beginners",
+      "by": "Lucas Lepri",
+      "vertical": false,
+      "channel": "Lucas Lepri Philippines",
+      "duration": 68,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "I9_3u9AcwAg",
+      "title": "First Principles: Mount & Knee-on-Belly Escapes",
+      "by": "40 Plus BJJ",
+      "vertical": false,
+      "channel": "40 Plus BJJ",
+      "duration": 59,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+
+
+
+
+---
+title: "Sumi Gaeshi | BJJ Technique | BJJ Map"
+description: "Master Sumi Gaeshi sacrifice throw in BJJ. Learn proper entry, execution, and sweep mechanics from standing or seated guard with complete attacker and defender guides."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Sumi Gaeshi",
+  "description": "Master Sumi Gaeshi sacrifice throw in BJJ. Learn proper entry, execution, and sweep mechanics from standing or seated guard with complete attacker and defender guides.",
+  "alternateName": ["Corner Throw", "Corner Reversal"],
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Sumi Gaeshi", "item": "https://bjjmap.pages.dev/Transitions/Sumi-Gaeshi" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Sumi Gaeshi \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Sumi gaeshi off a single leg attempt",
+      "description": "Sumi Gaeshi film study: Sumi gaeshi off a single leg attempt, taught by Shintaro Higashi.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1nAzI48mMJo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/1nAzI48mMJo",
+      "url": "https://www.youtube.com/watch?v=1nAzI48mMJo",
+      "creator": { "@type": "Person", "name": "Shintaro Higashi" },
+      "duration": "PT73S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Three sumi gaeshi entries",
+      "description": "Sumi Gaeshi film study: Three sumi gaeshi entries, taught by Shintaro Higashi.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HNtpb3yp6Do/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/HNtpb3yp6Do",
+      "url": "https://www.youtube.com/watch?v=HNtpb3yp6Do",
+      "creator": { "@type": "Person", "name": "Shintaro Higashi" },
+      "duration": "PT121S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Sumi gaeshi corner throw mechanics",
+      "description": "Sumi Gaeshi film study: Sumi gaeshi corner throw mechanics, taught by Judo Life.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x1BHax6c_zg/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/x1BHax6c_zg",
+      "url": "https://www.youtube.com/watch?v=x1BHax6c_zg",
+      "creator": { "@type": "Person", "name": "Judo Life" },
+      "duration": "PT58S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Sumi Gaeshi",
+  "description": "Sumi Gaeshi is a Judo-derived sacrifice throw in which you drop to your back and drive a lifting leg into the opponent's hip to wheel them overhead, turning a standing engagement or seated guard into a dominant top position.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<aside class="entity-relations">
+<p class="also-known-as"><em>Also known as:</em> <strong>Corner Throw</strong>, <strong>Corner Reversal</strong></p>
+</aside>
+<div class="role-links">
+
+[[Sumi Gaeshi/Attacker|Play as Attacker]]
+[[Sumi Gaeshi/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**Sumi Gaeshi is a Judo-derived sacrifice throw in which you drop to your back and drive a lifting leg into the opponent's hip to wheel them overhead, turning a standing engagement or seated guard into a dominant top position.**
+
+Borrowed from Judo's classical syllabus, Sumi Gaeshi has become one of the most reliable sacrifice entries in modern BJJ. The name translates to 'corner reversal throw' in Japanese, referring to the angular entry that creates the throwing opportunity. Its enduring value comes from converting an opponent's own forward momentum into a complete change of position while demanding minimal strength, which is why it survives the transition from the judo mat to the competitive grappling ruleset.
+
+In modern BJJ, Sumi Gaeshi serves multiple strategic purposes: as a direct takedown from standing, as a sweep from seated or butterfly guard, and as a counter to aggressive forward pressure. The technique capitalizes on fundamental principles of leverage, timing, and angle creation. When executed properly, Sumi Gaeshi requires minimal strength, relying instead on precise positioning of your lifting leg and the momentum generated by pulling your opponent over your center of gravity.
+
+The beauty of Sumi Gaeshi lies in its versatility across different grip configurations and situations. Whether you're working with collar and sleeve grips in the gi, double underhooks in no-gi, or countering a standing opponent from guard, the core mechanics remain consistent: create an angle, drop your weight, position your lifting leg at their hip or thigh, and execute the circular throwing motion that brings them overhead into a dominant position.
+
+**From Position**: [[Positions/Standing Position]] (Top)
+**Success Rate**: 55%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Sumi Gaeshi in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=1nAzI48mMJo)
+
+<p class="clip-credit"><strong>Sumi gaeshi off a single leg attempt</strong> — taught by Shintaro Higashi · 1:13 · <a href="https://www.youtube.com/watch?v=1nAzI48mMJo" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=HNtpb3yp6Do)
+
+<p class="clip-credit"><strong>Three sumi gaeshi entries</strong> — taught by Shintaro Higashi · 2:01 · <a href="https://www.youtube.com/watch?v=HNtpb3yp6Do" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=x1BHax6c_zg)
+
+<p class="clip-credit"><strong>Sumi gaeshi corner throw mechanics</strong> — taught by Judo Life · 0:58 · <a href="https://www.youtube.com/watch?v=x1BHax6c_zg" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Mount]] | 55% |
+| Failure | [[Positions/Standing Position]] | 30% |
+| Counter | [[Positions/Closed Guard]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Create angular entry by stepping offline from opponent's cen... | Maintain upright posture and avoid committing weight forward... |
+| **Options** | 6 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Sumi Gaeshi/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Create angular entry by stepping offline from opponent's centerline
+
+- Sacrifice your base completely when committing to the throw
+
+- Position lifting leg at opponent's hip or inner thigh, not knee
+
+- Pull opponent's weight forward and over your center of gravity
+
+- Use circular motion rather than straight upward lifting
+
+- Maintain strong grips throughout the entire technique
+
+- Follow through by continuing the rotation to mount or top position
+
+
+### Execution Steps
+
+
+- **Establish grips and break posture**: From standing, secure strong grips on your opponent's collar and sleeve (gi) or establish double und...
+
+- **Create angle by stepping offline**: Step to the outside at approximately 45 degrees with your non-throwing leg. This lateral movement cr...
+
+- **Position lifting leg at hip**: Raise your inside leg and place your foot firmly against your opponent's hip or inner thigh on the s...
+
+- **Drop and sacrifice your base**: Commit fully to the technique by dropping your bodyweight straight down and backward. Sit through co...
+
+- **Execute circular throwing motion**: As you land on your back, extend your lifting leg in a circular arc while simultaneously pulling you...
+
+- **Continue rotation to mount**: Maintain your grips and continue the rotational momentum, following your opponent over as they fall....
+
+
+### Common Mistakes
+
+
+- **Placing lifting foot at opponent's knee instead of hip**
+  - Consequence: Insufficient leverage to complete the throw; opponent easily steps over or sprawls
+  - Correction: Focus on foot placement at the hip crease or higher on the thigh. The higher the foot, the greater the leverage for the throw
+
+- **Failing to create proper angle before dropping**
+  - Consequence: Opponent can easily base out or counter; technique becomes a weak pull guard
+  - Correction: Commit to the lateral step that creates 45-degree angle. You should be perpendicular to their forward momentum
+
+- **Releasing grips during the throw**
+  - Consequence: Loss of control; opponent escapes to standing or lands in advantageous position
+  - Correction: Maintain grip pressure throughout entire technique. Grips are what guide opponent over your center and allow you to follow
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Sumi Gaeshi/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Maintain upright posture and avoid committing weight forward into the thrower's pull
+
+- Recognize the lateral step and angle creation as the primary setup cue requiring immediate response
+
+- Keep hips back and base wide to deny the forward weight transfer the throw requires
+
+- Fight grip establishment aggressively since the throw cannot work without strong upper body control
+
+- React to foot placement at your hip as the final warning before the throw commits
+
+- Control your own center of gravity rather than trying to resist the throwing force directly
+
+- Prepare landing and guard recovery if the throw reaches the point of no return
+
+
+### Recognition Cues
+
+
+- Opponent steps laterally to create a 45-degree angle while maintaining strong pulling grips on your collar, sleeve, or body
+
+- You feel a sharp downward and forward pull on your upper body combined with your opponent's hips dropping below yours
+
+- Opponent places their foot on your hip or inner thigh while simultaneously beginning to sit or fall backward
+
+- Your weight shifts forward onto your toes as opponent's grips pull you over your base toward their center
+
+- Opponent breaks contact with one foot from the ground while maintaining tight upper body grips, indicating sacrifice throw entry
+
+
+### Defensive Options
+
+
+- **Sprawl and widen base immediately when feeling the lateral angle creation** - When: Early in the setup when opponent steps offline and begins pulling forward, before foot contacts your hip
+
+- **Circle away from the throwing side while stripping the dominant grip** - When: When you recognize the angle creation but still have time to adjust position before the drop
+
+- **Drive hips back and sit weight down while posting free hand on their shoulder to prevent the pull** - When: When the throw is mid-execution and opponent has committed to the backward drop with foot already at your hip
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**Butterfly Guard Sumi Gaeshi**: Execute the throw from seated butterfly guard position. Both hooks are in, grips established on upper body. Opponent stands or applies forward pressure. Drop to your back and use butterfly hook on throwing side as the lifting mechanism combined with second leg creating the angle. (When to use: When opponent stands in your butterfly guard or applies heavy forward pressure attempting to pass)
+
+
+**Tomoe Nage Hybrid**: Variation where lifting foot is placed on opponent's abdomen or belt line rather than hip. Creates more vertical throw trajectory. Particularly effective against bent-over posture or when opponent has strong hip positioning defense. (When to use: Against opponents who defend hip placement well or when working from lower grip positions)
+
+
+**Double Underhook Sumi Gaeshi**: No-gi variation using double underhooks instead of gi grips. Entry angle and leg mechanics remain the same, but control comes from underhook position and head position. Often set up from bodylock or front headlock situations. (When to use: Primary no-gi application or when opponent defends collar grips effectively)
+
+
+**Single Leg Defense Counter**: Counter to opponent's single leg attempt by securing overhook on attacking arm, stepping back with attacked leg to create angle, then executing Sumi Gaeshi using the overhook control and free leg for lifting. (When to use: Defensive application when opponent commits to single leg takedown)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+Sumi Gaeshi occupies a unique position in BJJ's tactical hierarchy, serving as both an offensive takedown and a defensive sweep. From standing, it provides an effective alternative to wrestling-based takedowns, particularly for practitioners who excel at guard play and sacrifice techniques. The throw integrates seamlessly with guard pulling strategies, as failed attempts naturally transition to butterfly or closed guard positions. From seated or butterfly guard, Sumi Gaeshi becomes a high-percentage sweep against opponents who stand or apply forward pressure. It connects to the broader family of sacrifice techniques including Tomoe Nage and Yoko Tomoe Nage, forming a system of related throws. Defensively, Sumi Gaeshi variations can counter single leg attacks and aggressive forward pressure. Modern competitors often use it as part of guard pull sequences, creating uncertainty about whether they're pulling guard or executing a throw.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Transitions/Tomoe Nage]] - Related sacrifice throw with foot on abdomen rather than hip
+
+- [[Transitions/Butterfly Sweep]] - Uses similar elevation mechanics from butterfly guard position
+
+- [[Transitions/Elevation Sweep to Mount]] - Alternative sweep from butterfly guard with similar leg positioning
+
+- [[Transitions/Clear leg and transition to X-Guard]] - Follow-up option if Sumi Gaeshi is defended and opponent remains standing
+
+- [[Positions/Butterfly Guard]] - Common starting position for seated Sumi Gaeshi variation
+
+- [[Transitions/Double Leg Entry]] - Alternative takedown from similar standing position and grips
+
+- [[Transitions/Guard Pull]] - Backup option that shares similar initial movement
+
+- [[Transitions/Ankle Pick]] - Chain technique when opponent circles away from Sumi Gaeshi angle
+
+- [[Positions/Mount]] - Primary ending position when technique is executed successfully
+
+- [[Submissions/Kimura]] - Attack option if opponent posts during the throw
+
+- [[Positions/De La Riva Guard]] - Alternative sweeping system using leg hooks and angles
+
+- [[Positions/Standing Position]] - Starting position for the standing Sumi Gaeshi variation
+
+
+</section>
+
+
+
+</main>

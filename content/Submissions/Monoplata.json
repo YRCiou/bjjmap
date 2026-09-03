@@ -1,0 +1,222 @@
+{
+  "name": "Monoplata",
+  "description": "Master the Monoplata submission in BJJ. Complete guide covering setup from guard, execution steps, safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 55%.",
+  "summary": "The Monoplata is a guard-based shoulder-lock submission family that isolates the opponent's arm in a figure-four leg entanglement to apply rotational pressure on the shoulder joint, finishing where a standard omoplata is defended.",
+  "tags": [
+    "bjj",
+    "submission",
+    "shoulder-lock",
+    "monoplata",
+    "rubber-guard",
+    "advanced-technique"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint and rotator cuff",
+  "starting_position": "Closed Guard",
+  "from_position": "Closed Guard/Bottom",
+  "success_rate": {
+    "gi": 45,
+    "nogi": 45
+  },
+  "variant_uniqueness": "Figure-four leg entanglement creates unique shoulder isolation unavailable from standard omoplata",
+  "overview": "The Monoplata is an advanced shoulder lock submission that combines elements of the omoplata with unique figure-four leg control. Executed primarily from guard positions, particularly the rubber guard and mission control, this technique applies rotational pressure to the shoulder joint through a distinctive leg configuration that traps the opponent's arm while controlling their posture. The monoplata represents a sophisticated evolution of traditional shoulder attacks, offering practitioners a powerful finishing option when conventional submissions are defended. Unlike the traditional omoplata which uses both legs to isolate the arm, the monoplata employs a figure-four leg entanglement that creates exceptional control while maintaining offensive options. This submission has gained prominence in modern no-gi grappling due to its effectiveness against defensive posturing and its integration within systematic guard attack sequences.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Shoulder dislocation or subluxation",
+        "severity": "High",
+        "recovery_time": "6-12 weeks minimum, potentially requiring surgical intervention"
+      },
+      {
+        "injury": "Rotator cuff strain or tear",
+        "severity": "High",
+        "recovery_time": "4-8 weeks for strain, 3-6 months for tears"
+      },
+      {
+        "injury": "Labrum damage",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months with surgery, permanent damage possible"
+      },
+      {
+        "injury": "Anterior shoulder capsule damage",
+        "severity": "Medium",
+        "recovery_time": "3-6 weeks with proper rehabilitation"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum progression from initial control to finishing pressure",
+    "tap_signals": [
+      "Verbal tap or verbal distress signal",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on mat or opponent",
+      "Any audible distress indication",
+      "Loss of resistance or sudden limpness"
+    ],
+    "release_protocol": [
+      "Immediately release the figure-four leg configuration",
+      "Remove all rotational pressure from the shoulder",
+      "Allow opponent's arm to return to neutral position gradually",
+      "Maintain control of opponent's posture while releasing to prevent sudden movements",
+      "Check with training partner before resuming"
+    ],
+    "training_restrictions": [
+      "Never apply explosive or jerking motions to the shoulder joint",
+      "Never use competition speed or intensity in training rolls",
+      "Always ensure training partner has clear tap access with free hand",
+      "Never practice on opponents with known shoulder injuries without explicit approval",
+      "Beginners should not attempt finishing pressure for first 20+ repetitions"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Guard",
+      "slug": "from-guard"
+    },
+    {
+      "name": "from Mount",
+      "slug": "from-mount"
+    }
+  ],
+  "from_positions": [
+    "Closed Guard",
+    "Rubber Guard",
+    "Mission Control",
+    "Open Guard",
+    "Triangle Control",
+    "Spider Guard",
+    "Overhook Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Omoplata",
+      "relationship": "Closely related shoulder lock sharing similar body positioning and entry mechanics from guard"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Advanced rubber guard submission sharing similar flexibility requirements and guard control prerequisites"
+    },
+    {
+      "name": "Baratoplata",
+      "relationship": "Related shoulder lock variation accessible from similar figure-four configurations in guard"
+    },
+    {
+      "name": "Tarikoplata",
+      "relationship": "Shoulder lock chain option when opponent defends initial monoplata setup by posturing"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative arm attack available when monoplata figure-four cannot be fully established"
+    },
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "Complementary choke attack from guard when opponent defends shoulder lock threats"
+    },
+    {
+      "name": "Armbar Finish",
+      "relationship": "Common transition option when monoplata leg configuration loosens during attack"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Advanced finish from same rubber guard system sharing positional prerequisites"
+    },
+    {
+      "name": "Belly Down Armbar",
+      "relationship": "Backup arm attack when opponent rolls to escape monoplata shoulder pressure"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Rubber Guard",
+      "relationship": "Primary setup position providing control structure for monoplata entry"
+    },
+    {
+      "name": "Mission Control",
+      "relationship": "High-control rubber guard variation offering optimal monoplata setup angle"
+    },
+    {
+      "name": "Omoplata Control",
+      "relationship": "Related shoulder attack sharing similar body positioning and pressure mechanics"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Alternative finish when monoplata is defended; failed triangle can transition to monoplata"
+    },
+    {
+      "name": "Closed Guard to Omoplata",
+      "relationship": "Backup transition if figure-four configuration cannot be secured"
+    },
+    {
+      "name": "Closed Guard to Triangle",
+      "relationship": "Related attack chain sharing similar setup requirements and control principles"
+    },
+    {
+      "name": "New York",
+      "relationship": "Rubber guard position that can transition to monoplata when opponent defends traditional attacks"
+    },
+    {
+      "name": "Spider Guard",
+      "relationship": "Alternative entry position for dynamic monoplata setups against upright opponents"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Monoplata from Mission Control",
+      "description": "From rubber guard mission control position with high foot on shoulder and overhook secured, thread bottom leg under trapped arm while maintaining upper body control. This entry provides superior control and makes the figure-four setup more secure.",
+      "when_to_use": "Preferred no-gi entry when opponent is defending in rubber guard system, particularly when they are attempting to strip your overhook grip"
+    },
+    {
+      "variation_name": "Monoplata from Failed Triangle Attempt",
+      "description": "When opponent defends triangle by pulling their trapped arm across their body, use the existing leg position to thread your bottom leg under their arm and establish figure-four. The defensive posture opponent assumes actually facilitates the monoplata setup.",
+      "when_to_use": "Excellent transitional attack when triangle is defended, catching opponent by surprise as they focus on one submission threat"
+    },
+    {
+      "variation_name": "Monoplata from Spider Guard",
+      "description": "Using spider guard with one foot on bicep, thread that same leg underneath opponent's arm while using other leg to push their hip and create angle. Lock figure-four once arm is isolated. Requires more dynamic movement but provides unexpected entry.",
+      "when_to_use": "Against opponents who maintain upright posture in spider guard and are difficult to break down for traditional attacks"
+    },
+    {
+      "variation_name": "Rolling Monoplata",
+      "description": "After establishing figure-four, roll opponent over their trapped shoulder into monoplata position rather than adjusting angle from bottom. This dynamic entry creates more dramatic shoulder pressure and often secures faster finish.",
+      "when_to_use": "When opponent maintains very strong base and refuses to be swept or off-balanced through traditional means"
+    }
+  ],
+  "clips": [
+    {
+      "id": "u9fF8OCRDks",
+      "title": "Monoplata from Triangle Choke",
+      "by": "Waza Brazilian Jiu Jitsu",
+      "vertical": false,
+      "channel": "Waza Brazilian Jiu Jitsu",
+      "duration": 110,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "5J6Gtv1hAMo",
+      "title": "Monoplata Trap System from Guard",
+      "by": "Johnny Jitsu",
+      "vertical": false,
+      "channel": "Johnny Jitsu",
+      "duration": 160,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "DeVb2R8SQL4",
+      "title": "Omoplata From Mount",
+      "by": "Jiu Jitsu With Andy",
+      "vertical": false,
+      "channel": "Jiu Jitsu With Andy ",
+      "duration": 18,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "kXwTSv13ATw",
+      "title": "Omoplata to Monoplata",
+      "by": "Ninjuh Moves",
+      "vertical": false,
+      "channel": "Ninjuh Moves",
+      "duration": 50,
+      "verified": "2026-07-14"
+    }
+  ]
+}

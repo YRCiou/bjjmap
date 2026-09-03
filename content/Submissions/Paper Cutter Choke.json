@@ -1,0 +1,217 @@
+{
+  "name": "Paper Cutter Choke",
+  "description": "Master Paper Cutter Choke in BJJ. Complete guide with safety protocols, setup from side control, execution details and defensive strategies for all levels.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "blood-choke",
+    "side-control",
+    "collar-choke",
+    "gi-technique",
+    "hub",
+    "finishing-guide"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries (bilateral compression)",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 62,
+    "nogi": 62
+  },
+  "variant_uniqueness": "Scissoring collar-and-forearm blood choke from top control",
+  "summary": "The Paper Cutter Choke is a gi blood choke from side control and other top pins, where the attacker feeds a deep cross-collar grip and saws the forearm across the far carotid to force the tap.",
+  "overview": "The Paper Cutter Choke is a highly effective blood choke executed primarily from side control, though it can also be applied from various transitional positions including north-south and turtle. The technique derives its name from the cutting motion of the choking arm across the opponent's neck, similar to how paper is cut with a blade. This submission targets both carotid arteries simultaneously through a combination of the gi collar and the attacker's forearm, creating a powerful constriction that leads to rapid unconsciousness if not defended. The Paper Cutter Choke is particularly dangerous because it can be applied with relatively little warning and often catches opponents by surprise during position transitions. The technique is valued for its mechanical efficiency—once the grip is secured and the angle is correct, very little strength is required to finish. This makes it an excellent submission for practitioners of all sizes and is especially effective against larger, stronger opponents who might resist other collar chokes. The choke is frequently taught as part of side control attack sequences and integrates seamlessly with other submissions like the cross collar choke and arm triangle.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from carotid artery compression",
+        "severity": "High",
+        "recovery_time": "Immediate to 1-2 minutes if released promptly; potential neurological damage if held beyond tap"
+      },
+      {
+        "injury": "Trachea damage from improper angle or excessive force",
+        "severity": "High",
+        "recovery_time": "2-6 weeks for minor bruising; months for severe damage"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress from head rotation",
+        "severity": "Medium",
+        "recovery_time": "1-3 weeks"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum in training, allowing partner to recognize danger and tap",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any verbal distress)",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on mat",
+      "Any distress signal or unusual sound",
+      "Loss of defensive hand fighting (possible unconsciousness)"
+    ],
+    "release_protocol": [
+      "Immediately release the choking collar grip completely",
+      "Remove your forearm from across the neck",
+      "Allow opponent's head to return to neutral position",
+      "Check partner's responsiveness verbally",
+      "If unconscious, position partner on their side in recovery position and monitor breathing",
+      "Never shake or move an unconscious partner roughly"
+    ],
+    "training_restrictions": [
+      "Never apply this choke at competition speed in training",
+      "Never jerk or spike the submission with sudden force",
+      "Always ensure partner has both hands free to tap",
+      "Do not practice on beginners who don't understand blood chokes",
+      "Never continue applying pressure after feeling partner go limp",
+      "Avoid practicing when partner has neck or throat injuries"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Kuzure Kesa-Gatame",
+      "slug": "from-kuzure-kesa-gatame"
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Turtle",
+    "Kesa Gatame",
+    "Modified Scarf Hold",
+    "Knee on Belly",
+    "Gift Wrap"
+  ],
+  "related_submissions": [
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Related collar choke using similar grip mechanics from top position"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Common backup submission when paper cutter is defended"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Alternative head-and-arm choke from similar top control positions"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Complementary front headlock choke sharing neck compression principles"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative gi choke applicable from similar top control positions"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Related collar choke accessible when standard paper cutter is defended"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Closely related technique using similar collar grip mechanics and cutting motion"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Alternative collar-based choke from similar side control positioning"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "High-percentage collar choke sharing gi-dependent finishing mechanics"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary starting position for paper cutter choke setup"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative starting position for paper cutter variation"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Control position that facilitates easier paper cutter setup"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Traditional scarf hold position where paper cutter can be applied"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Related collar choke that uses similar grip mechanics"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Common backup submission when paper cutter is defended"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Complementary attack from side control creating defensive dilemmas"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Alternative collar-based choke from similar positioning"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Related technique using similar collar grip mechanics"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Variation accessible when opponent defends standard paper cutter"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Paper Cutter from North-South",
+      "description": "Instead of side control, establish the collar grip from north-south position. Your body is perpendicular to opponent's, with your head near their hips. Feed your hand deep into their far collar from this angle, then drive your shoulder forward and pull the collar while maintaining north-south pressure. This variation is particularly effective when transitioning from failed mount attacks.",
+      "when_to_use": "When opponent is defending side control effectively but you can transition to north-south; when they turn into you from bottom side control"
+    },
+    {
+      "variation_name": "Paper Cutter from Turtle",
+      "description": "As opponent assumes turtle position, establish a seatbelt or harness grip with your choking hand deep in their far collar. Drive your chest onto their back for pressure, then use your non-choking hand to pull their head back slightly while you pull the collar and drive your forearm across their neck. Can finish from the back or by rolling them to their side.",
+      "when_to_use": "When opponent turtles to defend bottom position; when attacking turtle position and opponent defends back take attempts"
+    },
+    {
+      "variation_name": "Paper Cutter with Gift Wrap",
+      "description": "From side control, secure the gift wrap position where opponent's near arm is trapped across their own body. This immobilizes their primary defensive frame. With their arm controlled, establish your collar grip and finish the paper cutter with reduced defensive options available to your opponent. The gift wrap makes the setup significantly easier.",
+      "when_to_use": "When opponent gives you an overhook on their near arm; when transitioning from other attacks that establish the gift wrap"
+    },
+    {
+      "variation_name": "Reverse Paper Cutter (Clock Choke Variation)",
+      "description": "Establish the collar grip from the opposite side, with your choking hand in the near collar instead of far collar. Transition your position toward their head (similar to clock choke setup), then use your forearm across their neck while pulling the near collar. This variation requires more mobility but can catch opponents who defend the traditional paper cutter well.",
+      "when_to_use": "When opponent defends their far collar effectively; as a combination attack with traditional paper cutter to create dilemma"
+    }
+  ],
+  "clips": [
+    {
+      "id": "AKfEIInO9Tk",
+      "title": "Kesa Gatame to Paper Cutter Choke",
+      "by": "AMAGFightTeam",
+      "vertical": false,
+      "channel": "AMAGFightTeam",
+      "duration": 38,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "5z7hF2YJxeo",
+      "title": "Kesa to Paper Cutter Choke",
+      "by": "Global MMA",
+      "vertical": false,
+      "channel": "global mma",
+      "duration": 112,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "vhFpxC1vCag",
+      "title": "Paper Cutter Choke with Lapel",
+      "by": "Robert Hugus",
+      "vertical": false,
+      "channel": "Robert Hugus BJJ Videos",
+      "duration": 42,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{# BJJ Systems Template V3 - Jinja2 #}
+{# Generates markdown from TEMPLATE.json for system/methodology content #}
+{# A/B Testing: variant-a-show/variant-b-hide CSS classes #}
+
+---
+title: "{{name}} | BJJ System | BJJ Map"
+description: "{{description}}"
+---
+
+{# PostHog A/B Testing Metadata #}
+<body data-content-type="systems">
+
+<!-- Schema Markup - Auto-generated from JSON -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Implement {{name}}",
+  "description": "Step-by-step implementation sequence for {{name}}.",
+  "step": [
+    {%- for step in implementation_sequence[:8] %}
+    {
+      "@type": "HowToStep",
+      "name": "{{step.phase}}",
+      "text": "{{step.description}}",
+      "position": {{loop.index}}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "url": "https://bjjmap.pages.dev/Systems/{{name.replace(' ', '-')}}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Systems", "item": "https://bjjmap.pages.dev/Systems/"},
+    {"@type": "ListItem", "position": 3, "name": "{{name}}", "item": "https://bjjmap.pages.dev/Systems/{{name.replace(' ', '-')}}"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for obstacle in common_obstacles[:6] %}
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: {{obstacle.obstacle}}?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{obstacle.solution}}"
+      }
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+
+{% if summary %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{name}}",
+  "description": "{{summary}}",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Systems/"
+}
+</script>
+{% endif %}
+
+{# Metadata chips — single scannable row (replaces the old filler blockquote + duplicate bold lines) #}
+<div class="principle-meta">
+<span class="meta-chip">{{system_type}}</span>
+<span class="meta-chip">{{difficulty_level}} difficulty</span>
+</div>
+
+{# Flexbox wrapper for A/B testing #}
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+{% set is_plural = name.endswith('s') and not name.endswith('ss') -%}
+## What {{ 'are' if is_plural else 'is' }} {{name}}?
+
+{% if summary %}**{{summary}}**
+
+{% endif -%}
+{{overview}}
+
+</section>
+
+{% set member_count = (related_content | rejectattr('content_type', 'equalto', 'System') | list | length) %}
+{# Only a product whose affiliate_url was OPENED and confirmed to resolve to that exact
+   instructional may render (content/Systems/*.json → link_status: "live", link_checked: date).
+   A missing or non-"live" status renders NOTHING and falls through to the free study section
+   below: a 404 or a guessed link earns nothing and costs trust, so an empty slot is the honest
+   default. Fail-safe by construction — a new product without a verification date cannot ship a
+   CTA. Canonical spec: CLAUDE.md §7 (Systems: product links). #}
+{% set live_products = (products or []) | selectattr('link_status', 'defined') | selectattr('link_status', 'equalto', 'live') | list %}
+{% if live_products %}
+<section id="unlock-this-system" class="content-section product-cards">
+
+## Unlock This System
+
+<p class="section-subtitle">Go deeper with the instructional that built this system.</p>
+
+<!-- PROXIMATE AFFILIATE DISCLOSURE — required HERE, not only in terms.md. FTC 16 CFR Part 255
+     and the UK ASA/CAP code both require it clear, conspicuous and close to the link. Placed
+     above the cards so a reader who scans only the card still sees it. CANONICAL WORDING lives
+     in CLAUDE.md §7; the app CTA in neural/src/app.src.jsx carries the same sentence, and
+     scripts/check_affiliate_surface.py fails the build if the copies drift or if a sponsored
+     link ever renders without its disclosure above it. -->
+<p class="affiliate-disclosure">BJJMap earns a commission if you buy through this link, at no extra cost to you. It never changes what the graph teaches.</p>
+
+<div class="product-cards-grid">
+{% for p in live_products %}
+<article class="product-card" data-product-id="{{ p.id | default('') }}">
+<div class="product-card__holo" aria-hidden="true"></div>
+<div class="product-card__shine" aria-hidden="true"></div>
+{% if p.image %}<div class="product-card__cover"><img src="{{ p.image }}" alt="{{ p.title }}" loading="lazy" width="640" height="360" /><span class="product-card__vendor-badge">{{ p.vendor | default('BJJFanatics') }}</span></div>{% endif %}
+<div class="product-card__body">
+<h3 class="product-card__title">{{ p.title }}</h3>
+{% if p.instructor %}<p class="product-card__instructor">with {{ p.instructor }}</p>{% endif %}
+<span class="product-card__unlocks-badge">Unlocks {{ member_count }} technique{{ 's' if member_count != 1 else '' }} in this system</span>
+{% if p.blurb %}<p class="product-card__blurb">{{ p.blurb }}</p>{% endif %}
+</div>
+<a class="product-card__cta affiliate-link" href="{{ p.affiliate_url | with_utm(name, p.id | default('')) }}" target="_blank" rel="sponsored nofollow noopener" data-affiliate="true" data-product-id="{{ p.id | default('') }}" data-system-slug="systems/{{ name | slugify }}" data-system-name="{{ name }}" data-vendor="{{ (p.vendor | default('bjjfanatics')) | lower }}" data-position="{{ loop.index0 }}">{# NO PRICE IN THE LABEL. price_usd is authored reference data we cannot keep fresh — every
+   value on file was wrong (by up to 3.6x) when checked against the vendor on 2026-08-09, and
+   "Get it · $97" landing on a $349 checkout is the same broken promise as a dead link. The
+   vendor's own page is the only truthful price surface. #}Get the instructional <span class="product-card__cta-arrow" aria-hidden="true">&#8594;</span></a>
+</article>
+{% endfor %}
+</div>
+
+</section>
+{% else %}
+{# NO VERIFIED PRODUCT — the common case (44 of 47 systems). The page must still look finished
+   and still teach, so the slot the product cards would have filled carries the FREE next step
+   instead of an empty region. Deliberately no outbound vendor link: a generic shop URL nobody
+   verified would be exactly the guess this pipeline forbids. #}
+<section id="study-this-system" class="content-section system-study-free">
+
+## How do you drill {{name}}?
+
+<p class="section-subtitle">There's no instructional attached to this system yet &mdash; and you don't need one. It's taught here, free, from the {{member_count}} technique{{ 's' if member_count != 1 else '' }} it strings together.</p>
+
+- **Learn it in order** &mdash; the [implementation sequence](#implementation-sequence) is the path, not a list.
+- **Study each piece** &mdash; every technique in [this system's map](#related-content) has its own page, flashcards and film study.
+- **Then roll it** &mdash; on the [interactive graph](/) these same nodes light up as your game moves through them.
+
+</section>
+{% endif %}
+
+<section id="unlock-graph" class="content-section system-unlock" data-system-unlock hidden>
+
+## Unlock this part of the graph
+
+<p class="section-subtitle">This system teaches the highlighted nodes in the graph. Mark what you already know &mdash; be honest, it's your game.</p>
+
+<div class="system-progress" data-system-progress>
+<svg class="system-progress__ring" viewBox="0 0 44 44" aria-hidden="true"><circle class="system-progress__ring-bg" cx="22" cy="22" r="19"></circle><circle class="system-progress__ring-fill" cx="22" cy="22" r="19"></circle></svg>
+<div class="system-progress__text">You've unlocked <strong class="system-progress__known">0</strong> / <span class="system-progress__total">0</span> techniques in this system</div>
+<button class="system-progress__mark-all" data-mark-system type="button">Mark whole system as known</button>
+</div>
+
+<ul class="system-members" data-system-members></ul>
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Core Principles
+{% for principle in key_principles -%}
+- {{principle}}
+{% endfor %}
+
+</section>
+
+<section id="key-components" class="content-section">
+
+## Key Components
+{% for component in key_components -%}
+**{{component.component_name}}** ({{component.purpose}})
+{{component.description}}
+
+{% endfor %}
+
+</section>
+
+<section id="implementation-sequence" class="content-section">
+
+## Implementation Sequence
+{% for step in implementation_sequence -%}
+{{step.step_number}}. **{{step.phase}}**: {{step.description}}
+{% if step.key_points -%}
+Key points:
+{% for point in step.key_points -%}
+  - {{point}}
+{% endfor %}
+{% endif %}
+
+{% endfor %}
+
+</section>
+
+<section id="common-obstacles" class="content-section hide-minimal">
+
+## What Challenges Will You Face?
+{% for obstacle in common_obstacles -%}
+- **{{obstacle.obstacle}}**: {{obstacle.solution}}
+{% endfor %}
+
+</section>
+
+<section id="assessment-metrics" class="content-section">
+
+## How to Measure Your Progress
+{% for metric in assessment_metrics -%}
+**{{metric.metric_name}}**: {{metric.description}}
+Proficiency indicators:
+{% for indicator in metric.proficiency_indicators -%}
+- {{indicator}}
+{% endfor %}
+
+{% endfor %}
+
+</section>
+
+<section id="training-methodology" class="content-section hide-minimal">
+
+## How to Train This System Effectively
+
+### Drilling Approach
+{{training_methodology.drilling_approach}}
+
+### Progression Path
+{% for stage in training_methodology.progression_path -%}
+**{{stage.stage}}** (Focus: {{stage.focus}}){% if stage.timeframe %} - {{stage.timeframe}}{% endif %}
+{% endfor %}
+
+### Common Mistakes
+{% for mistake in training_methodology.common_mistakes -%}
+- {{mistake}}
+{% endfor %}
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Which Positions, Transitions, and Principles Connect to This System?
+
+{% for item in related_content -%}
+- [[{{ resolve(item.name) }}|{{ item.name }}]] ({{item.content_type}}) - {{item.relationship}}
+{% endfor %}
+
+</section>
+
+</main>

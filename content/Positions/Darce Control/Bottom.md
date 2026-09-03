@@ -1,0 +1,436 @@
+
+
+
+
+---
+title: "Darce Control Bottom | BJJ Position Guide | BJJ Map"
+description: "Master Darce Control from bottom position in BJJ. Learn defensive strategies, escape routes, and counter-attacks. Critical awareness position with systematic escape sequences."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Escapes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Escape Darce Control Bottom",
+  "description": "Step-by-step guide to escaping and defending Darce Control position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Arm Extraction",
+      "text": "From this position, attempt Arm Extraction. This technique is attempted in 20% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Granby Roll to Guard",
+      "text": "From this position, attempt Granby Roll to Guard. This technique is attempted in 9% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Back Door Escape",
+      "text": "From this position, attempt Back Door Escape. This technique is attempted in 13% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Counter Roll to Top",
+      "text": "From this position, attempt Counter Roll to Top. This technique is attempted in 7% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Step Over Escape",
+      "text": "From this position, attempt Step Over Escape. This technique is attempted in 12% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Hip Escape to Guard",
+      "text": "From this position, attempt Hip Escape to Guard. This technique is attempted in 14% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you pulling away from the choke or trying to create distance by extending the neck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creates space for opponent to tighten the choke and establish deeper grip, actually making the submission easier to finish The correct approach is: Move into the choke by turning your body toward opponent's trapped arm, which reduces choking pressure and creates escape angles"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you leaving the trapped arm pinned across the body without immediately working to free it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allows opponent to maintain the arm-in configuration which is essential for Darce effectiveness, making escape nearly impossible The correct approach is: Prioritize extracting the trapped arm using your free hand to pull it out and eliminate the arm-in structure"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you allowing opponent to flatten you completely to your back or side?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gives opponent the positional control needed to fully extend their body and complete the choke with maximum leverage The correct approach is: Maintain some base on your knees or hip, creating frames with your free arm to prevent being completely flattened"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you panicking and making explosive, uncontrolled movements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wastes energy rapidly, may tighten the choke inadvertently, and prevents systematic execution of escape sequences The correct approach is: Stay composed, breathe through the nose, and execute deliberate defensive techniques with proper timing and mechanics"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you neglecting to protect the neck by failing to tuck the chin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allows opponent's choking arm to slide deeper under the jaw and compress carotid arteries more effectively The correct approach is: Keep chin tucked tight to chest, using your jaw and skull structure to block deep penetration of the choke"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Darce Control Bottom",
+  "description": "Master Darce Control from bottom position in BJJ. Learn defensive strategies, escape routes, and counter-attacks. Critical awareness position with systematic escape sequences.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Darce Control Bottom",
+      "item": "https://bjjmap.pages.dev/Positions/Darce-Control-Bottom"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Darce Control (Bottom) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Darce choke defense",
+      "description": "Darce Control (Bottom) film study: Darce choke defense, taught by Animal.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d1YBV8UTKds/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/d1YBV8UTKds",
+      "url": "https://www.youtube.com/watch?v=d1YBV8UTKds",
+      "creator": { "@type": "Person", "name": "Animal" },
+      "duration": "PT53S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Darce escape",
+      "description": "Darce Control (Bottom) film study: Darce escape, taught by Thunderdome BJJ.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iNZpCbutyrM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iNZpCbutyrM",
+      "url": "https://www.youtube.com/watch?v=iNZpCbutyrM",
+      "creator": { "@type": "Person", "name": "Thunderdome BJJ" },
+      "duration": "PT54S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Darce killer: the defense you need",
+      "description": "Darce Control (Bottom) film study: Darce killer: the defense you need, taught by Malachy Friedman.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rgf9QUebMWE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/rgf9QUebMWE",
+      "url": "https://www.youtube.com/watch?v=rgf9QUebMWE",
+      "creator": { "@type": "Person", "name": "Malachy Friedman" },
+      "duration": "PT78S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+Darce Control Bottom represents a critical defensive position where the practitioner is trapped in their opponent's Darce choke grip. This is a high-risk defensive situation requiring immediate and precise defensive actions to prevent the submission from being completed. The bottom player faces significant danger as the opponent has established the distinctive arm-in choke configuration, threading their arm under the near arm and over the far shoulder while securing a grip.
+
+From this compromised position, the defender must focus on creating space, defending the neck, and systematically dismantling the opponent's control points. Success depends on understanding the mechanics of the Darce choke, maintaining composure under pressure, and executing precise defensive sequences. The position commonly arises from turtle, failed takedown attempts, or front headlock scenarios where the top player has successfully secured the choke grip.
+
+While extremely dangerous, Darce Control Bottom is not an inescapable position. Skilled practitioners can recognize the setup early, defend critical control points, and create escape opportunities through proper technique and tactical awareness. The key is preventing the opponent from tightening the choke, maintaining neck alignment, and systematically working to recover to safer positions like turtle, half guard, or even reversing to dominant positions.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Darce Control (Bottom) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=d1YBV8UTKds)
+
+<p class="clip-credit"><strong>Darce choke defense</strong> — taught by Animal · 0:53 · <a href="https://www.youtube.com/watch?v=d1YBV8UTKds" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=iNZpCbutyrM)
+
+<p class="clip-credit"><strong>Darce escape</strong> — taught by Thunderdome BJJ · 0:54 · <a href="https://www.youtube.com/watch?v=iNZpCbutyrM" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=rgf9QUebMWE)
+
+<p class="clip-credit"><strong>Darce killer: the defense you need</strong> — taught by Malachy Friedman · 1:18 · <a href="https://www.youtube.com/watch?v=rgf9QUebMWE" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Darce Control (Bottom)?</p>
+
+- Opponent has threaded their arm under defender's near-side arm and over the far shoulder with hands clasped together in Darce grip configuration near defender's neck creating immediate submission threat
+- Defender's near-side arm is trapped against their own body typically pinned across their torso or neck by opponent's encircling arm creating the arm-in choke structure that enables effective strangulation
+- Defender's head and neck are under significant pressure with opponent's chest or shoulder driving into the back and side of head restricting movement and creating direct choking pressure on carotid arteries
+- Defender is typically on their side or in turtle position with opponent controlling from top position using their body weight to compress the choke mechanism and restrict all escape routes
+- Opponent's grips are locked together in gable grip S-grip or figure-four on the far side of defender's neck with the locked hands positioned to maximize choking leverage when pressure is applied
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Darce Control (Bottom)?</p>
+
+- Opponent has successfully secured Darce grip configuration with arm threaded under near arm
+- Defender's near-side arm is trapped in the choke structure
+- Opponent has established control from turtle, front headlock, or scramble position
+- Defender recognizes the danger and initiates defensive protocol immediately
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Defensive Principles
+
+<p class="section-subtitle">What are the key principles for defending Darce Control?</p>
+
+- Immediate recognition and defensive response - every second counts before choke tightens
+- Protect the neck by keeping chin tucked and creating space between opponent's forearm and carotid arteries
+- Address the trapped arm first - free the near-side arm to eliminate the arm-in configuration that makes the choke effective
+- Create frames and space using free hand against opponent's hip, shoulder, or head to prevent them from flattening you and tightening the choke
+- Move toward the choke not away - stepping over opponent's head or turning into them can relieve pressure and create escape opportunities
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Darce Control (Bottom)?</p>
+
+**If opponent has shallow grip and choke is not yet tight:**
+- Execute **[[Transitions/Arm Extraction/Attacker|Arm Extraction]]** → [[Positions/Turtle]] (Probability: 55%)
+- Execute **[[Transitions/Granby Roll to Guard/Attacker|Granby Roll to Guard]]** → [[Positions/Open Guard]] (Probability: 45%)
+
+
+**If opponent is driving forward to flatten you and tighten choke:**
+- Execute **[[Transitions/Rolling to Guard/Attacker|Rolling to Guard]]** → [[Positions/Half Guard]] (Probability: 50%)
+- Execute **[[Transitions/Back Door Escape/Attacker|Back Door Escape]]** → [[Positions/Turtle]] (Probability: 40%)
+
+
+**If choke is locked deep and opponent has strong positional control:**
+- Execute **[[Transitions/Granby Roll to Guard/Attacker|Granby Roll to Guard]]** → [[Positions/Closed Guard]] (Probability: 40%)
+- Execute **[[Transitions/Counter Roll to Top/Attacker|Counter Roll to Top]]** → [[Positions/Side Control]] (Probability: 30%)
+
+
+**If opponent switches to anaconda configuration or loosens Darce grip:**
+- Execute **[[Transitions/Arm Extraction/Attacker|Arm Extraction]]** → [[Positions/Turtle]] (Probability: 60%)
+- Execute **[[Transitions/Rolling to Guard/Attacker|Rolling to Guard]]** → [[Positions/Half Guard]] (Probability: 40%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Defensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when defending Darce Control?</p>
+
+### 1. Pulling away from the choke or trying to create distance by extending the neck
+
+- ❌ **Consequence**: Creates space for opponent to tighten the choke and establish deeper grip, actually making the submission easier to finish
+- ✅ **Correction**: Move into the choke by turning your body toward opponent's trapped arm, which reduces choking pressure and creates escape angles
+
+### 2. Leaving the trapped arm pinned across the body without immediately working to free it
+
+- ❌ **Consequence**: Allows opponent to maintain the arm-in configuration which is essential for Darce effectiveness, making escape nearly impossible
+- ✅ **Correction**: Prioritize extracting the trapped arm using your free hand to pull it out and eliminate the arm-in structure
+
+### 3. Allowing opponent to flatten you completely to your back or side
+
+- ❌ **Consequence**: Gives opponent the positional control needed to fully extend their body and complete the choke with maximum leverage
+- ✅ **Correction**: Maintain some base on your knees or hip, creating frames with your free arm to prevent being completely flattened
+
+### 4. Panicking and making explosive, uncontrolled movements
+
+- ❌ **Consequence**: Wastes energy rapidly, may tighten the choke inadvertently, and prevents systematic execution of escape sequences
+- ✅ **Correction**: Stay composed, breathe through the nose, and execute deliberate defensive techniques with proper timing and mechanics
+
+### 5. Neglecting to protect the neck by failing to tuck the chin
+
+- ❌ **Consequence**: Allows opponent's choking arm to slide deeper under the jaw and compress carotid arteries more effectively
+- ✅ **Correction**: Keep chin tucked tight to chest, using your jaw and skull structure to block deep penetration of the choke
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Defense
+
+<p class="section-subtitle">How do you train Darce Control defense?</p>
+
+### Darce Defense Progression Drill
+
+Partner establishes Darce grip with varying degrees of tightness (25%, 50%, 75%, full). Practice arm extraction, space creation, and escape sequences from each pressure level. Focus on systematic defense rather than explosive escape attempts. Start with shallow grips and progress to fully locked positions.
+
+**Duration**: 5 minutes per pressure level
+
+
+### Turtle to Darce Defense Flow
+
+Start in turtle position. Partner attempts Darce entry while you defend the underhook and prevent arm trapping. If they succeed in getting the grip, immediately transition to your primary escape sequence. Alternate between successful defenses and practicing escapes from established position. Develops early recognition and defensive timing.
+
+**Duration**: 6 minutes alternating roles
+
+
+### Escape Route Options Drill
+
+Partner holds Darce Control position with moderate resistance. Practice each escape option (arm extraction, step over, rolling to guard, back door, granby roll to guard) individually with proper mechanics. Partner provides feedback on effectiveness of frames, hip movement, and timing. Build muscle memory for multiple escape pathways.
+
+**Duration**: 8 minutes cycling through all escapes
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 42% |
+| Advancement Probability | 48% |
+| Submission Probability | 12% |
+
+**Average Time in Position**: 10-30 seconds before escape or submission
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/Darce Control]]** - Hub position covering both perspectives
+- **[[Submissions/Darce Choke]]** - Primary submission threat from this position
+- **[[Positions/Turtle]]** - Common entry position and primary escape target
+- **[[Positions/Front Headlock]]** - Related defensive position with similar escape mechanics
+- **[[Positions/Anaconda Control]]** - Similar choke defense position with overlapping escape strategies
+- **[[Positions/Guillotine Control]]** - Related front headlock submission defense position
+- **[[Positions/Half Guard]]** - Frequent recovery position after successful escape
+- **[[Positions/Closed Guard]]** - Recovery position after granby roll escape
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Danaher-Front-Headlock-System" data-cta="related-system-card" data-system-slug="systems/danaher-front-headlock-system" data-system-name="Danaher Front Headlock System" data-member-count="30"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Danaher Front Headlock System</span><span class="system-card__unlocks-badge">Unlocks 30 techniques</span><span class="system-card__blurb">Control position for darce choke pathway</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Control System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Tactical-Framework" data-cta="related-system-card" data-system-slug="systems/no-gi-tactical-framework" data-system-name="No-Gi Tactical Framework" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Tactical Framework</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">No-gi specific choke control from multiple positions</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

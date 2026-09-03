@@ -1,0 +1,280 @@
+{
+  "name": "Loop Choke",
+  "description": "Master the Loop Choke in BJJ - deceptive collar choke from guard, mount, side control, turtle. Technical execution with grip mechanics and body positioning.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "gi-technique",
+    "loop-choke",
+    "collar-choke",
+    "mount",
+    "side-control",
+    "guard",
+    "blood-choke"
+  ],
+  "disambiguations": [
+    {
+      "name": "Bow and Arrow Choke",
+      "reason": "the Bow and Arrow Choke uses a collar grip with a leg/lapel pull from the back"
+    }
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries via deep collar grip and body positioning",
+  "starting_position": "Mount",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "Deceptive collar grip disguised as control creates asymmetric blood choke",
+  "summary": "The Loop Choke is a deceptive gi strangle that loops the lapel and your forearm around the opponent's neck like a noose, disguised as a harmless collar tie until you snap their head down to finish.",
+  "overview": "The Loop Choke is a deceptive gi-based blood choke that attacks the carotid arteries through a deep same-side collar grip combined with strategic body positioning and weight distribution. Unlike traditional collar chokes that rely on bilateral compression, the Loop Choke creates asymmetric pressure by threading one hand deep into the opponent's collar while using body weight and positioning to complete the strangle. The technique is particularly effective from closed guard, mount, side control, and turtle positions, where the attacker can control posture and prevent defensive hand fighting.\n\nThe Loop Choke's effectiveness stems from its ability to disguise the attacking grip as a standard control position, allowing practitioners to secure deep collar penetration before the opponent recognizes the submission threat. The classical setup from closed guard involves securing the collar grip, hip escaping to create angle, and pulling the opponent's head into the loop created by the grip and your forearm. From top positions like mount and side control, shoulder pressure replaces the pulling mechanics, driving into the neck while the collar grip completes the circuit.\n\nAdvanced practitioners excel at chaining the Loop Choke with other collar attacks, creating offensive systems where defensive reactions to one threat open pathways to another. The submission requires refined sensitivity to grip depth, angle management, and the ability to maintain control while transitioning through finishing mechanics. The loop choke is one of the most underutilized high-percentage collar attacks in competition, rewarding practitioners who invest in mastering its deceptive entry mechanics.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression leading to loss of consciousness",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential complications if held after unconsciousness"
+      },
+      {
+        "injury": "Neck strain from excessive twisting during finish",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Cervical spine stress from improper rolling mechanics",
+        "severity": "High",
+        "recovery_time": "1-4 weeks depending on severity"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum application time in training, allowing partner clear opportunity to tap",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any verbal signal)",
+      "Physical hand tap on partner or mat (multiple taps clearly felt)",
+      "Physical foot tap on mat or partner",
+      "Any distress signal including unusual sounds or body tension"
+    ],
+    "release_protocol": [
+      "Immediately release collar grip upon feeling tap",
+      "Remove bodyweight pressure and allow partner to breathe freely",
+      "Check partner's awareness and ensure they are conscious and responsive",
+      "Allow 10-15 seconds recovery time before resuming training",
+      "If partner is unconscious, call for instructor assistance immediately and position them in recovery position"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the choke - always apply smooth, progressive pressure",
+      "Never use competition speed or tightness in drilling or light rolling",
+      "Always ensure partner has at least one hand free to tap clearly",
+      "Never hold the choke after feeling a tap or seeing distress signals",
+      "Avoid practicing on partners with known neck injuries without explicit instructor approval"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Closed Guard",
+      "slug": "from-closed-guard"
+    },
+    {
+      "name": "from Half Guard",
+      "slug": "from-half-guard"
+    },
+    {
+      "name": "from Mount",
+      "slug": "from-mount"
+    },
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    },
+    {
+      "name": "from Turtle",
+      "slug": "from-turtle"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Loop Choke from Closed Guard Bottom",
+      "description": "The classical setup where you establish deep collar grip, create angle by hip escaping to the side, and pull opponent's head down while completing the loop. Most common entry point for learning the fundamental mechanics.",
+      "when_to_use": "When opponent maintains posture in closed guard or attempts to stack you. Their forward pressure provides the reaction needed for angle creation."
+    },
+    {
+      "variation_name": "Loop Choke from Mount",
+      "description": "Classical setup from high mount where you establish deep collar grip while controlling opponent's defensive frames with opposite hand. Use mount pressure to limit movement while setting shoulder and head position for the finish.",
+      "when_to_use": "When you have established dominant mount and opponent is defending other submission threats like armbars or Americanas, creating opportunity for collar attack"
+    },
+    {
+      "variation_name": "Loop Choke from Side Control",
+      "description": "Enter from standard side control by securing deep cross-collar grip while maintaining chest pressure. Transition body angle toward north-south direction while driving shoulder pressure into opponent's neck. Often combined with knee-on-belly transition.",
+      "when_to_use": "When opponent is flat and defending underhook battles or guard recovery, making them vulnerable to collar attacks from side control dominance"
+    },
+    {
+      "variation_name": "Loop Choke from Turtle",
+      "description": "Attack turtle position by securing deep collar grip from the side, then rolling opponent toward the grip while maintaining shoulder pressure. Finish in a modified side control position with opponent on their side.",
+      "when_to_use": "When opponent turtles to defend guard passes or other attacks, creating opportunities to attack the exposed collar while controlling their back"
+    },
+    {
+      "variation_name": "Rolling Loop Choke",
+      "description": "Advanced variation where you initiate the choke from guard or half guard, then roll through to complete the submission from top position. Requires precise timing and grip maintenance throughout the rolling sequence.",
+      "when_to_use": "Against opponents who are difficult to sweep conventionally, using the choke as both a sweeping mechanism and a finishing threat"
+    },
+    {
+      "variation_name": "Standing Loop Choke",
+      "description": "Executed when opponent stands in your guard. Use their elevated posture to feed deeper collar grip, then create extreme angle by rotating your body underneath while pulling them down into the loop.",
+      "when_to_use": "Opponent stands to pass your guard. Their standing position provides mechanical advantage for the looping motion and makes defense more difficult."
+    },
+    {
+      "variation_name": "Reverse Loop Choke",
+      "description": "Uses same-side collar grip but loops in opposite direction, typically combined with your leg over their shoulder. Creates unique angle that opponents don't anticipate from standard loop choke defense.",
+      "when_to_use": "When opponent defends standard loop choke effectively. The reverse direction exploits their committed defense in unexpected way."
+    },
+    {
+      "variation_name": "Loop Choke from Half Guard Bottom",
+      "description": "Establish collar grip from half guard bottom position, create angle with underhook and hip escape, then complete loop while using your lockdown or hooks to prevent their escape.",
+      "when_to_use": "Opponent drives forward pressure in half guard. Their weight commitment makes angle creation easier and escape more difficult."
+    }
+  ],
+  "from_positions": [
+    "Mount",
+    "High Mount",
+    "S Mount",
+    "Side Control",
+    "Kesa Gatame",
+    "North-South",
+    "Turtle",
+    "Knee on Belly",
+    "Closed Guard",
+    "Half Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Complementary collar attack creating offensive dilemmas from same grip position"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Alternative collar choke using different grip configuration from similar positions"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative mount finishing option when collar grip is unavailable"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Related lapel choke that chains well when loop choke is defended"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Alternative collar choke transition when opponent defends loop choke by turning"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Similar collar-based blood choke using different finishing mechanics"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Complementary turtle collar attack sharing similar grip mechanics"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Alternative front headlock choke sharing deceptive entry characteristics"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Shoulder pressure choke that can be chained from failed loop choke attempts"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Joint lock threat creating submission dilemmas from mount alongside loop choke"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head-and-arm choke sharing positional overlap from turtle and side control"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Mount",
+      "relationship": "Primary top position for establishing loop choke setups with dominant control"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Alternative attacking position allowing collar access with chest pressure control"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Defensive position vulnerable to loop choke attacks from back exposure"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Complementary collar attack creating offensive combinations and dilemmas"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative mount finishing option when collar grip is unavailable"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Joint lock threat that can be chained with loop choke to create submission dilemmas from mount"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Scarf hold variation providing excellent angle for loop choke application"
+    },
+    {
+      "name": "High Mount",
+      "relationship": "Elevated mount variation offering optimal collar access for loop choke setup"
+    },
+    {
+      "name": "Knee on Belly",
+      "relationship": "Transitional position that can flow into loop choke attack with collar grip"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Alternative collar choke that can be transitioned to when opponent defends loop choke"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Classical bottom position where loop choke is initiated with angle creation and head pull"
+    }
+  ],
+  "clips": [
+    {
+      "id": "ruk0kdlr-Qw",
+      "title": "Alexandre Vieira's Famous Loop Choke",
+      "by": "Alexandre Vieira",
+      "vertical": false,
+      "channel": "FloGrappling",
+      "duration": 85,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "7MTvWfHIHtc",
+      "title": "Loop Choke from Closed Guard",
+      "by": "Mat Life Training Center",
+      "vertical": false,
+      "channel": "Mat Life Training Center",
+      "duration": 89,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "hBKRP0Ss8qk",
+      "title": "Loop Choke from Closed Guard",
+      "by": "ICON Jiu-Jitsu Team",
+      "vertical": false,
+      "channel": "ICON JIU-JITSU TEAM",
+      "duration": 15,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "3sprDpHbCdM",
+      "title": "Loop Choke from Half Guard",
+      "by": "Sickness Ferro",
+      "vertical": false,
+      "channel": "Sickness Ferro",
+      "duration": 197,
+      "verified": "2026-07-14"
+    }
+  ]
+}

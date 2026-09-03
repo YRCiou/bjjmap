@@ -1,0 +1,921 @@
+{
+  "name": "Arm Triangle from Turtle",
+  "description": "Master the arm triangle choke from turtle position in BJJ. Learn setup mechanics, grip transitions, and finishing details for this blood choke attack.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "arm-triangle",
+    "kata-gatame",
+    "blood-choke",
+    "turtle",
+    "finishing-guide",
+    "head-and-arm"
+  ],
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries (compressed by opponent's own shoulder and your arm)",
+  "starting_position": "Turtle",
+  "from_position": "Turtle/Top",
+  "success_rate": {
+    "gi": 62,
+    "nogi": 62
+  },
+  "summary": "The arm triangle from turtle is a head-and-arm blood choke that exploits a turtled opponent's tucked-in arm, trapping their own shoulder against one carotid while your forearm compresses the other, finished after collapsing their four-point base.",
+  "overview": "The arm triangle from turtle exploits the natural arm positioning of a turtled opponent to trap their shoulder against their own neck. When attacking from turtle top, the practitioner threads an arm under the opponent's chin while using chest pressure to drive the near arm tight against the neck, creating a figure-four squeeze that compresses both carotid arteries simultaneously. The turtle position offers a distinct advantage for this entry because the opponent's defensive posture naturally brings their arms close to their head, making the initial arm-trapping phase more accessible than from mount or side control.\n\nThe primary challenge with this variation is generating sufficient finishing pressure while the opponent maintains their four-point turtle base. The attacker must transition the opponent to their side or flatten them completely before the squeeze becomes effective. This typically involves walking the hips toward the opponent while maintaining the locked grip, using shoulder pressure to collapse the turtle structure. The technique chains naturally with other turtle attacks—when opponents defend back takes by tucking elbows tight and lowering their base, they often create the exact arm-and-head alignment needed for the arm triangle entry.\n\nAt the competition level, this submission serves as a powerful secondary attack that punishes opponents for over-defending the back take. The setup appears in high-level no-gi grappling as a complement to anaconda and darce entries from the same position, creating a three-way attacking dilemma that forces the turtled opponent to choose which threat to address.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from blood choke",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential stroke risk if held beyond 10 seconds after unconsciousness"
+      },
+      {
+        "injury": "Neck strain from improper pressure angle",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Shoulder compression injury to trapped arm",
+        "severity": "Medium",
+        "recovery_time": "5-14 days depending on severity"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum from lock to tap. Blood chokes can cause unconsciousness in 6-8 seconds once both carotids are fully occluded.",
+    "tap_signals": [
+      "Verbal tap (say 'tap' clearly)",
+      "Physical hand tap on opponent or mat (multiple rapid taps)",
+      "Physical foot tap on mat (multiple rapid taps)",
+      "Any distress signal or sudden loss of resistance",
+      "Immediately release if opponent goes limp or unresponsive"
+    ],
+    "release_protocol": [
+      "Immediately release arm squeeze and remove head pressure upon any tap signal",
+      "Disengage from opponent's head and shoulders completely",
+      "Allow opponent to recover breathing and orientation for 30-60 seconds",
+      "Check for consciousness, coherent speech, and normal breathing",
+      "If unconscious: place on side in recovery position, elevate legs, monitor breathing continuously until fully conscious"
+    ],
+    "training_restrictions": [
+      "Apply smooth progressive pressure only - never spike or jerk the submission",
+      "Release immediately upon any tap signal without exception",
+      "Always ensure training partner has at least one hand free to tap",
+      "Practice control and positioning before adding finishing pressure",
+      "Stop immediately if opponent's face shows color change indicating excessive pressure"
+    ]
+  },
+  "from_positions": [
+    "Turtle",
+    "Front Headlock"
+  ],
+  "related_submissions": [
+    "Arm Triangle",
+    "Darce Choke",
+    "Anaconda Choke",
+    "Guillotine Choke",
+    "Japanese Necktie"
+  ],
+  "related_content": [
+    {
+      "name": "Turtle",
+      "relationship": "Primary starting position for this submission variant"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Common finishing position after flattening opponent"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Related control position that shares similar head-and-arm mechanics"
+    },
+    {
+      "name": "Darce Control",
+      "relationship": "Alternative head-and-arm control accessible from the same setup"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Primary alternative attack path from turtle top position"
+    }
+  ],
+  "outcomes": [
+    {
+      "to": "game-over",
+      "probability": {
+        "gi": 62,
+        "nogi": 62
+      },
+      "result": "success"
+    },
+    {
+      "to": "Turtle/Top",
+      "probability": {
+        "gi": 25,
+        "nogi": 25
+      },
+      "result": "failure"
+    },
+    {
+      "to": "Closed Guard/Top",
+      "probability": {
+        "gi": 13,
+        "nogi": 13
+      },
+      "result": "counter"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Walkover Arm Triangle",
+      "description": "From turtle top with the arm triangle grip locked, walk over the opponent's body to the far side while maintaining the squeeze. This forces the opponent flat onto their back as your body weight crosses over, eliminating the need to separately flatten them before finishing.",
+      "when_to_use": "When the opponent maintains a strong four-point turtle base and resists being flattened to the near side"
+    },
+    {
+      "variation_name": "Snap-Down to Arm Triangle",
+      "description": "From a front headlock position on the turtled opponent, snap their head down while simultaneously threading your arm deeper under the chin. As they post their hands to resist the snap, drive their near arm into position against their neck using your chest.",
+      "when_to_use": "When you have already circled to a front headlock position and the opponent is defending anaconda or darce entries"
+    },
+    {
+      "variation_name": "Rolling Arm Triangle from Turtle",
+      "description": "After securing the arm triangle grip from turtle top, roll the opponent over their trapped shoulder by driving forward and turning. This rolling motion uses their defensive posture against them, as the tucked position makes them easier to roll. You finish in side control with the choke already locked.",
+      "when_to_use": "When the opponent is balling up defensively and their weight is centered, making them easy to roll"
+    }
+  ],
+  "attacker": {
+    "name": "from Turtle Attacker",
+    "description": "Learn to attack the arm triangle choke from turtle top position. Step-by-step setup, grip mechanics, and finishing details for this high-percentage blood choke.",
+    "overview": "Attacking the arm triangle from turtle requires a methodical approach that combines upper body control with systematic transitions to a finishing position. The key challenge is converting the initial grip setup into a completed choke, since the opponent's four-point base provides structural resistance to the squeeze. The attacker must first establish dominant chest-to-back contact, thread the choking arm while maintaining pressure, lock the figure-four configuration, and then transition the opponent off their base before applying finishing pressure. Success depends on reading the opponent's defensive reactions and choosing the correct flattening method—walking over, driving to the near side, or rolling them—based on their weight distribution and defensive posture.",
+    "key_principles": [
+      "Maintain heavy chest-to-back pressure throughout the setup to limit opponent's defensive options and mobility",
+      "Thread the choking arm deep under the chin before attempting to trap the near arm, ensuring the choke targets the carotid arteries",
+      "Use your chest and shoulder to drive the opponent's arm into their own neck rather than pulling with your arms",
+      "Lock the figure-four grip palm-to-bicep behind the head before attempting any transition to the finishing position",
+      "Transition the opponent off their turtle base before applying finishing pressure, as the four-point base resists the squeeze",
+      "Walk hips toward the opponent during the finish to generate squeeze pressure through structural alignment rather than muscular effort"
+    ],
+    "setup_requirements": [
+      "Chest-to-back contact established with heavy shoulder pressure on opponent's upper back from turtle top",
+      "Near-side arm threaded under opponent's chin with wrist reaching past the far-side carotid artery",
+      "Opponent's near arm trapped between your choking arm and their own neck through chest pressure and positional control",
+      "Figure-four grip locked with palm on bicep and free hand behind opponent's head or neck",
+      "Opponent's posture broken or base compromised enough to begin transition to finishing position"
+    ],
+    "execution_steps": [
+      {
+        "step_number": 1,
+        "action": "Establish dominant turtle top control",
+        "description": "From turtle top, place your chest heavy on the opponent's upper back with your weight driving forward and down at approximately 45 degrees. Control the near-side hip with one hand and establish a collar tie or cross-face with the other. Your chest pressure should limit their ability to move laterally or sit through.",
+        "timing": "2-3 seconds to establish stable control"
+      },
+      {
+        "step_number": 2,
+        "action": "Thread the choking arm under the chin",
+        "description": "Slide your near-side arm under the opponent's chin from the side, reaching across toward the far-side neck. Use a cross-face motion to create the angle, threading your forearm across the throat so your wrist passes the far carotid artery. Maintain chest pressure throughout to prevent the opponent from lifting their head or creating space.",
+        "timing": "2-4 seconds for clean arm insertion"
+      },
+      {
+        "step_number": 3,
+        "action": "Trap opponent's near arm against their neck",
+        "description": "Drive your chest and shoulder into the opponent's near-side arm, pressing it tight against their own neck and your choking forearm. The opponent's shoulder compresses one carotid while your forearm compresses the other. Use your body weight rather than arm strength to maintain the arm-in position, keeping constant pressure so the arm cannot escape.",
+        "timing": "1-2 seconds once arm is positioned"
+      },
+      {
+        "step_number": 4,
+        "action": "Lock the figure-four grip",
+        "description": "Place the palm of your choking hand on your own opposite bicep, then bring your free hand behind the opponent's head or neck to complete the figure-four configuration. Squeeze your elbows together slightly to tighten the initial grip before transitioning. This locked configuration prevents the opponent from stripping your choking arm during the transition phase.",
+        "timing": "1-2 seconds for grip lock"
+      },
+      {
+        "step_number": 5,
+        "action": "Transition opponent off their turtle base",
+        "description": "With the grip secured, begin transitioning the opponent to their side or back. Walk your hips toward their head while driving your shoulder into them, or step over their body to the far side using a walkover motion. The goal is to collapse the four-point turtle base so the opponent ends on their side or back, where the squeeze becomes effective. Follow their body as it turns, maintaining the grip throughout.",
+        "timing": "3-5 seconds for controlled transition"
+      },
+      {
+        "step_number": 6,
+        "action": "Establish side control finishing position",
+        "description": "Once the opponent is on their side or back, settle into a low side control position with your hips close to theirs. Your chest should be heavy on their chest with the trapped arm wedged firmly between your bodies. Sprawl your legs back to generate downward pressure and prevent the opponent from bridging or creating space.",
+        "timing": "2-3 seconds to settle position"
+      },
+      {
+        "step_number": 7,
+        "action": "Apply finishing squeeze",
+        "description": "With the position established, walk your hips toward the opponent's head in small steps while squeezing your elbows together. Drive your choking shoulder forward and down into the trapped arm, compressing both carotid arteries simultaneously. The pressure should be progressive and steady, not explosive. The finish comes from structural pressure through your skeleton, not muscular effort. Monitor for tap signals throughout.",
+        "timing": "3-5 seconds of progressive pressure to finish"
+      }
+    ],
+    "common_counters": [
+      {
+        "counter": "Opponent tucks chin and fights the arm threading under their neck with both hands",
+        "effectiveness": "High",
+        "your_response": "Use cross-face pressure to pry the chin up while maintaining chest weight. If chin remains tucked, transition to a back take or switch to anaconda grip where chin tuck is less effective as a defense.",
+        "targets_outcome": "Turtle/Top"
+      },
+      {
+        "counter": "Opponent attempts explosive standup to break the grip before it locks",
+        "effectiveness": "Medium",
+        "your_response": "Follow their upward movement while maintaining the choking arm position. As they stand, use their momentum to drag them back down or transition to a standing arm triangle finish. Keep hips connected to prevent full separation.",
+        "targets_outcome": "Turtle/Top"
+      },
+      {
+        "counter": "Opponent rolls through to guard to escape the choke and create distance",
+        "effectiveness": "Medium",
+        "your_response": "Maintain the grip through the roll and finish in the new position. If they recover closed guard, the arm triangle is still viable from inside guard with proper head positioning and hip pressure.",
+        "targets_outcome": "Closed Guard/Top"
+      },
+      {
+        "counter": "Opponent extends trapped arm to remove it from the choking configuration",
+        "effectiveness": "Low",
+        "your_response": "Use your chest weight to keep the arm pinned against their neck. If they do extract the arm, immediately switch to a standard guillotine or darce grip since the neck is already exposed and your arm is in position.",
+        "targets_outcome": "Turtle/Top"
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Threading the choking arm too shallow, with the wrist not reaching past the far carotid",
+        "consequence": "The choke becomes a neck crank rather than a blood choke, applying pressure to the trachea instead of the arteries, which is painful but far less effective and more dangerous",
+        "correction": "Ensure your wrist passes completely past the far-side carotid artery before locking the grip. The blade of your forearm should sit across both carotid arteries with the arm deep enough that your bicep contacts the near-side neck."
+      },
+      {
+        "error": "Attempting to finish the choke while opponent maintains turtle base",
+        "consequence": "The four-point base distributes pressure and prevents the structural compression needed to occlude the carotid arteries, resulting in a stalemate where you burn grip energy without finishing",
+        "correction": "Always transition the opponent off their turtle base before applying finishing pressure. Walk them to their side, use a walkover, or roll them before committing to the squeeze."
+      },
+      {
+        "error": "Releasing chest pressure during the arm threading phase to reach under the chin",
+        "consequence": "Creates space for the opponent to sit through, stand up, or turn into you, losing the setup entirely and potentially giving up position",
+        "correction": "Maintain chest-to-back contact throughout by dropping your weight through your shoulder while your arm slides underneath. Your body weight does the pinning while your arm does the threading."
+      },
+      {
+        "error": "Locking the figure-four grip too early before the arm is properly trapped",
+        "consequence": "The opponent's arm is not compressed against their neck, creating a gap that prevents carotid occlusion. The choke feels tight but does not produce a tap",
+        "correction": "Confirm the opponent's near arm is firmly wedged between your forearm and their neck before locking the figure-four. Use your chest to drive the arm in, then lock the grip to secure the configuration."
+      },
+      {
+        "error": "Squeezing with arm muscles instead of using structural shoulder pressure",
+        "consequence": "Rapid fatigue of the arms and forearms without sufficient compression to finish the choke. The opponent can outlast your grip strength and escape when your arms tire",
+        "correction": "Generate finishing pressure by walking your hips toward the opponent's head and driving your shoulder forward through the trapped arm. The squeeze comes from your skeletal structure and body weight, not from bicep contraction."
+      },
+      {
+        "error": "Failing to control opponent's hips during the transition to side control",
+        "consequence": "Opponent shrimps away or turns into you during the transition, recovering half guard or full guard and nullifying the submission attempt",
+        "correction": "Keep your hips connected to the opponent's hips throughout the transition. Use your legs to block their hip movement and sprawl heavy once you reach the finishing position."
+      }
+    ],
+    "training_progressions": [
+      {
+        "phase": "Phase 1: Grip Mechanics",
+        "focus": "Arm threading and figure-four lock",
+        "description": "Practice the arm threading motion and figure-four lock on a compliant partner from turtle top. Focus on proper depth of the choking arm, correct arm-trapping mechanics using chest pressure, and clean grip transitions. Drill 20 repetitions per side with no resistance, emphasizing smooth mechanics and proper forearm placement across the carotid arteries."
+      },
+      {
+        "phase": "Phase 2: Transition Drilling",
+        "focus": "Flattening and side control transition",
+        "description": "With the grip already established, drill the transition from turtle to side control finishing position. Practice the walkover, the near-side drive, and the rolling entry. Partner provides light resistance to their base while you work on collapsing the turtle structure. Focus on maintaining grip integrity throughout the transition."
+      },
+      {
+        "phase": "Phase 3: Full Sequence with Resistance",
+        "focus": "Complete setup-to-finish against graduated resistance",
+        "description": "Run the full sequence from establishing turtle top control through the finish with increasing partner resistance. Partner defends with chin tucks, standup attempts, and guard recovery. Develop the ability to read defensive reactions and choose the appropriate transition method. Start at 30% resistance and increase to 70% over multiple sessions."
+      },
+      {
+        "phase": "Phase 4: Live Integration and Chain Attacks",
+        "focus": "Incorporating arm triangle into turtle attack sequences",
+        "description": "Positional sparring from turtle top where you combine the arm triangle with back takes, anacondas, darces, and other turtle attacks. When opponents defend one attack, flow into the arm triangle as a secondary option. Develop the timing to recognize when the arm triangle opportunity presents itself during live exchanges and execute at competition speed."
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "What anatomical structures does the arm triangle from turtle attack, and how does the opponent's own body contribute to the choke?",
+        "answer": "The arm triangle attacks both carotid arteries simultaneously. Your choking forearm compresses one carotid while the opponent's own trapped shoulder compresses the opposite carotid. The opponent's arm acts as a wedge between your arm and their neck, transmitting your squeezing pressure into the far-side artery. This bilateral compression cuts blood flow to the brain, causing unconsciousness in 6-8 seconds once fully locked.",
+        "safety_critical": false,
+        "answer_line": "Compresses both carotid arteries",
+        "distractors": {
+          "plausible": [
+            "Only crushes the windpipe",
+            "Squeezes one carotid only"
+          ],
+          "trap": [
+            "Crank the neck to force the tap"
+          ]
+        }
+      },
+      {
+        "question": "Why is it necessary to transition the opponent off their turtle base before applying the finishing squeeze?",
+        "answer": "The four-point turtle base distributes the opponent's weight across their hands and knees, creating structural resistance that prevents full carotid occlusion. The base allows the opponent to resist the squeeze by posting and maintaining skeletal alignment. Transitioning them to their side or back eliminates this structural support, allowing your shoulder pressure and body weight to drive directly into the choke configuration and close both arteries effectively.",
+        "safety_critical": false,
+        "answer_line": "Break their base, then squeeze",
+        "distractors": {
+          "plausible": [
+            "Squeeze harder from four points",
+            "Wait for them to tire out"
+          ],
+          "trap": [
+            "Sit back and let them turn in"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent tucks their chin hard when you begin threading the choking arm - what adjustments prevent the stall?",
+        "answer": "Apply cross-face pressure with your free hand to create an angle that lifts their chin. Drive your forearm across the jaw line rather than trying to go under a tightly tucked chin. If the chin remains tucked, use your chest weight to flatten them slightly, which opens space under the chin as their posture changes. You can also switch to a darce or anaconda grip where chin tuck is less effective, then return to the arm triangle once they adjust their defense.",
+        "safety_critical": false,
+        "answer_line": "Cross-face to lift the chin",
+        "distractors": {
+          "plausible": [
+            "Pull harder on the trapped arm",
+            "Wait for the chin to relax"
+          ],
+          "trap": [
+            "Crank their neck against the tuck"
+          ]
+        }
+      },
+      {
+        "question": "What is the correct finishing pressure mechanism, and why should you avoid squeezing primarily with your arms?",
+        "answer": "The correct finishing pressure comes from walking your hips toward the opponent's head while driving your shoulder forward and down through the trapped arm. This uses your skeletal structure and body weight to generate compression rather than muscular effort from your biceps and forearms. Arm squeezing alone causes rapid fatigue and rarely generates enough compression to finish against a resistant opponent. Structural pressure is sustainable and produces significantly more force through leverage.",
+        "safety_critical": false,
+        "answer_line": "Walk hips in, drive shoulder",
+        "distractors": {
+          "plausible": [
+            "Crank with the biceps only",
+            "Lean back to add leverage"
+          ],
+          "trap": [
+            "Post up high and lose the pin"
+          ]
+        }
+      },
+      {
+        "question": "What are the critical safety considerations when applying the arm triangle from turtle in training?",
+        "answer": "Blood chokes can cause unconsciousness in 6-8 seconds once both carotids are fully compressed, so pressure must be applied progressively over 3-5 seconds minimum. Always ensure your training partner has at least one hand free to tap. Release immediately upon any tap signal, verbal indication, or if the opponent goes limp. Never hold the choke after a tap. Monitor for facial color changes indicating excessive pressure. If a partner loses consciousness, place them in recovery position on their side with legs elevated and monitor breathing until they regain consciousness.",
+        "safety_critical": true,
+        "answer_line": "Squeeze slowly, ensure tap access",
+        "distractors": {
+          "plausible": [
+            "Clamp fast to beat the defense",
+            "Release only on a verbal tap"
+          ],
+          "trap": [
+            "Hold the choke until they go limp"
+          ]
+        }
+      },
+      {
+        "question": "How should you release the arm triangle after your partner taps, and what is the recovery protocol if they lose consciousness?",
+        "answer": "Upon any tap signal, immediately release the squeeze by opening your elbows and removing shoulder pressure. Disengage from their head and shoulders completely, giving them space to breathe and recover for 30-60 seconds. If the partner loses consciousness, immediately release the choke, place them on their side in the recovery position, elevate their legs slightly, and monitor breathing continuously. They should regain consciousness within 10-20 seconds. If they do not regain consciousness within 20 seconds, seek medical attention immediately.",
+        "safety_critical": true,
+        "answer_line": "Release fully, recovery position",
+        "distractors": {
+          "plausible": [
+            "Ease off gradually over ten seconds",
+            "Sit them upright right away"
+          ],
+          "trap": [
+            "Maintain the grip until they wake"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent starts rolling through as you lock the arm triangle grip - should you follow or release?",
+        "answer": "Follow the roll while maintaining the figure-four grip. As the opponent rolls, use their momentum to transition with them, often ending in a superior finishing position on the far side. Keep your chest-to-chest connection throughout the roll and your elbows tight to prevent the grip from loosening. The arm triangle remains effective after a roll because the arm-and-shoulder compression does not change with body orientation. Releasing allows the opponent to recover guard for free, wasting your positional advantage.",
+        "safety_critical": false,
+        "answer_line": "Follow the roll, keep the grip",
+        "distractors": {
+          "plausible": [
+            "Base out to stop the roll",
+            "Re-thread the arm mid-roll"
+          ],
+          "trap": [
+            "Open the grip and get reversed"
+          ]
+        }
+      },
+      {
+        "question": "What grip adjustments should you make if the arm triangle is not producing a tap after settling into the finishing position?",
+        "answer": "First, check the depth of your choking arm—your wrist should be past the far-side carotid. If shallow, release the figure-four, re-thread deeper, and relock. Second, confirm the opponent's arm is compressed against their neck by driving your chest into it. Third, walk your hips closer to their head in small steps to tighten the angle. Fourth, lower your head toward the mat on the choking side to increase shoulder pressure. If still ineffective, the forearm may be on the trachea rather than the arteries—re-angle to target the lateral neck.",
+        "safety_critical": false,
+        "answer_line": "Rethread deeper, walk hips in",
+        "distractors": {
+          "plausible": [
+            "Squeeze harder with same grip",
+            "Switch straight to a new choke"
+          ],
+          "trap": [
+            "Push forearm onto the trachea"
+          ]
+        }
+      },
+      {
+        "question": "How does the arm triangle from turtle fit into a broader turtle attack system?",
+        "answer": "The arm triangle serves as a secondary attack that punishes opponents who defend the back take by tucking elbows tight and lowering their head. When they defend the back take, they often position their arm perfectly for the arm triangle entry. It chains with anaconda chokes when the opponent posts their arm forward, darce chokes when they try to turn into you, and guillotines when they lift their head. The three-way threat of arm triangle, anaconda, and darce from turtle top creates a dilemma where defending one attack opens another.",
+        "safety_critical": false,
+        "answer_line": "Chains into anaconda and darce",
+        "distractors": {
+          "plausible": [
+            "Primary attack over the back take",
+            "Best used before they turtle"
+          ],
+          "trap": [
+            "Give up the pin to chase the back"
+          ]
+        }
+      },
+      {
+        "question": "What is the critical first step before attempting the arm triangle from turtle?",
+        "answer": "The critical first step is properly isolating the opponent's near arm by driving their elbow to their own neck using body weight and chest pressure. Without this isolation, the arm triangle structure cannot be established effectively, and the opponent will easily defend by keeping their elbow connected to their body. The isolation must be complete before attempting shoulder penetration.",
+        "answer_line": "Isolate near arm to neck",
+        "distractors": {
+          "plausible": [
+            "Lock the figure-four grip first",
+            "Establish perpendicular angle first"
+          ],
+          "trap": [
+            "Attack the far arm instead"
+          ]
+        }
+      },
+      {
+        "question": "Why is the perpendicular body position essential for finishing the arm triangle from turtle?",
+        "answer": "The perpendicular position is essential because it allows your body weight to amplify the choking pressure against the opponent's carotid arteries. When positioned perpendicular, your chest drives into their trapped shoulder while your shoulder compresses the opposite side of their neck, creating maximum compression on both carotid arteries simultaneously. A parallel or poor angle reduces this compression significantly and allows the opponent to create defensive space.",
+        "answer_line": "Bilateral carotid compression",
+        "distractors": {
+          "plausible": [
+            "Traps the arm more securely",
+            "Stops opponent from standing"
+          ],
+          "trap": [
+            "Only matters for bigger opponents"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent posts their free hand firmly on the mat to block your perpendicular transition - how do you adjust?",
+        "answer": "If the opponent posts effectively with their free arm, you have several options: attack the posting arm with a kimura grip to force them to abandon the post, use their committed base to sweep them to their side while maintaining the arm triangle structure, or temporarily transition to a different front headlock attack before re-attempting the arm triangle when their defense weakens. The key is not to fight directly against their post but rather to use their committed structure against them by threatening a secondary attack that forces them to move the posting hand.",
+        "answer_line": "Kimura grip to force it off",
+        "distractors": {
+          "plausible": [
+            "Wait for them to reposition",
+            "Abandon technique, reset position"
+          ],
+          "trap": [
+            "Fight directly against the post"
+          ]
+        }
+      },
+      {
+        "question": "What is the most common error when applying pressure during the finishing phase?",
+        "answer": "The most common error is relying solely on arm strength to generate choking pressure rather than using proper body mechanics. Effective arm triangle pressure comes from chest expansion, shoulder drive into the neck, perpendicular body positioning, and squeezing the elbows together - not from trying to squeeze with arm muscles alone. Muscular squeezing fatigues quickly and produces inferior results compared to technical, position-based pressure.",
+        "answer_line": "Squeezing with arm strength",
+        "distractors": {
+          "plausible": [
+            "Rushing the perpendicular angle",
+            "Not squeezing hard enough"
+          ],
+          "trap": [
+            "Releasing grip to reset position"
+          ]
+        }
+      },
+      {
+        "question": "What is the optimal timing window for initiating the arm triangle from turtle?",
+        "answer": "The optimal window opens when the opponent's near arm separates from their body, typically during moments of transition such as when they attempt a granby roll, reach for an underhook, try to stand up, or shift their weight forward. These movements naturally create the elbow-to-neck gap needed for isolation. Attempting the arm triangle against a static, tight turtle with elbows glued to knees is significantly lower percentage. Patient pressure that forces the opponent to move and create openings is the key to finding the right timing.",
+        "answer_line": "When their near arm separates",
+        "distractors": {
+          "plausible": [
+            "As soon as turtle is secured",
+            "When they tighten into a ball"
+          ],
+          "trap": [
+            "Force it against a tight shell"
+          ]
+        }
+      },
+      {
+        "question": "What entry conditions must exist before you can realistically attempt this technique?",
+        "answer": "Four conditions must be present: first, you need established chest-to-back pressure from top turtle with your weight driving forward and down; second, the opponent's near arm must be separable from their body through pressure or reaction; third, you need head control via a front headlock or chin-strap grip to prevent the opponent from turning into you; fourth, your hips must be positioned low enough to generate forward driving pressure rather than being high and floating above the opponent. Missing any one of these conditions dramatically reduces the technique's viability.",
+        "answer_line": "Pressure, headlock, low hips, gap",
+        "distractors": {
+          "plausible": [
+            "Just chest-to-back pressure",
+            "Any arm separation works"
+          ],
+          "trap": [
+            "High hips drive more pressure"
+          ]
+        }
+      },
+      {
+        "question": "What specific grip configuration produces the strongest finishing pressure in the arm triangle?",
+        "answer": "The strongest finishing grip is the classic figure-four: your choking arm threads under the opponent's trapped arm and neck, your hand grips your own opposite bicep, and your free hand cups behind the opponent's head pushing it forward into the choke. The elbows must squeeze together tightly with zero gap. This configuration creates a closed loop of pressure where the shoulder compresses one carotid, the trapped arm's bicep compresses the other carotid, and the hand behind the head prevents any escape space. The grip should feel locked rather than relying on forearm strength.",
+        "answer_line": "Figure-four, elbows squeezed tight",
+        "distractors": {
+          "plausible": [
+            "Grip your own wrist, not bicep",
+            "Hands clasped, elbows spread wide"
+          ],
+          "trap": [
+            "Rely on forearm strength to hold"
+          ]
+        }
+      },
+      {
+        "question": "What is the primary direction of force you should generate when finishing the arm triangle?",
+        "answer": "The primary direction of force is inward and downward at approximately a 45-degree angle. Your elbows squeeze inward toward each other to compress the carotid arteries bilaterally, while your chest expands and drives downward through the trapped shoulder to prevent the opponent from creating upward escape space. Simultaneously, the hand behind the head pushes their head forward into the compression. This multi-directional force creates a closing vice effect that is far more effective than squeezing in a single plane.",
+        "answer_line": "Inward and downward, 45 degrees",
+        "distractors": {
+          "plausible": [
+            "Straight down with full weight",
+            "Squeeze elbows, ignore chest"
+          ],
+          "trap": [
+            "Pull straight up and back"
+          ]
+        }
+      },
+      {
+        "question": "Your opponent defends by tucking their chin and keeping elbows extremely tight throughout - what chain attacks should you pursue?",
+        "answer": "Against a tight defensive turtle that denies arm isolation, chain to complementary attacks: first, threaten a darce choke by circling toward the front headlock, which forces the opponent to adjust their elbow position and may open the near arm; second, attempt an anaconda setup by driving their head down, which disrupts their tight shell; third, transition to a back take by inserting hooks when they focus entirely on arm defense. The most effective approach is rapid cycling between these threats, as defending all three simultaneously is extremely difficult, and any defensive adjustment to one attack tends to expose vulnerability to another.",
+        "answer_line": "Cycle darce, anaconda, back take",
+        "distractors": {
+          "plausible": [
+            "Force the arm isolation harder",
+            "Wait passively for them to tire"
+          ],
+          "trap": [
+            "Abandon top position entirely"
+          ]
+        }
+      },
+      {
+        "question": "How does the arm triangle from turtle differ strategically from the arm triangle from side control?",
+        "answer": "The arm triangle from turtle differs in several key ways: it requires generating compression while transitioning from a top turtle position rather than from established side control, timing is more critical as the opponent is in an active defensive posture, the setup involves front headlock control rather than cross-face control, and the transition to the perpendicular finishing position must be executed more dynamically to prevent the opponent from rolling or escaping. Additionally, the turtle variation often catches opponents off-guard as they perceive turtle as a safe defensive position where head-and-arm chokes are less expected than back takes.",
+        "answer_line": "Dynamic setup vs static side control",
+        "distractors": {
+          "plausible": [
+            "Just a different grip variation",
+            "Same technique, new position name"
+          ],
+          "trap": [
+            "Requires less head control here"
+          ]
+        }
+      },
+      {
+        "question": "What should you do if the opponent tucks their near elbow extremely tight to prevent initial arm isolation?",
+        "answer": "If the opponent successfully defends the near-side arm isolation by keeping their elbow tight to their body, you should not force the technique. Instead, switch your attack to the opposite side arm triangle, transition to back control by hooking over their shoulder, attempt other turtle attacks such as the darce or anaconda to fatigue their defense, or use combination attacks to bait them into extending the arm. Forcing a poorly-set arm triangle against tight defensive structure usually results in losing position entirely.",
+        "answer_line": "Switch attacks, don't force it",
+        "distractors": {
+          "plausible": [
+            "Muscle the elbow open by force",
+            "Keep grinding the same side"
+          ],
+          "trap": [
+            "Force it despite tight defense"
+          ]
+        }
+      },
+      {
+        "question": "During the shoulder penetration phase, your opponent begins turning aggressively into you - how do you adapt?",
+        "answer": "When the opponent turns into you during shoulder penetration, use their rotational momentum to your advantage rather than fighting it. If they turn toward the choking arm side, redirect into a guillotine control or anaconda setup since their neck is now exposed from the front. If they turn away, follow their rotation and accelerate it to take their back, as their turning motion helps you circle behind them. The worst response is to resist their turn with opposing force, which creates a stalling battle you may lose. Reading the direction and committing to the appropriate follow-up attack is the hallmark of a skilled turtle top player.",
+        "answer_line": "Flow with rotation, follow it",
+        "distractors": {
+          "plausible": [
+            "Stop the turn using strength",
+            "Reset back to neutral turtle"
+          ],
+          "trap": [
+            "Resist the turn with force"
+          ]
+        }
+      }
+    ],
+    "clips": [
+      {
+        "id": "h4izOHcQh2Y",
+        "title": "Head & Arm Choke from Turtle Position",
+        "by": "Pathfinder Jiu-Jitsu",
+        "vertical": false,
+        "channel": "Pathfinder Jiu-Jitsu Team",
+        "duration": 50,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "nD3qXP4o7GM",
+        "title": "Turtle Attacks: Arm Triangle",
+        "by": "SlothGuard",
+        "vertical": false,
+        "channel": "SlothGuard",
+        "duration": 37,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "KHEJ0DygJvc",
+        "title": "Arm Triangle from Turtle",
+        "by": "BTT Evergreen",
+        "vertical": false,
+        "channel": "BTT Evergreen",
+        "duration": 58,
+        "verified": "2026-07-14"
+      }
+    ]
+  },
+  "defender": {
+    "name": "from Turtle Defender",
+    "description": "Learn to defend and escape the arm triangle choke from turtle. Recognition cues, escape timing, and defensive techniques to prevent the finish.",
+    "overview": "Defending the arm triangle from turtle requires early recognition and immediate action before the attacker can lock the figure-four grip and transition to a finishing position. The defender's priorities shift through three phases: preventing the arm thread, disrupting the grip lock, and escaping if the choke is established. The turtle position offers unique defensive advantages because the four-point base provides structural resistance to the finishing squeeze, buying time that other positions do not. However, the defender must use this time actively rather than passively absorbing pressure. Successful defense combines chin protection, arm extraction techniques, and explosive positional escapes timed to the attacker's transition attempts.",
+    "key_principles": [
+      "Recognize the arm triangle setup early by monitoring for the choking arm threading under your chin and defend before the grip locks",
+      "Keep your chin tucked to your chest as the primary line of defense against the arm threading under your neck",
+      "Fight to extract your trapped arm from the choking configuration before the attacker can lock the figure-four grip",
+      "Use your turtle base structure as resistance against the squeeze while actively working escape sequences",
+      "Time explosive escapes to the moment the attacker transitions off turtle, when their base is most compromised",
+      "Create distance and face the attacker whenever possible, as the arm triangle requires side or back alignment to finish"
+    ],
+    "recognition_cues": [
+      "Attacker's near-side arm begins sliding under your chin from the side while maintaining heavy chest pressure on your back",
+      "Increased chest and shoulder pressure on your upper back as the attacker drives your near arm toward your neck",
+      "Feeling your own arm being compressed against the side of your neck by the attacker's body weight rather than their hands",
+      "Attacker transitions from controlling your hips to focusing entirely on your head and near-side shoulder area",
+      "The distinctive figure-four grip lock behind your head, where you feel the attacker's hands clasping together"
+    ],
+    "defensive_options": [
+      {
+        "action": "Chin tuck and hand fighting to prevent arm threading",
+        "when_to_use": "Early phase when attacker first begins sliding their arm toward your chin—this is the highest-percentage defensive window",
+        "targets_outcome": "Turtle/Top",
+        "if_successful": "Attacker cannot establish the choking arm position and must abandon the arm triangle attempt, returning to standard turtle top control",
+        "risk": "Focusing entirely on chin defense may allow the attacker to switch to a back take or other attack"
+      },
+      {
+        "action": "Arm extraction by swimming the trapped arm free before the grip locks",
+        "when_to_use": "When the choking arm is under your chin but the figure-four is not yet locked—swim your trapped arm forward and away from your neck",
+        "targets_outcome": "Turtle/Top",
+        "if_successful": "Removes the arm-and-shoulder compression that makes the choke effective, forcing the attacker to re-establish or switch attacks",
+        "risk": "The swimming motion may create space that the attacker uses to insert hooks or advance to back control"
+      },
+      {
+        "action": "Sit-through to guard recovery as attacker transitions to finishing position",
+        "when_to_use": "When the attacker begins walking over or driving you to your side to finish—their weight shift creates an opening for the sit-through",
+        "targets_outcome": "Closed Guard/Top",
+        "if_successful": "Recover to closed guard where the arm triangle is far more difficult to finish and you have full guard defense options",
+        "risk": "If the attacker maintains the grip through the sit-through, you may end in a worse finishing position for them"
+      },
+      {
+        "action": "Explosive standup while grip is being established",
+        "when_to_use": "When the attacker lifts their chest pressure slightly during the grip-locking phase, creating a momentary window to drive up to standing",
+        "targets_outcome": "Turtle/Top",
+        "if_successful": "Break free from the turtle position entirely and reset to neutral standing where the arm triangle cannot be maintained",
+        "risk": "If the standup fails, the attacker may follow you up and finish standing or drag you back down with a tighter choke"
+      }
+    ],
+    "escape_paths": [
+      "Chin tuck combined with hand fighting to prevent the initial arm threading, forcing the attacker to abandon the attempt and return to standard turtle control",
+      "Swim the trapped arm forward and out of the choking configuration before the figure-four locks, removing the compression mechanism",
+      "Sit-through to closed guard timed to the attacker's transition off turtle, using their weight shift as the escape window",
+      "Explosive standup through the gap created when the attacker adjusts their grip, breaking the configuration entirely"
+    ],
+    "favorable_outcomes": [
+      {
+        "outcome": "Closed Guard/Top",
+        "how": "Execute a sit-through during the attacker's transition to side control, turning to face them and closing your guard before they can re-establish the choke from the new position"
+      },
+      {
+        "outcome": "Turtle/Top",
+        "how": "Successfully extract the trapped arm or prevent the choking arm from threading under your chin, forcing the attacker to release the attempt and return to standard turtle top pressure"
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Remaining passive in turtle after recognizing the arm triangle setup rather than immediately defending",
+        "consequence": "Allows the attacker to complete the full setup sequence and lock the figure-four grip, after which escape becomes significantly harder",
+        "correction": "React immediately when you feel the arm threading under your chin. Tuck your chin, fight the arm with both hands, and begin escape sequences before the grip locks."
+      },
+      {
+        "error": "Lifting the chin to look up when feeling the arm slide under the neck",
+        "consequence": "Creates a clear path for the choking arm to slide deep under the chin, allowing the attacker to bypass your primary defensive barrier entirely",
+        "correction": "Keep chin tucked firmly to chest whenever you feel any pressure around your neck area. Use your shoulder to press against the attacker's arm rather than looking up."
+      },
+      {
+        "error": "Trying to pull the trapped arm out by reaching backward instead of swimming it forward",
+        "consequence": "The backward pulling motion works against the direction of the trap and actually tightens the choking configuration by driving your shoulder deeper into your own neck",
+        "correction": "Always swim the trapped arm forward and away from your body in a circular motion. Drive the elbow forward first, then extend the arm outward to create the largest escape angle."
+      },
+      {
+        "error": "Flattening out face-down when feeling the choke pressure rather than maintaining turtle structure",
+        "consequence": "Removes the four-point base that provides structural resistance to the squeeze, making the finish significantly easier for the attacker",
+        "correction": "Maintain your turtle structure with knees under hips and hands posting. The four-point base is your best structural defense against the squeeze. If you must leave turtle, go to your side and face the attacker, never go flat."
+      }
+    ],
+    "flashcards": [
+      {
+        "question": "What are the earliest recognition cues that an arm triangle is being set up from turtle, and why is early recognition critical?",
+        "answer": "The earliest cues are the attacker's near-side arm beginning to slide under your chin while their chest pressure increases on your upper back, combined with a shift in control from your hips to your head and shoulder area. Early recognition is critical because the arm triangle setup has distinct phases with decreasing defensive effectiveness—once the figure-four grip locks, escape probability drops dramatically. Defending during the arm-threading phase is far easier than after the grip is established.",
+        "safety_critical": false,
+        "answer_line": "Arm sliding under your chin",
+        "distractors": {
+          "plausible": [
+            "Their hips shifting toward yours",
+            "A knee sliding across your back"
+          ],
+          "trap": [
+            "Ignore it until the squeeze starts"
+          ]
+        }
+      },
+      {
+        "question": "When should you tap to an arm triangle, and what are the proper signals to use?",
+        "answer": "Tap as soon as you feel bilateral pressure on both sides of your neck combined with lightheadedness or vision changes, which indicate carotid compression. Do not wait for pain, as blood chokes can cause unconsciousness without significant pain. Use clear tap signals: multiple rapid hand taps on the opponent or mat, verbal tap statement, or foot taps. If you cannot tap with hands due to the arm being trapped, use verbal tap or foot taps immediately. Never try to tough out a locked arm triangle.",
+        "safety_critical": true,
+        "answer_line": "Tap early, hand or verbal signal",
+        "distractors": {
+          "plausible": [
+            "Wait for sharp pain to build",
+            "Only tap with a free hand"
+          ],
+          "trap": [
+            "Ride it out until you black out"
+          ]
+        }
+      },
+      {
+        "question": "Why does maintaining your turtle base structure help defend against the arm triangle finish?",
+        "answer": "The four-point turtle base distributes your body weight across hands and knees, creating skeletal resistance that counteracts the attacker's squeezing pressure. This structural support prevents full compression of both carotid arteries because your frame absorbs some of the force. When you flatten out, this structural support disappears and your body weight actually assists the compression. The turtle base buys you time to execute escape sequences that would not be available once the base is collapsed.",
+        "safety_critical": false,
+        "answer_line": "Your frame absorbs their squeeze",
+        "distractors": {
+          "plausible": [
+            "Lets you breathe more easily",
+            "Blocks their hips from stepping in"
+          ],
+          "trap": [
+            "Flatten out to buy more time"
+          ]
+        }
+      },
+      {
+        "question": "What defensive options are available at each phase of the arm triangle setup from turtle?",
+        "answer": "During the arm-threading phase, chin tuck and hand fighting are most effective—prevent the arm from getting under your chin. During the grip-locking phase, arm extraction by swimming the trapped arm forward is the primary defense. During the transition phase when the attacker moves to flatten you, explosive sit-throughs or standups exploit their shifting weight. After the choke is fully locked in side control, only bridging toward the trapped arm and walking hips away remain, with low success rates.",
+        "safety_critical": false,
+        "answer_line": "Match defense to the choke phase",
+        "distractors": {
+          "plausible": [
+            "Always sit through immediately",
+            "Bridge hard right from the start"
+          ],
+          "trap": [
+            "Wait passively for a mistake"
+          ]
+        }
+      },
+      {
+        "question": "How should you extract your trapped arm, and why does direction matter?",
+        "answer": "Extract the trapped arm by swimming it forward and away from your body in a circular motion, driving the elbow forward first. Direction matters critically because pulling the arm backward actually tightens the choke—your shoulder drives deeper into your own carotid artery when you retract. The forward swimming motion opens the angle between your shoulder and neck, reducing the compression that makes the choke effective. Think of reaching forward to escape rather than pulling backward.",
+        "safety_critical": false,
+        "answer_line": "Swim elbow forward and away",
+        "distractors": {
+          "plausible": [
+            "Rip elbow up toward the ceiling",
+            "Slide arm out toward your hip"
+          ],
+          "trap": [
+            "Yank the arm straight back"
+          ]
+        }
+      },
+      {
+        "question": "What is the single most important preventive defense against the arm triangle from turtle?",
+        "answer": "Keeping your elbows pinned tightly to the inside of your knees in a compact turtle shell. The entire arm triangle attack depends on isolating your near arm away from your body and driving it to your neck. If the attacker cannot achieve this arm isolation, the technique cannot progress to any subsequent stage. Maintaining tight elbows as your default turtle structure forces the attacker to either abandon the arm triangle or expend significant effort breaking your defensive shell, giving you time to execute escapes.",
+        "answer_line": "Pin elbows tight to knees",
+        "distractors": {
+          "plausible": [
+            "Tuck chin tight to chest",
+            "Post free hand wide for base"
+          ],
+          "trap": [
+            "Extend arms to create space"
+          ]
+        }
+      },
+      {
+        "question": "You feel the attacker's shoulder beginning to thread under your isolated arm - what is your immediate response?",
+        "answer": "Turn aggressively into the attacker by driving your near shoulder into their chest, simultaneously fighting their choking arm at the wrist or elbow with your free hand. The shoulder penetration phase is your last high-percentage defensive window before the grip locks. Turning into them collapses the space needed for deep shoulder penetration and may create enough disruption to extract your trapped arm. Do not wait for the grip to complete - once the figure-four is locked, your options decrease dramatically.",
+        "answer_line": "Turn in, fight the choking arm",
+        "distractors": {
+          "plausible": [
+            "Pull the trapped arm straight back",
+            "Bridge straight up immediately"
+          ],
+          "trap": [
+            "Wait for the grip to fully lock"
+          ]
+        }
+      },
+      {
+        "question": "Why is pulling your head straight backward out of the arm triangle a critical defensive error?",
+        "answer": "Pulling backward aligns your escape force with the attacker's choking force, actually tightening the compression rather than relieving it. The arm triangle works by squeezing inward from both sides of the neck - pulling backward drives your neck deeper into the compression and wastes energy fighting against the strongest axis of the choke. Effective escape requires perpendicular movement: turning into the attacker, circling to the choking arm side, or bridging at a 45-degree angle toward the shoulder. These escape directions collapse the compression angle rather than reinforcing it.",
+        "answer_line": "Aligns with and tightens choke",
+        "distractors": {
+          "plausible": [
+            "Works, but too slowly to matter",
+            "Only fails against strong grips"
+          ],
+          "trap": [
+            "Fastest way to create escape space"
+          ]
+        }
+      },
+      {
+        "question": "At which stage of the arm triangle progression does defense become most difficult, and why?",
+        "answer": "Defense becomes most difficult once the attacker achieves the perpendicular finishing position with a locked figure-four grip. At this stage, the attacker's full body weight amplifies the bilateral carotid compression, the locked grip prevents arm extraction, and the perpendicular angle eliminates most bridging and rolling escape paths. This is why early intervention during the arm isolation or shoulder penetration phases is critical - each successive stage of the progression geometrically reduces available defensive options and increases the energy cost of escape.",
+        "answer_line": "Locked figure-four, perpendicular",
+        "distractors": {
+          "plausible": [
+            "During initial arm isolation",
+            "During shoulder penetration phase"
+          ],
+          "trap": [
+            "Once they achieve mount position"
+          ]
+        }
+      },
+      {
+        "question": "Your attacker has the figure-four locked but has not yet achieved perpendicular angle - what specific escape do you attempt?",
+        "answer": "Post your free hand firmly on the mat and hip escape laterally toward the attacker's choking arm side to prevent them from completing the perpendicular transition. Simultaneously, tuck your chin hard to your chest and work to create a gap in the grip by shrugging your trapped shoulder upward. If you can prevent the perpendicular angle, the attacker cannot generate full finishing pressure from body weight alone and must rely on arm squeeze, which fatigues quickly. Use the denied angle to work your trapped arm free or thread your legs into half guard position.",
+        "answer_line": "Hip escape toward choking arm side",
+        "distractors": {
+          "plausible": [
+            "Hip escape away from that side",
+            "Bridge straight up immediately"
+          ],
+          "trap": [
+            "Stay still and wait it out"
+          ]
+        }
+      },
+      {
+        "question": "How should you direct a bridge escape when the arm triangle is being applied from the perpendicular position?",
+        "answer": "Bridge specifically toward the attacker's choking arm side at approximately a 45-degree angle, not straight up. This direction collapses the compression angle between the shoulder and your trapped arm's bicep, momentarily reducing choking pressure and creating space. A vertical bridge is ineffective because it does not change the compression angle and may actually help the attacker flatten you. The bridge toward the choking arm side disrupts the attacker's base and creates the specific gap needed to either pull your head free or shoot your hips through for guard recovery.",
+        "answer_line": "Bridge 45° toward choking arm",
+        "distractors": {
+          "plausible": [
+            "Bridge straight up with power",
+            "Bridge away from the choking side"
+          ],
+          "trap": [
+            "Go limp to conserve energy"
+          ]
+        }
+      }
+    ],
+    "training_progressions": [
+      {
+        "phase": "Phase 1: Recognition and Chin Defense",
+        "focus": "Identifying the setup and primary chin tuck defense",
+        "description": "Partner slowly initiates the arm triangle from turtle while you practice recognizing the cues and responding with chin tuck and hand fighting. No finishing attempts from the attacker. Focus on developing automatic defensive reactions to the feeling of the arm sliding toward your chin. Drill 15-20 repetitions per side."
+      },
+      {
+        "phase": "Phase 2: Arm Extraction Drilling",
+        "focus": "Swimming the trapped arm free before grip locks",
+        "description": "Partner establishes the arm under the chin but pauses before locking the figure-four. Practice swimming the trapped arm forward and free with increasing resistance. Develop the timing and direction of the arm extraction motion. Partner gradually increases the speed of their grip lock to narrow your defensive window."
+      },
+      {
+        "phase": "Phase 3: Escape Timing During Transitions",
+        "focus": "Sit-throughs and standups during attacker's position changes",
+        "description": "Partner attempts the full sequence including the transition to side control. Practice timing sit-throughs and standup escapes to the moment they shift their weight for the transition. Develop the ability to feel the weight shift and explode into the escape at the optimal moment. Alternate between sit-through to guard and standup escapes."
+      },
+      {
+        "phase": "Phase 4: Live Defense Integration",
+        "focus": "Defending against full-speed arm triangle attempts",
+        "description": "Positional sparring from turtle bottom against a partner who mixes arm triangle attempts with back takes and other attacks. Develop the ability to distinguish arm triangle setups from other attacks in real time and apply the correct defensive response. Build confidence in the defensive sequence from recognition through escape at increasing intensity."
+      }
+    ],
+    "clips": [
+      {
+        "id": "LTGHO-aRBxw",
+        "title": "Head and Arm Escape from Turtle",
+        "by": "Chosen Few BJJ",
+        "vertical": false,
+        "channel": "Chosen Few BJJ",
+        "duration": 78,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "n_2zR6BaF8A",
+        "title": "The Best Arm-Triangle Escape",
+        "by": "ZombieProofBJJ",
+        "vertical": false,
+        "channel": "ZombieProofBJJ",
+        "duration": 58,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "Fx6qjR6a_xE",
+        "title": "3 Arm Triangle Choke Defenses",
+        "by": "MMA Leech",
+        "vertical": false,
+        "channel": "MMA Leech",
+        "duration": 274,
+        "verified": "2026-07-14"
+      }
+    ]
+  }
+}

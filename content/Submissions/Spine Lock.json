@@ -1,0 +1,220 @@
+{
+  "name": "Spine Lock",
+  "description": "Master the Spine Lock submission in BJJ. Learn advanced spinal compression techniques from truck and twister control positions targeting the lumbar spine.",
+  "summary": "The Spine Lock is a compression submission family from the 10th Planet truck and twister positions that bends or torques the opponent's spine beyond its safe range, forcing a tap through whole-column pressure rather than isolating a single joint.",
+  "tags": [
+    "bjj",
+    "submission",
+    "compression",
+    "spine-lock",
+    "advanced",
+    "10th-planet",
+    "truck",
+    "twister-system",
+    "spinal-compression"
+  ],
+  "aliases": [
+    "Spinal Lock"
+  ],
+  "is_family": true,
+  "submission_category": "Compression",
+  "submission_type": "Spinal Compression",
+  "target_area": "Lumbar spine, thoracic vertebrae, spinal column",
+  "starting_position": "Truck",
+  "from_position": "Truck/Top",
+  "success_rate": {
+    "gi": 40,
+    "nogi": 40
+  },
+  "variant_uniqueness": "Vertebral compression creates systemic spinal pressure",
+  "overview": "The Spine Lock is an advanced spinal compression submission that targets the opponent's vertebral column through hyperextension and rotational pressure. Popularized within the 10th Planet system, this technique creates extreme discomfort through mechanical pressure on the spine rather than joint manipulation. The submission is primarily accessed from the Truck position, where the attacker controls one leg while the opponent's body is inverted and vulnerable. The Spine Lock exemplifies the principle of using body positioning and leverage to create inescapable pressure without relying on limb isolation. This technique requires exceptional body awareness, precise control, and absolute commitment to safety protocols due to the vulnerability of the spinal column.\n\nThe effectiveness of the Spine Lock comes from the combination of hip pressure driving into the opponent's lower back while maintaining rotational control that prevents escape. Unlike joint locks that target a single articulation point, spinal compression affects multiple vertebrae simultaneously, creating a compound pressure that is difficult to defend once fully established. The technique is particularly effective in no-gi competition where traditional gi-based controls are unavailable and modern leg entanglement systems dominate.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Lumbar spine strain or disc herniation",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months or permanent damage"
+      },
+      {
+        "injury": "Thoracic vertebrae compression fracture",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months with surgical intervention possible"
+      },
+      {
+        "injury": "Spinal nerve impingement",
+        "severity": "High",
+        "recovery_time": "2-4 months with potential neurological complications"
+      },
+      {
+        "injury": "Muscle tears in erector spinae group",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum with constant communication",
+    "tap_signals": [
+      "Verbal tap (primary - opponent may have limited hand mobility)",
+      "Repeated foot tapping",
+      "Hand tap on own body or mat",
+      "Any vocalization of distress",
+      "Immediate cessation if opponent stops moving"
+    ],
+    "release_protocol": [
+      "Immediately reduce hip pressure and stop driving forward",
+      "Release rotational control by unwinding opponent's body",
+      "Remove leg control and allow opponent to return to neutral position",
+      "Check opponent's mobility and pain level before continuing training",
+      "Never release explosively - maintain control throughout unwinding process"
+    ],
+    "training_restrictions": [
+      "NEVER apply full pressure in training - use 20-30% maximum pressure",
+      "Never spike or jerk the submission - all pressure must be gradual",
+      "Never practice on opponents with pre-existing back injuries without medical clearance",
+      "Always maintain verbal communication throughout application",
+      "Prohibited for white belts - minimum blue belt requirement with direct supervision",
+      "Never combine with sudden twisting movements",
+      "Always allow opponent access to tap signals"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Truck",
+      "slug": "from-truck",
+      "description": "Primary spine lock entry from Truck position using hip drive and leg control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Twister to Spine Lock transition",
+      "description": "From Twister control position, if opponent defends the neck or you cannot secure the face crank, transition pressure to pure spinal compression by maintaining leg control and adjusting hip position to drive into lower back.",
+      "when_to_use": "When opponent successfully defends Twister grip on upper body but remains trapped in leg control"
+    },
+    {
+      "variation_name": "Calf Slicer to Spine Lock combination",
+      "description": "Begin with calf slicer pressure on trapped leg from Truck. If opponent is flexible or tough and doesn't tap to leg compression, maintain position and transition to spine lock by shifting hip pressure to their lower back while keeping leg secured.",
+      "when_to_use": "Against flexible opponents who can tolerate calf compression but are vulnerable to spinal pressure"
+    },
+    {
+      "variation_name": "Electric Chair to Spine Lock",
+      "description": "From Electric Chair position in half guard, if sweep is defended, transition to Truck and establish spine lock by maintaining leg control while inverting opponent and applying spinal compression.",
+      "when_to_use": "When opponent posts and prevents Electric Chair sweep, creating opportunity for back exposure"
+    }
+  ],
+  "from_positions": [
+    "Truck",
+    "Twister Control",
+    "Turtle",
+    "Back Control",
+    "Crucifix",
+    "Rodeo Ride",
+    "Crab Ride"
+  ],
+  "related_submissions": [
+    {
+      "name": "Twister",
+      "relationship": "Related spinal rotation submission from same control positions in 10th Planet system"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Complementary leg compression that chains with spine lock from Truck position"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Alternative groin and hip submission available from Truck control"
+    },
+    {
+      "name": "Boston Crab",
+      "relationship": "Related spinal compression submission using backward bending mechanics"
+    },
+    {
+      "name": "Can Opener",
+      "relationship": "Cervical spine compression technique from closed guard"
+    },
+    {
+      "name": "Crotch Ripper",
+      "relationship": "Related compression submission targeting groin from similar entanglement positions"
+    },
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Primary choking alternative available from back control transitions"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Back control choke that chains with truck entries and spine lock setups"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Arm attack accessible during spine lock position transitions"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Shoulder lock available during truck and back control sequences"
+    },
+    {
+      "name": "Neck Crank from Twister Control",
+      "relationship": "Related cervical spine submission with similar safety considerations"
+    },
+    {
+      "name": "Electric Chair",
+      "relationship": "10th Planet submission from half guard connecting to truck and spine lock entries"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Truck",
+      "relationship": "Primary attacking position for spine lock setup and control"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Alternative finishing position that combines with spine compression"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Common starting position for Truck entry and spine lock sequence"
+    },
+    {
+      "name": "Calf Slicer",
+      "relationship": "Complementary submission that chains with spine lock from Truck position"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Alternative control position if Truck is defended during spine lock attempt"
+    },
+    {
+      "name": "Twister",
+      "relationship": "Related spinal submission with rotational cervical component"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Alternative leg-based submission from Truck position"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Control position with similar back exposure that can transition to spine lock"
+    },
+    {
+      "name": "Electric Chair",
+      "relationship": "Half guard position that can lead to Truck and spine lock entries"
+    }
+  ],
+  "clips": [
+    {
+      "id": "sCBGkcJCQYY",
+      "title": "The Truck in Transition",
+      "by": "Eddie Bravo",
+      "vertical": false,
+      "channel": "Eddie Bravo",
+      "duration": 61,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "Y693ZHlCd2Q",
+      "title": "Two Entries Into the Truck",
+      "by": "Geo Martinez",
+      "vertical": false,
+      "channel": "FloGrappling",
+      "duration": 100,
+      "verified": "2026-07-14"
+    }
+  ]
+}

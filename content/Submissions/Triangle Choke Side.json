@@ -1,0 +1,198 @@
+{
+  "name": "Triangle Choke Side",
+  "description": "Master Triangle Choke Side from top position in BJJ. Complete safety guide covering setup from side control, execution mechanics, and defense patterns.",
+  "summary": "The Triangle Choke Side is a blood choke applied from a top position like side control or north-south, trapping one of the opponent's arms across their neck while the attacker's legs form a perpendicular triangle to compress the carotid arteries.",
+  "tags": [
+    "bjj",
+    "submission",
+    "triangle-choke",
+    "blood-choke",
+    "side-control",
+    "guard",
+    "advanced-technique",
+    "top-position",
+    "perpendicular-angle"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and jugular veins",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Standing Position",
+    "Kesa Gatame"
+  ],
+  "success_rate": {
+    "gi": 59,
+    "nogi": 59
+  },
+  "overview": "The Triangle Choke Side (also called Side Triangle or Kata Gatame Triangle) is an advanced variation of the traditional triangle choke executed from top positions, most commonly from side control or north-south transitions. Unlike the standard triangle from guard where the defender is between the attacker's legs, the side triangle traps one of the opponent's arms across their own neck while the attacker's legs create the choking mechanism from a perpendicular angle.\n\nThis submission represents a sophisticated understanding of triangle mechanics, as it requires precise leg positioning and body angle adjustments that differ significantly from the bottom triangle. The side triangle often emerges opportunistically when opponents defend traditional side control attacks by creating frames or attempting to turn into the attacker. The choke's effectiveness comes from the ability to isolate one arm while using it as a wedge against the opponent's own carotid artery.\n\nThe side triangle is particularly valuable in no-gi grappling and MMA contexts where traditional collar chokes are unavailable, and it serves as an excellent counter to common defensive reactions from bottom positions. Mastery of this technique demonstrates advanced technical knowledge and the ability to recognize and capitalize on dynamic positional transitions.",
+  "variant_uniqueness": "Perpendicular triangle angle from top position",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression causing unconsciousness",
+        "severity": "CRITICAL",
+        "recovery_time": "Immediate with proper release; potential for concussion if unconscious"
+      },
+      {
+        "injury": "Neck strain from torque and pressure",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Shoulder hyperextension from trapped arm",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks with proper care"
+      },
+      {
+        "injury": "Jaw compression and TMJ stress",
+        "severity": "Low",
+        "recovery_time": "2-5 days"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum application time in training. Blood chokes can cause unconsciousness in 3-8 seconds under competition pressure.",
+    "tap_signals": [
+      "Verbal tap (any vocal signal)",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap on mat",
+      "Any distress signal or change in breathing pattern",
+      "Loss of resistance or body tension"
+    ],
+    "release_protocol": [
+      "Immediately release leg pressure and open triangle configuration",
+      "Remove all pressure from neck and trapped arm",
+      "Allow opponent to turn head to restore blood flow",
+      "Check partner's consciousness and breathing immediately",
+      "If unconscious: elevate legs, monitor airway, ensure medical attention if needed",
+      "Never apply additional pressure after tap signal",
+      "Maintain awareness of partner's neck angle throughout release"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the submission - always apply gradual, controlled pressure",
+      "Never use competition-speed application in training scenarios",
+      "Always ensure partner has at least one hand free to tap",
+      "Never practice on partners with pre-existing neck, jaw, or shoulder injuries without explicit clearance",
+      "White belts should only practice with supervision and on willing, experienced partners",
+      "Stop immediately at any sign of partner distress beyond normal defensive reactions"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "North-South Triangle",
+      "description": "Applied from north-south position when opponent turns their head to one side, creating opportunity to trap their arm and swing legs over from a 180-degree position rather than side control. This variation requires more dynamic movement but catches opponents who defend traditional north-south attacks.",
+      "when_to_use": "When you have north-south control and opponent is actively turning their head or framing with their near arm, creating the arm isolation opportunity. Particularly effective against opponents who are comfortable defending standard north-south kimura or choke attacks."
+    },
+    {
+      "variation_name": "Scramble Triangle from Failed Guard Pass",
+      "description": "Opportunistic application when your guard pass attempt is being defended but opponent's defensive frames create an arm across their body. As the position becomes dynamic and both players are transitioning, recognize the trapped arm and capitalize with triangle entry even from non-standard angles.",
+      "when_to_use": "During dynamic scrambles or transitions when opponent's defensive reactions (pushing your hips, framing on your shoulder) naturally position their arm across their centerline. Requires excellent situational awareness and ability to capitalize on fleeting opportunities."
+    },
+    {
+      "variation_name": "Modified Side Triangle with Arm Triangle Grip",
+      "description": "Hybrid variation that combines triangle leg position with arm triangle (kata gatame) upper body mechanics. Use your arm to thread under opponent's head and grab your own bicep while legs maintain triangle lock, creating dual compression from both arms and legs.",
+      "when_to_use": "When traditional triangle pressure is insufficient due to opponent's neck size, defensive hand position, or body type. The added arm pressure increases finishing rate but requires strong shoulder endurance and grip strength."
+    }
+  ],
+  "related_submissions": [
+    {
+      "name": "Triangle Choke",
+      "relationship": "Traditional bottom variation sharing core triangle mechanics but executed from closed guard rather than top position"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Similar blood choke from top position that can be combined with side triangle mechanics when arm is trapped across neck"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Alternative shoulder lock available when opponent defends triangle by extracting their trapped arm from side control"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative arm attack when triangle setup creates arm isolation opportunities from perpendicular angle"
+    },
+    {
+      "name": "North-South Choke",
+      "relationship": "Alternative blood choke from top position accessible via north-south transition during triangle attempts"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Head and arm choke with similar perpendicular mechanics and shared defensive reactions from bottom player"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Related front headlock blood choke accessible when opponent defends by turning into attacker"
+    },
+    {
+      "name": "Rear Triangle Choke",
+      "relationship": "Triangle variation from back control using rear-mounted leg configuration rather than side angle"
+    },
+    {
+      "name": "Inverted Triangle",
+      "relationship": "Bottom-up triangle variation with inverted body positioning and different leg entry mechanics"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Triangle Choke",
+      "relationship": "Traditional bottom variation - shares finishing mechanics but different angle and entry"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Primary starting position for this submission"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative starting position for north-south triangle variation"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Similar blood choke from top position that can be combined with side triangle mechanics"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Alternative submission when opponent defends by extracting trapped arm from side control"
+    },
+    {
+      "name": "Triangle Control",
+      "relationship": "Control position used to maintain and finish the triangle"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative attack when triangle setup creates arm isolation opportunities from side control"
+    },
+    {
+      "name": "Mounted Triangle",
+      "relationship": "Related triangle control variation from mount position"
+    }
+  ],
+  "clips": [
+    {
+      "id": "oyXaGXU3mFU",
+      "title": "Rear Triangle from Side Control",
+      "by": "Onyx Martial Arts",
+      "vertical": false,
+      "channel": "Onyx Martial Arts Edmundston ",
+      "duration": 77,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "NA50Ay8yL1k",
+      "title": "Triangle from Side Control",
+      "by": "Ricardo Marques",
+      "vertical": false,
+      "channel": "Bernardo Faria BJJ Fanatics",
+      "duration": 258,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+
+
+
+
+---
+title: "Body Lock Top | BJJ Position Guide | BJJ Map"
+description: "Master body lock control from top position. Dominant standing control for mat returns, back takes, throws, and positional advancement with 78% advancement rate."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Attacks -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Attack from Body Lock Top",
+  "description": "Step-by-step guide to attacking and submitting from Body Lock position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Back Take",
+      "text": "From this position, attempt Back Take. This technique is attempted in 18% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Snap Down to Front Headlock",
+      "text": "From this position, attempt Snap Down to Front Headlock. This technique is attempted in 8% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Tani Otoshi",
+      "text": "From this position, attempt Tani Otoshi. This technique is attempted in 9% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Kosoto Gake",
+      "text": "From this position, attempt Kosoto Gake. This technique is attempted in 11% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Mat Return to Back Mount",
+      "text": "From this position, attempt Mat Return to Back Mount. This technique is attempted in 12% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Harai Goshi",
+      "text": "From this position, attempt Harai Goshi. This technique is attempted in 3% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you failing to drive hips forward immediately after locking hands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent maintains upright posture and strong base, reducing your control advantage and giving them time to establish effective defenses The correct approach is: Drive hips forward with progressive pressure from the instant you lock hands, forcing opponent's weight backward and breaking their posture within first second"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you breaking locked hands before securing next dominant position?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Loses primary control mechanism before establishing new control, allowing opponent to escape or counter-attack effectively The correct approach is: Maintain locked grip throughout entire attacking sequence until new dominant position is fully secured with alternative control mechanisms"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you leaving space between chest and opponent's back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creates gap that opponent exploits to establish frames, turn into you, or create distance for escape The correct approach is: Drive chest tightly into opponent's back immediately upon locking hands, eliminating all space and maintaining tight connection throughout"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you hesitating or waiting too long before executing attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Body lock is transitional position - delaying attack allows opponent time to establish defenses, break grips, or escape entirely The correct approach is: Have predetermined attack based on opponent's position and execute within 1-2 seconds of establishing lock"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you improper head positioning too far back or forward from opponent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reduces overall control, makes you vulnerable to head control counters, and decreases power for throwing techniques The correct approach is: Position head tight to underhook side with temple against opponent's shoulder, creating tight connection and proper angle for attacks"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Body Lock Top",
+  "description": "Master body lock control from top position. Dominant standing control for mat returns, back takes, throws, and positional advancement with 78% advancement rate.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Body Lock Top",
+      "item": "https://bjjmap.pages.dev/Positions/Body-Lock-Top"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Body Lock (Top) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Nicky Rod\u0027s body lock pass demo",
+      "description": "Body Lock (Top) film study: Nicky Rod\u0027s body lock pass demo, taught by Professor Buck.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sztjmLZYxIQ/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/sztjmLZYxIQ",
+      "url": "https://www.youtube.com/watch?v=sztjmLZYxIQ",
+      "creator": { "@type": "Person", "name": "Professor Buck" },
+      "duration": "PT38S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Body lock takedown from standing",
+      "description": "Body Lock (Top) film study: Body lock takedown from standing, taught by Sean Sherk.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/91Fgpe788no/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/91Fgpe788no",
+      "url": "https://www.youtube.com/watch?v=91Fgpe788no",
+      "creator": { "@type": "Person", "name": "Sean Sherk" },
+      "duration": "PT73S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Nicky Rod explains his body lock pass",
+      "description": "Body Lock (Top) film study: Nicky Rod explains his body lock pass, taught by Nicky Rodriguez.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/spB8qALp5rA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/spB8qALp5rA",
+      "url": "https://www.youtube.com/watch?v=spB8qALp5rA",
+      "creator": { "@type": "Person", "name": "Nicky Rodriguez" },
+      "duration": "PT221S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+Body Lock Top is one of the most dominant control positions in standing grappling, where you wrap both arms completely around your opponent's torso and lock your hands together, creating unified control over their center of mass and movement. This position provides immediate pathways to back control through mat returns, various throwing techniques, or transitions to other dominant ground positions. The body lock eliminates your opponent's ability to create distance, establish defensive grips, or execute their own offensive techniques, forcing them into a series of defensive choices where all options lead to disadvantageous positions.
+
+The effectiveness of the body lock stems from its biomechanical superiority - by creating a closed kinetic chain with your locked hands and chest-to-back connection, you can transfer force from your legs through your hips directly into your opponent's center of gravity with maximum efficiency. This mechanical advantage allows you to control when and how the engagement goes to the ground, which is the fundamental objective of all standing grappling exchanges. Your opponent must simultaneously defend against back takes, throws, and mat returns, but cannot effectively defend all three, creating a forced decision tree where every defensive choice opens different offensive opportunities.
+
+Modern no-gi competition has elevated the body lock to a primary offensive weapon, with elite competitors using systematic approaches to establish this control and transition to back control or dominant ground positions. The position requires proper execution of grip mechanics, hip pressure, chest connection, and immediate attack timing to maximize effectiveness before opponents can establish defensive measures.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Body Lock (Top) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=sztjmLZYxIQ)
+
+<p class="clip-credit"><strong>Nicky Rod&#39;s body lock pass demo</strong> — taught by Professor Buck · 0:38 · <a href="https://www.youtube.com/watch?v=sztjmLZYxIQ" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=91Fgpe788no)
+
+<p class="clip-credit"><strong>Body lock takedown from standing</strong> — taught by Sean Sherk · 1:13 · <a href="https://www.youtube.com/watch?v=91Fgpe788no" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=spB8qALp5rA)
+
+<p class="clip-credit"><strong>Nicky Rod explains his body lock pass</strong> — taught by Nicky Rodriguez · 3:41 · <a href="https://www.youtube.com/watch?v=spB8qALp5rA" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Body Lock (Top)?</p>
+
+- Both arms wrapped completely around opponent's torso with hands locked behind their back using gable grip, rear naked choke grip, or similar locked configuration that cannot easily be broken
+- Chest pressed firmly against opponent's back or upper torso, eliminating all space between bodies and preventing them from creating distance or turning to face you
+- Head positioned strategically to the side of opponent's head, typically on underhook side, with temple or ear against their shoulder area to prevent their head control attempts and enhance throwing angle
+- Hips driven forward and upward into opponent's hips, breaking their posture backward and controlling their center of gravity while you maintain stable, athletic stance
+- Wide base with knees bent and weight distributed through balls of feet, allowing explosive movement for throws, mat returns, or transitions while resisting opponent's escape attempts
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Body Lock (Top)?</p>
+
+- Successful grip fighting exchange resulting in ability to penetrate both arms around opponent's torso
+- Close proximity to opponent with no defensive frames separating your bodies
+- Opponent in standing or turtle position where back exposure is available
+- Elimination of opponent's defensive grips that would prevent arm penetration and lock establishment
+- Strong hip position with ability to drive forward pressure immediately upon locking grip
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Offensive Principles
+
+<p class="section-subtitle">What are the key principles for attacking from Body Lock?</p>
+
+- Lock hands immediately when both arms are around opponent - delay allows defensive hand fighting
+- Drive chest into opponent's back instantly to eliminate all space and prevent frame creation
+- Position head to underhook side against opponent's shoulder for control and throwing angle
+- Drive hips forward constantly with progressive pressure to break opponent's posture backward
+- Attack within 1-2 seconds of establishing lock - position is transitional and cannot be held long
+- Read opponent's defensive reactions and flow between mat returns, throws, and back takes accordingly
+- Maintain locked grip throughout entire technique execution until new dominant position is secured
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Body Lock (Top)?</p>
+
+**If opponent maintains strong upright posture and resists backward pressure:**
+- Execute **[[Transitions/Tani Otoshi/Attacker|Tani Otoshi]]** → [[Positions/Side Control]] (Probability: 55%)
+- Execute **[[Transitions/Snap Down to Front Headlock/Attacker|Snap Down to Front Headlock]]** → [[Positions/Front Headlock]] (Probability: 45%)
+
+
+**Else if opponent's posture breaks backward under hip pressure:**
+- Execute **[[Transitions/Mat Return to Back Mount/Attacker|Mat Return to Back Mount]]** → [[Positions/Back Control]] (Probability: 75%)
+- Execute **[[Transitions/Body Lock Pass/Attacker|Body Lock Pass]]** → [[Positions/Side Control]] (Probability: 70%)
+
+
+**Else if opponent attempts to sit or pull guard:**
+- Execute **[[Follow to Closed Guard Top/Attacker|Follow to Closed Guard Top]]** → [[Positions/Closed Guard]] (Probability: 65%)
+- Execute **[[Transitions/Back Take/Attacker|Back Take]]** → [[Positions/Back Control]] (Probability: 55%)
+
+
+**Else if opponent creates frames or attempts to break grip:**
+- Execute **[[Increase hip pressure and re-lock/Attacker|Increase hip pressure and re-lock]]** → [[Positions/Body Lock]] (Probability: 60%)
+- Execute **[[Transitions/Kosoto Gake/Attacker|Kosoto Gake]]** → [[Positions/Side Control]] (Probability: 50%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Offensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when attacking from Body Lock?</p>
+
+### 1. Failing to drive hips forward immediately after locking hands
+
+- ❌ **Consequence**: Opponent maintains upright posture and strong base, reducing your control advantage and giving them time to establish effective defenses
+- ✅ **Correction**: Drive hips forward with progressive pressure from the instant you lock hands, forcing opponent's weight backward and breaking their posture within first second
+
+### 2. Breaking locked hands before securing next dominant position
+
+- ❌ **Consequence**: Loses primary control mechanism before establishing new control, allowing opponent to escape or counter-attack effectively
+- ✅ **Correction**: Maintain locked grip throughout entire attacking sequence until new dominant position is fully secured with alternative control mechanisms
+
+### 3. Leaving space between chest and opponent's back
+
+- ❌ **Consequence**: Creates gap that opponent exploits to establish frames, turn into you, or create distance for escape
+- ✅ **Correction**: Drive chest tightly into opponent's back immediately upon locking hands, eliminating all space and maintaining tight connection throughout
+
+### 4. Hesitating or waiting too long before executing attack
+
+- ❌ **Consequence**: Body lock is transitional position - delaying attack allows opponent time to establish defenses, break grips, or escape entirely
+- ✅ **Correction**: Have predetermined attack based on opponent's position and execute within 1-2 seconds of establishing lock
+
+### 5. Improper head positioning too far back or forward from opponent
+
+- ❌ **Consequence**: Reduces overall control, makes you vulnerable to head control counters, and decreases power for throwing techniques
+- ✅ **Correction**: Position head tight to underhook side with temple against opponent's shoulder, creating tight connection and proper angle for attacks
+
+### 6. Standing too upright with straight legs and high center of gravity
+
+- ❌ **Consequence**: Poor base makes you vulnerable to counter throws, reduces hip driving power, and limits explosive movement options
+- ✅ **Correction**: Maintain athletic stance with knees bent, weight on balls of feet, and center of gravity low for maximum stability and explosive power
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Attacks
+
+<p class="section-subtitle">How do you train Body Lock attacks?</p>
+
+### Body Lock Establishment Speed Drill
+
+Starting from neutral standing clinch position, partner provides progressive resistance as you work to establish body lock quickly from various grip fighting scenarios. Focus on speed of hand penetration, immediate lock establishment, and instant hip pressure. Reset after each successful lock and vary starting positions.
+
+**Duration**: 5 rounds x 2 minutes
+
+
+### Mat Return Repetitions to Back
+
+Partner starts in turtle or standing while you have body lock already established. Practice mat return to back control with focus on maintaining locked hands throughout, driving hips explosively, and securing back control before releasing grip. Build speed and power over multiple repetitions with progressive resistance.
+
+**Duration**: 10 minutes, 30-40 repetitions
+
+
+### Body Lock Throwing Progressions
+
+Establish body lock with cooperative partner, practice various throws including hip toss, trip, and suplex variations with progressive resistance. Start with slow technical execution emphasizing proper mechanics, gradually increase speed and resistance as technique improves. Focus on maintaining locked grip and chest connection throughout throw.
+
+**Duration**: 15 minutes, rotating through different throw types
+
+
+### Counter-Defense Flow Drill
+
+Partner attempts various escapes from your body lock including frames, whizzer, sitting to guard, and grip breaks while you practice maintaining position and transitioning to appropriate counters. Flow continuously between your attacks and their defenses, working to maintain control through all defensive attempts.
+
+**Duration**: 4 rounds x 3 minutes, switch roles
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 68% |
+| Advancement Probability | 78% |
+| Submission Probability | 50% |
+
+**Average Time in Position**: 2-6 seconds before transition to next position
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/Back Control]]** - Primary goal position - highest value transition from body lock
+- **[[Positions/Turtle]]** - Common intermediate position when opponent defends mat return
+- **[[Positions/Front Headlock]]** - Alternative transition when opponent lowers level to defend
+- **[[Positions/Double Unders]]** - Related control position using double underhooks instead of lock
+- **[[Positions/Crab Ride]]** - Transition position used when moving from body lock to back control
+- **[[Positions/Harness]]** - Ground-based position using similar locked grip mechanics
+- **[[Positions/Closed Guard]]** - Counter position when opponent sits to guard to escape
+- **[[Positions/Clinch]]** - Precursor standing control position from which body lock is established
+- **[[Positions/Side Control]]** - Common resulting position after successful throw or trip from body lock
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Bernardo-Faria-Pressure-System" data-cta="related-system-card" data-system-slug="systems/bernardo-faria-pressure-system" data-system-name="Bernardo Faria Pressure System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Bernardo Faria Pressure System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Key control position used to eliminate grip fighting and create passing opportunities</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Danaher-Straight-Jacket-System" data-cta="related-system-card" data-system-slug="systems/danaher-straight-jacket-system" data-system-name="Danaher Straight Jacket System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Danaher Straight Jacket System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Alternative back control variation emphasizing torso compression that can be integrated with system principles</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/MMA-Crossover-Strategy" data-cta="related-system-card" data-system-slug="systems/mma-crossover-strategy" data-system-name="MMA Crossover Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">MMA Crossover Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Wrestling control for takedowns and cage-assisted throws</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Standing-Defense-Strategy" data-cta="related-system-card" data-system-slug="systems/standing-defense-strategy" data-system-name="Standing Defense Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Standing Defense Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Offensive position this system defends against through grip fighting</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Tactical-Framework" data-cta="related-system-card" data-system-slug="systems/no-gi-tactical-framework" data-system-name="No-Gi Tactical Framework" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Tactical Framework</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Primary control mechanism replacing gi-based grips throughout the system</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Competition-Approach" data-cta="related-system-card" data-system-slug="systems/no-gi-competition-approach" data-system-name="No-Gi Competition Approach" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Competition Approach</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Primary passing and control grip in no-gi environment</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Modern-No-Gi-Passing-System" data-cta="related-system-card" data-system-slug="systems/modern-no-gi-passing-system" data-system-name="Modern No-Gi Passing System" data-member-count="20"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Modern No-Gi Passing System</span><span class="system-card__unlocks-badge">Unlocks 20 techniques</span><span class="system-card__blurb">Control position used for floating pass variations</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Passing System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Self-Defense-Application-Framework" data-cta="related-system-card" data-system-slug="systems/self-defense-application-framework" data-system-name="Self-Defense Application Framework" data-member-count="18"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Self-Defense Application Framework</span><span class="system-card__unlocks-badge">Unlocks 18 techniques</span><span class="system-card__blurb">Clinch control position for takedown entries and standing control</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Training Methodology</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

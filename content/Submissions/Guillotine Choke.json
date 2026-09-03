@@ -1,0 +1,268 @@
+{
+  "name": "Guillotine Choke",
+  "description": "Master the Guillotine Choke in BJJ with step-by-step execution, safety protocols, and variations. Complete guide for attacking and defending this versatile choke.",
+  "tags": [
+    "bjj",
+    "submission",
+    "guillotine",
+    "choke",
+    "front-headlock",
+    "blood-choke",
+    "standing",
+    "guard",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Mae Hadaka Jime"
+  ],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Guillotine_choke",
+    "https://www.wikidata.org/wiki/Q2889695"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and windpipe",
+  "starting_position": "Front Headlock",
+  "from_position": "Guillotine Control/Top",
+  "success_rate": {
+    "gi": 62,
+    "nogi": 62
+  },
+  "variant_uniqueness": "Versatile choke with multiple grip and positional variations",
+  "summary": "The Guillotine Choke is a front-headlock blood choke that wraps the attacker's forearm under the opponent's chin to compress the carotid arteries and windpipe, finishable from guard, standing, the clinch, or broken-posture scrambles.",
+  "overview": "The Guillotine Choke is one of the most versatile and high-percentage submissions in Brazilian Jiu-Jitsu, capable of being executed from standing positions, guard, or transitional scrambles. This blood choke targets the carotid arteries while also applying pressure to the trachea, making it a powerful finishing technique when applied correctly. The guillotine's effectiveness stems from its ability to capitalize on common defensive movements, particularly when opponents shoot for takedowns or attempt to pass guard with poor posture. The technique works by using your arm as a fulcrum around the opponent's neck while using hip pressure and body positioning to create the choking force. Its versatility allows for execution from numerous positions including standing, closed guard, half guard, and even during scrambles, making it an essential weapon for practitioners at all levels. The guillotine family includes multiple variations such as the high elbow guillotine, arm-in guillotine, and ten-finger guillotine, each with specific applications based on the situation and opponent's defensive reactions.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Trachea damage or crush injury",
+        "severity": "CRITICAL",
+        "recovery_time": "2-8 weeks with potential permanent damage"
+      },
+      {
+        "injury": "Neck hyperextension injury",
+        "severity": "High",
+        "recovery_time": "1-4 weeks"
+      },
+      {
+        "injury": "Cervical spine strain",
+        "severity": "Medium",
+        "recovery_time": "7-14 days"
+      },
+      {
+        "injury": "Unconsciousness from blood choke",
+        "severity": "High",
+        "recovery_time": "Immediate recovery but requires medical monitoring"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum application time. Never snap or jerk the submission",
+    "tap_signals": [
+      "Verbal tap or any vocal sound",
+      "Physical hand tap on opponent or mat",
+      "Physical foot tap on mat",
+      "Any distress signal or loss of resistance"
+    ],
+    "release_protocol": [
+      "Immediately release choking arm pressure",
+      "Remove head from opponent's neck",
+      "Help opponent to seated position if unconscious",
+      "Monitor breathing and consciousness",
+      "Call for medical assistance if partner doesn't immediately recover"
+    ],
+    "training_restrictions": [
+      "Never use competition speed in training",
+      "Always allow clear tap access for both arms",
+      "Stop immediately at any sign of distress",
+      "Avoid cranking or using neck hyperextension",
+      "Never practice on training partners with neck injuries"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Butterfly Guard",
+      "slug": "from-butterfly-guard"
+    },
+    {
+      "name": "from Clinch",
+      "slug": "from-clinch"
+    },
+    {
+      "name": "from Guillotine Control",
+      "slug": "from-guillotine-control"
+    },
+    {
+      "name": "from Hindulotine",
+      "slug": "from-hindulotine"
+    },
+    {
+      "name": "from Twister Control",
+      "slug": "from-twister-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "High Elbow Guillotine",
+      "description": "Palm-to-palm grip with choking elbow elevated very high to create maximum blood choke pressure on carotid arteries while minimizing windpipe pressure",
+      "when_to_use": "When opponent has strong neck or when you want maximum efficiency with less cranking force. This is the preferred variation for training due to increased safety and effectiveness"
+    },
+    {
+      "variation_name": "Arm-In Guillotine",
+      "description": "Opponent's arm is trapped inside the choke alongside their head. Creates different angle and is especially effective when opponent defends by tucking chin",
+      "when_to_use": "When opponent successfully tucks chin or when their arm naturally gets trapped during scrambles. Also effective from bottom half guard position"
+    },
+    {
+      "variation_name": "Standing Guillotine",
+      "description": "Executed while both practitioners are standing, often catching opponent during takedown attempts. Maximum leverage available from vertical position",
+      "when_to_use": "When opponent shoots for takedown with poor head position or during standing clinch exchanges. Can finish before going to ground"
+    },
+    {
+      "variation_name": "Mounted Guillotine",
+      "description": "Finish the choke after coming up to mounted position while maintaining the grip. Opponent is trapped on bottom unable to create space",
+      "when_to_use": "When opponent attempts to pass guard while you have guillotine established. Jump to mount while maintaining choke for high-percentage finish"
+    },
+    {
+      "variation_name": "Ten Finger Guillotine",
+      "description": "Gable grip (palm-to-palm with fingers interlaced) around opponent's neck, maximizing squeezing pressure through forearm compression. Excellent variation for practitioners with shorter arms or when maximum squeeze is needed",
+      "when_to_use": "When in no-gi situation and need maximum grip strength. Also useful when opponent is very slippery with sweat or your arms are too short for traditional grip"
+    },
+    {
+      "variation_name": "Chin Strap Guillotine from Front Headlock",
+      "description": "Advanced variation where choking arm goes under opponent's chin rather than around neck, forcing head back while choking",
+      "when_to_use": "When opponent successfully defends standard guillotine by tucking chin extremely tight. Creates different mechanical pressure"
+    },
+    {
+      "variation_name": "Marce Choke",
+      "description": "Variation where the choking arm threads under opponent's neck from front headlock, with the grip established on your own bicep or lat muscle, creating a modified guillotine finish highly effective from front headlock positions and turtle attacks",
+      "when_to_use": "From front headlock when opponent is in turtle or defensive posture; excellent when transitioning from failed takedown attempts to submission"
+    }
+  ],
+  "from_positions": [
+    "Front Headlock",
+    "Closed Guard",
+    "Half Guard",
+    "Clinch",
+    "Butterfly Guard",
+    "Open Guard",
+    "Deep Half Guard",
+    "Knee Shield Half Guard",
+    "Guillotine Control"
+  ],
+  "related_submissions": [
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "Primary high-percentage variation using elevated elbow for pure blood choke mechanics"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Arm-trapped variation effective against chin-tuck defense and from bottom half guard"
+    },
+    {
+      "name": "Chin Strap Guillotine from Front Headlock",
+      "relationship": "Advanced variation targeting under-chin pressure when standard grip is defended"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head-and-arm choke that chains from failed guillotine attempts when opponent circles"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Complementary front headlock choke using arm-in configuration with rolling finish"
+    },
+    {
+      "name": "Hindulotine",
+      "relationship": "Modified guillotine grip variation with different mechanical finishing pressure"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Alternative head-and-arm choke available when guillotine grip is stripped but head control remains"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Gi-based front choke variation accessible from similar head control positions"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative front choke from guard or mount positions when guillotine grip is unavailable"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Guard-based choke alternative using shin across throat from similar bottom positions"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Guillotine Control",
+      "relationship": "Primary controlling position for guillotine submissions"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Starting control position for guillotine setups"
+    },
+    {
+      "name": "Guillotine Setup",
+      "relationship": "Transition technique for establishing guillotine entries"
+    },
+    {
+      "name": "Guillotine Defense",
+      "relationship": "Defensive concepts for escaping guillotine attacks"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Common position for guillotine execution from bottom"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Position where arm-in guillotine variation is highly effective"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head-and-arm choke that chains from failed guillotine attempts"
+    },
+    {
+      "name": "Clinch",
+      "relationship": "Standing entry position for guillotine during takedown defense"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Complementary front headlock submission sharing positional entries"
+    }
+  ],
+  "clips": [
+    {
+      "id": "SAWvSovVk4A",
+      "title": "Guillotine from Butterfly Guard",
+      "by": "Jake Shields",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 64,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "Z75kDSCIeN4",
+      "title": "Guillotine Choke from Butterfly Guard",
+      "by": "Modesto Judo Club",
+      "vertical": false,
+      "channel": "Modesto Judo Club",
+      "duration": 76,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "2Ioe4B7HF38",
+      "title": "Guillotine choke from the clinch",
+      "by": "Michael James",
+      "vertical": false,
+      "channel": "Michael James",
+      "duration": 43,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "-x0MJel3Ru0",
+      "title": "Attacking the standing guillotine",
+      "by": "Fargo BJJ",
+      "vertical": false,
+      "channel": "Fargo BJJ Academy",
+      "duration": 55,
+      "verified": "2026-07-14"
+    }
+  ]
+}

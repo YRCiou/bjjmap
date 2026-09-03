@@ -1,0 +1,463 @@
+
+
+
+
+---
+title: "Rear Triangle Bottom | BJJ Position Guide | BJJ Map"
+description: "Master defensive survival from Rear Triangle Bottom. Learn arm extraction mechanics, chin protection, and systematic escape sequences. Advanced escape rate 40%."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Escapes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Escape Rear Triangle Bottom",
+  "description": "Step-by-step guide to escaping and defending Rear Triangle position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Arm Extraction",
+      "text": "From this position, attempt Arm Extraction. This technique is attempted in 18% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Rolling Escape to Guard",
+      "text": "From this position, attempt Rolling Escape to Guard. This technique is attempted in 10% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Stack Defense",
+      "text": "From this position, attempt Stack Defense. This technique is attempted in 10% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Hand Fighting from Back",
+      "text": "From this position, attempt Hand Fighting from Back. This technique is attempted in 28% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Grip Fight Escape from Rear Triangle",
+      "text": "From this position, attempt Grip Fight Escape from Rear Triangle. This technique is attempted in 14% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Posture Defense from Rear Triangle",
+      "text": "From this position, attempt Posture Defense from Rear Triangle. This technique is attempted in 20% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you attempting to pull the head out first before addressing the trapped arm inside the triangle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent tightens triangle and angles hips to finish the choke more effectively, accelerating loss of consciousness The correct approach is: Focus all initial escape efforts on extracting the trapped arm from inside the triangle before attempting to remove the head"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you using pure strength to fight the triangle without creating angles or leverage points?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rapid energy depletion while the opponent maintains control with minimal effort, leading to exhaustion and inevitable submission The correct approach is: Utilize strategic movements including rotation, hip movement, and grip fighting to create mechanical advantages rather than relying on muscular force"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you failing to protect the chin and turning the face toward the choking leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Significantly increased choke effectiveness as the carotid arteries become more exposed to compression, shortening time to unconsciousness The correct approach is: Immediately tuck chin to chest and turn face toward the non-choking leg to create a defensive structure that buys time for escape attempts"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you panicking and making erratic movements that assist the opponent's control and finishing mechanics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uncontrolled movements provide opportunities for opponent to adjust position, tighten the choke, or transition to alternative submissions The correct approach is: Maintain mental composure, breathe strategically through the restricted airway, and execute deliberate escape sequences methodically"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you ignoring the opponent's potential transitions to armbar or other submissions while focused solely on the triangle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Getting caught in secondary submissions like armbars when the opponent transitions from the triangle during escape attempts The correct approach is: Maintain awareness of the entire submission chain including triangle-to-armbar transitions and defend multiple threats simultaneously"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Rear Triangle Bottom",
+  "description": "Master defensive survival from Rear Triangle Bottom. Learn arm extraction mechanics, chin protection, and systematic escape sequences. Advanced escape rate 40%.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Rear Triangle Bottom",
+      "item": "https://bjjmap.pages.dev/Positions/Rear-Triangle-Bottom"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Rear Triangle (Bottom) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Escaping the topside body triangle",
+      "description": "Rear Triangle (Bottom) film study: Escaping the topside body triangle, taught by Fox Den Martial Arts.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ys398a2Trrw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/ys398a2Trrw",
+      "url": "https://www.youtube.com/watch?v=ys398a2Trrw",
+      "creator": { "@type": "Person", "name": "Fox Den Martial Arts" },
+      "duration": "PT48S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Back escape vs crossed feet body triangle",
+      "description": "Rear Triangle (Bottom) film study: Back escape vs crossed feet body triangle, taught by Jeffjitsu.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fZCyt0MfUtA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/fZCyt0MfUtA",
+      "url": "https://www.youtube.com/watch?v=fZCyt0MfUtA",
+      "creator": { "@type": "Person", "name": "Jeffjitsu" },
+      "duration": "PT54S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Standing-up back escape system",
+      "description": "Rear Triangle (Bottom) film study: Standing-up back escape system, taught by Priit Mihkelson.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_sBB-O8fqP4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/_sBB-O8fqP4",
+      "url": "https://www.youtube.com/watch?v=_sBB-O8fqP4",
+      "creator": { "@type": "Person", "name": "Priit Mihkelson" },
+      "duration": "PT114S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+Rear Triangle Bottom is a highly compromised defensive position where the practitioner is caught in a triangle choke configuration applied from the opponent's back control position. This represents one of the most dangerous submission threats in BJJ, combining the control advantages of back mount with the finishing mechanics of the triangle choke. The bottom player faces significant constraints on mobility and breathing, with the opponent's legs creating a figure-four configuration around the neck and one arm while maintaining back control elements. This position typically occurs when an opponent successfully transitions from standard back control or seated back mount into a triangle configuration, often catching one arm inside the triangle while controlling the back. The defensive player must navigate multiple submission threats including the triangle choke itself, potential transitions to armbars, and the ever-present danger of the rear naked choke. Understanding the escape hierarchy and maintaining composure under extreme pressure are essential for survival and eventual escape from this precarious position.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Rear Triangle (Bottom) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=ys398a2Trrw)
+
+<p class="clip-credit"><strong>Escaping the topside body triangle</strong> — taught by Fox Den Martial Arts · 0:48 · <a href="https://www.youtube.com/watch?v=ys398a2Trrw" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=fZCyt0MfUtA)
+
+<p class="clip-credit"><strong>Back escape vs crossed feet body triangle</strong> — taught by Jeffjitsu · 0:54 · <a href="https://www.youtube.com/watch?v=fZCyt0MfUtA" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=_sBB-O8fqP4)
+
+<p class="clip-credit"><strong>Standing-up back escape system</strong> — taught by Priit Mihkelson · 1:54 · <a href="https://www.youtube.com/watch?v=_sBB-O8fqP4" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Rear Triangle (Bottom)?</p>
+
+- Opponent's legs are configured in a figure-four triangle formation around the defender's neck and one trapped arm, with the ankle locked behind the knee creating the choking mechanism while applying direct pressure to the carotid arteries on the trapped arm side
+- Defender's back is exposed to opponent with at least one arm trapped inside the triangle structure, severely limiting defensive hand fighting options and posture recovery while the opponent maintains chest-to-back contact creating forward pressure
+- Opponent maintains elements of back control including hooks or body triangle combined with the triangle configuration, creating a hybrid control position with multiple submission threats converging simultaneously on the defender
+- Defender's head and trapped arm are enclosed within the triangle's loop with pressure being applied to the carotid arteries and increasing oxygen deprivation over time, while chin protection and face positioning determine immediate survival duration
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Rear Triangle (Bottom)?</p>
+
+- Opponent successfully transitioned from back control or seated back mount to triangle configuration
+- One of defender's arms became trapped inside the triangle structure during the transition or initial control phase
+- Opponent secured the figure-four leg lock with ankle behind knee creating the triangle choking mechanism
+- Defender failed to prevent the triangle lock or immediately address the positional threat during the setup phase
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Defensive Principles
+
+<p class="section-subtitle">What are the key principles for defending Rear Triangle?</p>
+
+- Immediately address posture and create space between head and choking leg to relieve carotid pressure and buy time
+- Focus on extracting the trapped arm from inside the triangle as the primary escape pathway before addressing other threats
+- Maintain chin protection by tucking chin to chest and turning face toward the non-choking leg side to reduce choke effectiveness
+- Control opponent's choking leg ankle or knee to prevent them from tightening the triangle and to create leverage for escape attempts
+- Stay calm and manage breathing despite restricted airway, avoiding panic that accelerates oxygen depletion and poor decision-making
+- Recognize submission sequences (triangle to armbar, triangle to back take) and defend transitions preemptively rather than reactively
+- Generate rotation and angle changes to disrupt the triangle's structure rather than attempting pure strength-based escapes
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Rear Triangle (Bottom)?</p>
+
+**If opponent's triangle is fully locked with ankle behind knee and tight pressure on carotid arteries:**
+- Execute **[[Transitions/Triangle Escape/Attacker|Triangle Escape]]** → [[Positions/Back Control]] (Probability: 25%)
+- Execute **[[Transitions/Arm Extraction/Attacker|Arm Extraction]]** → [[Positions/Turtle]] (Probability: 30%)
+- Execute **[[Tap Out/Attacker|Tap Out]]** → [[game-over]] (Probability: 45%)
+
+
+**If triangle is locked but defender maintains some posture and trapped arm has mobility:**
+- Execute **[[Transitions/Arm Extraction/Attacker|Arm Extraction]]** → [[Positions/Back Control]] (Probability: 45%)
+- Execute **[[Transitions/Posture Recovery/Attacker|Posture Recovery]]** → [[Positions/Back Control/Seat Belt Control Back]] (Probability: 35%)
+- Execute **[[Transitions/Stack Defense/Attacker|Stack Defense]]** → [[Positions/Turtle]] (Probability: 20%)
+
+
+**If opponent transitions to armbar or loosens triangle to adjust position:**
+- Execute **[[Transitions/Rolling Escape to Guard/Attacker|Rolling Escape to Guard]]** → [[Positions/Closed Guard]] (Probability: 40%)
+- Execute **[[Transitions/Arm Extraction/Attacker|Arm Extraction]]** → [[Positions/Back Control]] (Probability: 35%)
+- Execute **[[Transitions/Hand Fighting from Back/Attacker|Hand Fighting from Back]]** → [[Positions/Turtle]] (Probability: 25%)
+
+
+**If defender successfully extracts trapped arm from triangle structure:**
+- Execute **[[Transitions/Triangle Escape/Attacker|Triangle Escape]]** → [[Positions/Turtle]] (Probability: 50%)
+- Execute **[[Transitions/Rolling Escape to Guard/Attacker|Rolling Escape to Guard]]** → [[Positions/Closed Guard]] (Probability: 30%)
+- Execute **[[Transitions/Back Take/Attacker|Back Take]]** → [[Positions/Back Control]] (Probability: 20%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Defensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when defending Rear Triangle?</p>
+
+### 1. Attempting to pull the head out first before addressing the trapped arm inside the triangle
+
+- ❌ **Consequence**: Opponent tightens triangle and angles hips to finish the choke more effectively, accelerating loss of consciousness
+- ✅ **Correction**: Focus all initial escape efforts on extracting the trapped arm from inside the triangle before attempting to remove the head
+
+### 2. Using pure strength to fight the triangle without creating angles or leverage points
+
+- ❌ **Consequence**: Rapid energy depletion while the opponent maintains control with minimal effort, leading to exhaustion and inevitable submission
+- ✅ **Correction**: Utilize strategic movements including rotation, hip movement, and grip fighting to create mechanical advantages rather than relying on muscular force
+
+### 3. Failing to protect the chin and turning the face toward the choking leg
+
+- ❌ **Consequence**: Significantly increased choke effectiveness as the carotid arteries become more exposed to compression, shortening time to unconsciousness
+- ✅ **Correction**: Immediately tuck chin to chest and turn face toward the non-choking leg to create a defensive structure that buys time for escape attempts
+
+### 4. Panicking and making erratic movements that assist the opponent's control and finishing mechanics
+
+- ❌ **Consequence**: Uncontrolled movements provide opportunities for opponent to adjust position, tighten the choke, or transition to alternative submissions
+- ✅ **Correction**: Maintain mental composure, breathe strategically through the restricted airway, and execute deliberate escape sequences methodically
+
+### 5. Ignoring the opponent's potential transitions to armbar or other submissions while focused solely on the triangle
+
+- ❌ **Consequence**: Getting caught in secondary submissions like armbars when the opponent transitions from the triangle during escape attempts
+- ✅ **Correction**: Maintain awareness of the entire submission chain including triangle-to-armbar transitions and defend multiple threats simultaneously
+
+### 6. Failing to control the opponent's choking leg ankle or knee during escape attempts
+
+- ❌ **Consequence**: Opponent freely adjusts leg position to optimize choke angle and pressure, preventing effective escape execution
+- ✅ **Correction**: Establish grip control on the choking leg's ankle or behind the knee to limit opponent's adjustments and create escape leverage
+
+### 7. Attempting to stand up or create large positional changes without first addressing the triangle structure
+
+- ❌ **Consequence**: Opponent rides the movement easily while maintaining or tightening the triangle, often transitioning to more dominant variations
+- ✅ **Correction**: Dismantle the triangle structure first through arm extraction and space creation before attempting major positional escapes
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Defense
+
+<p class="section-subtitle">How do you train Rear Triangle defense?</p>
+
+### Rear Triangle Survival Drill
+
+Partner applies rear triangle with varying degrees of tightness while defender practices maintaining composure, chin protection, and controlled breathing for timed intervals (30-60 seconds). Focus on staying calm under pressure and recognizing the feeling of different triangle tightness levels before they become critical.
+
+**Duration**: 5 minutes per partner
+
+
+### Arm Extraction Repetition Drill
+
+Start with rear triangle partially locked and practice extracting the trapped arm using various hand grips, elbow positioning, and shoulder rotation techniques. Partner provides progressive resistance levels to build technical proficiency before speed and power application.
+
+**Duration**: 10 minutes
+
+
+### Triangle Escape Sequence Flow Drill
+
+Partner applies rear triangle at 50-70% intensity while defender flows through complete escape sequences including arm extraction, posture recovery, and positional escape to turtle or guard recovery. Reset and repeat to build muscle memory for the complete defensive chain.
+
+**Duration**: 8 minutes per partner
+
+
+### Triangle to Submission Chain Defense
+
+Partner alternates between finishing the triangle, transitioning to armbar, and switching to rear naked choke while defender practices defending multiple submission threats simultaneously. Develops awareness of submission chains and transitions.
+
+**Duration**: 6 minutes per partner
+
+
+### Positional Sparring from Rear Triangle Bottom
+
+Start in fully locked rear triangle bottom position with defender earning 1 point for successful arm extraction, 2 points for complete escape to neutral or better position. Attacker earns points for submission finish or maintaining control for 2+ minutes. First to 5 points wins.
+
+**Duration**: 3-minute rounds
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 32% |
+| Advancement Probability | 38% |
+| Submission Probability | 12% |
+
+**Average Time in Position**: 15-45 seconds before tap or escape
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/Triangle Control]]** - Opponent's position - top perspective of similar triangle configuration
+- **[[Positions/Back Control]]** - Common transition target after successful arm extraction
+- **[[Transitions/Rear Triangle Choke Finish]]** - Primary submission threat from this position
+- **[[Positions/Armbar Control]]** - Common transition position when opponent switches from triangle
+- **[[Positions/Turtle]]** - Escape target position for defensive recovery
+- **[[Transitions/Triangle Escape]]** - Primary escape technique from this position
+- **[[Transitions/Arm Extraction]]** - Essential defensive technique for escaping this position
+- **[[Submissions/Rear Naked Choke]]** - Secondary submission threat opponent may transition to
+- **[[Positions/Closed Guard]]** - Alternative escape target for positional reset
+- **[[Positions/Back Control/Seat Belt Control Back]]** - Recovery position if triangle is broken but back control maintained
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Ryan-Hall-Triangle-System" data-cta="related-system-card" data-system-slug="systems/ryan-hall-triangle-system" data-system-name="Ryan Hall Triangle System" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Ryan Hall Triangle System</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Triangle variation from back control position</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Back-Attack-System" data-cta="related-system-card" data-system-slug="systems/back-attack-system" data-system-name="Back Attack System" data-member-count="24"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Back Attack System</span><span class="system-card__unlocks-badge">Unlocks 24 techniques</span><span class="system-card__blurb">Submission control position accessible from back mount</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

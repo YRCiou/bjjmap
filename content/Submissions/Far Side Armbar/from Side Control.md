@@ -1,0 +1,392 @@
+
+
+
+
+---
+title: "Far Side Armbar from Side Control | BJJ Submission | BJJ Map"
+description: "Master Far Side Armbar from top positions. Complete guide with safety protocols, setup, execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%."
+---
+
+
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Far Side Armbar from Side Control",
+  "description": "Master Far Side Armbar from top positions. Complete guide with safety protocols, setup, execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Far Side Armbar from Side Control", "item": "https://bjjmap.pages.dev/Submissions/Far-Side-Armbar-from-Side-Control" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Far Side Armbar from Side Control \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Far Side Armbar from Side Control",
+      "description": "Far Side Armbar from Side Control film study: Far Side Armbar from Side Control, taught by Fox Den Martial Arts.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XxdFHCKd568/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XxdFHCKd568",
+      "url": "https://www.youtube.com/watch?v=XxdFHCKd568",
+      "creator": { "@type": "Person", "name": "Fox Den Martial Arts" },
+      "duration": "PT49S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Straight Armlock from Side Control",
+      "description": "Far Side Armbar from Side Control film study: Straight Armlock from Side Control, taught by Roger Gracie.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iPnQx-6RYpU/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/iPnQx-6RYpU",
+      "url": "https://www.youtube.com/watch?v=iPnQx-6RYpU",
+      "creator": { "@type": "Person", "name": "Roger Gracie" },
+      "duration": "PT198S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Far Side Armbar from Side Control",
+  "description": "The Far Side Armbar is a top-position elbow lock that isolates and hyperextends the opponent's far arm (the one furthest from you) from side control, mount, or north-south, punishing the very arm they use to frame and create distance.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The Far Side Armbar is a top-position elbow lock that isolates and hyperextends the opponent's far arm (the one furthest from you) from side control, mount, or north-south, punishing the very arm they use to frame and create distance.**
+<div class="principle-meta">
+<span class="meta-chip">Joint Lock</span>
+<span class="meta-chip">Arm Lock</span>
+<span class="meta-chip">Targets Elbow joint (hyperextension)</span>
+<span class="meta-chip">58% success</span>
+</div>
+
+> [!danger] Safety
+> Far Side Armbar from Side Control targets the Elbow joint (hyperextension). Primary risk: Elbow hyperextension (ligament damage). Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<div class="role-links">
+
+[[Submissions/Far Side Armbar/from Side Control/Attacker|Play as Attacker]]
+[[Submissions/Far Side Armbar/from Side Control/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+Sitting at the heart of every top player's submission arsenal, the far side armbar exploits the opponent's defensive frames by isolating their extended far arm and applying hyperextension pressure to the elbow joint. It is particularly effective because it attacks the arm that opponents naturally use to create distance and prevent transitions, making it a fundamental component of submission chains from dominant positions such as side control, mount, and north-south.
+
+Unlike near-side armbars which require significant position changes, the far side armbar can often be secured with minimal positional adjustment, making it a reliable finishing option when opponents are defending tightly. The technique leverages body weight, hip positioning, and leg control to isolate the targeted limb while maintaining top pressure. Success depends on proper grip control, angle creation, and the ability to prevent the opponent from defending by clasping their hands together.
+
+This submission appears frequently in both gi and no-gi competition at all levels, often as part of systematic attack sequences that force opponents into defensive dilemmas. When combined with other submissions like the kimura, americana, or transition to mount, the far side armbar becomes even more potent as it capitalizes on the opponent's defensive reactions to create finishing opportunities.
+
+**Starting Position**: [[Positions/Side Control]] · **From**: [[Positions/Side Control]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Far Side Armbar from Side Control in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=XxdFHCKd568)
+
+<p class="clip-credit"><strong>Far Side Armbar from Side Control</strong> — taught by Fox Den Martial Arts · 0:49 · <a href="https://www.youtube.com/watch?v=XxdFHCKd568" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=iPnQx-6RYpU)
+
+<p class="clip-credit"><strong>Straight Armlock from Side Control</strong> — taught by Roger Gracie · 3:18 · <a href="https://www.youtube.com/watch?v=iPnQx-6RYpU" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[game-over]] | 60% |
+| Failure | [[Positions/Side Control]] | 25% |
+| Counter | [[Positions/Closed Guard]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | Isolate the far arm by controlling the wrist and preventing ... | Keep elbows connected to your torso and avoid extending the ... |
+| **Options** | 7 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Submissions/Far Side Armbar/from Side Control/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Isolate the far arm by controlling the wrist and preventing hand clasping
+
+- Create the proper angle by positioning your hips perpendicular to opponent's shoulder
+
+- Secure the arm across your chest/body before committing to the finish
+
+- Use leg positioning to control opponent's torso and prevent escapes
+
+- Apply pressure through hip extension, not by pulling the arm
+
+- Maintain tight connection between your chest and opponent's captured arm
+
+- Control the opponent's head or near arm to prevent defensive turns
+
+
+### Execution Steps
+
+
+- **Secure far arm control**: From side control or mount, identify the opponent's far arm (furthest from you). Grip the wrist firm...
+
+- **Break opponent's defensive structure**: Drive your weight forward and down to extend the opponent's arm fully. If they're framing against yo...
+
+- **Trap the arm to your body**: Once the arm is extended, clamp it tightly to your chest by squeezing your elbow to your ribs. The o...
+
+- **Position your hips**: Begin rotating your hips to create perpendicular alignment with the opponent's shoulder. Your hips s...
+
+- **Establish leg control**: Swing your near leg over the opponent's head or face, or step it across to the far side of their bod...
+
+- **Secure the arm position**: Adjust your grip to control the wrist with both hands if possible, or maintain one hand on the wrist...
+
+- **Apply finishing pressure**: Drive your hips forward and upward toward the ceiling while pulling the wrist toward your chest. The...
+
+
+### Common Mistakes
+
+
+- **Releasing chest pressure on the arm too early**
+  - Consequence: Opponent can bend their arm and escape before you establish full control
+  - Correction: Maintain tight chest-to-arm connection throughout the entire setup; never let their arm bend until the submission is fully locked
+
+- **Applying sudden jerking or spiking motion to finish**
+  - Consequence: HIGH RISK of elbow dislocation, ligament rupture, or severe hyperextension injury
+  - Correction: Always apply pressure progressively over 3-5 seconds minimum; use smooth hip extension rather than explosive yanking
+
+- **Poor hip positioning (not perpendicular to opponent)**
+  - Consequence: Weak leverage and easy escape for opponent; submission lacks finishing power
+  - Correction: Ensure your hips are positioned near opponent's head with your body forming a clear 'T' shape; adjust before applying pressure
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Submissions/Far Side Armbar/from Side Control/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Keep elbows connected to your torso and avoid extending the far arm into vulnerable framing positions
+
+- Clasp hands immediately when you feel wrist control being established to buy time and prevent arm isolation
+
+- Turn toward the attacker rather than away to deny the perpendicular angle needed for the finish
+
+- Bridge and create hip movement during the attacker's transition phase when their base is most compromised
+
+- Monitor the attacker's hip position constantly since perpendicular alignment signals imminent danger
+
+- Use grip fighting on your own arm (grabbing your bicep, lapel, or shorts) to prevent full extension
+
+- Stay calm and systematic rather than panicking with explosive pulls that accelerate elbow hyperextension
+
+
+### Recognition Cues
+
+
+- Attacker grips your far wrist or cups behind your far elbow while maintaining top pressure from side control or mount
+
+- Attacker begins driving your far arm across your body toward their chest, straightening it against your resistance
+
+- Attacker's hips start rotating toward your head, shifting from parallel alignment to perpendicular positioning
+
+- Attacker's near leg begins stepping over your head or face while their weight shifts off your hips
+
+- You feel your far arm being clamped tightly against the attacker's chest with their elbow squeezing to their ribs
+
+
+### Escape Paths
+
+
+- Clasp hands and turn into attacker to collapse the perpendicular angle, then work back to side control bottom and recover guard
+
+- Hitchhiker escape by rotating thumb toward head and spinning body to relieve pressure, recovering to turtle or top position
+
+- Bridge and roll over the trapped arm side during the attacker's transition phase to reverse into their guard
+
+- Stack the attacker by driving forward if they sit back, collapsing their leg control and recovering top pressure
+
+
+</section>
+
+
+<section id="variations" class="content-section hide-minimal">
+
+## Variations
+
+
+**Far Side Armbar from Side Control**: Classic entry where you control opponent from side control, isolate their far arm as they frame, then rotate your hips toward their head while trapping the arm to your chest. (When to use: When opponent is defending tightly in side control and using their far arm to create frames or distance)
+
+
+**Far Side Armbar from Mount**: From high mount, bait opponent to push with their far arm, catch it, then lean back and rotate your hips to apply the armbar without dismounting fully. (When to use: When mounted opponent tries to push you away or create frames with extended arms)
+
+
+**Far Side Armbar from North-South**: From north-south position, control opponent's far arm and slide your body toward the trapped arm side, using your legs to control their body while establishing the armbar. (When to use: When transitioning through north-south or when opponent turns away from traditional side control attacks)
+
+
+**Step-Over Far Side Armbar**: After isolating the arm, step your near leg completely over opponent's head to establish traditional armbar position with better control and leverage. (When to use: When you have excellent control and opponent is not defending hand position; provides maximum finishing power)
+
+
+**Belly-Down Far Side Armbar**: Instead of sitting back, rotate to your belly while maintaining arm control, using your body weight to apply downward pressure on the shoulder while extending the elbow. (When to use: When opponent is defending the traditional armbar finish or when in no-gi where sliding into position is difficult)
+
+
+
+</section>
+
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+- [[Positions/Side Control]]
+- [[Positions/Mount]]
+- [[Positions/Mount/High Mount]]
+- [[Positions/North-South]]
+- [[Positions/Knee on Belly]]
+- [[Positions/Mount/Modified Mount]]
+- [[Positions/Mount/S Mount]]
+- [[Positions/Mount/Technical Mount]]
+
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Armbar]]
+- [[Submissions/Arm Crush]]
+- [[Submissions/Flying Armbar/from Closed Guard]]
+- [[Submissions/Belly Down Armbar]]
+- [[Submissions/Kimura]]
+- [[Submissions/Cross Collar Choke]]
+- [[Submissions/Ezekiel Choke]]
+- [[Submissions/Triangle Choke]]
+- [[Submissions/Omoplata]]
+- [[Submissions/Americana]]
+- [[Submissions/Arm Triangle]]
+- [[Submissions/Armbar/Reverse Armbar from Mount]] - Alternative armbar variation with different arm positioning and finishing mechanics from mount
+- [[Positions/Side Control]] - Primary starting position for far side armbar
+- [[Positions/Mount]] - Alternative starting position for far side armbar
+- [[Positions/North-South]] - Transitional position that creates far side armbar opportunities
+- [[Positions/Armbar Control]] - Control position for securing armbar finish
+- [[Positions/Knee on Belly]] - Transitional position enabling far side armbar entries
+- [[Positions/Mount/High Mount]] - Elevated position providing superior armbar access
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Elbow hyperextension (ligament damage) | High | 4-8 weeks for moderate sprains, 3-6 months for severe tears |
+| Elbow dislocation | CRITICAL | 3-6 months with potential for permanent instability |
+| Bicep tendon strain from resistance | Medium | 2-4 weeks |
+| Shoulder strain from torquing during setup | Medium | 2-6 weeks |
+
+
+**Application Speed**: SLOW and progressive - 3-5 seconds minimum from control to tap. Never snap or jerk the submission.
+
+**Tap Signals**:
+- Verbal tap (saying 'tap' or any verbal signal)
+- Physical hand tap (on partner or mat)
+- Physical foot tap (on partner or mat)
+- Any distress signal or unusual sound
+
+
+**Release Protocol**:
+1. Immediately release hip pressure and stop extending the arm
+2. Open your legs if using leg control over the body
+3. Return opponent's arm to neutral position slowly
+4. Allow opponent to recover and reset before continuing
+5. Check with partner verbally that they are okay
+
+
+**Training Restrictions**:
+- Never spike, jerk, or apply sudden explosive force to the submission
+- Never use competition speed or pressure in training rolls
+- Always ensure partner has clear access to tap with at least one hand
+- Stop immediately at any sign of discomfort or unusual joint sound
+- White and blue belts should practice at 30-50% speed only
+
+
+</section>
+
+
+
+</main>

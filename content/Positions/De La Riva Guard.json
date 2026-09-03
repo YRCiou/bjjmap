@@ -1,0 +1,931 @@
+{
+  "name": "De La Riva Guard",
+  "slug": "de-la-riva-guard",
+  "description": "Master De La Riva Guard in BJJ. Hook-based open guard with berimbolo entries, sweeps, back takes, and 65% advanced success rates. Complete technical guide.",
+  "aliases": [
+    "De La Riva",
+    "DLR Guard",
+    "DLR"
+  ],
+  "variant_uniqueness": "Dynamic hooks trade static frames for leverage",
+  "summary": "De La Riva Guard is a hook-based open guard in which the bottom player wraps a foot around the opponent's lead leg to off-balance them, opening sweeps, berimbolo back-takes, and entries to X-Guard and leg locks.",
+  "overview": "De La Riva Guard (DLR) is a sophisticated open guard variation where the bottom player hooks the opponent's lead leg with their outside foot while controlling the ankle or pant with their hand on the same side. The other hand typically controls the opponent's sleeve or collar, creating a structure that limits the opponent's mobility and generates powerful sweeping leverage. This guard has become fundamental in modern BJJ, particularly for setting up berimbolo sequences, back takes, and creating connections to other guard systems.\n\nDeveloped by Ricardo De La Riva in the 1980s as a counter to the traditional standing guard pass, this position revolutionized modern guard play by introducing a systematic approach to controlling the opponent's base from an off-angle relationship. The DLR hook creates a powerful mechanical advantage that disrupts the opponent's weight distribution and limits their passing options, forcing them into predictable responses that can be exploited through sweeps, back takes, or transitions to other guard systems. The position's effectiveness lies in its ability to create constant threats while maintaining defensive security, making it a cornerstone of contemporary competitive BJJ at all belt levels.\n\nThe De La Riva system offers exceptional versatility for practitioners of all levels. Beginners can learn fundamental off-balancing principles and basic sweeps that work at percentage rates around 35-40%. Intermediate practitioners develop sophisticated berimbolo entries and guard retention strategies that increase success rates to 50-60%. Advanced competitors master the full DLR ecosystem, including kiss of the dragon variations, seamless transitions to X-Guard and Single Leg X, and leg entanglement systems that achieve success rates of 65-75% in competition. The position's adaptability to both gi and no-gi contexts, combined with its direct pathways to dominant positions like back control and mount, makes it an essential component of any modern BJJ game plan.\n\nThe strategic genius of De La Riva Guard lies in its dilemma-based attack structure. Every defensive reaction by the top player opens a different offensive pathway for the guard player. Driving forward exposes the passer to berimbolo and inversion entries. Standing tall with weight back invites under-transitions to X-Guard and Single Leg X. Attempting to strip grips creates timing windows for basic sweeps. This layered threat matrix forces the top player into a reactive posture, constantly defending rather than initiating their own passing sequences. Understanding and exploiting this reaction-based framework is what separates competent DLR players from truly dangerous ones.",
+  "key_principles": [
+    "Control opponent's lead leg with both foot hook and hand grip, creating a two-point connection that limits their mobility and establishes the foundation for all DLR attacks",
+    "Maintain active grip on sleeve or collar to disrupt posture and prevent opponent from generating forward pressure or establishing balanced passing positions",
+    "Create and manipulate angles constantly to keep opponent off-balance and vulnerable to sweeps, using hip movement to generate leverage and create attacking opportunities",
+    "Keep hips mobile and elevated to prevent opponent from smashing through or establishing heavy top pressure that neutralizes the guard's effectiveness",
+    "Use hook tension actively rather than passively to control opponent's weight distribution and base, pulling and extending dynamically to create off-balancing reactions"
+  ],
+  "variations": [
+    {
+      "name": "Reverse De La Riva Guard",
+      "slug": "reverse-de-la-riva-guard",
+      "description": "Opposite-side hook for alternative angles and sweep entries"
+    }
+  ],
+  "related_positions": [
+    {
+      "name": "Reverse De La Riva Guard",
+      "relationship": "Complementary guard system using opposite-side hook for alternative off-balancing angles and sweep entries"
+    },
+    {
+      "name": "X-Guard",
+      "relationship": "Primary transition target from DLR when opponent maintains upright posture, sharing similar off-balancing mechanics and sweep principles"
+    },
+    {
+      "name": "Single Leg X-Guard",
+      "relationship": "Natural transition option when opponent attempts to extract hooked leg or stands to disengage from DLR control"
+    },
+    {
+      "name": "Spider Guard",
+      "relationship": "Alternative open guard with similar distance control principles that can be combined with DLR for hybrid control systems"
+    },
+    {
+      "name": "Lasso Guard",
+      "relationship": "Can be combined with DLR hook for powerful hybrid control systems that restrict opponent's mobility and posture"
+    },
+    {
+      "name": "Open Guard",
+      "relationship": "Parent category containing DLR as specialized variation within the broader open guard family"
+    },
+    {
+      "name": "Butterfly Guard",
+      "relationship": "Related open guard system with different hook mechanics that serves as alternative when DLR is compromised"
+    },
+    {
+      "name": "K-Guard",
+      "relationship": "Modern guard system accessible from DLR through inversion entries, sharing similar leg entanglement pathways"
+    }
+  ],
+  "top": {
+    "name": "De La Riva Guard Top",
+    "description": "Master De La Riva Guard Top passing in BJJ. Complete guide covering DLR hook removal, pressure strategies, mobile passing, and modern guard passing systems.",
+    "tags": [
+      "bjj position guard-passing de-la-riva top-position",
+      "de la riva guard passing techniques fundamentals",
+      "open guard passing pressure passing toreando"
+    ],
+    "overview": "De La Riva Guard Top position occurs when the top practitioner is facing an opponent playing De La Riva (DLR) guard, where the bottom player has their outside leg hooked behind the top player's near leg while controlling the pants or ankle, with their other leg typically managing distance or controlling the opposite side. The top player's goal is to neutralize the DLR hooks and leg controls, pass the guard, and establish a dominant position. This requires understanding DLR mechanics, applying appropriate pressure, and choosing the right passing strategy based on the bottom player's grips and positioning.\n\nDe La Riva guard is one of the most popular and effective open guards in modern BJJ, making DLR passing a critical skill for any serious competitor. The position presents unique challenges because the DLR hook creates off-balancing and sweeping threats while the opponent maintains distance control. Top players must balance maintaining good posture and base while simultaneously dismantling the guard structure. Modern DLR passing has evolved to include pressure-based approaches, mobile passing strategies, and combination techniques that address multiple DLR variations. Success requires systematic understanding of hook mechanics, grip fighting expertise, and the ability to chain multiple passing sequences when the initial attack is defended.\n\nThe fundamental strategic tension for the top player is that DLR operates most effectively at mid-range. The hook-plus-ankle-grip combination creates a powerful control system at this distance, so the passer must choose between two macro strategies: either create distance to extend and weaken the guard structure, or collapse the space entirely to nullify the hook's leverage. Both approaches have merit depending on the bottom player's grip configuration and athletic attributes. Pressure passers who can flatten the DLR player's hips tend to favor closing distance, while mobile passers who chain toreando and leg drag sequences prefer creating space first.\n\nThe most effective DLR passers develop a systematic approach that addresses each control element in sequence: first strip or neutralize the ankle grip, then address the DLR hook through positioning or backstep, and finally execute the guard pass before the bottom player can re-establish their control structure. This methodical dismantling of the guard's components is far more reliable than attempting to pass directly through an established DLR framework, which plays into the guard player's strengths and exposes the passer to sweeps and back takes.",
+    "state_properties": {
+      "point_value": 0,
+      "position_type": "Offensive",
+      "risk_level": "Medium",
+      "energy_cost": "Medium",
+      "time_sustainability": "Medium"
+    },
+    "state_invariants": [
+      "Bottom player has DLR hook active behind top player's leg, creating off-balancing leverage with their shin or foot pressuring behind the knee or thigh, establishing the fundamental mechanical disadvantage for the top player",
+      "Bottom player maintains distance control through legs or grips, typically controlling the top player's ankle, pants, or belt with their hands while their free leg creates frames or distance management, preventing immediate passing pressure"
+    ],
+    "prerequisites": [
+      "Understanding of DLR guard mechanics and sweep threats including berimbolo, waiter sweep, and forward sweeps that exploit the hook's off-balancing power",
+      "Good base and balance to resist off-balancing, particularly against forward pressure from the DLR hook combined with ankle grip pulling force",
+      "Grip fighting skills to strip or control the ankle or pants grip that powers DLR control, as this grip is essential to the guard's effectiveness"
+    ],
+    "key_principles": [
+      "Posture Maintenance: Stay upright with chest elevated and hips back to prevent forward sweeps and maintain balance against the DLR hook's off-balancing attempts",
+      "Grips: Strip or control the ankle or pants grip that powers DLR control, as this grip combined with the hook creates the primary sweeping mechanism",
+      "Hook Removal: Neutralize the DLR hook through pressure, leg positioning, or strategic movement to remove the bottom player's primary control point",
+      "Hip Control: Don't allow bottom player to maintain optimal hip angle perpendicular to you, as this angle maximizes their sweeping power and berimbolo entries",
+      "Pressure: Once hooks are neutralized, apply passing pressure immediately to prevent guard recovery",
+      "Distance Management: Choose decisively between extending distance to weaken the guard structure or collapsing space to nullify the hook's leverage"
+    ],
+    "transitions": [
+      {
+        "transition": "Toreando Pass",
+        "attempt_probability": {
+          "gi": 11,
+          "nogi": 10
+        }
+      },
+      {
+        "transition": "Knee Slice Pass",
+        "attempt_probability": {
+          "gi": 13,
+          "nogi": 12
+        }
+      },
+      {
+        "transition": "X Pass",
+        "attempt_probability": {
+          "gi": 6,
+          "nogi": 5
+        }
+      },
+      {
+        "transition": "Leg Drag Pass",
+        "attempt_probability": {
+          "gi": 14,
+          "nogi": 13
+        }
+      },
+      {
+        "transition": "Long Step Pass",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 6
+        }
+      },
+      {
+        "transition": "Smash Pass",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 4
+        }
+      },
+      {
+        "transition": "Back Step Pass",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 8
+        }
+      },
+      {
+        "transition": "Body Lock Pass",
+        "attempt_probability": {
+          "gi": 9,
+          "nogi": 13
+        }
+      },
+      {
+        "transition": "Stack Pass",
+        "attempt_probability": {
+          "gi": 3,
+          "nogi": 3
+        }
+      },
+      {
+        "transition": "Toreando Pass from De La Riva",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 9
+        }
+      },
+      {
+        "transition": "Backstep from De La Riva",
+        "attempt_probability": {
+          "gi": 6,
+          "nogi": 6
+        }
+      },
+      {
+        "transition": "Knee Slice from DLR",
+        "attempt_probability": {
+          "gi": 6,
+          "nogi": 5
+        }
+      },
+      {
+        "transition": "Leg Drag from DLR",
+        "attempt_probability": {
+          "gi": 6,
+          "nogi": 6
+        }
+      }
+    ],
+    "decision_tree": [
+      {
+        "condition": "If opponent maintains strong DLR hook with ankle grip and perpendicular hip angle",
+        "actions": [
+          {
+            "technique": "Toreando Pass",
+            "target": "Side Control",
+            "probability": 50
+          },
+          {
+            "technique": "X Pass",
+            "target": "Side Control",
+            "probability": 45
+          }
+        ]
+      },
+      {
+        "condition": "If opponent's DLR hook is shallow or ankle grip is broken",
+        "actions": [
+          {
+            "technique": "Knee Slice Pass",
+            "target": "Side Control",
+            "probability": 55
+          },
+          {
+            "technique": "Leg Drag Pass",
+            "target": "Leg Drag Control",
+            "probability": 50
+          }
+        ]
+      },
+      {
+        "condition": "If opponent attempts to transition to reverse DLR or X-Guard",
+        "actions": [
+          {
+            "technique": "Long Step Pass",
+            "target": "Headquarters Position",
+            "probability": 48
+          },
+          {
+            "technique": "Leg Drag Pass",
+            "target": "Leg Drag Control",
+            "probability": 52
+          }
+        ]
+      },
+      {
+        "condition": "If opponent inverts for berimbolo or kiss of the dragon attempt",
+        "actions": [
+          {
+            "technique": "Smash Pass",
+            "target": "Side Control",
+            "probability": 55
+          },
+          {
+            "technique": "Knee Slice Pass",
+            "target": "Headquarters Position",
+            "probability": 45
+          }
+        ]
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Leaning forward over opponent with poor posture and head position ahead of hips",
+        "consequence": "DLR guard's primary threat is off-balancing you forward using the hook and grip combination. Poor posture makes these sweeps high-percentage, resulting in you being swept and guard player achieving top position or back take",
+        "correction": "Maintain upright posture with chest up and hips back. Your head should be over or slightly behind your hips, not leaning forward. Think about sitting back into their guard rather than leaning over them. Strong core engagement prevents being pulled forward"
+      },
+      {
+        "error": "Allowing opponent to maintain perpendicular hip angle throughout passing sequence",
+        "consequence": "DLR guard is most effective when bottom player's hips are angled perpendicular to you. This angle creates maximum sweep leverage and berimbolo entry opportunities. Allowing them to maintain it makes passing extremely difficult",
+        "correction": "Flatten their hips by pressuring their non-hooked leg toward the mat, or control their hips directly with hand grips. Force them to face you more squarely, which nullifies much of DLR's sweeping power. Their hips should be flat or at least not perfectly angled"
+      },
+      {
+        "error": "Ignoring grip fighting and allowing opponent to maintain strong ankle or pants grips",
+        "consequence": "The ankle or pants grip combined with the DLR hook creates a powerful control system. Without addressing grips, even perfect posture won't prevent sweeps or off-balancing",
+        "correction": "Immediately strip the ankle grip using your free hand, or secure a counter-grip on their collar or lapel to break their posture. If you can't strip it immediately, use your grips to control their upper body and limit their ability to use the ankle grip effectively"
+      },
+      {
+        "error": "Standing too close to opponent and allowing them to maintain compact guard structure",
+        "consequence": "DLR is most dangerous at mid-range where the hook and grips create optimal leverage. Standing too close allows them to maintain this ideal distance while limiting your passing options",
+        "correction": "Create distance first by backing away and extending their legs, or close distance completely by smashing into them. Avoid the mid-range danger zone where DLR thrives. Either make them extend (weakening their structure) or collapse the space entirely (removing hook effectiveness)"
+      },
+      {
+        "error": "Using tentative, half-committed passing attempts without full commitment to direction",
+        "consequence": "DLR rewards patient guard players who can read telegraphed movements. Tentative passing gives them time to adjust, reset grips, and execute sweeps or transitions",
+        "correction": "Once you've chosen a passing direction, commit fully with explosive movement and proper grips. If you're going to pass right, drive hard right. If you're going to backstep, backstep decisively. Hesitation in the middle of a pass is when you're most vulnerable"
+      },
+      {
+        "error": "Attempting to pass without first addressing the DLR hook and forcing the issue",
+        "consequence": "Passing directly into an active DLR hook gives the bottom player maximum leverage for sweeps, berimbolo entries, and back takes during your movement",
+        "correction": "Always establish a clear sequence: strip or weaken the ankle grip, address the DLR hook through backstep or pressure, then initiate the pass. Skipping hook removal steps is the most common reason DLR passes fail at competitive levels"
+      }
+    ],
+    "training_drills": [
+      {
+        "name": "DLR Hook Removal Drill",
+        "description": "Partner establishes DLR hook with ankle grip. Top player practices three different hook removal methods: backstep to remove hook, pressure non-hooked leg across body while circling away from hook, and forward pressure to flatten hips and strip hook. Focus on maintaining posture throughout. Reset after each successful removal.",
+        "duration": "5 minutes per method"
+      },
+      {
+        "name": "Grips Flow Drill",
+        "description": "Bottom player establishes DLR with various grips (ankle, pants, belt, collar). Top player drills grip strips, counter-grips, and grip-fighting sequences while maintaining good posture and base. Bottom player actively fights to maintain grips. Practice transitions from successful grip breaks into passing entries.",
+        "duration": "6 minutes"
+      },
+      {
+        "name": "DLR Passing Chains Drill",
+        "description": "Partner plays active DLR guard with full resistance. Top player drills passing chains: start with toreando, if blocked flow to knee slice, if blocked flow to leg drag, if blocked flow to X-pass. Focus on reading bottom player's defensive reactions and smoothly chaining between passing options without resetting.",
+        "duration": "7 minutes"
+      },
+      {
+        "name": "Inversion Defense Drill",
+        "description": "Partner plays DLR and actively attempts berimbolo and kiss of the dragon entries. Top player practices recognizing inversion triggers, maintaining hip connection, and using backstep or smash pressure to shut down inversions before they develop. Builds reaction time against the most dangerous DLR attacks.",
+        "duration": "5 minutes"
+      }
+    ],
+    "related_content": [
+      {
+        "name": "De La Riva Guard",
+        "relationship": "The guard position being faced from top - direct counterpart position"
+      },
+      {
+        "name": "Reverse De La Riva Guard",
+        "relationship": "Common transition target for bottom player during DLR passing attempts"
+      },
+      {
+        "name": "X-Guard",
+        "relationship": "Common transition target for bottom player from DLR when hook is threatened"
+      },
+      {
+        "name": "Single Leg X-Guard",
+        "relationship": "Transition option for bottom player when DLR hook is threatened or removed"
+      },
+      {
+        "name": "Side Control",
+        "relationship": "Primary target position after successful DLR pass completion"
+      },
+      {
+        "name": "Headquarters Position",
+        "relationship": "Intermediate passing position often reached when partially neutralizing DLR structure"
+      },
+      {
+        "name": "Leg Drag Control",
+        "relationship": "Alternative passing endpoint that exposes back and creates follow-up opportunities"
+      },
+      {
+        "name": "Knee on Belly",
+        "relationship": "Dominant consolidation option after fast mobile passes against DLR"
+      }
+    ],
+    "position_metrics": {
+      "retention_rate": {
+        "value": 60,
+        "description": "Percentage of time top position is maintained without being swept or reversed"
+      },
+      "advancement_probability": {
+        "value": 60,
+        "description": "Likelihood of successfully passing guard and establishing dominant position"
+      },
+      "submission_probability": {
+        "value": 20,
+        "description": "Probability of achieving submission during or after successful guard pass"
+      },
+      "average_time": "45-90 seconds before pass or sweep"
+    },
+    "clips": [
+      {
+        "id": "py3b0tmTJuU",
+        "title": "De La Riva float pass",
+        "by": "TrickyBJJ Academy",
+        "vertical": false,
+        "channel": "TrickyBJJ Academy",
+        "duration": 57,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "S5IKZijyNMc",
+        "title": "Destroy the De La Riva pass",
+        "by": "Augusto Frota",
+        "vertical": false,
+        "channel": "Gile23",
+        "duration": 51,
+        "verified": "2026-07-14"
+      }
+    ]
+  },
+  "bottom": {
+    "name": "De La Riva Guard Bottom",
+    "description": "Master De La Riva Guard Bottom in BJJ. Hook-based offensive guard with berimbolo entries, sweeps, and back takes. Complete guide with 65% advanced success.",
+    "tags": [
+      "bjj position de-la-riva open-guard sweeps back-takes",
+      "de la riva guard bottom technique fundamentals",
+      "berimbolo entry kiss of the dragon variations"
+    ],
+    "overview": "De La Riva Guard Bottom is one of the most dynamic and versatile open guard positions in modern Brazilian Jiu-Jitsu. Named after Ricardo De La Riva who revolutionized its use in the 1980s, this position is characterized by the bottom player hooking their opponent's leg from the outside while controlling the opposite sleeve or collar. The De La Riva hook, created by threading your leg around the outside of your opponent's near leg and hooking behind their knee, creates powerful off-balancing opportunities and serves as the foundation for numerous sweeps, back takes, and leg entanglements.\n\nThis position excels at disrupting your opponent's base and posture, making it difficult for them to establish effective pressure or initiate guard passes. The De La Riva hook combined with strategic grips allows the bottom player to control distance, create angles, and threaten multiple attack sequences simultaneously. The position's effectiveness stems from its ability to break down the opponent's structure while maintaining offensive options - when executed properly, it forces the top player into a defensive posture rather than allowing them to dictate the pace of the engagement.\n\nDe La Riva Guard Bottom has become fundamental to competitive BJJ, particularly in no-gi grappling where it transitions seamlessly into leg lock systems and back attacks. The position offers exceptional versatility, allowing practitioners to chain together sweeps, transitions to other guards (X-Guard, Single Leg X), and direct paths to dominant positions like the back or mount. Its modern applications have expanded the position's scope to include berimbolo entries, kiss of the dragon variations, and sophisticated leg entanglement systems that chain directly into ashi garami and heel hook attacks.\n\nThe guard's strategic depth lies in the dilemma structure it creates. When the top player resists being pulled forward, the bottom player transitions underneath to X-Guard or Single Leg X. When they drive forward with pressure, berimbolo and kiss of the dragon entries become available. When they attempt to strip grips, basic sweeps catch them during the transition. This layered threat matrix is what separates intermediate DLR players from advanced ones - the ability to read reactions and flow between attack chains without resetting to neutral.",
+    "state_properties": {
+      "point_value": 0,
+      "position_type": "Offensive",
+      "risk_level": "Medium",
+      "energy_cost": "Medium",
+      "time_sustainability": "Medium"
+    },
+    "state_invariants": [
+      "Bottom player's outside leg threaded around opponent's near leg with foot hooking behind their knee, creating the signature De La Riva hook that controls their base and prevents forward pressure",
+      "Bottom player controlling opponent's opposite sleeve or collar with a cross grip, creating a diagonal control system that disrupts their posture and enables angular attacks"
+    ],
+    "prerequisites": [
+      "Opponent in open guard passing position on their knees or in combat base",
+      "Bottom player has established the De La Riva hook around opponent's near leg",
+      "Bottom player has secured a cross grip on opponent's opposite sleeve, collar, or lapel"
+    ],
+    "key_principles": [
+      "Maintain constant tension on the De La Riva hook by pulling your knee toward your chest and driving your hooking foot into the back of their knee",
+      "Create diagonal control by combining the hook with a strong cross grip to break down their posture and prevent them from squaring up to you",
+      "Use your non-hooking leg actively to manage distance - placing it on their hip, knee, or bicep to prevent them from closing distance and smashing forward",
+      "Keep your hips mobile and shoulders slightly off the mat to enable quick angle changes, inversions, and transitions to other positions",
+      "Constantly off-balance your opponent by pulling with your grips while extending and retracting the De La Riva hook to disrupt their base",
+      "Read opponent's weight distribution to select the correct attack chain - forward pressure opens inversions while upright posture opens under-transitions"
+    ],
+    "transitions": [
+      {
+        "transition": "De La Riva Sweep",
+        "attempt_probability": {
+          "gi": 17,
+          "nogi": 14
+        }
+      },
+      {
+        "transition": "De La Riva to X-Guard Transition",
+        "attempt_probability": {
+          "gi": 13,
+          "nogi": 18
+        }
+      },
+      {
+        "transition": "Berimbolo Entry",
+        "attempt_probability": {
+          "gi": 14,
+          "nogi": 8
+        }
+      },
+      {
+        "transition": "Single Leg X Entry",
+        "attempt_probability": {
+          "gi": 11,
+          "nogi": 22
+        }
+      },
+      {
+        "transition": "Waiter Sweep",
+        "attempt_probability": {
+          "gi": 4,
+          "nogi": 3
+        }
+      },
+      {
+        "transition": "Balloon Sweep",
+        "attempt_probability": {
+          "gi": 2,
+          "nogi": 2
+        }
+      },
+      {
+        "transition": "Sickle Sweep",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 6
+        }
+      },
+      {
+        "transition": "Tripod Sweep",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 11
+        }
+      },
+      {
+        "transition": "Omoplata from De La Riva Guard",
+        "attempt_probability": {
+          "gi": 3,
+          "nogi": 3
+        }
+      },
+      {
+        "transition": "Triangle Setup from De La Riva",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 5
+        }
+      },
+      {
+        "transition": "Triangle Choke from De La Riva",
+        "attempt_probability": {
+          "gi": 3,
+          "nogi": 3
+        }
+      },
+      {
+        "transition": "De La Riva to Inverted Guard",
+        "attempt_probability": {
+          "gi": 5,
+          "nogi": 4
+        }
+      },
+      {
+        "transition": "De La Riva to Grasshopper Guard",
+        "attempt_probability": {
+          "gi": 2,
+          "nogi": 1
+        }
+      },
+      {
+        "transition": "De La Riva to Lapel Guard",
+        "attempt_probability": {
+          "gi": 8,
+          "nogi": 0
+        }
+      }
+    ],
+    "decision_tree": [
+      {
+        "condition": "If opponent maintains upright posture and resists being pulled forward",
+        "actions": [
+          {
+            "technique": "De La Riva to X-Guard Transition",
+            "target": "X-Guard",
+            "probability": 70
+          },
+          {
+            "technique": "Single Leg X Entry",
+            "target": "Single Leg X-Guard",
+            "probability": 65
+          }
+        ]
+      },
+      {
+        "condition": "If opponent drives forward with pressure attempting to smash the guard",
+        "actions": [
+          {
+            "technique": "Berimbolo Entry",
+            "target": "Back Control",
+            "probability": 60
+          },
+          {
+            "technique": "Kiss of the Dragon",
+            "target": "Back Control",
+            "probability": 55
+          }
+        ]
+      },
+      {
+        "condition": "If opponent posts on your non-hooking leg and attempts to clear the De La Riva hook",
+        "actions": [
+          {
+            "technique": "De La Riva Sweep",
+            "target": "Mount",
+            "probability": 65
+          },
+          {
+            "technique": "Waiter Sweep",
+            "target": "Side Control",
+            "probability": 60
+          }
+        ]
+      },
+      {
+        "condition": "If opponent stands upright with weight on their heels and attempts to disengage",
+        "actions": [
+          {
+            "technique": "Outside Ashi Entry",
+            "target": "Outside Ashi-Garami",
+            "probability": 55
+          },
+          {
+            "technique": "Balloon Sweep",
+            "target": "Mount",
+            "probability": 50
+          }
+        ]
+      }
+    ],
+    "common_errors": [
+      {
+        "error": "Allowing the De La Riva hook to go slack or releasing tension on the opponent's trapped leg",
+        "consequence": "Opponent can easily step back and clear the hook, eliminating your primary control mechanism and allowing them to pass",
+        "correction": "Maintain constant pulling pressure with your hooking leg by keeping your knee pulled toward your chest and actively driving your foot into the back of their knee"
+      },
+      {
+        "error": "Losing the cross grip on the opponent's far sleeve or collar",
+        "consequence": "Without the diagonal control system, opponent can square up their posture, establish better base, and pass with pressure",
+        "correction": "Fight aggressively for the cross grip and if broken, immediately re-establish it or transition to a different guard position"
+      },
+      {
+        "error": "Allowing your non-hooking leg to be controlled or trapped by the opponent",
+        "consequence": "Losing your free leg makes it nearly impossible to maintain distance, change angles, or execute sweeps and transitions",
+        "correction": "Keep your non-hooking leg active and mobile, constantly repositioning it on their hip, bicep, or knee to maintain control of distance"
+      },
+      {
+        "error": "Staying static in one configuration without threatening attacks or changing angles",
+        "consequence": "Opponent can settle into a defensive position, work on clearing your hooks methodically, and eventually pass your guard",
+        "correction": "Constantly chain attacks together, move your hips to create new angles, and threaten multiple techniques to keep opponent reactive"
+      },
+      {
+        "error": "Flattening your back completely to the mat and losing hip mobility",
+        "consequence": "Cannot execute inversions, berimbolo entries, or quick angle changes that make De La Riva guard effective",
+        "correction": "Keep your shoulders slightly elevated off the mat and maintain active hip movement to enable dynamic transitions"
+      },
+      {
+        "error": "Attempting berimbolo or inversion entries without first establishing proper grip control",
+        "consequence": "Inversions without upper body control leave you exposed to back passes and stack passing, turning your attack into their passing opportunity",
+        "correction": "Always secure both the DLR hook tension and a strong upper body grip before committing to any inversion. The cross grip or belt grip is your safety line during the roll"
+      }
+    ],
+    "training_drills": [
+      {
+        "name": "De La Riva Hook Retention Drill",
+        "description": "Partner attempts to clear your De La Riva hook using various methods (stepping back, circling, driving forward) while you maintain the hook and grips. Focus on keeping constant tension and re-establishing the hook if temporarily cleared. 3-minute rounds switching roles.",
+        "duration": "3 minutes per round"
+      },
+      {
+        "name": "Sweep Chain Flow Drill",
+        "description": "Starting from De La Riva guard, flow through a sequence of sweeps based on partner's reactions: attempt the basic De La Riva sweep, if defended flow to waiter sweep, then to balloon sweep. Partner provides progressive resistance. Focus on smooth transitions between techniques without resetting to neutral.",
+        "duration": "5 minutes per round"
+      },
+      {
+        "name": "Berimbolo Entry Repetitions",
+        "description": "Practice entering the berimbolo from De La Riva guard with partner providing 50% resistance. Focus on timing the entry when opponent drives forward, maintaining the De La Riva hook throughout the inversion, and coming up to back control. Perform 10 repetitions per side, then switch roles.",
+        "duration": "10 repetitions each side"
+      },
+      {
+        "name": "DLR to X-Guard Flow Drill",
+        "description": "Partner maintains upright posture in your DLR guard. Practice the transition to X-Guard by threading your bottom hook while converting the DLR hook to top X-Guard hook. Once in X-Guard, immediately sweep, then reset to DLR and repeat. Develops the most common positional transition from DLR.",
+        "duration": "5 minutes per round"
+      }
+    ],
+    "related_content": [
+      {
+        "name": "X-Guard",
+        "relationship": "Common transition target from De La Riva when opponent maintains upright posture"
+      },
+      {
+        "name": "Single Leg X-Guard",
+        "relationship": "Alternative guard option when opponent stands or posts on free leg"
+      },
+      {
+        "name": "Reverse De La Riva Guard",
+        "relationship": "Counter-option when opponent drives forward with smash passing pressure"
+      },
+      {
+        "name": "Back Control",
+        "relationship": "Primary dominant position target via berimbolo and kiss of the dragon entries"
+      },
+      {
+        "name": "Outside Ashi-Garami",
+        "relationship": "Leg entanglement option when opponent stands to disengage"
+      },
+      {
+        "name": "K-Guard",
+        "relationship": "Modern guard accessible through DLR inversions, sharing leg entanglement pathways"
+      },
+      {
+        "name": "Collar Sleeve Guard",
+        "relationship": "Alternative open guard that shares grip principles and can be combined with DLR hook"
+      }
+    ],
+    "position_metrics": {
+      "retention_rate": {
+        "value": 68,
+        "description": "Percentage of time guard is maintained against passing attempts across skill levels"
+      },
+      "advancement_probability": {
+        "value": 62,
+        "description": "Likelihood of successfully advancing to dominant position through sweeps or transitions"
+      },
+      "submission_probability": {
+        "value": 28,
+        "description": "Probability of achieving submission directly from this position or immediate follow-up"
+      },
+      "average_time": "45-90 seconds per engagement"
+    },
+    "clips": [
+      {
+        "id": "IvzYCJN4H1I",
+        "title": "Side sweep with the belt from DLR",
+        "by": "Mikey Musumeci",
+        "vertical": false,
+        "channel": "BJJ Fanatics",
+        "duration": 164,
+        "verified": "2026-07-14"
+      },
+      {
+        "id": "ErsvmCAGxnA",
+        "title": "Retaining DLR vs heavy pressure",
+        "by": "Chase Namba",
+        "vertical": false,
+        "channel": "Chase Namba",
+        "duration": 78,
+        "verified": "2026-07-14"
+      }
+    ]
+  },
+  "flashcards_family": [
+    {
+      "question": "What makes the De La Riva hook a fundamentally different control mechanism than a static frame-based guard?",
+      "answer": "The De La Riva hook is a live, wrapped connection to the opponent's base whose tension can lengthen and shorten to actively steer their weight. Unlike a static frame that merely holds the opponent at distance, the hook wraps around the outside of the lead leg and pressures behind the knee, connecting the guard player directly to the opponent's base. Because the hook is wrapped rather than posted, the opponent's own base becomes the lever, so their attempts to step, stand, or drive forward feed off-balancing energy back into the sweep. Every De La Riva variant inherits this principle: the hook is an active steering wheel on the opponent's balance, not a wall.",
+      "distractors": {
+        "plausible": [
+          "Static frame keeps distance",
+          "Hook only traps the leg"
+        ],
+        "trap": [
+          "Post stiff frame and get stacked"
+        ]
+      },
+      "answer_line": "Live hook steers their base"
+    },
+    {
+      "question": "Why is the two-point connection of hook-plus-grip essential to every De La Riva variant?",
+      "answer": "A hook alone controls only the opponent's leg, allowing them to rotate their upper body, re-post their hands, and square up to smash the guard. Pairing the leg hook with a hand grip on a sleeve, collar, ankle, or pant creates a diagonal control line that simultaneously pins the base and disrupts the posture, so the opponent cannot align their hips and shoulders over their base. This two-point structure is what converts mere leg contact into genuine off-balancing power, because the grip prevents the opponent from recovering the posture they need to defend the sweep. Whether the hook is standard or reversed, losing either connection collapses the dilemma and lets the opponent begin passing.",
+      "answer_line": "Hook plus grip breaks posture",
+      "distractors": {
+        "plausible": [
+          "The leg wrap works by itself",
+          "Ankle control stops the pass"
+        ],
+        "trap": [
+          "Let go of sleeves, get smashed"
+        ]
+      }
+    },
+    {
+      "question": "How does the dilemma-based reaction structure define De La Riva as a system rather than a single sweep?",
+      "answer": "De La Riva is a system because every reasonable defensive reaction opens a different pre-loaded attack, so it targets the opponent's decision itself. When the opponent drives forward, inversion and back-take entries open; when they stand tall or lean back, under-transitions to X-Guard and Single Leg X become available; when they strip grips, timing windows for direct sweeps appear. Because no single technique has to succeed, the guard player attacks the opponent's choice rather than any single limb. This reaction matrix is the strategic core shared by all variants, and reading which reaction is coming is what separates competent from dangerous De La Riva players.",
+      "distractors": {
+        "plausible": [
+          "Chains sweeps in a set order",
+          "Wins by isolating the lead leg"
+        ],
+        "trap": [
+          "Commit to one plan, get passed"
+        ]
+      },
+      "answer_line": "Attacks reaction, not the limb"
+    },
+    {
+      "question": "Why does the De La Riva player prioritize creating and constantly changing angles rather than working from a square, facing position?",
+      "answer": "An angled, off-line hip position points the hook's force across the opponent's narrow base instead of into their strongest defensive posture. From a square, facing position the opponent can stack weight forward and smash, but from an angle their base becomes a narrow, tippable line. Constantly shifting the angle also keeps the opponent reactive and prevents them from settling into a stable passing platform. This is why every variant emphasizes mobile hips and shoulders slightly off the mat: the angle is the engine of the sweep, and a static angle is a defeated guard.",
+      "distractors": {
+        "plausible": [
+          "Pick one angle and hold it",
+          "Stay facing for cleaner grips"
+        ],
+        "trap": [
+          "Square up and get stacked flat"
+        ]
+      },
+      "answer_line": "Angle attacks their narrow base"
+    },
+    {
+      "question": "What universal vulnerability does any De La Riva player accept in exchange for the hook's offensive power?",
+      "answer": "Threading a leg around the outside of the opponent's leg commits that limb to control rather than to framing, so if the opponent clears or extracts the hook the guard player is momentarily down a defensive structure. Inversions and berimbolo-style entries that make the guard dangerous also expose the back and invite stack and back-step passing if upper-body control is lost mid-rotation. The guard therefore depends on maintaining hook tension and a grip as a safety line at all times; slack in either turns the guard's own committed structure into the passer's opportunity. This risk-reward tradeoff is inherent to the family and is why grip retention is treated as non-negotiable across every variant.",
+      "answer_line": "Committed leg can't frame",
+      "distractors": {
+        "plausible": [
+          "Only risk is a stripped grip",
+          "Hook drains your sweep power"
+        ],
+        "trap": [
+          "Invert without upper-body control"
+        ]
+      }
+    },
+    {
+      "question": "Why is mid-range the decisive battleground in every De La Riva exchange, regardless of variant?",
+      "answer": "The hook-plus-grip combination generates its strongest leverage at mid-range, where the guard player can keep tension on the trapped leg while the free leg manages distance against the hips or biceps. If the opponent collapses the space entirely, the hook loses its lengthening leverage and can be smashed flat; if the opponent extends too far, the guard player must convert to a leg-entanglement guard like X-Guard or Single Leg X to keep the connection. Both the passer and the guard player are therefore fighting over this distance, and whoever controls it dictates whether sweeps or passes become available. Understanding that De La Riva lives and dies at mid-range explains why distance management, not raw strength, decides the exchange in any variant.",
+      "answer_line": "Mid-range maximizes hook power",
+      "distractors": {
+        "plausible": [
+          "Close distance for stronger hook",
+          "Extend fully to lock the leg"
+        ],
+        "trap": [
+          "Let opponent smash space flat"
+        ]
+      }
+    },
+    {
+      "question": "Why is the De La Riva family treated as a hub that connects to X-Guard, Single Leg X, and leg-entanglement systems rather than an endpoint?",
+      "answer": "Because the hook already establishes a deep connection to the opponent's leg and base, it sits one motion away from other under-the-opponent control systems that share the same off-balancing mechanics. When the opponent defends by standing or extending, the guard player threads underneath to X-Guard or Single Leg X; when they present the leg, ashi-garami and leg-lock entries open. This interconnectivity means the guard rarely needs to force a single finish and can flow to whichever system the opponent's defense leaves undefended. Treating De La Riva as a launch point rather than a destination is a defining strategic principle of the family and the reason it anchors so much of modern guard play.",
+      "answer_line": "Hub feeding X-Guard, SLX, leglocks",
+      "distractors": {
+        "plausible": [
+          "Just a setup for berimbolo",
+          "Mainly a stalling open guard"
+        ],
+        "trap": [
+          "Force the sweep and get passed"
+        ]
+      }
+    }
+  ],
+  "flashcards_position": [
+    {
+      "question": "What is the defining structural configuration of De La Riva Guard?",
+      "answer": "De La Riva Guard is defined by the outside leg wrapping the top player's lead leg from the outside, hooking behind the knee or thigh. This DLR hook is paired with a same-side grip on the ankle or pant cuff and an opposite-side grip on the sleeve, collar, or lapel, creating a diagonal two-point connection. The result is an off-angle, hook-based open guard where the bottom player sits outside the top player's near leg rather than square to them. That wrapping hook, rather than any frame or clamp, is what distinguishes DLR from every other open guard.",
+      "distractors": {
+        "plausible": [
+          "Inside wrap on the lead leg",
+          "Both legs wrap the same leg"
+        ],
+        "trap": [
+          "Wrap deep with no grips, get dragged"
+        ]
+      },
+      "answer_line": "Outside hook behind the knee"
+    },
+    {
+      "question": "How does the De La Riva hook generate off-balancing leverage on the top player?",
+      "answer": "The hook pulls the trapped leg forward and inward from behind the knee while the ankle grip anchors it, loading the top player's base. This couples the trapped leg to the bottom player's core, so extending or retracting the hook directly loads or unloads the top player's base. Because the force is applied behind the knee at the end of a long lever, small hip movements translate into large disruptions of the top player's weight distribution. The top player is repeatedly pulled off their center of balance, which is the mechanical engine behind DLR's sweeps and entries.",
+      "distractors": {
+        "plausible": [
+          "Grip alone off-balances them",
+          "Push them away with stiff arms"
+        ],
+        "trap": [
+          "Sit flat and square your hips"
+        ]
+      },
+      "answer_line": "Hook pulls knee, loads their base"
+    },
+    {
+      "question": "Why is the mid-range distance the critical battleground in De La Riva Guard?",
+      "answer": "DLR is mechanically strongest at mid-range, where the hook can wrap fully behind the knee and the arms can maintain their ankle and sleeve grips with tension. At this distance the hook-plus-grip system creates maximum sweeping leverage while still denying the top player a passing path. If the space collapses, the hook loses its wrap and the top player can smash and flatten the hips; if the space extends too far, the leg structure stretches thin and grips break. Both players therefore fight over this distance band, one trying to hold it and the other trying to escape it in either direction.",
+      "answer_line": "Mid-range holds max sweep leverage",
+      "distractors": {
+        "plausible": [
+          "Close range gives strongest hook",
+          "Far range locks leg tightest"
+        ],
+        "trap": [
+          "Let space collapse to smash"
+        ]
+      }
+    },
+    {
+      "question": "What role does the bottom player's non-hooking leg play in the shared dynamics of the position?",
+      "answer": "The non-hooking leg manages distance and frames on the hip, knee, or bicep, protecting the hook and preserving the perpendicular angle. This second leg prevents the top player from closing space to smash the hook flat. It also serves as the pivot for angle changes, inversions, and transitions to X-Guard or Single Leg X. Control of this free leg is a central contest in the position, because whoever dictates it dictates whether distance and angle can be maintained or destroyed.",
+      "distractors": {
+        "plausible": [
+          "It exists only for balance",
+          "It stays tucked out of play"
+        ],
+        "trap": [
+          "Leave it loose on the mat"
+        ]
+      },
+      "answer_line": "Free leg frames and guards angle"
+    },
+    {
+      "question": "Why is the perpendicular hip angle so important to how De La Riva Guard functions?",
+      "answer": "DLR operates most effectively when the bottom player's hips sit at an off-angle roughly perpendicular to the top player rather than squared up. This angle aligns the hook's pulling vector with the direction that most easily breaks the top player's base and opens the line to the back for berimbolo entries. When the top player succeeds in flattening or squaring the hips, the hook's leverage collapses and its sweeping power largely disappears. The entire positional battle can be read as a fight over whether that perpendicular angle is preserved or destroyed.",
+      "answer_line": "Perpendicular angle breaks base",
+      "distractors": {
+        "plausible": [
+          "Square angle maximizes power",
+          "Angle only helps armbars"
+        ],
+        "trap": [
+          "Square up to finish sweep"
+        ]
+      }
+    },
+    {
+      "question": "What makes De La Riva Guard a dilemma-based or reaction-driven position for both players?",
+      "answer": "The configuration threatens several distinct attacks at once, so each defensive reaction by the top player opens a different pathway. Driving forward with pressure exposes the back and invites berimbolo and inversion entries, standing tall with weight back invites under-transitions to X-Guard and Single Leg X, and stripping grips creates timing windows for direct sweeps. This layered threat matrix forces the top player into a reactive posture where any single response solves one problem while creating another. The position's dynamics therefore reward reading reactions and flowing between chains rather than committing to one predetermined technique.",
+      "answer_line": "Every reaction opens new attack",
+      "distractors": {
+        "plausible": [
+          "One right answer each time",
+          "Grips alone decide the exchange"
+        ],
+        "trap": [
+          "Commit hard to a single sweep"
+        ]
+      }
+    },
+    {
+      "question": "How does De La Riva Guard differ mechanically from adjacent open guards like X-Guard and Single Leg X?",
+      "answer": "DLR wraps a single hook around the outside of the top player's leg while the players remain at mid-range with the top player still standing or on their knees, keeping the bottom player oriented at an off-angle. X-Guard and Single Leg X, by contrast, place the bottom player underneath the top player's base with the legs entangling from below to elevate and topple them. DLR functions as an entry hub to these under-positions, converting its outside hook into an under-connection when the top player stands or the space changes. The distinction is essentially outside-and-alongside control versus underneath-and-elevating control.",
+      "answer_line": "Outside hook vs underneath entangle",
+      "distractors": {
+        "plausible": [
+          "Both control from underneath",
+          "DLR elevates like X-Guard"
+        ],
+        "trap": [
+          "Square up before switching guards"
+        ]
+      }
+    },
+    {
+      "question": "What sustains the connection and control in De La Riva Guard over the course of an exchange?",
+      "answer": "Control is maintained through active, dynamic hook tension rather than a static clamp, with the bottom player constantly pulling the knee toward the chest and driving the foot behind the top player's knee. This is reinforced by the diagonal grip system, one hand on the near ankle or pant cuff and the other cross-gripping the sleeve or collar, which breaks the top player's posture and prevents them from squaring up. Keeping the hips mobile and the shoulders slightly off the mat lets the bottom player continuously change angles rather than settling into one fixed shape. Any slack in the hook or loss of the grips lets the top player step out, flatten the angle, and begin passing.",
+      "answer_line": "Dynamic tension, not static clamp",
+      "distractors": {
+        "plausible": [
+          "Lock hook rigid and still",
+          "Grip strength alone holds it"
+        ],
+        "trap": [
+          "Relax hook to save energy"
+        ]
+      }
+    }
+  ],
+  "clips": [
+    {
+      "id": "_V15lSbYA8k",
+      "title": "Back take from De La Riva",
+      "by": "Elite MMA",
+      "vertical": false,
+      "channel": "Elite MMA",
+      "duration": 77,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "sktKJVpry0k",
+      "title": "DLR mantis back take to bow and arrow",
+      "by": "War Room Jiu Jitsu",
+      "vertical": false,
+      "channel": "War Room Jiu Jitsu",
+      "duration": 58,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "48WwhEdE0NY",
+      "title": "Long De La Riva to back control",
+      "by": "Jimmy Quinlan",
+      "vertical": false,
+      "channel": "Blue Wave Brazilian Jiu Jitsu",
+      "duration": 156,
+      "verified": "2026-07-14"
+    }
+  ]
+}

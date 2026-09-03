@@ -1,0 +1,3658 @@
+---
+title: "Submissions | BJJ Technique Guide | BJJ Map"
+description: "Master all BJJ submission techniques. Complete guide to chokes, joint locks, and finishing positions. Learn setups, and escapes."
+---
+
+<!-- Schema Markup for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Submissions | BJJ Technique Guide",
+  "description": "Master all BJJ submission techniques. Complete guide to chokes, joint locks, and finishing positions. Learn setups, and escapes.",
+  "url": "https://bjjmap.pages.dev/submissions",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "BJJ Submissions",
+  "description": "Complete list of BJJ submissions with detailed guides",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Achilles Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/achilles-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Americana",
+      "url": "https://bjjmap.pages.dev/Submissions/americana"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Americana from 3-4 Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-3-4-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Americana from High Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-high-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Americana from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Americana from Kimura Trap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kimura-trap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "Americana from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "name": "Americana from Modified Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "name": "Americana from Modified Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "name": "Americana from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "name": "Americana from North-South",
+      "url": "https://bjjmap.pages.dev/Submissions/from-north-south"
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "name": "Americana from Reverse Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "name": "Americana from Reverse Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "name": "Americana from S Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-s-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "name": "Americana from Scarf Hold Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-scarf-hold-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "name": "Americana from Shoulder of Justice",
+      "url": "https://bjjmap.pages.dev/Submissions/from-shoulder-of-justice"
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "name": "Americana from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "name": "Americana from Technical Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-technical-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "name": "Anaconda Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/anaconda-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "name": "Anaconda Choke from Anaconda Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-anaconda-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "name": "Anaconda Choke from Dead Orchard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-dead-orchard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "name": "Ankle Lock from X-Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-x-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "name": "Aoki Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/aoki-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "name": "Aoki Lock from Aoki Lock Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-aoki-lock-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "name": "Aoki Lock from Ashi Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "name": "Arm Crush",
+      "url": "https://bjjmap.pages.dev/Submissions/arm-crush"
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "name": "Arm Crush from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "name": "Arm Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/arm-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "name": "Arm Triangle from High Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-high-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "name": "Arm Triangle from Hindulotine",
+      "url": "https://bjjmap.pages.dev/Submissions/from-hindulotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "name": "Arm Triangle from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "name": "Arm Triangle from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "name": "Arm Triangle from Modified Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "name": "Arm Triangle from Reverse Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "name": "Arm Triangle from Reverse Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "name": "Arm Triangle from Scarf Hold Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-scarf-hold-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "name": "Arm Triangle from Shoulder of Justice",
+      "url": "https://bjjmap.pages.dev/Submissions/from-shoulder-of-justice"
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "name": "Arm Triangle from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "name": "Arm Triangle from Turtle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-turtle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "name": "Arm Triangle from Twister Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "name": "Arm in Guillotine",
+      "url": "https://bjjmap.pages.dev/Submissions/arm-in-guillotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "name": "Arm in Guillotine from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "name": "Arm in Guillotine from Guillotine Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guillotine-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "name": "Armbar",
+      "url": "https://bjjmap.pages.dev/Submissions/armbar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "name": "Armbar from Armbar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-armbar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "name": "Armbar from Back",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back"
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "name": "Armbar from Back with Legs",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back-with-legs"
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "name": "Armbar from Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "name": "Armbar from Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "name": "Armbar from High Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-high-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "name": "Armbar from Knee on Belly",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-on-belly"
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "name": "Armbar from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "name": "Armbar from S Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-s-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "name": "Armbar from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "name": "Armbar from Technical Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-technical-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "name": "Banana Split",
+      "url": "https://bjjmap.pages.dev/Submissions/banana-split"
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "name": "Banana Split from Truck",
+      "url": "https://bjjmap.pages.dev/Submissions/from-truck"
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "name": "Baratoplata",
+      "url": "https://bjjmap.pages.dev/Submissions/baratoplata"
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "name": "Baratoplata from Crackhead Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crackhead-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "name": "Baseball Bat Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/baseball-bat-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "name": "Baseball Bat Choke from Knee on Belly",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-on-belly"
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "name": "Belly Down Armbar",
+      "url": "https://bjjmap.pages.dev/Submissions/belly-down-armbar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "name": "Belly Down Armbar from Armbar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-armbar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "name": "Belly Down Armbar from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "name": "Belly Down Armbar from Knee on Belly",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-on-belly"
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "name": "Belly Down Armbar from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 67,
+      "name": "Belly Down Armbar from Lasso Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-lasso-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
+      "name": "Belly Down Armbar from Mission Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mission-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 69,
+      "name": "Belly Down Armbar from Modified Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 70,
+      "name": "Belly Down Armbar from Mounted Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 71,
+      "name": "Belly Down Armbar from Mounted Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 72,
+      "name": "Belly Down Armbar from New York",
+      "url": "https://bjjmap.pages.dev/Submissions/from-new-york"
+    },
+    {
+      "@type": "ListItem",
+      "position": 73,
+      "name": "Belly Down Armbar from Open Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-open-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 74,
+      "name": "Belly Down Armbar from Scarf Hold Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-scarf-hold-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 75,
+      "name": "Belly Down Armbar from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 76,
+      "name": "Belly Down Armbar from Spider Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-spider-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 77,
+      "name": "Belly Down Armbar from Turtle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-turtle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 78,
+      "name": "Belly Down Armbar from Williams Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-williams-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 79,
+      "name": "Bicep Slicer",
+      "url": "https://bjjmap.pages.dev/Submissions/bicep-slicer"
+    },
+    {
+      "@type": "ListItem",
+      "position": 80,
+      "name": "Bicep Slicer from Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 81,
+      "name": "Boston Crab",
+      "url": "https://bjjmap.pages.dev/Submissions/boston-crab"
+    },
+    {
+      "@type": "ListItem",
+      "position": 82,
+      "name": "Boston Crab from Turtle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-turtle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 83,
+      "name": "Bow and Arrow Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/bow-and-arrow-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 84,
+      "name": "Bow and Arrow Choke from Back Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 85,
+      "name": "Bow and Arrow Choke from Body Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-body-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 86,
+      "name": "Bow and Arrow Choke from Harness",
+      "url": "https://bjjmap.pages.dev/Submissions/from-harness"
+    },
+    {
+      "@type": "ListItem",
+      "position": 87,
+      "name": "Bow and Arrow Choke from Invisible Collar",
+      "url": "https://bjjmap.pages.dev/Submissions/from-invisible-collar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 88,
+      "name": "Bow and Arrow Choke from Rear Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rear-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 89,
+      "name": "Bow and Arrow Choke from Rodeo Ride",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rodeo-ride"
+    },
+    {
+      "@type": "ListItem",
+      "position": 90,
+      "name": "Bow and Arrow Choke from Russian Cowboy",
+      "url": "https://bjjmap.pages.dev/Submissions/from-russian-cowboy"
+    },
+    {
+      "@type": "ListItem",
+      "position": 91,
+      "name": "Bow and Arrow Choke from Seat Belt Control Back",
+      "url": "https://bjjmap.pages.dev/Submissions/from-seat-belt-control-back"
+    },
+    {
+      "@type": "ListItem",
+      "position": 92,
+      "name": "Bow and Arrow Choke from Truck",
+      "url": "https://bjjmap.pages.dev/Submissions/from-truck"
+    },
+    {
+      "@type": "ListItem",
+      "position": 93,
+      "name": "Brabo Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/brabo-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 94,
+      "name": "Brabo Choke from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 95,
+      "name": "Breadcutter Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/breadcutter-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 96,
+      "name": "Breadcutter Choke from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 97,
+      "name": "Breadcutter Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 98,
+      "name": "Buggy Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/buggy-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 99,
+      "name": "Buggy Choke from Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 100,
+      "name": "Calf Slicer",
+      "url": "https://bjjmap.pages.dev/Submissions/calf-slicer"
+    },
+    {
+      "@type": "ListItem",
+      "position": 101,
+      "name": "Calf Slicer from 50-50 Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-50-50-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 102,
+      "name": "Calf Slicer from Backside 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-backside-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 103,
+      "name": "Calf Slicer from Carni",
+      "url": "https://bjjmap.pages.dev/Submissions/from-carni"
+    },
+    {
+      "@type": "ListItem",
+      "position": 104,
+      "name": "Calf Slicer from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 105,
+      "name": "Calf Slicer from Inside Sankaku",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-sankaku"
+    },
+    {
+      "@type": "ListItem",
+      "position": 106,
+      "name": "Calf Slicer from Rodeo Ride",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rodeo-ride"
+    },
+    {
+      "@type": "ListItem",
+      "position": 107,
+      "name": "Calf Slicer from Russian Cowboy",
+      "url": "https://bjjmap.pages.dev/Submissions/from-russian-cowboy"
+    },
+    {
+      "@type": "ListItem",
+      "position": 108,
+      "name": "Calf Slicer from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 109,
+      "name": "Calf Slicer from Truck",
+      "url": "https://bjjmap.pages.dev/Submissions/from-truck"
+    },
+    {
+      "@type": "ListItem",
+      "position": 110,
+      "name": "Calf Slicer from Twister Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 111,
+      "name": "Calf Slicer from Twister Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 112,
+      "name": "Can Opener",
+      "url": "https://bjjmap.pages.dev/Submissions/can-opener"
+    },
+    {
+      "@type": "ListItem",
+      "position": 113,
+      "name": "Can Opener from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 114,
+      "name": "Chin Strap Guillotine from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 115,
+      "name": "Choke from Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/choke-from-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 116,
+      "name": "Clock Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/clock-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 117,
+      "name": "Clock Choke from Invisible Collar",
+      "url": "https://bjjmap.pages.dev/Submissions/from-invisible-collar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 118,
+      "name": "Clock Choke from Rodeo Ride",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rodeo-ride"
+    },
+    {
+      "@type": "ListItem",
+      "position": 119,
+      "name": "Cross Collar Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/cross-collar-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 120,
+      "name": "Cross Collar Choke from 3-4 Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-3-4-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 121,
+      "name": "Cross Collar Choke from Body Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-body-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 122,
+      "name": "Cross Collar Choke from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 123,
+      "name": "Cross Collar Choke from High Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-high-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 124,
+      "name": "Cross Collar Choke from Invisible Collar",
+      "url": "https://bjjmap.pages.dev/Submissions/from-invisible-collar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 125,
+      "name": "Cross Collar Choke from Knee on Belly",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-on-belly"
+    },
+    {
+      "@type": "ListItem",
+      "position": 126,
+      "name": "Cross Collar Choke from Modified Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 127,
+      "name": "Cross Collar Choke from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 128,
+      "name": "Crotch Ripper",
+      "url": "https://bjjmap.pages.dev/Submissions/crotch-ripper"
+    },
+    {
+      "@type": "ListItem",
+      "position": 129,
+      "name": "Crotch Ripper from Lockdown",
+      "url": "https://bjjmap.pages.dev/Submissions/from-lockdown"
+    },
+    {
+      "@type": "ListItem",
+      "position": 130,
+      "name": "Darce Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/darce-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 131,
+      "name": "Darce Choke from Darce Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-darce-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 132,
+      "name": "Darce Choke from Leg Drag",
+      "url": "https://bjjmap.pages.dev/Submissions/from-leg-drag"
+    },
+    {
+      "@type": "ListItem",
+      "position": 133,
+      "name": "Darce Choke from Overhook Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-overhook-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 134,
+      "name": "Darce Choke from Twister Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 135,
+      "name": "Electric Chair",
+      "url": "https://bjjmap.pages.dev/Submissions/electric-chair"
+    },
+    {
+      "@type": "ListItem",
+      "position": 136,
+      "name": "Electric Chair from Deep Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-deep-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 137,
+      "name": "Electric Chair from Electric Chair",
+      "url": "https://bjjmap.pages.dev/Submissions/from-electric-chair"
+    },
+    {
+      "@type": "ListItem",
+      "position": 138,
+      "name": "Estima Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/estima-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 139,
+      "name": "Estima Lock from Estima Lock Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-estima-lock-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 140,
+      "name": "Estima Lock from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 141,
+      "name": "Estima Lock from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 142,
+      "name": "Ezekiel Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/ezekiel-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 143,
+      "name": "Ezekiel Choke from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 144,
+      "name": "Ezekiel Choke from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 145,
+      "name": "Ezekiel Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 146,
+      "name": "Far Side Armbar",
+      "url": "https://bjjmap.pages.dev/Submissions/far-side-armbar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 147,
+      "name": "Far Side Armbar from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 148,
+      "name": "Flying Armbar from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 149,
+      "name": "Flying Kneebar",
+      "url": "https://bjjmap.pages.dev/Submissions/flying-kneebar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 150,
+      "name": "Flying Kneebar from Standing Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-standing-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 151,
+      "name": "Gift Wrap Armbar from Gift Wrap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-gift-wrap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 152,
+      "name": "Gogoplata",
+      "url": "https://bjjmap.pages.dev/Submissions/gogoplata"
+    },
+    {
+      "@type": "ListItem",
+      "position": 153,
+      "name": "Gogoplata from Gogoplata Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-gogoplata-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 154,
+      "name": "Guillotine Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/guillotine-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 155,
+      "name": "Guillotine Choke from Butterfly Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-butterfly-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 156,
+      "name": "Guillotine Choke from Clinch",
+      "url": "https://bjjmap.pages.dev/Submissions/from-clinch"
+    },
+    {
+      "@type": "ListItem",
+      "position": 157,
+      "name": "Guillotine Choke from Guillotine Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guillotine-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 158,
+      "name": "Guillotine Choke from Hindulotine",
+      "url": "https://bjjmap.pages.dev/Submissions/from-hindulotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 159,
+      "name": "Guillotine Choke from Twister Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 160,
+      "name": "Heel Hook",
+      "url": "https://bjjmap.pages.dev/Submissions/heel-hook"
+    },
+    {
+      "@type": "ListItem",
+      "position": 161,
+      "name": "Heel Hook from 50-50 Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-50-50-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 162,
+      "name": "Heel Hook from Ashi Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 163,
+      "name": "Heel Hook from Backside 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-backside-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 164,
+      "name": "Heel Hook from Carni",
+      "url": "https://bjjmap.pages.dev/Submissions/from-carni"
+    },
+    {
+      "@type": "ListItem",
+      "position": 165,
+      "name": "Heel Hook from Cross Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-cross-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 166,
+      "name": "Heel Hook from Grasshopper Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-grasshopper-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 167,
+      "name": "Heel Hook from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 168,
+      "name": "Heel Hook from Inside Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 169,
+      "name": "Heel Hook from Inside Sankaku",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-sankaku"
+    },
+    {
+      "@type": "ListItem",
+      "position": 170,
+      "name": "Heel Hook from Kneebar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kneebar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 171,
+      "name": "Heel Hook from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 172,
+      "name": "Heel Hook from Ushiro Ashi",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ushiro-ashi"
+    },
+    {
+      "@type": "ListItem",
+      "position": 173,
+      "name": "High Elbow Guillotine",
+      "url": "https://bjjmap.pages.dev/Submissions/high-elbow-guillotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 174,
+      "name": "High Elbow Guillotine from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 175,
+      "name": "High Elbow Guillotine from Guillotine Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guillotine-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 176,
+      "name": "High Elbow Guillotine from Hindulotine",
+      "url": "https://bjjmap.pages.dev/Submissions/from-hindulotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 177,
+      "name": "Hindulotine",
+      "url": "https://bjjmap.pages.dev/Submissions/hindulotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 178,
+      "name": "Hindulotine from Hindulotine",
+      "url": "https://bjjmap.pages.dev/Submissions/from-hindulotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 179,
+      "name": "Inside Heel Hook",
+      "url": "https://bjjmap.pages.dev/Submissions/inside-heel-hook"
+    },
+    {
+      "@type": "ListItem",
+      "position": 180,
+      "name": "Inside Heel Hook from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 181,
+      "name": "Inside Heel Hook from Inside Sankaku",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-sankaku"
+    },
+    {
+      "@type": "ListItem",
+      "position": 182,
+      "name": "Inside Heel Hook from Ushiro Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ushiro-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 183,
+      "name": "Inverted Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/inverted-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 184,
+      "name": "Inverted Triangle from Triangle Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-triangle-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 185,
+      "name": "Japanese Necktie",
+      "url": "https://bjjmap.pages.dev/Submissions/japanese-necktie"
+    },
+    {
+      "@type": "ListItem",
+      "position": 186,
+      "name": "Japanese Necktie from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 187,
+      "name": "Kesa Gatame Arm Crush",
+      "url": "https://bjjmap.pages.dev/Submissions/kesa-gatame-arm-crush"
+    },
+    {
+      "@type": "ListItem",
+      "position": 188,
+      "name": "Kesa Gatame Arm Crush from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 189,
+      "name": "Kimura",
+      "url": "https://bjjmap.pages.dev/Submissions/kimura"
+    },
+    {
+      "@type": "ListItem",
+      "position": 190,
+      "name": "Kimura from Armbar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-armbar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 191,
+      "name": "Kimura from Butterfly Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-butterfly-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 192,
+      "name": "Kimura from Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 193,
+      "name": "Kimura from Flattened Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-flattened-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 194,
+      "name": "Kimura from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 195,
+      "name": "Kimura from Gift Wrap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-gift-wrap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 196,
+      "name": "Kimura from Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 197,
+      "name": "Kimura from Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 198,
+      "name": "Kimura from High Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-high-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 199,
+      "name": "Kimura from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 200,
+      "name": "Kimura from Kimura Trap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kimura-trap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 201,
+      "name": "Kimura from Knee Shield Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-shield-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 202,
+      "name": "Kimura from Knee on Belly",
+      "url": "https://bjjmap.pages.dev/Submissions/from-knee-on-belly"
+    },
+    {
+      "@type": "ListItem",
+      "position": 203,
+      "name": "Kimura from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 204,
+      "name": "Kimura from Lasso Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-lasso-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 205,
+      "name": "Kimura from Lockdown",
+      "url": "https://bjjmap.pages.dev/Submissions/from-lockdown"
+    },
+    {
+      "@type": "ListItem",
+      "position": 206,
+      "name": "Kimura from Modified Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 207,
+      "name": "Kimura from Modified Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 208,
+      "name": "Kimura from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 209,
+      "name": "Kimura from New York Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-new-york-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 210,
+      "name": "Kimura from Overhook Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-overhook-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 211,
+      "name": "Kimura from Quarter Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-quarter-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 212,
+      "name": "Kimura from Reverse Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 213,
+      "name": "Kimura from Reverse Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 214,
+      "name": "Kimura from S Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-s-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 215,
+      "name": "Kimura from Scarf Hold Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-scarf-hold-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 216,
+      "name": "Kimura from Shoulder of Justice",
+      "url": "https://bjjmap.pages.dev/Submissions/from-shoulder-of-justice"
+    },
+    {
+      "@type": "ListItem",
+      "position": 217,
+      "name": "Kimura from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 218,
+      "name": "Kimura from Standing",
+      "url": "https://bjjmap.pages.dev/Submissions/from-standing"
+    },
+    {
+      "@type": "ListItem",
+      "position": 219,
+      "name": "Kimura from Turtle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-turtle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 220,
+      "name": "Kimura from Twister Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 221,
+      "name": "Kneebar",
+      "url": "https://bjjmap.pages.dev/Submissions/kneebar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 222,
+      "name": "Kneebar from 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 223,
+      "name": "Kneebar from Backside 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-backside-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 224,
+      "name": "Kneebar from Carni",
+      "url": "https://bjjmap.pages.dev/Submissions/from-carni"
+    },
+    {
+      "@type": "ListItem",
+      "position": 225,
+      "name": "Kneebar from Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 226,
+      "name": "Kneebar from Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 227,
+      "name": "Kneebar from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 228,
+      "name": "Kneebar from Inside Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 229,
+      "name": "Kneebar from Inside Sankaku",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-sankaku"
+    },
+    {
+      "@type": "ListItem",
+      "position": 230,
+      "name": "Kneebar from Kneebar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kneebar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 231,
+      "name": "Kneebar from Leg Entanglement",
+      "url": "https://bjjmap.pages.dev/Submissions/from-leg-entanglement"
+    },
+    {
+      "@type": "ListItem",
+      "position": 232,
+      "name": "Kneebar from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 233,
+      "name": "Kneebar from Single Leg X-Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-single-leg-x-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 234,
+      "name": "Kneebar from Straight Ankle Lock Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-straight-ankle-lock-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 235,
+      "name": "Kneebar from Toe Hold Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-toe-hold-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 236,
+      "name": "Kneebar from Top",
+      "url": "https://bjjmap.pages.dev/Submissions/from-top"
+    },
+    {
+      "@type": "ListItem",
+      "position": 237,
+      "name": "Loop Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/loop-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 238,
+      "name": "Loop Choke from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 239,
+      "name": "Loop Choke from Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 240,
+      "name": "Loop Choke from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 241,
+      "name": "Loop Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 242,
+      "name": "Loop Choke from Turtle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-turtle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 243,
+      "name": "Marce Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/marce-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 244,
+      "name": "Marce Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 245,
+      "name": "Mir Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/mir-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 246,
+      "name": "Mir Lock from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 247,
+      "name": "Monoplata",
+      "url": "https://bjjmap.pages.dev/Submissions/monoplata"
+    },
+    {
+      "@type": "ListItem",
+      "position": 248,
+      "name": "Monoplata from Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 249,
+      "name": "Monoplata from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 250,
+      "name": "Mounted Crucifix Armbar",
+      "url": "https://bjjmap.pages.dev/Submissions/mounted-crucifix-armbar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 251,
+      "name": "Mounted Crucifix Armbar from Mounted Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 252,
+      "name": "Neck Crank from Mounted Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 253,
+      "name": "Neck Crank from Twister Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 254,
+      "name": "North-South Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/north-south-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 255,
+      "name": "North-South Choke from Kesa Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 256,
+      "name": "North-South Choke from Modified Scarf Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/from-modified-scarf-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 257,
+      "name": "North-South Choke from North-South",
+      "url": "https://bjjmap.pages.dev/Submissions/from-north-south"
+    },
+    {
+      "@type": "ListItem",
+      "position": 258,
+      "name": "North-South Choke from Reverse Scarf",
+      "url": "https://bjjmap.pages.dev/Submissions/from-reverse-scarf"
+    },
+    {
+      "@type": "ListItem",
+      "position": 259,
+      "name": "North-South Choke from Shoulder of Justice",
+      "url": "https://bjjmap.pages.dev/Submissions/from-shoulder-of-justice"
+    },
+    {
+      "@type": "ListItem",
+      "position": 260,
+      "name": "North-South Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 261,
+      "name": "Omoplata",
+      "url": "https://bjjmap.pages.dev/Submissions/omoplata"
+    },
+    {
+      "@type": "ListItem",
+      "position": 262,
+      "name": "Omoplata from Armbar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-armbar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 263,
+      "name": "Omoplata from Butterfly Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-butterfly-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 264,
+      "name": "Omoplata from Crackhead Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crackhead-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 265,
+      "name": "Omoplata from De La Riva Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-de-la-riva-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 266,
+      "name": "Omoplata from Double Sleeve Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-double-sleeve-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 267,
+      "name": "Omoplata from Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 268,
+      "name": "Omoplata from Inverted Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inverted-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 269,
+      "name": "Omoplata from Omoplata Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-omoplata-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 270,
+      "name": "Omoplata from Rubber Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rubber-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 271,
+      "name": "Omoplata from Russian Leg Lasso",
+      "url": "https://bjjmap.pages.dev/Submissions/from-russian-leg-lasso"
+    },
+    {
+      "@type": "ListItem",
+      "position": 272,
+      "name": "Omoplata from Spider Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-spider-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 273,
+      "name": "Outside Heel Hook",
+      "url": "https://bjjmap.pages.dev/Submissions/outside-heel-hook"
+    },
+    {
+      "@type": "ListItem",
+      "position": 274,
+      "name": "Outside Heel Hook from 50-50 Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-50-50-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 275,
+      "name": "Outside Heel Hook from Backside 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-backside-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 276,
+      "name": "Outside Heel Hook from Cross Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-cross-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 277,
+      "name": "Outside Heel Hook from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 278,
+      "name": "Outside Heel Hook from Leg Entanglement",
+      "url": "https://bjjmap.pages.dev/Submissions/from-leg-entanglement"
+    },
+    {
+      "@type": "ListItem",
+      "position": 279,
+      "name": "Outside Heel Hook from Outside Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-outside-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 280,
+      "name": "Outside Heel Hook from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 281,
+      "name": "Outside Heel Hook from Ushiro Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ushiro-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 282,
+      "name": "Paper Cutter Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/paper-cutter-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 283,
+      "name": "Paper Cutter Choke from Kuzure Kesa-Gatame",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kuzure-kesa-gatame"
+    },
+    {
+      "@type": "ListItem",
+      "position": 284,
+      "name": "Peruvian Necktie",
+      "url": "https://bjjmap.pages.dev/Submissions/peruvian-necktie"
+    },
+    {
+      "@type": "ListItem",
+      "position": 285,
+      "name": "Peruvian Necktie from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 286,
+      "name": "Rear Naked Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/rear-naked-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 287,
+      "name": "Rear Naked Choke from Back Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 288,
+      "name": "Rear Naked Choke from Body Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-body-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 289,
+      "name": "Rear Naked Choke from Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 290,
+      "name": "Rear Naked Choke from Gift Wrap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-gift-wrap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 291,
+      "name": "Rear Naked Choke from Harness",
+      "url": "https://bjjmap.pages.dev/Submissions/from-harness"
+    },
+    {
+      "@type": "ListItem",
+      "position": 292,
+      "name": "Rear Naked Choke from Invisible Collar",
+      "url": "https://bjjmap.pages.dev/Submissions/from-invisible-collar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 293,
+      "name": "Rear Naked Choke from Mounted Crucifix",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-crucifix"
+    },
+    {
+      "@type": "ListItem",
+      "position": 294,
+      "name": "Rear Naked Choke from Rear Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rear-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 295,
+      "name": "Rear Naked Choke from Rodeo",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rodeo"
+    },
+    {
+      "@type": "ListItem",
+      "position": 296,
+      "name": "Rear Naked Choke from Russian Cowboy",
+      "url": "https://bjjmap.pages.dev/Submissions/from-russian-cowboy"
+    },
+    {
+      "@type": "ListItem",
+      "position": 297,
+      "name": "Rear Naked Choke from Seat Belt Control Back",
+      "url": "https://bjjmap.pages.dev/Submissions/from-seat-belt-control-back"
+    },
+    {
+      "@type": "ListItem",
+      "position": 298,
+      "name": "Rear Naked Choke from Standing Back Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-standing-back-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 299,
+      "name": "Rear Naked Choke from Standing Rear Clinch",
+      "url": "https://bjjmap.pages.dev/Submissions/from-standing-rear-clinch"
+    },
+    {
+      "@type": "ListItem",
+      "position": 300,
+      "name": "Rear Triangle Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/rear-triangle-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 301,
+      "name": "Rear Triangle Choke from Back Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 302,
+      "name": "Rear Triangle Choke from Rear Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-rear-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 303,
+      "name": "Reverse Armbar from Mount",
+      "url": "https://bjjmap.pages.dev/Submissions/reverse-armbar-from-mount"
+    },
+    {
+      "@type": "ListItem",
+      "position": 304,
+      "name": "Reverse Kimura",
+      "url": "https://bjjmap.pages.dev/Submissions/reverse-kimura"
+    },
+    {
+      "@type": "ListItem",
+      "position": 305,
+      "name": "Reverse Kimura from Standing Position",
+      "url": "https://bjjmap.pages.dev/Submissions/from-standing-position"
+    },
+    {
+      "@type": "ListItem",
+      "position": 306,
+      "name": "Rolling Armbar from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/rolling-armbar-from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 307,
+      "name": "Rolling Omoplata from Omoplata Control",
+      "url": "https://bjjmap.pages.dev/Submissions/rolling-omoplata-from-omoplata-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 308,
+      "name": "Short Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/short-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 309,
+      "name": "Short Choke from Back Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-back-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 310,
+      "name": "Short Choke from Body Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-body-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 311,
+      "name": "Short Choke from Cross Body",
+      "url": "https://bjjmap.pages.dev/Submissions/from-cross-body"
+    },
+    {
+      "@type": "ListItem",
+      "position": 312,
+      "name": "Short Choke from Gift Wrap",
+      "url": "https://bjjmap.pages.dev/Submissions/from-gift-wrap"
+    },
+    {
+      "@type": "ListItem",
+      "position": 313,
+      "name": "Short Choke from Harness",
+      "url": "https://bjjmap.pages.dev/Submissions/from-harness"
+    },
+    {
+      "@type": "ListItem",
+      "position": 314,
+      "name": "Short Choke from Seat Belt Control Back",
+      "url": "https://bjjmap.pages.dev/Submissions/from-seat-belt-control-back"
+    },
+    {
+      "@type": "ListItem",
+      "position": 315,
+      "name": "Spine Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/spine-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 316,
+      "name": "Spine Lock from Truck",
+      "url": "https://bjjmap.pages.dev/Submissions/from-truck"
+    },
+    {
+      "@type": "ListItem",
+      "position": 317,
+      "name": "Spinning Armbar",
+      "url": "https://bjjmap.pages.dev/Submissions/spinning-armbar"
+    },
+    {
+      "@type": "ListItem",
+      "position": 318,
+      "name": "Spinning Armbar from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 319,
+      "name": "Straight Ankle Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/straight-ankle-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 320,
+      "name": "Straight Ankle Lock from Straight Ankle Lock Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-straight-ankle-lock-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 321,
+      "name": "Suloev Stretch from Half Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-half-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 322,
+      "name": "Tarikoplata",
+      "url": "https://bjjmap.pages.dev/Submissions/tarikoplata"
+    },
+    {
+      "@type": "ListItem",
+      "position": 323,
+      "name": "Tarikoplata from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 324,
+      "name": "Ten Finger Guillotine",
+      "url": "https://bjjmap.pages.dev/Submissions/ten-finger-guillotine"
+    },
+    {
+      "@type": "ListItem",
+      "position": 325,
+      "name": "Ten Finger Guillotine from Front Headlock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-front-headlock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 326,
+      "name": "Ten Finger Guillotine from Guillotine Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-guillotine-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 327,
+      "name": "Toe Hold",
+      "url": "https://bjjmap.pages.dev/Submissions/toe-hold"
+    },
+    {
+      "@type": "ListItem",
+      "position": 328,
+      "name": "Toe Hold from 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 329,
+      "name": "Toe Hold from Ashi Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 330,
+      "name": "Toe Hold from Backside 50-50",
+      "url": "https://bjjmap.pages.dev/Submissions/from-backside-50-50"
+    },
+    {
+      "@type": "ListItem",
+      "position": 331,
+      "name": "Toe Hold from Cross Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-cross-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 332,
+      "name": "Toe Hold from Estima Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/from-estima-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 333,
+      "name": "Toe Hold from Honey Hole",
+      "url": "https://bjjmap.pages.dev/Submissions/from-honey-hole"
+    },
+    {
+      "@type": "ListItem",
+      "position": 334,
+      "name": "Toe Hold from Inside Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 335,
+      "name": "Toe Hold from Inside Sankaku",
+      "url": "https://bjjmap.pages.dev/Submissions/from-inside-sankaku"
+    },
+    {
+      "@type": "ListItem",
+      "position": 336,
+      "name": "Toe Hold from Kneebar Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-kneebar-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 337,
+      "name": "Toe Hold from Leg Entanglement",
+      "url": "https://bjjmap.pages.dev/Submissions/from-leg-entanglement"
+    },
+    {
+      "@type": "ListItem",
+      "position": 338,
+      "name": "Toe Hold from Outside Ashi",
+      "url": "https://bjjmap.pages.dev/Submissions/from-outside-ashi"
+    },
+    {
+      "@type": "ListItem",
+      "position": 339,
+      "name": "Toe Hold from Saddle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-saddle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 340,
+      "name": "Toe Hold from Toe Hold Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-toe-hold-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 341,
+      "name": "Toe Hold from Ushiro Ashi-Garami",
+      "url": "https://bjjmap.pages.dev/Submissions/from-ushiro-ashi-garami"
+    },
+    {
+      "@type": "ListItem",
+      "position": 342,
+      "name": "Triangle Choke",
+      "url": "https://bjjmap.pages.dev/Submissions/triangle-choke"
+    },
+    {
+      "@type": "ListItem",
+      "position": 343,
+      "name": "Triangle Choke Side",
+      "url": "https://bjjmap.pages.dev/Submissions/triangle-choke-side"
+    },
+    {
+      "@type": "ListItem",
+      "position": 344,
+      "name": "Triangle Choke Side from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 345,
+      "name": "Triangle Choke from Closed Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-closed-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 346,
+      "name": "Triangle Choke from Crackhead Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-crackhead-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 347,
+      "name": "Triangle Choke from De La Riva",
+      "url": "https://bjjmap.pages.dev/Submissions/from-de-la-riva"
+    },
+    {
+      "@type": "ListItem",
+      "position": 348,
+      "name": "Triangle Choke from Mounted Triangle",
+      "url": "https://bjjmap.pages.dev/Submissions/from-mounted-triangle"
+    },
+    {
+      "@type": "ListItem",
+      "position": 349,
+      "name": "Triangle Choke from Open Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-open-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 350,
+      "name": "Triangle Choke from Spider Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-spider-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 351,
+      "name": "Triangle Choke from Triangle Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-triangle-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 352,
+      "name": "Twister",
+      "url": "https://bjjmap.pages.dev/Submissions/twister"
+    },
+    {
+      "@type": "ListItem",
+      "position": 353,
+      "name": "Twister from Cross Body Ride",
+      "url": "https://bjjmap.pages.dev/Submissions/from-cross-body-ride"
+    },
+    {
+      "@type": "ListItem",
+      "position": 354,
+      "name": "Twister from Russian Cowboy",
+      "url": "https://bjjmap.pages.dev/Submissions/from-russian-cowboy"
+    },
+    {
+      "@type": "ListItem",
+      "position": 355,
+      "name": "Twister from Twister Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 356,
+      "name": "Twister from Twister Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-twister-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 357,
+      "name": "Von Flue Choke from Side Control",
+      "url": "https://bjjmap.pages.dev/Submissions/from-side-control"
+    },
+    {
+      "@type": "ListItem",
+      "position": 358,
+      "name": "Williams Shoulder Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/williams-shoulder-lock"
+    },
+    {
+      "@type": "ListItem",
+      "position": 359,
+      "name": "Williams Shoulder Lock from Williams Guard",
+      "url": "https://bjjmap.pages.dev/Submissions/from-williams-guard"
+    },
+    {
+      "@type": "ListItem",
+      "position": 360,
+      "name": "Wrist Lock",
+      "url": "https://bjjmap.pages.dev/Submissions/wrist-lock"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Submissions",
+      "item": "https://bjjmap.pages.dev/submissions"
+    }
+  ]
+}
+</script>
+
+Master all BJJ submission techniques. Complete guide to chokes, joint locks, and finishing positions. Learn setups, and escapes.
+
+
+
+### [[Submissions/Achilles Lock|Achilles Lock]]
+
+Master the Achilles Lock leg submission in BJJ. Complete guide covering setup mechanics, finishing details, and safety protocols from Ashi Garami positions.
+
+### [[Submissions/Americana|Americana]]
+
+Master the Americana shoulder lock from mount and side control. Complete safety protocols, systematic setup, and controlled execution. Beginner 45%, Intermediate 60%, Advanced 75%.
+
+### [[Submissions/Americana/from 3-4 Mount|Americana from 3-4 Mount]]
+
+Master the Americana from 3-4 Mount in BJJ. Step-by-step shoulder lock setup, grip mechanics, finishing details, defensive counters, and safety protocols.
+
+### [[Submissions/Americana/from High Mount|Americana from High Mount]]
+
+Master the Americana shoulder lock from High Mount. Finishing guide with figure-four grip mechanics, rotational pressure techniques, and escape defense.
+
+### [[Submissions/Americana/from Kesa Gatame|Americana from Kesa Gatame]]
+
+Master the Americana shoulder lock from Kesa Gatame in BJJ. Complete guide covering figure-four mechanics, finishing details, and defensive strategies.
+
+### [[Submissions/Americana/from Kimura Trap|Americana from Kimura Trap]]
+
+Master the Americana from Kimura Trap in BJJ. Convert your Kimura grip into a high-percentage shoulder lock when opponents pull their arm down to defend.
+
+### [[Submissions/Americana/from Kuzure Kesa-Gatame|Americana from Kuzure Kesa-Gatame]]
+
+Master the Americana shoulder lock from Kuzure Kesa-Gatame. Complete guide covering finishing mechanics, defensive counters, and progressive training drills for BJJ.
+
+### [[Submissions/Americana/from Modified Mount|Americana from Modified Mount]]
+
+Master the Americana shoulder lock from Modified Mount. Learn grip mechanics, finishing details, and defensive counters for this high-percentage submission.
+
+### [[Submissions/Americana/from Modified Scarf Hold|Americana from Modified Scarf Hold]]
+
+Master the Americana shoulder lock from Modified Scarf Hold. Complete guide covering figure-four grip mechanics, finishing details, and defensive counters for BJJ.
+
+### [[Submissions/Americana/from Mount|Americana from Mount]]
+
+Master the Americana shoulder lock from mount with safety protocols, setup, and execution. Success rates: Beginner 45%, Intermediate 60%, Advanced 75%.
+
+### [[Submissions/Americana/from North-South|Americana from North-South]]
+
+Master the Americana shoulder lock from North-South position. Complete guide covering unique perpendicular setup, grip mechanics, finishing details, and defenses.
+
+### [[Submissions/Americana/from Reverse Kesa-Gatame|Americana from Reverse Kesa-Gatame]]
+
+Master the Americana shoulder lock from Reverse Kesa-Gatame. Complete finishing guide covering setup, execution, counters, and safety protocols.
+
+### [[Submissions/Americana/from Reverse Scarf Hold|Americana from Reverse Scarf Hold]]
+
+Master the Americana shoulder lock from Reverse Scarf Hold. Complete guide with setup, execution steps, defensive counters, and safety protocols.
+
+### [[Submissions/Americana/from S Mount|Americana from S Mount]]
+
+Master the Americana shoulder lock from S Mount. Step-by-step guide covering setup, execution, defense, and safety for this high-percentage finishing technique.
+
+### [[Submissions/Americana/from Scarf Hold Position|Americana from Scarf Hold Position]]
+
+Master the Americana shoulder lock from Scarf Hold Position. Learn figure-four grip setup, perpendicular finishing angle, and safe application from kesa gatame.
+
+### [[Submissions/Americana/from Shoulder of Justice|Americana from Shoulder of Justice]]
+
+Master the Americana from Shoulder of Justice in BJJ. Step-by-step finishing guide with shoulder pressure setup, grip mechanics, and defensive counters.
+
+### [[Submissions/Americana/from Side Control|Americana from Side Control]]
+
+Master the Americana from Side Control in BJJ. Complete guide to setup, execution, defense, and safety for this fundamental shoulder lock submission.
+
+### [[Submissions/Americana/from Technical Mount|Americana from Technical Mount]]
+
+Master the Americana shoulder lock from Technical Mount in BJJ. Complete guide with grip mechanics, finishing sequences, defensive counters, and training progressions.
+
+### [[Submissions/Anaconda Choke|Anaconda Choke]]
+
+Master the Anaconda Choke in BJJ. Complete guide covering setup from turtle and front headlock, finishing mechanics, safety protocols, and defensive strategies.
+
+### [[Submissions/Anaconda Choke/from Anaconda Control|Anaconda Choke from Anaconda Control]]
+
+Master the Anaconda Choke in BJJ. Complete guide covering setup from turtle and front headlock, finishing mechanics, safety protocols, and defensive strategies.
+
+### [[Submissions/Anaconda Choke/from Dead Orchard|Anaconda Choke from Dead Orchard]]
+
+Master the Anaconda Choke from Dead Orchard in BJJ. Complete guide to finishing mechanics, grip adjustments, and pressure application for this blood choke.
+
+### [[Submissions/Ankle Lock/from X-Guard|Ankle Lock from X-Guard]]
+
+Master the ankle lock from X-Guard in BJJ. Complete guide to setup, grip mechanics, finishing details, and defense for this versatile leg lock submission.
+
+### [[Submissions/Aoki Lock|Aoki Lock]]
+
+Master the Aoki Lock leg compression in BJJ. Safety guide with setup, execution, and defense. Success rates: Beginner 25%, Intermediate 40%, Advanced 60%.
+
+### [[Submissions/Aoki Lock/from Aoki Lock Control|Aoki Lock from Aoki Lock Control]]
+
+Complete guide to finishing the Aoki Lock leg compression from Aoki Lock control. Figure-four foot trap, plantar-flexion mechanics, and key defensive counters.
+
+### [[Submissions/Aoki Lock/from Ashi Garami|Aoki Lock from Ashi Garami]]
+
+Master the Aoki Lock leg compression in BJJ. Safety guide with setup, execution, and defense. Success rates: Beginner 25%, Intermediate 40%, Advanced 60%.
+
+### [[Submissions/Arm Crush|Arm Crush]]
+
+Master the Arm Crush submission in BJJ. Learn shoulder lock mechanics, setup from side control, and safe application for training and competition.
+
+### [[Submissions/Arm Crush/from Side Control|Arm Crush from Side Control]]
+
+Master the Arm Crush submission in BJJ. Learn shoulder lock mechanics, setup from side control, and safe application for training and competition.
+
+### [[Submissions/Arm Triangle|Arm Triangle]]
+
+Master the Arm Triangle choke in BJJ. Setup from side control, execution mechanics, finishing details. Success rates: Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Arm Triangle/from High Mount|Arm Triangle from High Mount]]
+
+Master the arm triangle choke from high mount in BJJ. Step-by-step guide covering setup, grip transitions, finishing angles, defensive counters, and safety.
+
+### [[Submissions/Arm Triangle/from Hindulotine|Arm Triangle from Hindulotine]]
+
+Master the Arm Triangle from Hindulotine in BJJ. Learn how guillotine defense creates head-and-arm choke opportunities with detailed finishing mechanics.
+
+### [[Submissions/Arm Triangle/from Kesa Gatame|Arm Triangle from Kesa Gatame]]
+
+Master the Arm Triangle from Kesa Gatame with step-by-step grip transitions, finishing angles, and chest compression mechanics. Complete attacker and defender guide.
+
+### [[Submissions/Arm Triangle/from Kuzure Kesa-Gatame|Arm Triangle from Kuzure Kesa-Gatame]]
+
+Master the arm triangle from Kuzure Kesa-Gatame with setup mechanics, finishing angles, and escape strategies for this powerful modified scarf hold choke.
+
+### [[Submissions/Arm Triangle/from Modified Scarf Hold|Arm Triangle from Modified Scarf Hold]]
+
+Master the Arm Triangle from Modified Scarf Hold. Learn setup mechanics, grip transitions, finishing angles, and defensive responses for this blood choke.
+
+### [[Submissions/Arm Triangle/from Reverse Kesa-Gatame|Arm Triangle from Reverse Kesa-Gatame]]
+
+Master the Arm Triangle from Reverse Kesa-Gatame in BJJ. Convert the natural far-arm isolation of reverse scarf hold into a high-percentage blood choke.
+
+### [[Submissions/Arm Triangle/from Reverse Scarf Hold|Arm Triangle from Reverse Scarf Hold]]
+
+Master the Arm Triangle from Reverse Scarf Hold. Complete guide covering setup mechanics, grip transitions, finishing angles, and defensive strategies.
+
+### [[Submissions/Arm Triangle/from Scarf Hold Position|Arm Triangle from Scarf Hold Position]]
+
+Master the Arm Triangle from Scarf Hold Position. Learn grip transitions from kesa gatame to head-and-arm choke with detailed finishing mechanics and defense.
+
+### [[Submissions/Arm Triangle/from Shoulder of Justice|Arm Triangle from Shoulder of Justice]]
+
+Master the Arm Triangle from Shoulder of Justice. Learn how intense jaw pressure forces the defensive reaction that creates this high-percentage blood choke finish.
+
+### [[Submissions/Arm Triangle/from Side Control|Arm Triangle from Side Control]]
+
+Master the Arm Triangle from Side Control in BJJ. Complete finishing mechanics, defensive counters, and progressive training drills for this high-percentage blood choke.
+
+### [[Submissions/Arm Triangle/from Turtle|Arm Triangle from Turtle]]
+
+Master the arm triangle choke from turtle position in BJJ. Learn setup mechanics, grip transitions, and finishing details for this blood choke attack.
+
+### [[Submissions/Arm Triangle/from Twister Side Control|Arm Triangle from Twister Side Control]]
+
+Learn the Arm Triangle from Twister Side Control in BJJ. Complete guide covering grip transitions, finishing mechanics, and defensive counters.
+
+### [[Submissions/Arm in Guillotine|Arm in Guillotine]]
+
+Master Arm in Guillotine in BJJ. High-percentage front headlock choke with trapped arm. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%. Complete safety guide included.
+
+### [[Submissions/Arm in Guillotine/from Front Headlock|Arm in Guillotine from Front Headlock]]
+
+Master the arm-in guillotine from front headlock with expert grip mechanics, step-by-step finishing sequences, and proven defensive strategies for BJJ.
+
+### [[Submissions/Arm in Guillotine/from Guillotine Control|Arm in Guillotine from Guillotine Control]]
+
+Master the arm-in guillotine from guillotine control. Learn grip mechanics, finishing details, and defensive counters for this high-percentage choke variation.
+
+### [[Submissions/Armbar|Armbar]]
+
+Master the Armbar submission in BJJ. Complete guide covering setups from mount, guard, back control, and side control with detailed mechanics and defense strategies.
+
+### [[Submissions/Armbar/from Armbar Control|Armbar from Armbar Control]]
+
+Learn the Armbar Finish from Armbar Control in BJJ. Step-by-step elbow hyperextension mechanics, grip details, and counters. Beginner 30%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Armbar/from Back|Armbar from Back]]
+
+Master the Armbar from Back Control in BJJ. Complete safety guide with setup, execution, and finish. Success rates: Beginner 35%, Intermediate 50%, Advanced 70%.
+
+### [[Submissions/Armbar/from Back with Legs|Armbar from Back with Legs]]
+
+Master Armbar from Back with Legs in BJJ. Complete guide with safety protocols, setup from back control, and finishing mechanics. Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Armbar/from Crucifix|Armbar from Crucifix]]
+
+Master Armbar from Crucifix in BJJ. Complete guide with safety protocols, setup, execution steps, finishing mechanics. Beginner 40%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Armbar/from Guard|Armbar from Guard]]
+
+Master the armbar from guard with systematic technique breakdown, safety protocols, and execution details. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Armbar/from High Mount|Armbar from High Mount]]
+
+Master the Armbar from High Mount in BJJ. Complete guide to setup mechanics, finishing sequences, defensive escapes, and progressive training methods.
+
+### [[Submissions/Armbar/from Knee on Belly|Armbar from Knee on Belly]]
+
+Master the armbar from knee on belly in BJJ. Complete guide to setup, execution, defense, and finishing mechanics from this dynamic dominant position.
+
+### [[Submissions/Armbar/from Mount|Armbar from Mount]]
+
+Master Armbar from Mount in BJJ. Complete safety protocols, setup, execution steps. Success rates: Beginner 45%, Intermediate 60%, Advanced 75%.
+
+### [[Submissions/Armbar/from S Mount|Armbar from S Mount]]
+
+Master the Armbar from S Mount in BJJ. Step-by-step guide covering setup, execution mechanics, finishing details, and defensive strategies for all levels.
+
+### [[Submissions/Armbar/from Side Control|Armbar from Side Control]]
+
+Master the Armbar from Side Control in BJJ. Complete guide covering setup from top position, finishing mechanics, and defensive strategies for all levels.
+
+### [[Submissions/Armbar/from Technical Mount|Armbar from Technical Mount]]
+
+Master the Armbar from Technical Mount in BJJ. Complete guide to setup mechanics, finishing details, and defensive counters for this high-percentage arm lock.
+
+### [[Submissions/Banana Split|Banana Split]]
+
+Master the Banana Split compression submission in BJJ. Complete guide covering setup from truck and deep half guard, execution, and safety. 48% success rate.
+
+### [[Submissions/Banana Split/from Truck|Banana Split from Truck]]
+
+Master the Banana Split compression submission from the truck in BJJ. Complete guide covering the twister-hook setup, execution, and safety. 48% success rate.
+
+### [[Submissions/Baratoplata|Baratoplata]]
+
+Master the Baratoplata shoulder lock in BJJ. Advanced submission from rubber guard combining omoplata mechanics with arm weave isolation for devastating finishing pressure.
+
+### [[Submissions/Baratoplata/from Crackhead Control|Baratoplata from Crackhead Control]]
+
+Master the Baratoplata from Crackhead Control. Complete guide to this 10th Planet shoulder lock with setup mechanics, finishing details, and safety protocols.
+
+### [[Submissions/Baseball Bat Choke|Baseball Bat Choke]]
+
+Master the Baseball Bat Choke in BJJ. Devastating collar choke from top positions with tight control. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Baseball Bat Choke/from Knee on Belly|Baseball Bat Choke from Knee on Belly]]
+
+Master the Baseball Bat Choke from Knee on Belly in BJJ. Learn gi collar grip mechanics, spinning finish details, and pressure-based setups unique to KOB.
+
+### [[Submissions/Belly Down Armbar|Belly Down Armbar]]
+
+Master the Belly Down Armbar in BJJ. Complete guide with safety protocols, precise setup from turtle and scrambles, and finishing mechanics for this high-percentage joint lock.
+
+### [[Submissions/Belly Down Armbar/from Armbar Control|Belly Down Armbar from Armbar Control]]
+
+Master the belly down armbar finish from armbar control in BJJ. Learn prone finishing mechanics, grip transitions, and high-percentage completion.
+
+### [[Submissions/Belly Down Armbar/from Kesa Gatame|Belly Down Armbar from Kesa Gatame]]
+
+Master the belly down armbar finish from Kesa Gatame. Learn the step-over transition, prone finishing mechanics, and defenses for this high-percentage arm lock.
+
+### [[Submissions/Belly Down Armbar/from Knee on Belly|Belly Down Armbar from Knee on Belly]]
+
+Master the belly down armbar finish from knee on belly in BJJ. Complete guide covering setup, execution, defensive strategies, and essential safety protocols.
+
+### [[Submissions/Belly Down Armbar/from Kuzure Kesa-Gatame|Belly Down Armbar from Kuzure Kesa-Gatame]]
+
+Master the belly down armbar finish from Kuzure Kesa-Gatame. Expert guide to arm isolation, prone rotation technique, and high-percentage finishing mechanics.
+
+### [[Submissions/Belly Down Armbar/from Lasso Guard|Belly Down Armbar from Lasso Guard]]
+
+Master the belly down armbar finish from lasso guard. Learn grip transitions, rotation mechanics, and belly-down finishing details for this guard submission.
+
+### [[Submissions/Belly Down Armbar/from Mission Control|Belly Down Armbar from Mission Control]]
+
+Learn the belly down armbar finish from Mission Control in BJJ. Master rubber guard arm isolation, prone finishing mechanics, and essential safety protocols.
+
+### [[Submissions/Belly Down Armbar/from Modified Scarf Hold|Belly Down Armbar from Modified Scarf Hold]]
+
+Master the belly down armbar finish from modified scarf hold. Expert guide covering setup, arm isolation, transition mechanics, and defensive responses.
+
+### [[Submissions/Belly Down Armbar/from Mounted Crucifix|Belly Down Armbar from Mounted Crucifix]]
+
+Master the belly down armbar finish from mounted crucifix. Learn prone armbar mechanics, elbow hyperextension control, and safe finishing techniques from this dominant position.
+
+### [[Submissions/Belly Down Armbar/from Mounted Triangle|Belly Down Armbar from Mounted Triangle]]
+
+Master the belly down armbar finish from mounted triangle. Learn rotation mechanics, arm isolation, and prone finishing details for this high-control submission.
+
+### [[Submissions/Belly Down Armbar/from New York|Belly Down Armbar from New York]]
+
+Master the belly down armbar finish from New York rubber guard. Learn overhook arm isolation, prone rotation mechanics, and high-leverage finishing details.
+
+### [[Submissions/Belly Down Armbar/from Open Guard|Belly Down Armbar from Open Guard]]
+
+Master the belly down armbar finish from open guard in BJJ. Learn grip isolation, hip rotation mechanics, and prone finishing details for this high-percentage arm lock.
+
+### [[Submissions/Belly Down Armbar/from Scarf Hold Position|Belly Down Armbar from Scarf Hold Position]]
+
+Master the belly down armbar finish from scarf hold position. Learn arm isolation, prone transition mechanics, and high-leverage elbow finishing details.
+
+### [[Submissions/Belly Down Armbar/from Side Control|Belly Down Armbar from Side Control]]
+
+Master the belly down armbar finish from side control in BJJ. Learn prone armbar mechanics, grip control, rotation technique, and safe application from top position.
+
+### [[Submissions/Belly Down Armbar/from Spider Guard|Belly Down Armbar from Spider Guard]]
+
+Master the belly down armbar finish from Spider Guard. Learn grip transitions, prone finishing mechanics, and defensive counters for this powerful arm lock.
+
+### [[Submissions/Belly Down Armbar/from Turtle|Belly Down Armbar from Turtle]]
+
+Learn to execute and defend the belly down armbar from turtle in BJJ. Covers arm isolation, step-over transition, prone finishing, and escape paths.
+
+### [[Submissions/Belly Down Armbar/from Williams Guard|Belly Down Armbar from Williams Guard]]
+
+Master the belly down armbar from Williams Guard. Learn prone rotation mechanics that convert shoulder lock control into a stack-proof armbar finish in BJJ.
+
+### [[Submissions/Bicep Slicer|Bicep Slicer]]
+
+Master the Bicep Slicer in BJJ. Complete guide with safety protocols, setup from crucifix and truck positions. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Bicep Slicer/from Crucifix|Bicep Slicer from Crucifix]]
+
+Master the Bicep Slicer in BJJ. Complete guide with safety protocols, setup from crucifix and truck positions. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Boston Crab|Boston Crab]]
+
+Master Boston Crab submission in BJJ. Complete guide covering setup, execution, safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.
+
+### [[Submissions/Boston Crab/from Turtle|Boston Crab from Turtle]]
+
+Master Boston Crab submission in BJJ. Complete guide covering setup, execution, safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.
+
+### [[Submissions/Bow and Arrow Choke|Bow and Arrow Choke]]
+
+Master the Bow and Arrow Choke in BJJ. Complete guide with safety protocols, setup from back control, finishing mechanics. Beginner 40%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Bow and Arrow Choke/from Back Control|Bow and Arrow Choke from Back Control]]
+
+Master the Bow and Arrow Choke from back control. Learn collar grip setup, leg leverage mechanics, finishing details, and defenses for this high-percentage gi submission.
+
+### [[Submissions/Bow and Arrow Choke/from Body Triangle|Bow and Arrow Choke from Body Triangle]]
+
+Master the bow and arrow choke from body triangle in BJJ. Learn deep collar grip mechanics, body extension finishing details, and proven defensive strategies.
+
+### [[Submissions/Bow and Arrow Choke/from Harness|Bow and Arrow Choke from Harness]]
+
+Master the Bow and Arrow Choke from Harness position in BJJ. Learn collar grip mechanics, leg hook extension, and finishing details for this high-percentage gi choke.
+
+### [[Submissions/Bow and Arrow Choke/from Invisible Collar|Bow and Arrow Choke from Invisible Collar]]
+
+Master the Bow and Arrow Choke from Invisible Collar. Learn concealed grip transitions, finishing mechanics, defense strategies, and safety protocols.
+
+### [[Submissions/Bow and Arrow Choke/from Rear Triangle|Bow and Arrow Choke from Rear Triangle]]
+
+Master the Bow and Arrow Choke from Rear Triangle in BJJ. Learn collar grip mechanics, leg extension finish, and defensive strategies for this gi technique.
+
+### [[Submissions/Bow and Arrow Choke/from Rodeo Ride|Bow and Arrow Choke from Rodeo Ride]]
+
+Master the Bow and Arrow Choke from Rodeo Ride. Learn gi lapel choke setup, cross-collar grip mechanics, and finishing details from this advanced turtle attack position.
+
+### [[Submissions/Bow and Arrow Choke/from Russian Cowboy|Bow and Arrow Choke from Russian Cowboy]]
+
+Master the Bow and Arrow Choke from Russian Cowboy in BJJ. Learn collar grip mechanics, leg extension finishing details, and defensive counters from this back control variant.
+
+### [[Submissions/Bow and Arrow Choke/from Seat Belt Control Back|Bow and Arrow Choke from Seat Belt Control Back]]
+
+Master the Bow and Arrow Choke from Seat Belt back control. Learn gi lapel grip mechanics, leg extension finishing details, and systematic submission chain strategies.
+
+### [[Submissions/Bow and Arrow Choke/from Truck|Bow and Arrow Choke from Truck]]
+
+Master the Bow and Arrow Choke from Truck. Learn collar grip setup from perpendicular control, leg leverage through entanglement, and finishing details for this gi choke.
+
+### [[Submissions/Brabo Choke|Brabo Choke]]
+
+Master the Brabo Choke in BJJ. Complete guide with safety protocols, setup from front headlock, execution steps. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Brabo Choke/from Front Headlock|Brabo Choke from Front Headlock]]
+
+Master the Brabo Choke in BJJ. Complete guide with safety protocols, setup from front headlock, execution steps. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Breadcutter Choke|Breadcutter Choke]]
+
+Master the Breadcutter Choke in BJJ. Devastating collar choke from turtle and back control using the gi. Complete guide with setup, finishing mechanics, and defense.
+
+### [[Submissions/Breadcutter Choke/from Kuzure Kesa-Gatame|Breadcutter Choke from Kuzure Kesa-Gatame]]
+
+Master the Breadcutter Choke from Kuzure Kesa-Gatame with expert collar grip mechanics, finishing sequences, and defensive strategies for purple to brown belts.
+
+### [[Submissions/Breadcutter Choke/from Side Control|Breadcutter Choke from Side Control]]
+
+Master the Breadcutter Choke from Side Control. Learn gi collar grip mechanics, finishing details, and defensive counters for this high-percentage blood choke.
+
+### [[Submissions/Buggy Choke|Buggy Choke]]
+
+Master the Buggy Choke in BJJ. Powerful half guard compression choke targeting the carotid arteries from bottom position with detailed attack and defense.
+
+### [[Submissions/Buggy Choke/from Half Guard|Buggy Choke from Half Guard]]
+
+Master the Buggy Choke in BJJ. Powerful half guard compression choke targeting the carotid arteries from bottom position with detailed attack and defense.
+
+### [[Submissions/Calf Slicer|Calf Slicer]]
+
+Master the Calf Slicer in BJJ. Complete guide with safety protocols, setup from 50-50 and Truck, execution steps, and defense strategies for this compression lock.
+
+### [[Submissions/Calf Slicer/from 50-50 Guard|Calf Slicer from 50-50 Guard]]
+
+Master the calf slicer from 50-50 Guard. Complete guide covering setup, finishing mechanics, defense, and safety for this advanced compression submission.
+
+### [[Submissions/Calf Slicer/from Backside 50-50|Calf Slicer from Backside 50-50]]
+
+Master the calf slicer from backside 50-50 with expert finishing mechanics, defensive strategies, safety protocols, and progressive training methods.
+
+### [[Submissions/Calf Slicer/from Carni|Calf Slicer from Carni]]
+
+Master the calf slicer from Carni position in BJJ. Learn compression lock mechanics, shin placement, and how to chain this finish with heel hook threats.
+
+### [[Submissions/Calf Slicer/from Honey Hole|Calf Slicer from Honey Hole]]
+
+Master the calf slicer from Honey Hole position in BJJ. Complete guide covering compression mechanics, setup sequences, defensive counters, and training safety.
+
+### [[Submissions/Calf Slicer/from Inside Sankaku|Calf Slicer from Inside Sankaku]]
+
+Master the calf slicer from inside sankaku. Complete guide covering setup, execution mechanics, defense strategies, and safety for this advanced compression.
+
+### [[Submissions/Calf Slicer/from Rodeo Ride|Calf Slicer from Rodeo Ride]]
+
+Master the Calf Slicer from Rodeo Ride in BJJ. Complete guide to compression lock mechanics, defensive escapes, and training progressions from turtle control.
+
+### [[Submissions/Calf Slicer/from Russian Cowboy|Calf Slicer from Russian Cowboy]]
+
+Master the calf slicer from Russian Cowboy in BJJ. Complete guide to setup, execution, and defense of this powerful compression lock from back control.
+
+### [[Submissions/Calf Slicer/from Saddle|Calf Slicer from Saddle]]
+
+Learn the calf slicer from saddle position with step-by-step finishing mechanics, defensive escapes, and critical safety protocols for leg lock practitioners.
+
+### [[Submissions/Calf Slicer/from Truck|Calf Slicer from Truck]]
+
+Master the Calf Slicer from Truck in BJJ. Complete guide with safety protocols, setup, execution from the 10th Planet system. Success: Beginner 30%, Intermediate 50%, Advanced 70%.
+
+### [[Submissions/Calf Slicer/from Twister Control|Calf Slicer from Twister Control]]
+
+Master the calf slicer from twister control in BJJ. Learn setup mechanics, finishing details, and safety protocols for this advanced compression submission.
+
+### [[Submissions/Calf Slicer/from Twister Side Control|Calf Slicer from Twister Side Control]]
+
+Learn the calf slicer from twister side control with expert finishing mechanics, defensive strategies, and safety protocols for advanced BJJ practitioners.
+
+### [[Submissions/Can Opener|Can Opener]]
+
+Understand Can Opener neck crank in BJJ: safety risks, legal status, defensive counters. Success rates: Beginner 15%, Intermediate 25%, Advanced 35%.
+
+### [[Submissions/Can Opener/from Closed Guard|Can Opener from Closed Guard]]
+
+Understand Can Opener neck crank in BJJ: safety risks, legal status, defensive counters. Success rates: Beginner 15%, Intermediate 25%, Advanced 35%.
+
+### [[Submissions/Chin Strap Guillotine/from Front Headlock|Chin Strap Guillotine from Front Headlock]]
+
+Master the Chin Strap Guillotine in BJJ. High-control choke targeting the neck from front headlock positions with figure-four grip and shoulder drive mechanics.
+
+### [[Submissions/Choke from Crucifix|Choke from Crucifix]]
+
+Master the Choke from Crucifix in BJJ. Complete guide covering blood choke mechanics, arm-trap finishing, safety protocols, and defensive escapes from crucifix.
+
+### [[Submissions/Clock Choke|Clock Choke]]
+
+Master the Clock Choke in BJJ. Gi-based blood choke from turtle using lapel control and circular walking pressure to compress carotid arteries.
+
+### [[Submissions/Clock Choke/from Invisible Collar|Clock Choke from Invisible Collar]]
+
+Master the Clock Choke from Invisible Collar with concealed collar grip setup, walking pressure mechanics, and finishing details for gi competition success.
+
+### [[Submissions/Clock Choke/from Rodeo Ride|Clock Choke from Rodeo Ride]]
+
+Master the Clock Choke from Rodeo Ride in BJJ. Learn gi-based blood choke mechanics using dynamic turtle control and circular walking pressure to finish.
+
+### [[Submissions/Cross Collar Choke|Cross Collar Choke]]
+
+Master the Cross Collar Choke in BJJ. Complete guide covering gi grips, proper hand placement, finishing mechanics, and defense strategies for all levels.
+
+### [[Submissions/Cross Collar Choke/from 3-4 Mount|Cross Collar Choke from 3-4 Mount]]
+
+Master the cross collar choke from 3-4 mount in BJJ. Complete guide covering grip mechanics, finishing details, and defensive counters for gi grapplers.
+
+### [[Submissions/Cross Collar Choke/from Body Triangle|Cross Collar Choke from Body Triangle]]
+
+Master the cross collar choke from body triangle in BJJ. Learn grip mechanics, finishing details, and defensive strategies for this powerful gi submission.
+
+### [[Submissions/Cross Collar Choke/from Closed Guard|Cross Collar Choke from Closed Guard]]
+
+Master the cross collar choke from closed guard with detailed grip mechanics, posture breaking sequences, and finishing details for gi BJJ practitioners.
+
+### [[Submissions/Cross Collar Choke/from High Mount|Cross Collar Choke from High Mount]]
+
+Master the Cross Collar Choke from High Mount in BJJ. Complete guide to grip placement, finishing mechanics, defense strategies, and safety protocols.
+
+### [[Submissions/Cross Collar Choke/from Invisible Collar|Cross Collar Choke from Invisible Collar]]
+
+Master the Cross Collar Choke Finish from Invisible Collar in BJJ. Expert finishing mechanics, defense strategies, and training progressions for gi grapplers.
+
+### [[Submissions/Cross Collar Choke/from Knee on Belly|Cross Collar Choke from Knee on Belly]]
+
+Master the cross collar choke from knee on belly. Learn grip sequencing, pressure-to-choke transitions, and finishing mechanics for this devastating gi attack.
+
+### [[Submissions/Cross Collar Choke/from Modified Mount|Cross Collar Choke from Modified Mount]]
+
+Master the Cross Collar Choke from Modified Mount. Learn grip placement, weight distribution, and finishing mechanics unique to this asymmetric mount variation.
+
+### [[Submissions/Cross Collar Choke/from Mount|Cross Collar Choke from Mount]]
+
+Master the Cross Collar Choke from Mount in BJJ. Learn deep collar grip mechanics, mount maintenance during setup, and finishing sequences for this classic gi choke.
+
+### [[Submissions/Crotch Ripper|Crotch Ripper]]
+
+Master the Crotch Ripper leg lock in BJJ. Groin compression submission from lockdown with safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.
+
+### [[Submissions/Crotch Ripper/from Lockdown|Crotch Ripper from Lockdown]]
+
+Master the Crotch Ripper leg lock in BJJ. Groin compression submission from lockdown with safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 50%.
+
+### [[Submissions/Darce Choke|Darce Choke]]
+
+Master the Darce Choke in BJJ. Complete guide covering setup requirements, finishing mechanics, safety protocols, and defensive strategies from multiple positions.
+
+### [[Submissions/Darce Choke/from Darce Control|Darce Choke from Darce Control]]
+
+Master the Darce Choke finish from Darce Control position. Learn grip mechanics, hip positioning, shoulder pressure, and finishing details for this high-percentage blood choke.
+
+### [[Submissions/Darce Choke/from Leg Drag|Darce Choke from Leg Drag]]
+
+Master the Darce choke from leg drag control in BJJ. Complete guide covering entry mechanics, finishing details, and defensive responses for grapplers.
+
+### [[Submissions/Darce Choke/from Overhook Control|Darce Choke from Overhook Control]]
+
+Master the Darce Choke from Overhook Control with expert finishing mechanics, defensive strategies, and training progressions for this arm triangle variant.
+
+### [[Submissions/Darce Choke/from Twister Side Control|Darce Choke from Twister Side Control]]
+
+Master the Darce Choke from Twister Side Control with detailed finishing mechanics, defensive counters, and safety protocols for serious BJJ practitioners.
+
+### [[Submissions/Electric Chair|Electric Chair]]
+
+Master the Electric Chair from lockdown. Complete guide with compression mechanics, setup, and safety. Success: Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Electric Chair/from Deep Half Guard|Electric Chair from Deep Half Guard]]
+
+Master the Electric Chair from lockdown. Complete guide with compression mechanics, setup, and safety. Success: Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Electric Chair/from Electric Chair|Electric Chair from Electric Chair]]
+
+Master the Electric Chair in BJJ. Complete lockdown submission guide targeting the hip and groin. Systematic setup, execution, and defense strategies.
+
+### [[Submissions/Estima Lock|Estima Lock]]
+
+Master Estima Lock foot submission with safety protocols, setup from 50-50 guard, execution steps, defense patterns. Success rates: Beginner 30%, Intermediate 45%, Advanced 65%.
+
+### [[Submissions/Estima Lock/from Estima Lock Control|Estima Lock from Estima Lock Control]]
+
+Master the Estima Lock finish from Estima Lock control. Complete guide to foot lock mechanics, grip configuration, dorsiflexion pressure, and safe application.
+
+### [[Submissions/Estima Lock/from Honey Hole|Estima Lock from Honey Hole]]
+
+Master the Estima Lock from Honey Hole in BJJ. Complete guide to foot lock mechanics, setup sequences, and defensive strategies from inside leg entanglement.
+
+### [[Submissions/Estima Lock/from Saddle|Estima Lock from Saddle]]
+
+Learn the Estima Lock from Saddle position with expert finishing mechanics, grip details, safety protocols, and defensive strategies for BJJ practitioners.
+
+### [[Submissions/Ezekiel Choke|Ezekiel Choke]]
+
+Master the Ezekiel Choke in BJJ. Complete guide to sleeve-based blood choke mechanics, bilateral pressure, safety protocols, and finishing from mount and side control.
+
+### [[Submissions/Ezekiel Choke/from Closed Guard|Ezekiel Choke from Closed Guard]]
+
+Master the Ezekiel Choke from inside closed guard top. Gi sleeve grip setup, surprise attack timing, finishing mechanics, and complete defensive counter guide.
+
+### [[Submissions/Ezekiel Choke/from Mount|Ezekiel Choke from Mount]]
+
+Master the Ezekiel Choke from Mount in BJJ. Learn sleeve grip mechanics, weight-driven finishing sequences, and defenses against this devastating gi blood choke.
+
+### [[Submissions/Ezekiel Choke/from Side Control|Ezekiel Choke from Side Control]]
+
+Master the Ezekiel Choke from Side Control with this complete BJJ guide covering sleeve grip setup, finishing mechanics, defense, and training drills.
+
+### [[Submissions/Far Side Armbar|Far Side Armbar]]
+
+Master Far Side Armbar from top positions. Complete guide with safety protocols, setup, execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Far Side Armbar/from Side Control|Far Side Armbar from Side Control]]
+
+Master Far Side Armbar from top positions. Complete guide with safety protocols, setup, execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Flying Armbar/from Closed Guard|Flying Armbar from Closed Guard]]
+
+Master the Flying Armbar technique in BJJ. High-risk aerial submission targeting elbow joint with dynamic entry. Complete guide with safety protocols and defense.
+
+### [[Submissions/Flying Kneebar|Flying Kneebar]]
+
+Master the Flying Kneebar in BJJ. Complete guide with safety protocols, setup, execution, and counters. Success rates: Beginner 15%, Intermediate 30%, Advanced 50%.
+
+### [[Submissions/Flying Kneebar/from Standing Position|Flying Kneebar from Standing Position]]
+
+Master the Flying Kneebar in BJJ. Complete guide with safety protocols, setup, execution, and counters. Success rates: Beginner 15%, Intermediate 30%, Advanced 50%.
+
+### [[Submissions/Gift Wrap Armbar/from Gift Wrap|Gift Wrap Armbar from Gift Wrap]]
+
+Master the Gift Wrap Armbar in BJJ. Complete guide to attacking the isolated arm from gift wrap control with finishing mechanics, defenses, and safety.
+
+### [[Submissions/Gogoplata|Gogoplata]]
+
+Master the Gogoplata shin choke in BJJ. Complete guide with safety protocols, rubber guard setup, and execution steps. Success rates: Beginner 15%, Intermediate 30%, Advanced 50%.
+
+### [[Submissions/Gogoplata/from Gogoplata Control|Gogoplata from Gogoplata Control]]
+
+Master the Gogoplata shin choke in BJJ. Complete guide with safety protocols, rubber guard setup, and execution steps. Success rates: Beginner 15%, Intermediate 30%, Advanced 50%.
+
+### [[Submissions/Guillotine Choke|Guillotine Choke]]
+
+Master the Guillotine Choke in BJJ with step-by-step execution, safety protocols, and variations. Complete guide for attacking and defending this versatile choke.
+
+### [[Submissions/Guillotine Choke/from Butterfly Guard|Guillotine Choke from Butterfly Guard]]
+
+Master the Guillotine Choke from Butterfly Guard. Learn hook elevation setups, grip mechanics, and finishing details for this high-percentage blood choke.
+
+### [[Submissions/Guillotine Choke/from Clinch|Guillotine Choke from Clinch]]
+
+Master the Guillotine Choke from Clinch in BJJ. Complete guide to the standing guillotine variation covering grip mechanics, finishing details, and defensive strategies.
+
+### [[Submissions/Guillotine Choke/from Guillotine Control|Guillotine Choke from Guillotine Control]]
+
+Master the guillotine choke finish from guillotine control. Complete guide covering grip mechanics, finishing sequences, and defensive responses.
+
+### [[Submissions/Guillotine Choke/from Hindulotine|Guillotine Choke from Hindulotine]]
+
+Master the guillotine choke finish from Hindulotine position. Learn rotational torque mechanics, grip placement, and step-by-step execution for this high-percentage blood choke.
+
+### [[Submissions/Guillotine Choke/from Twister Control|Guillotine Choke from Twister Control]]
+
+Master the guillotine choke from Twister Control. Learn setup mechanics, finishing sequences, and defensive strategies for this 10th Planet submission chain.
+
+### [[Submissions/Heel Hook|Heel Hook]]
+
+Master the Heel Hook in BJJ. Complete safety-first guide covering inside/outside variations, setup from Ashi Garami positions, anatomical targets, and defensive counters.
+
+### [[Submissions/Heel Hook/from 50-50 Guard|Heel Hook from 50-50 Guard]]
+
+Master the heel hook from 50-50 Guard in BJJ. Learn setup, grip mechanics, finishing details, and critical safety protocols for this advanced leg lock.
+
+### [[Submissions/Heel Hook/from Ashi Garami|Heel Hook from Ashi Garami]]
+
+Master the heel hook from Ashi Garami with systematic grip mechanics, rotational finishing details, and hierarchy-based attack strategy for no-gi grappling.
+
+### [[Submissions/Heel Hook/from Backside 50-50|Heel Hook from Backside 50-50]]
+
+Master the heel hook from Backside 50-50 in BJJ. Complete guide to opportunistic leg lock finishing from disadvantaged entanglement with expert breakdowns.
+
+### [[Submissions/Heel Hook/from Carni|Heel Hook from Carni]]
+
+Master the heel hook from Carni position in BJJ. Expert finishing guide covering rotational mechanics, leg control, defensive escapes, and safe training methods.
+
+### [[Submissions/Heel Hook/from Cross Ashi-Garami|Heel Hook from Cross Ashi-Garami]]
+
+Master the heel hook from Cross Ashi-Garami with expert finishing mechanics, safety protocols, and defensive strategies for this high-percentage leg lock.
+
+### [[Submissions/Heel Hook/from Grasshopper Guard|Heel Hook from Grasshopper Guard]]
+
+Master the heel hook from grasshopper guard with inverted entry mechanics, leg entanglement transitions, finishing details, and essential safety protocols.
+
+### [[Submissions/Heel Hook/from Honey Hole|Heel Hook from Honey Hole]]
+
+Master the heel hook finish from Honey Hole. Step-by-step guide with grip mechanics, rotational breaking details, safety protocols, and escape defense.
+
+### [[Submissions/Heel Hook/from Inside Ashi-Garami|Heel Hook from Inside Ashi-Garami]]
+
+Master the heel hook from Inside Ashi-Garami with expert finishing mechanics, grip configurations, safety protocols, and defensive strategies for serious BJJ practitioners.
+
+### [[Submissions/Heel Hook/from Inside Sankaku|Heel Hook from Inside Sankaku]]
+
+Master the heel hook from Inside Sankaku position. Complete guide to grip mechanics, rotational finishing, defensive responses, and safe training protocols.
+
+### [[Submissions/Heel Hook/from Kneebar Control|Heel Hook from Kneebar Control]]
+
+Learn the heel hook from kneebar control in BJJ. Complete guide covering grip transition mechanics, finishing details, defensive counters, and safety protocols.
+
+### [[Submissions/Heel Hook/from Saddle|Heel Hook from Saddle]]
+
+Master the heel hook from saddle position in BJJ. Complete guide to setup, finishing mechanics, defense, and safety protocols for this devastating leg lock.
+
+### [[Submissions/Heel Hook/from Ushiro Ashi|Heel Hook from Ushiro Ashi]]
+
+Master the Heel Hook from Ushiro Ashi-Garami. Complete guide covering reversed leg entanglement finishing mechanics, grip adjustments, safety, and defense.
+
+### [[Submissions/High Elbow Guillotine|High Elbow Guillotine]]
+
+Master High Elbow Guillotine in BJJ. Complete guide with safety protocols, setup, execution, and expert analysis. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/High Elbow Guillotine/from Front Headlock|High Elbow Guillotine from Front Headlock]]
+
+Master the High Elbow Guillotine from Front Headlock with elevated elbow mechanics, hip rotation finishing pressure, and comprehensive defensive strategies.
+
+### [[Submissions/High Elbow Guillotine/from Guillotine Control|High Elbow Guillotine from Guillotine Control]]
+
+Master the High Elbow Guillotine from Guillotine Control. Complete guide covering ceiling-elbow mechanics, carotid compression, and proven defensive counters.
+
+### [[Submissions/High Elbow Guillotine/from Hindulotine|High Elbow Guillotine from Hindulotine]]
+
+Master the High Elbow Guillotine from Hindulotine. Learn elevated elbow finishing mechanics, rotational pressure setups, and defensive counters for this blood choke.
+
+### [[Submissions/Hindulotine|Hindulotine]]
+
+Learn the Hindulotine choke, an advanced guillotine variation using a chin strap grip from front headlock control. Complete guide with setups, mechanics, and defense.
+
+### [[Submissions/Hindulotine/from Hindulotine|Hindulotine from Hindulotine]]
+
+Master the Hindulotine choke finish from Hindulotine control. Complete guide to chin strap grip mechanics, rotational torque, and finishing details.
+
+### [[Submissions/Inside Heel Hook|Inside Heel Hook]]
+
+Master Inside Heel Hook in BJJ. Complete guide with safety protocols, entry mechanics, and leg entanglement control. Success rates: Beginner 20%, Intermediate 40%, Advanced 65%.
+
+### [[Submissions/Inside Heel Hook/from Honey Hole|Inside Heel Hook from Honey Hole]]
+
+Master the Inside Heel Hook from Honey Hole in BJJ. Complete guide covering grip mechanics, rotational finishing, defense protocols, and training safety.
+
+### [[Submissions/Inside Heel Hook/from Inside Sankaku|Inside Heel Hook from Inside Sankaku]]
+
+Master the Inside Sankaku heel hook finish with detailed grip mechanics, rotational pressure application, defensive counters, and essential safety protocols.
+
+### [[Submissions/Inside Heel Hook/from Ushiro Ashi-Garami|Inside Heel Hook from Ushiro Ashi-Garami]]
+
+Master the inside heel hook from ushiro ashi-garami with detailed finishing mechanics, grip adjustments, and safety protocols for this advanced leg lock.
+
+### [[Submissions/Inverted Triangle|Inverted Triangle]]
+
+Master the Inverted Triangle choke in BJJ. Complete guide covering setup from guard and scrambles, perpendicular finishing mechanics, and defensive counters.
+
+### [[Submissions/Inverted Triangle/from Triangle Control|Inverted Triangle from Triangle Control]]
+
+Master the Inverted Triangle from Triangle Control. Learn setup mechanics, finishing details, and defensive counters for this advanced blood choke variation.
+
+### [[Submissions/Japanese Necktie|Japanese Necktie]]
+
+Master Japanese Necktie in BJJ. Complete guide with safety protocols, setup from turtle, execution steps, and variations. Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Japanese Necktie/from Front Headlock|Japanese Necktie from Front Headlock]]
+
+Master Japanese Necktie in BJJ. Complete guide with safety protocols, setup from turtle, execution steps, and variations. Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Kesa Gatame Arm Crush|Kesa Gatame Arm Crush]]
+
+Master the Kesa Gatame Arm Crush in BJJ. Complete guide covering execution, defense, and safety for this powerful compression lock from scarf hold position.
+
+### [[Submissions/Kesa Gatame Arm Crush/from Kesa Gatame|Kesa Gatame Arm Crush from Kesa Gatame]]
+
+Master the Kesa Gatame Arm Crush in BJJ. Complete guide covering execution, defense, and safety for this powerful compression lock from scarf hold position.
+
+### [[Submissions/Kimura|Kimura]]
+
+Master the Kimura shoulder lock in BJJ. Complete guide covering grip mechanics, finishing technique, defensive escapes, and applications from multiple positions.
+
+### [[Submissions/Kimura/from Armbar Control|Kimura from Armbar Control]]
+
+Master the Kimura shoulder lock from Armbar Control in BJJ. Learn figure-four grip transitions, finishing mechanics, and high-percentage chain attacks.
+
+### [[Submissions/Kimura/from Butterfly Guard|Kimura from Butterfly Guard]]
+
+Master the Kimura from Butterfly Guard in BJJ. Learn grip setup, hook leverage, finishing mechanics, and counters for this high-percentage bottom submission.
+
+### [[Submissions/Kimura/from Crucifix|Kimura from Crucifix]]
+
+Master the Kimura from Crucifix in BJJ. Learn how bilateral arm isolation creates devastating shoulder lock opportunities with expert finishing mechanics.
+
+### [[Submissions/Kimura/from Flattened Half Guard|Kimura from Flattened Half Guard]]
+
+Master the Kimura shoulder lock from flattened half guard top. Expert guide covering grip capture, pressure finishing mechanics, and counter management.
+
+### [[Submissions/Kimura/from Front Headlock|Kimura from Front Headlock]]
+
+Master the Kimura shoulder lock from front headlock in BJJ. Learn grip transitions, figure-four mechanics, and finishing details from this dominant control position.
+
+### [[Submissions/Kimura/from Gift Wrap|Kimura from Gift Wrap]]
+
+Master the Kimura from Gift Wrap in BJJ. Complete guide to transitioning the trapped arm into a high-percentage shoulder lock with step-by-step finishing details.
+
+### [[Submissions/Kimura/from Guard|Kimura from Guard]]
+
+Master the Kimura from Guard in BJJ. Complete guide covering setup, execution, and finishing mechanics from closed guard with safety protocols and defensive strategies.
+
+### [[Submissions/Kimura/from Half Guard|Kimura from Half Guard]]
+
+Master the Kimura from Half Guard in BJJ. Complete guide with safety protocols, setup from underhook battle, finishing mechanics. Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Kimura/from High Mount|Kimura from High Mount]]
+
+Master the Kimura shoulder lock from High Mount. Complete finishing guide with figure-four grip mechanics, rotational force application, and defensive counters.
+
+### [[Submissions/Kimura/from Kesa Gatame|Kimura from Kesa Gatame]]
+
+Master the Kimura shoulder lock from Kesa Gatame. Complete guide covering grip transition mechanics, finishing rotation, defense, and safety for BJJ practitioners.
+
+### [[Submissions/Kimura/from Kimura Trap|Kimura from Kimura Trap]]
+
+Master the Kimura from Kimura Trap in BJJ. Complete guide to finishing the shoulder lock from figure-four control with attacking and defensive strategies.
+
+### [[Submissions/Kimura/from Knee Shield Half Guard|Kimura from Knee Shield Half Guard]]
+
+Master the Kimura from Knee Shield Half Guard. Complete guide to setup, grip mechanics, finishing sequence, and defensive counters for this bottom half guard shoulder lock.
+
+### [[Submissions/Kimura/from Knee on Belly|Kimura from Knee on Belly]]
+
+Master the Kimura from Knee on Belly in BJJ. Learn how KOB pressure creates shoulder lock opportunities through forced defensive reactions and grip exposure.
+
+### [[Submissions/Kimura/from Kuzure Kesa-Gatame|Kimura from Kuzure Kesa-Gatame]]
+
+Master the Kimura shoulder lock from Kuzure Kesa-Gatame with expert grip mechanics, finishing sequences, and counters for attacker and defender.
+
+### [[Submissions/Kimura/from Lasso Guard|Kimura from Lasso Guard]]
+
+Master the Kimura shoulder lock from Lasso Guard top position. Learn setup mechanics, figure-four grip details, finishing sequences, and defensive counters.
+
+### [[Submissions/Kimura/from Lockdown|Kimura from Lockdown]]
+
+Master the Kimura from Lockdown in BJJ. Learn how the lockdown half guard creates unique shoulder lock opportunities with trapped-leg control mechanics.
+
+### [[Submissions/Kimura/from Modified Mount|Kimura from Modified Mount]]
+
+Master the Kimura shoulder lock from Modified Mount. Learn grip mechanics, rotational finishing details, and defensive strategies for this high-percentage submission.
+
+### [[Submissions/Kimura/from Modified Scarf Hold|Kimura from Modified Scarf Hold]]
+
+Master the Kimura from Modified Scarf Hold in BJJ. Complete guide covering setup mechanics, finishing details, defensive escapes, and safety protocols.
+
+### [[Submissions/Kimura/from Mount|Kimura from Mount]]
+
+Master the Kimura from Mount in BJJ. Complete guide with safety protocols, setup requirements, and execution steps for this high-percentage shoulder lock.
+
+### [[Submissions/Kimura/from New York Control|Kimura from New York Control]]
+
+Master the Kimura shoulder lock from New York Control rubber guard. Complete guide covering setup mechanics, grip transitions, finishing details, and defensive strategies.
+
+### [[Submissions/Kimura/from Overhook Control|Kimura from Overhook Control]]
+
+Master the Kimura shoulder lock from overhook control. Complete guide to grip transitions, rotational finishing mechanics, and defensive counter-strategies.
+
+### [[Submissions/Kimura/from Quarter Guard|Kimura from Quarter Guard]]
+
+Master the Kimura shoulder lock from Quarter Guard top. Expert guide covering figure-four grip attacks, finishing mechanics, counters, and training drills for BJJ.
+
+### [[Submissions/Kimura/from Reverse Kesa-Gatame|Kimura from Reverse Kesa-Gatame]]
+
+Master the Kimura from Reverse Kesa-Gatame with expert finishing mechanics, grip transitions, and defensive counters for this high-percentage shoulder lock.
+
+### [[Submissions/Kimura/from Reverse Scarf Hold|Kimura from Reverse Scarf Hold]]
+
+Master the Kimura shoulder lock from Reverse Scarf Hold with expert finishing mechanics, grip sequences, defensive counters, and safety protocols.
+
+### [[Submissions/Kimura/from S Mount|Kimura from S Mount]]
+
+Master the Kimura shoulder lock from S Mount in BJJ. Complete finishing guide covering figure-four grip mechanics, rotational pressure, and defensive counters for grapplers.
+
+### [[Submissions/Kimura/from Scarf Hold Position|Kimura from Scarf Hold Position]]
+
+Master the Kimura from Scarf Hold in BJJ. High-percentage shoulder lock using the perpendicular angle and arm isolation of kesa gatame to finish.
+
+### [[Submissions/Kimura/from Shoulder of Justice|Kimura from Shoulder of Justice]]
+
+Master the Kimura from Shoulder of Justice in BJJ. Complete guide covering shoulder lock mechanics, grip sequences, finishing details, and escape strategies.
+
+### [[Submissions/Kimura/from Side Control|Kimura from Side Control]]
+
+Master the Kimura from Side Control in BJJ. Comprehensive guide covering setup, execution, and safety protocols. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Kimura/from Standing|Kimura from Standing]]
+
+Master the Kimura from Standing in BJJ. Complete safety guide with takedown integration, shoulder lock mechanics, control transitions. Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Kimura/from Turtle|Kimura from Turtle]]
+
+Master Kimura from Turtle in BJJ. Complete guide with safety protocols, setup, execution steps. Success: Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Kimura/from Twister Side Control|Kimura from Twister Side Control]]
+
+Master the Kimura shoulder lock from Twister Side Control. Complete guide to setup, figure-four grip mechanics, finishing details, and defense strategies.
+
+### [[Submissions/Kneebar|Kneebar]]
+
+Master the Kneebar in BJJ. Complete guide covering safety protocols, setup from ashi garami, finishing mechanics, and defensive escapes for all skill levels.
+
+### [[Submissions/Kneebar/from 50-50|Kneebar from 50-50]]
+
+Master Kneebar from 50-50 Guard in BJJ. Complete guide with safety protocols, leg entanglement mechanics, finish details. Beginner 30%, Intermediate 50%, Advanced 70%.
+
+### [[Submissions/Kneebar/from Backside 50-50|Kneebar from Backside 50-50]]
+
+Master the kneebar from Backside 50-50 in BJJ. Complete guide to leg isolation, finishing mechanics, and defense from this dominant leg entanglement position.
+
+### [[Submissions/Kneebar/from Carni|Kneebar from Carni]]
+
+Master the kneebar from Carni position in BJJ. Complete guide to setup mechanics, finishing details, defensive counters, and essential safety protocols.
+
+### [[Submissions/Kneebar/from Guard|Kneebar from Guard]]
+
+Master Kneebar from Guard in BJJ. Complete guide with safety protocols, setup, execution. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Kneebar/from Half Guard|Kneebar from Half Guard]]
+
+Master the Kneebar from Half Guard in BJJ. Complete guide covering setup, execution, defense, and safety protocols for this powerful leg lock submission.
+
+### [[Submissions/Kneebar/from Honey Hole|Kneebar from Honey Hole]]
+
+Master the kneebar from Honey Hole in BJJ. Complete guide to hip extension finishing mechanics, defensive counters, and critical safety protocols for knee locks.
+
+### [[Submissions/Kneebar/from Inside Ashi-Garami|Kneebar from Inside Ashi-Garami]]
+
+Master the kneebar from inside ashi-garami. Learn hip positioning, foot control mechanics, and progressive finishing techniques for this powerful leg lock.
+
+### [[Submissions/Kneebar/from Inside Sankaku|Kneebar from Inside Sankaku]]
+
+Master the kneebar from Inside Sankaku in BJJ. Complete finishing guide covering setup mechanics, hip extension technique, defensive counters, and safety protocols.
+
+### [[Submissions/Kneebar/from Kneebar Control|Kneebar from Kneebar Control]]
+
+Master the kneebar finish from kneebar control in BJJ. Step-by-step execution guide covering hip mechanics, leg control, defensive counters, and safety protocols.
+
+### [[Submissions/Kneebar/from Leg Entanglement|Kneebar from Leg Entanglement]]
+
+Master the kneebar from leg entanglement in BJJ. Learn setup from ashi garami, execution mechanics, and defensive strategies for this high-percentage leg lock.
+
+### [[Submissions/Kneebar/from Saddle|Kneebar from Saddle]]
+
+Master the kneebar from Saddle position in BJJ. Expert guide covering finishing mechanics, hip extension technique, and comprehensive safety protocols.
+
+### [[Submissions/Kneebar/from Single Leg X-Guard|Kneebar from Single Leg X-Guard]]
+
+Master the kneebar from Single Leg X-Guard. Expert guide to this BJJ leg lock counter-attack with entry mechanics, finishing details, and safety protocols.
+
+### [[Submissions/Kneebar/from Straight Ankle Lock Control|Kneebar from Straight Ankle Lock Control]]
+
+Master the kneebar from straight ankle lock control in BJJ. Complete guide covering setup mechanics, finishing details, defensive counters, and safety protocols.
+
+### [[Submissions/Kneebar/from Toe Hold Control|Kneebar from Toe Hold Control]]
+
+Master the kneebar from toe hold control in BJJ. Complete guide to reading defensive reactions, transitioning attacks, and finishing the knee hyperextension.
+
+### [[Submissions/Kneebar/from Top|Kneebar from Top]]
+
+Master the Kneebar from Top positions in BJJ. Complete safety guide with setup, execution, and control mechanics for attacking the knee joint from dominant positions.
+
+### [[Submissions/Loop Choke|Loop Choke]]
+
+Master the Loop Choke in BJJ - deceptive collar choke from guard, mount, side control, turtle. Technical execution with grip mechanics and body positioning.
+
+### [[Submissions/Loop Choke/from Closed Guard|Loop Choke from Closed Guard]]
+
+Master the Loop Choke from Closed Guard in BJJ. Step-by-step guide covering collar grip setup, turning mechanics, and finishing this blood choke from guard bottom.
+
+### [[Submissions/Loop Choke/from Half Guard|Loop Choke from Half Guard]]
+
+Master the Loop Choke from Half Guard Top in BJJ. Learn deep collar grip timing, sprawl finishing mechanics, and setups that exploit guard recovery attempts.
+
+### [[Submissions/Loop Choke/from Mount|Loop Choke from Mount]]
+
+Master the Loop Choke from Mount in BJJ. Complete guide with safety protocols, setup requirements, and execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Loop Choke/from Side Control|Loop Choke from Side Control]]
+
+Master the Loop Choke from Side Control in BJJ. Complete guide to gi collar setup, sprawl finishing mechanics, defensive strategies, and training drills.
+
+### [[Submissions/Loop Choke/from Turtle|Loop Choke from Turtle]]
+
+Master the loop choke from turtle in BJJ. Learn cross-collar grip mechanics, rolling finishes, and defensive counters for this high-percentage gi submission.
+
+### [[Submissions/Marce Choke|Marce Choke]]
+
+Master the Marce Choke in BJJ - a powerful gi-specific lapel choke from top positions. Complete setup, execution, defense, and safety protocols for competition.
+
+### [[Submissions/Marce Choke/from Side Control|Marce Choke from Side Control]]
+
+Master the Marce Choke in BJJ - powerful lapel choke from top positions. Setup, execution, defense, and safety protocols for gi competition.
+
+### [[Submissions/Mir Lock|Mir Lock]]
+
+Master the Mir Lock shoulder submission in BJJ. Complete guide with safety protocols, setup from top control, execution, and defensive strategies for all levels.
+
+### [[Submissions/Mir Lock/from Side Control|Mir Lock from Side Control]]
+
+Master the Mir Lock shoulder submission in BJJ. Complete guide with safety protocols, setup from top control, execution, and defensive strategies for all levels.
+
+### [[Submissions/Monoplata|Monoplata]]
+
+Master the Monoplata submission in BJJ. Complete guide covering setup from guard, execution steps, safety protocols. Success rates: Beginner 20%, Intermediate 35%, Advanced 55%.
+
+### [[Submissions/Monoplata/from Guard|Monoplata from Guard]]
+
+Master the Monoplata from Guard in BJJ. Complete guide with safety protocols, setup, and execution steps. Success rates: Beginner 25%, Intermediate 40%, Advanced 55%.
+
+### [[Submissions/Monoplata/from Mount|Monoplata from Mount]]
+
+Master Monoplata from Mount in BJJ. Complete safety guide covering setup, execution, and injury prevention. Success rates: Beginner 25%, Intermediate 40%, Advanced 55%.
+
+### [[Submissions/Mounted Crucifix Armbar|Mounted Crucifix Armbar]]
+
+Master the Mounted Crucifix Armbar in BJJ. Complete guide to arm isolation finishing mechanics, step-by-step execution, escape defense, and safety protocols.
+
+### [[Submissions/Mounted Crucifix Armbar/from Mounted Crucifix|Mounted Crucifix Armbar from Mounted Crucifix]]
+
+Master the Mounted Crucifix Armbar in BJJ. Complete guide to arm isolation finishing mechanics, step-by-step execution, escape defense, and safety protocols.
+
+### [[Submissions/Neck Crank/from Mounted Crucifix|Neck Crank from Mounted Crucifix]]
+
+Master the Neck Crank from Mounted Crucifix in BJJ. Learn the cervical spine compression finish using arm-trapped control for high-percentage taps.
+
+### [[Submissions/Neck Crank/from Twister Control|Neck Crank from Twister Control]]
+
+Master the neck crank from Twister Control in BJJ. Learn cervical spine attack mechanics, safe application protocols, and progressive training methods.
+
+### [[Submissions/North-South Choke|North-South Choke]]
+
+Master North-South Choke in BJJ. Complete guide with setup from top control, execution mechanics, safety protocols. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/North-South Choke/from Kesa Gatame|North-South Choke from Kesa Gatame]]
+
+Complete guide to the North-South Choke from Kesa Gatame in BJJ. Detailed execution steps, defensive counters, safety protocols, and training progressions.
+
+### [[Submissions/North-South Choke/from Modified Scarf Hold|North-South Choke from Modified Scarf Hold]]
+
+Master the North-South Choke from Modified Scarf Hold with step-by-step entry mechanics, shoulder pressure finishing details, and proven defensive strategies.
+
+### [[Submissions/North-South Choke/from North-South|North-South Choke from North-South]]
+
+Master the North-South Choke from North-South in BJJ. Expert guide to grip mechanics, shoulder pressure, and finishing details for this powerful blood choke.
+
+### [[Submissions/North-South Choke/from Reverse Scarf|North-South Choke from Reverse Scarf]]
+
+Master the North-South Choke from Reverse Scarf Hold. Complete finishing mechanics, escape strategies, and progressive training drills for BJJ grapplers.
+
+### [[Submissions/North-South Choke/from Shoulder of Justice|North-South Choke from Shoulder of Justice]]
+
+Master the North-South Choke from Shoulder of Justice with detailed grip mechanics, transition steps, and finishing pressure. Complete BJJ submission guide.
+
+### [[Submissions/North-South Choke/from Side Control|North-South Choke from Side Control]]
+
+Master the North-South Choke from Side Control in BJJ. Learn the transition, grip mechanics, shoulder pressure, and finishing details for this high-percentage blood choke.
+
+### [[Submissions/Omoplata|Omoplata]]
+
+Master the Omoplata shoulder lock in BJJ. Complete guide covering setup, execution, safety protocols, and variations from guard positions with sweep options.
+
+### [[Submissions/Omoplata/from Armbar Control|Omoplata from Armbar Control]]
+
+Master the omoplata from armbar control in BJJ. Complete guide covering chain attack mechanics, finishing details, defensive strategies, and training drills.
+
+### [[Submissions/Omoplata/from Butterfly Guard|Omoplata from Butterfly Guard]]
+
+Master the Omoplata from Butterfly Guard. Learn hook elevation entries, overhook setups, and finishing mechanics for this dynamic BJJ shoulder lock submission.
+
+### [[Submissions/Omoplata/from Crackhead Control|Omoplata from Crackhead Control]]
+
+Master the omoplata from Crackhead Control. Complete guide to this 10th Planet shoulder lock entry with finishing mechanics, defensive counters, and drills.
+
+### [[Submissions/Omoplata/from De La Riva Guard|Omoplata from De La Riva Guard]]
+
+Master the omoplata from De La Riva Guard. Leverage DLR hooks and angles to isolate the shoulder, with sweep-to-finish details for serious grapplers.
+
+### [[Submissions/Omoplata/from Double Sleeve Guard|Omoplata from Double Sleeve Guard]]
+
+Master the omoplata shoulder lock from double sleeve guard. Learn grip manipulation, leg swing mechanics, and finishing details for this high-percentage setup.
+
+### [[Submissions/Omoplata/from Guard|Omoplata from Guard]]
+
+Master Omoplata from Guard in BJJ. Complete shoulder lock guide with safety protocols, setup, execution. Success rates: Beginner 30%, Intermediate 50%, Advanced 70%.
+
+### [[Submissions/Omoplata/from Inverted Guard|Omoplata from Inverted Guard]]
+
+Master the omoplata from inverted guard in BJJ. Complete guide to setup, execution, and finishing this advanced shoulder lock from the inverted position.
+
+### [[Submissions/Omoplata/from Omoplata Control|Omoplata from Omoplata Control]]
+
+Master the omoplata finish from omoplata control position. Complete guide covering shoulder lock mechanics, finishing sequences, and defensive counters.
+
+### [[Submissions/Omoplata/from Rubber Guard|Omoplata from Rubber Guard]]
+
+Master the omoplata from Rubber Guard with entries from Mission Control and New York. Complete guide covering setup, execution, counters, and defense for no-gi.
+
+### [[Submissions/Omoplata/from Russian Leg Lasso|Omoplata from Russian Leg Lasso]]
+
+Master the omoplata from Russian Leg Lasso. Complete guide covering finishing mechanics, defensive counters, and progressive training for advanced grapplers.
+
+### [[Submissions/Omoplata/from Spider Guard|Omoplata from Spider Guard]]
+
+Master the Omoplata from Spider Guard in BJJ. Complete guide covering entry mechanics, shoulder lock finish, defense strategies, and competition tactics.
+
+### [[Submissions/Outside Heel Hook|Outside Heel Hook]]
+
+Master Outside Heel Hook in BJJ. Safety guide covering proper application, knee rotation mechanics, injury prevention, and defensive strategies from leg entanglements.
+
+### [[Submissions/Outside Heel Hook/from 50-50 Guard|Outside Heel Hook from 50-50 Guard]]
+
+Master the outside heel hook from 50-50 guard. Learn grip mechanics, heel exposure techniques, and safe finishing details for this high-risk leg lock attack.
+
+### [[Submissions/Outside Heel Hook/from Backside 50-50|Outside Heel Hook from Backside 50-50]]
+
+Master the Outside Heel Hook from Backside 50-50. Complete guide to rotational heel hook mechanics, safety protocols, and competition finishing strategies.
+
+### [[Submissions/Outside Heel Hook/from Cross Ashi-Garami|Outside Heel Hook from Cross Ashi-Garami]]
+
+Master the outside heel hook from cross ashi-garami. Learn grip mechanics, rotational finishing details, defensive counters, and critical safety protocols.
+
+### [[Submissions/Outside Heel Hook/from Honey Hole|Outside Heel Hook from Honey Hole]]
+
+Master the outside heel hook from Honey Hole position. Learn grip transitions, rotational finishing mechanics, safety protocols, and defense strategies.
+
+### [[Submissions/Outside Heel Hook/from Leg Entanglement|Outside Heel Hook from Leg Entanglement]]
+
+Master the outside heel hook from leg entanglement positions. Expert finishing mechanics, safety protocols, and defensive strategies for advanced grapplers.
+
+### [[Submissions/Outside Heel Hook/from Outside Ashi-Garami|Outside Heel Hook from Outside Ashi-Garami]]
+
+Master the outside heel hook from outside ashi-garami with complete finishing mechanics, defensive strategies, and safety protocols for leg lock practitioners.
+
+### [[Submissions/Outside Heel Hook/from Saddle|Outside Heel Hook from Saddle]]
+
+Master the outside heel hook from saddle position with proper grip mechanics, rotational finishing details, and critical safety protocols for training.
+
+### [[Submissions/Outside Heel Hook/from Ushiro Ashi-Garami|Outside Heel Hook from Ushiro Ashi-Garami]]
+
+Master the outside heel hook from ushiro ashi-garami. Expert guide covering reversed-angle grip mechanics, finishing details, and safety for this leg lock.
+
+### [[Submissions/Paper Cutter Choke|Paper Cutter Choke]]
+
+Master Paper Cutter Choke in BJJ. Complete guide with safety protocols, setup from side control, execution details and defensive strategies for all levels.
+
+### [[Submissions/Paper Cutter Choke/from Kuzure Kesa-Gatame|Paper Cutter Choke from Kuzure Kesa-Gatame]]
+
+Master the paper cutter choke from kuzure kesa-gatame. Complete guide covering lapel grip mechanics, finishing details, and defense strategies.
+
+### [[Submissions/Peruvian Necktie|Peruvian Necktie]]
+
+Master the Peruvian Necktie in BJJ. Complete guide covering front headlock setup, leg threading mechanics, finishing sequence, and defensive escapes with safety protocols.
+
+### [[Submissions/Peruvian Necktie/from Front Headlock|Peruvian Necktie from Front Headlock]]
+
+Master the Peruvian Necktie from front headlock. Learn leg-over-head blood choke mechanics, grip details, and finishing techniques for competitive BJJ.
+
+### [[Submissions/Rear Naked Choke|Rear Naked Choke]]
+
+Master the Rear Naked Choke in BJJ. Complete safety guide with proper execution, defense patterns, and training progressions. Beginner 35%, Intermediate 55%, Advanced 75%.
+
+### [[Submissions/Rear Naked Choke/from Back Control|Rear Naked Choke from Back Control]]
+
+Master the rear naked choke from back control. Complete guide to hand fighting, grip mechanics, choking sequences, and defensive strategies in BJJ.
+
+### [[Submissions/Rear Naked Choke/from Body Triangle|Rear Naked Choke from Body Triangle]]
+
+Master the Rear Naked Choke from Body Triangle with expert finishing mechanics, grip sequences, and defensive strategies for this dominant back attack.
+
+### [[Submissions/Rear Naked Choke/from Crucifix|Rear Naked Choke from Crucifix]]
+
+Master the Rear Naked Choke from Crucifix position in BJJ. High-percentage blood choke finish with bilateral arm control, setup mechanics, and defense.
+
+### [[Submissions/Rear Naked Choke/from Gift Wrap|Rear Naked Choke from Gift Wrap]]
+
+Master the Rear Naked Choke from Gift Wrap in BJJ. Learn how the arm trap eliminates neck defense, creating a high-percentage blood choke finish.
+
+### [[Submissions/Rear Naked Choke/from Harness|Rear Naked Choke from Harness]]
+
+Master the Rear Naked Choke from Harness in BJJ. Complete guide to grip transitions, choking mechanics, defense strategies, and safety protocols.
+
+### [[Submissions/Rear Naked Choke/from Invisible Collar|Rear Naked Choke from Invisible Collar]]
+
+Master the Rear Naked Choke from Invisible Collar. Learn collar-to-RNC bait-and-switch transitions, finishing mechanics, and complete defensive guide.
+
+### [[Submissions/Rear Naked Choke/from Mounted Crucifix|Rear Naked Choke from Mounted Crucifix]]
+
+Learn to finish and defend the rear naked choke from mounted crucifix. Expert guide covering grip mechanics, choking arm placement, and escape methods.
+
+### [[Submissions/Rear Naked Choke/from Rear Triangle|Rear Naked Choke from Rear Triangle]]
+
+Master the Rear Naked Choke from Rear Triangle position. Learn how triangle leg control frees both hands for the choke while eliminating common RNC defenses.
+
+### [[Submissions/Rear Naked Choke/from Rodeo|Rear Naked Choke from Rodeo]]
+
+Master the Rear Naked Choke from Rodeo Ride in BJJ. Complete guide covering finishing mechanics, control strategies, and defensive escapes from this turtle attack position.
+
+### [[Submissions/Rear Naked Choke/from Russian Cowboy|Rear Naked Choke from Russian Cowboy]]
+
+Master the Rear Naked Choke from Russian Cowboy. Learn setup mechanics, chin clearing, grip transitions, and finishing details from single-hook back control.
+
+### [[Submissions/Rear Naked Choke/from Seat Belt Control Back|Rear Naked Choke from Seat Belt Control Back]]
+
+Master the Rear Naked Choke from Seat Belt Control Back. Complete guide covering grip transitions, choking mechanics, defense, and training progressions.
+
+### [[Submissions/Rear Naked Choke/from Standing Back Control|Rear Naked Choke from Standing Back Control]]
+
+Master the rear naked choke from standing back control in BJJ. Complete guide covering grip mechanics, finishing sequences, and defensive counters for all levels.
+
+### [[Submissions/Rear Naked Choke/from Standing Rear Clinch|Rear Naked Choke from Standing Rear Clinch]]
+
+Master the Standing RNC from Rear Clinch in BJJ. Expert guide to finishing mechanics, carotid compression, escape defense, and safety for standing chokes.
+
+### [[Submissions/Rear Triangle Choke|Rear Triangle Choke]]
+
+Master the Rear Triangle Choke in BJJ. Complete guide to finishing mechanics, defensive escapes, and safety protocols for this high-percentage back attack.
+
+### [[Submissions/Rear Triangle Choke/from Back Control|Rear Triangle Choke from Back Control]]
+
+Master Triangle Choke from Back Control in BJJ. Complete guide with safety protocols, setup, execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Rear Triangle Choke/from Rear Triangle|Rear Triangle Choke from Rear Triangle]]
+
+Master the rear triangle choke finish from rear triangle position. Learn squeeze mechanics, hip angle adjustments, and systematic finishing sequences for competition BJJ.
+
+### [[Submissions/Armbar/Reverse Armbar from Mount|Reverse Armbar from Mount]]
+
+Master the Reverse Armbar in BJJ. Complete guide with safety protocols, setup, execution, and variations. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Reverse Kimura|Reverse Kimura]]
+
+Master Reverse Kimura in BJJ. Complete guide with safety protocols, setup from various positions, and execution. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Reverse Kimura/from Standing Position|Reverse Kimura from Standing Position]]
+
+Master Reverse Kimura in BJJ. Complete guide with safety protocols, setup from various positions, and execution. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Armbar/Rolling Armbar from Closed Guard|Rolling Armbar from Closed Guard]]
+
+Master the Rolling Armbar in BJJ. Dynamic submission from guard and scrambles with technical precision. Success rates: Beginner 35%, Intermediate 50%, Advanced 70%.
+
+### [[Submissions/Omoplata/Rolling Omoplata from Omoplata Control|Rolling Omoplata from Omoplata Control]]
+
+Master the Rolling Omoplata in BJJ. Dynamic shoulder lock from failed sweeps or scrambles. Complete guide with finishing mechanics and safety protocols.
+
+### [[Submissions/Short Choke|Short Choke]]
+
+Master the Short Choke in BJJ. Devastating lapel strangle from top positions with minimal space. Complete guide with finishing mechanics, defense, and safety.
+
+### [[Submissions/Short Choke/from Back Control|Short Choke from Back Control]]
+
+Master the Short Choke from Back Control in BJJ. Learn cross-collar grip mechanics, finishing sequences, and defensive counters for this tight gi blood choke.
+
+### [[Submissions/Short Choke/from Body Triangle|Short Choke from Body Triangle]]
+
+Master the short choke from body triangle in BJJ. Learn lapel feeding mechanics, grip positioning, and finishing details for this high-percentage gi choke.
+
+### [[Submissions/Short Choke/from Cross Body|Short Choke from Cross Body]]
+
+Master the Short Choke from Cross Body Ride in BJJ. Complete guide covering forearm choke mechanics, finishing pressure, and defensive strategies with safety protocols.
+
+### [[Submissions/Short Choke/from Gift Wrap|Short Choke from Gift Wrap]]
+
+Master the Short Choke from Gift Wrap in BJJ. Complete guide to finishing this forearm choke using arm trap control, with safety protocols and defense strategies.
+
+### [[Submissions/Short Choke/from Harness|Short Choke from Harness]]
+
+Learn the Short Choke from Harness in BJJ. Master gi lapel choke mechanics, grip threading sequences, and finishing details from seatbelt back control.
+
+### [[Submissions/Short Choke/from Seat Belt Control Back|Short Choke from Seat Belt Control Back]]
+
+Master the Short Choke from Seat Belt Control Back position in BJJ. Complete gi lapel choking guide with grip mechanics, finishing details, and defense strategies.
+
+### [[Submissions/Spine Lock|Spine Lock]]
+
+Master the Spine Lock submission in BJJ. Learn advanced spinal compression techniques from truck and twister control positions targeting the lumbar spine.
+
+### [[Submissions/Spine Lock/from Truck|Spine Lock from Truck]]
+
+Master the Spine Lock submission in BJJ. Advanced spinal compression applied from the truck and twister control positions, targeting the lumbar vertebrae.
+
+### [[Submissions/Spinning Armbar|Spinning Armbar]]
+
+Master the Spinning Armbar in BJJ. Dynamic rotational submission targeting the elbow from guard, mount, and scrambles. Complete guide with attack and defense.
+
+### [[Submissions/Spinning Armbar/from Closed Guard|Spinning Armbar from Closed Guard]]
+
+Master the Spinning Armbar from Closed Guard in BJJ. Complete guide to this dynamic rotational armbar entry with attack strategies and defensive counters.
+
+### [[Submissions/Straight Ankle Lock|Straight Ankle Lock]]
+
+Master the Straight Ankle Lock in BJJ. Complete guide with safety protocols, setup from Ashi Garami, finishing mechanics, and defensive strategies for all levels.
+
+### [[Submissions/Straight Ankle Lock/from Straight Ankle Lock Control|Straight Ankle Lock from Straight Ankle Lock Control]]
+
+Complete guide to the straight ankle lock finish from ankle lock control. Breaking mechanics, grip placement, defensive counters, and safety protocols.
+
+### [[Submissions/Suloev Stretch/from Half Guard|Suloev Stretch from Half Guard]]
+
+Master the Suloev Stretch in BJJ. Devastating knee compression submission from top half guard and leg control positions. Complete attacker and defender guide.
+
+### [[Submissions/Tarikoplata|Tarikoplata]]
+
+Master the Tarikoplata shoulder lock in BJJ. Advanced guard submission combining omoplata mechanics with wrist control for devastating compound shoulder attacks.
+
+### [[Submissions/Tarikoplata/from Closed Guard|Tarikoplata from Closed Guard]]
+
+Master the Tarikoplata shoulder lock in BJJ. Advanced guard submission combining omoplata mechanics with wrist control for devastating compound shoulder attacks.
+
+### [[Submissions/Ten Finger Guillotine|Ten Finger Guillotine]]
+
+Master the Ten Finger Guillotine in BJJ. Comprehensive guide covering setup, execution, and safety protocols. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Ten Finger Guillotine/from Front Headlock|Ten Finger Guillotine from Front Headlock]]
+
+Master the Ten Finger Guillotine from Front Headlock position. Complete guide to grip mechanics, finishing sequences, counters, and defensive escapes.
+
+### [[Submissions/Ten Finger Guillotine/from Guillotine Control|Ten Finger Guillotine from Guillotine Control]]
+
+Master the Ten Finger Guillotine from Guillotine Control in BJJ. Setup, grip mechanics, finishing details, and defensive counters for this high-percentage choke.
+
+### [[Submissions/Toe Hold|Toe Hold]]
+
+Master the Toe Hold leg lock in BJJ. Complete guide with safety protocols, setup from leg entanglements, execution mechanics, and defense strategies.
+
+### [[Submissions/Toe Hold/from 50-50|Toe Hold from 50-50]]
+
+Master the Toe Hold from 50-50 Guard in BJJ. Complete guide to rotational ankle lock setup, execution, defense, and safety protocols for leg entanglement systems.
+
+### [[Submissions/Toe Hold/from Ashi Garami|Toe Hold from Ashi Garami]]
+
+Master the toe hold from Ashi Garami leg entanglement. Complete guide to figure-four grip mechanics, rotational finishing, defense, and safe training protocols.
+
+### [[Submissions/Toe Hold/from Backside 50-50|Toe Hold from Backside 50-50]]
+
+Master the toe hold from Backside 50-50 in BJJ. Complete guide covering grip mechanics, rotational finishing details, and position-specific leg lock strategy.
+
+### [[Submissions/Toe Hold/from Cross Ashi-Garami|Toe Hold from Cross Ashi-Garami]]
+
+Master the toe hold from cross ashi-garami with grip mechanics, rotational finishing details, and safe application from this dominant leg entanglement position.
+
+### [[Submissions/Toe Hold/from Estima Lock|Toe Hold from Estima Lock]]
+
+Master the toe hold from Estima Lock in BJJ. Expert guide covering grip transitions, rotational finishing mechanics, and defensive escapes from this leg lock attack.
+
+### [[Submissions/Toe Hold/from Honey Hole|Toe Hold from Honey Hole]]
+
+Master the toe hold from Honey Hole in BJJ. Complete finishing guide with grip mechanics, rotational pressure application, defense strategies, and safety.
+
+### [[Submissions/Toe Hold/from Inside Ashi-Garami|Toe Hold from Inside Ashi-Garami]]
+
+Master the toe hold from Inside Ashi-Garami. Complete guide to grip mechanics, rotational finishing pressure, and safe training progression for leg locks.
+
+### [[Submissions/Toe Hold/from Inside Sankaku|Toe Hold from Inside Sankaku]]
+
+Master the toe hold from Inside Sankaku. Learn grip mechanics, rotational finishing details, defensive counters, and safety protocols for this leg lock.
+
+### [[Submissions/Toe Hold/from Kneebar Control|Toe Hold from Kneebar Control]]
+
+Master the toe hold from kneebar control in BJJ. Learn grip transitions, rotational finishing mechanics, and safe application for this essential leg lock chain attack.
+
+### [[Submissions/Toe Hold/from Leg Entanglement|Toe Hold from Leg Entanglement]]
+
+Master the toe hold from leg entanglement positions in BJJ. Expert guide to figure-four grip mechanics, rotational finishing, and safe training protocols.
+
+### [[Submissions/Toe Hold/from Outside Ashi|Toe Hold from Outside Ashi]]
+
+Master the toe hold from Outside Ashi-Garami in BJJ. Complete guide to rotational foot lock mechanics, safe finishing technique, and defensive strategies.
+
+### [[Submissions/Toe Hold/from Saddle|Toe Hold from Saddle]]
+
+Master the toe hold from saddle with expert grip mechanics, finishing details, and defensive strategies for this powerful leg entanglement attack.
+
+### [[Submissions/Toe Hold/from Toe Hold Control|Toe Hold from Toe Hold Control]]
+
+Master the toe hold finish from Toe Hold Control. Complete guide to figure-four grip mechanics, progressive rotational pressure, and safe application.
+
+### [[Submissions/Toe Hold/from Ushiro Ashi-Garami|Toe Hold from Ushiro Ashi-Garami]]
+
+Master the toe hold finish from ushiro ashi-garami with complete grip mechanics, step-by-step execution, safety protocols, and proven defensive counters.
+
+### [[Submissions/Triangle Choke|Triangle Choke]]
+
+Master the Triangle Choke in BJJ. Complete safety guide with setup, execution, and defense. Success rates: Beginner 35%, Intermediate 55%, Advanced 75%.
+
+### [[Submissions/Triangle Choke Side|Triangle Choke Side]]
+
+Master Triangle Choke Side from top position in BJJ. Complete safety guide covering setup from side control, execution mechanics, and defense patterns.
+
+### [[Submissions/Triangle Choke Side/from Side Control|Triangle Choke Side from Side Control]]
+
+Master Triangle Choke Side from top position in BJJ. Complete safety guide covering setup from side control, execution mechanics, and defense patterns.
+
+### [[Submissions/Triangle Choke/from Closed Guard|Triangle Choke from Closed Guard]]
+
+Master triangle choke from closed guard in BJJ. Complete guide covering setup, angle creation, finishing mechanics, and defense with safety protocols.
+
+### [[Submissions/Triangle Choke/from Crackhead Control|Triangle Choke from Crackhead Control]]
+
+Complete guide to the triangle choke from Crackhead Control. Master the 10th Planet setup, finishing mechanics, counters, and defensive escape strategies.
+
+### [[Submissions/Triangle Choke/from De La Riva|Triangle Choke from De La Riva]]
+
+Master Triangle from De La Riva in BJJ. Complete guide with setup requirements, execution steps, and safety protocols. Success rates: Beginner 30%, Intermediate 45%, Advanced 60%.
+
+### [[Submissions/Triangle Choke/from Mounted Triangle|Triangle Choke from Mounted Triangle]]
+
+Master the triangle choke from mounted triangle position. Learn finishing mechanics, angle adjustments, and defensive counters for this high-percentage BJJ submission.
+
+### [[Submissions/Triangle Choke/from Open Guard|Triangle Choke from Open Guard]]
+
+Master the Triangle Choke from Open Guard in BJJ. Expert guide covering setup, angle creation, finishing mechanics, defensive escapes, and safety protocols.
+
+### [[Submissions/Triangle Choke/from Spider Guard|Triangle Choke from Spider Guard]]
+
+Master Triangle from Spider Guard. Setup from spider hooks, angle creation, finish mechanics. Success rates: Beginner 35%, Intermediate 55%, Advanced 70%.
+
+### [[Submissions/Triangle Choke/from Triangle Control|Triangle Choke from Triangle Control]]
+
+Master the triangle choke finish from triangle control. Learn precise angle adjustments, hip elevation, and squeeze mechanics to tap opponents consistently.
+
+### [[Submissions/Twister|Twister]]
+
+Master the Twister spinal lock in BJJ. Complete guide covering Truck position setup, spine rotation mechanics, safety protocols, and defense strategies for advanced practitioners.
+
+### [[Submissions/Twister/from Cross Body Ride|Twister from Cross Body Ride]]
+
+Master the Twister spinal lock from Cross Body Ride. Complete guide with finishing mechanics, safety protocols, and defensive strategies for advanced grapplers.
+
+### [[Submissions/Twister/from Russian Cowboy|Twister from Russian Cowboy]]
+
+Learn the Twister Finish from Russian Cowboy in BJJ. Spinal lock submission with step-by-step execution, defense strategies, and safety protocols.
+
+### [[Submissions/Twister/from Twister Control|Twister from Twister Control]]
+
+Master the Twister submission from Twister Control. Complete guide covering spinal lock mechanics, safety protocols, and finishing details for advanced practitioners.
+
+### [[Submissions/Twister/from Twister Side Control|Twister from Twister Side Control]]
+
+Master the Twister spinal lock from Twister Side Control with step-by-step finishing mechanics, safety protocols, and proven defensive strategies for grapplers.
+
+### [[Submissions/Von Flue Choke/from Side Control|Von Flue Choke from Side Control]]
+
+Master the Von Flue Choke counter in BJJ. Complete safety guide with setup and execution. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.
+
+### [[Submissions/Williams Shoulder Lock|Williams Shoulder Lock]]
+
+Master the Williams Shoulder Lock in BJJ. Complete guide covering safety protocols, setup from Williams Guard, execution steps, and defensive strategies.
+
+### [[Submissions/Williams Shoulder Lock/from Williams Guard|Williams Shoulder Lock from Williams Guard]]
+
+Master the Williams Shoulder Lock from Williams Guard. Learn finishing mechanics, grip details, defensive counters, and safety protocols for this shoulder lock.
+
+### [[Submissions/Wrist Lock|Wrist Lock]]
+
+Finish the Wrist Lock (mão de vaca) from closed guard top: flexion mechanics on planted hands, finishing steps, and defense. Success: 30/45/60%.
+
+

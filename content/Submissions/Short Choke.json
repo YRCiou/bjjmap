@@ -1,0 +1,250 @@
+{
+  "name": "Short Choke",
+  "description": "Master the Short Choke in BJJ. Devastating lapel strangle from top positions with minimal space. Complete guide with finishing mechanics, defense, and safety.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "gi",
+    "lapel-choke",
+    "blood-choke",
+    "top-position",
+    "finishing-guide"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "Concealed lapel strangle requiring minimal space from top pressure",
+  "summary": "The Short Choke is a concealed gi lapel blood choke that compresses the carotid arteries with a short grip threaded behind the opponent's neck, finishing from dominant top and back control where space is too tight for deeper collar attacks.",
+  "overview": "As a gi-based blood choke, the Short Choke is prized for finishing from dominant top and back control — side control, north-south, and from the back — when there is too little space for the deeper grips that traditional collar chokes demand. Unlike traditional collar chokes that require deep grips, the Short Choke capitalizes on minimal space and opponent defensive reactions. The technique involves threading your own lapel or the opponent's lapel behind their neck while maintaining superior top position control, then applying pressure through a combination of wrist rotation and shoulder pressure.\n\nThis choke is particularly effective when opponents defend aggressively against more common submissions like the Americana or Kimura, creating the exact spacing needed for lapel manipulation. The Short Choke exemplifies economy of motion - once the lapel is positioned correctly, the finish requires minimal energy expenditure while creating maximum discomfort. The technique is especially valuable in gi competition because it can be concealed within normal top position pressure, making it difficult for opponents to recognize and defend until the submission is deeply locked.\n\nAdvanced practitioners use the Short Choke as both a primary finish and a setup for transitioning to mount or taking the back when opponents attempt to escape. The choke creates a powerful dilemma: defending the lapel threading exposes the arms to joint locks, while protecting the arms leaves the neck vulnerable to the choke.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression leading to loss of consciousness",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential for confusion lasting 30-60 seconds"
+      },
+      {
+        "injury": "Trachea compression if technique is misapplied",
+        "severity": "Medium",
+        "recovery_time": "1-3 days of throat soreness; seek medical attention if breathing difficulty persists"
+      },
+      {
+        "injury": "Neck strain from rotational pressure",
+        "severity": "Low",
+        "recovery_time": "2-5 days with rest"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum in training",
+    "tap_signals": [
+      "Verbal tap or verbal signal",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap on mat",
+      "Any distress signal including body going limp"
+    ],
+    "release_protocol": [
+      "Immediately release lapel grip and remove all pressure from neck",
+      "Remove your weight from opponent's torso to allow breathing",
+      "Check partner's consciousness and breathing status",
+      "If partner is unconscious, elevate legs and monitor airway",
+      "Never apply the choke again in the same training session if unconsciousness occurred"
+    ],
+    "training_restrictions": [
+      "Never apply sudden jerking motions with the lapel",
+      "Never continue pressure after tap signal",
+      "Never practice on partners with neck injuries or medical conditions",
+      "Always ensure partner can tap with at least one hand",
+      "Never use competition speed during initial learning phases"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Back Control",
+      "slug": "from-back-control"
+    },
+    {
+      "name": "from Body Triangle",
+      "slug": "from-body-triangle"
+    },
+    {
+      "name": "from Cross Body",
+      "slug": "from-cross-body"
+    },
+    {
+      "name": "from Gift Wrap",
+      "slug": "from-gift-wrap"
+    },
+    {
+      "name": "from Harness",
+      "slug": "from-harness"
+    },
+    {
+      "name": "from Seat Belt Control Back",
+      "slug": "from-seat-belt-control-back"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "North-South Short Choke",
+      "description": "Executed from north-south position using similar lapel threading mechanics but with your body perpendicular to opponent. Particularly effective when opponent defends the traditional north-south choke.",
+      "when_to_use": "When transitioning from side control to north-south, or when opponent is successfully defending standard north-south attacks"
+    },
+    {
+      "variation_name": "Reverse Short Choke (Paper Cutter variation)",
+      "description": "Instead of using your own lapel, grip opponent's far collar deep and apply pressure by driving your forearm across their neck while maintaining shoulder pressure. Creates similar carotid compression with different mechanics.",
+      "when_to_use": "When opponent's defensive posture prevents access to your own lapel, or when their gi collar offers better gripping opportunities"
+    },
+    {
+      "variation_name": "Mounted Short Choke",
+      "description": "Applied from mount position by threading lapel while controlling opponent's arms. Requires excellent mount maintenance but offers higher success rate due to superior position.",
+      "when_to_use": "When in high mount with good arm control; excellent finishing option when opponent defends the armbar by pulling their elbow tight to their body"
+    },
+    {
+      "variation_name": "Short Choke to Back Take Transition",
+      "description": "Use the Short Choke as a feint - when opponent defends by turning away from the pressure, maintain lapel grips and take the back, immediately transitioning to rear naked choke.",
+      "when_to_use": "Against experienced opponents who recognize and defend the Short Choke early; creates excellent back exposure"
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "North-South",
+    "Kesa Gatame",
+    "Scarf Hold Position",
+    "Modified Scarf Hold",
+    "Mount",
+    "High Mount",
+    "Technical Mount"
+  ],
+  "related_submissions": [
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Similar sleeve-based choke applicable from top positions with related grip mechanics"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Gi-based collar choke sharing lapel manipulation principles from top control"
+    },
+    {
+      "name": "Paper Cutter Choke",
+      "relationship": "Closely related technique using opponent's collar instead of own lapel with similar finishing pressure"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Related cross-collar choke with parallel finishing mechanics and side control setup"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Gi-based choke with different grip configuration but similar concealment from top positions"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Traditional collar choke sharing fundamental grip principles and carotid targeting"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Power lapel choke from back control using similar lapel threading mechanics"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Arm-in lapel choke with similar neck compression dynamics from side control"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "No-gi neck compression alternative sharing side control attacking position"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Head-arm choke from front headlock that chains when opponent defends Short Choke by turning"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Head-arm choke sharing side control setup and complementing Short Choke attack chain"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Joint lock that creates Short Choke openings when opponent defends arm attacks"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary attacking position for Short Choke setup"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Alternative top position for Short Choke variation with perpendicular alignment"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Traditional scarf hold position offering Short Choke opportunities"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Common submission used to set up Short Choke when opponent defends arm attacks"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Alternative position for mounted Short Choke variation"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Similar sleeve-based choke with different mechanics from top positions"
+    },
+    {
+      "name": "Paper Cutter Choke",
+      "relationship": "Closely related technique using opponent's collar instead of own lapel"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Position to transition to when opponent turns away from Short Choke pressure"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Complementary submission that opens Short Choke opportunities when opponent defends"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Related lapel choke with similar cross-collar pressure mechanics"
+    },
+    {
+      "name": "High Mount",
+      "relationship": "Superior mounted position for Short Choke variation with better arm isolation"
+    }
+  ],
+  "clips": [
+    {
+      "id": "Sb-atqD_TqQ",
+      "title": "Short Choke from Back Position",
+      "by": "Cosens MMA",
+      "vertical": false,
+      "channel": "Cosens MMA LLC",
+      "duration": 55,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "E_M4Y0_hxsk",
+      "title": "Shirt Choke From Back Mount",
+      "by": "Defender Combatives",
+      "vertical": false,
+      "channel": "Defender Combatives",
+      "duration": 14,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "EJaBa7Q3qVI",
+      "title": "Short Choke to Rear Naked Choke",
+      "by": "Mako BJJ",
+      "vertical": false,
+      "channel": "Mako Brazilian Jiu-Jitsu",
+      "duration": 188,
+      "verified": "2026-07-14"
+    }
+  ]
+}

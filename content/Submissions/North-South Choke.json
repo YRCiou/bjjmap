@@ -1,0 +1,248 @@
+{
+  "name": "North-South Choke",
+  "description": "Master North-South Choke in BJJ. Complete guide with setup from top control, execution mechanics, safety protocols. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "north-south",
+    "blood-choke",
+    "gi",
+    "no-gi",
+    "pressure",
+    "top-control",
+    "hub",
+    "finishing-guide"
+  ],
+  "disambiguations": [
+    {
+      "name": "North-South",
+      "reason": "North-South is the control POSITION, not the choke finished from it"
+    }
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "North-South",
+  "from_position": "North-South/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "Body pressure creates deceptive lateral blood choke",
+  "summary": "The North-South Choke is a body-pressure blood choke finished from North-South and related top pins, burying the attacker's bicep and shoulder into both carotid arteries with bodyweight rather than a visible arm wrap.",
+  "overview": "Unlike traditional arm chokes that rely on conspicuous limb positioning, the North-South Choke leverages the unique geometry of top control to create an inescapable vise around the neck while looking like nothing more than a heavy pin. Its effectiveness stems from disguise—the opponent often doesn't realize they're being choked until the submission is nearly complete, as the pressure builds gradually through positional consolidation rather than any obvious arm placement. This deceptive quality makes it particularly dangerous in both gi and no-gi contexts, though gi variations offer additional gripping options for enhanced control. As a family of finishes, it can be entered from North-South itself, Kesa Gatame, Side Control, and other top pins, with each entry sharing the same core mechanic of compressing both carotid arteries through the attacker's bicep, shoulder, and body weight. The North-South Choke represents a fundamental example of using superior position and body mechanics to create submissions without complex limb entanglements—accessible to practitioners at all levels while remaining devastatingly effective at the highest levels of competition.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression leading to loss of consciousness",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential for longer-term effects if held after unconsciousness"
+      },
+      {
+        "injury": "Tracheal compression and windpipe damage",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks with proper medical attention"
+      },
+      {
+        "injury": "Neck strain from bridging attempts",
+        "severity": "Medium",
+        "recovery_time": "3-7 days"
+      },
+      {
+        "injury": "Cervical spine stress from improper release",
+        "severity": "CRITICAL",
+        "recovery_time": "Weeks to months depending on severity"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum to allow partner to recognize the danger and tap",
+    "tap_signals": [
+      "Verbal tap or verbal submission",
+      "Multiple rapid hand taps on opponent's body",
+      "Multiple rapid foot taps on the mat",
+      "Any distress signal including body convulsions",
+      "Loss of resistance or going limp"
+    ],
+    "release_protocol": [
+      "Immediately release arm pressure and remove shoulder compression",
+      "Roll off opponent's head and neck area completely",
+      "Allow opponent to recover in side-lying position with airway clear",
+      "Monitor for signs of consciousness and breathing",
+      "Never move opponent's neck immediately after release—allow them to move naturally first"
+    ],
+    "training_restrictions": [
+      "Never apply explosive or jerking pressure to the neck",
+      "Never use competition speed or full pressure in training",
+      "Always ensure partner has clear tap access with at least one hand",
+      "Never hold the choke after partner taps or goes limp",
+      "Beginners should only practice the position and grip, not the actual choking pressure"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Kesa Gatame",
+      "slug": "from-kesa-gatame"
+    },
+    {
+      "name": "from Modified Scarf Hold",
+      "slug": "from-modified-scarf-hold"
+    },
+    {
+      "name": "from North-South",
+      "slug": "from-north-south"
+    },
+    {
+      "name": "from Reverse Scarf",
+      "slug": "from-reverse-scarf"
+    },
+    {
+      "name": "from Shoulder of Justice",
+      "slug": "from-shoulder-of-justice"
+    },
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    }
+  ],
+  "from_positions": [
+    "North-South",
+    "Side Control",
+    "Kesa Gatame",
+    "Scarf Hold Position",
+    "Modified Scarf Hold",
+    "Crucifix",
+    "Mount",
+    "Knee on Belly"
+  ],
+  "related_submissions": [
+    {
+      "name": "Kimura",
+      "relationship": "Alternative submission when opponent defends choke by exposing arm"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Mechanically similar blood choke using body pressure and arm positioning"
+    },
+    {
+      "name": "Breadcutter Choke",
+      "relationship": "Alternative gi choke from similar top control positions"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Submission chain option when transitioning through North-South"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Alternative gi choke from top control positions"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative choke applicable from similar control positions"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head and arm choke with similar lateral pressure principles"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Related front headlock choke with similar compression mechanics"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Alternative gi choke from side control transitions"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Alternative shoulder lock from North-South control"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Related front choke with different entry mechanics"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "North-South",
+      "relationship": "Primary position from which this choke is executed"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Common transitional position before moving to North-South for the choke"
+    },
+    {
+      "name": "Kesa Gatame",
+      "relationship": "Alternative pinning position with similar body positioning concepts for transitioning to North-South"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Position from which North-South Choke can be set up as opponent's arms are controlled"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Mechanically similar blood choke using body pressure and arm positioning for compression"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Top position that can transition to North-South when opponent turns to escape"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Alternative submission chain when opponent defends the choke by exposing their arm"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head and arm choke with similar pressure principles"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Common recovery position for defender who successfully counters the choke attempt"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Gi-Based North-South Choke with Lapel Grip",
+      "description": "Instead of gripping your own gi, thread your arm under opponent's neck and grab their far lapel with a deep grip. Pull the lapel tight across their near-side carotid while your shoulder compresses the far side. This creates even tighter compression than the standard variation and is extremely difficult to defend once established.",
+      "when_to_use": "In gi competition or training when opponent has a thick, accessible lapel. Particularly effective against opponents who defend the standard version by controlling your grip hand, as the lapel provides a different grip structure that's harder to strip."
+    },
+    {
+      "variation_name": "Reverse North-South Choke (Facing Opponent's Legs)",
+      "description": "From North-South with your head toward opponent's legs rather than their head, thread your near arm under their neck from the opposite direction. Your shoulder still provides pressure on one side while your arm creates compression on the other. This variation often surprises opponents who are defending the standard North-South choke direction.",
+      "when_to_use": "When opponent is defending the standard North-South choke setup or when you find yourself in North-South facing their legs after a scramble. Also effective as a counter when opponent attempts to turn into you from standard North-South position—their turn actually helps you establish this reversed variation."
+    },
+    {
+      "variation_name": "North-South Choke from Crucifix Transition",
+      "description": "From Crucifix position with both arms controlled, release one arm and immediately transition to North-South while threading your arm under their neck as you rotate. The initial arm control from Crucifix prevents defensive framing, making the choke setup much easier. This is a high-percentage chain submission when opponent defends the Crucifix submissions.",
+      "when_to_use": "When attacking from Crucifix and opponent successfully defends Armbar or Kimura attempts. The transition to North-South is natural, and their arms are often out of position to defend the incoming choke. Particularly effective in no-gi where Crucifix control is less stable but North-South choke remains highly effective."
+    }
+  ],
+  "clips": [
+    {
+      "id": "z3RNUfHfiSM",
+      "title": "Marcelo Garcia - North South Choke",
+      "by": "Marcelo Garcia",
+      "vertical": false,
+      "channel": "Kon Ying",
+      "duration": 20,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "SPXanCnoBYA",
+      "title": "North South Choke as a Pinning Tool",
+      "by": "Craig Jones",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 135,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "LurZB_PfUmA",
+      "title": "Modified Scarf Hold North/South choke",
+      "by": "Todd Blatchley",
+      "vertical": false,
+      "channel": "Todd Blatchley",
+      "duration": 121,
+      "verified": "2026-07-14"
+    }
+  ]
+}

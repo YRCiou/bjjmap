@@ -1,0 +1,413 @@
+
+
+
+
+---
+title: "Mental Game Framework | BJJ System | BJJ Map"
+description: "Master the mental game in BJJ competition. Complete psychological framework covering focus, pressure management, and strategic mindset. Build unshakable confidence."
+---
+
+
+<body data-content-type="systems">
+
+<!-- Schema Markup - Auto-generated from JSON -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Implement Mental Game Framework",
+  "description": "Step-by-step implementation sequence for Mental Game Framework.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Foundation Building (Weeks 1-4)",
+      "text": "Establish baseline mental skills through daily visualization practice, breath control training, and identification of personal stress triggers. Begin journaling training sessions to develop self-awareness of performance patterns and emotional responses.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Decision Tree Development (Weeks 5-8)",
+      "text": "Create position-specific action plans for all major scenarios. Develop primary objectives, secondary options, and emergency protocols for each position. Test these decision trees during positional sparring with increasing time pressure and resistance.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Pressure Inoculation (Weeks 9-12)",
+      "text": "Introduce competitive stressors into training: time limits, scoring systems, unfamiliar opponents, and physical fatigue. Practice breath control and emotional regulation techniques during high-pressure rounds. Build tolerance to adversity through progressive exposure.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Competition Simulation (Weeks 13-16)",
+      "text": "Conduct full competition simulations including warm-up protocols, multiple matches, weight cutting if applicable, and tournament environment stressors. Test complete mental game framework from preparation through execution to post-match analysis.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Competition Execution",
+      "text": "Apply complete mental framework during actual competition. Execute pre-match preparation rituals, maintain breath control and emotional regulation during matches, and implement position-based decision trees. Focus on process execution rather than outcome.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Post-Competition Integration",
+      "text": "Conduct comprehensive analysis of competition performance focusing on mental game execution. Review decision quality, emotional regulation, and strategic implementation. Identify specific areas for refinement and integrate lessons into ongoing training.",
+      "position": 6
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Mental Game Framework",
+  "description": "Master the mental game in BJJ competition. Complete psychological framework covering focus, pressure management, and strategic mindset. Build unshakable confidence.",
+  "url": "https://bjjmap.pages.dev/Systems/Mental-Game-Framework",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Systems", "item": "https://bjjmap.pages.dev/Systems/"},
+    {"@type": "ListItem", "position": 3, "name": "Mental Game Framework", "item": "https://bjjmap.pages.dev/Systems/Mental-Game-Framework"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Pre-competition anxiety preventing quality sleep and mental preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implement structured evening routine with breath work, visualization of successful preparation rather than match outcomes, and cognitive reframing of anxiety as excitement and readiness. Practice progressive muscle relaxation before sleep."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Decision paralysis when in defensive positions or behind on points?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Develop and drill emergency action protocols for worst-case scenarios. Practice specific defensive recovery sequences until they become automatic. Reframe defensive positions as opportunities to demonstrate composure and technical skill."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Loss of composure after making mistakes or being scored on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Practice immediate emotional reset protocol: controlled breath, physical reset gesture (adjust gi, retie belt), mental refocus on next action rather than past mistake. Train this protocol specifically during sparring when scored on."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Overthinking technique execution during matches leading to hesitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shift from analytical thinking to instinctive execution through extensive drilling and positional sparring. Trust decision trees and trained responses rather than real-time analysis. Practice mindfulness to maintain present-moment focus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Energy depletion from emotional stress and tension during matches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implement rhythmic breathing synchronized with movement to maintain oxygen delivery. Practice relaxation in dominant positions during training. Develop awareness of unnecessary muscle tension and practice release protocols."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a common obstacle: Inability to maintain offensive mindset when fatigued or trailing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Train offensive sequences specifically when fatigued during preparation. Practice maintaining technical precision and creative attacks during final minutes of hard rounds. Develop mental cues that trigger offensive creativity regardless of score."
+      }
+    }
+  ]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Mental Game Framework",
+  "description": "The Mental Game Framework is a competition-focused psychological system that builds emotional regulation, breath control, position-based decision trees, and pressure inoculation into measurable, daily mental training for Brazilian Jiu-Jitsu.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Systems/"
+}
+</script>
+
+
+
+<div class="principle-meta">
+<span class="meta-chip">Competition Strategy</span>
+<span class="meta-chip">Intermediate difficulty</span>
+</div>
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+## What is Mental Game Framework?
+
+**The Mental Game Framework is a competition-focused psychological system that builds emotional regulation, breath control, position-based decision trees, and pressure inoculation into measurable, daily mental training for Brazilian Jiu-Jitsu.**
+
+Two competitors with nearly identical technical games are routinely separated by what happens between the ears—who stays composed when behind on points, who keeps attacking when fatigued, and who makes clean reads under pressure. This system addresses the critical mental components that separate good competitors from great ones: emotional regulation under pressure, strategic decision-making in real-time, and the development of an offensive mindset that maintains composure regardless of position. The framework integrates cognitive strategies, visualization techniques, and pressure inoculation training to build mental resilience. Unlike technical systems that focus purely on physical execution, this framework recognizes that matches are often won or lost based on psychological factors—the ability to stay calm when behind on points, make intelligent decisions when fatigued, and maintain offensive creativity when under defensive pressure. The system is built around three core pillars: pre-competition preparation (visualization, game planning, emotional priming), in-competition execution (breath control, position-based decision trees, energy management), and post-competition analysis (honest self-assessment, pattern recognition, continuous improvement). This holistic approach ensures that mental training becomes as systematic and measurable as physical training.
+
+</section>
+
+
+
+
+
+
+<section id="study-this-system" class="content-section system-study-free">
+
+## How do you drill Mental Game Framework?
+
+<p class="section-subtitle">There's no instructional attached to this system yet &mdash; and you don't need one. It's taught here, free, from the 15 techniques it strings together.</p>
+
+- **Learn it in order** &mdash; the [implementation sequence](#implementation-sequence) is the path, not a list.
+- **Study each piece** &mdash; every technique in [this system's map](#related-content) has its own page, flashcards and film study.
+- **Then roll it** &mdash; on the [interactive graph](/) these same nodes light up as your game moves through them.
+
+</section>
+
+
+<section id="unlock-graph" class="content-section system-unlock" data-system-unlock hidden>
+
+## Unlock this part of the graph
+
+<p class="section-subtitle">This system teaches the highlighted nodes in the graph. Mark what you already know &mdash; be honest, it's your game.</p>
+
+<div class="system-progress" data-system-progress>
+<svg class="system-progress__ring" viewBox="0 0 44 44" aria-hidden="true"><circle class="system-progress__ring-bg" cx="22" cy="22" r="19"></circle><circle class="system-progress__ring-fill" cx="22" cy="22" r="19"></circle></svg>
+<div class="system-progress__text">You've unlocked <strong class="system-progress__known">0</strong> / <span class="system-progress__total">0</span> techniques in this system</div>
+<button class="system-progress__mark-all" data-mark-system type="button">Mark whole system as known</button>
+</div>
+
+<ul class="system-members" data-system-members></ul>
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Core Principles
+- Maintain offensive mindset regardless of position or score
+- Use controlled breathing to regulate emotional state and decision-making quality
+- Develop position-specific decision trees to reduce cognitive load during matches
+- Practice pressure inoculation through progressive resistance training
+- Separate outcome from performance—focus on execution over results
+- Build confidence through systematic preparation and realistic self-assessment
+- Embrace adversity as opportunity for demonstrating mental strength
+
+
+</section>
+
+<section id="key-components" class="content-section">
+
+## Key Components
+**Pre-Competition Visualization** (Reduce anxiety and improve execution by mentally rehearsing success patterns)
+Systematic mental rehearsal of match scenarios including successful execution of techniques, recovery from bad positions, and emotional responses to adversity. Visualization should be specific, multi-sensory, and repeated daily in the weeks leading to competition. This primes neural pathways and reduces cognitive load during actual competition by making scenarios feel familiar.
+
+**Breath Control Protocol** (Regulate emotional state and maintain cognitive clarity during high-pressure moments)
+Structured breathing techniques for different match phases: pre-match calming (4-7-8 breathing), in-match energy management (rhythmic breathing synchronized with movement), and recovery between rounds (box breathing). Breath control directly influences sympathetic nervous system activation and decision-making quality under stress. Proper breathing maintains oxygen delivery while preventing panic responses.
+
+**Position-Based Decision Trees** (Eliminate hesitation and maintain offensive momentum through pre-planned responses)
+Pre-planned response protocols for common positions that eliminate hesitation and decision fatigue. For each major position (guard, top control, back control, defensive), establish primary objectives, secondary options, and emergency protocols. These decision trees reduce cognitive load by providing clear action pathways without requiring real-time analysis under pressure.
+
+**Pressure Inoculation Training** (Build psychological resilience through controlled exposure to competitive stress)
+Progressive exposure to competitive stress through simulated competition environments: time limits, scoring rules, unfamiliar opponents, physical fatigue, and psychological pressure. Training should gradually increase stress levels while maintaining technical focus. This builds tolerance to competition anxiety and prevents performance degradation under pressure.
+
+**Post-Match Analysis Protocol** (Extract learning from competition experience and identify systematic improvement areas)
+Structured review process focusing on decision quality rather than outcome. Analyze technical execution, strategic choices, emotional regulation, and energy management. Identify patterns in performance under pressure. This systematic analysis separates controllable factors from uncontrollable ones and provides actionable improvement targets for future preparation.
+
+
+
+</section>
+
+<section id="implementation-sequence" class="content-section">
+
+## Implementation Sequence
+1. **Foundation Building (Weeks 1-4)**: Establish baseline mental skills through daily visualization practice, breath control training, and identification of personal stress triggers. Begin journaling training sessions to develop self-awareness of performance patterns and emotional responses.
+Key points:
+- Practice 10 minutes daily visualization of successful technique execution
+- Learn and practice 4-7-8 breathing, box breathing, and rhythmic breathing protocols
+- Identify personal anxiety triggers and stress response patterns
+- Establish honest self-assessment baseline for technical and mental performance
+
+
+
+2. **Decision Tree Development (Weeks 5-8)**: Create position-specific action plans for all major scenarios. Develop primary objectives, secondary options, and emergency protocols for each position. Test these decision trees during positional sparring with increasing time pressure and resistance.
+Key points:
+- Map out offensive priorities from guard, top positions, and scrambles
+- Establish defensive recovery protocols from mount, back control, and submissions
+- Practice decision trees in controlled positional drilling
+- Reduce decision time through repetition and progressive pressure
+
+
+
+3. **Pressure Inoculation (Weeks 9-12)**: Introduce competitive stressors into training: time limits, scoring systems, unfamiliar opponents, and physical fatigue. Practice breath control and emotional regulation techniques during high-pressure rounds. Build tolerance to adversity through progressive exposure.
+Key points:
+- Implement timed rounds with scoring to simulate competition pressure
+- Train with unfamiliar partners to reduce comfort-based performance
+- Practice emotional regulation techniques during disadvantaged positions
+- Monitor performance quality under increasing stress levels
+
+
+
+4. **Competition Simulation (Weeks 13-16)**: Conduct full competition simulations including warm-up protocols, multiple matches, weight cutting if applicable, and tournament environment stressors. Test complete mental game framework from preparation through execution to post-match analysis.
+Key points:
+- Simulate entire competition day including travel, weigh-in, warm-up
+- Execute pre-match visualization and breath control protocols
+- Apply decision trees under full competition conditions
+- Conduct thorough post-simulation analysis and identify refinements
+
+
+
+5. **Competition Execution**: Apply complete mental framework during actual competition. Execute pre-match preparation rituals, maintain breath control and emotional regulation during matches, and implement position-based decision trees. Focus on process execution rather than outcome.
+Key points:
+- Execute pre-match visualization and emotional priming protocols
+- Use breath control to maintain composure between and during matches
+- Trust decision trees rather than overthinking in real-time
+- Maintain offensive mindset regardless of position or score
+
+
+
+6. **Post-Competition Integration**: Conduct comprehensive analysis of competition performance focusing on mental game execution. Review decision quality, emotional regulation, and strategic implementation. Identify specific areas for refinement and integrate lessons into ongoing training.
+Key points:
+- Analyze video footage focusing on decision-making and composure
+- Identify successful mental strategies and areas requiring improvement
+- Update decision trees based on real competition experience
+- Develop specific training protocols to address identified weaknesses
+
+
+
+
+
+</section>
+
+<section id="common-obstacles" class="content-section hide-minimal">
+
+## What Challenges Will You Face?
+- **Pre-competition anxiety preventing quality sleep and mental preparation**: Implement structured evening routine with breath work, visualization of successful preparation rather than match outcomes, and cognitive reframing of anxiety as excitement and readiness. Practice progressive muscle relaxation before sleep.
+- **Decision paralysis when in defensive positions or behind on points**: Develop and drill emergency action protocols for worst-case scenarios. Practice specific defensive recovery sequences until they become automatic. Reframe defensive positions as opportunities to demonstrate composure and technical skill.
+- **Loss of composure after making mistakes or being scored on**: Practice immediate emotional reset protocol: controlled breath, physical reset gesture (adjust gi, retie belt), mental refocus on next action rather than past mistake. Train this protocol specifically during sparring when scored on.
+- **Overthinking technique execution during matches leading to hesitation**: Shift from analytical thinking to instinctive execution through extensive drilling and positional sparring. Trust decision trees and trained responses rather than real-time analysis. Practice mindfulness to maintain present-moment focus.
+- **Energy depletion from emotional stress and tension during matches**: Implement rhythmic breathing synchronized with movement to maintain oxygen delivery. Practice relaxation in dominant positions during training. Develop awareness of unnecessary muscle tension and practice release protocols.
+- **Inability to maintain offensive mindset when fatigued or trailing**: Train offensive sequences specifically when fatigued during preparation. Practice maintaining technical precision and creative attacks during final minutes of hard rounds. Develop mental cues that trigger offensive creativity regardless of score.
+
+
+</section>
+
+<section id="assessment-metrics" class="content-section">
+
+## How to Measure Your Progress
+**Emotional Regulation Under Pressure**: Ability to maintain composure and decision-making quality during adverse match situations, measured through self-assessment and video analysis of competitive performance.
+Proficiency indicators:
+- Beginner: Visible emotional reactions to being scored on or disadvantaged, decision quality deteriorates under pressure
+- Intermediate: Maintains basic composure but shows tension, decision-making remains functional but slows under stress
+- Advanced: Consistent composure regardless of score, decision quality remains high under all conditions
+- Expert: Uses pressure as catalyst for improved focus, appears more composed in adverse situations than dominant ones
+
+
+**Pre-Competition Preparation Consistency**: Systematic execution of mental preparation protocols including visualization, game planning, and emotional priming in the weeks and days leading to competition.
+Proficiency indicators:
+- Beginner: Sporadic or no mental preparation, relies on physical training alone
+- Intermediate: Inconsistent preparation, increases mental work immediately before competition
+- Advanced: Systematic daily preparation for 2-4 weeks before competition
+- Expert: Year-round mental skills practice with intensified competition-specific preparation
+
+
+**Decision Speed and Quality**: Rate and effectiveness of technical decisions during matches, measured by review of match footage and analysis of hesitation patterns versus successful execution.
+Proficiency indicators:
+- Beginner: Frequent hesitation, inconsistent decision quality, often makes defensive choices
+- Intermediate: Improved decision speed in familiar positions, still hesitates in complex scenarios
+- Advanced: Quick decisions across all positions, high success rate on primary techniques
+- Expert: Instant decision execution, high-level creativity under pressure, seamless position-specific responses
+
+
+**Post-Competition Learning Integration**: Quality and consistency of competition analysis and ability to translate competition insights into improved training and future performance.
+Proficiency indicators:
+- Beginner: Minimal analysis, focus on outcome rather than process, emotional rather than analytical review
+- Intermediate: Basic analysis of technical performance, identification of some patterns
+- Advanced: Systematic analysis of decision quality, strategic execution, and mental game performance
+- Expert: Comprehensive multi-layered analysis with specific training protocols developed from competition insights
+
+
+
+
+</section>
+
+<section id="training-methodology" class="content-section hide-minimal">
+
+## How to Train This System Effectively
+
+### Drilling Approach
+Mental game development requires systematic progression from controlled environments to high-stress simulation. Begin with low-pressure visualization and breath work practice outside training. Progress to implementing mental protocols during technical drilling where physical demands are manageable and cognitive load is low. Next stage introduces mental skills practice during positional sparring with controlled variables. Advanced practice integrates complete mental framework during competition simulation with full physical and psychological stressors. Each training session should include specific mental skill focus alongside technical work. Document mental performance alongside physical performance to track progress and identify patterns.
+
+### Progression Path
+**Mental Skills Foundation** (Focus: Learn breath control techniques, basic visualization, and self-awareness through journaling) - Weeks 1-4
+**Decision Tree Development** (Focus: Create position-specific action plans and practice during controlled positional drilling) - Weeks 5-8
+**Pressure Inoculation** (Focus: Introduce competitive stressors and practice mental protocols under increasing pressure) - Weeks 9-12
+**Competition Simulation** (Focus: Full competition environment practice with complete mental framework integration) - Weeks 13-16
+**Competition Application** (Focus: Execute mental game framework in actual competition and conduct thorough analysis) - Competition day and following week
+**Continuous Refinement** (Focus: Ongoing mental skills practice integrated into regular training with periodic high-pressure testing) - Ongoing between competitions
+
+
+### Common Mistakes
+- Treating mental training as optional or only practicing immediately before competition rather than as systematic daily work
+- Focusing exclusively on positive visualization without preparing mental responses to adversity and disadvantaged positions
+- Neglecting breath work and emotional regulation practice during physical training when it matters most
+- Failing to develop specific decision trees and relying on real-time analysis under competitive pressure
+- Avoiding competition simulation and pressure testing until actual competition reveals mental game weaknesses
+- Analyzing outcomes rather than decision quality and process execution during post-competition review
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Which Positions, Transitions, and Principles Connect to This System?
+
+- [[Systems/Competition Preparation System|Competition Preparation System]] (System) - Complementary framework providing physical and logistical preparation to support mental game
+- [[Systems/Competition Strategy|Competition Strategy]] (System) - Strategic framework that mental game supports through improved decision-making execution
+- [[Principles/Competition Mindset|Competition Mindset]] (Principle) - Core psychological principle underlying entire mental game framework
+- [[Systems/Competition Scoring Strategy|Competition Scoring Strategy]] (System) - Scoring-driven strategy requiring mental clarity for real-time point calculations and risk decisions
+- [[Principles/Positional Sparring|Positional Sparring]] (Principle) - Training method supporting mental preparation through controlled scenario-based drilling
+- [[Principles/Position Chains|Position Chains]] (Principle) - Strategic sequencing requiring mental planning and pre-built decision pathways
+- [[Principles/Energy Conservation|Energy Conservation]] (Principle) - Physical energy management enhanced by emotional regulation and breath control techniques
+- [[Principles/Dealing with Pressure|Dealing with Pressure]] (Principle) - Core skill developed through pressure inoculation and emotional regulation training
+- [[Principles/Defensive Concepts|Defensive Concepts]] (Principle) - Understanding defensive frameworks supports maintaining offensive mindset from disadvantaged positions
+- [[Principles/Position-Over-Submission Approach|Position-Over-Submission Approach]] (Principle) - Strategic philosophy requiring mental discipline and patient execution
+- [[Principles/Fork Attacks|Fork Attacks]] (Principle) - Strategic decision-making skill requiring mental composure to present opponents with multiple threats
+- [[Principles/Flow Rolling|Flow Rolling]] (Principle) - Training method developing instinctive responses and reducing overthinking
+- [[Principles/Positional Hierarchy|Positional Hierarchy]] (Principle) - Understanding positional value supports mental game decisions about risk and advancement
+- [[Positions/Closed Guard|Closed Guard]] (Position) - Fundamental position requiring mental composure and systematic attack sequences
+- [[Positions/Mount|Mount]] (Position) - Dominant position where mental discipline prevents rushing and maintains control
+- [[Positions/Back Control|Back Control]] (Position) - Highest value position requiring mental clarity for finish execution
+- [[Positions/Turtle|Turtle]] (Position) - Defensive position testing mental resilience and recovery protocols
+- [[Transitions/Guard Pull|Guard Pull]] (Transition) - Strategic entry requiring mental commitment and clear game plan
+- [[Systems/Standing Defense Strategy|Standing Defense Strategy]] (System) - Defensive system requiring calm decision-making and composure under pressure from standing exchanges
+
+
+</section>
+
+</main>

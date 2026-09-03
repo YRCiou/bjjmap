@@ -1,0 +1,370 @@
+
+
+
+
+---
+title: "Baseball Bat Choke from Knee on Belly | BJJ Submission | BJJ Map"
+description: "Master the Baseball Bat Choke from Knee on Belly in BJJ. Learn gi collar grip mechanics, spinning finish details, and pressure-based setups unique to KOB."
+---
+
+
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Baseball Bat Choke from Knee on Belly",
+  "description": "Master the Baseball Bat Choke from Knee on Belly in BJJ. Learn gi collar grip mechanics, spinning finish details, and pressure-based setups unique to KOB.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": "Baseball Bat Choke from Knee on Belly", "item": "https://bjjmap.pages.dev/Submissions/Baseball-Bat-Choke-from-Knee-on-Belly" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Baseball Bat Choke from Knee on Belly \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Baseball Bat Choke From Knee on Belly",
+      "description": "Baseball Bat Choke from Knee on Belly film study: Baseball Bat Choke From Knee on Belly, taught by Clayton Phillips.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RxMwGEBoPYw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/RxMwGEBoPYw",
+      "url": "https://www.youtube.com/watch?v=RxMwGEBoPYw",
+      "creator": { "@type": "Person", "name": "Clayton Phillips" },
+      "duration": "PT105S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Baseball Bat Choke",
+      "description": "Baseball Bat Choke from Knee on Belly film study: Baseball Bat Choke, taught by Iron \u0026 Soul.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JFk3ZiedLdY/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/JFk3ZiedLdY",
+      "url": "https://www.youtube.com/watch?v=JFk3ZiedLdY",
+      "creator": { "@type": "Person", "name": "Iron \u0026 Soul" },
+      "duration": "PT60S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Baseball Bat Choke",
+      "description": "Baseball Bat Choke from Knee on Belly film study: Baseball Bat Choke, taught by Jiu-Jitsu Times.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uvr8pF7ad7k/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/uvr8pF7ad7k",
+      "url": "https://www.youtube.com/watch?v=uvr8pF7ad7k",
+      "creator": { "@type": "Person", "name": "Jiu-Jitsu Times" },
+      "duration": "PT67S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Baseball Bat Choke from Knee on Belly",
+  "description": "The Baseball Bat Choke from Knee on Belly is a gi blood choke that uses a same-direction double-collar grip and a spinning finish, weaponizing the position's diaphragm pressure to open the collar and compress both carotid arteries.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+
+**The Baseball Bat Choke from Knee on Belly is a gi blood choke that uses a same-direction double-collar grip and a spinning finish, weaponizing the position's diaphragm pressure to open the collar and compress both carotid arteries.**
+<div class="principle-meta">
+<span class="meta-chip">Choke</span>
+<span class="meta-chip">Blood Choke</span>
+<span class="meta-chip">Targets Carotid arteries and jugular veins</span>
+<span class="meta-chip">10% success</span>
+</div>
+
+> [!danger] Safety
+> Baseball Bat Choke from Knee on Belly targets the Carotid arteries and jugular veins. Primary risk: Loss of consciousness from bilateral carotid compression. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+<div class="role-links">
+
+[[Submissions/Baseball Bat Choke/from Knee on Belly/Attacker|Play as Attacker]]
+[[Submissions/Baseball Bat Choke/from Knee on Belly/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+The Baseball Bat Choke from Knee on Belly is one of the highest-percentage gi submissions available from this mobile control position. The choke derives its name from the baseball-bat-style double collar grip, where both hands grasp the opponent's collar in the same direction, one palm up and one palm down. What makes the Knee on Belly entry particularly dangerous is the immense diaphragm pressure that forces defensive reactions, specifically arm extension to relieve the knee weight, which opens the collar for grip insertion. The attacker establishes grips while maintaining top pressure, then spins through north-south or to the opposite side to cinch the strangle.
+
+From a strategic standpoint, Knee on Belly creates a dual threat that is extremely difficult to solve simultaneously. The bottom player must choose between addressing the crushing knee pressure or defending the collar grips. Addressing one threat accelerates the other. When the opponent pushes against the knee, their hands leave the collar undefended. When they protect the collar, the knee pressure becomes unbearable. This dilemma makes the Baseball Bat Choke from Knee on Belly a reliable competition finisher at all belt levels.
+
+The finishing mechanic involves a controlled spin away from the opponent after securing both collar grips, dropping the chest to the mat on the far side while tightening the cross-collar strangle. The spin generates torsion through the collar fabric that compresses both carotid arteries simultaneously. Timing the spin with the opponent's defensive movement is critical: spinning too early before grips are deep results in a loose choke, while waiting too long allows the opponent to strip grips or recover guard.
+
+**Starting Position**: [[Positions/Knee on Belly]] · **From**: [[Positions/Knee on Belly]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Baseball Bat Choke from Knee on Belly in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=RxMwGEBoPYw)
+
+<p class="clip-credit"><strong>Baseball Bat Choke From Knee on Belly</strong> — taught by Clayton Phillips · 1:45 · <a href="https://www.youtube.com/watch?v=RxMwGEBoPYw" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=JFk3ZiedLdY)
+
+<p class="clip-credit"><strong>Baseball Bat Choke</strong> — taught by Iron &amp; Soul · 1:00 · <a href="https://www.youtube.com/watch?v=JFk3ZiedLdY" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=uvr8pF7ad7k)
+
+<p class="clip-credit"><strong>Baseball Bat Choke</strong> — taught by Jiu-Jitsu Times · 1:07 · <a href="https://www.youtube.com/watch?v=uvr8pF7ad7k" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[game-over]] | 58% |
+| Failure | [[Positions/Knee on Belly]] | 27% |
+| Counter | [[Positions/Closed Guard]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | Use knee pressure as a grip-opening tool — the opponent cann... | Collar defense takes priority over knee pressure relief when... |
+| **Options** | 7 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Submissions/Baseball Bat Choke/from Knee on Belly/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Use knee pressure as a grip-opening tool — the opponent cannot defend both the knee and the collar simultaneously
+
+- Secure the far-side collar grip first and deep, threading fingers behind the neck past the collar seam
+
+- Maintain knee pressure throughout grip insertion to prevent the opponent from sitting up or turning
+
+- The spin generates the choking force — do not try to squeeze with arms alone before completing rotation
+
+- Time the spin with the opponent's defensive movement for maximum tightening effect
+
+- Keep elbows tight during the spin to prevent grip slippage and maintain collar depth
+
+- Drop chest to mat on the far side after spinning to create maximum torsional pressure on the collar
+
+
+### Execution Steps
+
+
+- **Establish heavy Knee on Belly pressure**: Drive your knee into the opponent's solar plexus with forward chest pressure and wide posting base. ...
+
+- **Insert first grip on far-side collar**: As the opponent reacts to the pressure by pushing your knee or framing on your hip, use your near ha...
+
+- **Secure second grip on near-side collar**: With your far hand, grip the near-side collar with a palm-down grip, creating the baseball bat confi...
+
+- **Lock elbows tight to your body**: Before initiating the spin, clamp both elbows tight against your ribcage. This prevents grip slippag...
+
+- **Initiate controlled spin toward the far side**: Lift your knee off the opponent's belly and begin rotating your body toward the far side, spinning t...
+
+- **Complete spin and drop chest to mat**: Finish the rotation by landing on the far side of the opponent with your chest pressed to the mat. Y...
+
+- **Fine-tune finish pressure**: If the choke is not immediately producing a tap, make micro-adjustments: walk your hips slightly awa...
+
+
+### Common Mistakes
+
+
+- **Inserting shallow collar grips that only reach the lapel edge**
+  - Consequence: Produces a windpipe crank instead of a blood choke — painful but ineffective against experienced opponents and dangerous to training partners
+  - Correction: Thread fingers deep past the collar seam so your knuckles sit behind the opponent's neck. The deeper the grip, the more the choke targets the carotid arteries rather than the trachea
+
+- **Spinning explosively before confirming both grips are secure**
+  - Consequence: One or both grips slip during the spin, resulting in a failed choke and loss of Knee on Belly position with nothing to show for it
+  - Correction: Pause briefly after securing both grips to confirm depth and lock elbows tight. The spin should be controlled and deliberate, not rushed
+
+- **Lifting knee pressure to focus on collar grips**
+  - Consequence: Opponent regains breathing space and can now dedicate both hands to stripping collar grips or recovering guard
+  - Correction: Maintain knee pressure throughout the entire grip insertion phase. Only lift the knee when initiating the actual spin after both grips are confirmed
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Submissions/Baseball Bat Choke/from Knee on Belly/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Collar defense takes priority over knee pressure relief when you recognize baseball bat grip attempts
+
+- Fight the first grip immediately — preventing grip depth is far easier than stripping a seated grip
+
+- Keep at least one hand dedicated to collar defense whenever under Knee on Belly pressure
+
+- Turn toward the attacker to close collar access rather than turning away which exposes the far collar
+
+- Use the spin transition as an escape window — the moment the knee lifts, hip escape aggressively
+
+- Recognize the point of no return: once both deep grips are set and the spin begins, tap immediately
+
+- Two-on-one grip fighting on the first collar grip is the highest-percentage defensive strategy
+
+
+### Recognition Cues
+
+
+- Attacker's near hand releases normal KOB grips and begins reaching across toward your far-side collar
+
+- Attacker adjusts knee position or increases downward pressure to provoke a hand reaction before grip insertion
+
+- Attacker's hand threads palm-up into the collar fabric on your far side, fingers reaching behind your neck
+
+- Attacker secures a second grip on your near-side collar with palm down, creating the baseball bat configuration
+
+- Attacker suddenly locks both elbows tight against their body and shifts weight forward — the spin is imminent
+
+
+### Escape Paths
+
+
+- Two-on-one grip strip on the first collar grip followed by immediate hip escape to half guard before regripping
+
+- Hip escape and guard recovery during the spin transition when knee pressure is momentarily released
+
+- Turn into the attacker and sit up to establish an underhook, closing the collar access angle completely
+
+
+</section>
+
+
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+- [[Positions/Knee on Belly]]
+- [[Positions/Side Control]]
+
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+- [[Submissions/Baseball Bat Choke]]
+- [[Submissions/Cross Collar Choke]]
+- [[Submissions/Arm Triangle]]
+- [[Submissions/Ezekiel Choke]]
+- [[Submissions/Breadcutter Choke]]
+- [[Submissions/Bow and Arrow Choke]]
+- [[Positions/Knee on Belly]] - Primary starting position providing pressure platform for grip insertion
+- [[Positions/Side Control]] - Alternative entry position and common landing position after spinning finish
+- [[Positions/North-South]] - Intermediate position during spinning finish transition
+
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+| Loss of consciousness from bilateral carotid compression | High | Immediate with proper release; potential neurological complications if held beyond unconsciousness |
+| Trachea damage from improper collar placement or windpipe pressure | Medium | 1-2 weeks with rest |
+| Neck strain from explosive spinning finish or resisting the rotation | Medium | 3-7 days |
+
+
+**Application Speed**: SLOW and progressive - 3-5 seconds minimum in training. The spin should be controlled, not explosive.
+
+**Tap Signals**:
+- Verbal tap saying 'tap' clearly
+- Physical hand tap on partner or mat (minimum two taps)
+- Physical foot tap on mat when hands are trapped
+- Any distress signal including going limp or loss of muscle tone
+
+
+**Release Protocol**:
+1. Immediately release all collar grips upon any tap signal
+2. Remove hands completely from opponent's neck and collar area
+3. Roll off opponent and allow them to recover in side-lying position
+4. Check partner's awareness, breathing, and orientation before continuing
+5. Wait for verbal confirmation of readiness before resuming training
+
+
+**Training Restrictions**:
+- Never apply at competition speed during drilling — control the spin
+- Never jerk or spike the choke to force a finish
+- Always ensure partner can signal a tap with at least one hand or verbally
+- Never continue past initial resistance in training — reset and refine grip depth
+- Stop immediately if partner shows any signs of distress, color change, or unconsciousness
+
+
+</section>
+
+
+
+</main>

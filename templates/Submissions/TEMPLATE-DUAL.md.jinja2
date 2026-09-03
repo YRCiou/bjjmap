@@ -1,0 +1,315 @@
+{# BJJ Submission Hub Page Template #}
+{# Generates hub pages with safety banner, outcomes, and role summaries #}
+{# Input: Root fields (name, description, overview, etc.) + attacker, defender, outcomes, safety_considerations #}
+
+---
+title: "{{ name }} | BJJ Submission | BJJ Map"
+description: "{{ description }}"
+---
+
+{# PostHog A/B Testing Metadata #}
+<body data-content-type="submissions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ name | tojson }},
+  "description": {{ description | tojson }},
+  {%- if aliases is defined and aliases %}
+  "alternateName": [{% for alias in aliases %}{{ alias | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  {%- if disambiguations is defined and disambiguations %}
+  {%- set _ns = namespace(dd='') %}
+  {%- for d in disambiguations %}{% set _ns.dd = _ns.dd + 'Often confused with ' + d.name + ' — ' + d.reason + '.' + (' ' if not loop.last else '') %}{% endfor %}
+  "disambiguatingDescription": {{ _ns.dd | tojson }},
+  {%- endif %}
+  {%- if sameAs is defined and sameAs %}
+  "sameAs": [{% for u in sameAs %}{{ u | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Submissions", "item": "https://bjjmap.pages.dev/Submissions/" },
+    { "@type": "ListItem", "position": 3, "name": {{ name | tojson }}, "item": {{ ("https://bjjmap.pages.dev/Submissions/" ~ (name | replace(" ", "-"))) | tojson }} }
+  ]
+}
+</script>
+
+{# --- Film study clips: curated by scripts/source_clips.py, never AI-authored --- #}
+{%- set film_clips = clips if clips is defined and clips else (attacker.clips if attacker.clips is defined and attacker.clips else (defender.clips if defender.clips is defined and defender.clips else [])) %}
+{%- set film_context = name %}
+
+{% if film_clips %}
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ (film_context ~ " — Film Study") | tojson }},
+  "itemListElement": [
+    {%- for clip in film_clips %}
+    {
+      "@type": "VideoObject",
+      "position": {{ loop.index }},
+      "name": {{ clip.title | tojson }},
+      "description": {{ (film_context ~ " film study: " ~ clip.title ~ ((", taught by " ~ clip.by) if clip.by else "") ~ ".") | tojson }},
+      "thumbnailUrl": {{ ("https://i.ytimg.com/vi/" ~ clip.id ~ "/hqdefault.jpg") | tojson }},
+      "embedUrl": {{ ("https://www.youtube.com/embed/" ~ clip.id ~ (("?start=" ~ (clip.start | string)) if clip.start else "")) | tojson }},
+      "url": {{ ("https://www.youtube.com/watch?v=" ~ clip.id) | tojson }}
+      {%- if clip.by %},
+      "creator": { "@type": "Person", "name": {{ clip.by | tojson }} }
+      {%- endif %}
+      {%- if clip.duration %},
+      "duration": "PT{{ clip.duration }}S"
+      {%- endif %}
+      {%- if clip.upload_date %},
+      "uploadDate": {{ clip.upload_date | tojson }}
+      {%- endif %}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if summary %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{ name }}",
+  "description": "{{ summary }}",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Submissions/"
+}
+</script>
+{% endif %}
+
+{# Flexbox wrapper for A/B testing #}
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+{# Answer-first summary leads the page (guarded so pages render before the summary backfill lands) #}
+{% if summary %}**{{ summary }}**
+{% endif -%}
+
+<div class="principle-meta">
+<span class="meta-chip">{{ submission_category }}</span>
+<span class="meta-chip">{{ submission_type }}</span>
+<span class="meta-chip">Targets {{ target_area }}</span>
+<span class="meta-chip">{{ success_rate }}% success</span>
+</div>
+
+> [!danger] Safety
+> {{ name }} targets the {{ target_area }}. Primary risk: {{ safety_considerations.injury_risks[0].injury }}. Tap early; release immediately on the tap. [Full safety guide ↓](#safety-considerations)
+
+{% if (aliases is defined and aliases) or (family is defined and family) or (disambiguations is defined and disambiguations) -%}
+<aside class="entity-relations">
+{%- if aliases is defined and aliases %}
+<p class="also-known-as"><em>Also known as:</em> {% for alias in aliases %}<strong>{{ alias | e }}</strong>{{ ", " if not loop.last else "" }}{% endfor %}</p>
+{%- endif %}
+{%- if family is defined and family %}
+<p class="part-of-family"><em>Part of the</em> <strong>{% if resolve.family_exists(family) %}[[Families/{{ family }}|{{ family | e }}]]{% else %}{{ family | e }}{% endif %}</strong> <em>family</em></p>
+{%- endif %}
+{%- if disambiguations is defined and disambiguations %}
+{%- for d in disambiguations %}
+<p class="often-confused-with"><em>Often confused with</em> <strong>{% if resolve.page_exists(d.name) %}[[{{ resolve(d.name) }}|{{ d.name | e }}]]{% else %}{{ d.name | e }}{% endif %}</strong> — {{ d.reason | e }}</p>
+{%- endfor %}
+{%- endif %}
+</aside>
+{% endif -%}
+
+<div class="role-links">
+
+[[{{ content_path }}/Attacker|Play as Attacker]]
+[[{{ content_path }}/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+{{ overview }}
+
+**Starting Position**: [[{{ resolve(starting_position) }}]]{% if from_position is defined and from_position %} · **From**: [[{{ resolve(from_position.split('/')[0]) }}]] ({{ from_position.split('/')[1] if '/' in from_position else '' }}){% endif %}
+
+</section>
+
+{% if film_clips %}
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch {{ film_context }} in action — curated instructionals</p>
+
+{% for clip in film_clips %}
+<div class="film-clip{{ ' film-clip--vertical' if clip.vertical else '' }}">
+
+![](https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&start={{ clip.start }}{% endif %}{% if clip.end %}&end={{ clip.end }}{% endif %})
+
+<p class="clip-credit"><strong>{{ clip.title | e }}</strong>{% if clip.by %} — taught by {{ clip.by | e }}{% endif %}{% if clip.duration %} · {{ "%d:%02d" | format(clip.duration // 60, clip.duration % 60) }}{% endif %} · <a href="https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&t={{ clip.start }}s{% endif %}" rel="noopener">Watch on YouTube{% if clip.start %} from {{ "%d:%02d" | format(clip.start // 60, clip.start % 60) }}{% endif %}</a></p>
+
+</div>
+{% endfor %}
+
+</section>
+{% endif %}
+
+<section id="outcomes" class="content-section">
+
+## Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+{% for o in outcomes -%}
+| {{ o.result | capitalize }} | [[{{ resolve(o.to.split('/')[0] if '/' in o.to else o.to) }}]] | {{ o.probability }}% |
+{% endfor %}
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute and finish | Escape and survive |
+| **Key Principles** | {{ attacker.key_principles[0][:60] }}... | {{ defender.key_principles[0][:60] }}... |
+| **Options** | {{ attacker.execution_steps | length }} execution steps | {{ defender.defensive_options | length }} defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[{{ content_path }}/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+{% for principle in attacker.key_principles %}
+- {{ principle }}
+{% endfor %}
+
+### Execution Steps
+
+{% for step in attacker.execution_steps %}
+- **{{ step.action }}**: {{ step.description[:100] }}...
+{% endfor %}
+
+### Common Mistakes
+
+{% for error in attacker.common_errors[:3] %}
+- **{{ error.error }}**
+  - Consequence: {{ error.consequence }}
+  - Correction: {{ error.correction }}
+{% endfor %}
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[{{ content_path }}/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+{% for principle in defender.key_principles %}
+- {{ principle }}
+{% endfor %}
+
+### Recognition Cues
+
+{% for cue in defender.recognition_cues %}
+- {{ cue }}
+{% endfor %}
+
+### Escape Paths
+
+{% for escape in defender.escape_paths %}
+- {{ escape }}
+{% endfor %}
+
+</section>
+
+{% if variations_and_setups is defined and variations_and_setups %}
+<section id="variations" class="content-section hide-minimal">
+
+## Variations
+
+{% for variant in variations_and_setups %}
+**{{ variant.variation_name }}**: {{ variant.description }}{% if variant.when_to_use %} (When to use: {{ variant.when_to_use }}){% endif %}
+
+{% endfor %}
+
+</section>
+{% endif %}
+
+<section id="from-positions" class="content-section">
+
+## From Which Positions?
+
+{% for position in from_positions -%}
+- [[{{ resolve(position) }}]]
+{% endfor %}
+
+</section>
+
+<section id="related" class="content-section">
+
+## Related
+
+{%- set relns = namespace(items=[], seen=[]) %}
+{%- for item in (related_submissions + related_content) %}
+{%- set iname = item.name if item is mapping else item %}
+{%- if iname | lower != name | lower and iname | lower not in relns.seen and resolve.page_exists(iname) %}
+{%- set _ = relns.seen.append(iname | lower) %}
+{%- set _ = relns.items.append(item) %}
+{%- endif %}
+{%- endfor %}
+{% for item in relns.items -%}
+- [[{{ resolve(item.name if item is mapping else item) }}]]{% if item is mapping and item.relationship %} - {{ item.relationship }}{% endif %}
+{% endfor %}
+</section>
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Guide
+
+**Injury Risks**:
+
+| Injury | Severity | Recovery Time |
+|--------|----------|---------------|
+{% for risk in safety_considerations.injury_risks -%}
+| {{ risk.injury }} | {{ risk.severity }} | {{ risk.recovery_time }} |
+{% endfor %}
+
+**Application Speed**: {{ safety_considerations.application_speed }}
+
+**Tap Signals**:
+{% for signal in safety_considerations.tap_signals -%}
+- {{ signal }}
+{% endfor %}
+
+**Release Protocol**:
+{% for step in safety_considerations.release_protocol -%}
+{{ loop.index }}. {{ step }}
+{% endfor %}
+
+**Training Restrictions**:
+{% for restriction in safety_considerations.training_restrictions -%}
+- {{ restriction }}
+{% endfor %}
+
+</section>
+
+{{ resolve.related_systems_html(name) }}
+
+</main>

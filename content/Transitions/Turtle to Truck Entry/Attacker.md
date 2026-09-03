@@ -1,0 +1,432 @@
+
+
+
+
+---
+title: "Turtle to Truck Entry Attacker | BJJ Technique Guide | BJJ Map"
+description: "How to execute Turtle to Truck Entry in BJJ. Attacking perspective with setup, execution steps, and counters."
+---
+
+
+<body data-content-type="transitions">
+
+<!-- Schema Markup - HowTo for Execution -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Execute Turtle to Truck Entry in BJJ",
+  "description": "Step-by-step guide for executing Turtle to Truck Entry from Turtle/Top.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Establish perpendicular chest pressure",
+      "text": "Position your chest firmly against the opponent's near-side ribs, angling your body perpendicular to their spine. Your near-side arm should have a cross-face or collar tie controlling their head and preventing forward movement. Drop your hips low and heavy against their near hip to anchor your position and limit their lateral escape options.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Reach for the far leg",
+      "text": "Extend your far arm under the opponent's torso, reaching across to grip the inside of their far knee or shin. Pull the far leg slightly toward you to create slack and break their four-point base symmetry. This grip is the anchor for the entire entry; without it, the leg thread will fail. Maintain chest pressure throughout to prevent them from collapsing their turtle or sitting through.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Thread the near-side leg hook",
+      "text": "Simultaneously with the far leg grip, thread your near-side leg (closest to opponent's hips) underneath their body, inserting your shin behind their far thigh. Your foot should emerge on the opposite side of their body. Use a scooping hip motion to drive the leg through rather than kicking, which maintains your base and prevents telegraphing the entry.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Secure the initial hook position",
+      "text": "Once your shin is threaded behind their thigh, flex your foot and press your shin firmly against the back of their trapped leg. Use your far leg grip to prevent them from straightening their trapped leg or pulling it free. Your near-side arm maintains head control while your body weight pins their hip, creating a three-point control framework: head, hip, and leg.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Begin the leg triangle formation",
+      "text": "Bring your far leg over and begin locking it with your near leg in a figure-four or triangle configuration. Your near foot should seat into your far leg's knee pit. Apply lateral pressure by extending your hips away from the opponent while squeezing the triangle, which pulls their trapped leg away from their body and compromises their base structure.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Transition to side-lying Truck position",
+      "text": "Roll onto your near-side hip while maintaining the leg triangle lock, facing the same direction as your opponent. Shift your chest contact from their ribs to their lower back or hip area. Release the cross-face and establish a grip on their far arm or shoulder to control their upper body rotation. You are now in the initial Truck configuration with the leg entanglement established.",
+      "position": 6
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Consolidate Truck control",
+      "text": "Tighten the leg triangle by actively squeezing and extending your hips. Control their upper body by reaching across for their far wrist, underhook, or chin. Ensure your back is not flat on the mat but angled onto your hip for mobility. From here, you have established full Truck entry with access to Twister, calf slicer, banana split, and back take options.",
+      "position": 7
+    }
+  ],
+  "tool": ["BJJ Gi or No-Gi attire", "Training partner", "Mat space"],
+  "totalTime": "PT5M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Knowledge Assessment -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the Turtle to Truck Entry and how does it differ from a traditional back take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to thread a leg hook through the opponent's legs and establish the initial leg triangle that defines Truck position. Unlike a traditional back take which targets seatbelt control and hook insertion on the opponent's hips, the Truck entry targets leg entanglement that controls the opponent's lower body. This creates a fundamentally different attacking framework: the Truck opens access to the Twister submission system, calf slicers, and banana splits rather than the rear naked choke and collar attacks of standard back control."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which leg should you thread first during the entry and why is using the wrong leg a critical mechanical error?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must thread the near-side leg (the leg closest to the opponent's hips) first. The near leg has the correct insertion angle because your hip is already adjacent to their body, allowing a smooth scooping motion. Threading the far leg first creates an awkward body angle that compromises your base, reduces leverage for the subsequent triangle lock, and positions your weight incorrectly relative to the opponent. The near leg also benefits from your chest pressure anchoring the entry, whereas the far leg would require lifting away from the opponent to thread."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Your opponent's weight is sitting back on their heels in turtle - should you attempt the Truck entry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — the Truck entry needs their weight forward on their hands, so a heels-back turtle means the leg entry window is closed. When the opponent's weight is back on their heels, they have explosive backward movement options including standing up, sitting through to guard, or collapsing the turtle to prevent leg access. Loading the front of their base on their hands is what limits those backward defensive reactions and exposes the near leg. If their weight is back, use alternative attacks like a traditional back take attempt or front headlock to force them to shift weight forward, creating the entry window for the Truck."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the three simultaneous control points you must maintain during the hook threading phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First, upper body control through a cross-face, collar tie, or shoulder grip that prevents the opponent from standing, granby rolling, or sitting through. Second, the far arm grip on the opponent's far knee or shin that anchors the target leg and prevents extraction. Third, chest or hip pressure against the opponent's near-side body that pins them in place and prevents lateral escape. Losing any one of these three points during the threading phase creates a defensive window the opponent can exploit to escape before the leg entanglement is established."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "You have threaded your hook but the opponent begins extracting their trapped leg before you lock the triangle - what is your response?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately accelerate the triangle lock by driving your far leg over to meet your near foot. Simultaneously extend your hips away from the opponent to create tension on the trapped leg, making extraction harder. If the leg is nearly free, abandon the triangle attempt and use your threading leg to transition to a traditional back hook while re-establishing seatbelt control. The failed Truck entry has already disrupted their turtle structure, making the subsequent back take attempt higher percentage than it would have been before the entry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should you generate the force for threading your leg through - explosive kick or scooping hip motion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always use a controlled scooping hip motion rather than an explosive kick. The hip-driven motion keeps your base stable, maintains chest pressure on the opponent, and does not telegraph the entry attempt. An explosive kick lifts your weight off the opponent, creates visible movement the opponent can react to, and often causes your shin to bounce off their thigh gap instead of threading through it. The scooping motion uses your hip as the power source while your shin slides smoothly through the available space like threading a needle."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Turtle to Truck Entry Attacker",
+  "description": "How to execute Turtle to Truck Entry in BJJ. Attacking perspective with setup, execution steps, and counters.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Transitions",
+      "item": "https://bjjmap.pages.dev/Transitions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Turtle to Truck Entry",
+      "item": "https://bjjmap.pages.dev/Transitions/Turtle-to-Truck-Entry"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Attacker",
+      "item": "https://bjjmap.pages.dev/Transitions/Turtle-to-Truck-Entry/Attacker"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Turtle to Truck Entry (Attacker) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "The truck in transition from turtle",
+      "description": "Turtle to Truck Entry (Attacker) film study: The truck in transition from turtle, taught by Eddie Bravo.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sCBGkcJCQYY/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/sCBGkcJCQYY",
+      "url": "https://www.youtube.com/watch?v=sCBGkcJCQYY",
+      "creator": { "@type": "Person", "name": "Eddie Bravo" },
+      "duration": "PT61S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Truck back take against a stubborn turtle",
+      "description": "Turtle to Truck Entry (Attacker) film study: Truck back take against a stubborn turtle, taught by Patrick Donabedian.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XLvbK52hzqM/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/XLvbK52hzqM",
+      "url": "https://www.youtube.com/watch?v=XLvbK52hzqM",
+      "creator": { "@type": "Person", "name": "Patrick Donabedian" },
+      "duration": "PT63S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Turtle series: truck entry breakdown",
+      "description": "Turtle to Truck Entry (Attacker) film study: Turtle series: truck entry breakdown, taught by Courage Training Centre.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yGkKdnPksik/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yGkKdnPksik",
+      "url": "https://www.youtube.com/watch?v=yGkKdnPksik",
+      "creator": { "@type": "Person", "name": "Courage Training Centre" },
+      "duration": "PT109S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+The Turtle to Truck Entry is the critical initial phase of establishing the Truck position from behind a turtled opponent. Unlike the full Turtle to Truck transition which encompasses the entire sequence from turtle top to consolidated Truck control, this entry focuses specifically on the most technically demanding portion: threading the near-side leg hook through the opponent's legs and locking the initial leg entanglement. The entry is the make-or-break moment where most failures occur, as the opponent's defensive window is widest before any leg control is established.
+
+This technique exploits the turtle position's structural vulnerability to lateral leg attacks. When an opponent focuses on defending their neck and preventing traditional seatbelt back takes, their far leg becomes accessible for hooking. The entry requires precise coordination between your reaching arm grip on the far leg and your near-side leg threading simultaneously. Timing is paramount: the entry must occur when the opponent's weight is committed forward onto their hands, limiting their ability to sit back or stand explosively.
+
+The Turtle to Truck Entry is a gateway to the entire Twister submission system. Once the initial hook is threaded and the leg triangle begins to form, the opponent's defensive options narrow dramatically. The entry creates an immediate fork: the opponent must choose between defending the leg entanglement (exposing their back) or defending their back (allowing the Truck to consolidate). This dilemma-based attacking framework makes the entry exceptionally valuable for practitioners who want to develop a systematic turtle attacking game beyond conventional back takes.
+
+**From Position**: [[Positions/Turtle]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Turtle to Truck Entry (Attacker) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=sCBGkcJCQYY)
+
+<p class="clip-credit"><strong>The truck in transition from turtle</strong> — taught by Eddie Bravo · 1:01 · <a href="https://www.youtube.com/watch?v=sCBGkcJCQYY" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=XLvbK52hzqM)
+
+<p class="clip-credit"><strong>Truck back take against a stubborn turtle</strong> — taught by Patrick Donabedian · 1:03 · <a href="https://www.youtube.com/watch?v=XLvbK52hzqM" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=yGkKdnPksik)
+
+<p class="clip-credit"><strong>Turtle series: truck entry breakdown</strong> — taught by Courage Training Centre · 1:49 · <a href="https://www.youtube.com/watch?v=yGkKdnPksik" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="key-principles" class="content-section">
+
+## Key Attacking Principles
+
+<p class="section-subtitle">What are the key principles for executing Turtle to Truck Entry?</p>
+
+- Thread the near-side leg first while maintaining upper body control to prevent escape during the vulnerable insertion phase
+- Time the entry when opponent's weight is forward on their hands, not sitting back on their heels
+- Coordinate the reaching arm grip on the far leg with simultaneous leg threading for a single fluid motion
+- Maintain perpendicular body angle relative to the opponent to maximize leverage and minimize their defensive options
+- Never release all upper body control points during the leg insertion phase
+- Use lateral hip pressure against the opponent's near hip to prevent them from turning into you during entry
+- Recognize when the entry window has closed and transition to alternative attacks rather than forcing a compromised entry
+
+
+</section>
+
+<section id="setup-requirements" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before attempting Turtle to Truck Entry?</p>
+
+- Opponent in turtle position with weight distributed forward onto their hands and knees elevated
+- You are positioned behind or perpendicular to the opponent with chest pressure on their upper back or ribs
+- At least one upper body control point established: cross-face, collar tie, overhook, or shoulder pressure
+- Clear line of access to opponent's far leg without their elbow blocking the path
+- Opponent is not actively in the process of a granby roll, standup, or explosive guard recovery
+- Your hips are lower than or level with the opponent's hips to prevent them from sitting back into you
+
+
+</section>
+
+<section id="execution-steps" class="content-section">
+
+## Execution Steps
+
+<p class="section-subtitle">How do you execute Turtle to Truck Entry step by step?</p>
+
+1. **Establish perpendicular chest pressure**: Position your chest firmly against the opponent's near-side ribs, angling your body perpendicular to their spine. Your near-side arm should have a cross-face or collar tie controlling their head and preventing forward movement. Drop your hips low and heavy against their near hip to anchor your position and limit their lateral escape options.
+2. **Reach for the far leg**: Extend your far arm under the opponent's torso, reaching across to grip the inside of their far knee or shin. Pull the far leg slightly toward you to create slack and break their four-point base symmetry. This grip is the anchor for the entire entry; without it, the leg thread will fail. Maintain chest pressure throughout to prevent them from collapsing their turtle or sitting through.
+3. **Thread the near-side leg hook**: Simultaneously with the far leg grip, thread your near-side leg (closest to opponent's hips) underneath their body, inserting your shin behind their far thigh. Your foot should emerge on the opposite side of their body. Use a scooping hip motion to drive the leg through rather than kicking, which maintains your base and prevents telegraphing the entry.
+4. **Secure the initial hook position**: Once your shin is threaded behind their thigh, flex your foot and press your shin firmly against the back of their trapped leg. Use your far leg grip to prevent them from straightening their trapped leg or pulling it free. Your near-side arm maintains head control while your body weight pins their hip, creating a three-point control framework: head, hip, and leg.
+5. **Begin the leg triangle formation**: Bring your far leg over and begin locking it with your near leg in a figure-four or triangle configuration. Your near foot should seat into your far leg's knee pit. Apply lateral pressure by extending your hips away from the opponent while squeezing the triangle, which pulls their trapped leg away from their body and compromises their base structure.
+6. **Transition to side-lying Truck position**: Roll onto your near-side hip while maintaining the leg triangle lock, facing the same direction as your opponent. Shift your chest contact from their ribs to their lower back or hip area. Release the cross-face and establish a grip on their far arm or shoulder to control their upper body rotation. You are now in the initial Truck configuration with the leg entanglement established.
+7. **Consolidate Truck control**: Tighten the leg triangle by actively squeezing and extending your hips. Control their upper body by reaching across for their far wrist, underhook, or chin. Ensure your back is not flat on the mat but angled onto your hip for mobility. From here, you have established full Truck entry with access to Twister, calf slicer, banana split, and back take options.
+
+
+</section>
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Twister Control/Truck]] | 65% |
+| Failure | [[Positions/Turtle]] | 25% |
+| Counter | [[Positions/Half Guard]] | 10% |
+
+
+</section>
+
+<section id="common-counters" class="content-section">
+
+## Opponent Counters
+
+<p class="section-subtitle">How might your opponent counter Turtle to Truck Entry?</p>
+
+- **Opponent sits back explosively before the leg thread is completed, crushing your reaching arm and preventing hook insertion** (Effectiveness: High) - Your Response: Abandon the Truck entry immediately and use the momentum of their sit-back to transition to seatbelt back control. Your chest pressure on their ribs gives you a head start on the harness grip as they move backward. Alternatively, switch to Crab Ride position if they only partially sit back. → Leads to [[Positions/Turtle]]
+- **Opponent pulls their far leg away and straightens it before you can lock the triangle, removing the target limb entirely** (Effectiveness: High) - Your Response: Maintain your threading leg position and hunt for the leg again using your far arm. If they extend their leg completely, switch your attack to a traditional back take since extending one leg compromises their turtle base. The failed entry has already disrupted their defensive structure. → Leads to [[Positions/Turtle]]
+- **Opponent performs an explosive forward roll or granby roll as they feel the leg thread beginning** (Effectiveness: Medium) - Your Response: Follow the roll while maintaining your threading leg contact. Their rotation often helps complete the Truck entry from the opposite angle as your leg stays hooked during the roll. If you lose the hook during the roll, transition to back control by following their momentum and establishing seatbelt grip. → Leads to [[Positions/Twister Control/Truck]]
+- **Opponent drives their near elbow into your reaching arm to block access to the far leg** (Effectiveness: Medium) - Your Response: Use your cross-face to push their head away, which opens the elbow gap. Alternatively, switch your reaching angle by going over their back instead of under to access the far leg from above. If the block persists, transition to front headlock attacks since their elbow commitment limits their defensive options against chokes. → Leads to [[Positions/Turtle]]
+- **Opponent stands up to both feet in a wrestler's stance before you can establish the hook** (Effectiveness: Medium) - Your Response: Maintain grip on their far leg and use it as a trip anchor while driving forward to return them to turtle. If they fully stand, transition to a body lock or single leg position. The standing posture is less stable than turtle for resisting your weight, so driving forward is often effective at collapsing them back down. → Leads to [[Positions/Half Guard]]
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Attacking Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when executing Turtle to Truck Entry?</p>
+
+### 1. Releasing upper body control entirely to reach for the far leg with both hands
+
+- **Consequence**: Opponent recognizes the entry attempt and either stands up explosively, granby rolls, or sits through to guard recovery before you can establish any leg control
+- **Correction**: Always maintain at least one upper body control point (cross-face, collar tie, or shoulder pressure) while your far arm reaches for the leg. Coordinate one arm reaching while the other maintains head or shoulder control.
+
+### 2. Threading the far leg (wrong leg) instead of the near leg as the initial hook
+
+- **Consequence**: Creates a mechanically inferior configuration where you lack leverage for the triangle lock, your body position is awkward, and the opponent can easily extract their leg or sit back
+- **Correction**: Always thread the near-side leg (closest to opponent's hips) first. The near leg has the correct angle for insertion and your body weight supports the hook. Remember: near leg goes under and through, far leg comes over to lock the triangle.
+
+### 3. Attempting the entry when opponent's weight is sitting back on their heels rather than forward on their hands
+
+- **Consequence**: Opponent easily defends by either standing up, sitting through, or collapsing their turtle to prevent the leg thread, as their rearward weight distribution gives them explosive backward movement options
+- **Correction**: Read the opponent's weight distribution before initiating. Wait for them to commit weight forward by posting on their hands or reaching forward. If they're sitting back, use alternative attacks like traditional back take or front headlock before attempting Truck entry.
+
+### 4. Kicking the threading leg through explosively rather than using a controlled scooping hip motion
+
+- **Consequence**: Telegraphs the entry attempt, allowing the opponent to close their elbow-to-knee gap defensively. The explosive kick also compromises your own base and creates space for their escape
+- **Correction**: Use a smooth scooping hip motion to drive your leg through the gap. Your hip generates the power, not your foot. Think of sliding your shin through like threading a needle rather than kicking through a door. Maintain chest pressure throughout.
+
+### 5. Failing to lock the triangle immediately after threading the hook, leaving the entanglement loose
+
+- **Consequence**: Opponent extracts their trapped leg within the 1-2 second window before the triangle locks, wasting the entire entry setup and potentially creating a scramble where you lose positional advantage
+- **Correction**: The triangle lock must happen immediately and decisively after the hook threads through. Practice the hook-to-triangle sequence as one continuous motion, not two separate steps. Your far leg should already be moving to lock before the threading leg is fully through.
+
+### 6. Staying chest-down on the opponent's back instead of transitioning to a perpendicular side-lying position
+
+- **Consequence**: Cannot generate proper leverage for Truck submissions, opponent can potentially buck you over their head, and your leg triangle loses its mechanical advantage without the perpendicular angle
+- **Correction**: As soon as the triangle locks, begin rolling to your hip facing the same direction as the opponent. Your final position should be perpendicular to their body with your chest against their side or lower back, not stacked on top of them.
+
+
+
+</section>
+
+<section id="training-progressions" class="content-section hide-minimal">
+
+## Training Progressions
+
+<p class="section-subtitle">How do you train Turtle to Truck Entry (Attacker)?</p>
+
+**Week 1-2** - Hook threading mechanics
+Practice the near-side leg threading motion with a stationary partner in turtle. Focus on the scooping hip motion, proper leg selection (near leg first), and foot placement emerging on the far side. Drill 20 repetitions per side per session. Partner remains completely passive. Emphasize smooth controlled insertion rather than speed.
+
+**Week 3-4** - Grip-to-hook coordination
+Combine the far leg grip with simultaneous hook threading. Partner in turtle with slow movement and weight shifting. Practice timing the entry when partner's weight moves forward. Partner provides 25% resistance by occasionally pulling their far leg away or shifting their weight back. Focus on the synchronized motion of reaching arm and threading leg working together.
+
+**Week 5-6** - Counter-response chains
+Partner defends with specific counters: sitting back, standing up, granby rolling, or blocking with elbow. Practice recognizing each defensive reaction and either completing the Truck entry or transitioning to alternative attacks (back take, front headlock, Crab Ride). Each 3-minute round focuses on one specific counter. Build pattern recognition and decision-making speed.
+
+**Week 7-8** - Entry-to-attack chains
+After achieving the initial Truck entry, immediately chain into submission attacks: Twister setup, calf slicer, banana split, or back take. Partner defends at 60-75% intensity. Focus on maintaining the leg triangle while advancing to finishes. Practice 5-minute positional rounds starting from turtle top and working through entry to submission attempt.
+
+**Week 9+** - Live application and integration
+Hunt for Truck entries during live rolling from any turtle top opportunity. Integrate with your overall turtle attacking system: if traditional back take is defended, switch to Truck entry; if Truck entry is stuffed, flow back to back take or front headlock. Track success rate across sessions. Target 3+ entry attempts per rolling session with emphasis on reading defensive reactions in real time.
+
+
+
+</section>
+
+
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Considerations
+
+<p class="section-subtitle">What are the safety concerns for Turtle to Truck Entry?</p>
+
+The Turtle to Truck Entry involves leg entanglement that can generate significant torque on the knee joint of both practitioners. During the threading phase, the inserting practitioner should use controlled hip-driven motion rather than explosive kicks to prevent accidentally striking the training partner's inner thigh or groin. Once the leg triangle is locked, apply pressure gradually and maintain communication with your partner about intensity levels. The trapped leg is particularly vulnerable to lateral knee stress during the triangle lock, so release immediately upon any tap signal. Partners in turtle should tap early if they feel knee pressure before the triangle fully locks rather than waiting, as the pressure can escalate quickly once the configuration is established. Avoid forcing the entry if the angle is incorrect - reset and try again rather than cranking the leg into position. Be especially careful during the roll to side-lying position, as awkward weight distribution with legs entangled can strain knee ligaments for both practitioners.
+
+</section>
+
+
+
+</main>

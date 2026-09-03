@@ -1,0 +1,176 @@
+{
+  "name": "Rear Triangle Choke",
+  "description": "Master the Rear Triangle Choke in BJJ. Complete guide to finishing mechanics, defensive escapes, and safety protocols for this high-percentage back attack.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "rear-triangle",
+    "back-attack",
+    "blood-choke",
+    "triangle-choke",
+    "advanced"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Neck",
+  "starting_position": "Rear Triangle",
+  "from_position": "Back Control/Top",
+  "success_rate": {
+    "gi": 50,
+    "nogi": 50
+  },
+  "variant_uniqueness": "Posterior triangle angle defeats chin defense",
+  "summary": "The Rear Triangle Choke is a back-attack blood choke in which the attacker figure-fours their legs around the opponent's neck and one trapped arm from behind, sealing both carotid arteries at a posterior angle that defeats standard chin defense.",
+  "overview": "Among back attacks, the rear triangle occupies a singular niche: it converts the positional dominance of rear mount into a self-tightening leg lock while freeing both hands for supplementary control, grip fighting, or posture manipulation. This makes it one of the highest-percentage finishing sequences available from back control, marrying skeletal compression with the same triangle mechanics fighters already know from the guard. The posterior angle of attack is what sets it apart from front-facing triangle variations, since the choke seals the carotids from behind and renders traditional chin defense largely ineffective.\n\nThe finishing mechanism attacks both carotid arteries through bilateral compression. The choking leg crosses behind the opponent's neck while the locking leg secures the figure-four, with the trapped arm serving as the wedge that completes the arterial seal. Unlike the rear naked choke, which requires specific arm threading and hand positioning around the neck, the rear triangle choke uses skeletal structure—the calf and thigh bones—for primary compression, freeing both hands for supplementary control, grip fighting, or posture manipulation. This structural advantage means the choke maintains pressure even when the attacker's grip strength fades.\n\nStrategically, the rear triangle choke creates a layered submission dilemma. Defending the leg choke by fighting the triangle structure exposes the trapped arm to armbar attacks. Attempting to extract the trapped arm loosens the triangle but eliminates the wedge, potentially opening pathways to a rear naked choke. This interconnected threat matrix makes the rear triangle one of the most difficult submissions to defend when properly applied, rewarding patient attackers who systematically eliminate defensive options before committing to the finish.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from bilateral carotid compression",
+        "severity": "CRITICAL",
+        "recovery_time": "Seconds to minutes if released promptly; permanent neurological damage possible if held beyond 10-15 seconds after unconsciousness"
+      },
+      {
+        "injury": "Tracheal bruising or cartilage damage from improper forearm or shin placement across the windpipe",
+        "severity": "High",
+        "recovery_time": "1-4 weeks for bruising; 6-12 weeks for cartilage injury"
+      },
+      {
+        "injury": "Cervical spine strain from excessive posture breaking or neck cranking during finish",
+        "severity": "Medium",
+        "recovery_time": "1-3 weeks for mild strain; 4-8 weeks for moderate injury"
+      }
+    ],
+    "application_speed": "SLOW and progressive. Blood chokes can cause unconsciousness in 4-6 seconds once fully locked. Apply squeeze gradually and monitor opponent continuously. Never jerk, spike, or explosively tighten the triangle.",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any distress signal)",
+      "Physical hand tap on partner, your body, or the mat",
+      "Physical foot tap with free leg on mat or partner",
+      "Any unusual vocalization, gurgling, or distress sounds",
+      "Body going limp or cessation of all defensive movement (unconsciousness indicator—release immediately)"
+    ],
+    "release_protocol": [
+      "Release immediately upon any tap signal without hesitation",
+      "If opponent goes limp or stops responding, release immediately and alert instructor",
+      "If in doubt whether a tap occurred, release—position can always be re-established",
+      "After release, check opponent's consciousness and responsiveness before continuing",
+      "Place unconscious training partner in recovery position and call for medical assistance"
+    ],
+    "training_restrictions": [
+      "Never apply full squeeze pressure on training partners below blue belt or with less than one year of consistent training",
+      "Always use controlled, progressive application during drilling—save competitive-speed finishing for supervised sparring only",
+      "Do not hold the choke after the tap to demonstrate control; release is immediate and unconditional",
+      "Practitioners with neck injuries, cardiovascular conditions, or blood pressure disorders should consult a physician before training this technique"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Rear Triangle",
+      "slug": "from-rear-triangle"
+    },
+    {
+      "name": "from Back Control",
+      "slug": "from-back-control"
+    }
+  ],
+  "from_positions": [
+    "Rear Triangle",
+    "Back Control",
+    "Body Triangle"
+  ],
+  "related_submissions": [
+    {
+      "name": "Rear Naked Choke",
+      "relationship": "Alternative rear naked choke finish from back control when triangle is not available"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Complementary arm attack when opponent defends the triangle choke by exposing their arm"
+    },
+    {
+      "name": "Armbar",
+      "relationship": "Alternative arm attack accessible from rear triangle when opponent straightens trapped arm"
+    },
+    {
+      "name": "Triangle Choke",
+      "relationship": "Similar triangle finishing mechanics applied from mount position rather than back"
+    },
+    {
+      "name": "Gogoplata",
+      "relationship": "Alternative leg-based choke finish sharing similar flexibility and leg dexterity requirements"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Rear Triangle",
+      "relationship": "Primary control position from which this submission is executed"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Parent position from which rear triangle is typically entered before finishing"
+    },
+    {
+      "name": "Body Triangle",
+      "relationship": "Alternative back control leg configuration that can transition to rear triangle setup"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Arm trap control position from back that facilitates rear triangle entry by isolating the trapped arm"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Complementary arm attack when opponent defends the triangle choke by exposing their arm"
+    },
+    {
+      "name": "Mounted Triangle",
+      "relationship": "Similar triangle mechanics applied from mount position rather than back"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Transition target when opponent turns in to defend the rear triangle choke"
+    },
+    {
+      "name": "Bow and Arrow Choke",
+      "relationship": "Alternative gi-based choke from back control sharing similar positional prerequisites"
+    }
+  ],
+  "clips": [
+    {
+      "id": "l5ayCZh3W78",
+      "title": "Rear triangle from the back",
+      "by": "Gracie Charlottesville",
+      "vertical": false,
+      "channel": "Gracie Charlottesville",
+      "duration": 32,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "LQUICOJ82xk",
+      "title": "Ushiro sankaku rear triangle from seated back",
+      "by": "Chris Reymann",
+      "vertical": false,
+      "channel": "Chris Reymann",
+      "duration": 40,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "4h-lxaNIqzw",
+      "title": "Rear triangle setup from back control",
+      "by": "Hellfish MMA",
+      "vertical": false,
+      "channel": "Hellfish Mixed Martial Arts",
+      "duration": 189,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "w8vzr24_n0s",
+      "title": "Back Triangle Choke",
+      "by": "Dr. Deng",
+      "vertical": false,
+      "channel": "Dr. Deng",
+      "duration": 30,
+      "verified": "2026-07-14"
+    }
+  ]
+}

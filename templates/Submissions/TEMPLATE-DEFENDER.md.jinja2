@@ -1,0 +1,310 @@
+{# BJJ Submission Defender Page Template #}
+{# Generates defender perspective pages from defender section #}
+{# Input: defender (full defender section), name (hub name), from_position, outcomes, safety_considerations, target_area #}
+
+---
+title: "{{ name }} Defender | BJJ Defense Guide | BJJ Map"
+description: "{{ defender.description }}"
+---
+
+{# PostHog A/B Testing Metadata #}
+<body data-content-type="submissions">
+
+> **SAFETY**: {{ name }} targets the {{ target_area }}. Tap early and often. Your safety is more important than any training round.
+
+<!-- Schema Markup - HowTo for Defense -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Defend {{ name }} in BJJ",
+  "description": "Step-by-step guide for defending and escaping {{ name }} in BJJ.",
+  "step": [
+    {%- for option in defender.defensive_options[:6] %}
+    {
+      "@type": "HowToStep",
+      "name": "{{ option.action }}",
+      "text": "{{ option.when_to_use }}{% if option.if_successful %} If successful: {{ option.if_successful }}{% endif %}",
+      "position": {{ loop.index }}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ],
+  "tool": ["BJJ Gi or No-Gi attire", "Training partner", "Mat space"],
+  "totalTime": "PT5M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Knowledge Assessment -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for qa in defender.flashcards[:6] %}
+    {
+      "@type": "Question",
+      "name": "{{ qa.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ qa.answer }}"
+      }
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ name }} Defender",
+  "description": "{{ defender.description }}",
+  {%- if aliases is defined and aliases %}
+  "alternateName": [{% for alias in aliases %}{{ alias | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  {%- if disambiguations is defined and disambiguations %}
+  {%- set _ns = namespace(dd='') %}
+  {%- for d in disambiguations %}{% set _ns.dd = _ns.dd + 'Often confused with ' + d.name + ' — ' + d.reason + '.' + (' ' if not loop.last else '') %}{% endfor %}
+  "disambiguatingDescription": {{ _ns.dd | tojson }},
+  {%- endif %}
+  {%- if sameAs is defined and sameAs %}
+  "sameAs": [{% for u in sameAs %}{{ u | tojson }}{{ ", " if not loop.last else "" }}{% endfor %}],
+  {%- endif %}
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }{%- if family is defined and family %},
+  "mainEntityOfPage": {
+    "@type": "CollectionPage",
+    "name": "{{ family }}",
+    "url": "https://bjjmap.pages.dev/Families/{{ family | slugify }}"
+  }
+  {%- endif %}
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Submissions",
+      "item": "https://bjjmap.pages.dev/Submissions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ name }}",
+      "item": "https://bjjmap.pages.dev/Submissions/{{ name.replace(' ', '-') }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Defender",
+      "item": "https://bjjmap.pages.dev/Submissions/{{ name.replace(' ', '-') }}/Defender"
+    }
+  ]
+}
+</script>
+
+{# --- Film study clips: curated by scripts/source_clips.py, never AI-authored --- #}
+{%- set film_clips = defender.clips if defender.clips is defined and defender.clips else [] %}
+{%- set film_context = name ~ " (Defender)" %}
+
+{% if film_clips %}
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ (film_context ~ " — Film Study") | tojson }},
+  "itemListElement": [
+    {%- for clip in film_clips %}
+    {
+      "@type": "VideoObject",
+      "position": {{ loop.index }},
+      "name": {{ clip.title | tojson }},
+      "description": {{ (film_context ~ " film study: " ~ clip.title ~ ((", taught by " ~ clip.by) if clip.by else "") ~ ".") | tojson }},
+      "thumbnailUrl": {{ ("https://i.ytimg.com/vi/" ~ clip.id ~ "/hqdefault.jpg") | tojson }},
+      "embedUrl": {{ ("https://www.youtube.com/embed/" ~ clip.id ~ (("?start=" ~ (clip.start | string)) if clip.start else "")) | tojson }},
+      "url": {{ ("https://www.youtube.com/watch?v=" ~ clip.id) | tojson }}
+      {%- if clip.by %},
+      "creator": { "@type": "Person", "name": {{ clip.by | tojson }} }
+      {%- endif %}
+      {%- if clip.duration %},
+      "duration": "PT{{ clip.duration }}S"
+      {%- endif %}
+      {%- if clip.upload_date %},
+      "uploadDate": {{ clip.upload_date | tojson }}
+      {%- endif %}
+    }{{ "," if not loop.last else "" }}
+    {%- endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{# Flexbox wrapper for A/B testing #}
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+{% if (aliases is defined and aliases) or (family is defined and family) or (disambiguations is defined and disambiguations) -%}
+<aside class="entity-relations">
+{%- if aliases is defined and aliases %}
+<p class="also-known-as"><em>Also known as:</em> {% for alias in aliases %}<strong>{{ alias | e }}</strong>{{ ", " if not loop.last else "" }}{% endfor %} <span class="role-hint">(defender)</span></p>
+{%- endif %}
+{%- if family is defined and family %}
+<p class="part-of-family"><em>Part of the</em> <strong>{% if resolve.family_exists(family) %}[[Families/{{ family }}|{{ family | e }}]]{% else %}{{ family | e }}{% endif %}</strong> <em>family</em></p>
+{%- endif %}
+{%- if disambiguations is defined and disambiguations %}
+{%- for d in disambiguations %}
+<p class="often-confused-with"><em>Often confused with</em> <strong>{% if resolve.page_exists(d.name) %}[[{{ resolve(d.name) }}|{{ d.name | e }}]]{% else %}{{ d.name | e }}{% endif %}</strong> — {{ d.reason | e }}</p>
+{%- endfor %}
+{%- endif %}
+</aside>
+{% endif -%}
+
+<section id="overview" class="content-section">
+
+{{ defender.overview }}
+
+{% if from_position is defined and from_position -%}
+**Opponent's Starting Position**: [[{{ resolve(from_position.split('/')[0]) }}]] ({{ from_position.split('/')[1] if '/' in from_position else '' }})
+{% endif %}
+
+</section>
+
+{% if film_clips %}
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch {{ film_context }} in action — curated instructionals</p>
+
+{% for clip in film_clips %}
+<div class="film-clip{{ ' film-clip--vertical' if clip.vertical else '' }}">
+
+![](https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&start={{ clip.start }}{% endif %}{% if clip.end %}&end={{ clip.end }}{% endif %})
+
+<p class="clip-credit"><strong>{{ clip.title | e }}</strong>{% if clip.by %} — taught by {{ clip.by | e }}{% endif %}{% if clip.duration %} · {{ "%d:%02d" | format(clip.duration // 60, clip.duration % 60) }}{% endif %} · <a href="https://www.youtube.com/watch?v={{ clip.id }}{% if clip.start %}&t={{ clip.start }}s{% endif %}" rel="noopener">Watch on YouTube{% if clip.start %} from {{ "%d:%02d" | format(clip.start // 60, clip.start % 60) }}{% endif %}</a></p>
+
+</div>
+{% endfor %}
+
+</section>
+{% endif %}
+
+<section id="recognition-cues" class="content-section">
+
+## How to Recognize This Submission
+
+<p class="section-subtitle">How do you know when someone is attempting {{ name }}?</p>
+
+{% for cue in defender.recognition_cues -%}
+- {{ cue }}
+{% endfor %}
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Defensive Principles
+
+<p class="section-subtitle">What are the key principles for defending {{ name }}?</p>
+
+{% for principle in defender.key_principles -%}
+- {{ principle }}
+{% endfor %}
+
+</section>
+
+<section id="defensive-options" class="content-section">
+
+## Defensive Options
+
+<p class="section-subtitle">What can you do to defend against {{ name }}?</p>
+
+{% for option in defender.defensive_options -%}
+### {{ loop.index }}. {{ option.action }}
+
+- **When to use**: {{ option.when_to_use }}
+- **Targets**: [[{{ resolve(option.targets_outcome.split('/')[0] if '/' in option.targets_outcome else option.targets_outcome) }}]]
+{% if option.if_successful %}- **If successful**: {{ option.if_successful }}{% endif %}
+{% if option.risk %}- **Risk**: {{ option.risk }}{% endif %}
+
+{% endfor %}
+
+</section>
+
+<section id="escape-paths" class="content-section">
+
+## Escape Paths
+
+<p class="section-subtitle">How do you escape {{ name }}?</p>
+
+{% for escape in defender.escape_paths -%}
+- {{ escape }}
+{% endfor %}
+
+</section>
+
+<section id="favorable-outcomes" class="content-section">
+
+## Best-Case Outcomes for Defender
+
+<p class="section-subtitle">What is the best outcome when defending {{ name }}?</p>
+
+{% for favorable in defender.favorable_outcomes -%}
+### → [[{{ resolve(favorable.outcome.split('/')[0] if '/' in favorable.outcome else favorable.outcome) }}]]
+
+{{ favorable.how }}
+
+{% endfor %}
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Defensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when defending {{ name }}?</p>
+
+{% for error in defender.common_errors -%}
+### {{ loop.index }}. {{ error.error }}
+
+- **Consequence**: {{ error.consequence }}
+- **Correction**: {{ error.correction }}
+
+{% endfor %}
+
+</section>
+
+<section id="training-progressions" class="content-section hide-minimal">
+
+## Training Progressions
+
+<p class="section-subtitle">How do you train defense against {{ name }}?</p>
+
+{% for progression in defender.training_progressions -%}
+**{{ progression.phase }}** - {{ progression.focus }}
+{{ progression.description }}
+
+{% endfor %}
+
+</section>
+
+{# Knowledge assessment rendered as interactive flashcards by TransitionFlashcard component #}
+
+</main>

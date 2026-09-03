@@ -1,0 +1,345 @@
+
+
+
+
+---
+title: "Short Choke Attack | BJJ Technique | BJJ Map"
+description: "Learn Short Choke Attack from Gift Wrap in BJJ. Step-by-step execution for this strangle. Success rates: Beginner 30%, Intermediate 50%, Advanced 65%."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Short Choke Attack",
+  "description": "Learn Short Choke Attack from Gift Wrap in BJJ. Step-by-step execution for this strangle. Success rates: Beginner 30%, Intermediate 50%, Advanced 65%.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Short Choke Attack", "item": "https://bjjmap.pages.dev/Transitions/Short-Choke-Attack" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Short Choke Attack \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Gift wrap to rear naked choke finish",
+      "description": "Short Choke Attack film study: Gift wrap to rear naked choke finish, taught by Doug Taylor.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f24j2L4nYSU/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/f24j2L4nYSU",
+      "url": "https://www.youtube.com/watch?v=f24j2L4nYSU",
+      "creator": { "@type": "Person", "name": "Doug Taylor" },
+      "duration": "PT108S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "The gift wrap in two minutes, no-gi",
+      "description": "Short Choke Attack film study: The gift wrap in two minutes, no-gi, taught by Brian Glick.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5bw7poxVJ1E/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/5bw7poxVJ1E",
+      "url": "https://www.youtube.com/watch?v=5bw7poxVJ1E",
+      "creator": { "@type": "Person", "name": "Brian Glick" },
+      "duration": "PT112S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Gift-wrap setup and control for no-gi",
+      "description": "Short Choke Attack film study: Gift-wrap setup and control for no-gi, taught by Henry Akins.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g4onw9pd4_s/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/g4onw9pd4_s",
+      "url": "https://www.youtube.com/watch?v=g4onw9pd4_s",
+      "creator": { "@type": "Person", "name": "Henry Akins" },
+      "duration": "PT121S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Short Choke Attack",
+  "description": "Short Choke Attack is a high-percentage strangle from the Gift Wrap where the attacker slides their free arm under the chin and links it to the opponent's already-trapped arm, forming a figure-four that crushes both carotid arteries.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Short Choke Attack/Attacker|Play as Attacker]]
+[[Short Choke Attack/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**Short Choke Attack is a high-percentage strangle from the Gift Wrap where the attacker slides their free arm under the chin and links it to the opponent's already-trapped arm, forming a figure-four that crushes both carotid arteries.**
+
+The Short Choke earns its place as the highest-percentage strangle available from the Gift Wrap because the position has already done half the defensive work for you. With one of the opponent's arms pinned high across their own body, they can no longer bring two hands to the neck, and that same trapped limb becomes a structural part of the choke rather than an obstacle to it.
+
+The mechanics of the Short Choke differ from traditional rear naked chokes in that you use the opponent's own trapped arm as part of the choking structure. Your free arm slides under the chin and connects to your bicep or forearm of the Gift Wrap controlling arm, creating a figure-four configuration that compresses both sides of the neck. This structure requires less space to establish than a standard RNC because you're not threading a second arm behind the head.
+
+Strategically, the Short Choke represents the most direct submission threat from Gift Wrap and should be viewed as the primary attack from this position. When the opponent defends the Short Choke by tucking their chin or using their free hand, this creates openings for secondary attacks including armbar on the free arm, transition to crucifix, or advancement to mounted positions. Understanding this attack tree transforms the Gift Wrap into a systematic submission hunting position rather than a static control.
+
+**From Position**: [[Positions/Gift Wrap]] (Top)
+**Success Rate**: 58%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Short Choke Attack in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=f24j2L4nYSU)
+
+<p class="clip-credit"><strong>Gift wrap to rear naked choke finish</strong> — taught by Doug Taylor · 1:48 · <a href="https://www.youtube.com/watch?v=f24j2L4nYSU" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=5bw7poxVJ1E)
+
+<p class="clip-credit"><strong>The gift wrap in two minutes, no-gi</strong> — taught by Brian Glick · 1:52 · <a href="https://www.youtube.com/watch?v=5bw7poxVJ1E" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=g4onw9pd4_s)
+
+<p class="clip-credit"><strong>Gift-wrap setup and control for no-gi</strong> — taught by Henry Akins · 2:01 · <a href="https://www.youtube.com/watch?v=g4onw9pd4_s" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Submissions/Short Choke/from Gift Wrap]] | 55% |
+| Failure | [[Positions/Gift Wrap]] | 30% |
+| Counter | [[Positions/Back Control]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Use opponent's trapped arm as integral part of choking struc... | Chin tuck is your first and most immediate defense - protect... |
+| **Options** | 6 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Short Choke Attack/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Use opponent's trapped arm as integral part of choking structure rather than ignoring it
+
+- Chin-to-chest connection prevents choke entry - create angle to bypass chin
+
+- Figure-four grip configuration maximizes compression with minimal space requirement
+
+- Gift Wrap arm position must remain high across chest to support choke mechanics
+
+- Patience in grip setting prevents telegraphing and opponent defensive preparation
+
+- Free arm defense by opponent opens secondary attacks - maintain threat to keep options
+
+- Chest-to-back pressure flattens opponent and reduces their defensive mobility
+
+
+### Execution Steps
+
+
+- **Consolidate Gift Wrap**: Ensure the trapped arm is pulled high across opponent's chest toward their opposite shoulder. Verify...
+
+- **Flatten opponent**: Drive your hips forward into opponent's lower back while pulling their trapped arm tight. This flatt...
+
+- **Clear chin access**: If opponent's chin is tucked, use your free hand to push against their forehead or use skull frictio...
+
+- **Thread choking arm**: Slide your free arm under opponent's chin from the side closest to their trapped arm. Your forearm s...
+
+- **Connect figure-four**: Grip your Gift Wrap controlling arm's bicep or forearm with your choking hand. The exact grip depend...
+
+- **Apply finishing pressure**: Squeeze elbows together while expanding your chest and arching slightly backward. The compression co...
+
+
+### Common Mistakes
+
+
+- **Attempting choke before Gift Wrap control is fully consolidated**
+  - Consequence: Opponent recovers trapped arm during choke attempt, eliminating both the control and submission opportunity
+  - Correction: Verify Gift Wrap is tight with arm high across chest before transitioning to choke; patience in setup leads to higher finish rate
+
+- **Releasing Gift Wrap arm control to use both hands for choking**
+  - Consequence: Opponent immediately recovers trapped arm and gains full defensive capability to hand fight
+  - Correction: Maintain Gift Wrap control throughout the choke; the trapped arm is integral to the Short Choke structure, not separate from it
+
+- **Threading choking arm too deep past the chin before securing grip**
+  - Consequence: Creates space for opponent to insert defensive hand and break choking structure
+  - Correction: Thread arm just deep enough to clear chin, then immediately connect figure-four grip before opponent can respond
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Short Choke Attack/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Chin tuck is your first and most immediate defense - protect the throat before anything else
+
+- Free arm must prioritize neck protection over trapped arm recovery when choke threat is active
+
+- Create angles through hip movement to reduce the attacker's ability to thread under your chin
+
+- Timing defensive actions to the attacker's transitional moments maximizes escape probability
+
+- Staying on your side preserves hip mobility essential for creating escape angles and preventing flattening
+
+- Trapped arm recovery removes the structural advantage that makes the Short Choke possible
+
+- Controlled breathing prevents panic responses that accelerate energy depletion and open defensive gaps
+
+
+### Recognition Cues
+
+
+- Attacker's free hand moves away from reinforcing the Gift Wrap and begins probing toward your chin or jawline
+
+- Increased forward hip pressure from attacker attempting to flatten you before threading the choke
+
+- Attacker adjusts their body angle by rotating slightly to access the space under your chin from the side
+
+- Attacker uses their free hand to push your forehead or apply skull friction to tilt your head and expose the throat
+
+- Weight shift as attacker repositions their upper body to create the arm threading angle while maintaining Gift Wrap control
+
+
+### Defensive Options
+
+
+- **Aggressive chin tuck with shoulder shrug to seal the space under your chin, combined with free hand gripping the attacker's threading arm at the wrist or forearm to prevent it from sliding under** - When: Immediately upon recognizing the attacker's free arm moving toward your chin - this is your primary defense and must be deployed before the arm threads under
+
+- **Explosive bridge and hip rotation toward the attacker's choking arm side, turning your body to face them while the Gift Wrap is partially loosened during their choke attempt** - When: When attacker commits their free arm to threading the choke, temporarily reducing their ability to control your hip movement and follow rotational escapes
+
+- **Trapped arm recovery by rotating your shoulder forward and shrimping your hips in the same direction while the attacker's attention is divided between maintaining Gift Wrap and threading the choke** - When: When attacker begins loosening Gift Wrap control to transition to choke setup - the moment of divided attention is your window for arm recovery
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**No-Gi Palm-to-Palm Variation**: Instead of figure-four grip, connect palm-to-palm grip behind opponent's neck. This variation works when standard figure-four positioning is unavailable due to arm length or angle. Provides similar compression but with different grip mechanics. (When to use: When gi grips unavailable and figure-four connection is awkward due to body proportions)
+
+
+**Gi Collar Integration**: In gi, thread your choking arm and grab your own lapel or opponent's collar instead of figure-four grip. The collar grip provides additional friction and allows for tighter compression with less arm strength required. (When to use: Gi training where collar material is available and opponent defends standard grip configurations)
+
+
+**Short Choke from Belly-Down Back Control**: When opponent flattens to belly attempting to escape standard back control, the Gift Wrap and Short Choke become more accessible. Thread under chin while they're belly-down and use body weight to flatten and finish. (When to use: Opponent attempts belly-down escape from back control or Gift Wrap position)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+The Short Choke Attack occupies a central position within the Gift Wrap attack system, serving as the primary submission threat that all other attacks branch from. From Gift Wrap Top, the threat of the Short Choke forces defensive reactions that open secondary attacks. When the opponent defends the choke with their free hand, armbar opportunities emerge. When they attempt to turn away, crucifix entries become available. When they bridge and roll, transitions to mounted positions present themselves. Understanding this attack tree transforms isolated technique knowledge into systematic positional dominance. The Short Choke also connects to broader back control methodology, as it represents the evolution of rear naked choke concepts adapted for the Gift Wrap's unique arm control advantage. Practitioners should view the Gift Wrap to Short Choke pathway as the foundation of their back attack system, with all other techniques serving as branches from this primary threat.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Positions/Gift Wrap]] - Starting position - Short Choke is primary attack from this control
+
+- [[Submissions/Rear Naked Choke]] - Alternative choke - standard RNC if Short Choke entry is blocked
+
+- [[Transitions/Armbar from Back Transition]] - Chain attack - available when opponent uses free arm to defend choke
+
+- [[Transitions/Back Control to Crucifix]] - Positional advancement - accessible when opponent defends choke by turning away
+
+- [[Transitions/Gift Wrap to Technical Mount]] - Positional chain - advancement option maintaining arm control
+
+- [[Positions/Back Control]] - Parent position system - Short Choke is part of comprehensive back attacks
+
+- [[Transitions/Body Triangle Lock]] - Control enhancement - stabilizes position for cleaner choke attempts
+
+- [[Submissions/Bow and Arrow Choke]] - Alternative attack - available in gi from similar control position
+
+
+</section>
+
+
+
+</main>

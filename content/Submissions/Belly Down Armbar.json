@@ -1,0 +1,272 @@
+{
+  "name": "Belly Down Armbar",
+  "description": "Master the Belly Down Armbar in BJJ. Complete guide with safety protocols, precise setup from turtle and scrambles, and finishing mechanics for this high-percentage joint lock.",
+  "tags": [
+    "bjj",
+    "submission",
+    "armbar",
+    "joint-lock",
+    "turtle-attack",
+    "scramble-finish",
+    "elbow-hyperextension",
+    "advanced-technique"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Arm Lock",
+  "target_area": "Elbow joint and shoulder girdle",
+  "starting_position": "Turtle",
+  "from_position": "Turtle/Top",
+  "success_rate": {
+    "gi": 60,
+    "nogi": 60
+  },
+  "variant_uniqueness": "Prone opponent denies standard armbar leg control",
+  "summary": "The Belly Down Armbar is a face-down (prone) armbar that isolates and hyperextends an exposed arm against the mat, finishing turtled or scrambling opponents when traditional leg-controlled armbars from guard or mount are unavailable.",
+  "overview": "Across its position-specific entries, the belly down armbar is fundamentally opportunistic: it surfaces when the opponent is in turtle position or during scrambles as they expose an arm while defending other attacks. Unlike traditional armbars executed from guard or mount where you control the opponent's torso with your legs, the belly down variant requires you to secure the isolated arm while the opponent remains face-down on the mat. This submission is particularly effective when your opponent turtles to defend against back takes or other attacks, as their defensive posture often leaves their arms extended and vulnerable.\n\nThe key to success lies in rapid arm isolation, maintaining connection to the opponent's body to prevent them from rolling through the position, and applying controlled hyperextension to the elbow joint. The belly down armbar requires excellent timing and positional awareness, as the opponent has more escape options compared to traditional armbar positions. However, when executed correctly with proper control of the shoulder and hip, this submission becomes a powerful finishing option from positions where traditional submissions may be difficult to secure.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Elbow hyperextension and ligament damage (MCL/LCL/joint capsule tears)",
+        "severity": "High",
+        "recovery_time": "4-12 weeks for moderate sprains, 3-6 months for severe tears, potential surgery required"
+      },
+      {
+        "injury": "Shoulder dislocation or rotator cuff strain from torque during extension",
+        "severity": "Medium",
+        "recovery_time": "2-8 weeks depending on severity, potential for chronic instability"
+      },
+      {
+        "injury": "Bicep tendon strain or tear from sudden pressure application",
+        "severity": "Medium",
+        "recovery_time": "3-6 weeks for strains, 3-6 months for complete tears"
+      }
+    ],
+    "application_speed": "SLOW and progressive - minimum 3-5 seconds from initial arm isolation to full extension in training",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or making verbal distress sounds)",
+      "Physical hand tap on your body or the mat",
+      "Physical foot tap on the mat",
+      "Any distress signal including unusual movement or sounds"
+    ],
+    "release_protocol": [
+      "Immediately release hip pressure and stop extending the arm",
+      "Release the wrist grip while maintaining light control",
+      "Allow opponent to retract their arm naturally without resistance",
+      "Check with training partner verbally before continuing"
+    ],
+    "training_restrictions": [
+      "Never spike, jerk, or explosively extend the submission in training",
+      "Never use competition-speed application during drilling or light rolling",
+      "Always ensure training partner has both hands free to tap",
+      "Never continue pressure after feeling resistance or hearing joint sounds",
+      "Avoid this submission with beginners until they understand proper defensive reactions"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Armbar Control",
+      "slug": "from-armbar-control"
+    },
+    {
+      "name": "from Kesa Gatame",
+      "slug": "from-kesa-gatame"
+    },
+    {
+      "name": "from Knee on Belly",
+      "slug": "from-knee-on-belly"
+    },
+    {
+      "name": "from Kuzure Kesa-Gatame",
+      "slug": "from-kuzure-kesa-gatame"
+    },
+    {
+      "name": "from Lasso Guard",
+      "slug": "from-lasso-guard"
+    },
+    {
+      "name": "from Mission Control",
+      "slug": "from-mission-control"
+    },
+    {
+      "name": "from Modified Scarf Hold",
+      "slug": "from-modified-scarf-hold"
+    },
+    {
+      "name": "from Mounted Crucifix",
+      "slug": "from-mounted-crucifix"
+    },
+    {
+      "name": "from Mounted Triangle",
+      "slug": "from-mounted-triangle"
+    },
+    {
+      "name": "from New York",
+      "slug": "from-new-york"
+    },
+    {
+      "name": "from Open Guard",
+      "slug": "from-open-guard"
+    },
+    {
+      "name": "from Scarf Hold Position",
+      "slug": "from-scarf-hold-position"
+    },
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    },
+    {
+      "name": "from Spider Guard",
+      "slug": "from-spider-guard"
+    },
+    {
+      "name": "from Turtle",
+      "slug": "from-turtle"
+    },
+    {
+      "name": "from Williams Guard",
+      "slug": "from-williams-guard"
+    }
+  ],
+  "from_positions": [
+    "Turtle",
+    "Standing Position",
+    "Front Headlock",
+    "Crucifix",
+    "Back Control",
+    "Side Control",
+    "North-South",
+    "Knee on Belly",
+    "Armbar Control",
+    "Mount",
+    "High Mount",
+    "S Mount",
+    "Kesa Gatame",
+    "Kuzure Kesa-Gatame",
+    "Lasso Guard",
+    "Mission Control",
+    "Modified Scarf Hold",
+    "Mounted Crucifix",
+    "Mounted Triangle",
+    "New York",
+    "Open Guard",
+    "Scarf Hold Position",
+    "Spider Guard",
+    "Williams Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Americana",
+      "relationship": "Alternative shoulder lock from similar top control positions"
+    },
+    {
+      "name": "Flying Armbar from Closed Guard",
+      "relationship": "Dynamic armbar variation that can transition to belly down when defended"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Compression lock that chains when opponent bends arm to defend armbar"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Related armbar variation accessible from similar control positions"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Alternative arm lock from same position creating submission combinations"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Choke option from front headlock that chains with armbar attempts"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Head and arm choke accessible from similar turtle attack positions"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Alternative submission from front headlock and turtle top positions"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Arm-in choke that chains from similar turtle attack sequences"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Turtle",
+      "relationship": "Primary starting position where opponent is most vulnerable to this submission"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Position where traditional armbars can transition to belly down variant when defended with stacking"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Common alternative attack when belly down armbar is defended from turtle"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Alternative control position when attacking turtle that can transition to armbar"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Setup position where opponent's defensive reactions expose arms for belly down armbar"
+    },
+    {
+      "name": "Armbar Control",
+      "relationship": "Control position for maintaining arm isolation before finishing belly down armbar"
+    },
+    {
+      "name": "Standing Position",
+      "relationship": "Dynamic transitional state where belly down armbar opportunities frequently emerge"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "From failed back take or seatbelt control",
+      "description": "When attacking the back and opponent defends by turtling, they often post an arm to prevent you from securing the second hook. This posted arm becomes an ideal target for the belly down armbar. Transition from your back attack attempt by releasing your lower hook, dropping your weight across their shoulder, and immediately attacking the posted arm with both hands.",
+      "when_to_use": "When back control is defended and opponent turtles with an extended posting arm"
+    },
+    {
+      "variation_name": "Rolling belly down armbar from guard or mount",
+      "description": "From traditional armbar positions (closed guard, mount), if the opponent defends by stacking you heavily or attempts to slam, you can roll them over your head while maintaining arm control, ending in the belly down armbar position with them face-down. This variation requires you to keep constant grip on the wrist throughout the roll and immediately establish shoulder pressure when you complete the rotation.",
+      "when_to_use": "When traditional armbar is defended with heavy stacking or slam attempts"
+    },
+    {
+      "variation_name": "From front headlock or guillotine defense",
+      "description": "If opponent defends a front headlock or guillotine by sprawling and driving forward, their arms are often extended and vulnerable. Release the head control, immediately secure the near arm with both hands, and drop your weight across their shoulder blade as they flatten. This creates a seamless transition from choking attacks to joint lock attacks.",
+      "when_to_use": "When neck attacks are defended by opponent driving forward and flattening"
+    }
+  ],
+  "clips": [
+    {
+      "id": "yDxtO6qzOL0",
+      "title": "Belly Down Arm Bar Finish",
+      "by": "Brandoo",
+      "vertical": false,
+      "channel": "Brandoo",
+      "duration": 58,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "9wGAI_8zvBQ",
+      "title": "Belly Down Arm Bar to counter the stack",
+      "by": "The Art of Fighting",
+      "vertical": false,
+      "channel": "The Art of Fighting",
+      "duration": 62,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "EdYFELAO6B0",
+      "title": "Belly Down Armbar from Guard",
+      "by": "Robert Hugus",
+      "vertical": false,
+      "channel": "Robert Hugus BJJ Videos",
+      "duration": 41,
+      "verified": "2026-07-14"
+    }
+  ]
+}

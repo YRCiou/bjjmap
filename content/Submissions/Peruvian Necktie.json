@@ -1,0 +1,214 @@
+{
+  "name": "Peruvian Necktie",
+  "description": "Master the Peruvian Necktie in BJJ. Complete guide covering front headlock setup, leg threading mechanics, finishing sequence, and defensive escapes with safety protocols.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "front-headlock",
+    "blood-choke",
+    "turtle-attack",
+    "advanced-technique"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "Front Headlock",
+  "success_rate": {
+    "gi": 52,
+    "nogi": 52
+  },
+  "variant_uniqueness": "Leg threading fulcrum creates inescapable bilateral carotid compression from front headlock",
+  "summary": "The Peruvian Necktie is a front-headlock blood choke where the attacker threads a leg over the bent-forward opponent's back to create a fulcrum, levering the choking forearm into both carotid arteries for a fast tap from turtle.",
+  "overview": "The Peruvian Necktie is a sophisticated blood choke that attacks the carotid arteries from a front headlock position, typically initiated when the opponent is in turtle or combat base. Unlike traditional guillotine variations, this submission utilizes a unique body positioning where the attacker threads their leg through the opponent's neck and arm configuration, creating a fulcrum that amplifies choking pressure. The technique derives its effectiveness from the combination of arm pressure across the neck and the leverage created by the attacker's bodyweight and leg position. This submission is particularly effective in scrambles and transitional situations where the opponent attempts to build back to their base from turtle. The Peruvian Necktie represents an advanced understanding of front headlock mechanics and requires precise timing and positioning. When executed correctly, it creates an inescapable choking mechanism that forces a rapid tap due to the simultaneous compression of both carotid arteries. The submission has gained prominence in modern no-gi grappling and MMA due to its effectiveness in dynamic situations and its relatively low energy cost compared to maintaining traditional control positions.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression leading to loss of consciousness",
+        "severity": "CRITICAL",
+        "recovery_time": "Immediate if released, potential neurological complications if held past unconsciousness"
+      },
+      {
+        "injury": "Trachea damage from improper forearm placement",
+        "severity": "High",
+        "recovery_time": "2-4 weeks for bruising, longer for structural damage"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress from twisting pressure",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks"
+      },
+      {
+        "injury": "Shoulder joint stress from arm being trapped",
+        "severity": "Medium",
+        "recovery_time": "1-3 weeks"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum in training, NEVER snap or jerk",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any distress vocalization)",
+      "Physical hand tap on opponent's body or mat",
+      "Physical foot tap on mat",
+      "Any loss of resistance or going limp",
+      "Any distress signal or irregular breathing"
+    ],
+    "release_protocol": [
+      "Immediately release choking arm and remove pressure",
+      "Unwrap leg from opponent's neck slowly",
+      "Allow opponent to straighten their neck naturally",
+      "Monitor partner for consciousness and breathing",
+      "Check for neck mobility before continuing training",
+      "If partner lost consciousness, call for medical assistance and monitor airway"
+    ],
+    "training_restrictions": [
+      "Never apply competition speed or intensity in training",
+      "Never spike or jerk the submission",
+      "Always communicate before drilling this choke",
+      "Beginners must drill under supervision only",
+      "Never practice on partners with neck injuries",
+      "Always ensure training partner can tap with free hand",
+      "Stop immediately if partner shows any sign of distress beyond normal discomfort"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Front Headlock",
+      "slug": "from-front-headlock"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Peruvian Necktie from Turtle Attack",
+      "description": "The most common entry where opponent is in defensive turtle position. You establish front headlock control from top turtle, trap their near arm, and execute the standard leg threading sequence. This variation works particularly well after failed guillotine attempts or during scrambles from guard.",
+      "when_to_use": "When opponent turtles to defend guard passes, after takedowns, or during scrambles where they assume a defensive shell position"
+    },
+    {
+      "variation_name": "Peruvian Necktie from Failed Takedown Defense",
+      "description": "When opponent shoots a takedown and you sprawl successfully, you may end up in a front headlock position with their head trapped. If they're on their knees trying to recover, this creates an ideal opportunity for the Peruvian Necktie. The leg threading is easier because their posture is already compromised from the failed takedown.",
+      "when_to_use": "After successfully defending single or double leg takedowns when opponent remains on their knees with you controlling front headlock position"
+    },
+    {
+      "variation_name": "Rolling Peruvian Necktie",
+      "description": "When opponent begins to roll or cartwheel to escape the standard Peruvian Necktie, you can maintain the triangle lock and roll with them, often ending in a mounted or side control position with the choke still secured. This variation requires comfort with rolling dynamics and maintaining connection during positional transitions.",
+      "when_to_use": "When opponent attempts athletic escapes through rolling or cartwheeling, or when you want to follow their momentum to improve position while maintaining the submission"
+    },
+    {
+      "variation_name": "Peruvian Necktie from Standing Front Headlock",
+      "description": "An advanced variation where you secure the front headlock from standing (common in wrestling positions or takedown exchanges) and execute the technique by dropping your weight down while threading your leg through. This requires quick reactions and strong front headlock control but can catch opponents by surprise during scrambles.",
+      "when_to_use": "During standing exchanges, clinch situations, or when transitioning from standing to ground positions with front headlock control established"
+    }
+  ],
+  "from_positions": [
+    "Front Headlock",
+    "Turtle",
+    "Standing Position",
+    "North-South",
+    "Crucifix"
+  ],
+  "related_submissions": [
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Alternative front headlock choke when opponent's arm is not trapped"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Parallel arm-in choke from similar front headlock positions"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Alternative front headlock finish using opposite arm configuration"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Related arm-in choking attack from similar control positions"
+    },
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "Guillotine variation from same starting position"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Related front headlock choke variation"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Guillotine variation incorporating trapped arm"
+    },
+    {
+      "name": "Japanese Necktie",
+      "relationship": "Closely related front headlock choke with similar leg threading mechanics"
+    },
+    {
+      "name": "Chin Strap Guillotine from Front Headlock",
+      "relationship": "Alternative guillotine grip available from front headlock"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Front Headlock",
+      "relationship": "Primary control position for entries and setup variations"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Alternative finish from same position when arm not trapped"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Parallel choke option using arm-in configuration"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Alternative front headlock finish using opposite arm configuration"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Primary attacking position where Peruvian Necktie opportunities arise"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Alternative attack option when Peruvian Necktie is defended"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Related arm-in choking attack from similar positions"
+    },
+    {
+      "name": "Crucifix",
+      "relationship": "Alternative control position when opponent defends front headlock attacks"
+    },
+    {
+      "name": "Japanese Necktie",
+      "relationship": "Closely related front headlock choke with similar leg threading mechanics"
+    }
+  ],
+  "clips": [
+    {
+      "id": "7J0hJPRPpRQ",
+      "title": "Peruvian Necktie",
+      "by": "Keith Krikorian",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 87,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "4ob2ZrEH3Yc",
+      "title": "Front Headlock to Peruvian Necktie",
+      "by": "Gile23",
+      "vertical": false,
+      "channel": "Gile23",
+      "duration": 113,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "WpQIntujyFU",
+      "title": "Peruvian Necktie",
+      "by": "Luke Harris",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 106,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+
+
+
+
+---
+title: "X-Guard Sweep | BJJ Technique | BJJ Map"
+description: "Master X-Guard Sweep in BJJ. Complete technical guide with step-by-step execution from X-Guard to Mount or Side Control with leverage-based off-balancing."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "X-Guard Sweep",
+  "description": "Master X-Guard Sweep in BJJ. Complete technical guide with step-by-step execution from X-Guard to Mount or Side Control with leverage-based off-balancing.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "X-Guard Sweep", "item": "https://bjjmap.pages.dev/Transitions/X-Guard-Sweep" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "X-Guard Sweep \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "X guard sweep",
+      "description": "X-Guard Sweep film study: X guard sweep, taught by Marcelo Garcia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zbYb6sOYC8w/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/zbYb6sOYC8w",
+      "url": "https://www.youtube.com/watch?v=zbYb6sOYC8w",
+      "creator": { "@type": "Person", "name": "Marcelo Garcia" },
+      "duration": "PT53S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "X-guard sweep and pass",
+      "description": "X-Guard Sweep film study: X-guard sweep and pass, taught by Marcelo Garcia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7OnjPU1WjH4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/7OnjPU1WjH4",
+      "url": "https://www.youtube.com/watch?v=7OnjPU1WjH4",
+      "creator": { "@type": "Person", "name": "Marcelo Garcia" },
+      "duration": "PT35S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "No-gi X-guard sweep",
+      "description": "X-Guard Sweep film study: No-gi X-guard sweep, taught by Marcelo Garcia.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m-ueyJXiShY/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/m-ueyJXiShY",
+      "url": "https://www.youtube.com/watch?v=m-ueyJXiShY",
+      "creator": { "@type": "Person", "name": "Marcelo Garcia" },
+      "duration": "PT126S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "X-Guard Sweep",
+  "description": "The X-Guard Sweep is a high-percentage bottom-position sweep that elevates a standing opponent's trapped leg with the inside hook while controlling their other leg, destroying their base so you come up to a dominant top passing position.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[X-Guard Sweep/Attacker|Play as Attacker]]
+[[X-Guard Sweep/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**The X-Guard Sweep is a high-percentage bottom-position sweep that elevates a standing opponent's trapped leg with the inside hook while controlling their other leg, destroying their base so you come up to a dominant top passing position.**
+
+Popularized by Marcelo Garcia and now a cornerstone of both gi and no-gi open-guard systems, this sweep is the primary offensive weapon of the X-Guard position. By controlling both legs while maintaining upper body connection, the bottom player creates a powerful mechanical advantage that makes the sweep extremely difficult to defend. The technique exploits the opponent's unstable base by removing their ability to post or widen their stance, forcing them into a position where they cannot recover balance. This sweep is particularly effective against standing opponents and those attempting to pass the guard, as it capitalizes on their forward pressure and commitment to forward movement.
+
+The X-Guard Sweep serves as a cornerstone technique within the broader X-Guard attacking system, leading to dominant positions like mount, side control, or back control depending on the opponent's defensive reactions. The sweep's mechanical foundation rests on the simultaneous application of two force vectors: upward elevation through the X-hook that removes the opponent's base, and rotational torque generated by torso rotation and grip pulling that prevents balance recovery. When both vectors are coordinated with proper timing against the opponent's weight shifts, the sweep becomes nearly unstoppable regardless of size differential.
+
+Strategically, the X-Guard Sweep creates a powerful dilemma for the standing opponent. If they maintain an upright posture, the elevation sweep is available. If they lower their base to defend, transitions to Single Leg X or leg entanglements open up. If they attempt to step back, the sweeper can follow with inversions or deep half entries. This branching threat tree makes X-Guard one of the most tactically rich sweeping positions in modern grappling.
+
+**From Position**: [[Positions/X-Guard]] (Bottom)
+**Success Rate**: 44%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch X-Guard Sweep in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=zbYb6sOYC8w)
+
+<p class="clip-credit"><strong>X guard sweep</strong> — taught by Marcelo Garcia · 0:53 · <a href="https://www.youtube.com/watch?v=zbYb6sOYC8w" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=7OnjPU1WjH4)
+
+<p class="clip-credit"><strong>X-guard sweep and pass</strong> — taught by Marcelo Garcia · 0:35 · <a href="https://www.youtube.com/watch?v=7OnjPU1WjH4" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=m-ueyJXiShY)
+
+<p class="clip-credit"><strong>No-gi X-guard sweep</strong> — taught by Marcelo Garcia · 2:06 · <a href="https://www.youtube.com/watch?v=m-ueyJXiShY" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Combat Base]] | 65% |
+| Failure | [[Positions/X-Guard]] | 25% |
+| Counter | [[Positions/X-Guard]] | 10% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Maintain strong connection between X-hook and opponent's far... | Lower your center of gravity immediately by bending knees an... |
+| **Options** | 6 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[X-Guard Sweep/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Maintain strong connection between X-hook and opponent's far leg throughout the sweep
+
+- Use the bottom leg hook to elevate and destabilize opponent's base before adding rotation
+
+- Control opponent's near leg with top hook to prevent posting or base widening
+
+- Generate upward and rotational force simultaneously for maximum off-balancing effect
+
+- Follow opponent's falling trajectory immediately to secure top position without delay
+
+- Coordinate leg and arm movements to create synchronized sweeping motion
+
+- Adjust angle of elevation based on opponent's weight distribution and defensive reactions
+
+
+### Execution Steps
+
+
+- **Secure X-Guard position**: Establish complete X-Guard control with your bottom leg (X-hook) threaded across opponent's far leg,...
+
+- **Break opponent's posture and base**: Pull down on the ankle grip while simultaneously driving your X-hook upward into their far leg, lift...
+
+- **Create elevation angle**: Drive your hips upward and toward the opponent's supporting leg while maintaining tension on all con...
+
+- **Generate rotational force**: While maintaining upward pressure with your X-hook, begin rotating your torso and hips in the direct...
+
+- **Complete the sweep**: Continue the rotational and upward pressure until opponent's weight fully commits past their tipping...
+
+- **Secure top position**: Follow opponent's falling trajectory by immediately coming up on top, driving your chest and shoulde...
+
+
+### Common Mistakes
+
+
+- **Attempting sweep without sufficient elevation of opponent's far leg**
+  - Consequence: Opponent maintains stable base and easily defends the sweep by posting or widening stance
+  - Correction: Focus on lifting the X-hook leg higher before initiating rotational force. The far leg should be elevated well above the mat before committing to the sweep.
+
+- **Releasing grips too early during the sweep execution**
+  - Consequence: Loss of control allows opponent to post hands, recover base, or scramble back to neutral position
+  - Correction: Maintain all grips and hooks throughout the entire sweeping motion until opponent's back hits the mat. Only release control points once you're actively securing top position.
+
+- **Failing to follow opponent's falling trajectory after the sweep**
+  - Consequence: Opponent recovers guard or creates scramble situation instead of giving up dominant position
+  - Correction: Immediately follow the sweep by driving your body forward and upward, maintaining chest-to-chest pressure as opponent falls. Think of the sweep and position acquisition as one continuous motion.
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[X-Guard Sweep/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Lower your center of gravity immediately by bending knees and driving hips down to neutralize elevation
+
+- Widen your base laterally to create structural resistance against rotational sweep forces
+
+- Attack the X-hook connection first as it is the load-bearing element of the entire sweep structure
+
+- Control your trapped ankle by pulling it backward or circling it free before rotation begins
+
+- Never allow your weight to shift forward over the sweeper's hips where their leverage is maximized
+
+- Use grip fighting on the sweeper's hands to break the anchor grip on your ankle or pants
+
+
+### Recognition Cues
+
+
+- Opponent threads their bottom leg across your far leg with instep hooking behind your knee, forming the characteristic X pattern
+
+- You feel upward lifting pressure on one leg accompanied by inward pulling tension on the other leg from the top hook
+
+- Opponent's hips elevate off the mat and angle approximately 45 degrees to your centerline, indicating they are loading the sweep
+
+- Opponent secures a firm grip on your ankle, pant cuff, or Achilles area while their other hand controls your belt or hip
+
+- Your balance becomes progressively unstable as the sweeper begins coordinating elevation with rotational pulling on your grips
+
+
+### Defensive Options
+
+
+- **Lower hips and widen base while stripping the ankle grip to prevent elevation** - When: Immediately upon recognizing X-Guard establishment, before the sweeper begins generating upward force
+
+- **Step the far leg backward to extract it from the X-hook while posting the free hand for balance** - When: When the sweeper has begun elevation but has not yet added rotational force, and your far leg still has enough freedom to step
+
+- **Drive forward pressure through the trapped leg while crossfacing the sweeper's head to flatten their angle** - When: When the sweep is actively being attempted and you cannot extract your leg, use forward pressure to collapse their structure
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**X-Guard Sweep to Back Take**: Instead of coming to mount or side control, maintain top hook on near leg and shoot your free leg over their back as they fall. Use the momentum of the sweep to establish seat belt control and secure back control position. (When to use: When opponent turns away during the sweep or when back control is more advantageous for your game plan than top position)
+
+
+**Technical Stand-Up X-Guard Sweep**: From X-Guard, use the hooks and grips to base on your free hand and come up to a technical stand-up position while maintaining leg control. From standing, execute the sweep with additional downward pressure from your elevated position. (When to use: Against particularly heavy or defensive opponents who are difficult to sweep from bottom position, or when you need to create more space)
+
+
+**No-Gi X-Guard Sweep**: Without gi grips available, control opponent's ankle or foot with same-side hand and use opposite hand to grip behind their knee or control their hips. Sweeping mechanics remain the same but require tighter connections and faster execution due to reduced grip security. (When to use: In no-gi training, MMA contexts, or when opponent's gi is too sweat-soaked for reliable gripping)
+
+
+**X-Guard Overhead Sweep**: From X-Guard, drive the X-hook even higher to lift opponent's far leg above your head level. This creates an extreme off-balancing angle that causes opponent to fall backward over your body rather than to the side. Follow by coming up to mount or transitioning to their back. (When to use: Against shorter opponents or when you have exceptional hip mobility and leg strength to create maximum elevation)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+The X-Guard Sweep serves as the primary offensive weapon within the X-Guard attacking system and connects to multiple positions and techniques. It typically follows entries from butterfly guard, De La Riva guard, or single leg X-guard, representing a natural progression in the guard retention and attack hierarchy. When the sweep succeeds, it leads directly to dominant positions like mount, side control, knee on belly, or back control depending on how the opponent falls and defends. If the sweep is defended, it creates opportunities to transition to submissions (armbar, triangle, kneebar) or alternative sweeps and positions. The X-Guard Sweep integrates with the broader guard game by providing a high-percentage method to achieve top position against standing or combat base opponents. Understanding this sweep is essential for developing a complete bottom game, as it represents one of the most mechanically sound methods to off-balance and sweep an opponent who maintains an upright posture.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Positions/X-Guard]] - Starting position from which this sweep is executed
+
+- [[Positions/X-Guard/Single Leg X-Guard]] - Alternative guard position reached when hooks become shallow during sweep attempt
+
+- [[Positions/Mount]] - Primary ending position after successful sweep completion
+
+- [[Positions/Side Control]] - Alternative ending position when opponent falls laterally
+
+- [[Positions/Back Control]] - Advanced ending position when opponent turns away during sweep
+
+- [[Transitions/Butterfly Guard to X-Guard]] - Common entry transition establishing X-Guard before sweep
+
+- [[Transitions/De La Riva to X-Guard Transition]] - Alternative entry path from De La Riva hook
+
+- [[Transitions/Single Leg X Entry]] - Related entry technique sharing similar leg control mechanics
+
+- [[Submissions/Armbar/from Armbar Control]] - Submission chain option when opponent posts hand to defend sweep, attacking the extended arm
+
+- [[Transitions/Kneebar]] - Leg attack option accessible from X-Guard configuration through leg entanglement transitions
+
+- [[Transitions/Elevator Sweep]] - Similar butterfly-based sweep sharing elevation principles
+
+- [[Transitions/Hook Sweep]] - Related sweep sharing directional off-balancing concepts
+
+- [[Transitions/Butterfly Sweep]] - Foundational sweep technique from which X-Guard mechanics derive
+
+- [[Positions/X-Guard/Reverse X-Guard]] - Mirror variation accessible when opponent circles away from sweep
+
+- [[Positions/Half Guard/Deep Half Guard]] - Fallback position when forward pressure collapses X-Guard structure
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Marcelo-Garcia-X-Guard-System" data-cta="related-system-card" data-system-slug="systems/marcelo-garcia-x-guard-system" data-system-name="Marcelo Garcia X-Guard System" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Marcelo Garcia X-Guard System</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Fundamental sweep technique of the system</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Guard System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Berimbolo" data-cta="related-system-card" data-system-slug="systems/berimbolo" data-system-name="Berimbolo" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Berimbolo</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Chained attack when opponent sits back to counter Berimbolo - creates offensive dilemma</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

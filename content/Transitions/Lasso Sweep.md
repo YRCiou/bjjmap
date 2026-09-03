@@ -1,0 +1,346 @@
+
+
+
+
+---
+title: "Lasso Sweep | BJJ Technique | BJJ Map"
+description: "Master the Lasso Sweep in BJJ. Step-by-step guide to sweeping from lasso guard to mount, including grip setups, timing windows, and defensive counters."
+---
+
+
+<body data-content-type="transitions-hub">
+
+<!-- Schema Markup - WebPage (canonical hub entity; carries the synonym signal on the URL we want ranking) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Lasso Sweep",
+  "description": "Master the Lasso Sweep in BJJ. Step-by-step guide to sweeping from lasso guard to mount, including grip setups, timing windows, and defensive counters.",
+  "isPartOf": { "@type": "WebSite", "name": "BJJ Map", "url": "https://bjjmap.pages.dev" }
+}
+</script>
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bjjmap.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Transitions", "item": "https://bjjmap.pages.dev/Transitions/" },
+    { "@type": "ListItem", "position": 3, "name": "Lasso Sweep", "item": "https://bjjmap.pages.dev/Transitions/Lasso-Sweep" }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Lasso Sweep \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Lasso sweep from open guard into ankle lock",
+      "description": "Lasso Sweep film study: Lasso sweep from open guard into ankle lock, taught by Lucas Lepri.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LwnoWDFJlN0/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/LwnoWDFJlN0",
+      "url": "https://www.youtube.com/watch?v=LwnoWDFJlN0",
+      "creator": { "@type": "Person", "name": "Lucas Lepri" },
+      "duration": "PT44S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Lasso sweep against a standing opponent",
+      "description": "Lasso Sweep film study: Lasso sweep against a standing opponent, taught by Revolution Fitness Center coach.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yBMlXlVefPA/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/yBMlXlVefPA",
+      "url": "https://www.youtube.com/watch?v=yBMlXlVefPA",
+      "creator": { "@type": "Person", "name": "Revolution Fitness Center coach" },
+      "duration": "PT55S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Sweep from leg lasso guard",
+      "description": "Lasso Sweep film study: Sweep from leg lasso guard, taught by Leslie Gardineer.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/42uccYQUAgE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/42uccYQUAgE",
+      "url": "https://www.youtube.com/watch?v=42uccYQUAgE",
+      "creator": { "@type": "Person", "name": "Leslie Gardineer" },
+      "duration": "PT84S"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Lasso Sweep",
+  "description": "The Lasso Sweep is a gi reversal from lasso guard that extends the lasso leg and pulls a collar or pants grip to topple the opponent over their trapped, non-posting arm and come up on top inside their guard.",
+  "inDefinedTermSet": "https://bjjmap.pages.dev/Transitions/"
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<div class="role-links">
+
+[[Lasso Sweep/Attacker|Play as Attacker]]
+[[Lasso Sweep/Defender|Play as Defender]]
+
+</div>
+
+<section id="overview" class="content-section">
+
+**The Lasso Sweep is a gi reversal from lasso guard that extends the lasso leg and pulls a collar or pants grip to topple the opponent over their trapped, non-posting arm and come up on top inside their guard.**
+
+The **Lasso Sweep** is a fundamental sweeping technique from lasso guard that leverages the shin-across-arm control to create an irrecoverable loss of base, bringing the sweeper up on top inside the opponent's guard. The sweep works by combining the lasso's mechanical advantage over the opponent's trapped arm with a secondary pulling grip and coordinated hip movement, directing force toward the side where the opponent cannot post effectively.
+
+The technique exploits a core vulnerability inherent to lasso guard: the trapped arm cannot function as a defensive post. When the sweeper extends the lasso leg upward while pulling with a collar or pants grip, the opponent's base collapses toward the compromised side. The hip rotation that follows converts the off-balance into a complete reversal, with the sweeper rising to top position as the lasso leg is released. From there the sweeper most often lands in the opponent's open guard and can pass forward to mount; reaching mount directly off the topple is possible but uncommon. This mechanical reliability makes the Lasso Sweep one of the most dependable guard reversals in gi-based competition.
+
+Strategically, the Lasso Sweep serves as a constant background threat that shapes the entire lasso guard interaction. The top player must always respect the sweep possibility, which restricts their movement options and creates openings for complementary attacks. When the opponent adjusts their base to defend the sweep, they often expose themselves to triangle entries, omoplata setups, or other sweep variations. This makes the Lasso Sweep not just a standalone technique but a central piece in the lasso guard attacking system.
+
+**From Position**: [[Positions/Lasso Guard]] (Bottom)
+**Success Rate**: 12%
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Lasso Sweep in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=LwnoWDFJlN0)
+
+<p class="clip-credit"><strong>Lasso sweep from open guard into ankle lock</strong> — taught by Lucas Lepri · 0:44 · <a href="https://www.youtube.com/watch?v=LwnoWDFJlN0" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=yBMlXlVefPA)
+
+<p class="clip-credit"><strong>Lasso sweep against a standing opponent</strong> — taught by Revolution Fitness Center coach · 0:55 · <a href="https://www.youtube.com/watch?v=yBMlXlVefPA" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=42uccYQUAgE)
+
+<p class="clip-credit"><strong>Sweep from leg lasso guard</strong> — taught by Leslie Gardineer · 1:24 · <a href="https://www.youtube.com/watch?v=42uccYQUAgE" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Open Guard]] | 40% |
+| Success | [[Positions/Mount]] | 15% |
+| Failure | [[Positions/Lasso Guard]] | 30% |
+| Counter | [[Positions/Open Guard]] | 15% |
+
+
+</section>
+
+<section class="content-section">
+
+## Attacker vs Defender
+
+| &nbsp; | Attacker | Defender |
+|--------|----------|----------|
+| **Focus** | Execute technique | Prevent or counter |
+| **Key Principles** | Maintain maximum lasso tension by fully extending the lasso ... | Maintain a wide triangular base with your free-side leg step... |
+| **Options** | 7 execution steps | 4 defensive options |
+
+</section>
+
+<section id="attacker-summary" class="content-section">
+
+## Playing as Attacker
+
+[[Lasso Sweep/Attacker|→ Full Attacker Guide]]
+
+### Key Principles
+
+
+- Maintain maximum lasso tension by fully extending the lasso leg while pulling the sleeve grip toward your chest throughout the sweep sequence
+
+- Establish a strong secondary grip on the collar or pants that creates a pulling vector toward the intended sweep direction before initiating
+
+- Time the sweep when the opponent's weight shifts forward or toward the lasso side to amplify the off-balancing force with their momentum
+
+- Generate sweep power through hip rotation and core engagement rather than relying solely on upper body pulling strength
+
+- Follow through completely by immediately climbing to mount after the sweep lands, preventing any guard recovery attempts
+
+- Break the opponent's posture before attempting the sweep to reduce their ability to post and resist the rotational force
+
+
+### Execution Steps
+
+
+- **Secure deep lasso control**: Thread your shin fully across the opponent's tricep area between their elbow and shoulder, maintaini...
+
+- **Establish secondary pulling grip**: Reach across with your free hand to grab the opponent's far-side collar at the back of the neck or t...
+
+- **Position non-lasso leg for leverage**: Place your non-lasso foot firmly on the opponent's hip on the same side as your secondary grip, crea...
+
+- **Load the sweep by breaking posture**: Pull the secondary grip firmly toward your chest while extending the lasso leg upward, creating comb...
+
+- **Execute hip rotation to sweep**: Drive your hips explosively toward the lasso side while simultaneously pushing with your foot on the...
+
+- **Follow through to complete the reversal**: Continue the rotation fully through the sweep arc, releasing the lasso control as you rise to the to...
+
+- **Establish top position and advance toward mount**: As you come up on top inside the opponent's guard, immediately establish base and posture, then begi...
+
+
+### Common Mistakes
+
+
+- **Attempting the sweep without establishing a secondary pulling grip beyond the sleeve**
+  - Consequence: The lasso alone creates structural imbalance but cannot generate the directional force needed to complete the sweep, resulting in a stalled attempt that wastes energy and telegraphs intent
+  - Correction: Always establish a collar, pants, or lapel grip with the free hand before initiating the sweep, ensuring you have the push-pull mechanism required for completion
+
+- **Keeping the lasso leg bent instead of fully extending it during the sweep**
+  - Consequence: Reduced leverage against the opponent's trapped arm, allowing them to resist the rotational force and maintain their base on the compromised side
+  - Correction: Actively straighten and extend the lasso leg upward throughout the sweep, maximizing the lever arm against the opponent's shoulder and tricep area
+
+- **Not breaking the opponent's posture before initiating the hip rotation**
+  - Consequence: The opponent maintains an upright, stable base that easily absorbs the sweep force, making even mechanically correct sweeps ineffective against a well-posted defender
+  - Correction: Use the collar grip and lasso extension to pull the opponent's head and shoulders forward and down before rotating the hips, ensuring their weight is already moving in the sweep direction
+
+
+</section>
+
+<section id="defender-summary" class="content-section">
+
+## Playing as Defender
+
+[[Lasso Sweep/Defender|→ Full Defender Guide]]
+
+### Key Principles
+
+
+- Maintain a wide triangular base with your free-side leg stepped back to create lateral stability against rotational sweep forces
+
+- Keep your free hand available for emergency posting rather than committing it to grips that reduce your defensive base
+
+- Deny the secondary collar or pants grip that powers the sweep by strip-fighting and posture control before the sweep loads
+
+- Distribute weight slightly toward your free side rather than centered or forward, reducing the momentum available for the sweeper to redirect
+
+- Recognize sweep loading cues early and react during the setup phase rather than waiting until the hip rotation begins
+
+- Address the lasso control systematically rather than the sweep symptoms—breaking the lasso eliminates the sweep entirely
+
+
+### Recognition Cues
+
+
+- Opponent establishes a secondary collar or pants grip with their free hand while maintaining the lasso sleeve control
+
+- Opponent's lasso leg extends upward with increasing pressure, creating a lifting sensation against your trapped arm
+
+- Opponent's hips angle perpendicular to your body and load toward the lasso side, indicating directional sweep preparation
+
+- Non-lasso foot posts firmly on your hip or hooks behind your knee, establishing the push element of the sweep mechanism
+
+
+### Defensive Options
+
+
+- **Post free hand on the mat immediately when feeling off-balance toward the lasso side** - When: When the opponent begins extending the lasso leg and pulling with the secondary grip, creating rotational pressure
+
+- **Step over the lasso leg to neutralize the perpendicular sweep angle entirely** - When: When the sweep is being loaded but has not yet reached the tipping point of no return
+
+- **Strip the secondary collar or pants grip with your free hand before the sweep loads** - When: As soon as the opponent establishes the pulling grip that powers the sweep, before they can load the hip rotation
+
+
+</section>
+
+
+<section id="variants" class="content-section hide-minimal">
+
+## Variations
+
+
+**Collar Grip Lasso Sweep**: Uses a deep cross collar grip as the secondary control, pulling the opponent's head and upper body forward while the lasso leg extends upward. The collar grip provides superior control over posture and creates a direct pulling line that amplifies the rotational force of the sweep. (When to use: When the opponent maintains upright posture and you can reach the far collar for a deep grip)
+
+
+**Pants Grip Lasso Sweep**: Substitutes a same-side pants grip near the knee for the collar grip, pulling the opponent's leg toward you while the lasso disrupts their upper body posting. This variation changes the sweep angle to target lateral balance rather than forward-backward balance. (When to use: When the opponent's collar is inaccessible or when they keep a low, wide base that resists forward pulling)
+
+
+**Pendulum Lasso Sweep**: Combines the lasso control with a wide pendulum leg swing on the non-lasso side, generating angular momentum that amplifies the sweeping force. The swinging leg creates additional rotational energy that makes the sweep effective even against heavily based opponents. (When to use: Against larger or more heavily based opponents who can resist the standard grip-based sweep through weight advantage)
+
+
+
+</section>
+
+
+
+<section id="position-integration" class="content-section">
+
+## Position Integration
+
+The Lasso Sweep occupies a central role in the lasso guard offensive system, functioning as the primary threat that anchors all other attacks from this position. It reverses the exchange so the sweeper comes up on top inside the opponent's guard, with a direct route to pass forward into mount, one of the highest-value states in the BJJ positional hierarchy. When combined with complementary sweeps like the Sickle Sweep and Omoplata Sweep, it creates a multi-directional threat system that prevents opponents from establishing stable passing platforms. The sweep also integrates with the broader open guard ecosystem, as failed attempts naturally flow into alternative guard positions and attack chains.
+
+</section>
+
+
+<section id="related-content" class="content-section">
+
+## Related Techniques
+
+
+- [[Positions/Lasso Guard]] - Starting position providing the foundational shin-across-arm control for this sweep
+
+- [[Positions/Mount]] - Target position achieved on successful sweep completion
+
+- [[Transitions/Sickle Sweep]] - Primary complementary sweep from lasso guard targeting the opposite sweep direction
+
+- [[Transitions/Omoplata Sweep]] - Alternative sweep option when opponent drives forward to defend the Lasso Sweep
+
+- [[Transitions/Triangle Setup]] - Chain attack available when opponent posts hand to defend sweep, exposing arm across centerline
+
+- [[Positions/Spider Guard]] - Related guard system sharing sleeve control mechanics that frequently transitions to lasso
+
+- [[Positions/De La Riva Guard]] - Complementary guard position that can combine with lasso for hybrid sweep attacks
+
+- [[Transitions/Lasso Guard Backstep Pass]] - Common passing counter the defender may use, requiring sweep timing awareness from attacker
+
+- [[Positions/Collar Sleeve Guard]] - Entry guard that frequently transitions into lasso guard for sweep attempts
+
+- [[Positions/Lasso Guard/Inverted Lasso Guard]] - Related guard variation using similar lasso control principles for inverted sweep entries
+
+
+</section>
+
+
+
+</main>

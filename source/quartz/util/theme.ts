@@ -1,0 +1,112 @@
+export interface ColorScheme {
+  light: string
+  lightgray: string
+  gray: string
+  darkgray: string
+  dark: string
+  secondary: string
+  tertiary: string
+  highlight: string
+  textHighlight: string
+  // Content-type colors for graph visualization
+  graphPosition: string
+  graphTransition: string
+  graphSubmission: string
+  graphPrinciple: string
+  graphSystem: string
+  graphTag: string
+  // Per-role strength ramp (graph fill, red↔neutral↔blue, plan §6.7)
+  strengthMinus1: string
+  strengthMinusHalf: string
+  strengthZero: string
+  strengthPlusHalf: string
+  strengthPlus1: string
+}
+
+interface Colors {
+  lightMode: ColorScheme
+  darkMode: ColorScheme
+}
+
+export interface Theme {
+  typography: {
+    header: string
+    body: string
+    code: string
+  }
+  cdnCaching: boolean
+  colors: Colors
+  fontOrigin: "googleFonts" | "local"
+}
+
+export type ThemeKey = keyof Colors
+
+const DEFAULT_SANS_SERIF =
+  '"Noto Sans TC", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
+const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+
+/** CJK fallback face, always loaded alongside the configured Latin faces so that
+ * Traditional Chinese text does not fall back to a system serif. */
+const CJK_FALLBACK_FONT = "Noto Sans TC"
+
+export function googleFontHref(theme: Theme) {
+  const { code, header, body } = theme.typography
+  const fam = (name: string) => name.replaceAll(" ", "+")
+  return `https://fonts.googleapis.com/css2?family=${fam(code)}&family=${fam(header)}:wght@400;700&family=${fam(body)}:ital,wght@0,400;0,600;1,400;1,600&family=${fam(CJK_FALLBACK_FONT)}:wght@400;600;700&display=swap`
+}
+
+export function joinStyles(theme: Theme, ...stylesheet: string[]) {
+  return `
+${stylesheet.join("\n\n")}
+
+:root {
+  --light: ${theme.colors.lightMode.light};
+  --lightgray: ${theme.colors.lightMode.lightgray};
+  --gray: ${theme.colors.lightMode.gray};
+  --darkgray: ${theme.colors.lightMode.darkgray};
+  --dark: ${theme.colors.lightMode.dark};
+  --secondary: ${theme.colors.lightMode.secondary};
+  --tertiary: ${theme.colors.lightMode.tertiary};
+  --highlight: ${theme.colors.lightMode.highlight};
+  --textHighlight: ${theme.colors.lightMode.textHighlight};
+  --graphPosition: ${theme.colors.lightMode.graphPosition};
+  --graphTransition: ${theme.colors.lightMode.graphTransition};
+  --graphSubmission: ${theme.colors.lightMode.graphSubmission};
+  --graphPrinciple: ${theme.colors.lightMode.graphPrinciple};
+  --graphSystem: ${theme.colors.lightMode.graphSystem};
+  --graphTag: ${theme.colors.lightMode.graphTag};
+  --strengthMinus1: ${theme.colors.lightMode.strengthMinus1};
+  --strengthMinusHalf: ${theme.colors.lightMode.strengthMinusHalf};
+  --strengthZero: ${theme.colors.lightMode.strengthZero};
+  --strengthPlusHalf: ${theme.colors.lightMode.strengthPlusHalf};
+  --strengthPlus1: ${theme.colors.lightMode.strengthPlus1};
+
+  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
+  --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
+  --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
+}
+
+:root[saved-theme="dark"] {
+  --light: ${theme.colors.darkMode.light};
+  --lightgray: ${theme.colors.darkMode.lightgray};
+  --gray: ${theme.colors.darkMode.gray};
+  --darkgray: ${theme.colors.darkMode.darkgray};
+  --dark: ${theme.colors.darkMode.dark};
+  --secondary: ${theme.colors.darkMode.secondary};
+  --tertiary: ${theme.colors.darkMode.tertiary};
+  --highlight: ${theme.colors.darkMode.highlight};
+  --textHighlight: ${theme.colors.darkMode.textHighlight};
+  --graphPosition: ${theme.colors.darkMode.graphPosition};
+  --graphTransition: ${theme.colors.darkMode.graphTransition};
+  --graphSubmission: ${theme.colors.darkMode.graphSubmission};
+  --graphPrinciple: ${theme.colors.darkMode.graphPrinciple};
+  --graphSystem: ${theme.colors.darkMode.graphSystem};
+  --graphTag: ${theme.colors.darkMode.graphTag};
+  --strengthMinus1: ${theme.colors.darkMode.strengthMinus1};
+  --strengthMinusHalf: ${theme.colors.darkMode.strengthMinusHalf};
+  --strengthZero: ${theme.colors.darkMode.strengthZero};
+  --strengthPlusHalf: ${theme.colors.darkMode.strengthPlusHalf};
+  --strengthPlus1: ${theme.colors.darkMode.strengthPlus1};
+}
+`
+}

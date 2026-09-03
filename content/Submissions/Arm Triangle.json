@@ -1,0 +1,284 @@
+{
+  "name": "Arm Triangle",
+  "description": "Master the Arm Triangle choke in BJJ. Setup from side control, execution mechanics, finishing details. Success rates: Beginner 35%, Intermediate 55%, Advanced 70%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "arm-triangle",
+    "side-control",
+    "kata-gatame",
+    "blood-choke",
+    "hub",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Kata Gatame",
+    "Head and Arm Choke",
+    "Arm Triangle Choke",
+    "Side Choke"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries (compressed by opponent's own shoulder and your arm)",
+  "starting_position": "Side Control",
+  "from_position": "Side Control/Top",
+  "success_rate": {
+    "gi": 62,
+    "nogi": 62
+  },
+  "variant_uniqueness": "Uses opponent's own shoulder as choking mechanism",
+  "summary": "The Arm Triangle, or Kata Gatame, is a head-and-arm blood choke applied from dominant top positions such as side control, mount, and north-south, converting an opponent's defensive arm into the lever that cuts off blood flow to the brain.",
+  "overview": "The Arm Triangle (Kata Gatame) is a fundamental blood choke that uses the opponent's own shoulder and arm to compress one carotid artery while your arm compresses the other. Unlike the rear naked choke which requires access to both sides of the neck, the arm triangle turns the opponent's defensive frame into an offensive weapon. This submission is particularly effective from side control and can be finished from multiple positions including modified mount, north-south transition, and even from turtle when the opponent is defending incorrectly. The mechanics rely on proper head positioning, shoulder pressure, and controlled weight distribution rather than pure strength. Understanding the anatomy of the choke—creating a triangle with your arms around the opponent's head and their own arm—is essential for consistent finishing. The arm triangle represents a perfect example of using an opponent's defensive structure against them, making it a high-percentage submission across all skill levels when the fundamental mechanics are properly applied.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Loss of consciousness from blood choke",
+        "severity": "High",
+        "recovery_time": "Immediate recovery if released promptly; potential stroke risk if held too long"
+      },
+      {
+        "injury": "Neck strain from improper pressure angle",
+        "severity": "Medium",
+        "recovery_time": "3-7 days with rest"
+      },
+      {
+        "injury": "Shoulder compression injury to trapped arm",
+        "severity": "Medium",
+        "recovery_time": "5-14 days depending on severity"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum from lock to tap. Blood chokes can cause unconsciousness in 6-8 seconds.",
+    "tap_signals": [
+      "Verbal tap (say 'tap' clearly)",
+      "Physical hand tap (multiple taps on opponent or mat)",
+      "Physical foot tap (multiple taps with foot)",
+      "Any distress signal or loss of resistance",
+      "Immediately release if opponent goes limp"
+    ],
+    "release_protocol": [
+      "Immediately release arm squeeze and remove head pressure",
+      "Step back from opponent's head and shoulders",
+      "Allow opponent to breathe and recover (30-60 seconds)",
+      "Check for consciousness and normal breathing",
+      "If unconscious: position on side, elevate legs, monitor breathing until conscious"
+    ],
+    "training_restrictions": [
+      "Never spike or jerk the submission - apply smooth progressive pressure only",
+      "Never hold after tap signal - release immediately upon any tap",
+      "Always allow tap access - do not trap both arms in training",
+      "Never use competition speed in training - practice control first",
+      "Stop immediately if opponent's face changes color (purple/red indicates excessive pressure)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from High Mount",
+      "slug": "from-high-mount"
+    },
+    {
+      "name": "from Hindulotine",
+      "slug": "from-hindulotine"
+    },
+    {
+      "name": "from Kesa Gatame",
+      "slug": "from-kesa-gatame"
+    },
+    {
+      "name": "from Kuzure Kesa-Gatame",
+      "slug": "from-kuzure-kesa-gatame"
+    },
+    {
+      "name": "from Modified Scarf Hold",
+      "slug": "from-modified-scarf-hold"
+    },
+    {
+      "name": "from Reverse Kesa-Gatame",
+      "slug": "from-reverse-kesa-gatame"
+    },
+    {
+      "name": "from Reverse Scarf Hold",
+      "slug": "from-reverse-scarf-hold"
+    },
+    {
+      "name": "from Scarf Hold Position",
+      "slug": "from-scarf-hold-position"
+    },
+    {
+      "name": "from Shoulder of Justice",
+      "slug": "from-shoulder-of-justice"
+    },
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    },
+    {
+      "name": "from Turtle",
+      "slug": "from-turtle"
+    },
+    {
+      "name": "from Twister Side Control",
+      "slug": "from-twister-side-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Arm Triangle from Mount",
+      "description": "When opponent frames from bottom mount with one arm, trap that arm across their neck and transition to side control or modified mount to finish. This is often easier to set up than from side control because opponent's defensive frames from mount naturally position their arm across their neck.",
+      "when_to_use": "When opponent uses stiff arm defense from bottom mount, or when you have high mount and opponent tries to push your head away"
+    },
+    {
+      "variation_name": "Arm Triangle from North-South",
+      "description": "From north-south position with opponent's arm trapped, use your body weight driving through your shoulder while maintaining the triangle structure. Some practitioners prefer this finish because the downward shoulder pressure is easier to generate from this angle.",
+      "when_to_use": "When transitioning from side control to north-south and opponent's arm is already trapped, or when opponent defends initial side control finish by turning away"
+    },
+    {
+      "variation_name": "Arm Triangle from Turtle",
+      "description": "When opponent turtles and reaches to defend with their near arm, trap that arm across their own neck while threading your choking arm under. Roll them to their side or back to finish with the same shoulder pressure mechanics. Turtle is a prime setup position because opponent often defends with extended arms.",
+      "when_to_use": "When opponent turtles defensively and extends their arms, particularly in scrambles or after failed guard passes"
+    },
+    {
+      "variation_name": "Modified Mount Finish",
+      "description": "Instead of staying in side control, step your leg over opponent's body into a modified mount position with your shin across their torso. This provides excellent angle and shoulder pressure for finishing. Your weight drives down through your shoulder while their body is controlled by your legs.",
+      "when_to_use": "When opponent is defending strongly from side control or when you want maximum control during the finish"
+    }
+  ],
+  "from_positions": [
+    "Side Control",
+    "Mount",
+    "High Mount",
+    "Modified Mount",
+    "North-South",
+    "Kesa Gatame",
+    "Turtle",
+    "Half Guard",
+    "Knee on Belly"
+  ],
+  "related_submissions": [
+    {
+      "name": "Darce Choke",
+      "relationship": "Sister head-and-arm choke with opposite arm threading direction"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Related front headlock choke using similar compression mechanics"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Complementary neck choke available when arm triangle defense creates space"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Alternative choke from mount and side control positions"
+    },
+    {
+      "name": "Clock Choke",
+      "relationship": "Gi-based choke sharing similar shoulder pressure mechanics"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Variation using lapel to enhance head-and-arm compression"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Alternative choke threatening from similar top positions"
+    },
+    {
+      "name": "Americana",
+      "relationship": "Shoulder lock chain when arm triangle setup is defended"
+    },
+    {
+      "name": "Japanese Necktie",
+      "relationship": "Related head-and-arm choke with cranking neck pressure component"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Side Control",
+      "relationship": "Primary setup position requiring tight crossface control"
+    },
+    {
+      "name": "Mount",
+      "relationship": "Alternative setup position when opponent frames defensively"
+    },
+    {
+      "name": "Kuzure Kesa-Gatame",
+      "relationship": "Modified scarf hold position allows similar arm triangle setup"
+    },
+    {
+      "name": "Modified Scarf Hold",
+      "relationship": "Body positioning allows similar compression mechanics"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Finishing position variation with downward shoulder pressure"
+    },
+    {
+      "name": "Technical Mount",
+      "relationship": "Alternative finishing position with leg control for stability"
+    },
+    {
+      "name": "S Mount",
+      "relationship": "Modified mount finish provides excellent angle for compression"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Related head and arm choke with similar triangle mechanics"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Sister submission with opposite arm threading direction"
+    },
+    {
+      "name": "Half Guard",
+      "relationship": "Can set up arm triangle during top pressure passing sequences"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Common setup position when opponent turtles defensively"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Alternative target when opponent turns during arm triangle defense"
+    }
+  ],
+  "clips": [
+    {
+      "id": "tc-XXMg7v48",
+      "title": "The mounted arm triangle",
+      "by": "Coach Brian",
+      "vertical": false,
+      "channel": "TeachMeGrappling Coach Brian",
+      "duration": 145,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "YHCZ7SHep5k",
+      "title": "Finishing head-and-arm chokes the right way",
+      "by": "Henry Akins",
+      "vertical": false,
+      "channel": "Henry Akins' Hidden Jiu-Jitsu",
+      "duration": 88,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "wrZCRBlAB3Y",
+      "title": "Head and arm choke from mount finishing details",
+      "by": "Roger Gracie",
+      "vertical": false,
+      "channel": "Roger Gracie TV",
+      "duration": 265,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "WSz5MbUhb_0",
+      "title": "Von Flu and arm triangle",
+      "by": "Pure Grappling",
+      "vertical": false,
+      "channel": "Pure Grappling",
+      "duration": 52,
+      "verified": "2026-07-14"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "name": "High Elbow Guillotine",
+  "description": "Master High Elbow Guillotine in BJJ. Complete guide with safety protocols, setup, execution, and expert analysis. Success rates: Beginner 35%, Intermediate 50%, Advanced 65%.",
+  "summary": "A guillotine variation where the attacker drives the choking elbow high above the opponent's shoulder so the forearm bone cuts off blood flow through both carotids, producing a rapid choke even against a tucked chin.",
+  "tags": [
+    "bjj",
+    "submission",
+    "choke",
+    "guillotine",
+    "blood-choke",
+    "front-headlock",
+    "high-elbow",
+    "standing",
+    "guard-pull"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "Front Headlock",
+  "from_position": "Front Headlock/Top",
+  "success_rate": {
+    "gi": 58,
+    "nogi": 58
+  },
+  "variant_uniqueness": "High elbow angle creates superior bilateral carotid compression",
+  "overview": "The High Elbow Guillotine is a devastating blood choke that targets the carotid arteries through precise elbow positioning and shoulder pressure. Distinguished from the traditional arm-in guillotine by its mechanics, this variation achieves superior control and finishing power by elevating the choking elbow above the opponent's shoulder line while driving the non-choking shoulder into their neck. The technique excels in both standing and ground scenarios, making it a versatile weapon across all grappling contexts. Its effectiveness stems from the biomechanical advantage created when the high elbow position redirects force directly into the carotid arteries rather than relying primarily on forearm compression. The submission can be entered from numerous positions including standing clinch exchanges, failed takedown attempts, and guard pulls, making it an essential component of any complete submission system. Modern competitive grapplers favor this variation for its reliability under pressure and its capacity to finish opponents who successfully defend traditional guillotine mechanics.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Carotid artery compression leading to loss of consciousness",
+        "severity": "High",
+        "recovery_time": "Immediate if released promptly; potential for serious complications if held past unconsciousness"
+      },
+      {
+        "injury": "Tracheal damage from excessive pressure or improper angle",
+        "severity": "CRITICAL",
+        "recovery_time": "2-6 weeks for minor trauma; months for severe damage requiring medical intervention"
+      },
+      {
+        "injury": "Cervical spine stress from defensive bridging or improper application",
+        "severity": "High",
+        "recovery_time": "1-3 weeks for minor strain; 3-6 months for significant injury"
+      },
+      {
+        "injury": "Jaw and temporomandibular joint stress",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks for minor inflammation"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum application time with constant awareness of partner's response",
+    "tap_signals": [
+      "Verbal tap or any verbal sound of distress",
+      "Physical hand tap on opponent's body or mat",
+      "Physical foot tap on mat or opponent",
+      "Any loss of resistance or body going limp",
+      "Unusual gurgling or breathing sounds"
+    ],
+    "release_protocol": [
+      "Immediately release choking arm grip upon any tap signal",
+      "Lower choking elbow and remove shoulder pressure simultaneously",
+      "Release head control and create space by stepping back or opening guard",
+      "Monitor partner's breathing and consciousness for 10-15 seconds",
+      "Never reapply pressure once released, even if partner signals they are okay"
+    ],
+    "training_restrictions": [
+      "Never apply at competition speed during drilling or positional training",
+      "Never spike or jerk the submission - always apply smooth progressive pressure",
+      "Never continue pressure if partner's face changes color or shows signs of oxygen deprivation",
+      "Always maintain verbal communication during slow drilling phases",
+      "Never practice on partners with neck or throat injuries without explicit instructor approval",
+      "Always allow clear tap access - never trap both arms while finishing"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Front Headlock",
+      "slug": "from-front-headlock"
+    },
+    {
+      "name": "from Guillotine Control",
+      "slug": "from-guillotine-control"
+    },
+    {
+      "name": "from Hindulotine",
+      "slug": "from-hindulotine"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Standing High Elbow Guillotine",
+      "description": "Applied from standing position with opponent's head controlled in front headlock. Attacker drives hips forward while maintaining high elbow position and shoulder pressure. Often finished while opponent is attempting to complete a takedown or after sprawling on their shot. The standing variation generates additional pressure through body weight and forward hip drive.",
+      "when_to_use": "When opponent shoots for takedown, during snap-down sequences, or when you want to maintain standing position rather than pulling guard. Particularly effective in no-gi competition where guard pulling is less advantageous."
+    },
+    {
+      "variation_name": "Guard Pull to High Elbow Guillotine",
+      "description": "From standing front headlock control with high elbow position established, attacker sits to guard while maintaining all upper body structure. The act of pulling guard often tightens the choke as it eliminates opponent's ability to create distance. Guard should be closed immediately upon sitting. This is one of the highest percentage entries in modern grappling.",
+      "when_to_use": "When standing finish is not immediately available or when opponent has strong base and takedown defense. The guard pull variation is favored in submission-only formats and IBJJF competition where the guard pull itself is relatively low-risk."
+    },
+    {
+      "variation_name": "Arm-In to High Elbow Transition",
+      "description": "Starting from traditional arm-in guillotine position, attacker strips opponent's trapped arm free while maintaining neck control, then elevates elbow into high elbow position. This transition is useful when the arm-in variation is defended but neck control remains solid. Requires brief moment of loosening grip to remove arm, then immediate re-tightening in new configuration.",
+      "when_to_use": "When opponent successfully defends arm-in guillotine by keeping their arm tight to their body or when you recognize the arm-in finish is not available but opponent's neck remains exposed."
+    },
+    {
+      "variation_name": "High Elbow from Turtle Position",
+      "description": "Opponent is in turtle position and attacker has front headlock control. Attacker establishes high elbow position while opponent is still on their knees, then either rolls opponent to guard or finishes from top position with shoulder pressure and high elbow maintained. The turtle entry often catches opponents unprepared as they focus on protecting their back.",
+      "when_to_use": "When attacking turtle position and opponent keeps their arms tight to their body, making darce or anaconda entries difficult. The high elbow allows finishing without needing to thread an arm through."
+    },
+    {
+      "variation_name": "Marce Combination Entry",
+      "description": "False entry showing arm-in or marce choke setup, then switching to high elbow as opponent defends by turning into you. The initial threat causes opponent to react, creating the opening for the high elbow configuration. This combination approach uses opponent's defensive movement against them.",
+      "when_to_use": "Against experienced opponents who defend guillotines well and know to turn into the choke. The combination approach creates indecision and allows you to capitalize on whatever defense they choose."
+    }
+  ],
+  "from_positions": [
+    "Front Headlock",
+    "Guillotine Control",
+    "Standing Position",
+    "Closed Guard",
+    "Half Guard",
+    "Turtle",
+    "Clinch"
+  ],
+  "related_submissions": [
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Parent technique that the high elbow variation improves upon with superior carotid targeting"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Alternative grip variation using opponent's trapped arm for additional control"
+    },
+    {
+      "name": "Ten Finger Guillotine",
+      "relationship": "Related guillotine variation using ten-finger grip for different pressure angle"
+    },
+    {
+      "name": "Chin Strap Guillotine from Front Headlock",
+      "relationship": "Alternative grip variation targeting chin control for choke setup"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Transition option when opponent turns into the high elbow guillotine defense"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Alternative front headlock choke with similar entries and setups"
+    },
+    {
+      "name": "Japanese Necktie",
+      "relationship": "Related front headlock submission with cranking finish mechanics"
+    },
+    {
+      "name": "Peruvian Necktie",
+      "relationship": "Front headlock submission with different finishing angle using leg pressure"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Alternative head-and-arm choke accessible from similar control positions"
+    },
+    {
+      "name": "Von Flue Choke from Side Control",
+      "relationship": "Counter-submission exploited by defenders who pass guard while opponent holds guillotine grip"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Guillotine Setup",
+      "relationship": "Primary entry transition - establishes the front headlock control needed for high elbow guillotine"
+    },
+    {
+      "name": "Front Headlock",
+      "relationship": "Parent control position - high elbow guillotine is one option within the broader front headlock attack system"
+    },
+    {
+      "name": "Guillotine Defense",
+      "relationship": "Defensive counter - understanding common defenses improves your ability to maintain the submission"
+    },
+    {
+      "name": "Guillotine Counter",
+      "relationship": "Defensive study - knowing how opponents counter helps you prevent escapes"
+    },
+    {
+      "name": "Front Headlock to Guillotine",
+      "relationship": "Direct transition - moving from control position to submission attempt"
+    },
+    {
+      "name": "Snap Down to Front Headlock",
+      "relationship": "Setup sequence - creating the initial front headlock control from standing"
+    },
+    {
+      "name": "Guard Pull",
+      "relationship": "Finishing position entry - common method of securing submission from standing"
+    },
+    {
+      "name": "Darce Control",
+      "relationship": "Alternative attack - transition option when opponent defends high elbow by turning in"
+    },
+    {
+      "name": "Anaconda Control",
+      "relationship": "Alternative attack - related front headlock submission with similar entries"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Finishing position - common guard configuration for completing the high elbow guillotine"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Entry position - attacking turtle with high elbow variation when darce/anaconda unavailable"
+    }
+  ],
+  "clips": [
+    {
+      "id": "NUnTxPvjCa0",
+      "title": "The Marcelotine Choke",
+      "by": "Marcelo Garcia",
+      "vertical": false,
+      "channel": "stuartcooperfilms",
+      "duration": 73,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "IvSVZuezQGo",
+      "title": "Double Elbow to High Elbow Guillotine",
+      "by": "Marcelo Garcia",
+      "vertical": false,
+      "channel": "BJJ Fanatics",
+      "duration": 171,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "9U5nyBImGj4",
+      "title": "High Elbow Guillotine (Marcelotine)",
+      "by": "Wrecking Crew BJJ",
+      "vertical": false,
+      "channel": "Wrecking Crew BJJ",
+      "duration": 45,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "HPAWgC8qxFY",
+      "title": "Marcelotine High Elbow Guillotine",
+      "by": "Miguel Garcia",
+      "vertical": false,
+      "channel": "Miguel Garcia",
+      "duration": 47,
+      "verified": "2026-07-14"
+    }
+  ]
+}

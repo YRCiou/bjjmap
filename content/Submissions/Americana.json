@@ -1,0 +1,350 @@
+{
+  "name": "Americana",
+  "description": "Master the Americana shoulder lock from mount and side control. Complete safety protocols, systematic setup, and controlled execution. Beginner 45%, Intermediate 60%, Advanced 75%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "americana",
+    "shoulder-lock",
+    "joint-lock",
+    "keylock",
+    "mount",
+    "side-control",
+    "hub",
+    "finishing-guide"
+  ],
+  "disambiguations": [
+    {
+      "name": "Kimura",
+      "reason": "the Kimura rotates the shoulder backward (opposite figure-four direction)"
+    }
+  ],
+  "aliases": [
+    "Ude Garami",
+    "Key Lock",
+    "Keylock",
+    "V-Lock",
+    "Figure-Four Armlock"
+  ],
+  "is_family": true,
+  "submission_category": "Joint Lock",
+  "submission_type": "Shoulder Lock",
+  "target_area": "Shoulder joint (specifically glenohumeral joint and rotator cuff)",
+  "starting_position": "Mount",
+  "from_position": "Mount/Top",
+  "success_rate": {
+    "gi": 68,
+    "nogi": 68
+  },
+  "variant_uniqueness": "Fundamental shoulder lock with mechanical simplicity from dominant positions",
+  "summary": "The Americana is a figure-four shoulder lock — also called the keylock or ude garami — that pins the opponent's bent arm at 90 degrees and externally rotates the shoulder past its range, most often finished from mount or side control.",
+  "overview": "The Americana, also known as the keylock or ude garami, is a fundamental shoulder lock that attacks the glenohumeral joint through external rotation and hyperextension. This submission is one of the first joint locks taught to beginners due to its mechanical simplicity and high-percentage nature from dominant positions like mount and side control. The Americana works by isolating the opponent's arm at a 90-degree angle and applying rotational pressure that forces the shoulder joint beyond its natural range of motion. The technique's effectiveness stems from leverage advantage rather than strength, making it accessible to practitioners of all sizes when executed with proper mechanics.\n\nHistorically, the Americana has been a staple of Brazilian Jiu-Jitsu competition and self-defense applications, particularly effective in gi and no-gi contexts. The submission creates a powerful control position before the finish, allowing the attacker to maintain dominant position even if the submission attempt fails. This dual-purpose nature makes it invaluable for positional advancement and securing finishes. The Americana also serves as an excellent entry point for understanding shoulder mechanics, which translates to more advanced submissions like the Kimura and omoplata.\n\nFrom a strategic perspective, the Americana exemplifies positional control before submission. Practitioners learn to isolate the arm, control the wrist, and apply measured pressure while maintaining base and preventing escapes. The submission teaches essential concepts of leverage, angle creation, and systematic pressure application that form the foundation for more complex attacking sequences. Understanding the Americana deeply enhances overall submission awareness and defensive recognition.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Rotator cuff tear (supraspinatus, infraspinatus, teres minor)",
+        "severity": "High",
+        "recovery_time": "3-6 months with physical therapy, possible surgical intervention"
+      },
+      {
+        "injury": "Shoulder capsule damage and labral tears",
+        "severity": "High",
+        "recovery_time": "4-8 months, often requires surgery"
+      },
+      {
+        "injury": "AC joint separation or damage",
+        "severity": "Medium",
+        "recovery_time": "6-12 weeks depending on grade"
+      },
+      {
+        "injury": "Glenohumeral joint dislocation",
+        "severity": "CRITICAL",
+        "recovery_time": "3-6 months, high risk of chronic instability"
+      },
+      {
+        "injury": "Biceps tendon strain or tear",
+        "severity": "Medium",
+        "recovery_time": "4-8 weeks for strain, 3-4 months for tear"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum from initial pressure to expected tap. In drilling, apply 10-20% pressure maximum.",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any verbal signal)",
+      "Physical hand tap on opponent or mat (minimum 2 taps)",
+      "Physical foot tap on mat or opponent",
+      "Any distress vocalization or unusual sound",
+      "Slapping mat with free hand repeatedly"
+    ],
+    "release_protocol": [
+      "Immediately stop all rotational pressure on the shoulder",
+      "Release the figure-four grip on the wrist",
+      "Carefully lower the arm back to neutral position (do not drop suddenly)",
+      "Release control of the elbow and allow opponent to move freely",
+      "Check with partner verbally to ensure they are okay",
+      "If partner indicates pain, encourage them to keep shoulder mobile and seek medical attention if pain persists"
+    ],
+    "training_restrictions": [
+      "Never spike, jerk, or apply sudden rotational force",
+      "Never use competition speed or full pressure in training",
+      "Always allow clear access to tap with free hand",
+      "Stop immediately at any sign of discomfort (do not wait for tap in drilling)",
+      "Never practice on partners with existing shoulder injuries without explicit permission and medical clearance",
+      "Avoid repeated submissions on the same shoulder in a single training session"
+    ]
+  },
+  "from_positions": [
+    "Mount",
+    "Side Control",
+    "Knee on Belly",
+    "North-South",
+    "Kesa Gatame",
+    "Kuzure Kesa-Gatame",
+    "Modified Scarf Hold",
+    "High Mount",
+    "S Mount",
+    "Modified Mount"
+  ],
+  "related_submissions": [
+    {
+      "name": "Kimura",
+      "relationship": "Sister shoulder lock attacking same joint with reverse rotation; practitioners flow between both based on opponent arm positioning"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Complementary choke from same positions; available when opponent brings arm across body defending Americana"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Complementary mount attack; available when opponent tucks elbows defending arm isolation for Americana"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative arm attack; transition target when opponent straightens arm to defend Americana rotation"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Complementary gi attack from mount that forces hands to neck defense, exposing arms for Americana"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Advanced compression lock targeting same limb when opponent defends traditional shoulder lock"
+    },
+    {
+      "name": "Gift Wrap Armbar from Gift Wrap",
+      "relationship": "Arm isolation technique creating Americana setup opportunities from gift wrap control position"
+    },
+    {
+      "name": "Arm Crush",
+      "relationship": "Alternative joint attack from side control targeting similar near-arm positioning"
+    },
+    {
+      "name": "Baseball Bat Choke",
+      "relationship": "Complementary gi choke from knee on belly that chains with Americana threats in attack sequences"
+    },
+    {
+      "name": "Armbar Finish",
+      "relationship": "Primary chain submission when opponent straightens arm defending Americana rotation"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Mount",
+      "relationship": "Primary attacking position - provides excellent base and control for Americana execution with chest pressure and weight distribution advantages"
+    },
+    {
+      "name": "Side Control",
+      "relationship": "Alternative attacking position - allows Americana on near arm with hip pressure replacing chest pressure for elbow pin"
+    },
+    {
+      "name": "North-South",
+      "relationship": "Transitional position - enables Americana on far arm when opponent turns to defend side control, provides excellent control for shoulder lock mechanics"
+    },
+    {
+      "name": "Knee on Belly",
+      "relationship": "Entry position - opponent's defensive arm extensions create immediate Americana opportunities during transition to side control"
+    },
+    {
+      "name": "Kimura",
+      "relationship": "Sister submission - attacks same joint (shoulder) with reverse rotation; practitioners often flow between Americana and Kimura based on opponent's defensive hand positioning"
+    },
+    {
+      "name": "High Mount",
+      "relationship": "Advanced mount variation providing superior angle for Americana when opponent begins defending by turning or bridging from standard mount"
+    },
+    {
+      "name": "Ezekiel Choke",
+      "relationship": "Complementary choke from mount - when opponent tucks elbows to defend Americana, Ezekiel choke becomes available without needing arm isolation"
+    },
+    {
+      "name": "Far Side Armbar",
+      "relationship": "Alternative arm attack - when opponent straightens arm to defend Americana, transition to armbar mechanics targeting the extended elbow joint"
+    },
+    {
+      "name": "Gift Wrap",
+      "relationship": "Control position for entry - gift wrap isolates the arm and creates perfect Americana setup from mount or back control variations"
+    },
+    {
+      "name": "S Mount",
+      "relationship": "Advanced position - provides superior angle for Americana and armbar threats when opponent begins to defend from standard mount"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Complementary choke from same positions - when opponent defends Americana by pulling arm across their body, arm triangle opportunity opens"
+    },
+    {
+      "name": "Cross Collar Choke",
+      "relationship": "Complementary attack from mount - forces opponent to bring hands to neck defense, exposing arms for Americana isolation"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Americana from Side Control",
+      "description": "From side control, isolate the near arm by swimming under the tricep and establishing the figure-four grip. Use your chest to pin their elbow to their own ribcage rather than the mat. Your hips should be heavy and your weight distributed to prevent their bridge. The rotation angle is slightly different from mount - you'll rotate their hand toward their own face rather than toward the mat near their head. This variation is particularly effective when transitioning from north-south or when opponent is defending mount escapes.",
+      "when_to_use": "When you have established side control with good chest pressure and the opponent's near arm is extended or defending. Particularly effective against opponents who use frames, as you can attack the framing arm directly."
+    },
+    {
+      "variation_name": "Americana from Knee on Belly",
+      "description": "From knee on belly position, drop your knee off the belly and transition weight to side control while simultaneously grabbing the near wrist. The Americana setup from here is identical to side control, but the initial knee on belly position often causes the opponent to extend their arms in defense, creating the perfect entry. This variation is fast and catches opponents off guard during the transition. Maintain connection with your knee on their hip or thigh to prevent them from turning into you.",
+      "when_to_use": "When opponent extends their arm to push against your knee on belly or to prevent you from advancing to mount. The transition timing is crucial - attack the Americana as you shift weight, not after you've settled into static side control."
+    },
+    {
+      "variation_name": "Americana from North-South",
+      "description": "From north-south position, isolate the far arm by reaching across their body and establishing wrist control. Your chest pins their head and upper body, while your arm threads under their elbow. The figure-four grip is established similarly, but you'll need to adjust your body angle slightly toward their legs to create the proper rotation angle. This variation is excellent when opponent is defending side control by turning into you, as north-south neutralizes their turning defense.",
+      "when_to_use": "When transitioning between side controls or when opponent turns to their side to defend. The north-south position provides excellent control and prevents most escapes while setting up the Americana on the far arm."
+    },
+    {
+      "variation_name": "Modified Americana from Scarf Hold (Kesa Gatame)",
+      "description": "From scarf hold position, control the near arm by trapping it between your arm and body. Instead of the traditional figure-four, you may use a straight armlock grip on their wrist while controlling their elbow with your hip pressure. Apply rotation by lifting their wrist while keeping elbow pinned. This variation is more common in judo and submission wrestling but extremely effective in no-gi contexts. The control is tighter but requires precise angle management.",
+      "when_to_use": "When you've secured scarf hold and the opponent's near arm is trapped. Particularly effective in no-gi where traditional grips are harder to maintain. Also useful when opponent is defending traditional Americana grips by keeping their arm close to their body."
+    },
+    {
+      "variation_name": "Palm-to-Palm Grip Americana",
+      "description": "Both hands grip opponent's wrist or hand in palm-to-palm configuration without threading through. Allows faster transitions and adaptation to defensive grips. Use rotational wrist control to overcome defensive holding. This variation trades some mechanical advantage for speed and flexibility in grip transitions.",
+      "when_to_use": "When opponent is grip fighting or you need to transition quickly between submission attempts. Especially effective when opponent grabs their own gi or belt defensively and you need to break their grip while maintaining wrist control."
+    },
+    {
+      "variation_name": "Reverse Americana",
+      "description": "If opponent successfully defends the traditional Americana by turning their hand away from their head, immediately switch to a reverse grip and rotate their arm in the opposite direction toward their back. This variation demonstrates the interconnection between shoulder locks and the importance of flowing between submissions. The grip transition must be smooth to maintain control throughout the switch.",
+      "when_to_use": "When opponent actively defends the Americana rotation by turning their hand away. Rather than fighting their defensive rotation, use their movement to enter the reverse direction. Also effective from positions like north-south where arm naturally extends."
+    },
+    {
+      "variation_name": "Standing Americana from Turtle",
+      "description": "Control opponent's far arm from turtle position, lift them partially up, and apply Americana mechanics while standing. Combines submission threat with back take opportunity. Requires strong grip maintenance and body awareness throughout the standing transition.",
+      "when_to_use": "When opponent turtles defensively and extends arm to post. High-level technique that creates serious dilemma between defending submission and preventing back take."
+    },
+    {
+      "variation_name": "Rolling Americana",
+      "description": "Maintain Americana control while rolling with opponent's escape attempt, finishing the submission during or after the roll. Advanced technique requiring strong grip and body awareness. The key is following the opponent's momentum rather than resisting it.",
+      "when_to_use": "When opponent bridges and attempts to roll out of standard Americana. Rather than resisting their roll, follow and maintain control throughout, finishing in new position."
+    },
+    {
+      "variation_name": "3-4 Mount Americana",
+      "description": "Americana variation from technical mount (3-4 mount) position where one leg is threaded through opponent's guard. Uses unique angle and additional control from leg position. The threaded leg prevents many standard escapes while isolating the arm.",
+      "when_to_use": "Natural opportunity when opponent turtles from mount and you secure technical mount. The leg position prevents many escapes while isolating the arm for the shoulder lock."
+    }
+  ],
+  "variations": [
+    {
+      "name": "from 3-4 Mount",
+      "slug": "from-3-4-mount"
+    },
+    {
+      "name": "from High Mount",
+      "slug": "from-high-mount"
+    },
+    {
+      "name": "from Kesa Gatame",
+      "slug": "from-kesa-gatame"
+    },
+    {
+      "name": "from Kimura Trap",
+      "slug": "from-kimura-trap"
+    },
+    {
+      "name": "from Kuzure Kesa-Gatame",
+      "slug": "from-kuzure-kesa-gatame"
+    },
+    {
+      "name": "from Modified Mount",
+      "slug": "from-modified-mount"
+    },
+    {
+      "name": "from Modified Scarf Hold",
+      "slug": "from-modified-scarf-hold"
+    },
+    {
+      "name": "from Mount",
+      "slug": "from-mount"
+    },
+    {
+      "name": "from North-South",
+      "slug": "from-north-south"
+    },
+    {
+      "name": "from Reverse Kesa-Gatame",
+      "slug": "from-reverse-kesa-gatame"
+    },
+    {
+      "name": "from Reverse Scarf Hold",
+      "slug": "from-reverse-scarf-hold"
+    },
+    {
+      "name": "from S Mount",
+      "slug": "from-s-mount"
+    },
+    {
+      "name": "from Scarf Hold Position",
+      "slug": "from-scarf-hold-position"
+    },
+    {
+      "name": "from Shoulder of Justice",
+      "slug": "from-shoulder-of-justice"
+    },
+    {
+      "name": "from Side Control",
+      "slug": "from-side-control"
+    },
+    {
+      "name": "from Technical Mount",
+      "slug": "from-technical-mount"
+    }
+  ],
+  "clips": [
+    {
+      "id": "CeNHFF1gcNE",
+      "title": "Americana Armlock",
+      "by": "Dr. Deng",
+      "vertical": false,
+      "channel": "Dr. Deng",
+      "duration": 17,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "uPazS4MJiDc",
+      "title": "How To Perform An Americana From Top Mount",
+      "by": "Evolve MMA",
+      "vertical": false,
+      "channel": "Evolve Mixed Martial Arts",
+      "duration": 71,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "Z44VF9pmJBg",
+      "title": "Americana from Mount",
+      "by": "Chelsea Ozer",
+      "vertical": false,
+      "channel": "Alain Pozo",
+      "duration": 52,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "mk4jR6Anm8g",
+      "title": "Finishing the Americana",
+      "by": "The Muscular Octopus",
+      "vertical": false,
+      "channel": "The Muscular Octopus",
+      "duration": 71,
+      "verified": "2026-07-14"
+    }
+  ]
+}

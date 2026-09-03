@@ -1,0 +1,281 @@
+{
+  "name": "Calf Slicer",
+  "description": "Master the Calf Slicer in BJJ. Complete guide with safety protocols, setup from 50-50 and Truck, execution steps, and defense strategies for this compression lock.",
+  "tags": [
+    "bjj",
+    "submission",
+    "leg-lock",
+    "compression",
+    "calf-slicer",
+    "advanced-technique",
+    "finishing-guide"
+  ],
+  "aliases": [
+    "Calf Crusher",
+    "Calf Cutter"
+  ],
+  "is_family": true,
+  "submission_category": "Compression",
+  "submission_type": "Leg Compression",
+  "target_area": "Calf muscle and Achilles tendon",
+  "starting_position": "50-50 Guard",
+  "from_position": "50-50 Guard/Top",
+  "success_rate": {
+    "gi": 50,
+    "nogi": 50
+  },
+  "variant_uniqueness": "Shin wedge compression targeting calf muscle between bony surfaces",
+  "summary": "The Calf Slicer is a leg-compression submission that traps the attacker's shin behind the opponent's knee and folds the lower leg over it, crushing the calf and Achilles against the bony wedge until they tap.",
+  "overview": "The Calf Slicer is a compression-based leg submission that targets the calf muscle and Achilles tendon by creating a wedge with your shin bone against the opponent's lower leg. This submission applies tremendous pressure to the muscle belly and can cause severe muscle damage if applied too quickly or aggressively. The technique is most commonly executed from the Truck position, 50-50 Guard, and various scrambles where leg entanglement creates the opportunity. Unlike joint locks that target ligaments and tendons, the Calf Slicer creates a crushing pressure that can cause muscle tears, nerve damage, and extensive bruising.\n\nThe submission is particularly dangerous because the pain can be delayed, meaning injury may occur before the opponent recognizes the need to tap. In competition, this technique is generally restricted to brown and black belt levels under IBJJF rules due to its injury potential. The mechanical principle relies on using your shin as a fulcrum while pulling the opponent's foot and applying pressure with your hips, creating a scissors-like compression that becomes unbearable rapidly. The Calf Slicer integrates seamlessly into leg lock chains from 50-50 and Truck positions, serving as an alternative when opponents defend heel hooks and kneebars effectively.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Calf muscle tear or rupture",
+        "severity": "High",
+        "recovery_time": "6-12 weeks minimum, potential permanent damage"
+      },
+      {
+        "injury": "Achilles tendon strain or rupture",
+        "severity": "CRITICAL",
+        "recovery_time": "6-12 months, often requires surgery"
+      },
+      {
+        "injury": "Nerve damage to peroneal or tibial nerves",
+        "severity": "High",
+        "recovery_time": "Weeks to months, potential permanent numbness"
+      },
+      {
+        "injury": "Deep tissue bruising and compartment syndrome",
+        "severity": "Medium",
+        "recovery_time": "2-4 weeks, rare cases require emergency surgery"
+      }
+    ],
+    "application_speed": "EXTREMELY SLOW - 5-7 seconds minimum in training, never spike or jerk",
+    "tap_signals": [
+      "Verbal tap (encouraged due to leg entanglement)",
+      "Physical hand tap on partner or mat",
+      "Physical foot tap if hands trapped",
+      "Any distress vocalization or signal",
+      "Slapping mat with free hand multiple times"
+    ],
+    "release_protocol": [
+      "Immediately release foot grip upon tap signal",
+      "Remove shin pressure from calf slowly and controlled",
+      "Unwrap legs carefully without jerking movements",
+      "Allow partner to extend leg naturally before disengaging",
+      "Check partner's mobility and sensation before continuing training"
+    ],
+    "training_restrictions": [
+      "Never apply at competition speed in training",
+      "Never spike or jerk the compression",
+      "Never hold after tap to finish the position",
+      "Always allow immediate tap access with both hands",
+      "Prohibited for colored belts below brown belt in most organizations",
+      "Never practice on partners with previous calf injuries without explicit consent"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from 50-50 Guard",
+      "slug": "from-50-50-guard"
+    },
+    {
+      "name": "from Backside 50-50",
+      "slug": "from-backside-50-50"
+    },
+    {
+      "name": "from Carni",
+      "slug": "from-carni"
+    },
+    {
+      "name": "from Honey Hole",
+      "slug": "from-honey-hole"
+    },
+    {
+      "name": "from Inside Sankaku",
+      "slug": "from-inside-sankaku"
+    },
+    {
+      "name": "from Rodeo Ride",
+      "slug": "from-rodeo-ride"
+    },
+    {
+      "name": "from Russian Cowboy",
+      "slug": "from-russian-cowboy"
+    },
+    {
+      "name": "from Saddle",
+      "slug": "from-saddle"
+    },
+    {
+      "name": "from Truck",
+      "slug": "from-truck"
+    },
+    {
+      "name": "from Twister Control",
+      "slug": "from-twister-control"
+    },
+    {
+      "name": "from Twister Side Control",
+      "slug": "from-twister-side-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "Calf Slicer from Truck",
+      "description": "The most common setup, executed from the Truck position where opponent is on their side and you control their back. Your legs wrap around their bottom leg, with your top shin crossing their calf while you control their upper body. This version allows excellent control and is the highest percentage application.",
+      "when_to_use": "When you've secured the Truck position and opponent is defending the Twister or back take, this becomes a powerful alternative finish"
+    },
+    {
+      "variation_name": "Calf Slicer from 50-50 Guard",
+      "description": "From the 50-50 leg entanglement, you can transition to a Calf Slicer by adjusting your shin across their calf instead of attacking the heel. This variation requires releasing heel control temporarily but can catch opponents who are focused solely on defending heel hooks. Often used as part of a leg lock chain.",
+      "when_to_use": "When opponent successfully defends your heel hook attempts in 50-50 by hiding their heel, the calf becomes exposed"
+    },
+    {
+      "variation_name": "Inverted Calf Slicer",
+      "description": "Executed while you're inverted or belly-down, typically from scrambles or rolling Kneebar positions. Your shin crosses their calf from an inverted angle, and you extend by arching your back rather than extending hips. This is a more opportunistic variation that appears in dynamic exchanges.",
+      "when_to_use": "During scrambles, failed Kneebar attempts, or when transitioning between leg entanglements in complex sequences"
+    },
+    {
+      "variation_name": "Calf Slicer from Deep Half Guard",
+      "description": "When attacking from Deep Half Guard and your opponent defends by crossing their far leg over, you can trap that leg and apply a Calf Slicer by inserting your shin and extending. This is a counter-attack to a common Deep Half defense.",
+      "when_to_use": "When opponent crosses their far leg to prevent your Deep Half sweeps, their leg becomes vulnerable to compression"
+    },
+    {
+      "variation_name": "Lockdown to Calf Slicer Transition",
+      "description": "From lockdown in half guard, release lockdown and thread your outside leg behind opponent's trapped leg's knee. Use your inside leg to control their far leg while applying compression. Part of the 10th Planet half guard system.",
+      "when_to_use": "When opponent successfully defends electric chair by keeping weight distributed. Calf slicer becomes available as you release lockdown pressure and transition leg position."
+    }
+  ],
+  "from_positions": [
+    "50-50 Guard",
+    "Truck",
+    "Deep Half Guard",
+    "Honey Hole",
+    "Inside Ashi-Garami",
+    "Lockdown",
+    "Leg Entanglement"
+  ],
+  "related_submissions": [
+    {
+      "name": "Electric Chair",
+      "relationship": "Related 10th Planet compression submission from similar leg entanglement positions"
+    },
+    {
+      "name": "Aoki Lock",
+      "relationship": "Alternative leg lock targeting ankle from similar ashi garami entanglements"
+    },
+    {
+      "name": "Heel Hook",
+      "relationship": "Primary alternative submission in leg entanglement sequences and chains"
+    },
+    {
+      "name": "Bicep Slicer",
+      "relationship": "Compression submission using same mechanical wedge principle on upper body"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Compression-based submission from Truck position targeting groin and inner thigh"
+    },
+    {
+      "name": "Achilles Lock",
+      "relationship": "Foundational straight ankle lock from similar leg entanglement positions"
+    },
+    {
+      "name": "Flying Kneebar",
+      "relationship": "Dynamic leg lock entry that chains with calf slicer when kneebar is defended"
+    },
+    {
+      "name": "Estima Lock",
+      "relationship": "Foot compression lock sharing similar delayed pain onset characteristics"
+    },
+    {
+      "name": "Heel Hook from Backside 50-50",
+      "relationship": "High-percentage heel hook variant from position adjacent to calf slicer entries"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "50-50 Guard",
+      "relationship": "Primary attacking position for lower body Calf Slicer entries"
+    },
+    {
+      "name": "Truck",
+      "relationship": "Highest percentage attacking position for Calf Slicer finish"
+    },
+    {
+      "name": "Honey Hole",
+      "relationship": "Alternative leg entanglement position with Calf Slicer options"
+    },
+    {
+      "name": "Heel Hook",
+      "relationship": "Primary alternative submission in leg entanglement sequences"
+    },
+    {
+      "name": "Kneebar Control",
+      "relationship": "Joint lock alternative when Calf Slicer position is available"
+    },
+    {
+      "name": "Twister Control",
+      "relationship": "Primary submission control from Truck when opponent defends Calf Slicer"
+    },
+    {
+      "name": "Banana Split",
+      "relationship": "Similar compression-based submission targeting different muscle groups"
+    },
+    {
+      "name": "Leg Entanglement",
+      "relationship": "Fundamental principle underlying all Calf Slicer positions"
+    },
+    {
+      "name": "Inside Ashi-Garami",
+      "relationship": "Leg entanglement position allowing transitions to Calf Slicer"
+    },
+    {
+      "name": "Back Control",
+      "relationship": "Position accessible from Truck when Calf Slicer is defended"
+    },
+    {
+      "name": "Deep Half Guard",
+      "relationship": "Guard position offering opportunistic Calf Slicer entries"
+    }
+  ],
+  "clips": [
+    {
+      "id": "UsEvrDzgbqE",
+      "title": "50/50 to Calf Slicer",
+      "by": "CaMiCho327",
+      "vertical": false,
+      "channel": "CaMiCho327",
+      "duration": 13,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "d4KgnwWTkuk",
+      "title": "5050 Calf Slicer",
+      "by": "The Jiu-Jitsu Foundry",
+      "vertical": false,
+      "channel": "The Jiu-Jitsu Foundry",
+      "duration": 35,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "buBg-yzLTrY",
+      "title": "Calf Slicer Positions: RDLR, 50/50, Z Guard",
+      "by": "Grappling with Insanity",
+      "vertical": false,
+      "channel": "Grappling with Insanity",
+      "duration": 54,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "4hjnzSE-VgY",
+      "title": "Ham Sandwich to Honeyhole Calf Slicer",
+      "by": "Christopher Hendrick",
+      "vertical": false,
+      "channel": "Christopher Hendrick",
+      "duration": 113,
+      "verified": "2026-07-14"
+    }
+  ]
+}

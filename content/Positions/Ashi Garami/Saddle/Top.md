@@ -1,0 +1,458 @@
+
+
+
+
+---
+title: "Saddle Top | BJJ Position Guide | BJJ Map"
+description: "Master saddle position mechanics with systematic entries, control optimization, and finishing sequences for inside heel hooks, outside heel hooks, and auxiliary submissions."
+---
+
+
+<body data-content-type="positions">
+
+<!-- Schema Markup - HowTo for Attacks -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Attack from Saddle Top",
+  "description": "Step-by-step guide to attacking and submitting from Saddle position in BJJ.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Execute Outside Heel Hook from Saddle",
+      "text": "From this position, attempt Outside Heel Hook from Saddle. This technique is attempted in 9% of exchanges from this position.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Toe Hold from Saddle",
+      "text": "From this position, attempt Toe Hold from Saddle. This technique is attempted in 9% of exchanges from this position.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Kneebar from Saddle",
+      "text": "From this position, attempt Kneebar from Saddle. This technique is attempted in 12% of exchanges from this position.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Back Take from Ashi",
+      "text": "From this position, attempt Back Take from Ashi. This technique is attempted in 5% of exchanges from this position.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Cross Ashi Transition",
+      "text": "From this position, attempt Cross Ashi Transition. This technique is attempted in 6% of exchanges from this position.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute Backside 50-50 Entry from Ashi",
+      "text": "From this position, attempt Backside 50-50 Entry from Ashi. This technique is attempted in 8% of exchanges from this position.",
+      "position": 6
+    }
+  ],
+  "totalTime": "PT2M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Common Mistakes -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if you attempting to finish heel hook before establishing optimal control position?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent escapes by creating space or rotating away during your attack The correct approach is: Follow systematic hierarchy: perpendicular alignment, hip pressure, inside position, grip establishment, clearing frames, then finish"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you losing inside position by allowing opponent to turn into you?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entire position collapses as opponent achieves bilateral leg entanglement or guard recovery The correct approach is: Maintain hip pressure and use your top leg to block opponent's hip rotation toward you"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you gripping the heel immediately without establishing structural control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Telegraphs your intention and allows opponent to defend heel preemptively The correct approach is: Establish positional grips first (ankle, pants, belt) then transition to heel grip only when ready to finish"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you allowing space to develop between your body and opponent's trapped leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent uses space to create frames, rotate their body, or extract their leg The correct approach is: Maintain constant connection with chest-to-thigh pressure while keeping your shoulder heavy on their leg"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if you using excessive force on submission attempts before control is optimized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opponent escapes during your explosive effort or suffers injury from uncontrolled submission The correct approach is: Apply submissions slowly and progressively, maintaining position throughout the finishing sequence"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Saddle Top",
+  "description": "Master saddle position mechanics with systematic entries, control optimization, and finishing sequences for inside heel hooks, outside heel hooks, and auxiliary submissions.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Positions",
+      "item": "https://bjjmap.pages.dev/Positions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Saddle Top",
+      "item": "https://bjjmap.pages.dev/Positions/Saddle-Top"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Saddle (Top) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Easy entry to the saddle",
+      "description": "Saddle (Top) film study: Easy entry to the saddle, taught by Ilya.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HniaoFWTsmI/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/HniaoFWTsmI",
+      "url": "https://www.youtube.com/watch?v=HniaoFWTsmI",
+      "creator": { "@type": "Person", "name": "Ilya" },
+      "duration": "PT53S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "X guard to heel hook",
+      "description": "Saddle (Top) film study: X guard to heel hook, taught by Craig Jones.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lr7rlj7WV-E/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/lr7rlj7WV-E",
+      "url": "https://www.youtube.com/watch?v=lr7rlj7WV-E",
+      "creator": { "@type": "Person", "name": "Craig Jones" },
+      "duration": "PT94S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Saddle transition from top half guard",
+      "description": "Saddle (Top) film study: Saddle transition from top half guard, taught by Thunderdome BJJ.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P-rkPE4bjdE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/P-rkPE4bjdE",
+      "url": "https://www.youtube.com/watch?v=P-rkPE4bjdE",
+      "creator": { "@type": "Person", "name": "Thunderdome BJJ" },
+      "duration": "PT31S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+The Saddle from top represents the highest-level leg entanglement position in modern Brazilian Jiu-Jitsu, offering unprecedented control and submission opportunities. Unlike traditional top positions that focus on weight distribution and pressure, the Saddle operates through structural control of the opponent's leg using your entire body as a lever system. This creates a mechanical advantage so significant that size and strength differences become largely irrelevant when the position is properly established.
+
+The offensive potential of top Saddle stems from its unique characteristic of creating multiple submission pathways that defend each other. When you attack an inside heel hook and the opponent defends by hiding their heel, they expose their ankle to straight footlock attacks. When they defend the footlock by pulling their toes back, they re-expose the heel. This creates what's called a 'submission dilemma'—every defensive action opens a new attacking opportunity. This self-defending submission system makes the Saddle dramatically more effective than isolated leg attacks from positions like Outside Ashi-Garami or Straight Ankle Lock Control.
+
+Modern Saddle methodology emphasizes systematic entry pathways rather than opportunistic scrambles. The highest percentage entries come from Outside Ashi-Garami through what's called the 'back step,' from Inside Ashi-Garami through hip switches, from 50-50 Guard through controlled elevations, and from Single Leg X-Guard through specific angle changes. Each entry pathway requires precise technical execution, as attempting to force the Saddle against a defensive opponent often results in losing the leg entanglement entirely. Understanding these systematic progressions separates competent leg lockers from elite specialists.
+
+The position's effectiveness has evolved dramatically as defensive knowledge has increased at high levels of competition. Early Saddle techniques focused almost exclusively on immediate submission attempts, which proved insufficient against technically sophisticated defenders. Contemporary approaches emphasize what instructors call 'the hierarchy of controls'—achieving optimal perpendicular positioning, establishing specific grips in the correct sequence, maintaining hip pressure, and clearing defensive frames before attempting finishes. This methodical progression increases submission success rates while reducing the opponent's ability to escape or counter during the attacking sequence.
+
+From a strategic perspective, the Saddle functions differently depending on ruleset and competition format. In submission-only and many no-gi competitions where heel hooks are legal, the Saddle becomes a primary attacking platform worthy of significant positional investment. In IBJJF gi competitions where most leg locks are restricted or prohibited, the Saddle has limited utility and practitioners must understand alternative attacking systems. This ruleset awareness is non-negotiable, as training Saddle mechanics without understanding legal applications creates dangerous situations in both training and competition environments.
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Saddle (Top) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=HniaoFWTsmI)
+
+<p class="clip-credit"><strong>Easy entry to the saddle</strong> — taught by Ilya · 0:53 · <a href="https://www.youtube.com/watch?v=HniaoFWTsmI" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=lr7rlj7WV-E)
+
+<p class="clip-credit"><strong>X guard to heel hook</strong> — taught by Craig Jones · 1:34 · <a href="https://www.youtube.com/watch?v=lr7rlj7WV-E" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=P-rkPE4bjdE)
+
+<p class="clip-credit"><strong>Saddle transition from top half guard</strong> — taught by Thunderdome BJJ · 0:31 · <a href="https://www.youtube.com/watch?v=P-rkPE4bjdE" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="state-invariants" class="content-section">
+
+## Position Definition
+
+<p class="section-subtitle">What is Saddle (Top)?</p>
+
+- You are positioned perpendicular to opponent's body with their leg entangled by your legs, creating structural control of their hip, knee, and ankle joints through figure-four or similar leg configuration
+- Your hips are pressuring into opponent's trapped leg while maintaining inside position between their legs, preventing them from facing you directly or turning away to relieve pressure on vulnerable joints
+- Opponent's heel is exposed and oriented toward your chest or armpit, enabling finishing mechanics for heel hooks while your grips control the foot and ankle to prevent defensive hiding or rotation
+
+
+</section>
+
+<section id="prerequisites" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before playing Saddle (Top)?</p>
+
+- You have achieved inside position between opponent's legs
+- You have established perpendicular alignment to opponent's body
+- You have controlled one of opponent's legs with your leg entanglement
+- You have cleared or prevented opponent's defensive frames
+
+
+</section>
+
+<section id="key-principles" class="content-section">
+
+## Key Offensive Principles
+
+<p class="section-subtitle">What are the key principles for attacking from Saddle?</p>
+
+- Perpendicular positioning creates maximum mechanical advantage on the leg
+- Hip pressure prevents opponent rotation and maintains positional dominance
+- Inside position is non-negotiable—losing it compromises entire control structure
+- Control before submission—establish optimal position before attempting finishes
+- Systematic entries have higher success rates than scramble-based opportunities
+- Opponent's defensive reactions should tighten your control, not create escape opportunities
+- Grip sequencing matters—establish structural grips before finishing grips
+
+
+</section>
+
+<section id="decision-tree" class="content-section">
+
+## Decision Making from This Position
+
+<p class="section-subtitle">What should you do from Saddle (Top)?</p>
+
+**You have achieved perpendicular positioning with inside control but opponent is framing on your hips:**
+- Execute **[[Clear frames systematically/Attacker|Clear frames systematically]]** → [[Positions/Ashi Garami/Saddle]] (Probability: 70%)
+- Execute **[[Transition to Inside Ashi-Garami/Attacker|Transition to Inside Ashi-Garami]]** → [[Positions/Ashi Garami/Inside Ashi-Garami]] (Probability: 30%)
+
+
+**Opponent's heel is fully exposed and you have established figure-four grip:**
+- Execute **[[Submissions/Heel Hook/Attacker|Heel Hook]]** → [[game-over]] (Probability: 80%)
+- Execute **[[Submissions/Outside Heel Hook/Attacker|Outside Heel Hook]]** → [[game-over]] (Probability: 20%)
+
+
+**Opponent is hiding heel by rotating knee inward:**
+- Execute **[[Transitions/Straight Ankle Lock Entry/Attacker|Straight Ankle Lock Entry]]** → [[game-over]] (Probability: 60%)
+- Execute **[[Submissions/Toe Hold/Attacker|Toe Hold]]** → [[game-over]] (Probability: 40%)
+
+
+**Opponent is attempting to turn into you to escape:**
+- Execute **[[Maintain hip pressure and ride the turn/Attacker|Maintain hip pressure and ride the turn]]** → [[Positions/Ashi Garami/Saddle]] (Probability: 55%)
+- Execute **[[Transitions/Back Take from Ashi/Attacker|Back Take from Ashi]]** → [[Positions/Back Control]] (Probability: 45%)
+
+
+**You have loose control with space between your bodies:**
+- Execute **[[Reestablish hip pressure and perpendicular alignment/Attacker|Reestablish hip pressure and perpendicular alignment]]** → [[Positions/Ashi Garami/Saddle]] (Probability: 50%)
+- Execute **[[Transitions/Cross Ashi Transition/Attacker|Cross Ashi Transition]]** → [[Positions/Ashi Garami/Cross Ashi-Garami]] (Probability: 35%)
+- Execute **[[Transitions/Counter-entangle to 50-50 Guard/Attacker|Counter-entangle to 50-50 Guard]]** → [[Positions/Ashi Garami/50-50 Guard]] (Probability: 15%)
+
+
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Offensive Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when attacking from Saddle?</p>
+
+### 1. Attempting to finish heel hook before establishing optimal control position
+
+- ❌ **Consequence**: Opponent escapes by creating space or rotating away during your attack
+- ✅ **Correction**: Follow systematic hierarchy: perpendicular alignment, hip pressure, inside position, grip establishment, clearing frames, then finish
+
+### 2. Losing inside position by allowing opponent to turn into you
+
+- ❌ **Consequence**: Entire position collapses as opponent achieves bilateral leg entanglement or guard recovery
+- ✅ **Correction**: Maintain hip pressure and use your top leg to block opponent's hip rotation toward you
+
+### 3. Gripping the heel immediately without establishing structural control
+
+- ❌ **Consequence**: Telegraphs your intention and allows opponent to defend heel preemptively
+- ✅ **Correction**: Establish positional grips first (ankle, pants, belt) then transition to heel grip only when ready to finish
+
+### 4. Allowing space to develop between your body and opponent's trapped leg
+
+- ❌ **Consequence**: Opponent uses space to create frames, rotate their body, or extract their leg
+- ✅ **Correction**: Maintain constant connection with chest-to-thigh pressure while keeping your shoulder heavy on their leg
+
+### 5. Using excessive force on submission attempts before control is optimized
+
+- ❌ **Consequence**: Opponent escapes during your explosive effort or suffers injury from uncontrolled submission
+- ✅ **Correction**: Apply submissions slowly and progressively, maintaining position throughout the finishing sequence
+
+
+
+</section>
+
+<section id="training-drills" class="content-section hide-minimal">
+
+## Training Drills for Attacks
+
+<p class="section-subtitle">How do you train Saddle attacks?</p>
+
+### Saddle Entry Progression Drill
+
+Start from Outside Ashi-Garami, Inside Ashi-Garami, 50-50, and Single Leg X. Practice systematic entries to Saddle with partner providing graduated resistance (none, light, moderate, full).
+
+**Duration**: 5 minutes
+
+
+### Control Hierarchy Drill
+
+Partner gives you loose Saddle position. Systematically establish: perpendicular alignment, hip pressure, inside position, structural grips, frame clearing. Reset between each control level.
+
+**Duration**: 4 minutes
+
+
+### Submission Chain Flow
+
+Start with optimal Saddle control. Partner defends heel then attack straight ankle lock. Partner defends ankle then reattack heel. Flow between submissions based on opponent's defensive reactions.
+
+**Duration**: 3 minutes
+
+
+### Position Retention Against Escapes
+
+Establish Saddle, partner executes specific escape sequences (hip clear, frame creation, leg extraction). Maintain position by adjusting grips, hip pressure, and alignment in real-time.
+
+**Duration**: 5 minutes
+
+
+
+
+</section>
+
+
+
+<section id="position-metrics" class="content-section">
+
+## Success Rates and Statistics
+
+| Metric | Rate |
+|--------|------|
+| Retention Rate | 78% |
+| Advancement Probability | 75% |
+| Submission Probability | 70% |
+
+**Average Time in Position**: 30-90 seconds from entry to finish or opponent escape
+
+
+</section>
+
+<section id="related-content" class="content-section">
+
+## Related Positions and Techniques
+
+- **[[Positions/Ashi Garami/Honey Hole]]** - Identical position with alternative naming convention
+- **[[Positions/Ashi Garami/Inside Ashi-Garami]]** - Common entry position and fallback when saddle is defended
+- **[[Positions/Ashi Garami/Outside Ashi-Garami]]** - Primary entry pathway via back step progression
+- **[[Positions/Ashi Garami/50-50 Guard]]** - Entry position with elevation and clearing mechanics
+- **[[Submissions/Inside Heel Hook]]** - Primary finishing submission from this position
+- **[[Submissions/Outside Heel Hook]]** - Alternative heel hook attack when inside is defended
+- **[[Submissions/Straight Ankle Lock]]** - Lower-risk finishing option when heel is hidden
+- **[[Positions/Leg Entanglement]]** - Conceptual framework for position hierarchy
+
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/Danaher-Leg-Lock-System" data-cta="related-system-card" data-system-slug="systems/danaher-leg-lock-system" data-system-name="Danaher Leg Lock System" data-member-count="30"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Danaher Leg Lock System</span><span class="system-card__unlocks-badge">Unlocks 30 techniques</span><span class="system-card__blurb">Elite control position offering highest percentage heel hook finishes</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Straight-Footlock-to-Kneebar-Chain" data-cta="related-system-card" data-system-slug="systems/straight-footlock-to-kneebar-chain" data-system-name="Straight Footlock to Kneebar Chain" data-member-count="28"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Straight Footlock to Kneebar Chain</span><span class="system-card__unlocks-badge">Unlocks 28 techniques</span><span class="system-card__blurb">Advanced position that expands chain with heel hook variations</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Submission Chain</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Garry-Tonon-Leg-Lock-to-Back-System" data-cta="related-system-card" data-system-slug="systems/garry-tonon-leg-lock-to-back-system" data-system-name="Garry Tonon Leg Lock to Back System" data-member-count="26"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Garry Tonon Leg Lock to Back System</span><span class="system-card__unlocks-badge">Unlocks 26 techniques</span><span class="system-card__blurb">Primary leg entanglement position within system with highest finishing rate</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Lachlan-Giles-Leg-Lock-Defense-Framework" data-cta="related-system-card" data-system-slug="systems/lachlan-giles-leg-lock-defense-framework" data-system-name="Lachlan Giles Leg Lock Defense Framework" data-member-count="26"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Lachlan Giles Leg Lock Defense Framework</span><span class="system-card__unlocks-badge">Unlocks 26 techniques</span><span class="system-card__blurb">Primary high-danger position requiring emergency defensive protocols</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Craig-Jones-Leg-Lock-System" data-cta="related-system-card" data-system-slug="systems/craig-jones-leg-lock-system" data-system-name="Craig Jones Leg Lock System" data-member-count="25"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Craig Jones Leg Lock System</span><span class="system-card__unlocks-badge">Unlocks 25 techniques</span><span class="system-card__blurb">Primary control platform for system&#x27;s finishing sequences and highest-percentage submission position</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/B-Team-Dilemma-System" data-cta="related-system-card" data-system-slug="systems/b-team-dilemma-system" data-system-name="B-Team Dilemma System" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">B-Team Dilemma System</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Primary finishing position within the dilemma system, offering multiple submission paths</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Attack System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/No-Gi-Competition-Approach" data-cta="related-system-card" data-system-slug="systems/no-gi-competition-approach" data-system-name="No-Gi Competition Approach" data-member-count="23"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">No-Gi Competition Approach</span><span class="system-card__unlocks-badge">Unlocks 23 techniques</span><span class="system-card__blurb">Elite finishing position for heel hook attacks</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>

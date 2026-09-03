@@ -1,0 +1,241 @@
+{
+  "name": "Ten Finger Guillotine",
+  "description": "Master the Ten Finger Guillotine in BJJ. Comprehensive guide covering setup, execution, and safety protocols. Success rates: Beginner 40%, Intermediate 55%, Advanced 70%.",
+  "tags": [
+    "bjj",
+    "submission",
+    "guillotine",
+    "choke",
+    "no-gi",
+    "front-headlock",
+    "standing",
+    "guard-pull"
+  ],
+  "is_family": true,
+  "submission_category": "Choke",
+  "submission_type": "Blood Choke",
+  "target_area": "Carotid arteries and trachea",
+  "starting_position": "Front Headlock",
+  "from_position": "Front Headlock/Top",
+  "success_rate": {
+    "gi": 62,
+    "nogi": 62
+  },
+  "variant_uniqueness": "Interlaced ten finger grip for maximum compression power",
+  "summary": "The Ten Finger Guillotine is a no-gi front-headlock choke in which both hands clasp with all ten fingers interlaced behind the opponent's neck, driving maximal carotid and tracheal compression through shoulder and lat engagement rather than arm strength.",
+  "overview": "The Ten Finger Guillotine is a fundamental front headlock choke that utilizes an interlocking grip with all ten fingers, creating tremendous squeezing power around the opponent's neck. Unlike the traditional guillotine which uses a gable or arm-in configuration, the ten finger variation employs both hands clasped together with fingers interlaced, allowing for maximum compression of the carotid arteries. This submission is particularly effective in no-gi grappling where hand-fighting and grip transitions happen rapidly. The choke can be applied from standing positions during scrambles, from guard pulls, or when defending takedown attempts. The ten finger grip provides exceptional control even against sweaty or slippery opponents, making it a reliable finishing option across all skill levels.\n\nThe submission works through a combination of blood restriction and airway compression, with proper technique emphasizing the former for safety and effectiveness. The finishing mechanics rely primarily on shoulder elevation and latissimus dorsi engagement rather than arm strength alone, making the choke sustainable even during extended exchanges. The versatility of this choke allows it to be integrated into multiple positional sequences, from front headlock control to closed guard variations, and it chains naturally with anaconda, darce, and other head-and-arm attacks when the primary finish is defended.",
+  "safety_considerations": {
+    "injury_risks": [
+      {
+        "injury": "Trachea damage from excessive crushing pressure",
+        "severity": "High",
+        "recovery_time": "2-4 weeks with severe cases requiring medical attention"
+      },
+      {
+        "injury": "Neck strain or cervical spine stress from jerking motions",
+        "severity": "Medium",
+        "recovery_time": "1-2 weeks"
+      },
+      {
+        "injury": "Loss of consciousness from carotid compression",
+        "severity": "High",
+        "recovery_time": "Immediate recovery but repeated incidents can cause long-term damage"
+      },
+      {
+        "injury": "Jaw or temporomandibular joint (TMJ) injury from improper chin positioning",
+        "severity": "Medium",
+        "recovery_time": "2-6 weeks"
+      }
+    ],
+    "application_speed": "SLOW and progressive - 3-5 seconds minimum to allow partner to recognize danger and tap",
+    "tap_signals": [
+      "Verbal tap (saying 'tap' or any distress sound)",
+      "Physical hand tap on partner's body or mat",
+      "Physical foot tap on mat or partner",
+      "Any unusual body stiffening or loss of resistance indicating unconsciousness"
+    ],
+    "release_protocol": [
+      "Immediately release the choking hand grip while maintaining head control",
+      "Lower opponent's head gently to prevent whiplash or neck strain",
+      "Create space by stepping back or opening guard to remove all pressure",
+      "Check partner's awareness and allow recovery time before continuing",
+      "If partner was unconscious, elevate legs and monitor breathing"
+    ],
+    "training_restrictions": [
+      "Never apply full pressure at competition speed in training - always give partner time to tap",
+      "Never jerk or spike the choke with explosive movements",
+      "Never continue pressure after partner taps or shows distress",
+      "Never practice on partners with neck injuries without medical clearance",
+      "Always ensure partner has access to tap with at least one hand free"
+    ]
+  },
+  "variations": [
+    {
+      "name": "from Front Headlock",
+      "slug": "from-front-headlock"
+    },
+    {
+      "name": "from Guillotine Control",
+      "slug": "from-guillotine-control"
+    }
+  ],
+  "variations_and_setups": [
+    {
+      "variation_name": "High Elbow Ten Finger Guillotine",
+      "description": "Position your choking elbow higher near their face while maintaining the ten finger grip. This variation creates a different angle of attack that's particularly effective against opponents who defend by tucking their chin, as it attacks from above rather than across the throat.",
+      "when_to_use": "Use when opponent has excellent chin defense and you cannot get your forearm across the throat in the traditional position. Also effective from standing positions where you have superior height advantage."
+    },
+    {
+      "variation_name": "Guard Pull Ten Finger Guillotine",
+      "description": "From standing front headlock position, jump to closed guard while maintaining the ten finger grip. As you land, squeeze your knees together and arch your back simultaneously with the choking squeeze. The guard pull often tightens the choke by changing the angle and preventing opponent's escape.",
+      "when_to_use": "Ideal when opponent is driving forward aggressively or attempting a takedown. The guard pull uses their momentum against them and transitions immediately to a finishing position. Particularly effective in no-gi where grip fighting is constant."
+    },
+    {
+      "variation_name": "Arm-In Ten Finger Guillotine",
+      "description": "Instead of clearing opponent's arm, trap it inside your choking grip along with their neck. Interlock your fingers in the ten finger configuration with their arm included. This creates tremendous pressure and is harder to defend against, though it requires more strength to finish.",
+      "when_to_use": "Use when opponent's near arm is deeply underhooking or you cannot clear it without losing position. Also useful when opponent is hand-fighting effectively and you need to secure control quickly. The arm-in variation trades pure choking efficiency for increased control."
+    },
+    {
+      "variation_name": "Seated Ten Finger Guillotine",
+      "description": "Apply the choke while seated on your hip with opponent in your butterfly or half butterfly guard. This position allows you to use your legs and hips to break opponent's posture while maximizing upper body compression. Particularly effective for transitioning from failed sweep attempts.",
+      "when_to_use": "When starting from seated guard or when opponent successfully defends a guard pull but you maintain the grip. The seated position provides excellent control and finishing power while being less physically demanding than standing variations."
+    }
+  ],
+  "from_positions": [
+    "Front Headlock",
+    "Guillotine Control",
+    "Standing Position",
+    "Closed Guard",
+    "Half Guard",
+    "Turtle",
+    "Clinch",
+    "Open Guard",
+    "Butterfly Guard"
+  ],
+  "related_submissions": [
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Primary guillotine variation using standard grip configuration"
+    },
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "High angle variation for defeating chin defense"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Arm-trapped variation trading choking efficiency for control"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Transition option when opponent turns into the choke"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Transition option when opponent turns away from pressure"
+    },
+    {
+      "name": "Chin Strap Guillotine from Front Headlock",
+      "relationship": "Alternative chin-based grip guillotine finish"
+    },
+    {
+      "name": "Arm Triangle",
+      "relationship": "Related head-and-arm choke from front headlock transitions"
+    },
+    {
+      "name": "Brabo Choke",
+      "relationship": "Gi-based head-and-arm choke alternative from similar positions"
+    },
+    {
+      "name": "Hindulotine",
+      "relationship": "Advanced guillotine variation from guard position"
+    }
+  ],
+  "related_content": [
+    {
+      "name": "Front Headlock",
+      "relationship": "Primary control position for entry"
+    },
+    {
+      "name": "Guillotine Control",
+      "relationship": "Related submission control position"
+    },
+    {
+      "name": "Guillotine Choke",
+      "relationship": "Primary guillotine variation"
+    },
+    {
+      "name": "Anaconda Choke",
+      "relationship": "Transition option when opponent turns in"
+    },
+    {
+      "name": "Darce Choke",
+      "relationship": "Transition option when opponent turns away"
+    },
+    {
+      "name": "Closed Guard",
+      "relationship": "Common finishing position after guard pull"
+    },
+    {
+      "name": "Standing Position",
+      "relationship": "Primary entry context from sprawls"
+    },
+    {
+      "name": "Turtle",
+      "relationship": "Common opponent position for setup"
+    },
+    {
+      "name": "Clinch",
+      "relationship": "Standing control position for entry"
+    },
+    {
+      "name": "Butterfly Guard",
+      "relationship": "Alternative finishing position with hip control"
+    },
+    {
+      "name": "Arm in Guillotine",
+      "relationship": "Arm-trapped variation of the technique"
+    },
+    {
+      "name": "High Elbow Guillotine",
+      "relationship": "High angle variation for chin defense"
+    }
+  ],
+  "clips": [
+    {
+      "id": "vNjdZQOI-cs",
+      "title": "Leg Grab Ten Finger Guillotine (No-Gi)",
+      "by": "ZombieProofBJJ",
+      "vertical": false,
+      "channel": "ZombieProofBJJ",
+      "duration": 89,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "rYKci9GFisg",
+      "title": "10 Finger Grip Guillotine choke",
+      "by": "Big Dan",
+      "vertical": false,
+      "channel": "Big Dan's Bang Gym",
+      "duration": 20,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "GpP5UslUIGo",
+      "title": "Front Headlock / Ten Finger Guillotine",
+      "by": "Torres Jiu-Jitsu",
+      "vertical": false,
+      "channel": "Torres Jiu-Jitsu",
+      "duration": 131,
+      "verified": "2026-07-14"
+    },
+    {
+      "id": "k_j0NLNwKDA",
+      "title": "Guillotine Finishing Mechanics",
+      "by": "John Combs",
+      "vertical": false,
+      "channel": "Sanjay Nambiar",
+      "duration": 71,
+      "verified": "2026-07-14"
+    }
+  ]
+}

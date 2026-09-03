@@ -1,0 +1,451 @@
+
+
+
+
+---
+title: "Single Leg Entry Attacker | BJJ Technique Guide | BJJ Map"
+description: "How to execute Single Leg Entry in BJJ. Attacking perspective with setup, execution steps, and counters."
+---
+
+
+<body data-content-type="transitions">
+
+<!-- Schema Markup - HowTo for Execution -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Execute Single Leg Entry in BJJ",
+  "description": "Step-by-step guide for executing Single Leg Entry from Standing Position/Top.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Establish grip control",
+      "text": "Begin from standing position with hand fighting or collar/sleeve grips in gi. Create connection points that will allow you to control opponent's upper body and prevent them from creating distance. In no-gi, this typically involves head control, overhooks, or wrist control. Set up your entry by manipulating opponent's posture and weight distribution through these grips.",
+      "position": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Execute level change",
+      "text": "Drop your elevation rapidly by bending at hips and knees simultaneously, lowering your center of gravity well below opponent's hips. This level change should be explosive and committed, with your chest staying upright and eyes maintaining visual contact with target leg. Your back should remain relatively straight to maintain structural integrity and power generation capability.",
+      "position": 2
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Penetration step",
+      "text": "As you change levels, step your lead foot deep between opponent's legs or to the outside of their target leg, positioning your foot approximately 12-18 inches behind their heel. This penetration step is crucial for getting your hips close to opponent and establishing the proper angle for leg capture. Your trailing leg should remain back initially to maintain base and provide pushing power.",
+      "position": 3
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Capture the leg",
+      "text": "Wrap both arms around opponent's thigh, with your shoulder tight to their hip bone and your head positioned on the outside of their body. Your hands should clasp together behind their knee or on the back of their thigh, creating a secure grip connection. The grip can be gable grip, S-grip, or over-under configuration depending on gi or no-gi context. Ensure the leg is trapped high on your shoulder for maximum control.",
+      "position": 4
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Establish head position",
+      "text": "Drive your head tight to opponent's hip or lower abdomen, creating constant forward pressure that prevents them from sprawling backward effectively. Your forehead or temple should maintain contact with their body, serving as a pressure point that disrupts their balance. This head position is critical for both offensive control and defensive protection against guillotine attacks.",
+      "position": 5
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Stand and elevate",
+      "text": "Rise from your deep stance while maintaining leg control, lifting opponent's captured leg off the mat. Use your legs to stand up powerfully while keeping their thigh clamped to your chest. Your back should remain straight and core engaged to protect your spine during the lifting motion. As you elevate, opponent's balance becomes compromised as they are forced onto one leg.",
+      "position": 6
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Drive and finish",
+      "text": "With opponent's leg elevated and controlled, drive forward while simultaneously choosing your finish based on their defensive reaction. Options include running the pipe to back control, tripping the standing leg, transitioning to double leg, or pulling guard to single leg X position. Maintain constant pressure and control throughout the finishing sequence, adjusting your direction and technique based on where opponent's weight shifts.",
+      "position": 7
+    }
+  ],
+  "tool": ["BJJ Gi or No-Gi attire", "Training partner", "Mat space"],
+  "totalTime": "PT5M"
+}
+</script>
+
+<!-- Schema Markup - FAQ from Knowledge Assessment -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is proper level change mechanics essential for single leg entry success, and what are the key components of an effective level change?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper level change drops your hips below the opponent's hips, letting you penetrate their base and secure the leg without being sprawled on. Key components include explosive hip and knee flexion that drops your center of gravity rapidly, maintaining an upright chest position to preserve structural power, keeping eyes on target throughout the movement, and executing the penetration step simultaneously with the level drop. Without proper level change, you remain too high and vulnerable to sprawl defense, guillotines, and front headlock attacks. The level change must be committed and explosive rather than gradual or tentative."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the optimal head positioning during single leg entry and why is this position critical for both offensive success and defensive safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep your head tight to the opponent's hip or lower abdomen on the outside of their body, driving constant forward pressure throughout. Offensively this blocks their hips from moving backward into a sprawl, maintains your structural connection to their base, and lets your forward drive break their balance. Defensively, the outside head position keeps your neck away from their centerline and choking arm, protecting you from guillotine chokes. The head serves as both a pressure point for control and a defensive shield against submission attacks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should you adapt your finishing technique based on opponent's defensive reaction, and what are the three most common counters with their appropriate responses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adapting your finish based on opponent's reaction is fundamental to single leg success. The three most common counters are: (1) Sprawl - respond by switching to double leg, transitioning to ankle pick, or circling to different angle while maintaining leg control; (2) Whizzer - respond by using it against them to transition to outside position, executing far side trip or dump, or accepting guard pull to single leg X; (3) Guillotine - respond by maintaining tight head-to-hip position, completing takedown despite grip, or hand fighting the choking arm while adjusting head position. The key is to maintain leg control throughout all adaptations and read their weight distribution to select the highest-percentage finish option available rather than forcing a predetermined outcome."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most critical errors practitioners make during single leg entry and how do these errors compromise technique effectiveness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most critical errors are insufficient level change, a shallow penetration step, a loose leg grip, poor head positioning, and telegraphing the shot. Insufficient level change leaves you too upright and open to sprawls and guillotines; a shallow penetration step that stops too far from the opponent's base prevents securing control and allows easy escape; a loose leg grip with a gap between shoulder and hip lets the opponent extract the leg and sprawl; head position in the centerline or away from the opponent creates guillotine vulnerability and loses forward pressure; and telegraphing intention through an obvious setup lets the opponent anticipate and prepare defense. Each error fundamentally compromises the mechanical advantage of the single leg, either by failing to establish proper control or by creating defensive opportunities for the opponent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Describe the progression from initial standing position through completion, including the relationship between grip fighting, timing recognition, and explosive execution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The progression is grip fighting to create an opening, recognizing the timing window, then explosive level change and penetration as one fluid motion. Grip fighting or hand-fighting advantage from standing controls the opponent's movement and disguises your entry timing. From that setup you recognize the optimal moment based on the opponent's weight distribution, stance, and defensive awareness. Execution requires explosive level change simultaneous with the penetration step, dropping your hips well below the opponent's while stepping deep into their base; immediately upon penetration you secure the leg with both arms while establishing head-to-hip pressure. These elements are sequential but must appear as one motion — grip fighting creates the opening, timing recognition identifies the window, and explosive execution capitalizes on it before the opponent reacts. Speed from setup to completion is critical, as hesitation at any point allows the opponent to establish defenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does the penetration step play in single leg entry success, and where should your lead foot be positioned relative to opponent's base?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The penetration step sets how close your hips get to the opponent's base; your lead foot should land about 12-18 inches behind their heel. That closeness directly affects your ability to control their leg and prevent escape. The foot lands either between their legs or to the outside of the target leg depending on variation. This deep placement gets your hips close to the opponent, establishing the proper angle for leg capture and creating the mechanical advantage needed to finish. A shallow penetration step that lands too far from their base is one of the most common errors, resulting in weak control and easy defensive extraction of the leg."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- Schema Markup - WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Single Leg Entry Attacker",
+  "description": "How to execute Single Leg Entry in BJJ. Attacking perspective with setup, execution steps, and counters.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BJJ Map",
+    "url": "https://bjjmap.pages.dev"
+  }
+}
+</script>
+
+<!-- Schema Markup - Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://bjjmap.pages.dev/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Transitions",
+      "item": "https://bjjmap.pages.dev/Transitions/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Single Leg Entry",
+      "item": "https://bjjmap.pages.dev/Transitions/Single-Leg-Entry"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Attacker",
+      "item": "https://bjjmap.pages.dev/Transitions/Single-Leg-Entry/Attacker"
+    }
+  ]
+}
+</script>
+
+
+
+
+<!-- Schema Markup - VideoObject (curated film-study clips) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Single Leg Entry (Attacker) \u2014 Film Study",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "position": 1,
+      "name": "Entry into the single leg takedown",
+      "description": "Single Leg Entry (Attacker) film study: Entry into the single leg takedown, taught by Grappler Station.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cqqrha_4Jy4/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/cqqrha_4Jy4",
+      "url": "https://www.youtube.com/watch?v=cqqrha_4Jy4",
+      "creator": { "@type": "Person", "name": "Grappler Station" },
+      "duration": "PT65S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 2,
+      "name": "Sweep single leg takedown entry and finish",
+      "description": "Single Leg Entry (Attacker) film study: Sweep single leg takedown entry and finish, taught by Jarrod Goode.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YBG9LkoAMoo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/YBG9LkoAMoo",
+      "url": "https://www.youtube.com/watch?v=YBG9LkoAMoo",
+      "creator": { "@type": "Person", "name": "Jarrod Goode" },
+      "duration": "PT87S"
+    },
+    {
+      "@type": "VideoObject",
+      "position": 3,
+      "name": "Single leg takedown entry option",
+      "description": "Single Leg Entry (Attacker) film study: Single leg takedown entry option, taught by Sickness Ferro.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/riQ0SFuNWlw/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/riQ0SFuNWlw",
+      "url": "https://www.youtube.com/watch?v=riQ0SFuNWlw",
+      "creator": { "@type": "Person", "name": "Sickness Ferro" },
+      "duration": "PT103S"
+    }
+  ]
+}
+</script>
+
+
+
+<main class="content-wrapper" style="display: flex; flex-direction: column;">
+
+<section id="overview" class="content-section">
+
+The Single Leg Entry is a fundamental wrestling-based takedown that serves as one of the most reliable techniques for establishing top position from standing in Brazilian Jiu-Jitsu. This technique involves capturing one of your opponent's legs while maintaining your own base and balance, creating a powerful mechanical advantage that can lead to various finishing positions including top control, back takes, or leg entanglements. The single leg entry is particularly effective in both gi and no-gi grappling, making it an essential component of any complete BJJ game.
+
+The beauty of the single leg entry lies in its versatility and the multiple finishing options it provides. Unlike some takedowns that commit you to a single outcome, the single leg allows you to adapt based on your opponent's defensive reactions. Whether they sprawl, hop away, or attempt to whizzer, each defensive response opens different pathways to completion. This adaptability makes it a high-percentage technique at all levels of competition.
+
+From a strategic perspective, the single leg entry represents a crucial bridge between standing grappling and ground work. It allows BJJ practitioners to dictate where the fight takes place, avoiding guard pulls that might give up advantageous positions. The entry phase requires precise timing, proper level change mechanics, and understanding of grip fighting principles. When executed correctly, the single leg entry not only secures a takedown but often provides immediate access to dominant positions or submission opportunities, making it one of the most valuable techniques in modern BJJ.
+
+**From Position**: [[Positions/Standing Position]] (Top)
+
+</section>
+
+
+<section id="film-study" class="content-section">
+
+## Film Study
+
+<p class="section-subtitle">Watch Single Leg Entry (Attacker) in action — curated instructionals</p>
+
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=cqqrha_4Jy4)
+
+<p class="clip-credit"><strong>Entry into the single leg takedown</strong> — taught by Grappler Station · 1:05 · <a href="https://www.youtube.com/watch?v=cqqrha_4Jy4" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=YBG9LkoAMoo)
+
+<p class="clip-credit"><strong>Sweep single leg takedown entry and finish</strong> — taught by Jarrod Goode · 1:27 · <a href="https://www.youtube.com/watch?v=YBG9LkoAMoo" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+<div class="film-clip">
+
+![](https://www.youtube.com/watch?v=riQ0SFuNWlw)
+
+<p class="clip-credit"><strong>Single leg takedown entry option</strong> — taught by Sickness Ferro · 1:43 · <a href="https://www.youtube.com/watch?v=riQ0SFuNWlw" rel="noopener">Watch on YouTube</a></p>
+
+</div>
+
+
+</section>
+
+
+<section id="key-principles" class="content-section">
+
+## Key Attacking Principles
+
+<p class="section-subtitle">What are the key principles for executing Single Leg Entry?</p>
+
+- Execute a deep level change with proper hip flexion and knee bend to lower your center of gravity below opponent's hips
+- Maintain head position tight to opponent's hip or thigh to prevent them from sprawling effectively and controlling your posture
+- Secure the leg capture with both arms creating a strong grip connection around the thigh, preventing opponent escape
+- Keep your own base wide and stable with feet positioned for driving power and lateral movement
+- Drive forward pressure through your shoulder into opponent's hip to break their balance and posture
+- Adapt finishing technique based on opponent's defensive reaction rather than forcing a predetermined sequence
+- Maintain constant forward pressure and connection throughout the entry to prevent opponent from establishing defensive frames
+
+
+</section>
+
+<section id="setup-requirements" class="content-section">
+
+## Prerequisites
+
+<p class="section-subtitle">What do you need before attempting Single Leg Entry?</p>
+
+- Standing position with both athletes on feet in neutral or clinch range
+- Establish grip fighting control or hand fighting advantage to create entry opening
+- Opponent's weight distribution allows for level change without telegraphing intention
+- Sufficient space and distance to execute penetration step without obstruction
+- Your posture maintained upright until moment of level change to avoid early defensive reaction
+- Opponent's lead leg positioned forward or weight shifted to create accessible target
+- Mental preparation for commitment to takedown with proper timing recognition
+
+
+</section>
+
+<section id="execution-steps" class="content-section">
+
+## Execution Steps
+
+<p class="section-subtitle">How do you execute Single Leg Entry step by step?</p>
+
+1. **Establish grip control**: Begin from standing position with hand fighting or collar/sleeve grips in gi. Create connection points that will allow you to control opponent's upper body and prevent them from creating distance. In no-gi, this typically involves head control, overhooks, or wrist control. Set up your entry by manipulating opponent's posture and weight distribution through these grips.
+2. **Execute level change**: Drop your elevation rapidly by bending at hips and knees simultaneously, lowering your center of gravity well below opponent's hips. This level change should be explosive and committed, with your chest staying upright and eyes maintaining visual contact with target leg. Your back should remain relatively straight to maintain structural integrity and power generation capability.
+3. **Penetration step**: As you change levels, step your lead foot deep between opponent's legs or to the outside of their target leg, positioning your foot approximately 12-18 inches behind their heel. This penetration step is crucial for getting your hips close to opponent and establishing the proper angle for leg capture. Your trailing leg should remain back initially to maintain base and provide pushing power.
+4. **Capture the leg**: Wrap both arms around opponent's thigh, with your shoulder tight to their hip bone and your head positioned on the outside of their body. Your hands should clasp together behind their knee or on the back of their thigh, creating a secure grip connection. The grip can be gable grip, S-grip, or over-under configuration depending on gi or no-gi context. Ensure the leg is trapped high on your shoulder for maximum control.
+5. **Establish head position**: Drive your head tight to opponent's hip or lower abdomen, creating constant forward pressure that prevents them from sprawling backward effectively. Your forehead or temple should maintain contact with their body, serving as a pressure point that disrupts their balance. This head position is critical for both offensive control and defensive protection against guillotine attacks.
+6. **Stand and elevate**: Rise from your deep stance while maintaining leg control, lifting opponent's captured leg off the mat. Use your legs to stand up powerfully while keeping their thigh clamped to your chest. Your back should remain straight and core engaged to protect your spine during the lifting motion. As you elevate, opponent's balance becomes compromised as they are forced onto one leg.
+7. **Drive and finish**: With opponent's leg elevated and controlled, drive forward while simultaneously choosing your finish based on their defensive reaction. Options include running the pipe to back control, tripping the standing leg, transitioning to double leg, or pulling guard to single leg X position. Maintain constant pressure and control throughout the finishing sequence, adjusting your direction and technique based on where opponent's weight shifts.
+
+
+</section>
+
+<section id="possible-outcomes" class="content-section">
+
+## Possible Outcomes
+
+| Result | Position | Probability |
+|--------|----------|-------------|
+| Success | [[Positions/Half Guard]] | 55% |
+| Failure | [[Positions/Standing Position]] | 30% |
+| Counter | [[Positions/Front Headlock]] | 15% |
+
+
+</section>
+
+<section id="common-counters" class="content-section">
+
+## Opponent Counters
+
+<p class="section-subtitle">How might your opponent counter Single Leg Entry?</p>
+
+- **Sprawl defense - opponent drops hips back and spreads legs to prevent penetration and leg capture** (Effectiveness: High) - Your Response: Switch to double leg by bringing back leg forward and capturing both legs, or transition to ankle pick by releasing and attacking the far ankle as they sprawl backward → Leads to [[Positions/Standing Position]]
+- **Whizzer control - opponent secures overhook on your far arm and drives downward pressure to prevent you from standing** (Effectiveness: Medium) - Your Response: Use the whizzer against them by transitioning to outside position, switching to far side trip or dump, or converting to guard pull if standing finish is prevented → Leads to [[Positions/Standing Position]]
+- **Guillotine attack - opponent wraps your neck as you shoot in, threatening front headlock choke** (Effectiveness: Medium) - Your Response: Keep head position tight to hip rather than centerline, complete takedown despite guillotine grip, or hand fight the choking arm while maintaining leg control and adjusting position → Leads to [[Positions/Front Headlock]]
+- **Hop away - opponent hops backward on standing leg to create distance and prevent finish** (Effectiveness: Low) - Your Response: Follow their movement by continuing to drive forward, elevate captured leg higher to further compromise balance, or switch to inside trip or outside trip on the standing leg → Leads to [[Positions/Standing Position]]
+- **Crossface and underhook - opponent uses upper body frames to control your head and create separation** (Effectiveness: Medium) - Your Response: Circle away from the crossface pressure, maintain tight grip on captured leg, transition to different angle or finish, or accept guard pull to single leg X if takedown becomes too defended → Leads to [[Positions/Front Headlock]]
+
+
+</section>
+
+<section id="common-mistakes" class="content-section hide-minimal">
+
+## Common Attacking Mistakes
+
+<p class="section-subtitle">What mistakes should you avoid when executing Single Leg Entry?</p>
+
+### 1. Reaching for leg without proper level change - attempting to grab leg while remaining too upright
+
+- **Consequence**: Easy sprawl defense by opponent, exposure to guillotine or front headlock attacks, failed takedown attempt with poor position recovery
+- **Correction**: Commit to full level change with hips dropping below opponent's hips before reaching for leg; explosively bend knees and hips to lower center of gravity first
+
+### 2. Insufficient penetration step - stopping too far from opponent's base when shooting
+
+- **Consequence**: Cannot secure proper leg control, opponent easily hops away or sprawls, weak finishing position with no mechanical advantage
+- **Correction**: Drive penetration step deep between or outside opponent's legs so your lead foot lands well behind their heel; get hips close to opponent before capturing leg
+
+### 3. Loose leg grip with gap between shoulder and opponent's hip - failing to maintain tight connection
+
+- **Consequence**: Opponent can easily extract leg, sprawl becomes effective, you lose control and position becomes defensive
+- **Correction**: Clamp thigh tightly to your chest with shoulder driven into hip bone; eliminate all space between your body and captured leg throughout entire sequence
+
+### 4. Head positioning in centerline or away from opponent - failing to maintain pressure with head
+
+- **Consequence**: Vulnerable to guillotine chokes, opponent can sprawl effectively, loss of forward pressure compromises finishing ability
+- **Correction**: Keep head tight to opponent's hip or lower abdomen on outside of body; use head as constant pressure point driving into their core
+
+### 5. Standing straight up without maintaining forward drive - rising vertically instead of forward
+
+- **Consequence**: Opponent regains balance on standing leg, can effectively defend finish, opportunity to complete takedown is lost
+- **Correction**: Drive forward at 45-degree angle as you stand; combine vertical elevation with horizontal pressure to continuously break opponent's balance toward completion
+
+### 6. Telegraphing intention through poor setup or obvious body language before entry
+
+- **Consequence**: Opponent anticipates shot and prepares defense, makes entry timing predictable, reduces success rate significantly
+- **Correction**: Maintain relaxed upright posture until moment of commitment; use grip fighting and feints to disguise entry timing; explode into level change without warning signals
+
+### 7. Failing to adapt finish based on opponent's reaction - forcing single predetermined outcome
+
+- **Consequence**: Opponent's defensive reaction neutralizes your planned finish, missed opportunity to capitalize on their movement, stalemate or position loss
+- **Correction**: Read opponent's weight distribution and defensive choice; have multiple finish options prepared (back take, trip, guard pull, double leg conversion) and flow to appropriate one
+
+
+
+</section>
+
+<section id="training-progressions" class="content-section hide-minimal">
+
+## Training Progressions
+
+<p class="section-subtitle">How do you train Single Leg Entry (Attacker)?</p>
+
+**Phase 1: Fundamental Mechanics (Weeks 1-2)** - Level change mechanics and penetration step without resistance
+Practice solo drilling of proper level change technique, focusing on hip flexion, knee bend, and maintaining upright chest position. Work penetration steps from various ranges and angles. Partner allows complete entry without defense to groove proper form and positioning. Emphasis on muscle memory for explosive level change and deep step placement.
+
+**Phase 2: Leg Capture and Position (Weeks 3-4)** - Securing proper grips, head position, and elevation with compliant partner
+Partner stands stationary while you execute full entry sequence including level change, penetration, leg capture, and standing up with elevation. Focus on grip security, shoulder-to-hip connection, and head positioning. Practice different grip variations (gable, S-grip, over-under). Begin recognizing proper body mechanics for safe lifting and control.
+
+**Phase 3: Single Counter Recognition (Weeks 5-6)** - Responding to one specific counter at a time with appropriate adjustment
+Partner provides single predetermined defense (sprawl, whizzer, or hop away) allowing you to practice appropriate counter-response. Work each defensive scenario separately until response becomes automatic. Partner gives 25% resistance to allow successful completion while building muscle memory for adaptation patterns.
+
+**Phase 4: Multiple Finish Options (Weeks 7-10)** - Developing finishing variations based on different defensive reactions
+Practice completing single leg from captured position using various finishes: running the pipe to back, inside trip, outside trip, guard pull to single leg X, conversion to double leg. Partner provides 50% resistance and varies defenses. Begin reading opponent's weight distribution to select optimal finish. Emphasis on maintaining control while transitioning between finishing options.
+
+**Phase 5: Live Situation Training (Weeks 11-16)** - Full resistance stand-up grappling with integration of setup and timing
+Engage in standing-only sparring where both partners attempt takedowns with full resistance. Focus on creating entries through grip fighting, using footwork and feints to set up level change. Work on timing recognition and explosive execution. Partner actively defends all attempts. Begin developing personal preferences for setups and finishes based on body type and style.
+
+**Phase 6: Competition Integration (Week 17+)** - Using single leg entry in full sparring context with strategic decision making
+Implement single leg entry during regular rolling sessions, choosing when to attempt takedown versus pulling guard based on match context, time, score, and opponent style. Practice entry from various gripping situations in both gi and no-gi. Develop awareness of when to commit to finish versus accepting guard pull if heavily defended. Integrate with overall game strategy.
+
+
+
+</section>
+
+
+
+<section id="safety-considerations" class="content-section">
+
+## Safety Considerations
+
+<p class="section-subtitle">What are the safety concerns for Single Leg Entry?</p>
+
+When practicing single leg entries, execute with controlled application to avoid knee injuries to your partner during the capture and elevation phases. The lifting and driving motions can place significant torque on the opponent's knee joint, so gradual progression and communication with training partners is essential. Ensure adequate mat space for the takedown completion, as both athletes will be moving dynamically and may cover significant ground during the finish. During drilling, partners should provide appropriate resistance levels that match the practitioner's experience - beginners should face minimal resistance while developing proper mechanics. For the person executing the technique, maintain proper lifting mechanics with straight back and engaged core to protect your spine during the elevation phase. When defending single leg entries, avoid hyperextending your captured leg or making explosive movements that could cause joint injury. Build up speed and power gradually over weeks and months rather than attempting full-power entries immediately. Always tap or verbally submit if caught in a compromising position during scrambles, and respect your partner's taps immediately during competitive drilling.
+
+</section>
+
+<section id="related-systems" class="content-section related-systems">
+
+## Train this with a System
+
+<div class="related-systems-grid">
+<a class="system-card" href="/Systems/MMA-Crossover-Strategy" data-cta="related-system-card" data-system-slug="systems/mma-crossover-strategy" data-system-name="MMA Crossover Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">MMA Crossover Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Wrestling-based takedown adapted for MMA timing and cage work</span><span class="system-card__chips"><span class="system-card__chip">Advanced</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Standing-Defense-Strategy" data-cta="related-system-card" data-system-slug="systems/standing-defense-strategy" data-system-name="Standing Defense Strategy" data-member-count="27"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Standing Defense Strategy</span><span class="system-card__unlocks-badge">Unlocks 27 techniques</span><span class="system-card__blurb">Common attack this system defends against</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Defense System</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+<a class="system-card" href="/Systems/Competition-Preparation-System" data-cta="related-system-card" data-system-slug="systems/competition-preparation-system" data-system-name="Competition Preparation System" data-member-count="21"><span class="system-card__shine" aria-hidden="true"></span><span class="system-card__type-chip">System</span><span class="system-card__name">Competition Preparation System</span><span class="system-card__unlocks-badge">Unlocks 21 techniques</span><span class="system-card__blurb">Alternative takedown system for competition offensive strategies</span><span class="system-card__chips"><span class="system-card__chip">Intermediate</span><span class="system-card__chip">Competition Strategy</span></span><span class="system-card__cta">Explore system<span class="system-card__arrow" aria-hidden="true">&#8594;</span></span></a>
+</div>
+
+</section>
+
+</main>
