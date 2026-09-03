@@ -55,6 +55,7 @@ from _slug import slugify  # canonical slugify (shared with node ids)
 LAYOUT = ROOT / "source/quartz/static/globalGraphLayout.json"
 GRAPH = ROOT / "graph.json"
 ORDINALS = ROOT / "node_ordinals.json"
+CONTENT = ROOT / "content"
 SYSTEMS_DIR = ROOT / "content/Systems"
 OUT_DIR = ROOT / "source/quartz/static/neural"
 
@@ -851,6 +852,136 @@ def build_move_edge(graph: dict, nodes: list, tech_idx: dict) -> dict:
 MC_LINE_BUDGET = 36  # one-line MC option cap; keep in sync with app.src.jsx MC_LINE
 
 
+# ─── TRANSLATED CARDS ────────────────────────────────────────────────────────
+# `content/<Category>/<Name>.zh.json` mirrors the shape of its English sibling and holds only the
+# translated strings. It is OPTIONAL and PARTIAL by design: the corpus is ~22,000 cards and is
+# being translated in batches, so anything untranslated has to keep working, in both languages,
+# with the same card count.
+#
+# THE ENGLISH QUESTION IS THE JOIN KEY, and it stays the join key all the way into the app. The
+# app schedules every card by `qhash(card.q)`; if `q` ever became Chinese, every existing user's
+# spaced-repetition state would point at hashes that no longer exist and their whole history
+# would silently reset. So the zh chunk carries the ENGLISH `q` for identity and a separate `qd`
+# for what the reader sees.
+ZH_SUFFIX = ".zh.json"
+
+
+def _zh_clip(a: str):
+    """The display line for a Chinese answer: up to the first full stop, else a hard clip.
+    Mirrors _mc_clip's job, but on Chinese punctuation — a Chinese paragraph has no spaces for
+    the English clipper to find, so it would return the whole thing."""
+    if not a:
+        return None
+    a = a.strip()
+    for stop in ("。", "！", "？", ".", "!", "?"):
+        i = a.find(stop)
+        if 0 < i <= 90:
+            return a[: i + 1]
+    return a if len(a) <= 90 else a[:88] + "…"
+
+
+def load_zh_cards() -> dict:
+    """English question -> {q, a, al, p, t} for every translated card in the corpus."""
+    out: dict[str, dict] = {}
+    files = 0
+    for zh_path in sorted(CONTENT.rglob("*" + ZH_SUFFIX)):
+        src_path = zh_path.with_name(zh_path.name[: -len(ZH_SUFFIX)] + ".json")
+        if not src_path.exists():
+            print(f"zh: {zh_path.name} has no English source beside it — skipped")
+            continue
+        try:
+            zh_doc = json.loads(zh_path.read_text(encoding="utf-8"))
+            en_doc = json.loads(src_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            print(f"zh: {zh_path.name} unreadable ({e}) — skipped")
+            continue
+        files += 1
+        for path, en_cards in _iter_zh_card_lists(en_doc):
+            zh_cards = _dig(zh_doc, path)
+            if not isinstance(zh_cards, list):
+                continue
+            # THE JOIN IS POSITIONAL, so a length mismatch is not "some cards are missing" — it
+            # is "every card after the gap is paired with the wrong question", which reads as a
+            # working translation and is entirely wrong. Refuse the whole array and say so.
+            if len(zh_cards) != len(en_cards):
+                print(f"zh: {zh_path.name} {'.'.join(path)} has {len(zh_cards)} cards, source has "
+                      f"{len(en_cards)} — SKIPPED (positional join would misalign every card)")
+                continue
+            for i, en_card in enumerate(en_cards):
+                zc, ec = zh_cards[i], en_cards[i]
+                if not isinstance(zc, dict) or not isinstance(ec, dict):
+                    continue
+                key = ec.get("question") or ec.get("q")
+                if not key:
+                    continue
+                d = (zc.get("distractors") or {}) if isinstance(zc.get("distractors"), dict) else {}
+                entry = {
+                    "q": zc.get("question"),
+                    "a": zc.get("answer"),
+                    "al": zc.get("answer_line"),
+                    "p": [x for x in (d.get("plausible") or []) if x],
+                    "t": [x for x in (d.get("trap") or []) if x],
+                }
+                if any(entry[k] for k in ("q", "a", "al")) or entry["p"] or entry["t"]:
+                    out[key] = entry
+    if files:
+        print(f"zh: {files} translated file(s) -> {len(out)} translated card(s)")
+    return out
+
+
+def _dig(doc, path):
+    node = doc
+    for k in path:
+        if not isinstance(node, dict):
+            return None
+        node = node.get(k)
+    return node
+
+
+def _iter_zh_card_lists(doc: dict):
+    """Every flashcard array in a content document, with the path that addresses it."""
+    for key in ("flashcards_family", "flashcards_position", "flashcards"):
+        v = doc.get(key)
+        if isinstance(v, list) and v:
+            yield (key,), v
+    for role in ("attacker", "defender", "top", "bottom"):
+        blk = doc.get(role)
+        if not isinstance(blk, dict):
+            continue
+        v = blk.get("flashcards")
+        if isinstance(v, list) and v:
+            yield (role, "flashcards"), v
+        for tier in ("core", "advanced", "safety"):
+            tv = blk.get(tier)
+            if isinstance(tv, dict) and isinstance(tv.get("flashcards"), list) and tv["flashcards"]:
+                yield (role, tier, "flashcards"), tv["flashcards"]
+
+
+def zh_card(card: dict, zh_index: dict):
+    """The Chinese twin of one emitted card, or None when nothing about it is translated.
+
+    Every field falls back to the English one, so a half-translated card still renders and the
+    deck still holds exactly the same number of cards in both languages.
+    """
+    tr = zh_index.get(card.get("q"))
+    if not tr:
+        return None
+    out = dict(card)                      # keeps q (identity), a, d, mc as the fallback
+    if tr.get("q"):
+        out["qd"] = tr["q"]               # display question; `q` stays English forever
+    full = tr.get("a")
+    line = tr.get("al") or (_zh_clip(full) if full else None)
+    if line:
+        out["a"] = line
+    if full and full != line:
+        out["d"] = full
+    elif full and full == line:
+        out.pop("d", None)
+    if tr.get("p") or tr.get("t"):
+        out["mc"] = {"p": tr.get("p") or [], "t": tr.get("t") or []}
+    return out
+
+
 def _mc_clip(a: str):
     """First sentence, <=160 chars (mirrors app.src.jsx mcClip) — the display-answer fallback
     for cards that have no authored one-line `answer_line` yet."""
@@ -1141,6 +1272,38 @@ def write_flashcards(decks: dict, out_dir: Path) -> tuple[int, int]:
             json.dumps(payload, ensure_ascii=False, separators=(",", ":")))
     collisions = sum(len(v) - 1 for v in buckets.values())
 
+    # ── the Chinese twin of every deck that has at least one translated card ──
+    # A zh chunk is emitted ONLY for such a deck. That is what makes a partial translation safe
+    # to ship: an untranslated deck has no zh chunk, the manifest does not list it, and the app
+    # reads its English cards in either language rather than fetching a file of English twins.
+    zh_index = load_zh_cards()
+    zh_dir = fc_dir / "zh"
+    if zh_dir.exists():
+        for old_zh in zh_dir.glob("*.json"):
+            old_zh.unlink()
+    zh_keys: set[str] = set()
+    zh_cards_written = 0
+    if zh_index:
+        zh_dir.mkdir(parents=True, exist_ok=True)
+        zh_buckets: dict[str, dict] = {}
+        for key in sorted(decks):
+            cards = decks[key]["cards"]
+            twins = [zh_card(c, zh_index) for c in cards]
+            if not any(twins):
+                continue                      # nothing in this deck is translated
+            # every card is present, translated or not — `n` must match in both languages
+            merged = [t if t else c for t, c in zip(twins, cards)]
+            zh_buckets.setdefault(fnv1a32(key), {})[key] = {
+                "cat": decks[key]["cat"], "role": decks[key]["role"], "cards": merged,
+            }
+            zh_keys.add(key)
+            zh_cards_written += sum(1 for t in twins if t)
+        for h, payload in zh_buckets.items():
+            (zh_dir / f"{h}.json").write_text(
+                json.dumps(payload, ensure_ascii=False, separators=(",", ":")))
+        print(f"flashcards/zh/: {len(zh_buckets)} chunk(s), {len(zh_keys)} deck(s), "
+              f"{zh_cards_written} translated card slot(s)")
+
     # SHARED-QUESTION INDEX. The blended hierarchy duplicates one position/family card into every
     # variant deck, and answering it anywhere credits all of them (noteCardDone). The app used to
     # discover that by scanning the decks it happened to have RESIDENT, so the same answer paid
@@ -1159,10 +1322,11 @@ def write_flashcards(decks: dict, out_dir: Path) -> tuple[int, int]:
             shared.setdefault(fnv1a32(q), []).extend(idxs)
     shared = {h: sorted(set(v)) for h, v in shared.items()}
 
+    zh_idx = sorted(order[k] for k in zh_keys if k in order)
     (fc_dir / "_index.json").write_text(json.dumps({
         "_meta": {
             "status": "generated",
-            "format": 3,
+            "format": 4,
             "note": "Generated by scripts/regenerate_neural_data.py from graph.json. The app boots "
                     "from this file alone and fetches a deck's chunk on demand; a chunk is "
                     "<fnv1a32(deckKey)>.json beside this manifest, holding {deckKey: {cat, role, "
@@ -1173,9 +1337,15 @@ def write_flashcards(decks: dict, out_dir: Path) -> tuple[int, int]:
             "shared": "fnv1a32(question) -> indexes into `decks` (in this file's order) for every "
                       "question carried by 2+ decks — the blended hierarchy's shared cards. Makes "
                       "cross-deck credit residency-independent (see noteCardDone).",
+            "zh": "indexes into `decks` (same order) for every deck that has a Traditional "
+                  "Chinese chunk at flashcards/zh/<fnv1a32(deckKey)>.json. A deck NOT listed has "
+                  "no translation yet and is read from the English chunk in both languages. The "
+                  "zh chunk's cards keep the ENGLISH `q` — it is the scheduling identity — and "
+                  "carry the translation in `qd` (question), `a`/`d` (answer) and `mc`.",
         },
         "decks": {k: manifest[k] for k in sorted(manifest)},
         "shared": {h: shared[h] for h in sorted(shared)},
+        "zh": zh_idx,
     }, ensure_ascii=False, separators=(",", ":")))
     if collisions:
         print(f"flashcards/: {collisions} deck(s) sharing a hashed chunk file")

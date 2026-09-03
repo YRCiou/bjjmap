@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Scissor Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "設置 Scissor Sweep 時，你的身體相對於對手應該做出什麼樣的最佳角度？",
+    "answer": "你的身體應該與對手大約呈 45 到 90 度垂直。這個角度非常關鍵，因為它創造出剪刀式腿部動作所需的槓桿。與對手正對得太方正會降低槓桿，讓 sweep 的力量弱很多。",
+    "answer_line": "角度 45–90 度，別正對",
+    "distractors": {
+     "plausible": [
+      "完全繞到他們髖部後方",
+      "先胸貼胸，再調整"
+     ],
+     "trap": [
+      "平躺著，被 stack pass"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在做 Scissor Sweep 之前一定要先破壞對手的 posture？",
+    "answer": "破壞 posture 達成好幾個關鍵目的：把對手的重心往前帶到膝蓋上方，破壞他們的 base；讓他們無法有效地用手撐地；把他們的重心放到 sweep 最能發揮的位置；並讓他們在 sweep 過程中難以產生反制壓力或維持平衡。",
+    "answer_line": "破壞 base，封死撐手",
+    "distractors": {
+     "plausible": [
+      "為了打開勒頸的 grip",
+      "為了拖時間喘口氣"
+     ],
+     "trap": [
+      "讓他們站起來然後 pass"
+     ]
+    }
+   },
+   {
+    "question": "當你嘗試 Scissor Sweep 時對手用空出的手撐地，你該怎麼做？",
+    "answer": "與其硬做原本的 sweep，不如利用他們的反應去攻擊那隻撐地的手臂。選項包括：對撐地的手臂改做 kimura、嘗試 armbar，或是察覺到他們的重心已經改變，轉換到能利用新位置的其他 sweep，例如 Hip Bump Sweep。",
+    "answer_line": "攻擊那隻撐地的手臂",
+    "distractors": {
+     "plausible": [
+      "硬把 sweep 推過去",
+      "重置並重建 grip"
+     ],
+     "trap": [
+      "放開 guard 站起來"
+     ]
+    }
+   },
+   {
+    "question": "在 Scissor Sweep 中，你的下方腿（推的那條腿）該放在哪裡才最有效？",
+    "answer": "下方腿應該橫過對手的下腹部或腰帶線，用你的脛骨紮實接觸。這個位置提供最佳的槓桿——太高（靠近胸口）會失去 sweep 的力量，也讓對手容易跨過去；太低（靠近髖部）則會降低剪刀動作的機械優勢。",
+    "answer_line": "脛骨壓在腰帶線上",
+    "distractors": {
+     "plausible": [
+      "脛骨往上頂到胸口下",
+      "脛骨往下壓在髖部"
+     ],
+     "trap": [
+      "失去脛骨位置，被 pass"
+     ]
+    }
+   },
+   {
+    "question": "Scissor Sweep 如何整合進一套系統化的 closed guard 進攻策略？",
+    "answer": "Scissor Sweep 與其他 closed guard 攻擊組成一套互補的系統。當對手用把重心往後拉來防 Scissor Sweep 時，你可以轉換到 Hip Bump Sweep。如果他們用單側撐手來防，你可以攻擊那隻手臂，或往另一側改做 Pendulum Sweep。這造就一套以兩難為基礎的系統：防守一個攻擊就會為其他攻擊打開機會，逼對手做出困難的選擇。",
+    "answer_line": "串接 Hip Bump 或攻手臂",
+    "distractors": {
+     "plausible": [
+      "再硬做一次 Scissor Sweep",
+      "永遠直接跳去做 Triangle"
+     ],
+     "trap": [
+      "打開 guard，被 stack pass"
+     ]
+    }
+   },
+   {
+    "question": "執行 Scissor Sweep 時最常見的時機錯誤是什麼？",
+    "answer": "最常見的時機錯誤是沒有把上半身的拉扯和下半身的剪刀動作協調在一起。很多人不是太早用 grip 拉，就是在把對手拉向前之前就先做了腿部的剪刀。這兩個動作必須同步——你要在做出腿部剪刀動作的同一瞬間，用 grip 把對手的上半身往前拉。這種協調才能製造最大的破勢力量。",
+    "answer_line": "拉扯與剪刀要同步",
+    "distractors": {
+     "plausible": [
+      "先拉 grip，再做剪刀",
+      "先剪腿，再拉 grip"
+     ],
+     "trap": [
+      "剪刀途中放開 grip"
+     ]
+    }
+   },
+   {
+    "question": "當你握有 collar 和 sleeve grip 時，對手開始從你的 closed guard 裡站起來——你還能做 Scissor Sweep 嗎？",
+    "answer": "一旦對手完全站起來，Scissor Sweep 會變得困難很多，因為你的下方腿失去了抵住他們腹部的槓桿。不過，在他們起身、單膝著地的轉換過程中，有一個短暫的窗口，你可以用 grip 把他們拉回來並完成 sweep。如果他們已經完全站起來並取得 posture，就轉換到 Pendulum Sweep 或 lumberjack sweep 這類對站立對手更有效的變化式。",
+    "answer_line": "在轉換途中把他拉下來",
+    "distractors": {
+     "plausible": [
+      "等他完全站起來再 sweep",
+      "推他的髖部逼他坐下"
+     ],
+     "trap": [
+      "跟著追到站立位置"
+     ]
+    }
+   },
+   {
+    "question": "no-gi 的 Scissor Sweep 相較於 gi，需要哪些具體的 grip 調整？",
+    "answer": "在 no-gi 中，把 collar grip 換成扣在對手頸後的 collar tie，或是遠側手臂的 overhook。把 sleeve grip 換成抓手腕、two-on-one 手臂控制，或近側的 underhook。剪刀動作的力學完全相同，但 grip 改變意味著你必須透過 collar tie 產生更多向前的拉力，並維持更緊密的身體連結，因為 no-gi 的 grip 本質上就比抓 gi 布料來得不牢固。",
+    "answer_line": "collar tie 加近側 underhook",
+    "distractors": {
+     "plausible": [
+      "改用近側手臂的 overhook",
+      "維持 gi 的 grip，拉更用力"
+     ],
+     "trap": [
+      "放掉 grip，直接被 pass"
+     ]
+    }
+   },
+   {
+    "question": "在剪刀動作中，每條腿分別該產生什麼方向的力？",
+    "answer": "下方腿（橫過腹部的脛骨）水平地向外推進對手的腹部中段，把他們的髖部往後往外推開。上方腿（在肩膀後方）則往你自己的胸口方向猛拉，把對手的上半身往前往下拖。這兩股相反的力在對手的重心周圍製造出旋轉的力矩，把他們往側邊掀翻。這兩股力必須同時發生且方向相反，才能把破勢效果最大化。",
+    "answer_line": "下腿推，上腿拉",
+    "distractors": {
+     "plausible": [
+      "兩條腿都往外推",
+      "兩條腿都往內拖"
+     ],
+     "trap": [
+      "把他拉進來，被 stack"
+     ]
+    }
+   },
+   {
+    "question": "對手把膝蓋張寬、髖部壓低來防守——你要如何調整 Scissor Sweep 的嘗試？",
+    "answer": "寬 base 加低髖的姿勢，是對抗 Scissor Sweep 最強的防守結構。與其硬對這個 base 做 sweep，不如用 grip 把他們往側邊拉，讓 base 的其中一側塌掉。或者轉換到 Hip Bump Sweep，利用他們偏低的重心分布；也可以攻擊 triangle 或 armbar，因為寬 base 通常代表他們的手臂是伸直而脆弱的。關鍵的認知是：對著一個站好的 base 硬做 Scissor Sweep 只會浪費體力，還會讓你暴露在反擊的 pass 之下。",
+    "answer_line": "往側邊拉，讓 base 塌掉",
+    "distractors": {
+     "plausible": [
+      "更用力硬轉剪刀",
+      "整個重置你的 guard"
+     ],
+     "trap": [
+      "把髖推開，直接被 pass"
+     ]
+    }
+   },
+   {
+    "question": "Scissor Sweep 中產生力量的關鍵髖部動作是什麼？",
+    "answer": "在執行剪刀動作的同時，你的髖部必須稍微離開墊子，並朝 sweep 的方向側向驅動。這個髖部抬升非常關鍵，因為它把剪刀從一個靜態的腿部動作，轉換成由核心和髖屈肌驅動的全身性 sweep。少了這個抬髖，sweep 就只能仰賴腿力，也會失去把 grip 拉扯經由核心連結到腿部驅動的動力鏈。把你的髖想成整個槓桿系統的支點。",
+    "answer_line": "抬髖並往側邊驅動",
+    "distractors": {
+     "plausible": [
+      "髖部平貼在墊子上",
+      "髖部直直往上 bridge"
+     ],
+     "trap": [
+      "撞進他的 base，被 stack"
+     ]
+    }
+   },
+   {
+    "question": "對手用空出的手抓住你上方的腿來擋 sweep——你有哪些串接攻擊的選項？",
+    "answer": "當對手伸手向下抓你上方的腿時，那隻手臂就離開了他們的防守 frame，製造出好幾個機會。如果你還握著很深的 collar grip，他們的 collar 就暴露出來，可以嘗試十字領勒。他們抓腿的手臂是伸直且脆弱的，你可以放開 sleeve grip 抓住他們的手腕做 kimura。你也可以利用他們伸手造成的瞬間重心轉移，往另一側轉換成 Flower Sweep 或 Pendulum Sweep，因為他們的 base 現在已經不對稱且被破壞了。",
+    "answer_line": "攻擊暴露的 collar 或手臂",
+    "distractors": {
+     "plausible": [
+      "把腿踢開，重新設置",
+      "同一個 sweep 硬做到底"
+     ],
+     "trap": [
+      "硬把腿抽出來，被 pass"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你在 closed guard 裡辨認出 Scissor Sweep 的設置開始時，第一個防守優先事項是什麼？",
+    "answer": "第一優先是維持或恢復挺直的 posture，讓頭部位在髖部正上方。Scissor Sweep 需要你的重心往前投入，所以強壯的 posture 是最重要的單一防守要素。同時，你應該破掉那個正被用來破壞你 posture 的 collar grip。只要 posture 沒被破壞，剪刀動作的機械優勢就會大幅降低，你光靠 base 就能防住。",
+    "answer_line": "恢復 posture，破 collar grip",
+    "distractors": {
+     "plausible": [
+      "立刻去抓他們的腿",
+      "往下壓他們的肩膀"
+     ],
+     "trap": [
+      "順著拉力往前傾"
+     ]
+    }
+   },
+   {
+    "question": "防守 Scissor Sweep 時，為什麼破 sleeve grip 比破 collar grip 更關鍵？",
+    "answer": "sleeve grip 讓你在 sweep 發動時無法用手撐地，而撐地是你最主要的緊急防守。就算 posture 很好，只要你撐不了手，一個時機準確的剪刀動作就會把你 sweep 掉，因為你沒有辦法建立三腳架 base 來吸收側向的力。collar grip 破壞的是 posture（這也很重要），但 posture 被破壞時，只要還能撐手你就有機會活下來；而如果撐地的手臂被控制住，就算 posture 完美你也活不下來。",
+    "answer_line": "sleeve grip 封死你的撐手",
+    "distractors": {
+     "plausible": [
+      "collar grip 才更重要",
+      "兩個 grip 一樣關鍵"
+     ],
+     "trap": [
+      "破 collar，不管 sleeve"
+     ]
+    }
+   },
+   {
+    "question": "對手打開了 guard，把脛骨橫放在你的腹部——什麼樣的 base 調整能防住這個 sweep？",
+    "answer": "立刻把膝蓋張到最寬，製造出最大的側向抵抗。稍微往後坐把髖部壓低，降低你的重心。把身體稍微朝 sweep 的方向轉，讓你的體重去抗衡進來的力。可能的話，把 sweep 那一側的膝蓋往外往後跨出去，做出一個更寬的三角形 base，讓剪刀動作無法把它壓垮。這個 base 調整必須在你察覺脛骨位置的瞬間就完成。",
+    "answer_line": "膝蓋張寬，髖部壓低",
+    "distractors": {
+     "plausible": [
+      "膝蓋收窄，身體坐直",
+      "把髖往前往上頂"
+     ],
+     "trap": [
+      "把手撐在他們的髖上"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候已經來不及阻止 Scissor Sweep？到了那個階段你該做什麼？",
+    "answer": "無法挽回的臨界點，是對手已經建立好角度，而剪刀動作也伴隨著協調的 grip 拉扯開始了。到了這個階段，預防已經失敗，你必須管理落地。收下巴保護脖子，手肘夾緊避免在轉換中被孤立手臂，落地時立刻開始建立 frame，阻止對手鞏固 mount。如果你能在翻過去的過程中控制住他們的一條腿，就有機會退到 half guard，而不是直接讓出完整的 mount。",
+    "answer_line": "收下巴、建 frame、安全落地",
+    "distractors": {
+     "plausible": [
+      "用力量硬抗這個 sweep",
+      "抱住兩條腿整個僵住"
+     ],
+     "trap": [
+      "轉過身去把背讓出來"
+     ]
+    }
+   },
+   {
+    "question": "從同一個位置面對 Scissor Sweep 和 Hip Bump Sweep，你的防守反應有什麼不同？",
+    "answer": "對抗 Scissor Sweep 時，你的防守主要是側向的——用寬 base 和撐手去抵抗側向的位移。對抗 Hip Bump Sweep 時，你的防守主要是後向的——對手會坐起來撞進你，你必須把重心往前壓或往後撐手，抵抗被往後推倒。關鍵的戰術認知是：這兩個 sweep 構成一個兩難——把重心往後拉來防 Scissor，你就會被 Hip Bump 抓到；往前傾來擋 Hip Bump，你又會被 Scissor 抓到。維持置中的 posture 加上寬 base，才能同時處理這兩個威脅。",
+    "answer_line": "調整 base：側向 vs 後向",
+    "distractors": {
+     "plausible": [
+      "兩個 sweep 用同一套 escape",
+      "兩次都用力 bridge 就好"
+     ],
+     "trap": [
+      "轉身重整 base"
+     ]
+    }
+   }
+  ]
+ }
+}

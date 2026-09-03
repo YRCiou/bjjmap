@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Knee Slice Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "執行 Knee Slice Pass 時，膝蓋推進的最佳角度是多少？",
+    "answer": "大約由外往內 45 度。這個對角角度能把向前的壓力最大化，同時有效率地切穿對手的 guard 結構。垂直的角度會卡在防守 frame 上停住，而平行的角度則失去切入的力量，讓對手在下方重建 guard。",
+    "answer_line": "45 度角，由外切向內",
+    "distractors": {
+     "plausible": [
+      "從正中央直直往下壓",
+      "沿著他的腿平平推進"
+     ],
+     "trap": [
+      "用全身體重壓進 knee shield"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 Knee Slice Pass 中控制遠側的髖至關重要？",
+    "answer": "控制遠側的髖能阻止對手轉開身體，而那樣的轉身會讓他們逃向 turtle、重建 guard，或架出 frame。遠髖的控制讓他們保持壓平、無法旋轉，封住最常見的防守反應。少了它，即使技術上再完美的切入，也可能光被一個轉髖就化解掉。",
+    "answer_line": "控住遠髖，止住旋轉",
+    "distractors": {
+     "plausible": [
+      "改壓近側的髖",
+      "光靠 cross face 就能壓平他"
+     ],
+     "trap": [
+      "不管髖，讓他轉去 turtle"
+     ]
+    }
+   },
+   {
+    "question": "你開始 knee slice 時，對手建立了很強的 knee shield。你要如何調整？",
+    "answer": "不要硬把切入推過一個已經建立好的 knee shield。改為從幾個選項中挑一個：一邊維持遠髖控制、一邊用肩膀壓進他們的膝蓋把 knee shield 壓扁；轉成 Long Step Pass 繞過那道 frame；換成完全避開 shield 的 backstep pass；或利用這個停滯的瞬間，攻擊他們架 frame 那隻手臂上的 kimura。讀他們的反應，然後順勢串接下去。",
+    "answer_line": "壓扁 shield，換攻擊路線",
+    "distractors": {
+     "plausible": [
+      "Long Step Pass 是唯一選項",
+      "退回站姿重新 pass"
+     ],
+     "trap": [
+      "硬把切入推過 shield"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的壓力點組合能讓 Knee Slice Pass 最有效？",
+    "answer": "四種同時作用的壓力造就這個 pass：向前的髖推進、cross face、遠髖控制，以及斜切過雙腿的膝蓋。向前的髖推進把你的質心送穿過他們的質心，而遠側的頭與肩 cross face 壓力則把他們的肩膀壓平。你後方的手控制遠髖以防止旋轉，斜切過他們大腿的膝蓋則形成一道屏障。這四項必須協同運作。",
+    "distractors": {
+     "plausible": [
+      "只要 cross face 和膝蓋壓力",
+      "有髖推進，不用 cross face"
+     ],
+     "trap": [
+      "胸口抬起來，guard 就重建了"
+     ]
+    },
+    "answer_line": "髖推進＋cross face＋遠髖"
+   },
+   {
+    "question": "在發動 knee slice 之前，你需要什麼樣的 grip 配置？",
+    "answer": "切入之前你需要三個控制：前手的 collar grip 或 cross face、後手放在遠髖或褲子上，以及你的頭放在遠側。前手控制頭與遠側的肩膀，後手防止旋轉，頭的位置則製造額外壓力。有些變化會用 underhook 取代 collar grip，那是用頭部控制換取更好的上半身操控。",
+    "distractors": {
+     "plausible": [
+      "只要 underhook 加遠髖",
+      "兩隻手都抓遠髖"
+     ],
+     "trap": [
+      "抓近側的髖，不管頭"
+     ]
+    },
+    "answer_line": "collar、遠髖 grip、頭在遠側"
+   },
+   {
+    "question": "你切到一半時，對手翻向跪姿。正確的回應是什麼？",
+    "answer": "立刻從 pass 轉換成取背。在他們轉的同時，把你的手臂從他們遠側腋下穿進去，鎖上 seatbelt grip。順著他們的旋轉走，而不是去對抗它，接著建立 hook 拿 back control，或做 mat return 把他們重新壓平。他們的轉身露出了背，而那是比你原本追求的 side control 更高價值的位置。",
+    "answer_line": "順著轉身，直接取背",
+    "distractors": {
+     "plausible": [
+      "重重 sprawl 然後脫離",
+      "鑽到下面找 leglock"
+     ],
+     "trap": [
+      "對抗轉身以保住 side control"
+     ]
+    }
+   },
+   {
+    "question": "Knee Slice Pass 中最關鍵的髖部動作是什麼？",
+    "answer": "是那個把你的體重透過質心灌進對手的向前髖推進。整個 pass 過程中，你的髖都必須保持低而沉重，往前並稍微往下推進。只要你的髖在任何一刻高過肩膀，或重量往後移，對手就得到重建 guard 或架出防守 frame 所需的空間。",
+    "answer_line": "向前、壓低的髖推進",
+    "distractors": {
+     "plausible": [
+      "髖往後撐地取得 base",
+      "銳利的側向轉髖"
+     ],
+     "trap": [
+      "把髖抬高，guard 就重建了"
+     ]
+    }
+   },
+   {
+    "question": "在 pass 的序列中，什麼時候該從 knee slice 轉為 submission 攻擊？",
+    "answer": "當他們的防守製造出破綻時就攻 submission：對方橫過身體推你時攻 kimura，對方 underhook 時攻 Darce Choke，對方遠側手臂橫過自己脖子時攻 Arm Triangle。具體來說，當他們橫過你的身體去推你的頭、或把手臂架在你肩膀上時，攻 kimura；當他們在你切入時 underhook 並轉向你時，攻 Darce Choke；當他們防守時遠側手臂橫過自己的脖子時，攻 Arm Triangle。在 pass 的過程中辨認出這些窗口，而不是硬把 pass 做完。",
+    "distractors": {
+     "plausible": [
+      "一定要先完成 pass",
+      "立刻硬上 kimura"
+     ],
+     "trap": [
+      "放棄 pass 去獵 submission"
+     ]
+    },
+    "answer_line": "趁他們防守時攻破綻"
+   },
+   {
+    "question": "就受力方向而言，knee slice 和 Knee Cut Pass 有什麼不同？",
+    "answer": "knee slice 強調由外往內大約 45 度的對角切入動作，搭配強力的向前髖推進。knee cut 這個變化用的角度更偏側向，以更銳的角度橫切過身體，向前的壓力較少。slice 對付被壓平的對手比較好用，而 cut 則在對手側躺、你需要從更寬的角度清掉他們的腿時效果更好。",
+    "answer_line": "slice 走對角，cut 偏側向",
+    "distractors": {
+     "plausible": [
+      "cut 的前推力更強",
+      "slice 是用在對手側躺時"
+     ],
+     "trap": [
+      "同一個角度硬衝，結果被 sweep"
+     ]
+    }
+   },
+   {
+    "question": "要從 half guard 上位嘗試 knee slice，事前必須存在哪些進入條件？",
+    "answer": "必須具備四個條件：被夾住的腿已部分脫出、或小脛已越過大腿線；上半身的控制；knee shield 被化解；以及穩定的 base。上半身的控制透過 cross face 或 collar grip 建立，對手的 knee shield 必須被化解或原本就不存在，而你的 base 必須穩到足以投入向前壓力而不冒被 sweep 的風險。在這些條件不具備時就嘗試切入，會導致 pass 失敗並可能被 sweep。",
+    "distractors": {
+     "plausible": [
+      "只需要上半身的控制",
+      "只需要穩定的 base"
+     ],
+     "trap": [
+      "直接對著 knee shield 切下去"
+     ]
+    },
+    "answer_line": "腿脫出、有控制、base 要穩"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 half guard 上位要發動 Knee Slice Pass 時，最早能辨識出來的徵兆是什麼？",
+    "answer": "最早的徵兆是 pass 方用前手建立 collar grip 或 cross face，同時後手伸向你的遠髖或褲管。這組雙 grip 的設置是切入的前提，一出現就該立刻觸發你的防守 frame。另外，也要注意他們的頭移到遠側，以及他們的膝蓋開始斜著頂向你的大腿。",
+    "answer_line": "collar／cross face 加遠髖 grip",
+    "distractors": {
+     "plausible": [
+      "頭碰到你的胸口",
+      "膝蓋輕碰你的大腿"
+     ],
+     "trap": [
+      "等膝蓋越過大腿再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 knee shield 是對抗 knee slice 最重要的初始防守結構？",
+    "answer": "knee shield 在 pass 方的胸口與髖線之間架起一道結構性屏障，實質阻止膝蓋完成它的對角切入。不像手臂 frame 可以被壓力硬推穿過，一個位置正確的小脛 frame 會形成骨對骨的屏障，逼 pass 方要嘛硬壓穿過它，要嘛換成完全不同的 pass。這替防守方買到時間，去建立進攻的 grip 並威脅 sweep。",
+    "answer_line": "骨頭 frame 擋住切入",
+    "distractors": {
+     "plausible": [
+      "手臂 frame 一樣好用",
+      "只能拖慢，擋不住"
+     ],
+     "trap": [
+      "太早把 shield 推開"
+     ]
+    }
+   },
+   {
+    "question": "對手已經開始 knee slice，膝蓋切到你大腿一半。此時你最好的選項是什麼？",
+    "answer": "在切到一半的階段，你最好的選項是在他們向前推進時鑽到他們髖下、進入 Deep Half Guard，或是在被夾腿的那一側取得強勢的 underhook，配合 hip escape 製造足夠的角度，把膝蓋重新插回去。直接架 knee shield 在這個階段大概已經太晚。如果兩個選項都不可行，就準備翻成 turtle 作為最後手段，避免直接交出 side control，接著立刻從 turtle 想辦法站起來或重建 guard。",
+    "answer_line": "進 deep half 或 underhook 逃",
+    "distractors": {
+     "plausible": [
+      "再把 knee shield 插回去",
+      "把人推開，拉出距離"
+     ],
+     "trap": [
+      "立刻翻 turtle，直接放棄"
+     ]
+    }
+   },
+   {
+    "question": "對抗 Knee Slice Pass 時，發動 sweep 的最佳時機窗口是什麼時候？",
+    "answer": "最佳的 sweep 時機，是在 pass 方向前推進的階段，也就是他們已經把體重往前投入、base 受損的時候。當他們前壓要完成切入時，後腳是輕的，重心跑到支撐 base 的前方。這正是 underhook sweep 與 deep half sweep 效果最大的時刻，因為你是在導引他們已經投入的動量，而不是去對抗一個穩定的 base。",
+    "answer_line": "趁他們向前推進的時候",
+    "distractors": {
+     "plausible": [
+      "在他們投入重量之前",
+      "他們抓到你 collar 的那一刻"
+     ],
+     "trap": [
+      "等到完全被 pass 再說"
+     ]
+    }
+   },
+   {
+    "question": "當 pass 方已經建立 cross face 控制時，還去嘗試用 underhook 重建有什麼危險？",
+    "answer": "當 pass 方已經有 cross face，你伸手去搶 underhook 會讓那隻手臂暴露在 kimura 攻擊之下，因為 cross face 壓住了你的肩膀，限制你把伸出去的手收回來的能力。pass 方可以用遠側的手抓住你伸出去的手臂，同時用近側手臂維持 cross face，把你的肩膀孤立在脆弱的位置。你必須先處理 cross face——對它架 frame，或把頭 pummel 出來——再投入 underhook 之爭。",
+    "answer_line": "把手臂暴露給 kimura",
+    "distractors": {
+     "plausible": [
+      "風險是被 guillotine",
+      "等於讓他們取背"
+     ],
+     "trap": [
+      "現在就伸手去搶 underhook"
+     ]
+    }
+   },
+   {
+    "question": "在你成功重建 knee shield 之後，要如何防止 pass 方重新建立 knee slice？",
+    "answer": "重建 knee shield 之後，立刻建立會讓 pass 方被迫反應的進攻 grip：collar grip 以威脅 Collar Drag，sleeve grip 以阻止他們重建自己的 grip，並用 knee shield 拉出距離來製造角度。從 knee shield 位置威脅 sweep，會逼 pass 方去防守而不是重新設置。一個純防守、沒有進攻威脅的 knee shield，最終還是會被 pass 方有條理地壓扁或繞過。",
+    "answer_line": "進攻 grip，威脅 sweep",
+    "distractors": {
+     "plausible": [
+      "把 shield 撐住不動，等就好",
+      "把他推開然後站起來"
+     ],
+     "trap": [
+      "轉開身體重整你的 guard"
+     ]
+    }
+   },
+   {
+    "question": "是什麼讓 Deep Half Guard 的進入成為對抗 knee slice 的有效反制，又在什麼時候會太晚？",
+    "answer": "Deep Half Guard 之所以有效，是因為 pass 方在 knee slice 中向前推進的壓力，實際上幫助你鑽到他們髖的下方。你把他們向下的動量導引開，鑽到他們底下，建立起完全化解切入的 sweep 角度。當 pass 方的膝蓋已經完全越過你的大腿線、並開始鞏固時就太晚了，因為那時你要鑽的人已經不在你上方、而是在你旁邊，結果會是被壓平在更糟的位置。",
+    "answer_line": "借他們向前的壓力",
+    "distractors": {
+     "plausible": [
+      "在他們鞏固之後最好用",
+      "只能在切入開始前用"
+     ],
+     "trap": [
+      "等膝蓋越過之後才鑽下去"
+     ]
+    }
+   }
+  ]
+ }
+}

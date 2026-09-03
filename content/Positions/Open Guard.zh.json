@@ -1,0 +1,123 @@
+{
+ "_meta": {
+  "source": "content/Positions/Open Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置定義了 open guard，並把它與 closed guard 區分開來？",
+   "answer": "open guard 泛指任何雙腿沒有鎖住、而是各自獨立活動的下位 guard，而不是交叉夾在對手軀幹上。雙腿作為分開的 frame 與槓桿運作，用腳踩髖、脛骨橫擺在大腿上、或用膝蓋當障礙，來管理雙方之間的空間。這是拿鎖死的 closed guard 那種被動、能自我維持的安全性，去換取機動性、製造角度的能力，以及更寬的攻擊選單。定義性的取捨在於：控制必須持續地重新建立，而不是靠交扣腳踝的機械鎖定守住。",
+   "answer_line": "雙腿不鎖，作為主動 frame",
+   "distractors": {
+    "plausible": [
+     "腳踝交叉環在對方腰上",
+     "只靠 grip，雙腿不參與"
+    ],
+    "trap": [
+     "讓雙腿攤平、被動不動"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 open guard 被視為一個無法靜態守住的動態位置？",
+   "answer": "open guard 沒有機械鎖，控制只存在於 guard 方的 frame 與 passer 的推進之間那份主動張力裡。任何一方一停止調整，距離與角度的平衡就會偏移，控制權就轉移到還在移動的那一方。因此雙方都必須在兩到三秒的窗口內讀取並反應，不斷重新擺放雙腳、grip 與髖。這就是為什麼 open guard 比 closed guard 更耗體力，也更獎勵在移動能力與模式辨識上更強的一方。",
+   "distractors": {
+    "plausible": [
+     "靠力量硬撐著不動",
+     "grip 抓好一次之後就放鬆"
+    ],
+    "trap": [
+     "停止移動以節省體力"
+    ]
+   },
+   "answer_line": "沒有鎖，只有主動的張力"
+  },
+  {
+   "question": "在 open guard 的交換中，雙方共同的主要控制點有哪些？",
+   "answer": "這場交換由下半身對雙腿的爭奪，以及上半身對 grip 的爭奪共同主宰。guard 方的雙腳、脛骨與膝蓋去爭奪 passer 的髖與腿，而 sleeve、collar、手腕或褲子上的 grip 則爭奪 posture 與方向。控制權屬於能把上下兩組連結串成單一連貫框架的那一方，因為彼此脫節的 grip 和 hook 可以被拆開、被繞過。passer 靠把控腿與上半身壓力配對起來贏得這個配置；guard 方則靠讓這兩套系統保持分離來取勝。",
+   "answer_line": "把控腿與 grip 串在一起",
+   "distractors": {
+    "plausible": [
+     "光靠 grip 就能決定這場交換",
+     "只要控制頭與肩膀就好"
+    ],
+    "trap": [
+     "只追 hook，放掉所有 grip"
+    ]
+   }
+  },
+  {
+   "question": "距離管理如何決定誰控制了一場 open guard 的交鋒？",
+   "answer": "距離是主控變數，因為每一種 guard 變化型和每一種 pass 風格，都在特定的最佳距離上運作。在中距離，guard 方的雙腳構得到 passer 的髖，同時雙手構得到他的上半身，形成完整的兩點控制。太近會讓腿的 frame 崩掉，招來 smash 與壓力式的 pass；太遠則切斷連結，讓 passer 可以脫離或自由繞行。整場交換就是一場競賽：把對手逼進一個你的工具有效、而他的工具無效的距離。",
+   "answer_line": "中距離能保住兩組連結",
+   "distractors": {
+    "plausible": [
+     "距離越近永遠越安全",
+     "把與對手的距離拉到最大"
+    ],
+    "trap": [
+     "一路貼近到胸貼胸"
+    ]
+   }
+  },
+  {
+   "question": "在 open guard 中，角度對 guard 方與 passer 各自扮演什麼角色？",
+   "answer": "open guard 本質上是一場「保持正對」與「取得側向角度」之間的爭奪。guard 方要努力讓膝線與雙腳持續指向 passer 的中線，因為正對的角度能讓雙腿有效地 frame 並威脅 sweep。passer 則設法繞到側邊，取得一個越過腿線的角度，因為繞過雙腳正是把一次嘗試轉化為完成的 pass 的關鍵。髖的活動度是這場競賽的引擎——誰先製造出或剝奪掉那個角度，誰就決定這段流程會變成 sweep 還是 pass。",
+   "answer_line": "guard 求正對，pass 求角度",
+   "distractors": {
+    "plausible": [
+     "雙方都想保持正對",
+     "角度只在 takedown 時才重要"
+    ],
+    "trap": [
+     "轉身背對來製造角度"
+    ]
+   }
+  },
+  {
+   "question": "為什麼阻止被壓平、胸貼胸的連結，是 open guard 配置的核心？",
+   "answer": "這個位置的定義就是維持分離：guard 方的腿部 frame 與 passer 的 posture，在兩具軀幹之間維持一段緩衝空間。胸貼胸的接觸意味著那段空間已經崩塌，guard 實際上已經被 pass 或即將被 pass。對下位者而言，讓肩膀離開墊面、髖保持能動，就能保住撐住這個縫隙的 frame；對上位者而言，壓縮這個縫隙並把肩膀壓住就是目標。這個軀幹對軀幹的連結存在與否，是判斷誰在這場交換中佔上風最清楚的訊號。",
+   "answer_line": "保住空間，肩膀不落墊",
+   "distractors": {
+    "plausible": [
+     "把腳踝交叉在對方背後",
+     "把髖壓平以保持沉重"
+    ],
+    "trap": [
+     "讓對方沉下來胸貼胸"
+    ]
+   }
+  },
+  {
+   "question": "open guard 如何作為通往各種專門化 guard 變化型的中樞？",
+   "answer": "open guard 是中性、通用的起始配置，從這裡把雙腿與 grip 投入到某個特定結構，就能進入每一種具體的 guard。腳踩髖與 frame 是回歸的原點，從那裡選手依對手的姿態選擇：對站立姿態用 De La Riva，對跪姿爭 grip 的對手用 spider 或 lasso，對向前施壓的對手用 butterfly 與 X-guard。因為這些變化型共用同一個開腿的基礎，選手會隨著對手 posture 的改變在它們之間流動，而不是死守其中一種。這種門戶特質，正是 open guard 成為現代 guard 打法在進攻與保持上共同基礎的原因。",
+   "answer_line": "中性樞紐，隨姿態流動",
+   "distractors": {
+    "plausible": [
+     "選定一種 guard 然後全力投入",
+     "任何 guard 都能應付任何姿態"
+    ],
+    "trap": [
+     "轉身背對來切換 guard"
+    ]
+   }
+  },
+  {
+   "question": "是什麼讓 grip 的爭奪成為 open guard 交換的節奏控制機制？",
+   "answer": "在任何 pass 或 sweep 被嘗試之前，grip 就決定了誰能主導方向、破壞 posture 並設定節奏。誰先建立起優勢 grip，誰就控制距離與角度，逼對手只能反應而無法主動發起。grip 要用二對一的力學一次破一個，因為同時破兩個會破壞自己的 base，招來破勢。這層不斷進行的手部爭奪就跑在腿部之戰的底下，而贏得它的一方通常也贏得位置上的交換，因為沒有 grip 支援的腿部 frame 要繞過去容易得多。",
+   "answer_line": "贏下 grip，一次破一個",
+   "distractors": {
+    "plausible": [
+     "光靠雙腿就能控制節奏",
+     "等對方先抓 grip"
+    ],
+    "trap": [
+     "同時破掉兩邊的 grip"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "_meta": {
+  "source": "content/Positions/Standing Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_position": [
+  {
+   "question": "哪些結構特徵定義了 Standing Position，讓它有別於 BJJ 裡每一個地面狀態？",
+   "answer": "Standing Position 的定義是雙方都站立、只有雙腳與墊子接觸，站在可移動的雙腿 base 上，且尚未建立任何支配性控制。因為沒有一方建立支配控制，這個配置是對稱且中立的：雙方對進攻有同等的取用權，也承擔同等被破勢的風險。由於重心高、且只靠雙腳支撐，base 上的細微擾動會很快轉化成跌倒或 takedown，這就是為什麼步法與 posture 主導了這場交換。這和地面位置形成鮮明對比——那裡接觸面積大、base 低，而且控制的層級早已確立。",
+   "distractors": {
+    "plausible": [
+     "已經有一方取得控制",
+     "膝蓋著地也算站立"
+    ],
+    "trap": [
+     "先把身體挺高去搶 grip"
+    ]
+   },
+   "answer_line": "雙方站立，雙腳活動 base"
+  },
+  {
+   "question": "為什麼 Standing Position 明明是整場比賽的入口，卻被歸類為中立、分值為零？",
+   "answer": "站立是中立且零分的，因為雙方都還站著時，誰都沒有位置或分數上的優勢。兩人都站直，有同等機會發動 takedown、摔投或 guard pull，而且光是站在腳上不會得分，因為這個位置不賦予任何對對手的髖、posture 或移動的控制。分數只有在其中一方把這場交換轉化成 takedown、sweep，或滿足推進條件的支配性落地時才會改變。正是這種零和的對稱，讓 grip 之爭與破勢如此激烈，因為雙方都在競逐把中立打破成對自己有利的局面。",
+   "distractors": {
+    "plausible": [
+     "站立可以拿到 advantage",
+     "grip 鎖上之後就開始計分"
+    ],
+    "trap": [
+     "沒有鋪陳就硬幹 takedown"
+    ]
+   },
+   "answer_line": "中立，尚未建立任何控制"
+  },
+  {
+   "question": "站立交換中雙方主要爭奪哪些控制點，控制每一個各能達成什麼？",
+   "answer": "主要控制點是 collar 或脖子（透過 collar tie）、sleeve 或手腕，以及在 no-gi 中的二頭肌、手腕與頭。collar 與 collar tie 的控制掌管對手的 posture 與頭部位置，讓你能做 snapdown、操縱他們的高度。sleeve 或手腕的控制掌管他們的手臂與架 frame 的能力，封鎖 grip 並鋪陳 arm drag 與摔投。從 clinch 距離的頭部與 inside tie 控制，則決定距離與前後方向的壓力。誰贏下這些控制點的多數，誰就決定距離、角度以及每一次進入的時機，這就是為什麼手部纏鬥是持續進行、而不是偶爾為之。",
+   "answer_line": "collar tie、sleeve、手腕、頭",
+   "distractors": {
+    "plausible": [
+     "站立時只有抓腿的 grip 有用",
+     "只需要抓腰帶和褲子"
+    ],
+    "trap": [
+     "直接抓腿，不管上半身 grip"
+    ]
+   }
+  },
+  {
+   "question": "破勢（kuzushi）的力學在 Standing Position 中，對施加的一方與抵抗的一方各是如何運作的？",
+   "answer": "破勢的做法，是利用推拉的互動、方向變換與 grip 帶動的重量操縱，把對手的重心逼到雙腳所形成的 base 之外。當一方拉、另一方抗，或是一方朝著後退的對手推進時，抵抗方的重量會短暫地落在自己 base 的某個邊緣上，形成一個窗口，讓 takedown 或摔投遇到最小的抵抗。抵抗的一方必須靠調整步法、降低髖來持續把重心找回，讓重心保持在雙腳之上。因為雙方都站在可移動的兩點 base 上，kuzushi 是相互的：同一組推拉，如果發動者自己的重量壓得太過，也可能被反過來用在他身上。",
+   "distractors": {
+    "plausible": [
+     "只有拉才能造成破勢",
+     "破勢需要用力猛推一把"
+    ],
+    "trap": [
+     "把全身重量往前壓上去"
+    ]
+   },
+   "answer_line": "推拉把重心逼出 base 邊緣"
+  },
+  {
+   "question": "距離管理在決定 Standing Position 究竟能用哪些技術上，扮演什麼角色？",
+   "answer": "距離同時為雙方設定了可用技術的菜單。在沒有接觸的遠距離，換高度的搶腿（single leg、double leg）與開放空間的步法居於主導，因為沒有 grip 需要先破。在 grip 距離，collar-sleeve 的交換、arm drag 與 guard pull 變得可用，因為雙手構得到控制點。在近身的 clinch 距離，摔投、snapdown、body lock 與 Front Headlock 系列打開，而搶腿則變得難以完成。雙方都用步法把交換帶到有利於自己慣用進入方式的距離，這就是為什麼控制距離，等於同時控制了對手與自己的選項。",
+   "answer_line": "每個距離開啟不同攻擊",
+   "distractors": {
+    "plausible": [
+     "摔投可以從遠距離發動",
+     "每一次搶腿前都得先有 grip"
+    ],
+    "trap": [
+     "盲目衝進 clinch"
+    ]
+   }
+  },
+  {
+   "question": "為什麼屈膝、重量落在前腳掌的運動員站姿，對雙方維持 Standing Position 都是根本？",
+   "answer": "膝蓋微彎、髖落在雙肩後方、重量放在前腳掌的站姿，會降低重心並讓它維持在 base 正上方，而這正是抵抗各方向破勢的關鍵。彎曲的膝蓋讓你能瞬間換高度去搶腿或 sprawl，不必先花時間彎下來；相對地，鎖死的膝蓋與偏向腳跟的重量會抬高重心、拖慢每一個反應。重量放在前腳掌，則保留了快速踏步、旋轉與重新分配重量以配合對手移動的能力。因為這個位置是對稱的，雙方都依賴同一套 base，誰先放棄它，誰就成了比較好打的目標。",
+   "answer_line": "重心低，重量在前腳掌",
+   "distractors": {
+    "plausible": [
+     "站高一點才看得到破綻",
+     "站得最寬就能擋掉所有 sweep"
+    ],
+    "trap": [
+     "把膝蓋打直讓 base 更穩"
+    ]
+   }
+  },
+  {
+   "question": "Standing Position 與它常通往的鄰接目的地 Clinch 和 guard pull，有何關聯與差異？",
+   "answer": "Standing Position 是開放、中立的站立狀態；Clinch 則是同一個站立架構，但已經建立了 grip 與頭部或身體的控制，把距離壓縮、讓交換轉向摔投與 takedown。guard pull 則是刻意完全放棄站立的中立 base，把其中一方帶到坐姿或仰躺的地面位置，例如 closed guard、Seated Guard 或 De La Riva Guard，用站立的機動性換取下位的 guard 打法。這兩種過渡都在解決站立的中立性：clinch 是在保持垂直的同時收緊控制，guard pull 則是自願落到地面。理解這些鄰接關係之所以重要，是因為每一個站立時的決策，最終都是在選擇要把這個中立位置轉換成哪一種狀態。",
+   "answer_line": "Clinch 加 grip，pull 直接落地",
+   "distractors": {
+    "plausible": [
+     "guard pull 之後你還是站著",
+     "clinch 只指胸貼胸"
+    ],
+    "trap": [
+     "grip 都沒設好就 pull guard"
+    ]
+   }
+  },
+  {
+   "question": "為什麼從 Standing Position 直接 submission 很罕見，又是什麼條件讓那些例外得以發生？",
+   "answer": "直接的 submission 之所以罕見，是因為中立的站立配置讓任何一方都無法對肢體或脖子取得孤立並終結所需的持續控制，而且雙方都保有完整的機動性可以繞開或把 posture 挺回來。高而靈活的 base 也意味著，投入 submission 的攻擊方在鎖緊之前，就有被破勢或被反制的風險。例外出現在一方因為 posture 往下掉、或搶腿姿勢太差而露出脖子時，打開站立的 guillotine 與 Front Headlock 勒頸；或是像 Flying Kneebar、跳 guard 這類飛身攻擊，把站立的交鋒直接轉換成腿部纏鬥或 submission。這些都是高風險、高技術的動作，仰賴特定的破綻，而不是中立位置裡可靠的預設選項。",
+   "answer_line": "太靈活，無法持續控制",
+   "distractors": {
+    "plausible": [
+     "規則禁止落地前的 submission",
+     "站立 submission 需要 gi 的 grip"
+    ],
+    "trap": [
+     "每次對手搶腿都跳 guillotine"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "_meta": {
+  "source": "content/Positions/Turtle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_position": [
+  {
+   "question": "什麼樣的身體配置定義了 turtle，讓它有別於 guard 被 pass 之後的壓制？",
+   "answer": "turtle 是四點著地的姿態——雙手在肩下、雙膝在髖下、背拱起、背部門戶大開——而且沒有人被壓平。和 side control 或 mount 這類壓制不同，下位者並沒有被壓成仰躺；他們保有一個活的四點 base 與機動性，另一人則從後方或側邊施作。這個收緊而拱圓的殼，是用背後的暴露換取 submission 的防護，封住身體正面、讓出背部。它是被 pass 之後、走向重建 guard 或交出背部之間的過渡交叉口。",
+   "distractors": {
+    "plausible": [
+     "胸與膝貼在墊子上",
+     "跪直起身、頭抬得高"
+    ],
+    "trap": [
+     "肚子朝上、肩膀被壓住"
+    ]
+   },
+   "answer_line": "四點著地，沒有被壓平"
+  },
+  {
+   "question": "為什麼 turtle 對雙方而言都被普遍視為過渡位置，而不是休息或穩定的位置？",
+   "answer": "turtle 是過渡性的，因為它對雙方都不穩定：下位者的背暴露著，上位者也還沒拿到 hook。下位者的 base 是活動的、背卻是開的，而上位者尚未建立 harness、hook 或終結。任何停頓都會讓下位者重建 guard 或站起來，或讓上位者鎖死控制。雙方在跟同一個時鐘賽跑——下位者要在控制成形前逃掉，上位者要在 escape 發動前推進——這就是為什麼支配這場交換的是持續移動，而不是安定下來。",
+   "distractors": {
+    "plausible": [
+     "是下位者穩定的休息位置",
+     "在 hook 進來之前都安全"
+    ],
+    "trap": [
+     "暫停一下，重整雙方 grip"
+    ]
+   },
+   "answer_line": "雙方都不穩，沒人站得穩"
+  },
+  {
+   "question": "不論你是哪一方，決定 turtle 這場交換勝負的主要控制點是什麼？",
+   "answer": "決定性的控制點是上半身的 seatbelt／harness、插進髖或大腿的 hook（腳的插入），以及雙方髖與髖之間的連結。誰掌握上半身的 grip、誰能阻止或建立 hook 的插入，誰就決定這場交換的走向。下位者拚的是把手肘緊貼膝蓋，讓 underhook 無法穿進來；上位者拚的是把手臂穿到裡面、並建立髖對髖的連結。上半身的控制必須先於 hook，因為沒有 harness 的 hook 很容易被踢開。",
+   "answer_line": "seatbelt、hook、髖的連結",
+   "distractors": {
+    "plausible": [
+     "腳踝的 grip 決定這場交換",
+     "sleeve 控制決定一切"
+    ],
+    "trap": [
+     "沒有 grip 就直接撲背"
+    ]
+   }
+  },
+  {
+   "question": "重量分配如何決定 turtle 中雙方各自能用哪些技術？",
+   "answer": "上位者的重量落點，是雙方共同在讀的觸發訊號。重量壓得高、往前落在背上，會讓上位者暴露在 granby 這類翻滾之下，但同時壓平下位者的 posture；重量壓得低、配上 underhook，能壓死機動性，卻放開了下位者的髖，讓他們能坐穿或站起來。下位者監看這個分配來抓爆發逃脫的時機，上位者則靠調整它來封死逃脫路線。因為往任一方向的重壓一定會打開另一邊，重量是一場活的協商，而不是固定的設定。",
+   "distractors": {
+    "plausible": [
+     "隨時保持平均的平衡",
+     "壓得越重一定越安全"
+    ],
+    "trap": [
+     "全部往高處、往前壓過去"
+    ]
+   },
+   "answer_line": "重量落點是一種取捨"
+  },
+  {
+   "question": "為什麼 grip 之爭與手部纏鬥是 turtle 裡雙方定調節奏的戰場？",
+   "answer": "誰贏得 grip 之爭，誰就控制後續每一次交換的節奏與方向，所以雙方都會在做其他事之前先搶手。上位者需要一個支配性的 grip——seatbelt、手腕或髖的控制——才能推進；下位者則需要破掉那個 grip，製造出 escape 所需的鬆動瞬間。雙方每一項技術，都被「相關的 grip 建立了沒、破掉了沒」所把關。這就是為什麼雙方都不會在對方控制穩固時硬攻或硬逃；他們會先打 grip，把空隙製造出來。",
+   "answer_line": "grip 之爭定調節奏",
+   "distractors": {
+    "plausible": [
+     "位置比手部纏鬥更重要",
+     "跟著對方的手反應，不要主導"
+    ],
+    "trap": [
+     "沒有控制就直接撲脖子"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在 turtle 裡，脖子同時是最高優先的攻擊目標與最高優先的防守重點？",
+   "answer": "背部暴露加上頭低下來，讓脖子持續落在 Front Headlock 與後方勒頸的射程內，使它成為上位者最直接的終結、也是下位者最緊急要保護的部位。下位者的防守是把下巴收進胸口、把上背拱圓，消滅手臂環住喉嚨所需的空間。上位者的進攻則是把頭撬起來，或在下巴一抬起時就把手臂穿過喉嚨。這種對脖子的共同聚焦，就是為什麼抬頭是這個位置裡被懲罰得最兇的單一錯誤。",
+   "answer_line": "背後暴露，勒頸隨手可得",
+   "distractors": {
+    "plausible": [
+     "髖比脖子更重要",
+     "手臂才是上位者的主要目標"
+    ],
+    "trap": [
+     "抬起頭來看看四周"
+    ]
+   }
+  },
+  {
+   "question": "下位者的 frame 與手肘貼膝的連結，如何定義 turtle 的結構完整性？",
+   "answer": "下位者的防守外殼，取決於手肘黏在膝蓋內側、前臂隨時可用來對上位者的髖與胸口架 frame。這個連結封住了 underhook 會鑽進來的縫隙，讓上位者無法把髖的控制和肩的控制分開——而那個切分正是讓位置崩解的關鍵。一旦手肘外開，underhook 就穿進來，結構便朝著被壓平或被取背瓦解。這些 frame 同時也管理距離與壓力，讓下位者能感受重量的移動，並保有讓 turtle 維持為活的過渡、而不是被壓制的機動性。",
+   "answer_line": "手肘黏膝，封死縫隙",
+   "distractors": {
+    "plausible": [
+     "手臂伸長把人推開",
+     "把站姿張寬來取得 base"
+    ],
+    "trap": [
+     "往後伸手去抓他的腿"
+    ]
+   }
+  },
+  {
+   "question": "turtle 和 back control、Front Headlock 這些鄰近位置的差別是什麼，它又如何流向它們？",
+   "answer": "turtle 是尚未定案的中點：從這裡，上位者可以用 harness 加上插入 hook 推進到 back control，或繞到頭部、威脅脖子而進入 Front Headlock；下位者則可以回到 closed guard 或 half guard、站起來，或翻滾回 guard。back control 以鎖好的 hook 把「背部暴露」這場賭局判給上位者；Front Headlock 則以擒住頭頸來判定。而 guard 的重建，則靠重新面對對手把局面判給下位者。turtle 本身既沒有 hook 也還沒有 guard——它是這些結果被決定之前的分岔節點。",
+   "answer_line": "turtle 還沒 hook，也還沒 guard",
+   "distractors": {
+    "plausible": [
+     "這已經算是取背了",
+     "是可以安心待著的大本營"
+    ],
+    "trap": [
+     "就在下位安頓下來休息"
+    ]
+   }
+  }
+ ]
+}

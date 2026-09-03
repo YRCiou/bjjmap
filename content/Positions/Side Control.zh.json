@@ -1,0 +1,223 @@
+{
+ "_meta": {
+  "source": "content/Positions/Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_family": [
+  {
+   "question": "不論上位者採用哪一種 grip 配置，是什麼讓所有 side control 的變化型都成為優勢位置？",
+   "answer": "所有 side control 變化型共有的，是越過雙腿之後、胸貼胸的垂直對位，這讓對手的 guard 完全出局。這種垂直關係把控制的接觸面積最大化，同時剝奪下位者在任何 guard 中原本可用的髖與腿的槓桿。因為雙腿被中和了，下位者無法使用他最強的防守工具，只能單靠 frame 與髖的移動。這個共通的幾何關係，就是為什麼 side control 值 3 分 IBJJF 積分，並且在所有 scarf hold 與 cross-side 的表現形式中，位階都高於 guard。",
+   "distractors": {
+    "plausible": [
+     "像 mount 那樣的平行對位",
+     "肩膀疊住，髖是自由的"
+    ],
+    "trap": [
+     "留在對手的 guard 裡面"
+    ]
+   },
+   "answer_line": "垂直對位，guard 被中和"
+  },
+  {
+   "question": "為什麼「透過髖而非手臂分配重量」是所有 side control 變化型共通的控制原則？",
+   "answer": "在任何 side control 變化型裡，把重量壓在手臂上，都會在胸口下方造出空間，讓下位者可以用 frame 和髖 escape 去利用。改成把重量低低地透過髖與軀幹分配出去，能讓連結保持沉重，並消除對方恢復所需的縫隙。這也讓上位者的雙手保持輕盈靈活，可以去爭 grip 和進入 submission，而不是承擔負重。不論你在的是經典的 cross-side、kesa gatame 式的 scarf hold，還是 reverse 變化型，這個原則都成立，因為在所有這些形式中，低處施加的死重都比高處撐起來的重量更難移動。",
+   "answer_line": "重量低壓透過髖，不靠手臂",
+   "distractors": {
+    "plausible": [
+     "緊緊夾住對方的頭",
+     "跪高一點以維持平衡"
+    ],
+    "trap": [
+     "雙手撐地以求機動性"
+    ]
+   }
+  },
+  {
+   "question": "下位者要從任何 side control 變化型中脫身，必須結合哪些通用的 escape 機制？",
+   "answer": "要從任何 side control 變化型 escape，都必須把「製造空間的髖移動」與「阻止上位者跟上的 frame」結合起來。沒有 frame 就只把髖 shrimp 開，只會讓對手重新沉下來跟上；只有 frame 而沒有髖的移動，則造不出回收 guard 或轉進去所需的空間。frame 通常撐在對手的髖與肩膀或頸部上，替你買到插入膝蓋或從下面 shrimp 的那一瞬間。這種「frame 加上移動」的搭配，是每一種 escape 的共同基礎，從手肘 escape 到 bridge and roll 反轉都一樣。",
+   "distractors": {
+    "plausible": [
+     "不用 frame，直接 shrimp 開",
+     "用力 bridge 把對方翻過去"
+    ],
+    "trap": [
+     "用手掌推對方的臉"
+    ]
+   },
+   "answer_line": "frame 與髖的移動要同時做"
+  },
+  {
+   "question": "為什麼在每一種 side control 變化型中，控制對手的頭與遠側手臂始終是共同的優先事項？",
+   "answer": "控制頭與遠側手臂，切斷了下位者用來製造 escape 動作的兩個結構。用 crossface 或 headlock 壓住頭，能阻止他轉向你、造出 shrimp 或起身跪立所需的角度。困住遠側手臂，則移除了他橫過你身體 frame、或用 underhook 反轉位置的能力。無論該變化型強調的是 crossface、scarf hold 的夾頭，還是 underhook，中和這兩個點正是把一個鬆散的壓制轉化為無法逃脫的控制的關鍵。",
+   "answer_line": "控制頭與遠側手臂",
+   "distractors": {
+    "plausible": [
+     "控制近側手臂與髖",
+     "控制雙腿與遠側的髖"
+    ],
+    "trap": [
+     "放開頭部去攻擊腿"
+    ]
+   }
+  },
+  {
+   "question": "為什麼決定 side control escape 成敗的是時機而非蠻力？",
+   "answer": "在對手已經沉下來、base 撐好的狀態下硬要移動，不管技術品質多好都會失敗，因為他的重量與結構正是為了抵抗靜態壓力而最佳化的。escape 成功的時機，是上位者為了攻 submission 而抬起重量、往 mount 或 north-south 轉換、或以其他方式破壞了自己 base 的那些短暫窗口。在那些瞬間，壓制會短暫鬆開，髖的移動就能造出真正的空間。這就是為什麼耐心的存活與讀取對手的轉換，比爆發性的出力更重要——這個道理在這個位置的所有變化型中都成立。",
+   "answer_line": "趁對手轉換時 escape",
+   "distractors": {
+    "plausible": [
+     "用爆發力硬 escape",
+     "在他剛沉下來時馬上 escape"
+    ],
+    "trap": [
+     "一動不動等他累"
+    ]
+   }
+  },
+  {
+   "question": "下位者在做 side control escape 時轉身面向上位者，會招致什麼通用的危險？",
+   "answer": "在任何 side control 變化型下從底下轉身面向對手，會暴露背部與頸部，把一個糟糕的位置變成更糟的位置。當下位者朝上位者旋轉時，等於把脊椎送出去，並把頸部打開給 choke 和 back take 的入口。安全的原則是：必須旋轉時要背離對手，讓背部受到保護，或是完全不轉身就把 escape 做完。無論壓制的是 scarf hold、reverse 變化型還是標準 cross-side，這條防守規則都不變，因為一旦把背交出去，上位者的優勢一定會增加。",
+   "answer_line": "頸部暴露給正面的 choke",
+   "distractors": {
+    "plausible": [
+     "髖被壓平在墊子上",
+     "frame 崩掉，失去空間"
+    ],
+    "trap": [
+     "轉身背對，把背交出去"
+    ]
+   }
+  },
+  {
+   "question": "為什麼上位者必須持續威脅 submission 或推進，而不是靜態地守著 side control？",
+   "answer": "靜態的壓制會給下位者不受打擾的時間去建立 frame、恢復體力、並構築有系統的 escape，逐步侵蝕上位者的優勢。持續威脅 submission，或推進到 mount、knee-on-belly、north-south，會逼下位者陷入被動防守，永遠慢一步。每一個威脅也會打開下一個威脅，因為對手防住一個攻擊時，就暴露了另一個。這個進攻壓力原則適用於每一種變化型，因為力學上的控制，只有搭配上讓對手無法解題的活動，才有價值。",
+   "answer_line": "持續威脅 submission",
+   "distractors": {
+    "plausible": [
+     "守住壓制，慢慢耗",
+     "等完全控制住之後才推進"
+    ],
+    "trap": [
+     "放鬆 grip 來節省體力"
+    ]
+   }
+  }
+ ],
+ "flashcards_position": [
+  {
+   "question": "什麼樣的身體配置在結構上定義了 Side Control，並把它與其他壓制區分開來？",
+   "answer": "Side Control 的定義是上位者胸貼胸、橫向垂直地趴在對手軀幹上，並且已經越過、離開了對手的雙腿。這種橫向對位是本質特徵：兩具身體大致形成一個十字，而不是 mount 那種平行堆疊，也不是 north-south 那種頭對頭的反向。因為上位者已經越過雙腿，下位者無法用 guard 或 knee shield 來管理距離，這正是為什麼回收 guard 是 escape 的核心目標。垂直的幾何關係把上位者的控制接觸面最大化，同時把下位者能用髖與膝蓋產生的槓桿降到最低。",
+   "distractors": {
+    "plausible": [
+     "像 mount 那樣跨坐在髖上",
+     "面朝相反方向，身體同一直線"
+    ],
+    "trap": [
+     "留在 guard 裡面胸貼胸"
+    ]
+   },
+   "answer_line": "胸貼胸，越過雙腿"
+  },
+  {
+   "question": "為什麼 Side Control 的垂直對位，能以相對很少的維持成本產生這麼大的控制？",
+   "answer": "垂直對位把上位者的體重分散在對手軀幹最寬的一段上，讓骨架結構與重力成為主要的控制機制，而不是肌肉的張力。因為負荷同時分佈在胸口與髖上，上位者可以相對放鬆，而下位者卻必須對抗全部的重量才造得出任何空間。越過雙腿也把對手最強的槓桿——髖與膝蓋——排除在外。這個組合就是為什麼 Side Control 對上位者被評為低體力成本、可長時間維持，對下位者防守起來卻極度耗竭。",
+   "answer_line": "重量分散，維持成本很低",
+   "distractors": {
+    "plausible": [
+     "是強力的 grip 在做壓制的工作",
+     "靠轉換的速度壓住他"
+    ],
+    "trap": [
+     "坐起來以便往下壓得更用力"
+    ]
+   }
+  },
+  {
+   "question": "把雙方固定在 Side Control 配置中的主要控制點有哪些？",
+   "answer": "Side Control 由三個相互扣連的點錨定：頭上的 crossface、近側的髖阻擋，以及垂直的胸貼胸連結。crossface 壓住頭，阻止下位者轉進來面向上位者，而那正是大多數 escape 的前提。近側髖阻擋是上位者用近側手臂 frame 住對方遠側的髖，剝奪他回收 half guard 所需的插膝空間。沉重的胸貼胸連結則消除了 frame 與 bridge 所仰賴的縫隙，因此誰控制了這三個點，誰就控制了這場交換。",
+   "distractors": {
+    "plausible": [
+     "只有 underhook 與腿的控制",
+     "遠側手臂控制加上膝壓"
+    ],
+    "trap": [
+     "放開 crossface 去做 guillotine"
+    ]
+   },
+   "answer_line": "crossface、擋髖、胸口壓力"
+  },
+  {
+   "question": "為什麼「製造或剝奪空間」是 Side Control 中主宰雙方的核心動態？",
+   "answer": "Side Control 本質上是一場關於兩具軀幹與兩組髖之間空間的爭奪，因為雙方每一個有意義的動作都取決於那個縫隙。上位者靠消除空間取勝，把髖壓低、胸口壓重，讓下位者無法插入 frame、膝蓋或做出 bridge。下位者則靠製造出哪怕一點點空間取勝，因為 frame 加上一次 shrimp，就足以重新打開回收 guard 或轉進 turtle 所需的空間。在這個空間問題解決之前，上位的 submission 和下位的 escape 都不會出現，這也是為什麼 frame 與壓力是這個位置雙方共通的語言。",
+   "answer_line": "爭奪的是髖之間的空間",
+   "distractors": {
+    "plausible": [
+     "爭奪的是 grip 的力量",
+     "爭奪的只是頭的位置"
+    ],
+    "trap": [
+     "上位者打開空間來進攻"
+    ]
+   }
+  },
+  {
+   "question": "雙方髖之間的連結，如何形塑 Side Control 中可能發生的事？",
+   "answer": "髖對髖的接觸，是把真正穩固的 Side Control 與鬆散、可被 escape 的壓制區分開來的關鍵。當上位者把髖壓低並貼緊對手的髖時，下位者就產生不出驅動 escape 所需的 bridge 高度或插膝空間。如果上位者把重量飄高到胸口上，失去了髖的接觸，下位者立刻就取得 shrimp、frame、並重新把一條腿放進來的空間。這就是為什麼上位者的重量分配錯誤，與下位者製造空間的策略，都集中在髖線而不只是上半身。",
+   "answer_line": "髖壓低，緊貼在一起",
+   "distractors": {
+    "plausible": [
+     "胸口壓重，髖飄高",
+     "重量壓在肩上，髖是自由的"
+    ],
+    "trap": [
+     "抬起髖來準備 submission"
+    ]
+   }
+  },
+  {
+   "question": "儘管三者都是優勢的上位壓制，Side Control 在力學上與 mount、north-south 有何不同？",
+   "answer": "三者都是優勢壓制，但區分它們的是身體相對於對手的角度。在 Side Control，上位者橫向垂直地趴在軀幹上；在 mount，上位者平行跨坐在髖的上方；在 north-south，上位者面朝相反方向、越過頭部，兩具身體成一直線。Side Control 的垂直角度提供了寬闊穩定、且已越過雙腿的 base，但留下近側的髖作為對方恢復的通道；mount 則跨坐在髖上，控制與分數都更高；north-south 則以髖的控制換取對頭與肩膀的主導控制。在三者之間移動，就是把重量繞著對手軀幹樞轉，同時絕不放掉把兩具身體綁在一起的那份空間。",
+   "answer_line": "角度：垂直對上平行",
+   "distractors": {
+    "plausible": [
+     "角度相同，只是 grip 不同",
+     "只由分數高低來區分"
+    ],
+    "trap": [
+     "只讓胸口飄著，髖沒有連結"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Side Control 在位置階層中扮演的是中樞而非終點？",
+   "answer": "Side Control 位於 guard pass 與更具優勢的位置之間的交會點，這就是為什麼它的性格是轉換中樞而非終端壓制。它是完成一次 guard pass 的自然結果，而從這裡上位者可以推進到 mount、knee-on-belly、north-south 或背後，也可以沉下來攻 submission。對下位者而言，它同樣是一個反向的中樞——half guard、turtle 或完整回收 guard 都是活的目標。這種門戶角色，加上它的穩定性與低體力成本，正是它被視為上位打法的基地、以及下位關鍵存活檢查點的原因。",
+   "answer_line": "介於 pass 與推進之間的中樞",
+   "distractors": {
+    "plausible": [
+     "最終位置，沒有更進一步的收穫",
+     "只能從 mount 到達"
+    ],
+    "trap": [
+     "到了之後退回 guard"
+    ]
+   }
+  },
+  {
+   "question": "為什麼控制頭與遠側手臂是 Side Control 的一層定義性結構，而不只是一個進攻選項？",
+   "answer": "控制頭與遠側手臂，是把一個單純的垂直壓制提升為穩固 Side Control 的關鍵，因為這兩肢正是下位者重新取得方向與空間的主要工具。透過 crossface 控制頭，鎖住了脊椎的對正，阻止了那個會讓下位者轉正、重建 guard 或站起來的轉入動作。控制遠側手臂——用 underhook 或把它困在身體另一側——則移除了關鍵的 frame 肢體，讓下位者失去把空間撐開所需的結構。這些控制層之所以是結構性的，是因為它們把整個配置維繫在一起，這也正是為什麼同樣這些 grip 從上面感覺安全、從下面卻感覺岌岌可危。",
+   "answer_line": "crossface 加上遠側手臂控制",
+   "distractors": {
+    "plausible": [
+     "近側手臂控制加上雙腿",
+     "光是控制頭就足夠了"
+    ],
+    "trap": [
+     "放開遠側手臂以解放雙手"
+    ]
+   }
+  }
+ ]
+}

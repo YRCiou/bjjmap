@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Hip Bump Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Hip Bump Sweep 中控制對手手臂的主要目的是什麼？",
+    "answer": "控制手臂能阻止對手撐地擋住 sweep，而如果他們改用另一隻手撐地，就直接設置好了 Kimura 的串接。這兩個目的互相配合：封死近側的撐手，逼他們要嘛認了這個 sweep，要嘛用遠側的手去伸，而那正好餵進 Kimura。手臂控制是讓整套 closed guard 進攻系統能環環相扣的關鍵樞紐。",
+    "answer_line": "封死撐手，餵進 Kimura",
+    "distractors": {
+     "plausible": [
+      "防止他們坐起來",
+      "設置 armbar 的攻擊"
+     ],
+     "trap": [
+      "放開手臂，他撐地就 pass"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在執行 hip bump 之前必須先做出 45 度角？",
+    "answer": "45 度的角度把你的力量導向對手 base 最弱的點，而不是最強的點。直直往前撞是攻擊他們最強的 base，而斜角度撞則是利用他們結構上的對角弱點。這個角度也讓你能從撐地的手和驅動的腿產生更多力量，同時更好地控制他們的上半身。",
+    "answer_line": "打在他們最弱的支撐點",
+    "distractors": {
+     "plausible": [
+      "讓髖部保持正對來撞",
+      "坐起來時比較省力"
+     ],
+     "trap": [
+      "直直撞，被壓平在地"
+     ]
+    }
+   },
+   {
+    "question": "Hip Bump Sweep、Kimura 和 Guillotine 如何在 closed guard 中形成一個攻擊三角？",
+    "answer": "這三個技術組成一套串接攻擊系統，防守其中一個就會打開另一個。當你嘗試 Hip Bump 時，如果對手用空出的手撐地，那隻手臂就處在完美的 Kimura 位置。如果他們把手臂抽回來防 Kimura，他們的頭就會往前送進 Guillotine 的位置。如果他們往後退來防 Guillotine，你又回到 Hip Bump 的機會。這形成一個沒有安全防守選項的連續循環。",
+    "answer_line": "防住一個就餵出下一個",
+    "distractors": {
+     "plausible": [
+      "只有照固定順序才有效",
+      "每個攻擊都是各自獨立用"
+     ],
+     "trap": [
+      "拖在 open guard，然後被 pass"
+     ]
+    }
+   },
+   {
+    "question": "你開始做 Hip Bump 時對手把手撐在墊子上——你要如何在技術中途調整？",
+    "answer": "你一感覺到他們撐地，就放棄這個 sweep，立刻轉換到 Kimura。他們撐地的手掌貼在墊子上、手肘暴露，這正是理想的 Kimura 設置。放開他們的另一隻手腕，繞過他們撐地的手臂抓住手腕做出 figure-four，然後把他們的手往背後方向轉來旋轉 Kimura。關鍵是瞬間辨認出撐地，然後毫不猶豫地切換。",
+    "answer_line": "立刻切換到 Kimura",
+    "distractors": {
+     "plausible": [
+      "等一個更好的機會",
+      "先重置回 closed guard"
+     ],
+     "trap": [
+      "不管它，硬把 sweep 推完"
+     ]
+    }
+   },
+   {
+    "question": "Hip Bump Sweep 中最關鍵的髖部動作是什麼？力量該往哪個方向導？",
+    "answer": "關鍵動作是朝被控制手臂那一側、以大約 45 度爆發性地斜向驅動髖部，而不是直直往前。力量必須同時來自撐地的手推地和驅動的腳蹬地。sweep 那一側的髖部和肩膀要接觸到對手的軀幹，形成一股統一的驅動力。斜向的方向利用的是他們 base 的結構弱點——因為你控制著那隻手臂，他們在那個方向撐不了地。",
+    "answer_line": "爆發性斜向驅動髖部",
+    "distractors": {
+     "plausible": [
+      "直直往前推髖",
+      "緩慢穩定的髖部壓力"
+     ],
+     "trap": [
+      "放開手腕去推地"
+     ]
+    }
+   },
+   {
+    "question": "no-gi 的 Hip Bump Sweep 相較於 gi，需要哪些 grip 調整？",
+    "answer": "在 no-gi 中，你不能抓 sleeve 或 collar，所以必須用 C-grip 或 monkey grip 直接控制對手的手腕。空出的手用 overhook 的方式繞過他們的後腦，或控制他們的三頭肌來破壞 posture。撞擊的力學完全相同，但爆發的投入必須更大，因為 no-gi 的 grip 本質上會因為汗水而更不牢固。時機也變得更加關鍵，因為你無法長時間維持 grip 的控制。",
+    "answer_line": "C-grip 抓手腕，overhook 扣頭",
+    "distractors": {
+     "plausible": [
+      "grip 可以像 gi 一樣撐很久",
+      "投入程度跟 gi 時一樣就好"
+     ],
+     "trap": [
+      "一直找 grip，被他 pass 掉"
+     ]
+    }
+   },
+   {
+    "question": "你開始坐起來做 Hip Bump 時，對手把髖部往後撤（sprawl）——還有哪些選項？",
+    "answer": "當他們往後 sprawl 時，依照退多遠會有幾個選項。如果他們 sprawl 了但上半身仍然前傾，你可以更強勢地把他們的頭往下拉，同時用更陡的角度驅動進去。如果他們拉開了明顯的距離，就在他們前傾 sprawl 時繞住脖子轉換成 Guillotine。你也可以利用坐起來的動作轉換成 technical stand-up，重置到中立的站立位置。sprawl 的防守會製造距離，但通常也會破壞他們上半身的 posture。",
+    "answer_line": "繞住脖子做 guillotine",
+    "distractors": {
+     "plausible": [
+      "追著他們的髖往後跑",
+      "頂著 sprawl 硬撞過去"
+     ],
+     "trap": [
+      "跟著追上去，把背讓出來"
+     ]
+    }
+   },
+   {
+    "question": "在打開 guard 嘗試 Hip Bump Sweep 之前，必須先滿足哪些條件？",
+    "answer": "只有在 posture 已被破壞、同側手腕或 sleeve 被控制住、他們的重心前傾、而且你撐地的手有清楚的落點時，才打開 guard。這四個條件都重要：頭低於髖部高度代表 posture 確實被破壞，而他們的重心必須是往前分布，而不是往後坐在腳跟上。在不具備這些條件時打開 guard，等於把自己暴露在 guard pass 之下，用 closed guard 的防守安全去換一個低成功率的 sweep 嘗試。",
+    "answer_line": "posture 已破、手腕已控",
+    "distractors": {
+     "plausible": [
+      "只要有一個優勢 grip 就好",
+      "任何一點小空隙都可以"
+     ],
+     "trap": [
+      "打開 guard 來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Hip Bump Sweep 在對手試圖建立強壯 posture 時特別有效？",
+    "answer": "起 posture 讓對手處在一個過渡的瞬間：他們的 base 還沒安定，向上的動量可以被導向側邊。當他們向上驅動時，重心會移到膝蓋和後方，而 base 尚未完全穩定；而且起 posture 這個動作通常會迫使他們放開 grip 或改變手的位置，給你控制手臂的窗口。你的斜向 hip bump 接著就把那股向上的動量轉向側邊。在他們 posture 恢復到一半時抓住，是這個 sweep 成功率最高的窗口。",
+    "answer_line": "把他起身的動量導向側邊",
+    "distractors": {
+     "plausible": [
+      "他們起身時抓不到 grip",
+      "等他們往後坐再攻擊"
+     ],
+     "trap": [
+      "讓他起 posture，然後被 pass"
+     ]
+    }
+   },
+   {
+    "question": "完成 sweep 落到 mount 之後，你該先建立哪三件事？",
+    "answer": "第一，把髖部低低地坐到他們的太陽神經叢區域，用沉重的向下壓力防止對手立刻做 bridge escape。第二，把膝蓋往兩側張開貼到墊子上建立寬 base，吸收任何 bridge 或 hip escape 的嘗試。第三，透過 collar grip、crossface 壓力，或延續 sweep 帶過來的手臂控制，來確保上半身的控制。在鞏固 mount 之前就急著找 submission，是常見的錯誤，會讓你失去剛剛才拿到的位置。",
+    "answer_line": "髖低、base 寬、建立控制",
+    "distractors": {
+     "plausible": [
+      "坐高一點比較好平衡",
+      "先抓住兩隻手腕"
+     ],
+     "trap": [
+      "直接衝去做 submission"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼維持強壯的 posture 是對抗 Hip Bump Sweep 最重要的防守原則？",
+    "answer": "強壯的 posture 直接否定了 Hip Bump Sweep 的根本前提。這個 sweep 需要攻擊者先把你的 posture 往前破壞，讓你的重心壓在他們身上，才有東西可以撞、可以轉向。當你維持挺直的 posture、髖部往後時，就沒有足夠的前傾重量可以被轉向，撞擊的角度也會失效，攻擊者無法產生所需的槓桿。維持 posture 能讓整個攻擊三角根本無從發動。",
+    "answer_line": "讓他沒有重量可以轉向",
+    "distractors": {
+     "plausible": [
+      "擋住他們的髖部移動",
+      "阻止他們把 guard 關起來"
+     ],
+     "trap": [
+      "往前傾去施加壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手打開 guard，你看到他把手撐在自己髖部後方——你的立即反應該是什麼？",
+    "answer": "這是 Hip Bump Sweep 正在發動最主要的辨識線索。你的立即反應應該是把髖部往後撤，同時把 base 張寬，並全力去破掉他們抓在你手腕或 sleeve 上的 grip。不要等到爆發性的撞擊才反應。手撐在髖部後方代表他們已經投入這個 sweep，而你在 guard 打開到完全撞出來之間，只有一個很窄的窗口能靠恢復 posture 來化解威脅。",
+    "answer_line": "髖部後撤，破掉他的 grip",
+    "distractors": {
+     "plausible": [
+      "等他撞出來再反應",
+      "抓一個很深的 collar tie"
+     ],
+     "trap": [
+      "把手往他的方向撐過去"
+     ]
+    }
+   },
+   {
+    "question": "當你知道攻擊者會把 Hip Bump 與 Kimura、Guillotine 串在一起時，防守該有什麼不同？",
+    "answer": "面對使用完整串接攻擊系統的對手，要避免可預測的單一反應。如果你每次都撐手，他們就會用 Kimura 吃掉你。如果你每次都把手臂抽回來，他們就會攻 Guillotine。最好的防守是靠維持 posture，讓這個 sweep 根本發動不了。當 sweep 已經在進行中時，就在撐手（但要快速收回）、sprawl 和破 grip 之間變換。關鍵是不可預測性——絕不連續兩次給他們同樣的防守模式，並且永遠對你所選防守會招來的後續攻擊有所準備。",
+    "answer_line": "保持難以預測，守住 posture",
+    "distractors": {
+     "plausible": [
+      "逐一反應每一個攻擊",
+      "純粹靠力量硬撐"
+     ],
+     "trap": [
+      "每次都撐同一隻手"
+     ]
+    }
+   },
+   {
+    "question": "當你辨認出 Hip Bump Sweep 的設置正在成形時，該做哪些 base 調整？",
+    "answer": "立刻把膝蓋張到比肩寬更寬，加大你對抗斜向 sweep 力量的支撐面。把重心稍微往腳跟移，而不是往前壓在膝蓋上。把髖部稍微降低，壓低你的重心。可能的話，把身體轉一個角度，不要跟攻擊者完全正對，藉此削弱他們斜向撞擊角度的效果。這些調整能把你的 base 從一個容易被側向推倒的窄目標，變成一個能吸收 hip bump 力量的寬闊穩固平台。",
+    "answer_line": "膝蓋張寬，重心移到腳跟",
+    "distractors": {
+     "plausible": [
+      "把站姿收窄以求速度",
+      "把髖抬高以增加機動性"
+     ],
+     "trap": [
+      "撐一隻手然後往前傾"
+     ]
+    }
+   }
+  ]
+ }
+}

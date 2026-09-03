@@ -1,0 +1,237 @@
+{
+ "_meta": {
+  "source": "content/Positions/Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_family": [
+  {
+   "question": "什麼結構特徵定義了每一種 Half Guard 變化型，並把它與對稱型的 guard 區分開來？",
+   "answer": "Half Guard 的定義性結構是不對稱：上位者恰好有一條腿被困在下位者的雙腿之間。這種「一腿進、一腿出」的配置，和 closed guard 或 open guard 那種雙腿都進或雙腿都出的結構形成對比。那條被困住的腿成為共同的錨點與支點，每一種變化型都圍繞著它運作，無論是 Deep Half、Knee Shield、Lockdown 還是 Z-Guard。因為控制集中在單一肢體上，而不是分散在對稱的框架上，雙方都同時保有正當的進攻與防守，這也是為什麼這個位置正好座落在 guard 保持與被 pass 的交界上。這份不對稱，製造出對稱型 guard 都沒有的獨特 sweep 槓桿，也製造出獨特的被 pass 弱點。",
+   "distractors": {
+    "plausible": [
+     "雙腿環抱腰部",
+     "雙腿都勾住大腿"
+    ],
+    "trap": [
+     "雙腿都自由，沒有接觸"
+    ]
+   },
+   "answer_line": "只有一條腿被困在裡面"
+  },
+  {
+   "question": "為什麼 underhook 的爭奪，決定了所有 Half Guard 變化型的位置階層？",
+   "answer": "在每一種 Half Guard 變化型中，被困腿那一側的 underhook 都是最具決定性的上半身 grip，因為它決定了誰控制 posture、誰能轉過那個角。當下位者贏得 underhook，他就能把上位者的重量抬起來、翻到自己的側身，並取得 sweep、back take 與回收 guard 的通道；當上位者贏得它，他就能把下位者壓平、胸貼胸地推進，並開始把被困的腿解放出來。這使得不論在打哪一種子變化型，underhook 的交換都是關鍵的爭奪，因為贏家決定了節奏與方向。crossface 與頭的位置會強化握有 underhook 的那一方，讓它在建立控制階層上的重要性更加放大。",
+   "answer_line": "贏下被困腿那側的 underhook",
+   "distractors": {
+    "plausible": [
+     "贏下遠側的 underhook",
+     "先贏下 crossface"
+    ],
+    "trap": [
+     "放棄 underhook 去抓褲子"
+    ]
+   }
+  },
+  {
+   "question": "在任何 Half Guard 裡，被困的腿如何成為下位者的力學支點？",
+   "answer": "被困的腿把上位者的 base 錨定在下位者身上，讓髖與軀幹的移動轉化為直接作用在對手結構上的槓桿。透過夾住、勾住或纏住那條腿，下位者可以破壞上位者撐地與建立 base 的能力，使得髖的任何抬升或旋轉都轉化成破勢的力量，而不是被對方吸收掉。這個支點原則不論纏法是簡單的夾膝、Lockdown 的 figure-four，還是 Deep Half 的深度控腿，都同樣成立。如果沒有把被困的腿固定成穩定的錨點，sweep 就失去槓桿，淪為推——而撐好 base 的對手可以輕鬆抵抗。",
+   "distractors": {
+    "plausible": [
+     "是自由的那條腿在錨定槓桿",
+     "光靠髖就能製造槓桿"
+    ],
+    "trap": [
+     "把纏住的腿放開"
+    ]
+   },
+   "answer_line": "被困的腿錨定槓桿"
+  },
+  {
+   "question": "為什麼保持側身而不是平躺在背上，是 Half Guard 下位者共通的首要任務？",
+   "answer": "保持側身能保留每一套 Half Guard 進攻流程所仰賴的髖活動度。從側身，下位者可以 shrimp、製造角度，並進入 sweep 或 back take。一旦被壓平仰躺，髖就失去了旋轉的能力，被困腿的支點作用也被中和，讓上位者得以建立胸貼胸的壓力和 crossface，直接通往 pass。側身同時也讓肩膀維持朝向對手的角度，而那正是贏下 underhook 爭奪的前提。這就是為什麼把人壓平是上位者的核心目標，而保持側身則是下位者在所有變化型中的核心防守要務。",
+   "distractors": {
+    "plausible": [
+     "用雙手抱住對方的頭",
+     "去爭奪對方的兩隻手腕"
+    ],
+    "trap": [
+     "整個人躺平在背上"
+    ]
+   },
+   "answer_line": "保持側身，髖要能動"
+  },
+  {
+   "question": "為什麼 Half Guard 上位被視為一次未完成的 pass，而不是已經確立的控制位置？",
+   "answer": "從上位來看，Half Guard 代表還有一條腿被困住，所以 guard 其實還沒被清掉，下位者仍保有主動進攻的能力。不像 side control 或 mount，在被困的腿被抽出來、pass 完成到一個壓制位置之前，都沒有任何優勢控制算是定案。這就是為什麼上位者必須按部就班地走過穩定、孤立腿、抽腿、完成這幾個步驟，而不是把這個位置當成休息點。停下來或挺起 posture 卻不推進，等於把空間與時間送給下位者，讓他回收完整的 guard、發動 sweep 或搶背。",
+   "answer_line": "腿還被困著，還沒完成",
+   "distractors": {
+    "plausible": [
+     "光靠 crossface 就算完成",
+     "下位者已經沒有任何攻擊了"
+    ],
+    "trap": [
+     "停止推進，守著位置就好"
+    ]
+   }
+  },
+  {
+   "question": "不論哪一種變化型，從 Half Guard 下位同時製造多重威脅的戰略角色是什麼？",
+   "answer": "下位者的力量來自一套相互連結的攻擊系統：同時威脅 sweep、back take 與回收 guard，逼上位者陷入防守反應，而無法有條不紊地 pass。當上位者去防其中一個威脅時，必然會打開另一個，產生層層疊加的兩難，而單一技術的防守無法解決。這個原則在每一種子變化型中都成立，因為每一種都只是呈現同一套層疊兩難的不同載體。只防守的下位者等於讓上位者毫無阻礙地做 pass，所以持續的進攻壓力，正是把 Half Guard 從求生狀態轉化為進攻平台的關鍵。",
+   "answer_line": "同時威脅 sweep、背後與 guard",
+   "distractors": {
+    "plausible": [
+     "全力投入單一攻擊",
+     "只獵取 submission"
+    ],
+    "trap": [
+     "放棄進攻，拖到底"
+    ]
+   }
+  },
+  {
+   "question": "在任何 Half Guard 裡，透過 frame 進行的距離管理如何形塑雙方的交換？",
+   "answer": "knee shield、前臂或 butterfly hook 這類 frame 調節著兩人胸口之間的縫隙，而控制這個縫隙的一方，就控制了這個位置的性格。下位者用 frame 阻止導致被壓平的胸貼胸連結與 crossface，保留髖移動與進攻所需的空間。上位者整套 pass 的工程，就是要壓垮那些 frame，縮短距離並把重量整合起來。因為這場距離之戰在每一種變化型中都會重現，從遠距離的 Knee Shield 到近身的 underhook 打法都是，管理這個縫隙就成了誰在推進、誰被壓制的通用判準。",
+   "answer_line": "frame 控制縫隙",
+   "distractors": {
+    "plausible": [
+     "光靠 grip 就能決定距離",
+     "爆發性的 bridge 能製造空間"
+    ],
+    "trap": [
+     "太早讓兩人胸口貼上"
+    ]
+   }
+  },
+  {
+   "question": "為什麼稱職的 Half Guard 選手必須在各子變化型之間流動，而不是守著單一的靜態結構？",
+   "answer": "每一種 Half Guard 子變化型，都是在回應對手特定的壓力或 posture，因此靜態的結構會讓對手適應單一模式，最終把它解掉。依照對手的反應，從 Knee Shield 流到 Deep Half、再到 Lockdown、再到 Z-Guard，會讓他永遠在應付新的力學問題，而不是有條不紊地拆解同一個。轉換本身也會製造出固定位置產生不了的破勢時刻與空隙。這種適應性對雙方角色都適用，因為上位者同樣必須辨識當下的變化型，並立刻切換到那個特定配置所需的 pass 策略。",
+   "answer_line": "在各變化型之間流動",
+   "distractors": {
+    "plausible": [
+     "把一種 guard 練到精通",
+     "按固定順序輪流換 guard"
+    ],
+    "trap": [
+     "永遠守著同一個靜態 frame"
+    ]
+   }
+  }
+ ],
+ "flashcards_position": [
+  {
+   "question": "什麼結構特徵從根本上定義了 Half Guard，並把它與其他 guard 區分開來？",
+   "answer": "Half Guard 由不對稱所定義：下位者用自己的雙腿困住上位者的其中一條腿。這個困住的位置通常在膝蓋或膝蓋以下，形成「一腿進、一腿出」的配置，與 closed guard 或 butterfly guard 那種雙腿與對手關係完全相同的對稱型 guard 形成對比。被困的腿成為雙方都想利用的共同支點與錨點，而上位者自由的那條腿則撐地以維持 base 與機動性。這種單腿纏鬥，正是造就這個位置對雙方而言都攻守兼具的獨特選項組合的原因。",
+   "distractors": {
+    "plausible": [
+     "雙腿都勾在大腿內側",
+     "雙腳腳踝鎖在背後"
+    ],
+    "trap": [
+     "讓控制滑落到只剩腳踝"
+    ]
+   },
+   "answer_line": "一條腿被困在膝蓋以下"
+  },
+  {
+   "question": "為什麼上半身的控制之爭，如此決定性地左右了 Half Guard 的階層？",
+   "answer": "雖然被困的腿定義了這個位置，但真正決定誰佔上風的是上半身的控制。underhook、crossface 與頭的位置形成一個控制階層：在被困腿那一側取得 underhook 的一方，就取得通往 sweep 與暴露對方背後的主要進攻路徑；而 crossface 則讓另一方得以把對手壓平、朝 pass 推進。因為雙方都在爭奪頭與肩膀周圍同一塊有限的空間，這場手部爭奪的結果，通常就決定了整段流程的走向。腿的纏鬥只是搭好了舞台，上半身的爭奪才是把它分出勝負的關鍵。",
+   "answer_line": "underhook 決定這場交換",
+   "distractors": {
+    "plausible": [
+     "crossface 替下位者贏下這場交換",
+     "光靠頭的位置就能決定"
+    ],
+    "trap": [
+     "不管上半身，只追腿"
+    ]
+   }
+  },
+  {
+   "question": "被困的腿對雙方而言，各自扮演什麼樣的力學支點角色？",
+   "answer": "被困的腿是一個共用的錨點，向兩個方向傳遞槓桿。對下位者而言，它是一個連結點，讓他能破壞上位者的平衡、把他抬起來，或透過 lockdown、夾膝或控制腳踝來操控他的 base 與 posture。對上位者而言，它是必須解放出來的障礙；但在還被困著的時候，它同時也提供他一個施壓下位者髖部的參考點。因為雙方都透過這單一肢體相連，這條腿在角度或深度上的微小變化，就會讓槓桿優勢移轉，使得被困腿的控制成為持續被爭奪的變數。",
+   "answer_line": "腿把槓桿雙向連起來",
+   "distractors": {
+    "plausible": [
+     "只有下位者會利用這條腿",
+     "只有上位者會利用這條腿"
+    ],
+    "trap": [
+     "和被困的腿脫離連結"
+    ]
+   }
+  },
+  {
+   "question": "髖與肩膀的角度，如何主宰雙方在 Half Guard 中的動態？",
+   "answer": "Half Guard 本質上是一場角度之戰，而不是靜態的抱持。下位者必須保持側身、髖能活動、肩膀朝向上位者，才能保留 sweep、回收 guard 與暴露對方背後所需的空間。上位者則設法把那個髖壓平、把肩膀擺正貼墊，因為被壓平的對手會失去進攻角度，變得容易被 pass。這就是為什麼這個位置動態而不穩定：誰控制了下位者髖與軀幹的角度，誰就決定了局面走向 sweep 還是 pass。",
+   "answer_line": "髖保持有角度，不要壓平",
+   "distractors": {
+    "plausible": [
+     "光把肩膀轉過來就夠了",
+     "鎖定一個形狀，永不調整"
+    ],
+    "trap": [
+     "轉身背對，把背交出去"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在 Half Guard 裡，建立或阻絕胸貼胸連結的爭奪如此重要？",
+   "answer": "胸貼胸的連結是這個位置關鍵的距離變數。當上位者達成它時，他的重量會把下位者壓平，關掉進攻所需的髖活動度，加速走向 pass。下位者則透過插入 knee shield、前臂 frame 或 butterfly hook 等 frame 來阻止這個連結，把上位者的胸口擋在外面，保留移動的空間。整個位置都可以被讀成一場關於這個縫隙的競賽：上位者要壓垮它，下位者要維持它，而每一個 frame、每一次壓力的調整都在改變天平。",
+   "answer_line": "frame 阻絕胸口連結",
+   "distractors": {
+    "plausible": [
+     "用力量把上位者推開",
+     "sleeve grip 能把他擋在外面"
+    ],
+    "trap": [
+     "把他往下拉到自己身上"
+    ]
+   }
+  },
+  {
+   "question": "是什麼定義了 Deep Half、Knee Shield、Lockdown 等 Half Guard 的子變化型？",
+   "answer": "這些子變化型的區別，在於雙腿、髖與 frame 相對於被困的腿和上位者 base 的配置方式。Knee Shield 把脛骨橫擺在上位者軀幹上以管理距離；Deep Half 把下位者的頭與肩膀擺到上位者身體底下，取得更好的破勢角度；Lockdown 則用 figure-four 纏住被困的腿，藉此控制 posture 並把對手撐開拉長。每一種配置都會改變哪些槓桿點是活的，因此也改變了哪些技術可用、哪些威脅必須回應。辨識出當下的具體變化型至關重要，因為它決定了雙方正在其中運作的力學關係。",
+   "answer_line": "腿與髖的 frame 配置",
+   "distractors": {
+    "plausible": [
+     "差別只在 grip 的選擇",
+     "差別只在 submission 的選擇"
+    ],
+    "trap": [
+     "不管腿的配置"
+    ]
+   }
+  },
+  {
+   "question": "Half Guard 如何作為 guard 保持與被 pass 之間的過渡十字路口？",
+   "answer": "Half Guard 恰好座落在「guard 還在」與「pass 已完成」之間的門檻上，這也是它戰略含量如此高的原因。從下位者的角度，它是完全失去 guard 前最後一層有結構的防線，但同時又提供了通往回收 closed guard、deep half、X-guard 與暴露對方背後的直接路徑。從上位者的角度，它是一次未完成的 pass，仍然需要有系統地推進，才能到達 side control 或 mount。因為對任何一方而言，改善與崩盤都只差一次交換，這個位置本質上不穩定，並且獎勵持續主動的移動，而不是靜態地守著。",
+   "answer_line": "門檻：守住 guard 或被 pass",
+   "distractors": {
+    "plausible": [
+     "永遠有利於下位者",
+     "永遠有利於上位者"
+    ],
+    "trap": [
+     "把它當成休息的地方"
+    ]
+   }
+  },
+  {
+   "question": "Half Guard 在力學上與 Closed Guard、Butterfly Guard、Quarter Guard 等相鄰位置有何不同？",
+   "answer": "差別在於有幾條腿被牽涉進來，以及牽涉得多深。在 Closed Guard，下位者的雙腿都環抱對手軀幹、腳踝鎖住，提供對 posture 的對稱控制；而 Half Guard 只牽涉到一條被困的腿。Butterfly Guard 則是從坐姿、上身較挺的姿勢用 hook 勾住雙腿內側，而不是把一條腿夾在膝蓋之間。Quarter Guard 是 Half Guard 進一步退化的版本，只剩腳踝還被困著，是完整 pass 之前最後一絲纏鬥。因此 Half Guard 座落在光譜中段：比腳踝纏鬥投入得更多，但不如 closed 或 butterfly guard 那樣包覆與對稱。",
+   "answer_line": "只困住一條腿，不是兩條",
+   "distractors": {
+    "plausible": [
+     "像 closed guard 那樣鎖住腳踝",
+     "像 butterfly 那樣勾住雙腿內側"
+    ],
+    "trap": [
+     "只困住腳踝，quarter 的形式"
+    ]
+   }
+  }
+ ]
+}

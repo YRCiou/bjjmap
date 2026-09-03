@@ -1,0 +1,223 @@
+{
+ "_meta": {
+  "source": "content/Positions/Closed Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_family": [
+  {
+   "question": "為什麼 closed guard 會顛倒一般「在上方比較有利」的關係，把進攻主動權交給下位者？",
+   "answer": "交叉鎖住的腳踝把對手的髖綁住，逼他必須先解決一個防守性的「打開」問題，才可能有任何進攻。這條封閉的動力鏈剝奪了上位者脫離、自由站起、或製造 pass 所需距離的能力。同時下位者仍然自由運用雙手和完整的髖活動度，去破壞 posture、製造角度、並威脅 sweep 與 submission。這種結構性的陷阱，就是為什麼不論是標準型、high guard 還是 rubber guard，這個位置從下面都是進攻性的。",
+   "distractors": {
+    "plausible": [
+     "下位的角度勝過上位的重量",
+     "柔軟度抵消了上位的力量"
+    ],
+    "trap": [
+     "把 guard 打開以取得更多空間"
+    ]
+   },
+   "answer_line": "腳踝鎖髖，下位保持自由"
+  },
+  {
+   "question": "在任何 closed guard 變化型裡，上位者的哪一項特質最能決定下位者的攻擊會不會成功？",
+   "answer": "posture 是主控變數：上位者到底是保持脊椎堆疊、頭在髖的正上方、胸口抬起，還是被拉向前折下去。破壞 posture 幾乎是所有高成功率攻擊的前提，因為 triangle、armbar、collar choke 和 guillotine，全都需要把對手的頭和肩膀拉向墊面。當 posture 完好時，下位者只能威脅低成功率的選項或做 off-balancing，而上位者則可以開始有系統地打開 guard。這就是為什麼每一種 closed guard 變化型，本質上都是先爭奪對手的 posture，然後才是爭奪 grip 或腿。",
+   "answer_line": "posture 被破壞才打得開 submission",
+   "distractors": {
+    "plausible": [
+     "上位者的 grip 力量",
+     "上位者的重量與 base"
+    ],
+    "trap": [
+     "在對方 posture 挺直時硬做 submission"
+    ]
+   }
+  },
+  {
+   "question": "下位者如何運用角度與腿部壓力的交互作用來製造進攻，而不是平躺著正對對手？",
+   "answer": "下位者把髖移離中線，轉到 30 到 45 度的角度，同時交叉的雙腿主動地拉與夾。平躺正對會讓對手把沉重的重量穩定地置中，並靠穩固的 base 防守；而角度則暴露出對手已被破壞的那一側，讓他的 base 失去對正而便於 sweep，並打開正對姿勢下藏起來的 submission 入口。交叉的雙腿同時是主動的工具，用腳跟把對手往前拉，同時用膝蓋夾住以限制他的髖和呼吸。把髖的角度移動與動態的腿部壓力結合起來，才是 closed guard 進攻的通用引擎，而不是那個靜態的鎖本身。",
+   "distractors": {
+    "plausible": [
+     "盡全力夾緊腳踝",
+     "抓住袖子然後不動"
+    ],
+    "trap": [
+     "躺平，讓雙腿鬆掉"
+    ]
+   },
+   "answer_line": "髖轉角度，雙腿又拉又夾"
+  },
+  {
+   "question": "上位者要脫離並 pass 任何 closed guard，必須遵循什麼樣的系統性順序？為什麼不能跳步？",
+   "answer": "順序是先 posture，再 grip 控制，接著打開腳踝，最後才 pass。每一階段都是下一階段的前提：沒有 posture，對手會在你開始爭 grip 之前就把你折下來；沒有受控的 grip 和空間，你也無法安全地解開雙腿。在腳踝還交叉著就硬要 pass，只是把手臂送給對方，或讓 guard 重新閉合，白白暴露在反擊之下卻換不到任何位置上的進展。急躁會讓整個進程崩掉，這也是為什麼在每一種變化型裡，有耐心、按順序的脫離都勝過用運動能力硬幹。",
+   "answer_line": "posture、grip、開腳踝、pass",
+   "distractors": {
+    "plausible": [
+     "先搶 grip，posture 擺第二",
+     "第一步就先解開雙腿"
+    ],
+    "trap": [
+     "在雙腿還鎖著時硬 pass"
+    ]
+   }
+  },
+  {
+   "question": "為什麼從 closed guard 同時威脅多個攻擊，會比死命投入單一技術更有效？",
+   "answer": "closed guard 的控制讓下位者可以同時保持好幾個活的威脅，所以目標是製造兩難：防守其中一個攻擊，就必然打開另一個。對 sweep 的防守反應會暴露 submission；為了躲 choke 而挺起 posture 則會餵出 sweep，逼對手不斷選擇要讓出哪一個威脅。相對地，單一且全押的攻擊是可預測的，會讓有經驗的對手把防守佈好並反擊。串接反應而不是硬求一個結束技，是標準型、overhook 與 rubber guard 各變化型共通的進攻邏輯。",
+   "answer_line": "串接威脅，製造兩難",
+   "distractors": {
+    "plausible": [
+     "用力量把最拿手的 submission 推過去",
+     "看到第一個空隙就衝"
+    ],
+    "trap": [
+     "把一切都押在單一攻擊上"
+    ]
+   }
+  },
+  {
+   "question": "維持髖的連結，如何在任何進攻目的之外，獨立地成為下位者的防守屏障？",
+   "answer": "把髖黏在對手的髖上，會消滅 passer 建立 posture、孤立一條腿、或轉出角度所需要的那份空間。只要這個連結還在，對手的 pass 流程根本無法開始，所以 guard 保持與進攻共用同一套力學基礎。如果下位者讓空間打開，對手就能把他壓平、stack 起來，甚至在 guard 還沒被打開之前就開始把雙腿撬開。這就是為什麼主動的髖連結——而不是單純把腳踝交叉——才是撐起每一種 closed guard 變化型的通用保持原則。",
+   "answer_line": "髖黏住，不給 pass 的空間",
+   "distractors": {
+    "plausible": [
+     "盡可能把腳踝交叉夾緊",
+     "控制對手遠側的 sleeve"
+    ],
+    "trap": [
+     "讓髖分開，製造空間"
+    ]
+   }
+  },
+  {
+   "question": "為什麼被動有利於下位者，使得主動不斷行動對 closed guard 的上位者變得不可或缺？",
+   "answer": "當局面停滯時，下位者仍然保有全部的進攻工具，而上位者只是在防守上消耗體力，因此時間本身就對 passer 不利。靜止不動的上位者，等於給下位者不受干擾的機會去建立 grip、轉出角度、佈好攻擊，而且沒有任何反應可供利用。持續朝著打開 guard 的方向移動，即使進展緩慢，也能剝奪那段佈局時間，並逼出製造 pass 機會的反應。這種「什麼都不做就是幫了 guard 方」的不對稱，在所有變化型中都成立，也正是上位者必須保持主動而非等待的原因。",
+   "answer_line": "保持主動，時間站在下位那邊",
+   "distractors": {
+    "plausible": [
+     "等下去會讓下位者失去耐心",
+     "休息能讓上位的 base 保持穩固"
+    ],
+    "trap": [
+     "拖到對方自己把 guard 打開"
+    ]
+   }
+  }
+ ],
+ "flashcards_position": [
+  {
+   "question": "什麼樣的幾何配置定義了 closed guard，並把它與 open guard 區分開來？",
+   "answer": "closed guard 的定義是雙腿環抱對手軀幹，腳踝在他背後交叉鎖住。這在腰部形成一條封閉的動力鏈，而腳踝的鎖正是它與 open guard 唯一的區別特徵——open guard 的雙腿沒有勾住，改以雙腳、脛骨與 grip 來維持控制。因為這個環是實體封閉的，上位者不能單純把髖往後拉來脫離；他必須先把鎖解開。鎖住的雙腿同時也固定了雙方髖之間的距離，剝奪了發動 pass 所需的空間。",
+   "distractors": {
+    "plausible": [
+     "雙腳勾在對手大腿內側",
+     "脛骨交叉壓在對手背上"
+    ],
+    "trap": [
+     "雙腳踩髖，腳踝沒有鎖住"
+    ]
+   },
+   "answer_line": "腳踝交叉，鎖在背後"
+  },
+  {
+   "question": "為什麼 closed guard 會顛倒「在上方」與「握有位置優勢」之間的一般關係？",
+   "answer": "鎖住的雙腿把上位者困在一個控制迴圈裡，中和了平常有利於上位的重力與壓力。下位者利用這個腿的鎖去破壞 posture，並威脅 sweep 與 submission；上位者則被限縮在防守，以及在任何進攻可能之前先設法把雙腿打開。這使得儘管垂直關係上一個在上一個在下，下位角色卻是進攻方，上位角色反而是防守方。這個動態反映了 BJJ 的核心原則：決定優勢的是槓桿與控制點，而不是單看位置。",
+   "distractors": {
+    "plausible": [
+     "下位者靠純粹的力量取勝",
+     "sweep 的分數比 pass 高"
+    ],
+    "trap": [
+     "放鬆 posture，然後被 triangle"
+    ]
+   },
+   "answer_line": "鎖腿困住上位，下位進攻"
+  },
+  {
+   "question": "腳踝在對手背上交叉的高度，如何影響控制的品質？",
+   "answer": "腳踝應該交叉在低處，也就是腰背處、剛好在髖的上方，讓腳跟可以陷進腰椎。從這個高度，這個迴圈同時控制了骨盆，並透過破壞 posture 控制到上半身軀幹。交叉得太高、靠近肩胛，會在髖的位置開出空間，讓上位者把骨盆往下壓來破解 guard。交叉得太低、直接環在髖上，則放棄了對 posture 的控制，讓上位者可以往後坐並自由挺起 posture。因此正確的高度同時決定了破壞 posture 的能力與抵抗 guard 被打開的能力，也讓夾的力量能持續維持。",
+   "distractors": {
+    "plausible": [
+     "交叉在高處靠近肩胛",
+     "夾緊膝蓋，高度不重要"
+    ],
+    "trap": [
+     "腳踝不交叉，然後被 pass"
+    ]
+   },
+   "answer_line": "低交叉在腰背處"
+  },
+  {
+   "question": "髖對髖的連結在維持 closed guard 上扮演什麼角色？",
+   "answer": "把雙方的髖黏在一起，會剝奪上位者站起、挺 posture、或轉出角度來 pass 所需的空間。兩位選手髖之間的距離是決定性的控制變數，而鎖住的雙腿是消除這個距離的主要工具，腳跟會把上位者的骨盆往內拉。只要髖之間出現任何縫隙，上位者就取得了開始破解與 pass 的空間，因此雙方會不斷爭奪這個距離。縮短髖距有利於 guard 方，拉開髖距則有利於 passer。",
+   "distractors": {
+    "plausible": [
+     "抓住遠側的 sleeve 與 collar",
+     "把膝蓋夾在對方肋骨上"
+    ],
+    "trap": [
+     "讓髖飄開以取得角度"
+    ]
+   },
+   "answer_line": "髖黏在一起，扼殺 pass 空間"
+  },
+  {
+   "question": "為什麼控制上位者的 posture 是 closed guard 最核心的爭奪點？",
+   "answer": "posture 指的是上位者的脊椎是直立、頭在髖上方，還是被往前折、胸口被拉向下位者。挺直的 posture 給上位者防守 sweep 與設法打開 guard 的結構性 base；被破壞的 posture 則暴露頭部與手臂，讓 triangle、armbar 與各種 choke 變得可行。下位者靠拉 collar 或頭往下、同時把腳跟壓進對方下背來攻擊 posture；上位者則靠保持脊椎打直、髖往後來抵抗。因為太多攻擊與防守都取決於這單一變數，posture 的爭奪驅動了整個位置。",
+   "answer_line": "posture 之爭決定誰能進攻",
+   "distractors": {
+    "plausible": [
+     "grip 比較強的一方贏得交換",
+     "腿力能讓 guard 保持閉合"
+    ],
+    "trap": [
+     "把頭靠在對方胸口上休息"
+    ]
+   }
+  },
+  {
+   "question": "grip 的爭奪如何決定 closed guard 中雙方交換的走向？",
+   "answer": "grip 是雙方各自強加自己意圖的連結點：下位者用 collar、sleeve 和手腕的 grip 去破壞 posture 並佈局攻擊；上位者則用髖、二頭肌或膝蓋上的 grip 來管理距離、準備打開 guard。誰先建立起優勢 grip，誰就主導這場交換，因此雙方都得先花力氣破壞對手的 grip，自己的 grip 才發展得起來。控制到頭部或一隻 sleeve 的 grip，比被動地抓著更有價值，因為它直接促成破壞 posture 或 sweep。因此 grip 上的優勢先行於、也促成了這個位置上幾乎所有的進攻或防守動作。",
+   "answer_line": "優勢 grip 主導交換",
+   "distractors": {
+    "plausible": [
+     "光靠 sleeve grip 就能破壞 posture",
+     "力量勝過 grip 的時機"
+    ],
+    "trap": [
+     "grip 伸得太遠，然後被 armbar"
+    ]
+   }
+  },
+  {
+   "question": "打開 closed guard 的戰略意義是什麼？為什麼它會改變這個位置的性格？",
+   "answer": "打開 guard 意味著解開交叉的腳踝，這會把一個固定的封閉迴路，轉換成 open guard 那種機動、沒有勾住的動態。對上位者而言，這是通往 pass 的必經第一步，因為只要雙腿還鎖著，就不存在任何正當的 pass。對下位者而言，這通常代表失去最強的控制迴圈，不過熟練的選手會轉換到各種 open guard 變化型，而不是完全放棄控制。打開的那一瞬間是關鍵的轉折點，控制權可能大幅倒向任何一方，端看誰為隨之而來的混戰做好了準備。",
+   "answer_line": "解開腳踝就轉成 open guard",
+   "distractors": {
+    "plausible": [
+     "把腿打開就一定能 sweep",
+     "解開腳踝就能贏得混戰"
+    ],
+    "trap": [
+     "躺平著打開，然後 guard 被 pass"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在 closed guard 裡，任一方的被動都傾向於有利於下位者？",
+   "answer": "下位者從靜止的局面中獲益，因為鎖住的雙腿不需要主動出力，就持續限制上位者的移動與呼吸；而上位者光是要撐住重量、抵抗 posture 被破壞就在燒體力。因此時間對上位者不利，他必須主動地依序推進 posture、grip、打開 guard，才能脫離劣勢。如果雙方都不主動，上位者會一邊被困住、一邊暴露在攻擊之下，慢慢疲乏。這就是為什麼這個位置獎勵上位者持續交戰、下位者耐心控制，而不是任何一方拖延。",
+   "answer_line": "被動有利下位，消耗上位",
+   "distractors": {
+    "plausible": [
+     "被動有利於體型比較大的那一方",
+     "拖延對雙方浪費的時間一樣多"
+    ],
+    "trap": [
+     "上位者應該拖延並等待"
+    ]
+   }
+  }
+ ]
+}

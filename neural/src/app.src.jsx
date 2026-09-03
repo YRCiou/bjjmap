@@ -2620,7 +2620,30 @@ class Component extends DCLogic {
   // `cards` only once that deck's chunk lands. Read cards through here, never `d.cards`
   // directly — the stub is truthy, so it slips past every `if (d)` guard in this file and
   // turns into a TypeError (or a silent NaN index) at the point of use.
-  _cardsOf(d) { return d && Array.isArray(d.cards) ? d.cards : null; }
+  /**
+   * THE ONLY LEGAL WAY TO READ A DECK'S CARDS — and now the seam where the interface language
+   * chooses which set comes back.
+   *
+   *   lang en                      -> d.cards      (the English chunk)
+   *   lang zh, deck has a zh chunk -> d.cardsZh    (null until it lands, so hydrateDeck fetches)
+   *   lang zh, deck has none       -> d.cards      (untranslated: English, never an empty deck)
+   *
+   * `d.zh` comes from the manifest and says a translation EXISTS, which is what lets a partial
+   * corpus ship: an untranslated deck costs no fetch and no missing cards.
+   *
+   * Both sets hold the SAME cards in the same order with the same English `q`. Only the display
+   * fields differ, so every count, grade, hash and schedule is language-independent by
+   * construction rather than by care.
+   */
+  _cardsOf(d) {
+    if (!d) return null;
+    if (ngLang() === "zh" && d.zh) return Array.isArray(d.cardsZh) ? d.cardsZh : null;
+    return Array.isArray(d.cards) ? d.cards : null;
+  }
+  /** The question as the READER sees it. `card.q` is the identity and stays English; `qd` is the
+   * translation when this card has one. Every display site goes through here; every scheduling
+   * site keeps using `card.q` directly. */
+  cardQ(card) { return (card && (card.qd || card.q)) || ""; }
 
   // ─────────────────────────── ON-DEMAND DECK RESIDENCY (v1.80.4) ───────────────────────────
   // The deck payload is no longer one 16.4MB file. Boot reads flashcards/_index.json (a
@@ -2675,6 +2698,16 @@ class Component extends DCLogic {
     // whole index: qhash(question) -> deck INDEXES into its own ordered deck list. Only
     // questions carried by 2+ decks are listed (451 of 21,334 — 10.6KB raw / 4.3KB gzip), which
     // is why it can be eager.
+    // Which decks have a Traditional Chinese chunk. Shipped as INDEXES into this file's own deck
+    // order, the same scheme `shared` uses, so adding it costs ~4 bytes per translated deck
+    // rather than a full key. Absent on an older manifest, which simply means "no translations".
+    {
+      const keys = Object.keys(decks);
+      for (const i of (j && j.zh) || []) {
+        const k = keys[i];
+        if (k && decks[k]) decks[k].zh = 1;
+      }
+    }
     this._sharedQ = null;
     const sh = (j && j.shared) || null;
     if (sh) {
@@ -2728,12 +2761,18 @@ class Component extends DCLogic {
     if (!d) return Promise.resolve(null);
     if (this._cardsOf(d)) return Promise.resolve(d);
     const waits = (this._deckWaits = this._deckWaits || {});
-    if (waits[key]) return waits[key];
+    const wk = key + (ngLang() === "zh" && d.zh ? "|zh" : "");
+    if (waits[wk]) return waits[wk];
     if (this._deckCooling(key)) return Promise.resolve(null);   // backing off, still retryable
     // the chunk address is DERIVED from the key (fnv1a32 == qhash), so the manifest carries no
     // filenames at all; `file` is only read when an older manifest supplies one.
     const file = d.file || this.qhash(key) + ".json";
-    const p = fetch(this._dataBase() + "flashcards/" + file)
+    // WHICH LANGUAGE IS MISSING decides the URL. `_cardsOf` returned null a few lines up, so in
+    // Chinese with a translated deck that can only be the zh chunk; anything else is the English
+    // one. The wait map is keyed per language too — an English fetch in flight must not make a
+    // Chinese one look already-pending and resolve it with the wrong cards.
+    const wantZh = ngLang() === "zh" && !!d.zh;
+    const p = fetch(this._dataBase() + "flashcards/" + (wantZh ? "zh/" : "") + file)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error("http " + r.status))))
       .then((j) => {
         // a chunk is a {deckKey: deck} MAP (collision-safe); older chunks were a bare deck
@@ -2742,8 +2781,10 @@ class Component extends DCLogic {
         // A chunk that carries no cards for a deck the MANIFEST says has `n` of them is a STALE
         // OR BROKEN chunk, not an empty deck. `n` wins; we retry rather than publish a lie.
         if (!cards || (!cards.length && (d.n || 0) > 0)) throw new Error("chunk carries no " + key);
-        if (waits[key] === p) delete waits[key];
-        d.cards = cards;                       // fill IN PLACE: open surfaces hold this object
+        if (waits[wk] === p) delete waits[wk];
+        // fill IN PLACE: open surfaces hold this object. The two languages are separate slots,
+        // so switching back and forth never refetches what already landed.
+        if (wantZh) d.cardsZh = cards; else d.cards = cards;
         if (got.cat) d.cat = got.cat;
         if (got.role) d.role = got.role;
         d.err = 0;
@@ -2752,12 +2793,12 @@ class Component extends DCLogic {
         return d;
       })
       .catch(() => {
-        if (waits[key] === p) delete waits[key];   // never cache a failure as success
+        if (waits[wk] === p) delete waits[wk];   // never cache a failure as success
         d.err = (d.err || 0) + 1; d.errAt = Date.now();
         this.fx("deck_fetch_failed", { deckKey: key, attempt: d.err, n: d.n || 0 });
         return null;
       });
-    waits[key] = p;
+    waits[wk] = p;
     return p;
   }
   /** Hydrate several decks; resolves when all have landed (or failed). */
@@ -3777,7 +3818,7 @@ class Component extends DCLogic {
           // scope chip: only on higher-tier (general) cards blended in — names the position/family
           // the card is about, so it reads as a concept rather than a state:role-specific detail.
           (card.tag ? '<div style="display:inline-block;font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#e8a3c6;background:rgba(90,140,255,.13);border:1px solid rgba(225,90,160,.26);border-radius:999px;padding:2px 8px;margin-bottom:9px;">' + card.tag + '</div>' : '') +
-          '<div data-mini-q="1" style="font-size:13px;line-height:1.5;color:#e3e9f4;font-weight:500;">' + (card.q || card.front || "") + '</div>' +
+          '<div data-mini-q="1" style="font-size:13px;line-height:1.5;color:#e3e9f4;font-weight:500;">' + (this.cardQ(card) || card.front || "") + '</div>' +
         '</div>' +
         (st.revealed ? '<div data-mini-a="1" style="margin-top:8px;border:1px solid rgba(45,212,191,.28);border-radius:11px;background:rgba(14,40,37,.42);padding:13px 15px;font-size:12.5px;line-height:1.6;color:#a7e6de;animation:ngCardIn .22s ease both;">' + (card.a || card.back || "") + '</div>' : '') +
         (st.revealed && !gradedSet.has(st.idx)
@@ -4180,7 +4221,7 @@ class Component extends DCLogic {
             '<div style="display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:7px;">' +
               '<span style="font-size:10px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#2dd4bf;">Drill it \u2014 earn odds & time</span>' +
               '<span style="font-size:10px;color:#6f8a87;">+10% now \u00b7 +3% forever \u00b7 +2.5s</span></div>' +
-            '<div style="font-size:12.5px;line-height:1.5;color:#dbe8df;">' + card.q + '</div>';
+            '<div style="font-size:12.5px;line-height:1.5;color:#dbe8df;">' + this.cardQ(card) + '</div>';
           const advance = () => { this._jitIdx[jitKey] = idx + 1; renderJit(); };
           // What a graded card is worth HERE, and only that. The credit itself — stage, prep,
           // sharpness, the SRS clock, the daily counter — belongs to `_mcAnswer` (MC) or to the
@@ -5757,6 +5798,18 @@ class Component extends DCLogic {
       this.refreshOptionOdds();
     } catch (e) { /* a half-rendered surface must not strand the language switch */ }
     ngI18nSweep(this.__ngRoot || document.body);
+    // The decks the reader is looking at now need the OTHER language's chunk. `_cardsOf` already
+    // returns null for a translated deck whose zh cards have not landed, so hydrateDeck fetches
+    // the right file; this just asks early instead of on the next render, so the switch does not
+    // flash an empty study surface.
+    try {
+      const open = [];
+      if (this.activeDrill != null && this.drillEntries && this.drillEntries[this.activeDrill])
+        open.push(this.drillEntries[this.activeDrill].info && this.drillEntries[this.activeDrill].info.key);
+      if (this._landQ && this._landQ.key) open.push(this._landQ.key);
+      const want = open.filter(Boolean);
+      if (want.length) this.hydrateDecks(want).then(() => { try { this._renderPaneBody(); } catch (e) {} });
+    } catch (e) { /* a switch must never depend on a deck being loadable */ }
     this.fx("lang_changed", { lang: code });
   }
   renderAccountMenu() {
@@ -10138,7 +10191,7 @@ class Component extends DCLogic {
         '<span style="font-size:10px;font-weight:600;color:#b58ba0;">' + (this.deckIdx + 1) + ' / ' + deck.length + '</span>' +
       '</div>' +
       '<div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:#7b8aa8;margin-bottom:7px;">Question</div>' +
-      '<div style="font-size:15px;font-weight:600;color:#eef1f6;line-height:1.45;min-height:44px;">' + card.q + '</div>' +
+      '<div style="font-size:15px;font-weight:600;color:#eef1f6;line-height:1.45;min-height:44px;">' + this.cardQ(card) + '</div>' +
       (this.revealed
         ? '<div style="margin-top:14px;padding-top:13px;border-top:1px solid rgba(150,170,210,.14);"><div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:#2dd4bf;margin-bottom:7px;">Answer</div><div style="font-size:13px;color:#c8d2e4;line-height:1.6;">' + card.a + '</div>' + (card.d ? '<button data-mc-more style="margin-top:9px;cursor:pointer;font-family:inherit;font-size:11px;font-weight:700;color:#e8a3c6;background:none;border:none;padding:0;">\u24d8 More detail</button><div class="mcDetail" style="display:none;margin-top:8px;font-size:12.5px;color:#aeb9d4;line-height:1.55;">' + card.d + '</div>' : '') + '</div>'
         : '<div style="margin-top:14px;height:1px;"></div>') +
@@ -10781,7 +10834,7 @@ class Component extends DCLogic {
     const prior = this._nodeQ;
     if (prior && prior.idx === n.idx && prior.card && prior.el) {
       if (host.contains(prior.el)) return;                    // still on screen — leave it alone
-      host.innerHTML = qHead(prior.card.q);
+      host.innerHTML = qHead(this.cardQ(prior.card));
       host.appendChild(prior.el);
       if (prior.el.__ngMc && !prior.answered) this._mc = prior.el.__ngMc;   // A-D still grades it
       return;
@@ -10808,7 +10861,7 @@ class Component extends DCLogic {
     // MC RESIDENCY (v1.80.4 rule): the distractor pool must be resident before we draw, or which
     // neighbour chunks happened to arrive would decide the options — and therefore the RNG stream.
     if (format === "mc" && !this.mcPoolWarm(key, card)) { wait("Loading this state’s cards…"); this._nodeWarm(n, () => this._warmMcPool(card, key, "node")); return; }
-    host.innerHTML = qHead(card.q);
+    host.innerHTML = qHead(this.cardQ(card));
     const done = (correct, tier) => {
       const q = this._nodeQ;
       if (q) q.answered = true;
@@ -11067,7 +11120,7 @@ class Component extends DCLogic {
     // ellipsis, so the padding was spending width that answer text needed. Only the line that
     // actually runs under the `+` and the ✕ pays for them.
     qt.style.cssText = "padding-right:54px;font-size:12.5px;font-weight:600;color:#dbe2f0;line-height:1.35;margin-bottom:8px;";
-    qt.textContent = card.q;
+    qt.textContent = this.cardQ(card);
     qw.appendChild(qt);
     const done = (fmt) => (ok, tier) => {
       if (rec.revealed) return; // the expiry showed the answer — nothing after that may grade
