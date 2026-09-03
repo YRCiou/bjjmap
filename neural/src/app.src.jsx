@@ -573,6 +573,7 @@ class Component extends DCLogic {
       } else if (e.key === "Escape") {
         // Esc walks the Z LADDER top-down: deliberate screens first (modal 95, menu 90),
         // then gameplay overlays, then the pane last (pane law)
+        if (this.closeStartCard()) return;   // the start card is the top of the band (z:96)
         if (this.closeModalIfOpen()) return;
         if (this.closeListPicker()) return; // anchored chooser, same deliberate band as the menu
         if (this.closeAccountMenu()) return;
@@ -881,6 +882,7 @@ class Component extends DCLogic {
     // here left the whole cold-load window (loader up, nothing playable) unmeasurable.
     this._csArmHide();
     this.startLoop();
+    this._maybeOpenStartCard();
   }
 
   // tear the overlay down and hand the page back to the legacy DOM (SEO content stays intact).
@@ -5794,6 +5796,7 @@ class Component extends DCLogic {
       { const card = this.modalCardRef.current;
         if (card && card.querySelector(".t-fc")) this.renderSettings();
         else if (card && card.querySelector("[data-legal-kind]")) this.openLegal(card.querySelector("[data-legal-kind]").getAttribute("data-legal-kind")); }
+      if (this._startEl) this._renderStartCard();
       if (this._landEl) this._landBackfill();
       this.refreshOptionOdds();
     } catch (e) { /* a half-rendered surface must not strand the language switch */ }
@@ -5811,6 +5814,225 @@ class Component extends DCLogic {
       if (want.length) this.hydrateDecks(want).then(() => { try { this._renderPaneBody(); } catch (e) {} });
     } catch (e) { /* a switch must never depend on a deck being loadable */ }
     this.fx("lang_changed", { lang: code });
+  }
+  // ═══ WHERE DO YOU WANT TO START? ═══════════════════════════════════════════════════════════
+  // A first-visit card over the graph: search a POSITION, pick your side, and a roll begins
+  // there. It exists because the graph is the whole screen and a newcomer has no way in — the
+  // pane is a browse surface, not a starting gun.
+  //
+  // Z LADDER (helmet.html): 90-99 is the deliberate-screen band. This is 96 — above the account
+  // menu (90), below nothing it needs to yield to. It PORTALS to the app root because the wrap
+  // is `position:fixed` and therefore its own stacking context (§6.1): a z-index inside it is
+  // trapped at plane 0 and the root-plane landing card would paint straight over this.
+  //
+  // The scrim is deliberately light (.55): the spec is "do not steal the graph's presence", so
+  // the map stays legible behind the card rather than being blacked out.
+  //
+  // ROLE IS PASSED, NEVER DERIVED (§6.5). All 136 position hubs are titled "… Top" in the visual
+  // layer, so `roleLabelOf` returns the constant `top` for every one of them. The role comes from
+  // `n.role`, which `_deriveDualPairs` sets at ingest, and it is handed to `rollFromPosition` as
+  // an explicit override alongside the role-node's own index.
+  START_SEEN_KEY() { return "bjjmap-start-seen"; }
+  _startSeen() {
+    try { return localStorage.getItem(this.START_SEEN_KEY()) === "1"; } catch (e) { return false; }
+  }
+  _markStartSeen() {
+    try { localStorage.setItem(this.START_SEEN_KEY(), "1"); } catch (e) { /* private mode */ }
+  }
+  /**
+   * Every position SITE, with both seats. `rep` is the site representative and `pi` its partner
+   * (§5: the rep member IS the hub). `graphName` is the one rule for a node's display name —
+   * `splitName().main` would leave the baked "Top" on all 136 of them (§6.2).
+   */
+  _startSites() {
+    if (this._startSitesCache) return this._startSitesCache;
+    const out = [];
+    for (const n of this.nodes || []) {
+      if (n.ty !== "positions" || !n.rep) continue;
+      if (!this.rsAllows(n)) continue;              // the ruleset mask, same as Explore
+      const partner = n.pi >= 0 ? this.nodes[n.pi] : null;
+      const top = n.role === "bottom" ? partner : n;
+      const bottom = n.role === "bottom" ? n : partner;
+      out.push({ name: this.graphName(n), top: top || null, bottom: bottom || null });
+    }
+    out.sort((a, b) => a.name.localeCompare(b.name));
+    return (this._startSitesCache = out);
+  }
+  /** The five a beginner is told to learn first. Missing ones are skipped, never faked. */
+  _startQuickPicks() {
+    const want = ["Standing Position", "Closed Guard", "Half Guard", "Mount", "Back Control"];
+    const byName = new Map(this._startSites().map((s) => [s.name, s]));
+    return want.map((w) => byName.get(w)).filter(Boolean);
+  }
+  openStartCard() {
+    if (this._startEl) return;
+    const host = this.__ngRoot || document.body;
+    const ov = document.createElement("div");
+    ov.setAttribute("data-start-card", "1");
+    // pointer-events:auto INLINE on the scrim and on every control (§6.1): the wrap's pointerdown
+    // capture retargets pointerup, and a control that only inherits pointer-events is dead to a
+    // real mouse while looking perfectly clickable.
+    ov.style.cssText = "position:fixed;inset:0;z-index:96;display:flex;align-items:flex-end;" +
+      "justify-content:center;background:rgba(0,0,0,.55);backdrop-filter:blur(2px);" +
+      "pointer-events:auto;padding:0 16px 12vh;box-sizing:border-box;opacity:0;" +
+      "transition:opacity .22s ease;";
+    ov.innerHTML =
+      '<div data-start-panel="1" style="width:min(400px,100%);max-height:76vh;overflow-y:auto;' +
+      'background:linear-gradient(180deg,#1a1a1a,#131313);border:1px solid rgba(150,170,210,.16);' +
+      'border-radius:18px;box-shadow:0 24px 60px rgba(0,0,0,.6);padding:20px 20px 16px;' +
+      'pointer-events:auto;box-sizing:border-box;"></div>';
+    host.appendChild(ov);
+    this._startEl = ov;
+    // the scrim closes; the panel does not (a click inside must never dismiss)
+    ov.addEventListener("click", (e) => { if (e.target === ov) this.closeStartCard(); });
+    ov.addEventListener("pointerdown", (e) => e.stopPropagation());
+    ov.addEventListener("wheel", (e) => e.stopPropagation(), { passive: false });
+    this._renderStartCard();
+    requestAnimationFrame(() => { if (this._startEl) this._startEl.style.opacity = "1"; });
+    const inp = ov.querySelector("[data-start-search]");
+    if (inp) setTimeout(() => { try { if (!this.isMobile()) inp.focus(); } catch (e) {} }, 90);
+    this.fx("start_card_opened", { lang: ngLang() });
+  }
+  /** Returns true when it actually closed something — the Esc ladder reads that to stop there. */
+  closeStartCard() {
+    const ov = this._startEl;
+    if (!ov) return false;
+    this._startEl = null;
+    this._markStartSeen();          // asked once; from here the Menu is the way back in
+    ov.style.opacity = "0";
+    // visibility:hidden, not opacity alone (§6.1): an invisible overlay still eats clicks, and
+    // this one covers the whole screen for the 180ms before it is removed.
+    ov.style.visibility = "hidden";
+    ov.style.pointerEvents = "none";
+    setTimeout(() => { try { ov.remove(); } catch (e) {} }, 200);
+    return true;
+  }
+  _startCardOpen() { return !!this._startEl; }
+  _renderStartCard(query) {
+    const ov = this._startEl; if (!ov) return;
+    const panel = ov.querySelector("[data-start-panel]"); if (!panel) return;
+    const q = (query == null ? (this._startQuery || "") : query).trim();
+    this._startQuery = q;
+    const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    const seatBtn = (side, siteName) =>
+      '<button type="button" data-start-go="' + side + '" data-start-name="' + esc(siteName) + '" ' +
+      'style="pointer-events:auto;cursor:pointer;font-family:inherit;flex:none;min-height:32px;' +
+      'padding:0 11px;border-radius:9px;font-size:11.5px;font-weight:700;white-space:nowrap;' +
+      'border:1px solid rgba(244,114,182,.4);background:rgba(201,47,130,.16);color:#f6c2dc;">' +
+      esc(ngUI(side === "top" ? "start.top" : "start.bottom")) + '</button>';
+
+    let html =
+      '<div style="font-size:16.5px;font-weight:700;color:#eef1f6;line-height:1.3;font-family:\'Montserrat\',sans-serif;">' +
+        esc(ngUI("start.title")) + '</div>' +
+      '<div style="font-size:12px;color:#8b97b0;margin-top:6px;line-height:1.5;">' +
+        esc(ngUI("start.sub")) + '</div>' +
+      '<input data-start-search type="search" autocomplete="off" placeholder="' + esc(ngUI("start.search")) + '" ' +
+        'style="pointer-events:auto;width:100%;margin-top:14px;box-sizing:border-box;font-family:inherit;' +
+        'font-size:13px;color:#eef1f6;background:rgba(255,255,255,.05);border:1px solid rgba(150,170,210,.22);' +
+        'border-radius:11px;padding:11px 12px;outline:none;" value="' + esc(q) + '">';
+
+    if (!q) {
+      const picks = this._startQuickPicks();
+      html += '<div style="margin-top:14px;font-size:10px;letter-spacing:.14em;text-transform:uppercase;' +
+              'font-weight:700;color:#7e8aa3;">' + esc(ngUI("start.quick")) + '</div>' +
+              '<div style="display:flex;flex-direction:column;gap:7px;margin-top:9px;">';
+      for (const site of picks) html += this._startRow(site, esc, seatBtn);
+      html += '</div>';
+    } else {
+      const needle = q.toLowerCase();
+      const hits = this._startSites().filter((s) => s.name.toLowerCase().includes(needle)).slice(0, 24);
+      html += '<div style="display:flex;flex-direction:column;gap:7px;margin-top:12px;">';
+      if (!hits.length) {
+        html += '<div style="font-size:12.5px;color:#8b97b0;padding:10px 2px;">' + esc(ngUI("start.none")) + '</div>';
+      } else {
+        for (const site of hits) html += this._startRow(site, esc, seatBtn);
+      }
+      html += '</div>';
+    }
+
+    html += '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;' +
+            'margin-top:16px;padding-top:12px;border-top:1px solid rgba(150,170,210,.13);">' +
+            '<button type="button" data-start-random style="pointer-events:auto;cursor:pointer;' +
+            'font-family:inherit;border:none;background:transparent;padding:6px 2px;font-size:12px;' +
+            'font-weight:600;color:#e8a3c6;text-decoration:underline;text-underline-offset:3px;">' +
+            esc(ngUI("start.random")) + '</button>' +
+            '<button type="button" data-start-close style="pointer-events:auto;cursor:pointer;' +
+            'font-family:inherit;border:none;background:transparent;padding:6px 2px;font-size:12px;' +
+            'font-weight:600;color:#7e8aa3;">' + esc(ngUI("start.close")) + '</button>' +
+            '</div>';
+    panel.innerHTML = html;
+    this._wireStartCard(panel);
+  }
+  _startRow(site, esc, seatBtn) {
+    const gloss = ngPosGloss(site.name);
+    return '<div style="display:flex;align-items:center;gap:9px;padding:8px 9px;border-radius:11px;' +
+      'background:rgba(255,255,255,.035);border:1px solid rgba(150,170,210,.1);">' +
+      '<div style="flex:1;min-width:0;">' +
+        '<div style="font-size:13px;font-weight:600;color:#dbe2f0;white-space:nowrap;overflow:hidden;' +
+        'text-overflow:ellipsis;">' + esc(site.name) + '</div>' +
+        (gloss ? '<div style="font-size:10.5px;color:#7e8aa3;margin-top:1px;">' + esc(gloss) + '</div>' : '') +
+      '</div>' +
+      (site.top ? seatBtn("top", site.name) : "") +
+      (site.bottom ? seatBtn("bottom", site.name) : "") +
+      '</div>';
+  }
+  _wireStartCard(panel) {
+    const inp = panel.querySelector("[data-start-search]");
+    if (inp) {
+      inp.addEventListener("input", () => {
+        const pos = inp.selectionStart;
+        this._renderStartCard(inp.value);
+        const next = this._startEl && this._startEl.querySelector("[data-start-search]");
+        if (next) { try { next.focus(); next.setSelectionRange(pos, pos); } catch (e) {} }
+      });
+      // Esc inside the field closes the card, not just the field's own clear
+      inp.addEventListener("keydown", (e) => { if (e.key === "Escape") { e.preventDefault(); this.closeStartCard(); } });
+    }
+    panel.querySelectorAll("[data-start-go]").forEach((b) => {
+      b.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const side = b.getAttribute("data-start-go");
+        const name = b.getAttribute("data-start-name");
+        this.startFromSite(name, side);
+      });
+    });
+    const rnd = panel.querySelector("[data-start-random]");
+    if (rnd) rnd.addEventListener("click", (e) => { e.stopPropagation(); this.closeStartCard(); this.randomStart(); });
+    const cl = panel.querySelector("[data-start-close]");
+    if (cl) cl.addEventListener("click", (e) => { e.stopPropagation(); this.closeStartCard(); });
+  }
+  /** Begin a roll at one seat of one position. The ROLE-NODE's own index and its role both go to
+   *  `rollFromPosition`, so nothing downstream has to infer a side from a name. */
+  startFromSite(name, side) {
+    const site = this._startSites().find((s) => s.name === name);
+    const node = site && (side === "bottom" ? site.bottom : site.top);
+    if (!node) return;
+    this.closeStartCard();
+    this.fx("start_card_pick", { position: name, role: side });
+    this.rollFromPosition(node.idx, false, side);
+  }
+  /** The quiet second option: a legal random seat, drawn through the rigged seam (never
+   *  Math.random — scripts/check_no_raw_random.sh gates that). */
+  randomStart() {
+    const sites = this._startSites();
+    if (!sites.length) return;
+    const i = Math.floor(this.rng("start-pos") * sites.length) % sites.length;
+    const site = sites[i];
+    const node = site.top || site.bottom;
+    if (!node) return;
+    this.fx("start_card_random", { position: site.name, role: node.role || "top" });
+    this.rollFromPosition(node.idx, false, node.role || "top");
+  }
+  /** First visit, on the home page, with nothing played yet. Everything else is a no. */
+  _maybeOpenStartCard() {
+    if (this._startSeen()) return;
+    if (this.isTest && this.isTest()) return;
+    let slug = "";
+    try { slug = (document.body && document.body.dataset && document.body.dataset.slug) || ""; } catch (e) {}
+    if (slug && slug !== "index") return;                    // only the home page
+    const played = Object.keys(this.prep || {}).length || (this._pastRolls || []).length;
+    if (played) { this._markStartSeen(); return; }            // a returning user is not a newcomer
+    this.after(1.1, () => { if (!this._startSeen()) this.openStartCard(); });
   }
   renderAccountMenu() {
     const m = this.acctMenuRef.current; if (!m) return;
@@ -5872,6 +6094,7 @@ class Component extends DCLogic {
       lsep.style.cssText = "flex:none;height:1px;margin:5px 4px;background:rgba(150,170,210,.14);";
       m.appendChild(lsep);
     }
+    m.appendChild(row("data-menu-start", ngUI("menu.chooseStart"), () => this.openStartCard()));
     m.appendChild(row("data-menu-settings", ngT("menu.settings", null, "Settings"), () => this.openSettings()));
     m.appendChild(row("data-menu-shortcuts", ngT("menu.shortcuts", null, "Keyboard shortcuts"), () => this.openSettings("shortcuts")));
     const legal = document.createElement("div");
@@ -14469,8 +14692,12 @@ class Component extends DCLogic {
       // the affordance has been dead to the mouse for as long as it has existed, and it surfaced
       // now only because uncapping the hand made it worth writing the first spec that clicks it
       // with a REAL mouse instead of `locator.click()`. Sixth time; the list is the cure.
+      // SEVENTH SURFACE: the start card. It portals to the app root, so today its pointerdown
+      // never reaches this handler at all — but the list is the cure precisely because that kind
+      // of reasoning stops being true the moment someone re-parents a surface. It is named here
+      // for the same reason the other six are.
       for (const ov of [this._landEl, this._landFilmEl, this.optDetailRef && this.optDetailRef.current,
-        this.optionHintRef && this.optionHintRef.current]) {
+        this.optionHintRef && this.optionHintRef.current, this._startEl]) {
         if (ov && e.target && ov.contains(e.target)) return;
       }
       this.closeDeckIfStudying();

@@ -24,6 +24,16 @@ const NG_I18N_KEY = "bjjmap-lang";
 const NG_I18N_ZH = {
   // ── menu ──
   "menu.language": "語言",
+  "start.title": "你想從哪個位置開始？",
+  "start.sub": "選一個位置和你的角色，直接開一場對練。",
+  "start.search": "搜尋位置…",
+  "start.quick": "常見起點",
+  "start.top": "上位",
+  "start.bottom": "下位",
+  "start.random": "隨機對練",
+  "start.none": "找不到符合的位置。",
+  "start.close": "關閉",
+  "menu.chooseStart": "選擇起始位置",
   "menu.settings": "設定",
   "menu.shortcuts": "鍵盤快速鍵",
   "menu.terms": "條款",
@@ -634,6 +644,85 @@ function ngLegal(kind) {
   return pack[kind] || NG_I18N_LEGAL.en[kind];
 }
 
+// The start card's English copy. Everywhere else the English IS the call site's default, but
+// this card has ~10 strings used twice each, and repeating them inline is how two copies of one
+// sentence start to disagree.
+const NG_I18N_EN_UI = {
+  "start.title": "Where do you want to start?",
+  "start.sub": "Pick a position and your side, and a roll begins there.",
+  "start.search": "Search positions…",
+  "start.quick": "Common starts",
+  "start.top": "Top",
+  "start.bottom": "Bottom",
+  "start.random": "Random roll",
+  "start.none": "No position matches that.",
+  "start.close": "Close",
+  "menu.chooseStart": "Choose a start"
+};
+
+// A one-line Chinese gloss for the positions a beginner meets. The English NAME is never
+// translated — this sits BESIDE it. A position with no entry shows no gloss at all rather than a
+// guess, which is why this is a curated map and not a generated one.
+const NG_I18N_POS_ZH = {
+  "Standing Position": "站立",
+  "Closed Guard": "封閉式防守",
+  "Open Guard": "開放式防守",
+  "Half Guard": "半防守",
+  "Butterfly Guard": "蝴蝶防守",
+  "De La Riva Guard": "DLR 防守",
+  "Spider Guard": "蜘蛛防守",
+  "X-Guard": "X 防守",
+  "Deep Half Guard": "深半防守",
+  "Z-Guard": "Z 防守",
+  "Rubber Guard": "橡膠防守",
+  "Lasso Guard": "套索防守",
+  "Worm Guard": "蟲式防守",
+  "Reverse De La Riva": "反向 DLR",
+  "Mount": "騎乘",
+  "High Mount": "高位騎乘",
+  "Technical Mount": "側身騎乘",
+  "S-Mount": "S 騎乘",
+  "Reverse Mount": "反向騎乘",
+  "Side Control": "側面壓制",
+  "Reverse Side Control": "反向側壓",
+  "North-South": "南北壓制",
+  "Knee on Belly": "膝壓腹",
+  "Back Control": "背後控制",
+  "Standing Back Control": "站立背後控制",
+  "Turtle": "龜甲防禦",
+  "Front Headlock": "前頸控",
+  "Clinch": "纏抱",
+  "Ashi Garami": "腳關節纏",
+  "Inside Ashi-Garami": "內側腳纏",
+  "50-50": "50-50 腳纏",
+  "Backside 50-50": "背側 50-50",
+  "Saddle": "馬鞍腳纏",
+  "Crucifix": "十字固控",
+  "Headquarters Position": "總部位置",
+  "Combat Base": "戰鬥基架",
+  "Quarter Guard": "四分之一防守",
+  "Truck": "卡車位",
+  "Kesa Gatame": "袈裟固",
+  "Mounted Triangle": "騎乘三角",
+  "Leg Drag": "拖腿位",
+  "Body Lock Pass": "抱身過腿",
+  "Sprawl": "趴撐防摔",
+  "Single Leg": "單腿抱",
+  "Double Leg": "雙腿抱"
+};
+
+/** The start card's copy: Chinese from NG_I18N_ZH, English from NG_I18N_EN_UI. */
+function ngUI(key) {
+  if (NG_I18N_LANG === "zh" && NG_I18N_ZH[key] != null) return NG_I18N_ZH[key];
+  return NG_I18N_EN_UI[key] != null ? NG_I18N_EN_UI[key] : ngT(key);
+}
+
+/** The gloss shown beside a position name, or "" when there is none (English, or unlisted). */
+function ngPosGloss(name) {
+  if (NG_I18N_LANG !== "zh") return "";
+  return NG_I18N_POS_ZH[name] || "";
+}
+
 let NG_I18N_LANG = (function () {
   try {
     const saved = localStorage.getItem(NG_I18N_KEY);
@@ -861,4 +950,6 @@ function ngI18nAutoTranslate(root) {
   attrTable: NG_I18N_ATTR_ZH,
   patterns: NG_I18N_PATTERNS,
   legal: ngLegal,
+  ui: ngUI,
+  posGloss: ngPosGloss,
 };
