@@ -74,16 +74,16 @@
   align-content: center;
   gap: 6px;
   padding: 10px 7px;
-  border: 2px dashed rgba(137, 176, 148, 0.58);
+  border: 2px dashed rgba(137, 176, 172, 0.58);
   border-radius: 18px 9px;
   background:
     repeating-linear-gradient(35deg, rgba(255, 255, 255, 0.028) 0 2px, transparent 2px 5px),
-    #1b2a25;
+    #10302c;
   text-align: center;
 }
 
 .ng-patch-badge > span {
-  color: #b8d5bf;
+  color: #b8d5d2;
   font: 900 11px/1 "Montserrat", sans-serif;
   letter-spacing: 0.08em;
 }

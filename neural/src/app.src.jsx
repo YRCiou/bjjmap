@@ -432,10 +432,13 @@ class Component extends DCLogic {
   lerp3(a, b, t) { return { r: a.r + (b.r - a.r) * t, g: a.g + (b.g - a.g) * t, b: a.b + (b.b - a.b) * t }; }
   lerpCol(a, b, t) { return this.lerp3(a, b, t); }
   rgba(c, a) { return "rgba(" + (c.r | 0) + "," + (c.g | 0) + "," + (c.b | 0) + "," + a + ")"; }
+  // Dominance ramp: teal = the seat favours you, amber = it favours them, neutral grey at 0.
+  // Teal/amber rather than blue/red so the scale survives red-green colour blindness and never
+  // reads as the pink primary. Mid matches --lightgray so a neutral node recedes into the page.
   domColor(d) {
-    const blue = { r: 64, g: 132, b: 255 }, red = { r: 232, g: 64, b: 64 }, mid = { r: 142, g: 142, b: 148 };
-    if (d >= 0) return this.lerp3(mid, blue, Math.min(1, d));
-    return this.lerp3(mid, red, Math.min(1, -d));
+    const win = { r: 45, g: 212, b: 191 }, lose = { r: 251, g: 146, b: 60 }, mid = { r: 138, g: 138, b: 138 };
+    if (d >= 0) return this.lerp3(mid, win, Math.min(1, d));
+    return this.lerp3(mid, lose, Math.min(1, -d));
   }
   hex(c) { const h = (x) => ("0" + (x | 0).toString(16)).slice(-2); return "#" + h(c.r) + h(c.g) + h(c.b); }
   ease(t) { return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2; }
@@ -1641,7 +1644,7 @@ class Component extends DCLogic {
     this.adv.shown = true;
     if (!wasShown) this.adv.cur = this.adv.target; // snap on first appearance, glide thereafter
   }
-  toneColor(tone) {    return { neutral: "#cfe0ff", info: "#9bb6ff", good: "#7ee0a8", bad: "#ff8b8b", muted: "#8ba0c0" }[tone] || "#cfe0ff";
+  toneColor(tone) {    return { neutral: "#cfe0ff", info: "#9bb6ff", good: "#2dd4bf", bad: "#fb923c", muted: "#8ba0c0" }[tone] || "#cfe0ff";
   }
   splitName(t) {
     const m = (t || "").match(/^(.*?)\s+[Ff]rom\s+(.+)$/);
@@ -1764,8 +1767,8 @@ class Component extends DCLogic {
     this._curClips = c.clips || null; h += this.filmStudyHTML(c.clips);
     if (c.steps) { h += sec(cat === "Submission" ? "Finish mechanics" : "How to execute"); c.steps.forEach((s, i) => h += '<div style="display:flex;gap:10px;margin-bottom:7px;"><span style="flex:none;width:18px;height:18px;border-radius:50%;background:rgba(201,47,130,.25);color:#f6c2dc;font-size:10.5px;font-weight:700;display:flex;align-items:center;justify-content:center;">' + (i + 1) + '</span><span style="font-size:13px;color:#cdd5e6;line-height:1.5;">' + s + '</span></div>'); }
     if (c.principles) { h += sec(cat === "Position" ? "Key principles" : "Details that matter"); c.principles.forEach((p) => h += li(p)); }
-    if (c.decisionTree) { h += sec("Decision tree"); c.decisionTree.forEach((d) => { h += '<div style="font-size:12.5px;font-weight:600;color:#dbe2f0;margin:9px 0 5px;">If ' + d.cond + ':</div>'; d.acts.forEach((a) => h += '<div style="display:flex;align-items:center;gap:8px;margin:0 0 4px 10px;"><span style="font-size:12.5px;color:#cdd5e6;flex:1;">' + a[0] + ' <span style="color:#7e8aa3;">\u2192 ' + a[2] + '</span></span><span style="font-size:11.5px;font-weight:700;color:#7ee0a8;">' + a[1] + '%</span></div>'); }); }
-    if (c.mistakes) { h += sec("Common mistakes"); c.mistakes.forEach((m) => h += '<div style="margin-bottom:10px;"><div style="font-size:12.5px;color:#e8956b;line-height:1.45;">\u2717 ' + m.err + '</div><div style="font-size:12.5px;color:#7ee0a8;line-height:1.45;margin-top:2px;">\u2713 ' + m.fix + '</div></div>'); }
+    if (c.decisionTree) { h += sec("Decision tree"); c.decisionTree.forEach((d) => { h += '<div style="font-size:12.5px;font-weight:600;color:#dbe2f0;margin:9px 0 5px;">If ' + d.cond + ':</div>'; d.acts.forEach((a) => h += '<div style="display:flex;align-items:center;gap:8px;margin:0 0 4px 10px;"><span style="font-size:12.5px;color:#cdd5e6;flex:1;">' + a[0] + ' <span style="color:#7e8aa3;">\u2192 ' + a[2] + '</span></span><span style="font-size:11.5px;font-weight:700;color:#2dd4bf;">' + a[1] + '%</span></div>'); }); }
+    if (c.mistakes) { h += sec("Common mistakes"); c.mistakes.forEach((m) => h += '<div style="margin-bottom:10px;"><div style="font-size:12.5px;color:#fb923c;line-height:1.45;">\u2717 ' + m.err + '</div><div style="font-size:12.5px;color:#2dd4bf;line-height:1.45;margin-top:2px;">\u2713 ' + m.fix + '</div></div>'); }
     if (c.counters) { h += sec("If it stalls"); c.counters.forEach((x) => h += li(x)); }
     if (c.metrics) { h += sec("Numbers"); h += '<div style="display:flex;gap:10px;flex-wrap:wrap;">'; Object.keys(c.metrics).forEach((k) => h += '<div style="flex:1;min-width:90px;background:rgba(255,255,255,.04);border:1px solid rgba(150,170,210,.14);border-radius:9px;padding:9px 11px;"><div style="font-size:15px;font-weight:700;color:#eef1f6;font-family:\'Montserrat\',sans-serif;">' + c.metrics[k] + '</div><div style="font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:#7e8aa3;font-weight:600;margin-top:2px;">' + k + '</div></div>'); h += '</div>'; }
     if (c.related && c.related.length) {
@@ -1792,7 +1795,7 @@ class Component extends DCLogic {
     const lead = (t) => '<div style="font-size:13.5px;color:#c2ccde;line-height:1.6;">' + this.proseHTML(t) + '</div>';
     const li = (t, dash) => '<div style="display:flex;gap:9px;margin-bottom:7px;"><span style="color:' + (dash || "#f472b6") + ';flex:none;">\u2014</span><span style="font-size:13px;color:#cdd5e6;line-height:1.5;">' + t + '</span></div>';
     const steps = (arr) => { let s = ""; arr.forEach((t, i) => s += '<div style="display:flex;gap:10px;margin-bottom:7px;"><span style="flex:none;width:18px;height:18px;border-radius:50%;background:rgba(201,47,130,.25);color:#f6c2dc;font-size:10.5px;font-weight:700;display:flex;align-items:center;justify-content:center;">' + (i + 1) + '</span><span style="font-size:13px;color:#cdd5e6;line-height:1.5;">' + t + '</span></div>'); return s; };
-    const mistakes = (arr) => { let s = ""; arr.forEach((m) => s += '<div style="margin-bottom:10px;"><div style="font-size:12.5px;color:#e8956b;line-height:1.45;">\u2717 ' + m.err + '</div><div style="font-size:12.5px;color:#7ee0a8;line-height:1.45;margin-top:2px;">\u2713 ' + m.fix + '</div></div>'); return s; };
+    const mistakes = (arr) => { let s = ""; arr.forEach((m) => s += '<div style="margin-bottom:10px;"><div style="font-size:12.5px;color:#fb923c;line-height:1.45;">\u2717 ' + m.err + '</div><div style="font-size:12.5px;color:#2dd4bf;line-height:1.45;margin-top:2px;">\u2713 ' + m.fix + '</div></div>'); return s; };
 
     let h = "";
     const P = rc.perspectives || {};
@@ -1804,9 +1807,9 @@ class Component extends DCLogic {
     if (isDef && (!blk || !blk.authored)) {
       // N=1: do NOT clone the attacker view or fabricate a defender breakdown for unauthored moves.
       h += lead("The defender's breakdown for this transition isn't authored here yet.");
-      h += '<div style="margin-top:13px;padding:14px 15px;background:rgba(232,149,107,.08);border:1px solid rgba(232,149,107,.2);border-radius:11px;">' +
+      h += '<div style="margin-top:13px;padding:14px 15px;background:rgba(251,146,60,.08);border:1px solid rgba(251,146,60,.2);border-radius:11px;">' +
         '<div style="font-size:12.5px;color:#e8b89c;line-height:1.5;">We hand-author each defender perspective rather than auto-generating one from the attack &mdash; a real defense is its own technique, not a mirror of the attack. The full escape tree, recognition cues and counters for <b style="color:#f0d2bf;">' + this.splitName(n.t).main + '</b> live on bjjmap.pages.dev.</div>' +
-        '<a href="https://bjjmap.pages.dev" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;margin-top:10px;font-size:12px;font-weight:700;color:#e8956b;text-decoration:none;">Open the full breakdown on bjjmap.pages.dev \u2192</a>' +
+        '<a href="https://bjjmap.pages.dev" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;margin-top:10px;font-size:12px;font-weight:700;color:#fb923c;text-decoration:none;">Open the full breakdown on bjjmap.pages.dev \u2192</a>' +
         '</div>';
       return h;
     }
@@ -1820,12 +1823,12 @@ class Component extends DCLogic {
       if (blk.steps) { h += sec("How to execute"); h += steps(blk.steps); }
       if (blk.principles) { h += sec("Key principles"); blk.principles.forEach((t) => h += li(t)); }
       if (blk.options) {
-        h += sec("Your options", "#7ee0a8");
+        h += sec("Your options", "#2dd4bf");
         blk.options.forEach((o) => h += '<div style="margin-bottom:9px;padding:10px 12px;background:rgba(255,255,255,.035);border:1px solid rgba(150,170,210,.12);border-radius:10px;">' +
           '<div style="display:flex;align-items:baseline;justify-content:space-between;gap:8px;"><span style="font-size:13px;font-weight:700;color:#dbe2f0;">' + o.move + '</span><span style="flex:none;font-size:10.5px;color:#8b97b0;">' + o.when + '</span></div>' +
-          '<div style="font-size:12px;color:#9fb0d0;margin-top:4px;"><span style="color:#7ee0a8;">\u2192</span> ' + o.leadsTo + '</div></div>');
+          '<div style="font-size:12px;color:#9fb0d0;margin-top:4px;"><span style="color:#2dd4bf;">\u2192</span> ' + o.leadsTo + '</div></div>');
       }
-      if (blk.bestOutcomes) { h += sec("Best you can hope for"); blk.bestOutcomes.forEach((t) => h += li(t, "#7ee0a8")); }
+      if (blk.bestOutcomes) { h += sec("Best you can hope for"); blk.bestOutcomes.forEach((t) => h += li(t, "#2dd4bf")); }
       if (blk.counters) { h += sec("If they resist"); blk.counters.forEach((t) => h += li(t)); }
       if (blk.mistakes) { h += sec("Common mistakes"); h += mistakes(blk.mistakes); }
     }
@@ -1834,7 +1837,7 @@ class Component extends DCLogic {
     if (rc.outcomes && rc.outcomes.length) {
       h += sec("Where it leads");
       rc.outcomes.forEach((o) => {
-        const tc = o.tone === "good" ? "#7ee0a8" : o.tone === "bad" ? "#e8956b" : "#cbd24e";
+        const tc = o.tone === "good" ? "#2dd4bf" : o.tone === "bad" ? "#fb923c" : "#cbd24e";
         h += '<div style="display:flex;align-items:center;gap:10px;margin-bottom:7px;">' +
           '<div style="flex:none;width:42px;font-size:14px;font-weight:700;color:' + tc + ';font-family:\'Montserrat\',sans-serif;">' + o.prob + '%</div>' +
           '<div style="flex:1;min-width:0;"><span style="font-size:13px;color:#dbe2f0;font-weight:600;">' + o.result + '</span>' + (o.position ? '<span style="font-size:11.5px;color:#8b97b0;"> \u00b7 ' + o.position + '</span>' : '') + '</div></div>';
@@ -2224,7 +2227,7 @@ class Component extends DCLogic {
   // mode the final value lands instantly (headless rAF is throttled); prod gets the 450ms ride.
   _pumpOdds(container, n) {
     const to = Math.round(this.moveChance(n) * 100);
-    const col = to >= 60 ? "#7ee0a8" : to >= 38 ? "#cbd24e" : "#e8956b";
+    const col = to >= 60 ? "#2dd4bf" : to >= 38 ? "#cbd24e" : "#fb923c";
     container.querySelectorAll(".ngsucbig").forEach((el) => {
       const from = parseInt((el.textContent || "0").replace(/[^0-9]/g, ""), 10) || 0;
       el.style.color = col;
@@ -2328,7 +2331,7 @@ class Component extends DCLogic {
       (role ? '<div data-drill-role="1" style="font-size:10px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:' + (roleColor || "#9fb0d8") + ';margin-bottom:5px;">' + role + '</div>' : '') +
       '<div style="display:flex;align-items:flex-start;justify-content:space-between;gap:10px;">' +
         '<div style="font-size:19px;font-weight:700;color:#eef1f6;line-height:1.14;letter-spacing:-.01em;text-wrap:balance;">' + title + '</div>' +
-        (countText ? '<span style="flex:none;margin-top:3px;font-size:11px;font-weight:700;color:#7ee0a8;letter-spacing:.02em;">' + countText + '</span>' : '') +
+        (countText ? '<span style="flex:none;margin-top:3px;font-size:11px;font-weight:700;color:#2dd4bf;letter-spacing:.02em;">' + countText + '</span>' : '') +
       '</div>' +
       (sub ? '<div style="font-size:11.5px;color:#93a0bd;margin-top:7px;line-height:1.45;">' + sub + '</div>' : '');
     head.querySelector(".ngBack").addEventListener("click", () => this._exitStudyTo(this._paneReturnTab)); // ‹ Back returns to the tab the study came from
@@ -2343,7 +2346,7 @@ class Component extends DCLogic {
   drillBtn(label, primary) {
     const b = document.createElement("button");
     b.textContent = label;
-    b.style.cssText = "flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;padding:9px 8px;border-radius:8px;transition:filter .12s;border:1px solid " + (primary ? "rgba(110,224,168,.5)" : "rgba(150,170,210,.25)") + ";background:" + (primary ? "rgba(60,150,100,.22)" : "rgba(255,255,255,.05)") + ";color:" + (primary ? "#bff0d2" : "#c3cde0") + ";";
+    b.style.cssText = "flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;padding:9px 8px;border-radius:8px;transition:filter .12s;border:1px solid " + (primary ? "rgba(45,212,191,.5)" : "rgba(150,170,210,.25)") + ";background:" + (primary ? "rgba(47,158,148,.22)" : "rgba(255,255,255,.05)") + ";color:" + (primary ? "#a5f0e8" : "#c3cde0") + ";";
     b.addEventListener("mouseenter", () => b.style.filter = "brightness(1.25)");
     b.addEventListener("mouseleave", () => b.style.filter = "none");
     return b;
@@ -3560,7 +3563,7 @@ class Component extends DCLogic {
       '<span class="ngStat" data-b="mastered" style="' + cell + 'color:#8b97b0;border-bottom:1px dashed rgba(139,151,176,.35);">Mastered <b style="color:#cbd4e6;font-weight:700;">' + mastered + '</b><span style="color:#7e8aa3;font-size:10.5px;">(' + pctMastered + '%)</span></span>' +
       // MAINTENANCE FIRST (v1.105.0, owner): the middle cell is the daily dosage, amber while
       // anything is owed. One press opens the due SESSION, not the browse modal.
-      '<span class="ngStat" data-b="due" data-due-decks="' + due + '" title="' + dueCards + ' card' + (dueCards === 1 ? '' : 's') + ' due · ' + (this.cardsToday || 0) + ' answered today" aria-label="' + due + ' technique' + (due === 1 ? '' : 's') + ' due · ' + dueCards + ' card' + (dueCards === 1 ? '' : 's') + ' · ' + (this.cardsToday || 0) + ' answered today" style="' + cell + 'color:' + (due > 0 ? "#d6a45a" : "#8b97b0") + ';border-bottom:1px dashed rgba(139,151,176,.35);"><b style="color:' + (due > 0 ? "#e9bd70" : "#7ee0a8") + ';font-weight:700;">' + due + '</b> due</span>' +
+      '<span class="ngStat" data-b="due" data-due-decks="' + due + '" title="' + dueCards + ' card' + (dueCards === 1 ? '' : 's') + ' due · ' + (this.cardsToday || 0) + ' answered today" aria-label="' + due + ' technique' + (due === 1 ? '' : 's') + ' due · ' + dueCards + ' card' + (dueCards === 1 ? '' : 's') + ' · ' + (this.cardsToday || 0) + ' answered today" style="' + cell + 'color:' + (due > 0 ? "#d6a45a" : "#8b97b0") + ';border-bottom:1px dashed rgba(139,151,176,.35);"><b style="color:' + (due > 0 ? "#e9bd70" : "#2dd4bf") + ';font-weight:700;">' + due + '</b> due</span>' +
       '<span class="ngStat" data-b="new" data-new="' + newN + '" data-weak="' + newN + '" title="' + this._flowTitle(w, fresh) + '" style="' + cell + 'color:#d6a45a;border-bottom:1px dashed rgba(214,164,90,.4);">' + newTxt + '</span>';
     row.querySelectorAll(".ngStat").forEach((s) => {
       const sg = s.getAttribute("data-b") === "new";
@@ -3652,7 +3655,7 @@ class Component extends DCLogic {
     if (isCurrent) r.setAttribute("data-hist-current", "1");
     r.style.cssText = "display:flex;align-items:center;gap:10px;padding:7px 8px;margin:0 -8px;border-radius:8px;transition:background .12s;position:relative;";
     const railTop = opts.isFirst ? "50%" : "0"; const railBot = opts.isLast ? "50%" : "0";
-    const valColor = h.val != null ? (parseInt(h.val, 10) >= 0 ? "#e05fa4" : "#d8889e") : "#6b7691";
+    const valColor = h.val != null ? (parseInt(h.val, 10) >= 0 ? "#2dd4bf" : "#fb923c") : "#6b7691";
     r.innerHTML =
       '<span style="position:relative;width:10px;flex:none;align-self:stretch;display:flex;justify-content:center;">' +
         '<span style="position:absolute;top:' + railTop + ';bottom:' + railBot + ';width:1.5px;background:rgba(150,170,210,.16);"></span>' +
@@ -3662,7 +3665,7 @@ class Component extends DCLogic {
       (h.intend ? '<div style="font-size:9px;color:#5d6680;font-weight:600;letter-spacing:.01em;margin-bottom:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + (h.actor === "opp" ? "they aimed for" : "you aimed for") + ' <span style="color:#7e8aa3;">' + h.intend.val + ' ' + h.intend.name + '</span></div>' : '') +
       '<div style="display:flex;align-items:baseline;gap:6px;"><span style="font-size:12.5px;font-weight:' + (isCurrent ? 700 : 500) + ';color:' + (isCurrent ? "#eef1f6" : "#9aa6bd") + ';white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + (h.intend ? "\u21b3 " : "") + h.name + '</span>' + (h.val != null && parseInt(h.val, 10) !== 0 ? '<span style="flex:none;font-size:10px;font-weight:700;color:' + valColor + ';font-family:\'Montserrat\',sans-serif;">' + h.val + '</span>' : '') + '</div>' +
       '<div style="font-size:9.5px;color:#6b7691;font-weight:600;letter-spacing:.02em;">' + h.role + (ncards ? " \u00b7 " + (prep >= ncards && ncards ? "mastered" : prep + "/" + ncards + " cards") : "") + '</div></div>' +
-      (isCurrent ? '<span style="flex:none;font-size:8.5px;letter-spacing:.12em;font-weight:800;color:#7ee0a8;border:1px solid rgba(126,224,168,.4);border-radius:5px;padding:2px 5px;">LATEST</span>' : '<span class="hplay" style="flex:none;cursor:pointer;width:24px;height:24px;border-radius:7px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.04);color:' + (ncards ? "#8b97b0" : "#586378") + ';transition:background .12s,color .12s;"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="M7 5v14l12-7z"></path></svg></span>');
+      (isCurrent ? '<span style="flex:none;font-size:8.5px;letter-spacing:.12em;font-weight:800;color:#2dd4bf;border:1px solid rgba(45,212,191,.4);border-radius:5px;padding:2px 5px;">LATEST</span>' : '<span class="hplay" style="flex:none;cursor:pointer;width:24px;height:24px;border-radius:7px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.04);color:' + (ncards ? "#8b97b0" : "#586378") + ';transition:background .12s,color .12s;"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="M7 5v14l12-7z"></path></svg></span>');
     const box = document.createElement("div");
     const detail = document.createElement("div");
     detail.style.cssText = "display:none;margin:0 -8px;";
@@ -3765,7 +3768,7 @@ class Component extends DCLogic {
       const card = cards[st.idx] || {};
       const tabs = cards.map((c, i) => {
         const active = i === st.idx, done = ansSet.has(i);
-        const bg = active ? "#e05fa4" : (done ? "#6ed6a0" : "rgba(150,170,210,.22)");
+        const bg = active ? "#e05fa4" : (done ? "#2dd4bf" : "rgba(150,170,210,.22)");
         return '<span class="mt" data-i="' + i + '" style="height:4px;width:' + (active ? "22px" : "8px") + ';border-radius:2px;background:' + bg + ';cursor:pointer;transition:width .22s,background .22s;"></span>';
       }).join("");
       wrap.innerHTML =
@@ -3776,9 +3779,9 @@ class Component extends DCLogic {
           (card.tag ? '<div style="display:inline-block;font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:#e8a3c6;background:rgba(90,140,255,.13);border:1px solid rgba(225,90,160,.26);border-radius:999px;padding:2px 8px;margin-bottom:9px;">' + card.tag + '</div>' : '') +
           '<div data-mini-q="1" style="font-size:13px;line-height:1.5;color:#e3e9f4;font-weight:500;">' + (card.q || card.front || "") + '</div>' +
         '</div>' +
-        (st.revealed ? '<div data-mini-a="1" style="margin-top:8px;border:1px solid rgba(110,214,160,.28);border-radius:11px;background:rgba(20,38,30,.42);padding:13px 15px;font-size:12.5px;line-height:1.6;color:#bfe6cf;animation:ngCardIn .22s ease both;">' + (card.a || card.back || "") + '</div>' : '') +
+        (st.revealed ? '<div data-mini-a="1" style="margin-top:8px;border:1px solid rgba(45,212,191,.28);border-radius:11px;background:rgba(14,40,37,.42);padding:13px 15px;font-size:12.5px;line-height:1.6;color:#a7e6de;animation:ngCardIn .22s ease both;">' + (card.a || card.back || "") + '</div>' : '') +
         (st.revealed && !gradedSet.has(st.idx)
-          ? '<div style="display:flex;gap:7px;margin-top:8px;"><button data-mini-again="1" style="flex:1;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(232,150,107,.4);background:rgba(232,150,107,.12);color:#f0c4ad;">Review again</button><button data-mini-got="1" style="flex:1;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(110,214,160,.4);background:rgba(110,214,160,.13);color:#bfe6cf;">Got it</button></div>'
+          ? '<div style="display:flex;gap:7px;margin-top:8px;"><button data-mini-again="1" style="flex:1;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(251,146,60,.4);background:rgba(251,146,60,.12);color:#f0c4ad;">Review again</button><button data-mini-got="1" style="flex:1;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(45,212,191,.4);background:rgba(45,212,191,.13);color:#a7e6de;">Got it</button></div>'
           : (st.revealed ? '<div data-mini-graded="1" style="margin-top:8px;font-size:10.5px;color:#7e8aa3;text-align:center;">Graded \u2014 next card \u2192</div>' : '')) +
         '<div style="display:flex;gap:7px;margin-top:9px;">' +
           navBtn("mp", "M15 18l-6-6 6-6") +
@@ -3863,7 +3866,7 @@ class Component extends DCLogic {
   _pastRollRow(roll, decks) {
     const log = roll.log || [];
     const start = log[0], end = log[log.length - 1];
-    const oc = { win: { c: "#7ee0a8", t: "won" }, lose: { c: "#e8889e", t: "tapped" }, reset: { c: "#7e8aa3", t: "reset" } }[roll.outcome] || { c: "#7e8aa3", t: "ended" };
+    const oc = { win: { c: "#2dd4bf", t: "won" }, lose: { c: "#fb923c", t: "tapped" }, reset: { c: "#8a8a8a", t: "reset" } }[roll.outcome] || { c: "#8a8a8a", t: "ended" };
     const box = document.createElement("div");
     box.style.cssText = "margin:0 -8px;";
     const r = document.createElement("div");
@@ -4069,7 +4072,7 @@ class Component extends DCLogic {
     const edge = this.edgeMark(opt);
     const col = edge ? edge.col : this.hex(this.myColor(n)), cat = this.deckCat(n); // role-correct, see buildOptionCard
     const pct = Math.round(this.moveChance(n) * 100);
-    const oddsCol = pct >= 60 ? "#7ee0a8" : pct >= 38 ? "#cbd24e" : "#e8956b";
+    const oddsCol = pct >= 60 ? "#2dd4bf" : pct >= 38 ? "#cbd24e" : "#fb923c";
     const resName = opt.res >= 0 ? this.splitName(this.nodes[opt.res].t).main : "\u2014";
     const myMod = Math.round(this.stateBonus(this._posKey) * 100) + Math.round(this.stateBonus(this.deckKeyFor(n).key) * 100);
     const neighbors = this.adj[n.idx].filter((k) => this.nodes[k].ty === "positions").slice(0, 4).map((k) => this.splitName(this.nodes[k].t).main);
@@ -4101,7 +4104,7 @@ class Component extends DCLogic {
     const sPct = Math.round((this.sharpness(this._posKey) + this.sharpness(this.deckKeyFor(n).key)) * 100);
     const fPct = (this._filmLook && this._filmLook[n.t]) ? 4 : 0;
     const noteBits = [mPct ? mPct + "% mastered" : "", sPct ? sPct + "% sharp" : "", fPct ? "4% film study" : ""].filter(Boolean).join(" \u00b7 ");
-    const drillNote = myMod + fPct > 0 ? '<div style="margin-top:11px;display:inline-flex;align-items:center;gap:6px;font-size:11.5px;color:#7ee0a8;"><b style="font-weight:700;">+' + (myMod + fPct) + '%</b><span style="color:#6f8a78;">' + noteBits + '</span></div>' : '';
+    const drillNote = myMod + fPct > 0 ? '<div style="margin-top:11px;display:inline-flex;align-items:center;gap:6px;font-size:11.5px;color:#2dd4bf;"><b style="font-weight:700;">+' + (myMod + fPct) + '%</b><span style="color:#6f8a87;">' + noteBits + '</span></div>' : '';
     head.innerHTML =
       // TOP-RIGHT CORNER PAIR (v1.102.1), the same shape the game card uses: capture and dismiss
       // are both chrome ABOUT the sheet, so they sit together in its corner. Owner: "add to class
@@ -4152,7 +4155,7 @@ class Component extends DCLogic {
       '</div>' +
       (cat === "Submission"
         ? ''
-        : (!tp && resName !== "\u2014" ? '<div style="margin-top:13px;font-size:12px;color:#8b97b0;display:flex;align-items:center;gap:6px;"><span style="color:#7ee0a8;">\u2192</span>on success, advances to <b style="color:#c3cde0;font-weight:600;">' + this.splitName(resName).main + '</b></div>' : ''));
+        : (!tp && resName !== "\u2014" ? '<div style="margin-top:13px;font-size:12px;color:#8b97b0;display:flex;align-items:center;gap:6px;"><span style="color:#2dd4bf;">\u2192</span>on success, advances to <b style="color:#c3cde0;font-weight:600;">' + this.splitName(resName).main + '</b></div>' : ''));
     const scroller = document.createElement("div");
     scroller.style.cssText = "flex:1;min-height:0;overflow-y:auto;";
     scroller.appendChild(head);
@@ -4170,15 +4173,15 @@ class Component extends DCLogic {
         this._jitIdx = this._jitIdx || {};
         const jit = document.createElement("div");
         jit.setAttribute("data-jit", "1");
-        jit.style.cssText = "margin:10px 26px 4px;padding:12px 14px;border:1px solid rgba(126,224,168,.22);border-radius:12px;background:rgba(22,38,30,.35);";
+        jit.style.cssText = "margin:10px 26px 4px;padding:12px 14px;border:1px solid rgba(45,212,191,.22);border-radius:12px;background:rgba(22,38,30,.35);";
         const renderJit = () => {
           const idx = (this._jitIdx[jitKey] || 0) % jc.length;
           const card = jc[idx];
           let touched = false;   // the player has engaged THIS question — never rug-pull it
           jit.innerHTML =
             '<div style="display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:7px;">' +
-              '<span style="font-size:10px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#7ee0a8;">Drill it \u2014 earn odds & time</span>' +
-              '<span style="font-size:10px;color:#6f8a78;">+10% now \u00b7 +3% forever \u00b7 +2.5s</span></div>' +
+              '<span style="font-size:10px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#2dd4bf;">Drill it \u2014 earn odds & time</span>' +
+              '<span style="font-size:10px;color:#6f8a87;">+10% now \u00b7 +3% forever \u00b7 +2.5s</span></div>' +
             '<div style="font-size:12.5px;line-height:1.5;color:#dbe8df;">' + card.q + '</div>';
           const advance = () => { this._jitIdx[jitKey] = idx + 1; renderJit(); };
           // What a graded card is worth HERE, and only that. The credit itself — stage, prep,
@@ -4219,10 +4222,10 @@ class Component extends DCLogic {
           // `_mcAnswer` ran, so the credit is made here.
           const tail = document.createElement("div");
           tail.innerHTML =
-            '<div class="jitAns" style="display:none;margin-top:8px;font-size:12px;line-height:1.55;color:#a9cdb6;border-top:1px solid rgba(126,224,168,.15);padding-top:8px;">' + card.a + '</div>' +
+            '<div class="jitAns" style="display:none;margin-top:8px;font-size:12px;line-height:1.55;color:#a9cdc9;border-top:1px solid rgba(45,212,191,.15);padding-top:8px;">' + card.a + '</div>' +
             '<div style="display:flex;gap:8px;margin-top:10px;">' +
-              '<button data-jit-reveal style="flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(126,224,168,.35);background:rgba(126,224,168,.12);color:#bfe6cf;">Reveal answer</button>' +
-              '<button data-jit-got style="display:none;flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:none;background:linear-gradient(135deg,#2f9e6a,#207a55);color:#eafff3;">Got it \u2192 pump the odds</button>' +
+              '<button data-jit-reveal style="flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(45,212,191,.35);background:rgba(45,212,191,.12);color:#a7e6de;">Reveal answer</button>' +
+              '<button data-jit-got style="display:none;flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:none;background:linear-gradient(135deg,#149e94,#0f766e);color:#e6fffb;">Got it \u2192 pump the odds</button>' +
             '</div>';
           while (tail.firstChild) jit.appendChild(tail.firstChild);
           const rv = jit.querySelector("[data-jit-reveal]"), gt = jit.querySelector("[data-jit-got]");
@@ -4243,7 +4246,7 @@ class Component extends DCLogic {
           const b = document.createElement("button");
           b.setAttribute("data-jit-next", "1");
           b.textContent = "Next card \u2192";
-          b.style.cssText = "margin-top:9px;width:100%;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(126,224,168,.35);background:rgba(126,224,168,.12);color:#bfe6cf;";
+          b.style.cssText = "margin-top:9px;width:100%;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px;border-radius:9px;border:1px solid rgba(45,212,191,.35);background:rgba(45,212,191,.12);color:#a7e6de;";
           b.addEventListener("click", (ev) => { ev.stopPropagation(); advance(); }); // the render's own advance, never a second copy of it
           jit.appendChild(b);
         };
@@ -4291,7 +4294,7 @@ class Component extends DCLogic {
       // the stepper moves the odds, so it moves the EDGE — here and on the small card behind it,
       // from the one `edgeMark`, or the sheet would contradict the card it grew out of
       const bedge = head.querySelector(".ngedgebig");
-      const bupd = () => { const p = Math.round(this.moveChance(n) * 100); const c = p >= 60 ? "#7ee0a8" : p >= 38 ? "#cbd24e" : "#e8956b"; bsvAll.forEach((el) => { el.textContent = p + "%"; el.style.color = c; }); const e2 = this.edgeMark(opt); if (bedge && e2) { bedge.textContent = e2.txt; bedge.style.color = e2.col; } this.refreshOptionOdds(); };
+      const bupd = () => { const p = Math.round(this.moveChance(n) * 100); const c = p >= 60 ? "#2dd4bf" : p >= 38 ? "#cbd24e" : "#fb923c"; bsvAll.forEach((el) => { el.textContent = p + "%"; el.style.color = c; }); const e2 = this.edgeMark(opt); if (bedge && e2) { bedge.textContent = e2.txt; bedge.style.color = e2.col; } this.refreshOptionOdds(); };
       if (bedit) bedit.addEventListener("click", (e) => { e.stopPropagation(); bedit.style.display = "none"; if (bsteps) { bsteps.style.display = "flex"; requestAnimationFrame(() => bsteps.style.opacity = "1"); } });
       if (bdn) bdn.addEventListener("click", (e) => { e.stopPropagation(); this.bumpCardSuccess(n, -1); bupd(); });
       if (bup) bup.addEventListener("click", (e) => { e.stopPropagation(); this.bumpCardSuccess(n, 1); bupd(); }); }
@@ -4605,7 +4608,7 @@ class Component extends DCLogic {
     card.style.width = "min(460px,93vw)";
     const list = this.bucketTechniques(this._fbBucket);
     const decks = (this.flashcards && this.flashcards.decks) || {};
-    const catCol = { Position: "#c9d2e3", Transition: "#9fb0d8", Submission: "#e8956b", Defense: "#e8956b" };
+    const catCol = { Position: "#c9d2e3", Transition: "#9fb0d8", Submission: "#fb923c", Defense: "#fb923c" };
     card.innerHTML = "";
     const head = document.createElement("div");
     head.style.cssText = "padding:20px 22px 16px;border-bottom:1px solid rgba(150,170,210,.12);";
@@ -4632,7 +4635,7 @@ class Component extends DCLogic {
         r.innerHTML =
           '<span style="width:9px;height:9px;border-radius:' + (cat === "Submission" ? "2px" : cat === "Transition" ? "2px" : "50%") + ';background:' + (catCol[cat] || "#9fb0d8") + ';flex:none;"></span>' +
           '<div style="flex:1;min-width:0;"><div style="font-size:13.5px;font-weight:600;color:#eef1f6;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + fam + '</div><div style="font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:#7e8aa3;font-weight:600;margin-top:1px;">' + cat + ' \u00b7 ' + role + '</div></div>' +
-          (prep > 0 ? '<span style="font-size:11px;font-weight:700;color:#7ee0a8;">\u2713 drilled</span>' : (count === "soon" || count === "retry" ? '<span style="font-size:11px;color:#69748f;">' + count + '</span>' : '<span style="font-size:11px;font-weight:600;color:#e8a3c6;">' + count + '</span>')) +
+          (prep > 0 ? '<span style="font-size:11px;font-weight:700;color:#2dd4bf;">\u2713 drilled</span>' : (count === "soon" || count === "retry" ? '<span style="font-size:11px;color:#69748f;">' + count + '</span>' : '<span style="font-size:11px;font-weight:600;color:#e8a3c6;">' + count + '</span>')) +
           '<span style="color:#5d6883;font-size:14px;">\u203a</span>';
         r.addEventListener("mouseenter", () => r.style.background = "rgba(255,255,255,.04)");
         r.addEventListener("mouseleave", () => r.style.background = "transparent");
@@ -4927,7 +4930,7 @@ class Component extends DCLogic {
    * Returns { el, open } so `renderSession` can drive the focused row without a DOM query.
    */
   _sessionRow(key, i, s, decks) {
-    const catCol = { Position: "#c9d2e3", Transition: "#9fb0d8", Submission: "#e8956b", Defense: "#e8956b" };
+    const catCol = { Position: "#c9d2e3", Transition: "#9fb0d8", Submission: "#fb923c", Defense: "#fb923c" };
     const fam = key.split("|")[0], role = key.split("|")[1] || "";
     const d = decks[key]; const cat = (d && d.cat) || "Position";
     const ncards = this._deckCardCount(d);
@@ -4947,15 +4950,15 @@ class Component extends DCLogic {
       const open = detail.style.display !== "none";
       if (done) r.setAttribute("data-session-done", "1"); else r.removeAttribute("data-session-done");
       r.style.cssText = "display:flex;align-items:center;gap:10px;padding:10px 11px;border-radius:10px;cursor:pointer;margin-bottom:7px;transition:background .14s,border-color .14s;border:1px solid " +
-        (done ? "rgba(110,214,160,.42)" : open ? "rgba(240,150,195,.5)" : "rgba(150,170,210,.12)") + ";background:" +
-        (done ? "rgba(28,58,44,.5)" : open ? "rgba(58,72,118,.5)" : "rgba(255,255,255,.025)") + ";";
+        (done ? "rgba(45,212,191,.42)" : open ? "rgba(240,150,195,.5)" : "rgba(150,170,210,.12)") + ";background:" +
+        (done ? "rgba(18,58,54,.5)" : open ? "rgba(58,72,118,.5)" : "rgba(255,255,255,.025)") + ";";
       const label = this._deckCountLabel(key, true);
       r.innerHTML =
-        '<span style="width:9px;height:9px;border-radius:' + (cat === "Position" ? "50%" : "2px") + ';background:' + (done ? "#7ee0a8" : (catCol[cat] || "#9fb0d8")) + ';flex:none;"></span>' +
-        '<div style="flex:1;min-width:0;"><div style="font-size:13px;font-weight:600;color:' + (done ? "#bff0d2" : "#eef1f6") + ';white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + fam + '</div>' +
+        '<span style="width:9px;height:9px;border-radius:' + (cat === "Position" ? "50%" : "2px") + ';background:' + (done ? "#2dd4bf" : (catCol[cat] || "#9fb0d8")) + ';flex:none;"></span>' +
+        '<div style="flex:1;min-width:0;"><div style="font-size:13px;font-weight:600;color:' + (done ? "#a5f0e8" : "#eef1f6") + ';white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + fam + '</div>' +
         '<div style="font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:#7e8aa3;font-weight:600;margin-top:1px;">' + cat + ' · ' + role + '</div></div>' +
         (done
-          ? '<span data-session-tick="1" style="flex:none;color:#7ee0a8;font-size:13px;font-weight:700;">✓</span>'
+          ? '<span data-session-tick="1" style="flex:none;color:#2dd4bf;font-size:13px;font-weight:700;">✓</span>'
           : !ncards
             ? '<span style="flex:none;font-size:10px;color:#69748f;">' + label + '</span>'
             // the PROGRESS figure, not the card count: "how far to the tick" is the only number
@@ -5047,8 +5050,8 @@ class Component extends DCLogic {
     const kb = '<span style="display:inline-block;min-width:13px;text-align:center;padding:1px 3px;border-radius:3px;background:rgba(255,255,255,.06);color:#9aa6bd;">';
     el.innerHTML =
       '<div style="display:flex;align-items:center;gap:9px;">' +
-        '<div style="flex:1;height:4px;border-radius:2px;background:rgba(150,170,210,.16);overflow:hidden;"><div style="height:100%;width:' + Math.round((done / Math.max(1, n)) * 100) + '%;border-radius:2px;background:linear-gradient(90deg,#4a9c74,#7ee0a8);transition:width .3s;"></div></div>' +
-        '<span style="flex:none;font-size:10.5px;font-weight:700;color:' + (done ? "#7ee0a8" : "#7e8aa3") + ';">' + done + ' of ' + n + '</span>' +
+        '<div style="flex:1;height:4px;border-radius:2px;background:rgba(150,170,210,.16);overflow:hidden;"><div style="height:100%;width:' + Math.round((done / Math.max(1, n)) * 100) + '%;border-radius:2px;background:linear-gradient(90deg,#2f9e94,#2dd4bf);transition:width .3s;"></div></div>' +
+        '<span style="flex:none;font-size:10.5px;font-weight:700;color:' + (done ? "#2dd4bf" : "#7e8aa3") + ';">' + done + ' of ' + n + '</span>' +
       '</div>' +
       '<div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:9.5px;font-weight:600;letter-spacing:.02em;color:#6b7691;">' +
         kb + '←→</span> card<span style="color:#3d4761;">·</span>' + kb + '↑↓</span> technique<span style="color:#3d4761;">·</span>' + kb + 'space</span> flip' +
@@ -5066,18 +5069,18 @@ class Component extends DCLogic {
     this.track("neural_session_completed", { techniques: ses.keys.length });
     const done = document.createElement("div");
     done.setAttribute("data-session-complete", "1");
-    done.style.cssText = "margin-top:auto;background:rgba(28,46,38,.5);border:1px solid rgba(110,224,168,.35);border-radius:12px;padding:20px 16px;text-align:center;animation:ngCardIn .3s ease both;";
+    done.style.cssText = "margin-top:auto;background:rgba(16,48,44,.5);border:1px solid rgba(45,212,191,.35);border-radius:12px;padding:20px 16px;text-align:center;animation:ngCardIn .3s ease both;";
     done.innerHTML =
       '<div style="font-size:26px;margin-bottom:10px;">\uD83C\uDF89</div>' +
-      '<div style="font-size:15px;font-weight:700;color:#bff0d2;margin-bottom:6px;">Done for today \u2014 great job!</div>' +
-      '<div style="font-size:11.5px;color:#9ab3a4;line-height:1.5;margin-bottom:14px;">You reviewed all ' + ses.keys.length + ' technique' + (ses.keys.length === 1 ? '' : 's') + ' in this session.</div>';
+      '<div style="font-size:15px;font-weight:700;color:#a5f0e8;margin-bottom:6px;">Done for today \u2014 great job!</div>' +
+      '<div style="font-size:11.5px;color:#9ab3b0;line-height:1.5;margin-bottom:14px;">You reviewed all ' + ses.keys.length + ' technique' + (ses.keys.length === 1 ? '' : 's') + ' in this session.</div>';
     // 7-day progress sparkline — REAL history from the persisted daily counts
     const dk7 = []; for (let i = 6; i >= 0; i--) { const d = new Date(); d.setDate(d.getDate() - i); dk7.push(d); }
     const week = dk7.map((d) => (this._days || {})[this._dayKey(d)] || 0);
     const days = dk7.map((d) => ["S", "M", "T", "W", "T", "F", "S"][d.getDay()]);
     const maxv = Math.max(1, Math.max.apply(null, week));
     let bars = '<div style="display:flex;align-items:flex-end;justify-content:center;gap:7px;height:60px;margin-bottom:6px;">';
-    week.forEach((v, i) => { const last = i === week.length - 1; const h = Math.max(6, Math.round((v / maxv) * 54)); bars += '<div style="display:flex;flex-direction:column;align-items:center;gap:5px;"><div style="width:16px;height:' + h + 'px;border-radius:4px;background:' + (last ? "linear-gradient(180deg,#7ee0a8,#4a9c74)" : "rgba(120,150,210,.3)") + ';"></div><span style="font-size:9px;color:' + (last ? "#7ee0a8" : "#6b7691") + ';font-weight:600;">' + days[i] + '</span></div>'; });
+    week.forEach((v, i) => { const last = i === week.length - 1; const h = Math.max(6, Math.round((v / maxv) * 54)); bars += '<div style="display:flex;flex-direction:column;align-items:center;gap:5px;"><div style="width:16px;height:' + h + 'px;border-radius:4px;background:' + (last ? "linear-gradient(180deg,#2dd4bf,#2f9e94)" : "rgba(120,150,210,.3)") + ';"></div><span style="font-size:9px;color:' + (last ? "#2dd4bf" : "#6b7691") + ';font-weight:600;">' + days[i] + '</span></div>'; });
     bars += '</div>';
     const plot = document.createElement("div");
     plot.style.cssText = "background:rgba(255,255,255,.03);border:1px solid rgba(150,170,210,.12);border-radius:12px;padding:14px 12px 10px;margin-bottom:14px;";
@@ -5368,10 +5371,10 @@ class Component extends DCLogic {
     const head = document.createElement("div");
     head.style.cssText = "display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;";
     const active = this.userMods.filter((m) => m.on).length;
-    head.innerHTML = '<div><div style="font-size:14px;font-weight:600;color:#eef1f6;">Your modifiers</div><div style="font-size:12px;color:#93a0bd;margin-top:3px;">Per-technique success rate that overrides the base win %</div></div><div style="font-size:12px;font-weight:600;color:#7ee0a8;white-space:nowrap;">' + active + ' active</div>';
+    head.innerHTML = '<div><div style="font-size:14px;font-weight:600;color:#eef1f6;">Your modifiers</div><div style="font-size:12px;color:#93a0bd;margin-top:3px;">Per-technique success rate that overrides the base win %</div></div><div style="font-size:12px;font-weight:600;color:#2dd4bf;white-space:nowrap;">' + active + ' active</div>';
     host.appendChild(head);
 
-    const catCol = { Submission: "#e8956b", Transition: "#9fb0d8", Position: "#7ee0a8" };
+    const catCol = { Submission: "#fb923c", Transition: "#9fb0d8", Position: "#2dd4bf" };
     const q = (this._modQuery || "").trim().toLowerCase();
     const catF = this._modCat || "All";
 
@@ -5420,7 +5423,7 @@ class Component extends DCLogic {
       // toggle dot
       const dot = document.createElement("button");
       dot.title = m.on ? "Active" : "Paused";
-      dot.style.cssText = "flex:none;width:11px;height:11px;border-radius:50%;cursor:pointer;border:none;background:" + (m.on ? (catCol[m.cat] || "#7ee0a8") : "#48506a") + ";box-shadow:" + (m.on ? "0 0 8px " + (catCol[m.cat] || "#7ee0a8") : "none") + ";";
+      dot.style.cssText = "flex:none;width:11px;height:11px;border-radius:50%;cursor:pointer;border:none;background:" + (m.on ? (catCol[m.cat] || "#2dd4bf") : "#48506a") + ";box-shadow:" + (m.on ? "0 0 8px " + (catCol[m.cat] || "#2dd4bf") : "none") + ";";
       dot.addEventListener("click", () => { m.on = !m.on; this.buildModifiers(host); });
       // label
       const lab = document.createElement("div");
@@ -5430,7 +5433,7 @@ class Component extends DCLogic {
       const step = document.createElement("div");
       step.style.cssText = "display:flex;align-items:center;gap:3px;flex:none;";
       const mkStep = (txt, d) => { const b = document.createElement("button"); b.textContent = txt; b.style.cssText = "width:22px;height:22px;cursor:pointer;border-radius:6px;border:1px solid rgba(150,170,210,.22);background:rgba(255,255,255,.04);color:#c3cde0;font-size:14px;line-height:1;font-family:inherit;"; b.addEventListener("click", () => { m.pct = Math.max(0, Math.min(100, m.pct + d)); this.buildModifiers(host); }); return b; };
-      const val = document.createElement("span"); val.textContent = m.pct + "%"; val.style.cssText = "width:42px;text-align:center;font-size:13px;font-weight:700;color:#7ee0a8;";
+      const val = document.createElement("span"); val.textContent = m.pct + "%"; val.style.cssText = "width:42px;text-align:center;font-size:13px;font-weight:700;color:#2dd4bf;";
       step.appendChild(mkStep("\u2212", -1)); step.appendChild(val); step.appendChild(mkStep("+", 1));
       // delete
       const del = document.createElement("button");
@@ -5668,7 +5671,7 @@ class Component extends DCLogic {
     if (this.user) {
       chip.children[0].textContent = this.user.name;
       const av = chip.children[1]; av.textContent = this.user.initial;
-      av.style.background = "linear-gradient(135deg,#1f8a5b,#2a6fdb)";
+      av.style.background = "linear-gradient(135deg,#12857c,#2a6fdb)";
       if (cta) cta.style.display = "none";
     } else {
       chip.children[0].textContent = "Guest";
@@ -6434,7 +6437,7 @@ class Component extends DCLogic {
     // and NONE of them is a graph node — which is why they had no route in. concepts.json is
     // their index and their readable bodies ride the per-node dossier chunk space, so the same
     // `_ngc()` cache serves both. See _ensureConcepts / renderConceptDetail.
-    const CONCEPT_DOT = { Principle: "#66CCEE", Learning: "#7ee0a8" };
+    const CONCEPT_DOT = { Principle: "#66CCEE", Learning: "#2dd4bf" };
     const renderConcepts = (cat, label) => {
       const all = (this.concepts || []).filter((c) => c.cat === cat);
       // Deferred payload (63KB), same posture as Systems: ask at the first read, and _onConcepts
@@ -6871,7 +6874,7 @@ class Component extends DCLogic {
       host.appendChild(b);
       return b;
     };
-    const green = ["rgba(126,224,168,.45)", "rgba(126,224,168,.15)", "#cdebd9"];
+    const green = ["rgba(45,212,191,.45)", "rgba(45,212,191,.15)", "#bceee8"];
     const amber = ["rgba(232,185,138,.45)", "rgba(232,185,138,.15)", "#f0d5b4"];
     if (cue.kind === "class") {
       const lit = this._listFocusId === cue.target && this._focusIdxSet && this._focusIdxSet.size;
@@ -7923,9 +7926,9 @@ class Component extends DCLogic {
     const inc = this._sharedIncoming;
     const box = document.createElement("div");
     box.setAttribute("data-shared-list", inc.code);
-    box.style.cssText = "margin:4px 6px 8px;padding:9px 10px;border-radius:10px;border:1px solid rgba(126,224,168,.35);background:linear-gradient(180deg,rgba(24,44,38,.6),rgba(17,28,26,.5));";
+    box.style.cssText = "margin:4px 6px 8px;padding:9px 10px;border-radius:10px;border:1px solid rgba(45,212,191,.35);background:linear-gradient(180deg,rgba(16,46,43,.6),rgba(16,30,28,.5));";
     const head = document.createElement("div");
-    head.style.cssText = "font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#7ee0a8;";
+    head.style.cssText = "font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#2dd4bf;";
     head.innerHTML = 'Shared with you · <span data-shared-count="' + inc.ids.length + '">' + inc.ids.length + ' technique' + (inc.ids.length === 1 ? "" : "s") + '</span>';
     box.appendChild(head);
     for (const id of inc.ids) {
@@ -7990,7 +7993,7 @@ class Component extends DCLogic {
     save.type = "button";
     save.setAttribute("data-shared-save", "1");
     save.textContent = "Save";
-    save.style.cssText = "flex:none;pointer-events:auto;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:7px 11px;border-radius:8px;border:1px solid rgba(126,224,168,.4);background:rgba(126,224,168,.12);color:#cdebd9;";
+    save.style.cssText = "flex:none;pointer-events:auto;cursor:pointer;font-family:inherit;font-size:11.5px;font-weight:700;padding:7px 11px;border-radius:8px;border:1px solid rgba(45,212,191,.4);background:rgba(45,212,191,.12);color:#bceee8;";
     save.addEventListener("click", () => this.saveSharedList());
     acts.appendChild(save);
     box.appendChild(acts);
@@ -8496,7 +8499,7 @@ class Component extends DCLogic {
       list.appendChild(mk('<span style="font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:#7b8aa8;font-weight:700;">Related concepts</span>', 12));
       for (const rid of related) {
         const r = this._conceptsById[rid];
-        const row = mk('<span style="width:7px;height:7px;border-radius:50%;background:' + (r.cat === "Learning" ? "#7ee0a8" : "#66CCEE") + ';flex:none;"></span><span style="font-size:13px;color:#c4cde0;">' + E(r.name) + "</span>", 22, () => this.openConcept(rid));
+        const row = mk('<span style="width:7px;height:7px;border-radius:50%;background:' + (r.cat === "Learning" ? "#2dd4bf" : "#66CCEE") + ';flex:none;"></span><span style="font-size:13px;color:#c4cde0;">' + E(r.name) + "</span>", 22, () => this.openConcept(rid));
         row.setAttribute("data-concept-link", rid);
         row.style.pointerEvents = "auto";
         list.appendChild(row);
@@ -8834,13 +8837,13 @@ class Component extends DCLogic {
     if (!ctx) this._handBackMc("jit", true);   // the sheet declined on entry — see `_handBackMc`
     this._detailCtx = ctx || null; this._syncDetailDim();
   }
-  // role badge colored by the advantage the seat gives you (app's dominance model): blue = ahead, red = behind
+  // role badge colored by the advantage the seat gives you (app's dominance model): teal = ahead, amber = behind
   badgePill(b, fs, pad) {
     if (!b) return "";
-    const c = b.tone === "ahead" ? ["#f58cc4", "rgba(90,155,240,.13)", "rgba(90,155,240,.34)"]
-      : b.tone === "behind" ? ["#ff9a8f", "rgba(242,104,95,.13)", "rgba(242,104,95,.34)"]
+    const c = b.tone === "ahead" ? ["#2dd4bf", "rgba(45,212,191,.13)", "rgba(45,212,191,.35)"]
+      : b.tone === "behind" ? ["#fb923c", "rgba(251,146,60,.13)", "rgba(251,146,60,.35)"]
       : ["#cfd6e4", "rgba(150,170,210,.12)", "rgba(150,170,210,.3)"];
-    return '<span data-dossier-badge title="blue = you\u2019re ahead \u00b7 red = you\u2019re behind" style="font-size:' + fs + 'px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:' + c[0] + ';background:' + c[1] + ';border:1px solid ' + c[2] + ';border-radius:999px;padding:' + pad + ';">' + b.label + '</span>';
+    return '<span data-dossier-badge title="teal = you\u2019re ahead \u00b7 amber = you\u2019re behind" style="font-size:' + fs + 'px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:' + c[0] + ';background:' + c[1] + ';border:1px solid ' + c[2] + ';border-radius:999px;padding:' + pad + ';">' + b.label + '</span>';
   }
   _zoomOpenCheck(vw) {
     if (!this.isMobile() || !this.nodes || !this.cam) return;
@@ -8908,7 +8911,7 @@ class Component extends DCLogic {
     h += '<div style="padding:2px 18px 22px;">';
     h += '<div style="display:flex;align-items:center;gap:7px;">' +
       (isCur
-        ? '<span style="width:8px;height:8px;border-radius:50%;background:#5a9bf0;box-shadow:0 0 8px rgba(90,155,240,.7);flex:none;"></span><span style="font-size:9px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#f58cc4;">Your current position</span>'
+        ? '<span style="width:8px;height:8px;border-radius:50%;background:#f472b6;box-shadow:0 0 8px rgba(244,114,182,.7);flex:none;"></span><span style="font-size:9px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#f58cc4;">Your current position</span>'
         : this.nodeGlyph(n.ty, col, 9) + '<span style="font-size:9px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:#9fb0d8;">' + cat + '</span>') +
       '</div>';
     h += '<div style="display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:7px;">' +
@@ -9696,8 +9699,8 @@ class Component extends DCLogic {
       if (i !== truth.correct && btns[i]) {
         const tier = truth.tiers[i] === "plausible" || truth.tiers[i] === "trap" ? truth.tiers[i] : "wrong";
         btns[i].setAttribute("data-mc-result", tier);
-        btns[i].style.borderColor = tier === "trap" ? "rgba(255,80,80,.6)" : "rgba(255,150,110,.5)";
-        btns[i].style.background = "rgba(255,110,110,.07)";
+        btns[i].style.borderColor = tier === "trap" ? "rgba(251,146,60,.6)" : "rgba(251,146,60,.5)";
+        btns[i].style.background = "rgba(251,146,60,.07)";
       }
     };
     // ONE PREDICATE GOVERNS BOTH INPUT PATHS (v1.137.0). The A-D gate in `_onKey` already refuses
@@ -9731,7 +9734,7 @@ class Component extends DCLogic {
     const cbtn = btns[mc.correct];
     if (cbtn) {
       cbtn.setAttribute("data-mc-result", "correct");
-      cbtn.style.borderColor = "rgba(126,224,168,.6)"; cbtn.style.background = "rgba(126,224,168,.12)";
+      cbtn.style.borderColor = "rgba(45,212,191,.6)"; cbtn.style.background = "rgba(45,212,191,.12)";
     }
     if (correct) {
       btns[i].setAttribute("aria-checked", "true");
@@ -9755,8 +9758,8 @@ class Component extends DCLogic {
     } else {
       const btier = tier === "plausible" || tier === "trap" ? tier : "wrong";
       btns[i].setAttribute("data-mc-result", btier);
-      btns[i].style.borderColor = btier === "trap" ? "rgba(255,80,80,.6)" : "rgba(255,150,110,.5)";
-      btns[i].style.background = "rgba(255,110,110,.07)";
+      btns[i].style.borderColor = btier === "trap" ? "rgba(251,146,60,.6)" : "rgba(251,146,60,.5)";
+      btns[i].style.background = "rgba(251,146,60,.07)";
       if (btier === "trap") this._bumpStage(key, card.q, -1);
       this._schedule(key, card.q, false);                      // any wrong answer resets the schedule // the trap costs a stage
       this.fx("mc_wrong", { deckKey: key, qhash: mc.qhash, tier: btier, correct: mc.correct });
@@ -9829,7 +9832,7 @@ class Component extends DCLogic {
     wrap.appendChild(live);
     const ans = document.createElement("div");
     ans.setAttribute(p + "-answer", "1");
-    ans.style.cssText = "display:none;font-size:1em;line-height:1.5;color:#c8d2e4;padding:.6em .8em;border-radius:.6em;border:1px solid rgba(126,224,168,.28);background:rgba(126,224,168,.07);";
+    ans.style.cssText = "display:none;font-size:1em;line-height:1.5;color:#c8d2e4;padding:.6em .8em;border-radius:.6em;border:1px solid rgba(45,212,191,.28);background:rgba(45,212,191,.07);";
     ans.textContent = card.a || "";
     const row = document.createElement("div");
     row.style.cssText = "display:flex;gap:.5em;";
@@ -10023,11 +10026,11 @@ class Component extends DCLogic {
     if (this.deckIdx >= deck.length) {
       const bonus = Math.round(this.stateBonus(info.key) * 100);
       const done = document.createElement("div");
-      done.style.cssText = "margin-top:auto;background:rgba(28,46,38,.5);border:1px solid rgba(110,224,168,.35);border-radius:12px;padding:20px 16px;text-align:center;animation:ngCardIn .3s ease both;";
+      done.style.cssText = "margin-top:auto;background:rgba(16,48,44,.5);border:1px solid rgba(45,212,191,.35);border-radius:12px;padding:20px 16px;text-align:center;animation:ngCardIn .3s ease both;";
       done.innerHTML =
-        '<div style="font-size:22px;margin-bottom:8px;color:#7ee0a8;">\u2713</div>' +
-        '<div style="font-size:14px;font-weight:700;color:#bff0d2;margin-bottom:6px;">All ' + deck.length + ' cards reviewed</div>' +
-        '<div style="font-size:11.5px;color:#9ab3a4;line-height:1.5;margin-bottom:14px;">' + (bonus > 0 ? "+" + bonus + "% odds with " + info.fam + " (" + info.role + ") this roll." : "Recall them again to lock them in.") + '</div>';
+        '<div style="font-size:22px;margin-bottom:8px;color:#2dd4bf;">\u2713</div>' +
+        '<div style="font-size:14px;font-weight:700;color:#a5f0e8;margin-bottom:6px;">All ' + deck.length + ' cards reviewed</div>' +
+        '<div style="font-size:11.5px;color:#9ab3b0;line-height:1.5;margin-bottom:14px;">' + (bonus > 0 ? "+" + bonus + "% odds with " + info.fam + " (" + info.role + ") this roll." : "Recall them again to lock them in.") + '</div>';
       const again = this.drillBtn("Review again", false);
       again.style.flex = "none"; again.style.width = "100%";
       again.addEventListener("click", () => { this.deckIdx = 0; this.revealed = false; this.renderDrill(); });
@@ -10057,7 +10060,7 @@ class Component extends DCLogic {
     host.style.cssText = "margin-top:auto;background:rgba(39,39,39,.72);border:1px solid rgba(150,170,210,.18);border-radius:14px;padding:16px 16px 15px;animation:ngCardIn .28s cubic-bezier(.2,.7,.2,1) both;";
     // progress dots
     let dots = '';
-    for (let i = 0; i < deck.length; i++) dots += '<span style="width:6px;height:6px;border-radius:50%;background:' + (i === this.deckIdx ? '#f472b6' : (i < this.deckIdx ? 'rgba(126,224,168,.55)' : 'rgba(150,170,210,.22)')) + ';"></span>';
+    for (let i = 0; i < deck.length; i++) dots += '<span style="width:6px;height:6px;border-radius:50%;background:' + (i === this.deckIdx ? '#f472b6' : (i < this.deckIdx ? 'rgba(45,212,191,.55)' : 'rgba(150,170,210,.22)')) + ';"></span>';
     host.innerHTML =
       '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;">' +
         '<span style="display:flex;align-items:center;gap:7px;">' + chipLabel +
@@ -10068,7 +10071,7 @@ class Component extends DCLogic {
       '<div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:#7b8aa8;margin-bottom:7px;">Question</div>' +
       '<div style="font-size:15px;font-weight:600;color:#eef1f6;line-height:1.45;min-height:44px;">' + card.q + '</div>' +
       (this.revealed
-        ? '<div style="margin-top:14px;padding-top:13px;border-top:1px solid rgba(150,170,210,.14);"><div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:#7ee0a8;margin-bottom:7px;">Answer</div><div style="font-size:13px;color:#c8d2e4;line-height:1.6;">' + card.a + '</div>' + (card.d ? '<button data-mc-more style="margin-top:9px;cursor:pointer;font-family:inherit;font-size:11px;font-weight:700;color:#e8a3c6;background:none;border:none;padding:0;">\u24d8 More detail</button><div class="mcDetail" style="display:none;margin-top:8px;font-size:12.5px;color:#aeb9d4;line-height:1.55;">' + card.d + '</div>' : '') + '</div>'
+        ? '<div style="margin-top:14px;padding-top:13px;border-top:1px solid rgba(150,170,210,.14);"><div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:#2dd4bf;margin-bottom:7px;">Answer</div><div style="font-size:13px;color:#c8d2e4;line-height:1.6;">' + card.a + '</div>' + (card.d ? '<button data-mc-more style="margin-top:9px;cursor:pointer;font-family:inherit;font-size:11px;font-weight:700;color:#e8a3c6;background:none;border:none;padding:0;">\u24d8 More detail</button><div class="mcDetail" style="display:none;margin-top:8px;font-size:12.5px;color:#aeb9d4;line-height:1.55;">' + card.d + '</div>' : '') + '</div>'
         : '<div style="margin-top:14px;height:1px;"></div>') +
       '<div class="acts" style="margin-top:16px;"></div>' +
       '<div style="display:flex;align-items:center;justify-content:center;gap:6px;margin-top:14px;">' + dots + '</div>';
@@ -10149,7 +10152,7 @@ class Component extends DCLogic {
     // secondary: a gentle, capped global tint (never overwhelming)
     const el = this.fxRef.current; if (!el) return;
     const inten = Math.min(0.26, 0.08 + Math.abs(delta) * 0.5);
-    const col = delta > 0 ? "64,132,255" : "232,64,64";
+    const col = delta > 0 ? "45,212,191" : "251,146,60";
     el.style.background = "radial-gradient(ellipse at center, rgba(" + col + ",0) 38%, rgba(" + col + "," + inten + ") 112%)";
     this.flash = { t0: this.now, dur: 1.1, inten: inten };
     el.style.opacity = String(inten);
@@ -10171,7 +10174,7 @@ class Component extends DCLogic {
     m.style.opacity = this.adv.shown ? "1" : "0";
     if (this.adv.glow > 0) this.adv.glow = Math.max(0, this.adv.glow - dt / 0.95);
     const g = this.adv.glow * (this.adv.glowMag || 1);
-    const col = this.adv.sign >= 0 ? "64,132,255" : "232,64,64";
+    const col = this.adv.sign >= 0 ? "45,212,191" : "251,146,60";
     m.style.width = (2.5 + 2.4 * g).toFixed(1) + "px";
     m.style.background = g > 0.15 ? "rgb(" + col + ")" : "#fff";
     m.style.boxShadow = "0 0 5px rgba(0,0,0,.6)" + (g > 0.02
@@ -10250,7 +10253,7 @@ class Component extends DCLogic {
     const col = this.toneColor(tone);
     const k = this.evcKickerRef.current, t = this.evcTextRef.current, s = this.evcSubRef.current, box = this.evCenterRef.current;
     if (k) { k.textContent = kicker; k.style.color = col; }
-    if (t) { t.textContent = text; t.style.color = tone === "good" ? "#cfe6ff" : tone === "bad" ? "#ffd6d6" : "#eef1f6"; t.style.fontSize = small ? "clamp(26px,3.2vw,38px)" : "clamp(40px,6vw,68px)"; }
+    if (t) { t.textContent = text; t.style.color = tone === "good" ? "#c8f5ef" : tone === "bad" ? "#fde3c8" : "#eef1f6"; t.style.fontSize = small ? "clamp(26px,3.2vw,38px)" : "clamp(40px,6vw,68px)"; }
     if (s) s.textContent = sub || "";
     if (box) box.style.opacity = "1";
   }
@@ -10455,7 +10458,7 @@ class Component extends DCLogic {
     const col = edge ? edge.col : this.hex(this.myColor(n));
     const resName = opt.res >= 0 ? this.nodes[opt.res].t : "\u2014";
     const pct = Math.round((isEsc ? this.escapeChance(opt) : this.moveChance(n)) * 100);
-    const oddsCol = pct >= 60 ? "#7ee0a8" : pct >= 38 ? "#cbd24e" : "#e8956b";
+    const oddsCol = pct >= 60 ? "#2dd4bf" : pct >= 38 ? "#cbd24e" : "#fb923c";
     const pot = Math.round(this.movePotential(opt) * 100);
     // the 44px capture target (below) needs the width the "SUCCESS RATE" caption was using: on a
     // 150px card at 390px there is no slack, and a coloured percentage is legible without a caption
@@ -10558,7 +10561,7 @@ class Component extends DCLogic {
       const el = oc.card.querySelector(".ngodds"); if (!el) continue;
       const pct = Math.round(this.moveChance(oc.node) * 100);
       el.textContent = pct + "%";
-      el.style.color = pct >= 60 ? "#7ee0a8" : pct >= 38 ? "#cbd24e" : "#e8956b";
+      el.style.color = pct >= 60 ? "#2dd4bf" : pct >= 38 ? "#cbd24e" : "#fb923c";
       this._paintEdge(oc);
     }
   }
@@ -10810,7 +10813,7 @@ class Component extends DCLogic {
       for (const qh in st) { if (st[qh] >= 3) proven++; if (st[qh] >= 1) met++; }
       proven = Math.min(proven, total); met = Math.min(met, total);
     }
-    if (proven >= total) return ["●", "#7ee0a8", "recall-proven"];
+    if (proven >= total) return ["●", "#2dd4bf", "recall-proven"];
     if (met) return ["◐", "#cbd24e", met + " of " + total + " met"];
     return ["○", "#7e8aa3", "new to you"];
   }
@@ -10843,7 +10846,7 @@ class Component extends DCLogic {
     const done = Math.min((this.prep && this.prep[key]) || 0, total);
     const full = total > 0 && done >= total;
     const title = glyph[2] + (total ? " · " + done + " of " + total + " cards recall-proven" : "");
-    const html = '<span ' + attr + '="' + (total ? done + "/" + total : "") + '" title="' + title + '" role="img" aria-label="' + title + '" style="flex:none;' + (o.style || "") + 'display:inline-flex;align-items:center;gap:5px;' + (total && o.clickable ? "cursor:pointer;" : "") + 'padding:3px 9px;border-radius:999px;border:1px solid rgba(150,170,210,.22);background:rgba(255,255,255,.04);font-size:' + (o.fs || "10.5px") + ';font-weight:700;font-family:\'Montserrat\',sans-serif;color:' + (full ? "#7ee0a8" : "#e8a3c6") + ';">' +
+    const html = '<span ' + attr + '="' + (total ? done + "/" + total : "") + '" title="' + title + '" role="img" aria-label="' + title + '" style="flex:none;' + (o.style || "") + 'display:inline-flex;align-items:center;gap:5px;' + (total && o.clickable ? "cursor:pointer;" : "") + 'padding:3px 9px;border-radius:999px;border:1px solid rgba(150,170,210,.22);background:rgba(255,255,255,.04);font-size:' + (o.fs || "10.5px") + ';font-weight:700;font-family:\'Montserrat\',sans-serif;color:' + (full ? "#2dd4bf" : "#e8a3c6") + ';">' +
       '<span style="font-size:' + (o.gs || "11px") + ';line-height:1;color:' + glyph[1] + ';">' + glyph[0] + '</span>' +
       (total ? '<span>' + done + "/" + total + '</span>' : '') +
     '</span>';
@@ -11616,13 +11619,13 @@ class Component extends DCLogic {
     if (principles.length)
       h += '<div data-land-principles="1" style="margin-bottom:11px;">' + secHead("Essential principles") + principles.map((p) => bullet(p, "#f58cc4")).join("") + '</div>';
     if (rc && Array.isArray(rc.outcomes) && rc.outcomes.length) {
-      const tone = { good: "#7ee0a8", bad: "#e8956b", mid: "#cbd24e" };
+      const tone = { good: "#2dd4bf", bad: "#fb923c", mid: "#cbd24e" };
       h += '<div data-land-outcomes="1" style="margin-bottom:11px;">' + secHead("Where it leads") + rc.outcomes.slice(0, 3).map((o) =>
         '<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;"><span style="flex:1;min-width:0;font-size:11.5px;color:#cdd5e6;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + (o.result || "") + ' → ' + (o.position || "") + '</span><span style="flex:none;font-size:11px;font-weight:700;color:' + (tone[o.tone] || "#cfd6e4") + ';">' + (o.prob != null ? o.prob + '%' : '') + '</span></div>').join("") + '</div>';
     }
     const counters = (info.counters || (persp && persp.counters) || []).slice(0, 3);
     if (counters.length)
-      h += '<div data-land-counters="1" style="margin-bottom:11px;">' + secHead("What beats it") + counters.map((c) => bullet(c, "#e8956b")).join("") + '</div>';
+      h += '<div data-land-counters="1" style="margin-bottom:11px;">' + secHead("What beats it") + counters.map((c) => bullet(c, "#fb923c")).join("") + '</div>';
     // ── NO "ATTACKS FROM HERE" (v1.101.8) ───────────────────────────────────────────────────
     // The owner asked whether it was repeated content, "since we anyway show options for the
     // user to select (which are attacks / transitions / edges out of this state)". It was worse
@@ -11920,7 +11923,7 @@ class Component extends DCLogic {
       const el = oc.card.querySelector(".ngodds"); if (!el) continue;
       const pct = Math.round(this.escapeChance({ node: oc.node }) * 100);
       el.textContent = pct + "%";
-      el.style.color = pct >= 60 ? "#7ee0a8" : pct >= 38 ? "#cbd24e" : "#e8956b";
+      el.style.color = pct >= 60 ? "#2dd4bf" : pct >= 38 ? "#cbd24e" : "#fb923c";
     }
   }
   pickFirstEscape() { const p = this._optPick, l = this._optList; if (p && l && l.length) p(l[0]); }
@@ -11986,8 +11989,8 @@ class Component extends DCLogic {
       // shapes, same button geometry — under the defense palette, with the question clock's bar
       // riding the card's top edge exactly like a landing.
       card.innerHTML =
-        '<div data-land-clock-track="1" style="position:absolute;left:0;top:0;height:5px;width:100%;border-radius:15px 15px 0 0;overflow:hidden;background:rgba(255,110,110,.12);"><div data-land-clock="1" style="height:100%;width:100%;background:#ff8585;transform-origin:left;transform:scaleX(1);"></div></div>' +
-        '<div style="font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:#ff9c9c;margin-bottom:7px;">Defend it \u2014 beat the clock</div>' +
+        '<div data-land-clock-track="1" style="position:absolute;left:0;top:0;height:5px;width:100%;border-radius:15px 15px 0 0;overflow:hidden;background:rgba(251,146,60,.12);"><div data-land-clock="1" style="height:100%;width:100%;background:#fb923c;transform-origin:left;transform:scaleX(1);"></div></div>' +
+        '<div style="font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:#fbbf8a;margin-bottom:7px;">Defend it \u2014 beat the clock</div>' +
         '<div style="padding-right:8px;font-size:12.5px;font-weight:600;color:#eef1f6;line-height:1.35;margin-bottom:8px;">' + fc.q + '</div>';
       // THE DRILL IS MULTIPLE CHOICE, LIKE THE LANDING (v1.135.0, owner: "It should look much
       // more similar to the ng-landcard with multiple choice"). Same block, same grading choke
@@ -12011,10 +12014,10 @@ class Component extends DCLogic {
       let touched = false;
       const tail = document.createElement("div");
       tail.innerHTML =
-        '<div class="pAns" style="display:none;font-size:12.5px;line-height:1.5;color:#c8d2e4;padding:8px 11px;border-radius:9px;border:1px solid rgba(255,110,110,.28);background:rgba(255,110,110,.07);margin-bottom:8px;">' + fc.a + '</div>' +
+        '<div class="pAns" style="display:none;font-size:12.5px;line-height:1.5;color:#c8d2e4;padding:8px 11px;border-radius:9px;border:1px solid rgba(251,146,60,.28);background:rgba(251,146,60,.07);margin-bottom:8px;">' + fc.a + '</div>' +
         '<div style="display:flex;gap:8px;">' +
-          '<button data-panic-reveal style="flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px 11px;min-height:38px;border-radius:9px;border:1px solid rgba(255,110,110,.45);background:rgba(255,110,110,.14);color:#ffc9c9;">Show answer</button>' +
-          '<button data-panic-got style="display:none;flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px 11px;min-height:38px;border-radius:9px;border:none;background:linear-gradient(135deg,#b8434a,#8f2f38);color:#ffecec;">Got it \u2192 +escape%</button>' +
+          '<button data-panic-reveal style="flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px 11px;min-height:38px;border-radius:9px;border:1px solid rgba(251,146,60,.45);background:rgba(251,146,60,.14);color:#fdd9b4;">Show answer</button>' +
+          '<button data-panic-got style="display:none;flex:1;cursor:pointer;font-family:inherit;font-size:12px;font-weight:700;padding:9px 11px;min-height:38px;border-radius:9px;border:none;background:linear-gradient(135deg,#b4661f,#7c4212);color:#fff3e6;">Got it \u2192 +escape%</button>' +
         '</div>';
       while (tail.firstChild) card.appendChild(tail.firstChild);
       const rv = card.querySelector("[data-panic-reveal]"), gt = card.querySelector("[data-panic-got]");
@@ -12259,9 +12262,9 @@ class Component extends DCLogic {
     el.setAttribute("data-tut-step", cur.id);
     el.innerHTML =
       '<div style="display:flex;align-items:center;gap:8px;margin-bottom:5px;">' +
-        '<span style="font-size:9px;letter-spacing:.15em;text-transform:uppercase;font-weight:800;color:#7ee0a8;">White Challenges</span>' +
+        '<span style="font-size:9px;letter-spacing:.15em;text-transform:uppercase;font-weight:800;color:#2dd4bf;">White Challenges</span>' +
         '<span data-tut-count style="font-size:9.5px;font-weight:800;color:#e8a3c6;font-family:\'Montserrat\',sans-serif;">' + n + '/' + of + '</span>' +
-        '<span style="flex:1;height:3px;border-radius:2px;background:rgba(150,170,210,.18);overflow:hidden;"><span style="display:block;height:100%;width:' + Math.round((n / of) * 100) + '%;background:#7ee0a8;"></span></span>' +
+        '<span style="flex:1;height:3px;border-radius:2px;background:rgba(150,170,210,.18);overflow:hidden;"><span style="display:block;height:100%;width:' + Math.round((n / of) * 100) + '%;background:#2dd4bf;"></span></span>' +
         '<span data-tut-hide title="Hide (Settings can bring it back)" style="cursor:pointer;font-size:14px;line-height:1;color:#7e8aa3;">×</span>' +
       '</div>' +
       '<div data-tut-copy style="font-size:11.5px;line-height:1.4;color:#dbe2f0;">' + cur.copy + '</div>';
@@ -13198,7 +13201,7 @@ class Component extends DCLogic {
         const pbtns = pw.querySelectorAll("[data-panic-mc-opt]");
         pbtns.forEach((b) => { b.style.cursor = "default"; b.setAttribute("aria-disabled", "true"); });
         const pcb = pbtns[this._mc.correct];
-        if (pcb) { pcb.setAttribute("data-mc-result", "correct"); pcb.style.borderColor = "rgba(126,224,168,.6)"; pcb.style.background = "rgba(126,224,168,.12)"; }
+        if (pcb) { pcb.setAttribute("data-mc-result", "correct"); pcb.style.borderColor = "rgba(45,212,191,.6)"; pcb.style.background = "rgba(45,212,191,.12)"; }
         const plive = pw.querySelector("[aria-live]"); if (plive) plive.textContent = "Time \u2014 the correct answer is highlighted.";
         this._mc.spent = true; // the closure door — late clicks explore, never grade
         this._mc = null;
@@ -13229,7 +13232,7 @@ class Component extends DCLogic {
         const btns = wrap.querySelectorAll("[data-land-mc-opt]");
         btns.forEach((b) => { b.style.cursor = "default"; b.setAttribute("aria-disabled", "true"); });
         const cb = btns[this._mc.correct];
-        if (cb) { cb.setAttribute("data-mc-result", "correct"); cb.style.borderColor = "rgba(126,224,168,.6)"; cb.style.background = "rgba(126,224,168,.12)"; }
+        if (cb) { cb.setAttribute("data-mc-result", "correct"); cb.style.borderColor = "rgba(45,212,191,.6)"; cb.style.background = "rgba(45,212,191,.12)"; }
         const live = wrap.querySelector("[aria-live]"); if (live) live.textContent = "Time \u2014 the correct answer is highlighted.";
         this._mc.spent = true; // the CLOSURE's door — the buttons' own listeners consult it (see _mcBlock)
         this._mc = null; // the keyboard must not answer a revealed block
@@ -13272,7 +13275,7 @@ class Component extends DCLogic {
         this._barF = f;
         this._landClockEl.style.transform = "scaleX(" + f.toFixed(4) + ")";
         if (d.remaining <= 3000) {
-          this._landClockEl.style.background = "#ff8585";
+          this._landClockEl.style.background = "#fb923c";
           if (this._landEl && !this._landEl.classList.contains("ng-clock-hot")) { this._landEl.classList.add("ng-clock-hot"); this._landEl.style.transition = ""; }
         }
       }
@@ -13281,8 +13284,8 @@ class Component extends DCLogic {
       // written here each frame and eased off by the disarm's one-shot transition instead.
       if (d.remaining <= 3000 && d.remaining > 0 && this._landEl) {
         const ph = 0.5 + 0.5 * Math.sin(((this.now || 0) * 6.28318) / 0.8);
-        this._landEl.style.borderColor = "rgba(255,110,110," + (0.35 + 0.5 * ph).toFixed(3) + ")";
-        this._landEl.style.boxShadow = "0 14px 44px rgba(0,0,0,.5), 0 0 22px rgba(255,110,110," + (0.25 * ph).toFixed(3) + ")";
+        this._landEl.style.borderColor = "rgba(251,146,60," + (0.35 + 0.5 * ph).toFixed(3) + ")";
+        this._landEl.style.boxShadow = "0 14px 44px rgba(0,0,0,.5), 0 0 22px rgba(251,146,60," + (0.25 * ph).toFixed(3) + ")";
       }
     }
     if (this._vignetteEl && d.total) { // defense heartbeat: 60 → 100bpm as the DRILL window drains
@@ -13387,16 +13390,16 @@ class Component extends DCLogic {
     m.pct = Math.max(5, Math.min(95, Math.round(m.pct / 5) * 5 + dir * 5));
     this.refreshOptionOdds();
   }
-  // colour a signed value on the -100..100 scale: vivid red when negative, blue when positive,
+  // colour a signed value on the -100..100 scale: amber when negative, teal when positive,
   // neutral in the ±1 deadband. `sat` = the magnitude at which the palette tops out; EDGE passes
   // NG_EDGE_SAT because its values live an order of magnitude closer to zero (see the constant).
   // The default is the historical 45, so every pre-EDGE caller is byte-identical.
   potColor(p, sat) {
     const lerp = (a, b, t) => "#" + [0, 1, 2].map((i) => { const av = parseInt(a.substr(1 + i * 2, 2), 16), bv = parseInt(b.substr(1 + i * 2, 2), 16); return ("0" + Math.round(av + (bv - av) * t).toString(16)).slice(-2); }).join("");
-    const neutral = "#9aa6bd";
+    const neutral = "#8a8a8a";
     const s = sat > 0 ? sat : 45;
-    if (p > 1) return lerp("#8fa6d4", "#e05fa4", Math.min(1, p / s));         // → blue (winning)
-    if (p < -1) return lerp("#e09089", "#f23b4e", Math.min(1, -p / s));       // → red (losing), already red at small magnitude
+    if (p > 1) return lerp("#8fbfb8", "#2dd4bf", Math.min(1, p / s));         // → teal (winning)
+    if (p < -1) return lerp("#d9a184", "#fb923c", Math.min(1, -p / s));       // → amber (losing), already amber at small magnitude
     return neutral;
   }
 
@@ -14609,7 +14612,7 @@ class Component extends DCLogic {
       const sw = this._sweep, sn = this.nodes[sw.idx], sa2 = this.now - sw.t0;
       if (sn) {
         const R0 = 22, a0 = -Math.PI / 2;
-        ctx.lineWidth = 5 / scale; ctx.strokeStyle = "rgba(126,224,168,.55)";
+        ctx.lineWidth = 5 / scale; ctx.strokeStyle = "rgba(45,212,191,.55)";
         ctx.beginPath(); ctx.arc(sn.x, sn.y, R0, a0, a0 + sw.band * Math.PI * 2); ctx.stroke();
         const prog = Math.max(0, Math.min(1, (sa2 - sw.hold) / sw.dur));
         const ease = 1 - Math.pow(1 - prog, 3);

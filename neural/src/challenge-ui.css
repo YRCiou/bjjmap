@@ -575,8 +575,8 @@
 }
 
 .ng-challenge-row[data-complete="true"] .ng-challenge-check {
-  border-color: #7ee0a8;
-  background: #7ee0a8;
+  border-color: #2dd4bf;
+  background: #2dd4bf;
 }
 
 .ng-challenge-row b {
@@ -712,7 +712,7 @@
 .ng-lesson-check {
   flex: none;
   margin-left: auto;
-  color: #7ee0a8;
+  color: #2dd4bf;
   font-size: 11px;
   font-style: normal;
   font-weight: 900;

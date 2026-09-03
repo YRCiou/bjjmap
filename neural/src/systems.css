@@ -68,7 +68,7 @@
 }
 
 .ng-system-cta small {
-  color: #e8956b;
+  color: #fb923c;
   font-size: 8px;
   font-weight: 900;
   letter-spacing: 0.11em;
@@ -90,7 +90,7 @@
 
 .ng-system-cta > i {
   flex: none;
-  color: #e8956b;
+  color: #fb923c;
   font-size: 15px;
   font-style: normal;
 }

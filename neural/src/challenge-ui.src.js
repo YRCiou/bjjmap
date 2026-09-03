@@ -38,7 +38,7 @@ function ngBeltDisplayName(trackId) {
 const NG_LESSON_CAT_COLORS = Object.freeze({
   position: "#c9d2e3",
   transition: "#9fb0d8",
-  submission: "#e8956b",
+  submission: "#fb923c",
 });
 
 const NG_CHALLENGE_UI_METHODS = {

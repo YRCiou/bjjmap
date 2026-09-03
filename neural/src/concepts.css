@@ -20,10 +20,10 @@
 /* Learning is the second library and reads as its own colour everywhere else in the pane
    (the row dot, the related-concept dot) — the card follows. */
 .ng-concept-detail[data-concept-cat="Learning"] {
-  border-color: rgba(126, 224, 168, 0.26);
+  border-color: rgba(45, 212, 191, 0.26);
   background: linear-gradient(
     180deg,
-    rgba(126, 224, 168, 0.08),
+    rgba(45, 212, 191, 0.08),
     rgba(255, 255, 255, 0.02)
   );
 }
@@ -45,7 +45,7 @@
 }
 
 .ng-concept-detail[data-concept-cat="Learning"] .ng-concept-meta {
-  color: #86d3ab;
+  color: #5fd8cb;
 }
 
 .ng-concept-detail p {

@@ -63,9 +63,9 @@
   }
 
   &[data-callout="success"] {
-    --color: #09ad7a;
-    --border: #09ad7144;
-    --bg: #09ad7110;
+    --color: #0d9c94;
+    --border: #0d9c9444;
+    --bg: #0d9c9410;
     --callout-icon: var(--callout-icon-success);
   }
 
@@ -83,7 +83,15 @@
     --callout-icon: var(--callout-icon-warning);
   }
 
-  &[data-callout="failure"],
+  // An outcome, not a hazard: "failure" takes the amber the whole app uses for
+  // "this did not work", while danger and bug keep red for actual risk.
+  &[data-callout="failure"] {
+    --color: #c2410c;
+    --border: #c2410c44;
+    --bg: #c2410c10;
+    --callout-icon: var(--callout-icon-failure);
+  }
+
   &[data-callout="danger"],
   &[data-callout="bug"] {
     --color: #db4242;

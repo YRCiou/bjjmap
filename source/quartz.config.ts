@@ -57,13 +57,15 @@ const config: QuartzConfig = {
           graphPrinciple: "#66CCEE",
           graphSystem: "#4477AA",
           graphTag: "#CCBB44",
-          // Per-role strength ramp (graph fill: red = bad for viewer → blue = dominant).
+          // Per-role strength ramp (graph fill: amber = bad for viewer → teal = dominant).
+          // Teal/amber rather than blue/red: it stays legible for red-green colour blindness,
+          // and it never collides with the pink primary or the node-type hues.
           // Zero is a warm neutral just off the page bg so neutral nodes recede.
-          strengthMinus1: "#c2331c",
-          strengthMinusHalf: "#e57878",
+          strengthMinus1: "#c2410c",
+          strengthMinusHalf: "#f59e6b",
           strengthZero: "#efe7dd",
-          strengthPlusHalf: "#6da3e8",
-          strengthPlus1: "#1f5fb8",
+          strengthPlusHalf: "#6dd0c4",
+          strengthPlus1: "#0f766e",
         },
         darkMode: {
           // Pure black ground; every neutral above it is a plain grey (no blue, no pink).
@@ -83,13 +85,13 @@ const config: QuartzConfig = {
           graphPrinciple: "#66CCEE",
           graphSystem: "#4477AA",
           graphTag: "#CCBB44",
-          // Per-role strength ramp (brightened for the dark canvas; zero recedes
-          // just above the dark page bg).
-          strengthMinus1: "#ff6f57",
-          strengthMinusHalf: "#d4574a",
-          strengthZero: "#2a2a2f",
-          strengthPlusHalf: "#5e9be0",
-          strengthPlus1: "#8fb6ff",
+          // Per-role strength ramp (amber → teal, brightened for the black canvas;
+          // zero is the same neutral grey as --lightgray so neutral nodes recede).
+          strengthMinus1: "#fb923c",
+          strengthMinusHalf: "#b96a3a",
+          strengthZero: "#2a2a2a",
+          strengthPlusHalf: "#3aa89c",
+          strengthPlus1: "#2dd4bf",
         },
       },
     },

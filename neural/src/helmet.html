@@ -90,7 +90,7 @@
   .ng-histctl:hover{background:rgba(255,255,255,.08);color:#f6c2dc;}
   .ng-histctl:active{transform:translateY(1px);}
   .ng-histctl:focus-visible{outline:2px solid rgba(244,160,200,.85);outline-offset:-2px;}
-  .ng-histctl[data-replaying]{background:rgba(126,224,168,.16);color:#9fe8c0;}
+  .ng-histctl[data-replaying]{background:rgba(45,212,191,.16);color:#7fe6db;}
   *{scrollbar-width:thin;scrollbar-color:rgba(120,150,210,.32) transparent;}
   ::-webkit-scrollbar{width:9px;height:9px;}
   ::-webkit-scrollbar-track{background:transparent;}
@@ -151,8 +151,8 @@
 
   /* \u2500\u2500 P2: beat beacon / defense vignette / coach / film shimmer \u2500\u2500 */
   .ng-beacon{animation:ngBeacon 1.5s ease-in-out infinite;border-radius:12px;}
-  @keyframes ngBeacon{0%,100%{box-shadow:0 0 0 0 rgba(126,224,168,0),0 0 10px 1px rgba(126,224,168,.28)}50%{box-shadow:0 0 0 3px rgba(126,224,168,.22),0 0 22px 5px rgba(126,224,168,.5)}}
-  .ng-vignette{position:fixed;inset:0;pointer-events:none;z-index:44;background:radial-gradient(ellipse at center,transparent 68%,rgba(226,58,48,.5) 100%);animation:ngHeartbeat 1s ease-in-out infinite;}
+  @keyframes ngBeacon{0%,100%{box-shadow:0 0 0 0 rgba(45,212,191,0),0 0 10px 1px rgba(45,212,191,.28)}50%{box-shadow:0 0 0 3px rgba(45,212,191,.22),0 0 22px 5px rgba(45,212,191,.5)}}
+  .ng-vignette{position:fixed;inset:0;pointer-events:none;z-index:44;background:radial-gradient(ellipse at center,transparent 68%,rgba(251,146,60,.5) 100%);animation:ngHeartbeat 1s ease-in-out infinite;}
   @keyframes ngHeartbeat{0%,100%{opacity:.5}12%{opacity:1}24%{opacity:.55}34%{opacity:.9}48%{opacity:.5}}
   /* ══ THE Z LADDER (v1.95.1) — root overlay plane: direct children of #neural-root. ══
      The app wrap is position:fixed = its OWN stacking context, so its internal z values
@@ -199,11 +199,11 @@
      not take the input a modal scrim takes. `pointer-events:auto` is load-bearing on every fixed
      overlay here (the property is inherited and the canvas hit-tests above anything that does not
      re-enable it) — without it the ✕ is visible and dead. */
-  .ng-replaybar{pointer-events:auto;position:fixed;left:50%;bottom:236px;transform:translateX(-50%);z-index:8;display:flex;align-items:center;gap:11px;width:min(520px,calc(100vw - 32px));background:linear-gradient(180deg,rgba(33,33,33,.97),rgba(24,24,24,.97));border:1px solid rgba(130,150,190,.24);border-left:3px solid #7ee0a8;border-radius:13px;padding:9px 12px;box-shadow:0 14px 44px rgba(0,0,0,.5);animation:ngCardInX .24s cubic-bezier(.2,.7,.2,1);}
-  .ng-replaybar .ng-replay-dot{flex:none;width:8px;height:8px;border-radius:50%;background:#7ee0a8;box-shadow:0 0 8px rgba(126,224,168,.7);animation:ngReplayPulse 1.6s ease-in-out infinite;}
+  .ng-replaybar{pointer-events:auto;position:fixed;left:50%;bottom:236px;transform:translateX(-50%);z-index:8;display:flex;align-items:center;gap:11px;width:min(520px,calc(100vw - 32px));background:linear-gradient(180deg,rgba(33,33,33,.97),rgba(24,24,24,.97));border:1px solid rgba(130,150,190,.24);border-left:3px solid #2dd4bf;border-radius:13px;padding:9px 12px;box-shadow:0 14px 44px rgba(0,0,0,.5);animation:ngCardInX .24s cubic-bezier(.2,.7,.2,1);}
+  .ng-replaybar .ng-replay-dot{flex:none;width:8px;height:8px;border-radius:50%;background:#2dd4bf;box-shadow:0 0 8px rgba(45,212,191,.7);animation:ngReplayPulse 1.6s ease-in-out infinite;}
   @keyframes ngReplayPulse{0%,100%{opacity:1;}50%{opacity:.35;}}
   .ng-replaybar .ng-replay-txt{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px;}
-  .ng-replaybar .ng-replay-txt b{font-size:9px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#7ee0a8;}
+  .ng-replaybar .ng-replay-txt b{font-size:9px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#2dd4bf;}
   .ng-replaybar .ng-replay-txt small{font-size:12px;font-weight:600;color:#dbe2f0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
   /* the ✕ is the ONE control here, and it is a thumb target: the film is watched with the phone in
      one hand, so this is the 44px figure, not the pane's 24 */
@@ -211,13 +211,13 @@
   .ng-replaybar .ng-replay-stop:hover{background:rgba(255,255,255,.08);color:#eef1f6;}
   .ng-replaybar .ng-replay-stop:focus-visible{outline:2px solid rgba(244,160,200,.85);outline-offset:-3px;}
   /* the panic drill wears the danger skin, but is a landing card in every other respect */
-  .ng-landcard[data-landcard="defense"]{border-color:rgba(255,110,110,.42);background:linear-gradient(180deg,rgba(52,22,24,.97),rgba(38,16,18,.97));}
+  .ng-landcard[data-landcard="defense"]{border-color:rgba(251,146,60,.42);background:linear-gradient(180deg,rgba(51,34,15,.97),rgba(40,26,10,.97));}
   /* stood down behind the option sheet — why it is a rule and not an inline style: _syncDetailDim */
   [data-behind-sheet]{opacity:.38!important;filter:grayscale(.7) brightness(.8);transition:opacity .22s ease,filter .22s ease;}
   /* ── MOMENTUM: the arcade announcer + the heat chip. Heat 1→5 = ×2→×6+. ── */
   .ng-combo-pop{position:fixed;left:50%;top:31%;transform:translate(-50%,-50%);z-index:72;pointer-events:none;text-align:center;font-family:'Montserrat',sans-serif;animation:ngComboPop 1.15s cubic-bezier(.2,.7,.2,1) both;}
   .ng-combo-pop .ng-combo-x{font-size:12px;font-weight:800;letter-spacing:.34em;text-transform:uppercase;color:#e8a3c6;margin-bottom:4px;}
-  .ng-combo-pop .ng-combo-name{font-size:clamp(28px,4.8vw,50px);font-weight:800;font-style:italic;letter-spacing:.03em;color:var(--combo-col,#7ee0a8);text-shadow:0 0 20px var(--combo-glow,rgba(126,224,168,.6)),0 4px 28px rgba(0,0,0,.65);}
+  .ng-combo-pop .ng-combo-name{font-size:clamp(28px,4.8vw,50px);font-weight:800;font-style:italic;letter-spacing:.03em;color:var(--combo-col,#2dd4bf);text-shadow:0 0 20px var(--combo-glow,rgba(45,212,191,.6)),0 4px 28px rgba(0,0,0,.65);}
   .ng-combo-pop .ng-combo-sub{margin-top:7px;font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#c9d3e6;}
   .ng-combo-pop[data-heat="5"] .ng-combo-name{font-size:clamp(34px,5.6vw,60px);}
   @keyframes ngComboPop{0%{opacity:0;transform:translate(-50%,-50%) scale(.55);}13%{opacity:1;transform:translate(-50%,-50%) scale(1.14);}24%{transform:translate(-50%,-50%) scale(1);}76%{opacity:1;}100%{opacity:0;transform:translate(-50%,-58%) scale(1);}}
@@ -225,15 +225,15 @@
   .ng-momentum b{font-size:14px;color:var(--combo-col,#eef1f6);}
   .ng-momentum span{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#e8a3c6;}
   .ng-momentum[data-combo-broken]{animation:ngComboBreak .55s ease both;}
-  @keyframes ngComboBreak{0%{transform:translateX(0);}22%{transform:translateX(-6px);border-color:#ff5f6d;}46%{transform:translateX(5px);}70%{transform:translateX(-3px);}100%{opacity:0;transform:translateY(10px);}}
+  @keyframes ngComboBreak{0%{transform:translateX(0);}22%{transform:translateX(-6px);border-color:#fb923c;}46%{transform:translateX(5px);}70%{transform:translateX(-3px);}100%{opacity:0;transform:translateY(10px);}}
   .ng-combo-pop[data-heat="1"],.ng-momentum[data-heat="1"]{--combo-col:#9ad0ff;--combo-glow:rgba(120,180,255,.55);}
-  .ng-combo-pop[data-heat="2"],.ng-momentum[data-heat="2"]{--combo-col:#7ee0a8;--combo-glow:rgba(126,224,168,.6);}
+  .ng-combo-pop[data-heat="2"],.ng-momentum[data-heat="2"]{--combo-col:#2dd4bf;--combo-glow:rgba(45,212,191,.6);}
   .ng-combo-pop[data-heat="3"],.ng-momentum[data-heat="3"]{--combo-col:#e9d75a;--combo-glow:rgba(233,215,90,.6);}
   .ng-combo-pop[data-heat="4"],.ng-momentum[data-heat="4"]{--combo-col:#ffb45a;--combo-glow:rgba(255,180,90,.62);}
-  .ng-combo-pop[data-heat="5"],.ng-momentum[data-heat="5"]{--combo-col:#ff5f6d;--combo-glow:rgba(255,95,109,.68);}
+  .ng-combo-pop[data-heat="5"],.ng-momentum[data-heat="5"]{--combo-col:#fb923c;--combo-glow:rgba(251,146,60,.68);}
   /* P3: the tutorial drip — one step at a time, bottom-left above the legend */
   /* pointer-events:none — the options tray can scroll under this corner and must stay clickable */
-  .ng-tut{position:fixed;left:16px;bottom:104px;z-index:7;width:238px;pointer-events:none;background:rgba(21,21,21,.96);border:1px solid rgba(126,224,168,.28);border-radius:12px;padding:10px 12px;box-shadow:0 10px 34px rgba(0,0,0,.5);}
+  .ng-tut{position:fixed;left:16px;bottom:104px;z-index:7;width:238px;pointer-events:none;background:rgba(21,21,21,.96);border:1px solid rgba(45,212,191,.28);border-radius:12px;padding:10px 12px;box-shadow:0 10px 34px rgba(0,0,0,.5);}
   .ng-tut [data-tut-hide]{pointer-events:auto;}
   /* ---------- the list picker (v1.99.5) ----------
      "how does it know what list?" (owner). An anchored chooser, portalled to the app root and
@@ -254,7 +254,7 @@
   .ng-listpicker-row:active{transform:translateY(1px);}
   .ng-listpicker-row:focus-visible{outline:2px solid rgba(244,160,200,.85);outline-offset:-2px;}
   .ng-listpicker-box{flex:none;display:inline-flex;align-items:center;justify-content:center;width:19px;height:19px;border-radius:6px;border:1px solid rgba(150,170,210,.36);font-size:12px;font-weight:800;color:#161616;}
-  .ng-listpicker-row[aria-checked="true"] .ng-listpicker-box{background:#7ee0a8;border-color:#7ee0a8;}
+  .ng-listpicker-row[aria-checked="true"] .ng-listpicker-box{background:#2dd4bf;border-color:#2dd4bf;}
   .ng-listpicker-name{flex:1;min-width:0;font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
   .ng-listpicker-n{flex:none;font-size:10.5px;font-weight:700;color:#7e8aa3;}
   .ng-listpicker-row[data-picker-default="1"] .ng-listpicker-name::after{content:"default";margin-left:7px;font-size:8.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#7e8aa3;}
