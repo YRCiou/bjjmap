@@ -12,8 +12,8 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <div class="footer-beta">
-          <span class="beta-badge">BETA</span>
-          <span>This project is under active development</span>
+          <span class="beta-badge" data-i18n="footer.beta">BETA</span>
+          <span data-i18n="footer.building">This project is under active development</span>
         </div>
         <div class="footer-cta">
           <a href="https://github.com/YRCiou/bjjmap" class="footer-link">

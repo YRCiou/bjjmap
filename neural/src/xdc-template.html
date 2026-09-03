@@ -121,7 +121,7 @@
   </div>
 
   <!-- mobile dossier sheet: drops from the top, leaves options + win bar + drill row visible below -->
-  <div ref="{{ dossierSheetRef }}" style="display:none;position:absolute;top:0;left:0;right:0;height:70%;z-index:8;background:linear-gradient(180deg,rgba(26,26,26,.985),rgba(19,19,19,.985));border-bottom:1px solid rgba(130,150,190,.24);border-radius:0 0 20px 20px;box-shadow:0 20px 54px rgba(0,0,0,.55);overflow-y:auto;pointer-events:auto;padding-top:44px;box-sizing:border-box;transform:translateY(-102%);transition:transform .34s cubic-bezier(.2,.7,.2,1);"></div>
+  <div ref="{{ dossierSheetRef }}" data-i18n-skip="1" style="display:none;position:absolute;top:0;left:0;right:0;height:70%;z-index:8;background:linear-gradient(180deg,rgba(26,26,26,.985),rgba(19,19,19,.985));border-bottom:1px solid rgba(130,150,190,.24);border-radius:0 0 20px 20px;box-shadow:0 20px 54px rgba(0,0,0,.55);overflow-y:auto;pointer-events:auto;padding-top:44px;box-sizing:border-box;transform:translateY(-102%);transition:transform .34s cubic-bezier(.2,.7,.2,1);"></div>
 
   <!-- event toast (top of play area) -->
   <div ref="{{ evRef }}" class="ng-evtoast" style="position:absolute;top:30px;left:50%;transform:translateX(-50%);pointer-events:none;opacity:0;transition:opacity .45s ease;text-align:center;width:min(540px,64vw);">

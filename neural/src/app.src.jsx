@@ -5734,6 +5734,31 @@ class Component extends DCLogic {
     if (this._acctMenuAway) { document.removeEventListener("pointerdown", this._acctMenuAway, true); this._acctMenuAway = null; }
     return true;
   }
+  /**
+   * INTERFACE LANGUAGE. `ngSetLang` persists the choice, flips <html lang> and fires
+   * `bjjmap:lang` so the Quartz chrome under the canvas retranslates itself. Everything after
+   * that is this app's own repaint: the surfaces that are BUILT (menu, pane body, settings,
+   * landing card) go through their normal render path, and `ngI18nSweep` catches the chrome
+   * that lives in the static template (the pane's tab labels, the legend) — it is reversible,
+   * so switching back to English restores the emitted strings rather than guessing an inverse.
+   *
+   * Deliberately does NOT close the menu: the switch is inside it, and you should see it land.
+   */
+  setLanguage(code) {
+    if (ngLang() === code) return;
+    ngSetLang(code);
+    try {
+      this.renderAccountMenu();
+      if (this.deckShown) { this.styleViewToggle(); this._renderPaneBody(); this.renderPaneAnchor(); }
+      // `.t-fc` is renderSettings's own tab handle: its presence is what says the modal is
+      // showing SETTINGS rather than the legal sheet, without adding a second flag to keep in sync.
+      { const card = this.modalCardRef.current; if (card && card.querySelector(".t-fc")) this.renderSettings(); }
+      if (this._landEl) this._landBackfill();
+      this.refreshOptionOdds();
+    } catch (e) { /* a half-rendered surface must not strand the language switch */ }
+    ngI18nSweep(this.__ngRoot || document.body);
+    this.fx("lang_changed", { lang: code });
+  }
   renderAccountMenu() {
     const m = this.acctMenuRef.current; if (!m) return;
     m.innerHTML = "";
@@ -5761,16 +5786,49 @@ class Component extends DCLogic {
         if (this.deckShown && this._viewMode === "history" && !this._paneStudyActive()) this.renderDrillHome();
       }));
     }
-    m.appendChild(row("data-menu-settings", "Settings", () => this.openSettings()));
-    m.appendChild(row("data-menu-shortcuts", "Keyboard shortcuts", () => this.openSettings("shortcuts")));
+    // ── interface language ── the one control that has to re-render everything below it, so it
+    // sits at the top of the menu and does not close it: you see the switch take effect.
+    {
+      const langRow = document.createElement("div");
+      langRow.setAttribute("data-menu-lang", "1");
+      langRow.style.cssText = "display:flex;align-items:center;gap:6px;min-height:44px;padding:0 11px;";
+      const lab = document.createElement("span");
+      lab.textContent = ngT("menu.language", null, "Language");
+      lab.style.cssText = "flex:none;white-space:nowrap;font-size:11.5px;font-weight:600;color:#8b97b0;";
+      langRow.appendChild(lab);
+      const seg = document.createElement("div");
+      seg.style.cssText = "margin-left:auto;display:flex;gap:4px;";
+      const langBtn = (code, label) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.setAttribute("data-menu-lang-set", code);
+        b.textContent = label;
+        const on = ngLang() === code;
+        b.setAttribute("aria-pressed", on ? "true" : "false");
+        b.style.cssText = "cursor:pointer;font-family:inherit;flex:none;white-space:nowrap;min-height:30px;padding:0 8px;border-radius:8px;font-size:11px;font-weight:700;transition:background .15s ease,border-color .15s ease;border:1px solid " +
+          (on ? "rgba(244,114,182,.55)" : "rgba(150,170,210,.22)") + ";background:" +
+          (on ? "rgba(201,47,130,.28)" : "transparent") + ";color:" + (on ? "#f6c2dc" : "#8b97b0") + ";";
+        b.addEventListener("click", (e) => { e.stopPropagation(); this.setLanguage(code); });
+        return b;
+      };
+      seg.appendChild(langBtn("en", "English"));
+      seg.appendChild(langBtn("zh", "\u7e41\u9ad4\u4e2d\u6587"));
+      langRow.appendChild(seg);
+      m.appendChild(langRow);
+      const lsep = document.createElement("div");
+      lsep.style.cssText = "flex:none;height:1px;margin:5px 4px;background:rgba(150,170,210,.14);";
+      m.appendChild(lsep);
+    }
+    m.appendChild(row("data-menu-settings", ngT("menu.settings", null, "Settings"), () => this.openSettings()));
+    m.appendChild(row("data-menu-shortcuts", ngT("menu.shortcuts", null, "Keyboard shortcuts"), () => this.openSettings("shortcuts")));
     const legal = document.createElement("div");
     legal.style.cssText = "display:flex;align-items:center;";
     const lb = (attr, label, kind) => { const b = row(attr, label, () => this.openLegal(kind)); b.style.width = "auto"; return b; };
-    legal.appendChild(lb("data-menu-terms", "Terms", "terms"));
+    legal.appendChild(lb("data-menu-terms", ngT("menu.terms", null, "Terms"), "terms"));
     const dot = document.createElement("span");
     dot.style.cssText = "flex:none;width:3px;height:3px;border-radius:50%;background:#484848;";
     legal.appendChild(dot);
-    legal.appendChild(lb("data-menu-privacy", "Privacy", "privacy"));
+    legal.appendChild(lb("data-menu-privacy", ngT("menu.privacy", null, "Privacy"), "privacy"));
     m.appendChild(legal);
   }
   // ---------- explorer + search ----------

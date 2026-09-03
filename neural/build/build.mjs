@@ -34,6 +34,10 @@ const APP_VERSION = JSON.parse(readFileSync(resolve(HERE, "../../package.json"),
 if (!APP_VERSION) throw new Error("build.mjs: root package.json has no version to bake as NG_APP_VERSION");
 
 // 1) app source: patch relative data fetches to the configurable base
+// i18n.src.js is plain concatenated text like sound.src.js: it declares ngT/ngSetLang at the
+// bundle's top level so every later file can call them without an import. It is joined FIRST,
+// before app.src.jsx, because app.src.jsx calls ngT while building its chrome.
+const i18n = readFileSync(R("src/i18n.src.js"), "utf8");
 const sound = readFileSync(R("src/sound.src.js"), "utf8");
 const challengeDefinitions = readFileSync(
   R("src/challenge-definitions.src.js"),
@@ -91,7 +95,7 @@ const flowKernel = stripExports("flow.src.js");
         (m) => m[1],
       ),
     );
-  const groups = [["lists-codec.src.js", listsCodec], ["lists.src.js", listsStore], ["flow.src.js", flowKernel]];
+  const groups = [["i18n.src.js", i18n], ["lists-codec.src.js", listsCodec], ["lists.src.js", listsStore], ["flow.src.js", flowKernel]];
   const clash = [];
   for (let a = 0; a < groups.length; a++) {
     for (let b = a + 1; b < groups.length; b++) {
@@ -197,6 +201,10 @@ class DCLogic {
 
 ;(globalThis).NG_APP_VERSION = ${JSON.stringify(APP_VERSION)}
 
+/* ---- begin i18n.src.js (interface language: ngT / ngSetLang / ngI18nSweep) ---- */
+${i18n}
+/* ---- end i18n.src.js ---- */
+
 /* ---- begin sound.src.js ---- */
 ${sound}
 /* ---- end sound.src.js ---- */
@@ -295,6 +303,10 @@ function mountNeural() {
       el.removeAttribute("data-ng-on")
     })
     inst.__ngRoot = root
+    // interface language: translate the chrome this mount just built, and keep translating it
+    // as the app repaints. Installed here rather than inside the app so an SPA re-mount gets a
+    // fresh observer on the fresh root and the old one goes with the detached tree.
+    try { ngI18nAutoTranslate(root) } catch (e) { console.warn("[neural] i18n:", e) }
     // idempotent teardown for SPA nav: run the app's own componentWillUnmount (cancels rAF,
     // disconnects ResizeObserver, removes window keydown/resize listeners, clears timers), then
     // detach the overlay root so no zombie instance keeps the keyboard hijacked after navigation.

@@ -10,14 +10,14 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint not-found-page">
-      <h1 id="not-found-title" class="not-found-title">
+      <h1 id="not-found-title" class="not-found-title" data-i18n="404.title">
         Page Not Found
       </h1>
       <p class="not-found-subtitle" id="not-found-path"></p>
-      <p class="not-found-message">This page does not exist yet.</p>
+      <p class="not-found-message" data-i18n="404.message">This page does not exist yet.</p>
 
       <div id="did-you-mean" class="did-you-mean" style="display: none;">
-        <span class="did-you-mean-label">Did you mean </span>
+        <span class="did-you-mean-label" data-i18n="404.didYouMean">Did you mean </span>
         <a id="did-you-mean-link" href="#" class="did-you-mean-suggestion"></a>
         <span class="did-you-mean-label">?</span>
       </div>
@@ -45,7 +45,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
             <line x1="12" y1="8" x2="12" y2="16" />
             <line x1="8" y1="12" x2="16" y2="12" />
           </svg>
-          Request this page
+          <span data-i18n="404.request">Request this page</span>
         </a>
 
         <button id="open-search-btn" class="action-button search-button" type="button">
@@ -63,7 +63,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
           </svg>
-          Search similar pages
+          <span data-i18n="404.search">Search similar pages</span>
         </button>
       </div>
 
@@ -82,7 +82,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           >
             <path d="M15 18l-6-6 6-6" />
           </svg>
-          Back to homepage
+          <span data-i18n="404.home">Back to homepage</span>
         </a>
       </div>
     </article>

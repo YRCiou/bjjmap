@@ -13,6 +13,7 @@ export const sharedPageComponents: SharedLayout = {
   // costs bytes: componentResources only bundles components an emitter returns from
   // getQuartzComponents(), i.e. only the ones listed here.
   afterBody: [
+    Component.LangSync(), // translates the static chrome + keeps <html lang> in sync
     Component.Search(),
     Component.NeuralMount(), // boots the Neural app bundle
     Component.SnapshotButton(), // localhost-only dev camera

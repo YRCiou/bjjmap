@@ -16,6 +16,7 @@ import ContentMeta from "./ContentMeta"
 import TableOfContents from "./TableOfContents"
 import Search from "./Search"
 import Footer from "./Footer"
+import LangSync from "./LangSync"
 import DesktopOnly from "./DesktopOnly"
 import Breadcrumbs from "./Breadcrumbs"
 import CategoryNav from "./CategoryNav"
@@ -32,6 +33,7 @@ export {
   TableOfContents,
   Search,
   Footer,
+  LangSync,
   DesktopOnly,
   NotFound,
   Breadcrumbs,

@@ -17,11 +17,19 @@ const CATEGORIES = [
 
 const CategoryNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   return (
-    <nav class={classNames(displayClass, "category-nav")} aria-label="Categories">
+    <nav
+      class={classNames(displayClass, "category-nav")}
+      aria-label="Categories"
+      data-i18n-aria="nav.aria"
+    >
       <ul>
         {CATEGORIES.map((cat) => (
           <li>
-            <a href={resolveRelative(fileData.slug!, (cat + "/") as SimpleSlug)} data-cat={cat}>
+            <a
+              href={resolveRelative(fileData.slug!, (cat + "/") as SimpleSlug)}
+              data-cat={cat}
+              data-i18n={`nav.${cat}`}
+            >
               {cat}
             </a>
           </li>
