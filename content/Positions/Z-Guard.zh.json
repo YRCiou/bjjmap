@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構設計定義了 Z-Guard，並讓它與一般的半 guard 有所區別？",
+   "answer": "Z-Guard 是半 guard 的一種變體：下位者內側的腿困住上位者的一條腿，外側的腿則形成一個高位的膝盾（knee shield），小腿以角度橫壓在上位者的肩膀或上胸口。從側面看，被困的腿與膝盾腿所形成的幾何形狀類似字母「Z」，這也是這個位置名稱的由來。不同於平貼的半 guard 允許下位者承受胸對胸的壓力，Z-Guard 把小腿當作一個楔子插入其中，讓上位者保持在一定距離之外。這道小腿屏障，正是這個架式與標準半 guard 纏鎖唯一的區別特徵。",
+   "answer_line": "小腿楔子維持距離",
+   "distractors": {
+    "plausible": [
+     "雙腿都纏住，沒有 shield",
+     "平貼的胸對胸接觸"
+    ],
+    "trap": [
+     "放掉 shield，緊抱胸口"
+    ]
+   }
+  },
+  {
+   "question": "為什麼膝盾在軀幹上的高度，是 Z-Guard 中如此關鍵的變數？",
+   "answer": "膝盾的接觸點，直接決定了這個 frame 能對上位者向前的壓力產生多少槓桿力量。當膝蓋放在肩膀或鎖骨的高位時，它離上位者的髖部很遠，形成一支長槓桿，讓對方在力學上很難集中體重壓下來。當 shield 滑到較低的髖部或腹部附近時，槓桿臂就會變短，上位者就能開始用胸對胸的方式把 frame 壓平。這種高度上的差異，正是 Z-Guard 與標準膝盾半 guard（膝蓋通常放在較低的髖部位置）之間的區別所在。",
+   "answer_line": "高位 shield 形成更長的槓桿",
+   "distractors": {
+    "plausible": [
+     "高度不影響槓桿效果",
+     "低位 shield 給的控制更多"
+    ],
+    "trap": [
+     "把膝蓋放低壓在他的髖部上"
+    ]
+   }
+  },
+  {
+   "question": "對雙方而言，維持 Z-Guard 架式的主要接觸與控制點是什麼？",
+   "answer": "這個位置由三個同時運作的支點共同錨定，彼此作為一個整合的系統，而不是各自獨立運作。膝盾的小腿壓在肩膀或上胸口，管理距離；被困住的內側腿纏繞上位者的腿，阻止他把腿抽出；靠近身體那一側的 underhook 與 crossface 的爭奪，則決定誰能贏得 posture 與角度的優勢。下位者做 shield 那一側的腳，通常會勾住對手的髖部或大腿，強化小腿所製造的距離。因為這些支點彼此互相強化，任何一個瓦解，往往會連帶讓其他支點也跟著鬆動。",
+   "answer_line": "小腿、被困的腿、underhook",
+   "distractors": {
+    "plausible": [
+     "只有被困的腿重要",
+     "光靠 grip fighting 就能控制"
+    ],
+    "trap": [
+     "放開被困的腿以換取空間"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在 Z-Guard 中，underhook 的爭奪被形容為雙方的決定性因素？",
+   "answer": "Underhook 決定誰能掌控 posture 與角度，這進而決定這個位置會走向 sweep 還是 pass。當下位者在被困那一側的 underhook 爭奪中獲勝時，他就能把上位者的 posture 向前破壞，蓄積 sweep 或背取的力量。當上位者反過來贏得 crossface 與遠側的控制時，他就能壓制下位者的 frame，打開 pass 的路線。因為同一個 grip 同時能助長一方的攻勢、又能中和另一方，它扮演的是雙方共享的樞紐，而不是專屬於某一角色的優勢。",
+   "answer_line": "Underhook 決定 sweep 或 pass",
+   "distractors": {
+    "plausible": [
+     "光靠膝盾就能決定結果",
+     "腿部控制比較重要"
+    ],
+    "trap": [
+     "放棄 underhook 換取控腿"
+    ]
+   }
+  },
+  {
+   "question": "角度傾斜、肩膀離地的 posture，如何塑造 Z-Guard 的動態？",
+   "answer": "下位者讓肩膀保持大約 45 度角抬高，體重放在一側的肩胛骨與髖部上，而不是平躺。這種帶角度的 posture 保留了髖部的活動能力，讓下位者能靠 hip escape 維持距離，或橋起來製造 sweep 的角度。如果上位者成功把下位者壓平、正對背部，膝盾就會失去它的彈性，這個 frame 就會變得容易被 pass。因此，「保持角度」與「被壓平」之間的爭奪，是雙方都在爭搶的核心動態之一。",
+   "answer_line": "保持角度，避免背部貼平",
+   "distractors": {
+    "plausible": [
+     "躺平以求最大穩定性",
+     "把肩膀正對地面"
+    ],
+    "trap": [
+     "壓平身體以節省體力"
+    ]
+   }
+  },
+  {
+   "question": "膝盾在什麼意義上像一個蓄能的彈簧，主導著這場交鋒？",
+   "answer": "Shield 那條腿會持續對上位者的上半身保持張力，讓它既能伸展製造空間，也能壓縮以促成過渡，就像一個被蓄能的彈簧。當上位者向前施壓時，那股湧入的壓力會被儲存在這個 frame 裡，並能被重新導向，這也是為什麼下位者能借用對手自己的壓力來驅動 sweep。如果 shield 被允許鬆弛下來，上位者就能把體重壓下來安定，儲存的能量也隨之消失。這種「蓄力再釋放」的特性，正是 Z-Guard 同時身兼保持性 frame 與進攻性發射平台的原因。",
+   "answer_line": "蓄力 shield，重新導向壓力",
+   "distractors": {
+    "plausible": [
+     "讓 shield 保持僵硬，絕不移動",
+     "只把 shield 直直推出去"
+    ],
+    "trap": [
+     "讓 shield 鬆掉以休息"
+    ]
+   }
+  },
+  {
+   "question": "Z-Guard 與相鄰的 deep half guard 及標準膝盾半 guard 有什麼關聯與差異？",
+   "answer": "在保持性的位階中，Z-Guard 介於 open guard 與 deep half guard 之間，特徵是它高位的小腿 frame 瞄準肩膀，而不是定義標準膝盾半 guard 的髖部接觸。當向前的壓力壓垮了膝盾時，自然的逃脫出口就是潛入下方進入 deep half guard，借用上位者自己的動能。從這個意義上說，deep half 是 Z-frame 失敗時主要的洩壓閥，而標準膝盾半 guard 則是槓桿效果較低的近親，Z-Guard 正是從它提升而來。被困的內側腿，是把這三者都串連為半 guard 家族一員的共通線索。",
+   "answer_line": "Deep half 是逃脫的出口",
+   "distractors": {
+    "plausible": [
+     "標準半 guard 是升級版",
+     "Z-Guard 完全取代 deep half"
+    ],
+    "trap": [
+     "放棄被困的腿以逃脫"
+    ]
+   }
+  },
+  {
+   "question": "為什麼膝盾的瓦解，是決定 Z-Guard 交鋒結果的關鍵事件？",
+   "answer": "只要小腿還維持著高位的 frame 與張力，上位者就無法集中體重，下位者也能同時保有 sweep 與保持性的選項。一旦 shield 瓦解、上位者把胸口的壓力壓下來安定，原本定義這個位置的槓桿優勢就會消失，整場交鋒的天平會明確倒向 pass 那一方。這就是為什麼雙方都把「部分瓦解」的那一刻視為一個關鍵決斷點：上位者急著在 frame 重新伸展之前建立一個控制點，而下位者則必須立刻選擇重新插入 shield，或乾脆撤入 deep half。若在半瓦解的中間狀態逗留，雙方都拿不到自己想要的工具。",
+   "answer_line": "瓦解會把控制權交給 passer",
+   "distractors": {
+    "plausible": [
+     "瓦解永遠對下位者有利",
+     "中間狀態是中性、安全的"
+    ],
+    "trap": [
+     "逗留在半瓦解的位置"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Z-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

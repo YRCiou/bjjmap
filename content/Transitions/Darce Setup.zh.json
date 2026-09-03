@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Darce Setup.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "成功設置Darce最關鍵的要求是什麼？",
+    "answer": "把對手的遠手困在他們身體旁，建立arm-in的配置。沒有這個困手，對手就能用自由手建frame防守，讓choke失效。被困住的手臂能同時壓迫兩側頸動脈，創造choke生效所需的解剖位置。",
+    "answer_line": "先困住遠手",
+    "distractors": {
+     "plausible": [
+      "取得最大穿臂深度",
+      "先控制頭部再困手"
+     ],
+     "trap": [
+      "跳過困手，快速穿臂"
+     ]
+    }
+   },
+   {
+    "question": "在設置Darce的過程中，你的身體應與對手的脊椎呈什麼角度？",
+    "answer": "你的身體應該大致與對手的脊椎垂直（90度）。這個角度能最大化槓桿、阻斷對手的逃脫路徑，並創造出把手臂深深穿過對手頸部的最佳位置。角度太淺會讓對手轉身離開；角度太深則會失去控制，讓對手能翻滾脫身。",
+    "answer_line": "垂直，90度",
+    "distractors": {
+     "plausible": [
+      "角度淺，胸口方正",
+      "在他們髖部側45度"
+     ],
+     "trap": [
+      "跟對手脊椎平行排列"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住你正在穿的手臂，阻止你深入——你該如何調整？",
+    "answer": "不要硬拚這個grip——順勢轉換成其他攻擊，例如Anaconda、crucifix或back take，利用對手防守時的失衡。轉換成Anaconda需要調整你的握法配置，crucifix則來自控制對手正在防守的那隻手臂，而對手抓住你穿臂那隻手的動作本身，也可能開啟轉往back control的機會。關鍵是永遠不要硬拚對手的grip，而是要利用他們防守Darce時付出的代價。",
+    "distractors": {
+     "plausible": [
+      "同一隻手再穿深一點",
+      "重新設置整個動作"
+     ],
+     "trap": [
+      "放開頭部去處理grip"
+     ]
+    },
+    "answer_line": "順勢轉Anaconda或back take"
+   },
+   {
+    "question": "為什麼肩膀壓力在Darce設置過程中很重要？",
+    "answer": "持續的肩膀壓力能讓對手的posture一直被破壞，讓他們沒有空間重建防禦結構。它能維持對對手頭部與上半身的控制，同時讓他們的重量分布不良，難以移動，也限制了逃脫路徑。沒有持續的壓力，對手就能製造空間、恢復posture，站起來或轉身離開。",
+    "distractors": {
+     "plausible": [
+      "只能鎖住頭部grip",
+      "釋放你的髖部去攻擊腿"
+     ],
+     "trap": [
+      "放輕壓力省體力"
+     ]
+    },
+    "answer_line": "破壞posture、封鎖空間"
+   },
+   {
+    "question": "開始穿入絞殺手臂的最佳時機窗口是什麼時候？",
+    "answer": "最佳時機是在你用胸口固定好困手、並建立垂直角度之後立刻進行。如果等太久，對手就會適應並開始做防禦動作。如果在手臂被困住之前就太早穿入，對手就能建frame逃開。這個窗口會在你感覺到對手的遠手被你的胸口重量壓在肋骨上、角度也已固定時打開——通常只有一到兩秒，之後對手就會開始調整。",
+    "answer_line": "困手、固定角度之後立刻進行",
+    "distractors": {
+     "plausible": [
+      "只要控制住頭部就可以",
+      "在對手起身進takedown時"
+     ],
+     "trap": [
+      "手臂還沒困住就穿入"
+     ]
+    }
+   },
+   {
+    "question": "鎖住Darce要用什麼握法配置？施力方向應該是哪裡？",
+    "answer": "主要握法是figure-four：你穿入的手臂抓住自己的二頭肌，自由手則托住對手的後腦。施力方向非常關鍵——穿入的手臂向內拉向自己胸口，而控制頭部的手則把對手的頭往前下方壓。這兩股相反的力量會製造出讓choke生效的壓迫。擠壓方向是向內加向前，而不是向下。",
+    "answer_line": "Figure-four，向內向前擠壓",
+    "distractors": {
+     "plausible": [
+      "Gable grip，往墊子方向拉",
+      "掌對掌，把手肘往外拉開"
+     ],
+     "trap": [
+      "把脖子往側邊硬扳"
+     ]
+    }
+   },
+   {
+    "question": "對手用力撐地近手，開始拉開距離——你該怎麼做？",
+    "answer": "朝對手撐地的手臂方向繞過去，同時把控制頭部的手臂緊緊圈住他們的頭。對手撐地的手臂正在承重，代表他們沒辦法收回手臂而不垮掉base。利用這點朝撐地方向繞過去，讓對手的base垮掉。或者，用kimura握法攻擊那隻撐地的手臂，破壞撐地並恢復你的控制。絕不能讓距離越拉越開——一看到撐地跡象就要立刻反應。",
+    "answer_line": "繞向撐地手，壓垮base",
+    "distractors": {
+     "plausible": [
+      "把對手拉回你的髖部",
+      "換grip重新設置頭部控制"
+     ],
+     "trap": [
+      "讓出空間，任他們站起來"
+     ]
+    }
+   },
+   {
+    "question": "如果Darce設置完全被封鎖、無法穿臂，有哪些連續攻擊可用？",
+    "answer": "把front headlock當作一個攻擊中樞——順勢轉換成Anaconda、guillotine、back take或Japanese necktie，而不是硬拚被封鎖的Darce。轉Anaconda要反轉你的穿臂方向，轉guillotine要調整下巴下方的grip，趁對手防守choke威脅時繞到後方拿到back，或調整腿部位置攻擊Japanese necktie。這些都是高成功率的連續攻擊，被封鎖的Darce應該直接順勢轉到下一個攻擊，而不是硬拚。",
+    "distractors": {
+     "plausible": [
+      "放棄並站回中立位置",
+      "改攻擊腿部"
+     ],
+     "trap": [
+      "放開頭部重新抓握"
+     ]
+    },
+    "answer_line": "順勢轉Anaconda、guillotine、back"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺對手開始設置Darce時，最重要的防禦優先順序是什麼？",
+    "answer": "防止或解除困手是最重要的優先事項。Darce choke需要你的手臂被困在你的頸部旁，才能製造出choke生效所需的壓迫。如果你能在figure-four grip鎖定之前保持手肘緊貼，或抽出被困的手臂，那麼無論穿臂手臂穿得多深，整個Darce機制都會失效。",
+    "answer_line": "防止或解除困手",
+    "distractors": {
+     "plausible": [
+      "先防守頭部控制",
+      "立刻posture up"
+     ],
+     "trap": [
+      "用力把被困的手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "在防守Darce設置時，為什麼你應該朝絞殺手臂方向移動而不是遠離它？",
+    "answer": "朝絞殺手臂方向移動，能縮小攻擊者完成choke所需的角度。Darce需要攻擊者的身體與你的脊椎垂直——透過轉身面向他們，你能壓平那個角度，讓choke在幾何上更難鎖住你的頸動脈。遠離反而會打開角度，製造出讓手臂穿得更深的空間，讓choke收得更緊。",
+    "answer_line": "壓平絞殺角度",
+    "distractors": {
+     "plausible": [
+      "能釋放髖部去shrimp",
+      "能鬆開對手的頭部grip"
+     ],
+     "trap": [
+      "轉身離開感覺比較安全"
+     ]
+    }
+   },
+   {
+    "question": "對手已經開始穿臂但grip還沒鎖住——你最好的防禦選項是什麼？",
+    "answer": "朝絞殺手臂那側繞過去，並坐穿身體以拿回guard。在這個階段，穿入的手臂已有一定深度但grip還沒鎖住，代表你的身體仍能自由移動，足以改變位置動態。透過轉身面向攻擊者並把髖部拉穿過去，你能從front headlock bottom轉換到guard，完全消除Darce的威脅。你必須在grip鎖住前行動，因為一旦figure-four被鎖定，這個逃脫方式就會變得非常困難。",
+    "answer_line": "轉向絞殺手，坐入guard",
+    "distractors": {
+     "plausible": [
+      "朝絞殺手臂反方向繞開",
+      "在grip鎖住前撥開手腕"
+     ],
+     "trap": [
+      "轉身逃走"
+     ]
+    }
+   },
+   {
+    "question": "你怎麼分辨對方是在設置Darce，還是只是標準的front headlock控制？",
+    "answer": "關鍵的辨識線索是：你的遠手正被增加的胸口壓力主動困住，而不只是頭部控制；對手放開原本抓在你肩膀上的遠手，開始穿到你腋下；以及對手把近腿往前跨過你的中線，製造出垂直角度。標準的front headlock會維持頭部與肩膀的雙側控制——Darce設置需要放開一隻手去穿臂，這會讓你感覺到壓力與手部位置有明顯的變化。",
+    "answer_line": "遠手被困、放手、有角度",
+    "distractors": {
+     "plausible": [
+      "頭部向下壓力增加",
+      "雙手仍在肩膀上"
+     ],
+     "trap": [
+      "忽略它，當成一般headlock處理"
+     ]
+    }
+   },
+   {
+    "question": "如果Darce的grip已經鎖住、對手已經拿到figure-four，你該怎麼做？",
+    "answer": "一旦grip鎖住，你的選項會明顯變少，但仍有機會逃脫。立刻把下巴收向胸口，阻擋更深的穿入。用自由手抓住被困那隻手的手腕，把它拉向你的身體，同時把肩膀轉向攻擊者。如果抽手失敗，嘗試往絞殺手臂那側做granby roll或forward roll，製造scramble並有機會落入guard。關鍵是立刻行動——每多一秒讓Darce grip鎖著，攻擊者就能收得更緊。",
+    "answer_line": "收下巴、抽手臂、翻滾",
+    "distractors": {
+     "plausible": [
+      "Bridge並頂向對手胸口",
+      "坐起身，挺直脊椎"
+     ],
+     "trap": [
+      "轉身離開絞殺手臂"
+     ]
+    }
+   }
+  ]
+ }
+}

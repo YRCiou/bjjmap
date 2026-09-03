@@ -1,0 +1,221 @@
+{
+ "_meta": { "source": "content/Transitions/Knee Shield Retention.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼維持側身姿勢對 Knee Shield Retention 來說如此重要,而不能讓自己被壓平躺著？",
+    "answer": "維持側身可以保留髖部的活動能力,讓你能夠調整角度並透過 hip escape 製造距離。一旦被壓平躺著,你就會失去這種活動能力,你的 shield 也會變成一道靜態屏障,很容易就被壓垮。側身也能讓你清楚看見對手並對他們的動作做出反應,而躺平則會限制你的視野與防守選項。",
+    "answer_line": "側身保留髖部活動與視野",
+    "distractors": {
+     "plausible": [
+      "躺平提供更穩固的底盤",
+      "側身只是為了看清對手"
+     ],
+     "trap": [
+      "躺平以建立更穩固的底盤"
+     ]
+    }
+   },
+   {
+    "question": "你的 knee shield 和下方那條腿的控制之間有什麼關係,為什麼兩者必須協同運作？",
+    "answer": "knee shield 控制對手的上半身並製造距離,而下方那條腿則防止對手抽出被困住的腿。這兩者必須協同運作,因為如果你只專注於 shield,對手可以直接把腳抽出去繞過去 pass;如果你只專注於下方腿的控制而忽略 shield,對手可以直接施加胸貼胸的壓力把你壓平。它們構成一套完整系統,上半身的距離管理與下半身的位置控制相輔相成。",
+    "answer_line": "Shield 拉距離 + 腿擋出口",
+    "distractors": {
+     "plausible": [
+      "光靠 shield 就能擋住 pass",
+      "光靠下方腿就能擋住壓力"
+     ],
+     "trap": [
+      "抓領子並放掉那條腿"
+     ]
+    }
+   },
+   {
+    "question": "當對手嘗試直線硬壓過來,以及當對手繞過 shield 移動時,你的 knee shield 角度應該分別如何調整？",
+    "answer": "面對直線壓力,把你的 shield 角度調整成與對手身體垂直、橫貫他們胸口,製造最大的屏障效果。當對手繞過 shield 移動時,你必須旋轉髖部並重新導向膝蓋,去攔截他們新的攻擊角度,基本上就像雷達天線一樣跟蹤他們的移動。如果他們繞向你頭部那一側,把膝蓋更往他們的遠側肩膀方向推;如果他們繞向你腿部那一側,把膝蓋更多地橫貫他們的胸口,並準備轉換到 butterfly 或 deep half。",
+    "answer_line": "旋轉髖部,追蹤對手角度",
+    "distractors": {
+     "plausible": [
+      "shield 保持不動,讓對手動",
+      "不管對方怎麼動都直直頂膝蓋"
+     ],
+     "trap": [
+      "放下 shield 重設角度"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對對手手臂的 grip 控制,和物理上的 shield 結構本身一樣重要？",
+    "answer": "knee shield 在你的下半身製造距離,但如果沒有手臂控制,對手可以建立 crossface 或 underhook,取得能壓垮你 shield 結構的槓桿優勢。控制對手的袖口或手腕可以防止他們建立這些優勢 grip。完整的守勢系統是 shield 加上手臂控制——shield 負責管理距離,手臂控制則防止對手取得突破那段距離所需要的 grip。",
+    "answer_line": "控制 grip,否則 shield 會垮",
+    "distractors": {
+     "plausible": [
+      "光靠 shield 就能擋住 crossface",
+      "grip 只在 pass 後期才重要"
+     ],
+     "trap": [
+      "放開 grip 以加快移動速度"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 Knee Shield Retention,轉換成別的 guard retention 策略？",
+    "answer": "當對手已經成功建立起沉重壓力的 crossface,或已經取得胸貼胸的深度 underhook,或是你的 shield 已經被壓垮、正在被壓平時,就該轉換。硬撐維持一個已經被破壞的 shield 只是在浪費體力。與其等到完全被壓平,不如及早辨識出防守已經失敗,順勢轉換到 lockdown、deep half,或其他防守結構。",
+    "answer_line": "遇到 crossface/underhook 早點放棄",
+    "distractors": {
+     "plausible": [
+      "永遠拼命守住 shield",
+      "等到完全被壓平再說"
+     ],
+     "trap": [
+      "在 crossface 之下轉成跪姿"
+     ]
+    }
+   },
+   {
+    "question": "運用得當的 Knee Shield Retention 如何創造進攻機會,而不只是單純防守？",
+    "answer": "當對手對你的 shield 施加壓力時,會產生可預測的反應,讓你可以加以利用。如果他們用力往前壓,他們的重心分布會為 Old School sweep 鋪路。如果他們站起來以避開 shield 壓力,就會為 deep half guard 的進入或 technical standup 製造空間。如果他們繞過 shield,就會打開背後控制的機會。shield 就像一個探針,逼迫對手做出決定,而每一個決定都會產生特定的進攻切入點。高水準的 knee shield 就是在建立一個進攻的平台。",
+    "answer_line": "壓力反應打開 sweep 機會",
+    "distractors": {
+     "plausible": [
+      "shield 純粹是防守用的",
+      "只有對手後退時才有用"
+     ],
+     "trap": [
+      "被動等待對手放棄"
+     ]
+    }
+   },
+   {
+    "question": "對手為了避開你的 shield 壓力,把手撐在地墊上,你要如何利用這一點？",
+    "answer": "手撐地代表對手的重心分散到那隻手臂上,而不是壓在你身上,而且那隻手臂也無法再拿來抓 grip 或控制你。立刻攻擊那隻撐地的手臂,建立 grip,並利用降低的前壓力,用髖部製造更大的角度。如果他們撐在你 shield 那一側,你可以游到他們遠側去搶 underhook。如果他們撐在遠側,他們的近側手臂就毫無保護,正好可以拿來抓 kimura grip 或控制手腕。撐地的手代表一個防守上的犧牲,卻打開了進攻的機會。",
+    "answer_line": "攻擊撐地的手臂,拉開角度",
+    "distractors": {
+     "plausible": [
+      "撐地代表他們已經放棄 pass",
+      "等他們自己收回撐地的手"
+     ],
+     "trap": [
+      "為了搶 grip 而讓自己躺平"
+     ]
+    }
+   },
+   {
+    "question": "當對手開始用沉重的肩部壓力壓垮你的 knee shield 時,最關鍵的髖部動作是什麼？",
+    "answer": "關鍵動作是在對手完成壓垮之前,朝遠離他們壓力的方向做出一個急促的 hip escape(shrimp)。你必須把髖部往後、並稍微遠離對手移動,而不是只用 shield 那條腿去推。這會創造一個新的角度,讓對手的壓力變得沒那麼有效,因為他們現在是壓過你,而不是壓進你身體裡。時機非常關鍵——你必須在對手把重量往前壓的那一刻做 hip escape,借力使力,而不是硬碰硬地跟他們的壓力對抗。",
+    "answer_line": "在對手發力時果斷 hip escape",
+    "distractors": {
+     "plausible": [
+      "用 shield 那條腿更用力推",
+      "先等一下,晚點再做 hip escape"
+     ],
+     "trap": [
+      "硬用力量對抗對手的壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手開始從 knee shield top 站起來嘗試 standing pass,你當下最優先要抓的 grip 是什麼？",
+    "answer": "你當下最優先的是控制被困住那條腿那一側的腳踝或褲管,以防止對手站起來時把腿抽出去。次要的 grip 應該控制他們遠側的袖口或衣領,以維持連結,防止他們按照自己的意思拉開距離。當對手站起來時,你的 knee shield 會從一道水平屏障轉換成一個電梯式的動作,可以勾在他們的大腿下方,進入 X-Guard 或 Single Leg X-Guard。控制對手的下半身非常關鍵,因為沒有這個 grip,站起來就等於讓對手完全擺脫 half guard。",
+    "answer_line": "控制腳踝/褲管,擋住腿",
+    "distractors": {
+     "plausible": [
+      "先抓衣領,腳踝之後再說",
+      "讓對手站起來,重設 guard"
+     ],
+     "trap": [
+      "放開雙腿去抓衣領想做 choke"
+     ]
+    }
+   },
+   {
+    "question": "當 Knee Shield Retention 失敗時,如何順勢串接到進攻性的 sweep,而不是單純只想恢復 guard？",
+    "answer": "當你的 shield 開始失敗時,對手通常正在投入大量的前壓力與重量。與其單純想恢復,不如反過來利用他們投入的重量。如果他們把你的 shield 往一側壓下去,就在對側搶 underhook,發動 Old School sweep,把對手自己的壓力當作能量來源。如果他們把你的 shield 從中間壓平,就潛到他們身體下方進入 deep half guard,讓他們的前衝力量帶著他們翻過你的身體。如果他們穿過 shield,立刻用 butterfly hook 勾住他們前進的那條腿,把它抬起來做 sweep。每一次防守失敗,都會根據對手當下重量的載入方式,產生特定的 sweep 機會。",
+    "answer_line": "借對手的動能做 sweep",
+    "distractors": {
+     "plausible": [
+      "先恢復 guard,不做 sweep",
+      "先等到局面乾淨重設"
+     ],
+     "trap": [
+      "頂回去對抗對手的重量"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼把身體角度調整成 45 度,會比直接硬壓進 knee shield 更有效？",
+    "answer": "knee shield 是一種結構性的 frame,當力量垂直施加在脛骨上時最為堅固。透過調整成 45 度角,你把施力的方向改成沿著脛骨滑過去,而不是被脛骨直接擋住。這會降低這個 frame 結構上的優勢,讓你的體重能夠越過這道屏障往前推進,而不是直接被卡住堆疊在那裡。這個斜角也會創造出正面對抗 shield 時所沒有的 pass 路線。",
+    "answer_line": "45 度角滑過 frame",
+    "distractors": {
+     "plausible": [
+      "角度只是為了贏得 grip 對抗",
+      "任何角度效果都一樣"
+     ],
+     "trap": [
+      "直直壓進去然後被抬起來"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試壓垮或繞過 knee shield 之前,你的第一優先事項應該是什麼？",
+    "answer": "你的第一優先是贏得上半身的 grip 對抗,具體來說就是建立 crossface 或衣領控制,同時拆解底位選手控制你袖口或手腕的 grip。knee shield 是一套協同系統的一部分,對手的手臂控制正是在支撐 shield 結構。如果沒有先中和他們的 grip,底位選手就可以調整他們的 shield 角度,並從你對物理屏障造成的任何進展中恢復過來。取得 grip 優勢,能把 shield 從主動防守變成一道靜態的 frame,讓你能有系統地逐步拆解。",
+    "answer_line": "先贏 grip,再攻擊 shield",
+    "distractors": {
+     "plausible": [
+      "先攻擊 shield,grip 之後再說",
+      "強行硬 pass,無視 grip"
+     ],
+     "trap": [
+      "放掉你的 grip,純靠壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手不斷重新導向他們的 knee shield 來攔截你每一個進攻角度,你該如何打破這個循環？",
+    "answer": "會動態調整的 shield 代表底位選手有很強的髖部活動能力。要打破這個循環,可以用一隻手控制他們 shield 那條腿的腳踝或膝蓋,從物理上限制他們重新導向的能力。同時施加 crossface 壓力,限制他們觀察與反應你動作的能力。如果他們一直在用 shield 追蹤你的移動,可以先做一個往某方向的 pass 假動作,把 shield 引過去,然後在他們來不及重新調整之前,爆發性地改變方向轉往另一側。你也可以直接抓住他們 shield 那隻腳,用物理方式重新導向它,而不是試圖繞過去。",
+    "answer_line": "控制 shield 腿,做假動作誘導",
+    "distractors": {
+     "plausible": [
+      "比他們繞得更快",
+      "直接正面攻擊 shield"
+     ],
+     "trap": [
+      "抓住他們遠側的腿用力拉"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候適合站起來脫離,而不是繼續留在地面上嘗試 pass？",
+    "answer": "當地面上的多次嘗試都失敗,而且底位選手已經建立起 shield 與 grip 協同運作的強力防守時,就該站起來。站起來會改變整個局勢的動態,讓你的身體脫離 shield 的有效範圍,並創造新的 pass 角度。不過,站起來時必須先控制住對手的雙腿,以防止 X-guard 或 single leg X 的切入。在站起來之前先抓住他們的褲管或勾住他們的腿,並立刻威脅 toreando 或 leg drag pass,趁對手還來不及調整他們的防守系統來應對這個站立的新威脅之前,搶先出手。",
+    "answer_line": "先控制腿,再站起來",
+    "distractors": {
+     "plausible": [
+      "只要 pass 失敗就站起來",
+      "絕不站起來,保持壓制"
+     ],
+     "trap": [
+      "沒控制腿就直接站起來"
+     ]
+    }
+   },
+   {
+    "question": "如何防止底位選手把成功的防守轉換成進攻性的 sweep？",
+    "answer": "隨時維持寬幅的底盤,讓你的膝蓋撐開得比對手的髖部寬,以抵抗 hip bump 和抬升類型的 sweep。絕對不要把重量完全投入 shield,因為底位選手可以把那股動能導向他們身體下方,發動像 Old School 或 lumberjack 這類的 sweep。隨時保留一隻手撐地,或準備好在感覺底盤被破壞時立刻撐地。如果他們開始威脅 sweep,立刻放棄目前的 pass 嘗試,搶在他們完成翻轉之前重新建立底盤。與其整個位置被 sweep 掉,不如重設再試一次。",
+    "answer_line": "寬底盤,不投入重量",
+    "distractors": {
+     "plausible": [
+      "把膝蓋夾緊靠攏",
+      "把額頭撐在地墊上"
+     ],
+     "trap": [
+      "整個人壓進 shield 裡"
+     ]
+    }
+   }
+  ]
+ }
+}

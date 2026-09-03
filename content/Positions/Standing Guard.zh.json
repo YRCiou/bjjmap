@@ -1,0 +1,74 @@
+{
+ "_meta": {
+  "source": "content/Positions/Standing Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_position": [
+  {
+   "question": "是什麼樣的配置定義了 Standing Guard，讓它有別於一開始的 Standing Position？",
+   "answer": "Standing Guard 是雙方都站立、至少有斷續的抓握或 frame 接觸，並主動爭奪手部位置、控管彼此距離的站立式交手狀態。跟先前那個中立的 Standing Position 不同，Standing Guard 的定義在於活躍的抓握爭奪，以及雙方共同面對的決策點：要 pull guard、發動 takedown，還是繼續站立交手。此時雙方都還沒有承諾進入 takedown 的入場，也還沒有倒地，所以就結構而言這個配置是對稱的，即使雙方各自的意圖並不相同。這個位置的定義特徵，就是距離與接觸之間的張力：雙方同時都在威脅要率先發動，同時也都在防守對方的發動。",
+   "answer_line": "活躍抓握爭奪，互相威脅",
+   "distractors": {
+    "plausible": ["已經確立 body lock", "已經有一方發動 shoot"],
+    "trap": ["雙方都沒有在防守任何東西"]
+   }
+  },
+  {
+   "question": "為什麼交手距離是 Standing Guard 中雙方共有的核心控制機制？",
+   "answer": "距離決定了每位練習者能使用哪些選項，所以誰掌控距離，誰就掌控了可用招式的清單。在遠距離時，抓握的爭奪只發生在手臂之間，雙方都無法有效發動 shoot 或 snap down；在近距離時，body lock、snap down 與 takedown 的入場，對雙方來說都會變得可行。因此雙方會不斷協商這同一個距離維度，各自都在尋求對自己有利、卻能剝奪對方優勢的範圍。因為距離是雙方共有的變數，而不是屬於任何一方，所以無論哪一方稍微調整了 footwork 或抓握，都會立刻改變雙方的戰術平衡。",
+   "answer_line": "距離決定雙方的選項",
+   "distractors": {
+    "plausible": ["距離只對想 shoot 的人重要", "抓握永遠比空間更重要"],
+    "trap": ["不管距離，直接搶抓握"]
+   }
+  },
+  {
+   "question": "抓握爭奪如何成為 Standing Guard 中雙方共用的「通貨」？",
+   "answer": "抓握爭奪，是持續不斷地建立能控制對方的抓握、同時破解對方抓握的過程，而它決定了誰能主導接下來任何轉換的條件。有主導性抓握的一方，能破壞對手的 posture、引導對方的體重、並掌握入場的時機，所以雙方都會投入持續的心力，先於任何其他行動去爭取並剝奪抓握。抓握同時也扮演著保護性 frame 的角色，能把對手控制在一定距離之外，同時威脅要 pull guard 或發動 takedown。這個配置對雙方主動、搶先抓握的一方都同樣有利，因為只要任何一方完全確立了主導性抓握，這個位置的中立性就會瓦解。",
+   "answer_line": "抓握決定誰主導局勢",
+   "distractors": {
+    "plausible": ["抓握只對想 pull guard 的人重要", "posture 永遠勝過抓握"],
+    "trap": ["讓抓握先確立，之後再用位置對抗"]
+   }
+  },
+  {
+   "question": "挺直的 posture 與穩固的 base，在 Standing Guard 中對雙方分別扮演什麼角色？",
+   "answer": "雙方都會保持運動員式的挺直 posture，膝蓋微彎、體重落在腳掌前緣，髖部蓄力，以便能朝任何方向做出爆發性的動作。這種共有的 posture，能防範 snap down 與暴露在 front headlock 之下，同時保留隨時變換高度以發動 takedown、或壓低身形 pull guard 的能力。大約與肩同寬的站姿能提供側向的機動性，而抬頭、頸部有力則能拒絕給對方發動攻擊所需要的破 posture 機會。因為雙方都仰賴同一套 base 原則，這個位置會一直保持中立，直到其中一方的 posture 或平衡被破壞為止。",
+   "answer_line": "運動員站姿，蓄髖抬頭",
+   "distractors": {
+    "plausible": ["寬站姿，體重放在腳跟", "身體前傾以藏住頸部"],
+    "trap": ["站得高又直挺挺，膝蓋打直"]
+   }
+  },
+  {
+   "question": "為什麼 footwork 與製造角度，對 Standing Guard 中雙方共有的動態來說至關重要？",
+   "answer": "Standing Guard 中的移動，對雙方都遵循相同的 footwork 要求：以圓弧式的側向步伐來保持距離、製造角度，而直線後退則會讓出地盤，容易被逼向牆角或被推倒。誰能製造出更好的角度，誰就能攻擊對方暴露出來的側身，或逼出對方的反應，所以製造角度對雙方來說，同時是進攻與防禦的共用工具。雙方也都要隨時留意場地邊界，因為一旦被逼到邊緣，就會失去後退的選項，讓這場交手的中立性瓦解。這種持續不斷的重新定位，正是讓站立交手保持動態、而不是變成靜態抓握僵持的原因。",
+   "answer_line": "圓弧步伐製造角度",
+   "distractors": {
+    "plausible": ["直線後退比較安全", "站定不動，只轉髖部"],
+    "trap": ["直線後退到場地邊緣"]
+   }
+  },
+  {
+   "question": "Standing Guard 跟 Clinch 這種同樣站立的配置有什麼不同？",
+   "answer": "Standing Guard 是一種開放距離的交手狀態，雙方主動控管距離，抓握爭奪發生在手臂能及的範圍；而 Clinch 則是近距離的配置，已經確立了身體對身體的抓握，例如 collar tie、underhook 或 body lock。在 Standing Guard 中，雙方都還保有空間與機動性，能選擇脫離接觸、pull guard 或重新開始交手；而在 Clinch 中，這個空間已經被封閉，爭奪重心轉移到內側控制與破壞平衡上。從 Standing Guard 轉換到 Clinch，代表其中一方成功壓縮了原本定義這個中立站立狀態的距離維度。清楚辨識自己身處哪一種配置，能讓雙方知道現在該用 footwork 加抓握爭奪、還是近距離控制作為主導技能。",
+   "answer_line": "開放距離 vs 貼身接觸",
+   "distractors": {
+    "plausible": ["兩者都是近距離抓握戰", "Clinch 才是中立的起始點"],
+    "trap": ["把 Clinch 當成比較容易脫身的狀態"]
+   }
+  },
+  {
+   "question": "是什麼讓 Standing Guard 成為站立與地面纏鬥之間，雙方共有的決策入口？",
+   "answer": "Standing Guard 是承諾任何行動之前的最後一個中立配置，所以雙方在這裡面對的是同一組分支選擇：pull guard 到選定的地面位置、發動 takedown、snap down 到 front headlock，或是繼續站立交手。這些路徑各自會把比賽帶入完全不同的領域，而 Standing Guard 中的抓握與距離爭奪，正是為了以有利的條件進入自己選定的那條路徑而戰。因為這個位置會依照誰先承諾、以及如何承諾，而演變成截然不同的比賽，所以承諾的時機，是雙方共有的一個策略軸線。正因為它具有這種入口的性質，在 Standing Guard 中掌握抓握與距離的主導權，才會直接轉化成地面上的位置優勢，或是被計分的 takedown。",
+   "answer_line": "承諾行動前的最後中立點",
+   "distractors": {
+    "plausible": ["只有在 pull guard 之後才重要", "這只是沒有真正選擇的休息階段"],
+    "trap": ["在贏得抓握之前就盲目 shoot"]
+   }
+  }
+ ]
+}

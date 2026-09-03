@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構配置，讓一個位置成為 Headquarters，而不只是一般的上位過guard情境？",
+   "answer": "Headquarters 的定義是：passer 用自己的雙膝夾住下位者恰好一條腿，把那個膝蓋壓向地面，同時 passer 的另一條腿寬幅撐地，形成三角底盤。這個單腿困鎖是關鍵承重特徵：它把下位者的下半身一分為二，一條腿被中和，另一條腿仍然自由。上位者挺直、脊椎垂直的姿勢，也讓它有別於壓制型或胸貼胸型的過guard方式。結果是一個穩定的樞紐配置，而非已完成的pass，這也是為什麼雙方都能在這個位置持續爭奪一段有意義的時間。",
+   "answer_line": "一腿被困，底盤寬幅撐開",
+   "distractors": {
+    "plausible": [
+     "雙腿都被夾在膝間",
+     "胸貼胸的壓制式固定"
+    ],
+    "trap": [
+     "壓平式的胸貼胸重壓"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Headquarters 被形容成一個決策樞紐，而不是已完成的pass或已定型的壓制？",
+   "answer": "因為 passer 的困腿與寬底盤，本身並不能完成一次guard pass；它們創造的是一個中性平台，根據下位者的反應，多條pass路線會從這裡分岔出去。knee cut、toreando 與 leg drag 全都從同一個起始結構出發，因此這個配置把許多pass選項壓縮進一個可重複使用的姿態裡。同樣地，下位者也不是被壓制住，而是陷入一個仍可爭取的、有時間壓力的困境。這種雙方共享的「未定局」特質，正是這個位置的本質：它是這場交手的一個分岔點，而非結局。",
+   "answer_line": "中性樞紐，分岔出多條pass",
+   "distractors": {
+    "plausible": [
+     "一次完整完成的guard pass",
+     "已定型、靜止的側向壓制"
+    ],
+    "trap": [
+     "等同於已完成的 knee cut"
+    ]
+   }
+  },
+  {
+   "question": "被困的腿與自由的腿，在定義 Headquarters 雙方共享動態中各扮演什麼角色？",
+   "answer": "被困的腿是整個位置的錨點：夾在 passer 雙膝之間、膝蓋被壓向墊子，它移除了下位者一半的髖部活動能力，也給上位者一個固定的控制參照點。自由、未受控的腿則是每個爭奪結果的支點，因為它是下位者用來恢復guard、插入hook與inversion的引擎，也是上位者必須預判的方向。這種被中和的腿與活著的腿之間的不對稱，組織了雙方的所有選項。分辨出哪條腿是哪條，是雙方都會做的第一個判斷。",
+   "answer_line": "被困腿是錨，自由腿是引擎",
+   "distractors": {
+    "plausible": [
+     "兩條腿的控制程度相同",
+     "自由腿才是固定的錨點"
+    ],
+    "trap": [
+     "被困腿驅動了恢復動作"
+    ]
+   }
+  },
+  {
+   "question": "上位者的三角底盤，如何主導 Headquarters 中雙方的平衡動態？",
+   "answer": "撐地的那條腿寬幅落地，大致垂直於下位者身體，與被困腿的膝蓋形成一個三角形，把上位者的體重分散在寬廣的落點上，同時抵抗側向與前後方向的破勢。這也是這個位置維持起來低耗能、在正確執行時難以被 sweep 的原因。對下位者而言，同一個三角形也界定了槓桿存在與否的邊界：sweep 必須攻擊底盤變窄或體重壓向單一方向的瞬間。因此，這個撐地腿的寬度與角度，正是雙方爭奪的關鍵變數。",
+   "answer_line": "寬幅三角底盤抵抗 sweep",
+   "distractors": {
+    "plausible": [
+     "站姿窄一點反應更快",
+     "體重平均分配在雙膝上"
+    ],
+    "trap": [
+     "撐地腿貼近，縮窄底盤"
+    ]
+   }
+  },
+  {
+   "question": "為什麼上位者挺直的姿勢與體重壓在髖部上，是 Headquarters 的定義性特徵，而非單純的風格偏好？",
+   "answer": "保持脊椎垂直、肩膀疊在髖部正上方，能讓 passer 的體重透過骨架排列與底盤向下傳遞，而不是向前壓在手上。這正是這個位置維持低耗能、又能抵抗被翻滾的原因，因為身體前傾的 passer 會把體重暴露在forward roll、granby escape 與破勢之下。挺直的結構也讓上位者的雙手能空出來管理握法，而不是用來撐地。對下位者而言，任何前傾都是一個訊號，代表 passer 的體重已經投入承諾，逆轉的機會之窗就此打開。",
+   "answer_line": "脊椎挺直，體重不壓手",
+   "distractors": {
+    "plausible": [
+     "前傾能增加額外壓力",
+     "體重分配在手臂上"
+    ],
+    "trap": [
+     "把體重撐在雙手上"
+    ]
+   }
+  },
+  {
+   "question": "在 Headquarters 中，passer 的體重一次只試探一個方向，這代表什麼意義？",
+   "answer": "由於 Headquarters 能從單一姿態威脅多條pass路線，上位者會一次只投入一個方向的重量，藉此在完全承諾之前先測試對方的反應。每一次這種瞬間的重量投入，同時既是完成pass的機制，也是這個位置最主要的破綻，因為被投入的方向就是可以被利用的方向。因此整場交手都靠時機運轉：上位者想在過度投入之前先讀出反應，下位者則想抓住那個投入的瞬間。這種試探與反應交替的共同節奏，正是這個位置動態而非靜態的原因。",
+   "answer_line": "試探單一路線，先讀反應",
+   "distractors": {
+    "plausible": [
+     "全力投入以結束交手",
+     "同時攻擊每一條路線"
+    ],
+    "trap": [
+     "全力壓上體重強行完成pass"
+    ]
+   }
+  },
+  {
+   "question": "在控制與槓桿上，Headquarters 與相鄰的 half guard、side control 有何不同？",
+   "answer": "half guard 是下位者主動用雙腿加 knee shield 困住上位者的腿，因此控制是被爭奪、相互的；Headquarters 則反過來，由上位者從一個有底盤、挺直的樞紐困住下位者的一條腿。side control 是已完成的、胸貼胸的壓制，guard 已經被過掉；而 Headquarters 則是餵入 side control 之前、pass尚未完成的決策點。Headquarters 在力學上介於兩者之間：guard 已經被破得足以控制一條腿，但pass尚未完成。正是這種「介於中間」的狀態，讓它能作為通往 side control 的發射樞紐。",
+   "answer_line": "pass前的樞紐，介於半guard與側控",
+   "distractors": {
+    "plausible": [
+     "與定型的側向壓制控制相同",
+     "下位者困住passer的腿"
+    ],
+    "trap": [
+     "已經是完成的guard pass"
+    ]
+   }
+  },
+  {
+   "question": "為什麼上半身控制——特別是 crossface 與 underhook——是結束 Headquarters 爭奪階段的轉折點？",
+   "answer": "只要 Headquarters 還只是困腿加底盤，下位者就保有髖部活動能力，這個位置就仍然真正屬於雙向爭奪。一旦上位者加上 crossface 與 underhook，下位者的頭與肩膀就被壓制住，髖部停止移動，這在力學上直接扼殺了 shrimping、inversion 與 sweep 的槓桿。因此，這個上半身鎖，就是把這個共享、未定的樞紐轉化為近乎完成的pass的關鍵鉸鏈。雙方都是透過這個門檻來理解這個位置：上位者搶著把它建立起來,下位者則搶著在被鞏固之前阻止它。",
+   "answer_line": "crossface 扼殺髖部，結束爭奪",
+   "distractors": {
+    "plausible": [
+     "光靠控腿就能結束活動能力",
+     "底盤寬度是決定性因素"
+    ],
+    "trap": [
+     "搶手決定最終結果"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Headquarters Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

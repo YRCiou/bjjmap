@@ -1,0 +1,83 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置，讓 quarter guard 有別於完整的 half guard？",
+   "answer": "當下位者失去大約四分之三的腿部纏繞，只剩下最低限度的接觸，例如一個弱化的 knee shield、一個未完全插入的部分 butterfly hook，或是夾力減弱的四分之一 lockdown 時，就形成了 quarter guard。上位者的髖部已經越過下位者髖部中線大約十五公分，而在完整的 half guard 中，passer 的髖部仍被困在那條線之後。這造成上位者擁有大約 3:1 的不對稱控制優勢，而不是 half guard 那種近乎均等的纏繞。腿部連結的減弱正是它的關鍵特徵：足以防止立即被 pass，卻不足以靜態地維持這個位置。",
+   "answer_line": "passer 的髖部已越過中線",
+   "distractors": {
+    "plausible": ["完整 lockdown 加上深 hook", "雙方腿部纏繞均等"],
+    "trap": ["完全沒有腿部接觸殘留"]
+   }
+  },
+  {
+   "question": "為什麼 underhook 是決定整個位置走向的關鍵控制點，對雙方皆然？",
+   "answer": "underhook 是雙方爭奪的唯一核心錨點，quarter guard 的結果就繞著它決定：擁有它的一方，能決定這個位置會變成 sweep 與背後控制的平台，還是會變成完成的 pass。對下位者而言，它能防止上位者的肩膀壓力把自己壓平，並提供破勢所需的拉扯槓桿。對上位者而言，用 crossface 壓力剝除或化解那個 underhook，是鞏固 side control 的前提條件。由於腿部控制幾乎已經消失，透過 underhook 建立的上半身連結，就取代了完整 half guard 中原本由腿部纏繞負責的工作。",
+   "answer_line": "Underhook 決定 sweep 或 pass",
+   "distractors": {
+    "plausible": ["腿部纏繞決定結果", "衣領的抓握纏鬥決定結果"],
+    "trap": ["誰先挺直姿勢誰就贏"]
+   }
+  },
+  {
+   "question": "髖部角度在決定 quarter guard 究竟會走向 pass 還是 sweep 上，扮演什麼角色？",
+   "answer": "下位者必須讓髖部與肩膀維持大約三十到四十五度、偏離墊面的角度，因為這個角度能保留產生 sweep 與恢復 guard 所需的活動度。上位者的對抗目標則是把這些髖部壓平到與墊面平行，因為一旦下位者被壓平，就會失去所有 sweep 的槓桿，pass 也會變得機械化地順利。這使得髖部角度成為核心的拉鋸戰：每一次 crossface、每一個 frame、每一次重心轉移，本質上都是在為保住或摧毀那個側身角度而戰。誰能控制髖部的線，誰就能控制結果。",
+   "answer_line": "30-45度角保留 sweep 威脅",
+   "distractors": {
+    "plausible": ["髖部壓平能產生更大力量", "角度只在 guard pull 時才重要"],
+    "trap": ["把髖部擺正以求穩定"]
+   }
+  },
+  {
+   "question": "既然沒有一方會刻意停留在這裡，quarter guard 通常是從哪些情境中產生的？",
+   "answer": "quarter guard 最常出現在下位者試圖保住 half guard、卻無法完全阻止 pass 的時候，他們的腿部纏繞就會逐漸磨損，只剩下正常接觸的一小部分。它也會出現在 scramble 的中途，當雙方在位置之間轉換、腿部連結一時只剩下單一個薄弱的接觸點時。比較少見的情況，是從系統化的 half guard 主動進入這裡，作為通往像 old school sweep 或 electric chair 之類特定進攻的門戶。無論哪種情況，這都是控制不斷惡化所產生的一個過渡點，而不是任何一方刻意建立並維持的結構，這也是為什麼雙方一到這裡，都會把它視為立即行動的觸發訊號。",
+   "answer_line": "Half guard 在 scramble 中磨損",
+   "distractors": {
+    "plausible": ["刻意從 mount 建立起來", "從站立重新開始"],
+    "trap": ["刻意停留在這裡拖延時間"]
+   }
+  },
+  {
+   "question": "為什麼 quarter guard 本質上被視為過渡性質，而不是可以持續固守的位置？",
+   "answer": "腿部纏繞幾乎完全消失，意味著雙方都無法把這個位置鎖成僵局，所以在有能力的壓力之下，它會在大約五到十秒內就開始瓦解。上位者缺乏能讓 half guard top 安定下來的固定腿部控制，下位者也缺乏能讓 half guard bottom 拖延並重建的腿部纏繞。因此雙方都被迫投入一場立即的競賽：passer 朝完成 pass 前進，下位者則朝 sweep、背後控制或恢復 guard 前進。任何一方靜止不動，都只是把主導權拱手讓給對手，這也是為什麼這個位置的作用是一個決策點，而不是一個休息狀態。",
+   "answer_line": "沒有腿部鎖死,就沒有僵局",
+   "distractors": {
+    "plausible": ["雙方都能在此安全休息", "裁判會在時間到後重置"],
+    "trap": ["在這裡拖延以喘口氣"]
+   }
+  },
+  {
+   "question": "當這個位置正在解決時，哪些自由腿的力學對雙方都很重要？",
+   "answer": "下位者那隻未被困住的腿，成為一個關鍵的次要工具，可以架在上位者的髖部或胸口上、重新建立 knee shield，或用來勾住對方以拖慢推進、為 sweep 爭取時間。上位者則必須同時化解那隻自由腿，方法是把靠近的膝蓋壓向墊面，或是在新的 shield 能被插入之前，就先把 passing 的膝蓋滑過去。由於被困的那隻腿能提供的控制極少，這隻自由腿往往決定了下位者能重新建立防守結構、還是會被壓平。因此雙方都把自由腿、而不是那隻幾乎被困住的腿，視為下半身更關鍵的戰場。",
+   "answer_line": "自由腿架框;上位者須壓制它",
+   "distractors": {
+    "plausible": ["被困的腿決定結果", "自由腿全程保持被動"],
+    "trap": ["忽略自由腿,專注 crossface"]
+   }
+  },
+  {
+   "question": "儘管 quarter guard 與 deep half guard 都可能從同一個 passing 交手中產生，兩者有何不同？",
+   "answer": "在 deep half guard 中，下位者已經鑽到上位者的髖部與重心底下，利用這個低位直接攻擊對方的支撐，威脅 sweep。在 quarter guard 中，下位者仍留在外側，上位者的體重已經堆疊到他們上方並越過他們，下位者要對抗的是被壓平，而不是從底下發動攻勢。控制機制也不同：deep half 仰賴把一隻腿深深困在雙膝之間，而 quarter guard 則仰賴 underhook 與髖部角度，幾乎沒有腿部控制。deep half 通常是刻意進入的位置，而 quarter guard 通常只是一個玩家會途經的不穩定過渡點。",
+   "answer_line": "Deep half 在下方;quarter 在外側",
+   "distractors": {
+    "plausible": ["兩者困腿的深度相同", "quarter 從下方攻擊支撐"],
+    "trap": ["像 deep half guard 一樣鑽到底下"]
+   }
+  },
+  {
+   "question": "為什麼近側的 crossface 對雙方選手來說，都是 quarter guard 中如此具決定性的架框？",
+   "answer": "crossface，也就是上位者的肩膀或上臂壓過下位者的下顎與遠側臉頰，是把下位者的頭部與肩膀旋轉壓平的機制，直接攻擊維持這個位置所需的髖部角度。一旦它被建立起來，下位者就無法轉身回來恢復 underhook 或產生 sweep，這也是為什麼下位者的防守核心，是在 crossface 穩固之前把頭轉開，並用手臂去架擋壓過來的那隻手臂。同樣地，建立它也是上位者把體重全力投入最後 pass 前的必要條件。因此 crossface 正是那個把壓力轉化成一個被壓平、可被 pass 的對手的特定上半身架框。",
+   "answer_line": "Crossface 壓平髖部以完成 pass",
+   "distractors": {
+    "plausible": ["Underhook 才是決定性架框", "自由腿決定了結果"],
+    "trap": ["忽略 crossface,追逐雙腿"]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Quarter Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "_meta": {
+  "source": "content/Positions/Butterfly Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_family": [
+  {
+   "question": "讓任何 butterfly guard 變化型都成為 sweep 平台，而不只是純防守姿勢的關鍵力學原理是什麼？",
+   "answer": "每個 butterfly 變化型都會把至少一隻腳當作主動的 elevation hook，插在對手大腿下方，成為對手重心底下的抬升支點。因為 hook 位置在對手負重點的內側與下方，只要小幅度的腿部發力，就能轉換成對手身體大幅度的垂直位移，讓對手的 base 失去重量支撐。這種內側且在下方的位置，正是 butterfly 與那些只靠阻擋或 frame 的 guard 不同之處，不論是兩個 hook 都插入還是只有一個，這都是共通點。坐姿的一方靠的是骨架結構與抬升，而不是蠻力，這也是為什麼這個位置獎勵的是力學上的時機掌握，而不是運動能力。",
+   "distractors": {
+    "plausible": [
+     "hook 只是用來 frame 保持安全",
+     "hook 纏繞在對手的腿上"
+    ],
+    "trap": [
+     "在對手背後扣住腳踝"
+    ]
+   },
+   "answer_line": "hook 從底下抬升對手重心"
+  },
+  {
+   "question": "為什麼在每一種 butterfly 配置中，上半身控制與下半身抬升都必須協調成同一個方向的力？",
+   "answer": "手臂的拉力與 hook 的推力必須指向同一個方向，合成一個旋轉向量，把對手翻過他的 base 邊緣。單靠 hook 可以把對手抬起來，卻無法決定他往哪裡倒；上半身的連結（collar、sleeve、underhook 或 head-and-arm control）才是掌控方向的關鍵。如果兩股力量方向不同，力量就會互相抵銷，對手只會重新站穩 base。這種拉與抬協調一致的動作，是 butterfly 進攻不論用哪種 grip、hook 在哪一側，都通用的核心引擎。",
+   "distractors": {
+    "plausible": [
+     "先把 hook 抬起來，再抓 collar",
+     "用力拉手臂，不管 hook"
+    ],
+    "trap": [
+     "手臂打直把對手推開"
+    ]
+   },
+   "answer_line": "拉力與抬升同方向出力"
+  },
+  {
+   "question": "所有 butterfly 變化型共通的直立姿勢要求是什麼？一旦失去這個姿勢，力學上會發生什麼事？",
+   "answer": "每個 butterfly 變化型都要求坐姿要保持胸口朝前、脊椎疊在髖部正上方、核心收緊，而不是整個人躺平在背上。這種直立的結構讓髖部保持靈活，並維持住加載 hook、搆到對手上半身所需的幾何角度。當這一方被壓平時，hook 就會失去抬升角度，支點在對手底下瓦解，整個位置就會退化成毫無 sweep 槓桿的下位固定。所以保持姿勢是所有具體進攻之前，共通的生存與進攻前提。",
+   "answer_line": "保持直立，胸口朝前",
+   "distractors": {
+    "plausible": [
+     "躺回去以便加載 hook",
+     "放平髖部換取更多力量"
+    ],
+    "trap": [
+     "把頭低下貼在墊子上"
+    ]
+   }
+  },
+  {
+   "question": "對坐姿一方與過guard的一方來說，inside position 為什麼是所有 butterfly guard 共通的爭奪戰場？",
+   "answer": "Butterfly Guard 本質上就是在爭奪 inside position：hook 與手肘保持在對手大腿與手臂內側，才能掌握槓桿優勢。坐姿的一方要拚命把這些連結留在內側，過guard的一方則要拚命把它們剝到外側，因為內側的 hook 能製造抬升，內側的上半身牽制能破壞對方姿勢，而外側控制則讓過guard者可以壓平並繞行。這個動態在每個變化型中都成立，因為 hook 的定義本來就是內側位置。一旦失去內側連結，這個位置就會朝著被過guard或較弱的 guard 轉變，這也讓保住內側空間成為共通的策略重點。",
+   "distractors": {
+    "plausible": [
+     "只專注於抓緊一個 grip",
+     "爭奪外側的腿部控制"
+    ],
+    "trap": [
+     "讓 hook 滑到外側"
+    ]
+   },
+   "answer_line": "拚命把 hook 留在內側"
+  },
+  {
+   "question": "為什麼在所有變化型中，butterfly guard 最好被理解成一個轉換樞紐，而不是靜態的固定位置？",
+   "answer": "因為 hook 位在對手下方，姿勢又保持機動，butterfly 在對手站起來時會自然流向 X-guard、single leg X 這類 leg-entanglement 系統，而在承受重壓、近側被壓平時則會流向 deep half 或 half guard。這種連結性是這個位置幾何結構本身的特性，不侷限於特定變化型。把 butterfly 當作發起點的坐姿玩家，會靠著把 sweep 串接成轉換動作，持續製造威脅，逼對手陷入兩難：防守抬升就會露出 entanglement 的破口，防守 entanglement 又會露出抬升的破口。原地停滯只會放棄這種疊加壓力，讓過guard者站穩腳步。",
+   "answer_line": "會流向 X-guard 或 half guard",
+   "distractors": {
+    "plausible": [
+     "守住位置等待機會",
+     "永遠以 sweep 收尾"
+    ],
+    "trap": [
+     "交叉雙腳把它鎖死"
+    ]
+   }
+  },
+  {
+   "question": "決定何時該發動 butterfly sweep 的通用破勢時機原則是什麼？",
+   "answer": "任何 butterfly 變化型的 sweep，在配合對手自己的前壓或重心轉移時機發動時，成功率最高，而不是對著一個穩定、平衡的 base 硬來。當對手把重量往前壓去過guard或試圖站起時，他的 base 在那個方向會變窄，elevation hook 只需要順勢改變既有的動能方向，就能把他翻過 base 邊緣。反之，若攻擊一個靜止、寬闊的 base，就得靠自己製造全部的位移量，既沒效率又容易被察覺。讀懂並借用對手的動能，是讓 butterfly 抬升做對時感覺毫不費力的共通時機邏輯。",
+   "answer_line": "借對手自己的動能發動 sweep",
+   "distractors": {
+    "plausible": [
+     "只攻擊靜止的 base",
+     "等到對手完全不動再出手"
+    ],
+    "trap": [
+     "衝向一個已經穩住的 base"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在對手背後交叉腳踝，會讓任何 butterfly 位置的進攻能力失效？",
+   "answer": "Butterfly 的抬升力量，來自每個 hook 都能在大腿下獨立運作、向上發力並旋轉對手。把腳踝交叉扣在對手背後，會把原本主動抬升的 hook 變成一個被動的封閉迴圈，完全沒有向上的向量。這會消除對手重心底下的支點，讓這一方變得扁平、容易被控制，暴露在 pressure passing 之下。所以讓 hook 保持獨立分開，是這個位置的通用原則，因為獨立性正是產生抬升與方向性破勢的關鍵。",
+   "answer_line": "hook 交叉就失去向上的力",
+   "distractors": {
+    "plausible": [
+     "只是讓你的 sweep 時機變慢",
+     "夾得更緊可以彌補抬升力"
+    ],
+    "trap": [
+     "扣住腳踝再朝對手橋起"
+    ]
+   }
+  }
+ ],
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置定義了 Butterfly Guard，並讓它有別於其他 open guard？",
+   "answer": "Butterfly Guard 是一種坐姿 open guard，雙腳都插入當作 hook，抵在對手大腿內側，膝蓋向外展開。腳背或前腳掌壓在大腿內側，向外展開的膝蓋讓小腿與腳都位於對手雙腿內側，在對手重心正下方建立內側位置。這與 Closed Guard 或 Half Guard 不同，因為它的連結是靠主動的 elevation hook 完成，而不是靠夾腿或困住對方一條腿。坐姿、髖部離地的姿勢讓下位這一方保持機動與反應能力，而不是被壓平，這也是為什麼它讀起來更像是一個動態的發起平台，而不只是單純的保守位置。",
+   "distractors": {
+    "plausible": [
+     "困住對方一條腿，另一條自由",
+     "雙腿夾住對方腰部"
+    ],
+    "trap": [
+     "在對手背後交叉腳踝"
+    ]
+   },
+   "answer_line": "雙腳 hook 住大腿內側"
+  },
+  {
+   "question": "為什麼 butterfly hook 是放在大腿下方，而不是交叉或纏繞在對手背後？",
+   "answer": "大腿下方的 hook 直接成為對手重心正下方的支點，把小幅度的伸腿動作轉換成可觀的垂直抬升力。若把腳踝在對手背後纏繞或交叉，會消除這個抬升向量，也會讓每條腿無法獨立作動，瓦解這個位置的核心機制。讓 hook 保持分開、不互相扣住，能讓任一條腿獨立向上發力，把上位者往任何方向破勢。這種大腿下方的放置方式，正是讓最小的力量輸入能透過槓桿產生最大破勢效果的原因。",
+   "distractors": {
+    "plausible": [
+     "放在膝蓋後方能加強控制",
+     "腳放在髖部上能保持距離"
+    ],
+    "trap": [
+     "在對手背後交叉腳踝"
+    ]
+   },
+   "answer_line": "大腿下方支點提供抬升力"
+  },
+  {
+   "question": "為什麼直立坐姿在 Butterfly Guard 中被視為定義性的狀態特徵，而不是可有可無的細節？",
+   "answer": "直立坐姿加上收緊的核心，讓下位這一方的胸口能貼近對手，這正是讓上半身控制與 hook 抬升能合成單一力量的關鍵。如果下位這一方被壓平躺在背上，hook 就會失去抬升角度，位置會退化成仰躺的 open guard，或直接被過guard。坐直也能保持髖部靈活以便換角度，並讓頭部離開墊子，避開 front-headlock 與壓制的危險。這個配置只有在雙方都在爭奪這種垂直、相連的關係時，才算得上是 Butterfly Guard；一旦下位這一方被壓平，這個位置的本質就變了。",
+   "answer_line": "保持坐姿，胸口貼近",
+   "distractors": {
+    "plausible": [
+     "身體前傾拱在膝蓋上方",
+     "撐一隻手保持低姿"
+    ],
+    "trap": [
+     "整個人躺平在背上"
+    ]
+   }
+  },
+  {
+   "question": "上半身控制與下半身 hook 是如何結合，構成 Butterfly Guard 的核心動態？",
+   "answer": "Butterfly Guard 靠兩套力量系統的協調運作：hook 從下方產生抬升，抓 collar、sleeve 或 underhook 的 grip 則從上方控制對手的姿勢與重量。當這兩股力量方向一致時，上位者就會被整體抬起並旋轉，而不是被推向一個穩固的 base。這種上下耦合正是讓這個位置成為破勢引擎的原因，也是為什麼單靠 hook 或單靠 grip 都無法定義這個 guard。這種合力持續帶來的威脅，讓整個交手過程保持動態，也逼上位者必須同時處理這兩股向量。",
+   "answer_line": "grip 與 hook 合力而動",
+   "distractors": {
+    "plausible": [
+     "只靠 hook 就能製造 sweep",
+     "只靠 grip 就能控制姿勢"
+    ],
+    "trap": [
+     "為了 sweep 而倒向背後"
+    ]
+   }
+  },
+  {
+   "question": "inside position 在 Butterfly Guard 中對雙方共通的動態扮演什麼角色？",
+   "answer": "Inside position 指的是下位這一方的 hook，往往還有 underhook，占據對手雙腿之間與軀幹周圍、更靠近中線的空間，比對手自己的控制點更深入。誰贏得 inside position，誰就掌握抬升與破勢的潛力，所以整個交手都圍繞著上位者爭取 outside control 或拉開距離，而下位者則拚命把 hook 與連結留在深處。這種內外之爭是決定這個位置最終會產生 sweep 還是被過guard的關鍵戰役。這也解釋了為什麼從交手的第一刻起，grip fighting 與 hook 的深度就已經是爭奪焦點。",
+   "answer_line": "贏得內側 hook 與 underhook",
+   "distractors": {
+    "plausible": [
+     "只贏得 collar grip",
+     "先贏得外側腿部控制"
+    ],
+    "trap": [
+     "放棄 hook 換取一個 choke"
+    ]
+   }
+  },
+  {
+   "question": "上位者的距離與姿勢，如何改變 Butterfly Guard 交手的性質？",
+   "answer": "當上位者靠近，處於 combat base 或跪姿時，Butterfly Guard 最為活躍，因為此時 hook 能完全貼住大腿，抬升效果也最大化。當上位者站起或後退拉開距離時，hook 會失去與大腿的接觸，抬升機制隨之減弱，這也是為什麼這個位置會自然流向 X-Guard、Single Leg X 這類 leg-entanglement 配置。反過來說，如果上位者施加沉重的前壓來壓平下位者，坐姿就會受到威脅，交手會轉向 Deep Half 或 Half Guard。所以這個位置的定義，就是雙方持續在爭奪的一個狹窄近距離交手窗口。",
+   "answer_line": "近距離讓 hook 保持有效",
+   "distractors": {
+    "plausible": [
+     "更多空間能提升抬升力",
+     "上位者站起就結束這個 guard"
+    ],
+    "trap": [
+     "對方後退時就跟著壓平"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Butterfly Guard 被視為一個轉換樞紐，而不是靜態的固定位置？",
+   "answer": "因為它的連結是靠主動的 hook 與直立坐姿完成，而不是靠固定的夾制，對手距離或 base 的小幅變化，會立刻為搶先反應的一方開啟通往鄰近位置的路徑。當對手站起時，hook 會流向 X-Guard 或 Single Leg X；當對手向前施壓時，位置會流向 Deep Half 或 Half Guard；當一個 hook 被清掉時，就會變成 Half Butterfly 或 Half Guard。這種連結性是這個配置結構上的特性，而不是戰術選擇，這也是為什麼它很少被靜態固定住。雙方都清楚，這個位置是一個很快就會解消到鄰近配置的十字路口。",
+   "answer_line": "小變化就開啟新位置",
+   "distractors": {
+    "plausible": [
+     "hook 能把對手固定在原地",
+     "交手只會以 sweep 收場"
+    ],
+    "trap": [
+     "交叉腳踝把位置凍結住"
+    ]
+   }
+  },
+  {
+   "question": "作為一個控制系統，Butterfly Guard 在力學上與 Half Guard、Closed Guard 有什麼不同？",
+   "answer": "Closed Guard 靠雙腿夾住對手腰部來控制，Half Guard 靠困住對手一條腿來控制，兩者都仰賴鎖住或包覆的動作。Butterfly Guard 則是靠主動抬升來控制，用未扣住的雙腳在大腿下方當槓桿，去抬起並破壞對方平衡，而不是去包覆對方。這讓它天生更具進攻性、更機動，但位置安全性也較低，因為沒有封閉夾制可以把對手固定住。這種用穩定性換取抬升力與動態性的取捨，正是讓 Butterfly Guard 與依靠夾制或困腿的鄰近位置在力學上區隔開來的關鍵。",
+   "answer_line": "靠抬升而非夾制",
+   "distractors": {
+    "plausible": [
+     "靠的是速度而不是控制",
+     "控制完全來自 grip"
+    ],
+    "trap": [
+     "交叉腳踝鎖得更緊"
+    ]
+   }
+  }
+ ]
+}

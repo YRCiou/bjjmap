@@ -1,0 +1,224 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Smash Pass 中，為什麼把肩膀壓力導向對手的臉和胸口，會比壓在他們的髖部更有效？",
+    "answer": "壓向臉和胸口比較有效，因為對手上半身的結構性支撐比髖部和腿部弱得多。當你壓他們的髖部時，他們可以靠強壯的腿部肌肉和髖部結構撐住 frame、製造空間。上半身的壓力會影響他們的呼吸、把頭轉開，並且在生物力學上讓他們很難維持防禦結構。此外，crossface 對頭部的壓力控制了整條脊椎，限制活動度的效果遠比壓髖部更強。",
+    "answer_line": "臉與胸口的 frame 較弱",
+    "distractors": {
+     "plausible": [
+      "髖部比胸口更不靈活",
+      "壓臉比較容易得分"
+     ],
+     "trap": [
+      "抬起胸口，往髖部下壓"
+     ]
+    }
+   },
+   {
+    "question": "初學者在 Smash Pass 中抽出被困的腿時，最常犯的錯誤是什麼？",
+    "answer": "最常見的錯誤是想用力氣和速度爆發式地把腿抽出來。這樣做會讓對手的抓握反射性地收緊，也會浪費大量體力。正確做法是在對手被壓平、guard 的保留能力已經被你的控制瓦解時，緩慢而有條理地抽腿。維持 crossface 和內側腿控制的同時，用小步、穩定的壓力往後移動，遠比暴力抽腿有效得多。",
+    "answer_line": "在壓力下緩慢抽腿",
+    "distractors": {
+     "plausible": [
+      "還沒建立 crossface 就先抽腿",
+      "改換其他 pass 而不抽腿"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你嘗試 Smash Pass 時成功建立 Deep Half Guard，你該如何應對？",
+    "answer": "你應該立刻停止 Smash Pass 的嘗試，優先處理 Deep Half Guard 的問題。在對手已經進入 deep half 的情況下硬要繼續 smash pass，成功率低又浪費體力。你需要針對性地處理 deep half guard——可能要把腿從糾纏中游出來、建立 whizzer 控制，或者乾脆換一套完全不同的過關策略。千萬不要忽視這種根本改變你控制結構的位置變化。",
+    "answer_line": "停止過關，先清 deep half",
+    "distractors": {
+     "plausible": [
+      "sprawl 下去等他們自己放棄",
+      "直接跳去 mount"
+     ],
+     "trap": [
+      "轉身撐遠手離開"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在抽出被困的腿之前，控制對手的內側腿如此重要？",
+    "answer": "控制內側腿可以防止對手在你抽腿的過程中重新拿回 full guard 或轉換成 deep half guard。沒有這個控制，對手可以趁你抽腿時把外側腿帶過來重新扣上 guard，或是用內側腿完全阻止你的腿抽出來。透過 underhook、抓握或按壓來控制內側腿，等於消除了他們重新扣 guard 的主要手段，是成功過關前不能妥協的前提條件。",
+    "answer_line": "阻止對手重新扣 guard",
+    "distractors": {
+     "plausible": [
+      "為 backstep pass 做準備",
+      "騰出雙手方便抓握"
+     ],
+     "trap": [
+      "放開內側腿並站起來"
+     ]
+    }
+   },
+   {
+    "question": "當你嘗試施加 crossface 壓力時，對手在你的肩膀上撐了一個很強的 frame——你該如何調整？",
+    "answer": "當對手在你肩膀上撐出一個很強的 frame 時，不要硬碰硬地想直接壓過去，因為那正好是他們最強的結構支撐點。相反地，把你的髖部往他們頭部方向走高，改變施力角度，讓他們的直臂 frame 失去效用。你也可以用空出來的手在手腕或手肘處剝除他們的 frame，或短暫轉移重心把 frame 壓垮後立刻重新建立 crossface。另一個選項是改用 underhook smash 的變化，從對手手臂下方進攻，而不是硬穿過 frame。",
+    "answer_line": "把髖部走高，換個角度",
+    "distractors": {
+     "plausible": [
+      "重設並重建 crossface",
+      "放棄改打 knee slice"
+     ],
+     "trap": [
+      "後仰蓄力硬壓過去"
+     ]
+    }
+   },
+   {
+    "question": "Smash Pass 的做法和動態式過關方式在半 guard 上有什麼關鍵差異？",
+    "answer": "Smash Pass 強調有耐心地施加壓力、沉重的肩膀控制，並有系統地壓平對手的結構。它靠的是讓對手一步步變得越來越難受，直到他們的保留能力崩潰。相對地，動態式過關則利用速度、角度變化和爆發性動作來繞過對手的 guard，而不是硬壓穿過去。長期來看 Smash Pass 更省力，對柔軟或 guard 能力很強的對手效果很好；而動態式過關速度較快，但需要更好的心肺能力，對依賴壓力抵抗而非靈活性的對手效果較佳。",
+    "answer_line": "耐心施壓 vs 講求速度",
+    "distractors": {
+     "plausible": [
+      "動態式過關壓力更重",
+      "兩者都是硬壓穿過 guard"
+     ],
+     "trap": [
+      "用衝刺速度做 Smash Pass"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄 Smash Pass 的嘗試，改用其他過關策略？",
+    "answer": "當強力的髖部 frame、back take 的威脅、Deep Half Guard，或是已經死掉的 crossface 讓你的進度停滯時，就該放棄 Smash Pass。頂尖的過關者懂得在一個技術行不通、或花費過多體力卻沒有進展時及時換策略，而不是硬撐。Smash Pass 應該感覺像是必然的推進——如果感覺像是陷入僵局，就該考慮改打 knee slice、backstep 或 long step 這些選項。",
+    "distractors": {
+     "plausible": [
+      "失敗一次就放棄",
+      "只有在對方威脅 sweep 時才換"
+     ],
+     "trap": [
+      "不管怎樣都硬撐下去"
+     ]
+    },
+    "answer_line": "強 frame、deep half、卡關就換"
+   },
+   {
+    "question": "你已經建立 crossface，但對手用 lockdown 把腳踝緊緊鎖在你被困的腿上——你的回應是什麼？",
+    "answer": "當對手在你被困的腿上建立 lockdown 時，Smash Pass 的機制會有很大的改變，因為你無法單純地把腿往後走出來。首先，維持你的 crossface，避免對手利用 lockdown 進攻做 sweep。接著直接處理 lockdown：把被困的膝蓋往地面下壓來壓平 lockdown 的角度、用空出來的腿跨過去撬開對方的腳踝，或改用 whizzer 加 backstep 的方式改變角度，直到足以破壞這個糾纏。不要硬用標準的 Smash Pass 抽腿方式去對抗已經建立好的 lockdown。",
+    "answer_line": "壓平膝蓋，撬開腳踝",
+    "distractors": {
+     "plausible": [
+      "等對方自己鬆開",
+      "硬把腿直接抽出來"
+     ],
+     "trap": [
+      "放棄 crossface 去對付腿"
+     ]
+    }
+   },
+   {
+    "question": "從半 guard top 發動 Smash Pass 的最佳時機窗口是什麼時候？",
+    "answer": "在贏得 underhook 或 crossface 爭奪戰之後，趁 knee shield 或 lockdown 還沒成形之前立刻發動 Smash Pass。最好的時機是你剛清掉一個 frame 或擋下一次 underhook 嘗試的瞬間，因為此時對手正處於防禦結構之間的空檔。另一個絕佳的時機窗口，是對手嘗試 sweep 失敗的當下——他們的防禦結構在 sweep 嘗試中被打亂，從失敗轉回防守 guard 的過程會產生一個空隙，你可以立刻用 crossface 壓力去利用它。",
+    "distractors": {
+     "plausible": [
+      "只能從站姿發動",
+      "等他們的 knee shield 架好之後"
+     ],
+     "trap": [
+      "還沒清 frame 就衝進去"
+     ]
+    },
+    "answer_line": "剛贏得 crossface 之後"
+   },
+   {
+    "question": "有 gi 和 no-gi 時，Smash Pass 執行時的抓握方式有什麼不同？",
+    "answer": "有 gi 的 Smash Pass 會用衣領、褲管和腰帶作為布料上的抓握點；no-gi 則以更緊密的胸對胸身體壓力取代這些抓握。有 gi 時，衣領抓握能加強 crossface 控制，膝蓋處的褲管抓握能提供內側腿控制，腰帶抓握則能支撐 underhook smash 的變化——這些都是持續性、依賴摩擦力的控制方式，與肩膀壓力相輔相成。在 no-gi 中，抓握是短暫的，所以 crossface 必須做得更深、肩膀投入更多，內側腿控制要靠 overhook 或手腕控制而非褲管抓握，而重點會轉移到維持不間斷的胸對胸連結上。No-gi 的 Smash Pass 全程都需要更緊密的身體貼合。",
+    "distractors": {
+     "plausible": [
+      "no-gi 的抓握能撐更久",
+      "有 gi 靠胸口壓力為主"
+     ],
+     "trap": [
+      "在 no-gi 抓對方的短褲"
+     ]
+    },
+    "answer_line": "gi 布料抓握 vs 身體壓力"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當對手從半 guard top 對你發動 Smash Pass 時，你最重要的單一防守優先事項是什麼？",
+    "answer": "最重要的優先事項是維持側身角度，避免被壓平到背部貼地。一旦你的肩膀被壓平貼地，對手的 crossface 壓力就會發揮到最大效果，你的髖部活動度也會嚴重受限。之後所有的防守選項都取決於你是否還保有足夠的側身角度，來建立 frame、製造 hip escape 的動作，以及威脅反擊。維持側身姿勢應該優先於其他所有防守動作。",
+    "answer_line": "保持側身角度，避免背部貼地",
+    "distractors": {
+     "plausible": [
+      "優先爭奪 underhook",
+      "立刻進攻 submission"
+     ],
+     "trap": [
+      "接受背部貼地再逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼被動的 guard 保留在對抗執行良好的 Smash Pass 時是無效的？",
+    "answer": "被動的 guard 保留之所以無效，是因為 Smash Pass 就是專門設計來透過漸進式壓力，一步步拆解靜態的防禦結構。被動的防守者會讓對手不慌不忙地一次處理一個 frame——先清掉 knee shield，再建立 crossface，接著壓平，最後控制內側腿。如果沒有進攻性威脅逼迫對手轉為防守反應，他們就能全神貫注在每一個過關階段上。透過 sweep 嘗試和 back take 進入點主動進攻，能製造兩難局面，打亂過關者有條理的推進節奏。",
+    "answer_line": "靜態防守敵不過持續壓力",
+    "distractors": {
+     "plausible": [
+      "光靠 frame 就能擋住這個 pass",
+      "Smash Pass 沒有固定順序"
+     ],
+     "trap": [
+      "躺平不動，保留體力"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立深 crossface，正開始把你壓平——你成功率最高的防守反應是什麼？",
+    "answer": "在深 crossface 已經建立的情況下，你成功率最高的反應，是用靠近身體那側的手臂在對方遠側髖部撐 frame，同時往遠離對手的方向做 hip escape，爭取足夠空間重新插入 knee shield。同時用另一側的手在對方的手腕或前臂處對抗 crossface。如果你無法剝除 crossface，改鑽到對方胸口下方轉換到 Deep Half Guard、並控制對方遠側腿，能給你一個新的防守平台並保有強力的 sweep 選項。關鍵在於立刻採取行動，而不是接受被壓平的局面。",
+    "answer_line": "撐遠側髖，escape，重插 shield",
+    "distractors": {
+     "plausible": [
+      "把對方的肩膀推開",
+      "抓住對方的頭撐住"
+     ],
+     "trap": [
+      "轉成趴姿逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在 Smash Pass 的過程中，對手在哪個時刻最容易被掃倒？",
+    "answer": "對手在兩個特定時刻最容易被掃倒：第一，是他們騰出空手去壓下你的 knee shield 時，因為這會拿走他們的一個支撐點，使他們的基底變窄。第二，是在抽腿階段，當他們把重心往後移、把被困的腿走出來時，這會削弱他們的前壓力並在控制上出現空隙。這兩個時刻都是對手在控制姿態之間過渡的時候，暫時降低了基底穩定性，創造出 sweep 進入的機會窗口。",
+    "answer_line": "清 shield 或抽腿的瞬間",
+    "distractors": {
+     "plausible": [
+      "crossface 剛建立完成後",
+      "把你壓平的過程中"
+     ],
+     "trap": [
+      "只在完全被壓平後才 sweep"
+     ]
+    }
+   },
+   {
+    "question": "面對 Smash Pass 與面對半 guard 動態式的 knee slice pass，防守方式有什麼不同？",
+    "answer": "對抗 Smash Pass 時，防守重心在於阻止 crossface、維持側身角度，並用 frame 來應付這種緩慢漸進的壓力。防守者有比較多時間反應，但必須主動出擊，才不會被逐步壓垮。對抗 knee slice 時，防守需要更快的反應，因為這種 pass 靠的是速度和角度變化而非壓力。knee slice 的防守重點在於用髖部處的 frame 擋住 knee cut，並維持內側腿的 hook 來阻止膝蓋跨過來。Smash Pass 的防守者需要耐力和 frame 管理；knee slice 的防守者則需要時機掌握和髖部靈活度。",
+    "answer_line": "耗 frame vs 快速髖部時機",
+    "distractors": {
+     "plausible": [
+      "knee slice 更需要耐力",
+      "兩者用的 frame 都一樣"
+     ],
+     "trap": [
+      "只顧對抗 crossface，放任壓平"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Smash Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

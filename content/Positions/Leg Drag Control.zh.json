@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構配置定義了 Leg Drag Control，並讓它和其他 guard-passing 位置不同？",
+   "answer": "Leg Drag Control 的定義，是底位選手的腿被拖過自己的中線，橫跨在 passer 的髖部前方。這個交叉腿的姿勢，把底位選手自己的肢體變成一道屏障，把他們的髖部釘死在一側，並阻擋重新建立 guard。不同於繞過或穿過 guard 的 stack pass 或 over-under pass，leg drag 是把腿橫向拖走，迫使底位選手側身，並預先埋下背後暴露的隱患。這個位置的標誌，就是被拖走的腿與 passer 髖線之間這種斜向、跨身體的關係。",
+   "answer_line": "腿被拖過自己中線",
+   "distractors": {
+    "plausible": [
+     "腿被勾在對方腋下",
+     "腿被 stack 直壓過頭"
+    ],
+    "trap": [
+     "躺平，伸手抓對方的頭"
+    ]
+   }
+  },
+  {
+   "question": "為什麼被拖過去的那條腿，是這個位置的主要控制點，而不是靠抓握？",
+   "answer": "一條被拉過中線的腿，再也無法向外做 frame 或勾住對方，因此在力學上把底位選手的髖部給綁死了。它就像一根槓桿，把骨盆釘在一側，這也是為什麼單純把腿直直往回拉，很少能把它解開。上半身的抓握與壓力會強化這個效果，但真正拿走底位選手最強大 guard retention 工具——腿——的，正是這條被拖走的腿。這也是為什麼這個位置是依「腿的配置」來分類，而不是依抓握來分類，和 collar-and-sleeve 或以 underhook 為基礎的控制不同。",
+   "answer_line": "交叉的腿鎖死骨盆",
+   "distractors": {
+    "plausible": [
+     "靠緊抓釘死髖部",
+     "遠端 underhook 釘死髖部"
+    ],
+    "trap": [
+     "轉身硬把腿扯出來"
+    ]
+   }
+  },
+  {
+   "question": "Leg Drag Control 中的體重如何分布？為什麼強調斜向角度而不是正面壓制？",
+   "answer": "壓力沿著身體對角線傳導，從上位選手的胸口斜向壓進底位選手靠近的那側髖部，方向與被拖走的腿所形成的角度一致。直直往下壓或直直往前推，會讓底位選手能正面對著上位選手，建立有效的 frame，而斜向的壓力則能讓他們持續側身，破壞他們的 frame 結構。體重在上半身保持偏前壓，而髖部則保持機動，因為這個位置本質上是過渡性的，絕不是靜止的 pin。這種帶角度、具機動性的壓力，正是維持整個位置最主要威脅——奪背——的關鍵。",
+   "answer_line": "斜向施壓，胸對髖",
+   "distractors": {
+    "plausible": [
+     "直直往下壓最有效",
+     "體重靠後，髖部沉重不動"
+    ],
+    "trap": [
+     "壓重坐穩，當成靜態 pin 休息"
+    ]
+   }
+  },
+  {
+   "question": "為什麼「奪背」是 Leg Drag Control 中雙方共有的核心動態？",
+   "answer": "因為被拖走的腿迫使底位選手側身，他們為了緩解髖部壓力的自然反應，就是繼續往遠處轉身，而這正好把背直接送給上位選手。整個位置就是圍繞這種張力組織起來的：上位選手威脅奪背，底位選手則必須在不讓自己防守崩潰的前提下，抵抗繼續轉身遠離。這也是為什麼奪背是成功率最高的進階手段，也是為什麼防止背部暴露是底位選手的第一要務。被拖走的腿使整個幾何結構偏向奪背，雙方的每個決定都圍繞著誰能掌握奪背角度打轉。",
+   "answer_line": "轉身遠離會送出背部",
+   "distractors": {
+    "plausible": [
+     "轉身面向對方會送出背部",
+     "坐起來會送出背部"
+    ],
+    "trap": [
+     "快速轉身遠離以緩解髖部壓力"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Leg Drag Control 被視為過渡性位置，而不是穩定的得分位置？",
+   "answer": "Leg drag 破解了 guard，但還沒有建立像 side control、mount 或 back control 那樣被公認的優勢位置，所以它本身不帶任何位置分數。它的控制仰賴持續的前進動作與角度變化，而不是靜止不動的體重，這代表一旦 leg drag 停滯，底位選手很快就能重建 frame，讓它迅速瓦解。這個位置是一個決策樞紐，通常會在短短幾秒內——大約三到七秒——就流轉到某個穩定位置。這種過渡性，正是它和上位選手可以休息、長時間固定的穩定 pin 之間的差別。",
+   "answer_line": "不計分，停滯就瓦解",
+   "distractors": {
+    "plausible": [
+     "像 side control 一樣計分",
+     "穩定的 pin，可以一直守住"
+    ],
+    "trap": [
+     "在這裡休息，不急著進階"
+    ]
+   }
+  },
+  {
+   "question": "雖然都涉及一條被困住的腿，Leg Drag Control 與 knee shield 或 half guard 的配置有何不同？",
+   "answer": "在 half guard 與 knee shield 中，底位選手的腿或膝蓋是向外對上位選手做 frame，主動製造空間並阻擋髖部連接。在 Leg Drag Control 中，腿卻被拉往相反方向，橫跨過底位選手自己的身體，因此無法再做 frame，反而變成釘死自己髖部的東西。這種反轉正是關鍵的區別：同一條肢體，從防守工具變成了負擔。事實上，如果 knee shield 重新回到那個空間，正是純粹的 leg drag control 已經失守、位置退回到 half guard 動態的標誌。",
+   "answer_line": "腿被拉進，而非向外撐",
+   "distractors": {
+    "plausible": [
+     "膝蓋仍擋著胸口",
+     "只是抓握方式不同"
+    ],
+    "trap": [
+     "把膝蓋擺回去重建 knee shield"
+    ]
+   }
+  },
+  {
+   "question": "除了被拖走的腿之外，上半身控制在完成整套 Leg Drag Control 系統中扮演什麼角色？",
+   "answer": "控制底位選手遠端的肩膀、頭部，或用 crossface，能防止他們轉回來面對上位選手，或坐起來重建 guard。被拖走的腿負責處理髖部，上半身控制則負責處理旋轉，只有兩者搭配成一套系統時，這個位置才守得住。一旦失去對肩膀或頭部的連接，即使腿仍被困住，底位選手也能轉身化解 leg drag。這種下半身加上半身的雙重控制，正是阻止底位選手正面對齊、重建 frame 的關鍵。",
+   "answer_line": "肩／頭控制阻止旋轉",
+   "distractors": {
+    "plausible": [
+     "光靠控腿就能阻止旋轉",
+     "光靠髖部壓力就能阻止旋轉"
+    ],
+    "trap": [
+     "放開上半身抓握去追腿"
+    ]
+   }
+  },
+  {
+   "question": "Leg Drag Control 最自然會銜接到哪些相鄰位置？是什麼決定它會流向哪一個？",
+   "answer": "這個位置處於一個十字路口，通往 back control、mount、side control、north-south、turtle，或退回 half guard，而底位選手的反應決定了最終走向。轉身遠離會打開奪背的機會，保持攤平會招來 mount 或 side control，坐起來會暴露手臂，遭遇 crucifix 或 north-south，而防守性的翻滾則會走向 turtle。如果底位選手重新插入一條腿或 knee shield，位置就會退回到 half guard。正是這種多分岔的出路，讓 leg drag 被視為製造兩難的樞紐，而不是一個終點。",
+   "answer_line": "分岔通往奪背、mount 或 turtle",
+   "distractors": {
+    "plausible": [
+     "永遠會走向奪背",
+     "永遠會回到 side control"
+    ],
+    "trap": [
+     "這是固定不動的死路 pin"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Leg Drag Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame and Shrimp to Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Frame and Shrimp to Guard 的主要目標是什麼？",
+    "answer": "主要目標是透過 frames 和 hip escape 創造空間，把被 leg drag 控制困住的腿解放出來，重新建立 open guard。這樣能把過招重置回中立狀態，迫使對手重新開始他們的過關流程。",
+    "answer_line": "解放被困的腿，重新拿回 guard",
+    "distractors": {
+     "plausible": ["把對手 sweep 到上位", "先破解對方抓褲管的 grip"],
+     "trap": ["翻成 belly-down 逃脫"]
+    }
+   },
+   {
+    "question": "Frame and Shrimp to Guard 是從什麼位置開始執行？",
+    "answer": "這個技巧是從 Leg Drag Control Bottom 開始，在對手還沒鞏固 side control 或拿到你的背之前。此時對手已經把你的腿拉過你的身體、控制住你的髖部，但過關尚未完成。",
+    "answer_line": "Leg Drag Control 的下位",
+    "distractors": {
+     "plausible": ["side control 已經確立之後", "從 mount 的下位開始"],
+     "trap": ["背已經被拿下之後"]
+    }
+   },
+   {
+    "question": "執行 Frame and Shrimp to Guard 需要哪些關鍵 frames？",
+    "answer": "你需要兩個相連的 frames：近側前臂頂在對手的肩膀或二頭肌上，遠側手則放在他們的髖部或撐在地上。做 frame 的手肘要貼緊肋骨，形成骨架連結；兩個 frames 要作為一個連動的系統一起運作，而不是各自獨立的推力。",
+    "answer_line": "近側肩膀 frame，遠側髖部 frame",
+    "distractors": {
+     "plausible": ["雙手都放在對方遠側髖部", "只用一個 frame 頂住對方的頭"],
+     "trap": ["用直臂推開"]
+    }
+   },
+   {
+    "question": "當你嘗試 shrimp 時，對手向前施壓、壓垮你的 frames，你該如何調整？",
+    "answer": "當 frames 被壓垮時，不要繼續嘗試 shrimp 逃脫。而是立刻轉身面向對手，積極搶奪對方施壓那一側的 underhook。接受轉換到 half guard，總比完全失去位置好。frames 被壓垮就代表逃脫的時機窗口已經關閉了。",
+    "answer_line": "轉身，搶奪 underhook",
+    "distractors": {
+     "plausible": ["更用力繼續 shrimp", "推開對方重新建立 frames"],
+     "trap": ["做 bridge 後翻成 belly-down"]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試 Frame and Shrimp to Guard 的最佳時機？",
+    "answer": "最佳時機是在對手為了調整 grip 而移動重心、往你的頭部方向推進，或是在不同控制點之間轉換的時候。這些時刻會產生短暫的空檔，讓對手的壓力減輕、跟隨你動作的能力也會下降。絕對不要在對手完全穩定、施加最大壓力時嘗試。",
+    "answer_line": "對手轉移重心的時候",
+    "distractors": {
+     "plausible": ["對方剛抓穩 grip 之後", "對方胸口壓力最重的時候"],
+     "trap": ["先等待，再轉身逃跑"]
+    }
+   },
+   {
+    "question": "為什麼在做 shrimp 時，肩膀必須保持平貼，而不是轉身背對？",
+    "answer": "轉身背對會把你的背暴露出來，讓對手很輕易就能拿到 back control——對方只要順著你的轉身動作，把 hooks 鉤進去就好。shrimp 應該讓你的髖部橫向移動，同時胸口仍然朝向天花板。這樣能維持 frame 的完整性，避免陷入更危險的 back control。",
+    "answer_line": "避免暴露背部",
+    "distractors": {
+     "plausible": ["讓髖部更貼近地面", "提升推離的力量"],
+     "trap": ["轉動肩膀以創造空間"]
+    }
+   },
+   {
+    "question": "你第一次 shrimp 創造出空間，但對手跟著移動、繼續維持腿部控制，你該如何應對？",
+    "answer": "朝同一個方向連續做多次 shrimp，每一次都拉開更多距離。或者，突然改變 shrimp 的方向，趁對手已經投入跟隨某一個方向時，打亂他們的重心。每次 shrimp 之後都重新建立 frames，持續這樣做，直到有足夠的空間可以把腿抽出來。",
+    "answer_line": "連續 shrimp，或改變方向",
+    "distractors": {
+     "plausible": ["shrimp 一次後重新抓 grip", "往同一方向更用力推"],
+     "trap": ["轉身想從背後逃走"]
+    }
+   },
+   {
+    "question": "抽出被困的腿時，正確的施力方向是什麼？",
+    "answer": "把膝蓋以弧形路徑拉向胸口，而不是直直往後拉。膝蓋要沿著弧形軌跡，穿過你 hip escape 所創造出來的空間。如果直直往後拉，會直接對抗對手的 grip 和體重，讓抽腿變得不可能。",
+    "answer_line": "以弧形路徑拉向胸口",
+    "distractors": {
+     "plausible": ["把膝蓋往外推", "把腿伸長、放平"],
+     "trap": ["伸直腿並翻成 belly-down"]
+    }
+   },
+   {
+    "question": "如何在不耗盡體力的情況下，維持 frame 的效率？",
+    "answer": "讓 frame 的力量透過骨架結構傳遞，而不是依賴肌肉力氣。手肘貼緊身體，讓前臂與肩關節對齊，讓身體結構去承受壓力。在嘗試逃脫的空檔保持放鬆，只在真正做 shrimp 動作的那一刻才爆發用力。",
+    "answer_line": "骨架式 frame，中間放鬆",
+    "distractors": {
+     "plausible": ["持續保持肌肉緊繃", "抓住對方袖子撐住"],
+     "trap": ["把手肘張開以增加力量"]
+    }
+   },
+   {
+    "question": "在你逃脫過程中，對手放開你的腿並往 side control 推進，這算成功還是失敗？",
+    "answer": "這是成功——leg drag 的威脅已經解除了。要立刻把握機會，插入 knee shield，或繼續做 hip escape 來建立 guard，搶在對手鞏固 side control 之前完成。你的逃脫迫使對手放棄了 leg drag，達成了移除那個特定控制的主要目標。",
+    "answer_line": "成功——leg drag 已解除",
+    "distractors": {
+     "plausible": ["失敗——對手已推進", "中立——沒有任何改變"],
+     "trap": ["壓平身體、喘口氣等待"]
+    }
+   },
+   {
+    "question": "在嘗試 shrimp 之前，應該優先破解對方抓在你被困的腿上的哪個 grip？",
+    "answer": "優先破解或減弱對手對你近側髖部和抓褲管 grip 的控制，因為這正是讓你的腿被固定橫跨在身體上的錨點。用你遠側的手把對方抓 grip 的手往他們的中線推，同時用近側手臂 frame 住他們的肩膀。你不需要完全破解這個 grip——只要削弱到足以讓你的 shrimp 拉開距離就夠了。",
+    "answer_line": "近側髖部與褲管 grip",
+    "distractors": {
+     "plausible": ["遠側 collar grip", "對方遠側腳踝的 grip"],
+     "trap": ["雙手都抓手腕，不做 frame"]
+    }
+   },
+   {
+    "question": "你 shrimp 的方向和一般 side control 的 hip escape 有什麼不同？",
+    "answer": "你要往大約 45 度的方向 shrimp，並稍微偏向被困的那條腿那一側，而不是像 side control 那樣直直往外。這個帶角度的 shrimp 是為了因應 leg drag 交叉腿的配置，特別針對腿被固定的那條線、以及膝蓋抽出時需要移動的路徑創造空間。",
+    "distractors": {
+     "plausible": ["像 side control 一樣直直往外", "往遠離被困腿的 45 度方向"],
+     "trap": ["在對方壓制下翻到跪姿"]
+    },
+    "answer_line": "往被困腿側 45 度"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要防止對手做出 Frame and Shrimp to Guard，你必須處理哪兩個機制？",
+    "answer": "你必須同時處理 frame 結構和 hip escape 的動作。frames（肩膀 frame 和髖部 frame）會阻止你跟上對方的動作，而 shrimp 則創造出抽腿所需的橫向空間。破壞其中任何一個機制，就能瓦解這個逃脫——壓垮 frames 會讓 shrimp 無法拉開距離，消除髖部空間則會讓 frames 單獨存在也毫無作用。",
+    "answer_line": "壓垮 frames，或消除髖部空間",
+    "distractors": {
+     "plausible": ["只控制遠側手臂", "只破解抓褲管的 grip"],
+     "trap": ["坐高身體去追手臂"]
+    }
+   },
+   {
+    "question": "你感覺到對手的前臂頂在你的肩膀上，你該立刻做出什麼反應？",
+    "answer": "在對方能把 frame 對齊自己骨架之前，把肩膀的重量往前壓過他們的前臂一點。同時加大 crossface 的壓力，限制對方建立第二個髖部 frame 的能力。你大約有一到兩秒的時間，在 frame 變成骨架式結構、變得更難壓垮之前行動。及早處理第一個 frame，能阻止整個逃脫結構完成。",
+    "answer_line": "用肩膀壓過對方的 frame",
+    "distractors": {
+     "plausible": ["等 frame 完全成形再處理", "把頭往後拉遠離手臂"],
+     "trap": ["放開 crossface 的壓力"]
+    }
+   },
+   {
+    "question": "對手爆發性地做出一次 shrimp，拉開了明顯的髖部距離，你該追上去還是轉換位置？",
+    "answer": "應該轉換位置，而不是追上去。如果單一次爆發性 shrimp 就拉開了明顯的距離，想從新的距離重新建立 leg drag 控制是划不來的——你在追的同時，對方會連續做出更多 shrimp。應該立刻放開那條腿，趁對方還來不及插入膝蓋或建立 guard 之前，直接推進鞏固 side control。轉換成 side control 能保住你的優勢位置。",
+    "answer_line": "放開腿，拿下 side control",
+    "distractors": {
+     "plausible": ["追上去重新抓住腿", "重新把腿拖到另一側"],
+     "trap": ["撲去抓 leg lock，失去上位"]
+    }
+   },
+   {
+    "question": "面對這個逃脫，為什麼維持髖部高度的壓力比上半身壓力更重要？",
+    "answer": "shrimp 這個動作是在髖部這條線上創造空間，而不是在胸口。如果上半身的壓力放得太高，會讓髖部區域沒有壓力，而那正是下位選手需要自由活動的地方。把胸部的重量壓低、直接壓向對方近側髖部，就能在 shrimp 的施力源頭直接對抗，讓抽腿在力學上變得不可能。",
+    "answer_line": "shrimp 的起點在髖部這條線",
+    "distractors": {
+     "plausible": ["上半身的壓力比較強", "胸口壓力能控制姿勢"],
+     "trap": ["放輕髖部壓力去追手臂"]
+    }
+   },
+   {
+    "question": "在轉換成鞏固的位置之前，應該維持 leg drag 控制多久？",
+    "answer": "leg drag 控制應該被視為一個 3 到 5 秒的過渡窗口，而不是一個可以停留固守的位置。在這段時間內，你應該積極推進到 side control、mount，或是拿下背部。停留太久會給對方機會，讓下位選手看穿你的位置、建立起他們的防禦結構，執行 frame and shrimp 逃脫。停留越久卻沒有推進，逃脫成功的機率就越高。",
+    "answer_line": "3 到 5 秒，接著推進",
+    "distractors": {
+     "plausible": ["等到對方的 frames 疲乏", "移動前先重新抓 grip"],
+     "trap": ["改為坐回去找 leg lock"]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構特徵從根本上定義了 lapel guard，並讓它有別於所有無 gi 的 open guard？",
+   "answer": "Lapel guard 的定義，是防守方抽出對方自己的一片衣領（lapel），並把布料纏繞在對方身體的某個部位——passer 的腿、手臂或軀幹——藉此建立一個由布料而非肢體對肢體接觸構成的控制點。因為這個纏繞會環繞該部位，所以會形成一個閉合迴圈，即使手上的抓握被解除，這個迴圈仍會持續作為機械式屏障，不像 collar 或 sleeve 的抓握一旦放開就會立刻消失。這讓 gi 變成一條近乎永久的繫繩，是無 gi 柔術無法複製的，這也是為什麼這個位置只存在於 gi 比賽中。這片布料實質上延伸了防守方的觸及範圍，並建立一個不依賴握力的固定錨點。",
+   "answer_line": "布料迴圈，鬆手仍在",
+   "distractors": {
+    "plausible": [
+     "深度腿部纏繞控制",
+     "遠端手臂的 overhook"
+    ],
+    "trap": [
+     "光靠握力撐住它"
+    ]
+   }
+  },
+  {
+   "question": "為什麼即使抓握的手放開了，已經建立好的 lapel 纏繞仍能持續控制該肢體？這和標準的 collar grip 有何不同？",
+   "answer": "Lapel 被穿繞在身體某部位周圍——膝窩後方、手臂上，或橫過軀幹——所以布料本身就形成一個閉合迴圈，無論是否有手主動抓著，都能困住該部位。標準的 collar grip 只在手指持續扣緊時才有控制力，一旦鬆手，控制力就完全消失。而在 lapel 纏繞中，手主要是維持張力、防止布料鬆脫回去，環繞的布料本身就能限制被困住的肢體。這種「控制」與「持續抓握出力」脫鉤的特性，正是這個位置在力學上的核心，也是為什麼要解開它必須拆解布料，而不是單純把手扳開。",
+   "answer_line": "閉合迴圈本身困住肢體",
+   "distractors": {
+    "plausible": [
+     "手部力量維持控制",
+     "光靠角度限制肢體"
+    ],
+    "trap": [
+     "只有主動抓握才有控制力"
+    ]
+   }
+  },
+  {
+   "question": "Lapel 纏繞的位置如何決定是哪一種具名的 lapel guard 變化型？",
+   "answer": "這個變化型是依 lapel 環繞的身體部位來辨識的：worm guard 把 lapel 穿過 passer 的膝窩後方以困住腿部；squid guard 則把布料纏繞在 passer 的手臂上，通常是撐地那隻手臂。Ringworm guard 則結合多重纏繞——腿部與手臂的元素一起使用——製造出重疊的屏障。每一種配置都限制不同平面的動作，腿部纏繞主要阻擋 passing 時的腳步，而手臂纏繞則干擾對方的 base 與 posting。認出纏繞位置能讓雙方都知道哪些動作被限制、哪些 passing 或進攻路線仍然開放。",
+   "answer_line": "膝=worm，臂=squid，合體=ringworm",
+   "distractors": {
+    "plausible": [
+     "抓握鬆緊看得出變化型",
+     "哪隻手餵布決定變化型"
+    ],
+    "trap": [
+     "變化型不影響 passing"
+    ]
+   }
+  },
+  {
+   "question": "Lapel guard 如何顛覆防守方與 passer 之間標準的能量消耗關係？",
+   "answer": "在大多數 open guard 中，底位的防守方要花更多力氣對抗抓握、調整髖部，而 passer 則持續施加壓力，但 lapel guard 反轉了這個情況。一旦纏繞建立起來，維持它靠的是布料迴圈與骨骼結構的對齊，而非肌肉出力，所以防守方能以極低的成本維持控制。而 passer 則必須主動解決這個布料屏障，這會消耗握力續航力並製造時間壓力。這種不對稱意味著拖長的對抗通常對防守方有利，而急著解決這個配置的一方，通常只會犯錯而不是取得進展。",
+   "answer_line": "防守方省力，passer 費力",
+   "distractors": {
+    "plausible": [
+     "passer 反而更省力",
+     "雙方消耗能量相同"
+    ],
+    "trap": [
+     "急著扯開布料以省力"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 lapel 纏繞對肌肉力量幾乎沒有反應？這對於如何處理它有什麼意涵？",
+   "answer": "因為布料是環繞著身體部位而非單純被抓住，用蠻力對抗它只會讓迴圈承受更多張力，卻不會鬆開被困的部位，布料只是把張力重新分配。硬扯想扯開它，會迅速消耗握力續航、可能扯壞 gi，而且通常無法真正解開這個配置。力學上正確的做法，是沿著原本的路徑把布料解開或餵回去，或是改變角度繞過這個屏障。這個事實形塑了整個位置的攻防邏輯：無論是建立還是拆解這個纏繞，技術性的布料處理與角度掌握都勝過蠻力，對雙方皆然。",
+   "answer_line": "解開布料，別硬扯",
+   "distractors": {
+    "plausible": [
+     "沿抓握方向用力拉",
+     "快速扯斷布料"
+    ],
+    "trap": [
+     "用最大力氣硬扯開"
+    ]
+   }
+  },
+  {
+   "question": "Lapel 配置如何破壞 pressure passing 通常仰賴的髖對髖接觸？",
+   "answer": "有效的 pressure passing 需要上位選手髖部對髖部緊貼，把重量壓進防守方的框架裡，但 lapel 纏繞會在雙方身體之間插入一段拉緊的布料，實際上阻斷了那個連接。這片布料充當一個間隔物與轉向框架，把 passer 從預定路線帶偏，阻止他把髖部對準防守方。這就是為什麼一般的 smash 或 pressure passing 對上已配置好的 lapel guard 常常會失敗——那個屏障正好卡在 passer 需要占據的空間裡。整場交手因此圍繞著這個布料屏障能否被清除，或是否必須繞道而行。",
+   "answer_line": "布料間隔阻斷髖部接觸",
+   "distractors": {
+    "plausible": [
+     "拖慢 passer 前進的腳步",
+     "削弱 passer 的 base 姿勢"
+    ],
+    "trap": [
+     "不管它，直接硬闖過去"
+    ]
+   }
+  },
+  {
+   "question": "當 lapel 配置生效時，防守方那條自由腿與髖部的靈活度扮演什麼角色？",
+   "answer": "Lapel 纏繞提供持續性的控制，但單靠它本身並不構成完整的 guard，所以那條沒有纏 lapel 的自由腿與靈活的髖部，提供了額外的防守與進攻層次。非 lapel 那條腿會形成主動的 frame，或勾住 passer 的前導腿以阻擋繞圈式的 passing，而髖部則保持朝向抓握側的角度，而不是攤平，以保留坐起或抬升的能力。這代表即使布料的抓握失去了，底層的 open guard 結構依然完整，guard retention 得以延續。把 lapel 視為主動 guard 的補強，而非取代品，正是讓這個配置維持動態、而不是變得靜態、容易被 pass 的關鍵。",
+   "answer_line": "自由腿架框，髖部保持角度",
+   "distractors": {
+    "plausible": [
+     "自由腿放鬆攤平不動",
+     "髖部打平以求貼地"
+    ],
+    "trap": [
+     "只依賴那個纏繞"
+    ]
+   }
+  },
+  {
+   "question": "Lapel guard 在實戰交手中，和相鄰的 gi guard（例如 collar-sleeve、De La Riva、spider、lasso）之間是什麼關係？",
+   "answer": "Lapel guard 很少單獨存在，而是作為一系列彼此相連的 gi guard 網絡中的一個節點，這些 guard 共享抓握與 framing 的原則。Collar-sleeve 與 De La Riva 常常是進入點，防守方從這裡抽出並餵入 lapel；而 spider（控制二頭肌）與 lasso（用一條腿纏住對方手臂）則共享控制手臂的原則，讓選手能在布料抓握受到威脅時，順勢轉換進出 lapel 纏繞。因為這些 guard 共享控制邏輯，彼此之間的轉換能維持張力與結構，而不是把交手重新歸零。最好把 lapel 配置理解成一個可以依對手反應，疊加在這些傳統 guard 上、或從中卸除的層次。",
+   "answer_line": "在相關 gi guard 間流動",
+   "distractors": {
+    "plausible": [
+     "總是重置回中立 guard",
+     "獨立運作，不靠其他 guard"
+    ],
+    "trap": [
+     "放棄 lapel 改用其他 guard"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Lapel Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

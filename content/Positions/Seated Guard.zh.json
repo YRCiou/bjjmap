@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的身體配置定義了 Seated Guard，並讓它與其他 open guard 有所區別？",
+   "answer": "Seated Guard 的定義是下位球員坐姿，髖部平貼地面，上半身挺直，雙手撐在身後形成三角支撐，雙腿伸直或彎曲朝向站立或跪姿的對手。跟 closed guard 或 butterfly guard 不同，這裡沒有任何一隻腿纏繞或勾住對手，保留了最大限度的腿部活動自由，以便管理距離。挺直的姿勢加上撐地的雙手是這個 position 的招牌特徵，因為它讓坐著的球員只差一個動作就能做 technical standup。這讓這個 position 同時具備扎根與機動性，而不是綁定在某種纏繞或勾住的狀態。",
+   "answer_line": "挺身撐手，雙腿自由",
+   "distractors": {
+    "plausible": [
+     "雙腿勾住對手的髖部",
+     "平躺，膝蓋收起"
+    ],
+    "trap": [
+     "在地上纏繞成 closed guard"
+    ]
+   }
+  },
+  {
+   "question": "為什麼雙方之間的距離是 Seated Guard 的核心戰場？",
+   "answer": "距離之所以是核心，是因為它決定了哪一方的工具能發揮作用：在有距離時，坐著球員的腳與腿能當作 frame 與探測工具，把站立球員擋在外面；一旦靠近，站立球員的胸口壓力與 grip 就會接管局面。坐著的球員要努力維持一個能讓腿去推、拉、勾的空隙，而過 guard 的一方則要努力壓縮這個空隙，直到達成胸貼胸。誰能控制交鋒的距離，誰就主導這場攻防，所以這個 position 本質上是一場對這個間距的持續協商。這也是為什麼被動的腳或不投入的進攻方式都會立刻讓出地盤。",
+   "answer_line": "距離決定誰的工具能用",
+   "distractors": {
+    "plausible": [
+     "grip 力量決定過 guard 成敗",
+     "髖部速度決定 sweep 成敗"
+    ],
+    "trap": [
+     "距離在這裡幾乎不重要"
+    ]
+   }
+  },
+  {
+   "question": "撐地的雙手在 Seated Guard 的機制中，對坐著的球員扮演什麼角色？",
+   "answer": "撐地的雙手與髖部一起組成三角支撐的後兩隻腳，讓坐著的球員擁有一個穩定卻又能移動的 base，而不是被動地往後靠。微彎的手肘就像彈簧，能吸收來襲的壓力而不至於讓球員整個人被壓垮到背部貼地。這個 base 讓坐著的球員能以髖部為軸心轉動，面向繞著他移動的對手，也能抬高髖部來產生力量或發動 standup。如果雙手撐得太窄、太寬或太靠後，這個 base 就會變弱，站立的球員就能把坐著的球員壓平或壓過去。",
+   "answer_line": "三角支撐加有彈性的手肘",
+   "distractors": {
+    "plausible": [
+     "手臂打直鎖死以求力量",
+     "雙手靠近以求速度"
+    ],
+    "trap": [
+     "往後靠，掌心貼平地面"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Seated Guard 被視為一個過渡性 position，而不是靜態的固定控制？",
+   "answer": "Seated Guard 沒有任何纏繞、勾住或 grip 能把兩位球員鎖在一起，所以任何一方都無法單純坐著不動來維持它。坐著的球員必須不斷微調髖部與雙腳，防止過 guard 的一方抓準時機上 grip 並縮短距離；而過 guard 的一方也必須不斷變換站姿與角度，避免被 sweep 或在 standup 時被反制。保持靜止會讓對方有機會校準並贏得這場交鋒，這也是為什麼持續移動是雙方共同的要求。這個 position 本質上是一個發射點，會很快解消成 standup、sweep、過 guard，或轉換成另一個 guard。",
+   "answer_line": "沒有纏繞可鎖，必須持續移動",
+   "distractors": {
+    "plausible": [
+     "hook 能把它固定住",
+     "拚 grip 就能定奪勝負"
+    ],
+    "trap": [
+     "保持靜止以控制節奏"
+    ]
+   }
+  },
+  {
+   "question": "technical standup 的威脅如何形塑 Seated Guard 中雙方的動態？",
+   "answer": "因為坐著的球員只要一個動作就能站起來，過 guard 的一方就不能貿然向前猛衝或過度投入體重，否則會冒著陷入混戰或被翻轉的風險。這種潛在的 standup 威脅迫使上位球員必須尊重坐著球員的 base，維持能壓制坐姿的 grip，並從角度而不是直線壓力去過 guard。對坐著的球員來說，隨時做好在生理與心理上都能站起來的準備，正是讓上位球員保持謹慎、進而創造破綻的原因。即使實際上從未發生 standup，這個威脅也會左右整場交鋒。",
+   "answer_line": "standup 威脅限制過 guard 一方",
+   "distractors": {
+    "plausible": [
+     "standup 威脅只有實際用到才有意義",
+     "過 guard 的一方無視 standup 風險"
+    ],
+    "trap": [
+     "過 guard 的一方可以安全衝進去"
+    ]
+   }
+  },
+  {
+   "question": "為什麼胸貼胸的壓力對下位球員來說代表 Seated Guard 的失敗點？",
+   "answer": "Seated Guard 依賴一個空隙，讓坐著球員的雙腿與 frame 能維持在兩個軀幹之間，所以一旦過 guard 的一方建立胸貼胸的接觸，這個空隙就消失了，雙腿也就無法再發揮屏障的作用。到了這個地步，坐著球員的 base 被破壞，髖部被釘住，挺直的姿勢也會朝背部方向崩解。這個 position 實質上已經結束，正確的因應方式要從繼續打 Seated Guard，轉變成用 frame 與 shrimp 去朝 half guard 或 butterfly guard 重建。這是雙方都認得出的共同門檻：到達這個門檻是過 guard 一方的目標，也是打 guard 一方的警訊。",
+   "answer_line": "空隙消失，雙腿失效",
+   "distractors": {
+    "plausible": [
+     "壓力只是需要更多 grip",
+     "髖部從這裡還能繼續控制"
+    ],
+    "trap": [
+     "繼續打 seated guard 就好"
+    ]
+   }
+  },
+  {
+   "question": "控制坐著球員的一隻腿，跟控制兩隻腿相比，會如何改變 Seated Guard 的交鋒？",
+   "answer": "只要坐著的球員至少保留一隻腿是自由的，他就仍然擁有一個能推、frame、勾，或進入像 Single Leg X 這樣纏繞的主動工具，維持進攻性與距離控制。當過 guard 的一方同時捕捉到兩隻腿，坐著的球員就會失去機動性與距離控制，讓上位球員能幾乎不受阻力地 stack、釘制或過 guard。因此坐著的球員會把雙腿當作各自獨立的系統來看待，絕不讓兩隻同時被困住，而過 guard 的一方則會專門獵取雙腿控制，以中和這個 guard。這種爭奪有幾隻腿被控制的拉鋸，正是這個 position 的定義性機制。",
+   "answer_line": "一腿自由，進攻就還活著",
+   "distractors": {
+    "plausible": [
+     "任何一隻腿被控制都會結束這個 guard",
+     "自由的腿只對逃脫有幫助"
+    ],
+    "trap": [
+     "讓兩隻腿都被控制也沒關係"
+    ]
+   }
+  },
+  {
+   "question": "Seated Guard 跟 butterfly guard、single leg X 以及站立姿勢之間有什麼關係？各自的轉換是什麼觸發的？",
+   "answer": "Seated Guard 位於 open guard 轉換的樞紐位置，因為它挺直、沒有纏繞的姿勢能乾淨俐落地連接到相鄰的 position。當對手縮短距離時，把一個 hook 插進對手大腿下方就能轉換成 butterfly guard；而對手向前跨出一隻腳則會誘發 Single Leg X 的切入。從撐地的雙手站起來則能讓坐著的球員回到站立姿勢，重新回到中立局面。共通的一點是，每一個相鄰的 position 都只差一個確定的動作，這正是為什麼 Seated Guard 是一個多用途的發射點，而不是終點站。",
+   "answer_line": "每個 guard 都只差一個動作",
+   "distractors": {
+    "plausible": [
+     "只能通往 closed guard",
+     "必須先回到坐姿"
+    ],
+    "trap": [
+     "維持坐姿以保留選項"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Seated Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的腿部結構定義了 K-Guard，並讓這個位置得名？",
+   "answer": "K-Guard 的定義是一個倒轉的內側 hook，跨過對手被困住的那條腿，下位者的膝蓋指向對手的遠側髖部，同時搭配一個主動的外側 butterfly hook，坐在髖部高度、位於對手自由那條腿之下。從側面看，交叉的內側腿與抬高的外側腿，會形成一個對角線加垂直線的「K」字形，這也是這個位置命名的由來。這種雙 hook 結構，正好位在 Deep Half Guard 與 Butterfly Guard 的交界處，困住對手其中一條腿，同時把另一條腿留作基底。這兩個朝相反方向作用的 hook，正是 K-Guard 有別於靜態 half guard 夾制的地方。",
+   "answer_line": "交叉 hook，加上抬高的外側 hook",
+   "distractors": {
+    "plausible": [
+     "兩個交叉 hook，沒有 butterfly",
+     "兩條腿都用 butterfly hook"
+    ],
+    "trap": [
+     "只有單一的 deep half hook"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 K-Guard 被視為一個動態的位置，而不是靜態的守勢結構？",
+   "answer": "這兩個 hook 會同時朝不同方向拉動：倒轉的內側 hook 把被困的腿橫向拉過中線，而 butterfly hook 則向上驅動、把身體抬高，形成持續的推拉，讓上位者永遠無法安頓下來。這種對立的力量意味著這個結構一直在累積破勢的能量，而不只是單純守住地盤。因為這兩個 hook 都不是純防守性的，其中任何一個的細微變化，都會立刻改變雙方必須應對的平衡向量。這個位置仰賴持續的角度變化與張力而存在，所以一個被動的 K-Guard 幾乎會立刻崩潰成標準的 smash pass 控制。",
+   "answer_line": "hook 持續朝相反方向拉動",
+   "distractors": {
+    "plausible": [
+     "hook 只是防守性地守住地盤",
+     "一個 hook 主動，一個休息"
+    ],
+    "trap": [
+     "把兩個 hook 都鎖死不動、等待"
+    ]
+   }
+  },
+  {
+   "question": "被困住的那條腿，如何創造出雙方都在爭奪的不對稱平衡？",
+   "answer": "上位者其中一條腿被交叉的內側 hook 與 butterfly hook 一起困住，另一條腿則保持自由、作為支撐點，讓上位者的基底分裂成可移動的一側與被固定的一側。這種不對稱使得體重無法平均分配，上位者必須不斷針對被困腿上的張力重新建立基底，而下位者則持續把這條腿橫向拉過中線，藉此瓦解被固定的那一側。因為這種失衡本就內建在整個結構之中，被困腿上的張力，正是整個位置圍繞旋轉的共用軸心。誰能掌控這股張力，誰就能決定局勢是倒向 sweep 還是倒向過關。",
+   "answer_line": "困腿分裂基底，一側撐地",
+   "distractors": {
+    "plausible": [
+     "雙腿平均承重",
+     "自由的那條腿才是弱點"
+    ],
+    "trap": [
+     "被困的腿在這裡無關緊要"
+    ]
+   }
+  },
+  {
+   "question": "頭部與脊椎的姿勢，在 K-Guard 的共同動態中扮演什麼角色？",
+   "answer": "讓頭部離開地面、肩膀保持角度，能維持一個容許髖部做圓弧動作、持續產生角度的脊椎排列。一旦脊椎壓平、頭部貼地，髖部的靈活度就會消失，而髖部的靈活度正是維持位置與破勢兩者的動力來源。因此上位者正是針對這個結構發動攻擊，透過施加肩膀壓力與 crossface 把脊椎壓平；而這個位置對下位者是否還能成立，就取決於能否防止被壓平。頭部與脊椎的姿勢因此是雙方爭奪的控制點，而不是無關緊要的細節。",
+   "answer_line": "抬頭讓脊椎保持靈活",
+   "distractors": {
+    "plausible": [
+     "低頭能保護頸部",
+     "脊椎角度只影響抓握"
+    ],
+    "trap": [
+     "把脊椎壓平以增加壓力"
+    ]
+   }
+  },
+  {
+   "question": "決定誰能在 K-Guard 交手中取勝的主要爭奪控制點有哪些？",
+   "answer": "主要的戰場是遠側髖部、內側手臂／underhook 的位置，以及兩個 hook 上的張力。掌控遠側髖部能穩住下位者，並封鎖驅動 sweep 的 hip escape，所以雙方都會爭奪它。內側手臂與 underhook 的位置，則決定了能否建立胸貼胸的接觸，而這正是把 hook 壓平的入口。因為這些控制點把上肢的 frame 與下肢的 hook 連結在一起，掌控其中一個控制點的優勢，就會擴散成對整個結構的掌控。",
+   "answer_line": "遠側髖部、內側手臂、hook 張力",
+   "distractors": {
+    "plausible": [
+     "只有腳踝抓握與遠側腳掌",
+     "衣領控制與上方手腕抓握"
+    ],
+    "trap": [
+     "頸部控制才是決定交手勝負的關鍵"
+    ]
+   }
+  },
+  {
+   "question": "上肢 frame 與下肢 hook 之間的推拉協調，如何放大破勢的效果？",
+   "answer": "K-Guard 把上肢 frame 的推力，和下肢 hook 同時進行的拉力連結在一起，讓力量沿著兩個向量同時施加在對手身上。當 frame 把胸口或肩膀往一個方向推，而倒轉的 hook 同時把被困的腿往相反方向拉時，對手的基底會被扭轉，而不只是單純被加壓，這放大了破勢的效果。這兩套系統一旦脫節，就會出現讓對手過關或重新建立基底的空隙，所以整個機制仰賴兩者的同步。這種協調一致的推拉，正是為什麼一個時機抓得準的 K-Guard，能用相對不費力的方式，撼動一個體重更重的對手。",
+   "answer_line": "frame 推，hook 反方向拉",
+   "distractors": {
+    "plausible": [
+     "frame 與 hook 一起向同方向推",
+     "hook 拉，frame 保持被動"
+    ],
+    "trap": [
+     "讓 frame 與 hook 脫節"
+    ]
+   }
+  },
+  {
+   "question": "K-Guard 與像 Z-Guard 這類以 knee shield 為主的 half guard 有什麼不同？",
+   "answer": "像 Z-Guard 這類 knee shield 變化，是把小腿或膝蓋橫放在對手軀幹上，作為一道維持距離的剛性 frame，功能主要是靜態屏障。K-Guard 則是把一個倒轉的 hook 穿到被困腿的下方與內側，用主動的腿部纏繞取代了那道 framing 屏障，帶來拉動與抬升的效果。knee shield 是靠阻擋向前的壓力來防守，而 K-Guard 的 hook 則是把那股壓力導向 sweep 與破勢的軌跡來防守。這讓 K-Guard 在進攻上更具份量，但也比相對穩定的 knee-shield 結構更仰賴持續的張力。",
+   "answer_line": "主動 hook 拉動，而非剛性 frame",
+   "distractors": {
+    "plausible": [
+     "兩者都用靜態 knee-shield frame",
+     "K-Guard 阻擋，Z-Guard 導引"
+    ],
+    "trap": [
+     "K-Guard 像 Z-Guard 一樣純防守"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 K-Guard 往往會把交手導向像 X-Guard 與 Single Leg X 這類 leg entanglement 位置？",
+   "answer": "因為 butterfly hook 早已位於對手自由那條腿的下方，而倒轉的 hook 則控制著被困的那條腿，這個位置只差一個腿部線的調整，就能進入完整的 entanglement。當上位者後退或試圖抽出被困的腿時，那個動作會直接把下位者的髖部送到對手身下，而這正是進入 X-Guard 與 Single Leg X 所需的入口幾何角度。反過來，如果向前的壓力把空間壓縮掉，同樣的 hook 連結則會導向 Deep Half Guard。因此 K-Guard 的功能更像是一個過渡樞紐，其 hook 結構會自然延續到鄰近的鎖腿與抬升類位置，而不是獨立存在。",
+   "answer_line": "hook 早已在自由腿下方",
+   "distractors": {
+    "plausible": [
+     "只會通往 deep half guard",
+     "必須先放開 hook"
+    ],
+    "trap": [
+     "站起來重置交手"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/K-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

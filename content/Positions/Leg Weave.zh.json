@@ -1,0 +1,83 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置定義了 leg weave，並使其有別於一般的 half guard 交鋒？",
+   "answer": "Leg weave 是一種 half guard 過人的控制方式，上位者把靠近膝蓋那側的腿穿插進下位者的雙腿之間，讓交織的小腿或膝蓋跨過下位者的髖線或大腿。這種穿插會將下位者的小腿釘住，使其無法重新建立 knee shield、butterfly hooks 或做 frame 的腿。與雙方腿部連結保持平衡的中立 half guard 不同，leg weave 會製造出不對稱的纏腿，機制上對過人的一方有利。這個位置本質上是過渡性的，是 guard 交戰與完成過人之間的一個控制檢查點，而不是一個可以安穩停留的狀態。",
+   "answer_line": "膝蓋穿過下位者的髖線",
+   "distractors": {
+    "plausible": ["雙腿均衡地纏繞", "上位的腿只從外側勾住"],
+    "trap": ["下位者的腿纏住上位者的腰"]
+   }
+  },
+  {
+   "question": "為什麼被穿插那條腿的深度，是決定誰控制這個位置的最關鍵變數？",
+   "answer": "只有當上位者的膝蓋穿透超過下位者的髖線時，這個 weave 才會真正破壞下位者的防守結構，因此深度決定了這條腿究竟是控制點還是弱點。深入的 weave 會釘住下位者的腿，並阻止其重新建立 knee shield，將這種不對稱優勢鎖定在過人者這一方。淺層的 weave 則會留下空間，讓下位者能夠恢復 hooks、用膝蓋做 frame，或攻擊暴露的腿。由於深度是這場交鋒的支點，雙方會持續為此爭奪：過人者努力加深，下位者則靠頂髖來讓它變淺。",
+   "answer_line": "深度決定誰掌握控制",
+   "distractors": {
+    "plausible": ["握力比較重要", "單靠上半身就能決定"],
+    "trap": ["淺層 weave 就能鎖死過人"]
+   }
+  },
+  {
+   "question": "維持 leg weave 的三個接觸點之間，重量與壓力是如何分配的？",
+   "answer": "控制建立在三個共同運作的接觸點上：纏繞的那條腿固定住下位者的腿、在外側支撐的那條腿提供 base，以及透過胸部、肩膀與抓握建立的上半身連結。有效的壓力來自骨架結構與壓低的髖部，而不是靠肌肉硬推，讓體重透過胸部沉入下位者的軀幹。若把太多重量壓在纏繞的那條腿上，base 就會崩潰，並招來 sweep，因此重量必須分散在腿、base 與雙手之間。正是這種結構性的重量分配，讓上位者能夠放鬆地壓制，而下位者則必須承受這股重量並設法逃脫。",
+   "answer_line": "重量分散：腿、base、胸",
+   "distractors": {
+    "plausible": ["把重量都壓在纏繞的腿上", "靠手臂往下推"],
+    "trap": ["把全部重量堆在勾住的那條腿上"]
+   }
+  },
+  {
+   "question": "除了穿腿本身之外，上半身控制在 leg weave 中扮演什麼角色？",
+   "answer": "穿腿只處理了下半身，因此若沒有上半身的連結，下位者仍能坐起、做 frame，或創造出恢復 guard 所需要的角度。crossface、underhook、collar tie 或抓領口，能把下位者的肩膀壓平，阻止他們撐起手肘。這種上半身控制，正是把纏腿轉化為真正壓平壓力的關鍵，封閉了下位者用來 shrimp 或重新做 frame 所需要的空間。因此在肩線與頸部的 frame 爭奪，與腿部的深度同樣是決定這個位置能否維持的關鍵因素。",
+   "answer_line": "crossface 壓平，阻止坐起",
+   "distractors": {
+    "plausible": ["光靠穿腿就能壓平對方", "抓遠側的腿來壓平"],
+    "trap": ["放開上半身以騰出雙手"]
+   }
+  },
+  {
+   "question": "哪些 frame 與連結是決定這個位置維持鎖死或瓦解的關鍵爭奪點？",
+   "answer": "這場交鋒取決於彼此競爭的 frame：下位者爭取用前臂頂住頸部或肩膀，加上一手頂住髖部，以阻止被壓平與旋轉；上位者則爭取取得 crossface 或 underhook 來破解這些 frame。靠近身側的 underhook 特別關鍵，因為誰贏得它，誰就掌握了上半身連結與施壓的角度。下位者遠側的 half guard hook，是唯一還保留的腿部連結，能防止立即被過人，因此雙方都會以同等的強度來防守與攻擊它。這個位置的控制，本質上就是這些同時進行的 frame 與 hook 爭奪所加總出來的結果。",
+   "answer_line": "underhook 爭奪決定控制權",
+   "distractors": {
+    "plausible": ["抓腳踝就能決定控制", "collar tie 勝過所有其他 frame"],
+    "trap": ["忽略 hook，直接追求 submission"]
+   }
+  },
+  {
+   "question": "為什麼 leg weave 會製造出一個過人上的兩難，而不是單一的進攻路線？這如何塑造雙方的決策？",
+   "answer": "由於 weave 固定住了下位者的腿，同時解放了上位者外側的腿與抓握，因此同時打開了好幾條過人路線：靠近側的 knee slice、若下位者轉身則可用 leg drag，若他們被壓平則可用 smash 或 over-under。防守其中一個威脅，必然會打開另一個，因此下位者無法全力防守單一威脅而不讓出其他路線。這迫使這個位置必須保持動態，過人者會串連多個威脅，避免下位者能安穩地固定在某一種防守姿態上。雙方共同的動態是：拖延對過人者有利，因此雙方都被迫持續做出反應與應對。",
+   "answer_line": "被釘住的腿打開多條過人路線",
+   "distractors": {
+    "plausible": ["只有 knee slice 這一個選項", "weave 只逼出單一防守"],
+    "trap": ["全力固守單一過人路線"]
+   }
+  },
+  {
+   "question": "leg weave 與交鋒兩側相鄰的位置之間，有著什麼樣的關聯與轉換？",
+   "answer": "Leg weave 位於 half guard 的下游，通常是上位者在過人過程中穿插而形成，並且是 side control 的上游，也是過人者主要的完成目標。若下位者重新做 frame 並頂髖，就能恢復成 knee shield half guard；若在正面壓力下潛入，則會進入 deep half guard；若靠手肘撐起，則會進入 dogfight。它與 headquarters position 共享相同的壓制過人邏輯，並且在下位者轉身時，可以流動進入 leg drag control。將它理解為一個分支節點，而不是終點，正是雙方能夠預判這場交鋒最終會走向何處的關鍵。",
+   "answer_line": "連結 half guard 與 side control",
+   "distractors": {
+    "plausible": ["是終點位置，沒有轉換", "只會直接導向 mount"],
+    "trap": ["總是會重置回 closed guard"]
+   }
+  },
+  {
+   "question": "是什麼讓 leg weave 本質上是個不穩定、時效有限的位置，而不是一個能安穩停留的地方？",
+   "answer": "這種不對稱的纏腿與持續的 frame 爭奪，代表這個結構一直在朝過人或逃脫的方向發展，而不是靜止地維持不變。若過人者停滯不前，就會消耗這個位置優勢，因為下位者會利用任何靜止的空檔重新做 frame 並恢復 guard；而下位者的保留能力與體力，則會在持續的壓力下迅速耗盡。雙方在髖部、frame 與重量上都必須不斷做出微調，因此任何一方都無法凍結不動。這種過渡性質是它的核心特徵：leg weave 是一個以秒計算的過人檢查點，而不是一個打算長期維持的控制位置。",
+   "answer_line": "一直在變化，從未安定",
+   "distractors": {
+    "plausible": ["是打算長期維持的穩定位置", "停留越久越有利"],
+    "trap": ["原地不動以保存體力"]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Leg Weave.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

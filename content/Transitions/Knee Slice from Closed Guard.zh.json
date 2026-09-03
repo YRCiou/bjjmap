@@ -1,0 +1,235 @@
+{
+ "_meta": { "source": "content/Transitions/Knee Slice from Closed Guard.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "打開 closed guard 之後,啟動 knee slice 的最佳時機是什麼？",
+    "answer": "knee slice 應該在腳踝分開的瞬間就立刻啟動,在 guard 打開後的一到兩秒內。任何延遲都會讓底位選手有機會建立其他 guard,例如 butterfly guard、spider guard 或 De La Riva Guard。從破 guard 到插膝蓋的轉換應該事先規劃好,做到無縫銜接,是一個連續的動作,而不是中間有停頓的兩個分開動作。",
+    "answer_line": "立即行動,1 到 2 秒內完成",
+    "distractors": {
+     "plausible": [
+      "等他們建立新的 guard 後",
+      "先站穩幾口氣再說"
+     ],
+     "trap": [
+      "把頭壓低在 guard 裡拖時間"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試從 closed guard 做 knee slice 之前,必須具備哪些條件？",
+    "answer": "必須符合四個條件:建立好姿勢,脊椎打直,頭部在髖部上方;guard 已經打開或正在打開,腳踝分開;主導手放在能控制對手遠側髖部,或在下巴建立 crossface 的位置;以及建立好底盤,撐地的那隻腳準備好把體重透過 knee slice 往前傳導。任何一個條件缺失,都會大幅降低成功率。",
+    "answer_line": "姿勢、guard 開、抓髖、底盤",
+    "distractors": {
+     "plausible": [
+      "只要姿勢和 guard 打開就好",
+      "只要抓髖和底盤就好"
+     ],
+     "trap": [
+      "急著做 slice,跳過姿勢"
+     ]
+    }
+   },
+   {
+    "question": "執行 knee slice 時,關鍵的髖部位置是什麼？",
+    "answer": "在做 knee slice 時,你的髖部必須保持低且沉重,以斜角方向壓過對手的大腿。如果髖部抬得太高,底位選手可以在下方插入 knee shield 或 butterfly hook,把整個 pass 完全擋下來。髖部要同時往前並往下發力,維持脛骨對大腿持續的壓力,不給底位選手任何建立防守結構的空間。",
+    "answer_line": "低、沉、斜角施力",
+    "distractors": {
+     "plausible": [
+      "髖部擺正,直直往前推",
+      "身體站直以保持底盤"
+     ],
+     "trap": [
+      "跳過去,直接落入他們的 butterfly hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在完成 knee slice 之前,crossface 控制是必要的？",
+    "answer": "crossface 把對手的頭轉開,讓他們無法面向你做 pass 防守。沒有 crossface 控制,底位選手可以轉身面向你,在近側建立 underhook,然後要嘛恢復完整的 guard,要嘛從 half guard bottom 發動 sweep。crossface 的肩部壓力也會把底位選手壓平在背部,消除他們用於 sweep 和 guard 恢復所需要的髖部活動能力。",
+    "answer_line": "擋轉身,壓平背部",
+    "distractors": {
+     "plausible": [
+      "只是用來控制遠側髖部",
+      "只有在收尾時才需要"
+     ],
+     "trap": [
+      "跳過它,直接搶 underhook"
+     ]
+    }
+   },
+   {
+    "question": "在 knee slice 的轉換過程中,你的主導手應該維持什麼樣的 grip？",
+    "answer": "你的主導手應該控制對手遠側的髖部,把它釘在地墊上或擋住 hip escape。這個 grip 可以防止對手 shrimp 拉開距離、轉身跟你搶 underhook,或是恢復到更好的 guard 位置。在 gi 中,抓皮帶或褲頭在髖部的位置能提供極佳的控制。在 no-gi 中,用手掌扣住遠側髖骨,或用 underhook 勾住遠側大腿,也能達到類似的位置控制效果。",
+    "answer_line": "釘住遠側髖部,擋住逃脫",
+    "distractors": {
+     "plausible": [
+      "改抓近側髖部",
+      "雙手都放在對手上方那隻膝蓋"
+     ],
+     "trap": [
+      "雙手撐在地墊上"
+     ]
+    }
+   },
+   {
+    "question": "對手插入 knee shield 擋住你的 knee slice,你該如何調整？",
+    "answer": "不要硬把膝蓋擠過強力的 knee shield。改採 smash pass 的方式,用胸口的重量壓進他們的 knee shield,同時旋轉髖部,把 shield 那條腿壓平貼在他們身上。另外也可以往反方向 backstep,轉成 reverse half guard pass,或是稍微脫離,從 headquarters position 重新以不同角度切入,例如 long step 或 toreando pass。",
+    "answer_line": "改用 smash pass 或 backstep",
+    "distractors": {
+     "plausible": [
+      "把他們的 knee shield 往下拉",
+      "等他們體力耗盡"
+     ],
+     "trap": [
+      "硬拼力量結果被抬起來"
+     ]
+    }
+   },
+   {
+    "question": "knee 滑過大腿時,正確的施力方向是什麼？",
+    "answer": "施力方向是斜角,從近側髖部朝遠側肩膀方向,大約呈四十五度。這個角度非常關鍵,因為直直往前推會讓底位選手能直接用 frame 對抗你的動能,拖住整個 pass。斜角能滑過對手的防守結構,製造出讓膝蓋能跨過中線、完成到 half guard top 的通道。",
+    "answer_line": "斜角,朝遠側肩膀方向",
+    "distractors": {
+     "plausible": [
+      "朝近側肩膀方向",
+      "直直往下壓過髖部"
+     ],
+     "trap": [
+      "低頭往前硬衝"
+     ]
+    }
+   },
+   {
+    "question": "當你開始做 knee slice 時,對手把手撐在你的髖部上,你該如何回應？",
+    "answer": "立刻處理這個 frame,而不是試圖硬拼過去。把你的手臂游到他們 frame 的內側,在手肘處把它壓垮,或是移動你的角度,離開他們的中線,讓那個 frame 在結構上失去支撐力。另外也可以用你的胸口重量,把他們做 frame 的那隻手肘釘在他們身體上,等 frame 被中和之後再繼續 knee slice。硬拼過一個強力的 frame 只會浪費體力,還會給對手 shrimp 的槓桿機會。",
+    "answer_line": "先破 frame,再做 slice",
+    "distractors": {
+     "plausible": [
+      "直接切過去,frame 之後再處理",
+      "朝他們的中線調整角度"
+     ],
+     "trap": [
+      "雙手撐地硬衝過去"
+     ]
+    }
+   },
+   {
+    "question": "如果一開始的 knee slice 在 half guard 卡住了,有哪些連鎖攻擊可以用？",
+    "answer": "在 knee slice 卡住之後,從 half guard top 可以串接到 crossface pressure pass、underhook pass、backstep pass,或是如果對手轉身面向你,就切換成 darce choke。你也可以退回 headquarters position,再用不同的 pass 重新切入,例如 toreando 或 long step。關鍵原則是根據對手的防守反應來選擇你的下一步攻擊,而不是反覆硬拼同一招。",
+    "answer_line": "Crossface、underhook 或 darce",
+    "distractors": {
+     "plausible": [
+      "重複同一個 knee slice",
+      "站起來完全脫離"
+     ],
+     "trap": [
+      "放棄 underhook,硬磨下去"
+     ]
+    }
+   },
+   {
+    "question": "knee slice 從 closed guard 失敗最常見的原因是什麼？",
+    "answer": "最常見的失敗點是在 guard 還沒完全打開之前就嘗試 knee slice。當腳踝還部分鎖住,或底位選手的雙腿還維持任何連結時,膝蓋就沒有足夠的空間穿過大腿線。這種過早的嘗試會破壞你的姿勢,讓上位選手在沒有適當底盤的情況下往前傾,暴露在 triangle 和 armbar 的攻擊之下。務必確保腳踝完全分開,並主動控制對手的腿,才能投入做 slice。",
+    "answer_line": "guard 還沒開就硬做",
+    "distractors": {
+     "plausible": [
+      "抓髖的手勢不對",
+      "施力時髖部太低"
+     ],
+     "trap": [
+      "把頭埋低在對手的 guard 裡"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在嘗試從 closed guard 做 knee slice,最早出現的辨識線索是什麼？",
+    "answer": "最早的線索包括:對手強力站起姿勢,雙手壓在你的髖部上;他們的重心開始移向一側,前導膝蓋朝你的大腿線傾斜;以及他們的肩膀開始朝你的下巴推進,準備建立 crossface。你也可能感覺到他們在解開你腳踝鎖之後,把你近側的膝蓋往下壓住,並且撐地的那隻腳重新調整到身後位置,以產生往前推進的力量。",
+    "answer_line": "強力站姿,壓髖部",
+    "distractors": {
+     "plausible": [
+      "他們把你的頭往下拉",
+      "他們的髖部往後滑"
+     ],
+     "trap": [
+      "等到他們的膝蓋跨過去再說"
+     ]
+    }
+   },
+   {
+    "question": "在對方嘗試 knee slice 的過程中,重新鎖回 guard 的最佳時機是什麼？",
+    "answer": "應該在對手的膝蓋跨過你大腿中線之前重新鎖回 guard。一旦膝蓋越過大腿的中點,由於他們脛骨形成的結構性阻擋,重新鎖回幾乎不可能。最佳時機是在破 guard 的當下,那時對手的注意力同時分散在打開 guard 和準備插膝蓋兩件事上。用主動的雙腿對抗腳踝分開的動作,並在對方的 grip 力量減弱時立刻重新鎖住。",
+    "answer_line": "在膝蓋跨過大腿之前",
+    "distractors": {
+     "plausible": [
+      "在 pass 完成之前任何時候",
+      "在 crossface 建立之後"
+     ],
+     "trap": [
+      "等膝蓋完全跨過去再說"
+     ]
+    }
+   },
+   {
+    "question": "在 knee slice 轉換過程中嘗試 underhook sweep,主要的風險是什麼？",
+    "answer": "主要的風險是,一旦 underhook sweep 失敗,你的身體會轉向對手,並失去你的 frame,這會讓對手更容易建立 crossface 控制並把你壓平。失敗的 sweep 嘗試實際上會加速被 pass,因為你等於是移除了自己的防守屏障,並且轉身迎向壓力,而不是遠離它。只有在時機明顯有利的時候,才應該投入做 sweep。",
+    "answer_line": "讓你轉身,毀掉你的 frame",
+    "distractors": {
+     "plausible": [
+      "會失去你的袖口 grip",
+      "會消耗雙腿的體力留給後面"
+     ],
+     "trap": [
+      "風險很低,每次都可以做 sweep"
+     ]
+    }
+   },
+   {
+    "question": "要防守 knee slice,你的內側膝蓋應該如何定位？",
+    "answer": "把你內側的膝蓋當作 shield 插入,橫貫過對手的髖線,在你的脛骨與他們的軀幹之間建立一道結構性的 frame。這個 knee shield 必須在對方的膝蓋跨過你的大腿之前就建立好,並應該稍微朝外傾斜,把他們前推的壓力導向偏離你的中線。knee shield 建立起一道屏障,對手的膝蓋若不先透過 smash 或繞步處理這道 frame,就無法跨過去。",
+    "answer_line": "shield 膝蓋橫貫對方髖部",
+    "distractors": {
+     "plausible": [
+      "膝蓋朝正上方",
+      "膝蓋收在自己的髖部下方"
+     ],
+     "trap": [
+      "把膝蓋壓平貼地"
+     ]
+    }
+   },
+   {
+    "question": "如果 crossface 已經被建立了,你應該優先採取什麼防守選項？",
+    "answer": "如果 crossface 已經建立,應該優先做 hip escape 和 guard 恢復,而不是硬拼搶 underhook。用雙手對抗對手做 crossface 的那個肩膀建立 frame,執行一個有力的 hip escape 遠離他們,並努力插入 knee shield 或透過雙腿的纏鬥恢復 guard。在已經被 crossface 控制的情況下還硬拼搶 underhook,通常只會讓你的處境更糟,因為 crossface 已經控制了你頭部與軀幹的轉動。",
+    "answer_line": "Hip escape 優先於硬拼 underhook",
+    "distractors": {
+     "plausible": [
+      "拼命搶 underhook",
+      "立刻 bridge 並翻滾"
+     ],
+     "trap": [
+      "頂進他們的 crossface"
+     ]
+    }
+   },
+   {
+    "question": "防守 knee slice 時,為什麼躺平在背上是很危險的？",
+    "answer": "躺平會消除你的髖部活動能力,而這正是你製造角度與執行 hip escape 最主要的防守工具。沒有 shrimp 或製造角度的能力,你就會變成一個靜止的目標,讓 pass 的一方可以有條不紊地繞過你。躺平的姿勢也會削弱你的 frame,因為有效的肩部對抗需要旋轉的空間,而且這也會給上位選手最大的胸壓面積,讓他們能把你釘住並完成 pass。",
+    "answer_line": "消除髖部活動,無法逃脫",
+    "distractors": {
+     "plausible": [
+      "只是會讓手臂比較累",
+      "只會限制你的 grip 對抗"
+     ],
+     "trap": [
+      "躺平沒關係,frame 用力做就好"
+     ]
+    }
+   }
+  ]
+ }
+}

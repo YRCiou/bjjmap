@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "要讓某個架式被視為 Vaporizer，而不只是普通的 lockdown 半 guard，必須具備哪些結構要素？",
+   "answer": "Vaporizer 需要三個互相依存的要素同時運作：一個深鎖的 lockdown figure-four 困住上位者的一條腿、透過 underhook 或 overhook 建立的上半身連結，以及一個主動的 whip-up 動作，把下位者的髖部往前上方驅動。單靠 lockdown 只是拖延性的半 guard；加上堅定的上半身控制與動態的髖部驅動，才會把它轉變成 Vaporizer。拿掉其中任何一項，這個位置就會退化回中性的 lockdown 交鋒。它本質上是一個動態、破勢的狀態，而不是一個靜態的控制。",
+   "answer_line": "Lockdown、underhook、whip-up 動作",
+   "distractors": {
+    "plausible": [
+     "只靠 lockdown 加上紮實的 base",
+     "Underhook 加上重壓的 top pressure"
+    ],
+    "trap": [
+     "單靠 lockdown 就是 Vaporizer"
+    ]
+   }
+  },
+  {
+   "question": "Lockdown figure-four 如何對被困的腿建立控制，讓雙方都必須應對？",
+   "answer": "下位者用雙腿三角纏繞上位者被困的那條腿，把上位腳勾在自己下方那條腿後面，形成 figure-four。同時伸展雙腿會把被困的腿拉離上位者的中線，讓對方無法收回膝蓋重建 base。這個伸腿動作是整個位置的機械支點，因為它剝奪了上位者把髖部擺正或向前施壓的能力。對上位者來說，正是同一個 figure-four 把他的腿釘死，逼得任何逃脫都必須先處理這個鎖，才有機會做其他事。",
+   "answer_line": "三角纏腿，伸展被困的腿",
+   "distractors": {
+    "plausible": [
+     "用力夾緊膝蓋",
+     "把腳勾在小腿前方"
+    ],
+    "trap": [
+     "放開腿以重置 lockdown"
+    ]
+   }
+  },
+  {
+   "question": "什麼是 whip-up 動作？為什麼它是 Vaporizer 的核心動態？",
+   "answer": "Whip-up 是一個由髖部主導的動作：下位者把髖部向前上方推向上位者的胸口，同時用 lockdown 伸展被困的腿。這會形成一個槓桿，把上位者的體重向前上方抬起並旋轉，破壞他撐地的 base。因為這個動作是有節奏、可重複的，而不是單次的爆發，它會持續破壞上位者的平衡，逼他不斷做出反應性的選擇。它是把靜態的 lockdown 轉變成破勢威脅的引擎，這也是為什麼這個位置的成敗取決於髖部驅動的品質，而不是手臂力量。",
+   "answer_line": "髖部上推，槓桿破壞 base",
+   "distractors": {
+    "plausible": [
+     "用手臂拉，髖部保持被動",
+     "單一次爆發性的髖部一頂"
+    ],
+    "trap": [
+     "用手推，忽略髖部驅動"
+    ]
+   }
+  },
+  {
+   "question": "為什麼上半身的 underhook 或 overhook 是這個位置不可或缺的一環，而不是可有可無？",
+   "answer": "上半身的連結是阻止上位者把 posture 挺直、悠哉地清掉 lockdown 的關鍵。抓住對側肩膀或背闊肌的 underhook 能讓下位者把上位者的軀幹往下、往前拉進 whip-up 裡，把腿的槓桿和上半身連結起來，同時控制對手的兩端。沒有它，上位者可以撐開雙手、保持胸口抬高，靠硬撐腿部的壓力直到脫身。這兩個控制點會製造出上位者無法同時應付的對抗力量，這正是這個位置能製造兩難局面的根源。",
+   "answer_line": "Underhook 防止對手挺直 posture",
+   "distractors": {
+    "plausible": [
+     "只會擋住他的手臂防守",
+     "增加額外的降伏終結技"
+    ],
+    "trap": [
+     "只要 lockdown 夠緊就可有可無"
+    ]
+   }
+  },
+  {
+   "question": "當 Vaporizer 正在運作時，上位者的體重與平衡會被逼到什麼狀態？",
+   "answer": "上位者被卡在穩固的 combat base 和被翻滾到側身之間，體重被向前推到雙手上，並被 whip-up 橫向牽動。他被困的那條腿處於伸展狀態、無法撐地，因此失去了原本用來拓寬與穩定重心的兩個支撐點之一。這個不穩定的中間狀態是刻意造成的：它讓上位者持續處於被動反應、無法把體重集中投入任何單一方向的狀態。一旦他真正建立起夠寬、夠低、對稱的 base，這個位置的槓桿就會瓦解，這正是上位者努力追求、而下位者極力阻止的目標。",
+   "answer_line": "不穩定的中間狀態，體重壓在手上",
+   "distractors": {
+    "plausible": [
+     "整個人被翻平躺到背上",
+     "穩固、低且對稱的 base"
+    ],
+    "trap": [
+     "base 完全不受影響，依然穩固"
+    ]
+   }
+  },
+  {
+   "question": "Vaporizer 如何製造出「同時威脅」的兩難局面，讓不論你打哪一邊都很危險？",
+   "answer": "Lockdown 腿部控制與上半身連結的結合，意味著上位者的每一個防守反應都會打開另一個破口。如果他伸手去阻止翻滾，就會暴露出 Old School Sweep；如果他保持沉重、壓低身體，就會招來 Electric Chair 的分腿；如果他試圖把腿抽出來、掙扎脫身，就會暴露出 Truck 的進入點。因為這些反應彼此互斥，沒有單一的防守姿態能同時應付這三種威脅。這種分支結構是雙方都必須理解的位置共通特性，而不是只屬於某一方的選單。",
+   "answer_line": "每個防守都會打開另一個破口",
+   "distractors": {
+    "plausible": [
+     "只要 posture 就能防住一切",
+     "保持沉重就能防住全部"
+    ],
+    "trap": [
+     "把腿抽出來就能擋住所有威脅"
+    ]
+   }
+  },
+  {
+   "question": "Vaporizer 在機制上與標準的下位半 guard 或 deep half guard 有什麼不同？",
+   "answer": "標準半 guard 著重距離管理、frame 以及膝盾（knee-shield）空間，以阻止對手 pass；deep half guard 則是滑到對手下方去攻擊他的 base。Vaporizer 則是選擇極度貼近，用腿加軀幹的槓桿主動破勢，而不只是單純的持有或拖延。當那些 guard 在追求空間或下方角度時，Vaporizer 消除空間，把對手的體重向前上方驅動。這使它成為一種進攻性的控制狀態，目的是逼對手做出反應，而不是一種求生存、待恢復的防禦性保持姿態。",
+   "answer_line": "貼身槓桿，而非空間或 frame",
+   "distractors": {
+    "plausible": [
+     "像 guard 一樣靠 frame 和距離",
+     "像 deep half 一樣靠下方角度"
+    ],
+    "trap": [
+     "跟標準的 framing guard 一樣"
+    ]
+   }
+  },
+  {
+   "question": "為什麼緊貼、胸對身的近距離是維持 Vaporizer 不可妥協的條件？",
+   "answer": "貼近才能讓 lockdown 的槓桿與上半身連結保持張力；只要出現一絲空隙，上位者就能挺直 posture、收回被困的膝蓋，開始清除 figure-four。下位者必須靠 underhook 保持緊貼，把胸口拉向對手的側身，讓 whip-up 有施力的對象。距離會把這個位置的對抗力量轉變成鬆弛，而鬆弛正是上位者重建 base、完成 pass 所需要的空間。正因如此，雙方都把爭奪那一吋距離視為真正的較量，因為它決定了這個槓桿是否還「活著」。",
+   "answer_line": "距離會製造可逃脫的鬆弛",
+   "distractors": {
+    "plausible": [
+     "空間有助於產生髖部力量",
+     "距離能改善 whip-up 角度"
+    ],
+    "trap": [
+     "放點空間好重新抓 grip"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Vaporizer.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

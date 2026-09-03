@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在這個過人技術中，long step 的主要目的是什麼？",
+    "answer": "Long step 藉由把你的膝蓋跨過對手的髖線，繞過對手的 guard 結構，製造出過人角度。這個角度讓對手極難插入防守性的 frame 或恢復 guard。它也讓你的重心承諾向前，並建立起整個技術過程中會維持的過人角度。",
+    "distractors": {
+     "plausible": [
+      "快速穿過他們的 guard frame",
+      "先卸掉雙邊褲管抓握"
+     ],
+     "trap": [
+      "站直，讓對方 lasso"
+     ]
+    },
+    "answer_line": "膝蓋過髖，製造角度"
+   },
+   {
+    "question": "為什麼 crossface 壓力對 long step pass 的成功如此關鍵？",
+    "answer": "Crossface 壓力控制對手的頭部，阻止他們轉向你，這樣就斷絕了 guard 恢復的可能。它也會製造相當的不適感，促使對方做出防守反應而非進攻性的 guard 保持。最後，它有助於維持你的胸對胸壓力，這對防止對方製造空間與嘗試恢復 guard 至關重要。",
+    "distractors": {
+     "plausible": [
+      "空出一隻手做 choke",
+      "製造空間換髖"
+     ],
+     "trap": [
+      "為了追 crossface 而忽略髖部"
+     ]
+    },
+    "answer_line": "控制頭部，阻止轉身"
+   },
+   {
+    "question": "當對手做出 knee shield 時，你應該如何調整 long step pass？",
+    "answer": "面對 knee shield，立刻轉換成 knee slice pass，用你的 underhook 把他們壓平，同時把膝蓋頂穿過 shield。你也可以退一步，改用像 toreando pass 這樣不同的過人方式。關鍵是及早辨識出 knee shield 並做出調整，而不是硬要維持原本的過人角度。",
+    "distractors": {
+     "plausible": [
+      "純靠體重硬推過去",
+      "改抓遠邊 collar"
+     ],
+     "trap": [
+      "坐回對方 guard 裡"
+     ]
+    },
+    "answer_line": "轉換成 knee slice pass"
+   },
+   {
+    "question": "在 gi 和 no-gi 中執行 long step pass 有哪些關鍵差異？",
+    "answer": "在 no-gi 中，抓握配置從褲管和腰帶抓握，轉變為控制頭部、髖部和手腕。力學原理維持不變，但在沒有 gi 摩擦力輔助控制的情況下，施壓變得更加關鍵。Underhook 和 overhook 取代 collar 抓握，你必須更留意維持持續的接觸，因為抓握本身較不可靠。由於摩擦力較小，no-gi 中的過人通常會發生得更快。",
+    "answer_line": "Underhook 取代 collar 抓握",
+    "distractors": {
+     "plausible": [
+      "抓握相同，只是更緊",
+      "速度取代壓力"
+     ],
+     "trap": [
+      "追抓握，丟掉胸口接觸"
+     ]
+    }
+   },
+   {
+    "question": "Long step pass 如何連結到更廣泛的壓力過人系統？",
+    "answer": "Long step pass 是壓力過人的基礎，因為它訓練了距離控制、向前壓力，以及製造過人角度的策略性跨步。它與 knee slice pass、over-under pass 和 smash pass 無縫銜接，讓 passer 能依對手的防守反應在不同技術間流暢切換。它所培養的技能——特別是 crossface 壓力和腿部控制——能直接轉移到所有其他以壓力為主的過人方式。",
+    "distractors": {
+     "plausible": [
+      "從上位訓練 submission",
+      "取代 knee slice 的入門"
+     ],
+     "trap": [
+      "切換時放掉 crossface"
+     ]
+    },
+    "answer_line": "建立 crossface 與腿部控制"
+   },
+   {
+    "question": "執行 long step 時，你的重心分配應該是什麼樣子？",
+    "answer": "在 long step 過程中，你的重心應該主要向前分配在前腳上，胸口向下驅向對手的胸口。髖部應該維持低而機動，重心站姿要夠寬，以防被翻滾或掃倒。重心的承諾應該完全且向前，同時維持足夠的重心站姿，以防被 guard 保持的嘗試破壞平衡。",
+    "answer_line": "重心前壓在前腳，髖部放低",
+    "distractors": {
+     "plausible": [
+      "重心平均分配，髖部抬高",
+      "重心後移以求安全"
+     ],
+     "trap": [
+      "重心站姿窄，以求最快速度"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 long step 到 side control 鞏固的過程要維持持續動作，不能中斷？",
+    "answer": "過人過程中的任何暫停或猶豫，都會讓對手有機會插入 frame、製造空間或恢復 guard。這個過人動作應該是一個流暢的過程，因為對手最好的防守機會恰恰出現在位置轉換的瞬間。持續的壓力與動作能阻止對手建立防守結構，並迫使他們陷入越來越不利的位置，直到過人完成。",
+    "answer_line": "暫停就讓對方插入 frame",
+    "distractors": {
+     "plausible": [
+      "速度比壓力更重要",
+      "每一步都重新抓握"
+     ],
+     "trap": [
+      "過人中途停下，結果被掃回"
+     ]
+    }
+   },
+   {
+    "question": "對手在你做 long step 時，把遠側腳撐在地上並橋向你——你該如何調整？",
+    "answer": "維持你的 crossface，重心持續向前貫穿他們的橋，並在他們落回地面時把你的髖部繼續繞轉以完成過人。橋動作實際上會製造一個短暫的空隙，因為他們的腿會伸展開來，無法維持主動的 guard frame——你正是利用他們的動能來對付他們。暫時把重心站姿加寬，以吸收橋的力道而不被推開。",
+    "distractors": {
+     "plausible": [
+      "維持高姿勢等他們安定下來",
+      "把他們的髖部往下壓平"
+     ],
+     "trap": [
+      "放掉 crossface 以求平衡"
+     ]
+    },
+    "answer_line": "貫穿橋動作，繼續繞髖"
+   },
+   {
+    "question": "對抗 butterfly guard 發動 long step pass 時，什麼樣的抓握配置能給你最高的成功率？",
+    "answer": "在跨步之前，控制對手雙邊的膝蓋或膝蓋高度的褲管，把它們往下、往一側推，壓平 butterfly hook。如果對手的 hook 很強，用一隻手控制同側的 sleeve 或手腕以防止 underhook，另一隻手控制遠側膝蓋。這能防止推動 butterfly sweep 所需的抬升動作，同時建立安全發動 long step 所需的角度。",
+    "distractors": {
+     "plausible": [
+      "抓住雙邊腳踝往回拉",
+      "先控制雙邊 collar"
+     ],
+     "trap": [
+      "雙手撐地找重心"
+     ]
+    },
+    "answer_line": "控制雙膝，壓平 hook"
+   },
+   {
+    "question": "你的初始 long step 被擋下，對手開始穿插建立 De La Riva hook——你的立即連段攻擊是什麼？",
+    "answer": "在維持上半身抓握的同時，把被勾住的腿抽回，接著把對手勾腿那條腿拖過他們的身體做 leg drag。這個 leg drag 會製造比原本的 long step 更具優勢的過人角度。如果 leg drag 也被防住，你可以繞回 toreando，或從新的角度重新發動 long step。關鍵是絕不讓對手在配合 sleeve 控制下完全建立起 De La Riva hook。",
+    "distractors": {
+     "plausible": [
+      "先做 leg drag，再抽腿",
+      "先抽腿，再做 knee slice pass"
+     ],
+     "trap": [
+      "讓 DLR 安定下來，再打抓握戰"
+     ]
+    },
+    "answer_line": "抽腿脫身，接著做 leg drag"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺 long step pass 正在發動的最早訊號是什麼？",
+    "answer": "最早的訊號是 passer 把身體轉約 45 度角朝向一側，同時把你的膝蓋往下、往外推離中心。這個角度的建立發生在實際跨步之前，提供了插入防守 frame 的關鍵時間窗。次要訊號包括 passer 的重心轉移到前腳，以及後腳重新定位以準備深跨步。",
+    "answer_line": "45 度轉身，膝蓋被下壓",
+    "distractors": {
+     "plausible": [
+      "Passer 先抓你的 collar",
+      "Passer 站起來繞圈"
+     ],
+     "trap": [
+      "等到 crossface 才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 knee shield 是對抗 long step pass 最有效的單一防守結構？",
+    "answer": "Knee shield 在你的身體和 passer 之間建立了一道結構性屏障，光靠壓力無法輕易壓垮。它阻止 passer 達成胸對胸的接觸，而那正是 long step pass 有效性的基礎。Knee shield 同時也能控制距離、製造恢復 guard 的角度，並在 passer 試圖硬闖時提供後續掃技的平台。",
+    "answer_line": "阻擋胸對胸接觸",
+    "distractors": {
+     "plausible": [
+      "困住他們的內側手臂",
+      "設置深 collar 抓握"
+     ],
+     "trap": [
+      "壓平身體，死守 shield"
+     ]
+    }
+   },
+   {
+    "question": "對手已經完成 long step，開始建立 crossface——你最後的防守連段是什麼？",
+    "answer": "當 crossface 正在建立時，立刻用你同側的前臂橫過 passer 的喉部或下巴下方，建立一個能阻止 crossface 完全成立的 frame。同時開始朝 passer 的腿部方向（而不是遠離他們）hip escape，以製造角度。用你另一隻手爭取 underhook 或在他們遠側肩膀建立 frame。你的目標從阻止過人轉為恢復 half guard，趁他們還沒繞到完整 side control 之前，把你同側的膝蓋插進他們雙腿之間。",
+    "answer_line": "架喉部 frame，向腿部方向 hip escape",
+    "distractors": {
+     "plausible": [
+      "用力橋起來翻滾逃開",
+      "抓住他們的腰帶不放"
+     ],
+     "trap": [
+      "轉身背對以保護頸部"
+     ]
+    }
+   },
+   {
+    "question": "你該如何利用 passer 重心向前的承諾來設置掃技反擊？",
+    "answer": "當 passer 在 long step 時把重心承諾向前，他們在橫向的重心站姿會變窄。用你同側的腿在他們大腿下方插入 butterfly hook，並利用他們向前的動能，配合 underhook 把他們往一側抬起、破壞平衡。時機必須與跨步動作同步，也就是 passer 的重心和動能都同時朝前下方發力的那一刻。如果你能抓到 collar，配合 collar drag 和 butterfly hook 會製造更強的掃技向量。",
+    "answer_line": "Butterfly hook 加 underhook 上抬",
+    "distractors": {
+     "plausible": [
+      "Overhook 後滾向跪姿",
+      "把他們的髖部推回去重置"
+     ],
+     "trap": [
+      "翻成 belly-down 躲避壓力"
+     ]
+    }
+   },
+   {
+    "question": "為了阻止 long step pass 發動，你在抓握戰中應該優先處理什麼？",
+    "answer": "第一優先是阻止 passer 同時控制你雙邊的膝蓋或褲管，因為那正是能製造角度的抓握配置。他們一抓住你的褲管，就立刻用 two-on-one grip break 卸除。第二優先是至少維持一腳在他們髖部，以控制距離、防止他們拉近做 long step 所需的距離。第三優先是控制他們的一邊 sleeve 或手腕，限制他們的抓握選項，防止他們在嘗試過人時建立 crossface 或 underhook 控制。",
+    "answer_line": "先擋雙邊膝蓋／褲管抓握",
+    "distractors": {
+     "plausible": [
+      "先打 collar 抓握戰",
+      "先控制雙邊手腕"
+     ],
+     "trap": [
+      "放掉雙膝，只守髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Long Step Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crossface Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在這個過guard技巧中，crossface 的主要目的是什麼？",
+    "answer": "Crossface 的作用是控制對手的頭部與上半身，讓他們無法轉身面向你，也無法建立有效的防禦frame。它會形成一個楔子，把對手壓平在背上、限制他們的移動能力，並建立必要的控制，讓你能安全抽出被困住的腿，而不會被對手的髖部跟上或重新拿回guard。這股斜向下方的力量會同時把頭壓平並轉向。",
+    "answer_line": "控制頭部，阻止轉身",
+    "distractors": {
+     "plausible": [
+      "馬上設置choke",
+      "壓肩膀，不管頭部"
+     ],
+     "trap": [
+      "放開grip來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在做 crossface pass 時必須控制對手的遠手？",
+    "answer": "控制遠手能防止對手用它對你的頭部建立frame，或是拿到underhook。沒有這個控制，對手就能把你的頭推開、拉開距離、拿回full guard，或做出sweep。控制遠手等於拿掉他們最後一項防禦工具，確保他們無法製造出足夠的距離來拿回guard或插入frame。",
+    "answer_line": "阻止frame和underhook",
+    "distractors": {
+     "plausible": [
+      "控制它來設置armbar",
+      "困住手臂來做gi choke"
+     ],
+     "trap": [
+      "放開它，改控制腿"
+     ]
+    }
+   },
+   {
+    "question": "對手在你建立 crossface 之前就先拿到深 underhook——你該如何調整？",
+    "answer": "放棄 crossface pass，改用 knee slice 或 backstep pass，這兩種方式能配合或繞過深 underhook。深 underhook 讓對手有轉身面向你的旋轉力量，並能威脅sweep或back take，讓 crossface pass 明顯更難完成。另一個方法是用強力的 whizzer 限制 underhook 的效果，同時切換你的過guard角度。",
+    "distractors": {
+     "plausible": [
+      "耗著等對手放棄",
+      "抓 collar 撐起posture"
+     ],
+     "trap": [
+      "把手伸過去進入他們的 underhook"
+     ]
+    },
+    "answer_line": "改用 knee slice 或 backstep"
+   },
+   {
+    "question": "正確的抽腿動作是什麼？為什麼直接往後拉會失敗？",
+    "answer": "用弧形路徑抽出你的腿：膝蓋先往上往後，再往下往外，而不是直接往後拉。直接往後拉會讓你的力量正對著對手腿鎖最強的軸線，反而讓他們的控制更緊。弧形路徑改變了抽腿的角度，利用防守者腿鎖的解剖弱點，讓他們的腿無法有效抵抗。這個弧形動作也能幫助你在整個過程中維持平衡與向前壓力。",
+    "answer_line": "膝蓋弧形上後、再下外",
+    "distractors": {
+     "plausible": [
+      "先把膝蓋往下壓，再劃弧往外",
+      "扭髖離開，把腿拉出來"
+     ],
+     "trap": [
+      "坐回去找腳鎖"
+     ]
+    }
+   },
+   {
+    "question": "你感覺對手正在插入膝蓋準備做 knee shield，而你正壓著 crossface——你的立即反應是什麼？",
+    "answer": "感覺到膝蓋準備插入的瞬間，立刻用力往前下方施壓，在膝蓋完全插入前先把空間封死。用你 crossface 那側的髖部把正在插入的膝蓋壓回去，同時加大肩膀壓力。如果膝蓋已經部分插入，立刻轉換成smash pass或knee cut，而不是硬拚已經成形的 knee shield——用向前壓力提前預防，永遠比等 knee shield 成形後再過還容易。",
+    "distractors": {
+     "plausible": [
+      "先等等，再去對付 knee shield",
+      "抓住膝蓋，把它拉出來"
+     ],
+     "trap": [
+      "退後製造空間"
+     ]
+    },
+    "answer_line": "在成形前先壓下重量"
+   },
+   {
+    "question": "開始抽腿之前，你需要什麼樣的握法配置？",
+    "answer": "抽腿需要三個控制點：帶著肩膀壓力的 crossface、遠手控制，以及你的頭放在被困腿的對側。Crossface 的前臂要壓過對手的下顎把他們壓平，遠手要透過underhook或壓手腕來防止對手建frame，頭部放在被困腿對側則能形成結構性的楔子。少了其中任何一項，對手都還有足夠的防禦能力在你抽腿時跟上你的髖部，或建立frame阻止你過guard。",
+    "distractors": {
+     "plausible": [
+      "只要 crossface 和遠手",
+      "頭部控制加髖部壓力"
+     ],
+     "trap": [
+      "不管遠手，直接抓腿"
+     ]
+    },
+    "answer_line": "Crossface、遠手、頭部楔子"
+   },
+   {
+    "question": "在施加肩膀壓力階段，最關鍵的施力方向是什麼？",
+    "answer": "肩膀壓力必須斜向下方壓過對手的臉，而不是單純橫向壓過去或直直往下壓。這股斜向的力量能同時達成兩個目的：透過壓過對手肩線把他們壓平在背上，並轉開他們的頭部，消除他們的旋轉力量。單純橫向的 crossface 會讓對手能頂著壓力做bridge，而單純向下的力量則缺少轉頭的效果，無法阻止對手面向你。",
+    "answer_line": "斜向下方壓過臉部",
+    "distractors": {
+     "plausible": [
+      "橫向推，讓對手保持方正",
+      "胸貼胸，不碰頭部"
+     ],
+     "trap": [
+      "手撐高然後推"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 crossface pass 時，對手用 lockdown 鎖住你被困的腿——你該怎麼做？",
+    "answer": "絕不要硬拚 lockdown 做弧形抽腿；先稍微posture up破壞他的伸展優勢，然後把腳踢出來，或改用smash pass。Figure-four grip會消除你抽腿弧線所需的膝蓋活動度，讓正常的弧形抽腿變得不可能。稍微posture up去除他們的伸展優勢後，可以用力把被困的腳朝對手髖部方向踢動掙脫，同時維持 crossface 壓力，或者把他們鎖住的腿壓到墊子上，繞過去做smash pass。",
+    "distractors": {
+     "plausible": [
+      "更用力做弧形抽腿",
+      "直接往後拉，不理會lockdown"
+     ],
+     "trap": [
+      "坐回去找腳鎖"
+     ]
+    },
+    "answer_line": "Posture up，把腳踢出來"
+   },
+   {
+    "question": "當兩者都從half guard top開始時，crossface pass 和 knee slice pass 有什麼不同？",
+    "answer": "Crossface pass 用強力的肩膀壓力把對手壓平，knee slice 則是靠切過大腿線製造出角度路徑。Crossface pass 使用肩膀壓力與頭部控制把對手壓平後再抽出被困的腿，過程中passer的重量始終保持向前、呈直線。Knee slice 則更重視髖部活動度而非上半身壓力，用膝蓋切過對手的大腿線來改變過guard的平面。當對手沒有深 underhook 時，crossface 的成功率通常較高；而 knee slice 即使面對部分 underhook 控制也能成功，因為角度動作改變了過guard的平面。",
+    "distractors": {
+     "plausible": [
+      "Knee slice 需要深 underhook",
+      "Crossface 更依賴髖部活動度"
+     ],
+     "trap": [
+      "硬把 crossface 塞進 underhook"
+     ]
+    },
+    "answer_line": "Crossface壓平；slice走角度"
+   },
+   {
+    "question": "實戰對練中，你已經建立好 crossface，但對手正在積極對你的自由手做hand fighting，阻止你控制遠手——你該怎麼做？",
+    "answer": "當對手成功用hand fighting擋掉你控制遠手的嘗試時，你有幾個選項。首先試試困手變化：用你的自由手抓住對手的近手手腕，把它壓在他們胸前，從不同角度消除他們的建frame能力。第二，改用over-under變化，把你的自由手穿到對手遠腿下方，而不是硬拚那隻手，這樣能為抽腿製造不同的槓桿。第三，如果都不行，用無gi的頭部撐地變化，把自由手撐在對手遠肩旁的墊子上，製造最大壓力，然後純粹靠 crossface 的重量控制對手並完成抽腿。",
+    "answer_line": "困手：把手腕壓上胸口",
+    "distractors": {
+     "plausible": [
+      "繼續搶遠手控制",
+      "改嘗試full mount"
+     ],
+     "trap": [
+      "放開 crossface 重新抓握"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 crossface pass 最有效的時機是什麼時候？",
+    "answer": "最有效的時機是在 crossface 建立之前，也就是passer剛開始把前臂壓過你臉的那一刻。在這個階段，你還能搶underhook、插入knee shield，或建立frame阻止 crossface 成形。一旦 crossface 帶著肩膀壓力鎖定、遠手也被控制住，防守成功率就會急遽下降。及早察覺並立刻行動非常關鍵。",
+    "answer_line": "在 crossface 成形之前",
+    "distractors": {
+     "plausible": [
+      "等他們抽完腿之後",
+      "等他們跨過去上mount之後"
+     ],
+     "trap": [
+      "轉成趴姿逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼被困腿那側的 underhook 是最重要的防禦握法？",
+    "answer": "被困腿那側的 underhook 能防止passer把你壓平，因為它讓你保持角度、能轉身面向對手。它提供了通往sweep、back take和guard復原的主要途徑，讓你能控制passer的posture和身體角度。沒有這個 underhook，passer就能自由施加 crossface 壓力把你壓平，這會消除幾乎所有從half guard bottom出發的高成功率防禦選項。",
+    "answer_line": "讓你能側身轉入",
+    "distractors": {
+     "plausible": [
+      "主要是保護被困的腿",
+      "用來設置collar choke"
+     ],
+     "trap": [
+      "雙手撐地推開對手"
+     ]
+    }
+   },
+   {
+    "question": "對手已經完全建立帶著肩膀壓力的 crossface，你幾乎快被壓平了——你的優先順序是什麼？",
+    "answer": "在被 crossface 壓力壓到幾乎全平時，你的優先順序是：第一，保護遠手不被控制，把它緊貼身體或主動對passer的髖部建frame；第二，透過小幅度的hip escape而非爆發性動作，設法轉回側身；第三，嘗試插入knee shield或butterfly hook製造距離；第四，如果以上都失敗，改用lockdown鎖住被困的腿，阻止抽腿並製造sweep威脅。不要在已建立的 crossface 面前浪費力氣做爆發性bridge。",
+    "answer_line": "護手、逃脫、勾腿、鎖腿",
+    "distractors": {
+     "plausible": [
+      "先直接上lockdown",
+      "只用腿建frame，不管手"
+     ],
+     "trap": [
+      "立刻爆發性bridge"
+     ]
+    }
+   },
+   {
+    "question": "改用 lockdown 如何幫助防禦 crossface pass？",
+    "answer": "Lockdown 用figure-four grip鎖住passer被困的腿，完全阻止完成 crossface pass 所需的弧形抽腿動作。這會迫使passer放棄過guard嘗試，轉而處理 lockdown，改變位置上的動態。此外，lockdown 還會製造electric chair sweep的威脅，讓passer轉為防守。不過，lockdown 會讓你被固定在特定的腿部配置上，並可能限制自己的髖部活動度，所以最好在 underhook 和 knee shield 選項都被封鎖後，才把它當作次要防禦手段。",
+    "answer_line": "擋住抽腿，帶sweep威脅",
+    "distractors": {
+     "plausible": [
+      "釋放髖部活動度以便逃脫",
+      "只擋 crossface，不擋抽腿"
+     ],
+     "trap": [
+      "一開始就用它，跳過 underhook"
+     ]
+    }
+   }
+  ]
+ }
+}

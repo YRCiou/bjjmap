@@ -1,0 +1,395 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 Old School Sweep 的最佳時機窗是什麼？",
+    "answer": "最佳時機窗是對手把重心向前移動的那一刻，也就是他們向前施壓或試圖擺脫 Lockdown 的時候。他們伸直被困的腿想逃離 Lockdown 也算在內：不管哪種情況，他們的重心站姿都會暫時被破壞，重心會承諾向前，而這正好是這個 sweep 需要把他們送去的方向。在重心後移或面對中立重心站姿時發動，會讓這個 sweep 明顯更難完成。",
+    "distractors": {
+     "plausible": [
+      "對手把重心往後移",
+      "對手處於中立重心站姿"
+     ],
+     "trap": [
+      "當他們站直準備過人時"
+     ]
+    },
+    "answer_line": "對手把重心移向前"
+   },
+   {
+    "question": "嘗試 Old School Sweep 之前，必須同時建立哪三種控制？",
+    "answer": "三個同時存在的控制是：對被困腿的 Lockdown、一個深 underhook，以及把姿勢拉低的頭部控制。具體來說：一個帶著主動伸展的 figure-four Lockdown、一個手肘緊貼肋骨、手抓在對手背部高處的 underhook，以及另一隻手臂繞在對手頸後把他們的姿勢往下拉。這三者必須協調運作——任何一個控制點消失，都會大幅降低 sweep 成功的機率，因為對手就能靠 base、posture 或撐地來防守。",
+    "distractors": {
+     "plausible": [
+      "Underhook、頭部控制、base",
+      "Lockdown、crossface、whizzer"
+     ],
+     "trap": [
+      "兩個 overhook，沒有 Lockdown"
+     ]
+    },
+    "answer_line": "Lockdown、underhook、頭部控制"
+   },
+   {
+    "question": "為什麼這個 sweep 必須以圓弧軌跡執行，而不是把對手直接推翻過去？",
+    "answer": "圓弧軌跡利用的是旋轉力學，對手無法單純靠撐地或加寬 base 來抵抗。直線推動會給對手一個明確的軸心去撐地抵抗。這個圓弧式的 sweep 從你側身的位置繞轉過去到 mount，用你的肩膀當作支點、underhook 當作槓桿臂。這條旋轉路徑也能在整個過程中維持胸對胸的接觸，防止對手在轉換過程中製造出防守性的空間。",
+    "answer_line": "繞著肩膀畫圓弧",
+    "distractors": {
+     "plausible": [
+      "從髖部垂直往上推",
+      "直接把他們往後橋過去"
+     ],
+     "trap": [
+      "直接把他們推翻過去"
+     ]
+    }
+   },
+   {
+    "question": "如果你在平躺的狀態下嘗試 Old School Sweep，而不是側身，會發生什麼事？",
+    "answer": "平躺會消除這個 sweep 所需的幾何優勢。沒有側身的角度，你的肩膀就無法定位在對手重心下方形成支點，你的 underhook 因為拉扯角度不理想而失去旋轉槓桿，你的髖部驅力也無法有效產生向上的力量。平躺的姿勢也讓你容易被 smash pass，因為對手可以施加 crossface 壓力來維持你被壓平的姿勢。",
+    "answer_line": "沒有支點，會被 smash pass",
+    "distractors": {
+     "plausible": [
+      "Sweep 只是需要更大的力氣",
+      "Underhook 會變得更強"
+     ],
+     "trap": [
+      "其實更容易，槓桿更大"
+     ]
+    }
+   },
+   {
+    "question": "Underhook 應該多深？手該抓在哪裡才能取得最大的 sweep 槓桿？",
+    "answer": "把 underhook 穿得夠深，讓你的手抓到肩胛骨或越過遠側肩膀，手肘緊貼你自己的肋骨。手只碰到對手側邊的淺 underhook 提供的槓桿臂長度不夠。深度創造了旋轉所需的長槓桿，緊貼的手肘則能防止對手卸除 underhook 或把它轉成防守性的 whizzer。",
+    "distractors": {
+     "plausible": [
+      "手只碰到背部中段",
+      "抓腰帶而不是肩膀"
+     ],
+     "trap": [
+      "Underhook 鬆散、手臂放鬆"
+     ]
+    },
+    "answer_line": "手抓肩胛骨"
+   },
+   {
+    "question": "執行 sweep 時，你的髖部該朝哪個方向驅動？為什麼這一點至關重要？",
+    "answer": "執行 sweep 時，你的髖部應該同時向前並向上驅動。向前的驅力把你的身體推進對手身體，維持緊密的連結，向上的驅力則把他們的重量從地面抬起，餵入旋轉的動能。只有向前而沒有向上的分量，會讓對手的重量持續貼地，讓旋轉變得極度困難。只有向上則會在身體之間製造出空間，讓對手有機會恢復 base。兩者結合的向量會創造出讓這個 sweep 在力學上高效運作的螺旋動作。",
+    "answer_line": "向前與向上一起驅動",
+    "distractors": {
+     "plausible": [
+      "只向前，維持貼地",
+      "只向上，製造空間"
+     ],
+     "trap": [
+      "垂直向上，再往後推"
+     ]
+    }
+   },
+   {
+    "question": "你發動 sweep 時，對手用空出的手撐地——你該如何調整？",
+    "answer": "首先，把你的頭部控制拉得更緊，試圖進一步壓垮他們的姿勢，讓他們無法維持撐地。如果撐地已經建立，可以考慮兩個選項：稍微改變 sweep 的角度，繞過撐地的手臂，而不是直接迎向它；或者從 underhook 的位置直接進攻那隻撐地的手臂，用 kimura 抓握去對付它。撐地製造出一個單一的平衡點，那其實是個弱點——如果你能移除它或繞過它，這個 sweep 反而會比原本更高成功率。",
+    "answer_line": "改變 sweep 角度或用 kimura 攻撐地手",
+    "distractors": {
+     "plausible": [
+      "直接硬闖過撐地的手",
+      "放開 Lockdown，重置 guard"
+     ],
+     "trap": [
+      "翻身逃開，把背讓出去"
+     ]
+    }
+   },
+   {
+    "question": "如果對手建立起強力的 whizzer 來阻擋 Old School Sweep，會開啟什麼替代進攻？",
+    "answer": "對 Old School Sweep 的 whizzer 防守，會直接打開 Electric Chair 的轉換路徑。當對手用力做 whizzer 來阻擋你 underhook 的旋轉時，他們同時也阻止了你的 sweep，但也把自己的重心與結構完整性都投入在對抗你的上半身上。這製造出一個空隙，讓你能潛入他們髖部下方，透過 Electric Chair 攻擊腿部的分離，用 Lockdown 把他們的雙腿劈開。Whizzer 實際上還幫助了 Electric Chair 的進入，因為對手向下的壓力反而把你推向他們下方。",
+    "answer_line": "潛入髖部下方進入 Electric Chair",
+    "distractors": {
+     "plausible": [
+      "從 underhook 改做 kimura",
+      "放棄進攻，重置 guard"
+     ],
+     "trap": [
+      "硬拚 whizzer 搶 underhook"
+     ]
+    }
+   },
+   {
+    "question": "對手開始施加沉重的 crossface 壓力，這時你已經建立 Lockdown 和 underhook，但還沒建立頭部控制。最佳的反應是什麼？",
+    "answer": "立刻用力泵動 Lockdown 以製造空間，避免被壓平躺到背上。用你空出的手臂在對抗他們 crossface 那一側肩膀架 frame，而不是在沉重壓力下硬爭頭部控制。如果 crossface 太強、你已經開始被壓平，就放棄 Old School 的設置，改成潛入他們髖部下方轉換成 deep half guard。維持側身的角度，比在對手已建立的 crossface 面前硬爭頭部控制更重要。",
+    "answer_line": "泵動 Lockdown，架住 crossface",
+    "distractors": {
+     "plausible": [
+      "拚命爭取頭部控制",
+      "推開對方重置 guard"
+     ],
+     "trap": [
+      "保持平躺，用力橋起來"
+     ]
+    }
+   },
+   {
+    "question": "嘗試 Old School Sweep 之前必須建立哪三種控制？為什麼順序很重要？",
+    "answer": "順序是先 Lockdown、再深 underhook、最後頭部控制——每個控制都在保護下一個控制的建立。Lockdown 讓對手的 base 失去自由，建立起基礎；深 underhook 在對手還來不及建立 whizzer 之前提供 sweep 的槓桿；頭部控制則破壞姿勢並阻止防守性的撐地。順序之所以重要，是因為沒有 Lockdown，對手就能自由 base；沒有 underhook，你就缺乏 sweep 的力量；在前兩者都還沒建立時去爭頭部控制，會讓你暴露在過人的風險之下。",
+    "distractors": {
+     "plausible": [
+      "先破壞姿勢，再上 leg lace",
+      "先爭腋下抓握"
+     ],
+     "trap": [
+      "游去找 collar tie，放掉腿部控制"
+     ]
+    },
+    "answer_line": "先 Lockdown，再 underhook，最後頭部控制"
+   },
+   {
+    "question": "在 Old School Sweep 中，什麼樣的髖部與肩膀定位能創造出最大的 sweep 槓桿？",
+    "answer": "你 underhook 那一側的肩膀必須直接定位在對手重心的正下方，形成一個支點。你的髖部應該朝 underhook 那一側傾斜約 45 度，而不是平躺。這種定位能把你向上的橋力轉化為繞著肩膀支點的旋轉力。如果你的肩膀離他們的中線太遠，旋轉就會缺乏力量。如果你的髖部是平的，你就失去了製造橫向力所需的幾何角度。",
+    "answer_line": "肩膀在重心下方，髖部傾斜",
+    "distractors": {
+     "plausible": [
+      "髖部平躺，肩膀對正",
+      "肩膀寬展，髖部低而平"
+     ],
+     "trap": [
+      "髖部平躺，垂直向上驅動"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試 sweep，但對手把空出的手穩穩撐在地上。你該如何在技術執行中途調整？",
+    "answer": "你有兩個立即的選項。第一，調整你橋動作的方向，朝撐地那隻手的反方向移動，斜向把他們掃過去，而不是直接越過撐地的手。第二，如果他們的撐地很穩固，放棄直接的 sweep，改用 Lockdown 把他們被困的腿拉過來，同時潛入他們髖部下方，轉換成 Electric Chair。撐地那隻手實際上有助於這個轉換，因為他們的重心已經承諾到一側了。絕不要硬把 sweep 逼進一個已經建立的撐地。",
+    "answer_line": "改變角度或轉 Electric Chair",
+    "distractors": {
+     "plausible": [
+      "硬把橋動作壓進撐地那隻手",
+      "停下來重置 Lockdown"
+     ],
+     "trap": [
+      "轉身把背讓出去"
+     ]
+    }
+   },
+   {
+    "question": "Underhook 應該有多深？淺 underhook 會有什麼後果？",
+    "answer": "Underhook 必須抵達遠側肩胛骨或越過肩膀頂端；淺的 underhook 缺乏槓桿，會被卸除。穿入時要讓手肘緊緊夾在自己的肋骨上。手只碰到背部中段或闊背肌的淺 underhook，無法為旋轉式的 sweep 提供足夠的槓桿——對手能輕易用 whizzer 把它卸除，即使 sweep 已經發動，槓桿臂縮短也會讓旋轉在完成前就停滯。",
+    "distractors": {
+     "plausible": [
+      "抓背部中段或闊背肌",
+      "手放在髖部，手臂放鬆"
+     ],
+     "trap": [
+      "抓握鬆散，手肘外張"
+     ]
+    },
+    "answer_line": "抓遠側肩胛骨，手肘緊貼"
+   },
+   {
+    "question": "對手在你爭取 underhook 時建立了強力的 whizzer。什麼連段攻擊會因此開啟？你該如何轉換？",
+    "answer": "一個堅決的 whizzer 防守會打開 Electric Chair 的轉換路徑。當 whizzer 阻止你的 underhook 驅動 sweep 時，利用你 Lockdown 的伸展在對手髖部下方製造空間，接著把身體潛入他們身體下方朝遠側腿移動。Whizzer 實際上有助於這個轉換，因為對手把手臂投入在控制你的手臂上，而不是撐地取得 base。在整個轉換過程中維持 Lockdown，並用它把他們被困的腿拉進 Electric Chair 的位置。",
+    "answer_line": "潛入髖部下方進入 Electric Chair",
+    "distractors": {
+     "plausible": [
+      "硬拚著卸除 whizzer",
+      "放開 Lockdown，恢復 guard"
+     ],
+     "trap": [
+      "硬逼 underhook 旋轉"
+     ]
+    }
+   },
+   {
+    "question": "執行 sweep 時你該朝哪個方向驅動？為什麼圓弧動作比直線推動更關鍵？",
+    "answer": "以你 underhook 那一側的肩膀為中心畫圓弧驅動，把對手側向翻滾過去，而不是直接把他們往上或往後推。圓弧動作之所以關鍵，是因為它製造出的旋轉力，無法單靠一個撐地的手或加寬 base 來反制。垂直向上的直線推動，會讓對手有機會跨步過去、撐地，或乾脆把重心壓回來。圓弧式的 sweep 利用對手自己的重量來對付他們，讓他們繞著你肩膀這個支點旋轉。",
+    "answer_line": "繞著你的肩膀把他們翻過去",
+    "distractors": {
+     "plausible": [
+      "從髖部垂直往上推",
+      "直接把他們往後橋過去"
+     ],
+     "trap": [
+      "朝他們頭部方向直線推"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是發動 Old School Sweep 而不是繼續維持位置的最佳時機？",
+    "answer": "在上位選手把重心承諾向前、試圖抽出被困的腿，或轉換抓握的那一瞬間發動。這些動作中的任何一個，都會暫時破壞他們的 base。對一個安定、撐好的 base 發動 sweep 會浪費體力，也會提前洩露意圖，讓他們趁機加寬 base 反制。等待重心向前移動意味著他們自己的動能會帶著他們越過你肩膀提供的支點，所以旋轉所需的力量會小得多，並且能在他們重新 base 之前完成。",
+    "distractors": {
+     "plausible": [
+      "鎖好 underhook 之後立刻做",
+      "等他們的 base 完全安定下來"
+     ],
+     "trap": [
+      "在他們 sprawl 後站直時"
+     ]
+    },
+    "answer_line": "他們重心一向前傾就立刻發動"
+   },
+   {
+    "question": "對手把髖部往後、往外 sprawl，想讓 sweep 沒有重心可以利用。這個防守動作會開啟什麼進攻？",
+    "answer": "向後的 sprawl 會把他們的髖部拉離你的 sweep 弧線，但這正好直接餵入 Electric Chair。當他們的髖部移開時，用 Lockdown 把他們被困的腿拖過來，並在下方旋轉進入 Electric Chair，趁他們重心承諾向後時攻擊膝蓋和脊椎。如果他們選擇轉成 turtle 或滾過旋轉而不是 sprawl，就放棄做到 mount 的完成，把你的 underhook 轉換成 seat belt 抓握去追 back take，順著他們的動能走而不是對抗它。",
+    "answer_line": "把腿拖過來轉 Electric Chair",
+    "distractors": {
+     "plausible": [
+      "把 underhook 轉成 back take",
+      "放開 Lockdown，恢復 guard"
+     ],
+     "trap": [
+      "硬把 sweep 直接推完成"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺 Old School Sweep 正在發動的最早訊號是什麼？",
+    "answer": "最早的訊號是對手轉向側身、朝 underhook 那一側移動而不是保持平躺，Lockdown 的張力伴隨著節奏性的泵動伸展增加，以及他們頭部控制的手臂把你的頭往下拉、同時 underhook 收緊。側身的角度是最關鍵的指標——一旦他們的肩膀已經定位在你重心正下方並建立緊密連結，sweep 就迫在眉睫。在 sweep 發展成形之前辨識並回應這個側身角度，遠比嘗試阻止一個已經在進行中的 sweep 有效得多。",
+    "answer_line": "他們轉向側身，切入角度",
+    "distractors": {
+     "plausible": [
+      "他們加強 crossface 壓力",
+      "他們壓平身體、姿勢站高"
+     ],
+     "trap": [
+      "他們放鬆下來，變得被動"
+     ]
+    }
+   },
+   {
+    "question": "在 Old School top 的位置，你該如何分配重心以取得最大的 sweep 防禦力？",
+    "answer": "把你的重心透過胸口向前向下驅向對手的胸骨，髖部保持低而重，緊貼在他們髖部上。你的 crossface 肩膀應該在他們臉部和頸部造成明顯的壓迫感。空出的腿以 45 度角向外撐寬取得 base。重心應該來自身體定位與重力，而不是肌肉力氣——這樣能製造出可持續的壓力，讓下位選手逐漸耗竭，同時保留你自己的體力用於防守調整。",
+    "answer_line": "胸口下壓，髖部低而重",
+    "distractors": {
+     "plausible": [
+      "重心放在手上，髖部抬高",
+      "Base 收窄，雙膝併攏"
+     ],
+     "trap": [
+      "髖部輕盈，浮動以求速度"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立深 underhook 和頭部控制，Lockdown 也很緊——你最優先的防守動作是什麼？",
+    "answer": "你最優先的動作是把 whizzer 打得夠深，並把手肘緊夾在身體上，以控制他們 underhook 手臂的旋轉。同時大幅加強 crossface 壓力，把他們的頭轉開，阻止他們維持側身角度。Whizzer 之所以是優先，是因為它直接針對驅動這個 sweep 的旋轉槓桿。如果不控制 underhook，光靠 crossface 和 base 最終還是會在一個堅決的 sweep 嘗試面前失守。",
+    "answer_line": "打深 whizzer，加強 crossface",
+    "distractors": {
+     "plausible": [
+      "把他們架開製造空間",
+      "打抓握戰爭手腕"
+     ],
+     "trap": [
+      "先卸除 Lockdown"
+     ]
+    }
+   },
+   {
+    "question": "在防守 sweep 時，什麼時候是 sprawl 你髖部的關鍵時機？",
+    "answer": "sprawl 的關鍵時機是你感覺到 Lockdown 的泵動——也就是他們在發動 sweep 之前伸展雙腿的那個動作。這個泵動正是下位選手在製造讓 sweep 得以成立的破勢。在泵動的那一刻把你的髖部往後 sprawl，能移除他們所需的槓桿，並阻止他們試圖製造的重心轉移。太早 sprawl 會浪費體力，太晚 sprawl 則代表 sweep 的動能可能已經無法阻擋。",
+    "answer_line": "在 Lockdown 泵動的那一瞬間",
+    "distractors": {
+     "plausible": [
+      "underhook 建立好的當下",
+      "他們一抓住你頭部就 sprawl"
+     ],
+     "trap": [
+      "只在你感覺自己要倒下時才做"
+     ]
+    }
+   },
+   {
+    "question": "如果你成功防守了 Old School Sweep，會開啟什麼進攻機會？",
+    "answer": "成功防守這個 sweep 往往會製造過人機會，因為下位選手已經把體力和位置投入到一次失敗的進攻上。他們的 Lockdown 可能因疲勞而鬆動，underhook 可能變淺，或者他們可能轉換成 deep half guard，這會製造出不同的過人角度。最直接的機會，是趁下位選手從失敗的 sweep 中恢復、重新設置控制的期間，用 knee slice 或 smash pass 推進到 side control。",
+    "answer_line": "趁對方重設控制時過人",
+    "distractors": {
+     "plausible": [
+      "後退站起來重置",
+      "等他們再次進攻"
+     ],
+     "trap": [
+      "放棄上位去找 leglock"
+     ]
+    }
+   },
+   {
+    "question": "在下位對手發動 Old School Sweep 之前，最早的三個警訊是什麼？",
+    "answer": "第一，你感覺到 Lockdown 在你被困的腿上收緊，帶著主動的伸展張力。第二，對手開始積極爭取一側的 underhook，同時轉向側身。第三，他們空出的手臂伸向你的頭部，試圖繞過去並把你的姿勢往下拉。及早辨識這個順序，能讓你在三個控制都建立完成之前、在 underhook 階段就介入，這遠比防守一個已經完全裝載好的 sweep 容易得多。",
+    "answer_line": "先 Lockdown 收緊，再 underhook",
+    "distractors": {
+     "plausible": [
+      "先 crossface，再 Lockdown",
+      "先頭部控制，再勾腿"
+     ],
+     "trap": [
+      "他們放軟身體來誘你上鉤"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立 Lockdown 和 underhook，但還沒有頭部控制。最優先的防守動作是什麼？",
+    "answer": "立刻用肩膀頂進他們下巴，建立沉重的 crossface 壓力，把他們的頭轉離 underhook 那一側。這能阻止頭部控制的建立，同時破壞 sweep 所需的角度。次要優先是加深你的 whizzer，控制他們 underhook 那隻手臂。有了強力的 crossface 壓力，對手就無法完成第三個控制點，這個 sweep 在結構上就不完整。",
+    "answer_line": "用力 crossface，把他們的頭轉開",
+    "distractors": {
+     "plausible": [
+      "站高，姿勢遠離",
+      "抓住他們的腰帶拖延"
+     ],
+     "trap": [
+      "坐回去找 leglock"
+     ]
+    }
+   },
+   {
+    "question": "防守以 Lockdown 為基礎的 Old School Sweep 時，你的 base 應該如何定位？",
+    "answer": "把空出的腿以約 45 度角向外撐寬，讓它盡可能遠離被困的腿。你的重心應該透過胸口分配到對手軀幹上，而不是透過雙手。保持髖部低而重，緊貼對手。這種寬 base 的三腳架結構能抵抗來自任何方向的旋轉力。絕不要收窄 base 或抬高髖部，這兩者都會製造出 sweep 能利用的弱點。",
+    "answer_line": "寬 base，膝蓋外張，胸口壓重",
+    "distractors": {
+     "plausible": [
+      "窄 base，重心放在手上",
+      "髖部抬高，雙膝併攏"
+     ],
+     "trap": [
+      "雙手撐寬，髖部抬高"
+     ]
+    }
+   },
+   {
+    "question": "你的 crossface 被繞過，對手拿到了頭部控制。什麼樣的恢復順序能維持你的上位？",
+    "answer": "立刻加強 whizzer 壓力，控制 underhook 手臂，阻止 sweep 發動。同時把你的髖部稍微往後 sprawl，讓你的重心離開 sweep 的支點。如果頭部控制已經完全建立，把重心放在維持 whizzer 和寬 base 上，而不是硬爭 crossface 的恢復。只要你的 whizzer 和 base 夠強，沒有 crossface 也能撐住。只有在對手放鬆頭部控制去泵動 Lockdown 時，才重新建立 crossface。",
+    "answer_line": "加強 whizzer，往後 sprawl",
+    "distractors": {
+     "plausible": [
+      "用空出的手用力撐地",
+      "伸手去 underhook 他們的腿"
+     ],
+     "trap": [
+      "放棄 whizzer，去追 crossface"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試卸除 Lockdown、又不會餵入 sweep 力學的最安全時機？",
+    "answer": "最安全的時機是對手的 underhook 還很淺、或尚未建立時，因為他們無法用 sweep 來懲罰你卸除 Lockdown 的嘗試。維持 whizzer 和 crossface 的同時，用你空出的手把他們勾在你腳踝上的腳推開，藉此卸除 Lockdown。避免在三個控制都已建立時卸除 Lockdown，因為所需的動作往往會讓你的重心前移，正好製造出 sweep 能利用的時機窗。",
+    "answer_line": "趁他們 underhook 還淺時",
+    "distractors": {
+     "plausible": [
+      "頭部控制建立好之後",
+      "他們一開始泵動時"
+     ],
+     "trap": [
+      "三個控制都建立完成時"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Old School Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "讓 leg drag pass 有效的主要力學原理是什麼？",
+    "answer": "Leg drag 藉由把對手的一條腿從他們的中線移開並固定在身體另一側，造成結構性崩潰。這讓對手無法建立 frame、插入 hook，或產生維持 guard 所需的髖部活動度。相較於單純把腿推開，把腿拖過中線會製造一個角度，讓對手的雙腿互相牽制而不是協調防守動作。這種位置上的破壞，正是讓 passer 能安全繞到背後或側邊而不用面對進攻威脅的關鍵。",
+    "answer_line": "把腿拖離中線",
+    "distractors": {
+     "plausible": [
+      "把膝蓋往旁邊推",
+      "把兩條腿都壓住"
+     ],
+     "trap": [
+      "放棄腿，去搶 collar"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個 leg drag 過程中，維持對被困腿的胸壓如此重要？",
+    "answer": "胸壓把被困的腿「壓死」，讓對手無法把腿拉回中線來恢復 guard。它還有其他幾個關鍵作用：讓 passer 用體重而非手臂力量來控制（讓過人更省力），並讓 passer 的重心維持在低而穩定的位置，讓對手更難掃倒你。沒有持續的胸壓，leg drag 就只是暫時的抓腿，很容易被對手逃脫。",
+    "distractors": {
+     "plausible": [
+      "用手臂力氣抓住腿",
+      "身體抬高以便看到 submission"
+     ],
+     "trap": [
+      "撐手抬髖"
+     ]
+    },
+    "answer_line": "壓死腿，斷絕恢復機會"
+   },
+   {
+    "question": "如果對手在你做 leg drag 時，在你臉上建立強力的 frame，你該怎麼辦？",
+    "answer": "你可以把頭往下潛過對方的 frame，或者改做 knee slice，用肩膀而不是頭去頂穿 frame。第一種做法是你在維持手臂與胸部對腿的控制下，低頭鑽過他們的 frame。第二種做法是放開 drag 姿勢，用膝蓋切過他們下方的腿，用肩膀而不是頭去頂穿。這兩種解法都能維持向前的過人壓力，同時解決 frame 的阻礙。關鍵是絕不能放棄對腿的控制，也不能讓 frame 製造出足夠恢復 guard 的空間。",
+    "distractors": {
+     "plausible": [
+      "先卸掉他們架 frame 的手臂",
+      "站起來破壞 frame"
+     ],
+     "trap": [
+      "把額頭埋進去，結果被 guillotine"
+     ]
+    },
+    "answer_line": "頭潛過去或改做 knee slice"
+   },
+   {
+    "question": "在重心分配與身體位置上，leg drag 和其他 guard pass 有什麼不同？",
+    "answer": "Leg drag 用斜向的胸壓壓在被困的腿上，同時髖部保持機動性以便繞著它轉。相較於 stack pass 或 pressure pass 那種把重量垂直往下貫穿對手身體中心的方式，passer 的胸壓是斜向而非垂直向下，髖部也必須保持能繞轉而非固定不動。這造就了一種動態的過人方式，passer 持續繞著一個軸心（被困的腿）移動，而不是朝一個固定點推進。相較於 long step 或 toreando pass，身體位置更低、更貼近對手，但比 smash 或 knee slice 更具機動性。",
+    "distractors": {
+     "plausible": [
+      "像 stack pass 那樣垂直施壓",
+      "寬而低的站姿，雙腳固定"
+     ],
+     "trap": [
+      "身體站直對齊，結果被抬起掃倒"
+     ]
+    },
+    "answer_line": "斜向施壓，髖部機動"
+   },
+   {
+    "question": "什麼時候該從嘗試 leg drag 轉換為接受 back take 的機會？",
+    "answer": "當對手為了阻止你完成 side control 而把肩膀轉離你時，你應該立刻轉換成 back control。這通常發生在你正繞向他們背後、他們意識到過人即將成功的時候。這時不要硬做到 side control，而是要辨識出他們的防守性轉身已經暴露了背後，立刻建立 seat belt control（一手過肩、一手穿腋下）並開始插入 hook。這通常被視為 leg drag 的理想結果，因為 back control 是更優勢的位置。關鍵辨識點是看到他們的胸口轉離你，而不是維持正對或轉向你。",
+    "answer_line": "肩膀轉離，就拿下背後",
+    "distractors": {
+     "plausible": [
+      "硬是要做到 side control",
+      "維持 drag 姿勢等待"
+     ],
+     "trap": [
+      "撲去做 armbar，丟掉位置"
+     ]
+    }
+   },
+   {
+    "question": "發動 leg drag 最常見的抓握方式有哪些？分別在什麼情況下使用？",
+    "answer": "主要的抓握方式有：同側膝蓋處抓褲管、雙手抓一條腿、抓腳踝配合髖部 frame，以及抓膝蓋配合 underhook。詳細來說：(1) 同側膝蓋抓褲管、另一手控制 collar 或 sleeve——gi 中最標準的方式，能同時控制上下半身；(2) 雙手抓一條腿——當對手強力防守、你需要在發動過人前取得最大控制時使用；(3) 抓腳踝或腳掌、另一手 frame 在髖部——常見於沒有褲管可抓的 no-gi，需要更快的執行速度；(4) 抓膝蓋、另一手 underhook 同側手臂——建立上半身控制以防止對方坐起或架 frame。選擇取決於是 gi 還是 no-gi、對手的 guard 風格，以及你偏好的過人策略。",
+    "distractors": {
+     "plausible": [
+      "只抓 collar 和 sleeve",
+      "抓腰帶配合 cross face"
+     ],
+     "trap": [
+      "伸手去抓遠邊 collar，結果被 triangle"
+     ]
+    },
+    "answer_line": "膝蓋抓褲管或雙手抓一腿"
+   },
+   {
+    "question": "當你發動 drag 時，對手開始插入 butterfly hook，你該立刻做什麼調整以防止對方恢復 guard？",
+    "answer": "立刻加強對被困腿的向下壓力，同時空出的那隻手去卸除或壓平勾住的那隻腳。用你的小腿橫壓過他們的大腿，把 butterfly hook 壓平在地上，不讓它在你髖部下方抬起。如果 hook 已經插得太深，就轉換成 smash passing 的方式，用肩膀頂進他們的胸口，同時用小腿把他們兩條腿都壓平。關鍵的時間窗是 hook 插入的第一秒——一旦建立起來，butterfly hook 就會製造顯著的掃技與 guard 保持威脅。",
+    "distractors": {
+     "plausible": [
+      "抓住兩邊腳踝往回拉",
+      "坐回去重新抓握"
+     ],
+     "trap": [
+      "任由髖部抬起，去追對方遠邊手臂"
+     ]
+    },
+    "answer_line": "壓平 hook，小腿橫壓大腿"
+   },
+   {
+    "question": "執行初始 drag 動作時，最理想的施力方向是什麼？",
+    "answer": "力量應該斜向穿過對手的中線，朝向他們對側的肩膀施力，而不是單純橫向拉過身體。這種斜向的力向量會對他們的 guard 結構造成最大破壞，因為它同時把腿從中線移開，並產生把他們髖部轉離你的旋轉動能。這股拉力應該在穿過中線時加速，在腿完全過中線時達到最大速度。單純橫向拉（平行於他們肩膀）會讓他們把髖部轉向你並恢復，而斜向拉則會把他們的髖部轉離你，打開通往背後的路。",
+    "answer_line": "斜向拉向對側肩膀",
+    "distractors": {
+     "plausible": [
+      "直接橫向拉過身體",
+      "往自己的髖部方向拉"
+     ],
+     "trap": [
+      "身體重心前傾，結果被抬起掃倒"
+     ]
+    }
+   },
+   {
+    "question": "成功發動 leg drag pass 之前，必須具備哪些進攻條件？",
+    "answer": "你需要贏得抓握戰、對手 guard 是開放的、有穩定不易被掃的重心分配，以及對手已經把重心偏向一側。具體來說必須具備四個條件：(1) 你已經贏得初始的抓握戰，控制住至少一條腿，同時阻止他們建立主控的 sleeve、collar 抓握；(2) 對手的 guard 是開放的，雙腿沒有鎖在 closed guard；(3) 你的重心穩定，髖部位置能向前推進而不易被掃；(4) 對手已經把體重或注意力偏向一側，在 drag 那一側製造出空隙。在不具備這些前提下嘗試 leg drag，會導致嘗試失敗、浪費體力，或暴露在掃技與 guard 保持連段的風險之下。",
+    "distractors": {
+     "plausible": [
+      "只要 guard 是開放的就夠了",
+      "closed guard 也可以開始做"
+     ],
+     "trap": [
+      "沒抓好握點就衝進去，結果被 triangle"
+     ]
+    },
+    "answer_line": "抓握到手、guard 開放、重心穩固"
+   },
+   {
+    "question": "如果你的 leg drag 嘗試被擋下、無法完成過人，該用什麼連段動作維持你的過人壓力？",
+    "answer": "連接到 knee slice、toreando 或 long step，或退回 headquarters 重新設置——絕不要退回中立狀態。主要連段方式包括：(1) 當對手成功架 frame 抵擋 drag 時，轉換成 knee slice pass，用膝蓋切過他們下方的腿；(2) 放開 drag，改抓雙邊褲管，把他們的腿甩向另一側，轉換成 toreando pass；(3) 維持 collar 控制的同時跨過他們下方的腿，轉為 long step pass；(4) 稍微退後但維持腿部控制，接受 headquarters position，重新設置以威脅多種過人選項。關鍵原則是：每次被擋下的嘗試都應該流向另一個過人威脅，而不是完全脫離接觸。",
+    "distractors": {
+     "plausible": [
+      "退回中立位置重新開始",
+      "重複同樣失敗的嘗試"
+     ],
+     "trap": [
+      "退後，結果被吸進 ashi"
+     ]
+    },
+    "answer_line": "連接 knee slice 或 toreando"
+   },
+   {
+    "question": "面對積極防守的 guard player，該如何辨識發動 leg drag 的最佳時機？",
+    "answer": "在對手做出暫時削弱自己 guard 保持結構的動作那一刻立刻進攻。最佳時機出現在：(1) 他們伸手去抓握，暫時卸下防守性的 frame；(2) 他們用腳頂髖部拉開距離，把腿伸展到 drag 的可及範圍內；(3) 他們把重心偏向一側，嘗試掃技或 guard 轉換；(4) 他們把視線移開，或專注在設置自己的進攻上。頂尖的 passer 會透過假動作與壓力變化來誘發這些反應，主動創造時機窗，而不是被動等待。",
+    "distractors": {
+     "plausible": [
+      "只在他們安定下來時進攻",
+      "只在混戰中進攻"
+     ],
+     "trap": [
+      "在對方 guard 裡拖延，結果被掃倒"
+     ]
+    },
+    "answer_line": "趁對方伸手或頂腳時進攻"
+   },
+   {
+    "question": "控制那條腿的具體抓握要求是什麼？為什麼抓握位置很重要？",
+    "answer": "主要抓握位置應該在膝蓋或稍下方的褲管處，而不是腳踝或腳掌。膝蓋高度的抓握為 drag 動作提供最大的機械槓桿，同時讓你的前臂能控制腿的移動方向。抓腳踝對腿的軌跡控制較弱，也讓對手有更多空間彎曲膝蓋恢復。抓握力道應該紮實但不需要死命抓緊——過度用力會浪費體力，也降低你依需要轉換抓握的能力。gi 中你的拇指應該在褲管內側，no-gi 則勾在膝蓋後方，建立一個在 drag 動作中不會滑脫的穩固連結。",
+    "answer_line": "膝蓋高度的褲管抓握",
+    "distractors": {
+     "plausible": [
+      "抓腳踝以獲得更多控制",
+      "用最大力氣捏爛褲管"
+     ],
+     "trap": [
+      "去追腳掌，結果被 omoplata"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 leg drag 最早的時機是什麼？該採取什麼具體行動？",
+    "answer": "最早也最有效的防守時機，是在 passer 在你膝蓋處建立起決心抓握的那一刻。你應該立刻用 two-on-one break（雙手一起卸除他們抓握的那隻手）處理這個抓握，把他們的手從你褲管上推向地面。這必須在他們發動橫向拉扯之前完成。一旦拉扯開始、你的腿開始越過中線，防守難度會大幅提升。把褲管抓握視為主要威脅並訓練自己立刻反應，而不是等到 drag 動作開始才反應，是大多數 guard player 能對抗 leg drag 做出的最大改善。",
+    "answer_line": "在被拉之前先卸掉抓握",
+    "distractors": {
+     "plausible": [
+      "等 drag 開始後再 hip escape",
+      "等對方安定下來再架 frame"
+     ],
+     "trap": [
+      "無視抓握，被壓扁過人"
+     ]
+    }
+   },
+   {
+    "question": "對手已經把你的腿拖過中線，並開始壓上胸壓——你的優先處理順序是什麼？",
+    "answer": "優先順序是：(1) 用前臂在他們同側肩膀建立 frame，阻止他們把胸口重量完全壓在你被困的腿上；(2) 朝遠離他們的方向 hip escape，在你身體與他們胸口之間製造空間；(3) 利用製造出來的空間彎曲被困的膝蓋，把它拉回自己胸口方向，讓腿回到中線；(4) 如果無法完全恢復那條腿，立刻把自由的膝蓋當作屏障插入你身體與他們胸口之間，恢復 half guard。關鍵原則是：你必須先透過架 frame 與髖部移動製造空間，才能嘗試恢復腿——沒有先破壞對方壓力就想把腿拉回來，對任何有實力的 passer 都不會成功。",
+    "answer_line": "架 frame、hip escape、收回膝蓋",
+    "distractors": {
+     "plausible": [
+      "立刻把腿拉回來",
+      "先把對方的頭推開"
+     ],
+     "trap": [
+      "去抓遠邊 collar 找 submission"
+     ]
+    }
+   },
+   {
+    "question": "為什麼插入 knee shield 對深度的 leg drag 是強力的防守恢復手段？該如何執行？",
+    "answer": "Knee shield 恢復之所以有效，是因為它在 passer 的胸口和你的軀幹之間建立了一道結構性屏障，讓他們無法單純靠壓力穿過去。即使你已經失去了 drag 姿勢的優勢，knee shield 仍能阻止 side control 被鞏固，並讓你在 half guard 中擁有堅實的防守平台。執行方式：稍微 hip escape，在你身體與逼近的 passer 胸口之間製造縫隙，接著把內側膝蓋往上驅動進入那個空間，讓小腿橫壓在他們胸口或腹部。立刻用雙腿夾住他們同側的腿，建立 half guard。從這個位置，你擁有正當的掃技威脅，並能有系統地重新拿回 guard。",
+    "answer_line": "用膝蓋橫擋在他們胸前",
+    "distractors": {
+     "plausible": [
+      "雙手推他們的髖部",
+      "用力橋起來把對方掀掉"
+     ],
+     "trap": [
+      "翻成 belly-down 來防守"
+     ]
+    }
+   },
+   {
+    "question": "對抗 leg drag 的 passer，最有效的架 frame 結構是什麼？為什麼推頭的方式會失敗？",
+    "answer": "最有效的 frame 是把前臂橫放在 passer 同側的肩膀上，手肘緊貼自己身體，另一隻手加強這個 frame 或控制他們的遠邊手臂。這會建立一個骨對骨的結構，能重導 passer 向前的動能，而不需要靠肌肉力量去維持。推頭之所以會失敗，是因為伸直的手臂對抗 passer 向前推進的體重時，機械槓桿很差。Passer 可以輕易從推頭的手臂下方或旁邊繞過去，而且伸直的手臂容易受到 submission 攻擊。肩膀 frame 之所以有效，是因為它在力量傳遞的那一點直接處理 passer 的重量，而不是試圖從一個遠距離的接觸點去重導他們整個身體。",
+    "answer_line": "前臂 frame 在同側肩膀",
+    "distractors": {
+     "plausible": [
+      "雙手推他們的髖骨",
+      "抓 sleeve 往回拉"
+     ],
+     "trap": [
+      "手臂伸直推頭，結果被 armbar"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺 passer 正從 leg drag 轉換成 back take 時，該如何調整你的防守？",
+    "answer": "當 passer 開始轉換成 back take 時（你感覺到他們伸手去搶你遠邊的肩膀以建立 seat belt，而不是安定進入 side control），你必須立刻停止任何會暴露背後的防守性轉身，反而要積極轉向他們。用你內側的手肘阻擋他們的 underhook 嘗試，同時 hip escape 製造重新插入 guard 的空間。如果他們已經部分建立 seat belt，優先讓背部貼地而不是試圖面對他們，因為背部貼平的姿勢能阻止對方插入 hook。最糟糕的反應是繼續轉身背對他們，這正好給了他們想要的背後暴露。",
+    "answer_line": "轉向對方，擋住 underhook",
+    "distractors": {
+     "plausible": [
+      "把背貼平等待",
+      "伸手去抓他們遠邊的腳踝"
+     ],
+     "trap": [
+      "翻身躲開，把背藏起來"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Leg Drag Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

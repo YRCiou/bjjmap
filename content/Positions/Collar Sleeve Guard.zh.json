@@ -1,0 +1,109 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的grip配置定義了collar sleeve guard,並使它有別於其他open guard？",
+   "answer": "collar sleeve guard的定義是一種不對稱的雙grip結構,底位一方會把cross-collar的grip,搭配同一側手臂上的sleeve grip一起使用,抓在對手的前臂或手腕上。collar的grip沿對角線橫跨身體,用來控制姿勢與上半身的旋轉,而同一側的sleeve grip則固定住一隻手臂並掌控交手距離。這種同側搭配是它的定義特徵:雖然有輔助的腿部frame在調節距離,但控制力主要來自雙手,而不是像spider guard或lasso guard那樣主要依賴腿對手臂的連結。對角線的collar拉力與直線的sleeve伸展之間的不對稱,正是產生這個姿勢核心旋轉力的來源。",
+   "answer_line": "cross-collar加同側sleeve",
+   "distractors": {
+    "plausible": [
+     "同側的collar與sleeve",
+     "異側的collar與sleeve"
+    ],
+    "trap": [
+     "兩個collar的grip,沒有sleeve"
+    ]
+   }
+  },
+  {
+   "question": "為什麼同側的collar與sleeve搭配會產生旋轉力,而不是單純的直線力？",
+   "answer": "因為這兩個grip沿著不同的向量拉扯,它們形成一組力偶,也就是一對錯位的力,產生的是扭矩而不是單一的直線推拉。cross-collar的grip把一側肩膀往對角前下方拉,而同側的sleeve grip則固定並伸展那隻手臂,所以對手的上半身是繞著自己的脊椎被扭轉,而不是單純被向前拉。這種旋轉式的負荷比直線拉力難以抵抗得多,因為對手無法靠往單一方向傾身來抵消它。正是這股扭矩持續破壞頂位一方原本方正的base,即使他們的姿勢一開始看起來很穩固,也會讓這個姿勢感覺不穩定。",
+   "answer_line": "錯位的grip產生扭矩",
+   "distractors": {
+    "plausible": [
+     "兩個grip只是增加蠻力",
+     "grip方向一致,直線拉扯"
+    ],
+    "trap": [
+     "旋轉來自腿部的hook"
+    ]
+   }
+  },
+  {
+   "question": "sleeve那一側的腿部frame,在這個姿勢共同的力學中扮演什麼角色？",
+   "answer": "sleeve那一側的腿通常會用腳頂在對手的髖部或肱二頭肌上,作為調節距離的frame,形成除了兩個手部grip之外的第三個控制點。這個frame設定了交手距離,讓collar的拉力能破壞姿勢,同時避免頂位一方把體重往前壓垮底位一方。它也能阻止頂位一方縮短距離來悶住guard或發動壓制型passing。因為這個腳的frame與兩個grip都在同一側,三個控制點都加強了身體同一側的一個控制三角,讓另一側的腿可以自由地hook、抬高或擺動,以進行動態的動作。",
+   "answer_line": "腳的frame設定距離,是第三個控制點",
+   "distractors": {
+    "plausible": [
+     "光靠frame就能阻止passing",
+     "frame取代了sleeve的grip"
+    ],
+    "trap": [
+     "放掉frame,用雙腿hook"
+    ]
+   }
+  },
+  {
+   "question": "在collar sleeve guard中,雙方的重心分配與base通常如何安排？",
+   "answer": "底位一方會讓髖部抬高、保持離地機動,而不是放平,這樣才能持續變換角度,餵養旋轉式的grip。與此同時,頂位一方必須讓髖部後移、胸口抬高,並把重量偏向自由手那一側,因為sleeve的grip讓他無法用被抓住的那隻手臂來post支撐base。這會產生一種特有的不對稱:頂位一方base的一側因為sleeve控制而在結構上被削弱,而底位一方漂浮的髖部則不斷試探對手的base何時會過度投入。這個姿勢本質上不穩定,對誰能更好地掌控這種不斷變化的重心平衡,就對誰有利。",
+   "answer_line": "底位髖部漂浮,頂位base偏向一側",
+   "distractors": {
+    "plausible": [
+     "雙方都保持髖部放平、方正",
+     "頂位用被sleeve抓住的手臂post支撐"
+    ],
+    "trap": [
+     "底位把髖部放平休息"
+    ]
+   }
+  },
+  {
+   "question": "在collar sleeve guard中,雙方爭奪的主要控制點有哪些？",
+   "answer": "有三個被爭奪的控制點:掌控姿勢的collar grip、掌控一隻手臂與距離的sleeve grip,以及調節距離的腿部frame。誰控制了每一個點,誰就能主導這場交手,所以這個姿勢基本上是一場圍繞這些連結的grip爭奪戰。collar是價值最高的控制點,因為它直接管理姿勢與旋轉,這也是為什麼雙方通常會最先建立並防守它。距離是第二個爭奪軸線:底位一方利用sleeve grip與腿部frame維持理想的作戰距離,而頂位一方則要不縮短距離施加壓力,要不徹底清空距離以passing。",
+   "answer_line": "collar、sleeve與腿部frame",
+   "distractors": {
+    "plausible": [
+     "兩個collar,兩個sleeve",
+     "只有頭部與髖部控制"
+    ],
+    "trap": [
+     "不管grip,只爭位置"
+    ]
+   }
+  },
+  {
+   "question": "collar sleeve guard與spider guard、lasso guard、De La Riva Guard等相鄰的open guard有什麼關聯與轉換方式？",
+   "answer": "collar sleeve guard在gi的open guard家族中處於樞紐位置,與許多鄰近guard共享grip系譜,所以彼此之間的轉換大多只是增加或轉換一個連結。把自由的腿繞過被sleeve抓住的手臂,就會把姿勢轉換成lasso guard;把腳放在那隻手臂的肱二頭肌上,則會轉向spider guard。在對手腿後插入一個hook,則會融入De La Riva Guard的元素,同時保留collar與sleeve的grip。因為collar的grip在所有這些轉換中都持續存在,它就成為讓球員能隨對手位置與passing壓力變化,而在不同guard之間流動的固定錨點。",
+   "answer_line": "collar grip是轉換的錨點",
+   "distractors": {
+    "plausible": [
+     "sleeve grip是轉換的錨點",
+     "腿部frame是轉換的錨點"
+    ],
+    "trap": [
+     "放開collar才能切換guard"
+    ]
+   }
+  },
+  {
+   "question": "為什麼持續的髖部移動與角度調整,對雙方維持collar sleeve guard來說都是必要的？",
+   "answer": "靜止不動的collar sleeve guard會讓對方有機會安定重心、建立反制的grip,並開始穩定的passing或防守流程,所以靜止就等於放棄這個姿勢的核心優勢。旋轉式的grip結構只有在底位一方的髖部主動變換角度時——通常一次十五到三十度——才會產生它的破勢扭矩,持續從新的方向重新裝填collar的拉力。從頂位的角度看,跟上這個移動同樣是必要的,因為沒有跟上變化的角度,會讓底位一方創造出多數進攻前置的垂直關係。因此這個姿勢本質上是動態的:不論是誰,只要先停止移動,通常就會把交手節奏的主導權讓給對方。",
+   "answer_line": "靜止會讓頂位安定並passing",
+   "distractors": {
+    "plausible": [
+     "只有進攻時才需要移動",
+     "變換角度會浪費體力"
+    ],
+    "trap": [
+     "保持固定角度以節省體力"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Collar Sleeve Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

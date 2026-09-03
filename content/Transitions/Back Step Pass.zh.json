@@ -1,0 +1,269 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Back Step Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Back Step Pass 的主要目標是什麼？",
+    "answer": "主要目標是把腿從纏腿中抽出來，同時創造出能推進到 side control 的過招角度。這個技巧對「即將形成」和「已經成形」的纏腿都適用，能一個動作就把防守上的必要動作，轉換成主動過招的機會。",
+    "distractors": {
+     "plausible": [
+      "逼對方混戰站起來",
+      "設置反腿鎖"
+     ],
+     "trap": [
+      "轉成 belly-down 硬把腿拉出來"
+     ]
+    },
+    "answer_line": "清出腿，過角度到 side control"
+   },
+   {
+    "question": "Back Step Pass 是從什麼位置開始的？",
+    "answer": "Back Step Pass 是從 Grasshopper Guard/Top 開始的，也就是底下的人用倒立式的腿部纏鬥威脅到你下肢的時候。具體來說，觸發時機是當他們的倒立姿勢和腿部配置，正威脅著要建立 hook、穿腿或旋轉式攻擊在你的腿上。",
+    "distractors": {
+     "plausible": [
+      "Half Guard 上位",
+      "Ashi Garami 上位"
+     ],
+     "trap": [
+      "在底下，倒立鑽向對手"
+     ]
+    },
+    "answer_line": "Grasshopper Guard 上位"
+   },
+   {
+    "question": "為什麼要用 45 度角踏步，而不是直接往後退？",
+    "answer": "以角度踏步能製造橫向距離，讓對手的腿無法跟上你的移動。直接往後退會讓對方的纏腿有機會跟著移動、甚至收得更緊，而角度踏步能破壞他們的控制角度，開出一條過招的通道。",
+    "answer_line": "破壞角度，開出過招通道",
+    "distractors": {
+     "plausible": [
+      "比直退更快",
+      "維持髖部正對對手"
+     ],
+     "trap": [
+      "直接後退比較安全"
+     ]
+    }
+   },
+   {
+    "question": "執行 Back Step Pass 時，需要哪些關鍵的握法或控制？",
+    "answer": "在執行過程中，雙手用來剝除、改變方向或壓制對手正要清出的腿。踏步之後，用前臂或二頭肌壓在對方脖子上做出 crossface 控制，是完成這個過招的關鍵。近側的手要擋住對方遠側的髖部，防止他們回復 guard。",
+    "answer_line": "Crossface 加上遠側髖部阻擋",
+    "distractors": {
+     "plausible": [
+      "underhook 遠側手臂",
+      "緊緊抓住雙腳踝"
+     ],
+     "trap": [
+      "抓 collar，不管髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手開始翻滾要跟上你的 back step，你該怎麼應對？",
+    "answer": "加速你向前推進的力道，搶在他們重新倒立之前完成。利用他們翻滾的動能反過來對付他們，在他們旋轉時把你的 crossface 壓進去，在他們能重新建立 guard 之前把他們的倒立姿勢壓平。關鍵是不要繼續後退，而是要果斷向前推進。",
+    "answer_line": "壓進 crossface，壓平翻滾",
+    "distractors": {
+     "plausible": [
+      "等他們停止翻滾",
+      "撐手保持身體挺直"
+     ],
+     "trap": [
+      "轉身背對去追那條腿"
+     ]
+    }
+   },
+   {
+    "question": "發動 back step 的最佳時機是什麼時候？",
+    "answer": "最佳時機是在對手重新配置腿部的階段——也就是他們正在切換 hook 位置或嘗試穿腿的時候。這時他們的腿處於暫時的不穩定狀態，無法完全投入纏腿，讓抽腿變得明顯容易許多。",
+    "answer_line": "趁他們重新配置 hook 時",
+    "distractors": {
+     "plausible": [
+      "他們一鎖上 hook 就馬上動作",
+      "他們一倒立就馬上動作"
+     ],
+     "trap": [
+      "等 hook 鎖得很深再動作"
+     ]
+    }
+   },
+   {
+    "question": "做 back step 動作時，你的髖部應該保持什麼位置？",
+    "answer": "整個 back step 過程中都要讓髖部保持低，幾乎像是 sprawl 的姿勢。動作中髖部太高，會給對手抬升你的機會，也會讓你頭重腳輕、容易被掃倒。低髖部能讓對方拿不到他們需要的槓桿力。",
+    "answer_line": "低髖部，接近 sprawl",
+    "distractors": {
+     "plausible": [
+      "髖部抬高以增加機動性",
+      "髖部正對，雙腳站穩"
+     ],
+     "trap": [
+      "抬高髖部以更快清出腿"
+     ]
+    }
+   },
+   {
+    "question": "在完成過招時，如何防止對手回復 half guard？",
+    "answer": "在向前推進的同時，立刻用近側的手擋住他們遠側的髖部，防止他們把膝蓋插進你們兩人身體之間。髖部阻擋加上 crossface 壓力的組合，能消除對方回復 half guard 所需的空間。",
+    "answer_line": "近側手擋遠側髖部",
+    "distractors": {
+     "plausible": [
+      "只靠 crossface 就能擋下",
+      "改控制遠側手腕"
+     ],
+     "trap": [
+      "讓膝蓋插進來，再壓平"
+     ]
+    }
+   },
+   {
+    "question": "對手在你還處於 combat base 時，把一條腿深深穿到你膝蓋後方——判斷該做 back step 還是直接處理這個 hook 的依據是什麼？",
+    "answer": "取決於 hook 的深度和有沒有第二個控制點：淺而沒有輔助支撐的 hook 可以直接用手剝除，但一旦 hook 已經很深或有加強控制，就該做 back step。如果 hook 還很淺，對方也還沒建立第二個控制點（例如抓腳踝或夾髖），你可以直接用手把 hook 剝掉。如果 hook 已經很深，對方也開始旋轉或建立額外的控制，那就必須做 back step，因為直接剝除會太慢，還可能讓纏腿收得更緊。",
+    "distractors": {
+     "plausible": [
+      "永遠先用手剝除",
+      "永遠立刻做 back step"
+     ],
+     "trap": [
+      "不管 hook，直接向前推進"
+     ]
+    },
+    "answer_line": "淺的剝除，深的就 step"
+   },
+   {
+    "question": "Back Step Pass 向前推進階段的施力方向是什麼？",
+    "answer": "力道是朝對手上半身斜向前下方推進，具體瞄準他們的胸口和肩線。這個方向能把他們倒立的姿勢壓平貼地，同時縮短建立 crossface 和垂直對位所需的距離，以完成 side control。",
+    "answer_line": "斜向，推進胸口和肩線",
+    "distractors": {
+     "plausible": [
+      "垂直往下壓髖部",
+      "只往頭部方向推進"
+     ],
+     "trap": [
+      "往後拉開創造空間"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 back step 清出了纏腿，但對手回復了 butterfly hook，你該接哪個連續攻擊？",
+    "answer": "立刻連接到 butterfly smash 或 over-under pass，把肩膀壓進他們的胸口，用髖部壓力把其中一個 butterfly hook 壓平。或者，如果他們用 hook 把你抬起，就再做一次 back step，或改成控制他們近側腿的腳踝、把腿拖過你身體的 leg drag。",
+    "distractors": {
+     "plausible": [
+      "站直破壞 hook",
+      "繞大圈避開他們的腿"
+     ],
+     "trap": [
+      "從那裡直接抓 toe hold"
+     ]
+    },
+    "answer_line": "smash pass 或拖近側腳踝"
+   },
+   {
+    "question": "在 back step 的清腿階段，控制對手腿部哪種握法最有效？",
+    "answer": "用同側的手控制對手近側的腳踝或小腿，同時遠側的手把他們遠側的膝蓋往地面或往身體中線方向推。這種兩點控制能防止他們用任何一條腿跟上，並創造出向前推進完成過招的空檔。",
+    "answer_line": "控制腳踝，推遠側膝蓋往下",
+    "distractors": {
+     "plausible": [
+      "兩隻腳踝都抓一樣緊",
+      "把近側膝蓋推過身體"
+     ],
+     "trap": [
+      "放開腿，改抓 collar"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早能察覺對手即將發動 Back Step Pass 的訊號是什麼？",
+    "answer": "最早的訊號是過招者的重心明顯轉移到單腳上，而另一隻腳在你的 hook 中變輕。這個重心轉移是 back step 的力學前提，會比實際踏步動作早一瞬間發生，讓你有最大的反應空間。",
+    "answer_line": "重心轉移到單腳",
+    "distractors": {
+     "plausible": [
+      "hook 收緊在你腿上",
+      "他們抓住你遠側的 collar"
+     ],
+     "trap": [
+      "等踏步落地再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要瞄準過招者的支撐腳，而不是去追逃離的那隻腳？",
+    "answer": "在 back step 過程中，支撐腳承受著過招者全身的重量，而且在踏步的腳落地之前無法移動。這讓它成為適合進入 ashi garami 的靜止目標。相反地，逃離的那隻腳正主動移動離開、具有力學優勢，非常難以控制或重新抓回來。",
+    "answer_line": "支撐腳靜止且承重",
+    "distractors": {
+     "plausible": [
+      "逃離的腳比較好抓",
+      "兩隻腳一樣容易攻擊"
+     ],
+     "trap": [
+      "去追逃離的那隻腳"
+     ]
+    }
+   },
+   {
+    "question": "你重新倒立失敗、過招者的腿清出了你的 hook——你當下最優先要做的是什麼？",
+    "answer": "你當下最優先要防止的，是在對方向前推進鞏固 side control 之前，讓他們建立 crossface。用前臂對抗過招者的肩膀做出 frame，轉身側躺以避免被壓平，並把膝蓋或 butterfly hook 插進你們兩人身體之間。防住 crossface 能保住你回復 guard 的機會。",
+    "answer_line": "做 frame、轉身、擋 crossface",
+    "distractors": {
+     "plausible": [
+      "壓平身體、縮成 turtle",
+      "再次抓住他們遠側的腳踝"
+     ],
+     "trap": [
+      "讓 crossface 上身，再橋"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他過招 grasshopper guard 的技巧，Back Step Pass 為什麼特別危險？",
+    "answer": "back step 專門瞄準 grasshopper guard 最主要的弱點：依賴和過招者持續保持腿部接觸。透過往角度後退抽腿，而不是硬闖過 guard，過招者能避免落入你的掃技和纏腿力學，同時直接開出一條通往 side control 的路。",
+    "answer_line": "利用對腿部接觸的依賴",
+    "distractors": {
+     "plausible": [
+      "不需要任何握法",
+      "從任何上位都能用"
+     ],
+     "trap": [
+      "正面硬闖過他們的 hook"
+     ]
+    }
+   },
+   {
+    "question": "如果你知道對手經常使用 back step，你該如何調整自己的 grasshopper guard 結構？",
+    "answer": "讓 hook 更深，用腿更往後包住過招者的膝蓋，而不是淺淺的脛骨對脛骨接觸。讓你的第二條腿隨時準備好，一旦主要的 hook 被剝除，就能立刻轉向支撐腳。加快從 grasshopper 發動攻擊的節奏——更快投入掃技或抓腿，逼過招者必須防守，而不是有空發動 back step。",
+    "answer_line": "hook 更深，攻擊更快",
+    "distractors": {
+     "plausible": [
+      "放鬆 hook 以增加機動性",
+      "改成脛骨對脛骨接觸"
+     ],
+     "trap": [
+      "轉身背對，讓出你的背後"
+     ]
+    }
+   },
+   {
+    "question": "在 Back Step Pass 的過程中，過招者在哪個時間點最容易被反擊？",
+    "answer": "過招者最脆弱的時刻，是在踏步的腳開始劃弧線之前的重心轉移階段。這時他們的重量集中在單腳上，平衡處於過渡狀態，若不放棄這個過招，就無法防守支撐腳。這是搶攻承重那隻腳、進入 ashi garami 的最佳時機。",
+    "answer_line": "踏步前的重心轉移",
+    "distractors": {
+     "plausible": [
+      "踏步落地之後",
+      "crossface 上身時"
+     ],
+     "trap": [
+      "他們拿到 side control 之後"
+     ]
+    }
+   }
+  ]
+ }
+}

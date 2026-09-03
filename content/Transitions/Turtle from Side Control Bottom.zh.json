@@ -1,0 +1,187 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Turtle from Side Control Bottom.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "轉身過程中最關鍵、必須維持的身體連結是什麼，為什麼？",
+    "answer": "近側手肘貼近近側膝蓋的連結，是轉身過程中最關鍵的身體結構。這個連結能形成一個封閉的防禦外殼，防止對手在你從背部轉到手膝跪地的過程中插入 underhook、hook，或碰到你的脖子。沒有這個連結，你上下半身之間的空隙就會成為對方建立背控的入口，讓轉身變得適得其反。",
+    "answer_line": "近側手肘緊貼膝蓋",
+    "distractors": {
+     "plausible": [
+      "雙手都抓住他們的 collar",
+      "背部平貼地墊"
+     ],
+     "trap": [
+      "遠手伸過對方身體"
+     ]
+    }
+   },
+   {
+    "question": "從 side control bottom 啟動 turtle turn 的最佳時機是什麼？",
+    "answer": "最佳時機是對手在轉換動作或提交動作中轉移體重的那一刻。具體來說，就是他們抬起髖部想攻 americana、調整準備 kimura，或把重心移向你頭部準備 north-south 轉換時。這些時刻會在髖部壓力上出現短暫空隙，讓轉身動作得以成功。在對方壓力穩固、沉重的 side control 下嘗試轉身，成功率會明顯偏低。",
+    "answer_line": "髖部抬起或轉移的瞬間",
+    "distractors": {
+     "plausible": [
+      "他們一落入 side control 就轉",
+      "crossface 壓力最重時"
+     ]
+    },
+    "trap": ["對方沉住重心時滾走"]
+   },
+   {
+    "question": "對手用重壓的 crossface 擋住你的轉身——你該如何調整逃脫策略？",
+    "answer": "當 crossface 擋住轉身時，換個策略，不要硬拚。選項包括用更強的橋加上遠側 underhook 製造更多空間，改往對手方向做 hip escape，或用遠側腿威脅恢復 guard，迫使對方處理另一個威脅。這可能會讓 crossface 壓力鬆一些，讓你能在不同角度重新嘗試轉身。",
+    "answer_line": "強力搭橋，搶遠側 underhook",
+    "distractors": {
+     "plausible": [
+      "遠離他們胸口做 shrimp",
+      "抓皮帶往下拉"
+     ]
+    },
+    "trap": ["轉身離開，交出背部"]
+   },
+   {
+    "question": "啟動轉身之前必須先建立什麼 frame，位置該在哪裡？",
+    "answer": "近側前臂頂在對手髖部凹陷處或橫過肩膀的 frame，是轉身前不可或缺的結構。這個 frame 能在你和對手之間製造最初的分離，防止他們單靠胸壓就跟著你旋轉。遠側手臂則應同時透過 collar 抓握、underhook 或手腕控制對方上半身，管理他們在轉身過程中的位置。",
+    "answer_line": "近側前臂頂髖或肩",
+    "distractors": {
+     "plausible": [
+      "遠側前臂頂髖部",
+      "近側抓 collar 控制"
+     ]
+    },
+    "trap": ["用遠側膝蓋撐地"]
+   },
+   {
+    "question": "完成轉身後，維持靜態 turtle 姿勢為什麼很危險？",
+    "answer": "靜態 turtle 之所以危險，是因為它給對手無限的時間，系統性地透過 seatbelt 抓握、插入 hook 和 harness 控制來建立背控。對手會從 side control top 轉換到 turtle top，在那裡他們有多條高成功率的攻擊路徑，包括背後偷襲、front headlock 提交，以及 crucifix 進入。turtle 應被視為一個短暫的中繼點，必須立刻接著恢復 guard 或站起。",
+    "answer_line": "他們會上 seatbelt 和 hook",
+    "distractors": {
+     "plausible": [
+      "你的 frame 會慢慢累垮",
+      "這讓他們重新調整抓握"
+     ]
+    },
+    "trap": ["留在原地喘口氣"]
+   },
+   {
+    "question": "你完成轉身進入 turtle 時，對手開始插入一個 hook——你的立即反應是什麼？",
+    "answer": "立刻把腿往回踢、遠離正在勾的那隻腳，同時啟動 sit-through 轉往另一側。不要讓那個 hook 穩固，因為防守單一 hook 的窗口非常小。如果 hook 在你能清除之前就掛上了，把防禦優先順序轉為阻止第二個 hook 和 seatbelt 抓握，同時嘗試 sit-through 或 granby roll 逃脫。這個轉換時刻反應速度至關重要。",
+    "answer_line": "踢開勾腿、sit through",
+    "distractors": {
+     "plausible": [
+      "伸手去拔那個 hook",
+      "縮緊身體、用髖部擋"
+     ]
+    },
+    "trap": ["讓 hook 掛上再逃"]
+   },
+   {
+    "question": "什麼因素決定你該嘗試 turtle turn 還是標準的 hip escape 回 guard？",
+    "answer": "決定因素在於對手的控制配置。當對手的 crossface 非常緊、無法朝他們方向做 hip escape 時，或他們的體重更偏向你的上半身、留出髖部空間時，或標準的恢復 guard 路線一再被擋下時，turtle turn 較優。當 crossface 較鬆、有空間插入膝蓋、或對手的體重集中在你的髖部而非軀幹時，hip escape 回 guard 較優。",
+    "answer_line": "看他們的 crossface 和重心偏向",
+    "distractors": {
+     "plausible": [
+      "當下你的體力狀態",
+      "他們先困住哪隻手臂"
+     ]
+    },
+    "trap": ["在緊壓的 crossface 下硬 shrimp"]
+   },
+   {
+    "question": "整個轉身過程中正確的下巴姿勢是什麼，為什麼這很關鍵？",
+    "answer": "下巴必須整個轉身過程都緊緊收向胸口。這能防禦頸部暴露時可能出現的 front headlock 攻擊，包括 guillotine、darce 和 anaconda。收緊的下巴也有助於形成緊密 turtle 結構所需的圓背姿勢。即使短暫抬起下巴，也會製造出技術好的對手會立刻利用的提交機會。",
+    "answer_line": "收緊下巴防 guillotine",
+    "distractors": {
+     "plausible": [
+      "頭轉向另一側",
+      "下顎放鬆、眼看天花板"
+     ]
+    },
+    "trap": ["抬下巴看對方 base"]
+   },
+   {
+    "question": "橋的方向如何影響 turtle turn 的成功率？",
+    "answer": "橋應該向上並稍微偏向對手方向，而不是直接遠離他們。這種方向性的橋有兩個作用：更有效地抬起對手的體重，因為是對著他們的重心方向頂，同時也產生後續轉身所需的旋轉動能。直接遠離對手的橋只能製造水平空間，垂直清空的高度不足以讓轉身成功。",
+    "answer_line": "橋向上並偏向對手",
+    "distractors": {
+     "plausible": [
+      "垂直向上搭橋，不偏角度",
+      "遠離對方搭橋製造空間"
+     ]
+    },
+    "trap": ["不搭橋、直接趴身滾動"]
+   },
+   {
+    "question": "到達 turtle 位置後，你應該優先執行哪個後續逃脫？",
+    "answer": "後續動作取決於轉身後對手的位置。如果他們在你身後保持胸壓，趁他們的 base 還在調整時執行 sit-through 回 guard 或 granby roll。如果他們正繞向你正面，technical standup 是最佳選擇，因為他們的角度不利於背控。如果他們已控制手腕但還沒掛 hook，一個爆發性的前滾能破壞他們的抓握，回到 guard。核心原則是持續移動，不要停頓。",
+    "answer_line": "持續移動，判讀對方角度",
+    "distractors": {
+     "plausible": [
+      "永遠 sit through 回 guard",
+      "永遠立刻站起"
+     ]
+    },
+    "trap": ["暫停 turtle 先重新整理"]
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有什麼早期跡象顯示底方即將從 side control 嘗試 turtle turn？",
+    "answer": "最早的跡象是對方在你的髖部或肩膀上建立前臂 frame。這個 frame 是每一次轉身的前提，因為它製造了旋轉所需的分離。當你感覺到底方的近側手臂壓進你的髖部凹陷、或頂住你的肩膀時，立刻加強你的 crossface 壓力和髖部連結，阻止轉身發展。接下來的爆發性搭橋是第二個訊號，但等到那時候才反應，能給你的反制時間會少很多。",
+    "answer_line": "髖/肩處的前臂 frame",
+    "distractors": {
+     "plausible": [
+      "爆發性搭橋開始",
+      "底方抓住你的 collar"
+     ]
+    },
+    "trap": ["等搭橋出現才反應"]
+   },
+   {
+    "question": "你應該嘗試擋住 turtle turn，還是跟隨它轉往背控？",
+    "answer": "這取決於轉身發展的時機與階段。如果你在建立 frame 階段就及早辨識出轉身，透過加強 crossface 和髖部壓力來阻擋較好，因為這能維持你主導的 side control 位置。如果轉身已經進展到對方近側髖部開始轉向地墊、發展相當明顯的階段，跟隨轉往背控較優，因為硬拚一個已經在進行中的轉身，常會造成結果難以預測的混戰。關鍵門檻在於旋轉是否已經產生了自身的動能。",
+    "answer_line": "早期就擋，已轉就跟",
+    "distractors": {
+     "plausible": [
+      "永遠擋住以維持 side control",
+      "永遠跟隨去拿背控"
+     ]
+    },
+    "trap": ["對方一動就硬拚旋轉"]
+   },
+   {
+    "question": "當對手轉身時，你如何在從 side control top 過渡到 turtle top 之間維持控制的連貫性？",
+    "answer": "整個旋轉過程中都要維持胸背貼合，讓你的上半身跟著底方一起轉動。在他們旋轉時，你的 crossface 手要轉換成 seatbelt 位置，滑過他們的肩膀。你的近側控制手則從髖部控制滑到腰部的 underhook 位置。關鍵原則是絕不出現任何脫節的瞬間。你的體重應該無縫地從 side control 的胸壓轉移到 turtle top 的胸壓，中間不能有任何空隙。",
+    "answer_line": "維持胸背貼合，無空隙",
+    "distractors": {
+     "plausible": [
+      "先換抓握再重新貼上",
+      "暫時放開髖部控制"
+     ]
+    },
+    "trap": ["放手重新調整 base"]
+   },
+   {
+    "question": "一次失敗的 turtle turn 會為上位選手創造什麼位置推進的機會？",
+    "answer": "失敗的 turtle turn 常會讓底方留在半轉身狀態，frame 結構不完整、體力也消耗殆盡。這為 mount 推進創造絕佳機會，因為他們的髖部已經轉開，比從標準 side control 更容易跨步過去。如果他們在失敗轉身後回到背部，通常會更加疲憊、frame 也更弱，讓 americana 或 kimura 之類的提交攻擊更可行。失敗的逃脫也會帶來心理優勢，讓對方對逃脫選項的信心下降。",
+    "answer_line": "立刻跨步上 mount",
+    "distractors": {
+     "plausible": [
+      "後撤攻直腿式關節技",
+      "轉到 north-south 拖時間"
+     ]
+    },
+    "trap": ["追背控、放棄上位"]
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "_meta": {
+  "source": "content/Positions/Standing Rear Clinch.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "flashcards_position": [
+  {
+   "question": "是什麼樣的配置定義了 Standing Rear Clinch，讓它有別於其他站立位置？",
+   "answer": "Standing Rear Clinch 的定義，是一方從背後貼身站在直立對手的後方，至少有一隻手臂用 seatbelt、body lock 或 collar tie 的方式，環繞住對方的上半身或腰部。站在後方的這一方，佔據了前方對手看不到、也無法對正的死角，雙方都還站立著，這場交手也還沒有落到地面。這種站立時胸貼背的姿態，正是它跟中立的 clinch（雙方面對面）以及地面上的 back control（用勾腳與體重取代 footwork 作為主要固定手段）的區別所在。",
+   "answer_line": "胸貼背、死角、仍站立",
+   "distractors": {
+    "plausible": ["雙方面對面站立", "已勾腳、體重壓在地面上"],
+    "trap": ["從正面抓 collar"]
+   }
+  },
+  {
+   "question": "Standing Rear Clinch 中有哪三種可用的抓握配置？各自著重什麼？",
+   "answer": "三種主要的抓握是 seatbelt（一手繞過肩膀、另一手穿過對側腋下）、body lock（雙臂環抱腰部並扣手）以及 collar tie（gi 特有的抓 collar 與 lapel 控制）。seatbelt 著重上半身控制，能製造最直接的 choke 威脅；body lock 則著重 takedown 的安全性，防止對手脫離接觸。collar tie 在 gi 規則下能額外提供距離管理與 posture 控制。因為每一種抓握都可能被攻破，貼身的那一方必須能隨著交手情勢的演變，在這三種抓握之間流暢切換。",
+   "answer_line": "seatbelt 掐脖，body lock 摔倒",
+   "distractors": {
+    "plausible": ["collar tie 是最穩固的抓握", "body lock 是主要的 choke 威脅"],
+    "trap": ["只有 seatbelt 抓握才重要"]
+   }
+  },
+  {
+   "question": "為什麼站在後方的一方，髖部必須偏向一側，而不是正對著對手的正後方？",
+   "answer": "如果髖部正對著對手的正後方，前方的對手就有一條直線的路徑，可以直接坐下或向後倒，把體重壓在後方那一方身上，逼出 scramble 或反轉。把髖部偏移到大約 45 度角，能消除這條直線後倒的路徑，逼迫前方的對手必須先旋轉身體才能坐下，這也為後方那一方爭取到跟上的時間。這個偏移同時也讓後方那一方的體重以斜向壓在對方背上，提升 mat return 與 takedown 的槓桿效果。這個髖部角度是這個位置的結構支柱，一旦失去，控制力就會最快崩解。",
+   "answer_line": "偏移 45 度，阻斷坐倒路徑",
+   "distractors": {
+    "plausible": ["髖部對正以求最大前推力", "偏移只對 mat return 有幫助"],
+    "trap": ["保持對正以同時控制兩側"]
+   }
+  },
+  {
+   "question": "Standing Rear Clinch 中的體重分布與 footwork，跟地面上的 back control 有什麼不同？",
+   "answer": "在站立版本中，控制力來自 footwork 與向前的胸口壓力，而不是像地面上那樣靠勾腳與體重把對手固定住。雙方都會把重心放在腳掌前緣、膝蓋微彎，所以這個位置是動態且機動的，而不是靜態的，任何一方都能立刻改變方向。後方那一方會把大約六成的體重透過胸口的接觸向前施壓，剩下的體重則保留給機動的 base，以便跟上對方的移動。這種機動性是一把雙面刃：它既讓後方那一方能夠持續追擊，也讓前方的對手有機會嘗試轉身或切換方向，這也讓這個位置遠比地面上的 back control 來得不穩定。",
+   "answer_line": "靠 footwork 與壓力，非勾腳",
+   "distractors": {
+    "plausible": ["雙腳貼平以求更重的 base", "跟地面上的 back control 完全相同"],
+    "trap": ["把重心沉到腳跟，貼平踩地"]
+   }
+  },
+  {
+   "question": "為什麼胸貼背的接觸，是這個位置中最重要的單一控制機制？",
+   "answer": "胸貼背的接觸，正是剝奪前方對手轉身、坐倒或重設回中立 clinch 所需空間的關鍵。只要雙方的軀幹一直緊貼在一起，後方那一方就能跟上對方的每一步，而前方的對手也無法製造出脫身所需要的旋轉空間。一旦胸與背之間出現哪怕只有幾吋的空隙，前方的對手就能獲得旋身、使出摔法或變換高度脫身的空間。因此雙方的整體打法都圍繞著這個接觸點展開：後方那一方拼命維持它，前方的對手則拼命想要破壞它。",
+   "answer_line": "剝奪轉身或坐倒的空間",
+   "distractors": {
+    "plausible": ["主要是防止抓握被破解", "只在設置 choke 時才重要"],
+    "trap": ["退後一步以重設角度"]
+   }
+  },
+  {
+   "question": "這個位置站立的本質，如何讓雙方都陷入一場跟時間賽跑的競賽？",
+   "answer": "因為雙方都沒有固定在地面上，這個位置本質上就不穩定，任何一方都無法無限期地維持它。後方那一方每多花一秒鐘鞏固抓握、體重與髖部角度，就會壓縮前方對手的脫身時間窗口，所以拖延對進攻方有利。相反地，前方對手最好的機會，是在對方完成鞏固之前，立刻進行 hand fighting 與變換高度。正是這個雙方共有的時鐘，讓這個位置通常會在幾秒鐘內，演變成 takedown、back take 或是脫身，而不會演變成長時間的站立僵持。",
+   "answer_line": "不穩定；拖延對進攻方有利",
+   "distractors": {
+    "plausible": ["前方對手靠等待取勝", "雙方都因放慢速度而受益"],
+    "trap": ["坐下 pull guard 以求穩定"]
+   }
+  },
+  {
+   "question": "控制前方對手的 posture，對 Standing Rear Clinch 的穩定性扮演什麼角色？",
+   "answer": "讓前方對手保持腰部前彎，會剝奪他們執行摔法、有效 hand fighting、或坐倒反轉所需要的強壯直立 base。被破壞、前傾的 posture，也會把他們的體重轉移到腳掌前緣，讓他們更容易被推倒到地面，或被拖下去 back take。後方那一方，是靠向下壓肩膀或把對方的髖部往後拉來達成這一點的。一旦前方對手被允許站直、重新建立 posture，槓桿的平衡就會轉回對他們有利，脫身與反轉的選項也會隨之打開。",
+   "answer_line": "破壞 posture，摧毀對方 base",
+   "distractors": {
+    "plausible": ["讓對手保持直立以利控制", "posture 控制只是為了阻止 choke"],
+    "trap": ["讓對手站直並對正身體"]
+   }
+  },
+  {
+   "question": "Standing Rear Clinch 跟它能轉換進出的相鄰位置有什麼關係？",
+   "answer": "Standing Rear Clinch 位在 takedown 階段與 back attack 打法的交會處，銜接了摔角與柔術。它經常從 sprawl、snap down、arm drag，或是一次沒能成功的 pull guard（讓一方留在另一方身後）中出現，最常見的走向，是透過 mat return 演變成地面上的 back control，或是在前方對手成功轉身面對時，變成中立的 clinch。如果後方那一方靠 posture 把前方對手往下壓，這場交手可能會轉往 front headlock；如果前方對手選擇坐下 pull guard，那麼朝 side control 方向的 body lock pass 也會隨之開啟。理解這些相鄰的位置，能讓雙方在交手抵達之前，就先預判它接下來會走向何方。",
+   "answer_line": "銜接 takedown 與 back attack",
+   "distractors": {
+    "plausible": ["只是一種摔角 takedown 的前置動作", "只是通往 rear choke 的路徑"],
+    "trap": ["坐下 pull guard 來脫身"]
+   }
+  }
+ ]
+}

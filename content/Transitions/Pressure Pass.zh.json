@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Pressure Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "相較於speed passing，pressure pass的主要目標是什麼？",
+    "answer": "pressure pass利用受控、沉重的體重分配來限制對手的行動能力，並逐步瓦解他們的guard結構。它不像speed passing那樣試圖快速繞過雙腿，而是強調控制與循序漸進的推進，而非追求速度。",
+    "distractors": {
+     "plausible": [
+      "快速繞過雙腿往前推進",
+      "用純粹的力量硬壓過去"
+     ],
+     "trap": [
+      "快速衝入結果被sweep"
+     ]
+    },
+    "answer_line": "重壓控制優先於速度"
+   },
+   {
+    "question": "為什麼在pressure pass時要保持髖部低位？",
+    "answer": "保持髖部低位能把最大的體重透過胸口壓在對手身上，讓他們更難移動髖部或建立frame。低髖部也能改善你的base，並防止對手利用挺高的posture在你下方創造空間。",
+    "distractors": {
+     "plausible": [
+      "把base放寬以維持平衡",
+      "保持機動去追髖部"
+     ],
+     "trap": [
+      "抬高髖部以取得更好的posture"
+     ]
+    },
+    "answer_line": "透過胸口驅動體重"
+   },
+   {
+    "question": "對手在你的髖部上建立了強力的frame並開始伸直雙腿，你該如何調整？",
+    "answer": "把髖部壓低到他們的frame下方，讓frame被頂到你的肩膀上方，而不是擋住你的推進。把胸口往前驅動、壓過他們的frame頂端來瓦解這個結構，並用你的grip把他們的膝蓋壓住。如果他們全力伸腿硬推，就切換成knee slice pass，利用他們伸腿所創造出的角度。",
+    "answer_line": "鑽到frame下方並瓦解它",
+    "distractors": {
+     "plausible": [
+      "直接正面推穿frame",
+      "抓住腳踝往內拉"
+     ],
+     "trap": [
+      "站起來破壞frame"
+     ]
+    }
+   },
+   {
+    "question": "為什麼crossface控制在pressure pass中很重要？相對於crossface，你該往哪個方向pass？",
+    "answer": "crossface控制很重要，因為它能防止對手轉身面向你、建立underhook，或恢復half guard。你應該往crossface的同一側pass（如果你的crossface是壓向他們的右側，就往你的右邊pass），利用crossface的壓力把他們壓平、防止他們防禦性轉身。",
+    "answer_line": "往crossface同一側pass",
+    "distractors": {
+     "plausible": [
+      "crossface只是擋住他們的視線",
+      "方向其實沒那麼重要"
+     ],
+     "trap": [
+      "往反方向pass，暴露背部"
+     ]
+    }
+   },
+   {
+    "question": "對手開始轉身面向你，並試圖取得underhook準備進入deep half guard，阻止這個動作的關鍵時間窗口是什麼？",
+    "answer": "關鍵時間窗口是在他們完成側身轉動、把頭穿進你腋下之前。一感覺到轉身的動作開始，就更用力地驅動crossface把他們壓平，把髖部往遠離他們underhook那一側sprawl，並在他們取得underhook的手臂上建立whizzer。一旦他們完全建立好deep half、頭已經穿進去，要阻止就會困難得多。",
+    "answer_line": "在頭穿過手臂之前",
+    "distractors": {
+     "plausible": [
+      "在他們取得underhook之後",
+      "一旦hip escape開始"
+     ],
+     "trap": [
+      "等到deep half完全鎖定才處理"
+     ]
+    }
+   },
+   {
+    "question": "從combat base發動pressure pass之前，你需要哪種grip配置？",
+    "answer": "你至少需要一個控制對手下半身的grip——抓住膝蓋處的褲管或belt/髖部區域——用來牽制他們的髖部，防止hip escape。另一隻手應該控制對側的膝蓋，或準備建立crossface/underhook。在no-gi中，控制近側手腕、搭配手肘貼膝蓋的連結，也能達到同樣限制髖部活動的效果。",
+    "distractors": {
+     "plausible": [
+      "先抓雙邊collar",
+      "只控制遠側手腕"
+     ],
+     "trap": [
+      "放開grip以騰出雙手"
+     ]
+    },
+    "answer_line": "抓住膝蓋或belt作為錨點"
+   },
+   {
+    "question": "解釋一下pressure pass中「循序推進」的概念，以及為什麼急於完成pass反而適得其反？",
+    "answer": "循序推進的意思是分階段、受控地進行passing，在推進到下一步之前先鞏固每一個位置，而不是一口氣完成。急於求成適得其反，因為這會讓你失去壓力與平衡，把動能拱手讓給對手，讓他們拿去做sweep或恢復guard。pressure pass需要耐心與穩定的推進，同時全程維持持續的重壓。",
+    "distractors": {
+     "plausible": [
+      "配合對手的節奏",
+      "用壓力換取更好的grip"
+     ],
+     "trap": [
+      "急躁猛衝結果被sweep"
+     ]
+    },
+    "answer_line": "先鞏固每一個階段"
+   },
+   {
+    "question": "你已經建立crossface並在清除近側腿，但對手用遠側腳踩在你的髖部上開始推，你該怎麼辦？",
+    "answer": "維持你的crossface壓力，讓他們保持平躺，防止這一推創造出角度。用你空出的手抓住他們遠側的腳踝或褲管，把它壓在墊上或推過他們身體。如果無法移開那隻腳，就把體重朝那個髖部方向斜壓下去，瓦解這個支撐點。你也可以改變你的passing角度，改從那條腿上方繞過去，轉換成leg drag或往對側knee slide。",
+    "answer_line": "crossface、壓制或困住那隻腳",
+    "distractors": {
+     "plausible": [
+      "放開crossface去抓那隻腳",
+      "直接推向那個支撐點"
+     ],
+     "trap": [
+      "後退重新開始pass"
+     ]
+    }
+   },
+   {
+    "question": "在胸口施壓階段，最關鍵的施力方向是什麼？",
+    "answer": "最關鍵的方向是透過你的胸口斜向下、往前壓入對手的軀幹，角度朝向你打算pass的那一側。這個斜向的力量向量能同時把他們的髖部壓制在墊上、防止他們創造空間，並把他們壓平在背上。單純往正下方施壓會讓對手能側向hip escape，而單純往正前方施壓，如果你失去平衡，則可能被反轉成sweep。",
+    "answer_line": "斜向下方，朝pass方向",
+    "distractors": {
+     "plausible": [
+      "垂直往下壓髖部",
+      "正前方壓胸口"
+     ],
+     "trap": [
+      "往上推以取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "你的pressure pass被擋住，對手用強力的knee shield守住half guard，你應該繼續pressure pass，還是轉換成其他技術？",
+    "answer": "面對強力的knee shield，你應該轉換成另一種pass，例如knee slice或leg weave，而不是繼續單純的向前施壓。這裡向前施力效率不高，因為knee shield是一個結構性的frame，你越用力壓，它反而越強。轉換成knee slice的方法，是在維持crossface壓力的同時，把被困住的膝蓋斜切過他們的大腿；或轉換成leg weave，把你的腿穿過他們的knee shield。關鍵在於及早辨識出停滯點，在對手鞏固防禦結構之前完成轉換。",
+    "distractors": {
+     "plausible": [
+      "在壓力下等他們耗盡體力",
+      "用力量硬壓平knee shield"
+     ],
+     "trap": [
+      "硬往前衝結果被sweep"
+     ]
+    },
+    "answer_line": "轉換成knee slice或leg weave"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺到對手正在發動pressure pass時，最關鍵的防禦動作是什麼？",
+    "answer": "最關鍵的動作，是在對手把體重壓下來之前，用你的前臂在passer的肩膀與髖部上建立frame。及早建立frame能防止胸對胸的接觸、為雙腿的介入保留距離，並為之後所有的逃脫嘗試建立結構性的基礎。一旦passer在沒有frame的情況下壓下重壓，之後每一個防禦動作都需要多得多的力氣，成功機率也更低。",
+    "answer_line": "在對方壓下前先建立前臂frame",
+    "distractors": {
+     "plausible": [
+      "立刻去抓underhook",
+      "先做shrimp把髖部移開"
+     ],
+     "trap": [
+      "用手掌把胸口推開"
+     ]
+    }
+   },
+   {
+    "question": "在防禦pressure pass時，為什麼髖部的移動比手臂的力量更重要？",
+    "answer": "透過shrimp與bridge的髖部移動能在你的身體和passer之間創造出真正的空間，這是把雙腿重新插回guard位置所必要的。單靠手臂力量無法克服pressure passer的重力優勢，因為他們的全身體重超出你手臂能推動的極限。hip escape能改變接觸的角度，並創造出passer必須追趕的側向空間，而你的frame只需要維持住髖部所創造出的空間，不必獨自產生空間。",
+    "answer_line": "髖部能創造空間，手臂不行",
+    "distractors": {
+     "plausible": [
+      "手臂能提供更精細的控制",
+      "兩者同樣重要"
+     ],
+     "trap": [
+      "用手臂推來創造空間"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立crossface並正在清除你的近側腿，這個階段你最好的選擇是什麼？",
+    "answer": "在這個較晚的階段，你最好的選擇是立刻把手伸進crossface內側，對他們的頸部建立frame，然後朝pass方向的反方向做強力的hip escape，同時設法把你的近側膝蓋重新插回作為屏障。如果那條腿已經被清除，你必須朝passer方向bridge來破壞他們的平衡，接著往反方向hip escape，至少恢復到half guard。此時的優先目標是防止對手完全鞏固side control，而不是想著直接回到open guard。",
+    "answer_line": "frame頸部、hip escape、屏障膝蓋",
+    "distractors": {
+     "plausible": [
+      "直接把他們往上頂起來",
+      "只是撐著、拖延時間"
+     ],
+     "trap": [
+      "轉身背對，暴露背部"
+     ]
+    }
+   },
+   {
+    "question": "在pressure pass的過程中，passer在什麼時候最容易被sweep？",
+    "answer": "passer最容易被sweep的時候是在體重轉換的瞬間，特別是他們把體重移動去跨過你的腿、或從一個位置推進到下一個位置時。在這些時刻，他們的base會變窄、重心會偏移，創造出一個短暫的窗口，讓一個抓對時機的butterfly hook頂起、以underhook為基礎的反轉，或bridge，能夠改變他們的動能方向。從清除一條腿到鞏固side control之間的那個瞬間，是位置穩定之前最後一個高機率的sweep機會。",
+    "answer_line": "在體重轉換/跨步時",
+    "distractors": {
+     "plausible": [
+      "crossface剛鎖定之後",
+      "pass一開始的瞬間"
+     ],
+     "trap": [
+      "在他們完全壓穩之後"
+     ]
+    }
+   },
+   {
+    "question": "被壓在沉重壓力下、對手已經建立crossface時，防禦的優先順序是什麼？",
+    "answer": "優先順序是：第一，保護你的頸部與手臂，防範立即的submission威脅（收下巴、手肘夾緊）；第二，用你的近側手臂與髖部擋住膝蓋的路徑，防止位置推進到mount；第三，配合對手的動作或呼吸節奏，透過微小的hip escape逐步創造空間；第四，一旦有足夠的空間，就設法恢復guard。試圖跳過這個順序中的步驟，例如在還沒創造出空間之前就直接去搶guard，會浪費體力，並可能讓自己暴露在submission之下。",
+    "answer_line": "先護頸、擋mount，再逃脫",
+    "distractors": {
+     "plausible": [
+      "用力bridge把他們甩開",
+      "先搶underhook，防守之後再說"
+     ],
+     "trap": [
+      "伸手搶guard結果被choke"
+     ]
+    }
+   }
+  ]
+ }
+}

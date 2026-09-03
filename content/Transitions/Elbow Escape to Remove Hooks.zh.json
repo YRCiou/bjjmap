@@ -1,0 +1,170 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Elbow Escape to Remove Hooks.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Elbow Escape to Remove Hooks 的主要目標是什麼？",
+    "answer": "主要目標是有系統地清除對手在 back control 中的 hooks，這樣能瓦解他們掌控位置的根基，並創造出轉身、重新建立 guard 所需的旋轉空間。與其直接對抗上半身的控制，攻擊 hooks 才是從根本上解決他們優勢的方法。",
+    "answer_line": "清除 hooks，轉身回 guard",
+    "distractors": {
+     "plausible": ["先破解勒頸的 grip", "一次拔除兩個 hooks"],
+     "trap": ["身體前傾試圖站起來"]
+    }
+   },
+   {
+    "question": "為什麼必須一次清除一個 hook，而不是同時清除兩個？",
+    "answer": "同時清除兩個 hooks 會分散你的注意力和力氣，導致兩邊都清不乾淨。對手只要把重心移到你施力較輕的那一側，就能繼續維持該 hook。依序清除能讓你把全部力氣集中在一個 hook 上，把它完全困住，再處理第二個，同時不必擔心第一個又鉤回來。",
+    "answer_line": "全力集中處理一個 hook",
+    "distractors": {
+     "plausible": ["把較輕的 hook 留到最後", "力氣平均分配到兩隻腿"],
+     "trap": ["翻成 belly-down 甩開對手"]
+    }
+   },
+   {
+    "question": "當你做 hip escape 時，對手開始向前施加壓力，你該如何調整做法？",
+    "answer": "順著他們的前壓力量幫助你轉身，而不是硬碰硬對抗。當他們向前施壓時，把內側手臂穿到他們身體底下，繼續朝他們的方向轉身。只要正確引導，他們的前衝動能反而能幫你完成轉向 guard 的動作。不要再往後掙扎逃脫，而是順著他們的壓力一起轉。",
+    "answer_line": "手臂穿入，順勢而為",
+    "distractors": {
+     "plausible": ["撐住並用力往回推", "先撐著等對方停下"],
+     "trap": ["縮成 turtle，護住脖子"]
+    }
+   },
+   {
+    "question": "清除下方那個 hook 時，髖部應該朝哪個方向移動？",
+    "answer": "你必須朝著要清除的那個 hook 的反方向做 hip escape。這樣才能創造出讓 hook 越過你的腿、順利脫離的空間。如果朝 hook 那一側做 hip escape，反而會壓縮空間，可能幫助對手把 hook 鉤得更深。往外 shrimp 的動作會製造出一個空隙，接著你就能利用手肘楔入這個空隙，把他們的腳踝推開。",
+    "answer_line": "朝 hook 反方向做 hip escape",
+    "distractors": {
+     "plausible": ["直接往上做 bridge 離開地板", "把髖部滑向對方的腳跟"],
+     "trap": ["翻成 belly-down 壓過對方的腿"]
+    }
+   },
+   {
+    "question": "當你在處理第二個 hook 時，如何避免對手重新鉤回第一個 hook？",
+    "answer": "第一個 hook 清除後，立刻用雙腿把對方已清除的那條腿夾成 triangle 形狀。你的外側腿勾過對方已清除的腿，內側腿則收緊夾成三角，把對方的腿困在你的大腿之間。這個腿部困鎖必須先確實鎖好，才能開始處理第二個 hook，否則你會不斷循環處理，永遠清不完。",
+    "answer_line": "用雙腿夾住對方的腿",
+    "distractors": {
+     "plausible": ["把雙膝夾緊", "把腿踢得遠遠的"],
+     "trap": ["翻向對手，把背部露出去"]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄有系統的 elbow escape，改採更爆發性的逃脫方式？",
+    "answer": "只有在 submission 已經迫在眉睫、你沒有時間依序執行整套動作時，才應該放棄有系統的做法。如果對手已經鎖緊了 choke，而你在逃脫的同時無法防禦，這時可能需要靠爆發性動作來爭取一線生機。不過，慌亂的動作通常只會讓情況更糟——在 submission 真正變得危急之前，有系統的做法應該一直是預設選擇。",
+    "answer_line": "只有在 submission 迫在眉睫時",
+    "distractors": {
+     "plausible": ["只要覺得逃脫太慢就換", "只要對方一鉤上 hook 就換"],
+     "trap": ["朝勒頸的手臂方向翻滾"]
+    }
+   },
+   {
+    "question": "當你開始清除第一個 hook 時，對手改用 body triangle，你需要做什麼調整？",
+    "answer": "立刻停止清除 hook 的動作，優先處理 body triangle。逃脫 body triangle 需要不同的力學方式——你必須把對方上方的膝蓋往下壓，同時朝 triangle 那一側轉身。面對 body triangle 還繼續照原本清除 hook 的流程是沒有用的，因為控制的機制已經完全改變了。要盡早察覺對方的轉換，並調整你的逃脫方式。",
+    "answer_line": "壓下上方膝蓋，轉身",
+    "distractors": {
+     "plausible": ["繼續照原本清除 hook 的流程", "用力 bridge 後坐回"],
+     "trap": ["轉身遠離被鎖住的腳踝"]
+    }
+   },
+   {
+    "question": "在這個技巧中，護頸和清除 hook 之間是什麼關係？",
+    "answer": "整個清除 hook 的過程中，護頸都必須是你最優先的考量——這不是二選一的取捨，而是必須同時兼顧的要求。elbow escape 這個方法能讓你在處理 hooks 的同時，至少留一隻手護住脖子。絕對不要為了加快清除 hook 的速度而放棄護頸，否則對手只會趁你專注在他們的腿上時，直接把 choke 完成。",
+    "answer_line": "護頸的同時清除 hooks",
+    "distractors": {
+     "plausible": ["先快速清除 hooks，之後再護頸", "雙手輪流護頸和處理 hook"],
+     "trap": ["雙手都放下去處理 hooks"]
+    }
+   },
+   {
+    "question": "如何判斷應該先清除哪一個 hook？",
+    "answer": "鎖定施力較輕的那個 hook——通常是對手身體傾斜、遠離的那一側。感受哪一隻腳踝對你身體施加的壓力比較輕。施力較輕的 hook 需要較少的力氣就能清除，也讓你更有機會先拿下第一場勝利。從施力較重的 hook 開始，通常會失敗並浪費體力。",
+    "answer_line": "鎖定施力較輕的 hook",
+    "distractors": {
+     "plausible": ["從鉤得較深、較重的那個開始", "永遠攻擊在上方那一側的腿"],
+     "trap": ["轉頭去看 hook 在哪"]
+    }
+   },
+   {
+    "question": "決定你該用 elbow wedge 還是 heel drag 變化式的關鍵是什麼？",
+    "answer": "選擇取決於當下的威脅程度和 hook 鉤入的深度。當你無法安全地把手從護頸位置移開，或是 hooks 鉤得又深又緊時，使用 elbow wedge。當 hooks 較淺、有短暫沒有勒頸壓力的空檔、又需要更快清除時，使用 heel drag。elbow wedge 比較安全但較慢；heel drag 比較快，但需要暫時犧牲護頸。",
+    "answer_line": "威脅程度和 hook 深度",
+    "distractors": {
+     "plausible": ["gi 或 no-gi 的規則", "計時器還剩多少時間"],
+     "trap": ["先把一隻手從脖子移開"]
+    }
+   },
+   {
+    "question": "在困鎖階段，對已清除的腿使用什麼樣的控制配置，最能防止對手重新鉤回 hook？",
+    "answer": "用雙腿夾成 triangle 的配置，比單純夾緊膝蓋更有效。你的外側腿勾過對手已清除的脛骨，內側腿則從下方交叉收緊三角。這樣能形成一個機械式的鎖，讓對手必須對抗你整條腿的結構，而不只是單純的夾力。單靠夾緊膝蓋，面對強力的髖部動作會失敗，因為根本沒有鎖定機制。",
+    "answer_line": "外側腿勾住，三角鎖定",
+    "distractors": {
+     "plausible": ["雙膝緊緊夾在一起", "雙腳都勾在大腿下方"],
+     "trap": ["放開腿並轉身離開"]
+    }
+   },
+   {
+    "question": "兩個 hooks 都清除之後，最後轉身回到 open guard 的過程中，關鍵細節是什麼？",
+    "answer": "你必須用雙手 frame 住對方的髖部，同時把膝蓋插進你們兩人身體之間，才能完成轉身。許多人轉身面對對手後，卻沒有建立起 guard 的結構，導致對手立刻重新拿下 back control。frame 加上膝蓋的插入，能形成一道屏障，防止對手跟著你轉身、重新建立胸貼背的連結。",
+    "answer_line": "frame 髖部，插入雙膝",
+    "distractors": {
+     "plausible": ["快速轉身面對對手", "雙手撐地推離地板"],
+     "trap": ["翻成 belly-down 掙扎起身"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手開始執行 elbow escape 來清除 hooks 時，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是對手的手肘往下沉到髖部內側，朝向你的腳踝或腳背移動。這通常會比真正的 hip escape 和清除 hook 早一到兩秒發生。察覺這個 elbow wedge 的位置，能讓你在對方做出真正清除 hook 的側向髖部動作之前，就先做出反應。次要線索包括髖部朝遠離其中一個 hook 的方向微幅移動，以及雙腿開始向內轉角。",
+    "answer_line": "手肘往你的腳踝方向下沉",
+    "distractors": {
+     "plausible": ["髖部突然爆發性移動", "雙腿突然夾成三角鎖死"],
+     "trap": ["等到 hook 真的鬆脫再說"]
+    }
+   },
+   {
+    "question": "為什麼改用 body triangle 是對抗 elbow escape 的有效反制？時機窗口是什麼時候？",
+    "answer": "body triangle 能完全消除逐一清除 hook 的機制，因為你的雙腿被鎖成單一結構，無法用 elbow wedge 來處理。時機窗口是在對手還沒對你的第一個 hook 施力之前——一旦你感覺到 elbow wedge 開始接觸，你大約有兩到三秒的時間，可以把 hooks 轉換成 body triangle 的配置，搶在對方開始做出能清除 hook 的 hip escape 之前完成。",
+    "answer_line": "在對方對第一個 hook 施力之前",
+    "distractors": {
+     "plausible": ["整個過程中的任何時候都可以", "第一個 hook 清除之後"],
+     "trap": ["等到對方轉身回 guard 再說"]
+    }
+   },
+   {
+    "question": "對手已經清除了你的第一個 hook，但還沒用雙腿確實困鎖住，這時你最有效的應對方式是什麼？",
+    "answer": "在對方能用雙腿把它夾成三角困鎖之前，立刻把已清除的那個 hook 重新鉤回去。把腳往回推進他們的大腿內側，同時加大胸部向前施壓的力道，限制他們的髖部活動。從清除 hook 到腿部困鎖之間的空檔通常不到兩秒，所以你必須立即反應。如果重新鉤入失敗，就鞏固你剩下的那個 hook，並讓空出來的那條腿交叉過去，改用 body triangle 鎖定。",
+    "answer_line": "立即重新鉤回 hook",
+    "distractors": {
+     "plausible": ["把 seat belt 收得更緊", "等對方真正投入再反應"],
+     "trap": ["鬆開雙腿並坐起壓在對方身上"]
+    }
+   },
+   {
+    "question": "當你感覺到對手開始處理你的 hooks 時，應該如何調整 submission 的壓力？",
+    "answer": "立刻加大勒頸的壓力，或發起新的 submission 威脅。對手決定要處理 hooks，代表他們必須從護頸抽出一隻手，或是動用手肘，這兩者都會製造出 submission 的破綻。把 collar grip 收緊、讓勒頸的手臂繼續往深處推進，或是轉為對他們露出的手臂發起 armbar 威脅。目標是製造一個兩難：對手若要處理 hooks，就必須承擔更高的 submission 風險。",
+    "answer_line": "加大勒頸或威脅壓力",
+    "distractors": {
+     "plausible": ["放鬆壓力以保留體力", "壓平身體撐住就好"],
+     "trap": ["放開勒頸改控制髖部"]
+    }
+   },
+   {
+    "question": "當你察覺對方開始逃脫時，如何調整重心分配才能最有效防止 hook 被清除？",
+    "answer": "把重心移向正被攻擊的那個 hook，把髖部朝那個方向傾斜，並把胸部的壓力往對方背部那一側往下施壓。這樣能讓受威脅的 hook 明顯變得更重，也更難用 elbow wedge 清除。同時，把受威脅那個 hook 的腳跟往對方遠側的髖部方向捲得更深，拉長手肘必須推動的距離。要避免把身體朝攻擊方向的反方向傾斜，那樣會讓 hook 變輕，更容易被清除。",
+    "answer_line": "把重心移向受威脅的 hook",
+    "distractors": {
+     "plausible": ["胸部平均壓在對方脊椎上", "放鬆 hook 以保持靈活"],
+     "trap": ["交叉腳踝把 hooks 鎖死"]
+    }
+   }
+  ]
+ }
+}

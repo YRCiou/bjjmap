@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的手臂與身體配置定義了 Double Unders 這個位置？",
+   "answer": "上位者把雙臂穿到底位者大腿下方，雙手在下背部後方扣緊，或抓住腰帶，形成一個把雙腿綁成單一控制單位的封閉環套。passer的胸部壓進大腿後側，把底位者的髖部往上堆疊，重量壓到對方的肩膀和上背。因為雙腿被同時擒住，防守者無法把任何一條腿獨立當作frame或hook使用。這種雙邊擒拿，加上往前的胸壓和抬高的髖部，正是這個配置有別於單腿或以half-guard為基礎的控制的地方。",
+   "answer_line": "雙臂穿大腿下方並扣緊",
+   "distractors": {
+    "plausible": [
+     "一手穿下方，一手蓋上方",
+     "雙手在前方扣緊，胸部後撤"
+    ],
+    "trap": [
+     "只抓腳踝，手臂伸直"
+    ]
+   }
+  },
+  {
+   "question": "為什麼背後的連結是 Double Unders 中最重要的單一控制點？",
+   "answer": "在下背部後方扣緊的雙手，封閉了把雙大腿綁在一起的環套，所以如果這個連結斷開，整個位置就會瓦解成分開的單腿爭奪戰。保持雙手相扣、手肘貼緊肋骨，能把雙臂變成一個抵抗腿部分離和frame插入的剛性結構。握法的深度與扣緊程度同樣重要：手臂完全穿到腿下方才能取得槓桿，握得太淺則會讓雙腿滑脫。位置的其他一切——胸壓、堆疊角度、髖部壓制——都仰賴這個環套對雙方而言持續保持完整。",
+   "answer_line": "扣緊雙手封住腿部環套",
+   "distractors": {
+    "plausible": [
+     "只求深握，雙手不相扣",
+     "手肘外展以求更強擠壓"
+    ],
+    "trap": [
+     "放開一手去抓 collar"
+    ]
+   }
+  },
+  {
+   "question": "在 Double Unders 中，重量和壓力是如何在兩人身體之間傳遞的？",
+   "answer": "passer把大部分重量往前、往下透過胸部導入大腿後側，把防守者的髖部往自己頭部方向頂高，讓對方的脊椎壓縮成堆疊、彎曲的姿勢。這股向量把防守者堆疊在肩膀和上背，而不是讓對方保持扁平、髖部靈活。做得好的話，這種壓力是骨骼性的而非純粹肌肉性的，passer透過結構堆疊體重，因此能夠持續維持。這種堆疊、髖部抬高的姿勢，正是這個位置的招牌壓力來源，也是它讓底位者迅速疲勞的原因。",
+   "answer_line": "胸部前壓，堆疊髖部",
+   "distractors": {
+    "plausible": [
+     "重量往下壓在對方膝蓋上",
+     "重量後移，把髖部往自己拉"
+    ],
+    "trap": [
+     "壓胸部，髖部保持扁平"
+    ]
+   }
+  },
+  {
+   "question": "髖部靈活度在決定 Double Unders 如何收場時扮演什麼角色？",
+   "answer": "這個位置根本上是對底位者髖部的爭奪：誰控制髖部的朝向，誰就控制結果。上位者努力把髖部釘得方正且抬高，讓防守者無法轉向任一側；底位者則努力保持髖部有角度、能移動，以保留逃脫路線。髖部被壓平、方正，就代表防守者已經失去往一側進入deep half或朝另一側做granby的能力。因為sweep和逃脫都繫於這單一變數，髖部控制正是雙方在握法和壓力表面之下真正爭奪的樞紐。",
+   "answer_line": "髖部控制決定 pass 或逃脫",
+   "distractors": {
+    "plausible": [
+     "握力強弱決定結果",
+     "只靠胸壓決定結果"
+    ],
+    "trap": [
+     "忽略髖部，只顧 frame"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Double Unders 被視為本質上過渡性的位置，而不是穩定的壓制點？",
+   "answer": "沒有一方能靠靜止不動獲利：靜態控制會讓防守者恢復frame並重新插入雙腿，而被動防守則只會讓堆疊完成。passer必須透過持續把膝蓋往前走來推進pass，防守者則必須持續努力經營frame、髖部角度和腿部恢復以逃脫。這個位置本身也不計分，所以沒有動機停留在其中。這種雙方都被推著繼續移動的壓力，正是這個配置通常會在大約十五到四十五秒內解決成pass或逃脫的原因。",
+   "answer_line": "靜止不動就會被 pass 或逃脫",
+   "distractors": {
+    "plausible": [
+     "維持這個位置能得分",
+     "最適合花數分鐘慢慢打"
+    ],
+    "trap": [
+     "坐著不動以節省體力"
+    ]
+   }
+  },
+  {
+   "question": "Double Unders 跟 over-under 或 leg-weave 的passing配置有什麼不同？",
+   "answer": "在 Double Unders 中，雙臂都穿到防守者兩條腿的下方，對稱地擒住雙腿並抬高髖部，把對手堆疊到肩膀上。over-under 和 leg-weave 的配置則是不對稱的：一隻手臂穿到一條腿下方，另一隻手臂則蓋過或穿織過去，把一條腿釘在地上，而不是把雙腿一起抬起。因為 Double Unders 是雙邊的，它產生的是純粹的堆疊壓力和向前的壓縮，而不對稱的passing則靠把一條腿剪離、以及對單側施加訂書機式的壓力。當一條腿從 Double Unders 的環套中逃脫時，這個位置會自然轉變成這些不對稱的配置之一。",
+   "answer_line": "雙腿都被擒，純粹堆疊",
+   "distractors": {
+    "plausible": [
+     "一手蓋上方，把腿釘在地上",
+     "雙臂只抓單一條腿"
+    ],
+    "trap": [
+     "握法相同，只是髖部角度不同"
+    ]
+   }
+  },
+  {
+   "question": "為什麼frame的爭奪是 Double Unders 共同動態的核心？",
+   "answer": "整個位置都繫於防守者能否在兩個胸口之間楔入任何結構：任何能創造空間的frame，都能讓逃脫機制運作起來；而消除每一個frame，就能讓堆疊完成。passer透過保持手肘緊貼肋骨來對抗這一點，讓對方無法把手臂插入環套，並讓胸部緊貼以消除縫隙。防守者則透過在臉部、頸部或髖部尋求前臂frame，來製造與來襲壓力成正比的空間。因為空間是雙方交易的貨幣，frame的爭奪正是整場交鋒背後的引擎。",
+   "answer_line": "靠 frame 爭取空間決定交鋒",
+   "distractors": {
+    "plausible": [
+     "只靠握力決定 frame",
+     "frame 只對 passer 重要"
+    ],
+    "trap": [
+     "靠蠻力硬破 frame"
+    ]
+   }
+  },
+  {
+   "question": "Double Unders 通常從哪些位置產生？是什麼讓那些guard容易受到它的攻擊？",
+   "answer": "Double Unders 最常從 half guard、butterfly guard，以及底位者雙腿抬高、可被接觸而非壓在地上的坐姿或open guard中出現。這些guard暴露了大腿下方，給了passer穿雙臂並在背後扣緊所需的開口。一旦guard被充分打開或破壞，passer就能穿透防禦性的frame，在防守者重新設置之前擒住雙腿。這個來源解釋了為什麼這個位置在passing體系中扮演入口的角色，把腿部抬高的guard轉換成堆疊、frame被消滅的配置，最終導向side control、mount或back。",
+   "answer_line": "腿部抬高的 open guard",
+   "distractors": {
+    "plausible": [
+     "closed guard 且雙腿緊纏",
+     "mount 或 side control 的轉換"
+    ],
+    "trap": [
+     "腿被困住的 deep half guard"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Double Unders.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

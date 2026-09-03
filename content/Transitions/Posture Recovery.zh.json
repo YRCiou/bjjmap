@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Posture Recovery.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在恢復姿勢（posture recovery）時，創造距離的主要動作是什麼？",
+    "answer": "用後側鏈肌群把髖部往後、往下驅動，遠離對手，這是主要動作。這個髖部驅動能創造出必要的距離，讓你開始伸直脊椎、恢復挺直的posture。動作應該從腿部與髖部發起，而不是靠上半身拉扯或猛然把頭往後甩。力量的方向是直接遠離對手，而不是往上。",
+    "answer_line": "髖部往後下方驅動",
+    "distractors": {
+     "plausible": [
+      "用雙臂直接往上推",
+      "先把胸口往後拉"
+     ],
+     "trap": [
+      "猛甩頭部後仰來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼恢復posture時不應該用頭或頸部帶動？",
+    "answer": "用頭或頸帶動有頸椎受傷的風險，而且會提前暴露你的恢復意圖，讓對手有時間設置triangle和armbar。當對手用collar grip往下拉、讓你的頸部在伸展狀態下承重時，這個風險最大。正確的恢復方式是從髖部開始，依序讓腰椎、胸椎、頸椎逐步伸直，確保力量分散在整條後側鏈上，而不是集中在頸部。",
+    "distractors": {
+     "plausible": [
+      "只是會拖慢你的恢復速度",
+      "只是會讓頸部肌肉疲勞"
+     ],
+     "trap": [
+      "甩頭後仰以甩開grip"
+     ]
+    },
+    "answer_line": "頭部帶動有頸椎受傷風險"
+   },
+   {
+    "question": "當你開始恢復posture時，對手轉動髖部設置armbar，你該如何調整？",
+    "answer": "立刻把被鎖定的手肘緊貼肋骨，並朝armbar攻擊的反方向爆發性地posture up。把體重往前壓在他們的攻擊腿上，破壞他們完成技術所需要的髖部角度。避免把手臂直接往後拉，這正好落入他們的槓桿優勢。相反地，保持手肘彎曲並貼緊身體，同時把重心壓向前方。危機解除後，繼續恢復posture，但要意識到對方可能會再次嘗試同一個手臂攻擊。",
+    "answer_line": "夾緊手肘，重心前壓",
+    "distractors": {
+     "plausible": [
+      "把手臂直接往後拉",
+      "立刻快速posture挺直"
+     ],
+     "trap": [
+      "伸直手臂硬拔出來"
+     ]
+    }
+   },
+   {
+    "question": "在展開主要恢復動作之前，必須先處理哪個grip？",
+    "answer": "先破解cross collar grip，因為它不但讓你的posture維持在被破壞的狀態，也威脅著cross collar choke，可能在你恢復的過程中發動。用雙手夾住對手抓握的手腕，以two-on-one的方式往他們大拇指方向推、同時轉動肩膀遠離，來破解這個grip。sleeve grip通常可以在恢復過程中一併處理，但深的collar grip如果沒有在展開髖部驅動之前先解除，會把你拉回去或直接choke你。",
+    "distractors": {
+     "plausible": [
+      "先破解sleeve grip",
+      "同時破解兩個grip"
+     ],
+     "trap": [
+      "直接往後拉進choke裡"
+     ]
+    },
+    "answer_line": "先破解cross collar grip"
+   },
+   {
+    "question": "面對積極進攻的guard player，發動posture recovery的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手在攻擊之間轉換、或調整grip的當下。在換grip的過程中，因為他們必須放開一隻手來重新抓握，拉扯的力量會暫時下降。同樣地，在一次失敗的submission嘗試之後，也會有短暫的重整期，此時他們對你腿部與手臂的控制會比較鬆。把你爆發性的髖部驅動時機對準這些控制力下降的瞬間，能大幅提高恢復成功率，並降低在恢復過程中被反制的機率。",
+    "answer_line": "換grip或重整的瞬間",
+    "distractors": {
+     "plausible": [
+      "剛拿下guard之後馬上做",
+      "在他們穩定控制期間"
+     ],
+     "trap": [
+      "在submission嘗試進行中"
+     ]
+    }
+   },
+   {
+    "question": "建立寬闊的base如何幫助成功恢復posture？",
+    "answer": "膝蓋往外撐開的寬base能提供多方向的穩定性，並防止你在恢復動作中被sweep。它創造出一個穩固的三角形基礎，讓你能運用腿部的力量把髖部往後驅動，而不會被從側面掀翻。寬base也讓對手更難執行scissor sweep或hip bump，因為你的重心低且分佈在更寬的範圍內，需要遠遠更大的力量才能把你移位。",
+    "answer_line": "防止被sweep，增加穩定性",
+    "distractors": {
+     "plausible": [
+      "加快髖部驅動的速度",
+      "只能防範來自背後的攻擊"
+     ],
+     "trap": [
+      "用窄base方便快速post"
+     ]
+    }
+   },
+   {
+    "question": "對手抓著深的collar grip，並在你嘗試恢復時開始把你拉進cross collar choke，你該如何應對？",
+    "answer": "不要試圖硬posture穿過choke。而是立刻處理這個勒頸的grip：先把下巴收向胸口爭取時間，接著用雙手以two-on-one的方式，把對手的手腕往大拇指方向推，剝除這個深collar grip。如果grip太深難以剝除，就轉換成站立式的posture recovery變化型，利用體重創造槓桿來破壞grip角度。只有在collar grip被破解或控制住之後，才恢復坐姿的恢復動作。",
+    "answer_line": "收下巴，剝除grip",
+    "distractors": {
+     "plausible": [
+      "把頭直接往後拉",
+      "單手抓對手的手腕"
+     ],
+     "trap": [
+      "硬posture穿過choke"
+     ]
+    }
+   },
+   {
+    "question": "closed guard與open guard之間，恢復力學上的關鍵差異是什麼？",
+    "answer": "在closed guard中，鎖在你背後的腳踝為對手破壞你posture的力量增添了顯著的拉力，你必須先打開guard，或產生足夠的髖部驅動力來克服腿部的夾力。面對強力的closed guard選手，可能有必要採用站立式恢復。在open guard中，因為沒有被鎖住的腿部迴路，恢復在力學上較容易，但你必須在恢復過程中處理對手放在你髖部或二頭肌上的腳。open guard的恢復需要控制他們的小腿或腳踝抓握、同時往後驅動，而closed guard的恢復則優先破解collar grip，並可能需要站起來以解開腳踝鎖。",
+    "answer_line": "closed guard的腿部增加拉力",
+    "distractors": {
+     "plausible": [
+      "open guard永遠比較難",
+      "closed guard不需要破grip"
+     ],
+     "trap": [
+      "在open guard中忽略腿部控制"
+     ]
+    }
+   },
+   {
+    "question": "成功恢復posture之後，要立刻做什麼動作來防止對手再次破壞它？",
+    "answer": "立刻建立combat base：一膝跪地、另一腳平踩地面，形成穩定的三角形平台。抓住對手褲管靠近膝蓋處或collar的控制grip，來管理距離。透過髖部施加輕微的下壓力，防止他們坐起來重新進攻。在他們能重新建立拉扯控制之前，破解任何他們還握著的攻擊性grip。盡快展開你的開guard序列，而不是停留在恢復好的posture中，因為拖延會給對手時間重新建立攻擊性grip、再次破壞你的posture。",
+    "answer_line": "建立combat base、抓grip、下壓",
+    "distractors": {
+     "plausible": [
+      "停下來喘口氣",
+      "立刻站起來脫離"
+     ],
+     "trap": [
+      "放開所有grip重新開始"
+     ]
+    }
+   },
+   {
+    "question": "當你嘗試恢復posture時，對手轉移髖部創造角度，這會如何改變你的恢復方式？",
+    "answer": "有角度的對手正在設置像triangle、omoplata或armbar這類不對稱的攻擊。你必須先處理這個角度，再繼續恢復：把髖部重新對正回中心。把靠近對手偏轉那一側的膝蓋，驅入他們髖部與地面之間的空隙，以消除這個角度。把靠近角度那一側的手臂緊貼身體，防止被單獨孤立。重新對正之後，再繼續標準的恢復序列。如果忽略角度、繼續直線恢復，會讓你暴露在他們透過髖部轉移所設置的submission之下。",
+    "answer_line": "對正髖部，消除角度",
+    "distractors": {
+     "plausible": [
+      "繼續直線恢復",
+      "以相同角度對應"
+     ],
+     "trap": [
+      "伸直手臂創造空間"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "哪些觸覺線索能提早顯示對手即將嘗試恢復posture？",
+    "answer": "最早的線索是感覺到對手的膝蓋在你大腿旁撐得更開，以建立更寬的base來取得穩定性。接著你會感覺到他們的手從中性位置轉為在你的髖部、二頭肌或胸口上推frame。最決定性的線索，是感覺到他們核心收緊、髖部往後爆發性驅動。次要線索包括用two-on-one方式在你的collar上進行grip fighting，以及一隻腳平踩在地上，準備進行站立式恢復。",
+    "answer_line": "膝蓋撐寬、推frame、髖部收緊",
+    "distractors": {
+     "plausible": [
+      "只有突然放開grip",
+      "緩慢穩定的手臂壓力"
+     ],
+     "trap": [
+      "放鬆的呼吸節奏"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在對手嘗試恢復posture時主動進攻，會比單純防守性地保持grip更有效？",
+    "answer": "單純防守性地保持grip是一場消耗戰，上位選手最終會憑藉反覆嘗試與上位的槓桿優勢取勝。在恢復過程中主動進攻更有效，因為恢復動作會產生可預測的身體力學與短暫的破綻。手臂伸直會創造armbar機會，重心往後移會打開hip bump sweep的空間，不對稱的手臂位置則會創造triangle的切入點。進攻性的反制能果斷結束這個位置上的攻防，而不是拖長一場消耗你grip耐力的防守拉鋸。",
+    "answer_line": "進攻能利用恢復時的破綻",
+    "distractors": {
+     "plausible": [
+      "長期而言保持grip會贏",
+      "防守消耗的體力較少"
+     ],
+     "trap": [
+      "耗盡他們的握力再說"
+     ]
+    }
+   },
+   {
+    "question": "當對手發動站立式posture recovery時，你該如何調整你的guard？",
+    "answer": "當對手其中一腳踩地準備站起時，立刻把你的腳從交叉鎖踝轉為主動放在他們的髖部上，以控制距離。抓住雙邊的sleeve或手腕，防止他們在站起過程中建立grip控制。如果他們成功完全站起來，就轉換到open guard系統，例如collar-sleeve、De La Riva或lasso guard，而不是拚命想維持closed guard去對抗一個已經站起來的對手。站立式恢復從根本上改變了guard的動態，你必須順勢調整，而不是為一個在力學上已經不再站得住腳的位置硬撐。",
+    "answer_line": "腳轉放髖部，換成open guard",
+    "distractors": {
+     "plausible": [
+      "把腳踝鎖得更緊",
+      "抓collar把他們拉回地面"
+     ],
+     "trap": [
+      "追腿而放掉grip"
+     ]
+    }
+   },
+   {
+    "question": "在防守posture recovery時，維持什麼樣的髖部角度最理想？",
+    "answer": "偏離中心大約30到45度的角度髖部位置最理想，因為它能防止對手以最大的力學優勢直線往後驅動。這個角度會產生不對稱的壓力，讓對手更難克服，同時也打開了submission的路徑。你偏轉的方向，應該朝向你grip較強的那一側，或你察覺到對手手臂較為暴露的那一側。維持這個角度需要主動的髖部運作，無法從平躺、正對背部的姿勢達成。",
+    "answer_line": "髖部呈30-45度角",
+    "distractors": {
+     "plausible": [
+      "髖部完全正對對手",
+      "最大到90度的側角"
+     ],
+     "trap": [
+      "放平髖部以求穩固base"
+     ]
+    }
+   }
+  ]
+ }
+}

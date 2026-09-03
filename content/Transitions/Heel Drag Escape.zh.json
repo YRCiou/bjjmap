@@ -1,0 +1,207 @@
+{
+ "_meta": { "source": "content/Transitions/Heel Drag Escape.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 mount 逃脫的過程中，啟動 Heel Drag Escape 的最佳時機是什麼？",
+    "answer": "最佳時機是在一個小小的 hip bump 或 bridge 之後立刻進行，這個動作會在對手的腳與地墊之間製造出 2 到 3 吋的空間。這短暫的抬升讓你的腳跟有機會勾住對手的腳踝或腳背。如果沒有先製造這個空間就直接去 drag，你的腳跟只會從對手腳的上方滑過而勾不住。bump 跟 hook 應該幾乎是同時發生的動作。",
+    "answer_line": "先小 bump，再同步勾",
+    "distractors": {
+     "plausible": [
+      "先做爆發性的垂直 bridge",
+      "先勾，之後再找空間"
+     ],
+     "trap": [
+      "翻成 belly down 來解放雙腿"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 Heel Drag Escape 之前，必須具備哪些條件？",
+    "answer": "對手至少要有一隻腳平放在地墊上，且落在你勾腿可及的範圍內，通常靠近你的髖線位置。你的雙腿必須能自由活動，也就是說對手不能已經鎖死完整的 grapevine hook。你也需要足夠的髖部靈活度來做出一個小小的 bridge 或 bump 以製造空間，而且你的雙手應該是在對手髖部做 frame，而不是伸直手臂讓自己暴露在被攻擊的風險中。",
+    "answer_line": "腳平放在範圍內，且無 grapevine",
+    "distractors": {
+     "plausible": [
+      "在任何 mount 姿勢下都可以用",
+      "對手雙腿已被 grapevine 鎖緊"
+     ],
+     "trap": [
+      "伸直手臂把 mount 推開"
+     ]
+    }
+   },
+   {
+    "question": "決定 Heel Drag Escape 成敗最關鍵的力學細節是什麼？",
+    "answer": "腳跟必須從外側勾過並繞過對手的腳，用腳跟骨咬住腳踝或腳背，然後再往內拉。如果用腳趾或腳背去勾，抓握與槓桿都不足，drag 就會滑掉。勾拉的動作必須從髖部發力，帶動整條腿的拉力，而不是只靠腳踝彎曲，因為單靠腳踝的力量不足以對抗會抵抗的對手。",
+    "answer_line": "用腳跟骨勾，力量從髖部出",
+    "distractors": {
+     "plausible": [
+      "用腳趾去勾以增加抓握",
+      "彎曲腳踝把腳拉進來"
+     ],
+     "trap": [
+      "伸手下去直接抓對手的腳踝"
+     ]
+    }
+   },
+   {
+    "question": "執行 Heel Drag Escape 時最常見的失敗點是什麼？",
+    "answer": "三個主要的失敗點是：勾腳之前空間製造不足，導致腳跟從對手的腳上滑過而勾不住；勾到之後沒有果斷地往內拉，讓對手有時間把腳收回去；以及完成 drag 後沒有立刻夾緊雙腿，讓對手在你建立 half guard 之前把腿抽出去。每一個失敗點都是時機掌握的問題，而不是力量不足的問題。",
+    "answer_line": "沒空間、拉不夠、合腿慢",
+    "distractors": {
+     "plausible": [
+      "純粹是力量不夠",
+      "只是手的位置錯了"
+     ],
+     "trap": [
+      "放棄並平躺在 mount 底下"
+     ]
+    }
+   },
+   {
+    "question": "在做 Heel Drag Escape 時，應該維持什麼樣的 grip 或 frame 位置，才能防止對手往上推進？",
+    "answer": "雙手應該用前臂做 frame 頂住對手的髖部或下肋骨區域，而不是把手臂伸直。這樣可以避免對手在你逃脫的過程中推進到 high mount，同時也避免因手臂外露而給對手 Americana 或 armbar 的機會。這些 frame 也提供了做方向性 bridge 動作所需要的結構支撐，而這個 bridge 正是製造勾腳空間的關鍵。整個過程中手肘都要緊貼身體。",
+    "answer_line": "前臂 frame 頂髖，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "雙手緊抓對手手腕",
+      "underhook 對手的腿"
+     ],
+     "trap": [
+      "伸直手臂讓自己暴露"
+     ]
+    }
+   },
+   {
+    "question": "在 Heel Drag 的動作中，施力方向應該朝哪裡？",
+    "answer": "力量應該朝內、跨過你的身體中線施加，把對手的腳從你髖部外側拉到你的雙腿之間。方向是偏向內側並略微向下，運用整條腿從髖部發動的自然弧線捲動動作。往上或往外拉會分散勾腳的力量，讓對手的腳有機會逃出勾點。可以想像成把對手的腳以弧線掃向你另一邊的膝蓋,而不是直直往內拉。",
+    "answer_line": "往內拉，弧線掃向對側膝蓋",
+    "distractors": {
+     "plausible": [
+      "直直往上拉",
+      "把腳往外扭"
+     ],
+     "trap": [
+      "翻到 belly down 硬拉出來"
+     ]
+    }
+   },
+   {
+    "question": "對手用抬腳並把膝蓋往你腋下頂的方式來反制你的 Heel Drag，這時你該怎麼調整？",
+    "answer": "當對手抬腳來避開你的勾腳時，立刻切換到同側的 Elbow Escape。對手的膝蓋往你腋下頂的動作，會在另一側的髖部製造出空間，你可以利用 hip escape 配合插膝蓋的方式來運用這個空間。Heel Drag 的嘗試變成了 Elbow Escape 的鋪墊，形成一個雙重攻擊鏈，防守其中一個就會打開另一個。這個攻擊鏈正是系統性 mount 防守的基礎。",
+    "answer_line": "切換成同側 Elbow Escape",
+    "distractors": {
+     "plausible": [
+      "再更用力重試一次 Heel Drag",
+      "把對手的膝蓋壓回去"
+     ],
+     "trap": [
+      "翻到 belly 逃離壓力"
+     ]
+    }
+   },
+   {
+    "question": "如果 Heel Drag 只成功了一部分，對手在你建立 half guard 之前就開始把腿抽出去，這時有哪些後續選項？",
+    "answer": "立刻用更果斷的拉力重新嘗試 drag，同時轉身側身以建立 half guard 的角度。如果對手的腿幾乎快抽出去了，可以在他們完全抽離之前，從身體下方穿入建立 Deep Half Guard。另外，也可以利用這個部分纏繞的狀態插入 butterfly hook,轉換成 Butterfly Half Guard,這會比標準的 half guard 恢復提供不同的進攻選項。",
+    "answer_line": "重新用力拉，轉身進 half guard",
+    "distractors": {
+     "plausible": [
+      "等對手重新穩定下來",
+      "把腿伸直滑出去"
+     ],
+     "trap": [
+      "翻到 belly 藏住那條腿"
+     ]
+    }
+   },
+   {
+    "question": "在系統性的 mount 逃脫體系中，Heel Drag 如何跟其他 mount 逃脫方式串連在一起？",
+    "answer": "Heel Drag 是一個三招逃脫系統的一環，另外兩招是 Upa Escape 和 Elbow Escape。當對手用寬幅的 post 來防守 Upa 時，他們平放的腳就會暴露在 Heel Drag 的攻擊下。當他們抬腳來防守 Heel Drag 時，就會製造出 Elbow Escape 所需要的空間。當他們把重量往前壓來防守 Elbow Escape 時，Upa 的 bridge 就變得可行。每一招的防守都會打開下一招,形成一個無解的防守循環。",
+    "answer_line": "每個防守都打開下一招",
+    "distractors": {
+     "plausible": [
+      "一招就能打贏所有防守",
+      "只有在 Upa 失敗後才有用"
+     ],
+     "trap": [
+      "平躺不動等待機會"
+     ]
+    }
+   },
+   {
+    "question": "近側 Heel Drag 跟跨身變化版在設置與應用上有什麼差別？",
+    "answer": "近側 Heel Drag 用同側的腳跟去勾對手最靠近的那隻腳,所需的髖部靈活度較低,涵蓋的距離也較短,因此是預設的高命中率選項。跨身變化版則是用對側的腳去跨過去勾,需要更大的髖部靈活度以及更大幅度的 bridge 來製造空間。跨身版主要用在近側的腳已經被收回,或是對手已經適應並開始防守標準版本的情況下,提供不同的攻擊角度。",
+    "answer_line": "近側:距離短,是預設選項",
+    "distractors": {
+     "plausible": [
+      "跨身版需要的靈活度較低",
+      "兩者涵蓋的距離相同"
+     ],
+     "trap": [
+      "跨身伸手,把背部露給對手"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "什麼樣的腳部位置可以防止 Heel Drag Escape 被啟動？",
+    "answer": "讓你的雙腳緊貼對手的髖部,腳趾向內捲曲,而不是平放在地墊上。把腳放在靠近對手身體的位置,可以減少對手腳跟勾住你腳踝的角度。另外,也可以把膝蓋撐寬,並用前腳掌施壓,而不是整個腳掌平放,這樣可以讓你的腳踝保持抬高,不容易被勾住。",
+    "answer_line": "腳收緊,腳趾內捲",
+    "distractors": {
+     "plausible": [
+      "在對方背後交叉腳踝",
+      "雙腿伸直坐著"
+     ],
+     "trap": [
+      "雙腳跟平放且撐寬"
+     ]
+    }
+   },
+   {
+    "question": "你要如何分辨 Heel Drag 的設置動作跟一般 bridge 逃脫的嘗試？",
+    "answer": "Heel Drag 的設置動作是細微的側向腿部移動,加上一個有方向性、受控制的 hip bump,而不是以 bridge 為基礎的 Upa 那種爆發性向上的髖部推動。留意對手的腳是往你的腳踝方向移動,而不是為了做垂直 bridge 而平放。前面那個 hip bump 通常比較小,而且是朝向某一側,而且對手的手臂通常維持在髖部高度的 frame,而不是試圖抓住你的手臂和腿來做 bridge 反轉。",
+    "answer_line": "細微側向 bump,不是大 bridge",
+    "distractors": {
+     "plausible": [
+      "大幅度垂直髖部推動",
+      "他們抓住你的手臂和腿"
+     ],
+     "trap": [
+      "雙腳都離開地墊"
+     ]
+    }
+   },
+   {
+    "question": "面對正在進行中的 Heel Drag,什麼時候應該轉換成 Technical Mount,而不是硬撐維持標準 mount？",
+    "answer": "當對手的腳跟已經部分勾住你的腳,而且他們的雙腿正在主動夾緊時,就該轉換。與其硬要把腳從越纏越緊的纏繞中抽出來,不如利用對方腿部的活動與空間,把你遠側的 hook 插到對方身體後方。這會把對手成功的逃脫嘗試轉化成對你更有優勢的位置,並且威脅 Back Control。決策的時間點大約是腳跟勾住後的一秒鐘內;如果你在那個時間內無法把腳抽出來,就要立刻轉換。",
+    "answer_line": "腳跟一被勾住,就插遠側 hook",
+    "distractors": {
+     "plausible": [
+      "只有在 mount 已經丟失時才轉換",
+      "等到 half guard 鎖死才轉換"
+     ],
+     "trap": [
+      "伸手到後面去撬開對方的勾腳"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到自己的腳在 Heel Drag 嘗試中被勾住時,你的第一優先動作是什麼？",
+    "answer": "第一優先是把受威脅的那隻腳抬離地墊,並把膝蓋往對手的腋下方向頂。速度非常關鍵,因為一旦腳跟勾住、對手開始往內拉,這個纏繞就會變得越來越難掙脫。第二優先是用你撐住地面的那隻腳,施加沉重的向下髖部壓力,把對手壓平,讓他們無法夾緊雙腿困住你被纏住的那隻腳。",
+    "answer_line": "抬腳,膝蓋頂向腋下",
+    "distractors": {
+     "plausible": [
+      "把腳直接往後拉",
+      "在對方背後交叉腳踝"
+     ],
+     "trap": [
+      "坐直並試圖撬開勾腳"
+     ]
+    }
+   }
+  ]
+ }
+}

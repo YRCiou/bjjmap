@@ -1,0 +1,109 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置定義了 Dogfight，並讓它有別於平躺的 half guard？",
+   "answer": "Dogfight 是一種提升起來的 half guard，雙方都從髖部離地，撐起到膝蓋上，面對面呈直立或半直立的跪姿。其中一方的腿仍被困在另一方大腿之間，維持著 half guard 的關係，但這種共同的抬升取代了標準 half guard 那種扁平、層層堆疊的壓制方式，變成面對面的scramble。因為沒有人被壓在地上，重量是透過膝蓋和支撐點傳遞，而不是靠壓平背部的壓力。這種跪姿的平衡本質上不穩定，正因如此，這個位置才會迅速解決成sweep、後背暴露，或重新被壓平，而不是穩定地維持一個固定控制。",
+   "answer_line": "雙方跪起，half guard 困住",
+   "distractors": {
+    "plausible": [
+     "雙方像 half guard 一樣平躺",
+     "一方完全 mount 在上方"
+    ],
+    "trap": [
+     "一方扁平堆疊式passing"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 underhook 對 whizzer 的爭奪被視為 Dogfight 的核心控制機制？",
+   "answer": "Dogfight 圍繞著一個主要槓桿組織起來：一方在軀幹上取得 underhook，另一方則以 whizzer（overhook）回應，把那隻手臂往後、往下拉。誰贏得更深的 underhook，誰就控制了上半身的連結，也因此決定這個位置是要往sweep和back推進，還是崩塌回到地面。whizzer 的存在正是為了透過困住手臂並產生向下壓平的壓力來中和那個 underhook。這種鏡像的 underhook-whizzer 爭奪，正是讓這個位置成為真正的對抗，而不是穩定的控制，其結果通常決定誰會佔上風。",
+   "answer_line": "最深的 underhook 贏得控制",
+   "distractors": {
+    "plausible": [
+     "誰posture撐得更高誰就贏",
+     "只靠握力就能決定"
+    ],
+    "trap": [
+     "提早放棄 underhook 之爭"
+    ]
+   }
+  },
+  {
+   "question": "Dogfight 中重量和平衡是如何分配的？為什麼這讓這個位置如此短暫？",
+   "answer": "雙方都透過上半身的clinch，把重量往前、往斜方向傳遞，重心壓在膝蓋和一隻支撐腿上，而不是坐在髖部上或髖部貼地。因為雙方都在互相施壓，這個配置的行為就像兩股力量靠在同一條線上互相支撐，所以任何一方壓力的驟然流失或增加，都會立刻讓整個結構移位。這造成一種刀鋒般的平衡，角度、握深或支撐腳的微小變化就能決定結果。這種不穩定性正是為什麼 Dogfight 很少維持超過大約三十到九十秒，就會傾向sweep、back take、scramble，或回到被壓平的 half guard。",
+   "answer_line": "互相依靠造成不穩定平衡",
+   "distractors": {
+    "plausible": [
+     "雙方都坐得又平又穩",
+     "只有底位者承受重量"
+    ],
+    "trap": [
+     "坐回去放鬆這個位置"
+    ]
+   }
+  },
+  {
+   "question": "在 Dogfight 中，除了被困的 half guard 那條腿之外，雙腿和支撐點扮演什麼角色？",
+   "answer": "雖然內側腿仍被困在 half guard 的纏繞中，外側腿則充當動態的支撐架，建立base、產生sweep力量，並改變角度。每一方都利用那條自由腿做出frame來管理距離和高度，最常見的是把 knee shield 橫放在髖部上，或用 butterfly hook 勾在大腿下，前者能防禦性地製造空間，後者則能進攻性地抬升。支撐腳保持靠近身體能維持緊湊、多方向的base，而放得太寬的支撐點則會變成被繞過的目標。因為雙方都依賴這些支撐點來維持平衡，破壞對手的支撐點或髖部是讓其失衡的主要途徑。",
+   "answer_line": "外側腿撐起base、變換角度",
+   "distractors": {
+    "plausible": [
+     "雙腿都困在 half guard 裡",
+     "支撐腳盡量放寬"
+    ],
+    "trap": [
+     "支撐腳遠離身體以求延伸"
+    ]
+   }
+  },
+  {
+   "question": "頭部位置如何影響 Dogfight 中雙方的交鋒？",
+   "answer": "在這種面對面的跪姿clinch中，頭部是額外的控制點，而不是被動的身體部位，能保持頭部與對手齊高或更高的一方，往往能控制上半身的較量。把頭壓進對手的胸口或肩膀，能增加往前的壓力向量，迫使對方以彆扭的角度承受重量，也有助於抵抗被往後驅使。頭部低於對手，或遠離對方身體，則會招致往前的壓力和被壓平。因為雙方都明白這一點，Dogfight 除了握法之爭外，也持續進行著爭取更高、連結更緊密的頭部位置的較量。",
+   "answer_line": "頭部齊高或更高，往前壓",
+   "distractors": {
+    "plausible": [
+     "下巴內收，遠離對方",
+     "頭部被動休息以省力"
+    ],
+    "trap": [
+     "把頭壓低到對方胸口以下"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Dogfight 獎勵持續移動和方向性的壓力變化，而不是靜態的握持？",
+   "answer": "這個位置對任何一方都沒有穩定的壓制，所以單純握持等於讓技術更高的一方有機會有條理地解開這個配置，完成pass或sweep。相反地，高水準的打法會在往前驅動、側向拉扯、以及短暫釋放壓力之間交替，迫使對手不斷重新建立base。這些反應中每一個都會打開一道稍縱即逝的窗口，讓sweep、後背暴露或scramble得以發生，而靜態的clinch永遠不會產生這種機會。這種推拉節奏是這個位置共有的動態：雙方都是從對手的平衡修正中，而不是從靜止中，創造自己的機會，這也是為什麼 Dogfight 被形容為scramble而非控制。",
+   "answer_line": "推拉節奏逼出反應",
+   "distractors": {
+    "plausible": [
+     "握緊不放直到破解",
+     "只往前推，絕不放鬆"
+    ],
+    "trap": [
+     "常常釋放全部壓力來休息"
+    ]
+   }
+  },
+  {
+   "question": "Dogfight 最常流動進哪些鄰近位置？各自的觸發點是什麼？",
+   "answer": "Dogfight 位於 half guard 交鋒的十字路口，並沿著幾條可預測的路線解決。如果往前的壓力與沉重的 whizzer 把持有 underhook 的一方往下壓，這個位置就會崩塌回到被壓平的 half guard，或鑽入 deep half guard。如果一方取得深 underhook，而對手在繞轉時過度投入或暴露了後背，這個位置就會推進到back control，或sweep到side control或mount。當一方在 underhook 和壓力的較量中決定性獲勝，交鋒就會傾向於支配性的上位；輸掉的一方則會退回防禦性的guard。辨識出哪個觸發點正在發生——暴露的後背、寬闊的支撐點，或崩塌的frame——能告訴雙方這場scramble即將變成哪一個鄰近位置。",
+   "answer_line": "back take、sweep 或重回 guard",
+   "distractors": {
+    "plausible": [
+     "永遠解決為 mount top",
+     "只以submission收場"
+    ],
+    "trap": [
+     "只會僵持然後裁判重置"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Dogfight Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

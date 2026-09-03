@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的腿部配置定義了 Inside Sankaku 纏鎖，並讓它有別於其他 ashi-garami 變化型？",
+   "answer": "Inside Sankaku 是纏鎖雙腿以 figure-four 的方式包住對手被困的腿，外側腿交叉壓在內側腿上，在膝關節處鎖死這個三角形。被困的腿在膝蓋處被孤立，內側腿則勾住大腿以維持整個結構。決定性特徵在於這個纏鎖會旋轉對手的腿，讓腳跟朝向身體中線指，這正是它成為 inside heel hook 位置、而非 outside 位置的原因。這種向內的腳跟朝向，是它與 Outside Ashi-Garami 之間最重要的結構差異——後者暴露的是腳跟外側。",
+   "answer_line": "figure-four，腳跟朝內",
+   "distractors": {
+    "plausible": [
+     "figure-four，腳跟朝外",
+     "單一 hook，沒有交叉腿"
+    ],
+    "trap": [
+     "鎖在膝蓋下方，沒有夾緊"
+    ]
+   }
+  },
+  {
+   "question": "為什麼控制膝線（knee line）被視為 Inside Sankaku 中雙方爭奪的關鍵戰場？",
+   "answer": "膝線是決定纏鎖方能否保有旋轉控制，或被困一方能否旋轉脫身的分界線。只要交叉的雙腿持續壓在對手膝蓋上方並橫跨過去，被困的腿就無法旋轉去化解 inside heel hook 的角度。一旦被困腿的膝蓋越過這道屏障，heel hook 角度就會被化解，逃脫或反擊的路徑就會打開。因此雙方都會把全部精力放在這條線上：一方拚命守住，另一方拚命跨過去，這使它成為這個位置真正的支點，而不是腳跟本身。",
+   "answer_line": "旋轉與逃脫之間的關卡",
+   "distractors": {
+    "plausible": [
+     "腳踝握法決定這場交手",
+     "上半身框架決定它"
+    ],
+    "trap": [
+     "讓對方膝蓋越過你的鎖"
+    ]
+   }
+  },
+  {
+   "question": "髖對髖連接如何成為這個纏鎖中雙方共享的主要控制機制？",
+   "answer": "緊密的髖對髖連接消除了被困腿脫出所需的距離，因此兩組髖部貼得越近，figure-four 就鎖得越緊。一旦髖部之間出現空間，不論雙腳如何配置，腿都能滑脫，整個纏鎖就會瓦解。這也是為什麼這裡的控制是靠髖部驅動，而非握力或雙手。這種動態是相互且有方向性的：纏鎖方不斷向前收縮距離，而被困一方唯一的逃脫本錢，就是向後、遠離地製造髖部空間。",
+   "answer_line": "收縮距離，鎖死 figure-four",
+   "distractors": {
+    "plausible": [
+     "光靠腳的壓力就能維持",
+     "靠雙手握力困住腿"
+    ],
+    "trap": [
+     "任髖部漂移，只信任雙腳"
+    ]
+   }
+  },
+  {
+   "question": "是什麼讓 Inside Sankaku 成為雙方都投入其中的位置，而不像 mount 或 side control 那樣單方面控制？",
+   "answer": "雙方的腿都投入了這個纏鎖，因此沒有一方能像壓制那樣完全佔優、讓上位者的四肢完全自由。一方擁有對 inside heel 更優越的力學角度，但自己的雙腿同時也被佔用，並可能暴露在反纏鎖之下。這種相互投入意味著這個位置是由相對的控制品質定義，而非絕對的支配，微小的位置變化就能讓優勢易主。正是這種相互暴露，讓從這裡展開的leg lock交手往往變成一場搶在對手反制之前建立終結角度的競賽。",
+   "answer_line": "雙腿都投入，沒有純粹壓制",
+   "distractors": {
+    "plausible": [
+     "搶手決定控制歸屬",
+     "一方能保持雙腿自由"
+    ],
+    "trap": [
+     "像 side control 那樣放鬆"
+    ]
+   }
+  },
+  {
+   "question": "儘管 Inside Sankaku 與 Saddle 都是 inside-heel-hook 纏鎖，兩者有什麼不同？",
+   "answer": "在 Saddle 中，纏鎖方坐在對手雙腿之間，兩條腿都被有效管理，形成更低、更穩定的底盤與更沉重的髖部控制。Inside Sankaku 則只孤立單一條腿在 figure-four 中，姿態較高，依賴膝線的夾緊來維持旋轉控制。Saddle 通常提供更高的位置安全性，而 Inside Sankaku 則對暴露的腳跟內側提供更銳利、更即時的終結角度。兩者是緊密相鄰的位置，這也是為什麼被困腿的數量只要稍作變化，就能把一個轉換成另一個的原因。",
+   "answer_line": "Saddle 較穩，Sankaku 較銳利",
+   "distractors": {
+    "plausible": [
+     "Sankaku 控制兩條腿",
+     "Saddle 靠膝線夾緊維持"
+    ],
+    "trap": [
+     "待在 Sankaku 更安全"
+    ]
+   }
+  },
+  {
+   "question": "為什麼被困一方若轉身面向纏鎖方以試圖跨過膝線，在幾何上反而會惡化自己的處境？",
+   "answer": "向內旋轉會把第二條腿帶向纏鎖，縮短了鞏固控制所需的距離，實際上等於是在餵養這個 figure-four，而非破壞它。這種旋轉方向反而會協助對方進入 Saddle，或讓 inside heel 的暴露更加嚴重，而不是緩解它。力學上正確的逃脫向量是遠離對手，撐開髖部空間，而非收窄它。這種不分角色都成立的幾何規律，正是這個位置如此凶險的原因：直覺上驚慌時轉身向內的動作，正好就是收緊陷阱的那個動作。",
+   "answer_line": "轉身向內會帶入第二條腿",
+   "distractors": {
+    "plausible": [
+     "它會鬆開對方的 figure-four",
+     "向內旋轉能藏住你的腳跟"
+    ],
+    "trap": [
+     "轉向對方以跨過膝線"
+    ]
+   }
+  },
+  {
+   "question": "腳跟朝內的方向，如何決定這個位置中哪些submission會被啟用？",
+   "answer": "由於 figure-four 會旋轉被困的腿，讓腳跟朝向身體中線，inside heel hook 因此成為成功率最高的終結手段，因為腳跟能沿著膝蓋的自然活動範圍被側向旋轉。同樣的方向，也讓腳趾與腳掌在腳跟被藏起來時仍可觸及，方便發動 toe hold；而被孤立的膝蓋，則讓 kneebar 成為次要威脅。這個位置的整套submission選單，因此都是纏鎖如何導向小腿方向所產生的結果。認清腳跟朝內這一點，正是雙方判斷哪些攻擊有效、哪些防守重要的關鍵。",
+   "answer_line": "inside heel hook 是主要威脅",
+   "distractors": {
+    "plausible": [
+     "toe hold 才是主要終結手段",
+     "kneebar 才是頭號submission"
+    ],
+    "trap": [
+     "追armbar，放掉雙腿"
+    ]
+   }
+  },
+  {
+   "question": "為什麼把體重透過髖部而非雙手分配，才是維持 Inside Sankaku 的可持續方式？",
+   "answer": "用雙手撐地或抓握來維持纏鎖，會很快消耗前臂與手臂的耐力，一旦這些肌肉疲勞，位置就立刻變得脆弱。透過髖部驅動控制，則能讓骨架結構與 figure-four 的力學優勢來完成工作，因此微小的髖部調整就能化解更大的逃脫努力。這也讓雙手能空出來搶submission握法或防守反擊，而不是耗在維持位置上。這個原則對雙方都成立：誰依靠蠻力而非結構與髖部壓力，誰就會先疲勞，並輸掉這場交手。",
+   "answer_line": "體重透過髖部，而非雙手",
+   "distractors": {
+    "plausible": [
+     "靠速度與亂鬥來維持",
+     "撐在墊上以保持沉重"
+    ],
+    "trap": [
+     "用前臂硬撐以維持控制"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Inside Sankaku.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

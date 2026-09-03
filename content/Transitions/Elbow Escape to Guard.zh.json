@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Elbow Escape to Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Elbow Escape to Guard的主要目的是什麼？",
+    "answer": "主要目的是從防守中的buggy choke底位，重新拿回open guard位置。用手肘當作結構性的楔子頂住絞殺手臂，同時做hip escape，製造出插入雙腿所需的空間，建立一個可用的guard位置，讓你能威脅sweep和submission，而不是一直在防守submission。",
+    "answer_line": "重新拿回open guard",
+    "distractors": {
+     "plausible": [
+      "shrimp脫身並站起來",
+      "逃到half guard"
+     ],
+     "trap": [
+      "轉到膝蓋上逃脫"
+     ]
+    }
+   },
+   {
+    "question": "Elbow Escape to Guard是從什麼位置開始的？",
+    "answer": "Elbow Escape to Guard從buggy choke的底位開始，也就是對手從turtle top把手臂穿到你腋下的時候。具體來說，對手正在建立或已經建立絞殺grip配置。這個逃脫動作必須在choke完全鎖緊之前啟動，才有最高的成功機率。",
+    "distractors": {
+     "plausible": [
+      "Turtle bottom，還沒有威脅",
+      "Rear naked choke底位"
+     ],
+     "trap": [
+      "等到choke鎖住之後"
+     ]
+    },
+    "answer_line": "Buggy choke底位"
+   },
+   {
+    "question": "讓elbow wedge有效的關鍵結構性要素是什麼？",
+    "answer": "Elbow wedge之所以有效，是因為你的骨骼結構——手肘的尖端——形成了一個絞殺前臂無法壓穿的機械性屏障。你靠的是骨骼排列，而不是肌肉力量，在你的頸部與對手前臂之間放置一個堅硬的阻擋物。透過抓住自己的collar或伸手抓自己遠側肩膀來加強，能建立出更強的結構性frame。",
+    "distractors": {
+     "plausible": [
+      "肩膀frame擋住choke",
+      "靠肌肉力量撐住wedge"
+     ],
+     "trap": [
+      "放開wedge去hand fighting"
+     ]
+    },
+    "answer_line": "手肘骨頭擋住choke"
+   },
+   {
+    "question": "你開始逃脫時，對手加大向下的胸口壓力——你該如何調整？",
+    "answer": "當對手加大壓力時，優先維持elbow wedge結構，防止choke完成，同時等待對手調整位置。對手加大的壓力通常代表他們的移動性也降低了。改用較小的hip escape動作而不是大動作，如果choke威脅過於嚴重，可以考慮改為接受back control。即使無法立刻拿回guard，elbow wedge也能爭取到時間。",
+    "answer_line": "撐住wedge，小幅hip escape",
+    "distractors": {
+     "plausible": [
+      "大幅hip escape製造空間",
+      "用手推開對手"
+     ],
+     "trap": [
+      "放掉wedge，用力bridge"
+     ]
+    }
+   },
+   {
+    "question": "為什麼hip escape的方向必須是斜向，而不是直直往後？",
+    "answer": "斜向做hip escape能製造出明顯更多的空間，因為這會讓你離開對手的中線，讓對手無法直接跟上。直直往後的逃脫會讓對手維持相同的角度與連接。斜向角度同時也能自然地讓你的膝蓋準備插入，並建立面向對手的正確open guard結構。",
+    "distractors": {
+     "plausible": [
+      "增加shrimp的力量",
+      "讓髖部維持方正面對對手"
+     ],
+     "trap": [
+      "轉成趴姿，把背交出去"
+     ]
+    },
+    "answer_line": "離開對手中線"
+   },
+   {
+    "question": "如果對手在逃脫過程中放棄choke改拿你的背，你該如何反制？",
+    "answer": "如果對手放棄choke改拿你的背，立刻把近側髖部放低到墊子上，轉身面向他們，而不是繼續turtle。原本用來wedge的手肘現在可以frame在對手的髖部或大腿上，處理hook插入的問題。關鍵是要及早察覺這個轉換，不要在對手明顯要拿背時，還繼續做guard復原的動作。",
+    "distractors": {
+     "plausible": [
+      "繼續turtle保護頸部",
+      "向前sprawl擋住hook"
+     ],
+     "trap": [
+      "繼續guard復原動作"
+     ]
+    },
+    "answer_line": "放低髖部、轉身、frame手肘"
+   },
+   {
+    "question": "什麼時機窗口能提供最高的逃脫成功率？",
+    "answer": "成功率最高的時機窗口，是在對手調整grip的階段——也就是他們已經穿好手臂，但還沒鎖住第二個grip、施加完整身體壓力之前。一旦雙邊grip都鎖住並施加了整合過的壓力，逃脫難度會明顯提升。透過本體感覺察覺對手正在穿臂的嘗試，並立刻啟動逃脫，能提供最好的成功機率。",
+    "answer_line": "在grip調整階段",
+    "distractors": {
+     "plausible": [
+      "隨時只要重量一移動",
+      "他們換邊之後立刻"
+     ],
+     "trap": [
+      "等到壓力完全固定"
+     ]
+    }
+   },
+   {
+    "question": "這個逃脫技巧如何與其他buggy choke防守選項連結？",
+    "answer": "當對手的控制還在發展中時，elbow escape是首選的技術選項。如果elbow wedge無法建立，或對手的壓力已經整合完成，就轉為接受back control，這比完全鎖死的choke更容易存活。如果逃脫成功，立刻從open guard威脅sweep或抓collar，防止對手再次進攻。逃脫動作應該自然銜接到主動的guard進攻。",
+    "answer_line": "在拿背前的首選選項",
+    "distractors": {
+     "plausible": [
+      "背被拿走後的最後手段",
+      "只能從closed guard使用"
+     ],
+     "trap": [
+      "直接跳過去接受back control"
+     ]
+    }
+   },
+   {
+    "question": "在逃脫過程中，最常導致choke收緊的錯誤是什麼？",
+    "answer": "最常見的關鍵錯誤，是在還沒正確建立elbow wedge和收下巴之前，就先做hip escape。沒有先建立保護性結構，hip escape的動作反而可能加速choke收緊，讓你的頸部更深地陷入絞殺手臂。永遠要先建立防禦結構，再製造空間。正確順序是：收下巴、elbow wedge，然後才是hip escape。",
+    "answer_line": "wedge還沒建好就做hip escape",
+    "distractors": {
+     "plausible": [
+      "只收下巴，沒有elbow wedge",
+      "用hand fighting代替逃脫"
+     ],
+     "trap": [
+      "硬把頭直接抽出來"
+     ]
+    }
+   },
+   {
+    "question": "在無gi情況下，這個技巧該如何調整？",
+    "answer": "在無gi的情況下，你無法用抓collar來加強elbow wedge，所以要專注於把手肘尖端直接壓進對手前臂的軟組織，製造不適感，讓他們的grip鬆開。機械原理維持不變，但執行上更依賴精準的手肘放置和更快的動作速度，因為你無法建立像有gi那樣強的靜態屏障。可以考慮結合立即的guard腿部插入，而不是一直維持wedge。",
+    "answer_line": "把手肘壓進前臂神經處",
+    "distractors": {
+     "plausible": [
+      "抓自己的collar借力",
+      "推開對手的胸口"
+     ],
+     "trap": [
+      "維持靜態wedge，不急"
+     ]
+    }
+   },
+   {
+    "question": "在gi情況下，你需要在自己身上建立什麼grip來加強elbow wedge？",
+    "answer": "插入手肘之後，用做wedge的那隻手抓住自己遠側的collar。這能把你的手臂從肌肉frame轉變成由gi材質固定的加強骨骼結構。抓collar能防止對手把你的手肘從wedge位置剝離，並讓你以最小的體力消耗維持這個wedge，同時進行hip escape和插腿的動作序列。",
+    "answer_line": "抓住自己遠側的collar",
+    "distractors": {
+     "plausible": [
+      "抓自己近側的collar",
+      "抓對手的袖子"
+     ],
+     "trap": [
+      "放手加快hip escape速度"
+     ]
+    }
+   },
+   {
+    "question": "你第一次hip escape只製造出部分空間，對手開始跟上——你的立即反應是什麼？",
+    "answer": "在對手完全封鎖距離之前，朝同一斜向方向再做第二次hip escape。連續做多個較小的shrimp，而不是靠一次大動作。每一次hip escape都會累積更多空間。如果膝蓋已經部分插入，可以把它當作frame，防止對手塌回來，同時完成第二次shrimp並最終建立guard。",
+    "answer_line": "連續做第二次hip escape",
+    "distractors": {
+     "plausible": [
+      "一次大幅爆發性shrimp",
+      "用手推開對手"
+     ],
+     "trap": [
+      "停下來重設base"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "底位的人正在啟動Elbow Escape to Guard，最早的辨識線索是什麼？",
+    "answer": "最早的線索是底位的人積極收下巴，同時近側手肘開始往自己頸部方向內收。這個手肘的移動就是明顯的破綻——標準turtle姿勢會讓手肘保持外張以維持base，所以任何手肘向內移動的跡象都代表對手正在嘗試wedge。在wedge建立之前的這個初始階段做出反應，能給你維持buggy choke的最高機率。",
+    "answer_line": "手肘朝頸部移動",
+    "distractors": {
+     "plausible": [
+      "突然一陣髖部動作",
+      "手肘外張準備base"
+     ],
+     "trap": [
+      "等guard完全插入"
+     ]
+    }
+   },
+   {
+    "question": "你的絞殺壓力正被elbow wedge削弱，但底位的人還沒開始hip escape——你最好的反應是什麼？",
+    "answer": "嘗試剝離wedge：把你的絞殺前臂再壓深一點，並轉動手腕滑過手肘的尖端。同時加大垂直方向的胸口壓力，在對手開始hip escape之前先把他們釘住。如果2-3秒內剝離失敗，立刻轉換策略——要麼跟上他們預期的hip escape方向，要麼開始轉往back control，趁他們還沒製造出明顯空間之前行動。",
+    "answer_line": "剝離wedge，然後快速轉換",
+    "distractors": {
+     "plausible": [
+      "等對手體力耗盡",
+      "改用collar choke"
+     ],
+     "trap": [
+      "維持grip翻滾到自己背上"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄choke轉換成back control？",
+    "answer": "當elbow wedge已經完全建立、加上collar加強，而底位的人已經開始透過hip escape製造空間時，就該轉換。這時候choke完成的機率會明顯下降，繼續grip fighting只是在浪費體力對抗一個結構性屏障。Hip escape的動作其實有助於拿背，因為底位的人正在製造出你插入hook所需的分離空間。跟上他們的髖部移動，立刻勾住近腿。",
+    "answer_line": "Wedge撐住，髖部正在逃脫",
+    "distractors": {
+     "plausible": [
+      "一看到wedge就立刻轉換",
+      "只在collar grip被拿掉後"
+     ],
+     "trap": [
+      "繼續硬拚choke"
+     ]
+    }
+   },
+   {
+    "question": "你要如何阻止底位的人連續做多次hip escape逐步製造空間？",
+    "answer": "跟著對手的每一次hip escape移動你的髖部和胸口，全程維持胸貼背的連接。把你的頭部緊貼對手遠側肩膀作為錨點——只要頭部保持連接，你的身體就會跟著移動。用短距離的側向步伐跟上，而不是用跳躍的方式，因為跳躍可能會製造出瞬間的空隙。目標是逐步跟上對手的每一個動作，不讓他們累積出任何空間。",
+    "answer_line": "跟著髖部移動，頭部保持錨定",
+    "distractors": {
+     "plausible": [
+      "跳著跟上對手髖部",
+      "更用力往下壓胸口"
+     ],
+     "trap": [
+      "退後重設base"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的調整能防止有gi加強版elbow wedge——也就是底位的人抓自己collar——的變化？",
+    "answer": "你必須在對方的wedging手抓到collar之前，先控制住那隻手。如果你感覺到elbow wedge插入，立刻用你的自由手抓住對方的手腕或手，在他們建立加強grip之前把它拉離collar。一旦collar grip鎖住，這個wedge就會變得非常難剝離，因為它不再只依賴手臂力量——gi材質提供了結構性的加強。",
+    "answer_line": "在抓collar前先控制手腕",
+    "distractors": {
+     "plausible": [
+      "等wedge鎖住後再剝離",
+      "撐在對手肩膀上把他壓平"
+     ],
+     "trap": [
+      "雙手一起硬挖出來"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼樣的結構配置定義了 Russian Cowboy，並讓它與標準的 back control 有所區別？",
+   "answer": "Russian Cowboy 是一種不對稱的 back control 變化型，定義特徵是把一隻腳深深穿到對手近側腿下方，而不是標準 back mount 那種雙 hook 對稱的坐姿。這隻勾住的腳橫跨大腿內側朝鼠蹊部方向移動，對那一側的髖部提供旋轉槓桿，另一隻自由的腳則負責 post 或垂搭以維持 base。這種一隻進、一隻出的結構讓控制偏向勾住那一側的對角線，而不是兩隻 hook 都進去的平衡夾制。這種不對稱正是讓這個 position 成為 back control 與 truck 之間活動橋樑的原因，因為只要再多穿進一隻腳就能完成 truck 的纏繞。",
+   "answer_line": "一隻深勾腳，而非兩隻 hook",
+   "distractors": {
+    "plausible": [
+     "跟 back mount 一樣兩隻 hook",
+     "hook 只勾住腳踝"
+    ],
+    "trap": [
+     "雙腿完全纏繞"
+    ]
+   }
+  },
+  {
+   "question": "為什麼這單一的深勾腳是這個 position 的主要控制機制，而不只是個次要的附加控制？",
+   "answer": "這隻 hook 穿到近側腿下方，並用槓桿方式壓在大腿內側，所以它把這隻腿變成一根槓桿，控制對手的髖線與脊椎旋轉。因為它作用在髖部而不只是腳踝上，它能把對手的近側身體拉伸，並阻擋對手試圖把髖部轉回中立方正或轉身面對 guard 的企圖。這個旋轉錨點正是把下位球員釘在側身、肩膀離地的姿勢——也就是這場交鋒的定義性姿勢——的原因。一個只勾住腳踝或小腿的 hook，會失去這種髖部層級的槓桿，讓整個配置崩解回鬆散的 turtle。",
+   "answer_line": "槓桿作用在髖，不只腳踝",
+   "distractors": {
+    "plausible": [
+     "固定遠側的腳踝",
+     "主要是擋住他的手"
+    ],
+    "trap": [
+     "只是鬆鬆地抓住小腿"
+    ]
+   }
+  },
+  {
+   "question": "在 Russian Cowboy 中，雙方共同爭奪的身體姿勢是什麼？",
+   "answer": "雙方爭奪的姿勢是下位球員被釘在側身或部分呈 turtle 狀態，肩膀離地，無法壓平身體或轉回中立的 base。胸貼背的接觸讓軀幹沿著脊椎方向對齊，同時 hook 讓近側髖部維持旋轉。一方想要維持這種被拉伸、側身暴露的排列方式，因為這能同時阻止對手重建 guard 和站起來；另一方則想透過讓肩膀或髖部回到地面來破壞它。誰能決定那對肩膀是否回到地面，誰就控制了這個 position。",
+   "answer_line": "肩膀被釘住，離開地面",
+   "distractors": {
+    "plausible": [
+     "髖部放平且方正對齊",
+     "雙肩都貼在地上"
+    ],
+    "trap": [
+     "讓肩膀回到地面"
+    ]
+   }
+  },
+  {
+   "question": "Russian Cowboy 在機制上與 truck 有什麼不同，為什麼兩者之間的界線這麼容易流動？",
+   "answer": "在 truck 中，對手的雙腿都被纏繞住，控制的一方通常位於下方，控制下半身以取得 twister 與 calf slicer 的角度；而 Russian Cowboy 只勾住一隻腿，從上方以胸貼背的方式騎在對手背上。兩者共通的元素是那隻被穿進去的單腿，所以任何能讓第二隻腿也被穿進去的旋轉，都會把 Russian Cowboy 直接轉換成 truck。這也是為什麼這兩個 position 在混戰中經常混在一起，也是為什麼一次滾動常常決定最終會變成哪一個。兩者的本質區別基本上就是：控制一條腿並騎乘，對比纏繞兩條腿並倒轉。",
+   "answer_line": "騎一腿 vs 纏繞兩腿",
+   "distractors": {
+    "plausible": [
+     "兩者是完全相同的 position",
+     "truck 永遠在上方"
+    ],
+    "trap": [
+     "truck 永遠從上方騎乘"
+    ]
+   }
+  },
+  {
+   "question": "哪些 grip 與接觸點把上半身固定在一起，它們又如何跟 hook 結合運作？",
+   "answer": "上半身的連結是靠 seatbelt control、over-under grip，或是領口勒頸加 underhook 來維持，把軀幹沿著脊椎方向緊緊焊在胸貼背的狀態。這些 grip 鎖住肩膀，阻止對手轉身進來，同時那隻單一的 hook 也在另一條對角線上錨定髖部。這種組合在身體上創造出一個雙點對角張力，一個在肩線、一個在髖線，把對手拉伸在兩者之間。當其中一點失守時，另一點就無法單獨維持這種拉伸，這也是為什麼這個 position 會被當成上半身加下半身的整體單元來防守和攻擊，而不是各自獨立的 grip。",
+   "answer_line": "Seatbelt 加 hook：對角張力",
+   "distractors": {
+    "plausible": [
+     "只有 underhook 最重要",
+     "各個 grip 各自獨立運作"
+    ],
+    "trap": [
+     "放開 seatbelt 來重設 hook"
+    ]
+   }
+  },
+  {
+   "question": "自由的（沒有勾住的）那隻腿，在穩定這個不對稱結構中扮演什麼角色？",
+   "answer": "因為只有一隻腿被投入作為 hook，自由的那隻腿就成了這個 position 的 base 與轉向機制，撐在地上或垂搭在對手身上以阻擋旋轉。它能對抗對手試圖朝開放、沒被勾住的那一側翻滾或 bridge 的企圖，而那一側正是對抗單一 hook 時最自然的逃脫方向。讓這隻腿保持貼近對手身體，能讓騎乘的一方用小幅度的樞轉來跟隨動作，而不需要大幅度重新定位。如果撐得太寬，這個結構就會變得靜態，對手就有空間往自由那一側的空隙轉身。",
+   "answer_line": "自由腿當 base，擋住旋轉",
+   "distractors": {
+    "plausible": [
+     "自由腿要模仿 hook 那條腿",
+     "自由腿鬆鬆垂著不用管"
+    ],
+    "trap": [
+     "把自由腿撐寬並固定不動"
+    ]
+   }
+  },
+  {
+   "question": "在 Russian Cowboy 中，防守張力是如何分布在對手身體上的？這種不對稱又為什麼會產生機械上的壓力？",
+   "answer": "hook 負荷了一側的髖部，seatbelt 則負荷了另一側的肩膀，所以對手的防守資源被對角分散，無法集中在同一個地方。這種不均勻、被拉伸的分布讓對手的 base 持續被破壞，也讓下位球員無法把自己的 frame 集中在單一威脅上。跟對稱的 back control 不同——那種情況下兩個 hook 平均夾制，對手可以把防守集中在中間——這種不對稱迫使對手必須選擇要優先防守哪一端，而另一端就會趁機推進。這種無法同時防守被旋轉的髖部與被控制的肩膀的困境，正是這個配置能產生這麼大攻擊壓力的核心原因。",
+   "answer_line": "拆分防守：髖部與肩膀",
+   "distractors": {
+    "plausible": [
+     "像 back control 一樣壓力平均",
+     "只威脅肩膀"
+    ],
+    "trap": [
+     "讓對手把防守集中起來"
+    ]
+   }
+  },
+  {
+   "question": "Russian Cowboy 跟 crab ride 之間有什麼關係？它們的 hook 配置又有什麼不同？",
+   "answer": "兩者都是從對手背後單向騎乘、並能通向 truck 與 twister 路線的 back control 變化型，但差別在於腿部的介入方式。Russian Cowboy 把一隻 hook 深深穿到近側腿下方，用槓桿橫跨大腿內側從側面控制髖部；而 crab ride 則是從更高、更抬升的坐姿騎乘，在對手下半身有不同的 hook 方向。兩者都是用兩腳都進去的 back control 那種平衡穩定性，去換取下半身的旋轉槓桿，並更快進入腿部纏繞。分辨清楚目前建立的是哪一種 hook 配置，能讓雙方知道哪些轉換與逃脫方向是可行的。",
+   "answer_line": "同一家族，不同 hook 角度",
+   "distractors": {
+    "plausible": [
+     "hook 配置完全相同",
+     "crab ride 用雙腳都進去的 hook"
+    ],
+    "trap": [
+     "兩種 hook 用同一種方式處理"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Russian Cowboy.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

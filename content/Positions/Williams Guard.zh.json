@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構設計定義了 Williams Guard，並讓它與其他 open guard 有所區別？",
+   "answer": "Williams Guard 的定義是：下位者用 figure-four 肩鎖 grip 困住對手的一條手臂，同時用雙腿在下方管理距離。控制手臂穿過對手的三頭肌後方，空出來的那隻手則抓住自己的手腕，孤立肩關節並把它彎折到活動範圍的極限。這種關節控制而非 collar-and-sleeve 或 lapel grip，才是這個位置的定義性控制點，這也是為什麼它在無法使用布料 grip 的 no-gi 中依然能自然運作。被困的手臂同時扮演降伏威脅與整場交鋒方向盤的角色。",
+   "answer_line": "Figure-four 肩鎖困臂",
+   "distractors": {
+    "plausible": [
+     "Collar and sleeve 控制",
+     "Overhook 搭配 leg pummel"
+    ],
+    "trap": [
+     "Lapel grip 搭配三角纏腿"
+    ]
+   }
+  },
+  {
+   "question": "為什麼被困的手臂在這個位置中的功能是控制機制，而不只是單純的降伏技？",
+   "answer": "肩膀上的 figure-four 深到足以威脅終結，但主要用途是主導對手的 posture、剝奪他撐地的手。因為被孤立的手臂無法有效撐地或建立 frame，那名對手的 base 因此被削弱，pass 的選項也隨之瓦解。任何想要緩解肩部壓力的嘗試，都會逼出特定的重心轉移或旋轉，變成可被讀取的觸發點。因此這個關節威脅等於是掌控了對手的整個身體，成為 sweep、omoplata、triangle 與背取（back-take）分支出去的控制樞紐。",
+   "answer_line": "剝奪撐地，不只是求 tap",
+   "distractors": {
+    "plausible": [
+     "只是威脅降伏技",
+     "純粹拖垮對手的 grip"
+    ],
+    "trap": [
+     "放鬆壓力以引誘他 pass"
+    ]
+   }
+  },
+  {
+   "question": "肩鎖壓力與髖部角度之間的互動，如何造成這個位置的核心兩難？",
+   "answer": "只有當下位者的髖部偏離對手的中線角度時，肩鎖才會維持緊繃，讓被困的肢體保持孤立、遠離自由的手臂。當要 pass 或 stack 的那名對手試圖把髖部擺正時，他會加劇肩部的旋轉、餵養降伏技；當他旋轉離開以緩解關節壓力時，他就會讓出角度，打開 sweep 或 omoplata 的路線。這代表雙方其實是在爭奪同一個角度關係，誰都無法安定下來。這個位置本質上是動態的，因為任何靜止的姿態最終都會對其中一方的攻勢有利。",
+   "answer_line": "沒有一個 posture 能靜止不動",
+   "distractors": {
+    "plausible": [
+     "把髖部擺正永遠是安全的",
+     "旋轉離開毫無風險"
+    ],
+    "trap": [
+     "保持髖部擺正直接 pass 過去"
+    ]
+   }
+  },
+  {
+   "question": "雙腿在維持 Williams Guard 架式上，對雙方各扮演什麼角色？",
+   "answer": "下位者的雙腿扮演距離管理 frame 的角色，通常是雙腳頂在髖部或 butterfly hooks，用來阻止對手貼近到胸對胸的壓力距離。這個空間之所以關鍵，是因為一旦對手能收窄距離並 stack，肩鎖就會鬆脫。對要 pass 的那名對手來說，這些 frame 正是他必須清除或穿越才能化解這個 guard 的障礙。雙腿與手臂控制是一個整合的單位共同運作：肩鎖孤立上半身，而腿部 frame 掌控下半身的距離。",
+   "answer_line": "腿部拉開距離，手臂做孤立",
+   "distractors": {
+    "plausible": [
+     "雙腿只控制髖部",
+     "雙腿只是為了 sweep"
+    ],
+    "trap": [
+     "放鬆雙腿以縮短距離"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在 Williams Guard 中，雙方都不能保持靜止而不讓出優勢？",
+   "answer": "靜止不動的下位者會讓對手逐步抽出被困的手臂、重建 base；而靜止不動的上位者則會讓肩鎖持續加深，讓 sweep 與降伏技的連鎖不受阻礙地發展。這個位置的控制力來自持續不斷的小幅移動與角度變化，讓對手一直處於反應狀態、無法安定下來。因為肩鎖威脅與 sweep 威脅在機制上互相連動，往一邊防守的動作就會暴露另一邊。靜止不動實際上等於把主動權交給比較從容的那一方，因此雙方都被迫不斷改變角度與壓力。",
+   "answer_line": "靜止就等於交出主動權",
+   "distractors": {
+    "plausible": [
+     "下位靜止永遠最安全",
+     "上位靜止會磨耗 guard"
+    ],
+    "trap": [
+     "保持不動、耗到對方鬆懈"
+    ]
+   }
+  },
+  {
+   "question": "困住一條手臂，如何重新塑造整個位置可用的撐地點？",
+   "answer": "一條手臂被困在肩鎖裡，要 pass 的那名對手只剩一隻自由的手來管理 base，撐地點因此變得稀少且極其珍貴。自由的那隻手只要撐在下位者髖部附近，就會招來 triangle 的切入，或給下位者一個 sweep 的施力點。這種撐地點的稀缺是肩鎖直接造成的，而不是 guard 一方靠雙腿做出來的。因此 base 被削弱是這個位置向 guard 一方傾斜、而非向 passer 傾斜的結構性原因。",
+   "answer_line": "只剩一隻手，撐地點稀少",
+   "distractors": {
+    "plausible": [
+     "自由的手可以隨處安全撐地",
+     "雙手依然都能使用"
+    ],
+    "trap": [
+     "把自由的手撐在他髖部附近"
+    ]
+   }
+  },
+  {
+   "question": "Williams Guard 與相鄰的 guard，例如 rubber guard 和 overhook guard，有什麼關聯與差異？",
+   "answer": "Williams Guard 與 rubber guard、overhook guard 共享「困住對手肢體以破壞 posture、打開攻勢」的理念。差別在於它的控制來自專門的肩鎖 figure-four，而不是被 overhook 的手臂，也不是靠腿輔助的頭手夾（head-and-arm clamp）。相較於 butterfly guard，它用上半身的關節控制取代了純粹靠 hook 抬升的遊戲，而且常常在對手撐地防守時，順勢過渡到 X-guard 或 single-leg X。它獨特之處在於：光是維持這個 grip 本身，就是一個活生生的降伏威脅，模糊了控制與終結之間的界線。",
+   "answer_line": "抓住 grip 本身就是活的降伏技",
+   "distractors": {
+    "plausible": [
+     "跟 overhook guard 完全一樣",
+     "純粹靠 hook 抬升的遊戲"
+    ],
+    "trap": [
+     "放棄鎖控、改用純 hook"
+    ]
+   }
+  },
+  {
+   "question": "Williams Guard 中，肩鎖的動態自然會產生哪些過渡觸發點？",
+   "answer": "因為肩鎖會逼出可預測的防守反應，每一個反應都是雙方都能看見的觸發點。當被困的手臂被用力往後拉時，那股旋轉力會餵入 omoplata 或 belly-down armbar；當對手往前壓、想 stack 時，那股動能會餵入 omoplata 轉背取的路線；當他撐地或繞開被控制的手臂時，背後就會暴露出來。認清這些觸發點是關節威脅的必然結果，而不是隨機的反應，正是這個位置能把整場交鋒導引到少數幾條高機率分支的關鍵。",
+   "answer_line": "對手的防守洩漏了觸發點",
+   "distractors": {
+    "plausible": [
+     "觸發點是隨機出現的",
+     "只有向前施壓才會觸發"
+    ],
+    "trap": [
+     "無視他的反應，硬幹到底"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Williams Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

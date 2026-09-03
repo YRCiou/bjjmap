@@ -1,0 +1,116 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在承受沉重的 side control 壓力時，用前臂哪個接觸面來建立耐久的 frame 最理想？",
+    "answer": "前臂的尺骨邊緣能建立最強韌的結構性 frame。把前臂轉向，讓骨頭邊緣直接接觸對手的髖骨或肩關節。這種骨對骨的接觸能形成一個承重結構，在沉重壓力下也能維持，不會造成肌肉疲勞；相較之下，用手掌或手指接觸則依賴握力，很快就會垮掉。關鍵在於骨骼對齊，讓力量透過骨頭傳遞，而不是靠肌肉收縮。",
+    "answer_line": "尺骨邊緣頂住髖骨/肩骨",
+    "distractors": {
+     "plausible": ["手掌平貼對方髖部", "用指尖頂住肋骨"],
+     "trap": ["直臂撐地，被抓 kimura"]
+    }
+   },
+   {
+    "question": "對手已經完全把胸口重量壓實，你無法把 frame 頂到他們的髖部，這時該如何創造出最初的空隙？",
+    "answer": "用一個小幅度、可控的 bridge，暫時減輕對方胸口的壓力。這個 bridge 不需要爆發性或抬得很高；就算只是把髖部離地一吋，也足以改變對方的重心分配，創造出插入 frame 的空檔。把 bridge 的時機配合對方的吐氣，效果最好。在 bridge 頂點對方重心移動的瞬間，立刻把前臂 frame 頂進他們的髖部，趁他們還沒重新壓實之前完成。bridge 在這裡是輔助建立 frame 的工具，本身並不是逃脫的嘗試。",
+    "answer_line": "小幅 bridge，接著插入 frame",
+    "distractors": {
+     "plausible": ["爆發性 bridge 把對方甩開", "等對方自己移動重心"],
+     "trap": ["翻身逃開，暴露背部"]
+    }
+   },
+   {
+    "question": "做 frame 時，為什麼手肘要保持大約 90 度彎曲，而不是用直臂推？",
+    "answer": "手肘彎曲的 frame，能在前臂、上臂和軀幹之間形成一個結構性的三角，透過骨骼對齊來分散力量。直臂推則依賴肩膀和肱三頭肌的肌肉力量，很快就會疲勞，更重要的是，伸直的手臂很容易被對手單獨抓住、發動 kimura 或 americana。90 度彎曲也能讓手肘持續貼緊肋骨，防止對手從你的手臂和身體之間楔入，把 frame 壓垮。",
+    "answer_line": "彎曲手肘，貼緊肋骨",
+    "distractors": {
+     "plausible": ["手肘外張遠離肋骨", "抓對方 collar 當作支撐"],
+     "trap": ["直臂推，被抓 kimura"]
+    }
+   },
+   {
+    "question": "你已經建立好髖部 frame，但對手開始把髖部往你的頭部方向走位，你該如何調整？",
+    "answer": "對手的髖部走位代表他們正在嘗試轉換到 mount。要立刻把你原本頂在髖骨上的 frame，轉為阻擋對方近側膝蓋跨過你的身體。把你自己近側的膝蓋推向對方前進的那條腿，形成 knee shield 屏障。髖部 frame 必須立即轉換成阻止 mount 的 frame，因為讓對手拿到 mount，後果會比失去這個 frame 位置更糟。利用原本 frame 創造出的空間，做出 hip escape，把膝蓋插進兩人身體之間。",
+    "answer_line": "擋住膝蓋，抵擋 mount",
+    "distractors": {
+     "plausible": ["維持髖部 frame，不管膝蓋", "把對方的頭往下推回去"],
+     "trap": ["先讓對方 mount，之後再逃"]
+    }
+   },
+   {
+    "question": "什麼是「雙點 frame 兩難」？為什麼它會讓上位選手更難鞏固位置？",
+    "answer": "雙點 frame 兩難是同時使用髖部 frame 和肩膀 frame，建立一個對手無法靠單一次調整壓力就壓垮的防禦結構。對手若要壓垮髖部 frame，就必須把重心移向你的髖部，這樣一來肩膀 frame 的壓力就會減輕、得以擴張。若要壓垮肩膀 frame，對方就必須把胸口重量往前壓，這樣會讓他們的髖部抬高，讓髖部 frame 有機會創造空間。這會迫使對手必須一個一個 frame 依序處理，而不是一次調整就搞定，替你爭取時間，也創造出多次 hip escape 的機會。",
+    "answer_line": "髖部 frame 加肩膀 frame 並用",
+    "distractors": {
+     "plausible": ["單一個最強的手肘 frame", "輪流交替使用 frame"],
+     "trap": ["放棄兩個 frame，被 mount"]
+    }
+   },
+   {
+    "question": "對手抓住你做 frame 的手腕，開始把它壓制在地上，你該如何應對，同時不失去 frame？",
+    "answer": "立刻把手肘拉緊貼向肋骨，並把前臂向內旋轉，藉由改變角度來削弱對方抓手腕的力學優勢。如果對方堅持不放，就把他們投入抓 grip 這件事，轉化成你的逃脫機會：他們的手現在忙著控制你的手臂，而不是維持 crossface 和 underhook，這會削弱他們整體的位置控制。趁對方忙著處理你的手臂時，朝抓 grip 的反方向做 hip escape。如果無法逃脫，就維持手肘貼肋骨的連結，並抓住自己的腰帶或褲子，防止手臂被完全孤立、被抓去設置 kimura。",
+    "answer_line": "旋轉手腕，收緊手肘",
+    "distractors": {
+     "plausible": ["用蠻力把手臂拉開", "搶奪手腕的控制權"],
+     "trap": ["手掌平撐、伸直手臂"]
+    }
+   },
+   {
+    "question": "在對手的呼吸週期中，什麼時候是嘗試插入新 frame 的時機？為什麼？",
+    "answer": "要在對手吐氣的階段插入 frame。吐氣時，對方的胸腔會收縮，肌肉張力也會暫時下降，這會帶來明顯可感受到的胸口壓力減輕。這個空檔通常只有 1 到 2 秒，但已足夠讓你把前臂 frame 滑進正確的位置。如果在對方吸氣階段嘗試插入 frame，就是在對抗擴張中的胸口壓力和最大的肌肉張力，成功率會明顯降低，也會耗費更多體力。",
+    "answer_line": "在對方吐氣時插入 frame",
+    "distractors": {
+     "plausible": ["在對方吸氣時插入 frame", "配合自己的呼吸節奏"],
+     "trap": ["硬塞進去，手臂被困住"]
+    }
+   },
+   {
+    "question": "這個技巧和完整的 Escape Side Control 有什麼差異？為什麼 frame 是先決條件？",
+    "answer": "Frame from Side Control 追求的是漸進式的改善：打斷對手鞏固位置的過程，回到具有主動 frame 的標準 side control 下位。Escape Side Control 追求的則是透過 elbow escape、hip escape 或 ghost escape 等一連串動作，完整恢復 guard。frame 之所以是先決條件，是因為如果沒有結構性的屏障阻止對手跟上你的動作，hip escape 和恢復 guard 的嘗試都會失敗——對手只要跟著你的 shrimp 動作，就能重新把你壓制住。frame 創造出讓逃脫力學真正發揮作用的空間。",
+    "answer_line": "frame 是完整逃脫的基礎",
+    "distractors": {
+     "plausible": ["frame 能取代逃脫的必要", "先逃脫，之後再加 frame"],
+     "trap": ["跳過 frame，直接做 shrimp"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "壓垮下位選手 frame 嘗試的最有效時機是什麼？",
+    "answer": "最有效的時機是在 frame 剛插入的當下，1 到 2 秒之內，搶在下位選手用髖部角度的調整強化 frame 之前。frame 剛插入時，主要還是靠肌肉力量在維持位置。一旦下位選手做出哪怕只是很小的 hip escape，讓 frame 與骨骼結構對齊，這個 frame 就會轉為由骨頭承重，而不是肌肉，會變得非常難以壓垮。透過感受前臂骨頭貼在你身體上的接觸，及早察覺，是這裡的關鍵技巧。",
+    "answer_line": "在 frame 剛插入時就壓垮",
+    "distractors": {
+     "plausible": ["等對方做完 hip escape 再說", "加大胸口重量、不理會 frame"],
+     "trap": ["讓 frame 站穩，結果被 sweep"]
+    }
+   },
+   {
+    "question": "對手已經建立起穩固的髖部 frame，你無法靠直接施壓壓垮它，這時最好的替代做法是什麼？",
+    "answer": "與其硬碰硬對抗一個結構穩固的 frame，不如把 underhook 的手臂穿過 frame 的旁邊，從一個 frame 顧不到的新角度重新建立胸口接觸。或者，利用 frame 創造出的空間，把近側腿跨過對方的髖線，推進到 mount。一個骨骼對齊良好、結構鎖死的 frame，會比單純靠肌肉硬壓的嘗試撐得更久，所以改變接觸角度或推進位置，會比正面硬碰更省力。",
+    "answer_line": "穿入 underhook，改變角度",
+    "distractors": {
+     "plausible": ["抓住手腕硬拔開", "等對方力氣耗盡"],
+     "trap": ["越過 frame 撐地，被抓 armbar"]
+    }
+   },
+   {
+    "question": "在鞏固位置的過程中，如何預先防止下位選手建立起 frame？",
+    "answer": "在對方能派上用場之前，先控制住兩個關鍵的 frame 工具。把 underhook 做得夠深，壓制或改變對方遠側手臂的方向，讓它碰不到你的髖部去放置 frame。把 crossface 的壓力壓得夠深，讓對方近側手臂必須忙著護臉，而不是去架設手肘楔子。保持沉重的胸貼胸接觸，消除兩人身體之間插入前臂所需的空間。最好的 frame 防禦，就是透過主動的手臂控制和持續施壓，讓對方在物理上根本無法建立 frame。",
+    "answer_line": "控制雙臂，封死空間",
+    "distractors": {
+     "plausible": ["只是加重胸口壓力", "只困住對方近側手臂"],
+     "trap": ["去追對方遠側做 frame 的手"]
+    }
+   }
+  ]
+ }
+}

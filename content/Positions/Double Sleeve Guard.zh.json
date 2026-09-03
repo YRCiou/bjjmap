@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "什麼結構配置定義了 Double Sleeve Guard，並讓它有別於其他 open guard？",
+   "answer": "Double Sleeve Guard 的定義是底位者同時抓住對手兩隻袖口的cuff，同時用雙腳頂在髖部或二頭肌上做出frame來維持距離。與以collar為基礎或以leg-entanglement為基礎的guard不同，這裡的控制完全透過對手的手臂進行，意味著對方雙手都被占用，無法抓褲子、腰帶或腿部。這造就了一種雙邊、對稱的連結，把上位者的上半身動作與底位者的握力對抗綁在一起。它的招牌特徵是sleeve握法和腳部frame形成兩層獨立卻協同運作的控制，共同管理距離和posture。",
+   "answer_line": "雙袖被抓，腳做 frame",
+   "distractors": {
+    "plausible": [
+     "一個 sleeve 握法、一個 collar 握法",
+     "雙腳勾住同一隻手臂"
+    ],
+    "trap": [
+     "抓腰帶同時腳頂髖部"
+    ]
+   }
+  },
+  {
+   "question": "為什麼抓袖口的cuff比抓手臂上方更受青睞？",
+   "answer": "抓在cuff或cuff附近，等於把控制放在對手手臂這根槓桿的最末端，讓抓握者取得最大的機械優勢，而對手能用來轉動掙脫的槓桿則最小。手指伸進袖口內側、手肘貼緊肋骨的cuff握法，能把手指的力量轉化成由整條手臂加強的結構性鉤子。抓得越靠近肩膀，抓握者能控制的槓桿就越短，而對手能用來甩脫手臂的弧度卻越長。這就是為什麼cuff的位置是雙方在這場交鋒中爭奪最激烈的一塊地盤。",
+   "answer_line": "抓 cuff 讓槓桿最大化",
+   "distractors": {
+    "plausible": [
+     "cuff 握法單純比較穩固",
+     "抓得高會讓對方更快疲勞"
+    ],
+    "trap": [
+     "為求控制而抓在肩膀附近"
+    ]
+   }
+  },
+  {
+   "question": "sleeve握法和腳的frame是如何合作在這個位置中管理距離的？",
+   "answer": "sleeve握法透過拉扯或改變方向對手的手臂，控制水平面；而頂在髖部或二頭肌上的雙腳則透過把軀幹往外推，控制垂直和深度面。兩者協同運作，形成一個四點懸吊系統，讓底位者能設定精確的距離，並拒絕上位者胸貼胸的接觸。如果其中一層單獨失效，另一層能暫時維持這個frame，但這個位置的穩定性來自兩者同時運作。雙腳的推力和雙手的拉力是相對的力，這股張力正是讓上位者被凍結在手臂長度之外的原因。",
+   "answer_line": "握法與雙腳構成一個系統",
+   "distractors": {
+    "plausible": [
+     "全靠握法掌控一切",
+     "只靠雙腳決定距離"
+    ],
+    "trap": [
+     "讓其中一層取代另一層"
+    ]
+   }
+  },
+  {
+   "question": "Double Sleeve Guard 交鋒核心的推拉機制是什麼？",
+   "answer": "推拉指的是雙腳沿一個向量驅動對手的髖部或肩膀，而sleeve握法則沿相對或垂直的向量拉扯對手的手臂。這些相對的力量會產生單一方向的拉扯永遠無法產生的旋轉和破壞平衡的扭力，把對手彎成一個圓弧、凹陷的形狀，破壞其base。這個機制是這個位置幾乎所有sweep威脅背後的引擎，也是上位者必須中和的首要目標，才能passing。因為這些力量是相對的，腳或握法角度的微小調整就能大幅改變對手重心被破壞的位置。",
+   "answer_line": "相對推拉產生扭力",
+   "distractors": {
+    "plausible": [
+     "雙手朝同一方向拉",
+     "只靠腳，不涉及握法"
+    ],
+    "trap": [
+     "推和拉朝同一方向"
+    ]
+   }
+  },
+  {
+   "question": "破壞對手posture如何成為這個位置中的關鍵轉折事件？",
+   "answer": "這裡的posture指的是上位者能否保持脊椎堆疊、髖部後坐、肩膀在base之上，藉此抵抗被往前拉並組織起passing。底位者透過往下往內拉sleeve、同時用雙腳把髖部往後推來攻擊這一點，把對手彎成圓弧、重心前移的形狀。一旦posture往前崩壞，上位者的重量就進入底位者的攻擊範圍，頭部也會漂向submission的窗口。整個位置的拉鋸戰都圍繞著這一個變數：誰贏得posture之爭，誰就決定這會變成sweep還是pass。",
+   "answer_line": "拉袖推髖，弓起脊椎",
+   "distractors": {
+    "plausible": [
+     "先破握法再攻 posture",
+     "posture 只對 passer 重要"
+    ],
+    "trap": [
+     "讓對手自由地把 posture 撐起來"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 Double Sleeve Guard 被歸類為本質上依賴道服的位置？",
+   "answer": "這個位置的核心控制是抓在袖口cuff上的布料握法，這種抓握點在沒有gi外套的情況下根本不存在。在無道服中，相對應的手抓手腕握法遠遠更弱，因為沒有布料能讓手指鎖住，所以雙邊sleeve結構會瓦解，練習者只能改用手腕控制、two-on-one或其他frame。這就是為什麼這個位置的身分認同、sweep清單和轉換路徑都是圍繞著gi的機制建立的。這也解釋了為什麼它的許多自然轉換都通向其他依賴gi的guard，例如spider、lasso和collar sleeve，而不是無道服的leg entanglement。",
+   "answer_line": "sleeve 握法需要 gi 布料",
+   "distractors": {
+    "plausible": [
+     "無道服的握法效果一樣好",
+     "這個位置靠的是腿部纏繞"
+    ],
+    "trap": [
+     "以為手腕握法能完全取代它"
+    ]
+   }
+  },
+  {
+   "question": "Double Sleeve Guard 與 Spider Guard、Lasso Guard、Collar Sleeve Guard 之間有什麼關聯？",
+   "answer": "這四者共享同樣的sleeve握法基礎，這使得 Double Sleeve Guard 成為一個中樞，其他guard藉由改變腳的位置或其中一個握法而由此分支出去。把一隻腳穿進被抓住手臂的內側，就會朝spider guard轉變；用小腿纏繞並包住手臂，會產生lasso；把其中一個sleeve握法換成collar握法，則會產生collar sleeve。因為sleeve握法在這些變化中被保留下來，這些轉換能在不放棄與對手手臂核心連結的情況下流暢進行。這種共享的根源，正是這個位置被教作入口guard而非死路的原因。",
+   "answer_line": "共享的 sleeve 握法根基",
+   "distractors": {
+    "plausible": [
+     "彼此無關，握法不同",
+     "只有 lasso 共享它的握法基礎"
+    ],
+    "trap": [
+     "放棄 sleeve 握法才能轉換"
+    ]
+   }
+  },
+  {
+   "question": "這個guard對稱的雙邊控制如何影響雙方交鋒的節奏？",
+   "answer": "因為對手的雙臂被平等地綁住，任何一方都無法在贏得握法之前悄悄建立單邊優勢，所以這個位置往往會凍結成一場刻意進行的握法爭奪戰，而不是快速的scramble。底位者利用這一點控制節奏、拖住上位者組織passing的進度，而上位者則必須先花力氣破一個握法，才能有任何真正的進展。這種對稱性讓這個位置對雙方都很耗能，並獎勵誰更擅長維持握力耐力和掌握時機。節奏只有在一個握法被贏得或失去時才會被打破，這正是把交鋒推向sweep或pass的觸發點。",
+   "answer_line": "雙臂被綁，節奏凍結",
+   "distractors": {
+    "plausible": [
+     "底位者永遠掌控節奏",
+     "上位者輕易就能建立優勢"
+    ],
+    "trap": [
+     "急著 scramble 加快節奏"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Double Sleeve Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

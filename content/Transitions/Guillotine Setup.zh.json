@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Guillotine Setup.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "把 choking arm 穿到對方下巴下方時，主要該瞄準的解剖位置是哪裡？",
+    "answer": "你應該把手腕骨——拇指側那塊突出的骨頭——直接對準對方的氣管，而不是用前臂柔軟的部分。把這個硬點放在喉嚨上，而不是前臂肌肉較軟的部位，能對頸部最脆弱的地方集中壓力，並防止他們靠收下巴來製造空間。位置正確時，手腕骨會成為極難防守的硬壓力點。",
+    "distractors": {
+     "plausible": [
+      "前臂壓在喉嚨上",
+      "二頭肌壓在氣管上"
+     ],
+     "trap": [
+      "放鬆頭部控制以求穿得更深"
+     ]
+    },
+    "answer_line": "手腕骨頂進喉嚨"
+   },
+   {
+    "question": "為什麼往 45 度角跨步對 guillotine 的建立至關重要，如果保持正面對著對手會發生什麼事？",
+    "answer": "往你 choking arm 那一側跨 45 度角，能讓你的槓桿力最大化，同時把你的中線移出對方前衝的路徑。這個角度讓你的身體結構能倍增鎖喉的力量，並讓對方在幾何上無法有效地把你推倒。如果你保持正面對著對手，他們就能直直衝向你、把你 stack 起來，或直接站起 posture，因為他們的腿和 hip 能產生的前衝壓力會壓過你的上半身力量，而你此時的槓桿力極小。",
+    "distractors": {
+     "plausible": [
+      "正面對著能有更大力量",
+      "跨到 90 度角"
+     ],
+     "trap": [
+      "往後退拉開距離"
+     ]
+    },
+    "answer_line": "跨 45 度離開中線"
+   },
+   {
+    "question": "guillotine 建立時最常見的三種 grip 配置是什麼，各自適合在什麼情境下使用？",
+    "answer": "三種常見的 grip 是 gable grip（手掌對手掌）、S-grip，以及交叉手指，選擇取決於手臂長度、頸部粗細和情境。gable grip 對大多數人來說最穩固、力量最強，能用最少的技術要求產生最大壓力。S-grip（一手四指扣住另一手手腕）適合中等長度的手臂，能快速調整。交叉手指需要最長的手臂，但能穿得最深，當你的手臂長度相對於對方頸部特別有優勢時效果極佳。選擇取決於你的手臂長度、對方頸部粗細，以及 gi 或 no-gi 的情境。",
+    "distractors": {
+     "plausible": [
+      "gable、C-grip、手掌推",
+      "S-grip、拇指鎖、seatbelt"
+     ],
+     "trap": [
+      "在 grip 中把拇指互相勾住"
+     ]
+    },
+    "answer_line": "gable、S-grip、交叉手指"
+   },
+   {
+    "question": "如果對手在你手臂穿深之前成功收緊下巴，你還有哪些選項能有效完成 guillotine？",
+    "answer": "面對收緊的下巴，切換攻擊：high elbow guillotine、arm-in guillotine、anaconda 或 darce，或者把下巴撥開重新穿入。具體來說：(1) 把 choking elbow 抬高進入 high elbow guillotine，把壓力角度改成從下巴上方而不是下方；(2) 如果能把對方的防守手臂困進你的 grip 裡，就轉換成 arm-in guillotine；(3) 切換成 anaconda 或 darce，這時收緊的下巴反而有助於製造壓力；或 (4) 在維持控制的同時用空出來的手直接把對方的下巴撥開，然後重新建立深位置。關鍵在於及早察覺傳統的建立方式已經被破壞，並隨機應變，而不是硬拼一個成功率低的姿勢。",
+    "distractors": {
+     "plausible": [
+      "只是用力夾緊",
+      "直接改攻 armbar"
+     ],
+     "trap": [
+      "放開 grip 重新進攻"
+     ]
+    },
+    "answer_line": "high elbow、arm-in、darce/anaconda"
+   },
+   {
+    "question": "guillotine 建立過程中，你的非 choking 手扮演什麼角色，應該如何擺放？",
+    "answer": "非 choking 手是主要 choking arm 的強化與固定機制。它應該抓住你的 choking 手，把它拉向你的胸口，在對方頸部周圍形成一個緊密的閉合迴圈。這隻手也能透過把胸口壓向對方的頭來幫助維持頭部控制。此外，它還能用來控制對方遠端的手臂、撥開防守 frame，或調整你 grip 的深度。關鍵是確保兩隻手作為一個整體系統一起運作，而不是讓非 choking 手處於被動或跟整個建立過程脫節。",
+    "answer_line": "強化 grip，拉向胸口",
+    "distractors": {
+     "plausible": [
+      "撐地取得 base",
+      "在對方肩膀上架 frame"
+     ],
+     "trap": [
+      "underhook 遠端手臂，放開迴圈"
+     ]
+    }
+   },
+   {
+    "question": "從 front headlock 位置，哪些關鍵指標告訴你現在是轉換進 guillotine 的最佳時機？",
+    "answer": "當對方的 posture 已被破壞、頭低於 hip、沒有 frame，並且正在移動試圖改善位置時進攻。完整檢查清單：(1) 對手的頭低於他們的 hip，posture 已破壞；(2) 對方近端手臂沒有強力地架 frame 對抗你的身體；(3) 過渡時刻，例如正在站起來、前進或恢復位置；(4) 有足夠的控制力，讓他們無法立刻爆發站起；(5) 能無阻礙地把手臂穿到下巴下方；以及 (6) base 穩固到即使換 grip 也不會被推倒後退。最佳時機通常是他們正在移動改善位置的時候，而不是靜態防守的時候。",
+    "distractors": {
+     "plausible": [
+      "對手正面站穩且防備",
+      "對手手臂架在你 hip 上"
+     ],
+     "trap": [
+      "等他們站直 posture 起來再攻"
+     ]
+    },
+    "answer_line": "posture 破壞、無 frame、在移動"
+   },
+   {
+    "question": "在穿手階段，對手把近端的手撐在你的 hip 上並開始把你推開——你該如何調整？",
+    "answer": "從手腕處撥開那隻撐在你 hip 上的手，然後在 frame 恢復之前立刻把 choking arm 穿得更深。另一個做法是反過來利用那個撐手：把你的 hip 移離撐手那一側，同時肩膀往前推，這樣能同時瓦解他們的 frame 並創造你的角度。第三個選項是改成 arm-in guillotine，直接跨過那隻撐著的手臂而不是跟它硬拼——他們伸展出來的手臂會被困在你的 grip 裡，形成另一種同樣危險的鎖喉配置。",
+    "distractors": {
+     "plausible": [
+      "拉開重新抓 grip",
+      "等他們的 frame 累了再說"
+     ],
+     "trap": [
+      "放開頭部控制去抓手腕"
+     ]
+    },
+    "answer_line": "撥開撐手，快速穿深"
+   },
+   {
+    "question": "guillotine 從站立完成和從 guard 完成，最關鍵的差異是什麼，你該如何決定走哪條路線？",
+    "answer": "站立完成靠重力和透過深 grip 的重量下墜，guard 完成則是把你的腿加入作為 hip 處的第二個支點。站立時，你身體向後拱、把頭往下拉，同時體重對 grip 產生壓縮力——最適合在你的 grip 很深、對方已經失去平衡時使用。guard 完成則靠你的腿控制 posture，並從兩個方向產生壓力。當你的 grip 很深、對方的 base 不穩，或在 MMA 情境下，選擇站立完成。當對手強壯到能抵抗站立完成、你需要用腿防止逃脫，或你想把 guard 當作鎖喉失敗時的可靠備案時，選擇 pull guard。",
+    "distractors": {
+     "plausible": [
+      "站立永遠比較安全",
+      "guard 完成不需要 grip 深度"
+     ],
+     "trap": [
+      "用很淺的 grip pull guard"
+     ]
+    },
+    "answer_line": "重量下墜 vs 腿當支點"
+   },
+   {
+    "question": "對手發動 double leg，你做了 sprawl——描述如何把這個 sprawl 轉換成 guillotine 的建立過程？",
+    "answer": "在你 sprawl 的同時，立刻用手臂環繞對方的頭建立 front headlock，把你的胸口重量壓進他們的上背。一旦 sprawl 阻止了他們的前衝動能，趁他們的 posture 還沒恢復，開始把你的 choking arm 穿到他們下巴下方。他們發動 shoot 的動作天生就會把他們的頭帶到 guillotine 進攻的理想位置——脖子外露且向前彎曲。建立好你的 grip，往 choking arm 那一側跨 45 度角，把他們的頭固定在你的肋骨上。關鍵細節是不讓他們在 sprawl 和穿手之間有機會恢復 posture——整個轉換必須是連續的，不能給他們站起來的空檔。",
+    "answer_line": "連續動作，sprawl 直接穿手",
+    "distractors": {
+     "plausible": [
+      "繞到後面 take the back",
+      "sprawl 後等他們先動"
+     ],
+     "trap": [
+      "sprawl 之後立刻 pull guard"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的 guillotine 建立被擋住，無法拿到 Guillotine Control，從 front headlock 你該接續哪些連鎖攻擊？",
+    "answer": "從 front headlock 連接到 anaconda、darce、take the back，或 snap-down 重置——每一次失敗的嘗試都銜接進下一個攻擊。具體來說：(1) 把手臂穿到對方脖子下方、跨過他們遠端的手臂，鎖上 gable grip 並滾動，轉換成 anaconda choke；(2) underhook 對方近端手臂，在脖子遠端下方扣手，切換成 darce；(3) 放棄鎖喉、take the back，利用對方的防守反應繞到後方建立 hook；或 (4) 把他們 snap 下去，重新建立 front headlock，重置整個攻擊循環。關鍵在於每一次失敗的 guillotine 都要順暢地銜接進下一個攻擊，而不是產生一個死掉的空檔，讓你必須從頭重建控制。",
+    "distractors": {
+     "plausible": [
+      "在同一個 grip 上更用力夾",
+      "後退重新 shoot 一次 double"
+     ],
+     "trap": [
+      "pull guard 逼出這個 choke"
+     ]
+    },
+    "answer_line": "連接 anaconda、darce 或 take the back"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 front headlock 控制轉換成 guillotine 建立時，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是感覺到頸部的壓力從後方轉移到前方——具體來說，就是進攻方鬆開他們原本在你頸後的標準 front headlock grip，開始把手臂重新調整到你的下巴下方。你也會感覺到他們控制遠端肩膀的手鬆開，準備把雙手扣在一起。這個過渡時刻是你最好的防守窗口，因為進攻方為了重新配置 guillotine，暫時放鬆了整體的控制。",
+    "answer_line": "頸部壓力從後轉到前",
+    "distractors": {
+     "plausible": [
+      "對手先鎖住雙腿",
+      "hip 突然重量下壓"
+     ],
+     "trap": [
+      "等雙手扣好再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼往前衝向對手有時反而是正確的防守選擇，即使感覺違反直覺？",
+    "answer": "往前衝能在對方最脆弱的過渡時刻——也就是他們橫向跨步以創造 guillotine 所需 45 度角的時候——破壞他們的 base 和角度。前衝壓力會瓦解他們的結構，阻止他們完成角度的轉換，甚至能完全逆轉局勢。這個防守之所以有效正是因為它違反直覺：大多數人會往後拉，這反而伸展了脖子、讓 choke 收得更緊。往前衝能壓縮空間，讓對方難以產生 choke 所需的向上提拉力量。",
+    "answer_line": "瓦解對方角度和 base",
+    "distractors": {
+     "plausible": [
+      "會給對方的 choke 加力",
+      "只有在 pull guard 之後才有用"
+     ],
+     "trap": [
+      "把頭往後拉出空間"
+     ]
+    }
+   },
+   {
+    "question": "對手已經鎖上 gable grip 並跨到角度，但還沒有 pull guard——這個階段你最好的防守選項是什麼？",
+    "answer": "在這個階段，你最好的選項是對 choking arm 做 two-on-one grip fighting，同時積極朝遠離 choking 那一側繞開。用雙手控制進攻方 choking 的手腕，把它從你的喉嚨撥開，同時身體繞離他們的角度。你的下巴必須全程收緊。如果你無法破掉這個 grip，次要選項是趁他們還沒 pull guard 之前的最後機會，一邊 hand fighting 一邊爆發性地站起 posture，創造足夠的空間把頭抽出來。",
+    "answer_line": "two-on-one grip fight，繞開",
+    "distractors": {
+     "plausible": [
+      "自己先 pull guard",
+      "只用一隻手破 grip"
+     ],
+     "trap": [
+      "轉身朝向 choking arm"
+     ]
+    }
+   },
+   {
+    "question": "如果進攻方嘗試站立完成的 guillotine，跟 pull guard 完成相比，你的防守策略會有什麼不同？",
+    "answer": "面對站立完成，進攻方依靠重量下墜和身體後拱來產生鎖喉壓力，所以你的防守是往前衝，防止他們產生向下的槓桿力，同時做 hand fighting 破解 grip。保持 hip 對 hip 的貼緊能中和站立完成。面對 pull guard，進攻方會用他們的腿控制你的 posture，創造第二個壓縮點。你的防守則轉為阻止 guard 閉合——hip 往後 sprawl，保持 posture 直立，剝奪讓下位 guillotine 變得危險的腿部控制。關鍵差異在於：站立時用前衝壓力，pull guard 時用 posture 伸展。",
+    "answer_line": "站立用前衝，guard 用 sprawl/posture",
+    "distractors": {
+     "plausible": [
+      "兩種情況用同一套防守",
+      "兩種情況都用 pull guard 反制"
+     ],
+     "trap": [
+      "放低 base 往後坐"
+     ]
+    }
+   },
+   {
+    "question": "如果你察覺進攻方正在穿的是 arm-in guillotine 而不是標準的 guillotine，你該做出什麼防守調整？",
+    "answer": "arm-in guillotine 會把你的近端手臂連同脖子一起困在鎖喉的迴圈裡，這改變了鎖喉的力學，讓某些標準防守變得較不有效。你的關鍵調整是在 grip 完全鞏固之前，把被困的手臂抽出來——把手肘往下往後游動，把它從迴圈中抽出。如果抽不出來，就把身體轉向被困手臂那一側（跟標準 guillotine 防守方向相反），因為 arm-in 變化式在你正面朝前或轉開時反而更容易被完成。此外，被困的手臂其實對 choke 提供了一點緩衝，所以相較於標準 guillotine，你有稍微多一點的時間來進行防守。",
+    "answer_line": "設置完成前先抽出被困手臂",
+    "distractors": {
+     "plausible": [
+      "轉離被困的手臂",
+      "直接往後拉逃脫"
+     ],
+     "trap": [
+      "手臂被困還坐向 guard"
+     ]
+    }
+   }
+  ]
+ }
+}

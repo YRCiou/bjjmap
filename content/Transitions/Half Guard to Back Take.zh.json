@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Half Guard to Back Take.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 half guard 轉換到 back take，最主要的控制點是什麼？",
+    "answer": "遠端的 underhook 是支撐整個從 half guard 到 back control 過渡的主要控制點。它提供創造角度所需的槓桿力、防止對手的 crossface 壓力，並從最初的 half guard 位置一路到完全的 back control 都是主要的錨點。",
+    "distractors": {
+     "plausible": [
+      "crossface 控制",
+      "近端的 overhook"
+     ],
+     "trap": [
+      "放開 grip，先插 hook"
+     ]
+    },
+    "answer_line": "遠端 underhook"
+   },
+   {
+    "question": "爬到 back control 的最佳時機是什麼時候？",
+    "answer": "當你的 underhook 已經創造出垂直角度、且對手的重心往前投入時，就爬向 back control。具體來說，這時對方下方的 hip 應該被你的膝蓋擋住，這能防止他們做防守性的轉身，也阻止他們在你爬的過程中恢復 base。",
+    "distractors": {
+     "plausible": [
+      "等他們遠端的手撐地",
+      "等他們攤平"
+     ],
+     "trap": [
+      "在他們轉身對抗你時爬"
+     ]
+    },
+    "answer_line": "垂直角度，hip 被擋住"
+   },
+   {
+    "question": "嘗試這個過渡時最常見的技術錯誤是什麼，該如何修正？",
+    "answer": "最常見的錯誤是太早放開 underhook，導致失去控制，讓對手能做 crossface 把你壓平。修正方法是在整個流程中維持 underhook 的連結，一直保持到 back control 完全建立、雙 hook 都插入並鎖定為止。",
+    "distractors": {
+     "plausible": [
+      "每插一個 hook 就重抓 underhook",
+      "雙 hook 先於上半身控制"
+     ],
+     "trap": [
+      "放手去抓 choke"
+     ]
+    },
+    "answer_line": "保持 underhook 直到 hook 鎖定"
+   },
+   {
+    "question": "嘗試 back take 時，如何有效反制對手的 crossface 壓力？",
+    "answer": "用你內側的手臂在對方的頸部或肩膀架 frame，同時 underhook 仍持續帶你進入垂直角度。這個防守性 frame 能鈍化 crossface 的壓力，讓你能繼續轉角度；如果 crossface 變得太強勢，就轉換進 deep half guard 或 lockdown 位置，以化解他們的 crossface 優勢。",
+    "distractors": {
+     "plausible": [
+      "用力 bridge 把他們頂開",
+      "抓 collar 往下拉"
+     ],
+     "trap": [
+      "放棄 underhook，推開對方的臉"
+     ]
+    },
+    "answer_line": "內側手臂架 frame，持續轉角度"
+   },
+   {
+    "question": "為什麼擋住對手下方的 hip 對這個技術的成功至關重要？",
+    "answer": "用你上方的膝蓋擋住對手下方的 hip，能防止他們在你爬的過程中轉身對抗你、恢復 guard。這也能維持你的垂直角度；沒有這個 hip block，對手就能輕易轉向你，化解掉 back take，恢復成標準 half guard，甚至完成 pass 到上位。",
+    "distractors": {
+     "plausible": [
+      "能把他們遠端的肩膀壓住",
+      "能阻止他們站起來"
+     ],
+     "trap": [
+      "略過它，直接爬起來抓 hook"
+     ]
+    },
+    "answer_line": "阻止他們的轉身防守"
+   },
+   {
+    "question": "Kimura Grip 變化式跟標準的 underhook 打法有什麼不同？",
+    "answer": "Kimura Grip 變化式是在對手近端手臂上使用 kimura grip，而不是傳統的遠端 underhook，透過 submission 威脅而非位置槓桿來製造背部的暴露。這會逼對手轉身遠離 kimura 來防守，進而暴露出他們的背部供你進攻，在傳統 underhook 被防得很好時特別有效。",
+    "answer_line": "近端手臂上的 kimura grip",
+    "distractors": {
+     "plausible": [
+      "遠端手臂上的 kimura grip",
+      "underhook 加 kimura 組合"
+     ],
+     "trap": [
+      "放棄控制，直接完成 kimura"
+     ]
+    }
+   },
+   {
+    "question": "在建立過程中，你的 underhook 手應該達成什麼樣的 grip 配置？",
+    "answer": "你的 underhook 手應該深深穿到對方腋下，連接到他們遠端的肩胛骨或闊背肌，而不只是輕輕搭在他們的側身上。underhook 穿得越深，你能產生的旋轉槓桿力就越大，對手要撥開或用 whizzer 破解也就越困難。",
+    "answer_line": "深穿到遠端肩胛骨",
+    "distractors": {
+     "plausible": [
+      "扣住他們近端的肩膀",
+      "手掌平貼在他們的下背"
+     ],
+     "trap": [
+      "淺 grip，手放在 hip 上"
+     ]
+    }
+   },
+   {
+    "question": "在 back take 的爬升階段，你的力量應該往哪個方向施加？",
+    "answer": "在爬升階段，你的力量應該以斜向往上、往前的方向壓進對手的背部，用下方的 hook 和 underhook 作為錨點。胸口壓向他們的上背，同時 hip 抬高，產生一種把你的重量轉移到他們背上、而不是留在他們身旁墊子上的加載效果。",
+    "answer_line": "斜向上壓進他們的背部",
+    "distractors": {
+     "plausible": [
+      "直直往上離開墊子",
+      "往前但平躺，不要抬起"
+     ],
+     "trap": [
+      "往下推，維持平躺在他們旁邊"
+     ]
+    }
+   },
+   {
+    "question": "對手用遠端的手撐地並拓寬 base 來防守——你該怎麼做？",
+    "answer": "當對手撐寬、拉大 base 時，改用你空出來的手控制他們遠端的腳踝，同時維持 underhook，轉換成 Old School sweep 的建立。他們撐地的手讓他們沒辦法擋住你的 hip，所以要威脅 sweep 逼他們收回撐地的手，這樣就能重新打開你最初想要的 back take 角度。",
+    "answer_line": "控制遠端腳踝，威脅 sweep",
+    "distractors": {
+     "plausible": [
+      "更用力壓進 underhook",
+      "追著那隻撐地的手去破壞它"
+     ],
+     "trap": [
+      "不管他們的寬 base，硬爬上去"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初嘗試 back take 在角度創造階段被擋住，你該威脅哪些連鎖攻擊？",
+    "answer": "如果 back take 卡在角度創造階段，就連接到 half guard 的 underhook sweep、Old School sweep，或 kimura grip 轉 back take。這些攻擊都使用同一個 underhook 控制點，所以對手必須同時解決多個問題。sweep 的威脅會逼他們撐地，進而暴露背部；kimura 的威脅則會逼他們轉身遠離，同樣會暴露背部。",
+    "answer_line": "sweep 和 kimura 的威脅",
+    "distractors": {
+     "plausible": [
+      "重複再爬一次同樣的動作",
+      "拼 grip 拼到他們累"
+     ],
+     "trap": [
+      "放開 underhook，強行插 hook"
+     ]
+    }
+   },
+   {
+    "question": "在放開 half guard 的腿鎖、開始插入 hook 之前，必須先具備哪些條件？",
+    "answer": "只有在你的垂直角度、膝蓋的 hip block，以及深 underhook 都已經建立時，才能放開 half guard 的鎖。具體來說：你的軀幹必須面向他們的側身、你上方的膝蓋必須擋住他們下方的 hip 以防止轉身防守，並且 underhook 必須穩固、胸口開始接觸到他們的側身。在這些條件不足的情況下過早放開這個鎖，會在還沒有足夠的替代控制之前先失去纏鎖的錨點。",
+    "distractors": {
+     "plausible": [
+      "光靠 underhook 就足夠",
+      "等他們重心一往前"
+     ],
+     "trap": [
+      "提早放開鎖，追著抓 hook"
+     ]
+    },
+    "answer_line": "角度、hip block、深 underhook"
+   },
+   {
+    "question": "你在建立 underhook 時，對手用了很強的 whizzer——這對你的 back take 策略有什麼影響？",
+    "answer": "只要正確利用，whizzer 反而對 back take 有幫助。whizzer 會把你的肩膀緊緊固定在他們身體上，讓你在爬升時能有更緊密的連結。在維持 underhook 手連結的同時，把你的 hip 繞到他們 whizzer 壓力的下方。他們的 overhook 反而變成一個錨點，讓他們沒辦法拉開距離，隨著你轉向垂直角度，whizzer 會逐漸失去槓桿力，而你的 underhook 則會獲得槓桿力。",
+    "answer_line": "往下繞，維持 underhook",
+    "distractors": {
+     "plausible": [
+      "攤平等它過去",
+      "自己也抓一個 overhook"
+     ],
+     "trap": [
+      "把手臂抽出來，放棄 underhook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "阻斷 half guard 轉 back take 最早也最有效的時機點是什麼？",
+    "answer": "最早也最有效的防守時機是在 underhook 建立的階段，也就是在下位選手把手臂穿深到你腋下之前。一感覺到有 underhook 的嘗試，就立刻施加 crossface 和肩膀壓力，能阻止這個主要控制點的建立，讓 back take 之後的所有階段都無法進行。",
+    "answer_line": "在 underhook 穿深前先阻止",
+    "distractors": {
+     "plausible": [
+      "改成阻擋 hip block",
+      "等角度成形再防守"
+     ],
+     "trap": [
+      "等他們爬起來再反應"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺對手正在爬向你的背部時，為什麼轉身背對他們是錯誤的反應？",
+    "answer": "轉身背對會暴露更多背部給進攻方，加速他們插入 hook 和建立 seatbelt，而不是阻止它。正確的反應是轉身面對對手，因為正面對著他們能拒絕背部的暴露，創造出一個你能恢復 guard 或上位的混戰局面，並消除他們完成 back take 所需要的角度。",
+    "answer_line": "轉身面對，拒絕暴露背部",
+    "distractors": {
+     "plausible": [
+      "保持平躺，做 shrimp 逃開",
+      "抓住他們上方的手腕拖時間"
+     ],
+     "trap": [
+      "轉身背對以保護脖子"
+     ]
+    }
+   },
+   {
+    "question": "對手已經拿到深 underhook 並開始轉向垂直角度——這個階段你最好的防守選項是什麼？",
+    "answer": "在這個階段，對 underhook 那隻手臂施加強力的 whizzer overhook，同時把你的 hip 壓向他們的胸口以拖住旋轉。如果角度已經進展到 whizzer 沒辦法奏效的程度，就積極地轉身面對對手，把你的軀幹轉向他們，用胸口頂過去，拒絕背部暴露並逼出混戰。",
+    "answer_line": "上 whizzer，太遲就轉身面對",
+    "distractors": {
+     "plausible": [
+      "把他們的頭往下壓",
+      "bridge 起來把他們甩開"
+     ],
+     "trap": [
+      "轉身背對拖延時間"
+     ]
+    }
+   },
+   {
+    "question": "哪些視覺或觸覺線索代表 back take 的嘗試已經進展到難以輕易阻止的地步？",
+    "answer": "當下位選手上方的膝蓋越過去擋住你下方的 hip，同時他們維持著垂直角度和深 underhook 時，back take 就已經進展到難以輕易阻止的地步。這時下位選手已經建立起爬升階段所需的三個關鍵控制：underhook 槓桿力、垂直角度，以及 hip block。你的防守必須從預防轉為緊急轉身反應。",
+    "answer_line": "膝蓋擋 hip、有角度、有 underhook",
+    "distractors": {
+     "plausible": [
+      "他們才剛開始建立 underhook",
+      "他們遠端的手撐地了"
+     ],
+     "trap": [
+      "只有等 seatbelt 鎖上才算"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該優先處理 underhook，而不是先把被困在 half guard 裡的腿抽出來？",
+    "answer": "underhook 是 back take 的主要進攻槓桿，會立即構成位置威脅，而沒有 underhook 的情況下被困在 half guard 裡的腿，只不過是一種拖延機制。如果你只專注於抽腿而忽略 underhook，下位選手會在你完成 pass 之前就建立起 back take 的控制結構。有強力 crossface 控制的被困腿是一個可以 pass 的位置；沒有被爭奪的 underhook 則是即將發生的 back take。",
+    "answer_line": "underhook 是他們的得分槓桿",
+    "distractors": {
+     "plausible": [
+      "抽腿就能解除危險",
+      "hip escape 解決得更快"
+     ],
+     "trap": [
+      "把腿抽出來，放棄背部"
+     ]
+    }
+   }
+  ]
+ }
+}

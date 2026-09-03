@@ -1,0 +1,109 @@
+{
+ "flashcards_position": [
+  {
+   "question": "Harness 的定義是什麼，它和其他 back control 的握法配置有何不同？",
+   "answer": "Harness 是由握法結構定義，而不是由 hook 的位置定義：一隻手臂繞過肩膀朝向頸部，另一隻手臂穿過對側腋下，雙手在胸口或胸骨處互扣。這種在身體中線建立的 over-under 連接，是它固定不變的特徵，這也是這個位置又稱為 seat belt 的原因。由於它依賴的是手臂框架，而非道服布料或特定的腿部配置，同一套控制可以無縫轉換於 gi、no-gi、MMA 與站立情境。hooks、body triangle 或完整平躺的 back mount，都是疊加在這個握法之上的變化，並非它的定義本身。",
+   "answer_line": "over/under 手臂在胸前互扣",
+   "distractors": {
+    "plausible": [
+     "雙 hook 都插入大腿",
+     "body triangle 鎖住雙腿"
+    ],
+    "trap": [
+     "只靠胸口壓力，沒有握法"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 seat belt 握法被認為比兩個 hook 加起來還重要？",
+   "answer": "Seat belt 是主要的上半身連接，它把胸口與背部連結在一起，並控制防守者的姿勢與身體中線；相較之下，hooks 只管理下半身與髖部移動。擁有握法但沒有 hooks 的一方，仍然掌控著背部與鎖喉威脅；但擁有雙 hook 卻沒有握法的一方，等於失去了困住肩膀與頸部的機制。這也是為什麼控制的優先順序把握法排在第一位：被迫二選一時，雙方都清楚會先犧牲一個 hook，也不會放掉 seat belt。握法是整個攻防組織運轉的錨點。",
+   "answer_line": "握法是錨點，優先犧牲 hook",
+   "distractors": {
+    "plausible": [
+     "hooks 比握法更重要",
+     "兩者永遠同等重要"
+    ],
+    "trap": [
+     "放掉握法保住兩個 hook"
+    ]
+   }
+  },
+  {
+   "question": "胸貼背的連接與體重分配，如何維持 Harness 對雙方的可持續性？",
+   "answer": "控制方讓胸口緊貼防守者背部，使體重透過骨架與核心傳遞，而非透過手臂，這讓這個位置維持起來低耗能，但對抗起來卻極其耗力。這股向前的壓力壓制住肩膀，剝奪了防守者轉身或坐起所需的空間。對下位者來說，同樣這個連接正是必須被打破的目標，因此他們會弓起脊椎，努力在兩個胸口之間製造哪怕一絲的分離。這個位置的存續完全繫於這個連接：只要胸口保持貼合，握法與鎖喉威脅就完好無損，兩者之間一旦出現任何空隙，控制就會開始瓦解。",
+   "answer_line": "胸口壓力壓制肩膀",
+   "distractors": {
+    "plausible": [
+     "手臂力量壓住肩膀",
+     "光靠 hooks 就能維持連接"
+    ],
+    "trap": [
+     "只靠握法，不用胸口體重"
+    ]
+   }
+  },
+  {
+   "question": "over-arm 與 under-arm 在 harness 結構中各自扮演什麼角色？",
+   "answer": "over-arm 越過近側肩膀朝喉嚨方向前進，是鎖喉那一側的手臂，因此它承擔直接的submission威脅,是雙方共同關注的優先目標。under-arm 則穿過對側腋下,主要作用是把兩隻手臂鎖成一個封閉圈,並讓肩膀保持方正。兩者合起來形成一個不對稱結構,進攻與控制被分配到兩隻手上,而非平均共享。這種不對稱正是搶手主要集中在 over-arm 的原因:對上位者來說,它就是終結手段;對下位者來說,它是必須用兩手控制才能第一時間化解的威脅。",
+   "answer_line": "over-arm 鎖喉，under-arm 固定",
+   "distractors": {
+    "plausible": [
+     "under-arm 才是鎖喉那側",
+     "兩隻手臂平均分擔鎖喉"
+    ],
+    "trap": [
+     "先搶 under-arm 這個錨點"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 under-hook 那一側決定了 harness 的逃脫與控制幾何？",
+   "answer": "under-hook 那一側,也就是手臂穿過腋下的那一側,是握法結構上較弱的軸線,因為防守者的肩膀可以向下旋轉進去；反之,轉向 over-arm 那側則等於把頸部送進鎖喉。因此,下位者的逃脫路徑就是轉向 under-hook 那一側,藉此破壞對齊並撐開兩個胸口;而上位者則必須感受到那個旋轉並跟上,才能維持胸貼背。這條共享的軸線,使這個位置成為圍繞單一肩膀的旋轉爭奪戰,而非對稱的僵持。雙方從相反的意圖解讀同一個幾何關係:一方轉向弱側求逃脫,另一方追著它以保住背部控制。",
+   "answer_line": "轉向 under-hook 側求逃脫",
+   "distractors": {
+    "plausible": [
+     "改轉向鎖喉手臂那一側",
+     "坐直身體來破壞控制"
+    ],
+    "trap": [
+     "轉向頸部方向求逃脫"
+    ]
+   }
+  },
+  {
+   "question": "是什麼讓 harness 成為一個submission平台，而不只是單純的控制位置？",
+   "answer": "over-arm 貼近喉嚨,意味著這個位置隨時帶著活生生的 rear naked choke 威脅,因此防守者無法像面對低壓力的壓制那樣單純耗時間等待。用雙手防守頸部,往往會讓手臂暴露在armbar之下;防守手臂又會重新讓頸部露出來,形成解決一個問題就製造另一個問題的兩難。這種持續的二選一壓力,正是把控制轉化為進攻的原因,迫使下位者必須先花力氣防submission,才能開始考慮逃脫。因此這個位置同時扮演壓制與勒殺前置作業的雙重角色,這也是它成為幾乎所有現代背後攻擊系統核心的原因。",
+   "answer_line": "鎖喉威脅逼出兩難局面",
+   "distractors": {
+    "plausible": [
+     "純粹壓制，沒有submission風險",
+     "只是控制位置，沒有威脅"
+    ],
+    "trap": [
+     "無視鎖喉，專注在 hooks"
+    ]
+   }
+  },
+  {
+   "question": "Harness 與相鄰位置（turtle、crucifix、body triangle）之間有什麼關聯？",
+   "answer": "turtle 是最常見的進入點,也是最常見的逃脫終點,因為正在爭取背後的一方與正在逃離背後的一方,都會經過這裡。crucifix 與 gift wrap 是進攻性的分支,當防守者把肩膀轉入,或雙手都用來防禦鎖喉時就會開啟,讓上位者得以困住一隻手臂。body triangle 則是下半身的升級版,用鎖住的腿部配置取代 hooks,而上半身仍由同一套 seat belt 握法主導。這些位置的共同主線都是 harness 握法,因此這個位置位於一整張轉換網絡的中心,而非任何一方的死路。",
+   "answer_line": "turtle 連結 crucifix 與 triangle",
+   "distractors": {
+    "plausible": [
+     "turtle 是死路一條",
+     "body triangle 取代了握法"
+    ],
+    "trap": [
+     "crucifix 是唯一的真正出口"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Harness.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

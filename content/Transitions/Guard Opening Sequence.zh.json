@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Guard Opening Sequence.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在嘗試 open closed guard 之前，必須先建立穩固的 posture？",
+    "answer": "脊椎打直、頭部抬高的穩固 posture 非常重要，因為這能防止對手把你壓垮進行 sweep 或 submission。沒有正確的 posture，你就無法產生打開 guard 所需的槓桿力，並且會暴露在 triangle、omoplata 和 sweep 的風險之下。posture 建立起結構基礎，讓你的 hip 和腿能安全地產生開 guard 的壓力，而不是在劣勢姿勢下硬拼。",
+    "answer_line": "先顧好 posture，再開 guard",
+    "distractors": {
+     "plausible": [
+      "先拼 grip 再顧 posture",
+      "急著硬開"
+     ],
+     "trap": [
+      "身體前傾去開 guard"
+     ]
+    }
+   },
+   {
+    "question": "對手已經抓到很深的 cross-collar grip，正開始把你的頭往下拉——在嘗試任何開 guard 動作之前你該怎麼做？",
+    "answer": "在任何開 guard 嘗試之前，先立刻處理掉這個 collar grip。用雙手抓住對方抓 grip 的手腕，做一個 two-on-one 的破 grip 動作，往他們拇指的方向推，同時把肩膀轉離 grip。一旦掙脫，立刻控制他們的 sleeve，避免再被抓回去。接著透過把胸口往前推、hip 往後坐，重新建立 posture，再繼續開 guard 的動作。對手還有很深的 collar grip 時，絕對不要嘗試開 guard。",
+    "answer_line": "先破 grip，再重建 posture",
+    "distractors": {
+     "plausible": [
+      "硬撐 posture 突破 grip",
+      "抓褲子直接站起來"
+     ],
+     "trap": [
+      "還被抓著就直接站起來"
+     ]
+    }
+   },
+   {
+    "question": "開 closed guard 有哪三種主要的 grip 策略，各自該在什麼時機使用？",
+    "answer": "三種主要的 grip 是雙手抓膝蓋附近的褲管、一手抓皮帶一手抓膝蓋，以及 cross-collar 配合膝蓋控制。雙手抓褲管在膝蓋處最常見，對 standing break 和直接控制腿部提供最好的控制力。皮帶配膝蓋的 grip 適合 combat base 的開法，能提供更好的 hip 控制和楔形壓力。cross-collar 配膝蓋控制是 gi 專屬打法，對依賴 grip 的對手特別有效，因為 collar 能在你站起來時控制他們的 posture。要根據你偏好的開法和對手的 guard 風格來選擇。",
+    "distractors": {
+     "plausible": [
+      "站立時用皮帶配膝蓋 grip",
+      "combat base 用 cross-collar"
+     ],
+     "trap": [
+      "雙手抓高 collar"
+     ]
+    },
+    "answer_line": "雙手抓褲管最常見"
+   },
+   {
+    "question": "你感覺到對手的腳踝在你做 standing break 時開始鬆開——接下來最關鍵的動作是什麼？",
+    "answer": "腳踝一分開，立刻用你的 grip 把其中一隻腿橫向撥過對方身體，同時把 hip 往後撤。另一隻腿保持位置，不要停下來確認或慶祝。你的 grip 應該早就抓在對方膝蓋附近的褲管上，所以這個撥腿動作要是瞬間反應——把上面那隻膝蓋往對方中線推過去，同時 hip 往後移動。任何猶豫都會讓 guard 重新關閉。直接接續進入你的 passing grip 配置，並在同一個連續動作中開始你選定的 pass。",
+    "distractors": {
+     "plausible": [
+      "停下來重新抓 grip",
+      "後退一步重新抓褲管"
+     ],
+     "trap": [
+      "等兩隻腳踝都鬆開"
+     ]
+    },
+    "answer_line": "撥腿、hip 立刻後撤"
+   },
+   {
+    "question": "在 standing guard break 時，如何防守 elevator sweep 的嘗試？",
+    "answer": "如果對手在 standing guard break 時勾住你的腿，立刻把重心移向被勾的那條腿側邊，必要時用手撐地維持 base。不要試圖用被勾的那條腿站穩或跟那個 hook 硬拼。把自由的那條腿往外跨寬一點以取得更好的 base，用你的 grip 把對方勾住的腿的腳踝推開來卸掉 hook，然後從更寬的站姿繼續開 guard 的動作。關鍵在於透過腳被勾住大腿內側的感覺及早察覺 sweep，並在對方能產生上提力量之前調整你的 base。",
+    "answer_line": "重心移向被勾的腿",
+    "distractors": {
+     "plausible": [
+      "在被勾的腿上站得更用力",
+      "把被勾的腿直接往上拉"
+     ],
+     "trap": [
+      "用被勾的那條腿去對抗 hook"
+     ]
+    }
+   },
+   {
+    "question": "對手力量明顯比你大，你沒辦法用蠻力打開他的 guard——哪些力學上的調整能增加你的槓桿力？",
+    "answer": "把靠手臂拉扯的機制改成靠 hip 發力的開 guard 機制。在 standing break 中，讓 hip 往前推作為主要力量來源，手臂只是負責固定在對方膝蓋上的位置——hip 伸展肌群產生的力量遠大於手臂屈肌。在 combat base 中，用你架起的那隻膝蓋作為楔子，靠整個身體重量往後坐來驅動，而不是靠手臂拉。此外，可以考慮 log splitter 變化式，用 two-on-one grip 孤立對方一隻膝蓋，轉動 hip 產生旋轉力。只要力學正確，槓桿永遠能勝過蠻力。",
+    "answer_line": "用 hip 發力，不要用手臂",
+    "distractors": {
+     "plausible": [
+      "雙手用更大力氣拉",
+      "用背部力量猛拉"
+     ],
+     "trap": [
+      "胸口前傾去推"
+     ]
+    }
+   },
+   {
+    "question": "standing guard break 和 combat base 開法之間，在風險和報酬上最關鍵的差異是什麼？",
+    "answer": "standing guard break 的成功率較高、槓桿力也最大，因為完全的 hip 伸展能產生最大的距離和開 guard 力量，但在站起來的過渡期間，因為 base 較高且較窄，被 sweep 的風險也較高。combat base 開法風險較低，因為有一隻膝蓋一直貼地，對 sweep 提供持續的穩定性，但產生的開 guard 壓力較小，也給對手更多時間調整。當你有良好的 grip 控制、對手不擅長 sweep 時，選擇 standing。面對積極的 sweep 型對手，或需要保留體力時，選擇 combat base。",
+    "answer_line": "Standing：力量強但風險高",
+    "distractors": {
+     "plausible": [
+      "combat base 開得更用力",
+      "站立完全沒有 sweep 風險"
+     ],
+     "trap": [
+      "雙腳併攏站直"
+     ]
+    }
+   },
+   {
+    "question": "為什麼開 guard 和 pass 應該是一個連續動作，而不是分開的兩個技術？",
+    "answer": "開 guard 和 pass 必須是一個連續動作，因為開了之後任何停頓都會讓對手重新關閉 guard 或建立起 open guard 的防守。只要給時間，他們就能建立起 frame、hook 和 grip。腳踝一鬆開，你就必須已經在轉換進入 knee slice、toreando 或你選定的 pass，這代表在開 guard 之前就必須先規劃好 pass 的策略。整個過渡應該感覺像是一個流暢的動作，開 guard 的力學自然銜接到 pass 的力學，中間沒有重置點。",
+    "distractors": {
+     "plausible": [
+      "先休息，再重新開始 pass",
+      "分兩步走比一次急衝好"
+     ],
+     "trap": [
+      "開完後停下來重新抓 grip"
+     ]
+    },
+    "answer_line": "停頓會讓 guard 重新關閉"
+   },
+   {
+    "question": "你開始站起來時，對手主動打開了自己的 guard——你該注意什麼陷阱？",
+    "answer": "主動打開 guard 通常代表對手想進入他們偏好的 open guard 或設置 sweep，所以要立刻控制他們的腿。他們通常是在轉換進 spider guard、lasso guard 或 de la riva，或準備需要腿部打開的 sweep，像是 sickle sweep 或 tripod sweep。不要以為主動打開就代表你已經贏了——在對方能建立 hook 或 grip 之前，先在膝蓋或腳踝處控制住雙腿。快速拉近距離施加沉重的 passing 壓力，或建立你自己的 grip 優勢。對待主動打開的態度，要跟被迫打開時一樣謹慎。",
+    "distractors": {
+     "plausible": [
+      "以為 pass 已經贏定了",
+      "現在放鬆 grip 壓力"
+     ],
+     "trap": [
+      "放手慢慢 pass"
+     ]
+    },
+    "answer_line": "控制腿，他們想要 open guard"
+   },
+   {
+    "question": "你應該如何用 hip 和腿而不是手臂力量來產生開 guard 的力量？",
+    "answer": "開 guard 應該由 hip 和腿的動作驅動，而不是靠手臂拉扯。在 standing break 中，hip 往前推，腿提供平台和穩定性——手臂只是固定在褲管上的位置。開 guard 的力量來自 hip 伸展，這是你身體能產生最強力的動作。在 combat base 開法中，你架起的那隻腿像楔子一樣往前推，同時 hip 往後坐取得槓桿，透過骨骼架構產生相對的力量。手臂負責控制位置、防止重新關閉，但真正的開 guard 力量來自遠遠更強的 hip 和腿部肌肉，以相反方向運動產生力學優勢。",
+    "answer_line": "hip 伸展帶動開 guard",
+    "distractors": {
+     "plausible": [
+      "靠手臂做拉的工作",
+      "靠肩膀產生力量"
+     ],
+     "trap": [
+      "身體蜷曲往前用蠻力開"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你感覺到對手開始在你的 closed guard 內建立 upright posture 時，你的首要防守重點是什麼？",
+    "answer": "你的首要重點是在對方完成 posture 建立之前立刻破壞它。建立很深的 cross-collar grip，並搭配積極的腳跟壓力，把他們的下背往你這邊拉。同時用你的 grip 把他們的頭和肩膀往前拉。目標是在他們達到能啟動開 guard 力學的直立脊椎排列之前，把他們捲回下方。在對方嘗試 posture 的最初兩秒內採取行動非常關鍵，因為一旦建立起來，穩固的 posture 就會越來越難破壞。",
+    "answer_line": "立刻破壞 posture",
+    "distractors": {
+     "plausible": [
+      "等 posture 完全建立再說",
+      "把他們的 hip 推開"
+     ],
+     "trap": [
+      "讓他們先建立 posture 再 sweep"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立起穩固的 posture，正伸手要抓你的褲子——這創造了什麼 sweep 機會？",
+    "answer": "當對手雙手同時伸向你的腿時，他們上半身的重量會往後移，撐地能力也被消除，因為雙手都投入到低處了。這正是 hip bump sweep 的完美時機。用一手控制對方一隻手腕，同時爆發性地坐起身衝向他們的胸口，把你的 hip 撞向他們的中線。他們無法撐地，因為雙手都在伸向你的腿。就算 sweep 沒有成功，也會逼他們放棄抓 grip 的嘗試、重新調整 base，為你爭取時間重新破壞他們的 posture。",
+    "answer_line": "立刻做 hip bump sweep",
+    "distractors": {
+     "plausible": [
+      "triangle 那隻被困的手臂",
+      "把他們的手推開"
+     ],
+     "trap": [
+      "放開 guard 開始 scramble"
+     ]
+    }
+   },
+   {
+    "question": "當對手從 combat base 轉換到完全的 standing guard break 時，你該如何調整防守？",
+    "answer": "當他們站起來時，你的防守策略必須從破壞 posture 轉為威脅 sweep 和控制 grip。立刻抓住他們雙手的 sleeve 或手腕以控制他們的手臂。鬆開交叉的腳踝，把腳放在他們的 hip 上以維持連結，趁他們站高的時候。從這個位置，可以用勾住一隻腿威脅 elevator sweep，用拉住雙 sleeve 並踢對方腿的方式威脅 lumberjack sweep，或轉換進入 collar-sleeve open guard。站立姿勢給了他們更大的開 guard 槓桿力，但也因為 base 較高而讓他們更容易被 sweep。",
+    "answer_line": "轉向 sweep 和 grip 控制",
+    "distractors": {
+     "plausible": [
+      "繼續攻擊他們的 posture",
+      "把腳踝交叉得更緊"
+     ],
+     "trap": [
+      "現在放掉所有 grip"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候主動打開你的 guard 是正確的選擇，而不是硬撐著維持關閉？",
+    "answer": "當對手已經建立起壓倒性的開 guard grip、穩固的 posture 和力學優勢，讓你繼續硬撐關閉只是浪費體力且注定失敗時，就主動打開你的 guard。當你想轉換進某個特定的 open guard 系統，對對方的 pass 風格能提供更好的進攻機會時，也可以主動打開——例如對站立的對手轉換進 de la riva，或對跪姿的對手轉換進 spider guard。關鍵在於這個轉換必須是在你主導、grip 已經規劃好的情況下進行，而不是在腳踝被硬掰開的最後一刻絕望地 scramble。",
+    "answer_line": "打不過時，主動選擇時機",
+    "distractors": {
+     "plausible": [
+      "絕不主動打開",
+      "累了就打開"
+     ],
+     "trap": [
+      "在最後一刻 scramble 中打開"
+     ]
+    }
+   },
+   {
+    "question": "哪種 grip 組合能讓你有最好的機會防止 standing guard break？",
+    "answer": "很深的 cross-collar grip 搭配同側抓對方遠端手臂的 sleeve grip，是防止 standing break 最強的組合。collar grip 控制他們的 posture，讓他們無法完全直立伸展。sleeve grip 則剝奪了他們在那一側做 standing break 所需要的褲管 grip。這個組合讓你能破壞他們的 posture、在他們孤立被抓的手臂時威脅 triangle，並在他們試圖拉開距離時設置 hip bump sweep。如果沒有同時擁有這兩個 grip，對手就能繞過單一 grip 的防守。",
+    "answer_line": "collar grip 加 sleeve grip",
+    "distractors": {
+     "plausible": [
+      "抓住他們雙手的 sleeve",
+      "collar grip 加皮帶 grip"
+     ],
+     "trap": [
+      "放開 collar 去抓腿"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Elbow Escape from Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "啟動elbow escape時，主要的frame位置放在哪裡？為什麼選這個位置而不是壓在胸口？",
+    "answer": "前臂或手肘要frame在逃脫那側的對手髖部或大腿內側。這個位置能防止top position的對手跟上你的側向髖部移動，並建立製造橫向空間所需的結構性槓桿。壓在胸口雖然能把對手往上推，但無法阻止他們側向滑動跟上你的髖部，而且手臂伸直壓在胸口上會立刻讓你暴露在armbar和Americana的威脅之下。",
+    "answer_line": "前臂frame髖部/大腿內側",
+    "distractors": {
+     "plausible": [
+      "推胸口製造空間",
+      "在同側膝蓋建frame"
+     ],
+     "trap": [
+      "手臂伸直平壓在胸口上"
+     ]
+    }
+   },
+   {
+    "question": "為什麼連續的hip escape比單一次爆發性動作更有效？",
+    "answer": "每一次hip escape都會製造出漸進的空間，並在下一個動作前透過調整frame來保存住。單一次爆發性hip escape很少能製造出足夠的距離讓膝蓋順利插入，而且會迅速耗盡體力。連續兩到三次較小的動作能在維持frame完整性的同時累積空間，每一次shrimp都建立在前一次保存下來的空間上，而不是從零開始。",
+    "answer_line": "連續小shrimp，保持frame",
+    "distractors": {
+     "plausible": [
+      "一次爆發性shrimp逃脫",
+      "shrimp兩次，不重設frame"
+     ],
+     "trap": [
+      "亂bridge，把背部交出去"
+     ]
+    }
+   },
+   {
+    "question": "從mount做elbow escape的最佳時機窗口是什麼時候？",
+    "answer": "最好的時機是top position的對手把重量前移準備進攻submission、伸手往上抓collar，或調整膝蓋位置的時候。這些瞬間會暫時降低對手在逃脫那側的base穩定性。先做一個小幅度的bridge，能逼對手做出撐地反應，而在他們恢復的瞬間立刻做hip escape，就是最佳的時機窗口，此時對手的重量正好暫時被打散。",
+    "answer_line": "在對手重量前移時",
+    "distractors": {
+     "plausible": [
+      "在對手剛坐穩之後",
+      "在對手base沉重穩固時"
+     ],
+     "trap": [
+      "被動等待，任由對手拿到high mount"
+     ]
+    }
+   },
+   {
+    "question": "對手把髖部頂進你的frame並重新回到中線，擋住你插膝蓋——你該如何調整？",
+    "answer": "立刻朝同一方向連續做第二次hip escape，累積更多空間；如果對手在第一次動作後把重量過度壓向那一側，也可以改換方向。在第二次hip escape之前先做一個小bridge，能打亂對手重新回中線的動能。整個過程中frame必須保持啟動狀態，如果兩個方向都行不通，可以結合upa嘗試逼對手撐手，再趁他們恢復時做hip escape。",
+    "answer_line": "同側連續第二次shrimp",
+    "distractors": {
+     "plausible": [
+      "從頭重設frame",
+      "直接把膝蓋硬推過去"
+     ],
+     "trap": [
+      "放掉frame，硬用力把膝蓋塞過去"
+     ]
+    }
+   },
+   {
+    "question": "開始hip escape動作前，必須先建立什麼grip或frame？",
+    "answer": "最起碼的前提是：前臂frame壓在逃脫那側對手的髖部上，手肘緊貼自己的身體。另一隻手應該控制對手另一側的膝蓋或褲管，防止他們在你逃脫時撐地。如果沒有先建立這個frame，hip escape製造出的空間會立刻被對手側向滑動髖部跟上而填補，讓逃脫失效。",
+    "answer_line": "frame髖部、控制遠側膝蓋",
+    "distractors": {
+     "plausible": [
+      "先拿underhook再frame",
+      "frame胸口，控制近側膝蓋"
+     ],
+     "trap": [
+      "推對手胸口，送出armbar"
+     ]
+    }
+   },
+   {
+    "question": "elbow escape如何與upa escape結合，製造出對手無解的兩難？",
+    "answer": "Upa需要top position的對手雙手撐寬以維持對抗bridge的base，這會讓對手的重量向上向前移動。這個向前的重量移動，正好創造出對elbow escape有利的條件。反過來說，防守elbow escape需要top position的對手把髖部壓低、貼緊跟上你的髖部移動，這讓他們在缺乏撐地能力時容易受到upa的威脅。輪流使用這兩招，會把top position的對手逼進一個持續兩難的防守循環。",
+    "answer_line": "交替使用upa和elbow escape",
+    "distractors": {
+     "plausible": [
+      "先用upa，然後放棄frame",
+      "只用upa來設置逃脫"
+     ],
+     "trap": [
+      "同時嘗試兩個動作"
+     ]
+    }
+   },
+   {
+    "question": "在轉身階段，什麼樣的身體位置能防止背部暴露？",
+    "answer": "在整個轉身動作中，讓你上方的手肘連接你上方的膝蓋，形成一個封閉的frame，物理性地阻擋對手插入hook到你的髖部後方。要面向對手，而不是轉身背對；並在整個逃脫過程中維持frame對對手髖部的接觸。下巴保持收緊，肩膀在膝蓋完全插入、half guard以leg triangle鎖定之前，不能轉超過90度離開對手。",
+    "answer_line": "肘連膝，面向對手",
+    "distractors": {
+     "plausible": [
+      "完全轉身背對，再建frame",
+      "抬頭，追蹤對手髖部"
+     ],
+     "trap": [
+      "肩膀轉超過90度"
+     ]
+    }
+   },
+   {
+    "question": "如果在你嘗試逃脫時，top position的對手推進到high mount、膝蓋靠近你的腋下，需要做什麼調整？",
+    "answer": "從high mount的位置，標準壓在大腿上的髖部frame效果會變差，因為對手的膝蓋已經越過你的frame範圍。把frame提高改壓在對手胸口或肩膀，同時透過小幅度的滑動動作，慢慢把髖部往下移向對手膝蓋。結合bridge和向下滑動髖部的動作，能製造出重新建立標準髖部高度frame所需的距離。優先目標是先從high mount逃回標準mount位置，再繼續進行elbow escape。",
+    "answer_line": "frame胸口，滑動髖部下移",
+    "distractors": {
+     "plausible": [
+      "直接frame對手膝蓋",
+      "用力bridge，跳過滑動"
+     ],
+     "trap": [
+      "立刻嘗試knee shield"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備嘗試elbow escape時，最早的身體徵兆是什麼？",
+    "answer": "最主要的徵兆是對手把前臂或手肘壓在你的髖部或大腿內側，同時身體微微轉向一側。這個frame的建立，是hip escape動作的前提。次要徵兆包括一隻腳平踩在墊子上、膝蓋彎曲，以及雙手從防守頸部轉為推髖部的位置。察覺到frame的建立，能讓你有大約一秒的時間，在hip escape開始前做出反應。",
+    "answer_line": "手肘frame髖部，微轉身",
+    "distractors": {
+     "plausible": [
+      "對手bridge並朝你翻滾",
+      "對手抓你手腕來控制"
+     ],
+     "trap": [
+      "對手完全放鬆躺著不動"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到對手開始做hip escape時，應該如何調整你的重量分布？",
+    "answer": "把你的髖部向前向下壓，同時把膝蓋朝對手髖部移動的方向滑動跟上，在對手插入膝蓋之前先封住空隙。你的重量應該朝對手逃脫的方向移動，維持胸口的連接，並把雙腿向後sprawl，防止對手靠撐地的腳製造出力量。這個sprawl動作能把你的髖部壓平貼緊對手的髖部，用向下的壓力直接對抗他們的側向移動。",
+    "answer_line": "壓低髖部，跟隨膝蓋",
+    "distractors": {
+     "plausible": [
+      "坐回去並拉寬base",
+      "撐手，身體遠離"
+     ],
+     "trap": [
+      "抬起髖部避開壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手成功插入knee shield——你的立即戰術反應是什麼？",
+    "answer": "立刻用強力的crossface壓力把你的髖部壓進他們插入的膝蓋，把對手壓平，防止他們建立underhook。如果你能在對手把腿triangle鎖住之前，把他們的膝蓋推回你髖部線以下，就能重新建立full mount。如果half guard已經成形，改為進行half guard top的過guard，用crossface和underhook，而不是硬拚重新回到mount，因為嘗試跳回mount通常會給底位的人更多scramble的機會。",
+    "answer_line": "Crossface，把髖部壓進膝蓋",
+    "distractors": {
+     "plausible": [
+      "立刻強行重新回mount",
+      "放棄crossface，去搶underhook"
+     ],
+     "trap": [
+      "退後重新架設位置"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候適合放對手部分逃脫，藉此設置submission反制？",
+    "answer": "當你能及早察覺逃脫嘗試並控制住對手用來建frame的手臂時，你可以允許對手部分hip escape，同時鎖住他們伸出的手臂，準備做Americana或轉往armbar。關鍵是要在整個過程中維持對這隻手臂的絕對控制，絕不能放開它去換取重新回mount。這種誘敵反擊策略在你已經威脅過其他submission之後最為有效，因為此時對手的注意力完全放在逃脫上，而不是保護自己的手臂。",
+    "answer_line": "困住建frame的手臂並攻擊",
+    "distractors": {
+     "plausible": [
+      "先放開雙手",
+      "等到full guard恢復後再說"
+     ],
+     "trap": [
+      "放開手臂以強行重新mount"
+     ]
+    }
+   },
+   {
+    "question": "Grapevine雙腿會如何影響對手執行elbow escape的能力？",
+    "answer": "Grapevine把你的腳背勾在對手大腿內側，防止他們把腳平踩在墊子上。沒有平踩的腳提供發力點，底位的人就無法產生有效hip escape所需的側向髖部推力。這會大幅降低他們shrimp動作的力量與範圍，讓你更容易跟上並重新回到中線。不過，grapevine會稍微降低你自己撐地與調整的能力，所以在轉換到需要髖部活動度的submission時要放開它。",
+    "answer_line": "封鎖腳踩地，消除推力",
+    "distractors": {
+     "plausible": [
+      "從外側勾住對手大腿",
+      "在submission過程中保持grapevine"
+     ],
+     "trap": [
+      "在逃脫過程中放開grapevine"
+     ]
+    }
+   }
+  ]
+ }
+}

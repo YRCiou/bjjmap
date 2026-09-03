@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Turn In and Face.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼要朝勒頸手臂的方向轉，而不是往反方向轉？",
+    "answer": "朝勒頸手臂的方向轉可以瓦解產生勒頸壓力的角度。Buggy Choke 依賴垂直的幾何結構，穿繞的手臂從背後纏繞過來。往那個方向轉會縮短勒頸路徑，把 collar 抓握變成正面朝向的抓握，終結能力大幅下降。往反方向轉則會讓抓握收緊，並把背部暴露出去讓對手掛 hook。",
+    "answer_line": "瓦解勒頸角度",
+    "distractors": {
+     "plausible": [
+      "製造空間坐起來",
+      "把 collar 抓握扯開"
+     ],
+     "trap": [
+      "反向轉來卸掉壓力"
+     ]
+    }
+   },
+   {
+    "question": "執行 Turn In and Face 的最佳時機是什麼？",
+    "answer": "成功率最高的時機是在穿繞階段、第二個抓握還沒鎖死之前，或是在抓握剛建立、但重壓還沒把你壓平之前。一旦對方的重壓完全穩固、髖部把你死死壓進地墊，轉身就會變得極度困難，這時改用 sit to half guard 之類的替代逃脫會比較好。",
+    "answer_line": "抓握剛建立前後就出手",
+    "distractors": {
+     "plausible": [
+      "只在 hook 開始掛上時",
+      "胸壓最重的那一刻"
+     ],
+     "trap": [
+      "等勒頸鎖死再說"
+     ]
+    }
+   },
+   {
+    "question": "整個轉身過程中你必須維持哪個抓握？",
+    "answer": "從轉身開始到完成，都必須控制對手穿繞手臂的手腕或前臂。這個抓握能防止對方在你頭部轉過來時，把穿繞的手臂轉換成 front headlock 或 guillotine。只有在建立好內側 frame、對手碰不到你脖子之後，才能放開這個控制。",
+    "answer_line": "抓住穿繞手臂",
+    "distractors": {
+     "plausible": [
+      "抓住對側肩膀",
+      "近側掛 underhook"
+     ],
+     "trap": [
+      "一開始轉身就放手"
+     ]
+    }
+   },
+   {
+    "question": "對手在你啟動轉身時開始插入背後的 hook——你該怎麼調整？",
+    "answer": "加速轉身，在對方兩個 hook 都掛上之前完成整個轉身。如果轉身過程中有一個 hook 掛進來了，繼續轉過面朝的位置，進入坐姿 guard，然後立刻優先破解下方那個 hook，開始執行背後逃脫程序。不要放棄轉身、退回 turtle，因為那樣你會落入更糟的處境，對方已經建立了部分背控。",
+    "answer_line": "加速轉身，破解下方 hook",
+    "distractors": {
+     "plausible": [
+      "先暫停轉身去拔除 hook",
+      "繼續轉身、無視那個 hook"
+     ],
+     "trap": [
+      "放棄轉身、退回 turtle"
+     ]
+    }
+   },
+   {
+    "question": "膝蓋驅動轉身的關鍵力學細節是什麼？",
+    "answer": "近側膝蓋在身體下方以弧形擺向對側，作為旋轉動能的主要驅動力。對側手撐在地墊上作為支點，近側手則控制穿繞手臂。這個動作必須連貫且爆發，膝蓋帶動髖部和上半身一氣呵成地轉過去，中途不能停頓在任何中間姿勢。",
+    "answer_line": "近膝內收，遠手支撐",
+    "distractors": {
+     "plausible": [
+      "遠側膝蓋從身體下方擺動",
+      "兩手平均支撐"
+     ],
+     "trap": [
+      "轉到一半停下重建 base"
+     ]
+    }
+   },
+   {
+    "question": "完成轉身後，對手用胸壓向前推進——你的立即反應是什麼？",
+    "answer": "立刻用雙前臂頂在對手的胸口和肩膀上建立內側 frame，阻止他們貼近。接著在維持 frame 接觸的同時做一個俐落的 hip escape，為插腿製造空間。frame 必須是最優先事項——沒有它，對方在你恢復 guard 之前就會轉換成 side control 或 mount。",
+    "answer_line": "先做 frame，再 hip escape",
+    "distractors": {
+     "plausible": [
+      "先 hip escape，之後再做 frame",
+      "立刻抓 collar tie"
+     ],
+     "trap": [
+      "用手臂直接往後推"
+     ]
+    }
+   },
+   {
+    "question": "你如何判斷從 Buggy Choke bottom 該執行 Turn In and Face 還是坐向 half guard？",
+    "answer": "當你還保有足夠的姿勢和髖部活動度來產生旋轉動能，而對方的重壓還沒把你完全壓平時，Turn In and Face 是最佳選擇。當重壓很重但抓握相對淺時，sit to half guard 較好，因為坐起的動作需要的旋轉空間較少。如果已經完全被壓平、抓握又深、壓力又重，接受被控制地轉換到 back control 可能是最好的選項。",
+    "answer_line": "還能動就轉，別等壓平",
+    "distractors": {
+     "plausible": [
+      "抓握深就坐出去",
+      "只有壓力重時才轉身"
+     ],
+     "trap": [
+      "就算完全被壓平也要轉身"
+     ]
+    }
+   },
+   {
+    "question": "完成旋轉後你必須立刻建立什麼防禦結構？",
+    "answer": "雙前臂頂住對手的胸口、二頭肌與肩線的內側 frame。這些 frame 能形成防禦屏障，阻止對方貼近建立 side control、重新建立 Buggy Choke 的角度，或轉換成 front headlock 或 guillotine。這些 frame 也為接下來的 hip escape 和插腿創造必要空間。",
+    "answer_line": "胸口手臂上的內側 frame",
+    "distractors": {
+     "plausible": [
+      "underhook 對側手臂",
+      "只 frame 髖部"
+     ],
+     "trap": [
+      "伸直手臂往外推"
+     ]
+    }
+   },
+   {
+    "question": "對手在轉身中途放開 Buggy Choke 的抓握，改攻 guillotine——你的反制是什麼？",
+    "answer": "整個轉身過程中都要收緊下巴以減少頸部暴露。一旦感覺到 guillotine 抓握正在建立，立刻把近側手臂游到 underhook 位置，這能擋住 chin strap 並阻止鎖死。如果 guillotine 已經部分鎖上，繼續轉身面向對手，把頭轉到勒頸側，同時施加肩膀壓力來撐開抓握。",
+    "answer_line": "收緊下巴，游到 underhook",
+    "distractors": {
+     "plausible": [
+      "先抓勒頸的手腕",
+      "沉髖僵持不動"
+     ],
+     "trap": [
+      "把頭往後拉出空間"
+     ]
+    }
+   },
+   {
+    "question": "如果一開始的轉身在半途卡住，你該準備哪些連續攻擊？",
+    "answer": "如果轉身卡在半旋轉，立刻改踢近側腿穿出，落入坐姿 guard。如果髖部活動度受限，就往你已部分轉過去的那一側做 hip escape，插入 knee shield 以恢復 half guard。核心原則是絕不退回原本的 turtle 姿勢——任何已取得的進展都應該轉換成替代的逃脫路徑，而不是放棄。",
+    "answer_line": "踢腿穿出到坐姿 guard",
+    "distractors": {
+     "plausible": [
+      "維持半旋轉姿勢等待",
+      "硬拚完成原本的轉身"
+     ],
+     "trap": [
+      "整個退回 turtle 重來"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在啟動 Turn In and Face 的最早辨識線索是什麼？",
+    "answer": "近側膝蓋開始在身體下方向對側擺動是最可靠的最早線索。這個膝蓋驅動能產生驅動整個逃脫的旋轉動能。你也可能感覺到他們的近側手正在伸向你穿繞的手腕，遠側手撐在地墊上。在半秒內辨識出膝蓋驅動，能給你最多時間以壓平或轉往背控的方式回應。",
+    "answer_line": "近側膝蓋開始擺動",
+    "distractors": {
+     "plausible": [
+      "頭部離開地墊",
+      "髖部朝你方擠壓"
+     ],
+     "trap": [
+      "等對方面朝你才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼靜態抵抗轉身是無效的防禦策略？",
+    "answer": "Turn In and Face 利用了 Buggy Choke 本身的幾何弱點——一旦對手把髖部轉正面向你，垂直勒頸角度就會瓦解，不管你抓得多緊都一樣。單靠手臂力量的靜態抵抗無法克服這種幾何現實。此外，靜態對抗轉身會浪費那個轉往背控或其他終結技的短暫轉換窗口。",
+    "answer_line": "幾何優於握力",
+    "distractors": {
+     "plausible": [
+      "他們的抓握本來就太鬆",
+      "旋轉一定比反應快"
+     ],
+     "trap": [
+      "對方轉身時抓更緊"
+     ]
+    }
+   },
+   {
+    "question": "你的底方對手已啟動轉身、旋轉到一半——你成功率最高的回應是什麼？",
+    "answer": "在半旋轉階段，光靠壓力已不太可能阻止轉身，因為動能已經建立。你成功率最高的回應是放開 Buggy Choke 的抓握，立刻跟隨旋轉插入近側 hook，建立 seat belt 控制以取得背控。底方自己的旋轉動能會把你帶入背控，只要你跟著他們的髖部動、而不是硬拚旋轉。這會把他們的逃脫嘗試轉換成對他們更差的處境。",
+    "answer_line": "跟髖部走，拿下背後",
+    "distractors": {
+     "plausible": [
+      "更用力壓平對方",
+      "重設抓握回到 Buggy Choke"
+     ],
+     "trap": [
+      "對方旋轉時強行完成勒頸"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的體重分配能防止 Turn In and Face 被啟動？",
+    "answer": "把你的胸口垂直壓向底方的背部和近側肩膀，同時保持髖部沉重壓在對方的近側髖部。這會製造一股壓平的力量，把他們的髖部釘在地墊上，消除他們把近側膝蓋擺到身體下方、產生旋轉動能所需要的活動度。你的頭應緊貼對方遠側肩膀，作為額外控制點阻擋旋轉路徑。體重應該透過胸口和髖部傳遞，而不是透過手臂。",
+    "answer_line": "胸髖沉重，別靠手臂",
+    "distractors": {
+     "plausible": [
+      "用雙臂承擔體重",
+      "胸口重、髖部輕"
+     ],
+     "trap": [
+      "抬高髖部往前驅動"
+     ]
+    }
+   },
+   {
+    "question": "你如何把 Turn In and Face 的嘗試轉換成 guillotine 或 front headlock 攻擊？",
+    "answer": "在對方頭部於中段旋轉時轉過來時，把你穿繞的手臂從 collar 抓握轉換成 chin strap 或環頸位置，在他們完成轉身之前完成。你的另一隻手負責鎖住，與勒頸手連接。這個做法在你能及早辨識轉身、調整抓握，但旋轉又已經進展到壓力阻止不了轉身的階段時最有效。關鍵時機是中段旋轉時頭部暴露的窗口。",
+    "answer_line": "頭部暴露時上 chin strap",
+    "distractors": {
+     "plausible": [
+      "轉身結束後再上 chin strap",
+      "在早期設置階段就 underhook"
+     ],
+     "trap": [
+      "放棄底盤去追頸部"
+     ]
+    }
+   }
+  ]
+ }
+}

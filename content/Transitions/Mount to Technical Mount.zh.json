@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 Mount to Technical Mount 轉換的最佳時機，最主要的觸發訊號是什麼？",
+    "answer": "最主要的觸發訊號是對手轉向側身，或從 mount 中發動 hip escape。當下位選手把髖部與肩膀轉離你時，就會製造出插入遠側腳所需的角度與空間。對一個平躺、正對你的對手嘗試這個轉換，會犧牲 mount 的穩定性，卻無法製造出有效 technical mount 所需的角度。對手的動作——無論是主動逃脫或被你的壓力逼出來的——正是讓這個轉換在力學上成立的關鍵。",
+    "answer_line": "對手轉身或做 hip escape",
+    "distractors": {
+     "plausible": [
+      "當對手平躺不動時",
+      "一過人拿到 mount 就立刻做"
+     ],
+     "trap": [
+      "坐直抬起雙膝"
+     ]
+    }
+   },
+   {
+    "question": "對手用完全平躺、拒絕轉身的方式防守 mount——你該如何製造出 technical mount 的空隙？",
+    "answer": "用肩膀頂進他們的下巴，施加沉重的 cross-face 壓力，逼他們轉頭，這自然會帶動身體跟著轉。或者，威脅像 Americana 或 cross collar choke 這種高成功率的 submission，逼他們用手做防守動作——任何手臂的動作都會製造你需要的反應。你也可以把膝蓋往他們腋下走，逼出防守性的 hip escape。關鍵是製造一個兩難局面，讓他們的防守動作反而製造出你需要的角度。",
+    "answer_line": "用 cross-face 逼轉頭",
+    "distractors": {
+     "plausible": [
+      "夾住雙腿用力擠壓",
+      "雙手抓住 collar 直接往上拉"
+     ],
+     "trap": [
+      "坐高，雙手撐地"
+     ]
+    }
+   },
+   {
+    "question": "區分成功的 leg post 與製造逃脫機會的 leg post，關鍵的力學細節是什麼？",
+    "answer": "撐出去的那條腿必須貼近對手身體，小腿垂直於他們的軀幹，腳掌平貼地面，建立一個緊密的三腳架式重心結構。撐得太遠會製造出讓對手插入 knee shield、恢復 half guard，或整個從下方逃脫的縫隙。撐出的腳應該近到能碰觸對手的髖部，小腿應該像一堵牆阻止他們轉回來。同時，必須插入同側的 hook 來完成對對手的包圍。",
+    "answer_line": "把腳緊貼撐在他們髖部旁",
+    "distractors": {
+     "plausible": [
+      "腳尖繃直、腳趾捲起",
+      "小腿平行於軀幹"
+     ],
+     "trap": [
+      "把腿撐在遠離他們髖部的地方"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中，對手爆發性地做橋——正確的反應是什麼？為什麼？",
+    "answer": "順著橋走，而不是硬去對抗它。透過撐出去的腿維持寬廣的重心站姿，並透過 cross-face 或 collar 抓握維持上半身連結。橋動作實際上會加速你的轉換，因為它會把對手的髖部抬起，製造更多插入 hook 的空間。當他們橋完落回地面時，你的 technical mount 應該已經鞏固完成。硬撐去對抗橋會浪費體力，並冒著被翻滾掀掉的風險，而順著它走則能把他們逃脫的力量轉化為你的位置優勢。",
+    "answer_line": "順著橋走，別對抗",
+    "distractors": {
+     "plausible": [
+      "先把他們壓平再繼續",
+      "夾腿以扼殺抬升力"
+     ],
+     "trap": [
+      "雙手撐地以阻止抬升"
+     ]
+    }
+   },
+   {
+    "question": "在承諾撐腿動作之前，必須先建立什麼抓握？",
+    "answer": "在雙腿移動之前，必須先確保透過 cross-face、underhook 或 collar 抓握取得上半身控制。這個抓握是你在重心轉移過程中的錨點——沒有它，從雙邊對稱的 mount 轉換成不對稱的 technical mount 過程中那短暫的不穩定，就會製造出讓對手架 frame 逃脫的空隙。上半身抓握維持持續的壓力，防止對手製造出恢復 guard 所需的距離。先移動腿而不先確保抓握，是轉換失敗最常見的原因。",
+    "answer_line": "先鎖定上半身控制",
+    "distractors": {
+     "plausible": [
+      "雙手抓住腰帶",
+      "先壓住雙膝再移動"
+     ],
+     "trap": [
+      "先移動腿，之後再抓握"
+     ]
+    }
+   },
+   {
+    "question": "Hook 的插入該如何與 leg post 協調配合？如果依序執行而不是同時執行會發生什麼？",
+    "answer": "Hook 的插入與 leg post 應該是同一個協調動作，而不是兩個分開的動作。當遠側腿甩出去撐地的同時，同側腿要同步穿到對手身體下方。如果依序執行——先撐腿、再插入 hook——中間會有一個空檔，沒有 hook 阻擋，對手就能把髖部轉回去恢復 guard。這個時機空隙足以讓一個有實力的下位選手恢復 half guard 或製造混戰。同時執行能一個動作就建立起 technical mount 的包圍網，消除逃脫的時機窗。",
+    "answer_line": "撐腿與 hook 同一動作完成",
+    "distractors": {
+     "plausible": [
+      "先正對躺平，再重新定位",
+      "先把膝蓋走過去，再甩腿"
+     ],
+     "trap": [
+      "先撐腿，之後再插 hook"
+     ]
+    }
+   },
+   {
+    "question": "對手在轉換過程中成功在你髖部架起 frame，阻止你完成 technical mount——你有哪些選項？",
+    "answer": "你有三個主要選項。第一，用 Americana 或手腕控制去進攻那隻架 frame 的手臂，把他們的防守結構轉化為 submission 機會。第二，加強 cross-face 壓力並用肩膀頂穿，讓他們的 frame 崩潰，然後在 frame 破裂後重新嘗試轉換。第三，放棄 technical mount 的嘗試，退回標準 mount 並施加沉重壓力，然後透過 submission 威脅重新製造空隙。最糟的反應是持續硬闖一個有效的 frame。",
+    "answer_line": "進攻它、壓垮它，或重來",
+    "distractors": {
+     "plausible": [
+      "等 frame 累到自然放棄",
+      "抓住手腕用力拉"
+     ],
+     "trap": [
+      "站高起身以破壞 frame"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 technical mount 被視為過渡性位置而非控制性位置？這對你完成轉換後的做法有什麼影響？",
+    "answer": "Technical mount 犧牲了標準 mount 雙邊的穩定性，換取更優越的 submission 角度，這代表它作為一個維持性的位置本質上較不穩定。這種不對稱的重心結構——一個 hook 加一個撐出的腿——對逃脫的抵抗力遠低於標準 mount 雙膝著地的結構。這代表你必須在建立 technical mount 後立刻進攻——armbar、back take 或 triangle 都要在 3 到 5 秒內發動。把它當成休息或控制性位置，會讓對手有時間發展防守 frame。每一秒沒有進攻，都是浪費掉的位置優勢。",
+    "answer_line": "立刻進攻，別停留休息",
+    "distractors": {
+     "plausible": [
+      "退回平躺 mount 重新開始",
+      "換抓握放慢節奏"
+     ],
+     "trap": [
+      "安定下來、維持這個位置"
+     ]
+    }
+   },
+   {
+    "question": "從標準 mount 轉換到 technical mount 的重心轉移過程中，你的髖部壓力方向會如何改變？這為什麼重要？",
+    "answer": "在標準 mount 中，髖部壓力垂直向下貫穿對手的中線，雙邊重心平均分配。轉換過程中，髖部壓力必須旋轉，斜向驅向你正在撐腿那一側對手的遠側肩膀。這個斜向壓力跟隨對手轉身的動作，阻止他們完成轉身變成 turtle 或恢復平躺。如果你在轉移過程中維持垂直向下的壓力，你的重心在撐腿的瞬間會短暫抬起，製造出逃脫的時機窗。斜向的驅力能在整個轉換過程中持續給對手施加負荷。",
+    "answer_line": "斜向驅向遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "維持垂直向下的壓力",
+      "把重心轉移到對側"
+     ],
+     "trap": [
+      "抬起髖部以鬆開那條腿"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中，對手用 half guard 困住了你撐出的腿——除了單純退回 mount 之外，你有哪些立即的連段進攻選項？",
+    "answer": "如果撐出的腿被困在 half guard 中，你有幾個進攻選項可以善用這個位置，而不是放棄它。第一，用 knee slice 的力學切過他們的 guard，完成過人到 side control，把失敗的 technical mount 轉化為成功的過人。第二，如果你透過 crossface 取得上半身控制，加強肩膀壓力並在他們轉向你時嘗試 Darce choke。第三，如果他們伸手來搶你的髖部，威脅對他們的 underhook 手臂做 Kimura，這會逼他們放開那條腿。核心原則是：把 half guard top 視為一個擁有自己進攻連段的進攻性位置，而不只是一次失敗的轉換。",
+    "answer_line": "用 knee slice 切過去完成過人",
+    "distractors": {
+     "plausible": [
+      "把被困的腳硬拔出來",
+      "坐回去重建 mount"
+     ],
+     "trap": [
+      "把腿撐低，讓出 underhook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "阻止 Mount to Technical Mount 轉換的最佳時機窗是什麼時候？",
+    "answer": "最佳的時機窗是在對手重心轉移、hook 尚未完成插入之前。當你感覺到一邊膝蓋抬起、壓力轉向一側時，對手正處於兩個位置之間，重心站姿是不穩固的。這正是你架 frame 並做 hip escape 的時刻。一旦遠側腳撐地、同側 hook 也插入完成，technical mount 就已經建立，防止已經失敗——你必須切換成逃脫策略而不是預防策略。",
+    "answer_line": "在轉移過程中、hook 插入之前",
+    "distractors": {
+     "plausible": [
+      "他們一拿到 mount 的瞬間",
+      "他們建立好角度之後"
+     ],
+     "trap": [
+      "等到 armbar 開始才反應"
+     ]
+    }
+   },
+   {
+    "question": "試圖打斷這個轉換時，為什麼應該朝撐出腿那一側做橋，而不是朝 hook 那一側？",
+    "answer": "相較於 hook 那一側，撐出的腿建立的重心站姿雖然寬廣，但根基較弱。Hook 會主動拉住你的髖部，給對手提供動態平衡，讓你很難從那個方向去打斷。撐出的腿依靠腳掌平貼地面來取得穩定——朝這一側用力做橋，會製造出角度壓力，逼對手用撐出的那隻腳去承接，而那在轉換過程中較難調整。朝撐出腿那側做橋，正好攻擊對手重心結構中最弱的一點。",
+    "answer_line": "撐出的腿是弱點",
+    "distractors": {
+     "plausible": [
+      "Hook 那一側空間比較大",
+      "做橋只會讓自己更累"
+     ],
+     "trap": [
+      "轉向 hook 那一側，把背讓出去"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂被控制住，technical mount 已經完全建立——你當下最優先的防守是什麼？",
+    "answer": "不惜一切代價保護同側的手臂，不讓它被伸直。讓手肘彎曲並緊貼肋骨，用你另一隻自由的手抓住自己的手腕或 collar 來加強。對手從 technical mount 進攻的主要目標是 armbar，那需要把你的手臂拉直。你所有的防守動作都應該優先保持那隻手臂彎曲並靠緊身體。次要優先是阻止對手在被困的手臂上建立手腕控制。如果兩者都失敗，就在對手開始擺腿過人時，準備好靠坐起和 stack 來防守 armbar。",
+    "answer_line": "讓同側手臂彎曲緊靠身體",
+    "distractors": {
+     "plausible": [
+      "立刻爭取坐起來",
+      "抓住他們的 collar 取得控制"
+     ],
+     "trap": [
+      "把手臂伸直以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "轉換完成後，你該如何從 technical mount 位置恢復 half guard？",
+    "answer": "用你同側的前臂在對手髖部架 frame，手肘保持彎曲，並朝撐出腿那一側 shrimp 離開。隨著空間被製造出來，把你下方的膝蓋插入你們兩人之間，作為 knee shield，目標是讓小腿橫過他們的軀幹。同時，用你上方的腿去勾住他們撐出腿的膝蓋，阻止他們重新調整位置。膝蓋插入配合腿部勾住的組合，能把這個位置從 technical mount 轉換成你擁有 frame 與距離的 half guard 結構。",
+    "answer_line": "架髖部 frame、shrimp、knee shield",
+    "distractors": {
+     "plausible": [
+      "朝撐出腿的反方向 shrimp",
+      "推他們的胸口，橋起來"
+     ],
+     "trap": [
+      "轉身背對，把背暴露出去"
+     ]
+    }
+   },
+   {
+    "question": "防守這個轉換和從已經建立的 technical mount 中逃脫，兩者之間最關鍵的差異是什麼？",
+    "answer": "防守這個轉換，鎖定的是對手重心轉移與撐腿過程中那個短暫的不穩定時機窗，那時他們的重心站姿被破壞、正處於兩個位置之間。這需要讀取準備動作的訊號，並在 1 到 2 秒內做出反應。從已經建立的 technical mount 逃脫則困難得多，因為對手已經鞏固了重心站姿、插入了 hook，並且很可能已經開始隔離你的手臂準備 submission。在轉換過程中的預防，成功率大約是建立完成後才逃脫的兩倍，這讓辨識與及早反應成為最高優先。",
+    "answer_line": "早期攔截；晚了就困難得多",
+    "distractors": {
+     "plausible": [
+      "等他們安定好 hook 再逃脫",
+      "兩種情況需要的反應時間相同"
+     ],
+     "trap": [
+      "拖延到他們攻擊手臂再說"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Mount to Technical Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

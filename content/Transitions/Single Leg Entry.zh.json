@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Single Leg Entry.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼正確的level change力學對single leg entry的成功至關重要？有效的level change有哪些關鍵要素？",
+    "answer": "正確的level change能把你的髖部降到對手的髖部之下，讓你穿透他們的base、securing住那條腿，而不會被sprawl壓制。關鍵要素包括：爆發性的髖與膝屈曲，快速降低重心；維持挺直的胸口位置以保留結構性力量；動作全程眼睛盯著目標；並讓穿透步與降低重心同時發生。沒有正確的level change，你會維持在過高的姿勢，容易被sprawl防禦、guillotine和front headlock攻擊。level change必須是果斷且爆發性的，而不是漸進或猶豫的。",
+    "distractors": {
+     "plausible": [
+      "壓低胸口、髖部保持高位",
+      "先跨步進入，再降低重心"
+     ],
+     "trap": [
+      "從站立姿勢直接伸手去抓腿"
+     ]
+    },
+    "answer_line": "髖部降到對方之下，胸口挺直"
+   },
+   {
+    "question": "single leg entry時最理想的頭部位置是什麼？為什麼這個位置對進攻成功和防禦安全都至關重要？",
+    "answer": "把你的頭緊貼在對手髖部或下腹部的外側，全程施加持續向前的壓力。就進攻而言，這能擋住他們的髖部往後移動進入sprawl，維持你與他們base的結構性連結，並讓你向前的驅動力破壞他們的平衡。就防禦而言，外側的頭部位置能讓你的頸部遠離他們的中線與勒頸手臂，保護你不被guillotine choke。頭部同時扮演控制壓力點與防範submission攻擊的防禦盾牌兩種角色。",
+    "distractors": {
+     "plausible": [
+      "頭放在他們肩膀上方",
+      "下巴上抬，眼睛看他們的臉"
+     ],
+     "trap": [
+      "頭放在他們的中線內側"
+     ]
+    },
+    "answer_line": "頭在外側，緊貼他們的髖部"
+   },
+   {
+    "question": "你應該如何根據對手的防禦反應調整你的完成技術？三種最常見的反制與對應的回應方式是什麼？",
+    "answer": "根據對手的反應調整你的完成技術，是single leg成功的根本。三種最常見的反制方式是：（1）Sprawl——回應方式是轉換成double leg、轉入ankle pick，或在維持腿部控制的同時繞到不同角度；（2）Whizzer——回應方式是反過來利用它轉換到外側位置、執行遠側的絆摔或摔倒，或接受對方拉guard、轉入single leg X；（3）Guillotine——回應方式是維持緊貼的頭對髖位置、不顧對方的grip完成takedown，或一邊hand fight勒頸的那隻手臂、一邊調整頭部位置。關鍵在於全程維持對腿部的控制，並解讀他們的體重分配，選擇當下成功率最高的完成方式，而不是硬套用預先設定好的結果。",
+    "answer_line": "解讀反制，銜接完成技術",
+    "distractors": {
+     "plausible": [
+      "更用力硬做同一個完成技術",
+      "只有double leg能應對所有情況"
+     ],
+     "trap": [
+      "轉身背對以繞出"
+     ]
+    }
+   },
+   {
+    "question": "練習者在single leg entry時最常犯的關鍵錯誤是什麼？這些錯誤如何削弱技術的效果？",
+    "answer": "最關鍵的錯誤是level change不足、穿透步過淺、抓腿的grip鬆散、頭部位置不佳，以及動作被提前預告。level change不足會讓你維持過高姿勢，容易被sprawl和guillotine針對；過淺的穿透步、離對手的base太遠，會讓你無法securing控制、對手也容易輕鬆逃脫；grip鬆散、肩膀與髖部之間有空隙，會讓對手能抽出腿並sprawl；頭部位置在中線或遠離對手，會製造guillotine的風險、也會失去向前的壓力；而透過明顯的setup提前預告意圖，會讓對手預判並準備防禦。每一個錯誤都會從根本上削弱single leg的力學優勢，不是因為沒有建立正確的控制，就是為對手創造了防禦機會。",
+    "distractors": {
+     "plausible": [
+      "抓腿的位置太高",
+      "shoot的動作太慢"
+     ],
+     "trap": [
+      "shoot時雙膝直接跪地"
+     ]
+    },
+    "answer_line": "level change不足"
+   },
+   {
+    "question": "描述從初始站立姿勢到完成技術的整個過程，包括grip fighting、時機判斷與爆發性執行之間的關係？",
+    "answer": "整個過程是：先用grip fighting創造機會，接著辨識時機窗口，然後用一個流暢的動作完成爆發性的level change與穿透。站立時的grip fighting或hand-fighting優勢，能控制對手的動作、掩飾你進入的時機。從這個setup出發，你根據對手的體重分配、站姿與防禦警覺性，判斷最佳的時機。執行時需要level change與穿透步同時爆發，把你的髖部降到遠低於對手的位置、同時深深踏入他們的base；一穿透，就立刻用雙臂securing那條腿，並建立頭對髖的壓力。這些要素是有先後順序的，但必須呈現為一個連貫動作——grip fighting創造機會、時機判斷辨識窗口、爆發性執行則把握住這個窗口，在對手反應之前完成。從setup到完成的速度至關重要，任何一個環節的猶豫都會讓對手有機會建立防禦。",
+    "distractors": {
+     "plausible": [
+      "先shoot，grip之後再處理",
+      "等他們站穩、姿勢確立後再動作"
+     ],
+     "trap": [
+      "從遠距離shoot、頭在內側"
+     ]
+    },
+    "answer_line": "grip fight、判讀時機、爆發執行"
+   },
+   {
+    "question": "穿透步在single leg entry的成功中扮演什麼角色？你的前腳相對於對手的base應該落在哪裡？",
+    "answer": "穿透步決定你的髖部能靠近對手base到什麼程度；你的前腳應該落在他們腳跟後方約12到18吋處。這個接近程度直接影響你控制他們那條腿、防止逃脫的能力。依變化型不同，這隻腳會落在他們兩腿之間、或目標腿的外側。這個深入的落點能讓你的髖部靠近對手，建立起captureing那條腿所需要的正確角度，並創造出完成技術所需要的力學優勢。落點離對手的base太遠的過淺穿透步，是最常見的錯誤之一，會導致控制力薄弱、讓對手輕易地把腿抽出來防禦。",
+    "distractors": {
+     "plausible": [
+      "腳落在與他們腳尖同一水平",
+      "跨大步落在兩腿外側"
+     ],
+     "trap": [
+      "從遠距離shoot、只用手臂"
+     ]
+    },
+    "answer_line": "前腳深入落在他們腳跟後方"
+   },
+   {
+    "question": "發動single leg entry的最佳時機窗口是什麼？哪些條件顯示這個窗口已經打開？",
+    "answer": "當對手的體重轉移到他們的前腳上時，這個窗口就會打開，而且只維持大約0.3到0.5秒。這種重心轉移通常發生在向前施壓、grip fighting交手，或從他們自己的進攻嘗試中恢復的時候。關鍵訊號包括：對手前腳踏出、體重完全落在上面；他們伸出一隻手、防禦性的frame出現空隙；短暫地把視線移開、或專注於建立grip；以及你破解他們的grip後、他們短暫失去平衡的那一瞬間。因為這個窗口非常短暫，進入動作必須事先預備好，並在辨識到訊號的當下就爆發性地執行；在對手保持平衡、警覺的狀態下shoot，會大幅降低成功率。",
+    "distractors": {
+     "plausible": [
+      "當他們的重心落在後腳時",
+      "他們踏步進入前的那一刻"
+     ],
+     "trap": [
+      "在他們平衡、姿勢穩固時shoot"
+     ]
+    },
+    "answer_line": "體重壓上前腳的那一瞬間"
+   },
+   {
+    "question": "shoot之前你需要什麼樣的具體grip配置？gi與no-gi的entry在grip選擇上有什麼不同？",
+    "answer": "絕不要沒有grip控制就shoot：gi中使用collar加上同側sleeve，no-gi中使用collar tie搭配對側手腕控制，或two-on-one的Russian tie。gi的grip能讓你在entry時把對手的體重往前拉、同時控制他們用來撐地的那隻手，sleeve grip則能防止他們在你shoot時對你的頭做frame。no-gi的配置能破壞他們的posture、創造出角度。無論在哪種情境下，關鍵原則都是至少控制對手的一隻手臂，讓他們在你level change時無法建立crossface或guillotine的grip；毫無連結地進入，等於讓對手自由做出防禦反應。",
+    "distractors": {
+     "plausible": [
+      "gi和no-gi用同一種grip就夠",
+      "直接抓腿，跳過hand fight"
+     ],
+     "trap": [
+      "完全不抓grip、盲目shoot"
+     ]
+    },
+    "answer_line": "collar tie加上手腕或sleeve"
+   },
+   {
+    "question": "single leg entry的每個階段，主要的施力方向是什麼？",
+    "answer": "力量的方向會隨著三個不同階段而改變。在level change與穿透步階段，力量朝前下方、大約45度角朝向地面，把你的身體驅入對手的站姿之中。在腿部capture與頭部定位階段，力量轉為單純向前的水平壓力，透過你的肩膀壓入他們的髖部，防止他們往後退。在站立完成階段，力量轉為朝上與朝前、大約45度角，結合抬起被capture的那條腿與持續的水平驅動，把對手從他們剩下的base上推倒。常見的錯誤是全程只用同一個方向施力——這個依階段順序改變的施力角度，正是讓single leg在每個階段都具備力學壓倒性優勢的原因。",
+    "answer_line": "先向下、再穿越、再向上",
+    "distractors": {
+     "plausible": [
+      "從一開始就往上抬",
+      "全程維持同樣的45度角"
+     ],
+     "trap": [
+      "把他們往你身上拉"
+     ]
+    }
+   },
+   {
+    "question": "你正在capture對手的腿時，對方用空出的手撐在你的頭上，你該如何調整以維持攻勢？",
+    "answer": "當對手把手撐在你頭上時，他們正試圖建立一個frame，來阻擋你向前的驅力、並打開sprawl或抽腿的空間。你立刻的應對，是把頭繞到那個撐頂的反方向，利用你頭對髖的壓力鑽到他們的frame下方，同時在被capture的那條腿上維持緊密的肩對髖連結。同時，你外側的手可以往他們撐著的那隻手臂內側游過去、剝除或underhook它。如果你無法清除這個撐頂，就改變你的完成角度——把後腳踏向外側，轉換成外側絆摔或running the pipe，這時他們撐頂的那隻手反而會對他們不利，因為它會讓他們在新的方向上無法恢復平衡。",
+    "answer_line": "把頭繞到撐頂的反方向",
+    "distractors": {
+     "plausible": [
+      "先游到撐頂手臂內側",
+      "先轉換到外側絆摔"
+     ],
+     "trap": [
+      "直接硬頂他們的frame"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的single leg entry被部分防禦、你無法完成takedown，你應該銜接哪些攻擊鏈？",
+    "answer": "銜接到double leg、high crotch、ankle pick、透過running the pipe拿back，或拉guard轉single leg X——絕不要放開那條腿。具體來說：（1）double leg轉換——當對手為了跳開而使站姿變窄時，踏步跨過去、capture第二條腿，取得更有力的完成方式；（2）high crotch轉換——把頭轉到內側、往上驅入他們的髖部，取得不同的抬舉角度；（3）針對站立那條腿的ankle pick——放開大腿、在對手防禦被capture那條腿時，改抓遠側的腳踝；（4）透過running the pipe拿back——以被capture的腿為軸心，繞到他們身後；（5）拉guard轉single leg X——如果站立完成完全被封鎖，就一邊維持腿部控制、一邊坐回去，建立SLX guard。關鍵原則是絕不完全脫離：在切換選項的同時，維持某種形式的腿部控制，讓對手無法重置回中性狀態。",
+    "distractors": {
+     "plausible": [
+      "只有double leg是可行選項",
+      "更用力硬做同一個single"
+     ],
+     "trap": [
+      "轉身背對、旋轉脫離"
+     ]
+    },
+    "answer_line": "銜接攻擊鏈，絕不放手"
+   },
+   {
+    "question": "當面對一個經常在你shoot時用guillotine choke威脅你的對手，你的entry策略應該如何改變？",
+    "answer": "面對慣用guillotine的對手，有三個調整至關重要。第一，確保你的頭部位置維持在他們身體的外側——絕不讓你的頭飄到中線，讓他們勒頸的手臂能纏住你的頸部。第二，使用能迫使對手雙手放低的setup技術，例如snap down、level change的假動作、collar drag，讓他們必須往下伸手，暫時解除guillotine的威脅。第三，考慮使用high crotch的變化型，讓你的頭進到他們站姿內側、耳朵貼著他們的胸口，這是對guillotine最安全的頭部位置，因為此時他們雙臂都在錯誤的一側，無法用來勒頸。如果他們真的在entry過程中抓到guillotine的grip，正確的做法是完成takedown、而不是往後退——把他們passing到side control能消除大多數guillotine的完成方式。",
+    "answer_line": "頭在外側，迫使對方雙手放低",
+    "distractors": {
+     "plausible": [
+      "從更遠的距離加快shoot",
+      "等他們先攻擊再說"
+     ],
+     "trap": [
+      "一旦被抓住脖子就往後退"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺到對手正在發動single leg entry的那一瞬間，你優先度最高的身體動作是什麼？",
+    "answer": "優先度最高的動作，是把髖部往後、往下降低做sprawl，透過髖部（而不是雙手）把體重壓在對手的上背上。這必須在任何上半身技術（例如crossface、whizzer或guillotine）之前發生。髖部sprawl能讓你的腿離開攻擊者的目標區域，消除他們向前的動能，並讓你處於結構上占優勢的位置。在沒有先用髖部防禦之前就嘗試上半身技術，是最常見的防禦失誤，因為再多的hand fighting也無法彌補髖部直接暴露在攻擊者肩膀上方、讓他們能把你抬起來的劣勢。",
+    "answer_line": "髖部往後下方sprawl",
+    "distractors": {
+     "plausible": [
+      "sprawl之前先做crossface",
+      "立刻用whizzer手臂"
+     ],
+     "trap": [
+      "先搶guillotine的grip"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試抽出被capture的腿時，為什麼把膝蓋往外轉比直接往後拉更有效？",
+    "answer": "把膝蓋往外轉，能利用攻擊者扣緊grip的結構性弱點。他們的雙手在你的大腿後方交扣，在前後方向上的握力最強。當你直接往後拉時，你正面對抗他們最強的grip方向以及整個肩膀/手臂系統。把膝蓋往外旋轉，會產生一個側向的力量，壓向他們手掌與手腕之間的小縫隙——這正是任何扣緊grip中最脆弱的地方。此外，膝蓋往外轉也會改變你大腿的形狀，讓他們更難維持緊密的夾制。這個原則具有普遍性——逃脫grip時，永遠要攻擊對方最弱的角度，而不是最強的角度。",
+    "answer_line": "膝蓋往外轉，而非往後拉",
+    "distractors": {
+     "plausible": [
+      "用力直接往後拉",
+      "往後跳以拉開距離"
+     ],
+     "trap": [
+      "坐下以剝除grip"
+     ]
+    }
+   },
+   {
+    "question": "面對一個混合使用single leg entry與拉guard的對手，你的防禦策略應該如何不同？",
+    "answer": "面對一個混合使用takedown與拉guard的對手，你不能完全投入sprawl，因為在對方試圖拉guard時把髖部往後降低，正好給了他們想要的角度與距離、去建立他們偏好的guard。相反地，維持較為挺直的防禦姿勢，雙手保持在口袋位置隨時待命，準備在真正的shoot出現時sprawl，或在對方拉guard時向前驅動。關鍵的判斷方式是解讀他們的髖部高度與手部位置：真正的single leg entry會伴隨爆發性的髖部下降、雙手都朝你的腿伸去；而拉guard則會先建立grip、接著是受控的坐下動作。當你不確定時，最安全的反應是half-sprawl，雙手控制他們的collar與sleeve，這樣能同時充分防範兩種攻擊，而不必完全投入其中一種防禦模式。",
+    "answer_line": "half-sprawl，雙手保持主動",
+    "distractors": {
+     "plausible": [
+      "每次entry都全力sprawl",
+      "後退拉開距離重新開始"
+     ],
+     "trap": [
+      "直接向前撲進他們的guard"
+     ]
+    }
+   },
+   {
+    "question": "對手shoot single leg並用緊密的grip securing住你的腿，但他們的頭部位置不佳、頭在你的中線上——最佳的反制是什麼？",
+    "answer": "當攻擊者在single leg中把頭放在中線位置時，這正是發動guillotine反制的最佳時機。立刻用手臂環繞他們的頸部，securing chin strap或arm-in guillotine的配置。你另一隻手應該控制他們遠側的手腕、或撐在他們的肩膀上，防止他們硬把takedown做完。中線的頭部位置意味著他們的頸部完全暴露，而你的雙手都能碰到勒頸的路線。即使guillotine沒有直接完成，建立這個grip也會迫使他們放棄single leg、轉而處理choke的威脅。這正是為什麼經驗豐富的摔角手如此強調頭部要在外側——在single leg中把頭放在中線，是一個嚴重的戰術失誤，會讓攻擊者暴露在現有最危險的反制之下。",
+    "answer_line": "guillotine，他們的頸部暴露了",
+    "distractors": {
+     "plausible": [
+      "一根一根把他們的手指剝開",
+      "撐地站起來"
+     ],
+     "trap": [
+      "轉身以甩開腿部的grip"
+     ]
+    }
+   },
+   {
+    "question": "成功防禦single leg嘗試、建立起front headlock控制之後，你立即的進攻優先目標是什麼？",
+    "answer": "在擋下single leg之後、從front headlock出發，你立即的優先目標是：第一，透過對他們的頭施加向下壓力、控制他們遠側的肩膀或三頭肌，防止對手恢復posture。第二，開始朝他們遠側繞動，改善你的角度、打開進攻選項。第三，根據他們的反應選擇你的主要攻擊方式——如果他們試圖直接站起來，就把他們snap回去、威脅guillotine；如果他們試圖往後退，就跟著go-behind拿back control；如果他們防禦性地turtle，就用darce或anaconda choke進攻。關鍵原則是把被擋下的shoot當成一個進攻機會，而不是單純重置回站立狀態。攻擊者此時處於姿勢受損、平衡破壞的狀態，這個優勢是暫時的——要在他們恢復之前立刻利用它。",
+    "answer_line": "壓低頭部、攻擊角度",
+    "distractors": {
+     "plausible": [
+      "維持不動、等他們自己放棄",
+      "後退拉開距離重新開始"
+     ],
+     "trap": [
+      "跳guard追求guillotine"
+     ]
+    }
+   }
+  ]
+ }
+}

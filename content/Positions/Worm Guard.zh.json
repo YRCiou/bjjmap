@@ -1,0 +1,123 @@
+{
+ "flashcards_position": [
+  {
+   "question": "是什麼結構設計定義了 Worm Guard，並讓它與其他 open guard 有所區別？",
+   "answer": "Worm Guard 把對手的 lapel 從自己這側的腿下方餵過去，由外往內穿過，再纏繞在自己的小腿或腳上，形成一個閉合的迴圈。這個機械式迴圈把對手被困的腿直接連結到你的腿上，把 gi 本身變成一條剛性的繫繩。不同於 spider guard、lasso guard 或 De La Riva，這些位置的控制完全來自下位者自己的肢體，worm guard 借用了對手自己身上的衣物作為主要錨點。這種 lapel 與腿部的連結，正是這個位置專屬於 gi、無法在 no-gi 中複製的原因。",
+   "distractors": {
+    "plausible": [
+     "Gi 尾纏繞在脖子上",
+     "深領口 grip 加上抓褲管"
+    ],
+    "trap": [
+     "纏繞餵得鬆散、留有餘裕"
+    ]
+   },
+   "answer_line": "Lapel 從腿下餵入，纏上你的小腿"
+  },
+  {
+   "question": "為什麼持續的 lapel 張力是 Worm Guard 對雙方而言都缺一不可的關鍵變數？",
+   "answer": "Lapel 纏繞只有在保持拉緊的狀態下，才能固定住被困的腿；只要出現任何鬆弛，這個迴圈就會打開，worm guard 也會退化成一般的 open guard。對下位者來說，維持這個張力就是保住整個控制機制；對上位者來說，製造鬆弛正是解放那條腿、完成 pass 的大門。這也是為什麼張力是雙方爭奪的唯一核心變數——這個位置的成敗，實際上就取決於 lapel 是否持續纏緊在被困的腿與纏繞的小腿上。",
+   "distractors": {
+    "plausible": [
+     "張力只跟 sweep 有關",
+     "光靠握力就能撐住"
+    ],
+    "trap": [
+     "短暫放鬆以節省體力"
+    ]
+   },
+   "answer_line": "鬆弛會讓整個迴圈瓦解"
+  },
+  {
+   "question": "Lapel 與腿部的連結，如何作為槓桿破壞上位者的 base？",
+   "answer": "因為 lapel 把上位者被困的那條腿連接到下位者的小腿上，下位者對 lapel 施加的任何拉力，都會直接透過機械傳導作用在上位者的腿上，把它從支撐的位置拖走。被困的那條腿無法朝 lapel 限制的方向跨步重建 base，因此破勢的力量會把上位者導向那個被削弱的一側。這使 gi 變成一支比一般 grip 更長、更剛性的槓桿臂，把微小的拉力放大成明顯的 base 破壞。整場 sweep 與 pass 的攻防，就圍繞著那條被困的腿能否重新找回 base 展開。",
+   "answer_line": "拉 lapel 把被困的腿拖走",
+   "distractors": {
+    "plausible": [
+     "只會拖垮上位者的手臂",
+     "力量只作用在 gi 上，不影響 base"
+    ],
+    "trap": [
+     "往連結處推進去掙脫"
+    ]
+   }
+  },
+  {
+   "question": "被困那條腿活動受限，如何塑造雙方在這場交鋒中的攻防？",
+   "answer": "Lapel 纏繞釘住了上位者靠近的那條腿，讓他無法自由跨步、撐地或把身體擺正，這正是下位者控制力的來源，也是上位者最核心的難題。對下位者來說，讓那條腿保持不能動，才能保住破勢的角度，阻止上位者建立穩固的 pass 平台。對上位者來說，抽出或解放被困的那條腿，是他在使用任何傳統 pass 技巧之前必須先解決的前提。因此雙方都把心力集中在那一條被困的腿的狀態上。",
+   "answer_line": "被釘住的腿無法跨步重建 base",
+   "distractors": {
+    "plausible": [
+     "自由的那條腿才是真正的問題",
+     "被困的腿反而幫助 pass"
+    ],
+    "trap": [
+     "硬把那條腿跨過去"
+    ]
+   }
+  },
+  {
+   "question": "額外的 sleeve 或褲管 grip，如何與 lapel 纏繞互補，完成整套控制結構？",
+   "answer": "單靠 lapel 纏繞只能控制一條腿，但額外抓住對手另一側的 sleeve 或褲管，能破壞他的對稱性，讓他無法建立穩固、擺正的 base。這兩個 grip 合在一起，形成一套雙點控制系統：一邊釘住被困的腿，另一邊阻止上位者用自由的那一側挺直 posture 或製造 pass 的壓力。沒有這個輔助 grip，上位者可以用不受控制的那一側撐地，開始把 lapel 剝除；因此整個架式仰賴這兩個錨點協同運作。這種雙重控制，正是把 worm guard 從單腿纏鎖提升為完整 guard 系統的關鍵。",
+   "answer_line": "第二個 grip 阻止對手擺正 base",
+   "distractors": {
+    "plausible": [
+     "第二個 grip 只是輔助 sweep",
+     "只是 lapel grip 鬆脫時的備案"
+    ],
+    "trap": [
+     "放掉它以空出雙手"
+    ]
+   }
+  },
+  {
+   "question": "Worm Guard 與相關的 lapel guard，例如 Squid Guard 和 Ringworm Guard，有什麼區別？",
+   "answer": "這三者都是利用對手 gi 的 lapel guard，但差異在於 lapel 的走位方式，以及額外困住了多少肢體。Worm Guard 把 lapel 從一條腿下方穿過、纏上下位者的小腿，作為核心連結；Squid Guard 則是在同樣的 lapel 結構上再加上一層額外的腿部控制；Ringworm 則使用建立在類似原理上的另一種 lapel 走位。因為它們共享張力與連結的機制，當對手針對某一種特定架式做出反制時，練習者常會在這些位置之間流動切換。Worm Guard 最好被理解為這整個相連的 lapel 纏鎖家族中，最基礎的切入點。",
+   "answer_line": "Lapel 從一條腿下穿過，纏上小腿",
+   "distractors": {
+    "plausible": [
+     "建立在 sleeve 與 collar grip 上",
+     "腰帶繞到他膝蓋後方"
+    ],
+    "trap": [
+     "鬆垮地披掛、沒有連結"
+    ]
+   }
+  },
+  {
+   "question": "為什麼拉近距離、壓縮空間會從根本上改變 Worm Guard 交鋒的平衡？",
+   "answer": "Worm Guard 的破勢槓桿，仰賴 lapel 作為一支跨越距離的長槓桿發揮作用，所以當上位者壓縮空間、向前壓垮時，槓桿臂會變短，下位者的 sweep 機制也會失去大部分的力量。在近距離時，上位者可以開始用重壓 pass（smash-pass），抵消 lapel 改變他重心方向的能力；而在最佳距離下，下位者則能保有破勢所需的角度。這就是為什麼距離管理是雙方共同爭奪的軸線：下位者用 frame 維持距離，上位者則向前施壓來消除距離。這個位置的性質完全取決於這個距離是被維持住，還是被壓縮掉。",
+   "answer_line": "壓縮空間會縮短槓桿臂",
+   "distractors": {
+    "plausible": [
+     "距離只會改變 grip 選擇",
+     "距離越遠拉力越弱"
+    ],
+    "trap": [
+     "保持平貼、硬扛重壓"
+    ]
+   }
+  },
+  {
+   "question": "相對於對手的動態髖部角度，如何主導 Worm Guard 中的破勢潛力？",
+   "answer": "即使 lapel 已經鎖死，破勢力量的方向與大小，仍取決於下位者相對於上位者的髖部角度，通常會保持垂直或略帶角度以最大化槓桿效果。靜止的髖部會讓任何 sweep 變得可預測，讓上位者能針對已知的方向鞏固 base；而持續變化的髖部角度，則會不斷產生新的破勢力量，逼上位者必須一再重新應對。Lapel 的連結提供了連結本身，但髖部才提供攻擊的方向，因此兩者必須協同運作。這也是為什麼這個位置是一個主動的平台，而不是靜態的控制——髖部的移動，決定了上位者被削弱的 base 會被拉往何處。",
+   "answer_line": "髖部移動會改變拉力方向",
+   "distractors": {
+    "plausible": [
+     "靜止的髖部力量最大",
+     "只有 lapel 決定角度"
+    ],
+    "trap": [
+     "把髖部擺正面向對手以求力量"
+    ]
+   }
+  }
+ ],
+ "_meta": {
+  "source": "content/Positions/Worm Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

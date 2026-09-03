@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Guard Pull.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在啟動 guard pull 之前，建立 grip 非常關鍵？",
+    "answer": "grip 提供必要的連結和控制，讓你能把對手拉進你的 guard 結構中，並防止他們脫離或立刻 pass 過去。沒有 grip，對手可以在你坐下時直接後退、sprawl，或繞過你的腿，讓你陷入沒有建立 guard 的防守下位。強而有力的 grip 能讓你在整個過渡過程中控制他們的 posture 和距離，確保你落地時是進攻配置而不是防守配置。",
+    "answer_line": "grip 控制 posture 和距離",
+    "distractors": {
+     "plausible": [
+      "速度永遠比 grip 重要",
+      "grip 只有坐下後才重要"
+     ],
+     "trap": [
+      "雙手空著就坐下去"
+     ]
+    }
+   },
+   {
+    "question": "對手把重心重重地壓在前腳上，並稍微向前傾——你該如何利用這點做 guard pull？",
+    "answer": "他們把重心投入前方，創造了絕佳的時機窗口。抓住他們的 collar 和 sleeve，接著猛力把他們再往前拉，同時往後、往側邊坐下。他們身體前傾意味著沒辦法快到足以把 hip 收回來 sprawl 或後退。利用他們重心已經在移動的方向，把他們直接拉進你的 closed guard 或 De La Riva hook。關鍵在於朝著他們重心已經在移動的同一個方向拉，而不是跟他們的 base 硬拼。",
+    "answer_line": "順著他們的前衝力往下拉",
+    "distractors": {
+     "plausible": [
+      "等他們繞開再說",
+      "直接往後坐，不轉角度"
+     ],
+     "trap": [
+      "轉身坐下，把背露出去"
+     ]
+    }
+   },
+   {
+    "question": "從 guard pull 落地時，最關鍵的 hip 動作是什麼？",
+    "answer": "落地時 hip 稍微側傾，而不是平躺在背上，這是最關鍵的 hip 細節。平躺落地會把你的 hip 固定在墊上，讓你失去 guard retention 和進攻動作所需的機動性。透過稍微用 hip 側躺、重量放在上背和肩膀上落地，你能保有 shrimp、創造角度、動態調整 guard 位置的能力。這個 hip 角度應該練到在每一種 pull 變化式中都能自動做出來。",
+    "answer_line": "用 hip 側躺，不要平躺",
+    "distractors": {
+     "plausible": [
+      "平躺分散重量",
+      "雙肩保持平貼地面"
+     ],
+     "trap": [
+      "直接坐落在尾椎上"
+     ]
+    }
+   },
+   {
+    "question": "在 gi 裡，哪種 grip 配置能給你成功率最高的 closed guard pull？",
+    "answer": "cross-collar grip 搭配同側手腕的 sleeve grip，為 closed guard pull 提供最大的控制力。cross-collar grip 讓你在坐下時把他們的 posture 往下破壞，把他們的上半身拉向你。sleeve grip 則防止他們用手撐地或架起 frame 對抗你的拉力。這兩個 grip 合起來形成一套雙點控制系統，把對手直接引導進你的 closed guard，同時剝奪他們主要的防守反應——撐地和拉開距離。",
+    "answer_line": "cross-collar 加同側 sleeve",
+    "distractors": {
+     "plausible": [
+      "兩個 sleeve grip，不抓 collar",
+      "只用皮帶和膝蓋 grip"
+     ],
+     "trap": [
+      "抓雙 lapel，讓對方雙手自由"
+     ]
+    }
+   },
+   {
+    "question": "你開始坐下時，對手破掉了你的 collar grip——你的立即反應是什麼？",
+    "answer": "如果在 pull 的過程中 collar grip 被破掉，立刻把空出來的手改抓對方的頭、脖子後方，或遠端的 lapel，以維持拉扯的連結。不要因此完全放棄 pull，因為你已經投入坐下的動作中了。同時加快你的腿部動作，把 hip 射向對方，比平常更快地閉合你的 guard，以彌補上半身控制力的下降。如果連結完全喪失，就放棄這次嘗試，執行 technical stand-up，而不是落地成沒有任何 grip 的坐姿。",
+    "answer_line": "改抓別處，別放棄 pull",
+    "distractors": {
+     "plausible": [
+      "立刻放棄，重新站起來",
+      "改成 double leg takedown"
+     ],
+     "trap": [
+      "沒有任何 grip 也照樣坐下"
+     ]
+    }
+   },
+   {
+    "question": "拉進 closed guard 和拉進 De La Riva guard，力量的方向有什麼不同？",
+    "answer": "對 closed guard 而言，力量主要是向下、朝你自己的方向，把對手的軀幹往前往下拉，讓你能在近距離用雙腿環繞他們的腰部。對 De La Riva 而言，力量比較偏向側面和角度，把對手的上半身拉向一側，同時你下方的腿從外側勾住他們前腳的膝蓋後方。DLR 的拉法需要你稍微側坐，而不是直接往後坐，創造出有效插入 DLR hook 所需的角度位移。",
+    "answer_line": "closed 往下拉，DLR 往寬拉",
+    "distractors": {
+     "plausible": [
+      "兩者都用同樣的向下拉法",
+      "DLR 也直接往後坐"
+     ],
+     "trap": [
+      "平坐、雙腿伸直，不勾 hook"
+     ]
+    }
+   },
+   {
+    "question": "你坐下時對手猛力 sprawl，把 hip 往後推、胸口壓向你——你該如何恢復？",
+    "answer": "面對猛烈的 sprawl，立刻把雙腳放到他們的 hip 上，建立一個能防止你被壓平的 frame。用你的 grip 防止他們的胸口壓垮你的結構。從腳頂 hip 的姿勢，你可以把他們推回去，為建立 open guard 創造空間，或轉換進 collar-sleeve guard。如果 sprawl 壓得太深、他們開始 pass，就往壓力較小的一側做 hip escape，同時至少保留一個 grip，然後從新的角度重新建立 guard。最糟的反應就是在他們的 sprawl 壓力下保持平躺。",
+    "answer_line": "腳頂 hip，把他們架開",
+    "distractors": {
+     "plausible": [
+      "抓住皮帶撐住就好",
+      "bridge 起來頂向他們的胸口"
+     ],
+     "trap": [
+      "在 sprawl 下縮成 turtle"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手也同時嘗試 pull guard——什麼決定誰能拿到下位？",
+    "answer": "在 IBJJF 規則下，如果雙方同時 pull guard 且都沒有在時限內建立 guard，裁判會叫雙方站起來重來。後坐的一方通常會被判罰劣勢。要在雙方同時 pull 的情況下取勝，就要全力投入、率先坐下並建立強而有力的 grip，然後在對手之前立刻閉合你的 guard 或建立 hook。如果你是後坐的一方，就必須在雙方同時 pull guard 的情況下立刻從上位開始 pass，以避免受罰。判斷對手何時打算 pull，並選擇比他更快 pull，或維持站立以利用他們 pull 的動作，是比賽中的關鍵技巧。",
+    "answer_line": "先坐下，最快閉合 guard",
+    "distractors": {
+     "plausible": [
+      "等對手先出手再說",
+      "雙方都拉，裁判總會重來"
+     ],
+     "trap": [
+      "後坐並拖時間等重來"
+     ]
+    }
+   },
+   {
+    "question": "在 gi 和 no-gi 中執行 guard pull，關鍵的差異是什麼？",
+    "answer": "在 gi 中，你有 collar 和 sleeve grip，能在 pull 的過程中提供強而有力的連結點來控制 posture。這些 grip 讓你能用更積極的拉力，更精準地控制對手的上半身。在 no-gi 中，你依賴頭部控制、手腕 grip 和 overhook，這些控制方式較不穩固，也更容易被對手破解。no-gi 的 guard pull 需要更快的腿部動作，因為你的 grip 連結比較薄弱。你必須更快閉合 guard 或建立 hook，來彌補上半身控制力的不足。collar drag 到 guard pull 是 gi 專屬的打法，而 arm drag 到 guard pull 在兩種情境下都能有效運作。",
+    "answer_line": "no-gi：grip 弱，hook 要快",
+    "distractors": {
+     "plausible": [
+      "gi 的 pull 才需要更快的 hook",
+      "手腕控制等同於 sleeve grip"
+     ],
+     "trap": [
+      "死守 grip，腿完全不動作"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺對手即將要 pull guard 時，最重要的單一防守動作是什麼？",
+    "answer": "在對方投入坐下動作之前，破壞他們主要的 grip 連結，是優先順序最高的防守動作。沒有 grip，guard pull 就只是一個簡單的坐下動作，讓拉 guard 的一方陷入沒有 guard 結構、沒有 posture 控制的劣勢坐姿。優先鎖定 collar grip，因為它提供最大的拉力，可以用 two-on-one 破解法或畫圓破解法。如果你能阻斷這個 grip 連結，不管對方的時機或技術如何，guard pull 的其他部分都會失敗。",
+    "answer_line": "先破壞他們的 collar grip",
+    "distractors": {
+     "plausible": [
+      "立刻 sprawl，不管 grip",
+      "破 sleeve 而不是 collar"
+     ],
+     "trap": [
+      "讓他們先抓，之後再反擊"
+     ]
+    }
+   },
+   {
+    "question": "對手已經坐下、正把 guard 閉合在你腰部——什麼能防止他們鎖上腳踝？",
+    "answer": "立刻擴大你的 base，把一隻膝蓋往外跨、同時同側 hip 往前推。這會創造更大的圓周，讓他們更難把腳踝鎖在你背後。同時用一手撐在他們的 hip 上，在你的軀幹和他們的腿之間拉開距離。如果他們的腳踝快要鎖上了，用手往下壓他們其中一邊的大腿，同時 hip 往同一側切換。關鍵是要在鎖定完成之前就做出反應，因為一旦腳踝交叉鎖定，closed guard 就成立了，你就必須開始整套開 guard 的流程。",
+    "answer_line": "擴大 base，手撐在 hip 上",
+    "distractors": {
+     "plausible": [
+      "雙膝夾緊靠在一起",
+      "雙臂交叉壓在他們的小腿上"
+     ],
+     "trap": [
+      "胸口壓向他們的 hip"
+     ]
+    }
+   },
+   {
+    "question": "對手 pull 進 De La Riva 和 pull 進 closed guard 時，你的反應該有什麼不同？",
+    "answer": "面對 De La Riva pull，你必須立刻處理膝蓋後方的 DLR hook，用手把他們勾住的腳推開，同時把被困的腿往後繞以抽離。前腳往後撤，重量壓在他們的腿上，建立起 passing 的 posture。面對 closed guard pull，你的優先順序是靠擴大 base 和控制他們的 hip 來防止腳踝鎖定。DLR 的防守需要腿部處理，而 closed guard 的防守需要 hip 和距離的管理。根據對方的 grip 配置判斷他們正在 pull 進哪種 guard，能讓你在他們落地之前就選對正確的防守反應。",
+    "answer_line": "DLR 清 hook，closed 顧 base",
+    "distractors": {
+     "plausible": [
+      "兩者都一律擴大 base",
+      "兩者都往同一側 pass"
+     ],
+     "trap": [
+      "遇到 De La Riva hook 就往後退"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手 pull guard 後你站在他們面前的 open guard 上位——你的戰術優先順序是什麼？",
+    "answer": "你立即的戰術優先順序是在保持直立 posture 的同時，在他們的腿或褲子上建立 grip，接著在他們能建立起偏好的 guard hook 和 grip 之前，開始有系統地 pass。透過雙手抓住膝蓋處的褲管，把他們往一側推，來控制他們的膝蓋線。不要急著衝進他們的 guard 結構裡，那正好中了他們的戰術。相反地，用有條理的步法和 grip fighting 來阻斷他們的 guard hook，同時尋找 passing 的角度。在 IBJJF 規則下，你在嘗試 pass guard 時也有機會拿到 advantage，所以有節制的 passing 進攻能持續累積得分壓力。",
+    "answer_line": "抓褲管，控制膝蓋線",
+    "distractors": {
+     "plausible": [
+      "站得直挺挺，不抓任何 grip",
+      "抓 collar 讓他們 posture 起來"
+     ],
+     "trap": [
+      "直接撲進他們的 closed guard"
+     ]
+    }
+   }
+  ]
+ }
+}

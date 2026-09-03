@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在執行 underhook sweep 之前製造 45 度角這麼重要？",
+    "answer": "這個角度製造出力學上的優勢，讓你的身體與對手的重心呈垂直關係，而不是正好在他正下方。這讓你能靠槓桿把他掃過你的身體，而不是試圖把他的全部體重垂直抬起——那樣既沒效率又需要過度的力量。這個角度也讓你的 underhook 手臂處在向上向前推的最佳軌跡上。",
+    "answer_line": "靠槓桿掃翻，而非硬舉",
+    "distractors": {
+     "plausible": [
+      "只是改善你的支撐",
+      "為遠側髖部握點做準備"
+     ],
+     "trap": [
+      "把他垂直抬起，反被壓制"
+     ]
+    }
+   },
+   {
+    "question": "在 underhook sweep 中，控制對手遠側髖部的主要目的是什麼？",
+    "answer": "控制遠側髖部能阻止對手把遠側腿撐出去建立支撐，這是這個 sweep 最常見的防守方式。把遠側髖部拉向你，能限制他伸展那條腿來支撐的能力，同時也幫助把他的重量帶入掃翻的軌跡中。這個握點基本上是在對手還來不及採用這個防守選項之前，就先把它拿掉。",
+    "distractors": {
+     "plausible": [
+      "破解他的 crossface 壓力",
+      "為 45 度角做準備"
+     ],
+     "trap": [
+      "省略它，被他撐地壓平"
+     ]
+    },
+    "answer_line": "阻止他遠側腿撐地"
+   },
+   {
+    "question": "對手用力 whizzer 你的 underhook 手臂，並開始把你壓平——你該怎麼調整？",
+    "answer": "被強力的 whizzer 壓平時，不要硬和 whizzer 拚力量。改為轉換到讓 whizzer 反成劣勢的技術：撐地空著的手，把被困的腿往外伸展，切換到 Old School Sweep；或把頭滑進他的髖部下方進入 deep half guard，讓 whizzer 失去槓桿；也可以利用 whizzer 本身的壓力，趁他過度投入 overhook 時維持你的 underhook 並插入下方的 hook，直接爬上他的背拿 back take。",
+    "answer_line": "順勢轉換，別硬拚 whizzer",
+    "distractors": {
+     "plausible": [
+      "重新建立 underhook 並重整角度",
+      "hip escape 回 closed guard"
+     ],
+     "trap": [
+      "硬拚力量結果被壓平"
+     ]
+    }
+   },
+   {
+    "question": "什麼時機原則能讓 underhook sweep 發揮最大效果？",
+    "answer": "當對手把重量帶著壓力往前壓時，這個 sweep 效果最好。利用他向前的動能和壓力來對付他，能減少你完成這個 sweep 所需的力量，並趁他的重量已經朝著脆弱的方向移動時抓住機會。如果在他挺直上身或後坐時嘗試這個 sweep，你就必須自己產生全部的動能，效率會低很多。",
+    "answer_line": "趁他向前壓時發動 sweep",
+    "distractors": {
+     "plausible": [
+      "趁他挺直上身時發動",
+      "等他髖部貼平之後發動"
+     ],
+     "trap": [
+      "等他後坐並通過再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 underhook 必須從頭到尾維持，一直到你上位為止？",
+    "answer": "全程維持 underhook 能阻止對手在轉換到上位的過程中做框架、轉身或逃脫。如果你太早放開 underhook，對手可以利用纏鬥的混亂恢復 guard 或逃回中立位置。發動 sweep 的那個 underhook，應該就是在你建立 side control 時控制他的同一個連結，從底部到上位形成一條無縫的控制鏈。",
+    "distractors": {
+     "plausible": [
+      "主要是為了讓他保持平躺",
+      "阻止他抓 whizzer"
+     ],
+     "trap": [
+      "一上位就可以放開"
+     ]
+    },
+    "answer_line": "阻止他做框架、逃脫"
+   },
+   {
+    "question": "髖部上抬在產生掃翻力量上扮演什麼角色？",
+    "answer": "把髖部橋起是這個 sweep 主要的力量來源，動用整個下半身，而不是單靠手臂力量。透過抬起髖部並朝 underhook 那側旋轉，你製造出一個槓桿效果，你的身體作為支點，對手則被抬過你身上。這個力學原理讓體型較小的練習者也能靠最大化槓桿、盡量少依賴上半身力量來掃翻體型較大的對手。",
+    "distractors": {
+     "plausible": [
+      "把遠側髖部拉得更緊",
+      "把支撐腿伸直"
+     ],
+     "trap": [
+      "光靠手臂力量，反被壓制"
+     ]
+    },
+    "answer_line": "橋起髖部，以身為槓桿翻他"
+   },
+   {
+    "question": "要讓 underhook 發揮有效的掃翻槓桿作用，需要什麼具體的握點位置和深度？",
+    "answer": "underhook 必須深深穿過腋下，讓你的肩膀貼緊他的肋骨，手則抓住他遠側的背闊肌、肩膀或道服。只是手或前臂進入那個空間是不夠的——只有肩膀貼肋骨的接觸，才能形成完整的環繞連結。手肘必須貼近自己的身體，才能維持結構的完整性。淺的 underhook（只有手伸進去）會讓對手輕易用 whizzer 把它剝除，而肩膀貼肋骨的深 underhook 則形成一個他不容易移除的結構性槓桿。",
+    "distractors": {
+     "plausible": [
+      "手伸到他手臂下方",
+      "前臂卡進腋窩"
+     ],
+     "trap": [
+      "手肘外開，反被 whizzer"
+     ]
+    },
+    "answer_line": "肩貼肋骨，手肘收緊"
+   },
+   {
+    "question": "相對於對手的身體，主要的掃翻力量應該朝哪個方向施加？",
+    "answer": "掃翻力量應該朝 underhook 那一側，斜向上並越過你身體的方向施加，而不是直直向上或直接朝側面。underhook 手臂向上向前推，遠側髖部的握點則橫向拉，兩者結合形成一個綜合的旋轉力，沿著阻力最小的路徑把對手翻過你的身體。這個斜向的力量向量利用了你在準備階段所製造的角度，確保對手的重量沿著你的肩線移動，而不是對抗重力被硬舉起來。純粹往上推會浪費力氣，而純粹往側面推則缺乏破壞他支撐所需的抬升力。",
+    "answer_line": "斜向，越過肩線往上",
+    "distractors": {
+     "plausible": [
+      "直直往上離地",
+      "直直朝側面"
+     ],
+     "trap": [
+      "把他推開，失去 underhook"
+     ]
+    }
+   },
+   {
+    "question": "對手用遠側手撐地想阻止這個 sweep——你在技術執行中該如何調整？",
+    "answer": "當對手用手而不是腿撐地時，他的上半身暫時投入在撐地那一側，暴露出他的背部。利用這個機會從 sweep 轉換到 back take：維持你的 underhook，趁他因為手撐地而無法轉身面對你的時候，用它爬上他的背。先插入下方的 hook，再爭取第二個 hook 或 seat belt 控制。或者，如果手撐得不夠穩，同時加大髖部驅動和遠側髖部的拉力來壓垮這個撐點，因為一隻手提供的支撐遠比撐地的腿要少得多。",
+    "answer_line": "爬上他的背，插入 hook",
+    "distractors": {
+     "plausible": [
+      "硬頂過撐地的手",
+      "改用 Old School sweep"
+     ],
+     "trap": [
+      "放開握點重整 guard"
+     ]
+    }
+   },
+   {
+    "question": "underhook sweep 如何在系統化的攻擊體系中連結到其他 half guard 攻擊？",
+    "answer": "underhook sweep 是一個中樞動作，每一種常見的防守——whizzer、後坐、把你壓平、遠側腿撐地——都會打開一種不同的攻擊。被 whizzer 防守時，能打開 back take；對手後坐時，能轉換成 waiter sweep；被壓平時，可以進入 deep half；遠側腿撐地時，可以銜接 butterfly sweep 或 single leg 攻擊。這套互相連結的系統意味著每一種防守都會製造出另一種攻擊的機會，體現了從底部位置製造困境的原則。",
+    "distractors": {
+     "plausible": [
+      "只能反制 whizzer",
+      "只有他後坐時才有效"
+     ],
+     "trap": [
+      "單靠硬拚結果被壓平"
+     ]
+    },
+    "answer_line": "中樞動作：防守打開攻擊"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當對手從 half guard bottom 建立深的 underhook 時，最重要的單一防守動作是什麼？",
+    "answer": "最重要的防守動作是立刻建立深的 whizzer，把手臂穿過他的二頭肌，並用肩膀重量往下壓來把他壓平。whizzer 必須夠深，深到讓你的手抓住自己的大腿或他的髖部，形成對他 underhook 手臂的結構性控制。只到手肘的淺 whizzer 提供的控制不夠，會被硬頂過去。whizzer 結合 crossface 壓力，能把 underhook 這個掃翻槓桿中和掉，並開始壓平對手的角度。",
+    "answer_line": "深 whizzer，手抓自己大腿",
+    "distractors": {
+     "plausible": [
+      "壓平自己等待就好",
+      "先 crossface 再 whizzer"
+     ],
+     "trap": [
+      "淺淺 whizzer 到手肘，反被 sweep"
+     ]
+    }
+   },
+   {
+    "question": "為什麼維持低位髖部壓力對防止 underhook sweep 這麼關鍵？",
+    "answer": "低位髖部壓力直接阻斷了底部玩家發動這個 sweep 所需的兩個力學前提：製造角度和髖部蓄力。當你的髖部沉重地壓在他的髖部上時，對手無法把身體轉到能產生掃翻槓桿的 45 度角，也無法抬起髖部產生驅動 sweep 所需的橋力。髖部過高會產生一個空隙，讓底部的人能在你身下自由移動，建立這個 sweep 所需的確切身體位置。",
+    "answer_line": "沉重髖部阻斷角度與蓄力",
+    "distractors": {
+     "plausible": [
+      "讓他的 underhook 變淺",
+      "阻止遠側髖部握點"
+     ],
+     "trap": [
+      "撐高身體找支撐"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立 underhook 並開始製造角度——你感覺到重心正在轉移。你的即刻防守順序應該是什麼？",
+    "answer": "你的即刻順序應該是：第一，把遠側腿以 45 度角撐寬，製造出能防止被掀翻的三角支撐；第二，把 whizzer 深深壓過他的 underhook 手臂，控制並削弱這個槓桿；第三，用 crossface 壓力把他的頭和肩膀壓回地面貼平。這三重防守同時從多個層面處理這個 sweep——撐腿提供結構性支撐，whizzer 削弱掃翻槓桿，crossface 則消除角度。盡快同時執行這三者，而不是只依賴單一防守要素。",
+    "answer_line": "撐腿、whizzer、crossface",
+    "distractors": {
+     "plausible": [
+      "先 whizzer，再撐腿，再髖部",
+      "先 crossface，再 whizzer"
+     ],
+     "trap": [
+      "後坐，把 sweep 拱手讓人"
+     ]
+    }
+   },
+   {
+    "question": "最早能顯示對手正在佈局 underhook sweep 的辨識訊號是什麼？",
+    "answer": "最早的訊號依序出現：第一，他的手臂開始深深穿進你的腋下，肩膀往你的肋骨方向頂，而不只是手伸進去；第二，他的髖部開始往你側邊偏移，從平躺轉為側身面向你；第三，他空著的手伸向你的遠側髖部、腰帶或褲管，建立防止你撐地支撐的握點。辨識並回應第一個訊號——深 underhook 的嘗試——能給你最多時間在這個 sweep 累積動能之前實施防守措施。等到感覺到髖部偏移或遠側握點才反應，代表你在防守時間軸上已經落後了。",
+    "answer_line": "肩膀深穿腋下的動作",
+    "distractors": {
+     "plausible": [
+      "髖部偏向他那側",
+      "握點伸向你的遠側髖部"
+     ],
+     "trap": [
+      "等感覺到橋起才反應"
+     ]
+    }
+   },
+   {
+    "question": "成功防守 underhook sweep 之後，你該如何調整你的通關策略？",
+    "answer": "防守完 sweep 之後，趁對手正處於短暫的脆弱狀態，立刻轉換到積極的通關，而不是單純重新回到 half guard top 的姿勢。對手剛在一次失敗的 sweep 嘗試上消耗了體力，恢復期間可能已破壞了自己的防守框架。利用你的 whizzer 控制把他壓平，趁他還在重整時發動 knee slice 或 crossface pass。如果他儘管 sweep 失敗仍維持 underhook，改用 backstep pass 或利用他投入的 underhook 發動 kimura 攻擊。核心原則是用積極的通關來懲罰失敗的 sweep 嘗試，讓對手學到進攻是有代價的。",
+    "answer_line": "立刻懲罰，強勢通關",
+    "distractors": {
+     "plausible": [
+      "先穩定重整握點",
+      "改攻腿部技術"
+     ],
+     "trap": [
+      "拖延到他重新 underhook"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Underhook Sweep from Half.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

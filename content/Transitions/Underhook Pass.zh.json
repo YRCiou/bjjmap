@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在嘗試把對手壓平之前，先建立 underhook 對這個 pass 的成功這麼關鍵？",
+    "answer": "underhook 提供了主要的控制機制，能阻止底部的人轉身面向你或建立他自己的 underhook。少了它，對手可以輕易做出框架、轉身面對你，或發動 sweep。underhook 同時具備進攻控制（讓你能操控他的姿勢）和防守保護（阻止他從 half guard 發動進攻選項）的作用。沒有 underhook 就嘗試壓平，會演變成纏鬥局面，底部的人擁有相等甚至更好的控制選項。",
+    "answer_line": "阻止他轉身面向你",
+    "distractors": {
+     "plausible": [
+      "crossface 比 underhook 更重要",
+      "先壓平，再建立 underhook"
+     ],
+     "trap": [
+      "沒建立 underhook 就急著 pass"
+     ]
+    }
+   },
+   {
+    "question": "在 underhook pass 過程中，控制對手近側髖部的主要目的是什麼？不控制會發生什麼事？",
+    "answer": "控制近側髖部能阻止對手用 shrimp 製造出恢復 guard 或發動 sweep 所需的角度與距離。髖部是底部人防守動作的移動中樞。少了這個控制，即使你有不錯的 underhook 和 crossface，對手仍能 hip escape 拉開距離，重新建立 guard 結構或插入 knee shield。近側髖部控制和 underhook 搭配運作，形成一套能固定住對手核心的壓制系統。",
+    "distractors": {
+     "plausible": [
+      "光靠 underhook 就能控制髖部",
+      "crossface 能處理髖部的機動性"
+     ],
+     "trap": [
+      "伸手去抓遠側腿，反被 sweep"
+     ]
+    },
+    "answer_line": "阻止 shrimp 恢復 guard"
+   },
+   {
+    "question": "說明維持 underhook 的同時把肩膀壓向對手胸口這個動作背後的力學原理，以及這如何造成壓平的效果？",
+    "answer": "肩膀壓迫製造出一套跨身槓桿系統，讓兩股相反的力量同時作用。underhook 把他的遠側肩膀拉向你，而你的近側肩膀則把他的近側肩膀推離你。這產生了旋轉扭力，把他的脊椎壓平在地面上。此外，肩膀對胸口的壓力會限制橫膈膜擴張，讓他很難維持側身防守的姿勢。透過肩膀傳遞的重量分配，能有效把你的體重轉移到他的框架上，壓垮他的結構，而不需要抬起你的髖部——那樣反而會製造出逃脫空間。",
+    "answer_line": "肩膀與 underhook 反向扭力",
+    "distractors": {
+     "plausible": [
+      "直接用體重往下壓",
+      "直直往前推，不旋轉"
+     ],
+     "trap": [
+      "抬高髖部增加壓力"
+     ]
+    }
+   },
+   {
+    "question": "如果你已經取得 underhook 位置，對手卻在你被困的腿上鎖上 lockdown，你該如何回應？",
+    "answer": "首先，維持所有上半身控制（underhook 和 crossface），一邊處理 lockdown 一邊防止被 sweep。專注於用被困的腳踝往地面壓，做出一個 figure-four 破解姿勢來破解 lockdown。保持重心壓低向前，阻止對手利用 lockdown 製造角度發動 electric chair 或其他攻擊。如果有必要，暫時放棄抽腿，先專心破解 lockdown，可以把空著的膝蓋壓過他的身體來減輕被困腿上的壓力，等 lockdown 破解後再回到標準的通關動作。",
+    "answer_line": "破解 lockdown，保持上半身控制",
+    "distractors": {
+     "plausible": [
+      "放棄 underhook 來解放腿部",
+      "拖延到他自己放開"
+     ],
+     "trap": [
+      "站直身子硬拉腿"
+     ]
+    }
+   },
+   {
+    "question": "面對 knee shield half guard 和沒有 shield 的傳統 half guard，執行 underhook pass 有哪些關鍵差異？",
+    "answer": "面對 knee shield，主要挑戰是處理阻止胸貼胸壓力的伸展框架。你必須先處理 knee shield，方法是控制膝蓋並把它壓向地面、跨過去，或改用其他通過角度（例如 knee cut）。underhook 依然重要，但一開始要建立 crossface 壓力會比較難。面對沒有 knee shield 的傳統 half guard，你可以更直接地建立胸貼胸的壓力，立刻開始壓平過程。傳統 half guard 讓你能更快進入壓平階段，但可能面臨更強的 lockdown 或 underhook 爭奪威脅，而 knee shield 一開始提供更多防守結構，但一旦被繞過，sweep 威脅就較低。",
+    "answer_line": "先清 knee shield 再上 crossface",
+    "distractors": {
+     "plausible": [
+      "光靠 underhook 就能破解 shield",
+      "壓力和沒有 shield 時一樣"
+     ],
+     "trap": [
+      "直接硬撞胸口去頂 shield"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 underhook pass 過程中要把空著的那條腿撐寬，這對你的通關力學有什麼影響？",
+    "answer": "把空著的腿撐寬能對抗對手的橋、hip bump 和破壞平衡的嘗試，提供穩定性。當你的重心前壓、一條腿又被困住時，如果支撐太窄，你很容易被 sweep。撐寬的支撐讓你能有效分配重量，同時保有調整應對對手動作的機動性。它也能製造出抽腿時把被困的膝蓋壓過他大腿所需的角度。支撐太窄會讓你上重下輕，容易被掀翻，而撐寬的支撐能讓你維持壓在上方的重量，同時保持結構穩固，並能產生抽出被困腿所需的髖部動作。",
+    "answer_line": "撐寬支撐能抵抗 sweep 和橋",
+    "distractors": {
+     "plausible": [
+      "支撐只是為了幫助抽腿",
+      "重量只放在被困的膝蓋上"
+     ],
+     "trap": [
+      "雙腳併攏並往前傾"
+     ]
+    }
+   },
+   {
+    "question": "在 underhook pass 中，開始抽出被困腿的最佳時機是什麼時候？",
+    "answer": "只有在對手完全被壓平、肩胛骨貼地、髖部機動性被中和之後，才抽出被困的腿。具體來說，你應該感覺到他對你肩膀壓力的抵抗已經瓦解，代表他再也無法維持側身姿勢。他的近側髖部應該已經被你空著的手控制住，他的框架應該已經被破壞或失效。在這之前嘗試抽腿，會讓對手利用殘存的髖部機動性和框架來阻止 pass 或發動 sweep。當他的身體完全平貼、沉重地壓在地面上時，就是你開始用小幅度、有條理的膝蓋推動來抽腿的訊號。",
+    "distractors": {
+     "plausible": [
+      "握點一到位就把腿拉出來",
+      "crossface 一落定就開始"
+     ],
+     "trap": [
+      "硬扯把腿拉出來，把背送給他"
+     ]
+    },
+    "answer_line": "完全壓平之後才抽腿"
+   },
+   {
+    "question": "你正在建立 underhook 時，對手用遠側手撐地並開始坐起——你該如何調整？",
+    "answer": "這個撐地的動作表示對手正嘗試建立框架來阻止壓平，或為自己的進攻動作做鋪墊。立刻加大肩膀壓向他胸口的力道，同時用 underhook 更用力地拉，來瓦解他撐地的結構。用空著的手控制他的手腕或手肘，把他撐地的手剝離地面，移除他的結構支撐。如果他繼續坐起，把你的 crossface 壓力往上轉移到他的下顎線，逼他的頭往後仰，壓垮他的姿勢。關鍵在於，趁他還沒累積起足夠的動能發動防守動作或 back take 之前，剝奪撐地手所提供的結構支撐。",
+    "answer_line": "剝離撐地手，加大 crossface",
+    "distractors": {
+     "plausible": [
+      "無視那隻手，專注在腿上",
+      "只壓他的頭"
+     ],
+     "trap": [
+      "放開 underhook 去剝離那隻手"
+     ]
+    }
+   },
+   {
+    "question": "在 underhook pass 的壓平階段，透過肩膀和髖部施力的關鍵方向是什麼？",
+    "answer": "透過肩膀朝他的近側胸肌和胸骨方向，以大約 45 度角斜向前下方施力。你的髖部應該向前驅動、頂進他的髖線，而不是往上。underhook 那隻手臂同時把他的遠側肩膀拉向你，製造出與肩膀壓力方向相反的剪切旋轉力。這組相反的力量在對手的脊椎軸線上產生扭力，把他從側身位置轉到背部貼地。常見的錯誤是直直往下壓（對手可以撐住抵抗）或直直往前推（讓他能靠側身吸收壓力）。斜向的力量方向能同時繞過這兩種防守結構。",
+    "distractors": {
+     "plausible": [
+      "直直往下用力壓",
+      "只直直往前推"
+     ],
+     "trap": [
+      "往上往後抬起取得槓桿"
+     ]
+    },
+    "answer_line": "45 度斜向肩髖驅動"
+   },
+   {
+    "question": "如果你完成了 underhook pass，但對手在你鞏固 side control 時立刻做出框架並開始恢復 half guard，你該威脅哪些銜接攻擊？",
+    "answer": "威脅攻擊他近側框架手的 kimura，如果他插入膝蓋恢復 half guard，就接 darce 或 knee on belly。kimura 能懲罰他建立框架的動作，逼他把手臂收回；如果他把手臂收回，就轉換成重壓的 crossface，推進 north-south 重整控制。如果他插入膝蓋恢復 half guard，趁膝蓋插入形成 head-and-arm 配置時立刻攻擊 darce choke，或改用 knee on belly 懲罰他製造出的空間。核心原則是：他為了恢復 guard 所做的每一個防守動作，都應該打開一個降伏或位置推進的威脅，形成一個雙輸局面——恢復 guard 反而讓他暴露在比接受 side control 更糟的結果之下。",
+    "distractors": {
+     "plausible": [
+      "放棄控制，重整到中立",
+      "只加緊 crossface，不威脅"
+     ],
+     "trap": [
+      "放開 crossface 去追 kimura"
+     ]
+    },
+    "answer_line": "困住框架手用 kimura，膝蓋用 darce"
+   },
+   {
+    "question": "你 underhook 那隻手的握點應該怎麼配置才能提供最大控制？握點深度為什麼重要？",
+    "answer": "underhook 那隻手應該深深伸過對手的背部，抓住他的遠側背闊肌、腰帶線，或對側髖部。有袍時，抓腰帶或遠側衣領能提供最強的錨點。無袍時，扣住遠側背闊肌或勾住遠側髖部是最佳選擇。握點深度之所以重要，是因為淺的 underhook（手只碰到脊椎）會讓對手能穿越並重新建立他自己的 underhook，演變成 underhook 爭奪戰。握點深到超過他中線的深 underhook，能在旋轉爭奪中給你力學上的優勢，讓他的穿越嘗試明顯更困難，並增加你壓平他所能產生的拉力。握點越深，你的 underhook 就越像一個固定的夾具，而不是一個鬆散的接觸點。",
+    "answer_line": "深握：遠側背闊肌、腰帶或髖部",
+    "distractors": {
+     "plausible": [
+      "沿脊椎的淺握點",
+      "改抓他的近側肩膀"
+     ],
+     "trap": [
+      "抓得太深，暴露自己的背"
+     ]
+    }
+   },
+   {
+    "question": "你正在通關過程中，對手放棄 half guard 防守，爆發性地做 shrimp 想恢復 closed guard——你該如何阻止？",
+    "answer": "對手的 shrimp 會製造出短暫的空間，你必須立刻把它封住。把髖部往前壓，把重量落進他製造出的空間裡，跟著他的髖部動作移動，而不是原地不動。你控制近側髖部的那隻手在這裡是關鍵——用它擋住他的遠側膝蓋，不讓它跨過你的身體閉合 guard。同時把你 crossface 那側的肩膀往前推，阻止他的髖部轉動到足以插入雙腿的角度。如果他的 shrimp 已經製造出足夠的距離、guard 恢復看似即將發生，改用站立式通關姿勢，把空著的腿撐地，轉換成 toreando 或 leg drag 的角度，而不是硬撐維持 half guard top。最糟的回應就是愣住不動，讓他毫無阻礙地完成 hip escape 動作。",
+    "answer_line": "追髖部，擋住他的遠側膝蓋",
+    "distractors": {
+     "plausible": [
+      "後退拉開距離重新開始",
+      "只把重量直直往下壓"
+     ],
+     "trap": [
+      "急著跨過去，反被 triangle 抓住"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你感覺到對手開始從 half guard top 建立 underhook 時，最重要的單一防守動作是什麼？",
+    "answer": "最重要的動作是立刻努力維持或重新建立側身姿勢，用力轉身面向壓制的人。用下方的手肘作為結構撐點，把上方的膝蓋頂進他的髖部作為框架。underhook pass 完全依賴把你壓平；如果你能維持側身角度，不管他的 underhook 伸得多深，pass 都無法推進。你每延遲一秒回應，之後要阻止被壓平就會變得更困難。",
+    "answer_line": "轉身內收，立刻面對他",
+    "distractors": {
+     "plausible": [
+      "只顧著和握點對抗，不管角度",
+      "改推開他的頭"
+     ],
+     "trap": [
+      "轉身離開，攤平自己"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對已建立的 underhook 加 crossface 位置嘗試 bridge-and-roll 逃脫通常適得其反？",
+    "answer": "bridge-and-roll 需要對手相對正面壓在你身上、重量集中置中。但當壓制的人有深的 underhook 時，他的重量是斜向分佈在你身上，支撐則撐得很寬。橋起會把你的髖部抬離地面，這其實反而幫助壓制的人抽出他被困的腿，因為你正好製造出他抽腿所需的空間。此外，翻滾動作會讓你轉身背對他，可能暴露你的背部。能製造橫向距離的 hip escape 動作效果好得多，因為它們才是真正針對 crossface 和 underhook 壓力角度這個問題。",
+    "answer_line": "反而幫他製造抽腿空間",
+    "distractors": {
+     "plausible": [
+      "橋起需要撐一隻手",
+      "橋起會把 crossface 鎖得更死"
+     ],
+     "trap": [
+      "翻滾離開，把背送出去"
+     ]
+    }
+   },
+   {
+    "question": "在 underhook pass 的過程中，你的防守窗口在哪個具體時刻會急遽縮小？",
+    "answer": "關鍵臨界點是你的雙肩胛骨同時貼地、而壓制的人仍維持 crossface 和髖部控制的那一刻。在這之前，你保有髖部機動性、建立框架的能力，以及製造角度來破壞 pass 的能力。完全被壓平之後，你的防守選項就只剩下高耗能的爆發性逃脫，成功率明顯降低。實務上的意義是：所有高成功率的防守動作（爭奪 underhook、插入 knee shield、hip escape 製造角度）都必須在完全被壓平之前完成。訓練應該強調辨識即將到達這個臨界點的訊號，並立刻做出反應。",
+    "answer_line": "雙肩胛骨都貼地的那一刻",
+    "distractors": {
+     "plausible": [
+      "他一開始穿 underhook 時",
+      "腿終於被抽出來的時候"
+     ],
+     "trap": [
+      "翻身 turtle，放棄背部"
+     ]
+    }
+   },
+   {
+    "question": "如果你已經輸掉 underhook 爭奪戰，該如何用 knee shield 進行防守？",
+    "answer": "輸掉 underhook 爭奪戰後，立刻把上方的膝蓋插過壓制者的髖線，讓小腿斜向橫過他的軀幹，腳掛住他對側的髖部。這個 knee shield 建立起一個結構性框架，阻止壓制者所需的胸貼胸連結。把 shield 放在軀幹中段的高度——太高會被壓垮，太低會被跨過去。用雙手加強 shield，控制他的衣領或二頭肌。knee shield 能爭取時間，讓你從更安全的位置重新爭奪 underhook，或轉換到其他 half guard 變化，例如 deep half 或 butterfly half。",
+    "answer_line": "小腿橫過髖部，勾住遠側",
+    "distractors": {
+     "plausible": [
+      "knee shield 放高頂在胸口",
+      "knee shield 放低靠近膝蓋"
+     ],
+     "trap": [
+      "放棄 shield，轉身 turtle"
+     ]
+    }
+   },
+   {
+    "question": "對手已經取得 underhook 和 crossface，但還沒控制你的近側髖部——這製造出什麼防守機會？",
+    "answer": "少了近側髖部控制，你仍保有 hip escape 的能力，這正是從這個位置恢復 guard 所有動作序列的基礎。立刻朝壓制者的反方向爆發性做 hip escape，同時用近側的手在他肩膀上建立框架，阻止他跟上你的動作。這種橫向拉開的距離，讓你有機會把遠側的腿跨過他的身體恢復 closed guard，或至少重新建立能抵消他 underhook 優勢的 knee shield。髖部控制握點是這個 pass 中僅次於 underhook 的第二個錨點——如果他只有一個錨點，你的防守成功率會大幅提升。",
+    "answer_line": "立刻 hip escape，肩膀建框架",
+    "distractors": {
+     "plausible": [
+      "往 crossface 那側用力橋",
+      "伸手去搶遠側 underhook"
+     ],
+     "trap": [
+      "趴下轉身 turtle"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Underhook Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

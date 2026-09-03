@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Hand Fighting from Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 back control 底下做 hand fighting 的主要目標是什麼？",
+    "answer": "主要目標是防止對手建立起鎖喉的 grip，同時創造逃脫的機會。hand fighting 能中和立即的 submission 威脅，把 back control 從一個終結性的位置，轉變成一個能有系統地逃脫的可存活局面。",
+    "answer_line": "拒絕 choke，創造逃脫機會",
+    "distractors": {
+     "plausible": [
+      "耗盡對手的 grip 力氣",
+      "立刻拿回 full guard"
+     ],
+     "trap": [
+      "把鎖喉的手推過頭頂"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 two-on-one 控制比單手防守更重要？",
+    "answer": "two-on-one 控制能對抗對手更強的雙手位置（choking arm 加上身體控制），創造出力學優勢。單手防守很容易被破解，因為對手能用他們完整的進攻結構壓制單一手臂。雙手抓住對方一隻手臂，能讓槓桿力的天平重新平衡。",
+    "answer_line": "雙手才能拉平槓桿力",
+    "distractors": {
+     "plausible": [
+      "一手空出來架 frame",
+      "單一 grip 更省力"
+     ],
+     "trap": [
+      "反覆放手再重抓"
+     ]
+    }
+   },
+   {
+    "question": "hand fighting 時正確的下巴位置是什麼，為什麼？",
+    "answer": "下巴應該收向胸口，而不是抬起或轉開。收下巴能形成一道物理屏障，封閉頸部空間，讓對手更難把 choke 從下方鑽進去。抬起下巴反而會暴露更多頸部表面，創造出更乾淨的鎖喉角度。",
+    "answer_line": "收下巴封閉空間",
+    "distractors": {
+     "plausible": [
+      "下巴轉向 choking arm 那一側",
+      "下巴放鬆自由浮動"
+     ],
+     "trap": [
+      "抬起下巴，頸部完全伸展"
+     ]
+    }
+   },
+   {
+    "question": "你建立起 two-on-one 時，對手切換了他們鎖喉的手臂——你該怎麼反應？",
+    "answer": "立刻把雙手重新導向新的 choking arm，用同樣的 two-on-one 方式處理。下巴保持收在中央位置，並全程留意兩隻手臂的動向。切換的瞬間會創造一個短暫的窗口，此時兩隻手臂都沒有威脅性，可以利用這個窗口啟動逃脫。",
+    "answer_line": "把雙手重新導向新手臂",
+    "distractors": {
+     "plausible": [
+      "繼續對抗原本那隻手臂",
+      "一手應付一隻手臂"
+     ],
+     "trap": [
+      "轉開下巴去追蹤切換動作"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該從 hand fighting 轉為逃脫動作？",
+    "answer": "當你已經把對手鎖喉的手臂撥過你身體、讓他們的雙手都堆疊在同一側時，就是轉換的時機。這會在被清空的那一側創造出逃脫角度。在轉換過程中要繼續維持手部控制，防止對手在你移動時重新建立鎖喉位置。",
+    "answer_line": "手臂被清空並堆疊之後",
+    "distractors": {
+     "plausible": [
+      "一拿到一個 grip 就轉換",
+      "hook 一被拿掉就轉換"
+     ],
+     "trap": [
+      "放開手臂以求移動更快"
+     ]
+    }
+   },
+   {
+    "question": "body triangle 如何改變你的 hand fighting 做法？",
+    "answer": "body triangle 會持續產生擠壓壓力，長時間下來會讓你的 grip 力氣逐漸疲乏，讓 hand fighting 變得較難持續。你可能需要先透過正確擺放被困的腿來處理 body triangle 的逃脫，緩解擠壓壓力，然後才能繼續有效的 hand fighting。",
+    "answer_line": "先解放被困的腿再 hand fight",
+    "distractors": {
+     "plausible": [
+      "不管它，直接對抗手臂",
+      "夾緊自己的腿來反制"
+     ],
+     "trap": [
+      "頂起身體、伸展脖子"
+     ]
+    }
+   },
+   {
+    "question": "對手用控制手做 grip fighting，會創造出什麼機會？",
+    "answer": "當對手把控制手投入到撥開你的防守 grip 時，他們的 harness 控制和上半身連結就會被削弱。這會因為他們的 seatbelt 位置變弱，而創造出做 hip escape 的窗口。他們專注於 grip fighting，代表對你移動的控制力也隨之下降。",
+    "answer_line": "harness 變弱，hip escape 打開",
+    "distractors": {
+     "plausible": [
+      "他們的 hook 會自己鬆開",
+      "他們的 base 立刻瓦解"
+     ],
+     "trap": [
+      "拖延，讓他們重新建立 choke"
+     ]
+    }
+   },
+   {
+    "question": "撥開 grip 的方向是什麼，為什麼？",
+    "answer": "朝對手手肘彎曲的方向撥開，把他們的手腕從你的脖子拉開，同時把他們的手肘往外推。這會產生相反方向的力量，破壞他們手臂的結構。朝手肘方向拉，而不是隨意亂拉，能順著關節自然彎曲的方向創造力學優勢。",
+    "answer_line": "拉手腕、推手肘，方向相反",
+    "distractors": {
+     "plausible": [
+      "直接往下拉離脖子",
+      "用力把手腕往外扭"
+     ],
+     "trap": [
+      "把手腕往自己下巴推"
+     ]
+    }
+   },
+   {
+    "question": "你的雙手在對手鎖喉的手臂上，應該分別採取什麼樣的 grip 配置？",
+    "answer": "你下方的手用 C-grip 或 monkey grip 抓住對手的手腕，控制威脅你脖子的那隻手。你上方的手控制他們前臂靠近手肘的位置，形成一個槓桿系統。你兩個 grip 點之間的距離，能為把他們的手臂從你的喉嚨撥開提供最大的力學優勢。",
+    "answer_line": "下手抓手腕，上手抓手肘",
+    "distractors": {
+     "plausible": [
+      "雙手都疊在手腕上",
+      "上手抓手腕，下手抓二頭肌"
+     ],
+     "trap": [
+      "一手放在對方遠端的肩膀上"
+     ]
+    }
+   },
+   {
+    "question": "對手把鎖喉的手臂已經穿過你的下巴很深，但還沒鎖死 choke——你立即的反應是什麼？",
+    "answer": "用雙手抓住鎖喉的手腕，把它往你的胸口方向拉下去，而不是試圖把它推過頭頂。把下巴更緊地收向他們的前臂，防止他們手腕的骨刃碰到你的頸動脈。同時聳肩往上頂，縮小頸部空間，並同步做手肘推的防守以創造分離空間。",
+    "answer_line": "拉手腕下、收下巴、聳肩",
+    "distractors": {
+     "plausible": [
+      "把手腕推過頭頂",
+      "頭轉向鎖喉的手臂"
+     ],
+     "trap": [
+      "抓對方遠端的腿來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "如何把 hand fighting 和 hip 動作整合成一個結合的逃脫動作，而不是先後分開的階段？",
+    "answer": "在撥開手臂的動作開始的同時就啟動 hip escape，而不是等雙手完全清開手臂之後才動。當你用雙手把鎖喉的手臂推過你身體時，你的 hip 就往相反方向做 escape。這個雙重動作會逼對手在重新建立鎖喉位置和維持 hip、hook 控制之間做選擇，創造出決策上的空隙。",
+    "answer_line": "清手臂和 hip escape 同時做",
+    "distractors": {
+     "plausible": [
+      "先完全清開手臂，再動 hip",
+      "先做 hip escape，再撥 grip"
+     ],
+     "trap": [
+      "先保持不動，穩住 grip 再說"
+     ]
+    }
+   },
+   {
+    "question": "你的 hand fighting 成功中和了 choke，但對手仍維持緊密的 hook 和 seatbelt——你該接續哪些連鎖攻擊？",
+    "answer": "在 choke 被中和之後，把焦點轉向拆解 hook，用你的腿困住他們下方的 hook，同時一手繼續控制他們鎖喉的手腕。用空出來的手在他們上方的膝蓋上架 frame，開始往 turtle 方向做 hip escape。或者，如果在 grip 交換過程中他們的 seatbelt 鬆開了，就立刻轉身面對他們，在旋轉的過程中把你近端的腿穿到他們兩腿之間，恢復成 half guard。",
+    "answer_line": "困 hook、架膝蓋 frame、轉身",
+    "distractors": {
+     "plausible": [
+      "再攻一次遠端的鎖喉手腕",
+      "坐直身體來破 hook"
+     ],
+     "trap": [
+      "放開手腕去抓 hook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼切換鎖喉的手臂比直接對抗對手的 two-on-one grip 更有效？",
+    "answer": "對手的 two-on-one grip 因為雙手控制單一手臂而具備天生的力學優勢。正面對抗這個結構是一場注定輸掉的力量比拼。切換手臂會逼他們放掉已經建立的 grip，把雙手重新導向一個全新的威脅，創造出一個過渡窗口，讓你全新的手臂能在他們的防守重新穩定之前，趁著混亂搶先突破。",
+    "answer_line": "逼他們重抓，打開新窗口",
+    "distractors": {
+     "plausible": [
+      "讓你的力量跟他們對等",
+      "隨時間耗盡他們的 grip"
+     ],
+     "trap": [
+      "放鬆你的 seatbelt 來切換"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺對手已經啟動有系統的 hand fighting 時，你該做哪些位置上的調整？",
+    "answer": "收緊胸貼背的連結，消除逃脫空間，夾緊 hook 或 body triangle 以增加壓縮力、耗盡對方 grip 的耐力，並確保你的控制手臂維持穩固的 harness 位置。調整你的角度，讓你 choking arm 那一側更高，讓對方更難把你的手臂往下撥開。如果他們的 hand fighting 持續破解你直接的 choke 嘗試，可以考慮轉換成 gift wrap。",
+    "answer_line": "收緊並壓縮，耗盡 grip",
+    "distractors": {
+     "plausible": [
+      "先做 gift wrap 再夾 hook",
+      "把 choking arm 那一側放低"
+     ],
+     "trap": [
+      "放掉一個 hook 來空出手臂"
+     ]
+    }
+   },
+   {
+    "question": "對手投入 hand fighting 會創造出什麼你可以利用的破綻？",
+    "answer": "當對手雙手都投入到對抗你鎖喉的手臂時，他們就沒辦法同時架 frame 對抗你的胸口壓力、處理你的 hook，或啟動 hip escape。這會創造出用你的控制手臂做 gift wrap 進攻的機會、透過 hook 加強身體壓縮的機會，以及讓他們逃脫角度變差的位置調整機會。他們狹隘的防守焦點，是用整體位置防守換取局部的手臂控制。",
+    "answer_line": "雙手忙碌，顧不了其他",
+    "distractors": {
+     "plausible": [
+      "他們的 grip 終於能壓制你",
+      "他們的 hip 突破逃脫成功"
+     ],
+     "trap": [
+      "鬆開 hook 以求快速 gift wrap"
+     ]
+    }
+   },
+   {
+    "question": "你鎖喉的手臂已經被撥到淺位置，但對手還沒完全清空它——你該怎麼反應？",
+    "answer": "把你的手肘緊緊壓向他們的肋骨，在他們抓 grip 的手下方重新 pummel 以重新拿回較深的頸部位置。用你的前臂做游動動作，滑到他們的手腕控制下方，而不是直接跟他們的 grip 硬拉。同時收緊你控制手臂的 harness，限制他們在重新 pummel 的過程中調整身體位置的能力。這個做法能在不承擔完全換手臂風險的情況下，恢復進攻位置。",
+    "answer_line": "手肘壓緊，在 grip 下重新 pummel",
+    "distractors": {
+     "plausible": [
+      "用力對抗他們的 grip",
+      "改換另一隻手臂"
+     ],
+     "trap": [
+      "伸直手臂創造空間"
+     ]
+    }
+   },
+   {
+    "question": "面對強勢的 hand fighter，什麼時候該從獵殺 choke 轉為維持位置？",
+    "answer": "當反覆的 choke 嘗試持續被破解、你的手臂開始疲乏時，就轉為維持位置。專注於維持 hook、胸口壓力和基本的 harness 控制，同時用身體壓縮長時間耗盡對手 grip 的耐力。有耐心的做法能保留你的體力優勢，並讓你在對方防守的 grip 因為持續對抗你的體重和擠壓壓力而疲弱時，重新發動攻擊。",
+    "answer_line": "嘗試失敗、手臂疲乏時",
+    "distractors": {
+     "plausible": [
+      "每次失敗就立刻轉換",
+      "只有 hook 完全失去才轉換"
+     ],
+     "trap": [
+      "持續硬拼同一個 choke"
+     ]
+    }
+   }
+  ]
+ }
+}
