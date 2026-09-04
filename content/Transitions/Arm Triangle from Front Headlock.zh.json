@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Front Headlock 過渡到 Arm Triangle 時，主要的力學目標是什麼？",
+    "answer": "主要目標是從 Front Headlock 對頭部的向下控制，轉換成雙側頸動脈壓迫。你必須把對手的近側手臂夾在他們自己脖子的一側（他們自己的二頭肌會壓迫一側頸動脈），同時把你的二頭肌壓在他們脖子的另一側。這會把力的方向從垂直控制改變成側向擠壓，透過你的手臂、對手的手臂與肩膀所形成的三角壓力，製造出血流阻斷式勒頸。",
+    "answer_line": "夾住手臂，二頭肌擠壓頸部",
+    "distractors": {
+     "plausible": [
+      "持續把對手的頭往下壓",
+      "把對手的頭拉向你的髖部"
+     ],
+     "trap": [
+      "放手重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "對手用低頭夾緊下巴、把頭轉開來防守你的 Guillotine，這如何創造出 Arm Triangle 的機會？",
+    "answer": "當對手低頭夾緊下巴、轉頭來防守 Guillotine 時，他們會稍微轉動身體，並把近側手臂當作防守姿勢的一部分帶到自己脖子附近。這個夾下巴與轉頭的動作，其實剛好把他們的手臂擺到 Arm Triangle 所需要的位置上。他們的防守性轉動，也部分暴露出原本在 Guillotine 嘗試中無法取得的頭臂線。你可以立刻把他們的近側手臂引導緊貼在脖子上，並穿入 Arm Triangle 的配置來把握這個機會。",
+    "answer_line": "引導近側手臂緊貼頸部",
+    "distractors": {
+     "plausible": [
+      "直接改攻 Guillotine",
+      "改攻遠側手臂"
+     ],
+     "trap": [
+      "放手重新架 Headlock"
+     ]
+    }
+   },
+   {
+    "question": "要從 Front Headlock 完成 Arm Triangle，需要什麼樣的握法配置？",
+    "answer": "你需要用 gable grip（掌心對掌心）或雙手交扣，位置在對手遠側肩膀或上背後方。你的勒頸手臂繞過他們的脖子後方、蓋過被夾住的肩膀，二頭肌壓在被夾手臂對側的頸動脈上。對手自己的肩膀與二頭肌則會壓迫另一側頸動脈。你的手肘要夾緊，讓整個配置更緊實。這個握法必須在轉換到 Side Control 之前先鎖死，才能防止對手抽出被夾住的手臂。",
+    "answer_line": "在遠側肩後方扣握",
+    "distractors": {
+     "plausible": [
+      "在近側肩後方握",
+      "繞著對手腰部握"
+     ],
+     "trap": [
+      "先走位到 Side Control"
+     ]
+    }
+   },
+   {
+    "question": "為什麼轉換到 Side Control 對於從 Front Headlock 完成 Arm Triangle 如此關鍵？",
+    "answer": "Side Control 為 Arm Triangle 的雙側壓迫提供了最佳角度。在 Front Headlock 的角度下，你的擠壓是在對抗對手脊椎與肩膀的自然排列方向。透過側向走位到 Side Control，你把勒頸角度旋轉成與對手頸部垂直的方向，這在力學上效率高得多。Side Control 也讓你能運用胸對胸的壓力與肩膀下壓當作終結手段，而不是單純依賴手臂力量。如果沒有這個側向轉換，大多數從 Front Headlock 發動的 Arm Triangle 嘗試都會卡住。",
+    "answer_line": "把擠壓角度轉到更好的方向",
+    "distractors": {
+     "plausible": [
+      "讓你的髖部空出來控制腿部",
+      "阻止對手做 Bridge"
+     ],
+     "trap": [
+      "留在 Headlock 裡加大力量擠"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖死 Arm Triangle 的握法，但對手用遠側手撐地來阻止你走位到 Side Control——你該怎麼調整？",
+    "answer": "用你空出來的那隻手，把對手撐地的手臂往他們身體方向推，或是在手肘處擋住，來破壞這個支撐。或者，把你空出來的手臂穿入對手撐地手臂下方，移除他們的支撐點。如果這個支撐太強而無法直接破壞，可以暫時改變側向走位的方向，先把對手破勢，再繼續原本的走位。你也可以用胸部往前施壓，把對手壓成面朝下，這樣就能完全移除支撐。重點是要立刻處理這個支撐，而不是硬要對抗一個強力的 frame 硬走位。",
+    "answer_line": "先破壞支撐，再走位",
+    "distractors": {
+     "plausible": [
+      "硬用力量走位過去",
+      "改走對側 Side Control"
+     ],
+     "trap": [
+      "放開握法來清除支撐"
+     ]
+    }
+   },
+   {
+    "question": "從 Front Headlock 轉換握法的過程中，導致 Arm Triangle 失敗最關鍵的錯誤是什麼？",
+    "answer": "在從 Front Headlock 握法重新配置成 Arm Triangle 握法時，鬆開了壓在對手上背的胸部壓力。這一瞬間的壓力釋放，會讓對手有機會挺身、抽出頭部或拉開距離。換握法的過程中，必須持續把體重壓在對手的上背上。你的胸部在轉換過程中絕不應該離開對手的身體。練習時把手臂滑動當作一個流暢的重新配置動作，而不是抬起再重新抓握，就能消除這個破綻。",
+    "answer_line": "鬆開胸部壓力去重新抓握",
+    "distractors": {
+     "plausible": [
+      "握法還沒鎖死就太早抓",
+      "走位到 Side Control 太快"
+     ],
+     "trap": [
+      "抬起身體去看握法"
+     ]
+    }
+   },
+   {
+    "question": "從 Front Headlock 的控制到 Arm Triangle 的終結，施力方向如何改變？",
+    "answer": "在 Front Headlock 中，主要施力是向下的——你的胸部體重壓向對手的上背，讓他們的姿勢崩潰、無法站起來。到了 Arm Triangle 的終結階段，主要施力轉變成側向擠壓——你的雙臂從脖子兩側向內擠壓，同時肩膀往前推向被夾住的手臂。這個轉換需要刻意把你的壓力從垂直平面重新導向水平擠壓。在走位到 Side Control 的過程中，你其實是在實際旋轉身體來改變這個施力角度。",
+    "answer_line": "從向下壓變成側向擠壓",
+    "distractors": {
+     "plausible": [
+      "從側向變成向下壓",
+      "先向上抬再放下體重"
+     ],
+     "trap": [
+      "只維持固定的向下施力"
+     ]
+    }
+   },
+   {
+    "question": "當你正在從 Front Headlock 架設 Arm Triangle 的過程中，對手開始想要站起來——你該如何應對？",
+    "answer": "如果 Arm Triangle 的握法還沒鎖死，就放棄 Arm Triangle，立刻把對手的頭扳回向下，重新建立 Front Headlock 控制，或是改成站立式 Guillotine，雙手在對手下巴下方交扣後跳入 Guard。如果握法已經鎖死但對手站起來了，維持擠壓力道，可以一邊拉 Guard 一邊保持 Arm Triangle 的配置完整，或是使用摔法把對手帶到地面、進入 Side Control。絕對不要在不調整位置的情況下，硬要對抗一個站著的對手來完成 Arm Triangle。",
+    "answer_line": "握法未鎖死時，把頭扳回向下",
+    "distractors": {
+     "plausible": [
+      "等對手站穩再說",
+      "放手改抱雙腿摔"
+     ],
+     "trap": [
+      "握法還沒抓好就跳去 Guillotine"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的條件顯示從 Front Headlock 發動 Arm Triangle 是可行的，而什麼時候你應該改追其他攻擊？",
+    "answer": "當對手的近側手臂靠近自己脖子時，Arm Triangle 就是可行的，這通常出現在他們防禦性地交扣雙手、夾緊下巴防守 Guillotine，或是用前臂頂住自己的臉時。如果對手的手臂是伸展開來、撐在你的髖部做 frame，那麼 Arm Triangle 就不是立即可行的選項，這時你應該改追 Darce（如果對手的手臂伸展到你身體下方）、背後控制（如果對手繞開）、或是 Guillotine（如果對手抬起頭）。近側手臂是否靠近脖子，是決定性的關鍵。",
+    "answer_line": "近側手臂夾緊靠近頸部",
+    "distractors": {
+     "plausible": [
+      "對手雙臂向外伸展",
+      "對手撐在你的髖部"
+     ],
+     "trap": [
+      "只要有 Headlock 就硬做"
+     ]
+    }
+   },
+   {
+    "question": "如果對手透過把被夾住的手臂伸直來製造空間、防守 Arm Triangle，這時會出現什麼連鎖攻擊？",
+    "answer": "當對手伸直被夾住的手臂來破解 Arm Triangle 時，Darce Choke 就會變得可行。他們的手臂伸展會在腋下製造出空間，讓你可以把勒頸手臂穿過去，從 Arm Triangle 繞過肩膀上方的路徑，切換成 Darce 從腋下穿入的路徑。這是很自然的連鎖，因為對手成功防守 Arm Triangle 的動作，會直接打開 Darce 的角度。關鍵在於立刻辨識出這個手臂伸展動作，並在對手來得及收回之前，把你的勒頸手臂重新導向。",
+    "answer_line": "切換成 Darce Choke",
+    "distractors": {
+     "plausible": [
+      "切換成 Guillotine",
+      "切換成 Kimura 握法"
+     ],
+     "trap": [
+      "硬把 Arm Triangle 加大力量做"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼標準的 Guillotine 防守姿勢（手臂夾緊頸部、下巴內收）反而會讓你更容易被從 Front Headlock 發動的 Arm Triangle 攻破？",
+    "answer": "Guillotine 的防守會把你的近側手臂緊貼在脖子上、二頭肌壓在你自己的頸動脈上——這剛好就是 Arm Triangle 所需要的手臂位置。當你為了防守 Guillotine 而在下巴附近交扣雙手時，你其實是在幫攻擊者完成手臂隔離的工作。Arm Triangle 需要你自己的手臂壓迫一側頸動脈，同時攻擊者的手臂壓迫另一側，所以你這種夾緊手臂、下巴內收的防守姿勢，會自動完成一半的勒頸機制。認清這個矛盾非常關鍵——當攻擊從 Guillotine 轉變成 Arm Triangle 時，你必須調整手臂的位置。",
+    "answer_line": "你自己的二頭肌勒住自己",
+    "distractors": {
+     "plausible": [
+      "下巴內收能擋掉所有勒頸",
+      "夾緊手臂只能擋 Guillotine"
+     ],
+     "trap": [
+      "把雙手交扣得更緊來防守"
+     ]
+    }
+   },
+   {
+    "question": "在從 Front Headlock 發動 Arm Triangle 的過程中，防守方在哪個時間點有最高的逃脫成功機率？為什麼？",
+    "answer": "成功率最高的逃脫時機，是在握法轉換階段——也就是攻擊者正從 Front Headlock 的控制重新配置成 Arm Triangle 的時候。在這個瞬間，攻擊者的控制最不穩定，因為他們正在改變握法位置，壓力也會暫時轉移。攻擊者無法在同時穿入 Arm Triangle 握法的情況下，還維持完整的 Front Headlock 向下壓力，這就會產生一個短暫的控制破綻。一旦握法鎖死，逃脫難度就會大幅增加。一旦握法鎖死並取得 Side Control，逃脫就會變得非常困難。防守方必須在轉換階段就採取行動，而不是等對方完成控制之後。",
+    "answer_line": "在握法轉換的階段",
+    "distractors": {
+     "plausible": [
+      "剛套上 Headlock 的當下",
+      "Side Control 鎖死之後"
+     ],
+     "trap": [
+      "等到勒頸已經很緊才行動"
+     ]
+    }
+   },
+   {
+    "question": "你的近側手臂已經被夾在脖子上，而且你感覺到攻擊者正在你肩膀後方鎖上 gable grip——這時你當下的防守優先事項是什麼？",
+    "answer": "你當下的優先事項，是靠著在對手近側髖部做 frame、把內側膝蓋插入雙方身體之間，來阻止攻擊者走位到 Side Control。既然握法已經鎖死，這時硬要抽出手臂的成功率較低。應該把重點放在阻擋讓這個勒頸取得終結角度的側向轉換。透過插入膝蓋、把回 Half Guard，你可以破壞攻擊者要有效施壓終結所需要的 Side Control 位置。從 Half Guard 開始，你可以慢慢鬆開握法，製造出最終抽出被夾手臂所需要的空間。",
+    "answer_line": "撐住髖部、插膝蓋阻擋",
+    "distractors": {
+     "plausible": [
+      "先硬把被夾的手臂抽出來",
+      "把對手的臉推開"
+     ],
+     "trap": [
+      "轉身背對來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "如果在從 Front Headlock 轉換後，被 Side Control 中已完全鎖死的 Arm Triangle 困住，你應該往哪個方向做 Bridge？為什麼？",
+    "answer": "應該朝攻擊者的方向、也就是被夾手臂那一側做 Bridge，而不是往攻擊者的反方向。往攻擊者反方向做 Bridge 會加大擠壓角度，因為這會把你的脖子拉向壓迫的方向。往攻擊者方向做 Bridge，則會壓縮攻擊者用來做肩膀下壓的空間，藉此減小擠壓角度。這個方向也會創造機會，讓你的身體轉動到足以把被夾住的肩膀從勒頸配置中抽出。這個方向違反直覺，正是為什麼許多防守者會本能地朝錯誤方向做 Bridge，反而加速了自己被降伏。",
+    "answer_line": "朝攻擊者方向做 Bridge",
+    "distractors": {
+     "plausible": [
+      "朝勒頸反方向做 Bridge",
+      "直接朝正上方做 Bridge"
+     ],
+     "trap": [
+      "拉開距離縮成 Turtle"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺攻擊者從 Guillotine 的威脅，轉換成從 Front Headlock 架設 Arm Triangle 時，你應該如何調整手部位置？",
+    "answer": "你必須從 Guillotine 防守的手部位置（雙手交扣在下巴附近、手臂夾緊脖子），切換成 Arm Triangle 防守的手部位置（近側手臂伸展遠離脖子、遠側手在攻擊者髖部做 frame）。對於 Guillotine 防守來說，維持手臂夾緊可以保護下巴、防止對手取得下巴下方的握法。但對於 Arm Triangle 防守來說，你需要的是相反的做法——你的近側手臂必須盡可能遠離脖子，才能防止雙側壓迫。這兩種防守姿勢之間的轉換，必須在你察覺攻擊正在改變的當下立刻發生，因為任何延遲都意味著攻擊者會在你的手臂仍處於容易受到 Guillotine 防守姿勢傷害的位置時，完成手臂夾控。",
+    "answer_line": "把近側手臂伸展遠離頸部",
+    "distractors": {
+     "plausible": [
+      "保持手臂夾緊、下巴內收",
+      "在對手下巴下方交扣雙手"
+     ],
+     "trap": [
+      "把手臂更用力拉向胸口"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Arm Triangle from Front Headlock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

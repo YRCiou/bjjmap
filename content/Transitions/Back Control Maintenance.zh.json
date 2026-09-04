@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Back Control Maintenance 的主要目標是什麼？",
+    "answer": "主要目標是透過系統性的微調來保持強勢的 back control，而不是急著搶 submission。透過持續維持控制，你會累積壓力、逐漸瓦解對手的防守結構，隨著時間拉長開出更高成功率的 submission 機會，同時消滅對手的逃脫可能。",
+    "answer_line": "保持位置，而非急著搶 sub",
+    "distractors": {
+     "plausible": [
+      "控制對手的雙手手腕",
+      "推進到 mount 位置"
+     ],
+     "trap": [
+      "坐後去搶 RNC，結果丟了背後"
+     ]
+    }
+   },
+   {
+    "question": "對手開始用力伸直雙腿想拔掉你的 hook，你的即時反應是什麼？",
+    "answer": "把 hook 往對手的髖部縫隙更深壓進去，而不是硬跟他的伸腿對抗。同時加大胸口對背部的壓力，並考慮把上方那條腿跨過對手的髖部進入 body triangle。對手伸腿的動作其實正好開出進入 body triangle 的空隙。",
+    "answer_line": "hook 壓更深，加大壓力",
+    "distractors": {
+     "plausible": [
+      "用力頂住他伸腿的力道",
+      "抓住他的腳阻止動作"
+     ],
+     "trap": [
+      "伸直自己的腿去對抗"
+     ]
+    }
+   },
+   {
+    "question": "Back Control Maintenance 需要哪些關鍵抓法？",
+    "answer": "基礎抓法是 seatbelt——一手繞過對手肩膀（勒頸手），一手穿過對側腋下（underhook 手），雙手互扣。這在對手上半身形成對角線控制。次要選項包括 gi 中的 collar grip、gift wrap control，以及依對手防守反應調整的 harness grip 變化。",
+    "answer_line": "seatbelt：勒頸手＋underhook",
+    "distractors": {
+     "plausible": [
+      "緊抓住他的雙手手腕",
+      "從腰部熊抱住他"
+     ],
+     "trap": [
+      "手撐地板，結果丟了背後"
+     ]
+    }
+   },
+   {
+    "question": "對手雙手都投入去纏鬥你的勒頸手，你要怎麼利用這個破綻？",
+    "answer": "他的兩手一起纏鬥你的一隻手，等於暴露了另一隻手臂可供攻擊。立刻控制他投入防守的那隻手臂，切入 armbar from back，再旋轉到 armbar 位置完成。另一種做法是用你這時已空出來的 underhook 手，把他防守的那隻手臂扣進 gift wrap，徹底廢掉他主要的防守工具。",
+    "answer_line": "攻擊那隻剛暴露的手臂",
+    "distractors": {
+     "plausible": [
+      "用力把被纏住的手抽出來",
+      "等他自己放開抓握"
+     ],
+     "trap": [
+      "整個放掉 seatbelt"
+     ]
+    }
+   },
+   {
+    "question": "為什麼頭部位置在 back control maintenance 中如此關鍵？",
+    "answer": "你的頭應該放在與勒頸手同側。這能擋住對手往那一側轉身的路，把所有逃脫嘗試都逼向你有結構優勢的 underhook 那一側。頭放錯邊會讓對手轉向你、開始成功的逃脫序列。",
+    "answer_line": "頭放在勒頸手那一側",
+    "distractors": {
+     "plausible": [
+      "頭放在 underhook 那一側",
+      "頭置中對齊他的脊椎"
+     ],
+     "trap": [
+      "把頭抬離，讓他轉進來"
+     ]
+    }
+   },
+   {
+    "question": "什麼是 threat cycling，它如何強化 back control maintenance？",
+    "answer": "threat cycling 是在不同 submission 威脅之間持續輪替——rear naked choke、collar choke、armbar from back、crucifix 過渡——但不完全投入任何單一攻擊。這會迫使對手不斷做出防守反應，每一次反應都創造出收緊位置控制或攻擊新暴露目標的機會。這個循環形成一個回饋圈：防守導致更緊的控制。",
+    "answer_line": "輪替威脅，不完全投入",
+    "distractors": {
+     "plausible": [
+      "假動作威脅但從不真攻擊",
+      "被動等待機會出現"
+     ],
+     "trap": [
+      "硬拚一次完成技，結果丟了背後"
+     ]
+    }
+   },
+   {
+    "question": "對手成功在你的胸口與他的背部之間製造出空隙，你的優先反應是什麼？",
+    "answer": "在處理任何其他事情之前，立刻把胸口與背部之間的縫隙關上。把髖部降得比對手更低，胸口往前推直到重新貼合。沒有這個錨點連接，hook 就更容易被拔掉，逃脫的角度也會打開。胸口連接是支撐所有其他控制要素的基礎。",
+    "answer_line": "先關上胸背之間的縫隙",
+    "distractors": {
+     "plausible": [
+      "先收緊 hook 再管胸口",
+      "追著去抓勒頸手"
+     ],
+     "trap": [
+      "坐後重置位置"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該從雙 hook 轉換成 body triangle？",
+    "answer": "當對手展現出很強的 hook 防守、在拉長的位置纏鬥中 hook 開始感到疲勞、或是你取得了適合進入 body triangle 的優勢角度時，就該轉換。body triangle 比 hook 更難被拔除，也能讓你把更多注意力放在上半身的攻擊，而不是持續維持 hook。",
+    "answer_line": "強力 hook 防守或疲勞時",
+    "distractors": {
+     "plausible": [
+      "拿到背後的瞬間就換",
+      "只有絞技鎖定後才換"
+     ],
+     "trap": [
+      "在混戰中換，結果被過腿"
+     ]
+    }
+   },
+   {
+    "question": "對手站起來時，你要怎麼維持 back control？",
+    "answer": "把你的 hook 轉換成 climbing hook，隨著他起身一路貼著他的髖部。在他腰部建立 body lock 抓法以維持穩定。從 standing back control，你多了回到地面、站立勒頸威脅、以及類似摔角式 takedown 的額外選項。維持體重稍微前傾，避免他坐後拔掉你的控制。",
+    "answer_line": "climbing hook ＋ body lock",
+    "distractors": {
+     "plausible": [
+      "放掉 hook，只抓腰部",
+      "直接跳到完整 body triangle"
+     ],
+     "trap": [
+      "身體後靠避免被摔"
+     ]
+    }
+   },
+   {
+    "question": "高成功率的 back control maintenance 與常見的初學者模式有什麼區別？",
+    "answer": "高成功率的維持方式把位置本身當成主要武器，而不是急著搶 submission。頂尖選手在最初的 10 到 15 秒專心鞏固位置，用 threat cycling 製造可以利用的防守反應，並理解持續的控制會累積壓力、最終瓦解任何防守。初學者則急著進攻，結果丟了位置。",
+    "answer_line": "先鞏固位置",
+    "distractors": {
+     "plausible": [
+      "早早頻繁進攻",
+      "純靠力量硬壓制"
+     ],
+     "trap": [
+      "急著完成技，結果丟了 hook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 back control maintenance 時，正確的逃脫優先順序是什麼？",
+    "answer": "順序必須嚴格照這樣走：先保護頸部，收下巴並用雙手二對一控制勒頸手，接著剝除 seatbelt 或上半身抓法以化解 submission 威脅，然後透過 hip escape 或腿部操作處理 hook，最後才旋轉面向對手、建立 guard。跳過這個順序中的任何一步，尤其是在確保頸部防守之前就先去處理 hook，幾乎都會導致被 submission。",
+    "answer_line": "頸 > 抓法 > hook > 轉身面對",
+    "distractors": {
+     "plausible": [
+      "先處理 hook，再防頸部",
+      "先剝抓法，跳過頸部防守"
+     ],
+     "trap": [
+      "立刻轉身面對他"
+     ]
+    }
+   },
+   {
+    "question": "對手開始在 rear naked choke 威脅與 collar grip 設置之間輪替，你什麼時候該嘗試逃脫？",
+    "answer": "最佳逃脫時機正是抓法轉換的當下，也就是對手放開一種抓法、準備建立另一種抓法的那一刻。在這短暫的瞬間，他整合的控制系統會出現缺口——勒頸威脅暫時減弱，雙手也正在重新定位。這正是你該執行決定性動作的時機，例如剝除正在轉換中的抓法，或開始 hip escape，因為對完全鞏固的控制嘗試相同的逃脫，會需要多得多的力氣，成功率也低得多。",
+    "answer_line": "趁他換抓法時逃脫",
+    "distractors": {
+     "plausible": [
+      "等絞技完全鎖死再逃",
+      "等他體力耗盡"
+     ],
+     "trap": [
+      "對完全控制硬拚爆發逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼側身到一側髖部對逃脫 back control maintenance 如此關鍵？",
+    "answer": "側到一側髖部會打亂對手依賴雙側均等壓力的對稱控制結構。側身的髖部位置會讓對手的手臂相對你的頸部角度偏移，降低他的勒頸角度；同時也創造出最終轉身面對他所需的旋轉動能，並改變你的重量分布，讓他其中一個 hook 的效果變差。維持平躺則會給對手來自兩側的最佳控制角度，並讓你完全無法產生逃脫所需的轉身力量。",
+    "answer_line": "側身到一髖以取得旋轉力",
+    "distractors": {
+     "plausible": [
+      "把雙髖一起頂離地面",
+      "直接 bridge 上去把他甩掉"
+     ],
+     "trap": [
+      "保持平躺，結果被勒昏"
+     ]
+    }
+   },
+   {
+    "question": "對手從標準雙 hook 轉換成 body triangle，這如何改變你的逃脫策略？",
+    "answer": "body triangle 消滅了透過拔除 hook 逃脫的路徑，因為你無法單純把髖部從鎖死的雙腿間滑出去。你的策略要轉為直接處理 body triangle：轉向鎖腿那一側以減緩夾力、壓縮三角的角度，再設法攻擊交疊那隻腳的 ankle lock 來解開他的雙腳。另一個做法是接受下半身逃脫暫時被封鎖，把全部心力放在剝除上半身抓法、盡量製造旋轉，最終還是能面向對手——因為 body triangle 在阻止旋轉上的效果，遠不如它阻止向下 hip escape 的效果。",
+    "answer_line": "轉向三角側，攻擊腳踝",
+    "distractors": {
+     "plausible": [
+      "把髖部從鎖死的腿間滑出去",
+      "硬用力氣對抗夾力"
+     ],
+     "trap": [
+      "無視三角，繼續追 hook 逃脫"
+     ]
+    }
+   },
+   {
+    "question": "面對一個優先追求位置控制而非立刻 submission 的對手，你該如何管理體力？",
+    "answer": "面對以維持位置為主的對手時，節省體力至關重要，因為他的策略正是要靠持續的壓力耗盡你的體力。使用結構性防守——下巴位置、手肘擋在他的手臂前、髖部角度——而不是用肌肉硬抗鞏固的控制。避免對完全鞏固的控制做爆發式逃脫嘗試。反而要維持平穩呼吸、暫時接受這個位置，只在對手換抓法或調整的時機才投入計算過的逃脫嘗試。對手的耐心是他的武器；你耐心等待真正的破綻，就是反制的方法。",
+    "answer_line": "節省體力，等待真正破綻",
+    "distractors": {
+     "plausible": [
+      "用蠻力硬拚出去",
+      "不停 bridge 製造空間"
+     ],
+     "trap": [
+      "太早爆發，體力耗盡被完成"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Back Control Maintenance.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

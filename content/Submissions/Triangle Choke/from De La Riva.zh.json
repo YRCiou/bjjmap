@@ -1,0 +1,272 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Triangle 設置階段，De La Riva 這個 hook 的主要作用是什麼？",
+    "answer": "De La Riva hook 作為支點，防止對手在轉換過程中退開或站起來。它維持近距離，並在你把另一條腿甩過對手肩膀時，把對手往前破勢。這個 hook 應該一直維持到 Triangle 幾乎鎖住為止，以防止對手防守逃脫。",
+    "safety_critical": false,
+    "answer_line": "扣住阻擋對手後退或站起",
+    "distractors": {
+     "plausible": [
+      "只是為了往側邊破勢",
+      "腿一過肩就可以放開"
+     ],
+     "trap": [
+      "踢開 hook，讓對手方便 pass"
+     ]
+    }
+   },
+   {
+    "question": "從 De La Riva 完成 Triangle 時，為什麼切出垂直角度如此重要？",
+    "answer": "垂直角度（你的脊椎與對手脊椎大約成 90 度）能確保你的腿壓迫一側頸動脈，同時對手被困的手臂壓迫另一側，藉此把鎖喉壓力發揮到最大。少了這個角度，Triangle 可能在機構上已經鎖住，卻缺乏有效阻斷血流所需的幾何對位。",
+    "safety_critical": false,
+    "answer_line": "90 度角同時壓迫雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "角度只是額外加壓",
+      "任何夠緊的角度都可以"
+     ],
+     "trap": [
+      "胸口對胸口正對對手"
+     ]
+    }
+   },
+   {
+    "question": "施展這個 submission 時，你必須立刻辨識出的最基本 tap 信號有哪些？",
+    "answer": "你必須立刻辨識並回應以下信號：口頭 tap 或痛苦的叫聲、手在你身上或墊上的拍打、腳在墊上或你身上的拍打，以及抵抗力道突然改變或身體癱軟。以上任何一種都要求你立刻放開 submission，不能有任何延遲或試探。",
+    "safety_critical": true,
+    "answer_line": "口頭、手、腳 tap 或癱軟",
+    "distractors": {
+     "plausible": [
+      "只算聽得到的信號",
+      "同一信號重複兩次才算"
+     ],
+     "trap": [
+      "繼續夾緊以確認信號"
+     ]
+    }
+   },
+   {
+    "question": "正確的「high triangle」姿勢和錯誤的「shoulder triangle」姿勢有什麼差別？",
+    "answer": "High triangle 是把膝蓋放在對手頭部後方、小腿橫過對手背部，能製造最大的鎖喉壓力。Shoulder triangle 則錯誤地把膝蓋放在對手肩膀上方，這樣對手還能維持姿勢，也無法形成有效的鎖喉機制。進招時務必確保小腿完全越過肩膀。",
+    "safety_critical": false,
+    "answer_line": "膝在頭後、小腿橫過背部",
+    "distractors": {
+     "plausible": [
+      "膝在肩上、小腿沿背而下",
+      "小腿在頭後、膝在背上"
+     ],
+     "trap": [
+      "硬撐 shoulder 版本，被 pass"
+     ]
+    }
+   },
+   {
+    "question": "為什麼施力必須在 3-5 秒內逐漸加強，而不是一次爆發完成？",
+    "answer": "逐漸施力能確保訓練夥伴的安全，給對方足夠時間察覺 submission 並 tap，避免受傷。爆發式施力有頸部受傷的風險，會讓夥伴來不及及時 tap，也會養成危險的訓練文化。在訓練中，夥伴的安全永遠優先於完成 submission。",
+    "safety_critical": true,
+    "answer_line": "讓夥伴有時間安全 tap",
+    "distractors": {
+     "plausible": [
+      "讓姿勢鎖得更牢",
+      "提高你的收招成功率"
+     ],
+     "trap": [
+      "一鎖上就立刻用力猛拉"
+     ]
+    }
+   },
+   {
+    "question": "如果對手成功把手臂藏在你雙腿之間、防守住 Triangle，你該如何轉換？",
+    "answer": "如果手臂仍然守在裡面，可把你的自由腿甩過對手背部轉換成 omoplata，或者如果對手轉身背對你，就轉攻 back take。腿越過肩膀的姿勢提供多種進攻選項，絕不要硬拗一個已被防守住的 Triangle。應根據對手的防守反應，順勢轉換到下一個成功率最高的攻擊。",
+    "safety_critical": false,
+    "answer_line": "順勢轉 omoplata 或 back take",
+    "distractors": {
+     "plausible": [
+      "重新結 guard 從頭來過",
+      "等對手體力耗盡"
+     ],
+     "trap": [
+      "更用力夾緊，結果被 stack pass"
+     ]
+    }
+   },
+   {
+    "question": "Triangle Choke 攻擊哪些解剖構造？手臂的正確位置又如何影響收招？",
+    "answer": "Triangle Choke 攻擊頸部兩側的頸動脈，阻斷腦部供血。被困的手臂必須橫過對手自己的頸部，讓對手的二頭肌壓在一側頸動脈上，而你的大腿則壓迫另一側。如果手臂留在你的腿部結構外面，或沒有被拉過身體中線，就只會壓到一側頸動脈，choke 的效果會大幅降低。",
+    "safety_critical": false,
+    "answer_line": "手臂橫頸，大腿+二頭肌鎖喉",
+    "distractors": {
+     "plausible": [
+      "壓迫的是氣管而非頸動脈",
+      "雙臂都必須困在裡面"
+     ],
+     "trap": [
+      "讓手臂留在外面，方便對手 pass"
+     ]
+    }
+   },
+   {
+    "question": "Triangle 鎖住後，對手開始恢復姿勢站直，該如何調整握法以維持控制並收招？",
+    "answer": "對手一開始恢復姿勢，就立刻用雙手扣住或包住對手後腦，製造向下拉的槓桿力量。絕對不要用手推膝蓋來破壞對手姿勢，這在力學上很弱。應該用你拉頭的握法配合伸腿的動作，把對手的頭壓向墊子。如果對手真的完全恢復姿勢，考慮轉換成 armbar 或 omoplata，而不是硬打一場逆風仗。",
+    "safety_critical": false,
+    "answer_line": "扣住後腦、往下拉",
+    "distractors": {
+     "plausible": [
+      "抓住雙手手腕來控制",
+      "往上拉對手的衣領"
+     ],
+     "trap": [
+      "推膝蓋，結果被恢復姿勢反擊"
+     ]
+    }
+   },
+   {
+    "question": "有哪些跡象能告訴你 choke 已正確對位，而不只是造成頸部不適？",
+    "answer": "正確對位的血液勒頸會讓臉色迅速轉變（發紅或發紫）、對手明顯痛苦卻無法清楚說話，並且效果在 5-10 秒內就迅速出現。如果對手在 10 秒以上仍只有頸部不適、沒有出現這些徵兆，這個 choke 很可能是氣管勒頸或對位不良的血液勒頸。這時應調整角度並確保被困手臂橫過對手中線，再重新施力。",
+    "safety_critical": true,
+    "answer_line": "臉色迅速改變＝真正鎖上",
+    "distractors": {
+     "plausible": [
+      "光是頸部疼痛就能確認鎖上",
+      "要 30 秒以上才能確認"
+     ],
+     "trap": [
+      "還沒反應就更用力壓"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他 Triangle 鎖法，figure-four 的腿部鎖法如何提升收招的力量？",
+    "answer": "Figure-four 結構（腳踝扣在另一側膝蓋後方）形成一個一體的腿部結構，伸展鎖腿的同時會一併收緊整個 Triangle，並壓迫頸部兩側。這種機構上的連動代表你伸腿的力量會直接轉化為鎖喉的壓力。沒有形成這種連動的其他鎖法，需要更孤立的肌肉出力，也更容易被對手透過恢復姿勢或 frame 化解。",
+    "safety_critical": false,
+    "answer_line": "伸腿同時收緊兩側",
+    "distractors": {
+     "plausible": [
+      "只是把雙腿鎖在一起",
+      "主要只是阻止對手恢復姿勢"
+     ],
+     "trap": [
+      "改成交叉腳踝"
+     ]
+    }
+   },
+   {
+    "question": "你已鎖住 Triangle，對手用力 stack 並開始 pass，你的優先事項與逃脫（收招）順序是什麼？",
+    "answer": "優先事項是維持 Triangle 結構，同時創造角度來釋放 stack 帶來的壓力。把髖部往對手 pass 的反方向 shrimp 開，維持扣住對手後腦的握法，並用你的自由手臂撐地，讓身體轉到與對手垂直。如果對手真的達成 side control 且 Triangle 仍鎖著，你仍可透過完成垂直角度來收招，或藉由維持腿部控制、伸展對手被困的手臂來轉換成 armbar。",
+    "safety_critical": false,
+    "answer_line": "Shrimp 出、保持握法、找角度",
+    "distractors": {
+     "plausible": [
+      "放開雙腿重新結 guard",
+      "推開對手的頭來紓解壓力"
+     ],
+     "trap": [
+      "壓平身體任由對手 stack"
+     ]
+    }
+   },
+   {
+    "question": "Triangle 中無法逃脫的臨界點是什麼？在到達這個臨界點之前必須控制哪些要素？",
+    "answer": "無法逃脫的臨界點發生在你達成正確的垂直角度、對手的姿勢已被破壞、手臂被困並橫過中線，且膝蓋已定位在對手頭部後方的時候。在到達這個臨界點之前，你必須透過頭部握法控制對手的姿勢、確保手臂困鎖到位，並鎖緊 figure-four 結構。這些要素一旦全部到位，即使是熟練的對手防守選項也會極為有限，收招基本上就只是逐步施加壓力的問題。",
+    "safety_critical": false,
+    "answer_line": "角度、破姿、手臂已困",
+    "distractors": {
+     "plausible": [
+      "只要 figure-four 鎖上就好",
+      "膝蓋一靠近頭就算到位"
+     ],
+     "trap": [
+      "只鎖腿，不管對手姿勢"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "面對從 De La Riva 發動的 Triangle，最早的防守空檔在哪裡？為什麼它最重要？",
+    "answer": "最早的空檔出現在腿還沒開始游動之前的 De La Riva guard 階段，也就是你感覺到 collar 握法把你的姿勢往下拉、sleeve 握法把你的手臂往外推的時候。這個空檔最重要，因為在這個階段維持姿勢能完全阻止 Triangle 進招。一旦對手的腿越過你的肩膀，防守難度就會呈倍數上升。在這個階段立刻恢復姿勢並進行抓握對抗，能徹底消除這個威脅。",
+    "safety_critical": false,
+    "answer_line": "腿還沒游過肩膀前先恢復姿勢",
+    "distractors": {
+     "plausible": [
+      "等腿越過肩膀再說",
+      "等 Triangle 鎖住再防守"
+     ],
+     "trap": [
+      "把對手的髖部往下壓來拖延"
+     ]
+    }
+   },
+   {
+    "question": "被 Triangle 困住之後，為什麼站起來是最有效的防守反應之一？",
+    "answer": "站起來能讓攻擊者無法形成有效鎖喉壓力所需的垂直角度。它藉由重力與你的身高優勢改變力學關係，把對手的腿部結構拉伸開來。站起來也讓你能用雙腿獲得結構性的 base，而不是只靠上半身力量硬撐。不過要注意比賽規則對於抱起與摔的限制，如果 Triangle 仍鎖著、你又跌坐回去，攻擊者仍有可能完成收招。",
+    "safety_critical": false,
+    "answer_line": "破壞角度、拉伸對手雙腿",
+    "distractors": {
+     "plausible": [
+      "坐著不動效果最好",
+      "光靠重力就能破鎖"
+     ],
+     "trap": [
+      "把對手摔下去破壞握法"
+     ]
+    }
+   },
+   {
+    "question": "如果被 Triangle 困住時感覺自己快要失去意識，該怎麼辦？",
+    "answer": "立刻用任何可用的方式 tap——手拍、腳拍或口頭喊出信號。絕對不要嘗試硬撐過一個血液勒頸，因為在頸動脈完全被壓迫後最快 8-12 秒內就可能失去意識，而且沒有可靠的方法能預測你何時會昏過去。如果感覺頭暈、視覺出現變化，或察覺認知能力受影響，要立刻 tap。你的訓練夥伴與自己的安全，都取決於及早察覺與誠實 tap 的態度。",
+    "safety_critical": true,
+    "answer_line": "立刻 tap，任何方式都可以",
+    "distractors": {
+     "plausible": [
+      "只有真的感到痛才 tap",
+      "憋氣硬撐拖時間"
+     ],
+     "trap": [
+      "硬撐過 choke 求生"
+     ]
+    }
+   },
+   {
+    "question": "hitchhiker escape 對抗 Triangle 的力學原理是什麼？",
+    "answer": "Hitchhiker escape 利用 Triangle 在方向性上的弱點，把身體轉離被困手臂那一側，並把被困的手臂直直伸向身後，像搭便車一樣。這個轉身動作讓你的肩膀滑到與攻擊者腿部結構垂直的位置，創造出讓頭與手臂能滑脫的空間。這個逃脫法的關鍵力學原理在於：Triangle 能雙側壓迫，卻無法有效阻止防守者朝正確方向轉身、並正確伸展手臂時的旋轉逃脫。",
+    "safety_critical": false,
+    "answer_line": "轉身離開、把手臂伸向身後",
+    "distractors": {
+     "plausible": [
+      "把手臂直接往上拉",
+      "直接往後 bridge"
+     ],
+     "trap": [
+      "轉向被困手臂那一側"
+     ]
+    }
+   },
+   {
+    "question": "stack pass 逃脫法為什麼有效？它的主要風險是什麼？",
+    "answer": "Stack pass 藉由把體重往前並偏向一側推壓，壓迫攻擊者的身體，讓對方無法維持鎖喉所需的垂直角度。在維持向前壓力的同時繞著對手身體走動，能破壞 Triangle 的幾何結構。主要風險在於，如果你只是直直往前 stack、沒有橫向移動，熟練的攻擊者仍能在你 stack 的同時維持角度並完成收招，而你只是白白扛著對方的體重。務必往側邊 stack，絕不要只是直直往前。",
+    "safety_critical": false,
+    "answer_line": "往側邊 stack、繞著走",
+    "distractors": {
+     "plausible": [
+      "先把對手的頭壓下去",
+      "坐回去把頭拉出來"
+     ],
+     "trap": [
+      "只直直往前 stack"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Triangle Choke/from De La Riva.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

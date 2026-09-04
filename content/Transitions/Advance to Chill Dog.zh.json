@@ -1,0 +1,269 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Advance to Chill Dog.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Advance to Chill Dog 的主要目標是什麼？",
+    "answer": "主要目標是從 New York 的位置控制推進到 Chill Dog 的進攻結構，讓小腿橫過對手的脖子來威脅 gogoplata。這能把控制轉化為立即的 submission 威脅，同時維持能防止逃脫的 overhook。",
+    "answer_line": "小腿抵頸，威脅 gogoplata",
+    "distractors": {
+     "plausible": [
+      "把對手 sweep 到上位",
+      "從 New York pass 到 mount"
+     ],
+     "trap": [
+      "放開 overhook 來空出雙手"
+     ]
+    }
+   },
+   {
+    "question": "Advance to Chill Dog 是從什麼位置開始的？",
+    "answer": "這個技巧從 Rubber Guard 系統中的 New York Bottom 開始。你必須已經建立深 overhook 控制、小腿橫過對手上背、同側手抓住自己小腿，並且對手的姿勢已完全被向前破壞，才能啟動這個轉換。",
+    "answer_line": "New York Bottom，overhook 已設好",
+    "distractors": {
+     "plausible": [
+      "Rubber Guard 的中立位置",
+      "Mission Control 下位"
+     ],
+     "trap": [
+      "任何有 overhook 的 closed guard"
+     ]
+    }
+   },
+   {
+    "question": "Advance to Chill Dog 需要哪些關鍵 grip？",
+    "answer": "全程最重要的錨點是肩膀貼緊腋下的深 overhook。一開始，同側手抓住自己靠近腳踝的小腿。轉換過程中，這隻手會放開來引導你的腳繞過脖子，然後再重新抓回小腿或腳踝，鎖住 Chill Dog 結構。",
+    "answer_line": "深 overhook 加小腿 grip",
+    "distractors": {
+     "plausible": [
+      "overhook 加 collar grip",
+      "underhook 加腳踝 grip"
+     ],
+     "trap": [
+      "放開 overhook 改抓兩條小腿"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試 Advance to Chill Dog 的最佳時機？",
+    "answer": "最佳時機是對手向前施壓，試圖把你壓平或恢復姿勢的時候。他們向前的動能會協助你穿腿的動作，創造出你的小腿橫過他們脖子所需的空間與力道。當對手挺直姿勢或向後仰時絕對不要嘗試。",
+    "answer_line": "對手向前施壓時",
+    "distractors": {
+     "plausible": [
+      "對手挺直姿勢時",
+      "對手靜止不動時"
+     ],
+     "trap": [
+      "對手向後仰時"
+     ]
+    }
+   },
+   {
+    "question": "對手把手撐在你髖部上阻止腿部穿過——你如何調整？",
+    "answer": "用你引導的那隻手剝開他們撐地的 grip，同時一氣呵成繼續穿腿。或者，用 kimura grip 威脅攻擊他們撐地的那隻手臂——這會迫使他們收回手臂防守，排除障礙。你也可以加大 overhook 壓力，進一步破壞他們的姿勢，削弱他們維持撐地的能力。",
+    "answer_line": "剝開 grip 或威脅 kimura",
+    "distractors": {
+     "plausible": [
+      "把他們的手推開後暫停",
+      "換到另一個位置"
+     ],
+     "trap": [
+      "放開 overhook 去對付那隻手"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換中，關鍵的髖部動作是什麼？",
+    "answer": "你的髖部必須朝 overhook 那一側旋轉，打開讓你的腿從對手背後移動到脖子周圍所需的角度。這個旋轉會把你的體重壓到對側髖部，並創造出通路。沒有這個髖部旋轉，無論柔軟度多好，腿都無法在物理上移動到所需的距離。",
+    "answer_line": "髖部朝 overhook 那側旋轉",
+    "distractors": {
+     "plausible": [
+      "髖部朝遠離 overhook 的方向旋轉",
+      "髖部與對手保持方正"
+     ],
+     "trap": [
+      "撐在遠側髖部並坐起來"
+     ]
+    }
+   },
+   {
+    "question": "如果 Chill Dog 被擋住，最好的連續攻擊選項是什麼？",
+    "answer": "如果在轉換途中被擋下：利用已抬起的腿設置 triangle、旋轉髖部攻擊被困手臂做 armbar，或是繼續髖部旋轉超過 Chill Dog 角度做 omoplata。如果對手完全逃脫：回到 New York，改為威脅 Invisible Collar 或 Zombie。關鍵是及早辨識失敗，順勢轉往其他選項，而不是硬撐失敗的 Chill Dog。",
+    "answer_line": "triangle、armbar 或 omoplata",
+    "distractors": {
+     "plausible": [
+      "回到 closed guard 重置",
+      "改用 De La Riva guard"
+     ],
+     "trap": [
+      "還是硬把腿推過去"
+     ]
+    }
+   },
+   {
+    "question": "在整個轉換過程中維持 overhook，如何影響對手的防守選項？",
+    "answer": "深 overhook 消除了他們主要的逃脫機制——抽手臂與恢復姿勢。手臂被困、姿勢被破壞的情況下，他們無法產生阻止穿腿所需的爆發性動作。只要 overhook 稍微鬆懈，就會立刻讓他們有空間把手臂抽回並站起，脫離整個 Rubber Guard 位置。",
+    "answer_line": "阻擋抽臂與恢復姿勢",
+    "distractors": {
+     "plausible": [
+      "只阻擋他們的 hip escape",
+      "阻止他們的腿移動"
+     ],
+     "trap": [
+      "鬆開 overhook 來誘使反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的身體姿勢顯示對手容易受到這個轉換攻擊？",
+    "answer": "脆弱的指標包括：頭部被壓低靠近你的胸口、體重向前而非向後驅動、被困手臂無法撐地或推開，以及髖部靠近你而非抬高。當你感覺到他們的體重完全投入向前、手臂深深被困時，立刻啟動——這些條件是最佳時機，可能不會持續太久。",
+    "answer_line": "頭低、體重前傾、手臂被壓制",
+    "distractors": {
+     "plausible": [
+      "對手挺直姿勢並放鬆",
+      "髖部抬高，手臂能自由撐地"
+     ],
+     "trap": [
+      "對手緊緊拉住 guard"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要強調連續流暢的動作，而不是分段執行？",
+    "answer": "分段執行中的每次停頓都會給對手時間辨識你的意圖並實施防守調整。連續流暢的動作能比他們的防守辨識與反應週期更快。等他們意識到 Chill Dog 的入場時，這個位置應該已經確立了。分段的嘗試也會洩露攻擊意圖，讓對手能提前防守。",
+    "answer_line": "搶在對手防守反應之前",
+    "distractors": {
+     "plausible": [
+      "讓教練看起來更流暢",
+      "轉換過程中節省體力"
+     ],
+     "trap": [
+      "讓你每一步都能檢查 grip"
+     ]
+    }
+   },
+   {
+    "question": "髖部柔軟度在這個技巧中扮演什麼角色？柔軟度有限時如何彌補？",
+    "answer": "髖部柔軟度決定你的小腿從背部位置移動到脖子位置的難易程度。柔軟度極佳時，腿幾乎不需要輔助就能自然穿過。柔軟度有限時，改用 Assisted Thread 變化式，用手物理輔助抬起並引導腳踝。你也可以透過 Crackhead Control 作為中間位置，這需要較小的活動範圍。",
+    "answer_line": "柔軟度不足時用 Assisted Thread",
+    "distractors": {
+     "plausible": [
+      "完全跳過這個轉換",
+      "更快速地硬推腿過去"
+     ],
+     "trap": [
+      "放開 overhook 換取更多空間"
+     ]
+    }
+   },
+   {
+    "question": "對手在穿腿途中開始抽出被困的手臂——你的即時反應是什麼？",
+    "answer": "立即收緊 overhook，把肩膀更深地驅入他們的腋下，並把手肘拉緊貼向肋骨。如果抽手臂的進度已經無法挽回，放棄 Chill Dog 的嘗試，改為把穿腿的那條腿甩過他們剛被解放的肩膀，轉入 triangle。他們抽手臂所創造的空間，正好是 triangle 入場所需要的，把他們的逃脫變成你的 submission 機會。",
+    "answer_line": "收緊 overhook 或改打 triangle",
+    "distractors": {
+     "plausible": [
+      "放手並重置位置",
+      "更用力推回 New York"
+     ],
+     "trap": [
+      "放開 grip 之後再重新建立"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手開始進行 Advance to Chill Dog 轉換，最早出現的辨識徵兆是什麼？",
+    "answer": "最早的徵兆是髖部朝 overhook 那一側旋轉。在下位選手放開小腿 grip 或開始穿腿之前，他們的髖部必須先旋轉，創造出腿部移動所需的角度。你會感覺到他們體重分佈的改變，以及腿部施加壓力方向的變化。這個旋轉會比實際的腿部動作早一到兩秒發生，給你關鍵的早期警訊窗口。",
+    "answer_line": "髖部朝 overhook 那側旋轉",
+    "distractors": {
+     "plausible": [
+      "小腿 grip 先放開",
+      "overhook 壓力突然下降"
+     ],
+     "trap": [
+      "對手的頭先動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼感覺到穿腿開始時，你應該避免向前施壓？",
+    "answer": "向前施壓會壓縮下位選手的小腿與你脖子之間的距離，讓穿腿更容易完成。你向前的驅動也會增加動能，被下位選手轉化到他們的腿部動作中。正確的反應永遠是把髖部向後驅動並挺直姿勢，增加小腿必須移動的距離，消除協助轉換的壓縮空間。向前施壓是這個位置中最常見的防守錯誤。",
+    "answer_line": "髖部後推並挺直姿勢",
+    "distractors": {
+     "plausible": [
+      "向前施壓悶住腿部",
+      "保持靜止等待結束"
+     ],
+     "trap": [
+      "向下壓來壓平他們的髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手放開小腿 grip 來引導腳繞過你的脖子——這創造了什麼防守機會？",
+    "answer": "放開小腿 grip 會暫時把他們的控制系統從三個錨點減少到兩個——只剩 overhook 和腿的位置。這是成功率最高的逃脫窗口，因為他們的腿此刻沒有支撐，引導的那隻手也正忙著。趁這個窗口，要嘛積極驅動髖部向後恢復姿勢，要嘛開始對被困手臂進行 corkscrew 抽臂。這個窗口大約持續一到兩秒，之後他們就會在 Chill Dog 結構中重新抓回小腿。",
+    "answer_line": "恢復姿勢或抽出手臂",
+    "distractors": {
+     "plausible": [
+      "立刻抓住他們的腳踝",
+      "等鎖完全成型再說"
+     ],
+     "trap": [
+      "向前推進他們的腿"
+     ]
+    }
+   },
+   {
+    "question": "Chill Dog 已經部分建立，小腿橫過你脖子側面但還沒鎖住——你的優先事項是什麼？",
+    "answer": "你的立即優先事項是阻止鎖被完成。用你空出的手抓住他們的腳踝或腳，在他們重新抓回小腿之前把它推離你的脖子。同時把頭轉向穿腿的那一側，用下巴與肩膀製造楔形阻擋，阻止小腿深入卡位。如果你無法把小腿撥開，就開始 stacking，把體重向前上方驅動壓平他們的髖部，消除維持這個位置所需的髖部抬高。",
+    "answer_line": "推開小腿、轉頭、stacking",
+    "distractors": {
+     "plausible": [
+      "等鎖完成再說",
+      "拉 guard 重置位置"
+     ],
+     "trap": [
+      "把頭轉離那條腿"
+     ]
+    }
+   },
+   {
+    "question": "防守方的頭部位置如何影響這個轉換的成功與否？",
+    "answer": "頭部位置至關重要，因為小腿必須橫過你的頸後才能建立 Chill Dog。如果你轉頭並把下巴收向穿腿的那一側，你會用下巴和肩膀創造出物理屏障，大幅增加小腿必須移動的距離。反之，讓頭部保持中立或轉離穿腿方向，會完全暴露你的頸後。積極的頭部定位可以增加好幾吋的移動距離，這往往是成功防守與防守失敗之間的差別。",
+    "answer_line": "下巴收向穿腿方向",
+    "distractors": {
+     "plausible": [
+      "頭部保持中立放鬆",
+      "把頭轉離那條腿"
+     ],
+     "trap": [
+      "立刻抬頭挺直姿勢"
+     ]
+    }
+   },
+   {
+    "question": "你已成功擋下 Advance to Chill Dog 並回到 New York Top——此時你的防守優先事項是什麼？",
+    "answer": "成功防守 Chill Dog 的推進後，立刻恢復你系統性的 New York Top 逃脫流程：拉寬 base 防止 sweep、開始對抓小腿的那隻手進行 grip fight，並透過髖部與胸口一起伸展來恢復姿勢。不要停留原地慶祝防守成功——下位選手會再次嘗試這個轉換，或改用 Invisible Collar 或 Zombie 等其他攻擊路徑。利用成功防守的氣勢，在對手重新建立進攻節奏之前推進你的逃脫。",
+    "answer_line": "拉寬 base、grip fight、恢復姿勢",
+    "distractors": {
+     "plausible": [
+      "休息並慶祝成功防守",
+      "等他們下一次嘗試"
+     ],
+     "trap": [
+      "保持靜止，維持位置"
+     ]
+    }
+   }
+  ]
+ }
+}

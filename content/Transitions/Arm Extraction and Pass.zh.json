@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Arm Extraction and Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm Extraction and Pass 的主要目標是什麼？",
+    "answer": "主要目標是清除卡住的手臂，因為它擋住了從 Crackhead Control 過渡到 side control 的路徑。透過抽出手臂並完成過渡，你能把一個動態的 turtle 控制位置，轉換成穩定、附帶對應分數與豐富降伏選項的 side control。",
+    "answer_line": "清除手臂，過渡到 side control",
+    "distractors": {
+     "plausible": [
+      "直接從 turtle 位置降伏",
+      "改設定 back take"
+     ],
+     "trap": [
+      "還沒過渡就硬求降伏"
+     ]
+    }
+   },
+   {
+    "question": "Arm Extraction and Pass 是從什麼位置開始的？",
+    "answer": "這個技巧從 Crackhead Control Top 開始，具體來說，是當你已經在對方髖部上建立 chair-sit 姿勢，但他的手臂卡在你和他身體之間，阻擋你直接過渡到 side control 的時候。",
+    "answer_line": "Crackhead Control Top，chair-sit 姿勢",
+    "distractors": {
+     "plausible": [
+      "turtle top 搭配 seatbelt grip",
+      "back control 搭配 body triangle"
+     ],
+     "trap": [
+      "side control 搭配 crossface"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試移動對手手臂之前，你必須先建立什麼？",
+    "answer": "你必須先建立肩膀壓制，把胸口的重量往前壓向他近側的肩胛骨。這個壓制動作會破壞他手臂和身體之間的結構連結，讓手臂鬆脫，而不需要靠握力去對抗他的抵抗。",
+    "answer_line": "用胸口重量壓制肩膀",
+    "distractors": {
+     "plausible": [
+      "先建立強力手腕 grip",
+      "先做近側手臂 underhook"
+     ],
+     "trap": [
+      "靠握力硬把手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "你正在過渡時，對手爆發性地把已被抽出的手臂撐地——你的立即反應是什麼？",
+    "answer": "在完成 pass 之前，立刻用 kimura grip 攻擊那隻撐地的手臂。伸展開的手臂容易受到肩關節攻擊。或者，也可以直接轉換到 north-south 過渡，完全避開那個 frame，而不是硬碰硬對抗它。",
+    "answer_line": "在撐地手臂上攻擊 kimura",
+    "distractors": {
+     "plausible": [
+      "硬闖完成 pass",
+      "重新建立肩膀壓制"
+     ],
+     "trap": [
+      "追著遠側手臂求 choke"
+     ]
+    }
+   },
+   {
+    "question": "嘗試這個技巧的最佳時機是什麼時候？",
+    "answer": "最佳時機是在對手剛防守完 Crackhead Control 的 back take 嘗試或 choke 威脅之後。他對這些威脅的防守反應會消耗他的體力，經常也會讓他伸展手臂，或讓他的 turtle 結構鬆脫，正好製造出抽手臂的機會。",
+    "answer_line": "在對方剛防守完 back take 之後",
+    "distractors": {
+     "plausible": [
+      "剛拿到 mount 之後立刻做",
+      "在展示任何威脅之前"
+     ],
+     "trap": [
+      "只在對方完全放鬆時做"
+     ]
+    }
+   },
+   {
+    "question": "導致這個技巧大多數失敗的關鍵錯誤是什麼？",
+    "answer": "關鍵錯誤是在還沒建立肩膀壓制之前，就想靠握力把手臂硬拉出來。和一隻有結構支撐的手臂硬拚，會變成一場消耗你體力的握力拉鋸戰，給對方時間反擊，而且面對抵抗很少能成功。",
+    "answer_line": "沒有肩膀壓制就硬拉手臂",
+    "distractors": {
+     "plausible": [
+      "過 pass 的速度太快",
+      "失去內側腿的 hook"
+     ],
+     "trap": [
+      "太早建立 crossface"
+     ]
+    }
+   },
+   {
+    "question": "在過渡過程中，你如何防止對手坐穿回到 guard？",
+    "answer": "在 pass 完成前的最後一刻，都要維持你的內側腿 hook。這個 hook 能透過控制他雙腿之間的空間，阻止他坐穿的嘗試。只有當你的髖部已經在過渡到 sprawl 式 side control 的時候，才能放開它。",
+    "answer_line": "內側腿 hook 撐到最後一刻",
+    "distractors": {
+     "plausible": [
+      "提早把髖部壓平",
+      "改用外側 hook"
+     ],
+     "trap": [
+      "為了加快 pass 而放開 hook"
+     ]
+    }
+   },
+   {
+    "question": "完成過渡到 side control 之後，你的第一控制優先順序應該是什麼？",
+    "answer": "遠側髖部控制是第一優先。你的近側手必須立刻擋住對手的遠側髖部，防止他插膝恢復 half guard。這比建立 crossface 更優先——先控制髖部，再調整上半身控制。",
+    "answer_line": "用近側手擋住遠側髖部",
+    "distractors": {
+     "plausible": [
+      "先建立 crossface",
+      "先控制遠側手腕"
+     ],
+     "trap": [
+      "追求遠側降伏"
+     ]
+    }
+   },
+   {
+    "question": "對手把手臂緊緊夾住身體，抵抗標準抽手臂法——你該如何調整？",
+    "answer": "改用 kimura 輔助抽手臂變化型。在被卡住的手臂上建立 kimura grip，威脅肩關節鎖。這個降伏威脅會逼他伸展手臂並防守那個鎖技，同時也會製造出清除手臂所需的空間。如果連 kimura 威脅本身都失敗，這時手臂也已經伸展到足以做標準抽手臂法的程度。",
+    "answer_line": "改用 kimura 輔助抽手臂",
+    "distractors": {
+     "plausible": [
+      "更用力硬做標準抽手臂法",
+      "放棄並重設回 turtle"
+     ],
+     "trap": [
+      "放開 grip 退回 guard"
+     ]
+    }
+   },
+   {
+    "question": "在製造抽手臂空間的髖部位移中，力量的關鍵方向是什麼？",
+    "answer": "髖部位移是朝對手的腿部方向移動，而不是遠離他的身體。這點違反直覺，因為你可能會以為要把髖部移開來製造空間。朝他腿部方向移動，同時維持胸口對他肩膀的壓力，會產生一股剪力，打開你的髖部和他軀幹之間的空隙，讓手臂得以通過。",
+    "answer_line": "把髖部移向對方腿部方向",
+    "distractors": {
+     "plausible": [
+      "把髖部移開以製造空間",
+      "把髖部往側邊移動"
+     ],
+     "trap": [
+      "把髖部往後拉來製造空隙"
+     ]
+    }
+   },
+   {
+    "question": "抽手臂成功了，但你安頓進 side control 時，對手立刻插膝——哪裡出了問題？該如何修正？",
+    "answer": "你在過渡階段沒有優先控制遠側髖部。在完成 crossface 或調整上半身之前，近側手必須先擋住對手的遠側髖部。要在過渡途中修正這個問題，立刻把你的近側膝蓋頂進他的髖部，阻擋插膝，同時讓手趕上去。或者，也可以接受 half guard 位置，從那裡繼續過 pass，而不是為了硬把膝蓋擋出去而失去一切。",
+    "answer_line": "把膝蓋頂進去擋住髖部",
+    "distractors": {
+     "plausible": [
+      "硬把膝蓋完全擋出去",
+      "重設回 Crackhead Control"
+     ],
+     "trap": [
+      "放棄位置去追 choke"
+     ]
+    }
+   },
+   {
+    "question": "這個技巧如何和 back take 嘗試一起，整合成一個威脅組合？",
+    "answer": "當對手一直在防守從 Crackhead Control 發動的 back take 嘗試時，抽手臂會變得更容易。當他把手肘收緊、保護頸部不被 choke 時，他的手臂常常會卡在一個位置，這個位置雖然擋住了 side control 的過渡，卻很容易被抽出。先威脅 back take，會逼出防守姿勢，讓抽手臂的成功率提高。關鍵是要判讀對手是承諾進入 turtle 防守，還是仍在積極 scramble。",
+    "answer_line": "先威脅 back take 來設局抽手臂",
+    "distractors": {
+     "plausible": [
+      "在任何威脅之前就先抽手臂",
+      "永遠同時嘗試兩者"
+     ],
+     "trap": [
+      "只全力進攻 back take"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 Arm Extraction and Pass 最早、也最有效的時機是什麼時候？",
+    "answer": "最早也最有效的防守空檔，是在肩膀壓制建立之前。當你感覺到攻擊者的胸口重量正往前壓向你的肩胛骨時，立刻放寬你的 base、把髖部朝壓力反方向繞開，並把手肘更緊地夾向肋骨。在這個階段防守，能阻止整條抽手臂連續動作的發展。",
+    "answer_line": "提早放寬 base、夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "等壓制建立後再防守",
+      "用握力和被卡住的手臂纏鬥"
+     ],
+     "trap": [
+      "立刻嘗試 granby roll"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者已經建立肩膀壓制，並抓住你的手腕——你最好的防守反應是什麼？",
+    "answer": "在這個階段，單純用手臂力量抵抗不太可能成功，因為肩膀壓制已經破壞了你手臂的結構支撐。改用時機導向的防守：等攻擊者把髖部移向你的腿部方向、製造抽手臂空間的那一刻，趁他內側腿 hook 壓力減弱時，爆發性地坐穿回 half guard。髖部位移的那一刻，正是他最脆弱的時候。",
+    "answer_line": "趁對方髖部位移時坐穿",
+    "distractors": {
+     "plausible": [
+      "硬把手腕 grip 扯開",
+      "不看時機立刻爆發"
+     ],
+     "trap": [
+      "嘗試 granby roll 逃開"
+     ]
+    }
+   },
+   {
+    "question": "你如何分辨對方正在嘗試 Arm Extraction and Pass，而不是從 Crackhead Control 發動的標準 back take？",
+    "answer": "關鍵的辨識線索是攻擊者重心轉移的方向。做 back take 時，他們會把重心側向轉移，以建立 hook 和 seat belt 控制。做抽手臂時，他們會把重心向前壓向你的肩胛骨，同時近側的手伸向你的手腕或前臂。這種把胸口重心往前壓向肩膀壓制的動作，是分辨抽手臂和 back take 嘗試最明確的訊號。",
+    "answer_line": "胸口向前壓向肩膀",
+    "distractors": {
+     "plausible": [
+      "側向重心轉移去建立 hook",
+      "伸手去抓遠側腿"
+     ],
+     "trap": [
+      "只要抓手腕就代表在抽手臂"
+     ]
+    }
+   },
+   {
+    "question": "抽手臂已經成功，攻擊者正在過渡到 side control——你的緊急防守是什麼？",
+    "answer": "在攻擊者的髖部從 chair-sit 過渡到 side control sprawl 的那一刻，立刻嘗試把你的近側膝蓋插進雙方身體之間。這是完整 side control 建立前的最後空檔。你的膝蓋必須搶在他的近側手擋住你遠側髖部之前插進去。如果插膝成功，你就恢復了帶有進攻選項的 half guard。如果失敗，就把重心放在立刻做 frame 和 side control 逃脫連續動作上，而不是嘗試回到 turtle。",
+    "answer_line": "在髖部被擋住前插膝",
+    "distractors": {
+     "plausible": [
+      "橋起來滾動逃脫",
+      "用手在遠側髖部做 frame"
+     ],
+     "trap": [
+      "嘗試轉身回 turtle"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 granby roll 防守在對抗 Arm Extraction and Pass 時特別有風險？",
+    "answer": "granby roll 需要你在翻滾過程中倒轉身體，短暫暴露背部。對抗抽手臂的 setup 時，攻擊者已經把胸口壓力向前壓在你的肩膀上，並處於能跟上你翻滾的位置。如果他在你做 granby 時維持胸口接觸，就能在你的背部隨著翻滾轉過他的控制範圍時，直接過渡到帶 hook 的 back control。granby 最有效的時機，是在胸口壓力完全建立之前、攻擊者的重心還在安頓的時候。",
+    "answer_line": "翻滾會把背部暴露給對方胸口",
+    "distractors": {
+     "plausible": [
+      "granby 永遠能破解 side control",
+      "手肘控制能消除翻滾的風險"
+     ],
+     "trap": [
+      "不管時機如何都硬做翻滾"
+     ]
+    }
+   }
+  ]
+ }
+}

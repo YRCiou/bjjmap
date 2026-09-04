@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "50-50 Guard轉Outside Ashi這個轉換的主要目標是什麼？",
+        "answer": "主要目標是打破50-50的對稱僵局，抽出你被困住的腿，建立不對稱的outside ashi-garami configuration。這能創造出一個在50-50 configuration中不存在的攻擊角度，暴露對手的腳跟以進行outside heel hook攻擊，同時把你自己的腿移出危險。",
+        "answer_line": "抽腿以建立outside ashi",
+        "distractors": {
+          "plausible": [
+            "直接從50-50終結heel hook",
+            "改為pass到side control"
+          ],
+          "trap": [
+            "放開grip以換腿"
+          ]
+        }
+      },
+      {
+        "question": "你從什麼位置開始50-50 Guard轉Outside Ashi的轉換？",
+        "answer": "這個轉換從50-50 Guard的top位置開始，雙方的腿都以對稱configuration互相纏繞。你透過優勢的髖部壓力或inside control取得top位置，讓你在啟動轉換時擁有稍微更好的槓桿優勢。",
+        "answer_line": "50-50 Guard，top位置",
+        "distractors": {
+          "plausible": [
+            "50-50 Guard，bottom位置",
+            "Inside ashi-garami top"
+          ],
+          "trap": [
+            "已經處於outside ashi"
+          ]
+        }
+      },
+      {
+        "question": "執行50-50 Guard轉Outside Ashi所需的關鍵grip是什麼？",
+        "answer": "你需要在整個轉換過程中，牢牢地雙手控制對手被困住那條腿的腳跟／腳踝。慣用手用手指朝向腳趾方向包覆阿基里斯腱，輔助手則控制腳踝關節。這個grip在抽腿過程中必須不放開地維持住，以防止對手逃脫或反轉換。",
+        "answer_line": "雙手控制腳跟／腳踝",
+        "distractors": {
+          "plausible": [
+            "只用單手抓腳踝",
+            "包覆腳趾而非阿基里斯腱"
+          ],
+          "trap": [
+            "放開grip，改抓衣領"
+          ]
+        }
+      },
+      {
+        "question": "嘗試這個轉換的最佳時機窗口是什麼時候？",
+        "answer": "最佳時機是對手投入防守他們的腳跟，或維持靜態的50-50結構，而非主動轉換時。他們的防禦性專注，會創造出你的抽腿只會遇到最小阻力的時刻。同時，也要在你已建立優勢腳跟grip、且inside leg有足夠自由度可以開始旋轉時嘗試。",
+        "answer_line": "對手靜態，防守腳跟中",
+        "distractors": {
+          "plausible": [
+            "對手猛烈進攻時",
+            "grip fight剛開始時"
+          ],
+          "trap": [
+            "在對手自己轉換的過程中"
+          ]
+        }
+      },
+      {
+        "question": "為什麼內旋髖部對成功抽腿至關重要？",
+        "answer": "內旋髖部能創造出一條圓弧形的抽腿路徑，瓦解對手的triangle結構，而不是與之對抗。直接向後拉會強化他們的grip，並暴露你的腳跟給反制heel hook。這種旋轉能讓你的腿沿著阻力最小的路徑穿過entanglement，即使面對緊密的控制，也能完成抽腿。",
+        "answer_line": "旋轉髖部，別直線拉",
+        "distractors": {
+          "plausible": [
+            "用力向後直拉腿",
+            "向下壓膝蓋破grip"
+          ],
+          "trap": [
+            "快速向後猛拉腿"
+          ]
+        }
+      },
+      {
+        "question": "對手維持著極為緊密的inside control——你該如何調整這個轉換？",
+        "answer": "當對手有緊密的inside control時，不要強行執行標準的抽腿動作。首先透過髖部移動、grip fight對抗他們控制的腿，或小幅度的hip escape來製造空間，鬆開他們的triangle。如果無法製造空間，考慮其他轉換選項，例如在他們過度投入inside control時進行back take，或改用能順應他們grip而非對抗它的inside ashi entry。",
+        "answer_line": "製造空間，不要硬來",
+        "distractors": {
+          "plausible": [
+            "透過控制強行抽腿",
+            "直接改成heel hook"
+          ],
+          "trap": [
+            "放棄grip，站起來"
+          ]
+        }
+      },
+      {
+        "question": "完成轉換後你應該達到什麼身體角度，為什麼？",
+        "answer": "你應該達到與對手身體呈45到90度（垂直或斜角）的角度，胸口面對他們被困的腿。這個角度能最大化heel hook的槓桿優勢，透過figure-4 configuration建立最佳控制，並讓對手難以逃脫或建立防禦性frame。平行的身體位置會大幅降低submission的有效性。",
+        "answer_line": "垂直角度，45到90度",
+        "distractors": {
+          "plausible": [
+            "平行以獲得更多控制",
+            "平躺，面朝天花板"
+          ],
+          "trap": [
+            "方正對齊，胸貼胸"
+          ]
+        }
+      },
+      {
+        "question": "練習者在轉換時刻最常犯的最大錯誤是什麼？",
+        "answer": "最大的錯誤是放開腳跟grip去專注於抽腿。沒有腳跟控制，對手就會完全逃脫，或建立起自己更優勢的entanglement。這個grip比完美的腿部位置更重要——要在整個過程中至少維持一手在他們的腳跟上，並調整你的抽腿路徑來配合這個grip，而不是放開它。",
+        "answer_line": "過早放開腳跟grip",
+        "distractors": {
+          "plausible": [
+            "抽腿動作太急",
+            "忽略髖部角度"
+          ],
+          "trap": [
+            "放手去抓對方另一條腿"
+          ]
+        }
+      },
+      {
+        "question": "對手在你抽腿時開始跟你搶著建立他們自己的outside ashi——你該怎麼做？",
+        "answer": "這是威脅性最高的反制。你必須立即評估誰在這場競賽中領先。如果你已經清開你的腿並正在建立figure-4，不停頓地把腿甩過他們的髖部以加速完成。如果對手領先，完全放棄這次轉換，重新建立50-50，而不是最終落入他們的outside ashi中。關鍵在於，你必須在辨識出這場競賽的一秒內做出這個判斷。",
+        "answer_line": "評估局勢，加速或撤退",
+        "distractors": {
+          "plausible": [
+            "不論如何都加速",
+            "放慢下來重新評估grip"
+          ],
+          "trap": [
+            "繼續堅持原本的計畫"
+          ]
+        }
+      },
+      {
+        "question": "這個轉換如何融入更廣泛的leg lock系統層級中？",
+        "answer": "50-50轉outside ashi的轉換是打破位置僵局、開啟通往更優勢entanglement路徑的關鍵動作。Outside ashi本身是過渡性的，能通往saddle（最高控制力）或inside ashi（最高終結率）。理解這個轉換，對於想在leg lock系統中流暢推進、而不是卡在50-50交手中的練習者而言至關重要。",
+        "answer_line": "通往saddle、inside ashi的入口",
+        "distractors": {
+          "plausible": [
+            "最終的終點位置",
+            "只能通往kneebar"
+          ],
+          "trap": [
+            "死路一條，無其他選項"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正在啟動50-50轉outside ashi的轉換，最早的辨識線索是什麼？",
+        "answer": "最早的線索是對手放開或鬆開他們的inside leg control。在正常的50-50中，雙方都維持緊密的inside control。當對手刻意放鬆他們的triangle configuration時，這代表抽腿的第一個機械步驟已經開始。這個線索比髖部旋轉早一到兩秒出現，能給你最大的防守窗口。",
+        "answer_line": "對手鬆開inside control",
+        "distractors": {
+          "plausible": [
+            "對手抓住你的衣領",
+            "對手的髖部已經在旋轉"
+          ],
+          "trap": [
+            "對手收緊triangle"
+          ]
+        }
+      },
+      {
+        "question": "對手的髖部已經開始內旋——現在收緊inside control是否已經太遲？",
+        "answer": "一旦髖部旋轉已經開始，收緊inside control的成功率就會變低，因為你是在對抗圓弧形抽腿的momentum。在這個階段，把你的防守策略從防止轉為反攻（搶著建立你自己的outside ashi）或打亂（向前driving以stack對手）。在這個階段嘗試inside control會浪費體力，通常也無法對抗一個已經投入的轉換。",
+        "answer_line": "太遲了，改反攻或stack",
+        "distractors": {
+          "plausible": [
+            "立即收緊control",
+            "被動等待並重新評估"
+          ],
+          "trap": [
+            "硬是強行做inside control"
+          ]
+        }
+      },
+      {
+        "question": "為什麼剝除對手的腳跟grip即使無法阻止抽腿，仍是有效的防守策略？",
+        "answer": "沒有對你腿部的腳跟控制，對手轉換到outside ashi後，大部分的進攻目的就會喪失。即使他們完成了位置改變，他們抵達outside ashi後也沒有能立即威脅heel hook所需的grip。這迫使他們必須從新的位置重新建立grip，給你時間進行逃脫或反entanglement。腳跟grip是位置控制與submission威脅之間的橋樑。",
+        "answer_line": "移除submission威脅",
+        "distractors": {
+          "plausible": [
+            "完全阻止轉換",
+            "只是減緩旋轉速度"
+          ],
+          "trap": [
+            "忽略grip，去擋髖部"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候搶著建立你自己的outside ashi，是正確的防守選擇，而不是嘗試阻止抽腿？",
+        "answer": "當你意識到inside control的防止已經失敗（對手的髖部旋轉正在進行中），但他們的腿尚未完全清出entanglement時，就搶著反轉換。這個中段階段的窗口，是雙方都處於轉換中、位置最為流動的時候。如果你等到他們的figure-4已經建立，反轉換就會變得困難得多，因為他們已經取得結構性的控制。",
+        "answer_line": "轉換中段，figure-4之前",
+        "distractors": {
+          "plausible": [
+            "他們一抓腳跟就開始",
+            "等他們固定figure-4之後"
+          ],
+          "trap": [
+            "等他們完成才行動"
+          ]
+        }
+      },
+      {
+        "question": "是什麼讓被動防守成為對這個轉換嘗試最糟糕的回應？",
+        "answer": "被動防守會讓對手不受阻礙地完成轉換的每個階段——放開、旋轉、穿繞、建立hook，以及達成角度。完成的outside ashi會給予他們heel hook入口、垂直角度，以及緊密的figure-4控制。到那時，你是在防守一個submission，而不是防止一個位置改變。任何主動的回應，即使只是部分成功，都能降低他們最終位置的品質。",
+        "answer_line": "讓對手不受阻地完成",
+        "distractors": {
+          "plausible": [
+            "為之後的逃脫保留體力",
+            "爭取時間規劃反制"
+          ],
+          "trap": [
+            "保持不動，相信你的base"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/50-50 Guard to Outside Ashi.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

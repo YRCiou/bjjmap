@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "Twister 主要攻擊哪些解剖構造，相對的力量又是如何形成這個 submission 機制的？",
+   "answer": "Twister 主要透過相對的旋轉力量攻擊胸椎，其次是頸椎。figure-four 鎖腿把對手的髖部固定朝向一個方向，而手臂控制則把肩膀與頭部往相反方向旋轉。這會在胸椎上形成類似開瓶器的擠壓，壓迫椎間盤並拉伸脊椎韌帶。相較於頸椎，胸椎的旋轉活動範圍有限，因此這股分散在多節椎骨上的扭力，會在任何單一結構達到破壞極限之前就先產生逼降的壓力。胸口則是這兩股相對力量匯聚的支點。",
+   "safety_critical": false,
+   "answer_line": "胸椎開瓶器式旋轉",
+   "distractors": {
+    "plausible": [
+     "主要目標是壓迫頸部",
+     "光靠鎖髖就能逼降"
+    ],
+    "trap": [
+     "只針對肩關節"
+    ]
+   }
+  },
+  {
+   "question": "從 Russian Cowboy 完成 Twister，與從已建立的 Truck 完成，兩者在機制上有什麼關鍵差異？",
+   "answer": "從 Russian Cowboy 出發，你必須先把單邊不對稱的 hook 轉換成 figure-four 鎖腿，這會製造出一個對手可以趁機防守的脆弱轉換窗口。Truck 位置則已經建立好 figure-four，所以你可以跳過這個轉換步驟，直接進行上半身控制與旋轉。Russian Cowboy 的路徑要求你在穿腿的過程中維持胸背貼合，防止對手趁轉換的空隙逃脫，而從 Truck 出發時，位置已經穩定，可以直接進入完成序列。",
+   "safety_critical": false,
+   "answer_line": "先把 hook 轉成 figure-four",
+   "distractors": {
+    "plausible": [
+     "Truck 需要轉換，RC 不用",
+     "兩者都直接跳到旋轉"
+    ],
+    "trap": [
+     "為了省時間趕著穿腿"
+    ]
+   }
+  },
+  {
+   "question": "當你嘗試穿空手那條腿完成 figure-four 時，對手開始向前翻滾——你該如何調整？",
+   "answer": "利用對手向前翻滾的動能為你所用：讓你的胸口跟著這個翻滾動作，同時在這個過程中把你空手的那條腿穿過對手的身體。他的翻滾實際上正好製造出你的腿需要穿越的空間。全程維持你的 seatbelt grip，順著這個翻滾進入已建立的腿部纏繞位置。關鍵是靠胸口壓力與 grip 保持連結，而不是嘗試阻止對手的翻滾，這樣就能有效地把對手的逃脫嘗試轉換成你完成 figure-four 的機會。",
+   "safety_critical": false,
+   "answer_line": "順著翻滾，同步穿腿",
+   "distractors": {
+    "plausible": [
+     "阻止翻滾，重新調整位置",
+     "鬆開 grip 重新定位"
+    ],
+    "trap": [
+     "硬拚翻滾並用力往回拉"
+    ]
+   }
+  },
+  {
+   "question": "在 Russian Cowboy 中，必須滿足哪些條件才應該投入嘗試 Twister Finish？",
+   "answer": "單邊 hook 必須深深勾過對手的大腿內側，你的腳跟要拉向自己的臀部。Seatbelt 或等效的上半身控制必須牢固，維持胸背貼合以防止分離。對手近側的手臂必須被控制或困住，以防止他在轉換過程中撐地。你空手的那條腿必須放在身後，並有清楚的路徑可以穿過對手身體。對手應該處於側身狀態、脊椎暴露，且無法建立能夠阻擋 figure-four 轉換的防守姿勢。",
+   "safety_critical": false,
+   "answer_line": "深 hook、seatbelt、控制手臂",
+   "distractors": {
+    "plausible": [
+     "只要 hook 夠深就夠了",
+     "對手趴平準備好即可"
+    ],
+    "trap": [
+     "即使對手手臂是自由的也硬做"
+    ]
+   }
+  },
+  {
+   "question": "為什麼完成的施壓過程至少要花五到七秒，速度太快會有什麼後果？",
+   "answer": "Twister 透過相對的旋轉力量攻擊脊椎，而脊椎在突然的扭力下可能受到災難性的傷害。快速施壓可能在訓練夥伴還來不及察覺危險並拍降之前，就造成椎間盤突出、椎骨骨折、韌帶損傷，甚至永久性神經損傷。花五到七秒漸進式施壓，能讓夥伴感覺到這個 submission 正在成形、評估自己柔軟度的極限，並在到達危險門檻之前安全拍降。脊椎不像手肘這類關節具有保護機制，因此漸進式施壓是絕對必要的安全要求。",
+   "safety_critical": true,
+   "answer_line": "慢慢施壓，讓夥伴能拍",
+   "distractors": {
+    "plausible": [
+     "3 秒已經算慢了",
+     "只有頸部需要注意"
+    ],
+    "trap": [
+     "為求效果突然施壓"
+    ]
+   }
+  },
+  {
+   "question": "對手抓住自己的腿來阻擋 figure-four 完成——你該用什麼策略破除他的 grip？",
+   "answer": "對他抓握的手腕採用二對一控制：把你的雙手都放在他的手腕或前臂上，用你的雙臂合力把他的 grip 從腿上剝開，對抗他的單手 grip。如果他的 grip 強到無法直接破除，就切換攻擊角度，改從相反方向嘗試穿腿，或是從既有的 Russian Cowboy 控制轉換成 rear naked choke 的設置或 crucifix 的進入。絕對不要為了純粹拚破他的 grip 而犧牲你的背後控制位置。",
+   "safety_critical": false,
+   "answer_line": "二對一剝開他的 grip",
+   "distractors": {
+    "plausible": [
+     "反覆用單手撬開",
+     "同一個角度更用力硬來"
+    ],
+    "trap": [
+     "為了破 grip 放棄背後控制"
+    ]
+   }
+  },
+  {
+   "question": "在施加 finish 時，如何分辨你做的是正確的 Twister，還是不小心變成危險的頸部 crank？",
+   "answer": "正確的 Twister 是靠固定的髖部對抗旋轉的肩膀，在胸椎上形成分散開來的旋轉壓迫。遠側的肩膀必須被大幅拉過對手身體，同時控制頭部的手臂引導旋轉方向。你的夥伴應該會感覺到肋骨與胸椎受到壓力。頸部 crank 則是在沒有足夠髖部控制、或把力量完全集中在頸部的情況下，孤立地對頸椎施壓。如果對手回報的只有頸部疼痛而沒有軀幹受壓的感覺，代表你做的是 crank 而不是 twist。可以透過確認你的腿部 figure-four 是不是那個固定支點、肩膀是不是主要的施力方向來驗證。",
+   "safety_critical": true,
+   "answer_line": "要感覺到肋骨與胸椎受壓",
+   "distractors": {
+    "plausible": [
+     "只要頸部痛就代表鎖死了",
+     "不需要控制髖部"
+    ],
+    "trap": [
+     "為求 finish 用力扭頭"
+    ]
+   }
+  },
+  {
+   "question": "從 Russian Cowboy 投入 Twister Finish 的最佳時機窗口是什麼時候？",
+   "answer": "最佳時機是在對手已經投入某個會讓脊椎暴露於旋轉之下的防守姿勢之後，通常是他緊縮成 turtle、用雙手防守頸部而不是雙腿的時候。這種防守上的取捨代表他無法同時防守 figure-four 穿腿與上半身旋轉。此外，當對手在 Russian Cowboy 中待得夠久、開始疲勞時，這個窗口也會打開，因為疲勞會降低他防守反應的爆發力。如果對手還很有體力時就太早嘗試完成，可能會完全丟掉這個位置。",
+   "safety_critical": false,
+   "answer_line": "他防頸不防腿的時候",
+   "distractors": {
+    "plausible": [
+     "只在對手體力耗盡後",
+     "一旦他趴平就出手"
+    ],
+    "trap": [
+     "趕在他縮成 turtle 之前搶快"
+    ]
+   }
+  },
+  {
+   "question": "如果你已經建立好 figure-four，但無法確保頭部控制，導致 Twister Finish 被擋下，還有哪些連續進攻可用？",
+   "answer": "在 figure-four 已固定但頭部控制被擋下的情況下，你可以轉攻對手被困住的腿，發動 calf slicer；嘗試把對手雙腿撐開的 banana split；鬆開 figure-four、建立雙 hook 轉換成標準的背後控制；或是從不同角度把手臂繞到頸部，威脅 guillotine choke。figure-four 的腿部位置也能讓你在維持控制的同時，繼續纏鬥爭取頭部控制，或等待對手出現防守失誤、重新打開 Twister 的路徑。",
+   "safety_critical": false,
+   "answer_line": "改攻 calf slicer 或 banana split",
+   "distractors": {
+    "plausible": [
+     "不計代價硬取頭部控制",
+     "全部放開重新開始"
+    ],
+    "trap": [
+     "放開雙腿去追頸部"
+    ]
+   }
+  },
+  {
+   "question": "完成旋轉時，你的雙臂各自製造哪個方向的力，這與髖部的固定支點如何互相作用？",
+   "answer": "你在頭部下方那隻手臂以捲曲的動作把對手的頭部拉向他遠側的髖部，而上方那隻手臂則把他遠側的肩膀拉過身體、朝你的胸口方向。這兩股力量結合起來，會依你從哪一側攻擊，讓上半身產生順時針或逆時針的旋轉。這個旋轉力與固定對手髖部朝向相反方向的 figure-four 鎖腿互相對抗。這股對抗的旋轉力所產生的開瓶器效應，會在這兩股相反的旋轉力之間壓迫胸椎椎骨。你的胸口則是這些力量匯聚的支點。",
+   "safety_critical": false,
+   "answer_line": "頭與肩往相反方向拉",
+   "distractors": {
+    "plausible": [
+     "頭與肩往同一方向拉",
+     "只把肩膀往下壓，不管頭部"
+    ],
+    "trap": [
+     "把頸部直接猛拉向後"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "為什麼阻止 figure-four 鎖腿比對抗頭部與肩膀控制更重要？",
+   "answer": "figure-four 鎖腿是整個 Twister submission 的基礎，因為它把對手的髖部固定住，形成上半身旋轉得以對脊椎產生壓迫的固定支點。沒有這個髖部固定支點，攻擊者的上半身旋轉只會讓整個身體一起轉動，而不會在脊椎上產生相對的力量。頭部與肩膀的控制可以被反覆對抗，但一旦 figure-four 鎖死、髖部固定支點建立起來，攻擊者就有了一個可以持續操作 finish 的永久平台。優先處理雙腿，能從根本上消除這個 submission 的機制基礎。",
+   "safety_critical": false,
+   "answer_line": "Figure-four 才是固定支點",
+   "distractors": {
+    "plausible": [
+     "頭部控制比較重要",
+     "兩者同樣關鍵"
+    ],
+    "trap": [
+     "不管腿，只顧對抗 grip"
+    ]
+   }
+  },
+  {
+   "question": "攻擊者已經鎖好 figure-four，但還沒有建立頭部控制——你最好的防守順序是什麼？",
+   "answer": "在 figure-four 已鎖死但頭部控制還沒建立的情況下，立刻把雙臂緊收貼身，不讓對手碰到你遠側的手腕與肩膀。同時設法用身體爆發式伸直，並用雙手把勾住你的那條腿推開，藉此破壞 figure-four。如果 figure-four 鬆動，立刻抽出被困住的腿並轉身面向攻擊者，恢復 half guard。如果儘管你努力，figure-four 仍然守住，就維持雙臂緊收的紀律，逼攻擊者跟你手部纏鬥，一邊爭取時間一邊繼續設法抽腿。最糟的選項是把手臂伸離身體，那會讓你遠側的手臂暴露在被拉過身體的風險之下。",
+   "safety_critical": false,
+   "answer_line": "收緊雙臂，伸直破鎖",
+   "distractors": {
+    "plausible": [
+     "等對手體力耗盡",
+     "抓住自己的腳來防守"
+    ],
+    "trap": [
+     "把遠側手臂伸離身體"
+    ]
+   }
+  },
+  {
+   "question": "防守從 Russian Cowboy 出發的 Twister 時，為什麼應該轉身面向攻擊者而不是轉身離開？",
+   "answer": "轉身離開攻擊者，恰好會製造出 Twister 所需要的髖部與肩膀之間的旋轉分離。你的翻滾動作反而會幫攻擊者製造出他需要對抗你脊椎的扭力。轉身面向攻擊者則正好相反：這會讓你的肩膀與髖部朝向同一方向，消除那個相對的旋轉角度，並讓你的胸口靠近攻擊者，有機會恢復 half guard。此外，轉身面向對手也會破壞攻擊者的胸背貼合，可能阻止他空手那條腿穿過你身體去完成 figure-four。",
+   "safety_critical": false,
+   "answer_line": "轉身面對，對齊髖肩",
+   "distractors": {
+    "plausible": [
+     "直接向上 bridge 翻過去",
+     "方向其實不太重要"
+    ],
+    "trap": [
+     "轉身離開以製造空間"
+    ]
+   }
+  },
+  {
+   "question": "在 Twister 的過程中，到什麼時間點應該優先選擇拍降而不是繼續嘗試逃脫？",
+   "answer": "一旦 figure-four 的髖部固定支點與頭肩控制都已建立，只要你第一次感覺到胸椎緊繃或脊椎旋轉，就應該立刻拍降。與關節鎖不同，關節鎖你可以感覺到壓力在單一關節上逐漸累積，脊椎的壓迫則會分散在多節椎骨上，可能幾乎沒有預警就從不舒服變成受傷。如果你感覺到上半身正在被朝固定不動的髖部反方向旋轉，而你的逃脫嘗試無法破壞任何一個控制點，就要毫不猶豫地拍降。繼續對抗一個已鎖死的 Twister，會有椎間盤突出、椎骨骨折與永久性神經損傷的風險。",
+   "safety_critical": true,
+   "answer_line": "一感到胸椎緊繃就拍",
+   "distractors": {
+    "plausible": [
+     "只有在痛到很嚴重時才拍",
+     "撐到很緊之前繼續逃"
+    ],
+    "trap": [
+     "撐著看看，脊椎很耐操"
+    ]
+   }
+  },
+  {
+   "question": "從 Russian Cowboy 出發、正在被嘗試 Twister Finish 時，最早的辨識線索是什麼？",
+   "answer": "最早的線索是攻擊者空手的那條腿離開地面，開始朝你的髖部方向甩過來。在標準的 Russian Cowboy 中，空手那條腿會撐在攻擊者身後作為 base。當那條腿抬起時，就代表他正在嘗試 figure-four 穿腿，準備把 Russian Cowboy 轉換成 Twister 的路徑。第二個早期線索是攻擊者的 seatbelt grip 出現變化，同時髖部往前施加更多壓力，這是為了製造他穿腿所需要的空間。察覺這些線索並立刻抓住自己的腿阻擋穿腿，是勝率最高的防守時機。",
+   "safety_critical": false,
+   "answer_line": "他空手那條腿離地",
+   "distractors": {
+    "plausible": [
+     "他把空手那條腿撐得更寬",
+     "他把更多體重往下移"
+    ],
+    "trap": [
+     "不理會腿部動作，只看手"
+    ]
+   }
+  }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Twister/from Russian Cowboy.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

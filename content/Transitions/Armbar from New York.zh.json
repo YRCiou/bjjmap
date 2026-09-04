@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Armbar from New York.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 New York 啟動 Armbar 的最佳時機是什麼？",
+    "answer": "理想的時機是對手已經部分恢復 posture，但手臂仍被困在 overhook 裡——他們有足夠的空間感到安心，但還不足以真正把手臂抽出來。這會造成一種結構上的破綻：對手的手臂橫跨在你的中線，base 正往後移動，讓他們容易被髖部旋轉所威脅。太早啟動（posture 還完全被破壞時）會浪費既有的 rubber guard 控制，等太久則會讓對手完全恢復 posture 並抽出手臂。",
+    "answer_line": "posture 正回升，手臂仍被困",
+    "distractors": {
+     "plausible": [
+      "posture 一破就立刻攻擊",
+      "等對手完全恢復 posture"
+     ],
+     "trap": [
+      "放開 overhook 重設握法"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試從 New York 做 Armbar 之前，必須具備哪些條件？",
+    "answer": "必須具備五個條件：深的 overhook、肩膀貼腋窩以孤立手臂，靠脛骨壓在背上維持 posture 破壞的狀態，被困的手臂橫跨在你的中線而不是收回，足夠的髖部柔軟度以完成腿部跨過頭部的橫掃，以及主動收緊核心以驅動髖部旋轉。少了任何一個條件，成功機率都會大幅下降，並可能讓你暴露在反制之下。",
+    "answer_line": "深 overhook 加上破壞的 posture",
+    "distractors": {
+     "plausible": [
+      "鬆的 overhook 就夠了",
+      "posture 破了、手臂卻完全自由"
+     ],
+     "trap": [
+      "跳過脛骨控制，求快"
+     ]
+    }
+   },
+   {
+    "question": "從 New York 轉換到 Armbar 的過程中，最關鍵的髖部動作是什麼？",
+    "answer": "垂直的髖部旋轉是唯一最關鍵的動作。你必須把髖部從打 guard 時的角度（大致與對手平行）旋轉到與對手肩關節垂直相鄰的角度。這個旋轉必須在腿橫跨頭部之前完成，而不是同時進行。若沒有先做好正確的髖部角度就急著把腿甩過去，會做出一個鬆散的 Armbar，你的髖部離肩膀太遠，無法產生有效的伸展槓桿。",
+    "answer_line": "先把髖部旋轉到垂直",
+    "distractors": {
+     "plausible": [
+      "先甩腿，再旋轉髖部",
+      "讓髖部保持與對手平行"
+     ],
+     "trap": [
+      "立刻急著把腿甩過去"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 Armbar 時，對手把空出的手撐在墊子上——你該如何調整？",
+    "answer": "撐手代表對手正試圖建立 frame 來抵抗髖部旋轉，或者想撐地做 stack 防守。立刻用你空出的手控制對手撐地的手腕，破壞對手的 base。如果碰不到手腕，就加快髖部旋轉與腿部橫掃的速度，趁對手還來不及產生有效的 stack 壓力前，把 Armbar 建立起來。對手撐地的手臂現在也已經脫離了身體，如果主攻被防守下來，可能會打開第二個 Armbar 或 kimura 的機會。",
+    "answer_line": "控制對手撐地的手腕",
+    "distractors": {
+     "plausible": [
+      "不理它，繼續旋轉",
+      "改抓對手較遠側的腿"
+     ],
+     "trap": [
+      "放開 overhook 去抓那隻手"
+     ]
+    }
+   },
+   {
+    "question": "當腿橫跨過對手臉部之後，你必須建立什麼樣的握法配置？",
+    "answer": "轉換成雙手握手腕，對手的拇指朝向天花板。雙手都要控制在靠近手腕關節的位置，把手臂緊緊拉向你的胸口中線。拇指朝上的方向，能製造出肘關節最脆弱的角度，因為它讓過伸的平面直接對齊你髖部抬升的力量方向。避免抓前臂中段，那會給對手槓桿空間，讓他們有辦法旋轉脫離 submission。",
+    "answer_line": "雙手握手腕，拇指朝上",
+    "distractors": {
+     "plausible": [
+      "單手抓前臂中段",
+      "拇指朝下握手腕"
+     ],
+     "trap": [
+      "抓 sleeve，不抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "在朝 Armbar 收尾施力時，力量應該朝哪個方向作用？",
+    "answer": "力量應同時朝兩個協調的方向施加：髖部朝天花板方向往上推，雙手同時把手腕往下拉向你的胸口中線。這兩個互相垂直的力量方向，能在肘關節製造出最大的過伸壓力。往側邊拉而不是拉向中線，會大幅降低槓桿效果。髖部的抬升是主要的力量來源，運用了大肌群，而手臂的拉力則負責維持控制與方向。",
+    "answer_line": "髖部往上推，手腕往下拉",
+    "distractors": {
+     "plausible": [
+      "把手臂往側邊拉出來",
+      "髖部往下壓，手臂往上拉"
+     ],
+     "trap": [
+      "用力把手腕往側邊猛拉"
+     ]
+    }
+   },
+   {
+    "question": "對手把被困的手臂彎起來、抓住自己的手腕來防守——你有哪些選項？",
+    "answer": "當對手透過交扣雙手或抓住自己手腕來建立防守握法時，你有三個高成功率的應對方式。第一，用 wrist peel 孤立對手緊握的手指、破壞握法。第二，放棄 Armbar 角度，轉身把對手彎曲的手臂鎖進 omoplata 位置。第三，在彎曲的手臂上抓 kimura 握法以破壞對手的防守連結。關鍵是要認清對手彎曲手臂的防守，其實打開了這些替代攻擊，而不是繼續硬拗直臂的 Armbar。",
+    "answer_line": "Wrist peel、omoplata 或 kimura",
+    "distractors": {
+     "plausible": [
+      "硬用蠻力做直臂 Armbar",
+      "從直臂改攻 triangle choke"
+     ],
+     "trap": [
+      "放手重設回 guard"
+     ]
+    }
+   },
+   {
+    "question": "如果 Armbar 嘗試失敗、你仍維持在 New York，該如何應對？",
+    "answer": "如果 Armbar 失敗但你仍保有 New York 控制，立刻重新建立脛骨握法，回到標準的 New York 位置。不要立刻再嘗試同一個 Armbar 進入，因為對手現在已經有所防備。改為威脅不同的攻擊路線——朝 Invisible Collar 或 Carni 推進——重新分散對手的防守注意力。當一兩個不同的威脅逼對手調整防守後，Armbar 的空檔往往會因為對手的注意力被多個威脅分散而重新打開。",
+    "answer_line": "重設握法，威脅新攻擊",
+    "distractors": {
+     "plausible": [
+      "立刻重試同一個 Armbar",
+      "放棄 New York 改打 closed guard"
+     ],
+     "trap": [
+      "反覆硬做同一個 Armbar"
+     ]
+    }
+   },
+   {
+    "question": "從 New York 做 Armbar，和標準的 closed guard Armbar 進入有什麼不同？",
+    "answer": "根本的差異在於 overhook 已經預先提供了手臂孤立。在 closed guard 裡，Armbar 需要下位者從零開始，靠握法、角度與破壞 posture 來建立手臂孤立。在 New York 裡，overhook 已經完全困住一隻手臂，省去了 Armbar 設置中最困難的一步。這代表 New York 的 Armbar 需要更少的轉換步驟、執行時間更短，而且因為手臂在 Armbar 動作開始之前就已經被破壞，能讓防守者措手不及。代價是 New York 需要相當的髖部柔軟度，才能維持並執行腿部橫掃。",
+    "answer_line": "overhook 已預先孤立手臂",
+    "distractors": {
+     "plausible": [
+      "需要更多握法才能設置",
+      "必須先破壞 posture"
+     ],
+     "trap": [
+      "完全不需要髖部柔軟度"
+     ]
+    }
+   },
+   {
+    "question": "在位置對練中，你從 New York 做 Armbar 總是在腿橫掃階段失敗——你該檢查什麼？",
+    "answer": "在腿橫掃階段持續失敗，通常指向三個常見問題：橫掃前髖部旋轉不足、posture 破壞不夠讓對手能擋住腿，或髖部柔軟度不足。首先確認在啟動橫掃之前，你的髖部旋轉至少達到 70 度。第二，確認在放開脛骨之前，對手的頭部位置已經在你胸口高度或以下。第三，如果柔軟度是限制因素，可以獨自練習腿部橫掃並漸進伸展，或考慮用脛骨逐步走過去的變化，而不是一次甩過去。",
+    "answer_line": "檢查旋轉角度與 posture",
+    "distractors": {
+     "plausible": [
+      "把腿甩得更用力更快",
+      "把 overhook 抓得更緊"
+     ],
+     "trap": [
+      "跳過旋轉，硬把腿甩過去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺 Armbar 正從 New York 被啟動的最早訊號是什麼？",
+    "answer": "最早的訊號是對手在維持 overhook 的同時，放開了他們控自己脛骨的握法。在標準的 New York 裡，脛骨握法是維持 rubber guard 結構的必要條件。當這個握法放開時，代表對手正轉向攻擊——最常見的就是 Armbar。這個放開的動作也可能讓 overhook 的張力稍微下降，這是你在髖部旋轉與腿部橫掃推進之前，最好的防守行動機會。",
+    "answer_line": "對手放開脛骨握法",
+    "distractors": {
+     "plausible": [
+      "對手的 overhook 變得更緊",
+      "對手的 posture 完全被破壞"
+     ],
+     "trap": [
+      "等腿橫跨過去才反應"
+     ]
+    }
+   },
+   {
+    "question": "防守這個 Armbar 時，為什麼往前 stack 比往後拉更有效？",
+    "answer": "往前 stack 攻擊的是 Armbar from New York 的根本機制——髖部旋轉。對手需要把髖部旋轉到與你身體垂直，才能建立 Armbar 角度，而這個旋轉需要髖部空間與活動度。往前的 stack 壓力會把對手的髖部壓平在墊子上，從物理上阻止旋轉。反之，往後拉正好製造出對手旋轉所需要的空間，還會讓你的體重脫離這個等式，讓腿更容易橫跨過你的頭。",
+    "answer_line": "stack 壓平髖部、扼殺旋轉",
+    "distractors": {
+     "plausible": [
+      "往後拉能快速卸除壓力",
+      "兩個方向效果一樣好"
+     ],
+     "trap": [
+      "往後拉以創造逃脫空間"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂部分被困住，對手已經開始旋轉，但腿還沒橫過你的臉——你該執行什麼順序的動作？",
+    "answer": "這是關鍵的防守空檔。快速依序執行三個動作：第一，積極彎曲你被困的手臂，把拇指轉向自己身體，加強肘部結構。第二，用空出的手推正開始橫掃過來的那條腿，把它擋下或往下改變方向。第三，同時把體重往前壓成 stack 姿態，把對手的髖部壓平、中止旋轉。如果你能在 stack 的同時阻止腿橫跨過去，Armbar 的嘗試就會失敗，你會回到 New York 上位。",
+    "answer_line": "彎手臂、擋腿、往前 stack",
+    "distractors": {
+     "plausible": [
+      "把手肘抽出來，不管腿",
+      "轉開身體、放棄 back"
+     ],
+     "trap": [
+      "把手臂伸直以滑脫出來"
+     ]
+    }
+   },
+   {
+    "question": "你要如何判斷該嘗試抽離手臂，還是該用 stack 防守來對抗這個 Armbar？",
+    "answer": "這個決定取決於 overhook 的深度和轉換的階段。如果 overhook 在脛骨放開時明顯變鬆——你能感覺到肱三頭肌周圍出現空隙——抽離手臂是可行的，因為主要的固定機制已經被破壞。如果 overhook 仍然深且緊，抽離大多會失敗、浪費力氣，這時 stack 防守是更好的選擇。一般原則是：如果你連把手肘往髖部方向移動幾公分都做不到，就直接投入 stack，而不要去硬拚一個你破壞不了的 overhook。",
+    "answer_line": "鬆就抽離，緊就 stack",
+    "distractors": {
+     "plausible": [
+      "不管握法如何都一律抽離",
+      "無論如何都一律 stack"
+     ],
+     "trap": [
+      "硬拚緊的 overhook 想抽離"
+     ]
+    }
+   },
+   {
+    "question": "如果 Armbar 已經完全建立、膝蓋也已夾緊，你的防守優先順序應該是什麼？",
+    "answer": "一旦 Armbar 完全建立，就轉換成標準的 Armbar 防守原則：無論如何都保持手臂彎曲、拇指朝向天花板，用空出的手抓住自己的手腕以加強彎曲，並開始把髖部往前推、雙腳往對手頭部方向走以進行 stack。如果騰得出手，用空出的手把橫在臉上的那條腿往對手方向推。目標從阻止 Armbar，轉變成撐過它、撐到能執行 hitchhiker escape 或 stack pass 為止。要接受從這個階段逃脫明顯困難許多，需要耐心與技術上的精準。",
+    "answer_line": "彎手臂、握手腕、往上 stack",
+    "distractors": {
+     "plausible": [
+      "把手臂伸直以減輕疼痛",
+      "快速把被困的手臂拉出來"
+     ],
+     "trap": [
+      "放鬆手臂等待機會"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "_meta": {"source": "content/Transitions/Ankle Pick.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在執行 ankle pick 前創造 45 度角至關重要？",
+    "answer": "45 度角能讓你的頭部落在對手身體中線之外，而非正對著對手，這達成三個關鍵目標：讓 sprawl 防守變得更困難，因為對手的髖部無法有效壓制你的頭；為你的拉與推力學提供更好的槓桿；並防止對手在你 level change 時輕易鎖上 guillotine。沒有這個角度，你會直接站在對手正前方，對手可以輕易 sprawl 並控制你的頭。",
+    "answer_line": "頭部落在對手身體線外",
+    "distractors": {
+     "plausible": [
+      "為更好的髖部壓力鋪路",
+      "正面對齊以加快進攻速度"
+     ],
+     "trap": [
+      "為求速度直接正面衝進去"
+     ]
+    }
+   },
+   {
+    "question": "抓腳踝時正確的手部位置是什麼？為什麼這個握法優於其他選項？",
+    "answer": "正確握法是 heel cup，手包住腳跟後方，手指繞過 Achilles 肌腱區域，拇指朝向腳趾方向。這個握法之所以更好，是因為它能最大程度控制腳的移動，對手無法輕易把腳往後抽或轉開。抓腳背或腳趾容易讓對手抽腳，而 heel cup 能鎖住整個腳部結構，阻斷任何逃脫方向。",
+    "answer_line": "Heel cup 握法",
+    "distractors": {
+     "plausible": [
+      "抓腳背",
+      "抓腳趾往上拉"
+     ],
+     "trap": [
+      "抓脛骨取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "如果你啟動 level change 時對手開始向後 sprawl，你該如何應對？",
+    "answer": "如果你察覺到 sprawl 開始，必須立刻轉換而非硬拗 ankle pick。維持你的 collar tie 控制，並轉為利用對手後退的動能執行 arm drag 把對手拉過你身側，或用 snap down 加速對手前倒，或用你的前衝動能拉 guard。關鍵在於及早察覺 sprawl，因為一旦對手髖部完全後退，ankle pick 就已經失效，硬拗只會讓你落入 bottom turtle。",
+    "answer_line": "改用 arm drag 或 snap down",
+    "distractors": {
+     "plausible": [
+      "還是硬要抓腳踝",
+      "站起身脫離重新開始"
+     ],
+     "trap": [
+      "硬衝進 bottom turtle"
+     ]
+    }
+   },
+   {
+    "question": "為什麼拉腳踝與推上半身必須同時進行而不能先後進行？",
+    "answer": "同時的相對力量會讓對手的底盤產生幾乎無法防守的旋轉崩塌。向前拉腳踝會把重心壓在那隻腳上，同時向後推對手上半身會把重心移到底盤之後。這兩股力量合力形成一個力矩把對手結構破壞掉。如果先後進行，對手可以靠單腳跳躍或撐手來補償，因為身體能適應單一方向的力，但無法防守精準同步的相對旋轉力。",
+    "answer_line": "拉與推必須同時進行",
+    "distractors": {
+     "plausible": [
+      "先拉腳踝再推",
+      "先推上半身再拉"
+     ],
+     "trap": [
+      "分階段進行能省力"
+     ]
+    }
+   },
+   {
+    "question": "哪些關鍵跡象顯示對手重心已正確壓在前腳上，適合出手 ankle pick？",
+    "answer": "最佳時機出現在對手前膝微彎顯示承重、腳跟穩穩貼地而非抬起、上半身因你的 collar tie 壓力而略微前傾，且對手沒有主動移動雙腳的時候。此外，如果你感覺到 collar tie 的阻力張力，而非對手往後退，這表示重心前傾。對手完成一次前跨步後的瞬間往往是理想時機。",
+    "answer_line": "膝彎、腳跟貼地、身體前傾",
+    "distractors": {
+     "plausible": [
+      "對手左右橫移",
+      "對手雙手向前撐"
+     ],
+     "trap": [
+      "對手快速後退"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個 level change 過程中維持 collar tie 被視為 ankle pick 成功的關鍵？",
+    "answer": "Collar tie 有多重關鍵功能：在你降低重心時阻止對手後退，維持觸及腳踝所需的距離；提供完成 takedown 所需的上半身推力控制點；透過持續的上半身接觸掩蓋你 level change 的意圖；並防止對手在你進攻時取得優勢的頭部控制或 guillotine 位置。沒有維持 collar tie，對手可以輕易向後退，你的腳踝握法就會失效。",
+    "answer_line": "阻止後退，提供推力",
+    "distractors": {
+     "plausible": [
+      "只在開始 level change 時需要",
+      "主要是為了控制對手姿勢"
+     ],
+     "trap": [
+      "放開握法以加快 level change"
+     ]
+    }
+   },
+   {
+    "question": "你開始 level change 時，對手把手撐在你頭上——你該如何調整攻擊？",
+    "answer": "當對手把手撐在你頭上時，他們雖然建立了防守 frame，但也伸出了手臂並破壞了自己的姿勢。利用這個機會立刻轉換成 arm drag 或對撐手那隻手臂進行 two-on-one 控制。對手伸出的手臂形成破綻，所以你應該取得手腕控制並把對手的手臂拉過身體使其失衡。這常常能為後續的 ankle pick 創造更好的角度，或暴露對手的背部方便抱背。關鍵是立刻辨識出撐手動作並攻擊暴露的手臂，而非硬頂過去。",
+    "answer_line": "對撐手手臂使出 arm drag",
+    "distractors": {
+     "plausible": [
+      "硬頂穿過撐手",
+      "直接改成 double leg"
+     ],
+     "trap": [
+      "用頭頂過對手的撐手"
+     ]
+    }
+   },
+   {
+    "question": "在你安全嘗試 ankle pick 的 level change 之前，必須先建立哪些握法條件？",
+    "answer": "在嘗試 level change 前，你必須用前手在對手後頸持續施加穩定的 collar tie 壓力，另一手取得手腕或袖口控制以防止對手取得自己的頭部控制，且你 collar tie 那隻手的手肘必須緊貼身體、連結緊密以防止對手破解握法。沒有這些握法前提，你就有衝進 guillotine 的風險、level change 時頭部被控制的風險，或對手在你觸及腳踝前直接退開的風險。",
+    "answer_line": "Collar tie 加手腕控制",
+    "distractors": {
+     "plausible": [
+      "Underhook 加 collar tie",
+      "雙手都做 collar tie"
+     ],
+     "trap": [
+      "放開握法盲目衝進去"
+     ]
+    }
+   },
+   {
+    "question": "當 ankle pick 被擋下時，機率最高的銜接攻擊有哪些？",
+    "answer": "當 ankle pick 被擋下時，機率最高的三個銜接攻擊取決於對手的防守反應。如果對手向後 sprawl，立刻轉換成 snap down，因為對手在 sprawl 恢復時重心會前移。如果對手抬腳跳開，積極追擊 double leg entry，因為對手的底盤已經在單腳上出現破綻。如果對手繞開，用你的 collar tie 把對手拉向他撤退的那一側做 arm drag。共同的原則是持續施加前壓，立刻利用對手的防守動作而非重新歸零。",
+    "answer_line": "Snap down、double leg 或 arm drag",
+    "distractors": {
+     "plausible": [
+      "重新歸零再換角度",
+      "重複同一次 ankle pick"
+     ],
+     "trap": [
+      "不管情況一律盲攻 double leg"
+     ]
+    }
+   },
+   {
+    "question": "在站立交手中啟動 ankle pick 的最佳時機窗口是什麼？",
+    "answer": "最佳時機窗口出現在三個特定時刻：對手剛完成前跨步、前腳落地且重心已投入、還來不及反應時；對手正向前推進你的 collar tie 壓力，讓對手的動能反而幫助你進攻時；或對手正專注防守其他威脅（例如 snap down 嘗試）、認知負荷讓對手無法預料 ankle pick 時。最糟的時機是對手正主動側移、正在後退，或已經取得對你有優勢的頭部控制時。",
+    "answer_line": "前腳落地、重心已投入",
+    "distractors": {
+     "plausible": [
+      "對手側向繞圈時",
+      "一拉近距離就出手"
+     ],
+     "trap": [
+      "對手控制你頭部時"
+     ]
+    }
+   },
+   {
+    "question": "在 ankle pick 收尾時，你的頭部應該施加什麼特定方向的力？",
+    "answer": "你的頭部應該以對角方向施力，向前並略微向上推入對手髖部或大腿外側。這個頭部壓力是第三個控制點，與拉腳踝和 collar tie 推力協同運作。頭部施力的角度非常關鍵，因為過多的向上壓力會把你頂起來、降低推力，而純向前的壓力則無法產生旋轉力矩。這個對角向量能放大你相對力量的效果，並防止對手跨過你的頭恢復平衡。",
+    "answer_line": "對角方向，向前並向上",
+    "distractors": {
+     "plausible": [
+      "只用純向前的壓力",
+      "只用純向上的抬力"
+     ],
+     "trap": [
+      "直接向下壓進地面"
+     ]
+    }
+   },
+   {
+    "question": "Outside ankle pick 變化式的進入角度與標準的 inside ankle pick 有何不同？",
+    "answer": "Outside ankle pick 從相反的角度攻擊。你不是繞向對手前腿中線建立角度，而是繞到對手前腿的外側。你的頭部壓力落在對手髖部的遠側而非近側，並把對手的腳踝拉過身體、朝你另一側髖部方向拉。這個變化式需要更長的觸及距離和更積極的繞步才能建立位置。當對手靠轉髖來防守 inside 角度時，outside 進入特別有效，因為它正好攻擊對手站姿中出現的破綻。",
+    "answer_line": "繞外側，頭部落在遠側",
+    "distractors": {
+     "plausible": [
+      "進入方式跟 inside 版本一樣",
+      "把腳踝拉向你的近側髖部"
+     ],
+     "trap": [
+      "繞到對手前腿內側"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早能發現 ankle pick 正在形成的辨識線索是什麼？你的立即反應應該是什麼？",
+    "answer": "最早的線索是對手建立穩固的 collar tie，並開始側向繞步以創造 45 度角，同時把你的頭往下往前拉。你的立即反應應該是用 two-on-one 破解 collar tie，或建立你自己的優勢 collar tie。同時放輕你的前腳，開始朝反方向繞步以拒絕對手的角度。在這個階段處理 collar tie 能阻止整條攻擊鏈發展，遠比之後才反應 level change 更省力。",
+    "answer_line": "破解 collar tie，繞步遠離",
+    "distractors": {
+     "plausible": [
+      "等 level change 再反應",
+      "提早 sprawl 求保險"
+     ],
+     "trap": [
+      "被動纏鬥握法等待"
+     ]
+    }
+   },
+   {
+    "question": "一旦對手已鎖上你腳踝的 heel cup，為什麼拉 guard 比 sprawl 更好？",
+    "answer": "一旦 heel cup 鎖定，sprawl 反而會幫助對手，因為它會把你的髖部往後推，加大對手用腳踝拉力和上半身推力製造的旋轉力。在這個階段，sprawl 的力學是站在你的對立面。拉 guard 能把對手的 takedown 動能轉換成你的 guard 遊戲，讓你建立 closed guard 或其他 guard 位置並取得進攻選項。拉 guard 讓你能控制落地過程，避免最糟的情況——被直接壓平到 bottom side control、無法回復 guard。",
+    "answer_line": "此時 sprawl 反而幫對手",
+    "distractors": {
+     "plausible": [
+      "Sprawl 仍能擋下 takedown",
+      "拉 guard 會失去上位"
+     ],
+     "trap": [
+      "用力 sprawl 來逆轉握法"
+     ]
+    }
+   },
+   {
+    "question": "當你發現對手已經建立 ankle pick 所需的 45 度角時，你的重心分配需要如何調整？",
+    "answer": "當你發現角度已經建立，立刻把更多重心轉移到後腳，放輕前腳好讓它能快速抽回。你的前腳應維持貼地但幾乎不承重，比較像是探路而非承重的支撐點。這種動態的重心分配意味著即使對手觸及你的腳踝，能被對手利用來製造旋轉崩塌的重心投入也極少。搭配側向繞步遠離對手的角度，進一步打亂對手的攻擊時機。",
+    "answer_line": "重心往後，前腳放輕",
+    "distractors": {
+     "plausible": [
+      "重心前傾以反推對手",
+      "用力把重心壓在前腳"
+     ],
+     "trap": [
+      "把重心壓在前腳上"
+     ]
+    }
+   },
+   {
+    "question": "對手為了 ankle pick 下潛，頭卻落在你身體中線內側、兩髖之間——這創造了什麼反擊機會？",
+    "answer": "當對手的頭落在你身體中線內側時，這是對方在位置上的重大失誤，會打開 guillotine 反擊的機會。立刻用你的近側手臂鎖上 arm-in guillotine 或 chin strap 握法環繞對方頸部，然後閉合 guard 或拉 guard 來鎖緊這個降服。對手的 level change 把脖子直接送進你的攻擊範圍，而對手向前的動能讓他難以抽身。這是對進攻方風險最高的情況，也是為什麼正確的 ankle pick 技術要求頭部必須維持在防守方身體外側的原因。",
+    "answer_line": "Guillotine 反擊機會",
+    "distractors": {
+     "plausible": [
+      "Sprawl 擋下 takedown",
+      "Underhook 轉身抱背"
+     ],
+     "trap": [
+      "拉開距離重新歸零"
+     ]
+    }
+   },
+   {
+    "question": "防守 ankle pick 在準備階段與執行階段之間有什麼關鍵差異？",
+    "answer": "在準備階段，也就是 level change 開始之前，你的防守重點在於預防：破解 collar tie、用側向步法拒絕角度，並保持前腳輕盈靈活。這些是低耗能、高機率的防守動作，能在攻擊開始前就阻止它。在執行階段，也就是 level change 已經啟動之後，你的防守轉為反應：如果 heel cup 尚未鎖定就 sprawl，若已鎖定就拉 guard。執行階段需要爆發性的動作與瞬間判斷該 sprawl 還是坐下拉 guard。混淆這兩個階段會導致最常見的防守錯誤，例如在握法已鎖定後才 sprawl，或在應該對已投入的 level change 做出爆發反應時，還在纏鬥握法。",
+    "answer_line": "準備階段防、執行階段反應",
+    "distractors": {
+     "plausible": [
+      "準備階段反應、執行階段預防",
+      "在 level change 中纏鬥握法"
+     ],
+     "trap": [
+      "腳跟已被包住才 sprawl"
+     ]
+    }
+   }
+  ]
+ }
+}

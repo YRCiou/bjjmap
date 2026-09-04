@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Arm Triangle Transition.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從底部 Hindulotine 觸發 Arm Triangle Transition 的，是對手的哪一個特定防禦反應？",
+    "answer": "觸發點是對手為了緩解 guillotine 壓力，用前臂或手推向你的胸口或肩膀，建立近側的防禦性 frame。這個 frame 會讓他們的手臂橫過自己的中線、壓在自己的頸部上，正好形成 arm triangle 所需要的頭臂結構。沒有這個 frame，這個轉換就缺少讓 choke 得以完成的結構性要素。",
+    "answer_line": "前臂 frame 橫過自己頸部",
+    "distractors": {
+     "plausible": [
+      "自由的手撐在地墊上",
+      "轉頭以減輕咬合力道"
+     ],
+     "trap": [
+      "把手臂完全收回"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在嘗試完成 arm triangle 之前，必須先 sweep 到 side control？",
+    "answer": "arm triangle 需要上位的壓力，才能對兩側頸動脈產生足夠的壓縮。從底部位置，你無法用足夠的力量把肩膀壓進對手被困的手臂來完成 choke。side control 提供重力輔助、肩膀施壓的角度，以及能把髖部朝對手頭部走位、逐步收緊夾力的能力。從底部完成 arm triangle 非常耗體力，成功率也低。",
+    "answer_line": "需要上位壓力才能完成",
+    "distractors": {
+     "plausible": [
+      "底部完成得一樣快",
+      "guard 控制就足夠了"
+     ],
+     "trap": [
+      "留在底部，更用力夾緊"
+     ]
+    }
+   },
+   {
+    "question": "你開始換 grip 時，對手開始把建 frame 的手臂收回去——你該立刻怎麼反應？",
+    "answer": "立刻放棄 arm triangle 的轉換，回到 Hindulotine 的 guillotine 進攻。對手把 frame 收回去，會移除原本阻止 guillotine 完成的防禦屏障。他們收回手臂的動作，實際上重新打開了原本的 submission。這正是核心的兩難：建 frame 能防守 guillotine，卻打開了 arm triangle；而收回 frame 能防守 arm triangle，卻又重新打開了 guillotine。",
+    "answer_line": "回到 Hindulotine 的 guillotine",
+    "distractors": {
+     "plausible": [
+      "追著搶 arm triangle 的 grip",
+      "放開兩邊的 grip 重新開始"
+     ],
+     "trap": [
+      "放手並站起來"
+     ]
+    }
+   },
+   {
+    "question": "arm triangle 使用什麼樣的 grip 結構？你的前臂應該精確地放在哪個位置？",
+    "answer": "使用 figure-four grip（手掌貼二頭肌）或 gable grip（手掌對手掌），讓你要 choke 的手臂深深穿到對手頸部下方。你前臂的刃面必須接觸到遠側的頸動脈，你的手要越過他們頸部中線相當一段距離。對手自己被困的手臂則壓縮近側的頸動脈。兩側頸動脈都必須同時受到壓縮，才會是血液型的 choke，而不是頸部的扭轉。",
+    "answer_line": "Figure-four，刃面壓遠側頸動脈",
+    "distractors": {
+     "plausible": [
+      "S-grip，前臂壓喉嚨",
+      "十指交扣，按壓下巴"
+     ],
+     "trap": [
+      "自由的手撐地，直接夾緊"
+     ]
+    }
+   },
+   {
+    "question": "放開 guillotine 的 grip 和建立 arm triangle 之間，關鍵的時機關係是什麼？",
+    "answer": "你必須先用你不負責 choke 的那隻手臂，把對手建 frame 的手臂牢牢困在他們自己的頸部上，然後才能放開 guillotine。可以透過感覺他們試圖收手時是否有阻力，來測試這個困住是否確實。只有到那時候，才放開 guillotine，把要 choke 的手臂穿到他們頸部下方。放開一個 grip 和建立另一個 grip 之間如果出現任何空隙，都會讓對手有機會抽出手臂、把姿勢立起來，讓你兩個進攻都落空。",
+    "answer_line": "先困住手臂，再放開 guillotine",
+    "distractors": {
+     "plausible": [
+      "先放開 guillotine，再困住手臂",
+      "困住和放開同時進行"
+     ],
+     "trap": [
+      "兩邊的 grip 一起放開"
+     ]
+    }
+   },
+   {
+    "question": "你在底部已經鎖住 arm triangle 的 grip，對手用力向前壓要把你壓平——你該如何利用這股能量？",
+    "answer": "他們向前的推力，正好完美地把你的 butterfly hooks 蓄力起來。用 arm triangle 的 grip 把他們拉向前，同時把 hook 深深插進他們的大腿內側。結合他們的動能與你 hook 的抬升力，執行 butterfly sweep。相比標準 butterfly sweep 的 grip，arm triangle 的 grip 在 sweep 過程中能提供更優越的上半身控制。他們的進取，就這樣成了你抵達 side control 的能量來源。",
+    "answer_line": "蓄力 hook，做 butterfly sweep",
+    "distractors": {
+     "plausible": [
+      "拉 guard 重新回到底部",
+      "推開他們製造空間"
+     ],
+     "trap": [
+      "放開 grip 重新建 frame"
+     ]
+    }
+   },
+   {
+    "question": "Hindulotine 的 guillotine 完成技和 arm triangle 的完成技，施力方向有什麼不同？",
+    "answer": "Hindulotine 利用把髖部轉到垂直於對手脊椎方向所產生的旋轉扭力，透過核心的轉動對頸部產生扭轉的力量。arm triangle 則使用雙側壓縮——把肩膀壓進被困的手臂，同時用前臂壓縮對側的頸動脈，同時夾緊頸部兩側。guillotine 是旋轉式的；arm triangle 則是從相對兩側進行壓縮。",
+    "answer_line": "扭力旋轉 對比 雙側夾緊",
+    "distractors": {
+     "plausible": [
+      "兩者都用旋轉扭力",
+      "兩者都純粹靠體重向下壓"
+     ],
+     "trap": [
+      "把頸部側向扭轉"
+     ]
+    }
+   },
+   {
+    "question": "sweep 到上位之後，需要什麼樣的具體身體姿勢，才能鞏固 side control 以完成 arm triangle？",
+    "answer": "立刻把雙腿向後 sprawl，把胸口的壓力壓進對手被困的手臂和頸部。把你的髖部擺成垂直於他們身體，讓你 choke 那一側的髖部靠近他們近側的髖部。逐步把雙腳往他們的髖部方向走位，增加向下的壓力。你的頭應該在 choke 那一側壓低。夾緊手肘而不是用手臂去拉，來產生最後完成的壓力。",
+    "answer_line": "Sprawl，夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "坐起來用手臂拉",
+      "維持跪姿向前壓"
+     ],
+     "trap": [
+      "放開 grip 換 base"
+     ]
+    }
+   },
+   {
+    "question": "Arm Triangle Transition 過程中有哪兩條可用的 sweep 路徑？各在什麼情況下選擇？",
+    "answer": "當對手的 base 較窄、或他們向前推壓時，butterfly sweep 會有效——蓄力 hook 並邊抬升邊轉身。當對手 base 較寬、有一隻手撐地時，hip escape 路徑會有效——shrimp 拉開距離、換到跪姿，再邊維持 grip 邊繞位到 side control。面對向前的壓力和窄的 base 時選 butterfly sweep；面對寬的 base 和撐地的手時選 hip escape。兩條路徑最後都能在鎖住 arm triangle 的狀態下抵達 side control。",
+    "answer_line": "窄 base 用 butterfly，寬用 hip escape",
+    "distractors": {
+     "plausible": [
+      "永遠用 butterfly sweep",
+      "永遠 shrimp 到跪姿"
+     ],
+     "trap": [
+      "放開 grip 站起來"
+     ]
+    }
+   },
+   {
+    "question": "Arm Triangle Transition 和 Hindulotine 的 guillotine 結合時，如何創造出 submission 的兩難？",
+    "answer": "對手面臨一個左右為難的局面。把手臂緊貼身體，會讓 guillotine 的 grip 毫無阻礙地完成 Hindulotine 的收尾。建立近側的 frame 來緩解 guillotine 的壓力，卻正好把他們的手臂擺在最適合 arm triangle 轉換的位置。轉身逃離任何一種 choke，都會讓背後暴露出來，給對手 back take 的機會。每一種對其中一個進攻的常見防守，都直接開啟了另一個進攻，逼迫對手選擇要接受哪一種威脅，而不是把所有進攻都化解掉。",
+    "answer_line": "每一種防守都打開另一個進攻",
+    "distractors": {
+     "plausible": [
+      "建 frame 能化解兩種進攻",
+      "轉身能安全逃脫"
+     ],
+     "trap": [
+      "轉身藏住頸部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼對 Hindulotine 建 frame 會讓你容易被 arm triangle transition 攻擊？",
+    "answer": "當你用近側的 frame 推向進攻方的胸口以緩解 guillotine 壓力時，你的前臂會橫過自己的中線，讓你的二頭肌壓在自己的頸側。這正好是 arm triangle 所需要的結構——你自己的手臂變成了雙側壓縮的其中一側。進攻方會困住這個 frame，把他們的手臂穿到你頸部的另一側下方，這樣就同時覆蓋了兩側頸動脈。你為了防守 guillotine 所選擇的做法，直接開啟了 arm triangle 的機會。",
+    "answer_line": "建 frame 的手臂橫過自己頸部",
+    "distractors": {
+     "plausible": [
+      "建 frame 能把進攻方推開",
+      "建 frame 只會防守 guillotine"
+     ],
+     "trap": [
+      "更用力建 frame 以破壞對方姿勢"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂已經被困在自己的頸部上，進攻方正在重新配置成 arm triangle 的 grip——你的防守優先事項是什麼？",
+    "answer": "你的優先事項完全轉向阻止 sweep。arm triangle 無法從底部位置產生足夠的完成壓力——進攻方絕對必須抵達 side control 才能完成 choke。用自由的手撐在地墊上把 base 拉寬，把髖部向後 sprawl 以消除 butterfly hook 的抬升角度，並透過胸口把體重向前壓。即使 arm triangle 的 grip 已經鎖死，只要你維持上位，你就是安全的。把所有精力集中在 base 和平衡上，而不是抽手臂。",
+    "answer_line": "拉寬 base、sprawl，阻止 sweep",
+    "distractors": {
+     "plausible": [
+      "立刻硬把手臂扯出來",
+      "坐起來破壞他們的 grip"
+     ],
+     "trap": [
+      "轉身逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在換 grip 的過程中，最佳的防守時機窗口是什麼？你該如何利用它？",
+    "answer": "最佳的窗口出現在進攻方已經放開 guillotine 的 grip、但還沒完全鎖上 arm triangle 的 figure-four 或 gable grip 之間。在這個短暫的轉換過程中，因為一個 grip 已經放棄、另一個還沒鎖死，他們對頭部的控制會暫時減弱。利用這一點，透過髖部猛力把姿勢立起來，把頭轉向開放的一側，並把體重向後壓。如果你把逃脫的時機抓在這個轉換的瞬間，這個不完整的 grip 就沒有足夠的結構強度來阻止你把姿勢恢復。",
+    "answer_line": "換 grip 時立起姿勢",
+    "distractors": {
+     "plausible": [
+      "等 grip 完全鎖死再說",
+      "立刻對胸口建 frame"
+     ],
+     "trap": [
+      "轉身離開 choke 那一側"
+     ]
+    }
+   },
+   {
+    "question": "如何在不建立那個會開啟 arm triangle 的 frame 的情況下，緩解 Hindulotine 的壓力？",
+    "answer": "改用以髖部為主的姿勢回復方式，而不是用手臂建 frame。保持脊椎打直、胸口抬高，把髖部向後推，利用你的後鏈肌群創造出能緩解頸部壓力的距離。下巴內收貼緊，雙手肘都釘在肋骨上。你也可以把頭轉向 choke 那隻手臂的方向，減輕 guillotine 的咬合力道，同時讓手臂保持貼近身體。這些防守動作能處理 guillotine，卻不會讓你的手臂橫過自己的頸部。",
+    "answer_line": "髖部後推、下巴內收",
+    "distractors": {
+     "plausible": [
+      "撐手坐起來",
+      "轉身以減少角度"
+     ],
+     "trap": [
+      "用前臂對胸口建 frame"
+     ]
+    }
+   },
+   {
+    "question": "進攻方已經鎖住 arm triangle，並開始為 sweep 蓄力 butterfly hooks——請詳細描述你的 base 防守？",
+    "answer": "立刻把膝蓋張開至少與肩同寬，並把自由的手以 45 度角撐在進攻方打算把你 sweep 過去那一側的地墊上。把髖部向後、向下 sprawl，壓低你的重心，消除 butterfly hooks 所需要的抬升角度。透過胸口把體重向前壓進進攻方的 grip 裡，讓自己在他們的 hook 上變得沉重。如果他們試圖從一側抬升，就把體重轉移到那一側，把撐地的手往地墊裡壓得更深。寬的 base、低的髖部，加上撐地的手，三者結合形成一個能抵抗任何角度 butterfly sweep 的三腳架結構。",
+    "answer_line": "拉寬 base、撐手、sprawl 髖部",
+    "distractors": {
+     "plausible": [
+      "坐回自己的腳跟上",
+      "雙手都撐地並向後靠"
+     ],
+     "trap": [
+      "膝蓋併攏、縮窄 base"
+     ]
+    }
+   }
+  ]
+ }
+}

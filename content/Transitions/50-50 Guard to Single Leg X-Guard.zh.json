@@ -1,0 +1,241 @@
+{
+ "_meta": {
+  "source": "content/Transitions/50-50 Guard to Single Leg X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 50-50 轉換到 Single Leg X-Guard 的主要戰略目標是什麼？",
+    "answer": "主要目標是把一個對稱的防守位置轉換成不對稱的進攻平台。50-50 下位讓你承受被 submission 的風險，進攻選項也有限，而 Single Leg X-Guard 能立刻取得高成功率的 sweep、technical stand-up 與 pass 的機會，且沒有 heel hook 的危險。你是徹底改變交纏的性質，而不是在同一個纏鬥裡爭取些微優勢。",
+    "answer_line": "用對稱換取進攻角度",
+    "distractors": {
+     "plausible": [
+      "爭取內側位置控制",
+      "先穩固 grip 再原地不動"
+     ],
+     "trap": [
+      "硬拚 50-50 的 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試這個轉換之前，必須先確認腳跟處於什麼位置？",
+    "answer": "在啟動任何轉換之前，你的腳跟必須被藏好並受到保護，膝蓋要朝你對側的髖部方向內轉。這個動作會暫時削弱你的防守結構，因為抽腿會改變你纏鬥的幾何角度。如果對手在你開始動作時已經抓到你的腳跟，抽離的動作可能會加劇膝蓋所承受的旋轉力，造成立即的 submission 危險。",
+    "answer_line": "膝蓋內轉，腳跟藏好",
+    "distractors": {
+     "plausible": [
+      "腳跟藏好，膝蓋外轉",
+      "先放開腳踝 grip，膝蓋內轉"
+     ],
+     "trap": [
+      "先抽腿再檢查腳跟"
+     ]
+    }
+   },
+   {
+    "question": "在整個轉換過程中，必須維持哪些關鍵 grip？",
+    "answer": "從頭到尾都必須用雙手控制對手的腳踝或阿基里斯腱區域。這個 grip 能防止對手在你轉換位置時脫身，提供建立 Single Leg X-Guard hooks 所需的控制，並在你 hip escape 時作為錨點。動作過程中絕不能同時放開雙手。",
+    "answer_line": "全程雙手抓腳踝",
+    "distractors": {
+     "plausible": [
+      "一手抓腳踝，一手抓髖部",
+      "只抓腳踝直到 hooks 卡好為止"
+     ],
+     "trap": [
+      "放開 grip 換手"
+     ]
+    }
+   },
+   {
+    "question": "你開始抽腿時，對手用力把髖部往前頂——你該如何應對？",
+    "answer": "利用他們向前的力道來加速你的轉換，而不是與之對抗。他們向前的動能會把體重壓在你正在建立的 hook 上，創造立即的 sweep 機會。持續建立你的 butterfly hook，同時利用他們的推力把他們抬起並破勢。關鍵洞察是：他們的向前投入其實幫了你，因為他們的體重正朝著你的 hook 移動。",
+    "answer_line": "用他們的推力壓實你的 hook",
+    "distractors": {
+     "plausible": [
+      "撐住並拖延他們的推力",
+      "後退重新調整角度"
+     ],
+     "trap": [
+      "放開腳踝 grip 並後撤"
+     ]
+    }
+   },
+   {
+    "question": "啟動這個轉換的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手開始攻擊你的腳跟時，也就是他們的注意力從維持位置轉為進攻 submission；或是他們放鬆髖部壓力來調整 grip 或重新定位的時候。這兩個時刻都會創造短暫的窗口，因為他們的注意力和身體投入都在別處，對你位置變化的防守反應會延遲。",
+    "answer_line": "對手攻擊腳跟或放鬆髖部時",
+    "distractors": {
+     "plausible": [
+      "剛破壞他們 grip 之後",
+      "感覺到他們髖部放平的瞬間"
+     ],
+     "trap": [
+      "等對手 pass guard"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中建立 hooks 的正確順序是什麼？",
+    "answer": "第一，整個過程中都要維持內側 hook 對對手腿部的控制，作為你的固定錨點。第二，當你的外側腿清出纏鬥時，立刻在他們膝蓋後方建立 butterfly hook。第三，把你的內側腿重新定位成 X-hook，勾在他們的腳跟後方，腳掌壓在他們的髖部或大腿內側。butterfly hook 是優先事項，因為它能防止對手跟進你的新位置，並創造第一個控制點。",
+    "answer_line": "先在膝蓋後方建立 butterfly hook",
+    "distractors": {
+     "plausible": [
+      "先設 X-hook 再設 butterfly",
+      "放開內側 hook 重新定位"
+     ],
+     "trap": [
+      "翻成 belly-down 來插 hooks"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換中關鍵的 hip escape 動作在生物力學上是如何運作的？",
+    "answer": "hip escape 會創造側向位移，改變你的腿與 50-50 纏鬥之間的角度。在靜態的 50-50 中，你的外側腿被鏡像結構鎖死。側向的 hip escape 透過讓你的髖部垂直於纏鬥軸線移動，打破這個幾何鎖，讓你的腿沿著阻力最小的路徑滑出，而不是直接對抗這個鎖來拉扯。",
+    "answer_line": "側向 escape 打破 leg lock",
+    "distractors": {
+     "plausible": [
+      "直接向後拉能解放腿部",
+      "向前推能打破鎖"
+     ],
+     "trap": [
+      "直接硬拉腿穿過鎖"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在轉換過程中開始攻擊你的腳跟，你應該怎麼做？",
+    "answer": "立即中止轉換，回到完整的腳跟防守。把正在抽出的腿拉回纏鬥中，膝蓋內轉來藏住腳跟，並用雙手積極對抗他們的 grip。這是最危險的情況，也是為何時機至關重要的主要原因。絕對不要試圖在被 heel hook 攻擊時強行完成轉換。重置並等待更安全的窗口。",
+    "answer_line": "中止、收腿、防守腳跟",
+    "distractors": {
+     "plausible": [
+      "硬推完成 hook",
+      "放慢速度但持續抽腿"
+     ],
+     "trap": [
+      "繼續轉換，不理會腳跟"
+     ]
+    }
+   },
+   {
+    "question": "建立 Single Leg X-Guard 後，應該立刻串接哪些後續攻擊？",
+    "answer": "立即的高成功率選項包括：在維持腳踝控制的同時起身，做 technical stand-up 轉為上位 passing；伸展 hooks 把對手向後推倒的 elevation sweep；用他們被困住的腿站起來的 single leg takedown；以及控制腳踝並繞過他們腿部的 leg drag pass。這個位置是發動這些攻擊的跳板，不是休息的地方。",
+    "answer_line": "起身、sweep、take-down 或 leg drag",
+    "distractors": {
+     "plausible": [
+      "切回 50-50 求穩定",
+      "等對手先反應"
+     ],
+     "trap": [
+      "放開腳踝 grip 才站起來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼這個轉換比在 50-50 裡爭取內側位置對等更好？",
+    "answer": "在 50-50 中與有實力的對手爭取內側位置很耗費體力，結果也不確定，因為雙方在爭奪內側位置時的機械優勢相近。這個轉換透過切換到不同的 guard 系統，徹底改變位置動態。Single Leg X-Guard 消除了 heel hook 的危險，同時創造出 50-50 下位根本不存在的 sweep 機會，讓體力和精力的使用更有效率。",
+    "answer_line": "消除腳跟風險，增加 sweep",
+    "distractors": {
+     "plausible": [
+      "贏得內側位置的爭奪",
+      "更快消耗對手體力"
+     ],
+     "trap": [
+      "先硬拚對稱再進攻"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 hip escape 時，對手用雙手撐在你的髖部上——什麼樣的 grip 調整能讓你繼續動作？",
+    "answer": "當對手撐在你的髖部上時，他們的雙手就不再威脅你的腳跟或控制你的腳踝，這其實提升了你的安全性。用一隻手 arm drag 他們撐地的手臂，同時另一隻手維持腳踝控制，藉此創造協助你抽腿的破勢。或者，你可以反轉 hip escape 的方向，從對側創造角度，利用他們撐地所形成的僵硬支架來繞過去。",
+    "answer_line": "arm drag 撐地手或反轉角度",
+    "distractors": {
+     "plausible": [
+      "用力推過他們的撐地手",
+      "換抓他們的遠側腳踝"
+     ],
+     "trap": [
+      "放開腳踝 grip 去 arm drag"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正嘗試從 50-50 下位做這個轉換時，最早出現的身體徵兆是什麼？",
+    "answer": "最早的徵兆是強烈的側向 hip escape 動作，他們的髖部會側移而不是保持平放。這個 hip escape 會創造出他們外側腿清出纏鬥所需的抽離角度。你可能也會感覺到他們抓你腳踝的 grip 收緊，因為他們正在建立轉換所需的錨點。在第一秒內辨識出這個動作，能給你最大的反制窗口。",
+    "answer_line": "髖部側移，grip 收緊",
+    "distractors": {
+     "plausible": [
+      "對手完全放平髖部",
+      "對手先放開腳踝 grip"
+     ],
+     "trap": [
+      "對手放鬆並停滯不動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在對手嘗試抽腿時攻擊他們的腳跟會變得更有效？",
+    "answer": "在抽腿的嘗試過程中，對手必須改變腿部的結構，這會暫時改變他們的膝蓋旋轉與腳跟位置。使抽腿成為可能的 hip escape 動作，同時也會削弱藏住腳跟所需的防守性膝蓋旋轉。他們的注意力被分散在執行轉換與防守腳跟之間，代表他們的防守反應比靜態的 50-50 防守時更慢、更不協調。",
+    "answer_line": "注意力分散，腳跟門戶大開",
+    "distractors": {
+     "plausible": [
+      "他們的 grip 力量此時會加倍",
+      "他們的 base 變弱，容易 sweep"
+     ],
+     "trap": [
+      "等他們完成轉換再說"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你膝蓋後方建立 butterfly hook——此時向前施壓仍然是正確的反應嗎？",
+    "answer": "不是，butterfly hook 建立後再向前施壓會適得其反。一旦 hook 卡位，你向前的動能會把體重壓在他們的 hook 上，加速他們從發展中的 Single Leg X-Guard 完成 sweep。此時應該改為向後退步脫離，把腿從新的結構中抽出，或者在 hook 成為完整 Single Leg X-Guard 的基礎之前直接清掉它。",
+    "answer_line": "不——後退或清掉 hook",
+    "distractors": {
+     "plausible": [
+      "是，向前壓來把他們壓平",
+      "先向前推，再清掉 hook"
+     ],
+     "trap": [
+      "向前壓進他們的 hook"
+     ]
+    }
+   },
+   {
+    "question": "如果對手已經破壞你的腳跟 grip 但還沒開始抽腿，你的最佳防守策略是什麼？",
+    "answer": "在他們能啟動 hip escape 之前，立刻重新建立腳跟控制。沒有腳跟威脅，他們就沒有理由拖延轉換。或者，積極向前把髖部推向對手，把他們壓平以阻止 hip escape 動作，再從更好的控制位置重新建立 grip。破壞 grip 是他們的第一個先決條件，在這個階段阻止進度就能防止整個流程發生。",
+    "answer_line": "重新抓腳跟或向前推髖",
+    "distractors": {
+     "plausible": [
+      "等著看他們接下來做什麼",
+      "立刻進攻 submission"
+     ],
+     "trap": [
+      "放手並完全重置"
+     ]
+    }
+   },
+   {
+    "question": "在防守這個轉換時，你如何在向前推進與退步脫離之間做出選擇？",
+    "answer": "這個決定取決於抽腿進行到哪個階段。如果對手還在早期階段（hip escape 剛開始，腿還沒清出來），向前推壓縮空間比較好，因為這能直接阻止抽腿。如果對手已經清出外側腿並正在建立 hooks，退步脫離會更好，因為向前施壓會把你的體重壓在他們正在發展的 hook 上。butterfly hook 就是決策點：沒有 hook 就向前推，hook 已建立就脫離。",
+    "answer_line": "沒 hook：推；有 hook：脫離",
+    "distractors": {
+     "plausible": [
+      "不論如何都一律向前推",
+      "為求安全一律退步"
+     ],
+     "trap": [
+      "hook 設好後才向前推"
+     ]
+    }
+   }
+  ]
+ }
+}

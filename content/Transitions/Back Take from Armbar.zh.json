@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Back Take from Armbar.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼是應該放棄 armbar、轉換到 back take 的主要指標？",
+    "answer": "主要的指標是對手做出防禦反應、開始把身體轉向你。這個轉動動作通常會伴隨雙手扣緊以及髖部往被困手臂那一側移動，是暴露背部的生物力學前提。當對手已經轉了足夠的角度、無法輕易反向逆轉時，你就應該開始轉換，但要在他完成逃脫、到達穩定位置之前動手。",
+    "answer_line": "對手開始轉向你",
+    "distractors": {
+     "plausible": [
+      "對手手肘外張",
+      "對手把身體挺直"
+     ],
+     "trap": [
+      "對手的手臂完全伸直"
+     ]
+    }
+   },
+   {
+    "question": "從 armbar control 轉換到 back control 時，你應該先建立哪個抓法？",
+    "answer": "在放開下方那隻手之前，先把上方那隻手從手腕移到對手遠側的肩膀或衣領。這能在關鍵的轉換時刻維持上半身的連結。之後，一旦你穿入第一個 hook，就把 seatbelt 抓法建立為主要的 back control 抓法：一隻手繞過肩膀，另一隻手穿到腋下，雙手在胸口的高度扣緊。",
+    "answer_line": "把上方的手移到肩膀",
+    "distractors": {
+     "plausible": [
+      "先放開下方的手",
+      "立刻直接抓 seatbelt"
+     ],
+     "trap": [
+      "兩個抓法同時放開"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 armbar 時，對手雙手扣緊並開始轉向你 —— 你的即時反應是什麼？",
+    "answer": "立刻開始轉換到 back take，把你上方的手移到他遠側的肩膀，同時讓下方的手繼續接觸他的髖部。抬起你臉側的那條腿，讓他能繼續轉動，並在他的背部打開時，用你下方那條腿當作第一個 hook 穿過他遠側的髖部。對手雙手扣緊並轉身代表 armbar 防守得很好，這時 back take 是成功率更高的選項。",
+    "answer_line": "開始轉換到 back take",
+    "distractors": {
+     "plausible": [
+      "繼續加大 armbar 的力道",
+      "改嘗試 triangle"
+     ],
+     "trap": [
+      "放開控制髖部的手重新開始"
+     ]
+    }
+   },
+   {
+    "question": "如果你在建立上半身控制之前就放開了跨過對手臉部的那條腿，會發生什麼事？",
+    "answer": "你會製造出一個危險的控制缺口，讓對手能完成轉身面向你、坐起身，甚至直接爆發脫離這個位置。少了跨臉的那條腿作為控制點，又沒有新的上半身抓法來取代它，對手會有短暫的自由活動空間，足以利用來逃脫。務必在放開那條腿之前先建立肩膀或衣領的控制，確保整個轉換過程中連結不中斷。",
+    "answer_line": "對手會逃脫這個位置",
+    "distractors": {
+     "plausible": [
+      "對手只是稍微重新調整位置",
+      "你仍保有部分手臂控制"
+     ],
+     "trap": [
+      "沒事，本來就不需要 hook"
+     ]
+    }
+   },
+   {
+    "question": "在轉換的空檔中，你要如何阻止對手完成逃脫？",
+    "answer": "透過讓舊的和新的控制點重疊，維持持續的身體接觸。你下方的手固定在他的髖部作為錨點，同時上方的手轉換到他的肩膀。當臉側的腿抬起時，立刻穿入第一個 hook，在下半身控制失去之前就先補上。關鍵在於消除放開 armbar 抓法與建立 back control 抓法之間的空窗期，讓對手永遠沒有完全自由的瞬間。",
+    "answer_line": "讓新舊抓法重疊",
+    "distractors": {
+     "plausible": [
+      "放開所有抓法再重新抓",
+      "急著把兩個 hook 一次放入"
+     ],
+     "trap": [
+      "放開控制髖部的手來轉換"
+     ]
+    }
+   },
+   {
+    "question": "從 armbar control 拿下背部時，正確的 hook 放入順序是什麼？",
+    "answer": "先放入下方那條腿的 hook，因為它從 armbar 位置開始就已經最靠近對手的髖部。當對手轉身、他遠側的髖部變得可以接觸時，這條腿會自然穿到他身後。第二個 hook 來自原本跨過他臉部的那條腿，在 seatbelt 抓法建立之後，這條腿會擺盪越過對手的身體。這個順序能讓整個轉換過程中下半身的接觸維持不斷。",
+    "answer_line": "下方腿的 hook 先放入",
+    "distractors": {
+     "plausible": [
+      "臉側的腿先放入 hook",
+      "兩個 hook 一起放入"
+     ],
+     "trap": [
+      "放開 seatbelt 以加快放 hook"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你進行 back take 的過程中途停止轉動，你應該怎麼做？",
+    "answer": "如果對手在你穿入第一個 hook 之前就停止轉動，立刻回到 armbar control，重新固定手腕抓法並把腿放回跨過他的臉部。你並沒有損失什麼，因為 armbar 的位置依然存在。如果你已經穿入一個 hook，但對手停下來了，就維持你的 seatbelt 抓法和單邊 hook，努力從 turtle control 放入第二個 hook，而不是硬要完成轉換。",
+    "answer_line": "還沒放 hook 就回到 armbar",
+    "distractors": {
+     "plausible": [
+      "還是硬要放入第二個 hook",
+      "放棄兩個位置選項"
+     ],
+     "trap": [
+      "放開 seatbelt 重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在轉換過程中，你的胸口相對於對手脊椎的方向應該朝哪裡移動？",
+    "answer": "在整個轉換過程中，你的胸口應該始終與對手的脊椎保持垂直，並精準地配合他轉動的速度。力的方向會從 armbar 側向伸展的向量，轉變成一種跟隨對手轉動的旋轉力，讓你緊貼在他背後。如果超過他身體的中線，就會製造出他可以利用來面向你的空間；如果落後於他的轉動，你就會在 hook 建立之前失去接觸他背部的機會。",
+    "answer_line": "胸口與脊椎垂直",
+    "distractors": {
+     "plausible": [
+      "胸口與對手脊椎平行",
+      "胸口超過身體中線"
+     ],
+     "trap": [
+      "胸口落後於轉動"
+     ]
+    }
+   },
+   {
+    "question": "從 armbar 成功完成 back take 之後，接下來能立即使用的降伏技有哪些？",
+    "answer": "一旦透過 seatbelt 和雙 hook 建立 back control，rear naked choke 就會成為主要威脅，因為對手的頸部此時已可接觸到。有 gi 時可以使用 bow and arrow choke，如果對手過度防守頸部，也可以嘗試從背後進行 armbar。如果在轉換過程中建立了 gift wrap，透過被困的手臂可以立即找到 armbar 或勒頸的機會。完成這個轉換能讓你進入整個 back attack 系統，而不只是單一孤立的降伏技。",
+    "answer_line": "rear naked choke 為主要威脅",
+    "distractors": {
+     "plausible": [
+      "只有 bow and arrow 能用",
+      "重新打開 armbar from mount"
+     ],
+     "trap": [
+      "從遠側進行 kimura"
+     ]
+    }
+   },
+   {
+    "question": "在 back take 的過程中，對手手肘緊貼髖部、緊緊縮成 turtle —— 你要如何放入 hook？",
+    "answer": "面對緊縮的 turtle，用你的膝蓋當作楔子，卡在近側他的髖部與地墊之間，撬出第一個 hook 的空間。持續在他背上施加沉重的胸口壓力，避免他坐起來或滾開。要放第二個 hook 時，把你的髖部繞往他遠側移動，同時保持 seatbelt 抓緊，再把腿穿過他遠側的髖部。如果 hook 仍然被擋住，就先用 seatbelt 建立單邊 hook 的 back control，耐心地慢慢處理，而不是硬要同時放入兩個 hook，冒著完全失去控制的風險。",
+    "answer_line": "膝蓋卡位、繞髖、保持耐心",
+    "distractors": {
+     "plausible": [
+      "硬把兩個 hook 同時放入",
+      "拉開對手的手臂讓他攤平"
+     ],
+     "trap": [
+      "放棄胸口壓力去放 hook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 armbar 轉換到 back take，最可靠的判斷指標是什麼？",
+    "answer": "最可靠的指標是感覺到跨過你臉部的那條腿抬起或變輕，同時抓法從你的手腕或前臂改抓到你遠側的肩膀或衣領。這兩個同時發生的變化，代表攻擊方正放棄 armbar 的完成，改為進行位置轉換。體重分布也會從垂直伸展的壓力，轉變成朝你背部方向移動的側向力量。",
+    "answer_line": "臉部的腿抬起，抓法轉移",
+    "distractors": {
+     "plausible": [
+      "對手的髖部開始頂動",
+      "攻擊方把 armbar 鎖得更緊"
+     ],
+     "trap": [
+      "攻擊方放開所有抓法"
+     ]
+    }
+   },
+   {
+    "question": "在 back take 的轉換過程中，你的主要防守重點應該是什麼？",
+    "answer": "你的主要防守重點會從保護手臂轉變為阻止 hook 放入你的髖部。一旦攻擊方放棄 armbar，你的手臂就不再是主要目標。用手肘夾緊髖部、膝蓋併攏、阻止攻擊方的腿穿進你的大腿之間，來阻擋 hook 的放入。拒絕 hook 就能阻止 back control 的完全建立。",
+    "answer_line": "在髖部擋住 hook",
+    "distractors": {
+     "plausible": [
+      "繼續保護被困的手臂",
+      "專注於剝除 seatbelt"
+     ],
+     "trap": [
+      "伸直手臂來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用抓法轉換的空檔來改善自己的位置？",
+    "answer": "抓法轉換的空檔發生在攻擊方放開 armbar 抓法、但尚未建立 seatbelt 控制的時候。在這短暫的瞬間，朝遠離攻擊方的方向做出爆發性的 hip escape 來製造距離。因為在這個空檔中攻擊方既沒有 armbar 控制，也沒有 back control，你的逃脫幾乎不會遇到什麼阻力。抓準時機的 hip escape 能讓你回復到 half guard，甚至 open guard。",
+    "answer_line": "利用空檔做 hip escape",
+    "distractors": {
+     "plausible": [
+      "等到對方建立完整的 back control",
+      "改攻擊降伏技"
+     ],
+     "trap": [
+      "更進一步轉向攻擊方"
+     ]
+    }
+   },
+   {
+    "question": "一旦察覺到 back take 的企圖，為什麼繼續轉身會很危險？",
+    "answer": "繼續轉身會提供攻擊方接觸你背部所需要的旋轉動能。你原本的轉身動作是適合用來防守 armbar 的，但一旦攻擊方轉換成 back take，你的轉動就會直接幫助他的轉換，暴露你的脊椎，並製造出放入 hook 的空間。停止或反轉你的轉動，會迫使攻擊方必須靠自己產生所有的位置變化，大幅降低他的成功率。",
+    "answer_line": "助長轉動，暴露背部",
+    "distractors": {
+     "plausible": [
+      "只對防守 armbar 有幫助",
+      "能製造距離逃脫"
+     ],
+     "trap": [
+      "一路轉到底"
+     ]
+    }
+   },
+   {
+    "question": "在 back take 過程中，什麼樣的身體姿勢最能阻止 hook 成功放入？",
+    "answer": "最有效的姿勢是緊縮的 turtle：手肘牢牢夾緊髖部、膝蓋盡量拉近胸口、下巴內收。這會形成一個緊密的防禦外殼，消除攻擊方需要穿入 hook 的軀幹與大腿之間的空間。再搭配對任何試圖進入的腿主動用手阻擋，這個姿勢會讓攻擊方大幅更難建立完整的 back control。",
+    "answer_line": "緊縮 turtle，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "趴平在地，雙臂張開",
+      "坐起來面向攻擊方"
+     ],
+     "trap": [
+      "撐手，髖部抬高"
+     ]
+    }
+   },
+   {
+    "question": "對手已經放入一個 hook，但還沒抓到 seatbelt —— 你最好的防守反應是什麼？",
+    "answer": "把重點放在阻止 seatbelt 的建立，因為那才是會把你完全鎖進 back control 的控制點。用雙手對抗攻擊方的手臂，阻止他在你胸口扣緊雙手。同時，用雙腿夾住那個單邊 hook，或用一隻手去剝除它，另一隻手則維持上半身的防守。單一個 hook 提供的控制有限，所以拒絕 seatbelt 能讓局勢仍有機會挽回，並阻止攻擊方鞏固完整的 back control。",
+    "answer_line": "拒絕 seatbelt 扣手",
+    "distractors": {
+     "plausible": [
+      "只專注剝除那個 hook",
+      "立刻嘗試轉身脫身"
+     ],
+     "trap": [
+      "放開手臂去剝除 hook"
+     ]
+    }
+   },
+   {
+    "question": "一旦察覺到 back take 的威脅，你應該如何調整 armbar 的防守策略？",
+    "answer": "從積極的轉身改為受控、最小幅度的轉動，同時兼顧防守兩種威脅。不要再緊緊扣住雙手，改用一隻手保護頸部和衣領，另一隻手處理 hook 和腿的穿入。你的髖部位置應該傾向貼平回地墊，而不是繼續轉身，因為貼平能拒絕背部被接觸，同時仍保有足夠的手臂彎曲來阻止 armbar 完成。關鍵在於認清威脅已經改變，你的防守姿態也必須跟著調整。",
+    "answer_line": "貼平髖部，分工防守",
+    "distractors": {
+     "plausible": [
+      "轉得更快來完成逃脫",
+      "把雙手扣得更緊來防守"
+     ],
+     "trap": [
+      "繼續轉動完成滾翻"
+     ]
+    }
+   }
+  ]
+ }
+}

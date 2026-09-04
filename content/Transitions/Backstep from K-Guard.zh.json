@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從K-Guard啟動backstep的最佳時機是什麼？",
+    "answer": "最佳時機是bottom player的inverted hook張力暫時下降時，通常發生在他們投入掃技嘗試或調整grip之後。你也可以主動創造這個窗口：先假動作一個forward-pressure pass，引誘他們的防守hook進入反應性姿勢，接著在他們來得及重新調整hook張力之前立刻反向做backstep。",
+    "answer_line": "當他們hook張力下降時",
+    "distractors": {
+     "plausible": [
+      "剛load hook之後馬上做",
+      "一抓到crossface就馬上做"
+     ],
+     "trap": [
+      "直接拉穿hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼backstep抽腿時圓弧路徑優於直線抽腿？",
+    "answer": "K-Guard的inverted hook在正面向後拉扯時咬合力最強。圓弧路徑能自然繞開hook最強的抵抗平面，讓抽腿所需的力量降低，也減少動作被察覺的機率。相較於直線硬拉在hook抵抗最強的瞬間造成瞬間不穩，圓弧路徑也能在整個動作過程中維持更好的base。",
+    "answer_line": "弧線避開hook最強角度",
+    "distractors": {
+     "plausible": [
+      "直線抽腿清得最快",
+      "弧線省去上半身grip"
+     ],
+     "trap": [
+      "直接向後拉穿hook"
+     ]
+    }
+   },
+   {
+    "question": "整個backstep過程中必須維持什麼grip，才能防止bottom player跟隨你的動作？",
+    "answer": "整個backstep過程中，crossface、collar grip或underhook等上半身控制都是必要的。這個grip能把bottom player的軀幹固定住，讓你的下半身在不受干擾的情況下改變位置。沒有這個錨點，bottom player會朝你backstep的方向做hip escape，儘管方向改變了，仍能維持他們的guard結構。控制遠側髖部則是輔助錨點，能阻擋他們的主要逃脫路線。",
+    "answer_line": "crossface、collar或underhook",
+    "distractors": {
+     "plausible": [
+      "遠側手臂的overhook",
+      "只抓褲管"
+     ],
+     "trap": [
+      "放開grip以求更快移動"
+     ]
+    }
+   },
+   {
+    "question": "你的backstep嘗試過程中，對手成功轉為Single Leg X-Guard——正確的回應是什麼？",
+    "answer": "立刻把空手posting到地面，在他們穩固之前先處理SLX hook。把髖部向前推壓，壓縮他們的hook結構，防止抬升。你可以嘗試從SLX做backstep，或轉為標準的SLX passing序列，例如knee slide或hip switch。關鍵是不要驚慌拉開距離，那樣反而會給對手完成掃技所需的空間。",
+    "answer_line": "posting手，向hook推髖部",
+    "distractors": {
+     "plausible": [
+      "先做hip switch再處理hook",
+      "改抓heel hook的grip"
+     ],
+     "trap": [
+      "拉開距離"
+     ]
+    }
+   },
+   {
+    "question": "從K-Guard嘗試backstep前，最關鍵的設置要素是什麼？",
+    "answer": "控制bottom player遠側的髖部是最關鍵的設置要素。若沒有控制遠側髖部，bottom player會朝backstep的方向做hip escape，儘管方向改變了，仍能維持他們的guard結構。固定住遠側髖部，能讓你的抽腿動作真正創造出位置上的分離，而不只是讓雙方同時朝同一方向移動。",
+    "answer_line": "先固定遠側髖部",
+    "distractors": {
+     "plausible": [
+      "建立深層collar tie",
+      "把重心放上支撐腿"
+     ],
+     "trap": [
+      "追逐被纏住的腳踝grip"
+     ]
+    }
+   },
+   {
+    "question": "K-Guard的backstep與De La Riva Guard的backstep有何不同？",
+    "answer": "主要差異在於要繞過的hook幾何結構不同。K-Guard的inverted hook會沿著身體中線產生側向拉力，而DLR的hook則纏繞在腿外側，形成不同的固定向量。K-Guard的backstep需要依序處理inverted hook與butterfly hook兩個hook，而DLR的backstep主要只需處理單一的DLR hook與遠側腳的位置。由於雙hook系統，K-Guard的抽腿弧線也比DLR更寬。",
+    "answer_line": "K-Guard要清兩個hook",
+    "distractors": {
+     "plausible": [
+      "DLR的hook也是側向拉力",
+      "K-Guard弧線比DLR更緊"
+     ],
+     "trap": [
+      "兩種backstep完全一樣處理"
+     ]
+    }
+   },
+   {
+    "question": "backstep過程中清開兩個hook後，你應該立刻做什麼？",
+    "answer": "立刻把髖部向前推進，不做任何停頓地穩固到half guard top或headquarters position。建立crossface或underhook control，並威脅立即的後續passing，例如knee slice或leg drag。hook清開到guard重新建立之間的短暫窗口，正是backstep能發揮最大價值的地方——任何延遲都會讓bottom player重整防守結構並重新建立hook。",
+    "answer_line": "向前推進，立刻穩固",
+    "distractors": {
+     "plausible": [
+      "先停下重整你的grip",
+      "撤退到站立base"
+     ],
+     "trap": [
+      "等他們先重新hook"
+     ]
+    }
+   },
+   {
+    "question": "K-Guard的backstep未能清開hook，最常見的單一原因是什麼？",
+    "answer": "最常見的失敗原因是忽略遠側髖部——若沒有固定住它，bottom player只需朝你backstep的方向做hip escape就能跟上你，儘管角度改變了，hook結構依然完整。第二常見的失敗原因是在butterfly hook被抬升力量load住的情況下嘗試抽腿，這會在動作過程中偷走你的posting base。務必先固定遠側髖部並壓縮butterfly hook，再投入弧線動作。",
+    "answer_line": "沒有先固定遠側髖部",
+    "distractors": {
+     "plausible": [
+      "butterfly hook仍被load著",
+      "整體抽腿太慢"
+     ],
+     "trap": [
+      "追逐深層collar grip"
+     ]
+    }
+   },
+   {
+    "question": "你的backstep因為對手重新加大inverted hook張力而停滯——你該轉向哪個接續動作？",
+    "answer": "利用他們重新hook的投入來反制。當他們把被纏住的腿拉回中線時，他們的張力現在朝向前側方，這反而打開了forward-pressure pass的機會。假動作重置backstep，接著立刻轉向他們剛過度投入的方向做knee slice或smash pass。另外，也可以把抽腿弧線改向leg drag，抓住他們遠側的腿橫過你身體。backstep與forward passing組成一個雙重威脅，能消耗對方的retention能力。",
+    "answer_line": "鏈接向前的smash pass",
+    "distractors": {
+     "plausible": [
+      "重置後只重複backstep",
+      "直接改攻submission"
+     ],
+     "trap": [
+      "硬闖穿過抵抗"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從K-Guard即將發生的backstep，最早的辨識線索是什麼？",
+    "answer": "最早的線索是重心轉向top player空出的posting腿，表現為被纏住的腿那一側壓力減輕。這通常伴隨著他們的手移向控制你遠側的髖部，這是backstep的關鍵設置要求。辨識出這個準備性的重心轉移，能給你最大的時間窗口來加強hook或準備轉換。",
+    "answer_line": "重心轉向他們的posting腿",
+    "distractors": {
+     "plausible": [
+      "突然抓你的collar",
+      "他們把髖部壓平"
+     ],
+     "trap": [
+      "等到hook完全清開"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄K-Guard的retention，轉換為Single Leg X-Guard？",
+    "answer": "轉換時機是當你的inverted hook儘管盡力防守仍被清離被纏住的腿時。一旦inverted hook失去接觸，K-Guard的主要retention機制就已消失，繼續試圖重新hook只會是低機率的行動。此時應立刻重新調整雙腿，在髖部處抓住正在backstep的那條腿，轉為Single Leg X-Guard，你會擁有正當的進攻掃技選項，而不是繼續一場正在輸掉的retention戰。",
+    "answer_line": "inverted hook被清開時",
+    "distractors": {
+     "plausible": [
+      "他們一轉移重心就馬上做",
+      "butterfly hook load起來時"
+     ],
+     "trap": [
+      "繼續硬拚重新hook"
+     ]
+    }
+   },
+   {
+    "question": "在backstep嘗試中加大butterfly hook的抬升力量，對你的防守有什麼幫助？",
+    "answer": "butterfly hook能製造向上的抬升力量，在backstep的重心轉移階段破壞top player的base。由於backstep需要在空出腿上有穩固的posting，抬升壓力會破壞這個posting位置，可能徹底中止backstep嘗試。即使沒有完全阻止backstep，這股抬升力量也會迫使top player先處理butterfly hook的威脅才能繼續，為你爭取額外的反應時間來加強hook。",
+    "answer_line": "抬升力量破壞他們的posting",
+    "distractors": {
+     "plausible": [
+      "重置你的inverted hook",
+      "逼迫轉入mount"
+     ],
+     "trap": [
+      "代表要放開所有grip"
+     ]
+    }
+   },
+   {
+    "question": "跟隨backstep方向做hip escape時，過度投入的風險是什麼？",
+    "answer": "hip escape過度旋轉可能讓你的背部暴露給top player，如果他們放棄backstep轉而利用你轉身的動作，可能給他們back-take的機會。hip escape應該是受控且成比例的——移動的幅度剛好足以維持你的guard角度，同時留意自己肩膀相對於地面的位置。如果你感覺自己轉過垂直線，就停止動作並重新建立frame，再繼續。",
+    "answer_line": "過度旋轉會暴露背部",
+    "distractors": {
+     "plausible": [
+      "會削弱你的guard retention",
+      "會過快讓髖部疲勞"
+     ],
+     "trap": [
+      "繼續轉過垂直線"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep from K-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

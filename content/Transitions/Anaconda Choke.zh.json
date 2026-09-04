@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Anaconda Choke.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在手臂穿繞方式上，Anaconda Choke 和 Darce Choke 有什麼區別？",
+    "answer": "Anaconda Choke 從正面穿入，穿過對手近側手臂下方，再繞過脖子，雙手在遠側連接。Darce Choke 則是從後方／腋下穿入，橫過脖子，雙手在近側連接。兩者都是 arm-in 的 head-and-arm choke，但穿繞方向相反，需要不同的收尾技巧。",
+    "answer_line": "Anaconda 在遠側，Darce 在近側",
+    "distractors": {
+     "plausible": [
+      "兩者都在遠側連接雙手",
+      "Anaconda 從後方，Darce 從正面"
+     ],
+     "trap": [
+      "雙手都穿到底下，滾到背後"
+     ]
+    }
+   },
+   {
+    "question": "Anaconda Choke 最理想的 grip 配置是什麼？為什麼？",
+    "answer": "gable grip（掌心對掌心）能提供最理想的結構完整性，因為它能平均分散雙臂的力量，且對手極難透過手部纏鬥破解。收緊手肘、維持手腕挺直、前臂平行。當手部位置不允許使用 gable grip 時，S-grip 也可接受，但強度稍弱。",
+    "answer_line": "gable grip，掌心相貼",
+    "distractors": {
+     "plausible": [
+      "S-grip 鎖得更緊",
+      "在自己二頭肌上 figure-four"
+     ],
+     "trap": [
+      "十指緊扣"
+     ]
+    }
+   },
+   {
+    "question": "對手撐手擋住你的 gator roll——你如何調整？",
+    "answer": "你有兩個選項：第一，維持 grip 與胸口壓力，把髖部往對側走，改變滾動角度來繞過他們的撐地手。第二，放棄 roll，改為站姿完成——把 grip 向上拉，同時讓胸口下壓、髖部後 sprawl。對付撐地能力強的對手，站姿收尾的成功率更高。",
+    "answer_line": "放棄 roll，站姿完成",
+    "distractors": {
+     "plausible": [
+      "把髖部走向同一側",
+      "硬把 roll 完成穿過他們的手臂"
+     ],
+     "trap": [
+      "翻成 belly-down 撐起來"
+     ]
+    }
+   },
+   {
+    "question": "完成 Anaconda Choke 時，正確的施力方向是什麼？",
+    "answer": "把你收縮的手肘拉向自己的髖部，同時擴展胸口。這會產生剪刀式的動作，壓迫頸動脈。前臂應以大約 45 度角橫過他們的脖子側面——攻擊血流而非氣管。避免直接向前推壓喉嚨。",
+    "answer_line": "手肘拉向髖部，擴胸",
+    "distractors": {
+     "plausible": [
+      "前臂直推氣管",
+      "手肘往頭部方向拉"
+     ],
+     "trap": [
+      "改用膝蓋壓脊椎"
+     ]
+    }
+   },
+   {
+    "question": "對手在你設置 Anaconda 過程中把被困的手臂抽出——你會立即做出什麼調整？",
+    "answer": "立即轉換到 Darce Choke，讓收 choke 的手臂更深地滑過他們脖子，穿向遠側肩膀。手臂逃脫其實打開了原本手臂被困時無法取得的 Darce 角度。絕不要試圖重新困住手臂——順勢轉向他們防守動作所創造的 submission。",
+    "answer_line": "順勢改打 Darce Choke",
+    "distractors": {
+     "plausible": [
+      "重新困住手臂，維持 Anaconda",
+      "改抓 guillotine grip"
+     ],
+     "trap": [
+      "仍然硬追 Anaconda roll"
+     ]
+    }
+   },
+   {
+    "question": "啟動 gator roll 之前必須滿足哪三個條件？",
+    "answer": "第一，grip 必須鎖緊，你的前臂與他們的脖子／肩膀之間沒有任何空隙。第二，胸口壓力必須已經破壞對手的姿勢，讓他們的頭被壓低。第三，他們的 base 必須已被破壞（通常透過把髖部走向一側）。沒有滿足這三個條件就貿然 roll，會讓對手有機會撐地、破 grip 或逃脫位置。",
+    "answer_line": "grip 緊、姿勢破、base 亂",
+    "distractors": {
+     "plausible": [
+      "姿勢破壞就好，不管 base",
+      "只要姿勢破了 grip 鬆一點也沒關係"
+     ],
+     "trap": [
+      "直接馬上開始 roll"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 arm-in 的結構讓 Anaconda 一旦鎖住後特別難防守？",
+    "answer": "被困的手臂實際上會強化 choke 的機制，而不是創造防守空間。當對手試圖把手臂抽出時，往往反而讓自己的 choke 收得更緊。他們被困的肩膀成為 choke 結構的一部分，壓著他們脖子的一側，而你的二頭肌壓著另一側。這讓他們只剩一隻自由的手來對抗 grip，相較標準的 guillotine 有兩隻手可用。",
+    "answer_line": "被困手臂會收緊 choke",
+    "distractors": {
+     "plausible": [
+      "更快封住氣道",
+      "更用力壓迫氣管"
+     ],
+     "trap": [
+      "轉向對手方向來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在長時間的 Anaconda control 交手中，如何管理體力消耗？",
+    "answer": "依靠骨骼結構與體重，而不是靠肌肉擠壓。在 submission 嘗試之間，維持 grip 鎖緊但相對放鬆——持續最大力度擠壓只會耗盡前臂，卻沒有額外效益。用身體位置產生的胸口壓力，而不是用手臂去推。這個位置在體力消耗上對攻擊者有利，因為防守者必須同時對抗 choke 與位置控制。",
+    "answer_line": "grip 放鬆鎖住，靠體重不靠擠",
+    "distractors": {
+     "plausible": [
+      "全程用最大力擠壓",
+      "用手臂推來驅動胸口"
+     ],
+     "trap": [
+      "打開 grip 讓前臂休息"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該從 Anaconda 轉換到背後控制，而不是繼續追求 choke？",
+    "answer": "當對手轉向你的 grip 方向、暴露出背部時，就轉換到背後控制。這種防守反應能讓你取得 hooks 與 seat belt 控制，比硬拚一個被抵抗的 choke 成功率更高。如果對手已成功創造足夠空間讓 choke 不再收緊，或是在比賽中位置分數變得有價值時，也可以考慮轉換。",
+    "answer_line": "他們轉身、暴露背部時",
+    "distractors": {
+     "plausible": [
+      "grip 一連上就馬上轉換",
+      "只在 choke 完全鎖死之後"
+     ],
+     "trap": [
+      "當他們伸展被困的手臂時"
+     ]
+    }
+   },
+   {
+    "question": "除了單純改變位置之外，gator roll 在 Anaconda 收尾機制中還扮演什麼角色？",
+    "answer": "gator roll 有多個關鍵作用：它能防止防守者挺直姿勢來卸除壓力、創造身體垂直交叉的最佳收尾角度、利用旋轉的動能收緊 choke，並讓你最終落在體重能強化擠壓力道的位置。這個 roll 也會讓防守者失去方向感，並在關鍵的收緊階段消除他們撐地或建立 base 的能力。",
+    "answer_line": "roll 阻止挺直姿勢並收緊 choke",
+    "distractors": {
+     "plausible": [
+      "轉為胸對胸來收尾",
+      "在 roll 過程中重新設定 grip"
+     ],
+     "trap": [
+      "在旋轉過程中放鬆 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 Anaconda Choke 最關鍵的時機窗口是什麼時候？",
+    "answer": "最關鍵的窗口是在攻擊者於遠側連接雙手之前。一旦這個環扣閉合，逃脫成功率會急劇下降。當你感覺到手臂正在你近側手臂下方穿入時，必須立刻用空著的手攻擊那隻穿繞的手腕，並開始朝被困手臂的反方向繞圈。預防 grip 完全連上，遠比逃脫已經建立的 Anaconda 更有效。",
+    "answer_line": "在雙手於遠側連上之前",
+    "distractors": {
+     "plausible": [
+      "roll 一開始就要防",
+      "擠壓開始收緊時"
+     ],
+     "trap": [
+      "等胸口壓力來了再說"
+     ]
+    }
+   },
+   {
+    "question": "你的近側手臂被困住，攻擊者已經鎖住 grip——你該往哪個方向繞圈？為什麼？",
+    "answer": "朝被困手臂的反方向繞圈。如果右手被困，就往左繞。往反方向繞能打開收緊環扣的角度，創造出可能抽出手臂的空間。往被困那一側繞則會餵給 choke，收得更緊。繞圈的同時，空著的手應該拉住攻擊者收 choke 的手腕或手肘，為脖子創造額外空間。",
+    "answer_line": "朝被困手臂的反方向繞圈",
+    "distractors": {
+     "plausible": [
+      "朝被困手臂那一側繞圈",
+      "反方向繞圈但硬拉手臂出來"
+     ],
+     "trap": [
+      "轉向他們，把他們的 base 壓平"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者開始跨過你的背部準備 gator roll——你立即的防守反應是什麼？",
+    "answer": "用空著的手穩固地撐在墊子上或撐住攻擊者的髖部，擋住跨步並剝奪完成 roll 所需的角度。同時把雙腿向後 sprawl，降低你的重心讓 roll 更難完成。如果跨步已經進行到一半，考慮順著 roll 的動能，落地後立刻掙扎，而不是試圖阻止一個已經投入的 roll。時機決定哪種反應才適當。",
+    "answer_line": "撐住空手，雙腿後 sprawl",
+    "distractors": {
+     "plausible": [
+      "蜷曲身體等它結束",
+      "先把被困的手臂拉出來"
+     ],
+     "trap": [
+      "翻成 belly-up 來擋跨步"
+     ]
+    }
+   },
+   {
+    "question": "你應該如何管理被困的手臂，以降低 Anaconda Choke 的效果？",
+    "answer": "讓被困的手臂保持彎曲，手肘緊貼肋骨，而不是伸直。伸直的手臂會增加環扣尺寸，讓攻擊者有更大的槓桿來擠壓。試著旋轉被困手臂，讓手肘指向地面，這會改變擠壓角度，降低機械優勢。絕不要試圖用蠻力把手臂直接抽出，這通常只會讓 choke 對你收得更緊。",
+    "answer_line": "手肘彎曲，貼緊肋骨",
+    "distractors": {
+     "plausible": [
+      "伸直手臂創造空間",
+      "把手肘轉向天花板"
+     ],
+     "trap": [
+      "用蠻力把手臂直接抽出"
+     ]
+    }
+   },
+   {
+    "question": "防守 Anaconda 時，什麼樣的呼吸策略能幫助你在壓力下撐更久？",
+    "answer": "用鼻子做短而有控制的呼吸，而不是用嘴巴喘氣。深沉的驚慌呼吸會擴張你的胸口，反而可能收緊 choke 的環扣。保持冷靜，有系統地淺呼吸，同時進行防守。恐慌造成的肌肉緊繃會增加氧氣消耗，所以要有意識地放鬆那些逃脫過程中不需要用到的肌肉。如果感覺到視野變窄或頭暈開始出現，應立刻拍地，不要賭最後一秒的逃脫。",
+    "answer_line": "短而有控制的鼻部呼吸",
+    "distractors": {
+     "plausible": [
+      "屏住呼吸直到逃脫",
+      "全身緊繃，硬撐到底"
+     ],
+     "trap": [
+      "劇烈掙扎並大口喘氣"
+     ]
+    }
+   }
+  ]
+ }
+}

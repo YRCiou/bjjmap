@@ -1,0 +1,185 @@
+{
+ "attacker": {
+ "flashcards": [
+  {
+   "question": "從 clinch 中啟動 arm drag 的最佳時機是什麼？",
+   "answer": "最佳時機是對手伸手爭取抓握、向前施壓，或在抓握對抗中把體重投入某一側的那一刻。這個短暫的伸展會創造出改變方向所需的槓桿。如果在對手雙臂收回、手肘夾緊時嘗試 drag，會失去機械優勢，成功機率大幅降低。",
+   "answer_line": "對手伸展或投入重心時",
+   "distractors": {
+    "plausible": [
+     "clinch 剛建立的那一刻",
+     "對手收回防守之後"
+    ],
+    "trap": [
+     "對手手肘夾緊的時候"
+    ]
+   }
+  },
+  {
+   "question": "你開始執行 arm drag 時，對手把手撐在你的肩膀上，你該如何調整？",
+   "answer": "加快你的橫向移步，並保持重心壓低，直接頂過那隻撐地的手。一旦你已經清出對手的中線，一隻撐在你肩上的手並沒有足夠的結構強度能擋住向前的髖部推力。或者，把對手那隻撐地的手臂當成新的 drag 目標，因為它伸展開來，比原本的目標更容易被改變方向。",
+   "answer_line": "壓低重心頂過去，繼續移步",
+   "distractors": {
+    "plausible": [
+     "停下來重新抓握",
+     "改成 double leg"
+    ],
+    "trap": [
+     "後退來破壞對手的撐地"
+    ]
+   }
+  },
+  {
+   "question": "什麼樣的抓握配置能為初始的 drag 提供最強的機械優勢？",
+   "answer": "同側手用杯狀抓握包住手腕，另一隻手用 C-grip 抓住對手 tricep，這樣的組合能形成最強的 two-on-one 配置。手腕的抓握負責控制方向，tricep 的抓握則提供拉力。這讓你能用髖部旋轉作為力量來源，改變對手整條手臂的方向，形成對手單一肢體無法抵抗的機械優勢。",
+   "answer_line": "杯狀抓手腕，C-grip 抓 tricep",
+   "distractors": {
+    "plausible": [
+     "兩隻手都抓同一隻手腕",
+     "抓 bicep，不抓 tricep"
+    ],
+    "trap": [
+     "用 overhook 代替杯狀抓手腕"
+    ]
+   }
+  },
+  {
+   "question": "arm drag 在面對經驗豐富的柔術手時，最常見的失敗原因是什麼？",
+   "answer": "洩漏出抓握設置的意圖是最常見的失敗點。經驗豐富的柔術手能察覺到 two-on-one 配置正在成形，會立刻收回手臂、pummel 進 underhook，或提前繞開。修正方法是在正常的手部對抗序列中，用假動作與誤導來掩飾你的抓握意圖，讓對手無法分辨這是例行的抓握對抗，還是 arm drag 的設置。",
+   "answer_line": "洩漏出抓握設置的意圖",
+   "distractors": {
+    "plausible": [
+     "只用手臂拉，不用髖部",
+     "抓在前臂太靠上的位置"
+    ],
+    "trap": [
+     "太早投入重心"
+    ]
+   }
+  },
+  {
+   "question": "對手成功用 pummel 進 underhook 來防守你的 drag，你該接什麼連環攻擊？",
+   "answer": "利用對手 pummel 的動量反過來對付他們，立刻轉換到對側的 duck under。當對手把 underhook 頂進來時，他們會短暫地把重心投入向前，暴露出遠端那一側。或者，趁對手雙手忙於 pummel 時，把對手的頭往下拉做 snap down，或改在對手新建立的 underhook 下方進 single leg。",
+   "answer_line": "在對側做 duck under",
+   "distractors": {
+    "plausible": [
+     "硬拚重新爭回 underhook",
+     "頂著壓力硬撲 double leg"
+    ],
+    "trap": [
+     "轉身放棄背部"
+    ]
+   }
+  },
+  {
+   "question": "drag 過程中，力量應該相對於對手身體朝哪個方向施加？",
+   "answer": "力量應該以斜向的方式施加，跨過並越過你自己的中線，而不是直接向後或向側邊。drag 把對手的手臂拉過你的中線，朝你另一側的髖部方向，同時你朝對手手臂原本所在的方向移步。這會對對手的身體產生旋轉力，把對手的肩膀轉離你，打開通往背部的路徑。",
+   "answer_line": "斜向跨過你自己的中線",
+   "distractors": {
+    "plausible": [
+     "直接向後遠離對手",
+     "直接朝同一側拉"
+    ],
+    "trap": [
+     "直接推進對手胸口"
+    ]
+   }
+  },
+  {
+   "question": "對手用強力的 collar tie 控制你的頭，讓你無法抬頭，你還能執行 arm drag 嗎？",
+   "answer": "可以，但你必須先處理 collar tie，或把它納入你的攻擊之中。用一個 two-on-one 破解直接對付那隻做 collar tie 的手臂，把對手用來控制你的抓握轉變成你的 drag 目標。或者，一邊從 collar tie 下方鑽出頭來，一邊同時在對手另一隻手臂上建立手腕抓握。事實上，做 collar tie 的那隻手臂是絕佳的 drag 目標，因為它本來就已經朝你伸展過來。",
+   "answer_line": "用 two-on-one 破解 collar tie",
+   "distractors": {
+    "plausible": [
+     "硬闖過去，不管那個 tie",
+     "直接鑽下去進 single leg"
+    ],
+    "trap": [
+     "往後拉開製造空間"
+    ]
+   }
+  },
+  {
+   "question": "在 no-gi 和 gi 的 clinch 中執行 arm drag，抓握要求有什麼不同？",
+   "answer": "在 no-gi 中，two-on-one 用杯狀手腕抓握配上 C-grip 抓 tricep。主要挑戰是汗水會降低抓握的穩固程度，需要更快的執行速度和更果斷的投入。在 gi 中，你可以直接抓手腕與手肘附近的 sleeve，這能提供更多摩擦力和控制力，讓 drag 可以稍微放慢但更加可控。sleeve 的抓握也能讓你在清過對手肩線之後，維持更久的控制。",
+   "answer_line": "抓法相同；gi 可控制 sleeve",
+   "distractors": {
+    "plausible": [
+     "no-gi 需要改用 collar tie",
+     "gi 需要用 overhook，不用手腕"
+    ],
+    "trap": [
+     "在 no-gi 中放慢執行速度"
+    ]
+   }
+  }
+ ]
+ },
+ "defender": {
+ "flashcards": [
+  {
+   "question": "在 clinch 中，能最早察覺 arm drag 嘗試正在被設置的訊號是什麼？",
+   "answer": "最早的訊號是感覺到對手的雙手以 two-on-one 的配置控制你的其中一隻手臂。這可能是從一個手腕抓握開始，隱約地展開，接著伸手抓你的 tricep。在拉扯啟動之前就察覺到這個抓握模式，能給你最大的防守時間窗口。次要訊號包括對手的髖部開始轉離你，以及對手的頭部高度略微下降。",
+   "answer_line": "雙手都抓在你同一隻手臂上",
+   "distractors": {
+    "plausible": [
+     "對手的髖部正對你",
+     "頸部的壓力增加"
+    ],
+    "trap": [
+     "對手後退製造空間"
+    ]
+   }
+  },
+  {
+   "question": "為什麼朝 drag 方向繞轉比往反方向拉走更有效？",
+   "answer": "朝 drag 方向繞轉能阻斷這個技巧成功所需的角度變化。arm drag 的成功之道在於製造出一個橫向繞過你肩線的路徑。當你朝 drag 方向繞轉時，你會直接面對對手，阻止對手清出你的肩線。往反方向拉走則會製造出距離，反而更容易讓對手完成繞到你背後的路徑。朝威脅移動能壓縮對手所需的空間。",
+   "answer_line": "阻斷對手通往背部的角度",
+   "distractors": {
+    "plausible": [
+     "能更快消耗對手體力",
+     "能重設回中性 clinch"
+    ],
+    "trap": [
+     "能製造距離來防守"
+    ]
+   }
+  },
+  {
+   "question": "對手執行了部分的 arm drag，已經清出一側肩膀，你最好的挽救選項是什麼？",
+   "answer": "立刻以前腳為軸轉動身體轉向對手，用力把髖部朝對手方向推進。這個重新對正的動作必須在對手建立胸貼背的連結之前完成。轉身的同時，用你的空手在對手肩膀或 bicep 上做 frame。如果對手已經貼上你的背部，那就放低髖部拉 guard，而不是在你處於劣勢角度的站立 scramble 中硬拚。",
+   "answer_line": "轉身推進，趁對手貼身前對正",
+   "distractors": {
+    "plausible": [
+     "後 sprawl 拉開距離",
+     "只用手對抗，保持正對"
+    ],
+    "trap": [
+     "防守性地進 turtle"
+    ]
+   }
+  },
+  {
+   "question": "在 clinch 對抗中，如何在不過度轉為防守的情況下防止 arm drag？",
+   "answer": "維持主動的手部對抗，這能自然而然地阻止 two-on-one 的設置。如果你持續威脅抓握、pummel，並創造自己的進攻序列，對手就沒有太多機會建立 drag 的配置。最好的防守就是一個積極的進攻，讓對手的雙手忙著應付你的威脅，而不是設置他們自己的攻擊。把防守的警覺性融入你的進攻型 clinch 打法之中，而不是把兩者分成獨立的階段。",
+   "answer_line": "用你自己的手保持主動進攻",
+   "distractors": {
+    "plausible": [
+     "雙手一直黏在防守上",
+     "經常退回中性站姿"
+    ],
+    "trap": [
+     "抓緊不放，保持靜止"
+    ]
+   }
+  }
+ ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Arm Drag from Clinch.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

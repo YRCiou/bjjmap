@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Williams Shoulder Lock/from Williams Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Williams Shoulder Lock 主要攻擊哪個解剖結構？為什麼那裡容易受傷？",
+    "answer": "Williams Shoulder Lock 主要透過強迫外旋（posterior rotation）攻擊肩關節（glenohumeral joint），鎖定的是旋轉肌群（supraspinatus、infraspinatus、teres minor、subscapularis）以及關節囊。肩關節的活動範圍很大，這也使它容易受到超出正常外旋能力的旋轉鎖技所傷，尤其當手肘被固定為一個支點，把所有旋轉力都集中在這個關節上時更是如此。",
+    "safety_critical": false,
+    "answer_line": "肩關節，外旋方向",
+    "distractors": {
+     "plausible": [
+      "手肘鉸鏈過度伸展",
+      "手腕與前臂骨骼"
+     ],
+     "trap": [
+      "先加力再固定手肘"
+     ]
+    }
+   },
+   {
+    "question": "對手在你嘗試 submission 時開始撐起身體並試圖 stack——什麼調整能阻止他們逃脫？",
+    "answer": "當對手撐起並 stack 時，立刻用你外側的腿頂住對方的髖部，恢復你雙腿 frame 所需的距離。同時把你的髖部進一步轉離對方受困手臂那一側，維持旋轉壓力。如果對方持續 stack，把你內側的腿轉移到更高的位置頂住對方肩膀，阻止進一步的擠壓。光是 stack 而不處理你的腿部 frame 是沒用的——你的 frame 維持著這個鎖技所需的空間。",
+    "safety_critical": false,
+    "answer_line": "頂住髖部，重新轉開角度",
+    "distractors": {
+     "plausible": [
+      "拉對方衣領往下壓",
+      "只是加大抓握力道"
+     ],
+     "trap": [
+      "放掉你的腿部 frame"
+     ]
+    }
+   },
+   {
+    "question": "哪些跡象顯示這個 shoulder lock 已經到達防守者無法逃脫的程度？",
+    "answer": "無法逃脫的臨界點出現在：對方的手肘被牢牢固定在你的胸口、他們的肩膀已被旋轉超過外旋範圍的大約 70%，而你的髖部角度已完全到位，並用主動的腿部 frame 阻止任何角度變化。到了這個程度，對手已無法產生足夠的反制力來逆轉旋轉壓力，除非冒著傷害肩膀結構的風險。他們唯一安全的選擇就是立刻拍地。",
+    "safety_critical": false,
+    "answer_line": "手肘固定在胸口，髖部到位",
+    "distractors": {
+     "plausible": [
+      "對手完全停止動作",
+      "figure-four 抓握已鎖死"
+     ],
+     "trap": [
+      "加大旋轉來測試鎖技"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍地後，你該如何鬆開 Williams Shoulder Lock？",
+    "answer": "一收到任何拍地訊號，立刻停止所有旋轉壓力。不要直接放開手臂——要在 2 到 3 秒內逐漸反向旋轉，把手臂緩緩引導回解剖學上安全的中立位置。完全鬆開 figure-four 抓握，要等手臂回到中立位置之後才進行。繼續訓練前先用口頭確認夥伴沒有受傷。突然鬆手可能對已經承受壓力的肩關節造成額外傷害。",
+    "safety_critical": true,
+    "answer_line": "緩解壓力，把手臂引導回中立",
+    "distractors": {
+     "plausible": [
+      "先確認對方有拍地才放手",
+      "先鬆抓握，再放手臂"
+     ],
+     "trap": [
+      "直接放開手臂並滾走"
+     ]
+    }
+   },
+   {
+    "question": "當 figure-four 因為流汗開始打滑時，該做什麼抓握調整？",
+    "answer": "當抓握因流汗開始打滑時，把腕對腕的 figure-four 換成 gable grip（掌心對掌心）扣在對方三頭肌後方，這在無道袍情況下能提供更好的抓握持續力。或者可以用你下方的手扣住對方三頭肌，再用上方的手扣住自己的前臂加強。關鍵在於維持手肘壓向你胸口的固定——具體的抓握變化不如維持這個形成旋轉支點的結構性連接來得重要。",
+    "safety_critical": false,
+    "answer_line": "換成扣三頭肌的 gable grip",
+    "distractors": {
+     "plausible": [
+      "把腕對腕抓得更緊",
+      "改用兩手抓對方手腕"
+     ],
+     "trap": [
+      "放開重新搶 overhook"
+     ]
+    }
+   },
+   {
+    "question": "對手不往後拉，反而積極往前撲——你要怎麼利用這個把它轉化成收技？",
+    "answer": "對方往前撲，其實有利於你的連續進攻。利用對方的動能加速轉換到 omoplata——當對方往前撲時，把你外側的腿甩過對方肩膀，把他們的力量轉化成旋轉能量，這樣要嘛能在更銳利的角度直接完成原本的 shoulder lock，要嘛能直接轉入 omoplata 控制。永遠不要用靜態方式硬扛前撲的壓力；把它導入你的 submission 和 sweep 連段，讓對方的力量反過來為你所用。",
+    "safety_critical": false,
+    "answer_line": "轉入 omoplata",
+    "distractors": {
+     "plausible": [
+      "伸手撐地阻止前撲",
+      "把對方拉回來重設角度"
+     ],
+     "trap": [
+      "用身體頂住並頂回壓力"
+     ]
+    }
+   },
+   {
+    "question": "訓練中施展這個 submission 的最低安全施壓速度是多少？為什麼？",
+    "answer": "Williams Shoulder Lock 應該以至少 5 到 7 秒的漸進壓力施展，絕對不能瞬間發力或猛拉。肩關節的結構強化程度遠不如手肘或膝蓋，對突然的旋轉力量特別脆弱。訓練時務必寧可施壓慢一點。如果夥伴在 7 到 10 秒的漸進施壓內都沒有拍地，應該重新檢視你的位置力學，而不是快速加大力道。",
+    "safety_critical": true,
+    "answer_line": "花 5 到 7 秒漸進施壓",
+    "distractors": {
+     "plausible": [
+      "依對方的防守調整速度",
+      "跟 armbar 一樣的速度"
+     ],
+     "trap": [
+      "趁對方還沒防守就瞬間鎖死"
+     ]
+    }
+   },
+   {
+    "question": "即使位置看起來已經鎖死，什麼常見的收技錯誤仍會讓對手逃脫？",
+    "answer": "最常見的收技錯誤，是在 submission 過程中讓對方的手肘偏離你的胸口。少了手肘作為支點固定，旋轉力就會消散，這個鎖技就會變成單純的抓握角力，而不是力學上的 submission。許多練習者只顧著加大旋轉壓力，卻沒有維持手肘的結構性連接，造成一種「看起來鎖得很緊，實際上卻沒有真正機械優勢」的假象。",
+    "safety_critical": false,
+    "answer_line": "讓手肘偏離胸口",
+    "distractors": {
+     "plausible": [
+      "髖部角度不夠",
+      "抓握不夠緊"
+     ],
+     "trap": [
+      "放棄 frame 換來加大力道"
+     ]
+    }
+   },
+   {
+    "question": "當最初的 shoulder lock 被防守掉時，如何把 Williams Shoulder Lock 連接到 omoplata？",
+    "answer": "當對手成功透過製造角度或開始抽出手臂來防守這個 shoulder lock 時，維持你的 overhook 抓握，並把外側的腿甩過對方肩膀，轉換到 omoplata 控制。figure-four 抓握自然能銜接到 omoplata 的力學——你的 overhook 變成肩部控制，你的腿則完成隔離。這個連段之所以有效，是因為防守這個 shoulder lock 通常需要對方轉開角度，而這正好打開了 omoplata 的入口。",
+    "safety_critical": false,
+    "answer_line": "把腿甩過去轉入 omoplata",
+    "distractors": {
+     "plausible": [
+      "立刻改換 armbar",
+      "坐起來 take the back"
+     ],
+     "trap": [
+      "放手去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "在力學上，Williams Shoulder Lock 和標準的 Americana 有什麼差異？",
+    "answer": "Williams Shoulder Lock 是從底部 guard 用 overhook figure-four 抓握施加外旋（posterior rotation），方向與 kimura／omoplata 相同；而 Americana 則是從上位用腕部的 figure-four 施加內旋（medial rotation）。關鍵的力學差異在於旋轉方向與身體位置——Williams Lock 是從底部利用髖部角度和全身參與，把前臂往上推、把肱骨向後旋轉；而 Americana 則是靠上位壓力和重力，把前臂往下曲向地板。Williams Lock 獨特之處在於把 guard 的維持與 submission 威脅結合在一起。",
+    "safety_critical": false,
+    "answer_line": "外旋，從底部施展",
+    "distractors": {
+     "plausible": [
+      "內旋，從底部施展",
+      "同樣旋轉方向，不同抓握"
+     ],
+     "trap": [
+      "從底部往內側扭"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你怎麼辨認對手正從 Williams Guard 設置 Williams Shoulder Lock？",
+    "answer": "最主要的辨識訊號是感覺你的手臂被穿進一個 figure-four 抓握的 overhook，扣在你的三頭肌後方。你會發現那一側的撐地能力正在消失，因為對手把髖部轉開，並開始用腿部 frame 控制距離。關鍵的觸覺訊號，是肩膀上逐漸增加的旋轉壓力，加上你的手肘被拉向對方胸口。在髖部角度完全到位之前及早察覺，能大幅提升防守成功率。",
+    "safety_critical": false,
+    "answer_line": "overhook figure-four 正在形成",
+    "distractors": {
+     "plausible": [
+      "突然的 hip bump sweep 嘗試",
+      "衣領勒緊的動作"
+     ],
+     "trap": [
+      "不理會，硬撐著頂過壓力"
+     ]
+    }
+   },
+   {
+    "question": "你什麼時候應該對 Williams Shoulder Lock 拍地，以避免受傷？",
+    "answer": "當你感覺到肩膀上逐漸增加、無法透過防守動作緩解的旋轉壓力時，立刻拍地。相較於手肘，肩關節的結構強化程度較低，一旦這個鎖技到達力學臨界點，傷害發生得很快。如果你感覺壓力持續累積、防守選項已經用盡，就要在劇痛出現之前先拍地。延遲拍地造成的肩傷可能需要 6 到 12 個月才能恢復，還可能造成慢性關節不穩。",
+    "safety_critical": true,
+    "answer_line": "當旋轉已無法防守時",
+    "distractors": {
+     "plausible": [
+      "等手肘開始痛的時候",
+      "抓握一鎖上就拍地"
+     ],
+     "trap": [
+      "等肩膀出現劇痛才拍地"
+     ]
+    }
+   },
+   {
+    "question": "在 Williams Shoulder Lock 的不同階段，各有哪些防守選項？",
+    "answer": "在抓握正在建立的早期階段：在 figure-four 鎖死之前立刻剝除抓握，保持強壯的姿勢防止髖部轉開角度。在鎖技已施加、但髖部角度尚在形成的中期階段：往被控制手臂那一側轉圈，減少旋轉，同時維持底座做環形抽臂。在完全鎖住、髖部角度已到位的晚期階段：如果無法透過動作緩解壓力，立刻拍地。每個階段的選項都比前一階段更少——及早辨識並反應，能大幅提高防守成功率。",
+    "safety_critical": false,
+    "answer_line": "在 figure-four 鎖死前剝除抓握",
+    "distractors": {
+     "plausible": [
+      "轉離被困手臂那一側",
+      "只在鎖技完成後才撐起身體"
+     ],
+     "trap": [
+      "在完全鎖死時硬把手臂抽出"
+     ]
+    }
+   },
+   {
+    "question": "為什麼環形抽臂比直接把手臂往後拉更有效？",
+    "answer": "直線拉扯會對抗 figure-four 抓握的力學結構，反而增加肩關節的旋轉壓力。環形抽臂——在保持肩膀對齊的同時旋轉手肘——藉由改變施力角度，逐漸解除抓握的力學結構。這個技巧是針對鎖技的結構下手，而不是硬碰硬地對抗它的力量，因此更省力，也大幅降低抽臂過程中的受傷風險。",
+    "safety_critical": false,
+    "answer_line": "改變角度以解除抓握",
+    "distractors": {
+     "plausible": [
+      "旋轉手腕能剝掉抓握",
+      "環形路線是最短的出口"
+     ],
+     "trap": [
+      "用蠻力壓過鎖技"
+     ]
+    }
+   },
+   {
+    "question": "防守 Williams Shoulder Lock 時，要注意哪些連段攻擊？",
+    "answer": "Williams Shoulder Lock 常見的連段包括：當你轉圈躲開或對方把腿甩過來時轉入 omoplata；當你伸出空著的手撐地或製造空間時轉入 triangle choke；以及當你用力把手臂往後拉並伸直時轉入 armbar。每一種防守反應都會為下位的 guard 玩家打開特定的進攻路徑。理解這些連段，能讓你在防守鎖技的同時避免做出餵養其他攻擊的動作——目標是乾淨地抽出手臂，而不觸發轉換攻擊。",
+    "safety_critical": false,
+    "answer_line": "omoplata、triangle choke、armbar",
+    "distractors": {
+     "plausible": [
+      "kimura、guillotine、wristlock",
+      "只有 armbar 會接在抽臂之後"
+     ],
+     "trap": [
+      "用力把手臂往後拉來逃脫"
+     ]
+    }
+   }
+  ]
+ }
+}

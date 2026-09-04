@@ -1,0 +1,129 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼防守 straight ankle lock 的動作經常是切換到 toe hold 的觸發點？",
+    "answer": "當防守者為了破解 straight ankle lock 而把腳趾往下點、腳跟往內轉時，他們正好把腳擺成 toe hold 最想要的方向。toe hold 是旋轉腳掌，而 ankle lock 則是伸展並蹠屈腳掌，所以對手自己防守 ankle lock 的動作，反而把 toe hold 所需要的腳掌方向送到攻擊者手上。讀出這個旋轉並切換抓法，會讓兩個攻擊變成一條連續的鏈條。",
+    "answer_line": "他的防守動作把腳擺對方向",
+    "distractors": {
+     "plausible": [
+      "ankle lock 失敗所以順便換招",
+      "跟 ankle lock 一樣的施壓方式"
+     ],
+     "trap": [
+      "放開纏繞重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "從 ankle lock 抓法換到 toe hold 的 figure-four 過程中，什麼必須保持不變？",
+    "answer": "ashi garami 的纏繞必須保持不變。抓法的切換純粹是上半身的動作——你的雙腿與 hook 要全程持續壓制對手的膝蓋線。如果你為了空出手而鬆開纏繞，對手就會清開膝蓋、抽出腿，讓局面在你鎖上 toe hold 之前就崩回中性交換。",
+    "answer_line": "持續壓制膝蓋線",
+    "distractors": {
+     "plausible": [
+      "維持 straight ankle 抓法不放",
+      "先換腿再換手"
+     ],
+     "trap": [
+      "放開纏繞以騰出手"
+     ]
+    }
+   },
+   {
+    "question": "要讓 toe hold 有效，你應該怎麼抓腳掌，為什麼？",
+    "answer": "把內側手穿過腳背上方，用手掌包住腳趾與蹠球部，前臂壓在腳背上，接著用另一手在下方扣住自己的手腕，在腳踝下方完成 figure-four。抓腳掌本身，而不是抓小腿或腳踝，能把旋轉的扭力集中在踝關節上；抓太高則會讓力量分散到整條小腿，效果不佳。",
+    "answer_line": "在腳掌上鎖 figure-four",
+    "distractors": {
+     "plausible": [
+      "抓小腿借力",
+      "扣在腳踝上方"
+     ],
+     "trap": [
+      "抓住腳跟用力拉"
+     ]
+    }
+   },
+   {
+    "question": "一旦建立起 toe hold control，正確的完成方式是什麼？",
+    "answer": "只有在 figure-four 抓法與膝蓋線控制都完全確立之後，才緩慢且漸進地施加旋轉。一邊維持對手膝蓋的壓制，一邊把腳往對手背後方向旋轉，逐漸加大力道並觀察夥伴的反應。爆發式的旋轉會提前警告對手、引來逃脫，也因為拿掉了拍地示意的時間窗而增加受傷風險——受控、漸進的施壓才是既安全又高成功率的做法。",
+    "answer_line": "完全鎖定後再緩慢旋轉",
+    "distractors": {
+     "plausible": [
+      "抓法未完全前就施壓",
+      "膝蓋還沒壓制就旋轉"
+     ],
+     "trap": [
+      "猛然爆發式旋轉"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在切換過程中掙脫了你的腳掌抓法，你應該怎麼做？",
+    "answer": "不要為了追那個已經鬆脫的腳掌抓法而犧牲你的雙腿控制。先重新建立 ashi garami 纏繞、重新夾緊膝蓋線，然後再選擇切回 straight ankle lock，或是重新纏鬥手部去抓一次新的 toe hold 抓法。纏繞才是位置的核心；抓法是可以重來的，退回纏繞能讓你重新進攻，而不是整個失去位置。",
+    "answer_line": "重新確保 ashi 纏繞",
+    "distractors": {
+     "plausible": [
+      "立刻改抓 toe hold",
+      "放棄位置重回防守"
+     ],
+     "trap": [
+      "繼續追已鬆脫的腳掌抓法"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守從 ashi garami 進入的 toe hold 時，最好的時機是什麼？",
+    "answer": "最好的時機就是抓法切換的當下——也就是對手放開 straight ankle lock 的刀刃式抓法、伸手穿過你腳背上方的那一刻。在放開的那段時間裡，對手的上半身控制並不完整，所以在 figure-four 扣上之前，把穿過來的手撥開、保護你的腳，會比逃脫一個已經完全鎖死的 toe hold 容易得多。辨識出 ankle lock 抓法被放開，是關鍵的辨識線索。",
+    "answer_line": "在抓法切換的瞬間",
+    "distractors": {
+     "plausible": [
+      "等 figure-four 鎖死之後",
+      "旋轉一開始的時候"
+     ],
+     "trap": [
+      "等對手完全出手再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該進攻纏繞本身，而不是只跟對手的抓腳手纏鬥？",
+    "answer": "對手在整個抓法切換過程中，必須持續用雙腿壓制你的膝蓋線，所以纏繞正是 toe hold 賴以存在的平台。如果你只跟他的手纏鬥，對手依然握有膝蓋線，只會重新抓一次你的腳。透過解放你的膝蓋線——伸直腿並把膝蓋推出去，或是從 ashi 中滾出去——你可以徹底拆掉這個平台，把局面重置回中性防守。",
+    "answer_line": "解放膝蓋線，而非只顧手",
+    "distractors": {
+     "plausible": [
+      "快速撥開 figure-four 抓法",
+      "掰開對方手指的抓握"
+     ],
+     "trap": [
+      "只跟手部抓法纏鬥"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該停止嘗試逃脫、改為拍地？",
+    "answer": "一旦 figure-four 鎖死、你的腳被孤立、旋轉的壓力已經施加且沒有逃脫空間時，要立刻拍地。toe hold 透過旋轉攻擊踝關節韌帶，幾乎沒有任何預警就能在極短時間內造成傷害。分辨出「還能逃脫的位置」與「已經鎖死的完成技」——並對後者提早拍地——正是保護你腳踝免於嚴重、恢復緩慢傷害的關鍵。",
+    "answer_line": "鎖死、孤立、施壓中",
+    "distractors": {
+     "plausible": [
+      "真的很痛才拍地",
+      "試著硬撐站起來"
+     ],
+     "trap": [
+      "等到聽見關節聲響"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Ashi Garami to Toe Hold Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

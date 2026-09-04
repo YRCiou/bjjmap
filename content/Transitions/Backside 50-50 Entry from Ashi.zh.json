@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Backside 50-50 Entry from Ashi.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Backside 50-50 Entry 中最脆弱的階段是什麼，你要如何在這階段降低風險？",
+        "answer": "最脆弱的階段是你把跨在對手髖部上的內側腿抽出、準備繞到對方身後穿入的那一刻。此時你的控制只剩下外側 hook 和腳跟的 grip。降低風險的方法是果斷地通過這個階段、不要停頓，全程維持外側 hook 的最大張力，並確保髖部在內側腿放開之前就已經開始向前推進。從抽腿到旋轉的轉換應該是一個連續不斷的動作。",
+        "answer_line": "一氣呵成，不要停頓",
+        "distractors": {
+          "plausible": [
+            "先停下重新抓 grip",
+            "先短暫放開腳跟 grip"
+          ],
+          "trap": [
+            "放開外側 hook 以加快速度"
+          ]
+        }
+      },
+      {
+        "question": "你在建立 Backside 50-50 時，對手成功把腳跟藏了起來——你還有哪些進攻選項？",
+        "answer": "當對手成功從 Backside 50-50 上位把腳跟藏起來時，把重心轉向背後控制的推進。利用胸口壓力把髖部沿著對方身體向上移動，往 seat belt 控制與 hook 的方向前進。他們投入防守腳跟的同時，必然會犧牲背部的防守。另外，他們藏腳跟的姿勢也可能暴露出 toe hold 或 straight ankle lock 的角度。這個位置的威力就在於這種雙重威脅系統：防守一個攻擊就會打開另一個。",
+        "answer_line": "沿身體往上取 seat belt 或背後",
+        "distractors": {
+          "plausible": [
+            "硬抓那個藏起來的腳跟",
+            "重設回 inside ashi 位置"
+          ],
+          "trap": [
+            "放開 hook 去追腳"
+          ]
+        }
+      },
+      {
+        "question": "在旋轉過程中，你應該在對手腳跟上維持什麼樣的 grip 配置？",
+        "answer": "整個旋轉過程中，維持 C-grip：四指包住腳跟骨、拇指壓在阿基里斯腱上。如果旋轉過程需要短暫調整手的位置，先把腳跟控制轉移到另一隻手，再放開原本那隻。轉換過程中絕不能讓雙手同時離開腳跟。等你到達 Backside 50-50 後，如果腳跟已經暴露，可以升級成 figure-four grip 準備完成技術。",
+        "answer_line": "C-grip，換手前先轉移控制",
+        "distractors": {
+          "plausible": [
+            "全程用 figure-four grip",
+            "旋轉途中隨意換 grip"
+          ],
+          "trap": [
+            "旋轉時雙手都短暫放開"
+          ]
+        }
+      },
+      {
+        "question": "如何判斷該用 walk-around entry 還是 rolling inversion entry？",
+        "answer": "當對手相對被動、沒有積極撐地或做 frame 阻擋你的旋轉路徑，且你的控制穩固到能有條不紊地重新調整位置時，選擇 walk-around entry。當對手用強力的 frame 擋住 walk-around 的路徑、需要速度來防止對方做出防守反應，或你剛好有前一個交手動作留下的動能可以助力翻轉時，選擇 rolling inversion。walk-around 較穩但較慢；inversion 較快但風險較高。",
+        "answer_line": "被動用 walk-around，有 frame 用 inversion",
+        "distractors": {
+          "plausible": [
+            "永遠優先選較快的 inversion",
+            "永遠優先選較穩的 walk-around"
+          ],
+          "trap": [
+            "對手一累就用 inversion"
+          ]
+        }
+      },
+      {
+        "question": "你啟動 entry 時對手開始反向旋轉——你該如何調整？",
+        "answer": "如果他們朝你移動的同一方向反向旋轉，你有兩個選擇：積極用髖部驅動加速超越他們的旋轉速度，搶先到達 backside 的角度；或者突然反轉你的旋轉方向，趁他們的動能還朝錯誤方向前進時讓他們失去平衡。反轉這個選項特別有效，因為他們反向旋轉所產生的動能，在你改變方向時反而會對他們自己不利。",
+        "answer_line": "加速超越或反轉方向",
+        "distractors": {
+          "plausible": [
+            "停下重設 entry",
+            "完全配合他們的旋轉速度"
+          ],
+          "trap": [
+            "放開外側 hook 重新開始"
+          ]
+        }
+      },
+      {
+        "question": "Inside Ashi-Garami 中的哪些條件顯示應該選擇 Backside 50-50 Entry，而不是直接嘗試 submission？",
+        "answer": "當對手成功透過向內轉膝或控制你的手腕來防守他們的腳跟、讓你難以建立 grip，或他們用強力的 frame 阻止你推進到 Saddle 或 Honey Hole，又或者他們把注意力集中在上半身防守而非腿部脫困時，這個 entry 就是最佳選擇。如果對手被動地暴露腳跟，就直接完成 submission，不必轉換位置。這個 entry 解決的是良好腳跟防守的問題，而不是被動對手的問題。",
+        "answer_line": "腳跟防守好，frame 又強",
+        "distractors": {
+          "plausible": [
+            "對手被動暴露腳跟",
+            "對手專注於腿部脫困"
+          ],
+          "trap": [
+            "腳跟已暴露時仍要轉換"
+          ]
+        }
+      },
+      {
+        "question": "旋轉階段中最關鍵的施力方向是什麼？",
+        "answer": "主要的施力方向是側向並向前繞著對手的身體，髖部驅動旋轉走出一個緊貼對方軀幹的弧線。想像你的髖部從 inside ashi 的位置畫出一個半圓，繞到他們背後。到達他們身後之後，次要的施力方向則是透過胸口向下施壓，建立起定義 backside 50-50 優勢的壓力。避免用手臂把自己拉過去——旋轉必須由髖部驅動。",
+        "answer_line": "髖部驅動畫弧，再壓胸下壓",
+        "distractors": {
+          "plausible": [
+            "用手臂繞過對方軀幹拉動",
+            "直接向後用腿推"
+          ],
+          "trap": [
+            "用手臂把自己拉過去"
+          ]
+        }
+      },
+      {
+        "question": "當第一次嘗試被對手的 frame 擋住時，你如何串接下一步繼續完成 Backside 50-50 Entry？",
+        "answer": "如果最初的 entry 嘗試被擋住，立刻威脅從 inside ashi 直接打 heel hook 或 ankle lock，逼對手不得不處理這個威脅。當他們把防守資源投入保護腳跟時，他們用來擋住你旋轉路徑的 frame 就會鬆懈。趁這個時機再次嘗試 entry。或者，如果他們仍然維持 frame，轉為 Saddle Entry 或 Honey Hole entry 作為替代的推進路徑，再從新的位置尋找 backside 的角度。",
+        "answer_line": "威脅 heel hook 逼開 frame",
+        "distractors": {
+          "plausible": [
+            "硬闖同樣的 frame 路徑",
+            "放棄並從站立重新開始"
+          ],
+          "trap": [
+            "放開腳跟 grip 再試一次"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "Backside 50-50 Entry 正在被嘗試的最早辨識訊號是什麼？",
+        "answer": "最早的訊號是攻擊者跨在你髖部上的內側腿壓力減輕或抽離。這是 entry 的第一個機械動作，因為內側腿必須先抽出才能開始旋轉。你會感覺到髖部上的壓力突然減少甚至完全消失。這是你立刻展開防守行動的訊號，因為轉換已經啟動，此時攻擊者的控制正處於最弱的時刻。",
+        "answer_line": "內側腿壓力離開你的髖部",
+        "distractors": {
+          "plausible": [
+            "攻擊者開始在你身下旋轉",
+            "他們的腳在你膝蓋後方交叉"
+          ],
+          "trap": [
+            "外側 grip 收緊——保持不動"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在 entry 嘗試過程中脫腿，會比攻擊者完成轉換後脫腿更有效？",
+        "answer": "在 entry 過程中，攻擊者的控制從三個點（內側腿、外側 hook、腳跟 grip）降為兩個點（外側 hook、腳跟 grip），因為他們必須抽出內側腿才能開始旋轉。這創造出最窄但也最有效的防守窗口。轉換完成後，攻擊者會在鏡像的 50-50 配置中重新建立三個控制點，再加上胸貼背的壓力，讓脫腿變得困難得多。",
+        "answer_line": "控制降為兩個點",
+        "distractors": {
+          "plausible": [
+            "腳跟 grip 還沒鎖死",
+            "他們的髖部還沒對正"
+          ],
+          "trap": [
+            "拖延到 50-50 完成再說"
+          ]
+        }
+      },
+      {
+        "question": "你的腳跟目前防守得很好，攻擊者卻啟動了 entry——你該繼續維持腳跟防守，還是轉為反旋轉防守？",
+        "answer": "立刻轉為反旋轉防守。你的腳跟防守原本解決的是 inside ashi 情境下的正確問題，但攻擊者現在正透過改變位置完全繞過那個問題。如果你在他們繞到你身後時仍維持腳跟防守，等於是在一個糟糕得多的位置上守住了一個防守良好的腳跟。把你的防守能量轉向轉身面對他們、阻擋他們的旋轉路徑，或是脫腿。Backside 50-50 帶來的位置威脅，遠大於 inside ashi 的 submission 威脅。",
+        "answer_line": "立刻轉為反旋轉防守",
+        "distractors": {
+          "plausible": [
+            "維持腳跟防守，忽略旋轉",
+            "兩者平均分配注意力"
+          ],
+          "trap": [
+            "放開 frame 去保護腳跟"
+          ]
+        }
+      },
+      {
+        "question": "如何防守 rolling inversion 這個變化型的 entry？",
+        "answer": "rolling inversion 速度較快，但路徑可預期，會從你的 frame 下方穿過去。當你察覺對方正在做 inversion（沉肩並開始翻滾動作）時，立刻撐住他們的肩膀，把髖部推開拉開距離。inversion 需要近距離才能執行，所以拉開空間會破壞它的力學結構。另外，也可以在他們翻轉時用力伸直你被困住的腿，這會讓他們在翻轉狀態下更難維持纏繞。",
+        "answer_line": "撐肩膀，把髖部推開",
+        "distractors": {
+          "plausible": [
+            "把他們拉更緊以拖住翻滾",
+            "抓住他們遠側的腿阻止"
+          ],
+          "trap": [
+            "跟著他們翻滾以保持連結"
+          ]
+        }
+      }
+    ]
+  }
+}

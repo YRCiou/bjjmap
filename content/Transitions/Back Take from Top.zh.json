@@ -1,0 +1,227 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Back Take from Top.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從 Hindulotine 轉換到 back take 的主要觸發訊號是什麼？",
+        "answer": "主要觸發訊號是感覺到對手為了逃離勒頸壓力而開始轉肩、動髖。當你感覺到他們靠近側的肩膀向地面下沉、髖部開始轉離你，這代表他們已經投入 turning escape，也就創造出 back take 轉換的窗口。",
+        "answer_line": "肩膀下沉，髖部轉離",
+        "distractors": {
+          "plausible": [
+            "對手停止抵抗",
+            "他們因為勒頸壓力拍擊"
+          ],
+          "trap": [
+            "放開 grip 確認位置"
+          ]
+        }
+      },
+      {
+        "question": "在這個轉換中，放開 guillotine 之前必須先建立什麼 grip？",
+        "answer": "必須先建立 seat belt grip，才能完全放開 guillotine。seat belt 是一隻手繞過對手的肩膀、另一隻手穿過腋下，雙手在對方胸前扣住（通常用 gable grip）。這樣能在整個轉換過程中維持上半身控制。",
+        "answer_line": "先扣好 seat belt grip",
+        "distractors": {
+          "plausible": [
+            "遠側手臂的 underhook",
+            "近側手腕的 overhook"
+          ],
+          "trap": [
+            "放開勒頸，改抓雙腿"
+          ]
+        }
+      },
+      {
+        "question": "對手開始轉身，但接著停滯並緊緊 turtle 起來——你該如何調整？",
+        "answer": "當對手選擇 turtle 而不是完全放棄背部時，轉為系統性的 turtle 攻擊方式。維持你的 seat belt grip，努力建立 spiral ride 控制，並用標準的 turtle 轉背後技術依序插入 hook。緊密的 turtle 比較難進攻，但耐心堅持依然能通往背後控制。",
+        "answer_line": "保住 seat belt，順勢取 hook",
+        "distractors": {
+          "plausible": [
+            "用力把他們壓平",
+            "改打腿鎖的進入點"
+          ],
+          "trap": [
+            "放棄位置，重設 guard"
+          ]
+        }
+      },
+      {
+        "question": "應該先插入哪一個 hook，為什麼？",
+        "answer": "應該先插入下方的 hook，因為它能控制對手髖部的旋轉，阻止他們繼續轉身面對你。下方的 hook 形成一道物理屏障，中止他們逃脫的動能。等下方 hook 固定住對方髖部位置後，再加上上方的 hook 以完成控制。",
+        "answer_line": "先下方 hook，鎖住髖部",
+        "distractors": {
+          "plausible": [
+            "先上方 hook 較好控制",
+            "雙 hook 同時插入"
+          ],
+          "trap": [
+            "插入 hook 後放開 seat belt"
+          ]
+        }
+      },
+      {
+        "question": "如果在對手其實沒有轉身的情況下硬要嘗試這個 back take，最關鍵的錯誤是什麼？",
+        "answer": "在對手沒有轉身時硬做 back take，等於放棄 Hindulotine 的 submission 威脅，卻沒有換到位置上的收穫。你放掉勒頸壓力去追一個根本不存在的機會，反而給對手機會撐起姿勢、逃脫，或建立防守 frame。back take 必須是對他們轉身的反應，而不是主動發起。",
+        "answer_line": "白白放掉勒頸",
+        "distractors": {
+          "plausible": [
+            "失去積分優勢",
+            "讓你的 grip 更快疲勞"
+          ],
+          "trap": [
+            "用力量硬把對方轉過來"
+          ]
+        }
+      },
+      {
+        "question": "如果對手在你轉換過程中突然爆發站起，你如何維持控制？",
+        "answer": "跟著他們站起來，同時維持 seat belt grip，讓胸口貼在他們背後建立站立式背後控制。扣住 body lock grip，設法把他們拉回地面，或執行站立式背後控制的過肩摔。關鍵在於他們嘗試站起的過程中絕不放開上半身控制。",
+        "answer_line": "跟上站起，seat belt 不放",
+        "distractors": {
+          "plausible": [
+            "放手在站姿重新開始",
+            "拉 guard 重設局面"
+          ],
+          "trap": [
+            "放開 grip，衝刺抱摔"
+          ]
+        }
+      },
+      {
+        "question": "你在嘗試 back take 時，對手撐起靠近側的手臂——你該做什麼調整？",
+        "answer": "撐地的手臂成為控制的目標。可以把撐地的手臂用 arm drag 拉過對方身體以消除支撐點，繼續進行 back take，或者把該手臂困在 gift wrap 的配置中。這個撐地的手臂不能被忽視，因為它讓對方能撐起 base、有機會逃脫。",
+        "answer_line": "arm drag 拉走那隻撐地手",
+        "distractors": {
+          "plausible": [
+            "把手肘壓平在地",
+            "抓住手腕耐心等待"
+          ],
+          "trap": [
+            "無視撐地手，繼續往後拉"
+          ]
+        }
+      },
+      {
+        "question": "威脅這個 back take 如何提升你整體 Hindulotine 的 submission 成功率？",
+        "answer": "back take 的威脅會讓防守者陷入兩難。如果他們知道一轉身你就會拿下他們的背部，就會對執行主要的 guillotine 逃脫方式感到猶豫。這種猶豫會讓他們在勒頸位置停留更久，被迫承受更多壓力才敢嘗試逃脫，進而提高你直接在 guillotine 上完成 submission 的機會。",
+        "answer_line": "威脅讓他們留著、耗盡體力",
+        "distractors": {
+          "plausible": [
+            "讓你的 grip 比較不累",
+            "加快他們逃脫的速度"
+          ],
+          "trap": [
+            "讓你可以提早放掉壓力"
+          ]
+        }
+      },
+      {
+        "question": "整個轉換過程中必須維持什麼胸口姿勢，為什麼？",
+        "answer": "整個過程必須維持胸口與對手背部的持續貼合。任何空隙都會讓對手有機會做出 frame、拉開距離，然後完成逃脫或取得較難進攻的 turtle 姿勢。你的胸口跟著對方的移動能確保持續施壓，並阻止那些讓防守得以成立的分離空間出現。",
+        "answer_line": "胸口持續貼緊對方背部",
+        "distractors": {
+          "plausible": [
+            "胸口正對對方髖部",
+            "胸口抬高，重量離開對方"
+          ],
+          "trap": [
+            "拉開空間讓髖部越過"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候該用 rolling back take 這個變化型，而不是標準轉換？",
+        "answer": "當對手強力投入轉身、你的 base 因對方的動能而受到威脅時，適合使用 rolling back take 變化型。與其對抗他們的力量，不如順著動能滾到他們身下，同時維持控制。這能利用對方逃脫的力量，最終從相反側的配置取得背後控制。",
+        "answer_line": "對方轉身動能很強的時候",
+        "distractors": {
+          "plausible": [
+            "當對方停滯平躺不動",
+            "當你失去 seat belt grip"
+          ],
+          "trap": [
+            "當他們撐地準備站起時"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "在對手轉換過程中，你應該利用的關鍵脆弱窗口是什麼？",
+        "answer": "關鍵窗口出現在攻擊者放開 guillotine grip、轉換為 seat belt 控制的那一刻。這個短暫瞬間裡，勒頸和位置控制都尚未完全成立，是你做 frame、拉開距離的最佳機會，可以趁機完成轉身面對對手，或建立紮實的防守 turtle。",
+        "answer_line": "guillotine 與 seatbelt 之間的空隙",
+        "distractors": {
+          "plausible": [
+            "hook 剛插入的那一刻",
+            "對方鎖上 body triangle 時"
+          ],
+          "trap": [
+            "等 seatbelt 鎖死之後"
+          ]
+        }
+      },
+      {
+        "question": "對手用胸口壓力跟著你的轉身、開始把手臂穿過你的肩膀——你的立即反應是什麼？",
+        "answer": "立刻把手臂穿過那一側的手肘夾緊肋骨，形成阻擋 seat belt 成形的物理屏障。同時把髖部壓低貼地、膝蓋併攏，阻絕 hook 進入的空間。用另一隻手對抗他們伸過來的手臂，防止他們雙手在你胸前扣住。",
+        "answer_line": "夾緊手肘，壓低髖部",
+        "distractors": {
+          "plausible": [
+            "手撐地站起來",
+            "抓住手腕往回拉"
+          ],
+          "trap": [
+            "伸直手臂把他們推開"
+          ]
+        }
+      },
+      {
+        "question": "為什麼控制轉身逃脫的速度對防止 back take 至關重要？",
+        "answer": "爆發式的轉身會產生旋轉動能，攻擊者能順勢跟著你的動能轉到你的背後。你轉得越快，就給對方越多能量去順勢佔位。有控制、緩和的轉身配合持續的 frame，能讓對方拿不到這股免費的動能，逼他們得自己出力才能追到背後。",
+        "answer_line": "快速轉身會餵給對方動能",
+        "distractors": {
+          "plausible": [
+            "慢轉會讓核心疲勞",
+            "速度不影響結果"
+          ],
+          "trap": [
+            "為了快點逃脫要爆發轉身"
+          ]
+        }
+      },
+      {
+        "question": "你在轉身時感覺到下方 hook 正被插入——什麼調整能防止第二個 hook 出現？",
+        "answer": "立刻朝有 hook 的那一側轉身，而不是轉離它，這樣能把已插入的 hook 壓制在地面，阻止它控制你的髖部。同時把上方的膝蓋收過來，把對方勾腿的那條腿夾在你大腿之間。單一 hook 的處境遠比雙 hook 好逃脫。從這裡開始，一邊努力剝除那個 hook，一邊用積極的髖部移動與腿部姿勢阻止第二個 hook。",
+        "answer_line": "轉向有 hook 那側，夾住那條腿",
+        "distractors": {
+          "plausible": [
+            "快速轉離 hook 那側",
+            "把腿直接踢出去"
+          ],
+          "trap": [
+            "坐起來硬把 hook 掙脫"
+          ]
+        }
+      },
+      {
+        "question": "如果你無法完全轉身面對對手，應該達成什麼樣的身體姿勢？",
+        "answer": "建立緊密的防守 turtle：手肘夾緊貼近膝蓋內側、下巴收向胸口、背部拱起、髖部壓低貼地。這個結構能阻擋 seat belt，因為手肘擋住手臂穿越的路徑；也阻擋 hook，因為髖部太低讓腿無法進入；同時收下巴與拱背也保護了頸部。到了這個 turtle 姿勢後，立刻開始動態逃脫。",
+        "answer_line": "緊密 turtle，手肘靠膝",
+        "distractors": {
+          "plausible": [
+            "趴平，雙臂張開",
+            "坐起來面對對手"
+          ],
+          "trap": [
+            "翻成腹部朝上擋 hook"
+          ]
+        }
+      }
+    ]
+  }
+}

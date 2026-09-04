@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/3-4 Mount to Technical Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "3-4 Mount 轉換到 Technical Mount 的最佳時機窗口是什麼時候？",
+    "answer": "最佳窗口出現在底位者的肩膀開始轉離 mount 那一側，或者防守性地把手臂伸向你的胸口或髖部時。這些反應會創造隔離所需的手臂暴露，以及有利於腿部重新定位的身體對齊。當對手手肘收緊、肩膀平貼地面、姿態穩定時，絕不要啟動轉換——要等待，或主動逼出這種反應。",
+    "answer_line": "等對方轉肩或伸手防守",
+    "distractors": {
+     "plausible": [
+      "mount 一建立就馬上動作",
+      "等對方完全不動時再動作"
+     ],
+     "trap": [
+      "在手肘收緊時就出招"
+     ]
+    }
+   },
+   {
+    "question": "轉換嘗試中，對手朝你撐地那隻腿的方向做 bridge——你要怎麼調整？",
+    "answer": "順著這個 bridge，保持你內側的 hook 緊實，並把撐地那隻腿頂進地墊以維持穩定。如果他們的 bridge 朝你控制手臂的那一側製造動能，就利用那股力量加速轉入 armbar——立刻把腿甩過去。如果這個 bridge 明顯打亂了你的底座，就順勢轉到 side control 或 knee on belly，而不要逆著這股動能硬撐回 mount。",
+    "answer_line": "順著 bridge，配合動能調整",
+    "distractors": {
+     "plausible": [
+      "停下來重設回平坦的 mount",
+      "只靠底座硬撐過去"
+     ],
+     "trap": [
+      "逆著動能硬撐回 mount"
+     ]
+    }
+   },
+   {
+    "question": "在重新調整雙腿位置之前，你必須先確保什麼抓握？為什麼這是不可妥協的？",
+    "answer": "你必須先在近側手臂上確保二對一抓握——一手抓手腕控制旋轉，一手在手肘上方防止手臂抽回。這是不可妥協的，因為沒有手臂隔離的 Technical Mount 完全沒有 submission 威脅。如果在對手雙臂仍自由的情況下重新調整雙腿，會形成一個不穩定的位置，讓對方能在你底座不穩的轉換窗口期間做 frame、bridge 並逃脫。",
+    "answer_line": "先抓二對一，再動腿",
+    "distractors": {
+     "plausible": [
+      "先抓手腕，再動腿",
+      "先固定雙腿，再抓手臂"
+     ],
+     "trap": [
+      "腿移得快就跳過抓握"
+     ]
+    }
+   },
+   {
+    "question": "在雙腿重新定位的階段，最關鍵的力學細節是什麼？",
+    "answer": "雙腿必須作為協調的整體同時移動——撐地那隻膝蓋往頭部方向滑動的同時，內側那隻腿要在同一個動作中收進對方身體下方。如果依序移動，會產生一個空隙，讓兩隻腿都無法發揮正確功能，打開逃脫的空間。同時移動也能掩蓋這個轉換，讓底位者感受到的是持續的壓力，而不是依序移動雙腿時那種明顯的重心轉移感。",
+    "answer_line": "雙腿同時移動",
+    "distractors": {
+     "plausible": [
+      "先滑動撐地的膝蓋",
+      "先收內側的腿，再動膝蓋"
+     ],
+     "trap": [
+      "雙腿慢慢一隻一隻移動"
+     ]
+    }
+   },
+   {
+    "question": "對手把手肘夾緊、堅決不伸出任何手臂——你要怎麼創造入位機會？",
+    "answer": "持續施加 cross-face 壓力，逼對方因不適而轉開，這會自然地讓遠側手臂伸展開來。或者，威脅 Americana 或 Ezekiel choke，逼出防守性的手臂反應，創造你需要的伸展。你也可以單純維持沉重的 3-4 Mount 壓力，同時威脅另一側的 S Mount 轉換——底位者無法同時防守兩個方向，最終一定會有一隻手臂為了應付威脅而伸出來。",
+    "answer_line": "cross-face 或威脅 submission",
+    "distractors": {
+     "plausible": [
+      "用手硬把手肘扳開",
+      "被動等待手臂打開"
+     ],
+     "trap": [
+      "用手硬把手臂扳直"
+     ]
+    }
+   },
+   {
+    "question": "維持 3-4 Mount 和進入 Technical Mount 之間，施力方向有什麼變化？",
+    "answer": "在 3-4 Mount 中，力量是透過髖部與胸口向下壓進對方軀幹，形成擠壓壓力。進入 Technical Mount 的過程中，力量方向會轉向前方和被控制手臂那一側——你的體重從中軸壓縮，轉變成把對方肩膀釘在地墊上的角度壓力。這個方向的改變，正是創造 armbar 角度的原因，但也正是這個轉換容易被抓準時機的 bridge 打斷的原因。",
+    "answer_line": "從向下壓轉為側向施壓",
+    "distractors": {
+     "plausible": [
+      "維持完全向下的壓力",
+      "把重心移向對方頭部"
+     ],
+     "trap": [
+      "把身體往後靠離開對方胸口"
+     ]
+    }
+   },
+   {
+    "question": "對手用空著的手臂在你髖部上建立 frame 阻擋了轉換——這打開了什麼連續攻擊？",
+    "answer": "對方建立 frame 的手臂現在是伸直且暴露的。把你的手從對方前臂下方穿過，建立 gift wrap 控制，把他們的手臂困在自己身體上。這個 gift wrap 讓你能在雙臂都被控制的情況下，取得更優勢的控制來完成 Technical Mount 轉換；你也可以改為攻擊這隻剛暴露的 frame 手臂，施展 Americana。他們的防守性 frame 反而成了你的進攻機會——這正是連鎖兩難原則（cascading dilemma）的體現。",
+    "answer_line": "穿手做 gift wrap 控制",
+    "distractors": {
+     "plausible": [
+      "抓手腕直接拉出來",
+      "把手臂壓回平貼地面"
+     ],
+     "trap": [
+      "不理會 frame，繼續動作"
+     ]
+    }
+   },
+   {
+    "question": "在手臂隔離階段，什麼樣的手腕抓握配置能提供最大的控制？",
+    "answer": "在道袍中，抓住 sleeve 的手腕處，四指伸進袖口、拇指在外，形成一個阻止對方旋轉抽臂的鎖定。在無道袍中，用一個深的 C 型抓握包住手腕，拇指在上、手指扣在手腕骨下方。控制手腕的手，應該是離對方雙腳較近的那隻手，靠近對方頭部的那隻手則控制手肘或三頭肌。這個配置能同時阻止旋轉和抽回。",
+    "answer_line": "深手腕抓握，靠近腳的那隻手",
+    "distractors": {
+     "plausible": [
+      "雙手都抓前臂",
+      "手腕抓握放在靠近頭部那隻手"
+     ],
+     "trap": [
+      "只鬆鬆地抓手肘附近"
+     ]
+    }
+   },
+   {
+    "question": "你成功到達 Technical Mount，但內側的 hook 太淺，對手開始把髖部滑開——你要怎麼補救？",
+    "answer": "立刻把內側 hook 挖得更深，用腳勾住對方下背或髖部下方，把他們的身體拉回你身邊。同時增加胸口壓向對方肩膀的向前壓力，把他們釘住的同時調整位置。如果 hook 無法補救，放棄 Technical Mount，把體重壓回鞏固的 mount 或 knee on belly，在對方完成逃脫之前收手。太淺的 hook 若讓對方能移動髖部，情況只會逐漸惡化——要嘛立刻修正，要嘛轉換出去。",
+    "answer_line": "把 hook 挖深，加大胸口壓力",
+    "distractors": {
+     "plausible": [
+      "維持位置，等待情況好轉",
+      "先換抓握再修正 hook"
+     ],
+     "trap": [
+      "追著對方的髖部滿場跑"
+     ]
+    }
+   },
+   {
+    "question": "一旦建立 Technical Mount，你要怎麼判斷該追求 armbar 還是 take the back？",
+    "answer": "讀對方肩膀的朝向。如果他們仍然平貼、或轉身面向你、肩膀貼地，armbar 就可行——他們的手臂是伸展的，身體對齊也適合甩腿完成收技。如果他們轉離你，暴露背部、把手臂拉向自己身體，立刻放棄 armbar，用 seat belt 抓握和插入 hook 跟著對方的轉身取得 back control。對手的防守選擇決定了你的攻擊方向——當另一個選項明顯出現時，絕不要硬要完成原本的攻擊。",
+    "answer_line": "肩膀方向決定攻擊選擇",
+    "distractors": {
+     "plausible": [
+      "永遠先完成 armbar",
+      "只要有機會就去 take the back"
+     ],
+     "trap": [
+      "對方轉離時仍硬做 armbar"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 3-4 Mount 轉換到 Technical Mount 時，最早的辨識訊號是什麼？",
+    "answer": "最早的訊號是對方的雙手從一般性壓力，轉變成用二對一抓握專門鎖定你其中一隻手臂的手腕與手肘。接著，你會感覺到更多的體重前傾壓向你的上胸和肩膀，因為對方正在準備重新調整雙腿。撐地的那隻膝蓋會開始沿地墊向上滑動，而不是停在靜態的外側位置。辨識出手臂隔離的嘗試，是最早也是最重要的訊號。",
+    "answer_line": "二對一抓握扣上你的手臂",
+    "distractors": {
+     "plausible": [
+      "體重突然壓向胸口",
+      "膝蓋沿地墊往上滑"
+     ],
+     "trap": [
+      "完全沒有任何警訊"
+     ]
+    }
+   },
+   {
+    "question": "對手開始把膝蓋往你頭部方向滑動——你立刻的反應是什麼？",
+    "answer": "立刻朝對方內側膝蓋原本的位置那一側 bridge，接著往膝蓋前進的那一側 shrimp，開始恢復 half guard。雙腿重新定位的階段，正是對方底座最不穩固的時候，是做破壞性 bridge 的最佳時機。同時，把你近側的手肘夾緊，阻止進一步的手臂隔離。速度至關重要——你大約只有兩秒鐘的時間，Technical Mount 就會建立。",
+    "answer_line": "先 bridge 再 shrimp 到 half guard",
+    "distractors": {
+     "plausible": [
+      "直接 shrimp，不用 bridge",
+      "先等對方穩定後再 bridge"
+     ],
+     "trap": [
+      "放鬆讓膝蓋滑進來"
+     ]
+    }
+   },
+   {
+    "question": "你應該什麼時候優先恢復 half guard，而不是就地阻擋這個轉換？",
+    "answer": "當你及早偵測到手臂隔離的嘗試時，優先就地阻擋——在對方鎖上二對一控制之前，先把手肘夾緊，是成功率最高的防守選項。當對方已經確立手臂控制、並開始重新調整雙腿時，優先恢復 half guard，因為此時阻擋這個轉換的成功率已經很低。bridge 加 shrimp 到 half guard 的做法，能利用對方在移動過程中底座的脆弱性，而不是試圖阻止一個已經開始執行的轉換。",
+    "answer_line": "及早阻擋，手臂被控後就撤",
+    "distractors": {
+     "plausible": [
+      "死守位置，一步不讓",
+      "馬上放棄退到 half guard"
+     ],
+     "trap": [
+      "翻身趴地逃脫"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的身體姿勢錯誤，會讓你最容易受到這個轉換攻擊？",
+    "answer": "平躺在背上、雙臂伸直，或用直手肘去 frame 對方胸口。這種姿勢會給攻擊者容易鎖定的手臂隔離目標，並消除你用髖部動作創造防守角度的能力。平躺的姿勢也讓你的肩膀很容易被釘住，這正是攻擊者需要的條件，好把體重前移、開始執行 Technical Mount 入位。側身、手肘夾緊，才是正確的修正姿勢。",
+    "answer_line": "平躺並把雙臂伸直",
+    "distractors": {
+     "plausible": [
+      "用彎曲的手肘強力 frame",
+      "坐起來撐手"
+     ],
+     "trap": [
+      "伸直雙臂把對方推開"
+     ]
+    }
+   },
+   {
+    "question": "轉頭轉離攻擊者，為什麼會讓你更容易被 Technical Mount 入位？",
+    "answer": "轉離的動作會讓你的肩膀離開地墊、並把你近側手臂拉離身體，正好創造出攻擊者隔離所需的手臂暴露。這個轉身動作也會讓你的身體對齊到有利於對方重新調整雙腿的角度——他們撐地的膝蓋會自然沿著你轉身創造出的路徑滑入定位。許多經驗豐富的攻擊者會刻意用 cross-face 壓力逼出這種轉身反應，因為那等於把這個轉換拱手送給他們。",
+    "answer_line": "轉身會暴露肩膀與手臂",
+    "distractors": {
+     "plausible": [
+      "轉身能保護近側手臂",
+      "轉身能擋住膝蓋滑入"
+     ],
+     "trap": [
+      "轉離對方以躲開 cross-face"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者已經確立手臂控制，膝蓋也開始滑動——你最後的防守手段是什麼？",
+    "answer": "一旦手臂控制已確立、膝蓋也在移動，你最好的選擇是抓準對方撐地的腿在重新定位過程中離開地墊的那一刻，爆發性地做 bridge。朝 mount 那一側 bridge，立刻 shrimp 你的髖部離開，插入 knee shield 以恢復 half guard。如果 bridge 沒能把對方甩開，立刻用空著的手抓住自己的手腕，在被控制的手臂上形成 gable grip，阻止手臂完全伸直，爭取時間，在已經建立的 Technical Mount 中繼續逃脫。",
+    "answer_line": "抓準時機 bridge，再抓 gable grip",
+    "distractors": {
+     "plausible": [
+      "把手臂直接往後拉",
+      "不動，保存體力"
+     ],
+     "trap": [
+      "推對方髖部想站起來"
+     ]
+    }
+   },
+   {
+    "question": "如果攻擊者用沉重的 cross-face 壓力施展 turn-chase 變化型，你該如何調整防守策略？",
+    "answer": "當攻擊者用 cross-face 逼你轉身時，克制轉離的衝動。改為用你近側的前臂對抗 cross-face 的那側肩膀建立 frame，另一隻手控制 cross-face 那一側的手腕或 sleeve。朝 cross-face 壓力的方向 bridge，而不是遠離它，這會打亂對方製造轉身力量的能力。如果仍被迫轉身，就轉向攻擊者、搶一個 underhook，而不是轉離，這樣能阻止對方需要的手臂暴露，並創造用進攻性 underhook 控制恢復 half guard 的路徑。",
+    "answer_line": "建立 frame，朝壓力方向 bridge",
+    "distractors": {
+     "plausible": [
+      "轉離以緩解壓力",
+      "遠離 cross-face 方向 bridge"
+     ],
+     "trap": [
+      "轉離並暴露你的背部"
+     ]
+    }
+   }
+  ]
+ }
+}

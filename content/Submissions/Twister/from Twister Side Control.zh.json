@@ -1,0 +1,212 @@
+{
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "Twister 主要攻擊哪些解剖構造，這些構造為什麼容易受到旋轉力傷害？",
+   "answer": "Twister 主要透過旋轉扭力攻擊頸椎與胸椎，同時對肩帶造成次要壓力。這些構造之所以脆弱，是因為脊椎的旋轉活動範圍有限，特別是當下半身被固定朝向一個方向、而上半身被迫朝相反方向旋轉時。椎間盤與脊椎韌帶並不是設計來承受 twister 在固定的髖部與旋轉的軀幹之間所產生的這種相對力量。",
+   "safety_critical": true,
+   "answer_line": "脊椎在扭力下幾乎轉不動",
+   "distractors": {
+    "plausible": [
+     "手肘關節過度伸展",
+     "只是肋廓受壓"
+    ],
+    "trap": [
+     "拍降後繼續維持硬扭"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在把手臂穿到對手頭下之前，必須先把近側肩膀完全壓到地面？",
+   "answer": "肩膀必須被壓平釘死，因為這會消除對手用防守性軀幹旋轉的能力。如果肩膀還保留任何抬起的空間，對手就能轉向攻擊者以阻擋穿手，或轉身離開以完全逃出這個位置。壓平肩膀也預先加載了 finish 所需要的脊椎旋轉，代表一旦 grip 固定後，需要額外施加的力量就更少。跳過這個步驟，是穿手失敗最常見的原因。",
+   "safety_critical": false,
+   "answer_line": "封死對手的防守性軀幹轉動",
+   "distractors": {
+    "plausible": [
+     "增加對氣管的壓力",
+     "製造空間以切換 grip"
+    ],
+    "trap": [
+     "趁對手肩膀還抬起時就穿手"
+    ]
+   }
+  },
+  {
+   "question": "什麼跡象顯示 Twister 已經到達防守方無法回頭的地步？",
+   "answer": "當攻擊者已經在頭頂後方鎖好扣握的 grip、對手遠側的手臂被困住，同時維持著固定髖部的完整腿部纏繞時，就代表已經到達無法回頭的階段。在這個階段，對手無法阻擋旋轉，因為他的防守手臂已被困在 grip 的機制中、髖部被腿部的 hook 固定住，而肩膀也已經被壓平。從這個位置施加任何旋轉壓力，都會直接把力量加載到脊椎上，沒有任何可用的防守反制手段。",
+   "safety_critical": false,
+   "answer_line": "Grip 鎖死、手臂被困、髖部固定",
+   "distractors": {
+    "plausible": [
+     "肩膀壓平但 grip 還沒固定",
+     "hook 已勾深但 grip 還沒上"
+    ],
+    "trap": [
+     "在 grip 固定前就先旋轉"
+    ]
+   }
+  },
+  {
+   "question": "在你嘗試穿手時，對手開始 bridge——維持位置的正確回應是什麼？",
+   "answer": "立刻把外側的腿撐寬以擴大你的 base，吸收 bridge 帶來的力量。不要在 bridge 過程中硬追穿手——而是靠讓髖部沉重地壓在腿部纏繞上、肩膀持續壓向對手近側肩膀，來順著這個動作。當對手因 bridge 失敗而落回地面時，利用這個落地的瞬間重新建立肩膀壓力，並在對手因 bridge 而力竭、身體攤平時，重新嘗試穿手。",
+   "safety_critical": false,
+   "answer_line": "撐寬 base，順勢不硬追",
+   "distractors": {
+    "plausible": [
+     "硬在 bridge 中把手穿過去",
+     "在 bridge 過程中改抓 darce"
+    ],
+    "trap": [
+     "鬆開 grip 重新進入"
+    ]
+   }
+  },
+  {
+   "question": "夥伴拍降之後，你應該如何立即釋放 Twister？",
+   "answer": "只要收到任何拍降訊號，就立刻鬆開扣握的 grip，把手臂從對手頭下抽出，釋放頭頸控制。接著鬆開所有上半身的 grip，讓對手能翻回正面朝上、讓脊椎減壓。最後，緩慢地解開腿部纏繞，不要拉扯或扭轉。讓對手自然移動到舒適的姿勢。釋放之後一定要口頭跟夥伴確認狀況，確保他沒有受傷。拍降之後絕對不能保留這個位置的任何部分。",
+   "safety_critical": true,
+   "answer_line": "先鬆 grip，再鬆腿，再確認",
+   "distractors": {
+    "plausible": [
+     "先解腿再鬆手",
+     "保持位置直到他點頭"
+    ],
+    "trap": [
+     "快速把雙腿扭出來"
+    ]
+   }
+  },
+  {
+   "question": "當對手單靠頸部力量抵抗時，該做哪些 grip 調整來優化完成旋轉？",
+   "answer": "如果對手只靠頸部力量抵抗，就把扣握的 grip 改到頭頂後方較低的位置，而不是正頂上，這樣能拉長槓桿臂、放大旋轉力。同時把你的髖部稍微移離對手頭部更遠，以增加固定點與旋轉點之間的距離。這兩個調整能在不需要額外肌肉力量的情況下大幅提升機械優勢，靠更好的槓桿原理克服頸部力量的抵抗。",
+   "safety_critical": false,
+   "answer_line": "Grip 放低，髖部離頭更遠",
+   "distractors": {
+    "plausible": [
+     "把 grip 扣在頭頂更高處",
+     "雙臂更用力夾緊"
+    ],
+    "trap": [
+     "猛拉頸部逼降"
+    ]
+   }
+  },
+  {
+   "question": "從 Twister Side Control 完成 Twister 與從 Truck 完成，兩者有什麼關鍵差異？",
+   "answer": "從 twister side control 出發，攻擊者擁有垂直角度，能透過撐地的外側腿提供更好的推肩槓桿與更穩定的 base。穿手的路徑也略有不同——是從側面接近，而不是從背後。Truck 的進入方式能為旋轉提供更直接的脊椎對齊，但 base 穩定性較低。Twister side control 在穿手之前需要更刻意地把肩膀壓平，而 Truck 通常能更快取得 grip，但由於攻擊者的位置在對手背後，被翻轉的風險也較高。",
+   "safety_critical": false,
+   "answer_line": "Side control 提供 base 與槓桿",
+   "distractors": {
+    "plausible": [
+     "Truck 是更穩固的平台",
+     "兩者的穿手路徑相同"
+    ],
+    "trap": [
+     "放掉 hook 以求更快完成"
+    ]
+   }
+  },
+  {
+   "question": "在比賽中，決定要投入 Twister finish 還是轉換成其他 submission 的策略考量有哪些？",
+   "answer": "當穿手路徑暢通、肩膀已完全壓平、腿部纏繞深且穩固時，就投入 twister。當穿手連續兩次被擋下、腿部纏繞逐漸變淺，或對手成功建立上半身的 frame 時，就該轉換方向。剩餘時間也很重要——twister 的設置很耗時間，所以在時間有限的情況下，像轉身時的 darce choke 或轉身離開時的背後控制這類更快的選項，可能勝率更高。體力消耗也應納入考量，因為硬拚一個被防守住的 twister，會耗掉之後其他選項所需要的體力。",
+   "safety_critical": false,
+   "answer_line": "穿手暢通且肩膀壓平時投入",
+   "distractors": {
+    "plausible": [
+     "hook 感覺很深，但入口被擋",
+     "grip 已經開始，就硬撐下去"
+    ],
+    "trap": [
+     "時間快到了就硬拚"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "在 grip 固定之前，如何辨識對手正從 Twister Side Control 設置 Twister？",
+   "answer": "關鍵辨識線索包括：對手伸出遠側手臂朝你的頭部下方伸過去、感覺到脊椎受到的旋轉扭力增加（因為肩膀壓力把你壓平、髖部卻被抬高）、以及對手在找你遠側手腕以完成扣握的 grip。最早的線索是肩膀被側向壓力壓向地面、同時腿部纏繞限制住你的下半身——這是穿手之前的前置位置。",
+   "safety_critical": false,
+   "answer_line": "肩膀被壓平、下半身受限",
+   "distractors": {
+    "plausible": [
+     "他們先抓你的衣領",
+     "膝蓋突然壓上肋骨"
+    ],
+    "trap": [
+     "等 grip 鎖死再防守"
+    ]
+   }
+  },
+  {
+   "question": "對 Twister 拍降最安全的方式是什麼，什麼時候該拍？",
+   "answer": "以口頭拍降作為主要訊號，因為你的雙手可能被這個 submission 的機制困住或限制住。可以搭配用能自由活動的那隻手，拍打對手身體或地面作為補充。只要你感覺到脊椎承受了無法用結構性方式抵抗的旋轉壓力，就要立刻拍降——不要等著看自己能不能逃脫。Twister 直接攻擊頸椎與胸椎，這裡的傷害可能是永久性的，所以拍降的門檻應該遠低於四肢關節鎖的門檻。",
+   "safety_critical": true,
+   "answer_line": "口頭拍降，不要等待",
+   "distractors": {
+    "plausible": [
+     "只用肢體拍，不出聲",
+     "先逃脫再拍降"
+    ],
+    "trap": [
+     "硬撐過這個旋轉"
+    ]
+   }
+  },
+  {
+   "question": "為什麼穿手是關鍵的防守窗口，如果沒能擋下會發生什麼？",
+   "answer": "穿手之所以是關鍵窗口，是因為一旦攻擊者的手臂穿過你頭下、與你遠側手腕連接成扣握的 grip，你就失去阻擋脊椎旋轉的能力。你的防守手臂此時已被困在 grip 的機制之中，肩膀也已經被壓平，剩下唯一會發生的動作就是施加旋轉力。在 grip 連接之前，你可以用雙手阻擋手臂、收緊下巴、用前臂做 frame 抵擋。grip 連接之後，防守選項就縮減到只剩 bridge，然後寄望攻擊者的 base 失守。",
+   "safety_critical": false,
+   "answer_line": "Grip 一連上，防守選項就沒了",
+   "distractors": {
+    "plausible": [
+     "只是失去收下巴的防守",
+     "只是失去 bridge 逃脫的機會"
+    ],
+    "trap": [
+     "還是能輕鬆剝掉 grip"
+    ]
+   }
+  },
+  {
+   "question": "如果攻擊者已經在你頭後方鎖好扣握的 grip，還有哪些防守選項？",
+   "answer": "在這個階段，選項已經嚴重受限。主要的防守方式是抓準攻擊者剛開始旋轉的時機，用爆發式的 bridge 破壞他的 base，趕在完整扭力施加之前動作。如果有一隻手能自由活動，可以嘗試撬開扣握的雙手來剝除 grip。如果你感覺到脊椎壓力開始出現，就立刻拍降——不要嘗試硬撐過這個旋轉。到了這個階段，防守成功的機率非常低，這也是為什麼更早阻擋穿手如此重要。",
+   "safety_critical": true,
+   "answer_line": "及早 bridge，壓力起就拍",
+   "distractors": {
+    "plausible": [
+     "先解開被困的腿",
+     "把髖部向後 shrimp"
+    ],
+    "trap": [
+     "用頸部力量硬抗旋轉"
+    ]
+   }
+  },
+  {
+   "question": "如果你成功擋下穿手，接下來的逃脫順序應該怎麼安排？",
+   "answer": "擋下穿手之後，維持收緊下巴與雙手的 frame，同時立刻著手用手肘建立結構性的 frame 來對抗對手的肩膀壓力。在直接的 submission 威脅被排除後，把注意力轉向用髖部伸展與小幅度的繞環動作，設法把雙腿從纏繞中抽出。只有在部分抽腿成功、並維持住上半身的 frame 之後，才嘗試完整的逃脫：轉向對手的雙腿方向、用 hip escape 製造距離，並恢復到 half guard 或 closed guard。如果急著跳過這個順序，可能會讓頸部再次暴露在下一次穿手嘗試之下。",
+   "safety_critical": false,
+   "answer_line": "先做 frame，再抽腿",
+   "distractors": {
+    "plausible": [
+     "先把腿抽出來再做 frame",
+     "立刻 bridge 拉開距離"
+    ],
+    "trap": [
+     "轉身逃向出口"
+    ]
+   }
+  }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Twister/from Twister Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

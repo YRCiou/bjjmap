@@ -1,0 +1,255 @@
+{
+ "attacker": {
+ "flashcards": [
+  {
+   "question": "從 Front Headlock 逃脫的 Arm Drag Escape，主要目標是什麼？",
+   "answer": "主要目標是用 two-on-one grip 把對手勒頸的手臂拉過你的中線，同時把頭轉出對手的控制，並回復到 open guard。這個技巧透過精準的抓握和角度移動，而非靠爆發力，拆解對手的頭部控制結構，把危險的防守位置轉換成中性甚至有利的位置。",
+   "answer_line": "拉手臂，轉頭出，回復 guard",
+   "distractors": {
+    "plausible": [
+     "純靠力量硬把手臂扯開",
+     "把髖部後 sprawl 破壞控制"
+    ],
+    "trap": [
+     "只拉手臂，頭留在原地"
+    ]
+   }
+  },
+  {
+   "question": "Arm Drag Escape 是從什麼位置開始，進入條件是什麼？",
+   "answer": "這個技巧從 Front Headlock/Bottom 開始，對手至少用一隻手臂纏住你的頭頸，胸口向前壓在你的上背。你通常呈跪姿或身體被迫前彎。關鍵的進入條件是對手的重心必須向前壓，而不是後 sprawl，因為向前的壓力正是 drag 所需要的槓桿。你同時需要雙手都能碰到那條勒頸的手臂。",
+   "answer_line": "對手重心向前壓",
+   "distractors": {
+    "plausible": [
+     "對手用力向後 sprawl",
+     "你已經整個人趴平在背上"
+    ],
+    "trap": [
+     "等到對手鎖上 guillotine 再動作"
+    ]
+   }
+  },
+  {
+   "question": "Arm Drag Escape 需要的關鍵抓握是什麼？",
+   "answer": "你需要在對手勒頸的手臂上建立 two-on-one grip：靠近的那隻手用拇指壓在前臂上方，以 C-grip 控制對手手腕，另一隻手則抓住手肘上方的 tricep。兩個抓握都必須在開始任何橫向移動之前建立好。手腕的抓握控制方向，tricep 的抓握則提供在 drag 過程中把對手手肘推過你臉部所需的槓桿。手肘要夾緊身體，避免對手把手臂抽走。",
+   "answer_line": "C-grip 抓腕，tricep two-on-one",
+   "distractors": {
+    "plausible": [
+     "抓對手的 sleeve 和 collar",
+     "只用一隻手抓手腕就夠了"
+    ],
+    "trap": [
+     "手肘外開，只抓單一手腕"
+    ]
+   }
+  },
+  {
+   "question": "對手感覺到你在建立 two-on-one grip 時，用力把髖部向後 sprawl，你該如何調整？",
+   "answer": "當對手向後 sprawl 時，他們減少了讓 arm drag 生效所需的向前壓力，但同時也降低了他們完成 front headlock submission 的能力。這時放棄 arm drag，改換成 technical standup 或 granby roll 逃脫，這兩者對已經 sprawl 的對手效果更好。arm drag 的威脅已經達成了它的目的——逼對手改變位置——現在利用新的位置採取合適的替代逃脫方式。這正是為什麼擁有多種 front headlock 逃脫方式非常重要。",
+   "answer_line": "改換成 standup 或 granby roll",
+   "distractors": {
+    "plausible": [
+     "還是硬把 arm drag 做完",
+     "改換成 guillotine 進攻"
+    ],
+    "trap": [
+     "繼續拉，直到手臂被拉出來"
+    ]
+   }
+  },
+  {
+   "question": "當你嘗試 arm drag 時，對手改換成 guillotine grip，你該如何反制？",
+   "answer": "如果你在開始 drag 的同時感覺到對手正在收緊 guillotine，立刻把頸部防禦放在完成逃脫之前優先處理。停止橫向移動，把下巴收得更深，並把肩膀壓進對手胸口製造 posture 壓力。執行標準的 guillotine 防禦：在手腕處對抗那隻勒頸的手，並把身體移向非勒頸的那一側。只有在化解 guillotine 威脅之後，才重新嘗試 arm drag。絕對不要為了完成逃脫而犧牲頸部安全。",
+   "answer_line": "停止 drag，先防守 guillotine",
+   "distractors": {
+    "plausible": [
+     "加快速度把 arm drag 做完",
+     "把頭往後拉來緩解壓力"
+    ],
+    "trap": [
+     "先不管它，先把 drag 完成"
+    ]
+   }
+  },
+  {
+   "question": "啟動 arm drag 最關鍵的時機是什麼？",
+   "answer": "最佳時機是對手重心向前轉移的時候——通常發生在他們調整抓握以加深勒頸設置、施加向前壓力想把你壓平，或是在不同 submission 攻擊之間轉換時。這種向前的重心轉移會降低他們向後 sprawl 逃離 drag 的能力，並提供你拉扯所需的槓桿。如果在對手已經穩定、髖部後坐、底盤寬闊時嘗試 drag，會因為他們的重心分佈抵抗橫向拉扯而失敗。透過反覆 drill 培養對這些重心轉移的敏銳度非常重要。",
+   "answer_line": "對手重心向前轉移時",
+   "distractors": {
+    "plausible": [
+     "剛好在他們穩住底盤的瞬間",
+     "headlock 一鎖上就立刻動作"
+    ],
+    "trap": [
+     "對手用力向後 sprawl 的時候"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 arm drag 和轉頭必須同步進行，而不是先後進行？",
+   "answer": "如果你先拉手臂，再嘗試轉頭，對手會有時間察覺到這個逃脫動作，並用另一隻手重新收緊控制、改換成 guillotine，或調整髖部以維持 headlock。同步動作能創造出單一的爆發性動作，讓手臂在你的頭部通過逃脫路徑的那一刻正好清出空間。先後動作會給對手兩個各自獨立的反制窗口，而不是一個，大幅降低你的成功率。這種協調性是這個技巧的核心技能。",
+   "answer_line": "拉手臂與轉頭同步進行",
+   "distractors": {
+    "plausible": [
+     "先把手臂完全拉開，再移動頭部",
+     "先轉頭，再拉手臂"
+    ],
+    "trap": [
+     "在拉和轉頭之間停頓一下"
+    ]
+   }
+  },
+  {
+   "question": "頭部脫困之後，要立刻做什麼動作才能防止對手重新建立控制或拿到你的背？",
+   "answer": "頭一脫困，立刻把內側膝蓋當作主要 frame 頂進對手的髖部或胸口，同時用力做一個 hip switch 面向對手。這個膝蓋 frame 能立刻建立一道實體屏障。接著把外側腳架在對手遠端的髖部上，建立雙腳 frame 結構。這些 frame 必須在頭部脫困後一到兩秒內就位。沒有立即建立 frame，對手要嘛會伸手重新拿到你的頭部控制，要嘛會繞到你身後拿 back control。逃脫在 guard frame 建立之前都還不算完成。",
+   "answer_line": "先膝蓋 frame，再外側腳 frame",
+   "distractors": {
+    "plausible": [
+     "立刻直接站起來",
+     "架 frame 之前先抓 collar tie"
+    ],
+    "trap": [
+     "伸手回去確認對手的位置"
+    ]
+   }
+  },
+  {
+   "question": "面對力量更強的對手，哪個身體力學能放大 arm drag 的力量？",
+   "answer": "是軀幹旋轉，而不是單靠手臂孤立拉扯。不要只靠二頭肌和抓握去拉手臂，而是把整個軀幹朝 drag 那一側旋轉，同時把手肘拉向遠端的髖部。這會動用你的核心、闊背肌，以及身體重量帶來的旋轉力，大幅放大拉扯的力量。只靠手臂力量的練習者，面對較大的對手會很吃力，但善用整個軀幹旋轉的人，即使對上力量明顯更強的對手，也能改變手臂方向，因為軀幹旋轉的機械優勢超過靜態的手臂力量。",
+   "answer_line": "旋轉軀幹，別只靠拉手臂",
+   "distractors": {
+    "plausible": [
+     "光靠握力就能贏得這場拉扯",
+     "用兩隻手臂的二頭肌用力拉"
+    ],
+    "trap": [
+     "用猛拉手腕的方式甩動"
+    ]
+   }
+  },
+  {
+   "question": "從 front headlock 逃脫時，什麼時候該選擇 arm drag escape，而不是 granby roll 或 technical standup？",
+   "answer": "當對手重心向前壓、壓力壓在你的上背時，選擇 arm drag——這能提供 drag 所需的槓桿條件。當對手的控制鬆散、你有空間可以撐地站起時，選擇 technical standup。當對手過度偏向某一側，或你需要從緊縮位置快速、爆發性地逃脫時，選擇 granby roll。arm drag 最適合作為對抗向前壓力的計算型技術逃脫，而其他選項則適合不同的對手重心分佈與緊急程度。",
+   "answer_line": "向前壓力適合用 arm drag",
+   "distractors": {
+    "plausible": [
+     "控制鬆散適合用 arm drag",
+     "對手過度偏移適合用 arm drag"
+    ],
+    "trap": [
+     "永遠優先選 granby roll"
+    ]
+   }
+  },
+  {
+   "question": "對手用空手撐地，在你 drag 到一半時把你壓平，你該如何恢復？",
+   "answer": "如果你在完成 drag 之前就被壓平，立刻放棄 arm drag，優先重建你的底座。用你抓在對手手臂上的抓握當作 frame，頂住對手的胸口或肩膀，製造足夠空間把膝蓋收回身體下方。一旦重建好 turtle 底座，評估情況是否有變化——如果對手現在正大力向前壓，arm drag 的條件可能反而變得更好，可以再嘗試一次。如果對手已經調整成 sprawl 姿態，那就改用 technical standup 或 sit-through 逃脫。",
+   "answer_line": "放棄 drag，先重建底座",
+   "distractors": {
+    "plausible": [
+     "不管情況繼續拉手臂",
+     "立刻用空手撐地"
+    ],
+    "trap": [
+     "放開抓握，整個人完全趴平"
+    ]
+   }
+  },
+  {
+   "question": "arm drag 的施力方向與頭部移動方向有什麼關係？",
+   "answer": "arm drag 把對手勒頸的手臂橫向拉過你的中線，朝向你遠端的髖部，而你的頭部則朝同一個橫向方向轉動，但是從手臂下方穿過。兩個動作都朝同一側移動——drag 的那一側。你的頭部從手臂被拉開後所形成的空隙下方穿過。這種同方向的移動有點違反直覺，因為許多逃脫技巧是朝施力方向的反方向移動，但 arm drag 的原理是同時清除障礙（對手的手臂）並從打開的空間中逃脫。",
+   "answer_line": "drag 與頭都往同一側走",
+   "distractors": {
+    "plausible": [
+     "頭往 drag 的反方向移動",
+     "手臂拉向中線，頭留在原地"
+    ],
+    "trap": [
+     "把頭推離 drag 的那一側"
+    ]
+   }
+  }
+ ]
+ },
+ "defender": {
+ "flashcards": [
+  {
+   "question": "在 front headlock bottom 位置，能最早察覺對手正在嘗試 arm drag escape 的訊號是什麼？",
+   "answer": "最早的訊號是感覺到對手在你勒頸手臂上的手部活動增加，特別是下位選手靠近的那隻手正朝你的手腕移動，另一隻遠端的手則伸向你的 tricep 或上臂區域。這種 two-on-one grip 的建立，是 drag 動作的必要前提——沒有這兩個抓握，逃脫就無法成立。在兩個抓握都完全建立之前就察覺這個手部動作，能給你最大的時間窗口來實施防禦調整。",
+   "answer_line": "手在找手腕與 tricep 的抓握",
+   "distractors": {
+    "plausible": [
+     "突然的髖部逃脫動作",
+     "對手呼吸節奏改變"
+    ],
+    "trap": [
+     "等到 drag 完全開始再反應"
+    ]
+   }
+  },
+  {
+   "question": "為什麼把髖部向後 sprawl 對防禦 arm drag 有效，但同時也有一定的風險？",
+   "answer": "向後 sprawl 能去除 arm drag 所需的向前重心壓力，有效切斷這個逃脫動作的主要力量來源。然而，sprawl 也會降低你自己對下位選手上背施加的向前壓力，這可能為對手打開 technical standup 或 granby roll 等其他逃脫方式的機會。sprawl 解決了 arm drag 的問題，卻可能製造出另一個問題，這就是為什麼把 sprawl 搭配立即的進攻轉換（例如 guillotine 或 back take 嘗試）比單純 sprawl 更有效。",
+   "answer_line": "sprawl 阻止 drag，卻打開逃脫機會",
+   "distractors": {
+    "plausible": [
+     "sprawl 能保證完全控制",
+     "sprawl 完全沒有任何缺點"
+    ],
+    "trap": [
+     "光靠 sprawl 就能完成 choke"
+    ]
+   }
+  },
+  {
+   "question": "對手已經建立 two-on-one grip 並開始 drag，這時候防守已經太遲了嗎？",
+   "answer": "還沒有太遲，但你的防守選項會改變。到了這個階段，阻止抓握已經不再可行，所以你必須轉為反攻。最好的兩個選項是：在對手轉頭的過程中，趁勢收緊改換成 guillotine grip；或是完全放棄頭部控制，趁對手投入橫向移動時繞到對手身後拿 back。這兩個選項都是利用對手已經投入的動作來反制他們，而不是靜態地對抗一個已經在進行中的 drag。",
+   "answer_line": "改換成 guillotine 或拿 back",
+   "distractors": {
+    "plausible": [
+     "靜態地對抗那股拉力",
+     "嘗試重新抓回對手手腕"
+    ],
+    "trap": [
+     "把手臂用力往回甩開"
+    ]
+   }
+  },
+  {
+   "question": "如果你感覺到下位選手一再瞄準你勒頸的手臂想建立 two-on-one 控制，該如何調整手臂位置？",
+   "answer": "把勒頸的手臂重新定位，可以把手臂繞得更高、包住對手頭部，讓手腕更難被抓到；或是完全改用不同的抓握配置，例如 chin strap 或 collar tie，讓手臂的幾何角度更難建立 two-on-one。你也可以間歇性地放開再重新從不同角度拿回頭部控制，避免對手穩定形成可預測的抓握對抗模式。關鍵在於不讓對手拿到他們建立 two-on-one 所需的可預測手臂位置。",
+   "answer_line": "把手臂架高或換抓握方式",
+   "distractors": {
+    "plausible": [
+     "在同一個位置抓得更緊",
+     "再加上第二隻勒頸的手"
+    ],
+    "trap": [
+     "把手臂伸長留出可及範圍"
+    ]
+   }
+  },
+  {
+   "question": "哪種進攻轉換最能懲罰一個已經投入的 arm drag 嘗試，同時還能推進你的位置？",
+   "answer": "back take 的轉身是回報最高的進攻反制。當下位選手投入橫向 arm drag，體重轉移到一側時，放開你的頭部控制，朝對手 drag 的反方向繞到他們身後。他們橫向的投入讓他們極難轉身面對你，而且他們的雙手正忙著抓你的手臂，無暇防守 back take。這能把對手的逃脫嘗試直接轉換成你最強的進攻位置，也對他們未來嘗試 arm drag 形成強烈的嚇阻。",
+   "answer_line": "放開頭，繞到身後拿 back",
+   "distractors": {
+    "plausible": [
+     "維持頭部控制，用力拉更緊",
+     "改換成 armbar 嘗試"
+    ],
+    "trap": [
+     "追著 arm drag 想把它完成"
+    ]
+   }
+  }
+ ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Arm Drag Escape.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Back Take from Anaconda.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 anaconda choke 轉換到 back take 時，最主要的視覺或觸覺提示是什麼，能判斷出最佳的轉換時機？",
+    "answer": "最主要的提示是對手的肩膀和髖部開始轉離勒頸的壓力方向，這同時會減少勒頸的角度並暴露出他的背部。你會感覺到他的上半身在你胸口下方轉動、被困住的手臂往身體方向拉，以及髖部逐漸偏離你控制的那一側。這個轉動的動作是最清楚的訊號，代表對手的防禦正在生效，但背部的暴露程度也正在增加。",
+    "answer_line": "髖與肩開始轉離",
+    "distractors": {
+     "plausible": [
+      "勒頸壓力突然升高",
+      "被困手臂完全放鬆"
+     ],
+     "trap": [
+      "對手雙腿靜止不動"
+     ]
+    }
+   },
+   {
+    "question": "對手開始轉離你的 anaconda 壓力，但手肘依然緊貼身體 —— 你要如何製造空間來放入 hook？",
+    "answer": "用 seatbelt 的 underhook 那隻手把他較遠側的手肘往外抬離髖部，製造出放入 hook 所需的縫隙。同時用你近側的膝蓋頂進他的下背，在他的髖部與地墊之間撐出空間。如果手肘依然緊貼，就把你近側的腿轉換成 butterfly hook 位置，頂住他的大腿內側，利用槓桿把他的腿撬開以便放入 hook。",
+    "answer_line": "抬遠肘、頂膝造空間",
+    "distractors": {
+     "plausible": [
+      "硬把 hook 從手肘間塞入",
+      "把對手的手臂往外拉"
+     ],
+     "trap": [
+      "放開 seatbelt 去抓腿"
+     ]
+    }
+   },
+   {
+    "question": "在轉換到 back control 的過程中，什麼樣的抓握配置會取代 anaconda 的鎖法？",
+    "answer": "seatbelt 的抓法會取代 anaconda 的鎖法。一隻手繞過對手的肩膀，另一隻手穿到他較遠側的腋下，雙手在他的胸口或上胸骨處扣在一起。這個 seatbelt 提供的上半身控制效果與 anaconda 抓法相當，但方向是為了 back control 而非勒頸。overhook 那一側控制近側肩膀，underhook 那一側則防止對手轉身面向你。",
+    "answer_line": "Seatbelt：一上一下，雙手扣緊",
+    "distractors": {
+     "plausible": [
+      "雙手都抓 underhook",
+      "雙手都抓 overhook，不扣手"
+     ],
+     "trap": [
+      "改用 body triangle 抓法"
+     ]
+    }
+   },
+   {
+    "question": "從 anaconda 轉換到 back control 時，應該先放入哪一個 hook？為什麼？",
+    "answer": "應該先放入近側的 hook，因為在轉換過程中它離對手身體最近，能在攻擊方已具有位置優勢的那一側立即建立髖部控制。近側 hook 能阻止對手完成轉身面向攻擊方的動作，而這正是這個轉換過程中成功率最高的逃脫方式。一旦近側 hook 穩固，遠側的 hook 就能以低得多的失位風險放入。",
+    "answer_line": "先放入近側 hook",
+    "distractors": {
+     "plausible": [
+      "先放遠側 hook 擋轉身",
+      "兩個 hook 同時放入"
+     ],
+     "trap": [
+      "跳過 hook，直接壓平對手"
+     ]
+    }
+   },
+   {
+    "question": "當你放開 anaconda 抓法準備轉換到 seatbelt 時，對手抓住了你的手腕 —— 你該如何應對？",
+    "answer": "用你空出的那隻手維持胸貼背的連結，同時把被抓住的手腕以畫圓的方式往對手拇指方向游出，因為拇指是任何抓握中最弱的一點。另一個做法是暫時放棄被抓住的那隻手臂，用空出的手建立單邊 underhook，再用髖部壓力和體重來瓦解對手的抓握。絕對不要為了處理手腕被抓而停止胸口的壓力，因為身體分離比暫時被控制的手腕更危險。",
+    "answer_line": "游向拇指，胸壓不停",
+    "distractors": {
+     "plausible": [
+      "先抽手，再重新連結",
+      "快速改成單邊 underhook"
+     ],
+     "trap": [
+      "放開胸口壓力去解手腕"
+     ]
+    }
+   },
+   {
+    "question": "從 anaconda 轉換到 back control 的整個過程中，必須維持的關鍵身體連結是什麼？",
+    "answer": "胸貼背的連結是整個轉換過程中絕對不能中斷的關鍵身體連結。從最初的 anaconda 位置，經過 seatbelt 的建立到 hook 放入，一直到最終的鞏固，你的胸骨都應該持續貼緊對手的上背和肩胛骨。任何的分離都會讓對手有機會轉身、做出 frame，或製造出足夠的距離來面向你，讓 back take 完全失效。",
+    "answer_line": "胸貼背的連結",
+    "distractors": {
+     "plausible": [
+      "overhook 抓握的力量",
+      "遠側的髖部壓力"
+     ],
+     "trap": [
+      "在地墊上控制頭部"
+     ]
+    }
+   },
+   {
+    "question": "你成功放入一個 hook，但對手在你放入第二個 hook 之前就開始轉身面向你 —— 你的即時反應是什麼？",
+    "answer": "收緊 seatbelt 抓法，把已放入的 hook 頂得更深，同時用空出的那條腿撐在地墊上，跟著對手的轉動移動。如果對手持續轉動，就用 seatbelt 把他拉回來，並重新調整你的髖部角度到他身後。如果轉身角度已經太大，就暫時放棄第二個 hook，用單邊 hook 加上緊繃的 seatbelt 把他拖回原本的位置。一個穩固的單邊 hook 配上緊繃的 seatbelt 就足以防止完全逃脫，讓你有時間重新設置第二個 hook。",
+    "answer_line": "收緊 seatbelt，把 hook 頂深",
+    "distractors": {
+     "plausible": [
+      "急著放入第二個 hook",
+      "放開 hook 去調整髖部角度"
+     ],
+     "trap": [
+      "放掉 seatbelt，去抓遠側手臂"
+     ]
+    }
+   },
+   {
+    "question": "如果 back take 的嘗試失敗，對手開始逃脫，你應該優先回到哪個位置？",
+    "answer": "應該優先回到 anaconda control 或 front headlock 位置，而不是為了搶一個較劣勢的位置而亂搶。既然你是從 anaconda control 出發，你的手臂和上半身早已為 head-and-arm 攻擊做好配置。重新建立 anaconda 抓法，或依照混戰時的角度轉換成 darce 或 guillotine。回到起始位置能保住你的進攻優勢，讓你有另一次進攻的機會，而不是直接放棄整個位置。",
+    "answer_line": "回到 anaconda control",
+    "distractors": {
+     "plausible": [
+      "搶上位 mount",
+      "追加雙腿抱摔"
+     ],
+     "trap": [
+      "放開所有抓握，脫離接觸"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 anaconda choke 轉換到 back take，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是勒頸壓力性質的變化。anaconda choke 會對你的頸部和被困的手臂施加壓縮性的壓力，而轉換到 back take 時，攻擊方會鬆開或放掉這股壓縮，好重新配置手臂。你會先感覺到頸部周圍的壓迫感減輕，之後才會感覺到手臂移動到 seatbelt 的位置。這個壓力變化會比看得見的手臂動作早一瞬間發生，讓警覺的防守方能提前開始防守反應。",
+    "answer_line": "勒頸壓力先鬆開",
+    "distractors": {
+     "plausible": [
+      "對手呼吸變急促",
+      "被困手臂被拉得更緊"
+     ],
+     "trap": [
+      "對手抓住你的衣領"
+     ]
+    }
+   },
+   {
+    "question": "對手放開 anaconda 抓法，你感覺到他的手臂正滑過你的肩膀準備做 seatbelt —— 什麼樣的即時動作能阻止 back control 成立？",
+    "answer": "立刻把身體轉向那隻正穿過你肩膀的手臂，用你的近側肩膀頂進他的胸口，同時用空出的手撐在地墊上做出 base。這個轉身動作能讓你面向攻擊方，避免背部暴露。同時，用你遠側的手在對方雙手扣緊之前，把那隻 overhook 的手臂從你肩上剝開。轉身面向對手加上剝除抓握的組合，能在 back take 最脆弱的環節就將其瓦解。",
+    "answer_line": "轉身面向，剝開 overhook",
+    "distractors": {
+     "plausible": [
+      "壓低頭部，雙腿撐開防守",
+      "立刻抓住遠側手腕"
+     ],
+     "trap": [
+      "轉身離開以製造距離"
+     ]
+    }
+   },
+   {
+    "question": "在抓握轉換的空檔中，為什麼轉身面向攻擊方比試圖拉開距離更有效？",
+    "answer": "轉身面向攻擊方能直接處理 back control 的根本前提：背部必須暴露在外。透過面向對方，你完全消除了背部暴露的問題，迫使攻擊方必須從正面重新開始攻擊，而在這個角度下 back control 是不可能成立的。相反地，往外拉開只是在維持背部暴露的同時製造距離，而攻擊方能靠髖部移動和胸口下壓輕易縮短這段距離。此外，往外拉開通常會伸直手臂、拉直姿勢，這反而會改善攻擊方 seatbelt 的槓桿效果。",
+    "answer_line": "轉身面向，拒絕暴露背部",
+    "distractors": {
+     "plausible": [
+      "往外拉開製造距離",
+      "降低重心準備抱摔"
+     ],
+     "trap": [
+      "拉直姿勢，往外拉開"
+     ]
+    }
+   },
+   {
+    "question": "攻擊方已經放入一個 hook 但還沒鎖定第二個 —— 什麼樣的髖部動作能給你最大的機會避免完整的 back control？",
+    "answer": "朝著已放入 hook 的那一側做 hip escape（shrimp），把髖部往那一側遠離攻擊方的方向推。這個動作能同時把重量壓到那個 hook 上讓它更難被用來控制、製造出讓第二個 hook 難以放入的角度，並讓你遠側的髖部遠離攻擊方空出的那條腿。緊接著在 hip escape 之後把肩膀轉向攻擊方，開始面向他，利用 shrimp 的動能來輔助這個轉身。",
+    "answer_line": "朝 hook 方向 shrimp，再轉身",
+    "distractors": {
+     "plausible": [
+      "朝遠離 hook 的方向 shrimp",
+      "頂髖把對方甩開"
+     ],
+     "trap": [
+      "用手把 hook 推開"
+     ]
+    }
+   },
+   {
+    "question": "如果你在抓握轉換的過程中成功阻止了 back take，應該以回到哪個位置為目標？",
+    "answer": "最理想的回復目標是 half guard 或 closed guard，因為這兩個位置都能讓你面向攻擊方並建立防禦框架。half guard 是更實際的目標，因為在混戰過程中你已經與攻擊方的腿部保持近距離接觸。如果你能在轉身面向他的同時把他的一條腿夾在你雙腿之間，就能立刻建立起帶有 frame 的 half guard，並開始朝 sweep 或 guard 復原的方向努力。避免嘗試完全站起來或完全脫離接觸，因為攻擊方仍保有上半身的接近優勢，很容易重新纏鬥。",
+    "answer_line": "回復 half guard，夾住腿",
+    "distractors": {
+     "plausible": [
+      "完全站起來脫離接觸",
+      "turtle 起來擋住 hook"
+     ],
+     "trap": [
+      "推開對方後站起來"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Crackhead Control 發動的 Triangle Choke 主要攻擊哪些解剖構造？",
+    "answer": "Triangle Choke 用一側的大腿與對手自己被困住的肩膀同時壓迫雙側頸動脈。鎖喉的那條腿壓住一側頸動脈，而夾緊的動作則把對手的肩膀壓進另一側頸動脈。這種雙側頸動脈壓迫會阻斷腦部供血，正確施力後約 8-12 秒內就能造成昏迷。",
+    "safety_critical": false,
+    "answer_line": "雙側頸動脈壓迫",
+    "distractors": {
+     "plausible": [
+      "壓迫氣管",
+      "只壓一側頸動脈"
+     ],
+     "trap": [
+      "切斷頸靜脈"
+     ]
+    }
+   },
+   {
+    "question": "Triangle 正確鎖緊、對手接近極限時，有哪些關鍵徵兆？",
+    "answer": "關鍵徵兆包括對手臉色轉紅或潮紅、逃脫嘗試的抵抗力道下降、出現不自主的伸手或亂揮動作，以及恢復姿勢的努力逐漸無力。攻擊者也會感覺到對手被困住的肩膀愈壓愈深進自己的頸部，夾緊感因此持續增強。若 5-7 秒後仍看不到這些徵兆，通常代表角度或鎖法需要調整。",
+    "safety_critical": false,
+    "answer_line": "臉色潮紅、抵抗轉弱",
+    "distractors": {
+     "plausible": [
+      "對手立刻 tap",
+      "爆發性 bridge 逃脫"
+     ],
+     "trap": [
+      "對手提早癱軟"
+     ]
+    }
+   },
+   {
+    "question": "從 Crackhead Control 轉換成 Triangle 嘗試之前，必須先建立什麼控制？",
+    "answer": "啟動 Triangle 轉換之前，你必須已經破壞對手的姿勢、讓對手的額頭貼近你的胸口，用至少一手扣住對手後腦建立頭部控制，把對手遠側手臂隔離到你的身體中線之外，並且小腿牢牢壓在對手臉上。手臂隔離是最關鍵的前提，因為如果雙臂都還在裡面就嘗試 Triangle，會讓對手有強大的 frame 與恢復姿勢的機會。",
+    "safety_critical": false,
+    "answer_line": "把遠側手臂隔離過中線",
+    "distractors": {
+     "plausible": [
+      "先確保雙邊 underhook",
+      "先把對手完全壓平"
+     ],
+     "trap": [
+      "讓雙臂都留在裡面"
+     ]
+    }
+   },
+   {
+    "question": "從 Crackhead Control 進行的 Triangle，在什麼時間點對手已經過了無法逃脫的臨界點？",
+    "answer": "無法回頭的臨界點發生在 Triangle 已鎖緊、角度正確，且對手被困住的手臂已完全過中線的時候。一旦角度朝被困手臂那一側切到約 30 度，且鎖法夠緊，防守選項就會變得極為有限。鎖未關閉前，對手還有多個防守空檔；鎖已關閉但角度未切出前，stack 仍是可行選項。兩個條件都成立後，只有爆發性的姿勢恢復還算現實的逃脫方式。",
+    "safety_critical": false,
+    "answer_line": "Triangle 已鎖 + 角度已切",
+    "distractors": {
+     "plausible": [
+      "Triangle 已鎖，角度未切",
+      "手臂已隔離，尚未鎖住"
+     ],
+     "trap": [
+      "對手姿勢仍然很高"
+     ]
+    }
+   },
+   {
+    "question": "施展從 Crackhead Control 發動的 Triangle 時，最常見的收招錯誤是什麼？",
+    "answer": "最常見的收招錯誤是鎖住 Triangle 後沒有切角度。許多練習者直接往前夾，這種壓迫主要靠肌肉力量，無法有效鎖定頸動脈。少了朝被困手臂那側切出的 30 度角，鎖喉腿與對手肩膀就無法形成精準的雙側壓迫。結果變成一個容易讓人疲勞的夾法，對手常能靠耐心防守姿勢並逐步製造空間撐過去。",
+    "safety_critical": false,
+    "answer_line": "直接往前夾、沒切角度",
+    "distractors": {
+     "plausible": [
+      "拉頭的握法太弱",
+      "太早放開小腿"
+     ],
+     "trap": [
+      "朝被困手臂反方向切角"
+     ]
+    }
+   },
+   {
+    "question": "在從 Crackhead Control 發動的 Triangle 收招階段，應該如何調整握法？",
+    "answer": "收招時，從設置階段的頭部控制握法轉換為雙手在對手頸後扣住，把對手的頭往下拉。如果對手的姿勢抵抗很強，可改用一手 underhook 對手遠側大腿以阻擋 stack 防守。若要達到最大壓迫，可用雙手扣住鎖喉腿的小腿，把它拉得更深壓過頸部。握法的優先順序，會從設置階段的位置控制，轉為收招階段的壓迫輔助。",
+    "safety_critical": false,
+    "answer_line": "雙手扣頸後、往下拉",
+    "distractors": {
+     "plausible": [
+      "維持一開始的頭控握法",
+      "抓對手遠側手腕"
+     ],
+     "trap": [
+      "放開頭控去撐地"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展從 Crackhead Control 發動的 Triangle Choke 時，主要的安全考量是什麼？",
+    "answer": "主要的安全考量是血液勒頸效果的發作速度很快，正確施力後最快 8-12 秒就可能造成昏迷。至少要花 3-5 秒逐漸施加壓力，給夥伴足夠時間察覺並 tap。絕對不要突然猛拉或瞬間加壓。施展過程中要持續觀察夥伴的反應，一旦收到任何 tap 信號就立刻放開。角度與鎖法一旦正確設定，從不舒服的壓力進展到昏迷可能非常快。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，3-5 秒",
+    "distractors": {
+     "plausible": [
+      "立刻用力夾緊",
+      "提醒夥伴後再等待"
+     ],
+     "trap": [
+      "猛拉並瞬間加壓"
+     ]
+    }
+   },
+   {
+    "question": "收到 tap 後，該如何解開從 Crackhead Control 發動的 Triangle Choke？",
+    "answer": "收到任何 tap 信號後，立刻打開雙腿並解開 Triangle 的結構。把小腿從對手頸部移開，雙腿放回墊上。放開手臂的困鎖，讓夥伴有空間恢復。在繼續之前先確認夥伴的意識與呼吸狀態。若夥伴在 tap 之前就已經失去反應或癱軟，立刻讓對方採恢復姿勢並馬上通知教練。絕對不要在猶豫某個動作是不是 tap 的時候繼續保持鎖法。",
+    "safety_critical": true,
+    "answer_line": "打開雙腿、立刻放開",
+    "distractors": {
+     "plausible": [
+      "花幾秒鐘慢慢放鬆",
+      "先確認 tap 是不是真的"
+     ],
+     "trap": [
+      "維持鎖法確認 submission"
+     ]
+    }
+   },
+   {
+    "question": "Triangle 鎖住後，對手開始對你進行 stack，該如何調整才能防止對方逃脫？",
+    "answer": "當對手往前 stack 時，用手 underhook 對手遠側大腿以阻擋向前的推力，或把你的髖部往對手施壓的反方向挪，以維持垂直的鎖喉角度。如果你能維持角度，stack 其實反而可能讓 choke 更緊，因為向前的壓力會把對手的肩膀壓得更深進自己的頸動脈。如果對手還是成功 stack 起來，與其在被壓縮的姿勢裡硬撐消耗體力，不如直接轉換攻擊被困手臂的 armbar。",
+    "safety_critical": false,
+    "answer_line": "Underhook 大腿、保持角度",
+    "distractors": {
+     "plausible": [
+      "放開雙腿重新結 guard",
+      "只加強往下拉頭的力道"
+     ],
+     "trap": [
+      "把髖部正對對手的壓力"
+     ]
+    }
+   },
+   {
+    "question": "從 Crackhead Control 設置 Triangle 和從標準 closed guard 設置 Triangle 有何不同？這種差異為何有利？",
+    "answer": "從標準 closed guard 出發，Triangle 需要先破壞姿勢、把髖部撐高、隔離一隻手臂，再把一條腿甩過對手肩膀，每一步都會留下防守空檔。從 Crackhead Control 出發，姿勢早已被破壞，腿也已經透過小腿壓臉的方式來到頸部高度，手臂隔離往往也已經完成。這大幅縮短了轉換的距離，把防守機會從四個明顯的空檔，壓縮成幾乎只剩一個關鍵瞬間——也就是小腿從控臉轉為鎖頸的那一刻。",
+    "safety_critical": false,
+    "answer_line": "前置動作已完成，快速進招",
+    "distractors": {
+     "plausible": [
+      "需要把髖部撐得更高",
+      "需要額外的抓握對抗"
+     ],
+     "trap": [
+      "較慢，防守空檔更多"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在設置從 Crackhead Control 發動的 Triangle Choke？",
+    "answer": "主要的辨識徵兆是：對手原本壓在你臉上的小腿開始移動或變輕，準備轉換成鎖喉位置；你的遠側手臂被積極推過中線；以及控制手拉頭的力道增加。最緊急的複合訊號是手臂被隔離加上小腿離開你的臉，這代表 Triangle 轉換即將發生，你大約只剩 1-2 秒的時間可以做出有效防守。",
+    "safety_critical": false,
+    "answer_line": "小腿離臉、手臂被隔離",
+    "distractors": {
+     "plausible": [
+      "對手突然鬆開握法",
+      "胸口承受的重量增加"
+     ],
+     "trap": [
+      "對手放鬆頭部控制"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Crackhead Control 發動的 Triangle Choke，最安全的 tap 方式是什麼？",
+    "answer": "一旦感覺到頸部兩側承受雙側壓力，或出現任何頭暈感，就要立刻明確地 tap。用空著的手在對手身上或墊上快速連續拍打多次。如果雙手都被困住，就用腳拍打或直接口頭喊 tap。不要等著看自己能不能撐過去或逃脫。血液勒頸正確施力後最快 8-12 秒就可能造成昏迷，從不舒服的壓力到失去意識之間的空檔，其實比想像中窄得多。",
+    "safety_critical": true,
+    "answer_line": "快速、多次 tap",
+    "distractors": {
+     "plausible": [
+      "輕輕 tap 一次就好",
+      "等裁判喊停"
+     ],
+     "trap": [
+      "先試著用力量掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Crackhead Control 發動的 Triangle Choke，有哪些防守選項可用？",
+    "answer": "依效果排序，主要有三種防守方式。第一，在鎖關閉之前提早恢復姿勢，在對手髖部上做 frame 並向上推，同時抵抗手臂被隔離。第二，鎖已關閉但角度尚未完全切出前進行 stack 防守，往側邊繞行以改變鎖喉的幾何角度。第三，讓被困的手臂朝鎖的開口方向旋轉以抽出手臂，同時維持自己的 base。透過提早恢復姿勢來預防，遠比任何後段才進行的逃脫方式有效得多。",
+    "safety_critical": false,
+    "answer_line": "提早恢復姿勢、在髖部做 frame",
+    "distractors": {
+     "plausible": [
+      "把被困手臂推得更深過去",
+      "把臉轉向被鎖喉的那側"
+     ],
+     "trap": [
+      "被動等待對手力竭"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防守從 Crackhead Control 發動的 Triangle 時，stack 有時反而適得其反？",
+    "answer": "Stack 有時會適得其反，因為如果攻擊者在 stack 過程中維持正確角度，向前推的壓力其實會把你自己被困住的肩膀壓得更深進你的頸動脈，讓 choke 變得更緊而不是紓解。有效的 stack 必須同時往側邊繞行來改變角度，而不是單純往正前方硬推。此外，如果 stack 沒有同時處理手臂被困的問題，會讓你在被壓縮的姿勢下，更容易被攻擊者轉換成攻擊被困手臂的 armbar。",
+    "safety_critical": false,
+    "answer_line": "把自己肩膀壓進自己頸部",
+    "distractors": {
+     "plausible": [
+      "會讓攻擊者的腿變累",
+      "會暴露攻擊者的背部"
+     ],
+     "trap": [
+      "保證能輕鬆逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Triangle Choke/from Crackhead Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

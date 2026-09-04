@@ -1,0 +1,181 @@
+{
+ "attacker": { "flashcards": [
+  {
+   "question": "什麼樣的身體狀態代表 Back Door Escape 是比傳統 half guard 技術更好的選擇？",
+   "answer": "當你在 half guard 中被壓平，對手用 crossface 控制你的頭，他的 underhook 又讓你無法起身側身時，Back Door Escape 就成了最佳選擇。如果嘗試兩三次都贏不了 underhook 爭奪，而對手的體重正把你壓平，繼續朝對手方向對抗只會浪費體力，還會讓情勢更惡化。關鍵指標是：你朝對手方向 hip escape 的能力，已經被他的 crossface 與向前壓力封住了。",
+   "answer_line": "被壓平、crossface、underhook 已失",
+   "distractors": {
+    "plausible": [
+     "underhook 爭奪還有機會贏",
+     "對手還沒做出 crossface"
+    ],
+    "trap": [
+     "繼續拚 underhook"
+    ]
+   }
+  },
+  {
+   "question": "發動 Back Door Escape 的關鍵時機是什麼？",
+   "answer": "最佳時機出現在頂位選手轉移體重的瞬間，通常是他調整 crossface、換抓新的握把、試圖抽出被困住的腿，或轉動髖部準備過腿時。在這些體重轉移的瞬間，他的壓力會暫時減弱，這正好創造出啟動 hip escape、開始轉身動作所需要的空間。若在對方壓力完全就位、靜態穩固時才嘗試逃脫，會需要多耗費許多體力，成功率也會大幅降低。",
+   "answer_line": "趁對手體重轉移的瞬間",
+   "distractors": {
+    "plausible": [
+     "壓力完全到位時",
+     "half guard 一形成就發動"
+    ],
+    "trap": [
+     "等對手完全過腿再說"
+    ]
+   }
+  },
+  {
+   "question": "如果在創造出轉身空間之前就放開 half guard 的困腿，會發生什麼事？",
+   "answer": "過早放開困腿，會在還沒建立替代結構的情況下，失去你唯一的位置支點。被困住的那條腿正是阻止對手過腿到 side control 或 mount 的機制。少了它，又還沒開始轉身，你會同時失去 half guard 的保持與逃脫的機會。放腿這個動作必須整合進轉身動作本身，而不是當成獨立的預備步驟來執行。",
+   "answer_line": "同時失去防守與逃脫機會",
+   "distractors": {
+    "plausible": [
+     "對手立刻過guard",
+     "你會有更多空間更快轉身"
+    ],
+    "trap": [
+     "沒差，時機不重要"
+    ]
+   }
+  },
+  {
+   "question": "對手察覺你在做 Back Door Escape 後，開始猛烈向前壓——你該如何調整？",
+   "answer": "如果對手在你啟動 Back Door Escape 時向前猛壓，他的向前衝力實際上反而幫你減輕了遠側髖部的壓力。利用他向前的衝力加速你的轉身，同時確保手肘緊貼身體，防止他的手臂穿到你身體下方。他過度投入向前的力道，會讓他更難橫向跟隨你，所以快速完成轉身動作應該能讓你乾淨地進入 turtle 位置。如果他過度投入到明顯失衡，你甚至可以直接連接到從 turtle 的 sit-through。",
+   "answer_line": "借力轉身，手肘夾緊",
+   "distractors": {
+    "plausible": [
+     "停下轉身重新找底盤",
+     "以同等壓力頂回去"
+    ],
+    "trap": [
+     "放棄轉身，重回 guard"
+    ]
+   }
+  },
+  {
+   "question": "在整個轉身階段，你必須維持什麼樣的握把與手臂位置？",
+   "answer": "轉身過程中，手肘必須始終緊夾在肋骨兩側，前臂貼近身體。靠近對手那側的手臂先短暫在對手髖部做出 frame 以創造初始空間，隨著轉身進行再收回。遠側的手臂則全程貼緊身體，只有在轉身最後建立 turtle 底盤時才伸手撐地。手肘與身體之間若出現任何空隙，都會給對手機會把手臂穿進來，發動 back control、Front Headlock 或 Darce Choke。",
+   "answer_line": "手肘緊貼肋骨",
+   "distractors": {
+    "plausible": [
+     "雙手張開撐地",
+     "雙臂伸直做 frame"
+    ],
+    "trap": [
+     "回手去確認位置"
+    ]
+   }
+  },
+  {
+   "question": "如果對手已經開始在你背後建立握把，這個轉換階段你該如何處理？",
+   "answer": "如果對手在轉換過程中拿到握把，優先把 turtle 底盤先做完整，再處理握把問題。穩固的四點 turtle 結構能給你有效對抗握把的基礎，若在沒有底盤的情況下硬要對抗握把，只會讓你更容易被壓平或被翻滾。一旦進入 turtle，立刻優先處理威脅最大的握把，通常是任何 seat belt 配置中負責絞技的那隻手，同時全程維持手肘貼膝的緊密防守結構。",
+   "answer_line": "先把 turtle 底盤做完整",
+   "distractors": {
+    "plausible": [
+     "先對抗握把再做底盤",
+     "先抓住他絞技的那隻手"
+    ],
+    "trap": [
+     "坐起來面對對手"
+    ]
+   }
+  },
+  {
+   "question": "為什麼先嘗試 underhook 再接 Back Door Escape，會比直接把它當第一選擇更有效？",
+   "answer": "在 Back Door Escape 之前先嘗試傳統的 underhook 技術，有兩個重要作用。第一，它會建立一個朝對手方向的威脅，逼他必須主動防守，讓他的防守反應集中在那個方向。當你突然反方向發動 Back Door Escape 時，他的體重與注意力正好還投入在防守 underhook 那一側，會被瞬間打個措手不及。第二，失敗的 underhook 嘗試往往會帶出小幅度的 hip escape，這正好創造出 Back Door 轉身動作所需要的初始空間。",
+   "answer_line": "把對手的防守導向錯誤方向",
+   "distractors": {
+    "plausible": [
+     "消耗對手的體力",
+     "為更大的進攻鋪路"
+    ],
+    "trap": [
+     "洩漏真正的逃脫計畫"
+    ]
+   }
+  },
+  {
+   "question": "執行 Back Door Escape 時，最危險的瞬間是什麼時候？",
+   "answer": "最危險的瞬間出現在轉身大約進行到一半時——已經過了能收回 half guard 的時間點，但還沒建立起能有效防守的 turtle 結構。在這個中間點，你的背部完全暴露，底盤處於過渡狀態，對手能最大程度地發動 seat belt、hooks 與 Front Headlock 攻擊。這正是為什麼轉身動作必須爆發、連續，而不是逐步進行的原因。轉身過程中任何一次停頓，都會大幅提高被 back take 的機率。",
+   "answer_line": "轉到一半，背部暴露",
+   "distractors": {
+    "plausible": [
+     "剛開始的那一瞬間",
+     "turtle 建立之後"
+    ],
+    "trap": [
+     "轉身途中停下來評估情況"
+    ]
+   }
+  }
+ ]},
+ "defender": { "flashcards": [
+  {
+   "question": "有哪些最早期的視覺與觸覺線索，代表對手即將發動 Back Door Escape？",
+   "answer": "最早期的線索包括：對手停止爭奪 underhook，並把 hip escape 的動作方向從朝你轉為遠離你；他抵著你胸口的 frame 壓力明顯放鬆，準備把力量重新導向；以及他的腿部位置出現小幅調整，準備放開 half guard 的困腿。髖部壓力方向遠離你身體，是最可靠的早期指標，一旦出現就應立即觸發防守反應。",
+   "answer_line": "髖部壓力轉向遠離你",
+   "distractors": {
+    "plausible": [
+     "crossface 壓力增加",
+     "對手抓住你的 collar"
+    ],
+    "trap": [
+     "underhook 握得更緊"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候該選擇跟著逃脫走去拿 back take，什麼時候該完全堵死這個逃脫？",
+   "answer": "當你在轉身動作開始前就察覺對手意圖，而且雙腿仍然纏繞、對手只剛開始做初始的 hip escape 時，應該堵死這個逃脫。此階段用強力的 crossface 壓力與髖部控制，能完全阻止逃脫發生。一旦對手的肩膀已經開始轉動，且他已經放開或正在放開纏繞的腿，就該跟著走去拿 back take。此時再去對抗轉身只是浪費體力並製造混戰，用胸口跟隨反而能讓你直接拿到暴露出來的背部。",
+   "answer_line": "早期堵死，轉身後跟隨",
+   "distractors": {
+    "plausible": [
+     "一律在開始前就堵死",
+     "每次都立刻跟著走"
+    ],
+    "trap": [
+     "轉身已經開始才對抗"
+    ]
+   }
+  },
+  {
+   "question": "對手在你建立 back control 之前，已經完成 Back Door Escape 進入 turtle——你的當務之急是什麼？",
+   "answer": "立刻在他的上背部建立胸口壓力，同時爭取 seat belt 握把。不要亂伸手到處摸索。有條理地建立 over-under 式的 harness：負責絞技的手臂繞過他的肩膀，另一隻手臂穿過他的腋下。讓你的髖部緊貼他的髖部，防止他做出 sit-through 或 Technical Standup。時間非常關鍵，因為他的第一個動作就是試圖用 turtle 逃脫，所以在三秒內建立至少一個 hook 與 seat belt，是成功轉換成完整 back control 的關鍵。",
+   "answer_line": "先胸口壓，再建 seat belt",
+   "distractors": {
+    "plausible": [
+     "先伸手去找 hooks",
+     "先抓住雙手手腕"
+    ],
+    "trap": [
+     "直接撲向腿部把他壓平"
+    ]
+   }
+  },
+  {
+   "question": "身為 half guard 頂位選手，你的體重分配如何影響對手發動 Back Door Escape 的能力？",
+   "answer": "透過胸口與 crossface 向前分配的體重，會讓對方初始的 hip escape 幾乎不可能發動，等於在逃脫還沒發展前就先阻止了它。若體重過度分配在你的腳跟或髖部後方，就會在你胸口與對方身體之間留出空間，而這正是轉身動作所需要的空間。然而，過度投入向前的體重，也可能被對手利用，藉你的衝力來加速他的轉身。最佳的體重分配是持續向前施壓，同時保有橫向機動性，讓上半身連結大約承擔七成的體重。",
+   "answer_line": "重心壓前，但保持機動",
+   "distractors": {
+    "plausible": [
+     "體重放在腳跟與髖部後方",
+     "全部體重垂直向下壓"
+    ],
+    "trap": [
+     "極度投入向前的體重"
+    ]
+   }
+  }
+ ]},
+ "_meta": {
+  "source": "content/Transitions/Back Door Escape from Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

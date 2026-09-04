@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在啟動De La Riva的backstep前，你必須先處理哪個grip？",
+    "answer": "在啟動backstep前，你必須先剝除或削弱對手在你被纏住的腿上的ankle或pants grip。這個grip是讓guard player能追蹤你旋轉、維持hook張力的錨點。若不先處理它，對手就能跟隨你的backstep，從新的角度重新建立DLR hook，讓整個技巧失效。",
+    "answer_line": "剝除ankle/pants grip",
+    "distractors": {
+     "plausible": [
+      "underhook被纏住的腿",
+      "先破壞closed guard"
+     ],
+     "trap": [
+      "無視grip，直接旋轉"
+     ]
+    }
+   },
+   {
+    "question": "為什麼執行backstep時全力投入如此關鍵？半投入的嘗試會發生什麼？",
+    "answer": "全力投入之所以關鍵，是因為半投入的backstep會造成最糟的結果：你的背部部分暴露給guard player，而DLR hook卻仍然咬合著。這會給對手back take的機會，passer卻沒有獲得任何位置上的優勢。這一步必須夠大、旋轉必須夠完整，才能在guard player利用旋轉暴露之前，徹底解除hook的幾何結構。",
+    "answer_line": "全力投入，不做半步",
+    "distractors": {
+     "plausible": [
+      "先小步再調整",
+      "動作緩慢且受控"
+     ],
+     "trap": [
+      "半步試探引誘反應"
+     ]
+    }
+   },
+   {
+    "question": "用backstep清開DLR hook後，你應該立刻做什麼？",
+    "answer": "立刻以積極的壓力向前推進，建立headquarters position，或進入如knee slice或leg drag之類的後續passing。hook清開到guard player重建防守結構之間的窗口極其狹窄。任何停頓都會讓他們插入新的hook、建立frame或重新grip，關閉backstep所創造的機會。穩固動作必須視為backstep本身的一部分，而不是分開的行動。",
+    "answer_line": "向前推進，立刻穩固",
+    "distractors": {
+     "plausible": [
+      "停下來檢查你的base",
+      "先重置回neutral站姿"
+     ],
+     "trap": [
+      "停下來重新grip他們的褲子"
+     ]
+    }
+   },
+   {
+    "question": "你如何判斷從DLR啟動backstep的最佳時機？",
+    "answer": "最佳時機是對手的ankle grip暫時鬆脫或被破壞時，或是他們的注意力轉向防守如toreando之類的其他passing威脅時，又或是他們的髖部角度不利於追蹤旋轉時。你可以透過先威脅linear pass來人為製造這種時機，等guard player把grip和髖部位置都投入防守linear威脅時，再用backstep改變方向。",
+    "answer_line": "ankle grip鬆脫或破裂時",
+    "distractors": {
+     "plausible": [
+      "guard一開始就馬上做",
+      "他們髖部正對時"
+     ],
+     "trap": [
+      "等他們先進攻"
+     ]
+    }
+   },
+   {
+    "question": "你的對手用髖部追趕、重新建立DLR hook，跟隨你的backstep旋轉。你該如何調整？",
+    "answer": "如果對手成功跟隨旋轉，你有幾個選項。第一，下次嘗試時加快backstep的速度與弧度，以超越他們的髖部調整。第二，加緊控制他們遠側的腿，實際限制他們的髖部活動範圍。第三，如果他們持續跟隨，就把backstep當作feint，把他們的髖部投入拉往一個方向，接著立即轉為toreando或leg drag pass，反方向利用他們的momentum。",
+    "answer_line": "加速弧度，再轉向feint",
+    "distractors": {
+     "plausible": [
+      "更用力硬闖hook",
+      "重複同樣的一步更用力"
+     ],
+     "trap": [
+      "直接站起來脫離"
+     ]
+    }
+   },
+   {
+    "question": "backstep旋轉過程中最重要的髖部力學是什麼？",
+    "answer": "髖部必須繞著脊椎的垂直軸旋轉，改變朝向角度約90到180度，才能徹底解除DLR hook的幾何結構。旋轉必須由髖部主導，而非肩膀。若肩膀領先而髖部落後，會造成扭曲的姿勢，讓背部暴露卻沒有清開hook。你的髖部應該帶動旋轉，上半身隨之跟進，重心應始終保持在base之上。",
+    "answer_line": "由髖部旋轉，非肩膀",
+    "distractors": {
+     "plausible": [
+      "用肩膀帶動轉身",
+      "主要靠膝蓋旋轉"
+     ],
+     "trap": [
+      "向後仰並放低重心"
+     ]
+    }
+   },
+   {
+    "question": "backstep過程中對手轉換為Reverse De La Riva。你的即時應對是什麼？",
+    "answer": "當對手在你backstep過程中插入RDLR hook時，不要停頓或重置。立刻處理這個新的hook：把膝蓋壓過他們的大腿線做knee slice，用long step pass越過RDLR hook，或用leg drag清開這個新的纏繞。關鍵在於把RDLR轉換視為passing鏈中預期會發生的情況，而不是要重置回neutral的失敗backstep。",
+    "answer_line": "立刻攻擊新的hook",
+    "distractors": {
+     "plausible": [
+      "重置回neutral站姿",
+      "停下來重新評估grip"
+     ],
+     "trap": [
+      "撤退並重新開始backstep"
+     ]
+    }
+   },
+   {
+    "question": "在執行backstep的過程中，你的pants grip扮演什麼角色？",
+    "answer": "對手腿上的pants grip是你在旋轉過程中的主要控制機制，如同方向盤般管理guard player下半身的動線。它能阻止對手跟隨你的旋轉、限制他們插入新hook或frame的能力，並為hook清開後的即時穩固提供基礎。在整個backstep過程中維持至少一個穩固的pants grip，是持續成功不可或缺的條件。",
+    "answer_line": "操控髖部，阻擋新hook",
+    "distractors": {
+     "plausible": [
+      "只在最後固定時有用",
+      "ankle grip鬆脫時的備用"
+     ],
+     "trap": [
+      "放開grip以加快速度"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從你的De La Riva Guard做backstep，最早的辨識線索是什麼？",
+    "answer": "最早的線索包括：passer同時抓住你雙側靠近膝蓋的pants，積極嘗試剝除你的ankle grip，明顯把重心轉移到他們空出的那條腿，以及在髖部旋轉之前肩膀先開始轉離你。toreando的威脅接著突然改變方向，也可能是即將backstep的訊號。",
+    "answer_line": "雙側pants grip，重心轉移",
+    "distractors": {
+     "plausible": [
+      "突然向前施壓",
+      "passer直接站直"
+     ],
+     "trap": [
+      "passer拉你的collar"
+     ]
+    }
+   },
+   {
+    "question": "你該如何運用ankle grip來防止backstep成功？",
+    "answer": "ankle grip是讓你能用DLR hook追蹤對手旋轉的錨點。維持穩固的grip，在他們試圖向後跨步時用它把被纏住的腿往你自己方向拉回，製造阻力來延緩或阻止hook清開。若他們試圖剝除這個grip，立即設法重新grip，或轉為維持連結的belt或pants grip。ankle grip搭配積極的hook張力，能組成抵抗旋轉清開的雙點系統。",
+    "answer_line": "拉回被纏腿，保持張力",
+    "distractors": {
+     "plausible": [
+      "把腿推得更遠",
+      "改用overhook grip"
+     ],
+     "trap": [
+      "放手改做re-shrimp"
+     ]
+    }
+   },
+   {
+    "question": "儘管你已盡力，DLR hook仍被backstep清開。你最佳的防守轉換是什麼？",
+    "answer": "立即轉換為Reverse De La Riva Guard，把你另一側的腿插入作為hook，纏住對方正在跨步的腿。這個轉換必須在hook被清開的當下發生，而不是等passer穩固位置之後。不要浪費時間試圖重建已經被破壞的DLR hook。RDLR轉換能維持你的guard結構，並為passer製造一整套需要不同passing方式應對的新障礙。持續練習這個轉換直到它成為反射動作。",
+    "answer_line": "插入另一腿，轉為RDLR",
+    "distractors": {
+     "plausible": [
+      "重新grip並重建DLR",
+      "立刻inversion搶back"
+     ],
+     "trap": [
+      "改拉guard closed"
+     ]
+    }
+   },
+   {
+    "question": "防守DLR Guard的backstep時，為什麼髖部活動度如此關鍵？",
+    "answer": "髖部活動度決定你能否追蹤passer的旋轉動作、維持hook的咬合。backstep的原理是改變passer小腿與你的hook之間的角度，而你的髖部旋轉正是調整hook角度以配合這個變化的主要機制。靜態貼地的髖部無法跟隨旋轉性的passing，而能夠追趕動作的靈活髖部則能讓hook的幾何結構維持完整。此外，髖部活動度也是RDLR轉換以及inversion式back take嘗試所必需的。",
+    "answer_line": "讓hook跟得上旋轉",
+    "distractors": {
+     "plausible": [
+      "只有掃技才需要",
+      "主要用來加強ankle grip"
+     ],
+     "trap": [
+      "讓髖部維持平貼靜止"
+     ]
+    }
+   },
+   {
+    "question": "在對手backstep旋轉過程中嘗試take back，主要風險是什麼？",
+    "answer": "主要風險是inversion或hip chase的時機掌握不準。如果你太晚才嘗試take back，等到passer已經完成旋轉並開始穩固之後，你面對的是一個已經建立base、正對著你的對手，而不是暴露的背部。這可能讓你落入被壓在對方身下、自己的背部反而暴露、guard徹底被passing的局面。如果passer在旋轉過程中維持強力的髖部壓力，你的inversion可能會被擋下，讓你陷入被passer壓制的倒立姿勢。take back需要在backstep發生前就預先判斷，而不是事後才反應。",
+    "answer_line": "太晚才做inversion",
+    "distractors": {
+     "plausible": [
+      "抓sleeve太用力",
+      "髖部轉得太早"
+     ],
+     "trap": [
+      "在passing之後才追back"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep from De La Riva.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

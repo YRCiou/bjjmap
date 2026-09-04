@@ -1,0 +1,227 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Back Take.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從 Crackhead Control 做 Back Take 的主要目標是什麼？",
+        "answer": "主要目標是從 turtle 攻擊位置（Crackhead Control）轉換到背後控制，也就是 BJJ 裡得分最高、submission 成功率也最高的位置。這能把你的控制位置轉化為最具主導性的進攻平台，直接通往 rear naked choke、armbar 及其他高成功率的 submission。",
+        "answer_line": "把控制轉成背後控制",
+        "distractors": {
+          "plausible": [
+            "只是加強上位壓力",
+            "先消耗對手體力"
+          ],
+          "trap": [
+            "停在 Crackhead Control 不動"
+          ]
+        }
+      },
+      {
+        "question": "在啟動旋轉之前，應該先建立什麼 grip 配置？",
+        "answer": "先建立 seatbelt grip：勒頸手臂繞過對手肩膀，underhook 手臂穿過腋下，雙手用 gable 或 S-grip 扣在一起。這個上半身控制必須在降低髖部壓力之前先固定好，因為它能阻止對手在旋轉過程中轉身面對你，也是維持胸貼背連結的錨點。",
+        "answer_line": "旋轉前先扣好 seatbelt grip",
+        "distractors": {
+          "plausible": [
+            "只用 underhook，不用勒頸手",
+            "先抓腿再抓上半身"
+          ],
+          "trap": [
+            "放開 seatbelt 加快旋轉"
+          ]
+        }
+      },
+      {
+        "question": "你啟動 back take 旋轉時，對手開始 sit through——你該如何調整？",
+        "answer": "把你的 inside hook 當作錨點，順著他們的 sit-through 動作走，而不是硬碰硬對抗。他們旋轉的動能其實有助於你完成另一側的 back take。全程維持 seatbelt grip，朝他們移動的同一方向繼續旋轉，利用他們的防守能量來完成你進到背後控制的推進。",
+        "answer_line": "順著他們的動能走",
+        "distractors": {
+          "plausible": [
+            "停下來重新抓 grip",
+            "硬拉回原本那一側"
+          ],
+          "trap": [
+            "放開 hook 重新進攻"
+          ]
+        }
+      },
+      {
+        "question": "back take 時 hook 插入的最佳深度是多少？",
+        "answer": "hook 應該插得深，雙腳穿過對手大腿內側朝鼠蹊部方向交叉，而不是靠近髖部。腳尖朝外以最大化保留效果。這種深插的位置能防止對手透過膝蓋動作或手部對抗把 hook 清掉，因為腳已經越過了髖關節的轉軸點。",
+        "answer_line": "深插近鼠蹊，腳尖朝外",
+        "distractors": {
+          "plausible": [
+            "hook 放在髖部附近",
+            "腳尖朝內抓得更緊"
+          ],
+          "trap": [
+            "淺插以便快速脫身"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在旋轉階段維持胸貼背的連結如此重要？",
+        "answer": "胸貼背的連結能防止對手在轉換過程中轉身面對你。如果你為了拉開空間而後退，而不是繞著他們旋轉，對手就能轉身進到你身前，把你的 back take 嘗試變成一場混戰或讓他們恢復 guard。這個連結利用你的體重限制他們的旋轉活動度，同時讓你完成動作。",
+        "answer_line": "阻止對手轉身進來",
+        "distractors": {
+          "plausible": [
+            "讓髖部保持沉重以利控制",
+            "提早最大化勒頸壓力"
+          ],
+          "trap": [
+            "後退拉開空間"
+          ]
+        }
+      },
+      {
+        "question": "back take 如何融入 Crackhead Control 的兩難進攻系統？",
+        "answer": "back take 利用的是對手防守注意力被分散的情況。當你威脅 truck 的進入點時，對手必須防守他們的腿，因而露出背部；當你威脅 crucifix 或手臂攻擊時，對手必須保護手臂，反而讓你更容易旋轉到背後控制。back take 正是對手其他防守動作無意間促成的主要推進手段。",
+        "answer_line": "利用對手分散的防守注意力",
+        "distractors": {
+          "plausible": [
+            "只有 truck 失敗後才有效",
+            "跟其他攻擊無關"
+          ],
+          "trap": [
+            "放棄其他威脅硬做這招"
+          ]
+        }
+      },
+      {
+        "question": "對手強力撐地阻止你旋轉——這創造了什麼進攻機會？",
+        "answer": "撐地的手臂創造了 crucifix 的進入機會。你可以在維持 Crackhead Control 的同時，把 underhook 手臂穿過去困住並孤立那條伸展的手臂。另外，如果他們正轉身進到你的壓力中，撐地的手臂也會暴露頸部，形成 darce 或 anaconda 的設置機會。把他們的防守結構轉化為 submission 的機會。",
+        "answer_line": "透過撐地手臂進入 crucifix",
+        "distractors": {
+          "plausible": [
+            "立刻轉打 armbar",
+            "放棄 back take 改壓制"
+          ],
+          "trap": [
+            "放開 seatbelt 去抓那隻手臂"
+          ]
+        }
+      },
+      {
+        "question": "rolling back take 這個變化型與標準技術有什麼不同？",
+        "answer": "rolling back take 是順著對手的 granby roll 或前滾逃脫嘗試，利用他們的動能完成 back take。與其對抗他們爆發性的動作，不如維持 harness grip 跟著他們一起滾動，最後在相反側取得背後控制。這能把他們的逃脫能量轉化為你的推進，比硬對抗對手的阻力做標準旋轉省力得多。",
+        "answer_line": "順著對方逃脫的動能一起滾",
+        "distractors": {
+          "plausible": [
+            "停下滾動重設位置",
+            "改硬做標準旋轉"
+          ],
+          "trap": [
+            "正面對抗那個 granby roll"
+          ]
+        }
+      },
+      {
+        "question": "從 Crackhead Control 啟動旋轉的最佳時機是什麼時候？",
+        "answer": "最佳時機是在對手把防守資源投入到另一個威脅上的時候。當他們為了防守 truck 進入點而把腿抽走時，上半身就會暴露出來讓你建立 seatbelt。當他們對抗你的手臂控制以防止 crucifix 時，他們的髖部防守就會鬆懈。應該在這些注意力分散的時刻啟動旋轉，而不是硬碰對手完整準備好的防守。",
+        "answer_line": "趁對手防守他處時旋轉",
+        "distractors": {
+          "plausible": [
+            "每次都立刻進攻",
+            "等到完全僵持才動手"
+          ],
+          "trap": [
+            "硬碰對手完整的防守旋轉"
+          ]
+        }
+      },
+      {
+        "question": "旋轉時正確的施力方向是什麼？為什麼朝 underhook 那一側旋轉很重要？",
+        "answer": "應該朝你有 underhook 的那一側旋轉，因為你的身體在那一側有最大的結構支撐。underhook 阻止對手在那一側轉身進來，而你繞過對方另一側肩膀的勒頸手臂則對另一個方向的轉身形成屏障。若朝 overhook 那一側旋轉，會讓背部暴露給對方轉身進來，而且完成動作時的力學優勢也較差。",
+        "answer_line": "朝 underhook 那一側旋轉",
+        "distractors": {
+          "plausible": [
+            "朝勒頸手那一側旋轉",
+            "遠離自身體重方向旋轉"
+          ],
+          "trap": [
+            "朝空曠那一側旋轉"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "防守 Crackhead Control 的 back take 時，最重要、必須阻止的單一 grip 是什麼？",
+        "answer": "seatbelt grip（勒頸手臂繞肩、underhook 穿腋下、雙手扣住）是最關鍵、必須阻止的 grip。沒有 seatbelt，攻擊者在旋轉過程中就無法維持胸貼背的連結，也無法在整個 back take 過程中控制你的上半身。阻止 seatbelt 會逼攻擊者依賴較弱的 grip 配置，這些配置在旋轉時更容易被破解，大幅降低他們的成功率。",
+        "answer_line": "阻止 seatbelt grip",
+        "distractors": {
+          "plausible": [
+            "阻止 hook 插入",
+            "阻止髖部壓力"
+          ],
+          "trap": [
+            "只抓住他們勒頸的手腕"
+          ]
+        }
+      },
+      {
+        "question": "你感覺到攻擊者在你下背部的髖部壓力突然變輕——這代表什麼，你該如何反應？",
+        "answer": "髖部壓力變輕代表攻擊者正把重心往前移到胸口，準備旋轉。這是你成功率最高的防守窗口，因為他們的 base 在重心轉移期間暫時失衡。用爆發性的方向變化來反應：可以往他們那個方向 sit through、若他們的 grip 鬆散就嘗試站起，或若他們重心已完全前壓就做 granby roll。關鍵是把這個重心轉移辨識為你行動的觸發點，而不是等到旋轉真正開始才反應。",
+        "answer_line": "重心轉移時立刻爆發反應",
+        "distractors": {
+          "plausible": [
+            "等 hook 出現再反應",
+            "慢慢加強 frame 壓力"
+          ],
+          "trap": [
+            "壓力變輕就放鬆下來"
+          ]
+        }
+      },
+      {
+        "question": "防守旋轉時，為什麼應該轉向攻擊者而不是轉離他們？",
+        "answer": "轉向攻擊者能把背部暴露轉化為面對面的姿勢，讓你有明顯更好的防守選項，包括恢復 guard、做 frame 及混戰姿勢。轉離攻擊者則會給他們更多旋轉空間，加速他們繞到你身後，也因為你和他們移動方向一致，讓 hook 更容易插入。面對威脅永遠比暴露更多背部來得好。",
+        "answer_line": "轉向攻擊者，不要轉離",
+        "distractors": {
+          "plausible": [
+            "轉離以拉開距離",
+            "維持平躺擋住 hook"
+          ],
+          "trap": [
+            "轉離以保護頸部"
+          ]
+        }
+      },
+      {
+        "question": "攻擊者在旋轉中已經插入一個 hook——你當下最優先的防守目標是什麼？",
+        "answer": "當下最優先的目標是阻止第二個 hook，而不是先去清掉第一個。單一 hook 還算可以應付，也留有相當多的逃脫選項；但兩個 hook 一旦建立起背後控制，逃脫機率就大幅下降。用同一側的手擋住第二隻腳的路徑，同時把髖部轉向有 hook 的那一側。如果能阻止第二個 hook，你仍能透過 sit-through、granby roll，或髖部逃脫到 half guard 保有可行的逃脫路線。",
+        "answer_line": "擋住第二個 hook",
+        "distractors": {
+          "plausible": [
+            "現在就先清掉第一個 hook",
+            "立刻 bridge 翻滾"
+          ],
+          "trap": [
+            "無視 hook，先防勒頸"
+          ]
+        }
+      },
+      {
+        "question": "體力管理在防守 Crackhead Control 的 back take 時扮演什麼角色？",
+        "answer": "體力管理至關重要，因為身處 Crackhead Control 下位本身就是一個高耗能的位置。防守動作應該精準有效，而不是慌亂亂動。用結構性防守（手肘夾緊、拱背、收下巴）作為基礎的省力姿勢，把爆發性的動作留給攻擊者真正投入重心準備旋轉的那些防守窗口。持續全力亂動只會耗盡你的體力，卻無法有效阻止 back take；而在正確時機做出精算過的爆發反應，能用更低的體力成本換來更高的防守成功率。",
+        "answer_line": "省力等待，抓窗口爆發",
+        "distractors": {
+          "plausible": [
+            "全程用盡全力",
+            "維持被動承受壓力"
+          ],
+          "trap": [
+            "持續亂動掙扎逃脫"
+          ]
+        }
+      }
+    ]
+  }
+}

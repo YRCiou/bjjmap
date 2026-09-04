@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "50-50 Entry的主要目標是什麼？",
+        "answer": "主要目標是透過把你的雙腿穿繞過對手單腿，建立50-50 Guard位置，形成一個交扣的leg configuration，讓你能進行heel hook攻擊、toe hold，以及sweep機會，同時中和他們的passing嘗試。",
+        "answer_line": "鎖住50-50 leg entanglement",
+        "distractors": {
+          "plausible": [
+            "pass到side control",
+            "立刻sweep對手"
+          ],
+          "trap": [
+            "放開雙腿，追逐choke"
+          ]
+        }
+      },
+      {
+        "question": "要成功entry，你穿繞的那條腿必須精確放在什麼位置？",
+        "answer": "你的小腿必須完全放在對手膝關節後方，而不是大腿或脛骨上。這個放置能建立起機械式的鎖定，防止他們在entry的旋轉階段抽出腿。",
+        "answer_line": "小腿放在膝關節後方",
+        "distractors": {
+          "plausible": [
+            "小腿靠在他們大腿上",
+            "脛骨壓脛骨"
+          ],
+          "trap": [
+            "穿繞太淺，對手抽腿脫身"
+          ]
+        }
+      },
+      {
+        "question": "你應該瞄準什麼時機窗口，以獲得最高成功率的entry？",
+        "answer": "最佳窗口是在對手把重心從一腳轉移到另一腳的時候，不論是向前踏步進攻，或向後退步脫離接觸。這種重心轉移會暫時削弱他們清開你正在穿繞的那條腿的能力。",
+        "answer_line": "趁對方重心轉移時",
+        "distractors": {
+          "plausible": [
+            "當他們完全站穩時",
+            "sprawl之後立刻進"
+          ],
+          "trap": [
+            "太晚進入，guard被pass"
+          ]
+        }
+      },
+      {
+        "question": "你的對手在你開始穿繞時開始向後退步——你該如何調整？",
+        "answer": "朝他們移動的同方向重新invert，跟上他們的退步。當他們退步時，他們拖曳的那條腿就變成新的目標。你也可以放棄這次50-50 Entry，改在他們留下的那條腿上轉換成outside ashi-garami或single leg X-guard。",
+        "answer_line": "重新invert，跟上退步",
+        "distractors": {
+          "plausible": [
+            "保持位置，等待局勢",
+            "用overhook追擊"
+          ],
+          "trap": [
+            "放開並發動takedown"
+          ]
+        }
+      },
+      {
+        "question": "為什麼完成entry後把膝蓋夾緊在一起非常關鍵？",
+        "answer": "把膝蓋夾緊在一起能困住對手的腿於膝關節處，防止他們把腿伸直逃脫。沒有這個夾膝動作，他們可以把腿伸出entanglement，或製造空間以建立更優勢的攻擊角度。",
+        "answer_line": "困住膝蓋，阻止腿部逃脫",
+        "distractors": {
+          "plausible": [
+            "提升你的握力",
+            "設置armbar終結"
+          ],
+          "trap": [
+            "讓腿伸直，追逐髖部"
+          ]
+        }
+      },
+      {
+        "question": "你的對手在你invert時向前driving以stack你——你的回應是什麼？",
+        "answer": "利用他們向前的momentum來加速你的roll動作，更快完成entry。他們向前的驅動，實際上有助於把他們的腿拉得更深入entanglement。或者，如果stack太重難以在下方施展，可以granby roll回到guard recovery。",
+        "answer_line": "利用momentum，順勢roll過去",
+        "distractors": {
+          "plausible": [
+            "撐手坐起",
+            "攤平身體，撐住髖部"
+          ],
+          "trap": [
+            "對抗stack，保持inverted"
+          ]
+        }
+      },
+      {
+        "question": "在整個entry過程中，你應該如何管理髖部位置？",
+        "answer": "在穿繞階段，用肩膀作為基底，讓髖部保持抬高且靈活。在旋轉階段，使用髖部的torque而不是用手臂拉力來完成entanglement。entry完成後，把髖部壓低以最大化控制，並為heel hook建立攻擊平台。",
+        "answer_line": "抬高髖部，運用髖部torque",
+        "distractors": {
+          "plausible": [
+            "用手臂拉動旋轉",
+            "保持髖部方正不動"
+          ],
+          "trap": [
+            "過早放平髖部，被stack"
+          ]
+        }
+      },
+      {
+        "question": "完成50-50 Entry後，你應該立即建立哪些grip優先順序？",
+        "answer": "首先確保控制對手的腳踝或腳掌，然後利用這個grip把他們的腳向外旋轉，暴露出腳跟。腳跟暴露的grip優先於任何上半身的grip，因為它能建立你的進攻威脅，並防止他們把腿抽開。",
+        "answer_line": "抓腳踝，暴露腳跟",
+        "distractors": {
+          "plausible": [
+            "先抓衣領",
+            "先控制遠端手腕"
+          ],
+          "trap": [
+            "抓兩邊衣領，忽略腳掌"
+          ]
+        }
+      },
+      {
+        "question": "在嘗試50-50 Entry之前，必須具備哪些條件？",
+        "answer": "你需要一個髖部抬高的inverted或半inverted位置，至少一條腿已經與對手下半身接觸，對手站立或處於combat base且重心壓在一腳上，並有一條清楚的穿繞路徑可以繞到他們膝關節後方。沒有這些前提就貿然嘗試，會大幅降低成功率。",
+        "answer_line": "Inverted，髖部抬高，腿已接觸",
+        "distractors": {
+          "plausible": [
+            "平躺guard，對手跪姿",
+            "只在站立grip fight中"
+          ],
+          "trap": [
+            "平躺在背上嘗試"
+          ]
+        }
+      },
+      {
+        "question": "50-50 Entry與更廣泛的leg lock系統之間的關係是什麼？",
+        "answer": "50-50 Entry作為整個leg entanglement系統的入口。從50-50出發，你可以取得heel hook，轉換到inside ashi進行straight ankle lock，或移動到backside 50-50取得額外的heel hook角度。它也是可逆的——如果需要，你可以轉換回single leg X或其他guard位置。",
+        "answer_line": "通往leg entanglement的入口",
+        "distractors": {
+          "plausible": [
+            "只是最終的終結位置",
+            "只能通往straight ankle"
+          ],
+          "trap": [
+            "死路一條，無法脫身"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正對你嘗試50-50 Entry，最早的辨識線索是什麼？",
+        "answer": "最早的線索是對手從任何guard位置開始把肩膀朝地面翻轉、同時抬高髖部。這個inversion的準備動作發生在穿腿之前，能給你最大的防守窗口。等到他們的外側腿朝你的膝蓋伸過去時，你已經處於被動反應狀態，回應時間更少。",
+        "answer_line": "肩膀翻轉，髖部抬高",
+        "distractors": {
+          "plausible": [
+            "外側腿伸向膝蓋",
+            "對手抓住你的褲管"
+          ],
+          "trap": [
+            "對手把你拉進closed guard"
+          ]
+        }
+      },
+      {
+        "question": "對手已經用小腿勾住你的前膝後方，但尚未完成髖部旋轉——你最好的防守選項是什麼？",
+        "answer": "立即把前腿伸直，把膝蓋向前驅動並伸展腳掌，然後把腳向外轉動以剝除這個hook。他們的小腿需要靠你膝蓋的彎曲才能維持hook——一條伸直的腿會移除他們小腿倚靠的那個架子。同時把重心轉移到後腿，開始向後退步以創造額外的抽腿距離。",
+        "answer_line": "伸直腿，剝除hook",
+        "distractors": {
+          "plausible": [
+            "彎膝，用力坐透",
+            "抓住他們的腳並拉"
+          ],
+          "trap": [
+            "向前driving以stack壓力"
+          ]
+        }
+      },
+      {
+        "question": "如果對手已經開始穿繞他們的腿，為什麼向前driving以stack壓力很危險？",
+        "answer": "一旦穿繞已經開始，向前的壓力實際上會加速對手的旋轉，因為這會把重心載到他們的肩膀上，而那正是他們用來完成roll動作的基底。你向前的驅動反而把自己的膝蓋拉得更深入entanglement。Stack壓力只有在任何腿部接觸發生之前，作為預防性防守才有效，此時它能完全瓦解對方的inversion。",
+        "answer_line": "加速他們的旋轉",
+        "distractors": {
+          "plausible": [
+            "減緩他們的旋轉",
+            "兩者都沒有影響"
+          ],
+          "trap": [
+            "持續driving，強迫stack"
+          ]
+        }
+      },
+      {
+        "question": "當面對一個打inverted guard的對手時，你的站姿與重心分配應該如何改變？",
+        "answer": "把站姿加寬到明顯超過你平常的combat base，重心平均分配在雙腳之間，膝蓋保持中等彎曲而非深蹲。永遠不要讓超過60%的重心壓在前腿上。保持前腳掌著地，隨時準備退步，並讓前腳隨時可以收回，而不是平貼在地面上。",
+        "answer_line": "站姿加寬，重心平衡",
+        "distractors": {
+          "plausible": [
+            "站姿窄，重心前移",
+            "深蹲彎膝，腳掌全貼地"
+          ],
+          "trap": [
+            "把重心壓在前腿上"
+          ]
+        }
+      },
+      {
+        "question": "對手的50-50 Entry失敗，他們卡在inverted狀態且沒有完成entanglement——你該如何利用這個機會？",
+        "answer": "這是絕佳的passing機會。立即把壓力施加在他們inverted的身體上，把髖部驅動進他們抬高的雙腿，用stack壓力把他們的身體對摺。控制他們膝蓋處的褲管，防止他們重新建立guard或再次嘗試entry。趁他們處於毫無leg entanglement保護的inverted狀態，努力pass到side control。",
+        "answer_line": "趁對方卡住時stack pass",
+        "distractors": {
+          "plausible": [
+            "等他們恢復guard",
+            "立刻追逐leg lock"
+          ],
+          "trap": [
+            "後退，重新回到站立"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/50-50 Entry.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

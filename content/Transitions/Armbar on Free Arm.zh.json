@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Armbar on Free Arm.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Gift Wrap 發動 armbar 攻擊的最佳時機是什麼？",
+    "answer": "最佳時機是對手伸出空閒手臂來防禦勒頸攻擊、製造 frame 距離或掙脫 grip 的時候。這些防禦動作必然會讓手臂伸展並暴露出來，製造出 armbar 攻擊所需的破綻。在對手伸展手臂之前進攻會讓手臂的隔離變得困難，所以你應該先威脅勒頸來誘使對手伸展手臂。",
+    "answer_line": "對手伸手防禦時",
+    "distractors": {
+     "plausible": [
+      "剛建立 Gift Wrap 之後",
+      "hooks 一入位就進攻"
+     ],
+     "trap": [
+      "放開 Gift Wrap 來誘出手臂"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試這個轉換之前，必須具備哪些進入條件？",
+    "answer": "你需要已經建立好 Gift Wrap 控制，讓對手一隻手臂被困在身體前方，並維持 hooks 或 body triangle 作為你 back control 的基礎，同時對手的空閒手臂必須伸展或朝身體中線外伸出。你的胸貼背連結必須維持穩固，而且在開始旋轉之前，你需要確實掌握空閒手臂的手腕。",
+    "answer_line": "Gift Wrap + hooks + 手臂伸展",
+    "distractors": {
+     "plausible": [
+      "只靠強力 hooks，沒有控制手腕",
+      "光靠 body triangle 就足夠"
+     ],
+     "trap": [
+      "放開 hooks 去抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "從 Gift Wrap 轉換到 armbar 的過程中，最關鍵的髖部動作是什麼？",
+    "answer": "從對手身後轉到垂直角度的髖部旋轉是最關鍵的動作。你下方的髖部必須在旋轉時朝對手的肩膀方向推進，製造出正確的 armbar 角度，讓你的髖部緊貼在對手的肩關節上。這種垂直對位正是你 bridge 時產生有效過伸槓桿力的關鍵。",
+    "answer_line": "髖部垂直轉向肩膀",
+    "distractors": {
+     "plausible": [
+      "髖部平行脊椎旋轉",
+      "髖部朝頭部方向推進"
+     ],
+     "trap": [
+      "保持正對在對手身後"
+     ]
+    }
+   },
+   {
+    "question": "對手在 Gift Wrap 中把空閒手撐在地上製造 frame，你該如何調整？",
+    "answer": "對手撐手在地上其實是絕佳機會，因為手臂已經伸展且承重，很難迅速收回。用你非 Gift Wrap 的手臂控制住撐地那隻手的手腕，然後立刻開始把腿穿過對手的頭部。對手投入在撐地上的體重反而對他們不利，因為這會妨礙他們在你轉換過程中收回手臂。",
+    "answer_line": "控制手腕，腿穿過頭部",
+    "distractors": {
+     "plausible": [
+      "等對手先收回手臂",
+      "立刻改成勒頸"
+     ],
+     "trap": [
+      "放開 Gift Wrap 去追撐地的手"
+     ]
+    }
+   },
+   {
+    "question": "攻擊空閒手臂時，你應該用什麼樣的抓握方式？",
+    "answer": "用你非 Gift Wrap 的那隻手控制空閒手臂的手腕或前臂下方，把它拉向你的胸口中線。你的 Gift Wrap 手臂則維持對另一隻手臂的困鎖。在完成技巧時，雙手協同控制空閒手臂的手腕，同時靠身體位置與 Gift Wrap 的機械鎖定維持被困的手臂。抓手腕時應該讓對手的拇指朝向天花板。",
+    "answer_line": "抓手腕，拇指朝天花板",
+    "distractors": {
+     "plausible": [
+      "改抓手肘上方",
+      "把手臂拉離胸口"
+     ],
+     "trap": [
+      "放開 Gift Wrap 改用雙手抓"
+     ]
+    }
+   },
+   {
+    "question": "完成 armbar 時，破壞的力量應該朝哪個方向施加？",
+    "answer": "主要的破壞力量來自三個同時作用的方向：髖部從下方向上 bridge 頂入肘關節、手腕拉力把對手的手朝你的胸口中線拉近，以及膝蓋夾緊把上臂固定在你的大腿之間。髖部 bridge 是最主要的力量來源，把支點向上頂入肘關節後方，同時靠手腕控制讓手臂維持伸直。",
+    "answer_line": "Bridge 向上、拉手腕、夾膝蓋",
+    "distractors": {
+     "plausible": [
+      "直接把手腕往下拉",
+      "像 keylock 一樣扭轉手腕"
+     ],
+     "trap": [
+      "放開膝蓋，加大 bridge 力道"
+     ]
+    }
+   },
+   {
+    "question": "對手開始朝被困手臂方向旋轉，試圖用 hitchhiker escape 逃脫，你該怎麼回應？",
+    "answer": "跟隨對手的旋轉方向，轉換成 belly-down 的 armbar 位置，全程維持強力的膝蓋夾制。不要對抗對手的旋轉方向，而是利用他們的動能轉入趴姿並繼續控制手臂。如果對手旋轉得夠多，你也可以利用這個動作重新取得 back control，或轉換成 mounted armbar。",
+    "answer_line": "順著旋轉，轉趴姿",
+    "distractors": {
+     "plausible": [
+      "對抗旋轉，保持角度",
+      "放開手臂重整 guard"
+     ],
+     "trap": [
+      "放手後重新出手 armbar"
+     ]
+    }
+   },
+   {
+    "question": "對手在你完成 armbar 之前成功收回空閒手臂，接下來有哪些連續攻擊可用？",
+    "answer": "立刻回到 rear naked choke 的威脅，因為收回手臂通常代表對手把手從防禦頸部移開。如果對手改為保護頸部，就在手臂再次伸展時重新嘗試 armbar。如果對手手臂位置允許同時困住雙臂，你也可以轉換成 crucifix，或在維持 Gift Wrap 的同時進階到 technical mount 來製造新的攻擊角度。",
+    "answer_line": "回到 rear naked choke",
+    "distractors": {
+     "plausible": [
+      "放棄 Gift Wrap，重整 guard",
+      "被動等待下一次機會"
+     ],
+     "trap": [
+      "放開 back control 重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "為什麼放開 Gift Wrap 控制是這個技巧最常見的失敗原因？",
+    "answer": "Gift Wrap 的困鎖是整個攻擊的基礎，因為它剝奪了對手一半的防禦手段。一旦放開，對手立刻恢復雙手防禦，能夠 grip fight、frame、有效 bridge，並協調逃脫動作。armbar 的嘗試會因此變得困難許多，因為對手能用雙手來 stack、抽出被攻擊的手臂，或建立單手臂無法達成的防禦連結。",
+    "answer_line": "對手恢復雙手防禦",
+    "distractors": {
+     "plausible": [
+      "只是削弱了勒頸的威脅",
+      "只是拖慢了轉換速度"
+     ],
+     "trap": [
+      "放開它來空出雙手"
+     ]
+    }
+   },
+   {
+    "question": "正確的腿部橫跨對手臉部的位置，如何幫助你完成技巧？",
+    "answer": "橫跨臉部的腿有三個關鍵作用：阻止對手 posture up 或向前 stack 來減輕肘部壓力，阻擋對手轉頭轉肩來貼近你進而逃脫，而小腿勾過對手遠側肩膀則像槓桿一樣把對手的上半身壓平固定。若腿的位置不夠深入，對手仍然能夠改變身體角度來破壞 armbar 的機制。",
+    "answer_line": "阻擋 posture、stack 與轉身",
+    "distractors": {
+     "plausible": [
+      "只控制遠側的手",
+      "增加額外的勒頸壓力"
+     ],
+     "trap": [
+      "腿放輕鬆，允許對手 posture"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手嘗試 armbar 攻擊你的空閒手臂時，最早能察覺到的訊號是什麼？",
+    "answer": "最早的訊號是感覺到對手非 Gift Wrap 手抓住你空閒手臂的手腕或前臂，此時你仍處於 Gift Wrap 位置。這個次要的手臂控制發生在髖部旋轉與腿部橫掃之前。如果你能保持手臂收緊、手肘貼緊，拒絕對手的初始抓握，對手就無法有效地展開 armbar 的攻擊序列。",
+    "answer_line": "空閒手被抓住手腕",
+    "distractors": {
+     "plausible": [
+      "感覺到髖部開始旋轉",
+      "感覺到腿橫掃過來"
+     ],
+     "trap": [
+      "伸手臂去試探對手的抓握"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對手髖部旋轉的階段是逃脫的最佳時機？",
+    "answer": "在髖部旋轉期間，對手必須從你身後轉到垂直角度。這個旋轉會暫時鬆開他們的 hook 控制，並讓體重橫向偏移，造成不穩定。他們的胸貼背連結在旋轉時也會變弱。這個過渡時刻正是 bridge 並轉身面對對手成功率最高的時候，早於他們在 armbar 位置重新建立控制之前。",
+    "answer_line": "Hooks 鬆開，base 變弱",
+    "distractors": {
+     "plausible": [
+      "抓握在完成技巧時最弱",
+      "最佳時機是在腿放好之後"
+     ],
+     "trap": [
+      "伸手臂去推開對手"
+     ]
+    }
+   },
+   {
+    "question": "你的空閒手臂正被對手拉伸而你無法收回，最後的防禦手段是什麼？",
+    "answer": "旋轉你的前臂讓拇指朝向天花板，這樣能增強肘關節對過伸的抵抗力。同時盡量用被困的 Gift Wrap 手臂能伸到的範圍去抓住自己的手腕，或者如果可能就雙手互扣。把髖部朝對手方向 bridge，藉此 stack 對手並破壞他們的完成角度。如果伸展持續，在感覺到「啪」聲之前就先拍墊——保護手肘比贏得這一回合更重要。",
+    "answer_line": "拇指朝上、雙手互扣、bridge",
+    "distractors": {
+     "plausible": [
+      "把手臂拉回胸口",
+      "手掌朝下旋轉來抵抗"
+     ],
+     "trap": [
+      "伸直手臂往回推"
+     ]
+    }
+   },
+   {
+    "question": "從 Gift Wrap 中收回被困手臂，如何改變防禦局勢？",
+    "answer": "收回被困手臂能消除讓 Armbar on Free Arm 有效的核心困境。雙手都能使用時，你可以一手防禦頸部，另一手保護不被隔離攻擊，或用雙手協同進行 grip fight 與 frame。對手會失去他們的系統性優勢，因為他們再也無法強迫你在防禦頸部和保護手臂之間做出取捨。",
+    "answer_line": "雙手防禦頸部與手臂",
+    "distractors": {
+     "plausible": [
+      "只有助於站立逃脫",
+      "只是加快轉換速度"
+     ],
+     "trap": [
+      "用雙手推開對手"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺對手正在設置 armbar 時，正確的防禦手臂姿勢是什麼？",
+    "answer": "讓空閒手臂維持約 90 度彎曲，手肘緊貼肋骨。抓住自己的衣領、腰帶或對側肩膀來固定手臂位置。不要伸展手臂去推、去 frame，或去抓任何東西。這種彎曲、固定的姿勢能拒絕給對手所需要的伸展角度，迫使他們必須花費更多力氣才能隔離並拉直你的手臂。",
+    "answer_line": "彎曲 90 度、肘貼肋、抓固定",
+    "distractors": {
+     "plausible": [
+      "伸展手臂 frame 髖部",
+      "保持手臂伸直去推"
+     ],
+     "trap": [
+      "撐手在地上做 base"
+     ]
+    }
+   }
+  ]
+ }
+}

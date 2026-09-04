@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從Reverse X-Guard發動backstep pass的最佳時機是什麼？",
+    "answer": "最佳時機是對手的hook在主動掃技過程中伸展到最大幅度時。此時他們的hook咬合力最弱、拉伸最開，能降低你被纏住的腿在旋轉時遇到的阻力。在對手進攻時啟動，也會打亂他們的進攻節奏，把他們投入的姿勢轉為弱點。",
+    "answer_line": "hook伸展到最大幅度時",
+    "distractors": {
+     "plausible": [
+      "guard一穩定就馬上做",
+      "對手重新調整grip的當下"
+     ],
+     "trap": [
+      "趁hook鎖得緊的時候"
+     ]
+    }
+   },
+   {
+    "question": "開始backstep旋轉前必須先建立什麼grip？",
+    "answer": "必須先在對手hook那一側的collar、sleeve或wrist建立上半身grip control。無gi情況下，可用wrist control或collar tie達成同樣目的。這個grip能固定住對手的上半身，防止他們inversion並跟隨你的backstep旋轉來take back——這是這個技巧最高機率的counter。",
+    "answer_line": "hook側的上半身grip",
+    "distractors": {
+     "plausible": [
+      "遠側的underhook",
+      "抓住雙側腳踝"
+     ],
+     "trap": [
+      "放開grip改用手撐地"
+     ]
+    }
+   },
+   {
+    "question": "決定backstep能否成功清開hook的最關鍵力學細節是什麼？",
+    "answer": "在啟動旋轉前把重心完全轉移到支撐腿上，是最關鍵的力學細節。若沒有把重心完全放在空出的腿上，就無法產生果斷、流暢的backstep弧線。重心轉移不完整會導致猶豫的步伐，讓對手有機會追蹤你的動作並調整他們的hook。支撐腿必須成為整個旋轉的穩定軸心。",
+    "answer_line": "重心完全轉到支撐腿",
+    "distractors": {
+     "plausible": [
+      "髖部旋轉的速度",
+      "單靠grip的力量"
+     ],
+     "trap": [
+      "重心不完全轉移，快速半步"
+     ]
+    }
+   },
+   {
+    "question": "你的對手開始inversion，準備跟隨你的backstep——你該如何應對？",
+    "answer": "如果對手在backstep早期就開始inversion，立刻加快旋轉速度並收緊上半身grip，搶在他們完成inversion之前。如果他們已經部分inversion，就放棄backstep，透過sit through面對他們，重新建立face-to-face的姿勢，而不是在背部暴露的情況下完成旋轉。透過grip control來預防，永遠優於在旋轉中途才調整。",
+    "answer_line": "早期加速，太遲則放棄",
+    "distractors": {
+     "plausible": [
+      "永遠快速完成backstep",
+      "暫停重新評估你的grip"
+     ],
+     "trap": [
+      "無視inversion硬闖過去"
+     ]
+    }
+   },
+   {
+    "question": "在backstep旋轉過程中，你應該施加什麼方向的力量？",
+    "answer": "主要的力量方向是遠離對手hook的圓弧，而不是直線向後的一步。旋轉應該讓你被纏住的腿沿著弧線掃過對方身體後方，而支撐腿則以腳掌為軸心旋轉。同時，透過grip向下施壓，把對手的上半身壓制在地面，使你旋轉的下半身與被固定的上半身之間形成剪刀般的作用力。",
+    "answer_line": "圓弧旋轉，非直線步伐",
+    "distractors": {
+     "plausible": [
+      "直線向後一步",
+      "透過髖部向上抬升"
+     ],
+     "trap": [
+      "直接推向hook"
+     ]
+    }
+   },
+   {
+    "question": "gi與no-gi情況下，這個backstep pass的grip要求有什麼不同？",
+    "answer": "在gi情況下，理想的grip是同側collar grip搭配sleeve grip，能在旋轉過程中提供最大程度的上半身控制。在no-gi情況下，collar grip改為collar tie或頭部控制，sleeve grip則改為wrist control或overhook。no-gi更需要強調頭部位置與肩部壓力，以彌補沒有gi布料時摩擦力和grip選項的減少。",
+    "answer_line": "collar加sleeve變tie加wrist",
+    "distractors": {
+     "plausible": [
+      "兩種情況grip完全一樣",
+      "gi用wrist，no-gi用collar"
+     ],
+     "trap": [
+      "no-gi時放棄所有grip"
+     ]
+    }
+   },
+   {
+    "question": "backstep失敗，對手仍保有Reverse X-Guard——你接下來的即時鏈接選項是什麼？",
+    "answer": "backstep失敗後，你最直接的選項是重新建立base，嘗試把重心壓向對手的hook發動smash pass，或利用失敗backstep所創造的角度轉為long step pass，或是以調整過的時機再試一次backstep。失敗的backstep通常會打亂對手原本的hook配置，創造出不同的弱點。避免不做任何調整就重複同樣的backstep。",
+    "answer_line": "鏈接smash pass或long step",
+    "distractors": {
+     "plausible": [
+      "重複同樣的backstep",
+      "重置回neutral重新開始"
+     ],
+     "trap": [
+      "撤退並放棄top position"
+     ]
+    }
+   },
+   {
+    "question": "為什麼完成backstep後必須立刻穩固side control，而不能停頓？",
+    "answer": "backstep落地時會創造一個短暫窗口：對手的雙腿已自由，但上半身仍被你的grip控制住。若你停頓，對手會在一到兩秒內用他們重獲自由的雙腿重新插入hook、建立frame，或恢復某種guard。立即施加crossface與髖部壓力能消除這個恢復窗口。穩固動作必須是旋轉的延續，而不是另外分開的動作。",
+    "answer_line": "停頓讓對手重建guard",
+    "distractors": {
+     "plausible": [
+      "為了先喘口氣",
+      "為了重新調整手部位置"
+     ],
+     "trap": [
+      "放開grip重整姿勢"
+     ]
+    }
+   },
+   {
+    "question": "對手把腿伸直、加大hook力度以抵抗backstep——你該如何調整？",
+    "answer": "伸直、僵硬的hook創造出不同的機會：與其繼續backstep，不如向前壓過伸直的雙腿，改採smash pass。僵硬的姿勢讓對手無法收回並調整，使他們更容易受到直接壓力passing的影響。此外，可利用腿部伸直的狀態更輕鬆地剝除hook，因為直腿的鉤力遠比彎腿弱。對手的防守反應應該決定你的passing方式。",
+    "answer_line": "向前壓制改採smash pass",
+    "distractors": {
+     "plausible": [
+      "繼續拉同一個backstep",
+      "等腿再次彎曲"
+     ],
+     "trap": [
+      "用力把腿扯回來"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將嘗試backstep pass，最早的辨識線索是什麼？",
+    "answer": "最早的線索是對手建立強力的上半身grip（collar、sleeve或wrist），同時明顯把重心轉移到空出的那條腿。這個grip加重心轉移的組合，通常會在旋轉開始前一到兩秒出現。grip固定住他們對上半身的控制，重心轉移則讓支撐腿承載作為旋轉軸心。及早辨識這個準備階段，能給你最多時間準備防守或反攻反應。",
+    "answer_line": "強力grip加重心轉移",
+    "distractors": {
+     "plausible": [
+      "突然的hip escape動作",
+      "呼吸節奏的改變"
+     ],
+     "trap": [
+      "旋轉開始前毫無徵兆"
+     ]
+    }
+   },
+   {
+    "question": "為什麼用inversion跟隨backstep，會比單純用hook壓力抵抗更有效？",
+    "answer": "backstep旋轉會產生相當大的角力，逐漸削弱hook控制。用靜態hook壓力對抗這股力量，等於是在機械上的劣勢中消耗能量。inversion則能把對手的旋轉能量轉化為你自己的進攻轉換——他們轉向的背部成為你通往back control的路徑。backstep本質上就會製造背部暴露，這讓inversion比起靜態抵抗，對抗已投入的旋轉更具高命中率。",
+    "answer_line": "利用他們的旋轉來進攻",
+    "distractors": {
+     "plausible": [
+      "整體上更省力",
+      "能保住你的guard retention"
+     ],
+     "trap": [
+      "用靜態hook壓力抵抗"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄hook retention，投入back-taking的inversion？",
+    "answer": "當對手的旋轉已經超過中點，而你的hook連結儘管積極抵抗仍在逐漸鬆脫時，就該投入inversion。此時hook retention成功的機率越來越低，而背部暴露的窗口正處於最大值。關鍵決策點是當你膝蓋後方的主要hook失去咬合力時——這代表抽腿即將完成，你應該把力氣從guard retention轉向back-taking，趁窗口關閉前行動。",
+    "answer_line": "當膝蓋hook失去咬合力時",
+    "distractors": {
+     "plausible": [
+      "旋轉一開始就投入",
+      "只在他們passing到mount之後"
+     ],
+     "trap": [
+      "絕不放開hook"
+     ]
+    }
+   },
+   {
+    "question": "你的sleeve grip在防守backstep pass時扮演什麼角色？",
+    "answer": "sleeve或wrist grip是你在backstep旋轉過程中對對手的主要連結。它能阻止passer完成乾淨的旋轉，把你的連結固定在他們的上半身上。這個grip讓你能跟隨他們的動作，在重心轉移時製造off-balance的拉力，並維持inversion轉為back control所需的連結。沒有這個grip，passer就能自由旋轉，你也無法有效跟隨。",
+    "answer_line": "牽引你跟隨旋轉",
+    "distractors": {
+     "plausible": [
+      "主要用來控制髖部",
+      "純粹是為了grip fighting的得分"
+     ],
+     "trap": [
+      "放開它以求更自由移動"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep Pass from Reverse X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

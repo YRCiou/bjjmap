@@ -1,0 +1,221 @@
+{
+ "_meta": {"source": "content/Transitions/Ankle Lock Finish.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Ushiro Ashi-Garami 施展 Ankle Lock Finish 的主要目標是什麼？",
+    "answer": "主要目標是在對手嘗試 inversion 逃脫時，趁其防守位置出現破綻，完成 ankle lock 降服。此時對手的髖部方向反轉，注意力被逃脫與防守分散，正是施加破壞性壓力的最佳時機。",
+    "answer_line": "趁對手 inversion 逃脫時完成",
+    "distractors": {
+     "plausible": [
+      "拖延到對手穩定下來",
+      "改成攻擊 toe hold"
+     ],
+     "trap": [
+      "打開纏繞來調整"
+     ]
+    }
+   },
+   {
+    "question": "你從什麼位置開始 Ankle Lock Finish？需要具備哪些條件？",
+    "answer": "Ankle Lock Finish 從 Ushiro Ashi-Garami top 位置開始，配上 figure-four 腿部配置，且對手腳跟可以觸及。這個情況發生在對手嘗試 inversion 逃出標準 ashi-garami 後，你仍維持住纏繞時。你的外側腿必須跨過對手受制的膝蓋以完成 figure-four，且對手腳跟必須暴露到足以讓你建立終結握法。",
+    "distractors": {
+     "plausible": [
+      "Straight ankle lock control",
+      "Single leg X-guard 握法"
+     ],
+     "trap": [
+      "放開纏腿去抓腳跟"
+     ]
+    },
+    "answer_line": "Figure-four 加上腳跟暴露"
+   },
+   {
+    "question": "Ankle Lock Finish 需要哪些關鍵握法？",
+    "answer": "主要握法是把前臂骨直接壓在對手的 Achilles 肌腱上，用手腕骨的稜線施壓。另一隻手則以掌心橫跨腳跟後方、手指朝向腳趾方向包住腳跟。這個配置形成降服所需的鎖定口袋，同時控制腳跟的轉動。",
+    "answer_line": "前臂壓 Achilles，包住腳跟",
+    "distractors": {
+     "plausible": [
+      "包住腳趾往上拉",
+      "前臂壓脛骨，抓踝骨"
+     ],
+     "trap": [
+      "放開腳跟去抓褲子"
+     ]
+    }
+   },
+   {
+    "question": "對手用力蹠屈並繃緊腳趾來防守，你該如何應對？",
+    "answer": "當對手使出 boot defense 時，改用 Estima Lock 握法，讓雙手扣在對手腳背上而非腳跟。若規則允許，也可以趁對手腳掌繃緊、腳跟從不同角度暴露時轉攻 heel hook。關鍵在於認清持續在同一個配置上加壓已經無效。",
+    "answer_line": "改用 Estima Lock 握法",
+    "distractors": {
+     "plausible": [
+      "在同一個握法上硬拗",
+      "改攻 kneebar"
+     ],
+     "trap": [
+      "放開纏腿重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "哪些破壞力學能為這個終結動作產生有效壓力？",
+    "answer": "破壞力來自你拱背並伸展髖部，同時將腳跟緊拉向胸口——而非單靠手臂力量。協調全身：用力拱背同時把腳跟拉向胸口，向上伸展髖部把壓力灌入腳踝，並藉由把對手腳趾推向脛骨來讓踝關節背屈。髖部伸展與拱背合力才能產生終結的力道。",
+    "distractors": {
+     "plausible": [
+      "夾緊膝蓋靜止不動",
+      "用力向外扭腳"
+     ],
+     "trap": [
+      "放棄腿控純靠蠻力"
+     ]
+    },
+    "answer_line": "拱背、伸髖、拉腳跟"
+   },
+   {
+    "question": "建立終結握法的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手的防守雙手正忙於逃脫動作、而非防守腳跟的時候。在對手做 inversion 時，他們的注意力集中在清開你的腿並轉動髖部——這種分心會創造出 2 到 3 秒的窗口，此時建立握法幾乎不會遇到手部纏鬥的阻力。",
+    "answer_line": "趁對手雙手清腿時出手",
+    "distractors": {
+     "plausible": [
+      "在對手開始 invert 之前",
+      "等對手雙手都抓住腳跟後"
+     ],
+     "trap": [
+      "等對手脫腿轉身之後"
+     ]
+    }
+   },
+   {
+    "question": "你的第一次終結嘗試失敗，但仍保有腳踝控制——接下來有哪些選擇？",
+    "answer": "維持腳踝握法同時調整身體位置。選項包括：跟隨對手的逃脫動作重新建立 Ushiro 控制並再次嘗試、轉換到 Straight Ankle Lock Control 持續進攻、如果對手的防守位置暴露腳跟就改攻 heel hook，或是在對手逃脫時腿部伸直就追加 kneebar。",
+    "answer_line": "跟緊逃脫，保持腳踝控制",
+    "distractors": {
+     "plausible": [
+      "同一招硬拗更用力",
+      "坐起來重新搶握法"
+     ],
+     "trap": [
+      "放手起身逃跑"
+     ]
+    }
+   },
+   {
+    "question": "如何防止對手轉動髖部以卸除壓力？",
+    "answer": "用 figure-four 配置緊緊控制住對手受制的腿。你的外側腿應壓住對手的膝蓋線以防止外轉，內側腿則在下方維持纏繞。如果對手開始轉動，跟隨那個動作而非硬頂，調整角度的同時保持腿控完整。",
+    "answer_line": "Figure-four 壓住膝蓋線",
+    "distractors": {
+     "plausible": [
+      "更用力拉腳跟阻止",
+      "雙腿都上 grapevine"
+     ],
+     "trap": [
+      "撐起身體讓纏繞鬆開"
+     ]
+    }
+   },
+   {
+    "question": "什麼跡象顯示你應該轉換到別的攻擊，而非繼續嘗試 ankle lock？",
+    "answer": "當握法被破解、對手髖部轉動已影響你的腿控，或大約五秒過去仍無法即刻完成終結時就該轉換。具體來說：對手已破解你的握法且雙手正防守腳踝、對手的髖部轉動已進展到影響你的腿控、超過 5 秒仍未能立即終結，或對手的防守姿勢暴露出更高機率的攻擊如 heel hook。",
+    "distractors": {
+     "plausible": [
+      "髖部一有動靜就放棄",
+      "等對手完全脫腿才轉換"
+     ],
+     "trap": [
+      "不顧阻力繼續硬拗"
+     ]
+    },
+    "answer_line": "握法被破或超過 5 秒"
+   },
+   {
+    "question": "即使在允許 heel hook 的規則下，Ankle Lock Finish 為什麼仍然有價值？",
+    "answer": "Ankle Lock Finish 在包含限制 heel hook 的所有規則賽制中都是合法的降服選項。當對手的手部纏鬥成功阻止腳跟暴露，或反轉配置使 heel hook 力學較不利時，這招同樣有效。同時擁有兩種選項能創造進攻多樣性，讓對手的防守優先順序更難拿捏。",
+    "answer_line": "在所有規則下都合法",
+    "distractors": {
+     "plausible": [
+      "終結率比 heel hook 高",
+      "能順勢過腿"
+     ],
+     "trap": [
+      "有 gi 也硬上 heel hook"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你發現對手正從位置控制轉為嘗試 ankle lock finish 時，你應該做的第一件事是什麼？",
+    "answer": "立刻用雙手控制住正朝你 Achilles 肌腱移動的對手手腕，阻止對方建立前臂貼 Achilles 的接觸來啟動終結。阻止握法建立遠比在握法已鎖定或壓力已施加後才試圖破解或抵抗，來得省力且有效。",
+    "answer_line": "立刻控制對手的手腕",
+    "distractors": {
+     "plausible": [
+      "繃腳趾保護腳踝",
+      "先等，被抓緊再破解"
+     ],
+     "trap": [
+      "試圖踢腿掙脫"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立握法並開始拱背——你最好的立即反應是什麼？",
+    "answer": "把髖部朝對手方向轉動，同時彎曲受制的膝蓋並拉向胸口。這會收縮對方施展破壞力學所需的空間，消除他們槓桿所需的垂直角度。同時維持背屈以保護腳踝，並用雙手纏鬥握法，針對對方包腳跟那隻手的拇指側施力以獲得最大破解槓桿。",
+    "answer_line": "轉髖、彎膝、背屈",
+    "distractors": {
+     "plausible": [
+      "伸直腿踢腳逃脫",
+      "收膝再伸髖"
+     ],
+     "trap": [
+      "繃腳趾放鬆腳掌"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄握法纏鬥、改為全力完成 turtle 翻轉？",
+    "answer": "當對手的握法深到無法在 2 到 3 秒內破解、破壞壓力開始造成疼痛或不適，或對方在調整握法時 figure-four 腿控鬆開、給你脫身的窗口時，就該投入 turtle。關鍵指標是：原地繼續纏鬥握法的風險已經高於接受 turtle 短暫背部暴露的風險。",
+    "answer_line": "握法太深、開始疼痛",
+    "distractors": {
+     "plausible": [
+      "一接觸就立刻 turtle",
+      "等腳完全麻木才 turtle"
+     ],
+     "trap": [
+      "貼平地面拒絕 turtle"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 ankle lock 防守中伸直受制的腿是嚴重的錯誤？",
+    "answer": "完全伸直腿會讓你失去用髖部轉動防守的能力，因為直腿形成一根剛性槓桿，讓對手能透過握法與纏腿完全掌控。這也會讓對手破壞壓力的機械優勢最大化，因為力量會直線貫穿踝關節。保持膝蓋彎曲能保留轉動選項與結構完整性。",
+    "answer_line": "直腿會斷送髖部轉動",
+    "distractors": {
+     "plausible": [
+      "會讓腿部肌肉更快累",
+      "會妨礙手部纏鬥"
+     ],
+     "trap": [
+      "伸腿拉開距離"
+     ]
+    }
+   },
+   {
+    "question": "在整個防守過程中，你的腳應該維持什麼姿勢？為什麼？",
+    "answer": "在整個防守過程中維持背屈——腳掌朝脛骨方向勾起、腳趾主動上勾。這個姿勢讓腳跟更貼近小腿，讓對手更難建立包覆式握法，同時縮小終結所需的活動範圍，並讓小腿肌肉參與抵抗伸展壓力。只要一瞬間放鬆成繃腳趾，就會形成終結握法所需的口袋。",
+    "answer_line": "全程保持腳踝背屈",
+    "distractors": {
+     "plausible": [
+      "繃腳趾保護 Achilles",
+      "讓腳保持放鬆靈活"
+     ],
+     "trap": [
+      "放鬆腳掌藏起腳跟"
+     ]
+    }
+   }
+  ]
+ }
+}

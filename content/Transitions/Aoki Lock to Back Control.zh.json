@@ -1,0 +1,221 @@
+{
+ "_meta": {"source": "content/Transitions/Aoki Lock to Back Control.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼是告訴你該放棄 Aoki Lock、轉換到 back control 的主要觸發訊號？",
+    "answer": "主要觸發訊號是感覺到對手決意展開翻滾逃脫，或轉身遠離肩部壓力。當對手把重心前移、轉動髖部，或開始抽出手臂時，這個防守動作正好提供你跟進到 back control 所需的動能。在對手真正投入之前就嘗試轉換，會浪費一個有效的降服機會。",
+    "answer_line": "對手決意翻滾逃脫",
+    "distractors": {
+     "plausible": [
+      "對手任何微小的髖部晃動",
+      "對手因壓力點頭"
+     ],
+     "trap": [
+      "等對手手臂完全脫出"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，你抵達對手背後時必須先建立哪個握法？",
+    "answer": "Seatbelt 握法是第一優先。你的上手繞過對手肩膀，下手穿過對手另一側腋下，在胸骨處雙手扣合。這個握法能阻止對手轉身面對你，並提供穩定此位置所需的上半身錨點，讓你有空間去插入 hooks。",
+    "answer_line": "Seatbelt：繞肩、穿腋下",
+    "distractors": {
+     "plausible": [
+      "先插入雙 hooks",
+      "先抓 collar tie"
+     ],
+     "trap": [
+      "先在腰間交叉雙腳"
+     ]
+    }
+   },
+   {
+    "question": "對手開始向前翻滾但滾到一半停下、試圖重新建立防守姿勢——你該如何調整？",
+    "answer": "如果對手在翻滾中途停滯，根據你的位置有兩種選擇。如果你已經有胸貼背的接觸，就繼續用髖部壓力向前推完成轉換、建立 seatbelt。如果你仍在 Aoki Lock 的纏腿配置中，就重新施加肩鎖壓力，因為對手中斷的逃脫動作很可能已經削弱了他的防守姿勢。",
+    "answer_line": "有胸貼背接觸：推向 seatbelt",
+    "distractors": {
+     "plausible": [
+      "無論如何都要完成翻滾",
+      "立刻改插 hooks"
+     ],
+     "trap": [
+      "放掉所有壓力重新開始"
+     ]
+    }
+   },
+   {
+    "question": "把 Aoki Lock 的纏腿轉換成 back hooks 需要什麼關鍵的髖部動作？",
+    "answer": "你必須在跟隨對手翻滾時把髖部向前向內推進，然後把雙腿從肩部纏繞位置重新導向對手的髖部凹陷處。原本困住對手肩膀的下側腿穿進對手大腿內側成為一個 hook，你的上側腿則跨過對手髖部建立第二個 hook。向前的髖部推進正是讓你在整個轉換過程中保持連結的關鍵。",
+    "answer_line": "髖部前推，重新導引雙腿",
+    "distractors": {
+     "plausible": [
+      "先把腿直直拉回",
+      "坐後創造空間"
+     ],
+     "trap": [
+      "交叉腳踝以快速鎖住 hooks"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換之後建立 back hooks 時，為什麼絕對不能交叉雙腳？",
+    "answer": "交叉雙腳會讓你暴露在 straight ankle lock 反擊之下，底位的對手可以把腿夾成三角圍住你交叉的腳踝並伸展髖部完成降服。獨立的 hooks、腳跟頂在髖部凹陷處，能提供更好的控制，讓你能各自獨立調整每條腿以應對逃脫嘗試，並完全消除 ankle lock 的風險。",
+    "answer_line": "交叉雙腳有 ankle lock 風險",
+    "distractors": {
+     "plausible": [
+      "交叉雙腳只是比較不穩",
+      "交叉雙腳會拖慢插 hooks 速度"
+     ],
+     "trap": [
+      "交叉雙腳能獲得最大夾力"
+     ]
+    }
+   },
+   {
+    "question": "對手翻滾後緊緊 turtle、把手肘夾向膝蓋阻止你插入 hooks——你該如何應對？",
+    "answer": "以 seatbelt 握法作為你的錨點，並用 spiral ride 或楔形技巧撬開空間。把你的膝蓋驅入對手一側手肘與膝蓋之間，製造插入 hooks 的空隙。另外，也可以完全放棄 hooks，改用雙腿環繞對手腰部鎖上 body triangle，或孤立對手遠側手臂改攻 crucifix。緊實的 turtle 配上 seatbelt 控制仍然是一個優勢位置。",
+    "answer_line": "以 seatbelt 為錨，膝蓋撬開空隙",
+    "distractors": {
+     "plausible": [
+      "用腿力硬塞 hooks",
+      "放棄位置重回 guard"
+     ],
+     "trap": [
+      "放開 seatbelt 去撬手肘"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 Aoki Lock to back control 轉換之前，必須具備哪些進入條件？",
+    "answer": "你需要已建立好帶纏腿的 Aoki Lock top 位置、對手必須是主動嘗試逃脫而非被動防守、你至少要有一隻手能迅速放開肩鎖握法，並且你要有足夠的髖部靈活度把雙腿從肩部控制重新導向 hook 位置。缺少任何一項條件都會讓這個轉換機率降低。",
+    "answer_line": "主動逃脫、可快速放手的握法",
+    "distractors": {
+     "plausible": [
+      "對手被動拖延",
+      "只需要肩部壓力就夠"
+     ],
+     "trap": [
+      "沒有髖部靈活度也硬上"
+     ]
+    }
+   },
+   {
+    "question": "對手逃脫的方向如何決定你先插入哪一隻 hook？",
+    "answer": "如果對手向前翻滾，你的下側腿通常會自然先抵達 hook 位置，因為它原本就纏繞在對手肩部區域，並跟著翻滾的動作走。如果對手轉向側邊，你的上側腿往往能先跨過對手髖部。無論哪種情況，轉換過程中最靠近對手身體的那條腿會成為第一個 hook，另一條腿隨後跟上完成雙 hook 控制。",
+    "answer_line": "先插最靠近對手身體的腿",
+    "distractors": {
+     "plausible": [
+      "永遠先插上側腿",
+      "永遠先插下側腿"
+     ],
+     "trap": [
+      "同時插入兩個 hooks"
+     ]
+    }
+   },
+   {
+    "question": "當 Aoki Lock 終結卡關時，哪些訊號告訴你 back take 的機率比繼續嘗試降服更高？",
+    "answer": "關鍵訊號包括：對手已穩住肩部防守、不再對壓力讓步；你耗費的體力持續上升卻沒有降服進展；對手的髖部靈活可動、正在製造轉動角度；或你已在這個位置超過 15 到 20 秒仍未完成終結。兩次施壓升級都沒有進展，是應該轉換而非硬拗終結的強烈指標。",
+    "answer_line": "防守卡關、15-20 秒無進展",
+    "distractors": {
+     "plausible": [
+      "對手握法變得更緊",
+      "你 5 秒後就感覺累"
+     ],
+     "trap": [
+      "只加壓力，絕不轉換"
+     ]
+    }
+   },
+   {
+    "question": "成功完成這個轉換抵達 back control 後，有哪些銜接攻擊可以使用？",
+    "answer": "從 back control 位置，你能取得 rear naked choke 作為主要降服選項，在 gi 中可用 bow and arrow choke，可透過困住並伸展對手手臂完成 armbar from back，gi 中也有 collar chokes 可用。你也能轉換成 body triangle 加強控制、如果對手手臂被孤立就進入 mounted crucifix，或當對手試圖轉身逃脫時轉入 truck 位置。Back control 位置在比賽中擁有最高的降服率。",
+    "answer_line": "Rear naked choke 是首選",
+    "distractors": {
+     "plausible": [
+      "Armbar from mount 是首選",
+      "Kimura 是主要終結招式"
+     ],
+     "trap": [
+      "放開 seatbelt 改攻 leg lock"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 Aoki Lock 轉換到 back take，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是肩鎖壓力突然釋放或明顯減弱，同時對手仍維持甚至加強身體接觸。當旋轉式的肩部壓力消失、但對手的胸口正向前壓進你的背部時，代表對手已放棄降服、正在啟動 back take。這種從旋轉壓力轉為線性壓力的觸感變化，是最主要的早期警訊。",
+    "answer_line": "壓力消失、胸口壓進",
+    "distractors": {
+     "plausible": [
+      "對手停止所有動作",
+      "對手緊抓你的手腕"
+     ],
+     "trap": [
+      "等 hooks 完全插入才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從放開握法到建立 seatbelt 之間的轉換窗口是你最好的防守機會？",
+    "answer": "在這短暫的窗口中，對手已經放棄了最強的控制機制——纏腿肩鎖，但尚未建立下一個控制機制——帶 hooks 的 seatbelt 握法。對手的雙手正在握法之間轉換，雙腿也正從肩部控制位置重新調整到 hook 位置。這是控制力最弱的時刻，此時採取轉身、拉開距離或建立 frame 等防守動作的成功率最高。",
+    "answer_line": "舊控制已失，新控制未建",
+    "distractors": {
+     "plausible": [
+      "這是對手最累的時候",
+      "這是動作暫停的時候"
+     ],
+     "trap": [
+      "等 hooks 插入後才防守"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立 seatbelt 但還沒插入 hooks——你的防守優先順序應該是什麼？",
+    "answer": "第一，收下巴保護頸部，並用 two-on-one 纏鬥控制對手繞過肩膀的那隻手臂。第二，緊緊 turtle、手肘夾向膝蓋，拒絕對手插入 hooks 的空間。第三，在維持緊實 turtle 殼的同時，主動用雙手開始破解 seatbelt 握法。第四，一旦 seatbelt 鬆開，立刻執行逃脫動作，例如 granby roll、sit-through 或 technical standup，趁對手還沒重新建立控制之前完成。絕對不要跳過保護頸部這一步去對抗 hooks。",
+    "answer_line": "先護頸，再緊 turtle",
+    "distractors": {
+     "plausible": [
+      "先破解 hooks 再處理 seatbelt",
+      "立刻爆發起身站立"
+     ],
+     "trap": [
+      "先對抗 hooks，忽略頸部"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，什麼時候該選擇緊實 turtle，什麼時候該轉身面向對手？",
+    "answer": "當你及早察覺轉換時就轉身面向對手，具體來說是當你感覺到肩部壓力釋放、且對手的手還沒抵達 seatbelt 位置時。這需要快速的辨識與立即的行動投入。當轉換已經進展到對手已有胸貼背接觸或部分 seatbelt 時，就緊實 turtle，因為此階段轉身反而會暴露你的頸部。這個決定取決於時機：早期發現能轉身，晚期發現則必須 turtle。",
+    "answer_line": "早期：轉身。晚期：緊 turtle",
+    "distractors": {
+     "plausible": [
+      "無論如何都選擇 turtle",
+      "無論如何都選擇轉身"
+     ],
+     "trap": [
+      "hooks 都插上了才轉身"
+     ]
+    }
+   },
+   {
+    "question": "如何避免你從 Aoki Lock 翻滾逃脫的動作變成對手免費的 back take？",
+    "answer": "在投入向前翻滾之前，先用小幅度的方向試探來確認對手是否仍維持身體接觸。如果對手緊貼著你的背並跟著你的動作走，向前翻滾只會直接把你送進對方的 back control。此時應改變逃脫方向：轉身面向對手、向前 sprawl 貼平地面，或執行 sit-through 轉往不同角度。只有當你真正感覺到背部與對手胸口之間出現分離時，才投入完整的翻滾。",
+    "answer_line": "先試探，確認已分離",
+    "distractors": {
+     "plausible": [
+      "滾快一點甩開對手",
+      "每次都往同一方向滾"
+     ],
+     "trap": [
+      "立刻投入完整翻滾"
+     ]
+    }
+   }
+  ]
+ }
+}

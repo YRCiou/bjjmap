@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "從 Twister Control 出發的 Twister 主要攻擊哪些解剖構造？",
+   "answer": "Twister 主要透過旋轉扭力與側向屈曲的組合攻擊頸椎與胸椎。腿部纏繞從下方對胸椎與腰椎製造旋轉，而 chin strap 的 grip 則從上方對頸椎施加旋轉與側向彎曲。由於上半身被朝反方向拉動而下半身被固定不動，肩帶也會受到牽拉。",
+   "safety_critical": false,
+   "answer_line": "脊椎：旋轉加側彎",
+   "distractors": {
+    "plausible": [
+     "膝蓋與腳踝韌帶",
+     "只有肩關節"
+    ],
+    "trap": [
+     "只是頸部，可以安全硬扭"
+    ]
+   }
+  },
+  {
+   "question": "為什麼必須先完全建立腿部纏繞，才能嘗試 chin strap 的 grip？",
+   "answer": "腿部纏繞會建立讓 Twister 在機制上得以成立的旋轉基礎。若沒有深層的腿部控制去阻止髖部旋轉，對手可以直接轉動髖部去對齊肩膀，消掉這個 submission 所仰賴的脊椎扭力。在沒有這個基礎的情況下嘗試 chin strap，會浪費你已取得的優勢位置，因為當攻擊者把注意力轉移到上半身控制時，對手很容易就能逃脫。",
+   "safety_critical": false,
+   "answer_line": "腿部控制先阻止髖部旋轉",
+   "distractors": {
+    "plausible": [
+     "先上 chin strap 的 grip",
+     "兩個 grip 一起施加"
+    ],
+    "trap": [
+     "放掉雙腿去追 grip"
+    ]
+   }
+  },
+  {
+   "question": "對手開始積極用手部纏鬥阻止你上 chin strap——該做什麼調整來防止他逃脫？",
+   "answer": "先用你的胸口壓力與空手把對手遠側的手腕孤立並釘住，再重新嘗試 chin strap。如果對手繼續用雙手防守，就用你的體重把他的防守手臂壓扁在你們兩人身體之間。關鍵在於先解除對手主要的防守工具，再穿手，而不是硬跟對手的主動手部防守拚，因為當你的注意力轉向上方時，很可能會失去腿部控制。",
+   "safety_critical": false,
+   "answer_line": "先釘遠側手腕，再穿手",
+   "distractors": {
+    "plausible": [
+     "硬拚雙手防守",
+     "改抓近側 grip"
+    ],
+    "trap": [
+     "放棄雙腿去搶 grip"
+    ]
+   }
+  },
+  {
+   "question": "Twister finish 正確的施力速度是多少，為什麼？",
+   "answer": "Twister 必須極其緩慢地施加，至少要用 5-7 秒漸進式加壓。脊椎無法承受突然的旋轉力，爆發式的施加會大幅增加頸椎椎間盤突出、韌帶撕裂或椎骨損傷的風險，可能造成永久性傷害。緩慢施加也能讓對手有足夠的時間察覺這個 submission，在任何結構性傷害發生之前安全拍降。",
+   "safety_critical": true,
+   "answer_line": "非常慢，5-7 秒以上",
+   "distractors": {
+    "plausible": [
+     "配合對手的防守節奏",
+     "只有對新手才需要放慢"
+    ],
+    "trap": [
+     "爆發式猛扭完成"
+    ]
+   }
+  },
+  {
+   "question": "夥伴對 Twister 拍降時，你應該如何立即回應？",
+   "answer": "先立刻鬆開所有頭部與頸部的控制，接著鬆開上半身的 grip，讓對手能自然翻回正面朝上。接下來，緩慢地解開腿部纏繞，不要拉扯或扭轉。整個釋放過程都不能施加任何力量，讓對手按自己的節奏移動。釋放之後要口頭確認夥伴的狀況，確保他沒有受傷、可以繼續訓練。",
+   "safety_critical": true,
+   "answer_line": "先鬆頭頸的 grip",
+   "distractors": {
+    "plausible": [
+     "先鬆雙腿",
+     "兩邊 grip 一起鬆開"
+    ],
+    "trap": [
+     "稍微保持一下以確認拍降"
+    ]
+   }
+  },
+  {
+   "question": "對手開始轉身朝向你以減少脊椎旋轉——你該如何回應？",
+   "answer": "加大腿部纏繞的力道以抵抗對手的髖部旋轉，維持脊椎扭力的角度。如果對手成功減少了部分旋轉，要意識到他轉向你的同時頸部反而會更暴露，這會為 guillotine 變化式或 front headlock 的轉換打開機會。關鍵是善用對手的防守反應所給出的東西，而不是一味硬拚維持原本的 Twister 角度。",
+   "safety_critical": false,
+   "answer_line": "加大腿部壓力，攻頸",
+   "distractors": {
+    "plausible": [
+     "配合他的轉身重新調整",
+     "找機會抓新的衣領 grip"
+    ],
+    "trap": [
+     "放開雙腿去追頸部"
+    ]
+   }
+  },
+  {
+   "question": "哪種 grip 配置能為 Twister 提供最強的完成機制？",
+   "answer": "在對手頭後方採用 gable grip 或 figure-four 的配置，能提供最強的完成機制。穿手的那隻手臂從下巴下方穿入，前臂貼緊下顎線，遠側的手則在頭後方連接以鎖死位置。這種配置能把旋轉力分散到雙臂上，讓你可以靠身體旋轉來施壓，而不是單靠手臂的孤立力量，這樣既更有力也更容易控制。",
+   "safety_critical": false,
+   "answer_line": "頭後方採 gable 或 figure-four",
+   "distractors": {
+    "plausible": [
+     "只用單一 overhook grip",
+     "只用 crossface grip"
+    ],
+    "trap": [
+     "改成頸部 crank grip，鬆開雙腿"
+    ]
+   }
+  },
+  {
+   "question": "你的 chin strap grip 抓得很淺，對手也有效防守著下巴——你該怎麼做？",
+   "answer": "如果即使正確孤立了手腕，chin strap 仍無法抓深，就不要硬來。維持你的腿部纏繞，轉換成能利用對手防守下巴姿勢的其他進攻。calf slicer 攻擊被困住的那條腿，趁對手專注防守下巴時發動；banana split 則利用對手髖部無法移動的弱點；如果纏繞狀態允許，也可以轉換成 back control。硬上一個很淺的 chin strap，既有可能丟掉位置，也有可能危險地把壓力集中在下顎，而不是正確的脊椎扭力上。",
+   "safety_critical": false,
+   "answer_line": "改攻 calf slicer / banana split",
+   "distractors": {
+    "plausible": [
+     "把 chin strap 硬抓深一點",
+     "放棄位置，重新回到 guard"
+    ],
+    "trap": [
+     "直接猛扭下顎施壓"
+    ]
+   }
+  },
+  {
+   "question": "有哪些關鍵徵兆顯示 Twister 已經完全鎖死、對手該拍降了？",
+   "answer": "當 chin strap 的 grip 已在頭後方連接、前臂深深穿入下巴下方，腿部纏繞阻止了任何髖部旋轉，且初步的旋轉壓力已產生明顯的脊椎扭力、對手無法縮小角度時，這個 submission 就算完全鎖死。其他徵兆還包括對手呼吸明顯變得吃力、他的手部防守纏鬥力道變弱，以及身體完全無法做出任何位置調整。到了這個階段，繼續施壓就會導致拍降或潛在的傷害。",
+   "safety_critical": true,
+   "answer_line": "髖部無法轉、呼吸吃力",
+   "distractors": {
+    "plausible": [
+     "雙腳 hook 都扣得很緊",
+     "對手翻成背部貼地"
+    ],
+    "trap": [
+     "等到聽見很大聲的「啪」"
+    ]
+   }
+  },
+  {
+   "question": "Twister 在更廣泛的 Twister Control 進攻體系中扮演什麼角色？",
+   "answer": "Twister 是 Twister Control 這套完整進攻體系中的一個選項，這套體系還包括攻擊被困住的腿的 calf slicer、利用髖部無法移動的 banana split、對手轉身時的 guillotine 變化式，以及轉換成傳統 back control。Twister 的威脅會迫使對手做出防守反應，進而打開這些其他進攻的機會。頂尖選手會把 Twister 當作主要威脅，引導對手的防守走向特定模式，接著在 Twister 本身被防守得很好時，改用勝率更高的其他選項來利用這些模式。",
+   "safety_critical": false,
+   "answer_line": "威脅打開 slicer、split、背後控制",
+   "distractors": {
+    "plausible": [
+     "只是獨立的 finish，沒有其他用途",
+     "只是 back control 失敗時的備案"
+    ],
+    "trap": [
+     "死追 twister，丟掉位置"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "如何辨識對手正從底位設置 Twister Control 的 Twister？",
+   "answer": "關鍵辨識線索包括：對手在維持髖部壓力的同時孤立你遠側的手腕、感覺到他近側的手臂開始從遠側朝你的下巴方向穿入、透過腿部纏繞加大旋轉壓力把你的髖部拉離肩膀，以及隨著脊椎旋轉壓縮你的胸腔而使呼吸逐漸受限。對手開始孤立你手腕的當下就即早察覺，是最關鍵的防守時機。",
+   "safety_critical": false,
+   "answer_line": "手腕被孤立、手臂穿入",
+   "distractors": {
+    "plausible": [
+     "對手把你壓平貼地",
+     "開始爭奪衣領 grip"
+    ],
+    "trap": [
+     "等 chin strap 鎖死再防守"
+    ]
+   }
+  },
+  {
+   "question": "當 Twister 已完全鎖死、無法再逃脫時，最安全的回應是什麼？",
+   "answer": "立刻拍降——用口頭拍、手拍或腳拍，看你在有限的行動能力下哪個最方便使用。Twister 直接攻擊頸椎與胸椎，從完全鎖死到造成結構性傷害之間的時間窗非常短。在訓練中沒有任何 submission 值得冒永久脊椎損傷的風險。要提早、清楚地拍降，在這個特定的 submission 上絕對不要讓自尊心凌駕於脊椎安全之上。",
+   "safety_critical": true,
+   "answer_line": "立刻拍降，方式不拘",
+   "distractors": {
+    "plausible": [
+     "剝除 chin strap 的 grip",
+     "轉身順著旋轉方向"
+    ],
+    "trap": [
+     "爆發式 bridge 逃脫"
+    ]
+   }
+  },
+  {
+   "question": "對手已經開始把手臂穿到你下巴下方——你應該立刻採取什麼防守動作？",
+   "answer": "立刻把下巴緊緊收向胸口，用雙手製造屏障，阻止對手的前臂穿入你的下顎下方。抓住自己的頭或雙手交扣在頸後，形成保護下巴的「殼」。同時開始設法抽出被困住的腿，因為對手把注意力放在 chin strap 上，正好給了你處理腿部纏繞的空隙。不要只依賴下巴防守，那只是暫時的手段。",
+   "safety_critical": false,
+   "answer_line": "收下巴、雙手護擋、抽腿",
+   "distractors": {
+    "plausible": [
+     "收下巴後就等著",
+     "用雙手把手臂撬出去"
+    ],
+    "trap": [
+     "轉身逃離勒頸"
+    ]
+   }
+  },
+  {
+   "question": "為什麼處理腿部纏繞比單純防守 chin strap 更重要？",
+   "answer": "腿部纏繞會建立讓 Twister 在機制上得以成立的旋轉基礎。就算你成功暫時防守住 chin strap，只要對手還維持著腿部控制，他就可以不斷重新調整、再次嘗試。抽出被困住的腿能完全消除脊椎旋轉的可能，讓 Twister 不論上半身位置如何都在機制上無法成立。抽腿是一勞永逸的解法，而下巴防守只是暫時延緩。",
+   "safety_critical": false,
+   "answer_line": "抽腿才能解除威脅",
+   "distractors": {
+    "plausible": [
+     "下巴防守一樣持久",
+     "兩者一樣，選一個做就好"
+    ],
+    "trap": [
+     "顧著下巴，不管被困的腿"
+    ]
+   }
+  },
+  {
+   "question": "在深度 Twister Control 旋轉中被鎖住時，為什麼爆發式 bridge 很危險？",
+   "answer": "在脊椎已經處於深度旋轉的狀態下爆發式 bridge，會大幅放大頸椎與胸椎所承受的旋轉扭力。這股 bridge 產生的力量會被對手的腿部纏繞轉換成額外的脊椎扭力，而不是製造出逃脫空間。就算對手沒有再額外施壓，這也可能加速這個 submission 完成，甚至造成傷害。任何爆發式動作嘗試之前，都必須先透過控制髖部與肩膀的對齊來技術性地減少旋轉。",
+   "safety_critical": true,
+   "answer_line": "放大脊椎扭力，有受傷風險",
+   "distractors": {
+    "plausible": [
+     "會把你翻成被 mount 的背部",
+     "只是讓 bridge 那側肩膀緊繃"
+    ],
+    "trap": [
+     "不會怎樣——用力 bridge 逃脫"
+    ]
+   }
+  }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Twister/from Twister Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

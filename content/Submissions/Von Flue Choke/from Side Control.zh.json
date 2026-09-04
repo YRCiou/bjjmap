@@ -1,0 +1,497 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Von Flue Choke/from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Von Flue Choke 的兩個主要壓力點是什麼？為什麼對手自己的手臂對這個技巧至關重要？",
+    "answer": "兩個主要壓力點是：1）你的肩膀壓向對手頸部的一側，壓迫一條頸動脈；2）他們自己的手臂（來自 guillotine 的抓握）橫過自己的頸部，壓迫另一側的頸動脈。對手的手臂之所以關鍵，是因為它替你完成了勒頸的一半——如果沒有他們自己的 guillotine 抓握，光靠肩膀壓力是不夠的。這也是為什麼這個技巧是一種反制技（counter-submission）：對方的進攻武器反而成了打敗自己的工具。",
+    "safety_critical": false,
+    "answer_line": "肩膀 + 對手自己的 guillotine 手臂",
+    "distractors": {
+     "plausible": [
+      "單靠肩膀壓力就足夠",
+      "壓額手掐斷氣管"
+     ],
+     "trap": [
+      "完成前先破壞對方的抓握"
+     ]
+    }
+   },
+   {
+    "question": "為什麼施展 Von Flue Choke 必須在 3 到 5 秒內漸進加壓，而不是瞬間發力？操之過急會有什麼安全後果？",
+    "answer": "在 3 到 5 秒內漸進施壓，對安全來說至關重要，因為這給訓練夥伴時間感受到危險並在失去意識前拍地求饒。血液勒頸最快可能在 5 到 7 秒內造成昏迷，而且發作可能很突然。如果你瞬間爆發施壓，夥伴可能還來不及拍地就昏過去，導致缺氧造成腦部傷害的風險。漸進施壓能讓對方感受到壓力逐漸累積，並在到達不可逆的臨界點之前做出拍地或鬆手的決定。這是所有血液勒頸訓練的基本安全原則。",
+    "safety_critical": true,
+    "answer_line": "給夥伴時間安全拍地",
+    "distractors": {
+     "plausible": [
+      "漸進施壓是為了製造疼痛",
+      "讓你調整肩膀角度"
+     ],
+     "trap": [
+      "立刻用最大力道施壓"
+     ]
+    }
+   },
+   {
+    "question": "當對手在 Von Flue Choke 嘗試中鬆開 guillotine 抓握的那一刻，你正確的動作是什麼？",
+    "answer": "對手一鬆開 guillotine 抓握，你必須立刻移除肩膀對其頸部的所有壓力，並鞏固你的 side control 位置。他們鬆手之後仍繼續施壓，既沒必要又危險——一旦對方放開進攻性抓握，這個 submission 就已經完成了。你的目標本來就是逼他們鬆開 guillotine，一旦達成，技巧就結束了。繼續施壓等於是對一個已經毫無防備的對手施加勒頸，這違反安全原則，也不是良好的訓練夥伴應有的行為。",
+    "safety_critical": true,
+    "answer_line": "鬆開頸部壓力，鞏固 side control",
+    "distractors": {
+     "plausible": [
+      "立刻換到 mount",
+      "撐開站起來"
+     ],
+     "trap": [
+      "繼續把肩膀往裡壓"
+     ]
+    }
+   },
+   {
+    "question": "將髖部朝對手頭部方向移動，如何提升 Von Flue Choke 的效果？又會消除對方哪個防守選項？",
+    "answer": "將髖部朝對手頭部移動，會在你和對手的身體之間創造更銳利的角度，增加肩膀對其頸部向下、向前的壓力。這個更佳的角度讓頸動脈壓迫更直接、更有效。此外，這個髖部位置會讓對手無法用腿把你的髖部推開來製造距離——這正是他們從 side control 逃脫的主要方式。當你的髖部高且靠近對方頭部時，他們就失去了做 bridge 或有效推開你所需的槓桿。",
+    "safety_critical": false,
+    "answer_line": "角度更銳利，破解腿部推開",
+    "distractors": {
+     "plausible": [
+      "釋放你的手臂去勒頸",
+      "只是為了鋪墊轉 mount"
+     ],
+     "trap": [
+      "把髖部移開以取得穩固底座"
+     ]
+    }
+   },
+   {
+    "question": "為什麼肩膀要壓在頸部（而不是下巴）上，這對 Von Flue Choke 能否成立至關重要？",
+    "answer": "肩膀必須壓在頸部的軟組織上，位於氣管外側、下巴線之下，因為頸動脈就經過這個位置。壓在下巴或下顎上會造成疼痛不適，但不會壓迫到頸動脈，也就不會形成血液勒頸。Von Flue 是一種血液勒頸（切斷腦部血流），而不是空氣勒頸（切斷呼吸），所以精準鎖定頸動脈至關重要。如果你的肩膀壓在下巴上，對手會感到疼痛，但可以撐很久；而正確壓在頸部則會形成真正的勒頸，在幾秒內讓對方昏迷。",
+    "safety_critical": false,
+    "answer_line": "下巴壓不到頸動脈",
+    "distractors": {
+     "plausible": [
+      "壓下巴會掐住氣管",
+      "壓頸部只是比較痛而已"
+     ],
+     "trap": [
+      "把肩膀對準下巴／下顎"
+     ]
+    }
+   },
+   {
+    "question": "被 Von Flue Choke 困住時，夥伴至少可以用哪三種有效的拍地訊號？為什麼辨識這些訊號對這個技巧特別重要？",
+    "answer": "有效的拍地訊號包括：1）口頭拍地（喊「tap」或發出痛苦的聲音）、2）用手拍你的身體或地板、3）用腳拍地、4）立刻鬆開 guillotine 抓握、5）身體變得癱軟無力（代表即將昏迷）。辨識這些訊號對 Von Flue 特別重要，因為對手的手臂可能被困在自己的 guillotine 抓握裡，限制了他們用手拍地的能力。口頭拍地變得格外重要，觀察他們的抓握是否鬆開也是（這通常代表即將昏迷）。你必須對任何想拍地的跡象高度敏感，包括呼吸或抓握力道的變化。",
+    "safety_critical": true,
+    "answer_line": "口頭或腳拍地；雙臂受困",
+    "distractors": {
+     "plausible": [
+      "口頭拍地不算數",
+      "拍得越大聲越優先"
+     ],
+     "trap": [
+      "等明確的手拍訊號"
+     ]
+    }
+   },
+   {
+    "question": "對手固執地維持 guillotine 抓握，即使你已經施加肩膀壓力。哪些跡象顯示他們即將昏迷？你該怎麼做？",
+    "answer": "即將昏迷的關鍵跡象包括：抓握開始不自主地鬆脫、身體變得鬆軟無力、呼吸型態改變（變得不規律或停止）、膚色改變（潮紅或蒼白）、以及缺乏有目的的動作或抵抗。若你觀察到任何這些跡象，必須立刻釋放所有壓力並檢查對方意識狀態。不要等待拍地——固執的對手可能在決定拍地之前就先昏過去了。一旦你感覺對方即將失去意識，無論他們是否正式投降，這一回合就該結束了。",
+    "safety_critical": true,
+    "answer_line": "抓握鬆脫，身體變鬆軟",
+    "distractors": {
+     "plausible": [
+      "大聲抗議增加",
+      "掙扎與抵抗變得更強"
+     ],
+     "trap": [
+      "無論如何都要等正式拍地"
+     ]
+    }
+   },
+   {
+    "question": "你已經建立好 Von Flue 的位置，但對手的雙腿正積極地把你的髖部往外推。要怎麼調整才能完成收技？",
+    "answer": "面對對方用腿把你髖部推開的力道，立刻以小步、漸進的方式把髖部往對方頭部方向走高。這麼做有兩個效果：一是增加肩膀往下壓的角度（讓勒頸更緊），二是消除對方雙腿推開你的槓桿。你的髖部越靠近對方頭部，他們的腿推力就越沒效果，因為他們失去了產生力量所需的角度。整個調整過程中保持胸口沉重並維持 crossface。如果對方儘管如此仍拉開明顯距離，可以考慮轉換到 mount，同時保持肩膀對頸部的壓力。",
+    "safety_critical": false,
+    "answer_line": "把髖部往對方頭部方向走高",
+    "distractors": {
+     "plausible": [
+      "換成別的勒頸",
+      "拉寬底座來抵抗推力"
+     ],
+     "trap": [
+      "把髖部往後退以重新取得角度"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Von Flue 只對從底部維持 guillotine 抓握的對手有效，而對其他防守配置無效？",
+    "answer": "Von Flue 只對維持 guillotine 抓握的對手有效，因為對方自己的手臂構成了勒頸機制的一半。當他們從底部維持 guillotine 抓握時，他們的前臂橫過自己的頸部，從內側壓迫一條頸動脈。你的肩膀則從外側壓迫另一條頸動脈。如果沒有他們的 guillotine 抓握，你單靠肩膀壓力只能壓迫頸部一側，不足以造成血液勒頸。這正是為什麼這個技巧專門是 guillotine 的反制招——它把對方的進攻性抓握變成對付自己的武器。面對其他防守姿勢，同樣的肩膀壓力頂多只會讓人不舒服，卻無法形成 submission。",
+    "safety_critical": false,
+    "answer_line": "對方的抓握提供了一半的勒頸",
+    "distractors": {
+     "plausible": [
+      "肩膀單獨就能壓迫兩側",
+      "把肩膀壓向空著的一側"
+     ],
+     "trap": [
+      "從正面把頭硬拉出來"
+     ]
+    }
+   },
+   {
+    "question": "比賽中，你的 Von Flue 已經鎖住對手，但時間到時對方既沒拍地也沒鬆開抓握。正確的應對是什麼？",
+    "answer": "時間一到你必須立刻鬆開這個 submission，不論你覺得收技有多接近成功。比賽中裁判會喊停比賽，你不能在時間結束後繼續施展 submission。從安全角度來看，對手可能正瀕臨昏迷，是時間救了他們。絕對不要抱著僥倖心態，指望裁判沒注意到時間已到而繼續勒住不放。此外，這個情境也說明了為什麼比賽中的收技需要比訓練時更快地施壓——在比賽中，你可能需要在規則允許範圍內更果斷地加壓，才能在時間結束前拿到 tap，但同時務必保持隨時可以立即鬆手的控制力。",
+    "safety_critical": true,
+    "answer_line": "時間一到立刻鬆手",
+    "distractors": {
+     "plausible": [
+      "撐到裁判喊停為止",
+      "只有對方鬆手後才放鬆"
+     ],
+     "trap": [
+      "超過時間仍繼續加壓"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的 crossface 抓握配置能在 Von Flue 中提供最好的控制？它如何強化收技的力學效果？",
+    "answer": "最佳的 crossface 配置是你靠近的手臂橫過對方的臉，手掌抓住對方遠側肩膀後方或勾住遠側腋下。這個抓握有多種作用：它透過形成閉合的控制迴路，把你的肩膀鎖定在對方頸部的位置；它阻止對方把頭轉向你（那會減輕勒頸的壓力）；它也讓你能透過拉動 crossface 手臂，主動透過肩膀施加額外壓力。手肘應緊貼對方靠近你的一側以消除空間。這種抓握配置把 crossface 從被動的頭部控制，轉變成勒頸的主動加壓器。",
+    "safety_critical": false,
+    "answer_line": "手掌抓住遠側肩膀／腋下",
+    "distractors": {
+     "plausible": [
+      "改抓對方遠側手腕",
+      "只勾近側手臂的 underhook"
+     ],
+     "trap": [
+      "讓對方自由轉頭"
+     ]
+    }
+   },
+   {
+    "question": "你的訓練夥伴這節課已經被 Von Flue Choke 抓到兩次，現在似乎不太敢再嘗試 guillotine 了。你該如何理解這件事，又該做什麼樣的訓練調整？",
+    "answer": "這種猶豫展現出 Von Flue 的次要戰略價值——它能作為一種嚇阻，改變對手的行為。當訓練夥伴知道你能用 Von Flue 反制他們的 guillotine，他們就會猶豫要不要從底部維持這個抓握，這其實也讓你的過guard更容易。不過，為了他們的成長，你現在應該給他們空間去練習 guillotine，而不要立刻用 Von Flue 反制。可以考慮輪流安排回合：有些回合讓對方的 guillotine 慢慢發展，讓他們練技巧；有些回合則由你施展反制。良好的訓練夥伴關係，是要幫助雙方一起進步，而不是一直炫耀自己的反制招。",
+    "safety_critical": false,
+    "answer_line": "輪流回合，讓他們練習",
+    "distractors": {
+     "plausible": [
+      "利用他們的恐懼更容易過guard",
+      "叫他們別再嘗試 guillotine"
+     ],
+     "trap": [
+      "故意送脖子讓自己被抓 Von Flue"
+     ]
+    }
+   },
+   {
+    "question": "Von Flue Choke 壓迫的是哪些解剖結構，藉此逼出 tap？",
+    "answer": "這是一種鎖定頸動脈的血液勒頸：你的肩膀和下巴封住一條頸動脈，而對手自己勒頸的手臂則壓迫另一條，切斷腦部血流，而不是限制呼吸道。",
+    "safety_critical": false,
+    "answer_line": "兩條頸動脈（血液勒頸）",
+    "distractors": {
+     "plausible": [
+      "氣管與呼吸道",
+      "只有頸靜脈"
+     ],
+     "trap": [
+      "頸椎，屬於 neck crank"
+     ]
+    }
+   },
+   {
+    "question": "對手用很緊的 guillotine 抓著你，你需要過guard——該往哪個方向過guard才能設置 Von Flue？",
+    "answer": "你要往勒頸手臂那一側過guard，而不是遠離它，把靠近的肩膀壓向暴露出來的頸動脈，讓對方纏繞的手臂完成勒頸。往遠離的方向過guard會解放對方的 guillotine，完全消除這個勒頸的可能性。",
+    "safety_critical": false,
+    "answer_line": "往勒頸手臂那一側過guard",
+    "distractors": {
+     "plausible": [
+      "壓下你遠側的肩膀",
+      "先剝除 guillotine 抓握"
+     ],
+     "trap": [
+      "撐起身體把頭拉出來"
+     ]
+    }
+   },
+   {
+    "question": "在施加肩膀壓力完成 Von Flue 之前，必須先建立哪些條件？",
+    "answer": "你需要在勒頸手臂那一側形成胸對胸的連接、肩膀和下巴壓在頸動脈上、頭部沉重前壓以阻止對方的 guillotine，以及低而前進的底座，讓體重能提供壓力。",
+    "safety_critical": false,
+    "answer_line": "胸口連接，頭部沉重前壓",
+    "distractors": {
+     "plausible": [
+      "施壓前先取得 full mount",
+      "控制對方勒頸手臂的手腕"
+     ],
+     "trap": [
+      "為了槓桿而把身體撐高"
+     ]
+    }
+   },
+   {
+    "question": "當你把肩膀壓下去時，對手試圖抬高髖部來完成他們的 guillotine——什麼動作能阻止他們？",
+    "answer": "保持頭部沉重前壓、髖部後移，讓你的姿勢始終領先對方的髖部抬升，阻止他們取得完成 guillotine 所需的角度，同時你的肩膀繼續封住他們的頸動脈。",
+    "safety_critical": false,
+    "answer_line": "頭部沉重前壓，髖部後移",
+    "distractors": {
+     "plausible": [
+      "坐後躲開 guillotine",
+      "改抓一個深的 underhook"
+     ],
+     "trap": [
+      "撐高身體來避開對方髖部"
+     ]
+    }
+   },
+   {
+    "question": "哪些跡象告訴你 Von Flue 正有效地切斷血流？",
+    "answer": "你會感覺到肩胛骨穩穩地壓在對方頸部一側，對方的 guillotine 抓握開始鬆脫，接著他們會發出口頭或身體的拍地訊號；臉部潮紅也代表頸動脈正受到壓迫。",
+    "safety_critical": false,
+    "answer_line": "肩膀壓實，臉部潮紅",
+    "distractors": {
+     "plausible": [
+      "他們喘氣咳嗽求空氣",
+      "他們因頸部疼痛而皺眉"
+     ],
+     "trap": [
+      "他們變軟；加大力道"
+     ]
+    }
+   },
+   {
+    "question": "壓力感覺已經接近但還不足以完成收技——什麼調整能在不失去位置的情況下增加壓力？",
+    "answer": "把你的雙腳和髖部往對方頭部方向移動，讓肩膀逐漸更深地壓入頸動脈。Von Flue 不需要換抓握，所以用底座漸進推進是增加壓力最安全的方式。",
+    "safety_critical": false,
+    "answer_line": "把髖部／雙腳往對方頭部移動",
+    "distractors": {
+     "plausible": [
+      "換抓握以取得更大扭力",
+      "坐後利用體重"
+     ],
+     "trap": [
+      "撐高身體並向後仰"
+     ]
+    }
+   },
+   {
+    "question": "什麼是最常見、會讓 Von Flue 嘗試反被對方 guillotine 的錯誤？",
+    "answer": "撐高身體、抬起頭部，或是往遠離勒頸手臂的方向過guard，這兩者都會解放對方的 guillotine，讓他們能抬高髖部完成勒你自己。保持頭部沉重，並往勒頸手臂那一側過guard。",
+    "safety_critical": false,
+    "answer_line": "頭部沉重，往勒頸手臂側過guard",
+    "distractors": {
+     "plausible": [
+      "繞到空著手臂那一側",
+      "先把髖部往後 sprawl 再過guard"
+     ],
+     "trap": [
+      "站起來解除壓力"
+     ]
+    }
+   },
+   {
+    "question": "為什麼訓練時 Von Flue Choke 必須慢慢施加？何時該鬆手？",
+    "answer": "這是一個發作很快的血液勒頸，而夥伴的雙臂通常被困住，可能無法用手拍地。要花數秒漸進施壓，接受口頭或腳部的拍地，並在他們一拍地、一鬆開抓握，或身體一癱軟時立刻鬆手。",
+    "safety_critical": true,
+    "answer_line": "發作快的勒頸；任何拍地都要鬆手",
+    "distractors": {
+     "plausible": [
+      "這裡不用理會腳拍地",
+      "小心的話可以全速施展"
+     ],
+     "trap": [
+      "撐到對方不再動為止"
+     ]
+    }
+   },
+   {
+    "question": "在無道袍賽事中，對手從底部撲了一個 guillotine 且不肯鬆手——你要怎麼把這個防守轉化成收技？",
+    "answer": "先辨識 Von Flue 是否可行，往勒頸手臂那一側過guard，把肩膀壓向暴露的頸動脈，用沉重的頭部建立胸口壓力，再把髖部走過去完成收技。這個威脅也能嚇阻對方未來再深鎖 guillotine。",
+    "safety_critical": false,
+    "answer_line": "往手臂側過guard，壓實肩膀",
+    "distractors": {
+     "plausible": [
+      "過guard後改換 armbar",
+      "把對方疊起來破壞抓握"
+     ],
+     "trap": [
+      "硬把對方手臂從頸部拉開"
+     ]
+    }
+   },
+   {
+    "question": "如何辨識完成 Von Flue 勒頸所需的那條勒頸手臂？",
+    "answer": "追蹤對方哪隻手臂纏過自己的下巴、繞過你的頸部，那就是勒頸手臂。接著你把肩膀壓在同一側的頸動脈上，讓對方的手臂封住另一側的頸動脈。",
+    "safety_critical": false,
+    "answer_line": "纏過對方下巴的那隻手臂",
+    "distractors": {
+     "plausible": [
+      "哪隻手臂在上面就是",
+      "離你雙腿最近的那隻"
+     ],
+     "trap": [
+      "對方沒有纏繞的空著手臂"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼當對手過guard到 side control 時，你自己的 guillotine 抓握反而變得危險？形成 Von Flue Choke 的生物力學機制是什麼？",
+    "answer": "當你從底部維持 guillotine 抓握時，你的前臂橫過自己的頸部，從內側壓迫一條頸動脈。對手的肩膀則從外側壓迫另一條頸動脈。這兩個壓力點加在一起，形成一個雙側的血液勒頸——你的抓握提供了一半機制，對方的肩膀提供另一半。從你的 guard 裡面，guillotine 攻擊的是對方的頸部；但一旦他們過guard到 side control，同樣的抓握結構就反過來攻擊你自己的頸部，因為對方的肩膀可以壓向暴露的一側，而你的手臂正好處理另一側。位置的改變，把你的進攻武器變成了自傷的隱患。",
+    "safety_critical": true,
+    "answer_line": "你自己的手臂封住一條頸動脈",
+    "distractors": {
+     "plausible": [
+      "guillotine 抓握切斷你的呼吸道",
+      "光是對方的體重就能壓垮你的頸部"
+     ],
+     "trap": [
+      "抓得更緊，搶先完成收技"
+     ]
+    }
+   },
+   {
+    "question": "在對方過guard的過程中，你應該在哪個確切時機鬆開 guillotine 抓握以避免 Von Flue 的危險？太晚鬆手會有什麼後果？",
+    "answer": "你應該在對方的髖部一離開你的雙腿、開始建立 side control 的那一刻就鬆開 guillotine 抓握——也就是他們的胸口開始垂直壓向你的軀幹、而你的 guard 已守不住的時候。太晚鬆手意味著對方的肩膀已經定位在你的頸部上、體重已經壓上，勒頸可能已經部分鎖定。此時，光是鬆開抓握可能已經不夠，因為肩膀壓力已經壓迫了一條頸動脈，你現在還需要主動逃脫 side control 的壓力。你鬆手越早，就有越多時間和力氣在對方能設置 Von Flue 之前建立防禦性 frame。",
+    "safety_critical": true,
+    "answer_line": "對方髖部離開 guard 的那一刻",
+    "distractors": {
+     "plausible": [
+      "等到對方肩膀碰到你才鬆手",
+      "只有過guard完成後才鬆手"
+     ],
+     "trap": [
+      "緊抓不放，指望搶先收技"
+     ]
+    }
+   },
+   {
+    "question": "你正抓著 guillotine，感覺對手開始過你的 guard。你的 guillotine 感覺很緊，你覺得或許還能完成收技。你要怎麼判斷該撐住還是鬆手？",
+    "answer": "根據三個因素判斷：1）對方的髖部是否還在你的 guard 內，還是已經移到側邊？如果還在裡面，guillotine 仍然可行；如果已經移出，立刻鬆手。2）對方的頭是被往下拉進勒頸，還是在撐起身體、過guard離去？如果在下沉，就撐住；如果在過guard，就鬆手。3）你能感覺到對方的肩膀正在接觸你的頸部嗎？如果是，Von Flue 已經在設置中，不管你的抓握感覺多緊，都必須立刻鬆手。關鍵的認知是：從底部 side control 抓緊 guillotine，傷的是你自己，不是對方——你抓得越緊，就越是把自己的頸動脈壓向自己的前臂。",
+    "safety_critical": false,
+    "answer_line": "髖部還在 guard 內 = 撐住",
+    "distractors": {
+     "plausible": [
+      "只看抓握的緊度來決定",
+      "由對方是否拍地來決定"
+     ],
+     "trap": [
+      "覺得緊就抓得更用力"
+     ]
+    }
+   },
+   {
+    "question": "鬆開 guillotine 以防守 Von Flue 之後，正確的身體姿勢是什麼？為什麼要轉向對手而不是轉離對手？",
+    "answer": "鬆開 guillotine 之後，立刻在對方的胸口和肩膀之間建立前臂 frame，手肘緊貼身體，並把身體轉向對手，而不是轉離。轉向對手能縮小對方肩膀可以對你頸部形成的角度，也讓你能用雙腿頂住對方的髖部，把他們推開或重新取回 guard。轉離對手則很危險，因為那會暴露你的背部，讓對方有機會 take the back，甚至可能把你的頸部更深地壓向對方肩膀，讓勒頸更嚴重。轉向對手的姿勢，也能讓你正確銜接標準的 side control 逃脫，包括 hip escape 和 guard 恢復動作。",
+    "safety_critical": false,
+    "answer_line": "建立 frame 並轉向對手",
+    "distractors": {
+     "plausible": [
+      "面朝地面 turtle 起來",
+      "護住頸部平躺不動"
+     ],
+     "trap": [
+      "轉離對手，讓出背部"
+     ]
+    }
+   },
+   {
+    "question": "你抓著 guillotine 時感覺到肩膀壓上頸部，意識到 Von Flue 已經部分鎖住。緊急逃脫的順序是什麼？",
+    "answer": "這是緊急情況，必須依序立即採取行動：1）完全且毫不猶豫地鬆開 guillotine 抓握——你多抓一秒，勒頸就會多深一分。2）用靠近對方髖部那隻已鬆開的手臂，推對方的髖部或大腿以製造距離。3）朝對手方向爆發性地做 bridge，打亂對方的肩膀壓力並製造空間。4）把膝蓋插進雙方身體之間建立 half guard。5）如果無法插入膝蓋，就持續 bridge 和建立 frame，直到有足夠空間轉向對手並恢復 guard。最關鍵的第一步永遠是鬆開 guillotine——只要你還抓著這個對自己造成一半勒頸的抓握，其他動作都沒用。訓練時，如果在這個過程中任何時刻感到頭暈，立刻拍地。",
+    "safety_critical": true,
+    "answer_line": "鬆開抓握、建立 frame、做 bridge 逃脫",
+    "distractors": {
+     "plausible": [
+      "先轉離對手 turtle 起來",
+      "先去搶一個 underhook"
+     ],
+     "trap": [
+      "抓著 guillotine 同時做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "什麼感覺會警告你，自己的 guillotine 正讓你暴露在 Von Flue Choke 的風險中？",
+    "answer": "你會感覺到過guard的對手把肩膀和下巴壓向你自己手臂纏繞的那一側頸部，那條頸動脈的壓力逐漸升高，並突然感到頭暈——這代表你的 guillotine 已經變成了勒住自己的封口。",
+    "safety_critical": false,
+    "answer_line": "肩膀壓力，感覺頭暈",
+    "distractors": {
+     "plausible": [
+      "手腕突然劇痛",
+      "胸口變得緊繃"
+     ],
+     "trap": [
+      "頸部輕微僵硬，不用理會"
+     ]
+    }
+   },
+   {
+    "question": "你的 guillotine 抓得很深，但上位的對手把肩膀壓向你的頸部——最高效的防守是什麼？",
+    "answer": "立刻鬆開 guillotine，轉身取回 guard 或趁頸動脈還沒被封住之前趕快脫身。鬆開抓握、讓對方完成過guard，也遠比死抓著不放、直到昏過去要好得多。",
+    "safety_critical": false,
+    "answer_line": "鬆開抓握，轉身回 guard",
+    "distractors": {
+     "plausible": [
+      "用力 bridge 把對方頂開",
+      "建立 frame 並做 hip escape"
+     ],
+     "trap": [
+      "趁勒頸還沒完全成形前硬撐"
+     ]
+    }
+   },
+   {
+    "question": "為什麼面對正在過guard的對手死守 guillotine 不放很危險？",
+    "answer": "死守不放會讓你暴露在 Von Flue 之下：你自己纏繞的手臂會變成血液勒頸的一側，所以當對手把肩膀壓上另一條頸動脈時，你的抓握其實是在幫忙完成勒住自己。",
+    "safety_critical": false,
+    "answer_line": "你的手臂變成勒頸的一半",
+    "distractors": {
+     "plausible": [
+      "只是讓手臂變累",
+      "會讓對方把你疊起來"
+     ],
+     "trap": [
+      "抓得更緊比較安全"
+     ]
+    }
+   },
+   {
+    "question": "如果你在防守 Von Flue 時感到頭暈、雙臂又被困住，該怎麼發出訊號？",
+    "answer": "立刻用口頭或腳、腿拍地——不要等手能拍地，因為你的雙臂常常被困在 guillotine 裡。及早拍地能避免昏迷和頸動脈壓迫造成的腦部傷害。",
+    "safety_critical": true,
+    "answer_line": "口頭或用腳拍地",
+    "distractors": {
+     "plausible": [
+      "等到能空出一隻手再拍地",
+      "點頭示意"
+     ],
+     "trap": [
+      "保持沉默，試著自己逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為避免 Von Flue 而鬆開你的 guillotine 之後，你該優先做什麼？",
+    "answer": "優先保護你的頸部，立刻建立 frame 並做 hip escape 以取回 guard，或轉身 turtle。讓對方完成過guard是可以接受的；目標是逃離勒頸並重新建立防守結構。",
+    "safety_critical": false,
+    "answer_line": "建立 frame、hip escape、取回 guard",
+    "distractors": {
+     "plausible": [
+      "現在重新進攻 guillotine",
+      "抓腿做 sweep"
+     ],
+     "trap": [
+      "轉離對手，讓出背部"
+     ]
+    }
+   }
+  ]
+ }
+}

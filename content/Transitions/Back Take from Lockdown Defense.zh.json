@@ -1,0 +1,227 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Back Take from Lockdown Defense.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "啟動 backstep 的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手完全投入 Electric Chair 延展、髖部達到最大抬升與伸展的時候。此時他們最專注於 sweep 或 submission，背部也最為暴露。太早嘗試、在他們還能收回時動手，會導致轉位失敗。",
+        "answer_line": "髖部延展到最大時",
+        "distractors": {
+          "plausible": [
+            "髖部一開始抬起就動手",
+            "等他們收回準備逃脫時"
+          ],
+          "trap": [
+            "lockdown 一鎖上就立刻動手"
+          ]
+        }
+      },
+      {
+        "question": "對手在你 backstep 進行到一半時開始放鬆 lockdown 壓力，你該如何調整？",
+        "answer": "放棄 back take，立刻轉為過 guard。他們放掉 lockdown 等於失去腿部控制，給你一個免費過guard的機會。可選擇 knee slice pass、smash pass，或依對方的防守反應與剩餘的 grip 選擇 leg weave。",
+        "answer_line": "放棄 backstep，改過 guard",
+        "distractors": {
+          "plausible": [
+            "硬把 backstep 做完",
+            "重新回到 Electric Chair"
+          ],
+          "trap": [
+            "繼續追那個丟失的 hook"
+          ]
+        }
+      },
+      {
+        "question": "整個 backstep 過程中最關鍵要維持的上半身控制是什麼？",
+        "answer": "crossface 是最關鍵的控制。你靠近側的手臂把肩膀壓進對手的下巴，控制他們的頭部，防止他們在 backstep 旋轉時轉身面對你。一旦失去 crossface，對手就能轉身、恢復 guard 或建立防守 frame。",
+        "answer_line": "crossface 控制頭部",
+        "distractors": {
+          "plausible": [
+            "遠側手臂的 whizzer",
+            "被困側的 underhook"
+          ],
+          "trap": [
+            "放手去抓褲管"
+          ]
+        }
+      },
+      {
+        "question": "為什麼這個 backstep 的弧線必須比一般的 backstep pass 更寬？",
+        "answer": "更寬的弧線是為了清開 figure-four 式的 lockdown 腿部纏繞。標準的 backstep pass 因為沒有腿部纏繞，可以用較窄的弧線。寬的環形路徑讓你的腿能繞過 lockdown，同時對手的髖部延展也創造出脫困所需的空間。",
+        "answer_line": "為了清開被鎖住的腿",
+        "distractors": {
+          "plausible": [
+            "跟標準過guard角度一樣",
+            "為了維持 base 穩定"
+          ],
+          "trap": [
+            "窄弧線可以避開 sweep"
+          ]
+        }
+      },
+      {
+        "question": "backstep 之前需要什麼 grip 配置，之後又要轉換成什麼？",
+        "answer": "backstep 之前，維持 crossface：靠近側手臂控制對手的頭與遠側肩膀，遠側手臂建立 whizzer 或 underhook。清開之後，轉換成 seatbelt：一手繞過肩膀、一手穿過腋下，雙手在對方胸前扣住，取得完整的背部控制。",
+        "answer_line": "先 crossface 再 seatbelt",
+        "distractors": {
+          "plausible": [
+            "先 underhook 再抱腰鎖",
+            "先 whizzer 再直接絞頸"
+          ],
+          "trap": [
+            "backstep 途中放開所有 grip"
+          ]
+        }
+      },
+      {
+        "question": "對手在你 backstep 途中用力橋起（bridge），差點把你翻過去，問題出在哪、該怎麼修正？",
+        "answer": "你很可能在對手尚未完全投入延展前就啟動了 backstep，代表他們仍保有足夠的髖部力量與 base 來 bridge。解法是耐心：等對手髖部延展到最大再開始。若已經在 backstep 途中，把重心壓低、用自由腿加寬 base，先撐過這波 bridge 再繼續。",
+        "answer_line": "動手太早，先撐過 bridge",
+        "distractors": {
+          "plausible": [
+            "grip 鬆了，重新抓 crossface",
+            "base 太窄，加寬站姿"
+          ],
+          "trap": [
+            "放棄退出，丟掉 hook"
+          ]
+        }
+      },
+      {
+        "question": "你清開 lockdown 並插入第一個 hook，但對手在你建立 seatbelt 之前開始 turtle，你該如何應對？",
+        "answer": "維持已建立的第一個 hook，同時立刻雙手繞過對方背部爭取 harness 控制。若對方完全 turtle，轉換為 turtle 背後攻擊，包括 rear naked choke 的設置或 crucifix 的進入。關鍵是絕不放棄已建立的 hook，同時讓上半身控制隨對方新的姿勢調整。",
+        "answer_line": "保住 hook，爭取 harness",
+        "distractors": {
+          "plausible": [
+            "放掉 hook，先把對方壓平",
+            "先轉換成 seatbelt"
+          ],
+          "trap": [
+            "放棄 hook，改抱腰鎖"
+          ]
+        }
+      },
+      {
+        "question": "這個技術三個階段中的施力方向如何變化？",
+        "answer": "第一階段透過胸口向前下方施力，把對手壓平。第二階段在 backstep 的環形動作中，力量轉為側向與向後，以清開被困的腿。第三階段力量再次向前，這次是壓進對手背部，建立胸貼背的連結以取得背部控制。三個階段環環相扣。",
+        "answer_line": "先下壓，再側向，再前推",
+        "distractors": {
+          "plausible": [
+            "全程都是向前推",
+            "側向、下壓、再側向"
+          ],
+          "trap": [
+            "全程都是向後施力"
+          ]
+        }
+      },
+      {
+        "question": "如果你的 backstep 嘗試失敗、又回到 Electric Chair，還有哪些選項？",
+        "answer": "回到標準的 lockdown 防守：用 limp leg escape 降低 lockdown 的效果、以向前施壓阻止對手進一步延展，並針對腳部三角進行 lockdown break 的解套流程。你可以在下一次完整延展週期時再嘗試 backstep，或者若對手下次進攻時露出頸部，就轉打 Darce choke 的設置。",
+        "answer_line": "limp leg、施壓、再嘗試",
+        "distractors": {
+          "plausible": [
+            "現在馬上再硬做一次 backstep",
+            "站起來脫離接觸"
+          ],
+          "trap": [
+            "硬拉被困的腿掙脫"
+          ]
+        }
+      },
+      {
+        "question": "安全嘗試這個技術之前，必須具備哪些條件？",
+        "answer": "需要四個條件：對手已投入 Electric Chair 延展、髖部抬起；你仍透過 crossface 或 underhook 保有一定的上半身控制；被困的腿仍有足夠活動度完成 backstep 弧線；你的自由腿要有穩定的支撐位置，作為環形動作的支點。",
+        "answer_line": "延展、控制、活動度、支撐",
+        "distractors": {
+          "plausible": [
+            "已經 full mount 且雙 hook 到位",
+            "對手平躺且沒有任何 grip"
+          ],
+          "trap": [
+            "只要有任何 lockdown grip 就夠"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "上位者即將嘗試 backstep back take 的最早訊號是什麼？",
+        "answer": "最早的訊號是上位者的自由腿開始向後跨步或加寬 base，為環形動作做準備。這通常伴隨著胸口向前施壓增加，因為他們在啟動 backstep 前正在加重負重。及早辨識這個腿部動作能讓你有最多的反應時間。",
+        "answer_line": "自由腿向後跨步",
+        "distractors": {
+          "plausible": [
+            "突然放開 crossface",
+            "髖部貼平地面"
+          ],
+          "trap": [
+            "對手雙手同時抓褲管"
+          ]
+        }
+      },
+      {
+        "question": "為什麼轉身面向對手、而不是背向對手，才是正確的防守反應？",
+        "answer": "轉身面向對手能讓你的胸口正對他們，封住 back take 所需的角度，阻止 hook 插入與 seatbelt 的建立。轉身背向對手則會加速他們繞到你背後的路徑，讓他們更容易滑到你身後。面對對手能把局勢逼回 guard 對抗，而非背後控制。",
+        "answer_line": "封住角度，擋住 hook",
+        "distractors": {
+          "plausible": [
+            "製造空間好站起來",
+            "保護遠側髖部"
+          ],
+          "trap": [
+            "轉身背對以藏住背部"
+          ]
+        }
+      },
+      {
+        "question": "在防守 backstep 時，什麼時候該放掉 lockdown、什麼時候該收緊？",
+        "answer": "如果 backstep 還在早期階段，你的 grip 還能在對手的腿清開之前拖住它，就收緊 lockdown。如果弧線已經完成過半，就放掉 lockdown，因為勉強維持一個已經失效的 lockdown 會對膝蓋產生扭轉風險，也會浪費你原本該用來恢復 guard 的時間。判斷點在於對方的腿是否已經越過你的膝蓋線。",
+        "answer_line": "早期收緊，晚期放開",
+        "distractors": {
+          "plausible": [
+            "永遠收緊來拖住弧線",
+            "一開始就立刻放開"
+          ],
+          "trap": [
+            "撐過膝蓋線後還硬抓著"
+          ]
+        }
+      },
+      {
+        "question": "身為下位者，你如何把對方的 backstep 嘗試反過來變成自己的進攻機會？",
+        "answer": "進階的防守者可以用部分延展來誘敵，等對手投入環形動作時再快速收回並恢復 guard。對手失敗的 backstep 常常會讓他們重心側向失衡，這時就能創造 sweep 的機會，或讓你趁機轉進他們身下的 deep half guard。",
+        "answer_line": "誘敵延展，再快速收回",
+        "distractors": {
+          "plausible": [
+            "完全延展逼對方過guard",
+            "全程死抓 lockdown 不放"
+          ],
+          "trap": [
+            "立刻追打 sweep"
+          ]
+        }
+      },
+      {
+        "question": "對手已經清開 lockdown 並插入一個 hook，還有哪些防守選項？",
+        "answer": "立刻用雙腿夾住那個 hook 做處理，同時用雙手對抗 seatbelt grip。積極朝有 hook 的那一側轉身，展開背後逃脫流程。如果能阻止第二個 hook 與 seatbelt 成形，通常還能掙扎回到 turtle 或 half guard。此時的優先順序已從「防止被背後控制」轉為標準的背後逃脫方法。",
+        "answer_line": "夾住 hook，轉向它",
+        "distractors": {
+          "plausible": [
+            "轉身背離 hook 那一側",
+            "對抗遠側的 underhook"
+          ],
+          "trap": [
+            "撐地盲目 turtle"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Ashi Garami to Leg Entanglement.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼要在對手推進嘗試的過程中，而不是在靜態控制時，抓緊時機做 counter-entanglement？",
+    "answer": "在推進嘗試過程中，對手會移動他們的自由腿並調整 hook 的配置，導致他們的腿部管理出現短暫空隙。他們的注意力集中在改善自己的位置，而不是監控遠側腿的破綻。這個過渡時刻提供了你自由腿最寬的穿線窗口。在靜態控制時，對手的雙腿處於最佳配置，既能控制你的腿，也能保護自己的腿，讓 counter-entanglement 變得困難許多。",
+    "answer_line": "趁對手重新入位的空隙穿線",
+    "distractors": {
+     "plausible": [
+      "等對手鎖死控制後再動作",
+      "一接觸就立刻反制"
+     ],
+     "trap": [
+      "等 heel hook 上了才進攻"
+     ]
+    }
+   },
+   {
+    "question": "在 counter-entanglement 的 entry 過程中，抓住對手纏鎖那隻腳的作用是什麼？",
+    "answer": "抓住對手纏鎖那隻腳同時具備兩個關鍵作用。第一，這能凍結對手纏鎖在目前的深度，防止他們在你穿線 counter-entry 時重新入位或把 hook 推得更深。第二，這能把對手的下半身錨定在原地，讓你的自由腿有一個穩定的目標可以穿線，而不必去追逐一個移動中的髖部。放開這個抓握、改用雙手撐地，是最常見的錯誤之一，因為這會讓對手在你 entry 過程中自由推進。",
+    "answer_line": "凍結對手的腳並錨定 entry",
+    "distractors": {
+     "plausible": [
+      "凍結腳，空出雙手",
+      "錨定髖部，不理腳"
+     ],
+     "trap": [
+      "放開抓握，改用雙手撐地"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄 counter-entanglement 嘗試，改用其他防禦選項？",
+    "answer": "如果對手在你能穿好自由腿之前，已經越過 Inside Ashi 進階到 Cross Ashi 或 Saddle，就該放棄 counter-entanglement，因為從這種劣勢進入雙邊交手是一個註定失敗的策略。同樣地，如果你的穿線嘗試被擋住，而對手開始加速他們的 heel hook 攻擊，也應該放棄，因為這種半吊子的位置會讓你比原本的防禦姿勢更加脆弱。在這兩種情況下，都應該改為緊急保護腳跟，並使用 Ashi Garami Escape 的機制。",
+    "answer_line": "對手進到 Cross Ashi 或 Saddle",
+    "distractors": {
+     "plausible": [
+      "對手越過 Outside Ashi 推進",
+      "穿線超過三秒"
+     ],
+     "trap": [
+      "硬撐過 heel hook 攻擊"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個穿線過程中維持較高的 base，對接下來的雙邊交手很重要？",
+    "answer": "上位者的重力優勢，是接下來雙邊纏鎖中最主要的分別因素。用單膝跪地或蹲姿維持較高的姿勢，代表你能把體重向下壓在對手的軀幹上，把他們的上半身壓平，限制他們製造角度的能力。如果你在穿線過程中趴平，交手就會變成對等狀態，讓你失去原本讓你選擇進入這場交手的唯一優勢。你能把體重向下壓、而對手必須向上產生力量的能力，決定了誰能控制內側空間。",
+    "answer_line": "高姿勢把體重向下壓",
+    "distractors": {
+     "plausible": [
+      "趴平能讓槓桿力對等",
+      "Base 只有抵達後才重要"
+     ],
+     "trap": [
+      "趴平來配合對手的髖部"
+     ]
+    }
+   },
+   {
+    "question": "建立 counter-entanglement 之後，內側空間的控制如何決定誰贏得這場雙邊交手？",
+    "answer": "內側空間控制，也就是你的膝蓋位於你的髖部與對手在纏鎖那一側的髖部之間，決定了任何腿部纏鎖中的位置階級。擁有內側空間的一方，能進階到 Saddle 或 Cross Ashi 等優勢變化，而沒有內側空間的一方，則被限制在中立或劣勢位置。抵達後立刻爭奪這個空間非常關鍵，因為建立雙邊纏鎖後的最初幾秒，雙方的 hook 配置都還在調整，尚未定型。",
+    "answer_line": "立刻爭奪內側空間",
+    "distractors": {
+     "plausible": [
+      "先確保外側位置",
+      "先等 hook 定型再說"
+     ],
+     "trap": [
+      "放棄空間，改抓對手的腳趾"
+     ]
+    }
+   },
+   {
+    "question": "對手正用 Outside Ashi 控制你的右腿，開始把內側 hook 推得更深，想進階到 Inside Ashi，你該如何利用這個窗口？",
+    "answer": "當對手把內側 hook 推得更深時，他們的遠側腿（外側腿）必須暫時鬆開或放鬆，才能重新入位。這會為你的自由左腿製造一個穿線窗口，讓你能跨過對手的遠側髖部，在他們膝蓋後方建立自己的 hook。同時用你的左手抓住對手的右腳，凍結他們正在進行中的推進動作。關鍵在於要在對手的重新入位動作進行中就出手，而不是等他們完成之後——一旦 Inside Ashi 完全建立，他們的腿部配置就會關閉穿線的空隙。",
+    "answer_line": "跨過髖部，抓住對手的腳",
+    "distractors": {
+     "plausible": [
+      "等 Inside Ashi 鎖定後再動作",
+      "自由腿繞過外側 hook"
+     ],
+     "trap": [
+      "放開抓握，雙手撐地"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換與 Counter Ashi Entry 有什麼不同？你會在什麼情況下選擇其中一個而非另一個？",
+    "answer": "Counter Ashi Entry 是在對手的腿上建立一個特定的 Ashi Garami 變化，目標是像 Outside Ashi-Garami 這樣明確定義的位置。Transition to Leg Entanglement 則是進入更廣泛的雙邊交手，可能產生各種纏鎖配置，包括 50-50、不對稱交手或過渡性位置。當你有清楚的路線能直達某個特定的優勢變化時，選擇 Counter Ashi Entry。當情況比較偏向混戰、你需要快速中和對手的優勢卻沒有特定的目標變化，或對手的位置讓有目標的 counter-entry 難以進行時，就選擇 Transition to Leg Entanglement。",
+    "answer_line": "針對混戰，而非單一變化",
+    "distractors": {
+     "plausible": [
+      "只用於對抗 Saddle 嘗試",
+      "需要先有清楚的 entry 路線"
+     ],
+     "trap": [
+      "永遠優先選它而非 Counter Ashi"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 counter-entanglement 結果落入 50-50 位置，你當下的進攻優先事項是什麼？",
+    "answer": "你在 50-50 中當下的優先事項，是把膝蓋往身體中線推進，建立內側 hook 優勢，贏得內側空間的爭奪。從擁有內側空間的 50-50，你能進階到對手腿上的 Inside Ashi，接著再進到 Cross Ashi 或 Saddle。沒有內側空間，你就會被卡在中立交手中。利用你原本身為上位者所擁有的 base 優勢，在對手還在適應新的雙邊配置時，把體重投入內側空間的爭奪。抵達 50-50 後的最初五秒，通常決定誰能取得階級優勢。",
+    "answer_line": "推膝蓋，贏內側空間",
+    "distractors": {
+     "plausible": [
+      "立刻攻擊腳跟",
+      "趴平以保留體力"
+     ],
+     "trap": [
+      "放棄 base 去攻擊遠側腳跟"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "區分 counter-entanglement 嘗試與標準抽腿逃脫最早的辨識訊號是什麼？",
+    "answer": "對手髖部移動的方向是最早的區別訊號。在標準抽腿逃脫中，對手會把髖部向後推，製造距離並把被困的腿拉出來。在 counter-entanglement 中，對手則會把髖部向前推向你，縮短距離，讓自由腿進入穿線範圍。這種方向上的差異，在實際的穿線動作開始之前就能被察覺，提供了關鍵的早期預警窗口。",
+    "answer_line": "髖部向前推，而非向後",
+    "distractors": {
+     "plausible": [
+      "對手收緊他們的 hook",
+      "對手抓住你靠近的那隻腳"
+     ],
+     "trap": [
+      "等腿完全穿好才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼進階到 Inside Ashi 或更深的位置，會讓對手大幅提高做 counter-entanglement 的難度？",
+    "answer": "Inside Ashi 與更深的位置，像是 Cross Ashi 與 Saddle，都需要你的雙腿配置出更優越的內側空間控制，也就是膝蓋向內夾緊，hook 深深穿過對手膝蓋後方。這種配置會實質縮小你雙腿與身體之間的空隙，讓對手更難把自由腿穿過去。此外，更深的位置會讓對手的腳跟暴露得更明顯，讓他們嘗試 counter-thread 時投入的時間變得越來越危險，因為他們在嘗試過程中會冒著被 submission 的風險。",
+    "answer_line": "空間更緊，腳跟暴露風險增",
+    "distractors": {
+     "plausible": [
+      "更深的位置反而鬆開髖部",
+      "只有腳跟暴露才重要"
+     ],
+     "trap": [
+      "等到 Saddle 才反制"
+     ]
+    }
+   },
+   {
+    "question": "如果 counter-entanglement 成功，你抵達 50-50 位置，什麼因素決定你或對手在接下來的交手中佔優勢？",
+    "answer": "內側空間控制決定了接下來 50-50 交手的優勢。膝蓋位於纏鎖那一側雙方髖部之間的一方，能進階到 Inside Ashi 再到 Saddle，而另一方則會被卡在中立位置，或必須逆風爭奪位置。身為原本的 Ashi Garami 持有者，你在內側空間上應該擁有先發優勢，因為你的 hook 原本就是從內側穿入的。在整個轉換過程中，持續把內側膝蓋推向身體中線，而不是放棄它去處理對手的 counter-thread，才能維持這個優勢。",
+    "answer_line": "持續把膝蓋推向中線",
+    "distractors": {
+     "plausible": [
+      "依賴先發優勢，放鬆膝蓋",
+      "把注意力轉向外側控制"
+     ],
+     "trap": [
+      "放棄膝蓋去處理 counter-thread"
+     ]
+    }
+   }
+  ]
+ }
+}

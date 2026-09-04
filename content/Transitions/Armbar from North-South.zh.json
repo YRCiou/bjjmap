@@ -1,0 +1,241 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Armbar from North-South.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Armbar from North-South 的主要目標是什麼？",
+    "answer": "主要目標是從 North-South 的固定控制轉換到 submission 控制位置（Armbar Control），透過孤立對手的手臂並旋轉你的身體，在對手肘關節上製造過伸角度。這會把位置上的優勢轉化為 submission 威脅。",
+    "answer_line": "孤立手臂，旋轉進 armbar",
+    "distractors": {
+     "plausible": [
+      "在 north-south 多待一下",
+      "直接轉換到 back"
+     ],
+     "trap": [
+      "放開固定以加快旋轉"
+     ]
+    }
+   },
+   {
+    "question": "你維持在 North-South，對手靠近側的手肘離開了肋骨——你的立即動作順序是什麼？",
+    "answer": "這是你最佳的攻擊空檔。立刻用同側的手在對手手腕上建立 pistol grip，趁對手還沒把手臂抽回之前。同時把你另一側的手臂穿到對手手肘下方做 underhook。一旦 two-on-one 控制鎖定，你必須毫不猶豫地投入爆發性的髖部旋轉——手臂孤立的空檔會隨著對手察覺威脅而迅速關閉。",
+    "answer_line": "Pistol grip 抓手腕，underhook 手肘",
+    "distractors": {
+     "plausible": [
+      "先抓手腕，等待機會",
+      "先做 underhook，再抓手腕"
+     ],
+     "trap": [
+      "壓手肘讓對手貼平"
+     ]
+    }
+   },
+   {
+    "question": "Armbar from North-South 需要哪些關鍵握法？",
+    "answer": "必要的握法是手腕上的 pistol grip（拇指繞過橈側，其餘手指在尺側）以及把對手手臂緊拉向你肋骨的手肘 underhook。這個 two-on-one 控制能防止手臂被抽離，並在整個旋轉過程中維持連結。手腕握法是主要的錨點，絕不能放開。",
+    "answer_line": "手腕 pistol grip，手肘 underhook",
+    "distractors": {
+     "plausible": [
+      "underhook 握法才是主要錨點",
+      "同時抓住雙手手腕"
+     ],
+     "trap": [
+      "放開手腕去控頭"
+     ]
+    }
+   },
+   {
+    "question": "如果對手嘗試 hitchhiker escape，你該如何應對？",
+    "answer": "調整你的角度跟著對手的旋轉走——不要直接對抗逃脫的方向。持續在對手臉上維持沉重的腿部壓力以減緩旋轉。如果對手完全投入 hitchhiker，就跟著轉進 mount 以轉換成 mounted armbar，或者如果旋轉暴露了背部就直接take back。關鍵是要保持連結，而不是完全失去對手臂的控制。",
+    "answer_line": "跟著旋轉，維持腿部壓力",
+    "distractors": {
+     "plausible": [
+      "正面對抗旋轉方向",
+      "放開手臂，重設位置"
+     ],
+     "trap": [
+      "放手站起來"
+     ]
+    }
+   },
+   {
+    "question": "在 Armbar 收尾時對手往前 stack，你該如何調整？",
+    "answer": "把身體朝遠離 stack 方向轉角度，而不是正面對抗對手往前的壓力。讓雙腿持續沉重地壓在對手肩膀上，防止對手完成 stack。利用角度化的髖部伸展，即使對手往前壓，也能維持破壞壓力。如果 stack 持續，若對手手臂配置允許，可考慮轉換成 triangle。",
+    "answer_line": "轉開角度，腿壓肩膀",
+    "distractors": {
+     "plausible": [
+      "直接往後推對抗 stack",
+      "放開雙腿、坐直身體"
+     ],
+     "trap": [
+      "硬把伸展做進 stack 裡"
+     ]
+    }
+   },
+   {
+    "question": "收尾位置正確的拇指方向是什麼？為什麼這很重要？",
+    "answer": "對手的拇指應朝向天花板（旋後位置）。這個方向能確保過伸的力量直接對抗肘關節自然彎曲的方向。拇指朝下或朝側邊會分散力量，製造出不舒服但無法破壞、能讓對手逃脫的角度。投入髖部伸展之前，務必先確認拇指方向。",
+    "answer_line": "拇指朝向天花板",
+    "distractors": {
+     "plausible": [
+      "拇指朝向地板",
+      "拇指朝向側邊"
+     ],
+     "trap": [
+      "拇指方向不重要"
+     ]
+    }
+   },
+   {
+    "question": "你開始旋轉，但對手把膝蓋插進你們兩人身體之間——你該如何反應？",
+    "answer": "如果膝蓋插入得早，就中止旋轉，立刻回到沉重的 North-South 胸口壓力，重新鞏固固定後再重新嘗試。如果你已經在旋轉中途、膝蓋只穿進來一部分，就用你靠近側的手肘把膝蓋壓下去，同時加快速度完成旋轉。絕不要在對手已經建立膝蓋 frame 的情況下繼續緩慢旋轉——那會導致對手恢復 half guard。",
+    "answer_line": "中止旋轉，回到沉重壓力",
+    "distractors": {
+     "plausible": [
+      "繼續緩慢旋轉",
+      "把膝蓋往上推並維持位置"
+     ],
+     "trap": [
+      "不顧膝蓋繼續緩慢旋轉"
+     ]
+    }
+   },
+   {
+    "question": "為什麼髖部旋轉必須爆發性完成，而不是逐漸進行？",
+    "answer": "逐漸旋轉會給對手反應的時間——插入膝蓋恢復 guard、抽出手肘，或開始防守握法。爆發性旋轉能壓過對手的反應時間，在防守反射啟動之前就建立好 Armbar 位置。半吊子的旋轉一貫會失敗，因為轉換階段正是你最脆弱的時候。",
+    "answer_line": "不給對手防守或逃脫的時間",
+    "distractors": {
+     "plausible": [
+      "保留體力留給收尾用",
+      "向對手表明你的決心"
+     ],
+     "trap": [
+      "緩慢控制以避免用力過猛"
+     ]
+    }
+   },
+   {
+    "question": "對手雙手交扣以防守手臂伸展——這時有哪些連續攻擊可用？",
+    "answer": "當對手交扣雙手時，手臂會暫時無法動彈，但對手的防守姿態也會創造出新的破綻。你可以把前臂楔入對手交扣的雙手之間破壞握法，把腿穿到對手防守的手臂下方轉換成 triangle，或者如果手臂角度允許就攻擊 omoplata。握法防守常常會暴露出其他 submission 的進入點。",
+    "answer_line": "從防守中打 triangle 或 omoplata",
+    "distractors": {
+     "plausible": [
+      "立刻硬把手腕握法扳開",
+      "放棄手臂，改攻 back"
+     ],
+     "trap": [
+      "對抗交扣硬把手臂拉直"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定這個技巧會導向終結還是位置控制？",
+    "answer": "這個轉換會導向 Armbar Control（submission 控制位置），而不是直接終結。從 Armbar Control 出發，你可以執行 Armbar Finish 以導向 game-over。關鍵因素有：在整個旋轉過程中維持手臂控制、達成跨過肩線的正確腿部位置，以及在施加伸展之前有正確的拇指朝上手臂方向。",
+    "answer_line": "手臂控制、角度、拇指朝上",
+    "distractors": {
+     "plausible": [
+      "初始旋轉的速度",
+      "胸口施加壓力的多寡"
+     ],
+     "trap": [
+      "立刻換成絞技"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺 Armbar from North-South 正在被嘗試的最早訊號是什麼？",
+    "answer": "最早的訊號是攻擊者從分散式的胸口壓力，轉變成集中在單一手臂上的 two-on-one 控制——具體來說是手腕上的 pistol grip，配合手肘上的 underhook。這個握法變化發生在髖部旋轉之前，代表最好的防守空檔，因為攻擊者還沒開始轉換。",
+    "answer_line": "Two-on-one 握法：手腕加手肘",
+    "distractors": {
+     "plausible": [
+      "對手把髖部切向側邊",
+      "胸口壓力增加"
+     ],
+     "trap": [
+      "等腿橫掃過去才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼伸直手臂把攻擊者推開，是最糟糕的防守反應？",
+    "answer": "伸直手臂會製造出攻擊者正需要的條件：一隻脫離身體、手肘暴露的孤立手臂。攻擊者已經從 North-South 取得位置優勢，一隻遠離軀幹的直臂等於是把設置直接送給對手。應保持手肘緊貼肋骨，改用前臂 frame。",
+    "answer_line": "孤立手臂、暴露手肘",
+    "distractors": {
+     "plausible": [
+      "浪費力氣推攻擊者",
+      "洩漏你的下一步動作"
+     ],
+     "trap": [
+      "創造空間逃脫位置"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂已經被孤立、攻擊者正在旋轉中途——你的立即防守優先事項是什麼？",
+    "answer": "立刻盡可能用力彎曲被攻擊的手臂，把拇指轉向天花板以強化肘關節結構。同時把髖部朝攻擊者方向 bridge，以打亂對手的旋轉，並試著把你靠近側的膝蓋插進兩人身體之間。彎曲的手臂能爭取時間，插入膝蓋則能把局勢轉換成 half guard。",
+    "answer_line": "彎手臂、拇指朝上、bridge 髖部",
+    "distractors": {
+     "plausible": [
+      "把手臂拉直以抵抗",
+      "抓自己的 gi 鎖住手臂"
+     ],
+     "trap": [
+      "放鬆手臂以減輕壓力"
+     ]
+    }
+   },
+   {
+    "question": "在 Armbar from North-South 的轉換過程中，攻擊者什麼時候最脆弱？",
+    "answer": "攻擊者在髖部旋轉階段最脆弱，因為他們的體重正從穩定的 North-South 壓力轉移到過渡位置。在把腿甩過去的時候，他們的 base 會暫時被破壞。在這個旋轉期間抓準時機做 bridge，能打亂對手的平衡，阻止 Armbar 建立。",
+    "answer_line": "在髖部旋轉階段",
+    "distractors": {
+     "plausible": [
+      "剛建立握法之後",
+      "Armbar 完全鎖定之後"
+     ],
+     "trap": [
+      "維持胸口壓力的時候"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對經驗豐富的攻擊者使用 hitchhiker escape 有風險？",
+    "answer": "有經驗的攻擊者會預期到 hitchhiker 的旋轉並跟著轉，轉換成完全消除逃脫方向的 belly-down armbar，或者利用旋轉直接 take back。hitchhiker 在攻擊者雙腿較鬆、且沒預期到旋轉時效果最好，但對已經有準備的對手，可能會導致更糟的位置。",
+    "answer_line": "對手會跟進 belly-down armbar",
+    "distractors": {
+     "plausible": [
+      "需要太多柔軟度",
+      "只在穿 gi 時有效"
+     ],
+     "trap": [
+      "一定會導致背部暴露"
+     ]
+    }
+   },
+   {
+    "question": "kimura 與 armbar 的兩難處境如何影響你在 North-South bottom 的防守策略？",
+    "answer": "在 North-South bottom，彎曲手臂防守 Armbar 會讓你暴露在 kimura 之下，而伸直手臂防守 kimura 又會讓你暴露在 Armbar 之下。解法是讓手肘緊貼肋骨，既不伸展也不過度彎曲——維持中性的手臂位置，把重點放在髖部移動與 frame 上，而不是投入防守某一個特定的 submission。",
+    "answer_line": "手肘維持中性，緊貼肋骨",
+    "distractors": {
+     "plausible": [
+      "完全伸直手臂躲 kimura",
+      "完全彎曲手臂躲 armbar"
+     ],
+     "trap": [
+      "投入防守其中一個 submission"
+     ]
+    }
+   }
+  ]
+ }
+}

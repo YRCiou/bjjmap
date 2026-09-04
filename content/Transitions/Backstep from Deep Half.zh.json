@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從deep half guard啟動backstep的最佳時機窗口是什麼？",
+    "answer": "最佳窗口是bottom player處於掃技之間、正在調整grip，或是掃技失敗後重新調整位置的時候。在這些時刻，他們的重心並未投入掃技，防守注意力也集中在重建控制，而非追蹤你的動作。在掃技已投入的情況下啟動backstep等於自找麻煩，因為你重心轉移的動作正好給了他們完成掃技所需的momentum。",
+    "answer_line": "在掃技之間、調整grip時",
+    "distractors": {
+     "plausible": [
+      "guard一開就馬上做",
+      "他們準備進攻的前一刻"
+     ],
+     "trap": [
+      "趁掃技完全投入時"
+     ]
+    }
+   },
+   {
+    "question": "在安全嘗試deep half的backstep前，必須先滿足哪些條件？",
+    "answer": "你必須先建立crossface或頭部控制，防止bottom player跟隨旋轉。你的空出腿必須在地面有穩固base以產生跨步力量。bottom player的掃技不能已完全投入。你需要在對方身體遠側有清楚的posting手位置。若沒有specifically的crossface control，就不應嘗試backstep，因為bottom player會直接跟著你旋轉。",
+    "answer_line": "先確保crossface control",
+    "distractors": {
+     "plausible": [
+      "有underhook control就夠",
+      "只需要空出腿有base"
+     ],
+     "trap": [
+      "沒有crossface control就跨步"
+     ]
+    }
+   },
+   {
+    "question": "backstep跨步階段中，最關鍵的身體位置細節是什麼？",
+    "answer": "posting手放在bottom player遠側身體上的位置是最關鍵的細節。這隻手在整個重心轉移過程中，同時扮演旋轉軸心與主要base的角色。若它離你身體太近或離bottom player太遠，你就缺乏安全完成旋轉所需的結構支撐。手掌必須穩穩貼地、五指張開以取得最大接觸面與抓地力。",
+    "answer_line": "posting手放在遠側",
+    "distractors": {
+     "plausible": [
+      "underhook的深度",
+      "膝蓋在地面的位置"
+     ],
+     "trap": [
+      "posting手貼近自己的髖部"
+     ]
+    }
+   },
+   {
+    "question": "deep half的backstep失敗最常見的原因是什麼？",
+    "answer": "最常見的失敗原因是跨步動作只投入一半。當top player在弧線中途猶豫時，會卡在一個中間位置，base受損、兩個方向都沒有控制。bottom player此時很容易掃倒或重新guard。backstep要求一旦啟動就必須全力投入。第二常見的失敗原因是沒有crossface control就嘗試backstep，讓bottom player能跟隨旋轉。",
+    "answer_line": "半投入、猶豫不決",
+    "distractors": {
+     "plausible": [
+      "缺少crossface control",
+      "空出腿路徑太緊"
+     ],
+     "trap": [
+      "旋轉中途用力bridge"
+     ]
+    }
+   },
+   {
+    "question": "backstep過程中必須維持哪個grip，才能防止bottom player跟隨你的旋轉？",
+    "answer": "crossface grip是整個backstep過程中必須維持的核心控制。你的肩膀或前臂壓過bottom player的下顎，把他們的頭固定在地面，防止他們轉頭追蹤你的動作。沒有這個錨點，bottom player就能朝你旋轉的方向做hip escape，在你建立back control之前重新guard。crossface是你控制他們反應能力的主要工具。",
+    "answer_line": "全程維持crossface grip",
+    "distractors": {
+     "plausible": [
+      "全程用underhook",
+      "遠側的collar grip"
+     ],
+     "trap": [
+      "放開crossface改用手撐地"
+     ]
+    }
+   },
+   {
+    "question": "backstep過程中你的空出腿應該朝哪個方向移動？為什麼這條路徑很重要？",
+    "answer": "空出腿應該沿著寬大的後方弧線越過bottom player的軀幹，落在他們身體遠側的背後。這條弧線路徑之所以重要，是因為它能產生把你的胸部帶到對方背上所需的髖部旋轉，能清開對方身體而不會被雙腿卡住，並讓你落地的腳正好在他們身後，方便立即開始建立hook。過緊或向上的路徑則有腿部被纏住的風險。",
+    "answer_line": "寬大後弧越過軀幹",
+    "distractors": {
+     "plausible": [
+      "直線移到他們遠側",
+      "靠近髖部的短步"
+     ],
+     "trap": [
+      "靠近頭部的緊窄向上路徑"
+     ]
+    }
+   },
+   {
+    "question": "你的對手開始hip-escape跟隨你的backstep旋轉——你該如何在動作中途調整？",
+    "answer": "如果bottom player開始跟隨你的旋轉，你有兩個主要調整方式。第一，加快backstep速度並向下加強crossface壓力，搶在他們完成hip escape之前把他們壓住。第二，如果他們已經追上你的速度，就完全放棄backstep，把腳收回地面，立刻轉向smash pass或crossface pass等向前的passing方向，利用他們此刻髖部已轉離forward pass防守的空檔。",
+    "answer_line": "加速並加強crossface壓力",
+    "distractors": {
+     "plausible": [
+      "放棄改往前passing",
+      "配合他們hip-escape的速度"
+     ],
+     "trap": [
+      "放開crossface追髖部"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的backstep被bottom player勾住你的跨步腿而擋下，接下來該怎麼做？",
+    "answer": "如果你的跨步腿被勾住，不要試圖強行拉出，這會造成不穩定。應該用posting手剝除他們勾住的腿，同時維持你的crossface錨點。如果無法剝除這個hook，就把重心沉下，利用這個腿部接觸轉換為leg entanglement或half guard top位置。或者，反轉跨步方向，把原本被纏住的腿向前抽出，改做傳統passing，因為對方專注於勾住你的跨步，反而在forward側製造了防守缺口。",
+    "answer_line": "用posting手剝除hook",
+    "distractors": {
+     "plausible": [
+      "轉入half guard top",
+      "反轉方向抽出腿"
+     ],
+     "trap": [
+      "用力把腿扯開"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "哪些是deep half guard top準備做backstep的最早辨識線索？",
+    "answer": "最早的線索是top player把空出的手穩固地posting在你身體之外，同時明顯把重心從向前下壓轉為側向壓在那隻posting手上。你也可能感覺到空出腿在地面上變輕，代表他們準備抬起它。這些準備動作發生在實際跨步之前，是你防守反應的最佳窗口。",
+    "answer_line": "posting手就位，重心轉移",
+    "distractors": {
+     "plausible": [
+      "深層crossface壓力鬆開",
+      "在你sleeve上grip fighting"
+     ],
+     "trap": [
+      "突然的爆發式bridge"
+     ]
+    }
+   },
+   {
+    "question": "如果你太晚辨識出backstep，對手已經跨步過去，你最好的防守選項是什麼？",
+    "answer": "如果對手的腳步已經清過你身體，立刻turtle起來，把膝蓋收向胸口、進入四足姿勢，搶在他們建立hook之前完成。turtle是遠比平躺被對手壓在背上更好的防守位置。從turtle姿勢，你有已建立的防守序列來阻止hook插入並恢復guard。不要保持仰躺，因為這幾乎保證會被完全取得back control。",
+    "answer_line": "turtle起來，膝蓋收胸",
+    "distractors": {
+     "plausible": [
+      "bridge試圖反轉",
+      "攤平並大力frame"
+     ],
+     "trap": [
+      "保持仰躺"
+     ]
+    }
+   },
+   {
+    "question": "當你懷疑對手要做backstep而非向前passing時，你的underhook grip管理該如何改變？",
+    "answer": "當你懷疑對手要做backstep時，underhook應該抓得更緊，把被纏住的腿拉向你的胸口，而不是把它當作掃技的槓桿。這樣加大的張力會讓top player更難自由旋轉，因為被纏住的腿會像錨一樣讓他們保持與你面對面。此外，用空手監控他們遠側的髖部，而不是準備掃技的grip，因為髖部接觸能提供旋轉動作的早期預警。",
+    "answer_line": "抓緊grip，把腿拉近",
+    "distractors": {
+     "plausible": [
+      "把腿當作掃技槓桿使用",
+      "放開underhook去frame髖部"
+     ],
+     "trap": [
+      "把腿推開以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "在維持deep half guard的同時，什麼姿勢調整能讓你最能抵抗backstep？",
+    "answer": "讓你的髖部朝向top player，而非垂直於他們，能讓你最能抵抗backstep。當你的髖部正對top player時，任何backstep旋轉都必須經過更長的弧線才能到達你的背後，這給你更多時間跟隨。此外，把空手當作frame放在他們遠側髖部，而非伸手抓掃技grip，能同時提供早期預警與對旋轉動作的物理阻力。",
+    "answer_line": "髖部朝向對手",
+    "distractors": {
+     "plausible": [
+      "髖部方正、平貼地面",
+      "提早伸手抓掃技grip"
+     ],
+     "trap": [
+      "髖部垂直、雙腿張開"
+     ]
+    }
+   },
+   {
+    "question": "對手posting手部並開始轉移重心，看起來像要做backstep——你應該跟隨旋轉還是bridge掃倒他？",
+    "answer": "答案取決於時機。如果你在空出腿抬起之前就早期偵測到重心轉移，就bridge攻擊他們受損的base來嘗試掃技，因為他們把重心投入posting手正是弱點所在。如果空出腿已經開始抬起，用髖部跟隨旋轉會更安全，因為太晚的bridge反而可能提供完成backstep所需的momentum。bridge報酬較高但需要更早的辨識，而跟隨旋轉則是更安全的預設反應。",
+    "answer_line": "早期bridge，太晚則跟隨",
+    "distractors": {
+     "plausible": [
+      "永遠bridge掃倒對方",
+      "永遠跟隨旋轉"
+     ],
+     "trap": [
+      "等待並什麼都不做"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep from Deep Half.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

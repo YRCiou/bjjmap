@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼是提示你該轉換到 cross body ride，而不是硬拚維持標準 back control 的主要觸發訊號？",
+    "answer": "觸發訊號是：你透過 hook 控制的下半身正在被成功瓦解，但你上半身的 harness 或 seatbelt 抓法依然完整。具體來說，當對手拔掉一或兩個 hook、開始蜷成 turtle 時，就會出現橫向切角度的機會。跟一個正在積極防守的對手硬拚重新插入 hook 會浪費體力，也可能整個丟掉位置；而 cross body ride 則能把對手防守的成功轉化為你橫向的位置推進。",
+    "answer_line": "hook 被拔，harness 仍在",
+    "distractors": {
+     "plausible": [
+      "對手的髖部開始轉動",
+      "你開始感到疲勞"
+     ],
+     "trap": [
+      "立刻更用力重新插入 hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個轉換過程中，胸口必須全程貼著對手的背？",
+    "answer": "胸口對背部的連接，是整個轉換過程中唯一不能妥協的元素。它是你髖部旋轉時的支點，維持能阻止對手站起或轉身的體重壓力，也確保不會出現讓對手可利用的分離空隙。哪怕只是短暫抬起胸口，對手就會得到足夠的空間去 sit out、翻滾或回復 guard。這個轉換基本上就是圍繞一個固定胸口接觸點做的髖部旋轉。",
+    "answer_line": "胸口貼緊，作為旋轉支點",
+    "distractors": {
+     "plausible": [
+      "胸口只在結束時施壓",
+      "重量轉移到遠側膝蓋"
+     ],
+     "trap": [
+      "抬起胸口看一下 turtle 的狀況"
+     ]
+    }
+   },
+   {
+    "question": "對手拔掉你的近側 hook，開始把髖部轉離你，你該往哪個方向旋轉，為什麼？",
+    "answer": "順著對手轉動的方向旋轉，跟隨他的動作而不是逆著他。這是因為順著他的動能能讓你維持胸口接觸，同時髖部自然地擺向垂直角度。如果你逆著他的方向旋轉，就會造成雙方身體分開的分離空間。順著他轉動，也會讓你的近側膝蓋剛好卡在能封住他遠側髖部的位置，等你抵達 cross body ride 角度時正好派上用場。",
+    "answer_line": "順著他轉動的方向旋轉",
+    "distractors": {
+     "plausible": [
+      "反方向旋轉以保持方正",
+      "先封住他的遠側髖部"
+     ],
+     "trap": [
+      "轉成面朝下去追背後"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換過程中，中途的過渡點與完成後的 cross body ride 位置之間，關鍵的差別是什麼？",
+    "answer": "中途過渡點是最脆弱的時刻，因為你既沒有 back control 的 hook 控制，也沒有 cross body ride 的垂直壓力。在這個中途位置，你的髖部斜斜地擺著，兩側都沒有足夠的支撐base，對手擁有最多的逃脫選項。完成後的 cross body ride 有三個確立的控制點：垂直的胸口壓力、卡在髖部的近側膝蓋，以及作為支撐base的遠側腿。這正是為什麼這個轉換必須果斷投入，而不能猶豫不決。",
+    "answer_line": "中途過渡點沒有任何控制點",
+    "distractors": {
+     "plausible": [
+      "中途仍保有垂直壓力",
+      "完成後多了第四個控制點"
+     ],
+     "trap": [
+      "輕輕飄過中途過渡點就好"
+     ]
+    }
+   },
+   {
+    "question": "在 cross body ride 中，近側膝蓋的作用與標準 back control 裡的 hook 有什麼不同？",
+    "answer": "在標準 back control 中，hook 從背後纏繞進對手大腿內側，透過纏繞來控制髖部的旋轉。而在 cross body ride 中，近側膝蓋是從側面壓進對手的髖部，扮演楔子或支撐柱的角色，阻止他 sit through 逃脫或回復 guard。hook 靠纏繞來控制，膝蓋則靠阻擋與施壓來控制。膝蓋的位置同時也是上位者base的錨點，跟遠側撐地的腳一起形成穩定的三腳架結構。",
+    "answer_line": "膝蓋卡髖部；hook 纏大腿",
+    "distractors": {
+     "plausible": [
+      "膝蓋像 hook 一樣纏繞大腿",
+      "兩者都靠纏繞阻止髖部轉動"
+     ],
+     "trap": [
+      "抬起膝蓋以便插入 hook"
+     ]
+    }
+   },
+   {
+    "question": "對手在你開始轉換時往前滾動，你該怎麼反應，為什麼？",
+    "answer": "維持你的 harness 抓法，順著他的滾動走，利用對手的動能加速你進入對側的 cross body ride。harness 抓法確保你在整個滾動過程中都保持連接，胸口也應該全程貼著他的背。這樣做有效，是因為這個滾動其實反而幫助你完成垂直方向的轉換。關鍵是不要在滾動過程中放開抓法或驚慌。等他完成滾動後，立刻建立近側膝蓋控制、鞏固 cross body 位置。",
+    "answer_line": "順著滾動進入 cross body",
+    "distractors": {
+     "plausible": [
+      "留在同一側撐過去",
+      "在滾動前先鎖住近側膝蓋"
+     ],
+     "trap": [
+      "放開抓法去撐地保持base"
+     ]
+    }
+   },
+   {
+    "question": "從 harness 控制完成轉換到 cross body ride 控制之後，可能需要做哪些抓法調整？",
+    "answer": "在標準 back control 中有效的 harness 或 seatbelt 抓法，在 cross body ride 中可能需要調整。從垂直角度出發，你可能把近側手臂從 seatbelt underhook 換成更深的 underhook 去控制對手的遠側手臂，或改為 collar tie 控制對手的頭部。遠側的 overhook 也可能轉換成 cross-face 或 whizzer 位置。具體的調整取決於你計畫的後續攻擊，但原則是抓法的配置必須配合控制角度，而不是硬要從 cross body 位置維持 back control 的抓法。",
+    "answer_line": "讓抓法配合新的攻擊角度",
+    "distractors": {
+     "plausible": [
+      "維持 seatbelt 抓法不變",
+      "兩手都換成 overhook"
+     ],
+     "trap": [
+      "放開抓法重置 harness"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該選擇硬拚重新插入 hook，而不是轉換到 cross body ride？",
+    "answer": "在你還有一個 hook 在裡面、且合理有機會插入第二個 hook 時；或是對手還沒完全投入 turtle、身形仍稍微偏平時；或是你有 body triangle 可以作為 hook 之外的替代選項時，就該堅持拚 hook 重新插入。而當兩個 hook 都正在被拔除、對手正積極蜷成緊密的 turtle 球、或你已經拚了 hook 好幾秒卻毫無進展、正在一場你正輸掉的抓法戰中消耗體力時，轉換到 cross body ride 就是更好的選擇。",
+    "answer_line": "一個 hook 在，第二個可及",
+    "distractors": {
+     "plausible": [
+      "對手鎖進緊密的 turtle",
+      "抓法戰僵持了好幾秒"
+     ],
+     "trap": [
+      "放開兩個 hook 重新開始"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在轉換到 cross body ride，而不是單純調整 hook，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是感覺到對手的髖部開始橫向旋轉，而胸口壓力在你背上維持不變、甚至加重。調整 hook 的感覺，是對手的腿短暫從同一方向脫離又重新接上；而轉換到 cross body ride 的感覺，則是對手的下半身正往一側擺動，而上半身依然緊貼在你的背上。harness 抓法通常也會明顯收緊，因為對手正準備進行旋轉式的位移。",
+    "answer_line": "髖部旋轉，胸口壓力不變",
+    "distractors": {
+     "plausible": [
+      "髖部移動時胸口壓力減輕",
+      "兩個 hook 同時短暫脫離"
+     ],
+     "trap": [
+      "朝著擺動的腿滾過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼轉換的那個瞬間是最佳的逃脫時機，而不是等到 cross body ride 完全確立之後？",
+    "answer": "在轉換過程中，對手的base暫時不穩，因為他正處在兩個穩定位置之間。他的 hook 已經脫離、髖部正在移動、體重分布也正從你背後轉移到你側邊。這會製造出大約一到兩秒的空檔，此時對手跟上你防守動作的能力會降低。一旦 cross body ride 完全確立——胸口壓力、近側膝蓋、遠側base三個控制點都到位——這個穩定的三腳架結構就會大幅難以打破。",
+    "answer_line": "對方的base暫時不穩",
+    "distractors": {
+     "plausible": [
+      "他們的抓法會鬆開一秒",
+      "他們移動時你反而得利"
+     ],
+     "trap": [
+      "位置穩定後反而更好破解"
+     ]
+    }
+   },
+   {
+    "question": "對手已完成轉換，現在處於完整的 cross body ride，你的防守優先順序是什麼？",
+    "answer": "第一優先是保護頸部與近側手臂，收緊下巴、手肘貼緊肋骨。第二優先是防止對手把你壓平，維持膝蓋離地與髖部的活動空間。第三優先是靠小幅度的髖部調整持續製造動作，讓對手無法把重量完全壓實。第四優先是把 sit-out、hip escape、granby roll 等逃脫嘗試串連起來，而不是孤注一擲用單一動作。要接受從已鞏固的 cross body ride 逃脫需要耐心與連續的嘗試，而不是靠一次爆發性的動作。",
+    "answer_line": "保護頸部與近側手臂",
+    "distractors": {
+     "plausible": [
+      "先阻止被壓平再說其他",
+      "立刻連續 sit-out"
+     ],
+     "trap": [
+      "轉成面朝下用 bridge 頂出去"
+     ]
+    }
+   },
+   {
+    "question": "如果對手是從你的左側或右側轉換到 cross body ride，你的防守該如何調整？",
+    "answer": "防守原則不論哪一側都相同，但你逃脫嘗試的方向必須配合轉換發生的那一側。你的 sit-out 應該朝對手接近的那一側進行，這樣能在他鞏固之前把你轉向面對他。你的 hip escape 則應該朝對手接近的膝蓋反方向進行，以製造最大的分離空間。對手接近那一側的近側手臂，是最容易被孤立的手臂，所以要比遠側手臂更優先收緊那隻手肘。",
+    "answer_line": "朝對手接近側 sit-out",
+    "distractors": {
+     "plausible": [
+      "朝他的近側膝蓋 hip escape",
+      "把遠側手肘收得最緊"
+     ],
+     "trap": [
+      "轉成面朝下背對他"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Back Control to Cross Body Ride.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

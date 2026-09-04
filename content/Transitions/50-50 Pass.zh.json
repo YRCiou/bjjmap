@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/50-50 Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 50-50 Guard 嘗試 pass 時，絕對優先要做的事是什麼？",
+    "answer": "保護你的腳跟，避免遭受內側 heel hook 攻擊。在嘗試任何 pass 動作之前，你必須控制對手抓 grip 的手，或是把膝蓋線收緊來藏住腳跟。在腿部纏鬥中，腳跟安全永遠優先於進攻動作。",
+    "answer_line": "先保護腳跟",
+    "distractors": {
+     "plausible": [
+      "先控制 crossface",
+      "先抽出下方的腿"
+     ],
+     "trap": [
+      "不管腳跟，硬推 pass"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在抽出下方腿之前，必須先在髖部連結處創造空間？",
+    "answer": "髖部連結處是纏鬥最緊密的地方。如果沒有先創造空間，你的腿在物理上根本無法從纏鬥中掙脫。沒有空間就嘗試抽腿，只會浪費體力並讓你繼續被困住。這個空間能讓你的膝蓋以繞圈的路徑離開纏鬥。",
+    "answer_line": "空間讓膝蓋能繞圈脫困",
+    "distractors": {
+     "plausible": [
+      "空間能讓你坐起來",
+      "空間能阻止對手的 pump"
+     ],
+     "trap": [
+      "跳過空間，硬拉腿脫困"
+     ]
+    }
+   },
+   {
+    "question": "在 50-50 pass 中，你先抽出哪一條腿？為什麼？",
+    "answer": "你先抽出下方的腿（被壓在對手腿下方的那條）。這條腿纏得更深，先抽出它才能創造出讓上方腿跨過去所需的空間。如果下方腿還被困住就嘗試跨腿，你只會繼續卡在纏鬥中。",
+    "answer_line": "下方腿先，上方腿後",
+    "distractors": {
+     "plausible": [
+      "先跨上方腿以求壓制",
+      "兩條腿同時抽出"
+     ],
+     "trap": [
+      "抽出上方腿，不管下方腿"
+     ]
+    }
+   },
+   {
+    "question": "在從纏鬥中抽腿的同時，如何維持 pass 的壓力？",
+    "answer": "在整個過程中，用強力的 crossface 讓肩膀持續重壓在對手胸口上。你的上半身保持不間斷的接觸並施加向下壓力，同時下半身完成抽腿。這能防止對手坐起來或創造角度來防守。",
+    "answer_line": "重壓 crossface，持續接觸",
+    "distractors": {
+     "plausible": [
+      "輕壓維持機動性",
+      "改用 underhook 而不是 crossface"
+     ],
+     "trap": [
+      "放開上半身控制來抽腿"
+     ]
+    }
+   },
+   {
+    "question": "對手在你嘗試 pass 時用雙手緊緊抓住你的腳跟——你應該立刻採取什麼行動？",
+    "answer": "立刻放棄 pass，處理 heel hook 的威脅。用雙手破壞他們對腳跟的 grip，先從扣住腳跟的那隻手開始。只有在成功破壞他們的 grip 之後，才能恢復 pass 的流程。在 heel hook grip 已經卡死的情況下硬推 pass，會導致 submission 或嚴重受傷。",
+    "answer_line": "放棄 pass，先破壞腳跟 grip",
+    "distractors": {
+     "plausible": [
+      "先剝開靠腳趾側的 grip",
+      "抓住他們的手腕把它扳開"
+     ],
+     "trap": [
+      "還是硬推完成抽腿"
+     ]
+    }
+   },
+   {
+    "question": "當對手在抽腿過程中威脅內側 heel hook 時，你的膝蓋該往哪個方向旋轉？",
+    "answer": "膝蓋朝你對側的髖部方向內轉。這能讓膝蓋與腳跟對齊，卸除 heel hook 機制上的張力，降低造成傷害的旋轉扭力。在整個 pass 過程中，膝蓋內轉是對抗內側 heel hook 的主要防守機制。",
+    "answer_line": "膝蓋內轉，朝向髖部",
+    "distractors": {
+     "plausible": [
+      "讓膝蓋固定不動",
+      "膝蓋朝正下方指"
+     ],
+     "trap": [
+      "膝蓋往外轉"
+     ]
+    }
+   },
+   {
+    "question": "你抽出下方腿後，對手試圖把腿穿回你兩腿之間重新纏鬥——你如何阻止這件事？",
+    "answer": "立即把上方腿跨過他們身體，把這個動作與下方腿的抽出當成一個連續動作，中間不要停頓。此外，加大 crossface 的壓力把他們壓平在背上，降低他們髖部的機動性。當上方腿跨過去的同時，讓已抽出的腿保持寬張，遠離重新纏鬥的範圍。",
+    "answer_line": "一氣呵成：先抽腿再跨過",
+    "distractors": {
+     "plausible": [
+      "步驟之間暫停重設 grip",
+      "拉寬膝蓋，控制頭部"
+     ],
+     "trap": [
+      "放慢速度確認位置"
+     ]
+    }
+   },
+   {
+    "question": "從抽腿轉換到鞏固 side control 時，需要做哪些 grip 調整？",
+    "answer": "在抽腿過程中，你的雙手控制對手的髖部與 grip。當你跨腿時，靠近的那隻手轉為在他們遠側建立 underhook，而 crossface 那隻手則維持頭部與肩膀控制。絕對不要同時放開雙手——一手維持控制時，另一手才轉換。這能確保整個 pass 過程中壓力持續不斷。",
+    "answer_line": "絕不同時放開雙手",
+    "distractors": {
+     "plausible": [
+      "兩隻手同時換 grip",
+      "抓 belt 後放開 crossface"
+     ],
+     "trap": [
+      "放開所有 grip 來轉換"
+     ]
+    }
+   },
+   {
+    "question": "如何辨識啟動 50-50 pass 的最佳時機？",
+    "answer": "最佳時機是對手專注在自己的進攻而非守住 guard 的時候。留意他們伸手去抓腳跟、調整位置，或在不同攻擊設置之間轉換的時刻。這些時刻會讓他們的防守結構出現短暫的漏洞。此外，當對手髖部壓力因重置或調整而減輕時，立刻開始你的抽腿流程。",
+    "answer_line": "趁對手進攻出現空檔時出手",
+    "distractors": {
+     "plausible": [
+      "等對手體力耗盡",
+      "他們一抓腳跟就立刻進攻"
+     ],
+     "trap": [
+      "在 heel hook 設置到一半時啟動"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 50-50 pass，回到防守位置？",
+    "answer": "如果對手已經扣住你無法破解的強力內側 heel hook grip，或是他們成功坐起並破壞你的上半身控制。在這些情況下，硬推 pass 只會增加受傷風險或讓對手 sweep 成功。回到中立的 50-50，重新確立防守優先順序，等待更好的 pass 機會。耐心和安全比硬推危險的 pass 更重要。",
+    "answer_line": "無法破解的強力腳跟 grip",
+    "distractors": {
+     "plausible": [
+      "腿上任何 grip 接觸",
+      "對手轉移髖部"
+     ],
+     "trap": [
+      "硬闖完成 pass"
+     ]
+    }
+   },
+   {
+    "question": "對手用 pumping 的髖部動作阻止你持續創造抽腿的空間——你如何應對？",
+    "answer": "配合他們的節奏，反過來利用他們自己的髖部回彈動作。當他們的髖部 pump 回你身上時，利用那個接觸瞬間重新建立上半身壓力。當他們再次伸展時，立刻比之前多抽出一吋。結合每個週期逐漸加大的 crossface 壓力，經過幾個 pumping 週期後把他們壓平並降低髖部機動性。",
+    "answer_line": "配合節奏，一吋一吋抽出",
+    "distractors": {
+     "plausible": [
+      "加速超越 pump 的節奏",
+      "停止動作直到 pump 結束"
+     ],
+     "trap": [
+      "放開 crossface 來重置"
+     ]
+    }
+   },
+   {
+    "question": "下方腿抽出與上方腿跨過去這兩個動作，在施力方向上有什麼關鍵差異？",
+    "answer": "下方腿抽出需要繞圈的拉扯動作——膝蓋先朝自己胸口收，然後腿向後並側向伸展，離開纏鬥。上方腿跨過去則是用向前繞過的弧線，把腿驅動穿過對手軀幹朝遠側髖部方向，體重跟隨在後。抽腿是撤退，跨腿是推進。把兩者結合成一個流暢動作能防止重新纏鬥。",
+    "answer_line": "撤退式拉扯 vs 前推式推進",
+    "distractors": {
+     "plausible": [
+      "兩者都用相同的拉扯動作",
+      "兩者都用相同的向前推力"
+     ],
+     "trap": [
+      "腿還沒脫困就跨過去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在發動 50-50 pass 而非攻擊 submission，第一個辨識徵兆是什麼？",
+    "answer": "主要徵兆是肩膀壓力向前推進你的胸口，並伴隨 crossface。攻擊 submission 的對手通常會坐後或調整髖部角度來露出腳跟，而正在 pass 的對手會把體重向前上方驅動，以建立對你上半身的控制。crossface 特別能指示 pass 的意圖，因為它能阻止你坐起來，而這對腿部 submission 攻擊來說是不必要的。",
+    "answer_line": "向前的 crossface 壓力＝pass",
+    "distractors": {
+     "plausible": [
+      "腿上任何 grip 都代表 pass",
+      "髖部動作永遠代表 pass"
+     ],
+     "trap": [
+      "坐後代表要做 pass"
+     ]
+    }
+   },
+   {
+    "question": "對手已經抽出下方腿並準備跨腿——重新纏鬥的關鍵時機窗口是什麼？",
+    "answer": "這個窗口存在於下方腿抽出到上方腿跨過你髖部線之間。這通常是半秒到一秒的間隙。趁這個窗口把你已抽出的腿穿回他們兩腿之間，瞄準大腿之間的空間。如果上方腿已經跨過你的髖部，窗口就已關閉，你必須改為轉入 half guard retention 或建立 frame。",
+    "answer_line": "上方腿跨過髖部前的空檔",
+    "distractors": {
+     "plausible": [
+      "pass 完成前的任何時候",
+      "crossface 一落地就馬上動作"
+     ],
+     "trap": [
+      "等 side control 確立後再動作"
+     ]
+    }
+   },
+   {
+    "question": "即使沒有完成 submission，威脅 submission 如何幫助你防守 pass？",
+    "answer": "submission 威脅會迫使 passer 把注意力分散在防守腳跟與抽腿之間。他們花在破壞你 grip 或保護腳跟上的每一刻，都是他們無法推進 pass 的時刻。這創造出資源競爭：passer 無法同時防守 submission 又抽腿，讓你爭取到時間重新纏鬥或坐起來破壞他們的控制。",
+    "answer_line": "分散他們的注意力",
+    "distractors": {
+     "plausible": [
+      "能直接終結比賽",
+      "消耗對手的握力"
+     ],
+     "trap": [
+      "不管 pass，追求完成 submission"
+     ]
+    }
+   },
+   {
+    "question": "在防守 pass 時，什麼時候應該從 50-50 retention 轉為 half guard recovery？",
+    "answer": "當 passer 已經抽出下方腿並且正在用上方腿跨腿時，就要轉入 half guard recovery。此時，重新纏鬥的成功率已降到不划算的程度。改為用你的內側腿勾住他們正在跨過的腿，建立 half guard frame。這是一種受控的讓步，保留了一個 guard 位置，而不是直接接受完整的 side control。",
+    "answer_line": "上方腿正在跨過時",
+    "distractors": {
+     "plausible": [
+      "下方腿一脫困就轉換",
+      "pass 一開始嘗試就轉換"
+     ],
+     "trap": [
+      "等 side control 確立後才動作"
+     ]
+    }
+   },
+   {
+    "question": "對手用 pumping 動作逐步抽出他們的腿——你如何反制這種特定的 pass 策略？",
+    "answer": "配合他們的節奏，跟著每次 pump 用髖部往他們的方向靠近，絕不讓間隙擴大。此外，利用他們向前施壓的階段（他們向後驅動壓向你時）作為窗口，加深纏鬥並抓住他們的腳跟。這個 pumping 動作在回彈階段會暫時減輕他們的髖部壓力，這正是你坐起來破壞他們上半身控制的最佳時機。",
+    "answer_line": "在他們的回彈階段坐起來",
+    "distractors": {
+     "plausible": [
+      "加速抽腿以搶在 pump 之前",
+      "保持靜止，吸收壓力"
+     ],
+     "trap": [
+      "放開 grip 重置位置"
+     ]
+    }
+   }
+  ]
+ }
+}

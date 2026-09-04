@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Arm Drag to Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼協調 arm drag 與髖部動作，而不是單純用手拉，是很重要的？",
+    "answer": "遠離被拉手臂那一側的髖部動作，能製造出與對手身體垂直移動所需的角度。若沒有製造出這個角度，你會停留在對手正前方，讓對方很容易恢復姿勢或反擊。髖部逃脫動作能產生繞到對方背後所需的動量，同時也能避免對方坐回時把你拉進他的 guard 裡。單靠拉手臂，無法產生取得背後控制所需的角度位移。",
+    "answer_line": "髖部逃脫製造角度",
+    "distractors": {
+     "plausible": [
+      "只靠手臂力量硬拉",
+      "先繞位再拉手臂"
+     ],
+     "trap": [
+      "直接往前拉，被壓扁"
+     ]
+    }
+   },
+   {
+    "question": "當你開始 drag 時，對手把遠側手撐在地上，你該如何應對？",
+    "answer": "遠側手撐地代表對方在防禦角度，但也把重心壓到了一側。繼續你的轉動，並用撐地那側的 butterfly hook 把那側髖部撐起，破壞對方的 base。或者，你也可以改變繞位方向，攻擊對方撐地手臂後方的空間。對方的撐地手其實是個固定支點，可以當作你旋轉的支撐，而不是障礙。如果對方撐得很用力，可以先切入 front headlock 或 snap-down 破壞他的支撐，再繼續完成背後控制。",
+    "answer_line": "勾住撐地側，撐起那邊髖部",
+    "distractors": {
+     "plausible": [
+      "硬拉把 drag 拉過去",
+      "坐起把肩膀壓進去"
+     ],
+     "trap": [
+      "直接撲過去，被壓扁"
+     ]
+    }
+   },
+   {
+    "question": "從 butterfly guard 發動 arm drag 的最佳時機是什麼？",
+    "answer": "最佳時機是對手重心往前移動的時候，不管是壓向你的 guard、伸手抓 grip，還是準備 pass。重心前移代表對方的手臂是伸展且可以被抓握的，而且他的 base 容易被拉離中心。對方剛抓到你衣領或袖子 grip 的那一瞬間特別有效，因為他的手正忙著，來不及縮回防守 drag。",
+    "distractors": {
+     "plausible": [
+      "只有在對方坐回時才做",
+      "只要抓到袖子 grip 隨時都能做"
+     ],
+     "trap": [
+      "對方後仰時撲過去"
+     ]
+    },
+    "answer_line": "當對方重心壓向前方時"
+   },
+   {
+    "question": "執行 arm drag 之前，必須先建立什麼樣的 grip 組合？",
+    "answer": "你需要兩個 grip 點：同側手腕的 C-grip 或 monkey grip，加上對側抓對方 triceps、lat 或上臂的 grip。手腕 grip 提供方向控制，把手臂拉過對方中線；triceps grip 則提供把手臂加速拉過身體的推力。若沒有這兩個 grip 點，drag 就缺乏轉動對方肩膀、製造角度所需的機械優勢。有穿 gi 時，抓衣領可以取代 triceps grip。",
+    "distractors": {
+     "plausible": [
+      "只抓衣領就夠了",
+      "雙手都抓袖子，沒有推力"
+     ],
+     "trap": [
+      "伸太遠去抓，失去自己的 base"
+     ]
+    },
+    "answer_line": "手腕 grip 加上 triceps grip"
+   },
+   {
+    "question": "如果對手立刻對你正在拉的手臂做出 whizzer，你該如何應對？",
+    "answer": "whizzer 其實會製造新的機會，而不是終結這次進攻。改用 duck under，鑽到對方 whizzer 手臂下方，取得另一側的背後控制。對方的 whizzer 會讓他重心前移，並形成一個固定接觸點，讓你可以繞著它轉動。另外，如果對方的 whizzer 抓得很高，可以利用 butterfly hook 把他撐離地面，因為他做 whizzer 的那隻手正被占用，沒辦法撐地。關鍵是絕不要正面硬和 whizzer 對抗，而是把它當作發動其他攻擊的槓桿。",
+    "answer_line": "往遠側 duck under",
+    "distractors": {
+     "plausible": [
+      "硬把手臂從 whizzer 中抽出",
+      "在 whizzer 那側往上撐"
+     ],
+     "trap": [
+      "轉離 whizzer 手臂那一側"
+     ]
+    }
+   },
+   {
+    "question": "成功的斜向 drag 和失敗的直線後拉之間，關鍵的力學差異是什麼？",
+    "answer": "斜向 drag 是把對方的手臂拉向你對側的髖部，跨過他的中線，並轉動他的肩膀。這個肩膀轉動正是關鍵的力學細節，因為它讓對方無法在被拉的那一側撐地，並在結構上讓他無法面向你。直線後拉不會跨過中線，最後會變成單純比力氣，對方只要往回拉就能抵抗。斜向的拉力方向利用了對方自身的骨骼排列來對付他，因此不論體型差異多大，這個技巧都有效。",
+    "answer_line": "跨過中線、轉動肩膀",
+    "distractors": {
+     "plausible": [
+      "直線往後拉，沒有角度",
+      "往自己胸口方向拉"
+     ],
+     "trap": [
+      "整個人後仰躺平硬拉"
+     ]
+    }
+   },
+   {
+    "question": "對手用立刻坐回拉開距離來防守 arm drag，你的連續攻擊是什麼？",
+    "answer": "當對方坐回時，他會遠離你的 butterfly hook 並拉開距離，但這個後退動作也會暴露出一些機會。如果你維持手腕控制，跟著對方的後退動作，把 hook 延伸進入 single leg X 或 X-guard，因為對方後移的重心正好會壓在你的 hook 上。如果對方完全甩開你的 hook，就利用維持住的手腕 grip 把自己拉向 front headlock 位置，趁對方坐下時威脅 guillotine 或 snap-down。對方坐著後退，也會打開從坐姿發動 collar drag 或 ankle pick 變化的機會。",
+    "answer_line": "延伸 hook，進入 X-guard",
+    "distractors": {
+     "plausible": [
+      "等對方重新靠近再說",
+      "改抓 collar-sleeve grip"
+     ],
+     "trap": [
+      "轉成 belly-down，把背後送給對方"
+     ]
+    }
+   },
+   {
+    "question": "為什麼旋轉階段中，你的頭必須緊貼對手的肋骨？",
+    "answer": "你的頭在旋轉過程中，同時扮演阻擋機制和對對方軀幹施加壓力的角色。它能實際阻止對手把肩膀轉回面向你，否則會讓你辛苦取得的角度優勢消失，甚至可能讓你回到面對面的 guard 位置。頭部接觸也能提供對手動作的觸覺回饋，讓你能追蹤並跟上任何轉身企圖。若沒有頭部壓力，即使對方只是緩慢地防禦性轉身，也可能在你抵達背後之前就化解掉整個 arm drag 連續動作。",
+    "answer_line": "用頭阻擋對方肩膀轉動",
+    "distractors": {
+     "plausible": [
+      "把頭抬高好看清楚",
+      "把頭放在對方遠側肩膀"
+     ],
+     "trap": [
+      "把頭鑽到對方手臂下方"
+     ]
+    }
+   },
+   {
+    "question": "相較於沒有 hook、單純從坐姿 guard 發動，butterfly hook 具體如何幫助 arm drag？",
+    "answer": "butterfly hook 提供了撐起能力，能在 drag 過程中短暫讓對手失去重量，減少轉動他肩膀所需的力量，也削弱他撐地的能力。這個撐起動作會製造一個短暫的空檔，讓對手部分離地，沒有地面接觸可以抵抗你的旋轉拉力。若沒有 hook、單純從坐姿 guard 發動，你完全得依靠上半身的拉力和髖部逃脫動作，這需要更多力氣，也讓對手有機會靠著地面撐地來抵抗。hook 在繞位階段還能透過在對手身體後方「行走」來輔助推進。",
+    "answer_line": "hook 撐起、卸掉對方重量",
+    "distractors": {
+     "plausible": [
+      "hook 只對 sweep 有幫助",
+      "hook 可以取代手腕 grip"
+     ],
+     "trap": [
+      "把 hook 放平，改用手推"
+     ]
+    }
+   },
+   {
+    "question": "從 butterfly guard 判斷 arm drag 機會是否存在，最可靠的指標有哪些？",
+    "answer": "留意對方重心前移、手臂伸展到可被拉扯的範圍，這代表他正在施壓或伸手。當對方抓你的衣領、lapel 或袖子的那一刻是最好的時機，因為他的手正被占用，收回的動作會延遲。留意重心分布是否不對稱，一側承重較多，會讓那一側更容易被拉離平衡。當對手專注在自己的進攻動作上，例如正準備發動 pass 時，機會最好，因為這會分散他對手臂位置防守的注意力。",
+    "answer_line": "重心前移、手臂伸展",
+    "distractors": {
+     "plausible": [
+      "對方被動地坐在後面",
+      "對稱、平衡的姿勢"
+     ],
+     "trap": [
+      "整個人趴平還伸手去拉"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 arm drag 的連續動作中，最早、也是最有效的防守介入點在哪裡？",
+    "answer": "最早也最有效的介入點，是在對方建立 grip 的階段，也就是攻擊者尚未同時抓穩手腕 grip 和 triceps grip 之前。透過收肘和主動的手部纏鬥來拒絕對方建立兩點式 grip 控制，可以避免攻擊者產生把你的手臂拉過中線所需的斜向拉力。一旦兩個 grip 都被抓穩、拉扯動作開始後，你的防守選項會大幅減少，也需要花更多力氣才能執行。",
+    "answer_line": "在對方抓穩 grip 前就拒絕它",
+    "distractors": {
+     "plausible": [
+      "等拉扯動作開始再說",
+      "只擋手腕 grip"
+     ],
+     "trap": [
+      "把手臂伸直去纏鬥"
+     ]
+    }
+   },
+   {
+    "question": "在防守已經進行到一半的 arm drag 時，為什麼要轉向攻擊者，而不是轉離他？",
+    "answer": "轉離攻擊者會讓你暴露更多背部，並加速他繞到背後控制的路徑，等於幫他完成了整個旋轉。轉向攻擊者會逼他回到面對面的姿勢，讓他的角度優勢失效。你的 crossface 和向前的推力，能瓦解對方的 guard 結構，並製造出對你有利的 scramble，因為在他嘗試旋轉時，他的 hook 是脫離接觸的。此外，轉向對方能讓你持續面對攻擊者，看得到並能防守後續的攻擊。",
+    "answer_line": "轉向對方、正面面對",
+    "distractors": {
+     "plausible": [
+      "turtle 起來，護住脖子",
+      "sprawl 後退切斷接觸"
+     ],
+     "trap": [
+      "轉離對方，把背後讓出去"
+     ]
+    }
+   },
+   {
+    "question": "whizzer 對抗 arm drag 的原理是什麼？它主要的風險又是什麼？",
+    "answer": "whizzer 在被拉的手臂上建立 overhook 連結，實際阻擋攻擊者繞過你身體的旋轉路徑。透過把自己的髖部頂向對方髖部，並用 overhook 夾緊，你會製造出一個固定支點，阻止對方繞到你的背後。主要風險是，如果 whizzer 抓得太高或太鬆散、沒有配合髖部壓力，就可能被 duck under 破解，攻擊者會鑽到你 whizzer 手臂下方，從另一側取得背後控制。whizzer 必須搭配積極的髖對髖接觸和肩部壓力，才能真正有效。",
+    "answer_line": "overhook 擋住對方繞到背後的路徑",
+    "distractors": {
+     "plausible": [
+      "抓住手腕，把手臂拉開",
+      "空手撐在對方髖部做 frame"
+     ],
+     "trap": [
+      "轉成 belly-down 逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly guard top，什麼樣的重心分配錯誤最容易讓你被 arm drag 打到？",
+    "answer": "重心過度前傾是主要的重心分配錯誤。當你往前壓向對方的 butterfly hook、並伸手去抓 grip 時，你的重心會移到 base 支撐範圍的前方。這種前傾負重，正好提供攻擊者用斜向 arm drag 把你拉失衡所需的動量方向。維持平衡、甚至稍微偏後的重心分配，能讓你在攻擊者把你的手臂拉過中線之前，迅速收回手臂並轉正肩膀。",
+    "answer_line": "前傾、手臂伸展",
+    "distractors": {
+     "plausible": [
+      "坐太後面太被動",
+      "太早轉正肩膀"
+     ],
+     "trap": [
+      "伸手越過對方中線"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "從 Triangle Control 出發的 Triangle Choke 主要攻擊哪些解剖構造？",
+   "answer": "Triangle Choke 主要透過雙側壓迫同時攻擊兩條頸動脈。鎖腿那條腿的大腿壓迫一條頸動脈，而小腿與對手自己被困住的手臂則壓迫另一條。這會形成血液勒（blood choke），阻斷腦部血流，在持續壓迫頸動脈 4-8 秒後就會讓對手失去意識。臂神經叢也可能受到次要壓迫。",
+   "safety_critical": false,
+   "answer_line": "同時壓迫兩條頸動脈",
+   "distractors": {
+    "plausible": [
+     "只壓迫遠側頸動脈",
+     "氣管加下巴"
+    ],
+    "trap": [
+     "扭轉頸部製造痛感逼降"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在完成最後的夾緊之前，把角度切到 30-45 度是必要的？",
+   "answer": "如果角度不對，大腿與小腿壓迫到的會是氣管而不是頸動脈，變成緩慢的氣道勒而非快速的血液勒。當角度達到 30-45 度、鎖腿那側的膝蓋指向被困住的肩膀時，壓迫的幾何線會同時對齊兩條頸動脈，形成有效的雙側阻斷，能更快、更可靠地逼對手拍降。",
+   "safety_critical": false,
+   "answer_line": "壓兩條頸動脈，而非氣管",
+   "distractors": {
+    "plausible": [
+     "縮短距離以鎖緊雙腿",
+     "阻止對手站起來"
+    ],
+    "trap": [
+     "保持正對，扭轉喉嚨"
+    ]
+   }
+  },
+  {
+   "question": "當你已經鎖好 triangle、對手開始挺直身體恢復 posture 時，該做什麼調整來防止他逃脫？",
+   "answer": "立刻用雙手加大向下拉他後腦的力道，同時提升髖部以維持壓迫角度。如果他儘管如此仍取得部分 posture，就轉換成 armbar：控制他被困住的手臂，把腿掃過他的臉。事實上，對手恢復 posture 的動作反而會暴露那隻手臂，讓你的防守轉換成下一波進攻機會。",
+   "safety_critical": false,
+   "answer_line": "拉頭向下，髖部上頂",
+   "distractors": {
+    "plausible": [
+     "推壓他的胸口",
+     "只單純加大雙腿夾緊力道"
+    ],
+    "trap": [
+     "打開雙腿，讓他恢復 posture"
+    ]
+   }
+  },
+  {
+   "question": "對手被困住的手臂在 Triangle Choke 的完成機制中扮演什麼角色？",
+   "answer": "被困住的手臂會變成一個從 triangle 內部加強頸動脈壓迫的內楔。當這隻手臂被斜向拉過對手自己的頸部、朝攻擊者對側的髖部方向時，前臂就會壓在鎖腿大腿沒有覆蓋到的那條頸動脈上。也就是說，對手自己的肢體反而會加入勒頸的壓力，讓這個 submission 明顯更緊，卻不需要額外加大腿部力量。",
+   "safety_critical": false,
+   "answer_line": "楔入遠側頸動脈",
+   "distractors": {
+    "plausible": [
+     "只是控制他的 posture",
+     "阻擋他的肩膀轉動"
+    ],
+    "trap": [
+     "把他的手臂推出鎖點"
+    ]
+   }
+  },
+  {
+   "question": "提升髖部如何改變 Triangle Choke 完成時的壓力動態？",
+   "answer": "提升髖部會把原本單純的水平夾緊，轉變成水平夾緊加上向下力向量的組合。攻擊者以上背作為支點把髖部向上頂，讓大腿與小腿向下壓入頸部，同時保持內夾。這會製造出相對的兩股力量——髖部向上頂、雙手把頭往下拉——從多個角度壓迫頸部，比起單純的平面夾緊，finishing 效果大約提升 40%。",
+   "safety_critical": false,
+   "answer_line": "頂起髖部，向下施壓",
+   "distractors": {
+    "plausible": [
+     "只增加雙腿夾緊力道",
+     "把勒頸角度加寬"
+    ],
+    "trap": [
+     "把髖部放平貼地"
+    ]
+   }
+  },
+  {
+   "question": "訓練夥伴在 Triangle Choke 中失去意識時會有哪些徵兆，你必須做什麼？",
+   "answer": "徵兆包括突然失去抵抗力或全身癱軟、膚色改變（臉部發紅或發紫）、發出咕嚕聲、眼球上翻，或任何不尋常的防守動作停止。你必須立刻鬆開 triangle：打開交叉的腳踝、移除所有腿部壓力、鬆開所有 grip。檢查對方的意識與呼吸，若已失去意識就讓他採復甦姿勢、抬高雙腿，並立刻通知教練。絕對不要假設對方還在抵抗——任何模稜兩可的訊號都要當作拍降處理。",
+   "safety_critical": true,
+   "answer_line": "夥伴癱軟：立刻鬆開",
+   "distractors": {
+    "plausible": [
+     "喊他的名字，繼續鎖著",
+     "稍微放鬆並繼續觀察"
+    ],
+    "trap": [
+     "維持勒頸以確認狀況"
+    ]
+   }
+  },
+  {
+   "question": "對手向前 stack 並開始把你的髖部抬離地面時，你要如何維持這個 finish 或做轉換？",
+   "answer": "首先用你的空手 underhook 對手遠側的腿，防止他完全把 stack 的壓力壓上來。同時把髖部往外滑動以維持勒頸角度。如果他儘管如此仍持續向前壓，就轉換成 omoplata：鬆開 triangle 鎖，把髖部從他手臂下方甩過去，控制他的肩膀。事實上，對手的 stack 動作反而會把他的體重帶到支點前方，幫助你完成 omoplata 的轉換。",
+   "safety_critical": false,
+   "answer_line": "Underhook 腿，髖部滑出",
+   "distractors": {
+    "plausible": [
+     "更用力拉頭",
+     "把他的髖部推回去"
+    ],
+    "trap": [
+     "任由他 stack，繼續鎖住 triangle"
+    ]
+   }
+  },
+  {
+   "question": "訓練夥伴對 Triangle Choke 拍降後，正確的釋放流程是什麼？",
+   "answer": "立刻打開交叉的腳踝，張開雙腿完全解除 triangle 的鎖定。把腿放回地面，移除對方頸部上所有壓力。鬆開你對頭部、手腕、衣領的所有 grip，讓對方能自由恢復 posture。檢查對方的意識與呼吸。如果對方顯得意識不清或差點失去意識，要給予充分的恢復時間再繼續訓練。拍降後絕對不能保留任何夾緊的壓力。",
+   "safety_critical": true,
+   "answer_line": "打開腳踝，鬆開所有 grip",
+   "distractors": {
+    "plausible": [
+     "先停頓一下再放開",
+     "鬆開 grip，但雙腿仍鎖著"
+    ],
+    "trap": [
+     "再多夾一下"
+    ]
+   }
+  },
+  {
+   "question": "為什麼持續漸進的壓迫比爆發式夾緊更能有效完成 Triangle Choke？",
+   "answer": "血液勒是靠持續阻斷動脈血流來生效——頸動脈必須連續受壓 4-8 秒才會讓對手失去意識。以最大力量爆發式夾緊會在 10-15 秒內讓腿部肌肉疲勞，之後夾緊力道就會減弱，讓對手撐過這波壓力。以 70-80% 力道漸進施壓則可以幾乎無限期維持，確保動脈持續受到阻斷。對手無法像撐過一次爆發那樣，撐過持續穩定的夾緊。",
+   "safety_critical": false,
+   "answer_line": "維持 70-80% 穩定夾緊",
+   "distractors": {
+    "plausible": [
+     "只在最後一刻才夾緊",
+     "只在對手移動時才收緊"
+    ],
+    "trap": [
+     "全力猛夾到力竭後失守"
+    ]
+   }
+  },
+  {
+   "question": "在比賽中，面對積極以 posture 和手部纏鬥防守的對手，該如何完成 triangle？",
+   "answer": "建立一套漸進收緊的程序：先在頸後高位鎖好 triangle，趕在對手恢復 posture 之前先切角度。用類似 overhook 的頭部控制來管理對手的 posture，而不是單純硬拉——那樣容易被對手抵抗掉。用二對一的手腕控制把被困住的手臂拉過來。如果對手抵抗這隻手，就利用這個手部纏鬥的瞬間把角度加深。如果對手開始逃脫，立刻連動到 armbar 或 omoplata，而不要把力氣耗在硬拚一個被對抗的 finish 上。比賽策略就是讓對手每一次防守反應都在這條 submission 鏈裡付出位置上的代價。",
+   "safety_critical": false,
+   "answer_line": "切角度，連動 armbar",
+   "distractors": {
+    "plausible": [
+     "硬用力量夾緊",
+     "耗時間等他手部纏鬥結束"
+    ],
+    "trap": [
+     "鬆開 triangle 重新來過"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "當你發現自己被困在從 Triangle Control 出發的 Triangle Choke 裡時，防守的首要目標是什麼？",
+   "answer": "最優先的目標是立刻恢復 posture——把脊椎挺直，在你的頸部與對手夾緊的雙腿之間製造空間。恢復 posture 能緩解直接的勒頸壓力，並為之後所有的逃脫技巧創造必要的垂直空間。如果不先恢復 posture 就嘗試抽手或其他逃脫方式，通常只會讓局勢更糟，因為那會給攻擊者空間去把鎖鎖得更緊。",
+   "safety_critical": false,
+   "answer_line": "先恢復 posture",
+   "distractors": {
+    "plausible": [
+     "先撬開雙腿",
+     "先把頭抽出來"
+    ],
+    "trap": [
+     "轉身，把背部交出去"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候應該對 Triangle Choke 拍降，而不是繼續防守？",
+   "answer": "只要你感受到雙側頸部壓力且無法透過 posture 或調整位置緩解，或是視野開始變暗、變窄，或是你感到頭暈、意識不清，或是你察覺到攻擊者已經取得完整角度、控制住手臂、抬高髖部，而你的 posture 已完全被破壞，就應該立刻拍降。在訓練中，提早拍降能保護你的安全，也讓你能重新開始，從更早的防守時機練習逃脫。讓自己失去意識沒有任何戰術上的價值。",
+   "safety_critical": true,
+   "answer_line": "壓力無法緩解就馬上拍",
+   "distractors": {
+    "plausible": [
+     "三次逃脫失敗後才拍",
+     "感覺到任何腿部壓力就拍"
+    ],
+    "trap": [
+     "撐過視野變灰的階段"
+    ]
+   }
+  },
+  {
+   "question": "為什麼把肩膀正對攻擊者的髖部是防守 Triangle Choke 的重要動作？",
+   "answer": "Triangle Choke 在攻擊者取得偏離你身體中線 30-45 度的角度時效果最好，這個角度能讓他的大腿與小腿同時對齊你的兩條頸動脈。把肩膀正對攻擊者的髖部，能消除這個角度，迫使壓迫落在喉嚨前方（氣管）而不是頸部兩側（頸動脈）。這會大幅降低血液勒的效率，為逃脫技巧爭取寶貴的時間。",
+   "safety_critical": false,
+   "answer_line": "消除角度，保護頸動脈",
+   "distractors": {
+    "plausible": [
+     "只是幫助你更好呼吸",
+     "讓勒頸更快變緊"
+    ],
+    "trap": [
+     "轉身把背部露出去"
+    ]
+   }
+  },
+  {
+   "question": "當攻擊者嘗試從 triangle 轉換成 armbar 時，你有哪些防守選項？",
+   "answer": "當攻擊者開始把腿甩過你的臉去做 armbar 轉換時，他必須先部分打開 triangle 的鎖，這就會創造出逃脫的空隙。你可以趁轉換過程中把頭抽出來、把體重向前 stack 以阻止那條腿越過你的頭，或是趁攻擊者的 grip 轉為控制你的手腕時，把先前被困住的手臂抽出來。這個轉換的瞬間通常是最好的逃脫時機，因為攻擊者為了換位置，暫時犧牲了 triangle 的緊度。",
+   "safety_critical": false,
+   "answer_line": "趁轉換時把頭抽出",
+   "distractors": {
+    "plausible": [
+     "保持不動，等他重新鎖好",
+     "抓住自己的腰帶等待"
+    ],
+    "trap": [
+     "放鬆，讓那條腿掃過去"
+    ]
+   }
+  },
+  {
+   "question": "Stack 防守如何對抗 Triangle Choke，主要風險又是什麼？",
+   "answer": "Stack 防守是把你的體重向前壓在攻擊者身上，把他的髖部抬高到肩膀的位置，壓縮他的身體，讓勒頸角度崩潰。這股向前的壓力會減少攻擊者伸展髖部、加大夾緊的空間。主要的風險在於：把體重向前投入會讓你暴露在 omoplata 轉換之下——攻擊者可以鬆開 triangle，把髖部甩過去，攻擊你的肩膀。為降低這個風險，在 stack 的同時要用空手控制攻擊者遠側的髖部。",
+   "safety_critical": false,
+   "answer_line": "壓入體重；小心 omoplata",
+   "distractors": {
+    "plausible": [
+     "沒有風險的安全壓法",
+     "後退以減輕勒頸"
+    ],
+    "trap": [
+     "壓入的同時轉身露背"
+    ]
+   }
+  }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Triangle Choke/from Triangle Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

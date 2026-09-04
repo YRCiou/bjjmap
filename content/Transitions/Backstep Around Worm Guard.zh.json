@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "backstep around worm guard 的主要目標是什麼？",
+    "answer": "主要目標是透過改變你的passing方向，從向前施壓轉為旋轉移動，來繞過 worm guard 造成的 lapel 屏障。與其硬拚穿過這個機械性的阻礙，不如將你被纏住的腿向後旋轉，繞著對方的guard結構移動，最終到達 turtle 或 side control。",
+    "answer_line": "旋轉腿部，繞行至turtle/side",
+    "distractors": {
+     "plausible": [
+      "向前推穿過纏繞",
+      "把被纏住的腿直接拉出"
+     ],
+     "trap": [
+      "放開grip來鬆開你的腿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把被纏住的腿向前拉出 worm guard 會失敗？",
+    "answer": "纏繞在你腿上的 lapel 會形成一種機械性屏障，你越往前拉，它就束得越緊。布料會卡緊你的膝關節，讓抽出動作變得非常吃力，通常也不會成功。backstep 則是反其道而行，順著纏繞的方向移動，而不是與之對抗。",
+    "answer_line": "越拉纏繞就束得越緊",
+    "distractors": {
+     "plausible": [
+      "布料靠速度就能滑開",
+      "膝蓋角度擋住了向前拉"
+     ],
+     "trap": [
+      "用力扯斷纏繞"
+     ]
+    }
+   },
+   {
+    "question": "在開始 backstep 之前，你必須先建立哪些grip？",
+    "answer": "你需要用前手建立cross-collar grip，後手則控制對方遠側的sleeve。這些grip能把對手固定住，避免他們跟著你的旋轉移動，並在轉換過程中嘗試back take。少了這些控制，backstep 會讓你的背部完全暴露。",
+    "answer_line": "cross-collar加遠側sleeve grip",
+    "distractors": {
+     "plausible": [
+      "同側的collar和sleeve",
+      "只用two-on-one sleeve control"
+     ],
+     "trap": [
+      "用underhook取代grip"
+     ]
+    }
+   },
+   {
+    "question": "當你開始backstep時，對手突然猛烈坐起——你該如何調整？",
+    "answer": "立刻加大肩部壓力並sprawl你的髖部，把對方壓平回地面。如果他們已經明顯抬高身體，就放棄backstep，改為轉換到front headlock control。若在對手已坐起的情況下繼續backstep，等於是把你的背部雙手奉上。",
+    "answer_line": "sprawl壓平，或改採headlock",
+    "distractors": {
+     "plausible": [
+      "硬推完成backstep",
+      "坐起來對齊對方髖部"
+     ],
+     "trap": [
+      "放鬆壓力來重新調整"
+     ]
+    }
+   },
+   {
+    "question": "backstep最危險的counter是什麼？該如何預防？",
+    "answer": "坐起式back take是命中率最高的counter。對手會放開worm guard的grip，跟著你的旋轉去取得back control。要預防這一點，必須在整個backstep動作過程中持續維持沉重的肩部壓力——絕不能把體重從對方軀幹上移開。",
+    "answer_line": "坐起式back take，保持沉重",
+    "distractors": {
+     "plausible": [
+      "guard replacement掃技",
+      "squid guard的grip轉換"
+     ],
+     "trap": [
+      "抬起體重以加快旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在對手的worm guard遊戲中，什麼時機是嘗試backstep的最佳窗口？",
+    "answer": "最佳時機是對手已經投入維持worm guard結構，但尚未準備發動掃技或back take之類的進攻動作。如果他們專注於保持纏繞緊繃而非進攻，他們就比較沒有準備好跟隨你的旋轉。",
+    "answer_line": "當他們就位而非進攻時",
+    "distractors": {
+     "plausible": [
+      "剛鎖緊纏繞之後立刻",
+      "當他們準備發動掃技時"
+     ],
+     "trap": [
+      "等他們先進攻"
+     ]
+    }
+   },
+   {
+    "question": "你的髖部高度如何影響backstep的成功率？",
+    "answer": "整個動作過程中保持較低的髖部位置，能大幅提高成功率。過高的髖部在轉換過程中容易被掃倒，也會降低肩部壓力的效果。你的髖部應該在整個旋轉過程中維持在肩部以下，以保持base和控制。",
+    "answer_line": "全程保持髖部低位",
+    "distractors": {
+     "plausible": [
+      "抬高髖部以加快旋轉",
+      "配合對手的髖部高度"
+     ],
+     "trap": [
+      "站高一點來清開腿部"
+     ]
+    }
+   },
+   {
+    "question": "當你開始backstep時，對手把lapel改向你的支撐手臂——什麼調整能維持你的passing壓力？",
+    "answer": "在整個backstep過程中，讓你支撐手臂的手肘緊貼身體。如果他們成功用squid guard的方式擒住你的手臂，立刻停止backstep，先處理這個新的guard變化再繼續。試圖硬穿squid guard完成passing通常會失敗。",
+    "answer_line": "夾緊手肘，遇squid guard則停",
+    "distractors": {
+     "plausible": [
+      "快速穿過squid guard",
+      "解放手臂繼續旋轉"
+     ],
+     "trap": [
+      "把手臂從lapel中扯出"
+     ]
+    }
+   },
+   {
+    "question": "為什麼清開guard後立刻穩固位置如此重要？",
+    "answer": "backstep會製造一個過渡時刻，此時雙方都尚未建立位置。清開lapel後若稍作停頓，會讓對手有時間重新guard、有效turtle起來，或啟動scramble。把backstep和位置穩固視為同一個連續動作，能在對手恢復之前就關閉這個窗口。",
+    "answer_line": "立即穩固，不要停頓",
+    "distractors": {
+     "plausible": [
+      "推進前先重整base",
+      "移動前先確保grip"
+     ],
+     "trap": [
+      "停下來慶祝清開guard"
+     ]
+    }
+   },
+   {
+    "question": "面對坐起式back take能力極強的對手，你該如何調整backstep？",
+    "answer": "使用long step變化版——在繞行到主導位置之前，先向對方後方跨出更大的一步。這能在轉換過程中創造最大的距離，讓對手更難跟隨你的旋轉。代價是需要更快速地完成穩固，以防止對手重新guard。",
+    "answer_line": "用long step創造最大距離",
+    "distractors": {
+     "plausible": [
+      "用短碎步加快速度",
+      "原地做雙重backstep"
+     ],
+     "trap": [
+      "貼近以更快取得控制"
+     ]
+    }
+   },
+   {
+    "question": "當你清開lapel屏障時，對手插入了butterfly hook——正確的回應是什麼？",
+    "answer": "不要繼續繞行到turtle。應立刻處理butterfly hook，把髖部沉重地壓在對方大腿上，在對手能發動掃技之前先把hook壓平。或者，繼續backstep到leg drag位置，把對方遠側的腿壓制橫過你身體，徹底瓦解butterfly結構。",
+    "answer_line": "壓平hook或以leg drag壓制",
+    "distractors": {
+     "plausible": [
+      "繼續繞行到turtle",
+      "坐回去破壞hook"
+     ],
+     "trap": [
+      "站起來避開hook"
+     ]
+    }
+   },
+   {
+    "question": "backstep成功後，什麼因素決定你要穩固到turtle control還是side control？",
+    "answer": "取決於backstep過程中對手的反應。如果你的肩部壓力讓他們轉向膝蓋，就用seatbelt grip穩固turtle，朝back control發展。如果他們維持仰躺、抵抗轉身，就直接用crossface和髖部壓力passing到side control。要根據對手的身體位置來判斷，而不是預先設定目的地。",
+    "answer_line": "依反應判斷：膝蓋或仰躺",
+    "distractors": {
+     "plausible": [
+      "永遠以turtle收尾",
+      "永遠以side control收尾"
+     ],
+     "trap": [
+      "無論反應如何都強行turtle"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將對你的worm guard嘗試backstep，最早的辨識線索是什麼？",
+    "answer": "最早的線索是對手把重心後移到後腳，同時建立cross-collar grip和遠側sleeve grip。這代表他們正在把你固定住，準備啟動旋轉移動。感覺到他們被纏住的腿開始向外旋轉而非向前拉，就能確認backstep即將發生。",
+    "answer_line": "重心後移，grip就位",
+    "distractors": {
+     "plausible": [
+      "腿部用力向前拉",
+      "髖部貼平地面"
+     ],
+     "trap": [
+      "突然放開lapel"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須快速在坐起式back take和lapel重新配置之間做出選擇，而不是等著看情況發展？",
+    "answer": "這兩個防守窗口都極其狹窄，而且互相排斥。坐起需要放開你的worm guard grip，而重新配置則需要保持它。兩者都試會導致坐起被擋下，同時lapel grip也被破壞。在第一秒內果斷投入，才能讓任一策略取得最高成功機率。",
+    "answer_line": "快速決定，兩者互斥",
+    "distractors": {
+     "plausible": [
+      "混合兩者以取得最佳機率",
+      "等著看情況如何發展"
+     ],
+     "trap": [
+      "邊試坐起邊保持grip"
+     ]
+    }
+   },
+   {
+    "question": "對手用沉重的肩部壓力把你壓平，同時開始backstep——你最好的防守策略是什麼？",
+    "answer": "專注於lapel重新配置，而不是坐起。用你的空手控制對方遠側sleeve，同時朝他們旋轉的方向做hip escape。把lapel穿得更深，或改向對方的支撐手臂轉為squid guard。沉重的肩部壓力讓坐起幾乎不可能，因此在guard系統內操作而非硬扛壓力，是命中率更高的選擇。",
+    "answer_line": "重新配置lapel，而非坐起",
+    "distractors": {
+     "plausible": [
+      "頂著壓力硬坐起來",
+      "用力bridge製造空間"
+     ],
+     "trap": [
+      "在壓力下硬撐坐起"
+     ]
+    }
+   },
+   {
+    "question": "backstep成功，你的worm guard已被清開——什麼即時動作能避免最糟的結果？",
+    "answer": "立刻轉向膝蓋，進入緊實的turtle姿勢，而不是繼續仰躺。turtle位置比起被side control壓平要更容易恢復——你仍保有透過granby roll、sit-through和站起的guard恢復選項。仰躺不動會讓對手輕鬆建立crossface和髖部壓力，讓escape的難度呈倍數增加。",
+    "answer_line": "轉向膝蓋，緊實turtle",
+    "distractors": {
+     "plausible": [
+      "保持仰躺並frame",
+      "翻身回到仰躺以恢復"
+     ],
+     "trap": [
+      "維持仰躺，等待空間"
+     ]
+    }
+   },
+   {
+    "question": "你該如何調整worm guard的grip，讓backstep一開始就更難執行？",
+    "answer": "維持積極的同側sleeve control，限制對手旋轉被纏住的腿的能力。如果他們無法解放遠側手臂來建立backstep所需的cross-collar grip，這個技巧就會變得非常難以啟動。此外，讓你的髖部保持角度而非平貼地面，即使他們不顧你的grip fighting仍嘗試旋轉，也能讓你更快坐起。",
+    "answer_line": "同側sleeve grip，髖部保持角度",
+    "distractors": {
+     "plausible": [
+      "對稱抓住雙側sleeve",
+      "放平髖部以求穩定"
+     ],
+     "trap": [
+      "放開sleeve以解放你的腿"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep Around Worm Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

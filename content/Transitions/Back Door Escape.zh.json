@@ -1,0 +1,223 @@
+{
+ "attacker": { "flashcards": [
+  {
+   "question": "Back Door Escape 的主要目標是什麼？",
+   "answer": "主要目標是透過攻擊者絞技手臂後方的空隙向後移動，逃出 Darce Choke，消除絞技角度，並回到像 open guard 或 turtle 這種可防守的位置。這個逃脫方式利用了 Darce control 的一個弱點：當防守者朝攻擊者的背後方向移動，而不是遠離他時，控制結構就會出現破綻。",
+   "answer_line": "從絞技手臂後方脫出",
+   "distractors": {
+    "plausible": [
+     "把被困的手臂直接抽出",
+     "朝遠離攻擊者的方向拉開"
+    ],
+    "trap": [
+     "轉身離開並嘗試站起來"
+    ]
+   }
+  },
+  {
+   "question": "Back Door Escape 是從什麼位置開始的？",
+   "answer": "這個技術從 Darce Control Bottom 開始，此時攻擊者已經建立好 arm-in 絞技配置，手臂穿過你的腋下並繞住你的脖子。當攻擊者的體重全力向前投入、且他控制手臂後方出現空間時，就是執行這個逃脫的時機。",
+   "answer_line": "Darce Control Bottom",
+   "distractors": {
+    "plausible": [
+     "Guillotine Control Bottom",
+     "Kimura Control Bottom"
+    ],
+    "trap": [
+     "已經被完全鎖死的 full mount"
+    ]
+   }
+  },
+  {
+   "question": "執行 Back Door Escape 需要什麼關鍵的握把與 frame？",
+   "answer": "主要的 frame 是用你沒被困在絞技裡的那隻自由手，穩穩地放在攻擊者靠近你這側的髖部上。這個 frame 能製造出產生旋轉動能所需要的推力。這裡不需要特定的握把——自由手做的是 frame 而不是抓握，才能保持推動的動作。被困的那隻手臂則在頭部完全抽出之前保持被動。",
+   "answer_line": "自由手 frame 在近側髖部",
+   "distractors": {
+    "plausible": [
+     "抓住攻擊者遠側的手腕",
+     "推蹬攻擊者遠側的膝蓋"
+    ],
+    "trap": [
+     "抓住自己被絞的那隻手臂"
+    ]
+   }
+  },
+  {
+   "question": "身為攻擊者，該如何反制 Back Door Escape？",
+   "answer": "身為攻擊者，反制方式是把髖部向後走位，封閉你手臂後方的空隙，同時把體重壓平以阻止旋轉，並在防守者開始脫逃時轉換握把。如果他成功穿過去，因為他逃脫的方向正好朝你身體靠近，應立即轉換成 back control。",
+   "answer_line": "髖部後走，壓平體重",
+   "distractors": {
+    "plausible": [
+     "現在把絞技收得更緊",
+     "坐回去拉 guard"
+    ],
+    "trap": [
+     "放開握把站起來"
+    ]
+   }
+  },
+  {
+   "question": "嘗試 Back Door Escape 的最佳時機是什麼時候？",
+   "answer": "最佳時機是攻擊者把體重全力向前投入以完成絞技、在他的控制手臂後方出現空隙、但絞技還沒完全鎖死的時候。應該在察覺到像抽臂這類主要逃脫方式已被封死之後，再嘗試這個逃脫。太早嘗試會浪費這個機會，太晚嘗試則有可能讓危險的絞技收得更緊。",
+   "answer_line": "趁攻擊者體重全力向前時",
+   "distractors": {
+    "plausible": [
+     "絞技剛鎖上的瞬間",
+     "握把一穩固就馬上做"
+    ],
+    "trap": [
+     "只在絞技收緊之後才做"
+    ]
+   }
+  },
+  {
+   "question": "你開始逃脫時，對手把 Darce 收得更緊——你該繼續嗎？",
+   "answer": "如果在你嘗試逃脫的過程中，絞技明顯收緊，要立刻重新評估情況。一個做到一半、卡住不動的 back door，會讓你陷入比起始狀態更糟的位置。如果你無法在 2 到 3 秒內完成旋轉與頭部抽出，就該放棄這次嘗試，改回抽臂防守，或是在絞技危險地收緊時直接拍地。",
+   "answer_line": "卡住 2-3 秒就中止",
+   "distractors": {
+    "plausible": [
+     "等他握把握累",
+     "用雙手把他的頭推開"
+    ],
+    "trap": [
+     "翻身仰躺爭取空間"
+    ]
+   }
+  },
+  {
+   "question": "成功逃脫所需要的旋轉，是靠什麼樣的身體力學產生的？",
+   "answer": "旋轉的力量來自你用自由手推蹬攻擊者的髖部，同時把肩膀轉向他（而不是轉離他）。你的頭部帶動整個旋轉，收下巴並穿過空隙。髖部推力與肩膀轉動兩者結合，會產生扭力，讓你的身體螺旋式地穿過 back door 的開口。",
+   "answer_line": "推髖部，肩膀內轉",
+   "distractors": {
+    "plausible": [
+     "把頭往後拉，拱起脊椎",
+     "肩膀轉離對手，坐起來"
+    ],
+    "trap": [
+     "推蹬攻擊者的肩膀"
+    ]
+   }
+  },
+  {
+   "question": "如何把 Back Door Escape 與後續的 guard 回收銜接起來？",
+   "answer": "當你的頭部脫離、手臂抽出後，要延續旋轉的動能，在攻擊者能重新調整之前建立起 frame。如果是逃到 turtle，要立刻夾緊手肘，開始標準的 turtle 防守。如果是旋轉到 open guard，要用自由手撐地，坐起身並把雙腳頂在對手髖部上。逃脫完成與建立 guard 之間絕不能有停頓——這個轉換必須連貫不中斷。",
+   "answer_line": "一氣呵成接上 frame",
+   "distractors": {
+    "plausible": [
+     "先停下來確認位置",
+     "先站起來再做 frame"
+    ],
+    "trap": [
+     "停下來在下位休息"
+    ]
+   }
+  },
+  {
+   "question": "什麼情況下 Back Door Escape 會比抽臂逃脫更值得優先選用？",
+   "answer": "當抽臂逃脫的路被封死時，Back Door Escape 就成為優先選項——具體來說，就是攻擊者持續用二頭肌對著你的脖子施加向內壓力、手肘壓過你的脊椎，或是把你壓平、讓你沒有空間做抽臂。back door 利用的是相反的弱點：當攻擊者專注於阻止手臂橫向逃脫時，他對向後方向的移動反而防守薄弱。",
+   "answer_line": "抽臂逃脫被封死時",
+   "distractors": {
+    "plausible": [
+     "只要感覺絞技鬆了就做",
+     "只要對手累了隨時可做"
+    ],
+    "trap": [
+     "被壓平、完全沒空間時"
+    ]
+   }
+  },
+  {
+   "question": "攻擊者的髖部位置如何決定 Back Door Escape 是否可行？",
+   "answer": "如果攻擊者的髖部與你的脊椎呈垂直（在側邊），back door 的空隙會比較大，逃脫就可行。如果他把髖部直接放在你身後、體重壓得很低，空隙就會封閉，back door 幾乎不可能執行。訓練時要培養透過身上壓力分布來判讀對方髖部位置的敏感度，才能選出正確的逃脫方式。",
+   "answer_line": "髖部垂直=空隙打開",
+   "distractors": {
+    "plausible": [
+     "髖部在身後=逃脫更容易",
+     "髖部位置不重要"
+    ],
+    "trap": [
+     "等髖部壓低又在身後時再做"
+    ]
+   }
+  }
+ ]},
+ "defender": { "flashcards": [
+  {
+   "question": "最早能辨識出對手是在嘗試 Back Door Escape 而不是抽臂逃脫的線索是什麼？",
+   "answer": "最早的線索是防守者把自由手放在你靠近他那側的髖部上做 frame，同時把肩膀轉向你，而不是把被困的手臂橫向拉出。這種髖部 frame 加上肩膀內轉的組合，是 back door 佈局特有的，和抽臂逃脫不同——抽臂逃脫時防守者會把手臂拉過身體並轉身離開你。",
+   "answer_line": "髖部 frame 加肩膀內轉",
+   "distractors": {
+    "plausible": [
+     "把被困的手臂橫向拉出",
+     "頭猛然轉離你"
+    ],
+    "trap": [
+     "突然爆發性地 bridge"
+    ]
+   }
+  },
+  {
+   "question": "對手開始用強力的髖部 frame 朝你旋轉——你的首要防守重點是什麼？",
+   "answer": "你的首要重點是封閉你絞技手臂後方的空隙，做法是把髖部向後走位，並把手肘緊緊壓向自己的髖部。這必須在防守者的頭部能穿過那個空隙之前完成。同時，加大向下的胸口壓力把他壓平，消除他旋轉所需要的底盤。不要把注意力放在收緊絞技上——要先處理位置上的逃脫。",
+   "answer_line": "封閉空隙，壓平對方髖部",
+   "distractors": {
+    "plausible": [
+     "現在把絞技收得更緊",
+     "換成另一種絞技"
+    ],
+    "trap": [
+     "讓他旋轉，繼續追絞技"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候該放棄 Darce 握把、轉換到 north-south，而不是硬撐著維持絞技？",
+   "answer": "當防守者的頭部已經開始脫離你的絞技手臂、而你又無法封閉空隙時，就該放棄 Darce 轉換到 north-south。這個時候，絞技結構已經被破壞，繼續收緊只是浪費體力，防守者仍會完成逃脫。與其被動失去所有位置優勢，主動放開並 sprawl 到 north-south，能把一次失敗的降伏轉換成頂位的主導控制。",
+   "answer_line": "頭已脫離、空隙封不住時",
+   "distractors": {
+    "plausible": [
+     "只在絞技完全完成後才放",
+     "絕不放，永遠繼續收緊"
+    ],
+    "trap": [
+     "追著絞技直到對方拍地"
+    ]
+   }
+  },
+  {
+   "question": "在整個 Darce control 過程中，你的髖部位置如何能預先阻止 Back Door Escape？",
+   "answer": "在整個 Darce control 過程中，讓髖部保持低位並緊貼防守者身體，能消除你手肘與髖部之間 back door 所需要的空隙。你的髖部應該貼近你自己絞技的那隻手肘，讓防守者完全沒有物理空間可以把頭穿過去。這種預防性的位置調整，遠比等逃脫已經開始才反應更有效，因為一旦防守者建立起髖部 frame 並開始旋轉，要再封閉空隙就會變成一場你可能輸掉的競賽。",
+   "answer_line": "髖部隨時保持低位貼緊",
+   "distractors": {
+    "plausible": [
+     "只在他們逃脫時才調整髖部",
+     "手肘保持遠離髖部"
+    ],
+    "trap": [
+     "把髖部撐高求底盤"
+    ]
+   }
+  },
+  {
+   "question": "對手的 Back Door Escape 部分成功，脫出到 turtle——你該如何把握機會？",
+   "answer": "當防守者透過 back door 脫出到 turtle 時，立刻放開 Darce 握把，轉換成 turtle 上位的進攻。在他完成 guard 回收之前，先在他上半身建立 seat belt 或 harness 控制。防守者逃脫的方向自然會讓他靠近你的身體，這其實對你拿背後很有利。插入靠近那側的 hook，同時把胸口壓力壓在他上背部，阻止他做出能完成逃脫到 guard 的站起或 granby roll。",
+   "answer_line": "放開握把，進攻背後",
+   "distractors": {
+    "plausible": [
+     "繼續收緊原本的絞技",
+     "讓他自由站起來"
+    ],
+    "trap": [
+     "改追腳鎖"
+    ]
+   }
+  }
+ ]},
+ "_meta": {
+  "source": "content/Transitions/Back Door Escape.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

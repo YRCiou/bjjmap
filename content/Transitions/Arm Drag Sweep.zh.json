@@ -1,0 +1,213 @@
+{
+ "attacker": {
+ "flashcards": [
+  {
+   "question": "為什麼建立 45 度的髖部角度對 arm drag sweep 的效果如此重要？",
+   "answer": "45 度的髖部角度有多個關鍵作用：它讓你離開對手正前方，使對手無法用空手和雙腳直接向前撐地；它開始暴露對手的背部，創造 sweep 與 back take 的雙重威脅；它讓你能產生旋轉力，加乘 arm drag 本身的破勢效果；它也創造出一種機械優勢，讓你整個身體協同運作，而不只是靠手臂拉扯。沒有這個角度，你就是在正面對抗對手最強的防禦結構。",
+   "answer_line": "讓你離開對手正前方",
+   "distractors": {
+    "plausible": [
+     "只是增加拉力而已",
+     "為 collar choke 對好角度"
+    ],
+    "trap": [
+     "髖部保持正對對手底盤"
+    ]
+   }
+  },
+  {
+   "question": "什麼是判斷該轉換成 back control，而不是完成 sweep 的主要訊號？",
+   "answer": "主要訊號是對手用空手撐地來阻止 sweep。這個撐地動作雖然是在防守 sweep，卻在他們背部暴露的那一側製造出空間，也代表對手把心力放在阻止 sweep，而不是防守自己的背。看到這個撐地動作時，立刻放棄 sweep，把內側手臂繞過對手腰部，建立 back control 的第一個 hook。次要訊號包括對手的髖部轉開、上半身旋轉暴露背部，或體重大量轉移到那隻撐地的手臂上。",
+   "answer_line": "對手撐地阻止 sweep",
+   "distractors": {
+    "plausible": [
+     "對手的髖部先轉開",
+     "對手把體重轉移到撐地那隻手"
+    ],
+    "trap": [
+     "對手緊緊抓住你的 collar"
+    ]
+   }
+  },
+  {
+   "question": "對手在 closed guard 內用雙手控制你的髖部，維持強而挺直的 posture，你該如何創造出 arm drag sweep 的條件？",
+   "answer": "當對手用雙手控制你的髖部並維持強勢 posture 時，你必須先破壞這個結構，arm drag 才會可行。用雙腳的腳跟壓力把對手拉向前、壓進他們的下背，同時用 two-on-one grip break 把其中一隻手從你的髖部拉開。一旦有一隻手被釋放，立刻建立手腕控制，並開始威脅 hip bump sweep，逼對手把一隻手撐向前方。那隻撐地的手就成為你 arm drag 的目標。關鍵在於先製造一個威脅，引出 arm drag 所需的向前重心轉移。",
+   "answer_line": "用 hip bump 的威脅引出撐地",
+   "distractors": {
+    "plausible": [
+     "一次把雙手都從髖部拉開",
+     "先 underhook 再拉手臂"
+    ],
+    "trap": [
+     "先把對手的頭往下拉"
+    ]
+   }
+  },
+  {
+   "question": "在 arm drag 過程中，哪種具體抓握配置能給你最大的控制力，為什麼每隻手各有不同功能？",
+   "answer": "同側手（右手抓對手右手腕）負責控制方向，防止手臂回到撐地位置，它把手臂橫向拉過對手的中線。另一隻手（左手抓對手的 tricep、lat 或肩膀）提供推力，把手臂深深推過對手髖部，並防止對手把手肘拉回去。這兩個抓握形成一個推拉機制：手腕的手負責改變方向，上臂的手負責製造深度。沒有第二個抓握，對手可以直接把手肘收回並恢復；沒有第一個抓握，你就無法控制 drag 的方向。",
+   "answer_line": "手腕拉，tricep 手推深",
+   "distractors": {
+    "plausible": [
+     "只用 cross-grip 抓遠端手腕",
+     "推手腕，拉 tricep"
+    ],
+    "trap": [
+     "抓 collar 來控制角度"
+    ]
+   }
+  },
+  {
+   "question": "在 drag 過程中應該把手臂拉多深，這個深度為什麼重要？",
+   "answer": "你應該把手臂拉到對手的手碰到或越過另一側的髖部，就像把手放進對側口袋一樣深。這個深度非常關鍵，因為它能最大化對對手上半身的旋轉力，防止對手單純把手臂拉回去恢復，讓對手無法用那隻手臂撐出任何有用的角度，並對對手的底盤造成最大程度的結構破壞。太淺的 arm drag，只把手臂拉過胸口，很容易被防守，因為對手可以把手肘繞回去恢復撐地位置。",
+   "answer_line": "把手拉過對手對側髖部",
+   "distractors": {
+    "plausible": [
+     "把手拉過對手胸口",
+     "手肘一過中線就停止"
+    ],
+    "trap": [
+     "把手臂往對手頭部方向拉"
+    ]
+   }
+  },
+  {
+   "question": "在 arm drag sweep 中，雙腳扮演什麼角色，這與純粹的 arm drag 拿 back take 有什麼不同？",
+   "answer": "在 arm drag sweep 中，雙腳提供主要的掃翻力量（約占總力量的 60-70%），並與 arm drag 協同運作。依照 guard 種類不同：closed guard 用雙腳做剪刀動作，butterfly hooks 負責抬升，seated guard 的雙腳負責阻擋與掃翻。這種主動的雙腳參與，正是 sweep 與 back take 的差別所在。在純粹的 arm drag 拿 back take 中，雙腳主要維持 guard 結構，幫助你起身，但不會產生掃翻力量。sweep 需要更強的髖部與雙腳出力，才能真正破勢並掀翻對手，而 back take 則更著重於爬到對手身後並建立位置。",
+   "answer_line": "雙腳提供大部分的掃翻力",
+   "distractors": {
+    "plausible": [
+     "雙腳只是維持 guard 形狀",
+     "只靠手臂就能產生掃翻力"
+    ],
+    "trap": [
+     "蹬腳站起來做 pass"
+    ]
+   }
+  },
+  {
+   "question": "對手在執行過程中把手臂抽出，並立刻積極挺直 posture，這時有哪些連環攻擊可以使用？",
+   "answer": "當對手抽手並挺直 posture 時，他們手臂的抬升與重心向後轉移會暴露出幾個立即可用的機會。他們抬起的手臂會創造出天然的 triangle 進入角度，只要你能控制對側的 sleeve 並把髖部頂起來。他們積極向後的 posture 讓 hip bump sweep 變得可行，因為他們的重心已經向後投入。如果對手是橫向抽手，就改攻擊他們的對側手臂，用 kimura 或對側 arm drag。核心原則是：對手為了防守一個攻擊而做出的動作，必然會打開其他弱點，你應該順勢流向那些機會，而不是硬吃原本的技巧。",
+   "answer_line": "接 triangle、hip bump 或 kimura",
+   "distractors": {
+    "plausible": [
+     "重新抓握，重來一次 drag",
+     "改成 double leg takedown"
+    ],
+    "trap": [
+     "追著手臂拉回身體"
+    ]
+   }
+  },
+  {
+   "question": "為什麼髖部動作與 arm drag 必須同步進行，這對技巧的成功為何如此關鍵？",
+   "answer": "同步時機非常關鍵，因為這兩個動作能協同運作，產生最大的破勢效果。如果你先拉手臂，對手會感覺到威脅，能在你創造出角度之前先穩住底盤或把手臂拉回去。如果你先移動髖部而沒有同時拉手臂，對手可以直接用你想拉的那隻手臂撐地，維持底盤。當兩者同步進行時，對手必須同時應付兩個結構性難題：手臂被拉離撐地位置，以及平衡因為你的角度移動而被破壞。這種複合效果比單獨執行任一動作都難防守得多。",
+   "answer_line": "髖部與 arm drag 必須同步",
+   "distractors": {
+    "plausible": [
+     "先拉手臂，再移動髖部",
+     "先調角度，再拉手臂"
+    ],
+    "trap": [
+     "拉完之後停頓一下重新開始"
+    ]
+   }
+  },
+  {
+   "question": "對手察覺到 arm drag 的設置，立刻繃緊手臂並拉寬底盤，你該如何調整？",
+   "answer": "繃緊的手臂配上寬底盤，是一種靜態、耗費體力的防禦姿態，可以透過時機與誤導來利用。首先，把對手的抵抗反過來利用，改換威脅：假動作做 arm drag，利用對手的防守投入去攻擊另一側，用 hip bump sweep 或 collar drag。或者，用推拉序列——先推對手的手臂引出拉回的反應，再順著那股拉力做 arm drag。你也可以直接用 two-on-one 的手腕甩動來攻擊那隻繃緊的手臂，破壞它的僵硬結構，或是單純等對手放鬆防禦張力時，趁對手重新調整時出手。",
+   "answer_line": "假動作接 hip bump sweep",
+   "distractors": {
+    "plausible": [
+     "先拉手臂，再推",
+     "用 two-on-one 抓對手空手手腕"
+    ],
+    "trap": [
+     "潛下去做 single leg"
+    ]
+   }
+  },
+  {
+   "question": "在 guard opening 的過程中，哪個具體時機是 arm drag sweep 最有效的時候，為什麼？",
+   "answer": "當對手投入一隻手或雙手開始執行 guard opening 動作時，例如把手放在你的髖部或伸手抓你的膝蓋準備 standing break，arm drag sweep 最為有效。在這個時刻，對手的手臂正忙著執行 pass 目標，而不是撐地防守，他們的注意力也放在進攻而非防守 sweep 上。對手的手放在你身上，也讓那隻手臂進入理想的 drag 範圍內。此外，許多 passer 在開始開 guard 時會有輕微的向前重心轉移，這正好提供你放大 drag 破勢效果所需的動量。",
+   "answer_line": "對手伸手要開你的 guard 時",
+   "distractors": {
+    "plausible": [
+     "剛建立抓握的那一刻",
+     "對手站起來準備 pass 之後"
+    ],
+    "trap": [
+     "對手底盤穩固方正的時候"
+    ]
+   }
+  }
+ ]
+ },
+ "defender": {
+ "flashcards": [
+  {
+   "question": "為什麼在 arm drag sweep 中，用空手撐地阻止 sweep 常常反而適得其反？",
+   "answer": "arm drag sweep 是一個雙重威脅技巧，攻擊者要嘛拿 sweep，要嘛拿 back control。當你用空手撐地時，你阻止了 sweep，但同時在你背部暴露的那一側製造出空間，並讓你剩下那隻撐地的手固定在墊子上不能動。攻擊者會把這個撐地動作解讀為放棄 sweep、轉換成 back control 的訊號，繞過那隻撐地的手建立 hook。用一個防守動作解決了 sweep 卻送出背部，是一筆淨虧損的交換，因為 back control 比 sweep 原本能達成的 side control 或 mount 更具支配力。",
+   "answer_line": "撐地阻止 sweep 卻送出背部",
+   "distractors": {
+    "plausible": [
+     "撐地能完全化解攻擊",
+     "撐地只是有 sweep 的風險"
+    ],
+    "trap": [
+     "撐地並轉身把背藏起來"
+    ]
+   }
+  },
+  {
+   "question": "能最早察覺 arm drag sweep 正在啟動的訊號是什麼，緊接著該做出什麼防禦動作？",
+   "answer": "最早的訊號是同側手腕的抓握收緊，同時對手的另一隻手伸向你的 tricep 或 lat 部位。這種雙重抓握的設置很有特徵，因為一般的 guard 攻擊通常使用跨身或以 collar 為主的抓握，而不是同側手腕加對側上臂。一旦你感覺到這個特定抓握配置正在形成，立刻把手肘用力收回肋骨，同時把 posture 挺直、重心置中。在抓握建立階段就提早介入，能防止 drag 累積出執行所需的動量。",
+   "answer_line": "感覺手腕加 tricep 抓握就收手",
+   "distractors": {
+    "plausible": [
+     "等到髖部角度出現再反應",
+     "等手臂過胸口再反應"
+    ],
+    "trap": [
+     "反手抓一個深 collar grip"
+    ]
+   }
+  },
+  {
+   "question": "對手已經把你的手臂拉過去，你感覺到平衡開始崩潰，正確的緊急應對是什麼？",
+   "answer": "當 drag 已經拉得很深、你的平衡已經受到影響時，你的優先順序要從救回手臂轉向保護背部。用力把髖部朝 drag 方向繞轉，把胸口壓向對手，而不是遠離對手。這個向前繞轉的動作能縮小背部暴露的角度，並可能重新讓你的髖部與對手對齊。同時，用你的空手在對手的髖部或肩膀上做 frame（而不是撐在墊子上），製造髖部繞轉所需的空間。要接受你可能會陷入 scramble，或暫時落入更差的 guard 位置，但阻止 back control 值得這個交換。",
+   "answer_line": "朝對手繞轉，用 frame 而非撐地",
+   "distractors": {
+    "plausible": [
+     "把空手撐在墊子上",
+     "直接往回拉手臂恢復"
+    ],
+    "trap": [
+     "轉身把背藏起來"
+    ]
+   }
+  },
+  {
+   "question": "當 arm drag 是從 butterfly guard 而非 closed guard 嘗試時，你的防守方式應該有什麼不同？",
+   "answer": "從 butterfly guard 進攻時，sweep 的威脅會因為 butterfly hook 的抬升力量而被放大，所以你的首要考量是阻止 hook 的抬升。把體重向下、向前壓進對手身上，同時把手臂拉回，用你的體重壓制對手的 hook，阻止抬升。從 closed guard 進攻時，sweep 更依賴雙腳剪刀動作與髖部旋轉，所以你的防守重點在於維持挺直的 posture 與置中的底盤，以抵抗旋轉力。兩種情況下，收回手臂都很重要，但 butterfly guard 的版本更需要著重體重分配來對抗 hook，而 closed guard 的版本則更需要著重髖部對齊來對抗旋轉。",
+   "answer_line": "壓制 hook，或維持挺直底盤",
+   "distractors": {
+    "plausible": [
+     "兩種 guard 用同一種防守就好",
+     "兩種情況都把髖部向後 sprawl"
+    ],
+    "trap": [
+     "用力頂住 hook"
+    ]
+   }
+  }
+ ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Arm Drag Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

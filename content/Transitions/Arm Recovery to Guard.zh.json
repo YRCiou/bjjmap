@@ -1,0 +1,241 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Arm Recovery to Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm Recovery to Guard 的主要目標是什麼？",
+    "answer": "主要目標是把被困在 Kuzure Kesa-Gatame 中、卡在對手腋下夾制的手臂抽出來，並立刻回復 guard 位置（Closed Guard 或 Half Guard）。這會讓你從一個有 submission 危險、嚴重不利的 pin 中，轉換到一個雙手都自由、呼吸恢復、可以進攻的 active guard。",
+    "answer_line": "抽出手臂，回復 guard",
+    "distractors": {
+     "plausible": [
+      "只逃脫髖部壓力",
+      "反轉到上位"
+     ],
+     "trap": [
+      "推開對手站起來"
+     ]
+    }
+   },
+   {
+    "question": "Arm Recovery to Guard 是從哪個位置開始的？",
+    "answer": "這個技巧從 Kuzure Kesa-Gatame 底部開始，對手用變化型的 scarf hold 把你其中一隻手臂夾在他們的腋下與胸口之間。你側躺著，因為對手的髖部壓在你的肋骨上而呼吸受限。",
+    "answer_line": "Kuzure Kesa-Gatame 底部",
+    "distractors": {
+     "plausible": [
+      "標準 Kesa-Gatame 底部",
+      "North-South 底部"
+     ],
+     "trap": [
+      "Mount 底部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在嘗試 arm extraction 之前，肩膀內旋如此關鍵？",
+    "answer": "肩膀內旋（讓掌心轉向上方）能縮小上臂在對手腋下夾制中的截面輪廓。較寬的手臂輪廓會卡在夾制的壓力中。透過內旋，你縮小了必須穿過夾制的寬度，讓 extraction 只需明顯較小的力量就能完成。沒有這個轉動，即使是強壯的練習者，也很難硬把手臂從緊緊的夾制中拉出來。",
+    "answer_line": "縮小手臂寬度以滑出夾制",
+    "distractors": {
+     "plausible": [
+      "緩解肩關節疼痛",
+      "設置 armbar 反擊"
+     ],
+     "trap": [
+      "外旋以用力掙脫"
+     ]
+    }
+   },
+   {
+    "question": "對手把體重前移，準備對你被困的手臂設置 Americana——這如何創造你的 extraction 窗口？",
+    "answer": "為了抓握設置 Americana 而前移體重，會減輕壓在你肋骨上的髖部壓力，也會因為他們的注意力和重量轉向你的手臂、而不是維持 pin，讓腋下的夾制鬆開。這正是垂直於他們 base 方向 bridge、趁壓力短暫降低時抽出手肘的最佳時機。他們投入進攻的動作，反而創造了你防守上的破口。",
+    "answer_line": "趁夾制鬆開時 bridge",
+    "distractors": {
+     "plausible": [
+      "提早拍地避開 Americana",
+      "立刻把手肘拉進來"
+     ],
+     "trap": [
+      "往 Americana 的 grip 裡頂"
+     ]
+    }
+   },
+   {
+    "question": "Arm Recovery to Guard 需要哪些關鍵的 grip 和 frame？",
+    "answer": "自由的手臂用骨對骨的接觸，在對手近側的髖骨上建立前臂 frame，以維持結構性的空間。被困的手臂維持 90 度彎曲，手肘緊貼肋骨。抽出手臂之後，雙手都轉換成回復 guard 用的 grip：gi 情境下是 collar 和 sleeve，no-gi 情境下則是 wrist control 和頭部控制。這個 frame 不是用來推的，而是用來在 hip escape 過程中維持最小限度的空間。",
+    "answer_line": "先髖部 frame，再 guard grip",
+    "distractors": {
+     "plausible": [
+      "先 underhook 遠側手臂",
+      "extraction 前先做 collar tie"
+     ],
+     "trap": [
+      "用力推對手的胸口"
+     ]
+    }
+   },
+   {
+    "question": "你成功抽出手臂，但對手立刻向前壓要重新過 guard——接下來兩秒內你必須做什麼？",
+    "answer": "立刻把近側的膝蓋插進來橫過對手的軀幹當作 shield，同時完成你的 hip escape。如果他們用力壓進來，用 knee shield 引導他們的壓力，同時讓遠側的腿繞到他們背後扣上 closed guard。建立任何一種 guard——即使只是 Half Guard——都是優先事項。如果抽出手臂後猶豫、沒有插入 knee shield，對手就會在你剛自由的手臂上重新建立側控的 grip，把你打回原本被困的位置。",
+    "answer_line": "快速插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "用雙手把對手推開",
+      "先把髖部往後挪"
+     ],
+     "trap": [
+      "伸手去抓 submission"
+     ]
+    }
+   },
+   {
+    "question": "當對手察覺你在嘗試 extraction 而加緊腋下的夾制時，你該如何應對？",
+    "answer": "當對手夾得更緊時，放棄直接 extraction，改鏈接到其他逃脫方式——Granby Roll 到 Turtle，或是 Elbow Escape 到 Half Guard。失敗的 extraction 嘗試常常會讓對手過度投入到控制手臂上，這會讓他們的 base 對其他逃脫方式敞開破口。等到下一個時機窗口出現、他們調整或進攻時，再回到 arm recovery。反覆硬拚一個已經加強的夾制只會浪費體力，還會製造出被 submission 的破口。",
+    "answer_line": "改走 Granby 或手肘逃脫",
+    "distractors": {
+     "plausible": [
+      "對抗夾制更用力拉",
+      "等他們放鬆"
+     ],
+     "trap": [
+      "無論如何都硬拚 extraction"
+     ]
+    }
+   },
+   {
+    "question": "在 bridge 過程中，創造出 extraction 窗口最關鍵的施力方向是什麼？",
+    "answer": "Bridge 必須朝垂直於對手 base 的方向，以 45 到 90 度角瞄準他們遠側的撐地腳。這種帶角度的 bridge 攻擊他們結構上的穩定性，逼迫他們產生真正的前傾體重轉移，進而鬆開腋下的夾制。直直向上 bridge 只是暫時把他們抬起來，並沒有破壞他們的 base，他們會直接坐回去，夾制依然完好。帶方向性的 bridge 造成的是機械結構上的破壞，而不只是垂直方向的位移。",
+    "answer_line": "朝他們的撐地腳 bridge",
+    "distractors": {
+     "plausible": [
+      "直直用力向上 bridge",
+      "朝自己的腿的方向 bridge"
+     ],
+     "trap": [
+      "朝被困手臂那一側翻滾"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 Arm Recovery to Guard，改用其他的逃脫方式？",
+    "answer": "在以下情況放棄：對手在你 bridge 時成功加緊夾制（改鏈接到 Granby Roll）、你的手臂在 extraction 過程中開始被拉直、出現 armbar 危險（立刻防守 armbar）、或是你抽出了手臂但無法創造足夠的髖部距離來回復 guard（退而求其次以 underhook 進入 Half Guard）。這個技巧的時機窗口很窄——如果窗口已經關閉，硬拚只會比改走另一條能利用你嘗試所造成的新重量分佈的逃脫路線更危險。",
+    "answer_line": "夾制加緊或手臂被拉直",
+    "distractors": {
+     "plausible": [
+      "只有在完全體力耗盡時才放棄",
+      "嘗試一次失敗就放棄"
+     ],
+     "trap": [
+      "一直硬拚到打開為止"
+     ]
+    }
+   },
+   {
+    "question": "為什麼先抽出手肘、再抽出手腕，而不是一次把整隻手臂拉出來，才是正確的順序？",
+    "answer": "腋下的夾制在肩膀和上臂處最緊，那裡是對手槓桿優勢最大的地方。先把手肘拉向肋骨，能瓦解對手主要的控制點——他們壓在你上臂的腋下壓力。手肘一穿過去，前臂和手腕就能在已經被破壞的夾制中以最小的阻力滑出來。試圖同時拉出整隻手臂，等於是在槓桿角度最弱的情況下，硬拚控制最緊的那一點，需要遠遠更大的力量，也會製造更多手臂被拉直的風險。",
+    "answer_line": "先手肘，穿過最緊的點",
+    "distractors": {
+     "plausible": [
+      "先手腕，比較好抓",
+      "一次把整隻手臂拉出來"
+     ],
+     "trap": [
+      "先用力扯手腕"
+     ]
+    }
+   },
+   {
+    "question": "Arm Recovery to Guard 在 no-gi 和 gi 情境下有什麼不同？需要做什麼調整？",
+    "answer": "在 no-gi 中，汗水減少的摩擦力讓 extraction 在機械上更容易——手臂能以更小的阻力滑出夾制。不過對手也能更快重新抓握，而且沒有 collar 和 sleeve，回復 guard 的 grip 也比較不牢固。調整方式是在 extraction 時用掌心向上的轉動，把濕滑表面的優勢發揮到最大，但要更積極地轉換到 guard，因為少了 gi 摩擦力拖慢動作，對手重新過 guard 的嘗試也會更快。",
+    "answer_line": "更滑，轉換要更快",
+    "distractors": {
+     "plausible": [
+      "gi grip 讓 extraction 更容易",
+      "no-gi 需要更慢的轉換"
+     ],
+     "trap": [
+      "在 no-gi 中依賴 collar grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將嘗試 Arm Recovery to Guard，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是被困手臂的肩膀內旋，你會感覺到他們的掌心開始向天花板轉動。這個轉動會縮小他們手臂的輪廓以便 extraction，而且一定發生在 bridge 之前。辨識出這個轉動，能讓你在他們產生 bridge 力量之前，提前一到兩秒加緊夾制，這是最有效的防守時機窗口。",
+    "answer_line": "掌心正在向上轉動",
+    "distractors": {
+     "plausible": [
+      "雙腳踩穩準備 bridge",
+      "自由的手在髖部建 frame"
+     ],
+     "trap": [
+      "忽略手臂的小動作"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對上位的人來說，朝你撐地腳方向垂直的 bridge，是這個逃脫法中最危險的階段？",
+    "answer": "垂直的 bridge 攻擊你 base 結構上的弱點——你的撐地腳是主要的穩定支點，朝它方向 bridge 能用最少的力氣造成最大的 base 破壞。這種帶角度的 bridge 會逼迫產生真正的前傾體重轉移，不論你夾得多緊，都會在機械結構上鬆開腋下的夾制。直直向上的 bridge 危險性低得多，因為它不會攻擊你的 base 結構，你只需要坐回去就好。",
+    "answer_line": "攻擊你的撐地腳 base",
+    "distractors": {
+     "plausible": [
+      "純粹用力量把你抬起來",
+      "瞄準你的髖部壓力"
+     ],
+     "trap": [
+      "只有用 gi 時才有威脅"
+     ]
+    }
+   },
+   {
+    "question": "對手用力 bridge，你感覺腋下的夾制正在鬆開——你該硬撐維持 Kuzure Kesa-Gatame，還是轉換？",
+    "answer": "如果 bridge 已經破壞了你的 base、夾制正在鬆開，硬撐維持原本的位置通常成功率較低，不如轉換。你最好的選項是：立刻把部分脫困的手臂伸直、轉換成 armbar，或是轉到 North-South，完全阻斷回復 guard 的角度。固執地硬撐一個已經被破壞的 Kuzure Kesa-Gatame，往往會在對手完成整套逃脫程序時，讓你同時失去手臂控制和過 guard 的位置。",
+    "answer_line": "轉換：armbar 或 north-south",
+    "distractors": {
+     "plausible": [
+      "重新夾緊並重置位置",
+      "放低重量、耐心等待"
+     ],
+     "trap": [
+      "固執地死守 Kesa-Gatame"
+     ]
+    }
+   },
+   {
+    "question": "如何分辨真正的 arm recovery 嘗試，和像 Granby Roll 這樣其他逃脫方式的鋪墊？",
+    "answer": "真正的 arm recovery 嘗試會有肩膀內旋、雙腳踩平準備產生 bridge 力量，以及自由的手臂在你髖部建立 frame——整個程序都以被困的手臂為主要目標。Granby Roll 的鋪墊則不同，對手會把臉轉離你、讓肩膀承重準備 invert，自由的手臂會伸過身體前方或後方，而不是在你的髖部建 frame。Bridge 的方向也不同——arm recovery 是朝你的撐地腳方向 bridge，而 Granby Roll 的鋪墊則是朝空曠的空間 bridge，為 invert 創造空間。",
+    "answer_line": "髖部 frame 對比 轉臉 invert",
+    "distractors": {
+     "plausible": [
+      "bridge 角度永遠一樣",
+      "兩者的 grip 方式相同"
+     ],
+     "trap": [
+      "假設任何 bridge 都代表 recovery"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺對方正在嘗試 arm recovery 時，該如何調整你的髖部壓力？",
+    "answer": "把髖部壓力以 45 度角更積極地壓向他們的遠側髖部，而不是直直往下壓進他們的肋骨。這種帶角度的壓力會讓他們垂直方向的 bridge 效果變差，因為他們必須同時克服你的體重和這個轉向的力量向量。同時透過收緊你的 lat 來夾住他們的上臂，並把胸口的重量壓得更低、壓在被困的手臂上，加強夾制。帶方向性的髖部壓力搭配加強的手臂夾制，能消除 bridge 原本要製造的那個短暫體重轉移窗口。",
+    "answer_line": "斜壓髖部、夾緊 lat、壓低胸口",
+    "distractors": {
+     "plausible": [
+      "直直往下壓得更用力",
+      "拉寬 base 保持不動"
+     ],
+     "trap": [
+      "放鬆 grip 重新調整位置"
+     ]
+    }
+   }
+  ]
+ }
+}

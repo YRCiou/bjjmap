@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從50-50轉換到Inside Ashi-Garami的主要戰略目標是什麼？",
+        "answer": "主要目標是打破50-50的對稱局面，用你的inside leg橫跨對手髖部建立優勢控制。這讓你獲得更好的腳跟攻擊入口、更好的髖部控制以阻止他們防守，並直接通往像saddle或honey hole這類從標準50-50很難取得的更優勢位置。",
+        "answer_line": "打破對稱以取得腳跟入口",
+        "distractors": {
+          "plausible": [
+            "逃離一個糟糕的位置",
+            "設置sweep機會"
+          ],
+          "trap": [
+            "放棄腳跟grip以換取速度"
+          ]
+        }
+      },
+      {
+        "question": "在整個50-50轉Inside Ashi的過程中，你必須維持哪些grip？",
+        "answer": "必須在整個過程中維持雙手的腳跟控制。用四指包覆對手腳跟、拇指壓在阿基里斯腱上的C-grip，是整個動作的錨點。永遠不要同時放開雙手——如果需要調整，至少保持一手在腳跟上，另一手再重新定位。在轉換過程中放開腳跟控制，會讓對方立即逃脫。",
+        "answer_line": "絕不同時放開雙手離開腳跟",
+        "distractors": {
+          "plausible": [
+            "提早改成單手grip",
+            "改抓褲管而非腳跟"
+          ],
+          "trap": [
+            "放開雙手以重新定位"
+          ]
+        }
+      },
+      {
+        "question": "對手在你開始抽出inside leg時向前施壓——你該如何回應？",
+        "answer": "利用他們向前的momentum，把你的inside leg用力伸進這次碰撞中。這通常會產生反彈效果，給你完成轉換所需的空間。或者，用你的outside leg hook把他們向前的驅動改變方向，創造sweep機會——他們積極的壓力讓重心向前投入，暴露出平衡上的弱點。",
+        "answer_line": "把腿伸進他們的壓力裡",
+        "distractors": {
+          "plausible": [
+            "拉開以製造空間",
+            "靜態地對抗他們的壓力"
+          ],
+          "trap": [
+            "放開grip並撤退"
+          ]
+        }
+      },
+      {
+        "question": "執行這個轉換的最佳時機窗口是什麼？",
+        "answer": "在對手的髖部壓力暫時下降時執行——這通常發生在他們調整grip、嘗試submission，或防守你對他們腳跟的攻擊時。你可以透過威脅straight ankle lock來創造這個窗口，迫使他們把膝蓋轉離並調整位置。絕不要在對手髖部壓力完全建立時強行嘗試這個轉換。",
+        "answer_line": "趁他們髖部壓力下降時",
+        "distractors": {
+          "plausible": [
+            "剛進入50-50後立刻",
+            "當你感到疲勞時"
+          ],
+          "trap": [
+            "在完全髖部壓力下強行嘗試"
+          ]
+        }
+      },
+      {
+        "question": "從開始到完成這個轉換，你的身體角度應該如何變化？",
+        "answer": "你一開始在50-50中，身體以鏡像configuration相對平行。轉換期間，你透過hip escape創造角度。完成後，你的身體應該與對手被困的腿呈垂直（大約90度），胸口連接到他們的腿上。這種垂直的對齊能最大化後續所有攻擊與位置推進的機械優勢。",
+        "answer_line": "最終與他們的腿垂直",
+        "distractors": {
+          "plausible": [
+            "全程保持平行",
+            "角度拉開，胸口斷開連結"
+          ],
+          "trap": [
+            "把背轉向對手"
+          ]
+        }
+      },
+      {
+        "question": "成功完成這個轉換後，立即有哪些後續攻擊可用？",
+        "answer": "建立Inside Ashi後，你可以直接控制腳踝上方並伸展髖部，取得straight ankle lock。如果他們把膝蓋向內轉來防守，inside heel hook就變得可用。如果他們試圖抽出腿，當他們伸展時kneebar就會出現。如果submission被防守，你也可以推進到honey hole或saddle以取得更優勢的終結位置。",
+        "answer_line": "Straight ankle lock，接著heel hook",
+        "distractors": {
+          "plausible": [
+            "先kneebar，再ankle lock",
+            "直接推進到saddle"
+          ],
+          "trap": [
+            "放棄腿，改追逐choke"
+          ]
+        }
+      },
+      {
+        "question": "對手開始鏡像你的hip escape以維持50-50的對稱——你該如何反制？",
+        "answer": "加速你的轉換，更用力地把inside leg驅動過他們的髖部，試圖搶在他們鏡像的時機之前完成。如果他們完美match你的速度，要意識到他們的hip escape會暴露出他們的背部——放棄追求inside ashi，改為立即追逐back control，放開你的leg entanglement，趁他們hip escape遠離你時繞到他們身後。",
+        "answer_line": "加速，或直接抓背",
+        "distractors": {
+          "plausible": [
+            "留在50-50中等待",
+            "改抓另一側的ashi"
+          ],
+          "trap": [
+            "放開腳跟去追逐submission"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在抽腿完成後，立即把inside leg驅動過對手髖部是關鍵？",
+        "answer": "抽腿的動作會在你的控制結構中製造出一個瞬間的空隙。如果抽腿與髖部驅動之間有任何停頓，對手就能利用這個空隙重新建立50-50，甚至pass到side control。抽腿與髖部驅動必須是一個連續的動作——你的inside leg在完全清出entanglement之前，就應該已經朝他們的髖部移動。",
+        "answer_line": "抽腿與驅動一氣呵成",
+        "distractors": {
+          "plausible": [
+            "先停下重整grip",
+            "先完全抽出腿再驅動髖部"
+          ],
+          "trap": [
+            "放開腳跟以加快抽腿"
+          ]
+        }
+      },
+      {
+        "question": "這個技巧中最關鍵的髖部動作是什麼，為什麼它決定成敗？",
+        "answer": "最初朝對手方向遠離的hip escape是最關鍵的動作。這個shrimp動作能在你們身體之間創造出空間，讓你的inside leg能從entanglement中穿脫出來。如果沒有足夠的hip escape距離，你的inside leg physically無法清開對方的腿部結構。這個hip escape的品質與時機，直接決定抽腿是否成功——太淺你的腿會被困住，太慢對手會在你清開之前重新夾緊。",
+        "answer_line": "最初的hip escape（shrimp）",
+        "distractors": {
+          "plausible": [
+            "最後的hip bump",
+            "小幅調整，不是完整shrimp"
+          ],
+          "trap": [
+            "跳過shrimp，直接拉腿脫身"
+          ]
+        }
+      },
+      {
+        "question": "你如何區分何時該嘗試這個轉換，何時該接受留在50-50位置？",
+        "answer": "當你有明確的時機窗口時（對手在調整grip、髖部壓力降低、或submission防守失敗）就嘗試轉換。當對手擁有強力的inside control和沉重的髖部壓力、又沒有可利用的防禦反應時，就接受留在50-50。在比賽中，也要考慮得分的影響——有時保持50-50的控制，戰術上比冒險嘗試轉換去對抗一個防守嚴密的對手更划算。",
+        "answer_line": "只在有明確時機窗口時",
+        "distractors": {
+          "plausible": [
+            "每一輪都嘗試",
+            "絕不冒險離開50-50"
+          ],
+          "trap": [
+            "在沉重壓力下硬拚"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正嘗試50-50轉Inside Ashi，最早的辨識線索是什麼？",
+        "answer": "最早的線索是對手最初遠離你身體的hip escape動作，同時維持或收緊他們的腳跟grip。這個shrimping動作是後續所有步驟的前提——他們如果不先透過hip escape創造空間，就無法抽出他們的inside leg。對髖部動作而非抽腿本身做出反應，能讓你的防守窗口最大化。",
+        "answer_line": "他們最初的hip escape動作",
+        "distractors": {
+          "plausible": [
+            "他們的腿完全抽出",
+            "他們放開腳跟grip"
+          ],
+          "trap": [
+            "等他們抵達saddle再說"
+          ]
+        }
+      },
+      {
+        "question": "你的對手已經部分抽出他們的inside leg——你剩下最好的防守選項是什麼？",
+        "answer": "積極地把你的髖部向前驅動，在他們的腿能完全清出並驅動過你的髖部之前，收攏這個空間。同時把你的雙腿夾緊，重新困住他們部分抽出的腿。如果他們的腿已經抽得太遠、難以重新困住，立刻改為反攻他們的腳跟，因為他們專注於轉換，很可能已削弱了對自己腳跟的防守。最糟的選項是被動接受位置的改變。",
+        "answer_line": "驅動髖部向前，重新困住腿",
+        "distractors": {
+          "plausible": [
+            "把自己的腿完全拉開",
+            "放開腳跟以重設位置"
+          ],
+          "trap": [
+            "什麼都不做，接受pass"
+          ]
+        }
+      },
+      {
+        "question": "為什麼維持恆定的髖部壓力，是對抗這個轉換最重要的防守原則？",
+        "answer": "整個轉換都仰賴攻擊者透過hip escape創造空間，才能把inside leg穿脫出去。如果你們身體之間沒有空間，他們的inside leg在physically上就無法從entanglement中抽出。你向前的髖部壓力直接對抗他們的hip escape動作，只要你維持接觸，抽腿在力學上就變得不可能。所有其他防守技巧，都要以維持這個基本壓力為優先。",
+        "answer_line": "阻擋他們的hip escape空間",
+        "distractors": {
+          "plausible": [
+            "讓對手感到疲累",
+            "為你自己的攻擊鋪路"
+          ],
+          "trap": [
+            "後退以製造空間"
+          ]
+        }
+      },
+      {
+        "question": "在對手嘗試轉換的過程中，你應該在什麼時候嘗試反攻heel hook，而不是純粹專注於防止轉換？",
+        "answer": "只有在對手已經完全投入抽腿、他們對你腳跟防守的grip也因此鬆開時，才嘗試這個反攻。如果你在他們仍保持強烈防守意識時就過早反攻，你可能會放棄自己的防止防守，去換取一個低機率的攻擊。理想的時機是感覺到他們的inside leg已抽出一半，且他們的手已把重心轉移到重新定位、而不是繼續維持你的腳跟控制。",
+        "answer_line": "等他們完全投入之後",
+        "distractors": {
+          "plausible": [
+            "一旦他們hip escape就出手",
+            "一接觸就立刻出手"
+          ],
+          "trap": [
+            "放棄防止，提早出手攻擊"
+          ]
+        }
+      },
+      {
+        "question": "在這次轉換交手中，防守方的體力管理與攻擊方有何不同？",
+        "answer": "防守方必須在轉換嘗試期間match攻擊方的爆發力，但應避免持續的高輸出努力。對最初的hip escape以向前壓力做出爆發性反應，然後重新評估。如果轉換被阻止，立即回到高效的位置維持，而不是繼續消耗體力。攻擊方才是在轉換上花費體力的一方——防守方應該用最少必要的力量來打亂它，並為下一次交手保留體力。",
+        "answer_line": "爆發反應，然後保留體力",
+        "distractors": {
+          "plausible": [
+            "match對方持續的高輸出",
+            "保持被動，等待對方"
+          ],
+          "trap": [
+            "整場交手都全力以赴"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/50-50 Guard to Inside Ashi.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼是提示你該啟動 backstep 轉換到 reverse half guard 的主要觸發訊號？",
+    "answer": "主要觸發訊號是感覺到你下方的 hook 正在被拔除，或是對手開始把肩膀轉向你。當你察覺到 hook 正在鬆脫、且在下一個動作循環內重新插入的可能性很低時，就是該投入 backstep 的時刻。等到 hook 完全被拔掉才行動，會降低你在轉換過程中的控制力。",
+    "answer_line": "hook 被拔或肩膀開始轉動",
+    "distractors": {
+     "plausible": [
+      "等 hook 完全鬆脫再說",
+      "感覺到他的髖部開始 shrimp"
+     ],
+     "trap": [
+      "放開抓法重新插 hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在執行 backstep 之前，維持上半身控制如此關鍵？",
+    "answer": "透過 crossface、collar grip 或胸口壓力建立的上半身控制，是防止你在腿部重新配置時與對手分離的錨點。沒有這個錨點，對手可能在 backstep 過程中拉開距離，或完成轉身面對你，抵消掉 reverse half guard 的優勢。上半身抓法是連接 back control 與 reverse half guard 之間唯一不變的常數。",
+    "answer_line": "在腿部重整時錨定住你",
+    "distractors": {
+     "plausible": [
+      "只有 backstep 之後才重要",
+      "這裡腿部控制更重要"
+     ],
+     "trap": [
+      "放開抓法讓髖部自由活動"
+     ]
+    }
+   },
+   {
+    "question": "對手拔掉你下方的 hook，立刻做 shrimp 拉開距離，你該如何調整 backstep 的時機？",
+    "answer": "當對手拔掉 hook 後立刻 shrimp 拉開距離時，你必須加快 backstep 的速度，同時跟著他的髖部動作走。把胸口壓向他正在後退的髖部，同時把 backstep 的腿穿過他的雙腿之間。他的 shrimp 動作其實反而幫助了 backstep，因為它製造出你的腿需要穿越的空間，但你必須保持連接，才能避免完全分離。",
+    "answer_line": "加快步伐，追著他的髖部",
+    "distractors": {
+     "plausible": [
+      "放慢下來重新評估抓法",
+      "完成 backstep，不管髖部"
+     ],
+     "trap": [
+      "放掉胸口壓力，重新開始"
+     ]
+    }
+   },
+   {
+    "question": "backstep 過程中最常見的力學錯誤是什麼，它會怎麼表現出來？",
+    "answer": "最常見的錯誤是在 backstep 過程中把髖部抬起，而不是保持低位、壓得很重。這會表現為對手突然在你下方獲得空間，可以插入 knee shield、恢復 guard，或完成一次爆發性的逃脫。修正的方式是把 backstep 想成繞著對手滑動的動作，而不是從他上方抬起跨過去的動作。",
+    "answer_line": "抬起髖部，讓出空間",
+    "distractors": {
+     "plausible": [
+      "跨步太寬，失去base",
+      "backstep 到錯的一側"
+     ],
+     "trap": [
+      "把背轉向對手"
+     ]
+    }
+   },
+   {
+    "question": "一旦你建立起 reverse half guard top，什麼因素決定你該追求 back take 還是 guard pass？",
+    "answer": "對手的反應決定你的選擇。如果他試圖轉身面對你、想恢復 guard，就跟著他的旋轉走，追求 back take 並插入 hook。如果他採取防守性的壓平、或試圖 shrimp 遠離你，就投入 leg drag 或 knee slice pass 推進到 side control。在兩到三秒內讀出他的動作並全力投入。",
+    "answer_line": "讀出反應，迅速投入",
+    "distractors": {
+     "plausible": [
+      "永遠追求 back take",
+      "不管怎樣都直接過腿"
+     ],
+     "trap": [
+      "等他，先不投入"
+     ]
+    }
+   },
+   {
+    "question": "backstep 那條腿穿越的深度，如何影響 reverse half guard 的穩定性？",
+    "answer": "把腿穿得更深、越過對手的膝蓋線，能形成更強的纏繞，讓他更難清除。如果只穿到腳踝或小腿中段這種淺層位置，就很容易讓他抽腿、恢復 guard 結構。要把 backstep 的腿深深穿進對手的大腿之間，讓你的腳越過他遠側的膝蓋，這樣才能建立最大的控制力，並阻止他伸直雙腿掙脫。",
+    "answer_line": "深穿越過他遠側的膝蓋",
+    "distractors": {
+     "plausible": [
+      "淺穿到腳踝就夠了",
+      "深度在這裡不太重要"
+     ],
+     "trap": [
+      "把腿留在他大腿外側"
+     ]
+    }
+   },
+   {
+    "question": "對手用 deep half guard 的配置困住你 backstep 的那條腿，你的即時反應是什麼？",
+    "answer": "如果他把你 backstep 的腿困在他身體下方形成 deep half，先停止 backstep 轉換，優先處理 deep half 的位置。用空著的那隻手撐住他的髖部，阻止他完成 deep half sweep。在他建立起完整的 deep half guard 控制之前，設法用 whizzer 或髖部壓力把你的腿抽出來。另一個做法是接受 deep half 的位置，改用標準的 deep half 過腿技巧。",
+    "answer_line": "撐髖部、用 whizzer 抽腿",
+    "distractors": {
+     "plausible": [
+      "硬把 backstep 做完",
+      "整個放棄這個位置"
+     ],
+     "trap": [
+      "硬拉腿掙脫，不管姿態"
+     ]
+    }
+   },
+   {
+    "question": "crossface 的壓力在 backstep 轉換過程中及之後扮演什麼角色？",
+    "answer": "crossface 壓力有雙重作用。在 backstep 過程中，它能減緩對手肩膀的旋轉，為腿部重新配置爭取時間。在建立起 reverse half guard 之後，從背後施加的 crossface 能阻止對手轉身面對你——一旦他轉身面對你，位置就會變成標準 half guard，抵消掉你反向角度的優勢。強力的 crossface 是 reverse half guard top 中主要的控制機制。",
+    "answer_line": "減緩旋轉，擋住轉身",
+    "distractors": {
+     "plausible": [
+      "只在跨步當下有用",
+      "取代了對 hook 的需求"
+     ],
+     "trap": [
+      "位置穩定後就放開 crossface"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正轉換到 backstep，而不是硬拚重新插入 hook，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是橫向的重量轉移，加上他空出來的那條腿以弧線方式跨過你的身體，而不是往回頂、試圖從你大腿內側重新插入 hook。你也會感覺到他的抓法從 seatbelt 轉換成 crossface 或 collar control。當這些線索同時出現時，backstep 即將發生，你必須立刻反應。",
+    "answer_line": "橫向轉移，空腿劃弧跨過",
+    "distractors": {
+     "plausible": [
+      "他嘗試重新插入 hook",
+      "突然爆發式 bridge 逃脫"
+     ],
+     "trap": [
+      "他把 seatbelt 抓得更緊"
+     ]
+    }
+   },
+   {
+    "question": "為什麼完成轉身面對對手是最優先的防守反應？",
+    "answer": "reverse half guard 的全部優勢都來自於反向角度——上位者位在你的背後。透過完成轉身面對他，你把位置轉換成標準 half guard，在那裡你有已建立的防守架式、掃技選項與防守結構。面對對手能抵消掉 backstep 的主要優勢，把你帶回熟悉的防守位置。",
+    "answer_line": "轉換成標準 half guard",
+    "distractors": {
+     "plausible": [
+      "為建立防守架式爭取時間",
+      "設下 leg lock 的切入點"
+     ],
+     "trap": [
+      "壓平身體拖延節奏"
+     ]
+    }
+   },
+   {
+    "question": "對手已完成 backstep，正把重量壓進 reverse half guard，你的即時優先事項是什麼？",
+    "answer": "你的即時優先事項是阻擋來自背後的 crossface，並設法轉動肩膀面對對手。用手臂撐住他的髖部與肩膀，製造轉身所需的空間。如果無法立刻轉身，就保持雙腿活動以防止深層腿部纏繞，並設法在完全恢復標準 half guard 之前，先插入 knee shield 作為初步的防守結構。",
+    "answer_line": "擋 crossface，轉身面對他",
+    "distractors": {
+     "plausible": [
+      "立刻攻擊他的腿",
+      "爆發式 bridge 翻滾"
+     ],
+     "trap": [
+      "壓平身體吸收壓力"
+     ]
+    }
+   },
+   {
+    "question": "你要如何把對手的 backstep 嘗試轉換成 deep half guard 的切入？",
+    "answer": "當對手 backstep 的腿穿過你的雙腿之間時，你可以夾緊雙腿、把他的腿拉到你身體下方，困住它形成 deep half guard 的配置。這需要在 backstep 動作進行中精準抓準時機，並主動移動髖部，把自己擺到他重心的下方。deep half guard 能給你強力的掃技選項，同時抵消掉他從 reverse half guard 過腿的優勢。",
+    "answer_line": "困住穿越的腿，拉到身下",
+    "distractors": {
+     "plausible": [
+      "sprawl 擋住腿的穿越",
+      "同時往後 backstep 閃開"
+     ],
+     "trap": [
+      "把腿推開，製造空間"
+     ]
+    }
+   },
+   {
+    "question": "當 backstep 啟動時，為什麼把身體壓平到墊子上是最糟的防守反應？",
+    "answer": "壓平會同時消滅你的防守架式能力、髖部活動力與掃技的可能性。它給了對手來自背後最大的胸口對髖部壓力，也讓他從 reverse half guard 過腿變得容易得多。壓平的姿勢也阻止你插入 knee shield 或完成轉身面對他。保持側身或主動旋轉，才能保留你所有的防守選項。",
+    "answer_line": "同時毀掉架式、髖部與掃技",
+    "distractors": {
+     "plausible": [
+      "只會讓過腿變容易",
+      "只會擋住 knee shield"
+     ],
+     "trap": [
+      "這是最安全的生存方式"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Back Control to Reverse Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

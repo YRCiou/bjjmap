@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Arm Triangle Setup.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 North-South 進行 Arm Triangle Setup 的主要目標是什麼？",
+    "answer": "主要目標是把對手近側的手臂孤立、橫過他們自己的頸部，並把你要 choke 的手臂穿到下方，形成頭臂夾制的壓縮結構。這個 setup 會把 North-South 的壓制控制，轉換成一個主動的 submission 威脅，方式是把髖部走位到 side control，因為 arm triangle 的完成技在那個角度最為紮實。",
+    "answer_line": "孤立手臂並走位到 side control",
+    "distractors": {
+     "plausible": [
+      "把對手壓平以維持 pin",
+      "先控制遠側手臂"
+     ],
+     "trap": [
+      "留在 North-South 直接夾緊"
+     ]
+    }
+   },
+   {
+    "question": "在開始把髖部走位到 side control 之前，必須先建立什麼樣的 grip 結構？",
+    "answer": "你必須確保 palm-to-palm grip、Gable grip，或是二頭肌夾扣的 figure-four，讓雙臂鎖住對手的頸部和被困的手臂。你要 choke 的手臂必須穿得夠深，讓你的手能越過對手遠側的肩膀。這個鎖死的結構能防止對手在位置轉換過程中把手臂抽出來，並維持完成技所需要的壓縮幾何結構。",
+    "answer_line": "鎖住 grip，手越過遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "把手握在靠近自己胸口的地方",
+      "只做 underhook，不鎖死"
+     ],
+     "trap": [
+      "放開 grip 換手"
+     ]
+    }
+   },
+   {
+    "question": "對手把近側手肘緊緊收貼在身體上——你該如何創造 arm triangle 的破口？",
+    "answer": "用你的膝蓋或髖部把他們的手肘頂向外側，在手臂和軀幹之間製造分離。或者，對同一隻手臂威脅 kimura 進攻，逼他們防禦性地把手臂伸直或伸展開來。手臂一旦離開身體，立刻建立 underhook，並在他們把手臂收回之前，把它推過他們的中線。",
+    "answer_line": "頂開手肘或威脅 kimura",
+    "distractors": {
+     "plausible": [
+      "用手去撬手肘",
+      "等他們自己伸直手臂"
+     ],
+     "trap": [
+      "放棄手臂，改攻背後"
+     ]
+    }
+   },
+   {
+    "question": "從 North-South 轉換到 arm triangle 完成位置的過程中，最關鍵的髖部動作是什麼？",
+    "answer": "髖部走位必須以小而漸進的步伐進行，同時持續維持胸口與對手的接觸。如果髖部走得太快，或直接跳到 side control，會在你和對手的軀幹之間製造空隙，讓他們有機會回復 guard 或抽出手臂。每一步都應該逐漸把體重轉移到 choke 那一側的肩膀，同時讓髖部保持低且 sprawl。",
+    "answer_line": "小步走位，保持胸口貼緊",
+    "distractors": {
+     "plausible": [
+      "快速走位以搶在對手回復之前",
+      "跨大步製造角度"
+     ],
+     "trap": [
+      "直接跳到 side control"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 arm triangle 的完成技需要 side control 的角度，而不是垂直的 North-South 角度？",
+    "answer": "side control 的角度能讓你的肩膀直接壓進對手的下巴和頸部，創造出 choke 所需要的向下壓縮。在 North-South 時，壓力的角度是橫過胸口，而不是壓進頸部，這只能壓制，無法創造雙側頸動脈的壓縮。side 的角度也讓你能把耳朵貼向地墊，並透過肩膀把體重當作主要的夾緊力量。",
+    "answer_line": "肩膀壓進下巴以完成 choke",
+    "distractors": {
+     "plausible": [
+      "有更好的 base 防止逃脫",
+      "更容易控制雙臂"
+     ],
+     "trap": [
+      "留在 North-South，用手臂力量"
+     ]
+    }
+   },
+   {
+    "question": "你開始走位髖部時，對手 bridge 並轉身遠離——你該如何調整？",
+    "answer": "繼續朝同一個方向走位髖部，順著他們轉身的方向，而不是硬碰對抗。他們的轉身動作往往反而會讓 arm triangle 夾得更緊，因為這會讓被困的手臂更深地轉進 choke 的結構中。整個過程持續維持你的頭臂 grip，讓他們的動作幫你完成轉換到 side control。他們的轉身其實幫你做了一部分的工作。",
+    "answer_line": "順著他們轉身、繼續走位",
+    "distractors": {
+     "plausible": [
+      "停下來重新調整 base",
+      "換方向來對抗轉身"
+     ],
+     "trap": [
+      "放開 grip 重新做 underhook"
+     ]
+    }
+   },
+   {
+    "question": "在鎖死 grip 之前，哪些關鍵指標能判斷你的手臂穿得夠深？",
+    "answer": "你的手應該明顯越過對手遠側的肩膀，而且你應該感覺到自己的二頭肌貼上他們頸部的其中一側。如果你的手還停在他們胸口正中央，或還沒越過肩膀線，代表穿得太淺，對手會在轉換過程中把手臂抽出來。此外，你應該感覺到對手被困的手臂緊緊壓在自己頸部的另一側。",
+    "answer_line": "手越過肩膀，二頭肌貼頸",
+    "distractors": {
+     "plausible": [
+      "手碰到他們的胸骨",
+      "前臂碰到他們的下巴"
+     ],
+     "trap": [
+      "即使手很淺也把 grip 鎖死"
+     ]
+    }
+   },
+   {
+    "question": "Arm Triangle Setup 如何和其他 North-South 進攻結合，形成 submission 連鎖？",
+    "answer": "當 arm triangle setup 和 kimura、North-South Choke 結合時，會形成一種強迫選擇的效果。如果對手把手臂伸直來防守 kimura，就會打開 arm triangle 的機會。如果他們收起手臂來防止 arm triangle，頸部就會暴露，North-South Choke 便成為可用的選項。如果他們用轉身來防守 North-South Choke，就會創造出 arm triangle 所需要的手臂孤立。每一種防守都會打開另一個進攻，形成一個讓對手左右為難的 submission 連鎖。",
+    "answer_line": "每次防守都打開新的進攻",
+    "distractors": {
+     "plausible": [
+      "永遠先完成 kimura",
+      "選定一個進攻就堅持到底"
+     ],
+     "trap": [
+      "每次進攻之間都重置回中立"
+     ]
+    }
+   },
+   {
+    "question": "在最後夾緊完成時，你的肩膀應該施加什麼方向的力？",
+    "answer": "把你 choke 那一側的肩膀向前、向下壓進對手的下巴和頸部，角度朝著他們頭部遠側的地墊方向。施力方向應該是斜向的——而不是直直往下——這樣才能讓你的二頭肌壓在一側頸動脈、對手自己的肩膀壓在另一側頸動脈的壓縮效果最大化。同時把手肘夾緊，收緊 choke 的周長。",
+    "answer_line": "肩膀斜向下壓，夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "直直往下壓胸口",
+      "把頭往自己的髖部拉"
+     ],
+     "trap": [
+      "放鬆 grip，只靠體重"
+     ]
+    }
+   },
+   {
+    "question": "你把髖部走位到 side control 時，對手用 half guard 扣住一個 hook——你該怎麼做？",
+    "answer": "維持 arm triangle 的 grip，把髖部壓得又低又沉，阻止他們進一步發展 half guard。用你自由的那條腿，把它繞到外側再把膝蓋頂過他們扣住的那條腿，藉此清除那個 hook。不要放棄 arm triangle 的結構——即使對手正嘗試回復 half guard，這個 grip 依然有效。如果你無法清空那條腿，你仍然可以透過加大肩膀壓力，從 modified half guard top 完成 arm triangle。",
+    "answer_line": "壓沉髖部、保持 grip、清 hook",
+    "distractors": {
+     "plausible": [
+      "先站起來重置 base",
+      "改攻 guillotine"
+     ],
+     "trap": [
+      "放開 grip 去過 guard"
+     ]
+    }
+   },
+   {
+    "question": "在穿手臂的過程中，需要什麼樣特定的胸口壓力角度，才能避免製造出可被利用的空間？",
+    "answer": "你的胸口必須維持稍微朝向穿手臂那一側的角度，而不是正中對準對手的胸骨。這種斜向的壓力能把他們近側的肩膀釘在地墊上，同時讓你的體重自然朝穿手臂的方向轉移。如果你把體重放在正中央，或是角度偏離穿手臂那一側，就會在近側製造出空隙，對手就能用 bridge 或 frame 加以利用。壓力的方向應該跟隨穿手臂本身的路徑。",
+    "answer_line": "胸口朝穿手臂那側傾斜",
+    "distractors": {
+     "plausible": [
+      "把體重放在他們胸骨正中央",
+      "角度偏離以保護自己的臉"
+     ],
+     "trap": [
+      "雙手撐開拉寬 base"
+     ]
+    }
+   },
+   {
+    "question": "arm triangle setup 因為對手防守了每一次從 North-South 的進入而卡住——你該用什麼連鎖進攻順序？",
+    "answer": "先透過控制遠側手臂並把近側手臂滑向對手頸部，威脅 North-South Choke。當他們用轉頭並把雙手舉起來防守這個 choke 時，立刻改攻暴露出來的近側手臂上的 kimura。當他們透過把手臂伸直並收回身體來防守 kimura 時，利用那個收手臂的動能，把手臂帶過他們的頸部，進入 arm triangle setup。關鍵是威脅之間絕不停頓——每一次失敗的進攻，都應該直接流入下一個，而不是重新回到靜態的 North-South 控制。",
+    "answer_line": "連鎖：NS choke、kimura、triangle",
+    "distractors": {
+     "plausible": [
+      "每次都先攻 kimura",
+      "每次進攻之間都暫停重置"
+     ],
+     "trap": [
+      "放棄連鎖，硬拚 choke"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 North-South 開始被設置 arm triangle 時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是進攻方在手肘或二頭肌處對你近側的手臂做 underhook，並開始把它推過你的中線、朝向你自己的頸部。你會感覺到他們的手臂像蛇一樣鑽到你的手臂下方，同時搭配加大的肩膀壓力，目的是把你壓平並把那隻手臂固定在原位。這會在手臂穿到頸部下方的好幾秒之前就出現，提供最寬的防守時機窗口。",
+    "answer_line": "手臂被 underhook，肩膀加壓",
+    "distractors": {
+     "plausible": [
+      "手正穿到你的頸部下方",
+      "髖部正走位到 side control"
+     ],
+     "trap": [
+      "choke 鎖死前不會有線索"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到 arm triangle 正在成形時，為什麼絕對要避免轉身離開進攻方？",
+    "answer": "轉身離開進攻方，會讓你被困的手臂更深地轉進自己的頸部，增加對頸動脈的壓縮。這也會幫助進攻方走位髖部，因為你正朝著他們轉換到 side control 需要的同一個方向移動。轉身離開的本能感覺像是在逃脫，但在機械結構上其實加速了 choke 的完成。你應該做的是朝進攻方 bridge 並轉身，在近側創造空間，破壞手臂橫過頸部的結構。",
+    "answer_line": "轉向進攻方，而不是轉離",
+    "distractors": {
+     "plausible": [
+      "把他們的頭推開",
+      "壓平身體並掩護"
+     ],
+     "trap": [
+      "轉身離開以逃脫"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂已經橫過頸部，進攻方正在鎖 grip——你成功率最高的防守選項是什麼？",
+    "answer": "到了這個較晚的階段，你最好的選項是在髖部走位階段，把你近側的膝蓋插進雙方身體之間，回復 half guard。half guard 的 hook 能阻止進攻方取得最大壓縮所需要的 side control 角度，也能製造足夠的位置破壞，讓你朝手臂抽出的方向努力。在這個階段直接對抗 grip 的成功率非常低，因為進攻方透過鎖死的雙手和胸口壓力，已經取得機械上的優勢。",
+    "answer_line": "插入膝蓋，回復 half guard",
+    "distractors": {
+     "plausible": [
+      "用雙手對抗 grip",
+      "猛力 bridge 逃脫"
+     ],
+     "trap": [
+      "轉臉朝下藏住頸部"
+     ]
+    }
+   },
+   {
+    "question": "如何防止啟動整個 arm triangle 程序的手臂孤立？",
+    "answer": "在 North-South 下，把你近側的手肘當作預設防禦姿勢，緊緊夾在肋骨上。當你感覺到進攻方試圖對你的手臂做 underhook 時，把手往內側繞、游到內側位置，並把前臂壓在他們的胸口上。手臂絕不能越過自己的中線——只要你的手肘保持貼緊肋骨、前臂保持在雙方身體之間，進攻方就無法把手臂推過你的頸部，形成 choke 的結構。",
+    "answer_line": "手肘釘住肋骨，前臂建 frame",
+    "distractors": {
+     "plausible": [
+      "改推他們的頭",
+      "抓他們遠側的手腕來控制"
+     ],
+     "trap": [
+      "伸直手臂來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "在 arm triangle setup 的哪個階段，進攻方的 base 最容易被防守性的 bridge 攻破？",
+    "answer": "進攻方的 base 在髖部走位階段最脆弱，也就是他們從垂直的 North-South 對齊，轉換到側向 side control 角度的過程中。在這個移動過程中，他們的重量分佈會逐漸轉移到一側，膝蓋處於移動狀態而不是踩穩，而且因為雙手都投入在 grip 上，他們無法有效地撐地。在走位途中抓準時機的 bridge，能把他們卡在兩個位置之間，此時他們既沒有 North-South 的穩定性，也還沒有 side control 的穩定性。",
+    "answer_line": "髖部走位中途，重量正在轉移",
+    "distractors": {
+     "plausible": [
+      "grip 一鎖死就立刻反應",
+      "North-South 控制剛開始時"
+     ],
+     "trap": [
+      "等到 side control 建立好再說"
+     ]
+    }
+   }
+  ]
+ }
+}

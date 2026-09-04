@@ -1,0 +1,227 @@
+{
+ "attacker": {
+ "flashcards": [
+  {
+   "question": "Aoki Lock 的主要目標是什麼？",
+   "answer": "主要目標是透過 hip drive 對對手的肩關節施加漸進式旋轉壓力，同時維持腿部纏繞控制，逼迫對手在肩部受傷前 tap。這個 finish 會在肩關節囊上製造外旋應力。",
+   "answer_line": "透過 hip drive 旋轉肩膀",
+   "distractors": {
+    "plausible": [
+     "孤立手臂準備 armbar",
+     "破勢對手準備 sweep"
+    ],
+    "trap": [
+     "放開雙腿去扳手臂"
+    ]
+   }
+  },
+  {
+   "question": "執行 Aoki Lock 時，最關鍵的髖部動作是什麼？",
+   "answer": "髖部應該以緩慢、漸進的節奏，在 3-5 秒內向前下方推進對手的肩膀。髖部是肩關節外旋的主要壓力來源。爆發性的髖部動作有受傷風險，應該避免。",
+   "answer_line": "緩慢向前下方推髖",
+   "distractors": {
+    "plausible": [
+     "把髖部直接向上 bridge",
+     "像 omoplata 一樣旋轉髖部"
+    ],
+    "trap": [
+     "爆發性地衝擊對手肩膀"
+    ]
+   }
+  },
+  {
+   "question": "對手在你嘗試 finish 時開始把手臂抽出，你該如何應對？",
+   "answer": "立刻重新收緊你的腿部三角，上方那條腿下壓，下方那條腿上拉。增加髖部壓力以阻止對手進一步抽出手臂。如果手臂持續脫離，就放棄肩鎖，利用既有的腿部位置轉換到 back control，而不是打一場注定會輸的仗。",
+   "answer_line": "重新收緊雙腿，加大髖壓",
+   "distractors": {
+    "plausible": [
+     "抓住手腕往內拉",
+     "換底座，重新調整角度"
+    ],
+    "trap": [
+     "追手臂，放開雙腿"
+    ]
+   }
+  },
+  {
+   "question": "finish Aoki Lock 時，你的抓握重點應該放在哪裡？",
+   "answer": "雙手應該控制對手的髖部，防止旋轉與逃脫角度。不要抓被困住的那隻手臂本身——你的雙腿已透過纏繞控制肩膀。手部抓握的重點是位置管理（髖部），而不是 submission 本身（手臂）。",
+   "answer_line": "手控髖部，不控手臂",
+   "distractors": {
+    "plausible": [
+     "緊抓被困住的手腕",
+     "underhook 對手的另一側手臂"
+    ],
+    "trap": [
+     "放開髖部，改抓 collar"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候應該放棄繼續追求 Aoki Lock，改為轉換？",
+   "answer": "當你已經嘗試了兩次遞增壓力卻沒有 submission 進展、對手的防禦姿態強而穩定，或對手出現任何 back control、truck 或 crucifix 的機會時，就應該轉換。硬吃一個已被防守住的肩鎖只是在浪費體力。",
+   "answer_line": "兩次施壓失敗之後",
+   "distractors": {
+    "plausible": [
+     "只有在對手 tap 之後",
+     "一遇到阻力就馬上換"
+    ],
+    "trap": [
+     "放開雙腿重新抓握"
+    ]
+   }
+  },
+  {
+   "question": "嘗試 finish 之前，必要的準備條件是什麼？",
+   "answer": "你需要建立好的腿部纏繞——大腿壓在對手肩膀上、小腿控制上臂，對手手臂伸直、手肘指向身體外側，透過靠近對手身體的posted leg建立穩定底座，並用手控制對手髖部防止旋轉。缺少任一要素都會大幅降低 finish 成功率。",
+   "answer_line": "腿部纏繞，手臂伸直",
+   "distractors": {
+    "plausible": [
+     "對手腕使用 figure-four grip",
+     "cross face 加緊密 underhook"
+    ],
+    "trap": [
+     "放開髖部去抓手臂"
+    ]
+   }
+  },
+  {
+   "question": "對手在你嘗試 finish 時朝被困手臂方向翻滾，你該執行什麼技巧？",
+   "answer": "順著對手翻滾的動量走，而不是硬頂著它，同時維持腿部纏繞。這通常會直接轉換成 back control。用你既有的腿部位置作為起點，轉入 rear mount 或 body triangle。不要逆著翻滾方向往回拉，因為這樣會給對手製造抽出手臂的空間。",
+   "answer_line": "順勢翻滾轉入 back control",
+   "distractors": {
+    "plausible": [
+     "往回拉，阻止翻滾",
+     "放開雙腿，追逐位置"
+    ],
+    "trap": [
+     "對抗翻滾，堅守原地"
+    ]
+   }
+  },
+  {
+   "question": "施加最大壓力的最佳時機是什麼時候？",
+   "answer": "只有在確認腿部纏繞夠緊、posted leg 底座穩定，且對手的防禦動作已被化解之後，才施加最大壓力。壓力累積至少要維持 3-5 秒，好讓對手能安全地辨識並做出 tap。絕對不要施加爆發性壓力。",
+   "answer_line": "控制完全確立後才施壓",
+   "distractors": {
+    "plausible": [
+     "手臂一被困住就立刻施壓",
+     "一感覺到對手重心轉移就施壓"
+    ],
+    "trap": [
+     "對手一動就用力狠扳"
+    ]
+   }
+  },
+  {
+   "question": "Aoki Lock 的施力方向與傳統 Kimura 有何不同？",
+   "answer": "Aoki Lock 透過 hip drive，經由腿部纏繞在肩關節上製造外旋壓力；而 Kimura 是用 figure-four grip 透過手臂操控製造內旋。Aoki Lock 的力量來自你整個下半身作為一個統一的控制機制，而不是上半身的握力。",
+   "answer_line": "透過髖部製造外旋",
+   "distractors": {
+    "plausible": [
+     "透過握力製造內旋",
+     "機制相同，只是抓法不同"
+    ],
+    "trap": [
+     "改用 figure-four grip"
+    ]
+   }
+  },
+  {
+   "question": "對手的空手攻擊你的 posted leg 底座，你該如何調整？",
+   "answer": "讓 posted leg 保持靠近對手身體並施加重量，透過髖部把體重傳導到對手肩膀上，而不是單靠 posted leg 支撐。如果對手成功破壞了你的底座，就順著對手施力方向走，利用那股動量轉換到 back control 或 truck，而不是硬頂著對手的力量重新建立底座。",
+   "answer_line": "重量透過髖部，而非靠腿",
+   "distractors": {
+    "plausible": [
+     "硬撐著重新架好那條腿",
+     "換另一條腿當底座"
+    ],
+    "trap": [
+     "放開髖部去保住底座"
+    ]
+   }
+  }
+ ]
+ },
+ "defender": {
+ "flashcards": [
+  {
+   "question": "Aoki Lock 開始被啟動時，最早能察覺的訊號是什麼？",
+   "answer": "最早的訊號是感覺攻擊者的雙腿在你肩膀複合結構周圍收緊，同時他們的髖部向前下方移動。這種從靜態控制轉為主動 finish 的壓力轉變，發生在全力施壓之前，能給你一個 1-2 秒的關鍵時間窗口，在 submission 變得危險之前啟動你的防禦反應。",
+   "answer_line": "雙腿收緊，髖部前移",
+   "distractors": {
+    "plausible": [
+     "感覺手臂完全伸直",
+     "肩膀出現劇痛"
+    ],
+    "trap": [
+     "等到感覺疼痛再反應"
+    ]
+   }
+  },
+  {
+   "question": "對手開始把髖部向前推進你的肩膀，你應該往哪個方向翻滾來逃脫？",
+   "answer": "朝被困住的手臂方向翻滾，順著阻力最小的路徑，並利用攻擊者向前的動量來協助你逃脫。往遠離被困手臂的方向翻滾會大幅增加肩部扭力和受傷風險。往被困手臂方向翻滾能降低關節上的壓力，通常也足以打亂攻擊者的位置，創造抽出手臂的機會。",
+   "answer_line": "朝被困手臂方向翻滾",
+   "distractors": {
+    "plausible": [
+     "shrimp 出去製造空間",
+     "坐起來，用空手撐地"
+    ],
+    "trap": [
+     "往遠離被困手臂方向翻滾"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候你應該直接 tap，而不是繼續嘗試逃脫 Aoki Lock？",
+   "answer": "當你感覺到肩關節出現劇痛、無法阻止手臂完全伸直、肩部旋轉達到不舒服的程度，或攻擊者的壓力持續增加而你沒有可行的逃脫路徑時，應立刻 tap。腿部纏繞鎖造成的肩部傷害來得又急又重，沒有任何位置的挽回值得你冒著旋轉肌袖撕裂或脫臼的風險。",
+   "answer_line": "肩膀一劇痛就立刻 tap",
+   "distractors": {
+    "plausible": [
+     "嘗試逃脫兩次失敗之後",
+     "抓握被破壞之後"
+    ],
+    "trap": [
+     "等到手臂完全伸直"
+    ]
+   }
+  },
+  {
+   "question": "防守 Aoki Lock 時，應該如何運用你的空手？",
+   "answer": "把空手指向攻擊者的 posted leg，破壞他們的底座，而不是試圖把被困的手臂拉出來。攻擊他們的底座會打亂他們施加髖部壓力所需的平台，創造逃脫的機會。硬拉被困手臂只是在浪費體力，而且是在正面對抗機制上比手臂更強的腿部纏繞。",
+   "answer_line": "攻擊對手的 posted leg 底座",
+   "distractors": {
+    "plausible": [
+     "直接把被困手臂拉出來",
+     "抓攻擊者的 collar"
+    ],
+    "trap": [
+     "推攻擊者的胸口"
+    ]
+   }
+  },
+  {
+   "question": "Aoki Lock 的防守與防守標準 omoplata 有什麼不同？",
+   "answer": "Aoki Lock 用雙腿共同纏繞肩膀，而不是單腿控制手臂，使得抽出手臂變得明顯更困難。攻擊者的控制來自整個下半身，而不只是髖部的位置，壓力方向也是由 hip drive 推進，而不是髖部旋轉。這代表傳統的 omoplata 防守方式，例如挺直身體或向前翻滾，效果會較差，甚至可能增加受傷風險。",
+   "answer_line": "雙腿共同困住肩膀",
+   "distractors": {
+    "plausible": [
+     "壓力來自髖部旋轉",
+     "單腿控制手臂"
+    ],
+    "trap": [
+     "挺直身體來解鎖"
+    ]
+   }
+  }
+ ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Aoki Lock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}
