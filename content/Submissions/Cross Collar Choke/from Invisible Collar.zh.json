@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Cross Collar Choke/from Invisible Collar.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Cross Collar Choke Finish 是針對哪些解剖構造，這與 air choke 有何不同？",
+    "answer": "Cross Collar Choke Finish 針對頸部兩側的雙側頸動脈，透過壓迫來阻斷血流輸送到腦部。這是一個血液勒頸（blood choke），不是氣管勒頸（air choke）。air choke 針對氣管來阻斷呼吸，速度較慢、更痛苦，受傷風險也更高。正確的 collar 擺放會讓 gi 布料折疊壓在頸動脈上，而不是壓進氣管，能在 3 到 8 秒內造成昏迷，比壓迫氣管所需的時間更短、也更安全。",
+    "answer_line": "雙側頸動脈——是血液勒頸，不是氣管勒頸",
+    "distractors": {
+     "plausible": [
+      "氣管，阻斷呼吸",
+      "下巴施壓逼對方投降"
+     ],
+     "trap": [
+      "硬扳頸部逼對方拍地"
+     ]
+    }
+   },
+   {
+    "question": "施作 Cross Collar Choke Finish 的最佳時機窗口是什麼？",
+    "answer": "最佳窗口出現在對手雙手都忙於處理其他防禦任務時，例如對抗 hooks、防禦 rear naked choke 威脅，或試圖恢復姿勢。趁對手雙手都投入在別處時發動 finish，能避免對這個勒頸最有效的反制——two-on-one 抓握對抗。耐心非常關鍵——在對方雙手已準備好的情況下強行 finish，會大幅降低成功率。",
+    "answer_line": "趁對方的手忙於防禦其他地方",
+    "distractors": {
+     "plausible": [
+      "hooks 一固定就立刻出手",
+      "seatbelt control 一到位就馬上出手"
+     ],
+     "trap": [
+      "放開 seatbelt 硬衝 finish"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試這個 finish 之前，必須先滿足哪些進場條件？",
+    "answer": "你需要建立好的 back control，至少一個深 hook，一個 invisible collar grip（四指全部深入 collar 布料內側、指節貼緊頸部），一個抓在對側肩膀的 seatbelt 或同等級的上身控制，以及把對手姿勢往前壓垮的胸背貼合。少了任何一項就嘗試 finish，都會大幅降低成功率。",
+    "answer_line": "Hook、深 collar、seatbelt、胸貼背",
+    "distractors": {
+     "plausible": [
+      "只要一個深 hook 就夠",
+      "沒有 seatbelt 也能抓 collar"
+     ],
+     "trap": [
+      "放掉 hooks 讓 collar 抓得更深"
+     ]
+    }
+   },
+   {
+    "question": "施加 finishing 壓力時，你的前臂應該朝哪個方向旋轉？為什麼這在力學上更有優勢？",
+    "answer": "你的勒頸前臂應該朝自己的胸口方向旋轉，同時手肘往臀部方向下拉。這會讓 gi 布料折疊壓向對手的頸部，而不是把它往外拉走，創造出有效血液勒頸所需的力學優勢，不必單靠蠻力。這個旋轉會產生楔形效應，讓橈骨把 gi 壓進頸動脈，透過槓桿放大壓力，而不是單靠抓握的力量。",
+    "answer_line": "前臂朝自己胸口方向旋轉",
+    "distractors": {
+     "plausible": [
+      "把 collar 直直往後拉",
+      "手肘往上往外轉"
+     ],
+     "trap": [
+      "硬扳橫壓氣管"
+     ]
+    }
+   },
+   {
+    "question": "對手投入雙手來解除你的 collar grip——這創造了什麼機會？",
+    "answer": "當對手投入雙手來解除 grip 時，他們就無法防禦 rear naked choke 或 armbar 攻擊。你應該立刻轉換去 setup rear naked choke，因為他們的雙手都已被占用，或者威脅攻擊他們現在伸直的手臂做 armbar。這創造出讓背後攻擊如此有效的 submission dilemma——每一個對某個威脅的防禦投入，都會暴露出另一個弱點。",
+    "answer_line": "攻擊此刻空出的 RNC 或 armbar",
+    "distractors": {
+     "plausible": [
+      "重新抓回同一個 collar grip",
+      "等他們的手回來"
+     ],
+     "trap": [
+      "放棄位置從頭重來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須在整個 finishing 過程中維持 hook 控制？",
+    "answer": "hooks 能防止對手在 finish 過程中移動髖部或嘗試逃脫。沒有 hook 控制，對手可能轉身進 guard、站起來，或創造出讓勒頸 grip 鬆脫的空間。維持 hooks 能確保他們無法把防禦性動作轉化成位置上的逃脫，即使勒頸正在收緊。hooks 同時也能固定你的身體位置，防止對手拉開距離以緩解動脈壓迫。",
+    "answer_line": "Hooks 阻止髖部逃脫與轉身",
+    "distractors": {
+     "plausible": [
+      "Hooks 只是增加勒頸壓力",
+      "Hooks 只是為了得分"
+     ],
+     "trap": [
+      "放掉 hooks 追求 finish"
+     ]
+    }
+   },
+   {
+    "question": "什麼是最常見、會把這個勒頸變成純粹力量比拚的力學錯誤？",
+    "answer": "把 collar 往頸部外側拉，而不是讓前臂向內旋轉，是最常見的錯誤。這會失去力學優勢，需要過度的抓握力量才能維持壓力。正確技術是透過旋轉把 gi 折疊壓向頸部，這在生物力學上是有效率且能持久的。這個差異就像使用扳手和徒手施力的差別——旋轉會放大力量，而拉扯只會讓力量消散。",
+    "answer_line": "把 collar 往外拉，而不是旋轉",
+    "distractors": {
+     "plausible": [
+      "沒有夾緊到足夠力量",
+      "手肘向外開得太寬"
+     ],
+     "trap": [
+      "硬扳橫壓氣管"
+     ]
+    }
+   },
+   {
+    "question": "對手把下巴收得極緊，並投入雙手保護頸部——你如何創造出破口？",
+    "answer": "極致的下巴收緊姿勢非常耗費體力，且會打開 armbar 的機會，因為防禦的手臂必須伸直。耐心維持位置等待，因為這個收緊姿勢終究會讓對手疲勞。或者，威脅攻擊他們伸直防禦的手臂做 armbar，這通常會在他們收回手臂保護時打開頸部空間。關鍵在於利用他們的防禦投入來對付他們，而不是硬碰他們最強的防禦姿勢。",
+    "answer_line": "耐心等待，再攻擊手臂",
+    "distractors": {
+     "plausible": [
+      "硬穿透收緊的下巴強行勒頸",
+      "用空手把收緊的下巴撬開"
+     ],
+     "trap": [
+      "放棄 back control 從頭重來"
+     ]
+    }
+   },
+   {
+    "question": "有哪些跡象顯示勒頸正確壓迫在頸動脈上，而不是氣管上？",
+    "answer": "正確的頸動脈壓迫會讓對手在 3 到 8 秒內迅速出現頭暈與視覺變化，通常不會伴隨明顯的疼痛或咳嗽。如果對手在咳嗽、作嘔或感到疼痛卻沒有頭暈，壓力很可能落在氣管而非動脈上。調整方式是確保 gi 布料橫向壓在頸部兩側，而不是集中在喉嚨中央。前臂的旋轉應該把壓力導向頸部兩側。",
+    "answer_line": "迅速頭暈，幾乎不痛",
+    "distractors": {
+     "plausible": [
+      "緩慢失去意識並劇烈咳嗽",
+      "作嘔後逐漸轉為頭暈"
+     ],
+     "trap": [
+      "劇烈咳嗽代表勒頸有效"
+     ]
+    }
+   },
+   {
+    "question": "當對手在 finish 過程中開始朝你抓 collar 的那一側轉身時，你該如何調整？",
+    "answer": "跟著他們的轉身，把胸口的體重壓在他們轉動的肩膀上，這實際上能收緊勒頸的角度。或者，利用他們的轉身進入 crucifix position，困住他們轉動中的手臂，創造更多 submission 威脅。對他們來說，轉身面向你通常比保持平躺更糟，因為這可能改善你的 finishing 角度，讓他們的頸部進一步轉入 collar 的壓力中。",
+    "answer_line": "跟著轉身，追上角度",
+    "distractors": {
+     "plausible": [
+      "把對方壓平回地面",
+      "暫停並重新抓 collar"
+     ],
+     "trap": [
+      "用手撐地卻放掉 seatbelt"
+     ]
+    }
+   },
+   {
+    "question": "什麼是應該立刻鬆開勒頸的訊號？鬆開後正確的處理流程又是什麼？",
+    "answer": "只要出現任何拍地訊號（手拍、口頭喊停或腳拍），或當對手癱軟、停止一切動作時，立即鬆開。鬆開後，維持輕微的位置警戒，同時確認夥伴的反應狀態。如果對方失去意識，把他們放在復甦姿勢，觀察呼吸，若 20 秒內仍未恢復意識，尋求醫療協助。絕不要在拍地後為了測試緊度或確認勒頸有效而繼續施加壓力。",
+    "answer_line": "拍地或癱軟——鬆開並檢查對方",
+    "distractors": {
+     "plausible": [
+      "只等口頭拍地才鬆手",
+      "站起來準備下一回合"
+     ],
+     "trap": [
+      "對方癱軟後再撐幾秒"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，當時間所剩不多與時間充裕時，finishing 策略有何不同？",
+    "answer": "時間充裕時，維持耐心的做法——完全確認 grip 深度，等待最佳的防禦破口，並運用 submission chain 製造兩難局面。時間緊迫時，你可能需要接受稍微不夠理想的 grip 深度，更積極地發動 finish，並接受較高的失敗機率。不過，無論時間壓力如何，都絕不能犧牲安全。比賽中真正該調整的是縮短耐心等待的階段，而不是機械執行本身。倉促且技術不佳的 finish，比穩紮穩打的 setup 浪費更多時間。",
+    "answer_line": "縮短 setup，維持乾淨的技術",
+    "distractors": {
+     "plausible": [
+      "跳過 grip 深度直接強攻",
+      "維持同樣耐心節奏，賭運氣"
+     ],
+     "trap": [
+      "放棄控制猛撲上去求 finish"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早能辨識出 invisible collar choke 正在被建立的訊號是什麼？",
+    "answer": "最早的訊號是對手原本抓在你肩膀上的 over-hook 手，開始往你的 collar 方向移動，手指開始滲入你頸部附近的 gi 布料。在 back control 時任何 collar 接觸都應觸發立即的防禦反應。不要等到勒頸壓力出現才反應——到那時 grip 通常已深到難以有效解除。",
+    "answer_line": "對方的手滑向 collar",
+    "distractors": {
+     "plausible": [
+      "頸部感受到勒頸壓力",
+      "對方胸口貼緊你的背"
+     ],
+     "trap": [
+      "等勒頸收緊後再處理"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該朝沒有 collar grip 的那一側逃脫，而不是朝抓握手那一側？",
+    "answer": "朝沒有 collar grip 的那一側逃脫，能拉開你的頸部與勒頸抓握之間的距離，減輕壓力並打開恢復 guard 的空間。朝 collar 那一側移動，可能會把你的頸部轉入壓力中，反而收緊勒頸的角度。你 hip escape 的方向，直接決定了你是緩解還是加劇了勒頸的力學。",
+    "answer_line": "把頸部從抓握中拉開",
+    "distractors": {
+     "plausible": [
+      "這樣能得到逃脫分數",
+      "這樣能解放被困住的下手臂"
+     ],
+     "trap": [
+      "朝勒頸手臂那一側翻滾"
+     ]
+    }
+   },
+   {
+    "question": "對手解除了你的 two-on-one 防禦，開始轉換攻 rear naked choke——你如何利用這個瞬間？",
+    "answer": "從 collar 轉換到 rear naked choke 的過程中，會有一個短暫窗口，此時對手的勒頸手臂在兩個位置之間尚未完全投入。利用這個瞬間，把手臂夾進你的腋下或控制他們的手腕，困住那隻正在切換的手臂。同時因為對手的注意力已轉移到手臂轉換上，立即發動 hip escape。collar 轉 RNC 的切換，正是他們整個攻擊鏈中最脆弱的瞬間。",
+    "answer_line": "困住切換中的手臂，hip escape",
+    "distractors": {
+     "plausible": [
+      "等 RNC 的 grip 抓穩再說",
+      "只防禦新的勒頸手臂"
+     ],
+     "trap": [
+      "翻身趴地並撐起身體"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該接受投入雙手解除 grip 的風險，即使會暴露在其他攻擊之下？",
+    "answer": "當你感覺到 collar grip 已經深到危險程度、指節貼緊你的頸部，且對手開始施加旋轉的 finishing 壓力時，就該投入雙手。此時 collar choke 代表最立即的致命威脅，沒有其他攻擊會比它更快完成。rear naked choke 仍然需要 setup 時間，讓你在解除 collar grip 之後還有處理它的空間。",
+    "answer_line": "當指節壓進你的頸部時",
+    "distractors": {
+     "plausible": [
+      "只有等到壓力開始痛才投入",
+      "他們一上 hook 就投入"
+     ],
+     "trap": [
+      "grip 還很淺就雙手出擊"
+     ]
+    }
+   },
+   {
+    "question": "當勒頸已經部分鎖上時，什麼身體姿勢能給你最好的生存機會？",
+    "answer": "維持最緊的下巴收緊姿勢，雙手同時對抗勒頸的手腕，並讓肩膀抬高，而不是平貼在地。把身體擺在遠離 collar grip 的那一側。這樣的組合能把勒頸角度降到最低，最大化你抓握對抗的槓桿，並在對手調整動作時保留髖部的活動空間以利逃脫。",
+    "answer_line": "收下巴、對抗手腕、肩膀抬高",
+    "distractors": {
+     "plausible": [
+      "躺平並用手護住臉部",
+      "雙手推開對方的雙腿"
+     ],
+     "trap": [
+      "翻身趴向膝蓋"
+     ]
+    }
+   }
+  ]
+ }
+}

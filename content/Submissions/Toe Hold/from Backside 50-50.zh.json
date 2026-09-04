@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Backside 50-50 進行的 toe hold 主要攻擊哪些解剖結構？",
+    "answer": "toe hold 透過旋轉力量同時攻擊外側與內側踝關節韌帶、中足（Lisfranc）關節複合體、腳趾的蹠趾關節，以及足底筋膜。figure-four 抓握會產生扭力，同時對這些結構全部施加負荷，這也是為什麼這個技術若不加以控制，可能會很快就在多個部位造成損傷。",
+    "safety_critical": false,
+    "answer_line": "踝關節、中足、腳趾關節",
+    "distractors": {
+     "plausible": [
+      "只有阿基里斯腱",
+      "主要是膝關節韌帶"
+     ],
+     "trap": [
+      "是腳跟，用力扳下去"
+     ]
+    }
+   },
+   {
+    "question": "對手用捲曲腳趾、藏起腳跟來防守你的 heel hook，這創造了什麼機會？",
+    "answer": "當對手捲曲腳來藏腳跟時，腳掌與腳趾就會暴露出來，可以讓你接觸並抓握 toe hold。這正是從 backside 50-50 展開連鎖攻擊的主要順序：先威脅 heel hook，等他們防守時再轉換到 toe hold。他們的防守姿勢實際上讓腳完美地擺在能讓你把 figure-four 抓握放在腳掌上的位置。",
+    "safety_critical": false,
+    "answer_line": "腳趾暴露，轉換toe hold",
+    "distractors": {
+     "plausible": [
+      "他們的抓握現在變弱了",
+      "back take的機會打開了"
+     ],
+     "trap": [
+      "完全放開纏腿"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加 Backside 50-50 的 toe hold，關鍵的安全守則是什麼？",
+    "answer": "所有旋轉壓力都必須以至少3-5秒的時間，用漸進、可控的力量施加。絕對不要抓握單一腳趾。絕對不要把旋轉和爆發性髖部伸展結合在一起。永遠保持夥伴的手能清楚接觸到你以便 tap，並持續留意口頭 tap 訊號。收到任何 tap 訊號時，先停止旋轉，再鬆開抓握，立刻釋放。踝關節對突然的旋轉力量容忍度極低，受傷可能會是永久性的。",
+    "safety_critical": true,
+    "answer_line": "漸進旋轉，絕不抓腳趾",
+    "distractors": {
+     "plausible": [
+      "快速旋轉，注意tap",
+      "爆發性髖部伸展沒問題"
+     ],
+     "trap": [
+      "用力扳到感覺喀啦聲"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，你應該如何釋放 toe hold？",
+    "answer": "tap 的瞬間立刻停止所有旋轉壓力。接著在鬆開任何腳跟或踝關節控制之前，先完全鬆開你的 figure-four 抓握。讓對手的腳自然回到中立位置，不要往任何方向強迫它。維持輕微接觸，直到夥伴示意他們感覺舒適為止。不要突然放開，因為突然的位置變化可能造成二次傷害。恢復訓練前一定要先跟夥伴確認狀況。",
+    "safety_critical": true,
+    "answer_line": "一tap就立刻停止旋轉",
+    "distractors": {
+     "plausible": [
+      "先鬆開腳跟，再鬆開抓握",
+      "直接把腳推回中立位置"
+     ],
+     "trap": [
+      "最後再扭一下確保完成"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖上 figure-four 抓握，但對手正積極把被困的腿伸直，你該做什麼調整？",
+    "answer": "腿伸直會消除 toe hold 所需要的旋轉角度。用你纏住的雙腿夾緊大腿，把對手的膝蓋重新彎回來。如果無法重新彎曲那條腿，就放棄 toe hold，立刻轉換成 straight ankle lock 或 kneebar，這兩者對伸直的腿都更有效。不要硬在伸直的腿上求 toe hold，那只會浪費體力，還會讓對手有機會剝離你的抓握。",
+    "safety_critical": false,
+    "answer_line": "重新彎膝，或轉換kneebar",
+    "distractors": {
+     "plausible": [
+      "硬拉腳趾製造更多扭力",
+      "把髖部用力扭開"
+     ],
+     "trap": [
+      "放開那條腿重新來過"
+     ]
+    }
+   },
+   {
+    "question": "完成 toe hold 時，figure-four 抓握正確的對齊方式是什麼？",
+    "answer": "主要前臂必須與對手的脛骨線垂直，用腕骨的骨緣穩固地壓在腳掌上。手肘緊緊夾在肋骨上，形成一個穩固的機械式框架。另一隻手則在踝關節下方抓住主要手臂的手腕。這個垂直對齊能確保旋轉力量直接傳導進踝關節，而不是因為角度沒對齊而分散消失，這也是 toe hold 無法完成最常見的原因。",
+    "safety_critical": false,
+    "answer_line": "手腕與脛骨垂直",
+    "distractors": {
+     "plausible": [
+      "手腕與脛骨平行",
+      "手肘外張打開"
+     ],
+     "trap": [
+      "抓住腳趾往回拉"
+     ]
+    }
+   },
+   {
+    "question": "你已經建立初步的 toe hold 抓握，對手開始弓橋並轉身面向你，你該如何反應？",
+    "answer": "立刻把胸口壓力向前向下驅動來阻止轉身。如果他們部分完成旋轉，繼續維持你的 toe hold 抓握，因為即使他們轉身，這個技術仍然可以完成。用你的纏腿夾緊大腿並鉤住他們的腿，阻止完整旋轉。如果他們成功轉身面對你，就轉換成標準的 50-50 toe hold，這仍然有效，只是槓桿優勢較小。",
+    "safety_critical": false,
+    "answer_line": "施加胸口壓力，維持抓握",
+    "distractors": {
+     "plausible": [
+      "鬆開抓握，之後再重新進攻",
+      "換髖部方向面對他們"
+     ],
+     "trap": [
+      "放手站起來"
+     ]
+    }
+   },
+   {
+    "question": "在施加 toe hold 的過程中，對手在什麼時候達到無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點發生在 figure-four 完全鎖上、手肘夾緊、手腕與脛骨垂直對齊，並且旋轉扭力已經開始對踝關節韌帶施加負荷時。一旦旋轉超過大約30-40度的位移，對手光靠力量已經無法剝離抓握，必須 tap 否則就有韌帶受損的風險。關鍵指標是當你感覺到踝關節已經到達自然活動範圍的終點，並開始對進一步旋轉產生抵抗。",
+    "safety_critical": false,
+    "answer_line": "抓握鎖定，旋轉30-40度",
+    "distractors": {
+     "plausible": [
+      "只要完成姿勢一擺好",
+      "他們停止掙扎時"
+     ],
+     "trap": [
+      "聽到骨頭喀啦聲之後"
+     ]
+    }
+   },
+   {
+    "question": "從 Backside 50-50 完成 toe hold 的最佳比賽策略是什麼？",
+    "answer": "在比賽中，先建立 heel hook 的威脅，逼對手進入防守腳部的模式。當他們選擇捲曲腳趾藏腳跟時，立刻轉換到 toe hold 抓握。施加胸口壓力阻止他們的髖部逃脫，同時鎖上 figure-four。用可控但有目的性的旋轉，結合漸進的髖部伸展來完成。heel hook 與 toe hold 這種雙重威脅的方式，逼迫對手選擇要防守哪一個攻擊，而不管他們選哪個，都會暴露出另一個。",
+    "safety_critical": false,
+    "answer_line": "先威脅heel hook，再轉toe hold",
+    "distractors": {
+     "plausible": [
+      "先用toe hold，再用heel hook",
+      "不做鋪陳直接猛攻toe hold"
+     ],
+     "trap": [
+      "不管胸口壓力，急著求完成"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 toe hold 的完成過程中，維持胸貼背的壓力至關重要？",
+    "answer": "胸貼背的壓力能把對手的髖部釘在墊子上，消除他們弓橋、轉身，或製造足夠髖部動作來剝離你抓握或逃出纏腿的能力。沒有這個壓力，對手就能製造出足夠的動作，要嘛把腳拉出來，要嘛轉身面對你以抵消 backside 的優勢，要嘛製造出一場混戰。這個壓力也能阻止他們坐起來用手對抗你的 figure-four 抓握。",
+    "safety_critical": false,
+    "answer_line": "釘住髖部，阻止剝離",
+    "distractors": {
+     "plausible": [
+      "只是用來維持你的平衡",
+      "主要是控制他們的手臂"
+     ],
+     "trap": [
+      "空出手來追抓握"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正在從 Backside 50-50 設置 toe hold？",
+    "answer": "最早的辨識訊號是攻擊者的手伸向你的腳或腳趾，同時仍維持著壓在你背後的胸口壓力。你會感覺到他們在建立主要抓握時，有包覆的壓力圍繞著你的腳掌。toe hold 的嘗試通常緊接在被防守掉的 heel hook 之後，所以如果你剛藏好腳跟，而攻擊者沒有脫離接觸，就要預期抓握會轉移到你的腳趾上。攻擊者為了空出手來、同時維持纏腿的任何重心轉移，都是警訊。",
+    "safety_critical": false,
+    "answer_line": "手包覆住你的腳掌",
+    "distractors": {
+     "plausible": [
+      "手抓住你的腳跟",
+      "突然嘗試髖部逃脫"
+     ],
+     "trap": [
+      "不用理會，他們累了"
+     ]
+    }
+   },
+   {
+    "question": "面對 Backside 50-50 的 toe hold，最安全的 tap 方式是什麼，才能避免受傷？",
+    "answer": "一旦感覺到你無法防守的踝關節旋轉壓力，就要立刻果斷地 tap。同時使用口頭 tap（大聲說「tap」）與身體 tap，因為攻擊者可能因為專注在抓握上而感覺不到手拍的訊號。旋轉一旦開始，不要等著看自己能不能逃脫——踝關節對旋轉力量的容忍度極低，傷害會在幾分之一秒內累積。提早 tap 能保住你的訓練壽命；太晚 tap 則要冒著數月恢復期的風險。",
+    "safety_critical": true,
+    "answer_line": "口頭加身體，提早tap",
+    "distractors": {
+     "plausible": [
+      "等看看能不能逃脫",
+      "等旋轉到最大才tap"
+     ],
+     "trap": [
+      "先試著用力量掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對 Backside 50-50 的 toe hold，有哪些防守選項可用？",
+    "answer": "主要防守是 boot defense——一有任何抓握接觸就立刻把腳趾捲向脛骨、把腳藏起來。次要防守是在 figure-four 鎖上之前用雙手剝離抓握。第三種是弓橋並轉身面對攻擊者，以抵消 backside 的角度優勢。伸直腿可以消除旋轉槓桿，但會讓你暴露在 ankle lock 與 kneebar 的風險之下。所有防守方式最好都在抓握階段就及早啟動，而不是等旋轉開始之後。要在防守腳部與阻止對方推進 back control 之間取得平衡。",
+    "safety_critical": false,
+    "answer_line": "捲起腳趾，藏起腳",
+    "distractors": {
+     "plausible": [
+      "等鎖定之後再剝離抓握",
+      "腳趾朝外試圖滑出"
+     ],
+     "trap": [
+      "把腿伸直硬掙脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼面對 toe hold 時，早期辨識比技術性防守更重要？",
+    "answer": "從 Backside 50-50 進行的 toe hold，一旦 figure-four 抓握鎖上並開始旋轉，防守難度就會指數上升。在抓握建立階段，簡單的 boot defense 或剝離抓握就能完全化解這個攻擊。一旦旋轉開始施加，踝關節會在幾秒內就達到結構極限，幾乎沒有時間做技術性逃脫。早期辨識能爭取到執行防守所需的時間，而這些防守一旦技術完全鎖定就再也不可能做到。",
+    "safety_critical": false,
+    "answer_line": "抓握階段防守勝過旋轉後防守",
+    "distractors": {
+     "plausible": [
+      "旋轉很容易逃脫",
+      "力量能勝過鎖定的抓握"
+     ],
+     "trap": [
+      "等到旋轉開始才反應"
+     ]
+    }
+   },
+   {
+    "question": "對手嘗試 heel hook，而你成功藏住了腳跟，接下來你應該預期什麼？",
+    "answer": "應該預期馬上會有轉換到 toe hold 的嘗試。當你捲起腳藏住腳跟時，你的腳掌與腳趾就會暴露出來。技術純熟的攻擊者會在不放鬆位置壓力的情況下，立刻把抓握從你的腳跟重新導向你的腳趾。在藏住腳跟的同時，同時收緊腳趾並準備好對抗 toe hold 的抓握。絕對不要以為只因為你防守掉了第一個技術，整個腿部攻擊順序就結束了。",
+    "safety_critical": false,
+    "answer_line": "預期會接著追加toe hold",
+    "distractors": {
+     "plausible": [
+      "攻擊順序已經結束",
+      "他們會重置回中立狀態"
+     ],
+     "trap": [
+      "完全放鬆你的腳"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Backside 50-50.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

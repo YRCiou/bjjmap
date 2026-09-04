@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從Kesa Gatame施展的Kimura主要攻擊哪些解剖構造？",
+    "answer": "Kimura主要透過強制內旋攻擊肩關節，特別針對旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、盂肱韌帶與盂唇。肩關節囊與二頭肌肌腱則承受次要壓力。figure-four grip形成一個長力臂，把旋轉力放大到這些構造上。",
+    "safety_critical": false,
+    "answer_line": "肩關節與旋轉肌袖",
+    "distractors": {
+     "plausible": [
+      "肘關節與二頭肌肌腱",
+      "腕關節與前臂肌腱"
+     ],
+     "trap": [
+      "頸椎與頸部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從headlock轉換到figure-four的grip變化，是這個submission中最關鍵的時刻？",
+    "answer": "這個grip轉換是最脆弱的時刻，因為放開頭部控制會暫時降低你固定對手的能力。沒有頭部控制，對手就能橋起、建立frame，製造逃脫的空間。轉換之前，必須先把最大的胸口與肩膀壓力轉移到對手上半身，以補償這個空檔。grip轉換過程中的猶豫，會給對手建立防守grip或完全逃脫的機會。",
+    "safety_critical": false,
+    "answer_line": "放開頭部控制前先加大胸口壓力",
+    "distractors": {
+     "plausible": [
+      "先把手腕捏得更緊",
+      "把頭壓低貼地"
+     ],
+     "trap": [
+      "坐直身體去搆grip"
+     ]
+    }
+   },
+   {
+    "question": "你正在建立figure-four時，對手把雙手互扣——你有哪些選項？",
+    "answer": "你有三個主要選項。第一，用膝蓋或髖部當楔子插進他們互扣的雙手之間，透過力學把grip撬開，這在對手的grip是鬆散的S-grip時特別有效。第二，反轉旋轉方向，改攻Americana，因為他們互扣的雙手其實有利於相反方向的旋轉。第三，維持figure-four並耐心等待——他們的grip會比你的身體位置更快疲勞，你可以用小幅度的旋轉脈衝，一點一點破壞他們的連結。",
+    "safety_critical": false,
+    "answer_line": "用膝蓋或髖部撬開雙手",
+    "distractors": {
+     "plausible": [
+      "用手臂力量硬扯手腕",
+      "改攻衣領choke"
+     ],
+     "trap": [
+      "把身體抬離對手去拉grip"
+     ]
+    }
+   },
+   {
+    "question": "從Kesa Gatame施展Kimura的finish力學，和標準side control有什麼不同？",
+    "answer": "Kesa Gatame的垂直身體角度會創造出不同的旋轉平台。你不是在與對手平行的位置旋轉手臂，而是從垂直角度透過軀幹與髖部驅動旋轉，靠核心旋轉而不是肩膀與手臂的力量來產生力量。手臂原本就被夾在你腋下的預備狀態，也代表手肘從一開始就已經靠近你的身體，形成更緊的支點。這個角度通常能讓finish更快、更難防守。",
+    "safety_critical": false,
+    "answer_line": "用髖部與軀幹驅動旋轉",
+    "distractors": {
+     "plausible": [
+      "坐直身體硬拗手腕",
+      "把手肘壓進他的肋骨"
+     ],
+     "trap": [
+      "把胸口抬離增加扭力"
+     ]
+    }
+   },
+   {
+    "question": "你要如何判斷已經到達防守方無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點出現在figure-four完全鎖上、對手的手肘被固定在你的軀幹上、而且你已經開始把旋轉推過肩膀中立位置時。一旦那隻手越過對手的髖部連線，開始朝對側肩膀移動，防守grip幾乎不可能建立，肩關節的結構極限也正在迅速逼近。到了這個點，submission基本上已經完成，接下來應該只剩拍降。",
+    "safety_critical": false,
+    "answer_line": "手越過髖線，旋轉已過中段",
+    "distractors": {
+     "plausible": [
+      "grip一鎖上就算",
+      "對方停止橋起時"
+     ],
+     "trap": [
+      "快速旋轉測試是否鎖緊"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施展從Kesa Gatame發動的Kimura，有哪些關鍵安全考量？",
+    "answer": "旋轉要緩慢漸進地施加，至少維持3到5秒，絕對不能猛拉或突然加速。持續觀察夥伴的反應，留意任何顯示不適的跡象。確保他至少有一隻手隨時能自由拍降。只要出現任何拍降信號——口頭、手拍、腳拍或任何顯示痛苦的聲音——都要立刻放開。把手臂溫和地帶回中立位置，而不是突然放開。肩關節一旦到達結構極限，可能在幾分之一秒內就造成災難性損傷，這讓可控的施力方式變得至關重要。",
+    "safety_critical": true,
+    "answer_line": "緩慢旋轉，任何拍降都放開",
+    "distractors": {
+     "plausible": [
+      "只留意口頭拍降",
+      "固定住雙臂加強控制"
+     ],
+     "trap": [
+      "加速旋轉求快速拍降"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍降後，你應該如何放開從Kesa Gatame施展的Kimura？",
+    "answer": "感覺到或聽到拍降的那一刻，立刻停止所有旋轉壓力。以你施加鎖定時同樣受控的速度，反向緩慢旋轉，把手臂引導回中立位置。手臂回到舒適位置後，完全放開figure-four的grip。讓夥伴先自行評估肩膀的活動能力後再繼續訓練。絕對不要突然放開或讓手臂彈回去，因為方向的快速改變本身也可能對已經受壓的構造造成傷害。",
+    "safety_critical": true,
+    "answer_line": "拍降瞬間停止旋轉",
+    "distractors": {
+     "plausible": [
+      "先鬆開grip再回轉",
+      "先讓他們測試再放開"
+     ],
+     "trap": [
+      "再拗一下再放開"
+     ]
+    }
+   },
+   {
+    "question": "對手把手臂伸直來阻止Kimura的彎折——你要如何調整攻擊？",
+    "answer": "手臂伸直會打開兩個高成功率的轉換。第一，你可以維持手腕控制、反轉旋轉方向，改攻Americana，把手臂朝地墊方向外旋推去，這正好順著手臂伸直的角度。第二，你可以把髖部移到伸直的手臂上方，改攻armbar，利用伸展的手肘作為支點。關鍵是立刻認出這個防守，順勢轉換攻擊，而不是硬要把手臂重新彎回來。",
+    "safety_critical": false,
+    "answer_line": "改攻Americana或armbar",
+    "distractors": {
+     "plausible": [
+      "硬拗手腕逼手臂彎回",
+      "等手臂疲勞自然彎折"
+     ],
+     "trap": [
+      "放開手腕重新抓"
+     ]
+    }
+   },
+   {
+    "question": "在整個Kimura攻擊序列中，撐地的那條腿扮演什麼角色？",
+    "answer": "撐地的腿提供了讓整個攻擊得以成立的base。在grip轉換與finish旋轉的整個過程中，它必須保持大約45度張開的寬度。如果撐腿位置不對，對手就能在攻擊的任何階段橋起把你翻過去。當你旋轉finish時，撐腿可能需要調整角度，維持三點式的穩定。忽略腿部位置，是把一個佔優勢的submission嘗試，變成防守方反轉位置最常見的原因之一。",
+    "safety_critical": false,
+    "answer_line": "寬base能防止對手橋起翻滾",
+    "distractors": {
+     "plausible": [
+      "只有一開始才重要",
+      "把腿收緊靠近身體"
+     ],
+     "trap": [
+      "把腿抬起來找更好的角度"
+     ]
+    }
+   },
+   {
+    "question": "當Kimura嘗試失敗時，你要如何維持位置控制？",
+    "answer": "從Kesa Gatame施展的Kimura，即使失敗也設計成能維持位置優勢。如果對手防守成功，你仍保留figure-four grip，可以循環轉攻Americana或armbar。如果他橋起並轉身面向你，你就順勢轉上mount，同時維持grip控制。如果他shrimp逃脫，你就跟著進入他的guard，同時維持grip。25%的失敗結果會讓你回到Kesa Gatame Top，因為這個攻擊本質上是低風險的——你永遠不需要犧牲位置來嘗試submission。",
+    "safety_critical": false,
+    "answer_line": "保留grip，順勢轉下一個位置",
+    "distractors": {
+     "plausible": [
+      "直接跳去做armbar finish",
+      "重新抓grip前先去追mount"
+     ],
+     "trap": [
+      "放棄grip，撲去拿背後"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在grip建立之前，你要如何辨識對手正在設置從Kesa Gatame施展的Kimura？",
+    "answer": "主要的辨識線索包括：對手重新分配體重時，你臉上感受到的胸口與肩膀壓力增加；他鎖著你頭部的那隻手臂開始放鬆，準備放開；以及他的另一隻手開始收緊，抓住你靠近他那一側的手腕或前臂。對手的身體也可能微微轉動，面向你的手臂，而不是維持標準的Kesa Gatame角度。認出這些線索，能讓你在figure-four鎖上之前，取得建立防守grip的關鍵空檔。",
+    "safety_critical": false,
+    "answer_line": "胸口壓力增加，頭鎖手放鬆",
+    "distractors": {
+     "plausible": [
+      "對手把胸口壓平貼地",
+      "對手的腿跨過你的髖部"
+     ],
+     "trap": [
+      "等figure-four鎖上再理會"
+     ]
+    }
+   },
+   {
+    "question": "對從Kesa Gatame施展的Kimura拍降，最安全的方式是什麼？",
+    "answer": "用多個信號同時明確、強烈地拍降——大聲喊「拍」的口頭拍降、空出的手快速拍打對手或地墊的實際拍降，如果雙手都無法用，就用腳拍。在感覺到旋轉即將達到肩關節活動範圍極限時就提早拍降，不要等到感覺疼痛才拍。肩關節一旦到達結構極限，可能在幾分之一秒內就造成災難性損傷，這讓早期辨識與立即拍降，成為訓練安全的關鍵。",
+    "safety_critical": true,
+    "answer_line": "提早拍，口頭加上手/腳",
+    "distractors": {
+     "plausible": [
+      "只安靜地用手拍一次",
+      "用搖頭示意"
+     ],
+     "trap": [
+      "硬撐住，痛了才拍"
+     ]
+    }
+   },
+   {
+    "question": "在對抗從Kesa Gatame施展的Kimura時，各個階段有哪些防守選項？",
+    "answer": "grip轉換之前：讓手肘貼緊身體，防止手臂被孤立。grip轉換過程中：橋向對手，利用他暫時失去頭部控制的空檔。figure-four建立之後：立刻把雙手互扣，或抓住自己的腰帶，阻止旋轉。旋轉初期：用力伸直手臂，或轉身面向對手，縮小可用的旋轉範圍。一旦旋轉超過中段：立刻拍降，因為防守選項已經用盡，受傷風險變得非常嚴重。",
+    "safety_critical": false,
+    "answer_line": "在旋轉開始前先互扣雙手",
+    "distractors": {
+     "plausible": [
+      "伸手去抓對方遠端的衣領",
+      "鎖定後才用力橋起"
+     ],
+     "trap": [
+      "旋轉開始就翻滾逃離"
+     ]
+    }
+   },
+   {
+    "question": "在防守Kimura的旋轉時，為什麼轉身面向對手比轉身遠離更有效？",
+    "answer": "轉身面向對手，能透過改變你的軀幹與手臂之間的角度，縮小肩關節鎖能用的旋轉範圍。當你轉向他時，你的身體會跟著強制旋轉的方向移動，實際上減少了肩關節上的相對旋轉量。轉身遠離反而會增加肩關節上的旋轉壓力，因為你的身體是朝著強制方向的反方向移動。此外，轉身面向對手還會破壞他的垂直角度，可能創造出混戰翻盤的機會。",
+    "safety_critical": false,
+    "answer_line": "轉向對手能縮小旋轉範圍",
+    "distractors": {
+     "plausible": [
+      "不管怎麼轉都只是拖時間",
+      "能把手腕藏起來躲開grip"
+     ],
+     "trap": [
+      "轉身遠離並橋起逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Kesa Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

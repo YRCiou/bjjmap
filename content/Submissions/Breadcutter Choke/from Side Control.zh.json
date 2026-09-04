@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Breadcutter Choke/from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Breadcutter Choke 主要攻擊哪個解剖構造？",
+    "answer": "Breadcutter Choke 主要透過後頸的 collar 抓握與 cross-collar 前臂之間的剪刀式動作，同時壓迫兩側頸動脈。collar 拉扯一側頸動脈，前臂則壓過另一側，形成雙側血管壓迫，阻斷血液流向大腦。",
+    "answer_line": "同時壓迫兩側頸動脈",
+    "distractors": {
+     "plausible": [
+      "氣管與呼吸道",
+      "下顎與顏面神經"
+     ],
+     "trap": [
+      "扭轉頸部造成脊椎鎖"
+     ]
+    }
+   },
+   {
+    "question": "為什麼後頸 collar 抓握的深度對完成這個 choke 至關重要？",
+    "answer": "後頸抓握越深，收緊 choke 所需的距離就越短，也有更多 collar 布料能貼合對側頸動脈。抓握太淺會留下鬆弛的布料，讓對手有機會製造防守空間，而且在最後的 sprawl 時 collar 可能從動脈上滑開，大幅降低壓迫效果。",
+    "answer_line": "抓握越深，收緊 choke 越快",
+    "distractors": {
+     "plausible": [
+      "抓淺一點比較容易隱藏",
+      "只有 cross 前臂才重要"
+     ],
+     "trap": [
+      "餵入布料時坐起身抓更深"
+     ]
+    }
+   },
+   {
+    "question": "在開始餵入 collar 之前，你必須維持哪種控制才能避免對手逃脫？",
+    "answer": "你必須先建立紮實的 side control，包含將對手臉部推開的 crossface 壓力、胸對胸垂直接觸，以及用近側膝蓋擋住對手遠側髖部。如果沒有穩定的位置控制，當你的一隻手忙著餵 collar 時，對手就會趁機在抓握轉換階段逃脫。",
+    "answer_line": "Crossface 加膝蓋擋住髖部",
+    "distractors": {
+     "plausible": [
+      "Underhook 加頭部控制",
+      "只靠胸部壓力"
+     ],
+     "trap": [
+      "先放掉髖部控制"
+     ]
+    }
+   },
+   {
+    "question": "對手把下巴緊緊收起，擋住前臂穿過喉嚨——你該如何調整？",
+    "answer": "把前臂骨面壓過下顎線，而不是直接壓喉嚨。下顎會成為一個槓桿，把對手的下巴撬起、露出頸部。或者，你也可以用做 crossface 的那隻手先把對手下巴往上推，再把 choke 的前臂滑入定位。一旦前臂能咬住下顎，收下巴這個防守就會失效。",
+    "answer_line": "前臂骨面壓過下顎線",
+    "distractors": {
+     "plausible": [
+      "直接壓向氣管",
+      "改成把 collar 拉得更緊"
+     ],
+     "trap": [
+      "坐起身把頭往下扳"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你最後的 sprawl 階段用力 bridge，會發生什麼事？",
+    "answer": "如果抓握已經完全鎖定，維持 sprawl 並跟著 bridge 的動作走，胸口的重量持續壓在前臂上。只要你的位置正確，對手的 bridge 反而會幫助收緊 choke。但如果抓握還沒完全建立，bridge 可能會製造出足夠空間讓對手轉身回收 guard，這時你必須放棄 choke，改為鞏固 side control。",
+    "answer_line": "維持 sprawl，順著 bridge 走",
+    "distractors": {
+     "plausible": [
+      "挺身收緊 choke",
+      "跟上對手，重新扣緊抓握"
+     ],
+     "trap": [
+      "翻到背後，從 guard 完成"
+     ]
+    }
+   },
+   {
+    "question": "訓練時為什麼絕對不能用突然發力或猛拉的方式完成 Breadcutter Choke？",
+    "answer": "頸部突然受到的爆發力可能造成氣管損傷、頸椎受傷及頸動脈創傷，這些傷害可能需要手術，並花上數週甚至數月才能恢復。血液型 choke 會壓迫頸動脈，可能在數秒內造成失去意識，因此循序漸進、可控的施加方式，能讓訓練夥伴有足夠時間察覺並在失去意識前拍地。",
+    "answer_line": "有頸部受傷風險，沒有拍地時間",
+    "distractors": {
+     "plausible": [
+      "為了讓對手有時間逃脫",
+      "為了不讓對手措手不及"
+     ],
+     "trap": [
+      "風險只是輕微瘀青而已"
+     ]
+    }
+   },
+   {
+    "question": "當你的夥伴對 Breadcutter Choke 拍地時，正確的放開流程是什麼？",
+    "answer": "只要出現任何拍地訊號——包含口頭、手或腳的拍地，或身體癱軟——都要立刻放開 collar 抓握。把身體重量和壓力從對手頸部移開，讓他們轉到安全的姿勢，確認他們呼吸正常且意識清醒，並在繼續訓練前給他們恢復的時間。絕對不可以在拍地後還持續施力，哪怕只是片刻。",
+    "answer_line": "立刻放開，確認呼吸",
+    "distractors": {
+     "plausible": [
+      "只有口頭拍地才算數",
+      "重新抓握準備下一次"
+     ],
+     "trap": [
+      "撐到對方癱軟為止"
+     ]
+    }
+   },
+   {
+    "question": "當對手專注防守 collar 抓握時，Breadcutter Choke 可以如何串聯其他攻擊？",
+    "answer": "當對手專注於剝離 collar 抓握時，他們的手臂會離開身體，注意力也轉向手部纏鬥。這時就有機會攻擊暴露出來的手臂，發動 americana 和 kimura；當對手防禦性地把手臂橫過頸部時，也能設置 arm triangle；或者趁對手忙於防守抓握、無暇進行位置逃脫時，轉換到 mount 或 knee on belly。",
+    "answer_line": "攻擊手臂的 americana 或 kimura",
+    "distractors": {
+     "plausible": [
+      "等他們停止剝離抓握",
+      "改為攻擊下盤"
+     ],
+     "trap": [
+      "站起來重新開始抓握纏鬥"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 Breadcutter Choke 最早、也最有效的時機是什麼時候？",
+    "answer": "最有效的防守時機，是對手第一次嘗試把 collar 布料餵過你後頸的當下。在這個階段，只要用雙手剝離他們的手腕抓握，就能完全化解這次攻擊。一旦等到兩個 collar 抓握都已建立，防守會困難得多，因為你必須同時克服抓握的力量和對手的身體重量。",
+    "answer_line": "在餵布時就剝離手腕",
+    "distractors": {
+     "plausible": [
+      "抓握完成後才轉身",
+      "鎖定後才用前臂做 frame"
+     ],
+     "trap": [
+      "等兩個抓握都完成再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防守這個 choke 時要轉向對手，而不是轉離對手？",
+    "answer": "轉向對手會壓縮你後頸的空間，讓對手更難把 collar 餵得更深。轉離對手則會把 collar 拉開拉緊你的頸部，反而收緊了現有的抓握，也會露出更多遠側 collar。此外，轉離對手還可能暴露你的背部，造成比原本 side control 下位更糟的處境。",
+    "answer_line": "轉向對手方向",
+    "distractors": {
+     "plausible": [
+      "直接往後 bridge",
+      "放平身體等待時機"
+     ],
+     "trap": [
+      "翻開身體，放棄背部"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 Breadcutter Choke 拍地以避免受傷？",
+    "answer": "當你感覺到頸部兩側同時受到壓迫、且無法有效剝離任何一個 collar 抓握時，應立刻拍地。血液型 choke 一旦完全鎖定，最快四到六秒內就可能造成失去意識，不要等著看自己能不能撐過去。可以用口頭拍地、拍打對手或地板、或用腳拍地。訓練時要提早拍、常常拍。",
+    "answer_line": "無法剝離抓握就立刻拍地",
+    "distractors": {
+     "plausible": [
+      "只有感到疼痛才拍",
+      "壓力變尖銳時才拍"
+     ],
+     "trap": [
+      "撐著練耐受度"
+     ]
+    }
+   },
+   {
+    "question": "對手放開髖部控制、改抓 collar 時，如何為你創造防守機會？",
+    "answer": "當對手把控制髖部的手移去建立後頸抓握時，你的髖部會暫時失去直接控制。這時就出現一個機會可以做 hip escape，把近側膝蓋插入雙方身體之間，回收 half guard 或 closed guard。抓住這個時機非常關鍵，因為對手不可能同時控制你的髖部又建立 collar 抓握。",
+    "answer_line": "做 hip escape，回收 guard",
+    "distractors": {
+     "plausible": [
+      "把對手從胸口推開",
+      "攻擊對手遠側手臂"
+     ],
+     "trap": [
+      "轉身離開，暴露背部"
+     ]
+    }
+   },
+   {
+    "question": "面對 Breadcutter Choke 的威脅時，你應該對頸部維持什麼防守結構？",
+    "answer": "把近側的手放在 collar 高度，手指伸進自己的 collar 內側，擋住對手的手抓向你後頸布料的路徑。遠側的手則隨時準備剝離任何滑過第一道防守的抓握。手肘保持貼近肋骨，堵住通往 collar 的手部路徑，並在對手建立 cross 抓握時保留對前臂做 frame 的能力。",
+    "answer_line": "手指伸進自己的 collar",
+    "distractors": {
+     "plausible": [
+      "抓住對手兩邊的袖口",
+      "用雙掌蓋住頸部"
+     ],
+     "trap": [
+      "伸直手臂推開對手胸口"
+     ]
+    }
+   }
+  ]
+ }
+}

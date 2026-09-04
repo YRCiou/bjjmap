@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Invisible Collar 施展 Bow and Arrow Choke 時，主要壓迫哪些解剖構造來完成降伏？",
+    "answer": "Bow and Arrow choke 用 gi 領口布料壓迫頸部兩側的頸動脈。領口被折疊壓在頸部一側，同時前臂與手腕的旋轉壓入對側頸動脈。這種雙側壓迫限制了血液流向大腦，若絞技正確施加且未放開，會在 4-10 秒內造成昏迷。",
+    "safety_critical": true,
+    "answer_line": "兩側頸動脈",
+    "distractors": {
+     "plausible": [
+      "氣管與呼吸道",
+      "一側頸動脈、一側下顎"
+     ],
+     "trap": [
+      "頸椎，扭轉逼出拍降"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體徵兆能告訴你這個絞技正確地壓在頸動脈上，而不是下顎或氣管？",
+    "answer": "當絞技正確壓在頸動脈上時，對手的臉色會快速改變，而且他們會在幾秒內、而非幾分鐘內就想拍降。如果對手能忍受壓力超過 10 秒卻只是皺眉，絞技很可能壓在下顎上。如果他們在咳嗽或作嘔，壓力就是在氣管上。正確的血液絞技會產生一種安靜、穩定的壓力，讓對手無法單靠忍耐撐過去。",
+    "safety_critical": true,
+    "answer_line": "臉色迅速轉變，幾秒內拍降",
+    "distractors": {
+     "plausible": [
+      "皺眉忍耐超過十秒",
+      "皺眉撐過整整一分鐘"
+     ],
+     "trap": [
+      "作嘔代表絞得夠深"
+     ]
+    }
+   },
+   {
+    "question": "從 Invisible Collar 轉換到 Bow and Arrow 收技之前，必須先完全建立哪些控制要素？",
+    "answer": "Invisible Collar 抓握必須達到完整的四指深度，指節緊貼頸部。至少要維持一個 hook 以保持轉換過程中的背後控制。seatbelt 或 underhook 手臂必須空出來轉換成褲管抓握。身體姿勢必須能轉向領口抓握那一側，同時不失去胸部連結。在這些要素都固定之前就嘗試轉換，會導致嘗試失敗並失去位置。",
+    "safety_critical": false,
+    "answer_line": "深領口抓握、hook、空出的手臂",
+    "distractors": {
+     "plausible": [
+      "只要深領口抓握就夠",
+      "轉換前先固定雙 hook"
+     ],
+     "trap": [
+      "提早放開 seatbelt 去抓褲子"
+     ]
+    }
+   },
+   {
+    "question": "從 Invisible Collar 施展 Bow and Arrow Choke 時，什麼時間點對防守者來說會變得幾乎無法逃脫？",
+    "answer": "無法逃脫的臨界點出現在攻擊者已經固定深領口抓握與遠側褲管抓握，並開始倒向一側延展身體之後。到了這個階段，對抗的力量已經建立，防守者無法同時處理兩個控制點。在褲管抓握固定之前，防守者仍有實際的逃脫機會，可以透過轉身或剝除抓握來達成。",
+    "safety_critical": false,
+    "answer_line": "領口 + 褲管抓握，開始倒向一側",
+    "distractors": {
+     "plausible": [
+      "一旦領口抓握固定",
+      "一旦髖部開始位移"
+     ],
+     "trap": [
+      "在褲管抓握到手前就延展"
+     ]
+    }
+   },
+   {
+    "question": "在你開始 bow and arrow 的髖部位移時，對手開始轉身面向你，該如何調整以防止逃脫？",
+    "answer": "積極用遠側的 hook 擋住他們轉動的髖部，把他們拉回垂直於你的角度。同時加快抓褲管的速度，在對方完成轉身前先鎖定控制點。如果他們已經部分轉身，就順著他們的動作轉換成 mounted 版本的 bow and arrow，讓你最終在上位、維持相同的抓握配置，用重力輔助收技而不是對抗旋轉。",
+    "safety_critical": false,
+    "answer_line": "遠側 hook 擋轉身，搶抓褲管",
+    "distractors": {
+     "plausible": [
+      "放開抓握重新開始",
+      "硬靠旋轉完成絞技"
+     ],
+     "trap": [
+      "放開 hook 去追褲子"
+     ]
+    }
+   },
+   {
+    "question": "從 Invisible Collar 位置轉換到 bow and arrow 收技機制時，該如何調整領口抓握？",
+    "answer": "轉換過程中領口抓握本身的位置不需要改變。關鍵調整在於手腕的方向：當你倒向一側時，把手掌轉向自己的胸口，而不是面向對手的背部。這個旋轉會把領口布料勒緊在頸部，製造出收技所需的正確角度。轉換過程中不要試著重新抓握或調整手指位置，因為那會給對手一個剝除抓握的空檔。",
+    "safety_critical": false,
+    "answer_line": "旋轉手腕，手掌朝自己胸口",
+    "distractors": {
+     "plausible": [
+      "跌倒時重新抓深一點",
+      "把抓握滑向衣領邊"
+     ],
+     "trap": [
+      "放開一個 hook 去修正抓握"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展從 Invisible Collar 的 Bow and Arrow Choke 時，有哪些關鍵安全考量？",
+    "answer": "至少要以漸進的方式施力 3-5 秒，絕不能猛拉或突然延展。因為血液絞技可能很快造成昏迷，要全程留意夥伴的意識狀態。確保夥伴隨時能用至少一隻手或口頭拍降。收到任何拍降訊號都要立即放開。絕不要在拍降後仍持續施展來展示控制力。要特別注意腿部延展的部分，因為那可能會拉傷對手的膝蓋或髖部。",
+    "safety_critical": true,
+    "answer_line": "施力要慢，任何拍降都放開",
+    "distractors": {
+     "plausible": [
+      "困住雙臂讓對方無法撐地",
+      "先完全延展再施壓"
+     ],
+     "trap": [
+      "拍降訊號出現後仍持續"
+     ]
+    }
+   },
+   {
+    "question": "相較於標準的 bow and arrow 入位，Invisible Collar 的隱蔽抓握如何改變你的收技策略？",
+    "answer": "隱蔽的抓握意味著你可以更快、更堅決地投入 bow and arrow 的轉換，因為對手還沒來得及建立領口防守。標準入位時，你必須考量對手在你轉換過程中對抗領口抓握；而從 Invisible Collar 開始，抓握已經很深，所以你的全部注意力可以轉向髖部位移與褲管抓握的取得。這讓轉換能更爆發、更堅決地完成，因為最常被防守的階段已經被繞過了。",
+    "safety_critical": false,
+    "answer_line": "更快投入，跳過領口爭奪",
+    "distractors": {
+     "plausible": [
+      "仍要先爭奪領口抓握",
+      "放慢速度確認抓握深度"
+     ],
+     "trap": [
+      "放開抓握改公開重新建立"
+     ]
+    }
+   },
+   {
+    "question": "對手用雙手抓住自己的領口，阻止絞技收緊，你要如何突破這個防守？",
+    "answer": "他們用雙手防守領口，代表雙腿完全沒有控制。更積極地延展身體，製造出他們的抓握無法長期抵抗的額外壓力。同時，你可以把褲管抓握改抓遠側袖子，剝開一隻防守的手，或用腿去頂對方的髖部以增加拉伸距離。他們靜態的抓握防守無法對抗 bow and arrow 延展所帶來的全身力學優勢。",
+    "safety_critical": false,
+    "answer_line": "更用力延展，改抓袖子",
+    "distractors": {
+     "plausible": [
+      "逐一撬開他們的手",
+      "更用力頂進領口抓握"
+     ],
+     "trap": [
+      "放開領口去破解抓握"
+     ]
+    }
+   },
+   {
+    "question": "對手拍降後，該如何安全地放開從 Invisible Collar 施展的 Bow and Arrow Choke？",
+    "answer": "首先立刻放開領口抓握，停止所有拉扯的壓力。第二，同時放開褲管抓握並收回延展的雙腿。讓對手的頭頸自然回到中立位置，不要強行推動任何動作。確認對手是否清醒、有反應。若他們失去意識，讓他們平躺、抬高雙腿並持續監測呼吸，直到完全恢復。絕不要突然放開所有控制，那會讓對手以不自然的姿勢跌落。",
+    "safety_critical": true,
+    "answer_line": "放開領口抓握，停止拉扯",
+    "distractors": {
+     "plausible": [
+      "先收回雙腿再放開領口",
+      "先放開褲管抓握"
+     ],
+     "trap": [
+      "把頭猛拉回中立位置"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正從 Invisible Collar 轉換到 Bow and Arrow Choke？",
+    "answer": "關鍵指標是髖部向一側橫向位移，同時一個 hook 放開、另一個維持控制。接著攻擊者空出的手會伸過你的身體、伸向你遠側的褲腳。髖部位移、hook 改變加上跨身伸手，這三者的組合能把 bow and arrow 的設置與其他 Invisible Collar 攻擊區分開來，例如直接的領口絞或 rear naked choke 轉換。",
+    "safety_critical": false,
+    "answer_line": "髖部位移、換 hook、跨身伸手",
+    "distractors": {
+     "plausible": [
+      "突然雙 hook 收緊",
+      "深領口抓握單獨出現"
+     ],
+     "trap": [
+      "等到腿部延展才反應"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Invisible Collar 施展的 Bow and Arrow Choke，最安全的拍降方式是什麼，才能避免受傷？",
+    "answer": "在延展達到最大伸展之前，及早明確地拍降。同時使用多個拍降訊號：用空出的手用力拍打攻擊者身體或地板，同時口頭示意。如果一隻手被困住，就用雙腳大聲拍地板。完全延展後 bow and arrow 可能很快造成昏迷，所以一感覺到頸動脈開始受壓就要拍降，不要試圖忍耐或逃脫一個已經完全鎖死的絞技。",
+    "safety_critical": true,
+    "answer_line": "及早拍降，力道要明確",
+    "distractors": {
+     "plausible": [
+      "大喊即可，手保持空著",
+      "安靜地拍自己的腿"
+     ],
+     "trap": [
+      "撐著試圖活下來"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到從 Invisible Collar 開始的 bow and arrow 轉換正在發生時，最優先的防守行動是什麼？",
+    "answer": "最優先的是阻止褲管抓握被固定。一旦攻擊者同時擁有領口抓握與褲管抓握，延展會產生極難靠防守克服的力學力量。用近側手臂擋住他們伸過來的手，或立刻趁髖部位移的窗口轉身面向攻擊者。剝除深領口抓握的優先度較低，因為它更難移除，而且沒有相對的褲管抓握力量，bow and arrow 就無法完成收技。",
+    "safety_critical": false,
+    "answer_line": "阻止褲管抓握成功",
+    "distractors": {
+     "plausible": [
+      "先剝除深領口抓握",
+      "先防守 hook 放開"
+     ],
+     "trap": [
+      "完全轉離攻擊者"
+     ]
+    }
+   },
+   {
+    "question": "對手已經固定領口與褲管抓握並開始延展，什麼緊急逃脫方式能提供最好的生存機會？",
+    "answer": "用力橋向領口抓握那一側，同時把遠側膝蓋拉向胸口，以在褲管抓握中製造鬆弛。這個組合動作能縮短拉伸距離，可能製造足夠空間轉身面向攻擊者。如果你能讓肩膀轉過超過與攻擊者身體垂直的角度，絞殺角度就會大幅減弱。這是最後手段，成功與否取決於在完全延展鎖死之前的爆發性時機掌握。",
+    "safety_critical": false,
+    "answer_line": "向領口側橋，膝蓋收向胸口",
+    "distractors": {
+     "plausible": [
+      "向遠離領口那側橋",
+      "用雙手剝離褲管抓握"
+     ],
+     "trap": [
+      "直接往後推抵抗拉力"
+     ]
+    }
+   },
+   {
+    "question": "防守從 Invisible Collar 持續進行的 Bow and Arrow 嘗試時，該如何管理體力？",
+    "answer": "專注於維持有效率的持續防守姿勢，而不是很快耗盡的爆發動作。收下巴與監控抓握的動作應該是持續、低耗能的努力。把爆發性動作保留給特定時刻：當攻擊者放開一個 hook 準備轉換時，或當他們投入空出的手去抓褲管時。這些是爆發防守最有效的窗口。避免全身緊繃對抗絞技，因為這只會加速疲勞，卻無法真正減輕壓力。",
+    "safety_critical": false,
+    "answer_line": "節省體力，在防守窗口爆發",
+    "distractors": {
+     "plausible": [
+      "在抓握上及早頻繁爆發",
+      "全身緊繃對抗絞技"
+     ],
+     "trap": [
+      "用力頂向絞技方向"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Bow and Arrow Choke/from Invisible Collar.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

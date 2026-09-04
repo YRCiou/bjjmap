@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Cross Collar Choke鎖定的是哪些解剖構造？正確的grip位置如何達成壓迫效果？",
+        "answer": "Cross Collar Choke鎖定的是頸部兩側的頸動脈，負責將含氧血液輸送到大腦。正確的grip位置會讓每隻手腕的骨頭分別壓在對側的頸動脈上，形成X字形，同時衣領的布料繞過頸後形成一個封閉的系統。當手肘往地板方向下壓時，前臂會同時壓迫兩側頸動脈，造成腦部缺血並在數秒內失去意識。若位置不正確而壓在氣管中央，則會變成較慢、較痛苦的airway choke。",
+        "safety_critical": true,
+        "answer_line": "兩側頸動脈，手腕呈X形",
+        "distractors": {
+          "plausible": [
+            "壓氣管切斷呼吸",
+            "用手臂夾緊頸部肌肉"
+          ],
+          "trap": [
+            "扭喉嚨到對方喘不過氣"
+          ]
+        }
+      },
+      {
+        "question": "對手開始用雙手把你的第一個collar grip往外推剝離，你該如何調整？",
+        "answer": "當對方用雙手來剝離你的collar grip時，他們的手臂已經離開了防守自己身體的位置。此時立刻朝伸得最開的那隻手臂威脅armbar，開始把髖部轉向那隻手臂。這會迫使對方在「完成剝離grip（結果被armbar）」和「放棄剝離去防守armbar（讓你重新更深地建立collar grip）」之間做選擇。關鍵在於把剝離grip視為製造兩難的機會，而不是挫折。",
+        "safety_critical": false,
+        "answer_line": "威脅伸直那隻手臂的armbar",
+        "distractors": {
+          "plausible": [
+            "把collar grip扯得更深",
+            "改攻Americana"
+          ],
+          "trap": [
+            "坐直身體硬拚grip"
+          ]
+        }
+      },
+      {
+        "question": "相較於standard mount，Modified Mount對Cross Collar Choke有什麼特別的幫助？",
+        "answer": "Modified Mount在三方面有利於Cross Collar Choke。第一，posted leg提供穩定的支點，防止對方在grip纏鬥的脆弱階段做bridge-and-roll逃脫。第二，攻擊者的軀幹朝posted leg那側不對稱旋轉，天然對齊前臂以取得最佳的cross-collar角度。第三，跨身的膝蓋能持續維持壓制壓力而不需要用到手臂，讓雙手可以完全專注在collar的深入。standard mount則需要更多以手臂為主的控制，留給專門grip work的空間較少。",
+        "safety_critical": false,
+        "answer_line": "posted leg破解bridge-and-roll",
+        "distractors": {
+          "plausible": [
+            "增加壓制的髖部壓力",
+            "封死所有guard recovery"
+          ],
+          "trap": [
+            "雙手都撐地去追grip"
+          ]
+        }
+      },
+      {
+        "question": "有哪些跡象顯示你的collar grip夠深，足以造成blood choke而非airway choke？",
+        "answer": "夠深的grip會讓你的手指越過鎖骨線伸到對方頸後，你能感覺到衣領布料像圍巾一樣繞過對方的頸後。當你把手肘往地板方向拉時，壓力應該出現在頸部側面，而不是喉嚨前方。如果對方抱怨喉嚨壓迫或咳嗽而不是頭暈，代表grip太淺、壓在氣管上。正確的深度會產生一種安靜、漸進的擠壓，讓對方感覺到頸部兩側的壓力並出現視野變暗。",
+        "safety_critical": true,
+        "answer_line": "手指過鎖骨，壓在頸側",
+        "distractors": {
+          "plausible": [
+            "咳嗽代表choke正在生效",
+            "壓在喉嚨前方也沒關係"
+          ],
+          "trap": [
+            "扭緊脖子求快速tap"
+          ]
+        }
+      },
+      {
+        "question": "對手把下巴收得極緊、頸部僵直，你要如何製造grip穿入的空間？",
+        "answer": "面對極度收緊的下巴，可以用額頭或頭頂側壓對方的下顎，形成槓桿把下巴往上撬開頸部。也可以用collar drag的方式，讓第一個grip把衣領往側邊拉，轉動對方的頭部，暫時打開遠側的衣領空間以便深入插入。你也可以用前臂施加沉重的cross face壓力，把對方的頭轉開，再從露出的那一側餵入grip。原則是製造不對稱的頭部移動，一次打開一側的衣領，而不是正面硬拚收緊的下巴。",
+        "safety_critical": false,
+        "answer_line": "用頭部槓桿撬開下顎",
+        "distractors": {
+          "plausible": [
+            "用手指把下巴拉起來",
+            "把頭直接往後推"
+          ],
+          "trap": [
+            "坐高上胸口去搆"
+          ]
+        }
+      },
+      {
+        "question": "在訓練中施展Cross Collar Choke時，有哪些關鍵的安全考量？",
+        "answer": "施加壓力要緩慢漸進，至少花3-5秒，絕不能用爆發式的猛然收緊。要持續觀察夥伴是否有失去意識的徵兆，包括身體癱軟、眼睛上吊或握力消失，因為blood choke讓人失去意識的速度可能比對方能tap還快。一旦收到任何tap信號，不論是口頭、手還是腳，都要立刻放開。放開後要給夥伴時間恢復血液循環，並在繼續前確認他是否清醒。無論任何情況都不可以在tap之後還繼續握著choke，對新手夥伴尤其要格外謹慎，因為他們可能無法辨識失去意識的前兆。",
+        "safety_critical": true,
+        "answer_line": "慢慢施力，一tap就放手",
+        "distractors": {
+          "plausible": [
+            "只有口頭tap才放手",
+            "先問對方還好嗎再放鬆"
+          ],
+          "trap": [
+            "對方癱軟還繼續收緊"
+          ]
+        }
+      },
+      {
+        "question": "訓練夥伴tap之後，你應該如何放開Cross Collar Choke？",
+        "answer": "感覺到或聽到任何tap信號後，立刻同時鬆開雙手的collar grip，手指從衣領布料放開。轉換離開這個位置的過程中，不要保留任何collar的張力。放鬆跨身膝蓋的壓力和posted leg，讓夥伴的身體完全自由。給他們空間和時間恢復正常呼吸與血液循環。在繼續訓練前，用眼睛確認他們清醒且有反應。如果他們看起來意識不清或恢復緩慢，留在他身邊、讓他平躺、抬高雙腿，同時呼叫教練協助。",
+        "safety_critical": true,
+        "answer_line": "鬆開雙手grip，給對方空間",
+        "distractors": {
+          "plausible": [
+            "放一隻手，另一隻先握著",
+            "維持姿勢問對方還好嗎"
+          ],
+          "trap": [
+            "壓力維持到對方點頭"
+          ]
+        }
+      },
+      {
+        "question": "在比賽中，你第一個grip已經插深，但對手正積極抵抗第二個grip的插入，你有哪些收尾策略？",
+        "answer": "在已有一個深grip的情況下，你有幾個比賽收尾策略。第一，用單一grip的前臂壓力壓在近側頸動脈上，同時把手肘往地板下壓，造成部分壓迫，消耗對手的體力與緊迫感。第二，用空著的手控制對方防守的手腕，把它壓在胸口，再迅速轉換插入第二個collar grip。第三，佯裝轉換成armbar，逼對方收回防守的手臂，藉此創造第二個grip的空檔。第四，每次小開口就把手指一點一點往深處推進，而不是嘗試一次插到底，因為比賽中的grip纏鬥是靠持續的小幅推進取勝的。",
+        "safety_critical": false,
+        "answer_line": "壓制防守的手腕，再插入",
+        "distractors": {
+          "plausible": [
+            "轉去用Americana收尾",
+            "用蠻力硬把grip插進去"
+          ],
+          "trap": [
+            "爬到high mount再追grip"
+          ]
+        }
+      },
+      {
+        "question": "從Modified Mount鎖定Cross Collar Choke後，對方到了哪個時間點就已經無法逃脫？",
+        "answer": "無法逃脫的臨界點出現在雙手grip都已越過鎖骨深入、前臂呈X形交叉、手肘正往地板方向下壓的時候。到這個階段，雙側頸動脈的壓迫是結構性的而非靠肌肉出力，代表攻擊者能以極小的力氣維持這個擠壓，而防守方沒有任何辦法同時剝離兩個grip。Modified Mount的base能阻止position上的逃脫，防守方唯一的選項就是tap。認清這個臨界點對防守方非常關鍵，該知道何時要tap，而不是嘗試徒勞的逃脫、冒著失去意識的風險。",
+        "safety_critical": true,
+        "answer_line": "雙grip已深，前臂交叉",
+        "distractors": {
+          "plausible": [
+            "只靠單一衣領grip加壓力",
+            "用單一collar grip做cross face"
+          ],
+          "trap": [
+            "等到視野變暗才算數"
+          ]
+        }
+      },
+      {
+        "question": "你要如何把Cross Collar Choke的威脅整合進Modified Mount更廣泛的submission連鎖攻勢？",
+        "answer": "Cross Collar Choke是Modified Mount兩難式連鎖攻擊的核心。當你建立第一個collar grip時，防守方必須在「手臂收緊接受choke壓力」和「伸手去剝離grip（暴露手臂給armbar或americana）」之間做選擇。威脅choke逼對方把手抬起來，再攻擊那隻伸展的手臂。如果對方手臂收緊不動，就把choke收得更深。如果對方bridge逃脫，就用posted leg維持base並持續choke壓力。choke的威脅讓Modified Mount的其他每個攻擊都更具威脅性，因為防守方無法全力應對任何單一防守。",
+        "safety_critical": false,
+        "answer_line": "choke威脅逼手臂抬起",
+        "distractors": {
+          "plausible": [
+            "任何grip之前先獵手臂",
+            "對方防守就放掉choke"
+          ],
+          "trap": [
+            "撲去搶手臂而放掉mount"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "從Modified Mount設置Cross Collar Choke時，最早能察覺的徵兆有哪些？",
+        "answer": "最早的徵兆是對方一手掌心朝上餵入你遠側的衣領，同時體重朝你的頭部方向前移。你會感覺衣領布料開始收緊纏繞你的頸後，對方的胸口也會更沉重地壓向你的臉，好讓grip插得更深。此外，對方跨身的膝蓋壓力可能會在承諾雙手投入collar work之前先增加，藉此鞏固base。在第一個grip越過鎖骨之前先察覺這些徵兆，是關鍵的防守窗口。",
+        "safety_critical": false,
+        "answer_line": "掌心朝上餵入，體重前移",
+        "distractors": {
+          "plausible": [
+            "先抓雙邊袖口",
+            "髖部滑向你的腿"
+          ],
+          "trap": [
+            "等grip深了再說"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候應該對Cross Collar Choke tap，而不是繼續纏鬥grip？",
+        "answer": "當雙手collar grip都已深越過鎖骨、對方前臂呈X形交叉、手肘正往地板方向下壓時，要立刻tap。此時雙側頸動脈的壓迫已是結構性的，攻擊者能以極小的力氣持續維持。blood choke在完全施力後3-8秒就會造成失去意識，比大多數逃脫嘗試還快。訓練自己辨識這個無法逃脫的臨界點並及時tap，是一項關鍵的安全技能，能避免不必要的失去意識。",
+        "safety_critical": true,
+        "answer_line": "雙grip已深，手肘下壓",
+        "distractors": {
+          "plausible": [
+            "等到再也無法bridge",
+            "只要一邊衣領一收緊就tap"
+          ],
+          "trap": [
+            "撐到視野變暗再tap"
+          ]
+        }
+      },
+      {
+        "question": "對抗第一個collar grip插入的主要防守策略是什麼？",
+        "answer": "用兩手同時對付對方grip那隻手，形成two-on-one的grip纏鬥。一手控制對方手腕以阻止進一步插深，另一手把collar布料從對方指間剝離。這種集中的防守比單手抵抗更有效，因為對方單手的握力無法克服你雙手合力的剝離力量。代價是暫時失去防守的frame，所以要迅速執行剝離動作，然後立刻重新建立防守姿勢。",
+        "safety_critical": false,
+        "answer_line": "two-on-one剝離對方grip手",
+        "distractors": {
+          "plausible": [
+            "單手擋住對方手腕",
+            "把頭從grip那側移開"
+          ],
+          "trap": [
+            "雙手撐在對方髖部上"
+          ]
+        }
+      },
+      {
+        "question": "相較於standard mount，Modified Mount的結構如何影響你的逃脫選項？",
+        "answer": "Modified Mount的posted leg讓逃脫選項出現方向性的偏移。對抗standard mount有效的bridge-and-roll逃脫，在posted leg的base下會被化解，但不對稱的體重分布會在posted leg那一側留下空隙，可以用hip escape來利用。跨身的膝蓋把壓力集中在一側，讓posted leg那一側相對較輕。你最好的逃脫方向永遠是朝posted leg那一側，用frame頂住對方的髖部，製造空間讓hip escape進入那一側的half guard或closed guard。",
+        "safety_critical": false,
+        "answer_line": "朝posted leg方向hip escape",
+        "distractors": {
+          "plausible": [
+            "像standard mount一樣bridge and roll",
+            "朝著膝蓋壓力那側逃"
+          ],
+          "trap": [
+            "推對方的頭騰空間"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Submissions/Cross Collar Choke/from Modified Mount.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

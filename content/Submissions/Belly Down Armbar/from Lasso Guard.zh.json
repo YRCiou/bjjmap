@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Lasso Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Lasso Guard 主要攻擊的是哪個解剖構造？",
+    "answer": "這個 submission 主要攻擊肘關節，目標是讓尺側副韌帶（ulnar collateral ligament）與關節囊過度伸展。透過控制性的伸展對抗自然活動範圍，在肘部造成壓力，逼對手在結構性傷害發生前拍降。二次應力則落在肱二頭肌肌腱上，因為它會抵抗這個被迫的伸展動作。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩袖旋轉",
+      "手腕韌帶屈曲"
+     ],
+     "trap": [
+      "頸部——用力扭轉逼對手拍降"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他位置，從 Lasso Guard 發動 armbar 的主要優勢是什麼？",
+    "answer": "Lasso Guard 提供其他位置沒有的預先手臂隔離。小腿穿過三頭肌加上袖口 grip，代表目標手臂在 armbar 序列開始前就已經與對手的防禦結構分離，省去了整個攻擊中最困難的一步。這縮短了轉換時間，也提高了進入的成功率。",
+    "safety_critical": false,
+    "answer_line": "手臂已預先被隔離",
+    "distractors": {
+     "plausible": [
+      "更好的 base 和 posture",
+      "更容易露出背部"
+     ],
+     "trap": [
+      "放開 lasso 去抓腿"
+     ]
+    }
+   },
+   {
+    "question": "對手在轉換過程中開始向前堆疊重量——該如何調整才能避免被逃脫？",
+    "answer": "當對手向前堆疊重量時，順勢改變攻擊方向以利用他們的前衝動能。可以轉換成利用對手承重的 overhead sweep，或者暫時放棄 armbar，改用 omoplata 或 triangle 進入，利用他們已破勢的姿態。他們堆疊重量的動作，只要你順勢調整而非硬撐原本的 armbar，其實會創造新的 submission 機會。",
+    "safety_critical": false,
+    "answer_line": "順勢轉為 sweep 或 triangle",
+    "distractors": {
+     "plausible": [
+      "放開 grip 重新來過",
+      "把對手拉回攤平"
+     ],
+     "trap": [
+      "對手堆疊時硬做 armbar"
+     ]
+    }
+   },
+   {
+    "question": "整個流程中，什麼時機該放開纏繞在對手手臂上的 lasso？",
+    "answer": "只有在雙腿已經穩固定位並夾緊手臂、進入 armbar 姿勢之後，才能放開 lasso 纏繞。如果太早放開 lasso，對手可能在你用雙腿建立控制之前就把手臂抽走。lasso 是你主要的保持機制，必須維持到雙腿的次要控制完全建立並承重為止。",
+    "safety_critical": false,
+    "answer_line": "雙腿完全夾緊手臂之後",
+    "distractors": {
+     "plausible": [
+      "破勢之後就放",
+      "絕不放——保持到結束"
+     ],
+     "trap": [
+      "擺腿的同時就放掉"
+     ]
+    }
+   },
+   {
+    "question": "施展 Belly Down Armbar from Lasso Guard 時，關鍵的安全考量是什麼？",
+    "answer": "belly down 姿勢會產生極大的槓桿優勢，能非常快速地傷害肘關節。務必緩慢、漸進地施加伸展，絕不能猛拉或突刺手臂。持續注意口頭與肢體的拍降訊號。趴姿會把力量放大到超出大多數練習者的預期，因此控制性的施力對於避免嚴重韌帶損傷或關節囊撕裂至關重要。",
+    "safety_critical": true,
+    "answer_line": "緩慢伸展，任何拍降都要放開",
+    "distractors": {
+     "plausible": [
+      "只信任口頭拍降",
+      "夾緊膝蓋以求更好控制"
+     ],
+     "trap": [
+      "突刺手臂逼對手拍降"
+     ]
+    }
+   },
+   {
+    "question": "拍降之後，應該如何釋放 Belly Down Armbar 以避免受傷？",
+    "answer": "一收到任何拍降訊號，立刻先放低手腕以釋放伸展壓力，接著鬆開膝蓋的夾緊，最後完全脫離。不要等待確認或重複的拍降。放開後檢查訓練夥伴的手臂活動度，確認沒有腫脹、活動範圍受限或疼痛的跡象後再繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "先釋放伸展壓力",
+    "distractors": {
+     "plausible": [
+      "先放膝蓋再放手腕",
+      "一次全部放開"
+     ],
+     "trap": [
+      "稍微撐住以確認拍降"
+     ]
+    }
+   },
+   {
+    "question": "對手在 belly down 收尾階段嘗試朝你的方向旋轉來做 hitchhiker escape——你該如何維持控制？",
+    "answer": "跟隨對手的旋轉調整你的髖部位置，維持對肘關節的垂直壓力。持續夾緊膝蓋，並把髖部朝對手的頭部方向移動，關閉他們在翻滾過程中製造出的任何空隙。belly down 姿勢本來就比仰躺的 armbar 更能抵抗 hitchhiker escape，但你必須主動追蹤他們的旋轉動作，才能維持與肘部對齊。",
+    "safety_critical": false,
+    "answer_line": "追蹤旋轉，保持垂直",
+    "distractors": {
+     "plausible": [
+      "抓住對手腰帶撐住",
+      "坐回仰躺式 armbar"
+     ],
+     "trap": [
+      "放開雙腿重新調整角度"
+     ]
+    }
+   },
+   {
+    "question": "從 lasso 控制轉換到 armbar 收尾姿勢時，需要做哪些 grip 調整？",
+    "answer": "在雙腿穩固夾緊手臂之後，從單手袖口 grip 轉換成雙手手腕控制。初始的袖口 grip 在腿部擺動的轉換過程中維持保持力，但手腕控制能提供更精確的收尾機制。用雙手抓住手腕，拇指指向同一方向，將手腕緊拉貼胸，以控制精確的伸展角度。",
+    "safety_critical": false,
+    "answer_line": "袖口 grip 改為雙手抓手腕",
+    "distractors": {
+     "plausible": [
+      "維持單手袖口 grip",
+      "改用 figure-four grip"
+     ],
+     "trap": [
+      "放開 grip 去調整髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手在 belly down 收尾時抓住自己的手腕做防禦性握姿——正確的應對方式是什麼？",
+    "answer": "採用系統性的破 grip 方式。向上 bridge 你的髖部以改變角度，在他們扣緊的雙手之間製造分離空間。用 two-on-one 方式剝離，一次一根手指地把防守手的手指剝開。或者，改用 triangle 威脅，放開一條腿並穿入防守手臂下方，這會迫使對手放開 grip 去防守新的 submission。",
+    "safety_critical": false,
+    "answer_line": "Bridge 髖部，剝開 grip",
+    "distractors": {
+     "plausible": [
+      "直接向後拉硬拔",
+      "換邊重設角度"
+     ],
+     "trap": [
+      "放開雙腿重新抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 belly down 姿勢比標準仰躺式 armbar 收尾更有效？",
+    "answer": "belly down 姿勢讓對手無法透過 stack、翻滾或把手臂拉向自己來逃脫。你的體重直接壓在對手背上，重力協助伸展力道，對手也無法產生大多數標準 armbar 逃脫所需要的髖部動作。這使得在成功從 lasso guard 進入完成旋轉之後，belly down 收尾特別可靠。",
+    "safety_critical": false,
+    "answer_line": "阻斷 stack、翻滾與抽手臂",
+    "distractors": {
+     "plausible": [
+      "submission 時間更快",
+      "從任何 guard 都更容易進入"
+     ],
+     "trap": [
+      "趴下後就放開雙腿"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在設置 Belly Down Armbar from Lasso Guard？",
+    "answer": "關鍵指標包括：袖口 grip 張力大幅增加，把你被 lasso 纏住的手臂往前下方拉；guard 選手放開 lasso 的那條腿脫離你的髖部或二頭肌，開始朝你的頭部方向移動；以及他們的髖部急遽轉向與你身體垂直，製造旋轉空間。從側向的 sweep 壓力轉變為向前下方的拉力，代表攻勢已從 sweep 攻擊轉為 submission 設置。",
+    "safety_critical": false,
+    "answer_line": "袖口下拉，腿朝頭部移動",
+    "distractors": {
+     "plausible": [
+      "對手抓住你的衣領",
+      "他們的髖部貼平地面"
+     ],
+     "trap": [
+      "對手的 grip 突然放鬆"
+     ]
+    }
+   },
+   {
+    "question": "在 Belly Down Armbar 姿勢下手臂正在被伸展時，最安全的回應是什麼？",
+    "answer": "立刻用任何可用的訊號拍降——口頭拍降、拍打對手或地面、或用腳拍地。一旦 belly down 姿勢建立，不要嘗試對抗伸展，因為槓桿優勢極端，肘部可能在持續施壓不到一秒內就承受韌帶損傷。及早且明確地拍降，同時用多種訊號確保訓練夥伴能察覺到你在提交。",
+    "safety_critical": true,
+    "answer_line": "用聲音、手或腳及早拍降",
+    "distractors": {
+     "plausible": [
+      "抓自己的 gi 拖延時間",
+      "用力向上 bridge 髖部"
+     ],
+     "trap": [
+      "撐到韌帶斷裂才拍降"
+     ]
+    }
+   },
+   {
+    "question": "在攻擊者完成 belly-down 旋轉之前，有哪些防守選項？",
+    "answer": "在旋轉完成之前，最好的選項是向前堆疊你的重量以阻斷腿部擺動所需的空間；在 lasso 纏繞已放開、但 armbar 雙腿尚未固定的短暫轉換窗口中把手臂抽出來；或者積極 posture up 完全破壞袖口 grip。一旦 belly down 姿勢完全建立、手臂被困住，這三種選項幾乎都不再可行。",
+    "safety_critical": false,
+    "answer_line": "堆疊重量，抽出手臂",
+    "distractors": {
+     "plausible": [
+      "去抓對手的遠側衣領",
+      "拉 guard 拖延時間"
+     ],
+     "trap": [
+      "等被鎖住後再逃"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在轉換階段防守，比等 belly down 姿勢完全建立後才防守更關鍵？",
+    "answer": "Belly Down Armbar 利用體重與重力壓制對手，幾乎消除了所有標準 armbar 逃脫方式。趴姿下的槓桿優勢極為壓倒性，讓後期逃脫既不可靠又危險。在從 lasso 轉換到 armbar 的過程中，grip 轉換的短暫時刻會讓攻擊者的控制暫時減弱——這些瞬間才是真正可行的逃脫機會。",
+    "safety_critical": true,
+    "answer_line": "後期逃脫幾乎沒用",
+    "distractors": {
+     "plausible": [
+      "轉換中期 grip 最緊",
+      "belly-down 會減輕肘部壓力"
+     ],
+     "trap": [
+      "省點力，等鎖定後再逃"
+     ]
+    }
+   }
+  ]
+ }
+}

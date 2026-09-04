@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Armbar Control 進行的 Kimura 主要攻擊哪些解剖構造？",
+    "answer": "從 Armbar Control 進行的 Kimura 透過強制內旋來鎖定肩關節，把彎曲的前臂與手腕往對手的下背方向逼，特別對旋轉肌袖（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊、盂唇以及周邊韌帶造成壓力。旋轉力量集中在肱骨與肩胛骨相接的盂肱關節上。",
+    "answer_line": "透過內旋鎖定肩關節",
+    "distractors": {
+     "plausible": ["透過過伸鎖定手肘", "透過屈曲施壓鎖定手腕"],
+     "trap": ["透過扳頸鎖定頸椎"]
+    }
+   },
+   {
+    "question": "對手十指緊扣來阻擋 kimura 的旋轉，你該立刻做出什麼調整？",
+    "answer": "把你上方的手楔入對手緊扣的雙手之間，用剝開的動作把手撬開。如果對方的握力太強，就維持你的 figure-four，用雙腿持續對他的頭部施加下壓力，同時保持肩部的旋轉張力。他們的握力會比你的位置控制先耗盡。如果對手伸直手臂想重新緊扣，你也可以轉換回 armbar。",
+    "answer_line": "楔入手掌，剝開握拳",
+    "distractors": {
+     "plausible": ["放棄 kimura，換成 guard", "用力硬拉緊扣的雙手"],
+     "trap": ["放開雙腿以取得角度"]
+    }
+   },
+   {
+    "question": "從同樣的 armbar control 位置完成 armbar 和完成 kimura，兩者在力學上最關鍵的差異是什麼？",
+    "answer": "armbar 是靠抬髖對伸直的肘關節產生直線伸展力，支點在手肘。kimura 則是靠彎曲手臂的內旋產生旋轉力，把手腕往下背方向逼，支點在肩膀。armbar 需要手臂伸直，kimura 則需要手臂彎曲。兩者都利用髖部貼近肩膀的位置，但力的方向從垂直伸展變成肩部旋轉。",
+    "answer_line": "旋轉 vs 直線伸展",
+    "distractors": {
+     "plausible": ["kimura 需要手臂伸直", "兩者都以手肘為支點"],
+     "trap": ["kimura 是拉扯，armbar 是旋轉"]
+    }
+   },
+   {
+    "question": "要如何抓準從 armbar 轉換到 kimura 的握法時機，才不會失去位置控制？",
+    "answer": "只有在確認三個條件之後才開始轉換握法：你的雙腿已經緊緊夾住對手的頭部與軀幹、你的髖部牢牢固定在他的肩膀上，以及對手明顯已經把手臂彎超過 90 度。用一個流暢的動作把 figure-four 的握法穿好，不要猶豫地慢慢調整。從決定轉換到完成握法，整個過程不該超過兩秒。",
+    "answer_line": "先腿、髖、彎曲，再上握法",
+    "distractors": {
+     "plausible": ["先上握法，再固定雙腿", "越快轉換越好"],
+     "trap": ["放鬆雙腿以騰出握手的手"]
+    }
+   },
+   {
+    "question": "在從 armbar control 完成 kimura 的過程中，你的雙腿扮演什麼角色？",
+    "answer": "在完成 kimura 的過程中，你的雙腿有三個關鍵功能。第一，橫過對手臉部的那條腿能防止他坐起或找回 posture。第二，雙腿夾緊形成鉗制，限制對手軀幹的旋轉，防止他翻滾逃脫。第三，雙腿能固定你的身體位置，讓你的髖部與肩膀之間的連結在手臂施加旋轉鎖定時仍保持穩定。",
+    "answer_line": "阻擋 posture、鉗制、固定髖部",
+    "distractors": {
+     "plausible": ["只是阻止對手坐起", "騰出雙腿去控制另一側"],
+     "trap": ["放開雙腿以增加握力"]
+    }
+   },
+   {
+    "question": "在訓練中施展 Kimura from Armbar Control 時，有哪些關鍵安全守則？",
+    "answer": "施加旋轉壓力時要緩慢漸進，至少維持三到五秒，絕不能猛然施力或瞬間衝擊肩部。確保夥伴至少有一隻手能自由拍地拍降（tap），或能用口頭喊停。只要出現任何 tap 訊號，立刻停止所有旋轉。放開後要輕柔地把手臂帶回中立位置。絕對不要試探夥伴肩部柔軟度或忍痛程度的極限。對曾經肩傷的夥伴要格外小心。",
+    "answer_line": "緩慢施力，見 tap 即停",
+    "distractors": {
+     "plausible": ["快速施力以防止逃脫", "推到柔軟度的極限"],
+     "trap": ["忽略口頭 tap，等拍地訊號"]
+    }
+   },
+   {
+    "question": "夥伴 tap 之後，你應該如何解除 Kimura from Armbar Control？",
+    "answer": "一偵測到 tap，立刻停止所有旋轉壓力。緩慢地把旋轉方向反轉，引導前臂回到起始位置，而不是直接放手。等手臂回到中立位置後，才完全放開 figure-four 的握法。讓夥伴自己活動肩膀的活動範圍，先自我評估後再繼續。絕對不要突然放手，因為手臂彈回會造成額外的關節壓力。",
+    "answer_line": "停止、緩慢回正、再放開",
+    "distractors": {
+     "plausible": ["維持 figure-four 直到他們坐起", "在還握著時讓他們自己旋轉"],
+     "trap": ["直接放手讓手臂彈回"]
+    }
+   },
+   {
+    "question": "你已經上好 figure-four 握法，但對手開始把手臂伸直，你該做什麼調整？",
+    "answer": "如果對手在你握著 figure-four 時把手臂伸直，你有兩個立即的選擇。第一，如果手臂幾乎伸直，就放開 figure-four，立刻轉換回標準的 armbar 完成動作，把手腕拉向你的胸口並抬起髖部。第二，如果手臂只是部分伸直，就維持 figure-four，利用它把手腕拉向對手的肩膀，重新把手臂彎回來，等彎曲重新建立後再繼續 kimura 的旋轉。",
+    "answer_line": "手臂伸直就轉換成 armbar",
+    "distractors": {
+     "plausible": ["不管情況強行旋轉", "放開握法重新擺位"],
+     "trap": ["放棄控制直接站起來"]
+    }
+   },
+   {
+    "question": "在完成 Kimura from Armbar Control 時，什麼跡象代表對手已經無法逃脫？",
+    "answer": "當三個條件同時成立時，就代表已經到了無法逃脫的地步：對手的手肘牢牢釘在你的胸口，形成一個無法移動的支點；你的髖部緊貼在他的肩膀上，阻止任何向前逃脫的空間；而內旋已經把他的前臂帶過了自己軀幹的平面。一旦前臂越過背部的那條線，光靠力量已經不可能抵抗這個旋轉槓桿了。",
+    "answer_line": "手肘釘死，前臂越過軀幹",
+    "distractors": {
+     "plausible": ["figure-four 握法已經鎖死", "雙腿交叉扣在胸口上"],
+     "trap": ["對手放鬆不再掙扎"]
+    }
+   },
+   {
+    "question": "從 Armbar Control 施展的 Kimura，在戰略上跟從 side control 或 mount 施展的 Kimura 有什麼不同？",
+    "answer": "從 armbar control 出發時，kimura 能受益於原本就已經孤立手臂並用雙腿控制上半身的優勢，這些是其他位置需要另外建立的。雙腿能阻止對手坐起，不需要額外的 cross face 或 underhook 控制，而髖部貼近肩膀的關係也已經建立好。不過代價是，攻擊方的 base 比在 side control 或 mount 時來得不穩，更容易被翻滾反擊或 bridge 逃脫破壞。握法轉換的時間窗也比較窄，因為對手隨時可能把手臂伸直。",
+    "answer_line": "base 較不穩，但手臂已孤立",
+    "distractors": {
+     "plausible": ["穩定度跟 side control 一樣", "跟 side control 一樣需要 underhook"],
+     "trap": ["base 比 mount 更穩"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 armbar 轉換到 kimura 時，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是感覺到對手其中一隻手放開了對你手腕的控制，開始從外側穿入你彎曲的前臂下方。你也可能注意到施力方向的改變，從沿著你手臂長度的直線拉扯，變成環繞你前臂的圓形旋轉力。握法從原本開放式的手腕控制，變成環繞式的 figure-four，就是最確定的訊號。",
+    "answer_line": "手穿入你的前臂下方",
+    "distractors": {
+     "plausible": ["手腕上的壓力增加", "對手向後靠以取得槓桿"],
+     "trap": ["等到肩膀開始痛才反應"]
+    }
+   },
+   {
+    "question": "為了避免受傷，你應該在什麼時候對 Kimura from Armbar Control 拍降？",
+    "answer": "只要感覺到肩膀的內旋已經到達你能舒適承受的活動範圍極限，就要立刻 tap。不要等到疼痛出現，因為肩部的傷害往往在明顯疼痛之前就已經發生。如果 figure-four 已經鎖死、手肘被釘住、而且旋轉已經開始，那麼力學優勢已經完全倒向攻擊方。訓練時提早 tap 能保護你的肩膀健康，讓你隔天還能繼續訓練。",
+    "answer_line": "在舒適旋轉極限就 tap",
+    "distractors": {
+     "plausible": ["figure-four 一鎖死就 tap", "手肘被釘住時才 tap"],
+     "trap": ["等到劇痛才 tap"]
+    }
+   },
+   {
+    "question": "什麼樣的防守姿勢能讓 kimura 的旋轉失效？",
+    "answer": "最有效的防守姿勢結合三個要素：把手肘緊緊夾在自己肋骨旁，讓對手找不到支點；手掌指向天花板，強化旋轉肌袖對內旋的抵抗力；並把身體轉向被夾住手臂的那一側，讓軀幹的旋轉抵消攻擊方的旋轉力。這三層防守分別針對這個關節技槓桿系統的每一個環節。",
+    "answer_line": "手肘貼肋骨，手掌指天花板",
+    "distractors": {
+     "plausible": ["用空出的手推對方的髖部", "轉身背離被夾住的手臂"],
+     "trap": ["伸直手臂來對抗旋轉"]
+    }
+   },
+   {
+    "question": "你要如何利用 armbar 與 kimura 之間的兩難，來創造防守機會？",
+    "answer": "這個兩難是雙向的。快速在伸直手臂（防守 kimura，但暴露在 armbar 風險下）和彎曲手臂（防守 armbar，但暴露在 kimura 風險下）之間切換，會迫使攻擊方不斷在兩種攻擊之間轉換。每一次轉換都會出現一個短暫的空檔，此時對方的握法正在改變、控制力也會下降。把你的逃脫時機抓在這些轉換的瞬間，也就是攻擊方握法交替之間。",
+    "answer_line": "交替彎伸手臂迫使對方重來",
+    "distractors": {
+     "plausible": ["完全伸直手臂並維持", "手臂僵直不動，等對方力竭"],
+     "trap": ["完全放鬆手臂以減輕壓力"]
+    }
+   },
+   {
+    "question": "防守 Kimura from Armbar Control 時，bridge 的正確方向是哪個？",
+    "answer": "要往 kimura 那一側 bridge，也就是往前臂被旋轉的方向。這樣能直接對抗攻擊方的旋轉力，並破壞他髖部貼肩的固定點。往相反方向 bridge 是一個嚴重的錯誤，反而會幫攻擊方完成旋轉。把 bridge 跟手肘緊貼肋骨、身體轉向 bridge 方向這兩個動作結合，防守效果會最好。",
+    "answer_line": "往 kimura 那一側 bridge",
+    "distractors": {
+     "plausible": ["直接向上 bridge，不轉身", "bridge 後往對方雙腿方向翻滾"],
+     "trap": ["往 kimura 反方向 bridge"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Armbar Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

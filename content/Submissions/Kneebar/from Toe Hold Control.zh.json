@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kneebar/from Toe Hold Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Toe Hold Control 出發的 kneebar 主要攻擊哪些解剖結構？",
+    "answer": "這個 kneebar 透過過度伸展壓力攻擊膝蓋的後十字韌帶、內側副韌帶與關節囊。髖部推向膕窩（膝蓋後方），雙手則把小腿往反方向拉，形成支點迫使膝蓋超出自然伸展範圍。半月板與周圍結締組織也會承受次要壓力。",
+    "safety_critical": false,
+    "answer_line": "PCL、MCL、關節囊",
+    "distractors": {
+     "plausible": [
+      "跟腱與小腿肌腱",
+      "膝蓋骨與股四頭肌肌腱"
+     ],
+     "trap": [
+      "髖屈肌與髂脛束"
+     ]
+    }
+   },
+   {
+    "question": "對手的哪種防禦反應能顯示 kneebar 轉換的機會已經出現？",
+    "answer": "當對手為了緩解 toe hold 對腳踝的旋轉而伸直腿部、內轉膝蓋以限制旋轉扭力，或推開你以拉開與 toe hold 握法的距離時，kneebar 的機會就出現了。這三種反應都會讓膝蓋後側暴露在過度伸展攻擊之下——不是拉直了腿線，就是為髖部重新對位到膕窩創造了空間。",
+    "safety_critical": false,
+    "answer_line": "腿伸直或膝蓋內轉",
+    "distractors": {
+     "plausible": [
+      "對手把腳趾往下壓",
+      "對手抓住你近側手腕"
+     ],
+     "trap": [
+      "對手把膝蓋彎得更緊"
+     ]
+    }
+   },
+   {
+    "question": "在關鍵的握法轉換期間，如何維持對腿部的控制？",
+    "answer": "在放開 toe hold 的 figure-four 握法之前，先用內收肌的力量把雙膝緊緊夾住對手的大腿上段。這個第二控制點能在你的手從腳掌轉移到小腿的短暫瞬間，繼續困住對手的腿。膝蓋夾緊必須先建立並鎖死，figure-four 才能放開。若沒有這個控制的重疊，對手就能從縫隙中抽腿逃脫。",
+    "safety_critical": false,
+    "answer_line": "先夾緊膝蓋固定大腿",
+    "distractors": {
+     "plausible": [
+      "先放開握法再夾膝蓋",
+      "先換手再夾膝蓋"
+     ],
+     "trap": [
+      "立刻打開 figure-four"
+     ]
+    }
+   },
+   {
+    "question": "什麼跡象顯示對手已經到達 kneebar 無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點出現在：你的髖部緊貼膕窩、沒有任何縫隙，雙膝夾住大腿防止側向逃脫，雙手在小腿上建立閉鎖握法，且對手的自由腿已被中和。當這四個控制點同時鎖死後，對手無法彎曲膝蓋、無法旋轉脫離，也無法拉開距離——只剩下 tap 一途。",
+    "safety_critical": false,
+    "answer_line": "髖貼緊、膝夾住、握法鎖死",
+    "distractors": {
+     "plausible": [
+      "只有髖部貼緊膝蓋",
+      "只鎖住小腿上的雙手"
+     ],
+     "trap": [
+      "對手停止抗議掙扎"
+     ]
+    }
+   },
+   {
+    "question": "對手開始彎曲膝蓋以防止過度伸展——你該如何調整？",
+    "answer": "持續維持髖部對膝蓋後方的壓力，等待對手的腿因等長收縮而疲勞。如果他持續彎曲而你無法克服，就改回 toe hold，重新在現在露出的腳掌上建立 figure-four 握法。這會重新創造原本的兩難局面，逼他選擇要防禦哪一個 submission。能在兩種攻擊之間循環，正是這個連續技如此有效的原因。",
+    "safety_critical": false,
+    "answer_line": "維持壓力，循環回 toe hold",
+    "distractors": {
+     "plausible": [
+      "放開重新從頭開始",
+      "被動等待對方 tap"
+     ],
+     "trap": [
+      "放手並站起來"
+     ]
+    }
+   },
+   {
+    "question": "施加從 Toe Hold Control 出發的 kneebar 時，最危險的收招錯誤是什麼？",
+    "answer": "最危險的錯誤是用猛力拱橋而非漸進施壓。一旦達到斷裂臨界點，膝蓋韌帶可能在幾分之一秒內撕裂，猛力施加不會給訓練夥伴留下處理疼痛並 tap 的時間。訓練中，髖部伸展至少要花 3-5 秒逐漸累積，並持續觀察夥伴的反應。這個單一錯誤是 kneebar 造成嚴重膝傷的主要原因。",
+    "safety_critical": true,
+    "answer_line": "猛力拱橋而非漸進施壓",
+    "distractors": {
+     "plausible": [
+      "膝蓋夾得不夠緊",
+      "太早放開握法"
+     ],
+     "trap": [
+      "過度出招而被反掃"
+     ]
+    }
+   },
+   {
+    "question": "收到 tap 訊號後，應該如何立即放開 kneebar？",
+    "answer": "立即停止所有髖部伸展，並把髖部從對手腿部移開以解除過度伸展的壓力。不要只是放鬆——要主動把髖部往後移動以創造空間。維持位置控制，避免夥伴受傷的膝蓋做出不規則的動作，但要讓他以自己的節奏抽腿。放開後口頭確認夥伴沒有受傷再繼續。",
+    "safety_critical": true,
+    "answer_line": "立即把髖部往後移開",
+    "distractors": {
+     "plausible": [
+      "只是放鬆握力",
+      "慢慢放鬆壓力"
+     ],
+     "trap": [
+      "維持姿勢並詢問是否還好"
+     ]
+    }
+   },
+   {
+    "question": "如果對手的腿在收招時開始向側邊滑動，你該如何調整握法？",
+    "answer": "如果腿向側邊滑動，立即加大內收肌力量收緊膝蓋對大腿的夾制。同時把手肘更貼緊身體，收緊小腿上握法的縫隙。把身體微微轉向滑動的方向，把腿重新對回中心。如果調整後滑動仍持續，代表收招已經失效——改回 toe hold 或轉攻 outside ashi-garami，而不是硬撐一個正在瓦解的 kneebar。",
+    "safety_critical": false,
+    "answer_line": "收緊夾制，身體轉向內側",
+    "distractors": {
+     "plausible": [
+      "讓腿自由滑動",
+      "推開對手的髖部"
+     ],
+     "trap": [
+      "硬撐著滑動繼續收招"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的比賽策略能提高這個連續 submission 的成功率？",
+    "answer": "在比賽中，先全力投入 toe hold——施加真正能收招的壓力，逼出真實的防禦反應，而不是敷衍的鋪墊。相信 toe hold 就是主攻的對手，防禦時會更投入，這反而為 kneebar 轉換創造更大的破口。要在對手正忙於防禦、心思完全鎖定在腳踝上時抓準時機轉換。在比賽壓力下，對手的認知資源本就有限，轉換時的突襲效果會被放大。",
+    "safety_critical": false,
+    "answer_line": "先全力投入 toe hold",
+    "distractors": {
+     "plausible": [
+      "同時威脅兩個 submission",
+      "拖延等待破口出現"
+     ],
+     "trap": [
+      "完全跳過 toe hold"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在轉換到 kneebar 之前，真正威脅 toe hold 是至關重要的？",
+    "answer": "沒有真正的 toe hold 威脅，對手就沒有理由做出暴露膝蓋的防禦反應。kneebar 的機會正是來自對手伸直腿部或內轉膝蓋——而這些動作只有在腳踝真正受到攻擊時才會出現。虛晃或半心半意的 toe hold 會讓對手能同時防禦兩種攻擊，因為他不需要在兩者之間做出取捨。這個兩難局面只有在兩種威脅都真實可信時才會成立。",
+    "safety_critical": false,
+    "answer_line": "逼出真正的防禦反應",
+    "distractors": {
+     "plausible": [
+      "耗盡對手的腿部體力",
+      "拿到積極進攻分數"
+     ],
+     "trap": [
+      "保證能快速拿下 tap"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正從 toe hold 轉換到 kneebar？",
+    "answer": "關鍵辨識訊號是：攻擊者放開他抓你腳掌的 figure-four 握法，把手轉向你的小腿；他的髖部開始向前移向你的膝蓋後方；你感覺到膝蓋後方壓力增加，而腳踝的旋轉壓力減少；他的雙膝更用力夾住你的大腿。在握法轉換期間辨識出這些訊號，能給你最好的防禦時機。",
+    "safety_critical": false,
+    "answer_line": "握法鬆開，髖部前移",
+    "distractors": {
+     "plausible": [
+      "腳踝旋轉壓力增加",
+      "對手換攻 armbar"
+     ],
+     "trap": [
+      "不用管它，不需防禦"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 kneebar 出 tap，而不是繼續對抗這個 submission？",
+    "answer": "當你感覺到過度伸展的壓力正逐漸累積、你的防禦手段已經用盡——膝蓋彎曲的抵抗正被克服、握法對抗已經失敗、自由腿也無法拉開距離——時，就要立即 tap。一旦達到斷裂臨界點，膝蓋韌帶可能在幾分之一秒內撕裂，受傷的時間軸遠比大腦評估選項的速度更快。沒有任何一輪訓練值得冒膝蓋重建手術的風險。",
+    "safety_critical": true,
+    "answer_line": "選項用盡就 tap",
+    "distractors": {
+     "plausible": [
+      "只在劇痛時才 tap",
+      "相信夥伴會放慢速度"
+     ],
+     "trap": [
+      "硬撐到最後才逃脫"
+     ]
+    }
+   },
+   {
+    "question": "當你辨識出從 toe hold control 轉換到 kneebar 時，有哪些防禦選項？",
+    "answer": "主要有四種防禦：立即彎曲膝蓋以拒絕過度伸展；在對手尚未建立閉鎖握法前的轉換窗口內對抗他的握法；配合自由腿製造 frame 來執行 hip escape 抽腿；以及朝被困的腿滾動以打亂對手的髖部對位。最有效的做法是在轉換期間同時彎曲膝蓋並對抗握法，因為這樣能同時應付眼前的威脅與對手建立控制的能力。",
+    "safety_critical": false,
+    "answer_line": "彎曲膝蓋並對抗握法",
+    "distractors": {
+     "plausible": [
+      "硬把腿拉直抽出",
+      "去抓對手遠側的衣領"
+     ],
+     "trap": [
+      "朝被困的腿反方向滾動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼握法轉換的窗口是防禦最關鍵的時刻？",
+    "answer": "在握法轉換期間，攻擊者已經放開 toe hold 的 figure-four，卻還沒在你的小腿上建立好 kneebar 握法。這個短暫的窗口是他對你腿部控制最弱的時刻，因為兩種 submission 都還沒完全鎖死。在這個時刻積極對抗握法並抽腿，成功率最高。一旦攻擊者建立起髖部貼緊、握法穩固的閉鎖系統，逃脫就會變得極其困難。",
+    "safety_critical": false,
+    "answer_line": "兩種 submission 都還沒鎖死",
+    "distractors": {
+     "plausible": [
+      "攻擊者此時重心不穩",
+      "攻擊者握力已耗盡"
+     ],
+     "trap": [
+      "等待之後更好的時機"
+     ]
+    }
+   },
+   {
+    "question": "從半鎖死的 kneebar 中抽腿，最安全的身體力學是什麼？",
+    "answer": "使用配合腿部內轉的角度式 hip escape，而不是直線硬拉。把膝蓋朝胸口畫圓，同時把腳向內旋轉，以 kneebar 力學無法跟上的角度抽腿。直線向後拉扯其實會增強攻擊者的槓桿優勢，並可能在受力下把腿拉直。搭配自由腿在攻擊者髖部製造 frame，創造逃脫所需的空間。",
+    "safety_critical": true,
+    "answer_line": "角度式逃脫，膝蓋內轉",
+    "distractors": {
+     "plausible": [
+      "用力把腿向後直拉",
+      "改成向外旋轉膝蓋"
+     ],
+     "trap": [
+      "突然用力踢開"
+     ]
+    }
+   }
+  ]
+ }
+}

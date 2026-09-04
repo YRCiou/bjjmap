@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/North-South Choke/from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "North-South Choke 鎖定哪些解剖結構？雙側壓迫是如何運作的？",
+   "answer": "這個 choke 同時鎖定兩側頸動脈。勒頸手臂的二頭肌壓迫近側頸動脈，同時肩膀與胸大肌壓迫遠側頸動脈。這種雙側阻斷會切斷腦部血流，正確施壓下 5 到 10 秒內就會使對手失去意識。氣管也可能承受次要壓迫，但主要機制是血流阻斷（blood choke），不是氣管阻斷（air choke）。",
+   "safety_critical": true,
+   "answer_line": "二頭肌加肩膀同時鎖雙側頸動脈",
+   "distractors": {
+    "plausible": [
+     "二頭肌壓的是喉嚨，不是頸動脈",
+     "crossface 的壓力才是切斷血流的原因"
+    ],
+    "trap": [
+     "主要是氣管的空氣阻斷"
+    ]
+   }
+  },
+  {
+   "question": "你準備開始這個 choke 時，對手的近側手臂正撐在你的髖部做 frame ——你該怎麼做？",
+   "answer": "你必須先清除近側手臂的 frame，才能穿臂進行 choke。將你的 underhook 游得更深，用肩膀壓力瓦解對手的 frame。或者，用你做 crossface 的那隻手把對手的手腕推到頭頂上方，或推向對手另一側的髖部。如果對手的手臂仍卡在中間就穿臂，會擋住頸動脈的壓迫，choke 就無法生效，變成一個不舒服但沒有效果的擠壓。",
+   "safety_critical": false,
+   "answer_line": "先清除 frame 再穿臂",
+   "distractors": {
+    "plausible": [
+     "直接繞過 frame 穿臂",
+     "把對手的手肘壓到墊子上"
+    ],
+    "trap": [
+     "不清 frame 直接用力鎖緊"
+    ]
+   }
+  },
+  {
+   "question": "在這個位置中，乾淨的血流阻斷（blood choke）與頸部扭轉（neck crank）有什麼差別？為什麼這很重要？",
+   "answer": "乾淨的血流阻斷用二頭肌與肩膀壓迫兩側頸動脈，能安全地使對手失去意識，痛感很小。當手臂穿得太淺（手肘停在下巴而不是穿過下巴）時，就會變成扭轉頸椎的 neck crank，而不是壓迫動脈。頸部扭轉會造成明顯疼痛、有頸椎受傷的風險，而且作為終結技並不可靠。訓練時，施壓前務必確認手肘的深度已經穿過下巴，抵達頸部的遠側。",
+   "safety_critical": true,
+   "answer_line": "手肘穿過下巴才是乾淨的 choke",
+   "distractors": {
+    "plausible": [
+     "手肘停在下巴也沒關係",
+     "頸部扭轉只是比較慢的 choke"
+    ],
+    "trap": [
+     "用力扭轉逼對手拍擊"
+    ]
+   }
+  },
+  {
+   "question": "你已經穿臂並開始轉位，但施壓 5 秒後 choke 感覺還是鬆的——你該嘗試哪些調整？",
+   "answer": "第一，把髖部再往完全 north-south 的方向走一點，改變肩膀的角度。第二，轉動你做 choke 那隻手的手腕，讓掌心朝天花板，讓橈骨更有效地旋入頸動脈。第三，確認你的 sprawl 已經完成，髖部貼平墊子——髖部抬高會降低肩膀壓力。如果這些調整都無法讓 choke 變緊，就放開並重新建立 side control，不要死守一個消耗你體力的爛位置。",
+   "safety_critical": false,
+   "answer_line": "手腕轉掌心朝上，髖部壓平",
+   "distractors": {
+    "plausible": [
+     "用同樣角度加大力道擠壓",
+     "把對手的頭拉低咬得更深"
+    ],
+    "trap": [
+     "維持位置，耐心等待"
+    ]
+   }
+  },
+  {
+   "question": "為什麼在整個從 side control 轉位到 choke 位置的過程中，維持胸口貼緊如此關鍵？",
+   "answer": "胸口貼緊有兩個作用：一是阻止對手創造空間插入 frame、轉身，或恢復 guard；二是維持能讓勒頸手臂穿得更深的壓力。如果你在轉位過程中哪怕短暫抬起胸口，對手就能 bridge 出空間、把近側手臂伸進 choke 之中，或是 shrimp 髖部逃開重新建立 half guard。轉位與壓力是不可分割的——每一步走向 north-south 的動作都應該增加壓迫，而不是釋放壓迫。",
+   "safety_critical": false,
+   "answer_line": "轉位過程中絕不抬起胸口",
+   "distractors": {
+    "plausible": [
+     "只在最後階段才施壓",
+     "胸口放輕，改用髖部加重"
+    ],
+    "trap": [
+     "抬身確認位置是否正確"
+    ]
+   }
+  },
+  {
+   "question": "當訓練夥伴對這個 choke 拍擊投降時，你必須立刻做哪些動作？",
+   "answer": "立刻放開所有手臂的壓力，把肩膀從對手頸部移開。完全從對手頭頸部位置滾開，消除任何殘留的壓迫。讓夥伴以側躺姿勢恢復，保持呼吸道暢通。觀察對手意識與呼吸是否恢復正常。不要用手去移動對手的頸部——讓他自然活動。如果對手在拍擊前就已經失去意識，立刻通知教練，並將他放置在恢復姿勢。",
+   "safety_critical": true,
+   "answer_line": "立刻放開，確認呼吸狀況",
+   "distractors": {
+    "plausible": [
+     "慢慢鬆開，再完全放開",
+     "先問對方還好嗎，再放開"
+    ],
+    "trap": [
+     "多撐一下確認對方真的拍擊了"
+    ]
+   }
+  },
+  {
+   "question": "當你開始走向 north-south 時，對手突然爆發性地 bridge，你該如何維持 choke 的設置？",
+   "answer": "立刻壓低髖部，用力 sprawl 吸收 bridge 的向上力道。讓胸口的重量沉重地壓在對手臉部與上胸，而不是浮在上方。只要維持胸貼胸的直接接觸，bridge 就無法產生足夠的空間。如果對手創造出短暫的空隙，快速將你外側的腳向後撤，防止對手恢復 guard，並重新安置你的重量後再繼續轉位。Bridge 最危險的時刻，是在你重心轉移、正處於轉位途中時被抓到。",
+   "safety_critical": false,
+   "answer_line": "重壓 sprawl，維持胸貼胸",
+   "distractors": {
+    "plausible": [
+     "重量浮起以保持機動性",
+     "用手撐地承受 bridge"
+    ],
+    "trap": [
+     "抬高身體以躲避力道"
+    ]
+   }
+  },
+  {
+   "question": "在比賽中，這個 choke 緩慢的轉位過程能帶來什麼策略優勢？",
+   "answer": "從 side control 慢慢轉位到 north-south 的過程，會把這個終結技的設置偽裝成單純的位置調整。裁判與對手往往要到手臂已經穿得很深、位置已經鎖死時，才意識到 choke 的威脅。這代表對手的防守反應會來得太遲，choke 已經部分完成。此外，緩慢的轉位過程令人洩氣，逼對手花費體力去防守一個感覺像是壓力過人、而非submission 攻擊的東西，在較長的比賽中創造心理優勢。",
+   "safety_critical": false,
+   "answer_line": "把攻擊偽裝成位置調整",
+   "distractors": {
+    "plausible": [
+     "能更快拿到 guard-pass 得分",
+     "讓你在比賽中途休息"
+    ],
+    "trap": [
+     "宣告要 choke 對手來威嚇他"
+    ]
+   }
+  },
+  {
+   "question": "終結階段你的自由手要抓什麼位置？為什麼？",
+   "answer": "自由手通常會抓住你自己在勒頸手臂那一側的大腿，或伸到對手遠側腋下取得控制握點。抓自己的大腿能把身體鎖成一個緊密的 frame，防止對手把你的肩膀推開，並穩定勒頸手臂的角度。伸到遠側腋下則能控制對手轉身逃脫的能力，並增加拉力來輔助壓迫。具體抓哪個握點取決於對手的防守姿勢，但兩種做法都能穩固位置，增加終結時的壓力。",
+   "safety_critical": false,
+   "answer_line": "抓自己大腿或遠側腋下",
+   "distractors": {
+    "plausible": [
+     "改抓對手遠側的衣領",
+     "自由手撐在墊子上"
+    ],
+    "trap": [
+     "抬胸口去伸手抓更遠的位置"
+    ]
+   }
+  },
+  {
+   "question": "你如何判斷防守方已經到了無法逃脫的地步？",
+   "answer": "無法逃脫的階段是：你的勒頸手臂已穿過對手下巴，抵達頸部遠側；肩膀直接壓在近側頸動脈上；髖部完全 sprawl 貼平，雙腿張開。到這個階段，對手沒有任何辦法把手臂伸進 choke 之中，也無法有效對抗你 sprawl 的底座來 bridge，更無法 shrimp，因為你的胸口重量已經釘死他的上半身。此時只要持續加壓，就能立即產生頸動脈壓迫。三個條件全部滿足時，終結只是逐步加壓的問題。",
+   "safety_critical": false,
+   "answer_line": "手臂過下巴，髖部完全壓平",
+   "distractors": {
+    "plausible": [
+     "crossface 鎖死，雙腿併攏",
+     "手臂已穿，但髖部仍抬高"
+    ],
+    "trap": [
+     "胸口抬起，用力擠壓"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "對手正從 Side Control 設置 North-South Choke 時，最早的警訊有哪些？",
+   "answer": "最早的訊號包括：crossface 的壓力超出一般 side control 的程度，手臂逐漸滑到你頸部下方更深處；對手主動清除或壓制你的近側手臂；以及對手開始把身體走向 north-south，方式是把外側腳跨過你的頭部。這三個訊號只要出現任一組合，就代表對手正在設置 choke，你必須在對手完成穿臂之前立刻採取防守動作。",
+   "safety_critical": false,
+   "answer_line": "crossface 加深、對手走向 north",
+   "distractors": {
+    "plausible": [
+     "對手把手撐在你遠側髖部",
+     "對手在你身下拉 half guard"
+    ],
+    "trap": [
+     "對手只是在調整重心"
+    ]
+   }
+  },
+  {
+   "question": "你應該在什麼時候對 North-South Choke 拍擊投降？該用什麼訊號？",
+   "answer": "當你感覺到頸部兩側同時受壓、無法呼吸或開始感到頭暈時，要立刻拍擊。不要等看看自己能不能逃脫——血流阻斷型 choke 在 5 到 10 秒內就會讓人失去意識。可以用手快速拍打對手身體、口頭喊拍，或用腳快速拍打墊子。如果你的雙臂被困住，就大聲口頭喊拍。重點是要在你感覺自己開始意識模糊之前就拍擊，因為隨著意識減退，反應時間也會跟著變慢。",
+   "safety_critical": true,
+   "answer_line": "一感到雙側壓迫就立刻拍擊",
+   "distractors": {
+    "plausible": [
+     "先等看看能不能逃脫",
+     "等視線模糊了才拍擊"
+    ],
+    "trap": [
+     "試著硬撐過昏迷前的階段"
+    ]
+   }
+  },
+  {
+   "question": "為什麼正確的防守反應是轉身面向攻擊者，而不是轉身背對？",
+   "answer": "轉身面向攻擊者能擋住手臂的穿入，讓你的近側肩膀與手臂卡在對手二頭肌與你的頸部之間。這樣做也能讓你爭取到 underhook，並阻止對手取得 north-south 的角度。轉身背對則會暴露頸部後方，讓手臂穿入更容易，因為少了阻礙，同時也讓你無法有效地做 frame。唯一可能適用轉身背對的情況，是非常早期的 turtle 轉位，但這也有自身的風險。",
+   "safety_critical": false,
+   "answer_line": "轉身面向對手擋住穿臂",
+   "distractors": {
+    "plausible": [
+     "維持平躺等待空間出現",
+     "伸手到後方去抓對手的頭"
+    ],
+    "trap": [
+     "轉身背對，暴露後背"
+    ]
+   }
+  },
+  {
+   "question": "如果勒頸手臂已經穿入，但攻擊者還沒完全 sprawl 到最終位置，你最好的防守選項是什麼？",
+   "answer": "把你的近側手臂插入 choke 的空間中，阻擋頸動脈的壓迫。你的前臂卡在對手二頭肌與你頸部之間，能防止血流阻斷生效。同時積極地做 hip escape，並努力轉身面向攻擊者以破壞他的底座。這只是暫時的手段——用手臂阻擋能爭取時間，但無法長久維持。你必須利用這段時間，逃回 guard，或逼攻擊者放棄 choke 重新回到 side control。",
+   "safety_critical": false,
+   "answer_line": "前臂插入阻擋，同時 hip escape",
+   "distractors": {
+    "plausible": [
+     "抓住對手手腕把它拉出來",
+     "turtle 起來保護頸部"
+    ],
+    "trap": [
+     "保持不動，保存體力"
+    ]
+   }
+  }
+  ]
+ }
+}

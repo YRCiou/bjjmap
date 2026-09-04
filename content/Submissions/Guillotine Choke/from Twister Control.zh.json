@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Guillotine Choke/from Twister Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從Twister Control施展的吉諾丁勒頸，主要攻擊哪些解剖構造？",
+    "answer": "這個吉諾丁勒頸主要壓迫雙側頸動脈，限制血液流向大腦，造成失去意識。氣管與呼吸道可能受到次要壓力。高肘變化式透過將腕骨角度精準對準頸側的動脈溝，更精確地鎖定頸動脈，並減少對氣管的接觸。",
+    "safety_critical": true,
+    "answer_line": "雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "主要是氣管與呼吸道",
+      "頸動脈與氣管各半"
+     ],
+     "trap": [
+      "扭轉脊椎逼對方拍降"
+     ]
+    }
+   },
+   {
+    "question": "對手出現什麼防守反應，會為你創造出從Twister Control設下吉諾丁的機會？",
+    "answer": "對手為了逃脫脊椎旋轉，把頭與上半身轉向上位選手，正是創造出guillotine機會的關鍵反應。這個「轉入」逃脫是Twister Control下最常見的逃脫嘗試，它會因為抬起下巴、將喉嚨轉向攻擊者手臂而暴露頸部前方，為勒頸手臂創造出清楚的路徑。",
+    "safety_critical": false,
+    "answer_line": "轉入以逃脫扭轉",
+    "distractors": {
+     "plausible": [
+      "橋橫式製造空間",
+      "直接向上posture"
+     ],
+     "trap": [
+      "抬起下巴看向對方"
+     ]
+    }
+   },
+   {
+    "question": "從Twister Control轉換到guillotine的過程中，為什麼必須維持腿部纏繞？",
+    "answer": "腿部纏繞能阻止對手posture up、拉開距離，或做出剝離吉諾丁手鎖所需的爆發性髖部動作。若沒有腿部控制，對手可以直接站起、把你stack住，或posture逃出勒頸。這個纏繞能保留位置優勢，讓這個吉諾丁變化式比從中性位置進入更有效。",
+    "safety_critical": false,
+    "answer_line": "阻止posture、拉開、髖部逃脫",
+    "distractors": {
+     "plausible": [
+      "保留back-control得分",
+      "增加勒頸手臂的壓力"
+     ],
+     "trap": [
+      "放開雙腿以擠得更用力"
+     ]
+    }
+   },
+   {
+    "question": "從Twister Control鎖上的吉諾丁一旦完成，防守方到了哪個時間點就已經無法逃脫？",
+    "answer": "當高肘手鎖完全扣住，腕骨與頸動脈對位正確，攻擊者的髖部也角度轉向勒頸那一側時，就達到了無法逃脫的臨界點。一旦手肘拉緊貼住肋骨、上半身捲曲，光靠防守性的posture已不足以緩解動脈壓迫。到這個階段，防守方應立即拍降，而不是冒著失去意識的風險。",
+    "safety_critical": true,
+    "answer_line": "高肘扣緊且髖部轉向",
+    "distractors": {
+     "plausible": [
+      "前臂第一次接觸頸部就是",
+      "雙腿第一次交叉扣住就是"
+     ],
+     "trap": [
+      "等對方癱軟再說"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降之後，應該如何放開從Twister Control設下的吉諾丁？",
+    "answer": "只要出現拍降訊號，立即打開手鎖釋放勒頸手臂的壓力，並將前臂移離頸部。在放開任何剩餘的腿部纏繞之前，先解除頭頸控制。協助訓練夥伴坐起，並監測其呼吸與意識狀態。若出現任何延遲恢復的跡象，應立即尋求醫療協助。",
+    "safety_critical": true,
+    "answer_line": "打開手鎖，前臂離開頸部",
+    "distractors": {
+     "plausible": [
+      "先解腿纏，再解頸部",
+      "先讓對方坐起再解開"
+     ],
+     "trap": [
+      "撐一下確認拍降才放"
+     ]
+    }
+   },
+   {
+    "question": "你正轉換成吉諾丁手鎖時，對手開始猛力posture up，什麼調整能阻止逃脫？",
+    "answer": "立即pull guard，放開腿部纏繞，改用雙腿環抱對手腰部扣上closed guard。用雙腿把腳跟往臀部方向拉，破壞對手的posture。這樣能移除對手的base，並運用整個下半身來阻止posture逃脫。一旦在guard中破壞了對手的posture，就重新收緊手鎖完成勒頸。",
+    "safety_critical": false,
+    "answer_line": "pull guard，用雙腿破posture",
+    "distractors": {
+     "plausible": [
+      "用力往後仰以拉緊",
+      "手撐地面找base"
+     ],
+     "trap": [
+      "跟著對方站起來，靠手鎖硬撐"
+     ]
+    }
+   },
+   {
+    "question": "什麼手鎖調整能讓血液阻斷式勒頸的效果最大化，而不是變成neck crank？",
+    "answer": "將髖部轉向勒頸手臂那一側，讓前臂骨面對準頸動脈，而不是橫壓在氣管上。使用高肘手鎖，讓非勒頸手扣住勒頸手腕，手肘朝上指。上半身以捲曲的方式發力，而非橫向拉扯。角度正確的血液阻斷式勒頸完成得更快、造成的疼痛更少，也比neck crank更安全。",
+    "safety_critical": true,
+    "answer_line": "骨面對準頸動脈，非氣管",
+    "distractors": {
+     "plausible": [
+      "扣住手腕，手肘朝下",
+      "髖部轉離勒頸手臂"
+     ],
+     "trap": [
+      "鬆開雙腳，用力橫向拉扯"
+     ]
+    }
+   },
+   {
+    "question": "什麼情況下應該放棄吉諾丁嘗試、回到Twister Control？",
+    "answer": "若嘗試的前兩到三秒內手鎖沒有乾淨地鎖上、對手在前臂越過下巴線之前成功收緊下巴，或是你的腿部控制已經惡化到對手能自由posture，就應該放棄吉諾丁。位置不佳的吉諾丁只會浪費力氣，並葬送你原本已握有的Twister Control。",
+    "safety_critical": false,
+    "answer_line": "前2到3秒手鎖沒鎖乾淨",
+    "distractors": {
+     "plausible": [
+      "等10秒後再重新評估",
+      "前臂開始疲勞時"
+     ],
+     "trap": [
+      "翻到背後去完成勒頸"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，若你從Twister Control轉換成拉guard來完成吉諾丁，得分會如何變化？",
+    "answer": "從Twister Control上位轉換成拉guard來完成吉諾丁，會失去原本上位所帶來的優勢與control points。在多數規則下，拉guard不會得分，在部分組織中甚至可能被扣分。只有當吉諾丁手鎖已足夠穩固能夠完成時，這個取捨才值得——因為若從guard下位攻降伏失敗，位置上將是明顯的退步。",
+    "safety_critical": false,
+    "answer_line": "失去上位control points",
+    "distractors": {
+     "plausible": [
+      "拉guard會得分",
+      "分數完全不受影響"
+     ],
+     "trap": [
+      "手鎖鬆散也直接拉guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些視覺與觸覺線索，能顯示攻擊者正從Twister Control轉換成吉諾丁？",
+    "answer": "主要的線索是攻擊者放開了原本扣在你頭部或手臂上的Twister手鎖、感覺到他們的前臂正穿入你的下巴下方，以及胸口壓力從你的背部轉移到你的頸部與肩膀。若「轉入」逃脫感覺出乎意料地容易，通常代表攻擊者正在鼓勵你轉入，好取得攻擊你頸部的位置來設guillotine。",
+    "safety_critical": false,
+    "answer_line": "前臂穿入下巴下方",
+    "distractors": {
+     "plausible": [
+      "手鎖收緊扣住臉部",
+      "胸口壓力壓向背部"
+     ],
+     "trap": [
+      "用力往空曠處轉入"
+     ]
+    }
+   },
+   {
+    "question": "被Twister Control設下的吉諾丁困住時，最安全的拍降方式是什麼？",
+    "answer": "用手清楚且重複地拍打對手身體、自己身體或地板。若雙手被困住，就清楚喊出「拍」作為口頭拍降。也可以用雙腳拍打地板。一旦意識到手鎖已鎖死且無法逃脫，就要及早拍降，因為這個位置中旋轉與勒頸壓力的結合，會造成失去意識的速度非常快。",
+    "safety_critical": true,
+    "answer_line": "拍手、拍地或喊「拍」",
+    "distractors": {
+     "plausible": [
+      "輕拍一下再等等看",
+      "捏對方手臂當訊號"
+     ],
+     "trap": [
+      "等視野模糊才拍"
+     ]
+    }
+   },
+   {
+    "question": "在從Twister Control嘗試「轉入」逃脫之前，為什麼收下巴至關重要？",
+    "answer": "收下巴會形成一道物理屏障，阻止攻擊者的前臂觸及喉嚨與頸動脈。若沒有收下巴，轉向攻擊者會暴露整個頸部前方，為guillotine提供暢通無阻的路徑。在嘗試任何旋轉逃脫之前，必須先把下巴埋進鎖骨，這是最重要的預防性防守動作。",
+    "safety_critical": false,
+    "answer_line": "阻擋前臂觸及喉嚨",
+    "distractors": {
+     "plausible": [
+      "緩解脊椎扭轉的壓力",
+      "解放下方肩膀"
+     ],
+     "trap": [
+      "抬頭尋找逃脫方向"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該優先剝離手鎖，而不是嘗試翻轉逃脫？",
+    "answer": "當guillotine尚未完全扣緊、且攻擊者仍保有部分腿部纏繞時，應優先選擇剝離手鎖。當手鎖已鎖死、但攻擊者已失去腿部控制或尚未拉guard時，才嘗試翻轉逃脫。剝離手鎖較安全，因為它能直接解除勒頸，而翻轉逃脫則有可能在轉換過程中暫時把勒頸鎖得更緊。",
+    "safety_critical": false,
+    "answer_line": "手鎖未扣緊時先剝離",
+    "distractors": {
+     "plausible": [
+      "手鎖一鎖上就立刻翻轉",
+      "等雙腿掙脫才行動"
+     ],
+     "trap": [
+      "直接posture頂進勒頸中"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從Twister Control施展的吉諾丁，比標準的站立guillotine更危險？",
+    "answer": "在guillotine真正鎖上之前，Twister Control原本就存在的脊椎旋轉，已經削弱了你的核心力量與防守姿勢。你的頸部肌肉已因扭轉而承受壓力，降低了你對抗勒頸的能力。殘留的腿部纏繞讓你無法用平常對付吉諾丁最有效的posture與拉開距離戰術，而旋轉力與壓迫力的結合，也讓降伏比單一攻擊來得更快。",
+    "safety_critical": true,
+    "answer_line": "扭轉壓力加上腿部纏繞",
+    "distractors": {
+     "plausible": [
+      "攻擊者雙手都能空出來",
+      "比賽得分會比較高"
+     ],
+     "trap": [
+      "撐著別拍降"
+     ]
+    }
+   }
+  ]
+ }
+}

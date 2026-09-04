@@ -1,0 +1,272 @@
+{
+  "_meta": {
+    "source": "content/Submissions/Crotch Ripper/from Lockdown.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "在訓練中施展 Crotch Ripper submission 時，你至少應該花多久時間來施加壓力？",
+        "answer": "至少要花 4-6 秒漸進式地施加壓力。這樣能讓你的訓練夥伴有足夠的時間感受到壓力逐漸增加、辨識這個 submission，並在肌肉受傷前安全地 tap。與有明確機械止點的關節鎖不同，壓迫類 submission 如果施加太快可能造成肌肉撕裂，因此在訓練中控制施力速度非常重要。",
+        "safety_critical": true,
+        "answer_line": "至少 4-6 秒，漸進施壓",
+        "distractors": {
+          "plausible": [
+            "2-3 秒就夠了",
+            "施壓到對方抵抗為止"
+          ],
+          "trap": [
+            "又快又猛地直接鎖上去"
+          ]
+        }
+      },
+      {
+        "question": "Crotch Ripper 具體攻擊哪些解剖結構？這和關節鎖有什麼不同？",
+        "answer": "Crotch Ripper 攻擊的是髖屈肌群（特別是髂腰肌）、內收肌群（長內收肌、短內收肌與大內收肌），以及大腿內側與髖部交界處的軟組織。關節鎖攻擊的是韌帶與關節囊，在特定的機械極限處發揮作用；相較之下，Crotch Ripper 造成的是肌肉壓迫，沒有明確的機械終點。這代表這個 submission 是靠壓迫肌肉組織產生的疼痛忍受度來迫使對方 tap，而肌肉可能在沒有明顯警訊的情況下、隨著疼痛加劇而受損。",
+        "safety_critical": true,
+        "answer_line": "內收肌與髖屈肌，沒有止點",
+        "distractors": {
+          "plausible": [
+            "攻擊髖關節囊的極限",
+            "和 kneebar 一樣有韌帶終點"
+          ],
+          "trap": [
+            "超過 tap 之後繼續硬鎖，沒有終點"
+          ]
+        }
+      },
+      {
+        "question": "當你的 Crotch Ripper 已經部分鎖上，而對手開始 posture up 並向前施壓，你該做什麼調整來防止對手逃脫？",
+        "answer": "當對手向前施壓試圖把你壓平時，立刻加強你的 underhook 抓握，並利用 lockdown 把對方被困住的腿往後拉，讓他們往和施壓相反的方向失去平衡。這會製造反作用力打斷他們向前的動能。如果對手儘管如此還是成功把你壓平，這個位置就變得不利了，此時你應該轉換到 Electric Chair sweep，而不是硬要從被壓平的角度完成 Crotch Ripper。",
+        "safety_critical": false,
+        "answer_line": "underhook 更緊，把腿往後拉",
+        "distractors": {
+          "plausible": [
+            "把對方的髖部推開",
+            "壓平然後重新設置 guard"
+          ],
+          "trap": [
+            "放開 lockdown 重新調整位置"
+          ]
+        }
+      },
+      {
+        "question": "當你的訓練夥伴對 Crotch Ripper tap 時，你必須立刻採取哪些步驟？",
+        "answer": "立刻放開 lockdown 的 figure-four 抓握，把膝蓋從對方的鼠蹊部移開，伸直你的攻擊腿以完全解除壓迫，並讓對方的腿自然伸展、恢復。放開的過程中不要猛拉或扭轉。整個放開的動作應該和施加壓力時一樣平順、可控，確保已經受到壓迫的肌肉不會再承受額外的壓力。這個流程能避免因為釋放時的突然動作而造成肌肉撕裂。",
+        "safety_critical": true,
+        "answer_line": "放開抓握，慢慢伸直腿",
+        "distractors": {
+          "plausible": [
+            "稍微放鬆但維持抓握",
+            "先確認對方是不是真的 tap 了再放開"
+          ],
+          "trap": [
+            "扭身掙脫，立刻站起來"
+          ]
+        }
+      },
+      {
+        "question": "在嘗試完成 Crotch Ripper 之前，必須先建立哪些關鍵的控制條件？",
+        "answer": "完成前必須建立三項控制：第一，用你的雙腿確實鎖住 lockdown 的 figure-four，防止對方抽出被困住的腿；第二，在同一側建立深度 underhook，讓你能夠轉身側躺並製造必要的角度；第三，你的身體必須轉動 45 到 90 度側躺，而不是平躺在背上。如果沒有同時建立這三項控制，壓迫的機制就無法產生足夠的壓力來完成 submission。",
+        "safety_critical": false,
+        "answer_line": "lockdown、underhook、側身角度",
+        "distractors": {
+          "plausible": [
+            "lockdown 加上平躺施壓",
+            "underhook 加上膝蓋壓在骨頭上"
+          ],
+          "trap": [
+            "跳過 underhook，直接硬鎖 lockdown"
+          ]
+        }
+      },
+      {
+        "question": "在正確施展的 Crotch Ripper 中，對手在什麼時候會到達「無法逃脫」的階段？",
+        "answer": "無法逃脫的階段發生在三個條件同時滿足時：你的 lockdown 已經完全鎖住、防止對方抽腿，你的身體角度已經建立且 underhook 控制強而有力，並且你的膝蓋壓在對方鼠蹊部的軟組織上、髖部開始伸展。一旦在所有控制都到位的情況下開始伸展髖部，對手唯一實際的選擇就是 tap，因為要逃脫必須同時破解 lockdown、underhook 角度，並移除膝蓋壓力——這在力學上是不可能的。",
+        "safety_critical": false,
+        "answer_line": "所有控制到位、髖部伸展時",
+        "distractors": {
+          "plausible": [
+            "一拿到 underhook 就算",
+            "對方一被壓平就算"
+          ],
+          "trap": [
+            "解開 lockdown 重新找角度"
+          ]
+        }
+      },
+      {
+        "question": "Crotch Ripper 結合 Electric Chair 之後，是如何形成 submission 與 sweep 的兩難局面？",
+        "answer": "當你威脅 Crotch Ripper 時，對手通常會用兩種方式防守：抓住你的攻擊腿控制膝蓋位置，或是把髖部往後 sprawl 拉開距離。這兩種防守反應其實都會促成 Electric Chair sweep——他們抓住你的腿反而幫你把他們的體重載到你的髖部上，而他們往後移動髖部則給了你完成翻滾的角度。這形成了真正的兩難：防守 submission 會打開 sweep，防守 sweep 則讓 submission 保持可用。",
+        "safety_critical": false,
+        "answer_line": "防守一邊就打開另一邊",
+        "distractors": {
+          "plausible": [
+            "抓住腿能同時擋住兩種威脅",
+            "sprawl 能同時逃脫兩種攻擊"
+          ],
+          "trap": [
+            "放棄 lockdown 硬要完成 submission"
+          ]
+        }
+      },
+      {
+        "question": "當對手試圖把你的攻擊膝蓋推開時，你在完成動作的過程中應該如何調整抓握？",
+        "answer": "當對手推你的攻擊膝蓋時，不要直接對抗他們的力道。相反地，順著他們的推力把膝蓋繞過他們的手，從不同角度重新定位，同時維持髖部伸展的壓力。同時用 underhook 更用力地把對方拉近你的身體。你也可以用攻擊腳勾住對方遠側的髖部來固定你的腿部位置。underhook 是你主要的支點——只要它維持穩固，儘管對方一直在對抗抓握，你依然能持續重新調整膝蓋位置。",
+        "safety_critical": false,
+        "answer_line": "膝蓋繞過去，拉緊 underhook",
+        "distractors": {
+          "plausible": [
+            "用力硬把膝蓋壓過去",
+            "改攻擊另一條腿"
+          ],
+          "trap": [
+            "放開 underhook 重新調整位置"
+          ]
+        }
+      },
+      {
+        "question": "有哪些最常見的完成階段錯誤會讓 Crotch Ripper 無法逼出 tap？",
+        "answer": "三個最常見的完成階段錯誤是：把膝蓋壓在骨頭上（大腿或髖骨），而不是壓在能產生疼痛忍受度的軟組織上；平躺在背上而沒有建立壓迫機制所需的側身角度；以及把髖部往正後方伸展，而不是往前並略微向上，這才是把膝蓋推入鼠蹊部所需要的方向。無論 lockdown 鎖得多緊，每一個錯誤都會削弱這個 submission 的效果。",
+        "safety_critical": false,
+        "answer_line": "膝蓋壓骨頭、平躺不側身",
+        "distractors": {
+          "plausible": [
+            "沒有夾得夠緊",
+            "抓錯腳踝"
+          ],
+          "trap": [
+            "坐起來，放棄 lockdown"
+          ]
+        }
+      },
+      {
+        "question": "在比賽中，有哪些策略能最大化 Crotch Ripper 的成功率？",
+        "answer": "比賽中使用 Crotch Ripper 的策略，重點是把它當作威脅系統的一環，而不是單獨的攻擊。先威脅 Electric Chair sweep 來設置 Crotch Ripper，當對手用支撐或穩固姿態來防守 sweep 時，他們的防守姿勢正好為 Crotch Ripper 的膝蓋位置創造角度。一邊觀察 tap 的訊號，一邊漸進式地施壓。如果對手有效防守了 Crotch Ripper，立刻轉換回 Electric Chair。在這兩種威脅之間循環會逼出防守上的失誤，進而打開 submission 或 sweep 的機會。",
+        "safety_critical": false,
+        "answer_line": "串聯 Electric Chair 的威脅",
+        "distractors": {
+          "plausible": [
+            "留到最後一分鐘再用",
+            "只對體型較大的對手使用"
+          ],
+          "trap": [
+            "打開 lockdown 追求完成動作"
+          ]
+        }
+      },
+      {
+        "question": "為什麼這個壓迫類 submission 被認為比許多關節鎖更危險？訓練時有哪些必要的預防措施？",
+        "answer": "像 Crotch Ripper 這樣的壓迫類 submission 比較危險，是因為肌肉不像關節那樣有明確的機械止點。以 armbar 為例，肘關節在造成嚴重傷害前會先達到最大伸展；但肌肉壓迫則不同，組織可能在連續的壓力範圍中任何一點受損——受傷前沒有內建的警訊。必要的預防措施包括：一律在 4-6 秒內漸進式施壓、訓練時絕不用比賽強度、承受這個技術時寧可早 tap 也不要晚 tap，以及避免對有鼠蹊部或髖部舊傷的夥伴使用這個 submission。",
+        "safety_critical": true,
+        "answer_line": "沒有止點，放慢、早點 tap",
+        "distractors": {
+          "plausible": [
+            "風險和一般關節鎖一樣",
+            "只有高階選手才危險"
+          ],
+          "trap": [
+            "用全比賽強度來訓練它"
+          ]
+        }
+      },
+      {
+        "question": "你的對手經驗豐富，在你開始為 Crotch Ripper 調整位置時立刻抓住你的攻擊腿——最好的應對方式是什麼？",
+        "answer": "經驗豐富的對手抓住你的攻擊腿，其實是個機會而不是問題。順勢利用他們的抓握轉換到 Electric Chair——他們抓著你的腿反而幫你把他們的體重載到你的髖部上。開始抬高你的髖部，同時維持 lockdown 與 underhook，然後往 underhook 那一側翻滾。他們的抓握變成幫助你完成 sweep 的把手。這會懲罰這種防守性的抓握，並讓對手學到抓你的攻擊腿只會導致被 sweep，進而在他們停止抓握時打開 Crotch Ripper 的機會。",
+        "safety_critical": false,
+        "answer_line": "順勢用抓握完成 Electric Chair",
+        "distractors": {
+          "plausible": [
+            "立刻把腿抽回來",
+            "等對方自己放手"
+          ],
+          "trap": [
+            "打開 lockdown 把腿抽出來"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "當你第一次察覺到對手從 lockdown bottom 準備 Crotch Ripper 時，最重要的防守動作是什麼？",
+        "answer": "最重要的防守動作是用強力的 crossface 與肩部壓力向前施壓，防止對手轉身側躺。Crotch Ripper 需要大約 45 到 90 度的身體轉動才能產生有效的壓迫。把對手壓平在背上，無論 lockdown 有多緊、膝蓋位置如何，都能消除完成 submission 所需的機械角度。這應該是你在處理攻擊的其他任何環節之前，最先做出的反應。",
+        "safety_critical": false,
+        "answer_line": "crossface 壓平，向前施壓",
+        "distractors": {
+          "plausible": [
+            "先把膝蓋推開",
+            "抓住對方的攻擊腳踝"
+          ],
+          "trap": [
+            "把髖部往後 sprawl 拉開空間"
+          ]
+        }
+      },
+      {
+        "question": "為什麼被 Crotch Ripper 鎖住時應該早點 tap，而不是硬撐著對抗壓力？",
+        "answer": "壓迫類 submission 沒有關節鎖那種明確的機械止點。以 armbar 為例，隨著肘關節接近最大伸展，你會感受到逐漸增加的阻力，在嚴重受傷前提供明確的警訊。而 Crotch Ripper 的肌肉組織可能在壓力範圍中任何一點受損，卻沒有明顯的警訊感覺。鼠蹊部與內收肌群特別容易發生拉傷或撕裂，需要 2-6 週才能恢復。早點 tap 並重新練習防守，永遠比冒著讓自己因傷退出訓練的風險來得好。",
+        "safety_critical": true,
+        "answer_line": "肌肉撕裂前沒有警訊",
+        "distractors": {
+          "plausible": [
+            "和關節鎖一樣有警訊",
+            "唯一的風險只是輕微痠痛"
+          ],
+          "trap": [
+            "硬撐下去，能練出韌性"
+          ]
+        }
+      },
+      {
+        "question": "對手已經建立好 Crotch Ripper 的角度，膝蓋壓在你的鼠蹊部上——你把膝蓋推開，但他們立刻重新壓上去。你的防守方式哪裡出了問題？",
+        "answer": "把膝蓋推開只是在處理症狀，而不是根本原因。對手能不斷重新調整膝蓋位置，是因為他們仍然握有維持身體角度的 underhook。正確的做法是先破解 underhook，這會讓整個角度結構崩潰。少了 underhook，對手就會平躺回背上，膝蓋也失去了產生壓迫所需的力學優勢。處理好 underhook，膝蓋的問題自然就解決了。",
+        "safety_critical": false,
+        "answer_line": "破解 underhook，而不是膝蓋",
+        "distractors": {
+          "plausible": [
+            "每次都更用力把膝蓋推開",
+            "用你的遠端手擋住"
+          ],
+          "trap": [
+            "把髖部往後 sprawl 拉開空間"
+          ]
+        }
+      },
+      {
+        "question": "在同一個 lockdown 位置中，防守 Crotch Ripper 和防守 Electric Chair sweep 的威脅之間有什麼關聯？",
+        "answer": "Crotch Ripper 和 Electric Chair 形成了一個兩難系統。當你向前施壓把對手壓平、消除 Crotch Ripper 的角度時，你會把體重載到對方身上，反而促成 Electric Chair sweep。當你往後 sprawl 來逃離膝蓋壓力時，你創造出的距離正是對手完成 Electric Chair 所需要的。解決方法是處理 underhook，而不是調整你的體重分布，因為破解 underhook 能同時化解兩種威脅，不會偏向兩難的任何一邊。",
+        "safety_critical": false,
+        "answer_line": "破解 underhook，同時化解兩者",
+        "distractors": {
+          "plausible": [
+            "向前施壓能同時擋住兩者",
+            "往後 sprawl 能同時擋住兩者"
+          ],
+          "trap": [
+            "轉身趴下逃脫"
+          ]
+        }
+      },
+      {
+        "question": "從 lockdown bottom 開始的 Crotch Ripper 嘗試，最早的觸覺與視覺線索是什麼？",
+        "answer": "最早的線索是感覺到對手在維持 lockdown 的同時，開始把身體轉向 underhook 那一側。這個從平躺轉為側躺的動作,是所有 Crotch Ripper 力學的前提條件。第二個線索是他們的自由腿（上方那條腿）開始越過你的身體中線朝你的鼠蹊部移動，代表膝蓋即將就位。第三個線索是他們的 underhook 抓握加深，同時延伸 lockdown 拉扯你被困住的腿，形成完成動作所需的雙重控制結構。及早辨識這個轉身動作並立刻向前施壓把對手壓平，能提供最大的防守空間。",
+        "safety_critical": false,
+        "answer_line": "先轉向側躺",
+        "distractors": {
+          "plausible": [
+            "先出現深度 underhook",
+            "自由腿先跨過來"
+          ],
+          "trap": [
+            "等膝蓋壓上鼠蹊部再反應"
+          ]
+        }
+      }
+    ]
+  }
+}

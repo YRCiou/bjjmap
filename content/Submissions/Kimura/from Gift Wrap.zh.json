@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Gift Wrap 主要攻擊哪些解剖構造？",
+    "answer": "Kimura 主要攻擊肩關節複合體——旋轉肌袖、肩關節囊與盂唇——透過強制內旋施加壓力。受攻擊的旋轉肌袖肌群包括棘上肌、棘下肌、小圓肌與肩胛下肌。在負重下強制內旋會讓這些構造超出正常活動範圍，產生迫使對手拍降的submission壓力。",
+    "answer_line": "肩關節，內旋",
+    "distractors": {
+     "plausible": [
+      "肘關節，過伸力量",
+      "腕關節，扭轉拉傷"
+     ],
+     "trap": [
+      "用頸部關節鎖加快拍降"
+     ]
+    }
+   },
+   {
+    "question": "在 Gift Wrap 轉換到 Kimura 的過程中，最關鍵的破綻出現在什麼時候？",
+    "answer": "最關鍵的破綻出現在穿手的那隻手從對手腋下抽出、準備建立figure-four grip的那一刻。此時如果沒有用空出的手先建立多餘的手腕控制，對手就有機會把被困的手臂抽回。轉換grip時應該讓兩個grip重疊銜接，絕對不能有手腕完全失去控制的瞬間。",
+    "answer_line": "穿手抽出的那一刻",
+    "distractors": {
+     "plausible": [
+      "放入第二個hook時",
+      "figure-four鎖死之後"
+     ],
+     "trap": [
+      "放開手腕重新抓grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在完成finish之前，你必須把髖部移向 Kimura 那一側？",
+    "answer": "髖部的位置能創造出有效肩關節鎖所需要的旋轉槓桿角度。如果你正對著對手正後方，Kimura 的旋轉弧線會太平，無法在肩關節上產生足夠的扭力。把髖部移向 Kimura 那一側，會讓你的身體和對手手臂形成垂直角度，讓你能做出正確的「刷漆式」旋轉，有效地對旋轉肌袖施加壓力。",
+    "answer_line": "創造垂直的扭力弧線",
+    "distractors": {
+     "plausible": [
+      "阻止對手橋起逃脫",
+      "釋放你的下方手來撐地"
+     ],
+     "trap": [
+      "放棄hooks來把髖部擺正"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己的短褲來抵抗 Kimura 的旋轉——你要如何破解這個防守？",
+    "answer": "先把對手的手肘往上推，改變角度並削弱他的抓握力量，再恢復旋轉壓力。你也可以利用雙腿與體重製造額外的髖部壓力，壓垮那個抓握的錨點。如果他還是抓著不放，就趁他的手忙著抓褲子、來不及防護頸部的空檔，轉換攻擊rear naked choke。",
+    "answer_line": "推肘破角度",
+    "distractors": {
+     "plausible": [
+      "直接用力往後扯",
+      "等他抓到手軟"
+     ],
+     "trap": [
+      "放開hooks硬轉"
+     ]
+    }
+   },
+   {
+    "question": "哪些跡象顯示防守方已經到了無法逃脫的地步？",
+    "answer": "一旦figure-four鎖死、手肘被固定住，而且手臂已經被旋轉到超過中立位置約45度，逃脫就不可能了。手肘必須被固定在你的身體或對手軀幹上，這個位置才算真正無法逃脫。過了這個點，靠力量硬扛已經無法翻轉劣勢，對手必須拍降以避免受傷。",
+    "answer_line": "figure-four鎖死、手肘固定",
+    "distractors": {
+     "plausible": [
+      "對手停止掙扎",
+      "你雙腳的hooks都已扣上"
+     ],
+     "trap": [
+      "放開肘部固定重新調整"
+     ]
+    }
+   },
+   {
+    "question": "如果在no-gi訓練中對手手臂因流汗而濕滑，你該如何調整grip？",
+    "answer": "抓握腕骨而非前臂，才能在最窄的部位取得最大的抓握效果。把你figure-four的手肘夾緊，形成更緊的籠子包住對手手臂，減少對摩擦力的依賴。用你的胸口壓力抵住對手背部，把他的手臂壓進你的grip裡，必要時可以在短褲上擦手，恢復抓握的可靠度。",
+    "answer_line": "抓腕骨，夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "抓更高的二頭肌位置",
+      "抓前臂，手肘放寬"
+     ],
+     "trap": [
+      "放開手臂重新抓乾的部位"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加 Kimura 的正確速度是多少？為什麼這很重要？",
+    "answer": "訓練時，Kimura應該以平順漸進的方式施加，耗時約3到5秒完成旋轉。這樣緩慢的施力能讓你的訓練夥伴有足夠時間察覺submission的危險並在受傷前拍降。肩關節在突然的旋轉力量下可能造成永久性損傷，包括旋轉肌袖撕裂與盂唇損傷，可能需要數月復健甚至手術。",
+    "answer_line": "平順旋轉，耗時3到5秒",
+    "distractors": {
+     "plausible": [
+      "快但可控，一秒完成",
+      "靜態固定，等對方拍"
+     ],
+     "trap": [
+      "爆發式甩動求快速拍降"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用 Kimura 的威脅，從 Gift Wrap 設置 rear naked choke？",
+    "answer": "當你開始攻擊 Kimura 時，對手會本能地用空出的那隻手去防守被困的手臂，伸手擋住旋轉。這個防守動作會把他空出的手拉離頸部的防護位置，為 rear naked choke 創造出空檔。看懂這個模式後，你就能把 Kimura 當作誘餌：威脅要做肩關節鎖，等對手的防守手投入之後，放棄 Kimura 轉而攻擊暴露出來的頸部。",
+    "answer_line": "威脅Kimura，誘手離開頸部",
+    "distractors": {
+     "plausible": [
+      "快速完成Kimura再choke",
+      "換grip改攻armbar"
+     ],
+     "trap": [
+      "放開背後hooks去抓頸部"
+     ]
+    }
+   },
+   {
+    "question": "從 Gift Wrap 施展 Kimura 時，最常見會降低成功率的finish錯誤是什麼？",
+    "answer": "最大的finish錯誤包括：旋轉時沒有固定手肘、動作爆發式猛拉、身體一直正對對手正後方、以及放開hooks。手肘沒固定就旋轉，會讓對手把手臂伸直逃脫；用爆發式猛拉取代平順壓力，會給對手反向旋轉逃脫的機會。髖部一直對著對手正後方而不轉向 Kimura 那一側，會讓你失去槓桿優勢；在finish過程中放開背後控制的hooks，則會讓對手有機會逃脫位置。",
+    "answer_line": "旋轉時沒固定手肘",
+    "distractors": {
+     "plausible": [
+      "旋轉速度太慢",
+      "hooks還沒扣好就開始攻擊"
+     ],
+     "trap": [
+      "放開hooks加快旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，從 Gift Wrap 施展 Kimura 相較於其他finish方式，風險與回報的比例如何？",
+    "answer": "從 Gift Wrap 施展 Kimura 的優勢在於，你在嘗試submission之前已經累積了back control的分數。如果 Kimura 失敗但你仍維持 Gift Wrap，你會保留這些分數，並可以立刻再次進攻。最糟的常見結果只是回到 Gift Wrap 控制，而不是完全失去位置。這種有利的風險回報比，讓它成為比賽中很好的選擇——比起爆發式施力，維持位置優勢的可控旋轉更受青睞。",
+    "answer_line": "finish失敗仍保留背後分數",
+    "distractors": {
+     "plausible": [
+      "高風險，失敗會丟分",
+      "只有比賽快結束時才值得做"
+     ],
+     "trap": [
+      "放棄背後控制硬做"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Gift Wrap 感受到對手在設置 Kimura 時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是攻擊方把髖部移向一側，而不是一直待在你正後方，並且他空出的那隻手會伸過來，試圖對你被困的手腕建立額外控制。這些準備動作會在穿手抽出之前發生，讓你有寶貴的早期預警時間開始防守。",
+    "answer_line": "髖部移位，空手找手腕",
+    "distractors": {
+     "plausible": [
+      "突然爆發式的手肘壓力",
+      "對手放開背後hooks"
+     ],
+     "trap": [
+      "等figure-four鎖上再反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對從 Gift Wrap 施展的 Kimura 拍降，以避免受傷？",
+    "answer": "一旦你感覺到肩關節上的旋轉壓力超過你舒適的活動範圍、而且你的防守錨點正在失守，就應該立刻拍降。在 Kimura 的旋轉下，肩關節會很快從不適轉變成受傷，幾乎沒有多少預警時間。一旦明顯的旋轉開始，絕對不要等著看能不能逃脫。用任何可用的方式拍降。",
+    "answer_line": "旋轉超出範圍就拍",
+    "distractors": {
+     "plausible": [
+      "只在劇痛時才拍",
+      "等肩膀發出聲響才拍"
+     ],
+     "trap": [
+      "往Kimura那一側翻滾遠離"
+     ]
+    }
+   },
+   {
+    "question": "為什麼grip轉換的那個瞬間，是防守最重要的時機？",
+    "answer": "在從 Gift Wrap 穿手轉換到figure-four的過程中，攻擊方必須暫時放開他的主要控制手段。這會產生一個短暫的空檔，此時被困的手臂受到的限制比整個過程中任何其他時刻都要少。在這個空檔採取防守行動，成功率最高，因為攻擊方無法同時控制手臂又完成grip轉換。",
+    "answer_line": "攻擊方控制短暫放鬆",
+    "distractors": {
+     "plausible": [
+      "攻擊方的grip在此時最緊",
+      "攻擊方的base在此時最不穩"
+     ],
+     "trap": [
+      "停住不動直到鎖定完成"
+     ]
+    }
+   },
+   {
+    "question": "一旦figure-four完全鎖死，還剩下哪些防守選項？",
+    "answer": "一旦figure-four鎖死，主要的選項就縮小成：抓住自己的腰帶或短褲來錨定，抵抗旋轉；往 Kimura 那一側翻滾，破壞finish的角度；以及爆發式橋起，直接逃脫背後控制。把手臂伸直已經不再有效，反而會讓submission更糟。如果這些防守都無效，就在旋轉到達危險程度之前拍降。",
+    "answer_line": "錨定grip，向Kimura側翻滾",
+    "distractors": {
+     "plausible": [
+      "伸手去抓腿分散注意力",
+      "放平不動保持靜止"
+     ],
+     "trap": [
+      "伸直手臂掙脫grip"
+     ]
+    }
+   },
+   {
+    "question": "你要如何在防守 Kimura 的同時，不讓自己的頸部暴露在choke攻擊之下？",
+    "answer": "即使在防守 Kimura 時，也要持續保持對頸部保護的意識。如果你必須把空出的手臂投入對抗 Kimura 的grip，就要以被動式頸部防禦來補償：用力把下巴收向胸口，並把下顎轉向choke那一側的肩膀。同時留意攻擊方是真的在追求 Kimura，還是把它當作佯攻，藉此在你暴露的頸部設置 rear naked choke。",
+    "answer_line": "收下巴，同時保護頸部",
+    "distractors": {
+     "plausible": [
+      "下顎轉向另一側肩膀",
+      "雙手都投入抓grip"
+     ],
+     "trap": [
+      "翻成趴姿逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Gift Wrap.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

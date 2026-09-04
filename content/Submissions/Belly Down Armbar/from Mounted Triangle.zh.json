@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Mounted Triangle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Mounted Triangle 主要攻擊的是哪個解剖構造？",
+    "answer": "這個技巧主要透過過度伸展攻擊肘關節，具體目標是尺側副韌帶（ulnar collateral ligament）與關節囊。belly-down 姿勢在肘部與攻擊者的髖部之間形成支點，同時手腕被向上抬起，把肘部推超出自然伸展範圍。二次應力則影響肱二頭肌肌腱，因為它會抵抗被迫的伸展。",
+    "safety_critical": false,
+    "answer_line": "肘部過度伸展（UCL）",
+    "distractors": {
+     "plausible": [
+      "肩關節旋轉",
+      "手腕關節屈曲"
+     ],
+     "trap": [
+      "扭轉頸部逼對手拍降"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在旋轉到 belly-down 姿勢之前，必須先固定手腕控制？",
+    "answer": "手腕控制是這個技巧唯一的失敗風險點。如果沒有牢固地抓住手腕，對手可能在旋轉階段、腿部控制暫時鬆動時把肘部抽回。mounted triangle 透過腿部配置提供極佳的上臂隔離，但前臂與手腕如果沒有被獨立控制，仍可能滑脫。在旋轉之前確認 grip，能確保整個轉換過程中手臂持續受控。",
+    "safety_critical": false,
+    "answer_line": "防止肘部滑脫",
+    "distractors": {
+     "plausible": [
+      "建立更好的髖部角度",
+      "控制對手的 posture"
+     ],
+     "trap": [
+      "讓你能鬆開腿部三角"
+     ]
+    }
+   },
+   {
+    "question": "對手在你已經 belly down 之後扣緊雙手來阻止手臂伸展——你該如何破解這個 grip？",
+    "answer": "把你的前臂楔入他們扣緊的雙手之間，同時維持對肘部的持續髖部壓力。把前臂推過那個空隙，將他們的雙手撬開。或者，透過抓住手腕並向上抬起髖部，透過已鎖住的 grip 施加緩慢漸進的壓力。這種持續的肘部壓力，通常會在幾秒內迫使他們的握手 grip 分開，因為對手必須在關節受損前放開並拍降。",
+    "safety_critical": false,
+    "answer_line": "楔入前臂，髖部下壓",
+    "distractors": {
+     "plausible": [
+      "撬開上方的手指",
+      "坐直以獲得更多槓桿"
+     ],
+     "trap": [
+      "快速拉手腕強行破 grip"
+     ]
+    }
+   },
+   {
+    "question": "完成旋轉進入 belly-down 姿勢後，正確的髖部位置是什麼？",
+    "answer": "你的髖部必須直接位於對手的肘關節上方，讓你的骨盆作為過度伸展的支點。如果髖部太靠上、壓在二頭肌上，就會失去槓桿優勢，讓對手能彎曲手肘抵抗。如果髖部太靠下、壓在前臂上，槓桿力不足，手臂可能滑脫。肘部摺痕應該直接位於你骨盆中心的下方。",
+    "safety_critical": false,
+    "answer_line": "髖部直接在肘部上方",
+    "distractors": {
+     "plausible": [
+      "髖部靠在二頭肌高處",
+      "髖部靠在前臂低處"
+     ],
+     "trap": [
+      "抬起髖部以加大扭力"
+     ]
+    }
+   },
+   {
+    "question": "應該如何施加伸展壓力，才能讓對手有足夠時間安全拍降？",
+    "answer": "伸展必須在 3 到 5 秒內漸進地施加。緩慢地把手腕朝天花板方向抬起，同時把髖部下沉壓入肘關節。絕不能猛拉、突刺或快速加速伸展動作。belly-down 姿勢創造出極大的槓桿優勢，如果施力太快，可能在對手來得及察覺並發出拍降訊號之前，就讓肘部過度伸展。施展過程中要持續留意所有拍降訊號。",
+    "safety_critical": true,
+    "answer_line": "3-5 秒內緩慢漸進",
+    "distractors": {
+     "plausible": [
+      "施壓後維持不動不抬",
+      "先等他們放鬆"
+     ],
+     "trap": [
+      "髖部猛然一頂"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他 Belly Down Armbar 的設置方式，Mounted Triangle 版本在手臂控制上有什麼優勢？",
+    "answer": "mounted triangle 在整個旋轉過程中，把對手的上臂鎖在攻擊者雙腿之間，阻止了 belly down armbar 最常見的防守方式——彎曲肘部把手臂抽回。標準的 belly down armbar（從 mount 或 side control 發動）在旋轉時通常會出現上臂控制的空檔，讓對手趁機把手臂拉出來。三角腿部配置消除了這個空檔，在整個轉換過程中持續壓迫肩膀與上臂。",
+    "safety_critical": false,
+    "answer_line": "上臂控制沒有空檔",
+    "distractors": {
+     "plausible": [
+      "旋轉速度更快",
+      "手腕槓桿更好"
+     ],
+     "trap": [
+      "放開手腕控制以便旋轉"
+     ]
+    }
+   },
+   {
+    "question": "對手在你開始旋轉時猛烈 bridge——什麼調整能避免失去姿勢？",
+    "answer": "把你的自由手撐在你要旋轉方向那側的地面，建立一個能吸收 bridge 動能的 base。持續夾緊膝蓋固定在上臂上，讓 bridge 不會把你和手臂分開。如果 bridge 力道強到足以打亂旋轉，立刻中止，重新回到 mounted triangle，而不是強行完成一個草率的轉換，最後同時失去 submission 與位置。",
+    "safety_critical": false,
+    "answer_line": "撐手、夾膝，或中止",
+    "distractors": {
+     "plausible": [
+      "加快旋轉速度",
+      "改換其他 submission"
+     ],
+     "trap": [
+      "放鬆膝蓋夾緊來調整"
+     ]
+    }
+   },
+   {
+    "question": "在 Belly Down Armbar 收尾時，必須留意哪些拍降訊號，正確的釋放順序是什麼？",
+    "answer": "留意口頭拍降、對你身體或地面的肢體拍打、腳拍地，以及任何求救的發聲，包括尖叫或呻吟。一旦辨識出任何拍降訊號，立刻先放低手腕以釋放伸展壓力，接著鬆開對上臂的膝蓋夾緊，最後完全脫離。絕不要等待第二次拍降或確認。如果不確定是否有訊號發生，立刻放開，因為這個位置隨時可以重新建立。",
+    "safety_critical": true,
+    "answer_line": "任何拍降：先放手腕再放膝",
+    "distractors": {
+     "plausible": [
+      "先鬆雙腿再放手腕",
+      "只對手拍才停"
+     ],
+     "trap": [
+      "等第二次拍降再放開"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Mounted Triangle 開始，最早能辨識出 Belly Down Armbar 轉換正在啟動的線索是什麼？",
+    "answer": "最早的線索是攻擊者從控制你的頭部或 posture，轉為用雙手扣住你的手腕，同時仍維持 mounted triangle。這種雙手手腕控制是進入 belly down 轉換的必要前提，應該在任何旋轉開始前就觸發你立即的防守反應。",
+    "safety_critical": false,
+    "answer_line": "雙手抓住你的手腕",
+    "distractors": {
+     "plausible": [
+      "對手把雙腿夾得更緊",
+      "對手往後靠讓出空間"
+     ],
+     "trap": [
+      "等他們開始旋轉才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼一旦攻擊者達到完整 belly-down 姿勢並正確擺放髖部，及早拍降至關重要？",
+    "answer": "belly-down 姿勢對肘關節產生巨大的槓桿優勢。攻擊者的全身重量透過髖部驅動肘部，同時手腕被抬起，產生過度伸展的力量，速度可能快過大多數練習者處理疼痛並發出拍降訊號的速度，並可能傷及尺側副韌帶與關節囊。一旦姿勢完全建立後仍持續抵抗，有嚴重甚至可能造成永久性肘部損傷的風險。",
+    "safety_critical": true,
+    "answer_line": "傷害快過你的反應速度",
+    "distractors": {
+     "plausible": [
+      "肩膀才是真正有風險的關節",
+      "痠痛會在受傷前先警告你"
+     ],
+     "trap": [
+      "硬掙脫已鎖定的 armbar"
+     ]
+    }
+   },
+   {
+    "question": "在攻擊者達到 belly-down 姿勢之前的旋轉階段，有哪些防守選項？",
+    "answer": "旋轉階段有三個主要選項：第一，積極把手肘彎曲並拉緊貼胸抽回；第二，朝旋轉方向爆發性地 bridge，以打亂攻擊者的 base 並阻止其完成轉換；第三，把身體轉向攻擊者、跟隨他們的旋轉動能，阻止他們到達趴姿並掙扎恢復 guard。一旦 belly-down 建立，這三種選項都會失效。",
+    "safety_critical": false,
+    "answer_line": "抽回手肘、bridge 或轉身",
+    "distractors": {
+     "plausible": [
+      "把對手的髖部推開",
+      "把肩膀壓平在地"
+     ],
+     "trap": [
+      "放鬆手臂省力"
+     ]
+    }
+   },
+   {
+    "question": "被 Belly Down Armbar from Mounted Triangle 困住時，該如何示意拍降？",
+    "answer": "立刻使用任何可用的方式：清楚地口頭喊「拍」，用自由手拍打攻擊者的身體或地面，或用任一隻腳拍地。如果你的自由手被困住或位置不對，同時使用口頭與腳拍。不要等看看能否在肘部承受明顯壓力後才逃脫。",
+    "safety_critical": true,
+    "answer_line": "立刻拍降，任何方式",
+    "distractors": {
+     "plausible": [
+      "先掙脫被困的手再示意",
+      "先口頭，被忽略再拍腳"
+     ],
+     "trap": [
+      "輕拍自己的髖部示意"
+     ]
+    }
+   },
+   {
+    "question": "為什麼保持被困手臂彎曲，是對抗 Belly Down 收尾最有力的防守？",
+    "answer": "彎曲的手臂能阻止攻擊者建立有效過度伸展所需要的直臂對齊。當肘部彎曲且手抓住自己的手腕、衣領或身體時，攻擊者必須先破解 grip 並把手臂拉直，才能施加任何有意義的伸展壓力。這創造出額外的防守層次，並在轉換階段——也就是攻擊者位置尚未穩固的時候——爭取到逃脫的時間。",
+    "safety_critical": false,
+    "answer_line": "阻斷直臂對齊",
+    "distractors": {
+     "plausible": [
+      "為 hip escape 增加鬆動空間",
+      "削弱他們的手腕 grip"
+     ],
+     "trap": [
+      "伸直手臂製造空間"
+     ]
+    }
+   }
+  ]
+ }
+}

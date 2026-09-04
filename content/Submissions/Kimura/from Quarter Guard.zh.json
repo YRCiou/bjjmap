@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Quarter Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Quarter Guard 主要攻擊哪個解剖構造？",
+    "answer": "Kimura 主要攻擊肩關節，具體目標是旋轉肌袖複合體，包括棘上肌、棘下肌、小圓肌與肩胛下肌，以及盂唇和肩關節囊，透過強制內旋超出關節自然的活動範圍來施壓。",
+    "safety_critical": false,
+    "answer_line": "肩關節（內旋）",
+    "distractors": {
+     "plausible": [
+      "手肘關節（過伸）",
+      "透過外旋攻擊肩膀"
+     ],
+     "trap": [
+      "扭手腕以求更快完成"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試建立 figure-four 握法時，對手把手臂伸直，你要怎麼調整？",
+    "answer": "維持你的手腕握法，把體重往前壓，用胸口壓力把他的手臂逼回彎曲位置。如果他抵抗這個重新彎曲的動作，就轉向 straight armbar 的機會，因為他伸直的手臂現在正處於容易被你優勢的 quarter guard top 位置過伸攻擊的狀態。",
+    "safety_critical": false,
+    "answer_line": "用胸口壓力逼手臂彎回",
+    "distractors": {
+     "plausible": [
+      "硬把 figure-four 架上去",
+      "等他自己重新彎曲"
+     ],
+     "trap": [
+      "撐高身體硬扳手臂"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 kimura 旋轉之前，必須先建立哪些關鍵控制點？",
+    "answer": "在嘗試旋轉之前，你必須先鎖上牢固的 figure-four 握法，環繞他的手腕和前臂，並把他的手肘緊緊釘在你的髖部形成支點；用 crossface 或肩膀壓力阻止他的身體轉向你；並讓你的底盤夠寬，足以抵抗完成過程中的橋起逃脫。",
+    "safety_critical": false,
+    "answer_line": "握法、手肘釘住、crossface、底盤",
+    "distractors": {
+     "plausible": [
+      "只要有 figure-four 握法就夠了",
+      "有 crossface 但不釘手肘"
+     ],
+     "trap": [
+      "手肘還沒釘住就快速旋轉"
+     ]
+    }
+   },
+   {
+    "question": "相較於一般 half guard top，quarter guard 這個位置為 kimura 帶來哪些獨特優勢？",
+    "answer": "Quarter guard 為 kimura 提供更好的機會，因為你的髖部已經越過對手的中線，讓你能把更多體重分佈在他的上半身。底位選手位置受限，迫使他更積極地用手臂做 frame 和 underhook，因此經常出現手臂暴露的空檔。他受限的腿部控制，也限制了完成過程中做有效橋起逃脫所需要的髖部動作。",
+    "safety_critical": false,
+    "answer_line": "髖部過中線，手臂暴露",
+    "distractors": {
+     "plausible": [
+      "他的腿更能困住你的腿",
+      "保證能輕鬆拿背"
+     ],
+     "trap": [
+      "伸直手臂求更快過guard"
+     ]
+    }
+   },
+   {
+    "question": "完成過程中，對手朝被困手臂的方向橋起，你要如何維持控制？",
+    "answer": "把較遠的那條腿踩出去拉寬底盤，同時讓靠近側的膝蓋緊貼他的髖部。用胸口把重量重重壓下去，把他壓平。如果調整體重後橋起仍持續，就順著翻滾的方向移動並維持握法——你可以在最後形成的位置完成 kimura，或在維持握法的情況下轉換到 side control。",
+    "safety_critical": false,
+    "answer_line": "拉寬底盤，胸口下壓壓平",
+    "distractors": {
+     "plausible": [
+      "坐高身體硬撐橋起",
+      "膝蓋夾緊夾得更用力"
+     ],
+     "trap": [
+      "順著他的橋起方向翻走"
+     ]
+    }
+   },
+   {
+    "question": "如果旋轉過程中對手的手腕變得難以控制，你應該做什麼樣的握法調整？",
+    "answer": "把抓握的手沿著他的手腕再滑深一點，滑到他的前臂上，增加控制的接觸面積，讓 figure-four 更深。把你的手肘夾緊，壓縮整個握法配置。如果握法持續滑脫，就先暫停旋轉，重新調整雙手抓一個新的握法，再繼續，而不是在控制不佳的情況下硬求完成。",
+    "safety_critical": false,
+    "answer_line": "把 figure-four 滑過手腕加深",
+    "distractors": {
+     "plausible": [
+      "夾緊手肘，不用加深握法",
+      "先重新抓握再加深"
+     ],
+     "trap": [
+      "放開握法去追較遠的手臂"
+     ]
+    }
+   },
+   {
+    "question": "訓練中什麼時候應該立刻放開 Kimura？正確的放開順序是什麼？",
+    "answer": "只要出現任何拍下訊號——口頭、手拍、腳拍，或任何表示不適的聲音——就要立刻放開。放開的順序是：立刻停止所有旋轉施壓、透過往起始位置方向外旋把手腕帶回中立位置、完全鬆開 figure-four 握法，並讓夥伴在繼續之前先自行評估肩膀的活動度。絕不要突然放手，或讓手臂用力彈回去。",
+    "safety_critical": true,
+    "answer_line": "停止、緩慢回位、再放開",
+    "distractors": {
+     "plausible": [
+      "立刻放開握法就走開",
+      "維持位置問對方還好嗎"
+     ],
+     "trap": [
+      "讓手臂快速彈回去"
+     ]
+    }
+   },
+   {
+    "question": "對防守方而言，什麼時候是無法逃脫的臨界點？你怎麼辨識這個 submission 已經確立？",
+    "answer": "無法逃脫的臨界點，出現在手肘被牢牢釘在你的髖部、figure-four 完全鎖死且雙手腕都被控制住，而旋轉已經超過大約 45 度內旋的時候。訊號包括對手的身體開始不自主地跟著旋轉扭動、他空著的手從搶握法轉為準備拍下，以及聽得到的痛苦聲音。一旦超過這個臨界點，剩下的壓力就要緩慢施加。",
+    "safety_critical": true,
+    "answer_line": "手肘釘住加 45 度旋轉",
+    "distractors": {
+     "plausible": [
+      "光是 figure-four 鎖上就夠了",
+      "只要有張力就算確立"
+     ],
+     "trap": [
+      "只等口頭拍下"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己的短褲來抵抗旋轉，你要怎麼破解這個防守？",
+    "answer": "先增加胸口壓力，限制他維持這個錨點的能力，來對付短褲握法。接著用 figure-four 做圓弧動作，把手腕以更大的圓弧旋轉，製造出靜態的短褲握法無法承受的變化角度。你也可以用膝蓋或髖部把他抓握的手頂開。如果握法持續存在，可以考慮切換旋轉方向轉成 americana。",
+    "safety_critical": false,
+    "answer_line": "加大胸壓，繞圈破握法",
+    "distractors": {
+     "plausible": [
+      "直接更用力拉過去",
+      "等他自己放開"
+     ],
+     "trap": [
+      "硬把他的手從短褲上扯開"
+     ]
+    }
+   },
+   {
+    "question": "如何在從 crossface 控制轉換到 kimura 握法的過程中，不失去位置優勢？",
+    "answer": "即使雙手正在轉換成 kimura 握法，仍要透過 crossface 那一側維持肩膀壓力。整個轉換過程中，你的肩膀應該靠體重而不是手的控制，持續沉重地壓在他的臉或較遠側的臉頰上。先用較遠的手固定手腕，再移動做 crossface 的那隻手臂，接著迅速穿入做 figure-four 的手臂，同時肩膀持續靠位置維持壓力。",
+    "safety_critical": false,
+    "answer_line": "轉換全程肩膀保持沉重",
+    "distractors": {
+     "plausible": [
+      "先穿 figure-four 再固定手腕",
+      "快速換握法後再重新加壓"
+     ],
+     "trap": [
+      "抬起胸口用力硬架握法"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在握法鎖死之前，你怎麼辨識對手正在設置 Kimura from Quarter Guard？",
+    "answer": "關鍵辨識訊號包括：上位選手較遠的那隻手放開了對髖部的控制，伸向你靠近側的手腕；他的施壓重心從「著重過guard」轉為「著重隔離手臂」；他做 crossface 的手臂開始穿到你前臂下方；以及他突然把注意力集中在控制你靠近側的手臂，而不是推進過guard。只要上位選手放棄過guard的動能、轉而專注在你的手臂上，就該假設 kimura 攻擊正在成形。",
+    "safety_critical": false,
+    "answer_line": "較遠的手攻擊你的近側手腕",
+    "distractors": {
+     "plausible": [
+      "他突然加快過guard速度",
+      "他改抓衣領"
+     ],
+     "trap": [
+      "以為他已經停止進攻"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到 figure-four 握法開始鎖住你的手腕時，最安全的反應是什麼？",
+    "answer": "最安全的立即反應，是用力伸直手臂，同時把手肘緊貼肋骨，拒絕讓對手取得 kimura 所需要的彎曲手臂配置。如果握法已經部分鎖上，就用空著的手抓住自己的手腕，努力把手臂扳直。絕不要試圖朝 submission 方向反向旋轉硬掙脫，這會加速受傷風險。如果旋轉已經開始而你又無法破壞握法，就立刻拍下。",
+    "safety_critical": true,
+    "answer_line": "伸直手臂，手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "用空手抓他的袖子",
+      "放鬆試著滑出來"
+     ],
+     "trap": [
+      "扭轉肩膀對抗旋轉方向"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 Kimura from Quarter Guard 拍下才能避免受傷？",
+    "answer": "一旦感覺到肩膀旋轉已經超過你能主動抵抗或逆轉這個 submission 的程度，就要立刻拍下。具體訊號包括：肩關節出現銳痛或痛感持續增加、即使用盡全力也無法阻止旋轉繼續，以及感覺到肩膀被逼過舒適的活動範圍。訓練中要早拍——肩膀容易受到需要好幾個月恢復甚至手術的傷害。旋轉一旦明顯開始，絕不要等著測試自己的極限。",
+    "safety_critical": true,
+    "answer_line": "肩膀一開始痛就早拍",
+    "distractors": {
+     "plausible": [
+      "只在逃脫失敗後才拍",
+      "旋轉幾乎到極限才拍"
+     ],
+     "trap": [
+      "絕不拍下，硬撐脫困"
+     ]
+    }
+   },
+   {
+    "question": "figure-four 已經完全鎖死但旋轉還沒開始時，有哪些防守選項？",
+    "answer": "在 figure-four 鎖死、旋轉尚未開始的階段，你最好的選項有：朝被困手臂那一側橋起，破壞進攻方的底盤，有機會翻滾脫困；用空著的手抓住自己的手腕，努力把手臂扳直；積極把身體轉向進攻方，縮小可用的旋轉角度；或用你的腿勾住進攻方的腿，製造橋起逃脫所需的槓桿。一旦旋轉開始，這些選項會急速減少。",
+    "safety_critical": false,
+    "answer_line": "朝被困手臂那一側橋起",
+    "distractors": {
+     "plausible": [
+      "朝被困手臂的反方向橋起",
+      "直接拉扯硬把手臂扯出"
+     ],
+     "trap": [
+      "轉身背離進攻方"
+     ]
+    }
+   },
+   {
+    "question": "防守方最常因為什麼常見錯誤而被 Kimura from Quarter Guard 困住？",
+    "answer": "最常見的錯誤是過度投入 underhook，卻沒有保護好手腕。練習者太專注於為了 sweep 和拿背而建立 underhook，結果不小心把手臂伸出去，正好創造出上位選手需要的手腕暴露。矯正方法是伸手去搶 underhook 時要留意手腕位置，在 underhook 完全建立之前，讓手肘保持彎曲並貼近身體，而不是伸長手臂去搶。",
+    "safety_critical": false,
+    "answer_line": "搶 underhook 時手腕暴露",
+    "distractors": {
+     "plausible": [
+      "太早急著拿背",
+      "underhook 搶錯邊"
+     ],
+     "trap": [
+      "轉身把手臂藏起來"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+  "_meta": {
+    "source": "content/Submissions/Ezekiel Choke/from Side Control.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Ezekiel Choke from Side Control 主要壓迫哪些解剖構造?",
+        "answer": "Ezekiel Choke 透過雙側壓迫，鎖定頸部兩側的頸動脈。前臂的刀刃部位壓在一側頸動脈上，而握著袖口的那隻前臂則壓迫另一側，形成一個限制腦部血流的血液型 choke。前臂角度必須正確，確保壓迫的是動脈而不是氣管，否則會變成空氣型 choke，而不是原本設計的血液型機制。",
+        "safety_critical": false,
+        "answer_line": "兩側頸動脈",
+        "distractors": {
+          "plausible": [
+            "氣管（呼吸道）",
+            "只有對側頸動脈"
+          ],
+          "trap": [
+            "壓氣管，用力壓才有效"
+          ]
+        }
+      },
+      {
+        "question": "對手在刀刃前臂放置的過程中開始把身體轉離你，什麼調整能避免 choke 失敗?",
+        "answer": "當對手轉離你時，跟著他的動作把膝蓋往他頭部那側移動，同時維持髖部壓力。這個轉動動作實際上可能反而幫助 choke，因為會讓近側的頸動脈更暴露在你的刀刃前臂之下。當他們轉動時把刀刃前臂驅得更深，並用胸口壓力阻止他們完全轉成 turtle。如果他們製造出足夠的角度、威脅要完全轉身，就放棄 choke，重新建立 crossface 以避免被反過來取背。",
+        "safety_critical": false,
+        "answer_line": "跟著轉動，刀刃壓更深",
+        "distractors": {
+          "plausible": [
+            "放開握點重新來過",
+            "改成抓手腕"
+          ],
+          "trap": [
+            "坐起來用蠻力硬鎖"
+          ]
+        }
+      },
+      {
+        "question": "從 side control 發動 Ezekiel 收尾前，必須先建立哪些具體的控制要素?",
+        "answer": "在收尾前，你必須已建立好 crossface，讓 underhook 那隻手臂靠近頸部；擁有沉重的髖對髖壓力來限制對手的髖部活動；理想狀況下，對手的雙手正忙於 framing，而不是保護自己的頸部。袖口握點必須四指深深插入內縫線之後，才能防止被剝離。尤其如果沒有確保髖部壓力，對手會在你換握點時做出 hip escape，把你原本主導的 side control 轉變成 half guard 局面。",
+        "safety_critical": false,
+        "answer_line": "Crossface、髖部壓緊、握點夠深",
+        "distractors": {
+          "plausible": [
+            "只要有 underhook，隨時可抓",
+            "胸對胸，不需要 crossface"
+          ],
+          "trap": [
+            "先抓袖口，髖部之後再說"
+          ]
+        }
+      },
+      {
+        "question": "如何辨識 choke 結構已經完全鎖死、對手已經過了可逃脫的臨界點?",
+        "answer": "當兩隻前臂在頸部周圍形成一個封閉迴路——刀刃前臂位於下巴下方壓著喉部、迴路中沒有任何鬆動、且你的胸口重量正透過整個結構向前施壓——choke 就算完全鎖死。當你的頭貼在對手頭部旁邊形成阻擋楔子、阻止他轉臉、雙肘都緊貼身體，而對手用手 frame 想推開前臂的嘗試已經無法克服結構中結合的體重與剪刀式張力時，就代表已經到了無法逃脫的臨界點。",
+        "safety_critical": false,
+        "answer_line": "無鬆動、頭部卡楔、胸口下壓",
+        "distractors": {
+          "plausible": [
+            "握點緊但手臂還鬆",
+            "前臂在喉部但頭沒卡楔"
+          ],
+          "trap": [
+            "對方不動了就加大力道"
+          ]
+        }
+      },
+      {
+        "question": "最常見的技術錯誤是什麼，會讓 side control 的 Ezekiel 從血液型 choke 變成無效的壓迫?",
+        "answer": "最常見的錯誤是只想靠前臂夾緊來收尾，卻沒有把上半身體重貫穿進整個 choke 結構中。從側面垂直的角度來看，光靠手臂力量無法產生足夠的雙側閉合力來同時壓迫兩側頸動脈。正確做法是把頭與胸口壓進結構裡，用整個上半身作為統一的施壓機制。把前臂想成一個框架，而你的體重才是把它閉合的力量。",
+        "safety_critical": false,
+        "answer_line": "只靠手臂夾，沒用上體重",
+        "distractors": {
+          "plausible": [
+            "袖口握點只插入兩指深",
+            "還沒建立 crossface 就開始"
+          ],
+          "trap": [
+            "扭頸部逼對方拍降"
+          ]
+        }
+      },
+      {
+        "question": "收尾過程中，因為道服被汗水浸濕導致袖口握點開始滑脫，該做什麼握點調整來維持 choke?",
+        "answer": "當袖口握點開始滑脫時，把更多手指與掌心穿進袖口深處，而不是用指尖抓得更緊。把手指彎曲勾住袖口內縫線，做成一個抗滑脫的鉤狀握法。如果袖口太濕滑，可以改抓前臂較上方、布料較多的部位。作為即時替代方案，趁握點還沒進一步惡化前全力完成收尾，因為此時 choke 可能已經有足夠的閉合力來逼出拍降。",
+        "safety_critical": false,
+        "answer_line": "抓更深，勾住袖口縫線",
+        "distractors": {
+          "plausible": [
+            "用指尖夾得更緊",
+            "改抓衣領而不是袖口"
+          ],
+          "trap": [
+            "坐起來重新抓，讓出空間"
+          ]
+        }
+      },
+      {
+        "question": "完成 Ezekiel Choke 時具體的受傷風險有哪些，什麼徵兆需要立刻放開?",
+        "answer": "主要風險是頸動脈壓迫在雙側閉塞後四到六秒內導致失去意識，以及因前臂角度不當、壓到氣管而非動脈所造成的氣管損傷。只要出現任何拍降訊號，包括手拍、腳拍、口頭示意，或抵抗力突然消失（可能代表快失去意識），都必須立刻放開。絕對不要抖動或猛烈施力。施壓應該至少維持三到五秒漸進式增加。如果對手在沒有拍降的情況下突然停止防禦，要假設他正在失去意識，立刻完全放開壓力。",
+        "safety_critical": true,
+        "answer_line": "頸動脈 choke，一拍就放",
+        "distractors": {
+          "plausible": [
+            "氣管型，咳嗽就放",
+            "只有口頭拍降才放"
+          ],
+          "trap": [
+            "用力抖一下逼快點拍"
+          ]
+        }
+      },
+      {
+        "question": "比賽中，該如何抓準時機從 side control 發動 Ezekiel，才能提高出其不意的成功率?",
+        "answer": "最佳時機是在對手剛防禦完另一個降伏嘗試（例如 americana 或 kimura）之後，此時他們的雙手正忙於握點對抗、注意力集中在手臂威脅上而非頸部防守。另一個做法是在位置轉換的當下設置袖口握點，當對手預期你要推進到 mount 或 knee on belly 時，用這個轉換動作當作掩護來設置握點。剛建立 side control 後的前三十秒通常太早，因為對手此時仍對所有威脅保持高度警覺。",
+        "safety_critical": false,
+        "answer_line": "剛防完手臂鎖之後立刻出手",
+        "distractors": {
+          "plausible": [
+            "一落入 side control 就出手",
+            "趁對方正在做橋時"
+          ],
+          "trap": [
+            "還沒壓住髖部就先攻擊"
+          ]
+        }
+      },
+      {
+        "question": "對手有效地縮下巴來阻擋刀刃前臂進入喉部，該如何從 side control 突破這個防守?",
+        "answer": "從 side control 的角度，應該從側面接近喉部，而不是嘗試直接越過下巴。用握著袖口的那隻手短暫把下巴往上頂，為刀刃前臂爭取空隙滑進去接觸頸動脈。如果縮下巴的防守依然難以突破，choke 仍能在下顎骨上施加有效壓力，因為下顎骨會把壓縮力傳遞到底下的頸動脈結構。你也可以改換成 arm triangle 的設置，因為對手縮下巴時往往會把手臂靠近頸部，正好形成該 choke 所需的困臂配置。",
+        "safety_critical": false,
+        "answer_line": "頂起下巴，把刀刃穿進去",
+        "distractors": {
+          "plausible": [
+            "用手肘把下巴撬下",
+            "直接越過下巴硬壓"
+          ],
+          "trap": [
+            "坐起來用蠻力壓過去"
+          ]
+        }
+      },
+      {
+        "question": "訓練中收到拍降訊號時，應該如何安全地放開 Ezekiel Choke?",
+        "answer": "只要收到任何拍降訊號，立刻以順暢、可控的動作放開袖口握點，並把刀刃前臂從頸部抽離。不要突然放開後急著搶奪其他位置。短暫維持 side control，讓夥伴恢復方向感並確認意識清醒。用眼神接觸並口頭確認他們有反應、感覺沒問題，之後才繼續訓練或重置位置。如果對意識狀態有任何疑慮，或夥伴看起來意識不清，要立刻呼叫教練協助，並將他們擺成恢復姿勢。",
+        "safety_critical": true,
+        "answer_line": "緩慢放開，再確認狀況",
+        "distractors": {
+          "plausible": [
+            "猛地抽出手臂並坐起",
+            "等對方喊停才放開"
+          ],
+          "trap": [
+            "繼續夾緊直到對方癱軟"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "如何辨識對手正從 side control top 設置 Ezekiel Choke?",
+        "answer": "最早的辨識徵兆，是攻擊者的 crossface 那隻手從定位控制轉為把手指穿進他自己的另一側袖口，同時仍維持靠近你頸部的位置。其他徵兆包括：crossface 壓力品質出現細微變化、自由手朝你的喉部而非髖部移動、髖部壓力因應握點轉換而增加，以及攻擊者的頭部貼向你頭部旁邊。袖口握點的出現是最明確的警訊，也是立刻採取防禦動作的觸發點。",
+        "safety_critical": false,
+        "answer_line": "Crossface手穿進自己袖口",
+        "distractors": {
+          "plausible": [
+            "手移動去抓你的衣領",
+            "只是 crossface 壓力增加"
+          ],
+          "trap": [
+            "不用理會，手看起來像在休息"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候應該對 Ezekiel Choke 拍降，而不是繼續嘗試防禦?",
+        "answer": "如果刀刃前臂已經越過你的喉部、對手兩隻手臂都已鎖在封閉的 choke 結構中、頭部卡在你頭部旁邊，而你用雙手推開前臂的嘗試都無法製造出空間，就要立刻拍降。血液型 choke 在兩側頸動脈完全被壓迫後，最快四到六秒內就可能造成失去意識。訓練中，跟一個已經完全鎖死的 Ezekiel 硬撐沒有任何好處。及早拍降，之後再分析自己是在哪個環節錯過辨識，下次專注於更早發現。",
+        "safety_critical": true,
+        "answer_line": "手臂鎖死，前臂推不動",
+        "distractors": {
+          "plausible": [
+            "只有覺得頭暈才拍",
+            "刀刃剛碰到喉部就拍"
+          ],
+          "trap": [
+            "繼續掙扎，choke 需要時間"
+          ]
+        }
+      },
+      {
+        "question": "攻擊者設置 Ezekiel 的過程，會為防守方（在 side control bottom）創造出哪些逃脫機會?",
+        "answer": "Ezekiel 的設置之所以會製造逃脫機會，是因為攻擊者必須把 crossface 那隻手從定位控制轉為握持袖口的任務，短暫削弱他們的頭部控制。這個空檔讓原本會被 crossface 擋住的 hip escape 有機會執行。此外，攻擊者的注意力此時從維持位置轉移到建立 choke 上，形成一個分心的時刻，有經驗的防守者可以加以利用。針對握點轉換階段精準抓時機做 hip escape、回收 half guard，是勝算最高的反制方式。",
+        "safety_critical": false,
+        "answer_line": "趁握點轉換時做 hip escape",
+        "distractors": {
+          "plausible": [
+            "立刻做橋並翻滾",
+            "推開他的臉然後等待"
+          ],
+          "trap": [
+            "轉身離開來製造空間"
+          ]
+        }
+      },
+      {
+        "question": "上位的對手已經穿好袖口握點、正在把刀刃前臂移向你的喉部，你最優先該做的動作是什麼?",
+        "answer": "你最優先該做的，是立即縮下巴，並用雙手對即將靠近的刀刃前臂做二對一阻擋，在它越過你喉部中線之前完成。這個階段不要嘗試做 hip escape，因為你的雙手需要用來防禦前臂。一旦你成功擋住前臂、且對手放棄或鬆開嘗試，立刻把雙手轉為對肩膀與髖部做 frame，準備 hip escape，趁對手還沒再次嘗試 choke 之前逃脫。",
+        "safety_critical": false,
+        "answer_line": "縮下巴，雙手擋前臂",
+        "distractors": {
+          "plausible": [
+            "立刻做 hip escape 逃開",
+            "抓住他的手腕往下拉"
+          ],
+          "trap": [
+            "把臉轉離刀刃"
+          ]
+        }
+      },
+      {
+        "question": "為什麼把身體轉離攻擊者，是面對 side control 的 Ezekiel 時一個危險的防禦反應?",
+        "answer": "轉離攻擊者會暴露你的背部，這對對手來說是更加主導的位置。他們可以放棄 Ezekiel 嘗試，立刻轉換成取背控制，插入 hooks、建立 seatbelt 握法，甚至改從背後完成 choke，屆時會更難防守。如果你必須轉身，永遠要轉向攻擊者，以縮小 choke 的角度並爭取 underhook，這樣才能給自己一條有建設性的逃脫路徑，而不是陷入更糟的位置災難。",
+        "safety_critical": false,
+        "answer_line": "會暴露背部被取背",
+        "distractors": {
+          "plausible": [
+            "會把手臂送進 armbar",
+            "會讓對方 mount 把你壓扁"
+          ],
+          "trap": [
+            "這是最快的逃脫路線"
+          ]
+        }
+      }
+    ]
+  }
+}

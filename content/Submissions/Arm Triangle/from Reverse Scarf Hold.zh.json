@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm Triangle from Reverse Scarf Hold 攻擊的是哪些解剖構造？",
+    "answer": "Arm Triangle 透過雙側壓迫機制同時壓迫兩側頸動脈。對手自己被困住的肩膀從近側壓進一邊頸動脈，而你的前臂則從對手頸後繞過，壓向另一側頸動脈。這種雙側限制血流到腦部的效果，若不放開，會在 6-8 秒內造成昏迷。這個勒頸技靠的是結構，不是靠蠻力。",
+    "answer_line": "兩側頸動脈",
+    "distractors": {
+     "plausible": ["氣管與呼吸道", "只有頸靜脈"],
+     "trap": ["脊椎——扭壓逼拍"]
+    }
+   },
+   {
+    "question": "在 Reverse Scarf Hold 中，對手的手臂要擺到什麼位置，才會創造出 Arm Triangle 的機會？",
+    "answer": "觸發點是對手的近端手臂越過自己的喉嚨線，可能是你 Reverse Scarf Hold 的胸壓把它逼過去的，也可能是他們自己做防守性框架時橫過自己的脖子。你會感覺到他們的前臂貼在自己脖子上，肩膀壓向自己的頸動脈。這個手臂位置就是 Arm Triangle 的前提條件。要立刻辨識出來，而不是繼續尋找 Americana 或 Kimura 的機會。",
+    "answer_line": "手臂越過自己的喉嚨線",
+    "distractors": {
+     "plausible": ["髖部往外 shrimp", "遠側手抓住你的腰帶"],
+     "trap": ["坐起來被頂到 guard"]
+    }
+   },
+   {
+    "question": "從 Reverse Scarf Hold 控制轉換到 Arm Triangle 配置時，需要做什麼樣的抓握調整？",
+    "answer": "只有在胸壓已經把被困手臂固定在對手脖子上之後，才能放開你 Reverse Scarf Hold 的 underhook 或手臂控制。把勒頸手繞過對手被困手臂的上方、穿到脖子後面，讓前臂骨從遠側壓過頸動脈。用勒頸手抓住自己的二頭肌鎖住 figure-four grip，空出的手則扣住對方頭後；或者用 gable grip 追求最大的緊實度。",
+    "answer_line": "先胸壓固定手臂，再上 figure-four",
+    "distractors": {
+     "plausible": ["先放開控制，再抓握", "先換 underhook 再固定"],
+     "trap": ["坐起來去搆遠側抓握"]
+    }
+   },
+   {
+    "question": "你的對手開始用框架抵抗你的 Reverse Scarf Hold 壓力，把手臂橫過自己的脖子——什麼調整能利用這個反應？",
+    "answer": "把胸口壓下去，把他們做框架的手臂固定在自己脖子上。一旦體重把手臂固定住，就順暢地把勒頸手繞過被困手臂、穿到他們頸後，建立 head-and-arm lock。不要試圖硬拆這個框架——反而要把它當成 Arm Triangle 的基礎來利用。對手的防守動作，直接變成你下一個降伏技的設置。",
+    "answer_line": "胸壓固定框架，手臂穿過",
+    "distractors": {
+     "plausible": ["快速拆掉這個框架", "換成遠側的 underhook"],
+     "trap": ["雙手撐地去撬開它"]
+    }
+   },
+   {
+    "question": "從 Reverse Scarf Hold 鎖上 Arm Triangle 後，什麼樣的身體角度能製造出最大的完成壓力？",
+    "answer": "把髖部從反向朝向的姿勢走到與對手身體垂直（90 度），站在被困手臂那一側。近側的髖部貼地，頭放在對手頭部遠側的墊子上。你的胸口應該正對著對手的臉。這個角度讓你擴張的胸腔和體重能把對手的肩膀壓進他們自己的頸動脈，同時前臂壓迫另一側。",
+    "answer_line": "旋轉髖部到垂直角度",
+    "distractors": {
+     "plausible": ["保持平行，向前推壓", "仍面向對手雙腿"],
+     "trap": ["坐回去用手臂硬拉"]
+    }
+   },
+   {
+    "question": "有哪些關鍵跡象顯示 Arm Triangle 已正確鎖住，對手正接近無法逃脫的臨界點？",
+    "answer": "當你能感覺到對手被困住的肩胛骨緊緊壓進他們的脖子、你的胸口和他們身體之間毫無空隙時，代表勒頸已經鎖得很正確。他們的臉會開始因血流受限而變色。他們的防禦動作會變得越來越無力、越來越不協調、越來越慌亂。如果他們無法用空出來的手做出任何框架，也無法有效 bridge 來打亂你的垂直角度，就代表他們已經過了無法逃脫的臨界點。",
+    "answer_line": "無空隙，肩膀壓住頸動脈",
+    "distractors": {
+     "plausible": ["空出來的手抓住你的腰帶", "呼吸聲變大"],
+     "trap": ["等他們昏過去"]
+    }
+   },
+   {
+    "question": "施展 Arm Triangle from Reverse Scarf Hold 時必須遵守哪些安全注意事項？",
+    "answer": "施壓要在 3-5 秒內循序漸進地加壓，絕對不要突然猛力或抽動。透過感覺抵抗力的變化與觀察臉部顏色變化，持續監控對手是否還有意識。務必讓對手至少有一隻手是自由的、能夠拍降。只要出現任何拍降訊號——口頭、拍手或拍腳——都要立刻放開。如果對手全身癱軟，立刻放開，讓他側躺成復甦姿勢、抬高雙腿，並持續觀察呼吸，直到他恢復意識為止。",
+    "answer_line": "循序漸進施壓，拍降就放",
+    "distractors": {
+     "plausible": ["每次加壓都確認脈搏", "癱軟先抬腿再放開"],
+     "trap": ["用力快速夾緊逼拍"]
+    }
+   },
+   {
+    "question": "在從 Reverse Scarf Hold 轉換到 Arm Triangle 的過程中，你要如何防止對手抽出被困手臂？",
+    "answer": "關鍵的控制在於，抓握切換前後都要用胸壓固定住被困手臂。你的體重把對手的手臂壓在他們自己脖子上，讓他們無法把手抽出來。整個轉換過程都要維持沉重的向前壓力。一旦 head-and-arm 抓握鎖上，figure-four 配置就會在結構上阻止手臂被抽出。如果你感覺手臂開始滑出去，要立刻退回 Reverse Scarf Hold 的壓力，而不是硬追一個已經鬆動的抓握。",
+    "answer_line": "全程用胸壓固定手臂",
+    "distractors": {
+     "plausible": ["單靠抓握力量固定手臂", "加快轉換速度即可"],
+     "trap": ["手臂滑出就追著抓"]
+    }
+   },
+   {
+    "question": "你的對手用把手臂拉過身體來防守你的 Americana 攻擊——你要如何銜接到 Arm Triangle？",
+    "answer": "當對手把手臂往內拉來防守 Americana 時，他們會不小心把自己的前臂橫過自己脖子，正好創造出 Arm Triangle 所需要的手臂陷阱。立刻放棄 Americana 的抓握，把胸口壓在剛剛就位的手臂上加以固定。把勒頸手繞過被困手臂上方、穿到對方頭後，建立 head-and-arm lock。這個「Americana 誘餌接 Arm Triangle」的連環技，是 Reverse Scarf Hold 裡命中率最高的降伏組合之一。",
+    "answer_line": "固定手臂，穿過接 Arm Triangle",
+    "distractors": {
+     "plausible": ["重新設置再攻 Americana", "換邊追 Kimura"],
+     "trap": ["坐起來硬扭肩膀"]
+    }
+   },
+   {
+    "question": "從 Reverse Scarf Hold 完成 Arm Triangle 跟從標準 Side Control 進入完成有什麼不同？",
+    "answer": "主要差異在於旋轉幅度。從 Reverse Scarf Hold 出發，你一開始是面向對手的雙腿，必須旋轉約 180 度才能到達垂直完成角度；而從 Side Control 出發，你的方向本來就已經接近正確角度。這個旋轉需求代表髖部繞行的階段會拉得比較久，也給對手創造了嘗試逃脫的空檔。不過優勢在於，Reverse Scarf Hold 這個 pin 一開始就提供更好的手臂孤立效果和胸腔壓迫，讓抓握轉換更穩固。",
+    "answer_line": "多需要旋轉 180 度",
+    "distractors": {
+     "plausible": ["需要先做遠側 underhook", "抓握要換成 Gable lock"],
+     "trap": ["不旋轉、正面完成即可"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要怎麼辨識對手正從 Reverse Scarf Hold 轉換到 Arm Triangle？",
+    "answer": "關鍵的辨識訊號是感覺到對手的胸口體重加大力道壓在你的近端手臂上，刻意把它固定在你自己的脖子上，接著他們放開 Reverse Scarf Hold 的手臂控制，開始把手繞過你的手臂、穿到你頸後。你也可能感覺到他們的髖部從 Reverse Scarf Hold 的姿勢鬆開，準備從反向朝向旋轉到垂直的完成角度。",
+    "answer_line": "胸壓固定手臂，控制鬆開",
+    "distractors": {
+     "plausible": ["髖部往你身上更深地陷入", "抓握加緊你的手腕"],
+     "trap": ["轉身背對來緩解重量"]
+    }
+   },
+   {
+    "question": "被 Arm Triangle from Reverse Scarf Hold 鎖住時，最安全的拍降方式是什麼？",
+    "answer": "立刻明確拍降，用任何可用的訊號：用空出來的手多次拍打地板或對手身體，如果手被困住就用腳拍，或大聲說「tap」。一旦勒頸鎖上，不要等著看能不能逃脫——Arm Triangle 會壓迫頸動脈，可能在 6-8 秒內造成昏迷，而且幾乎沒有警訊。及早拍降能避免受傷，讓你能安全地繼續訓練。",
+    "answer_line": "及早拍降，手、腳或口頭",
+    "distractors": {
+     "plausible": ["先等一下試探壓力", "先試著用力掙脫"],
+     "trap": ["硬撐證明自己夠強"]
+    }
+   },
+   {
+    "question": "什麼樣的手臂擺位，能防止對手把 Reverse Scarf Hold 轉換成 Arm Triangle？",
+    "answer": "把近端手臂緊貼在自己身體上、手肘朝下、手放在自己胸口，或是把手臂完全伸離自己的脖子朝向墊子。最致命的錯誤，是讓自己的前臂橫過自己的喉嚨線，這正是攻擊者需要的被困手臂位置。防守 Reverse Scarf Hold 的 pin 時，要用髖部移動和遠側手臂的框架來對抗對手的髖部，而不是用近端手臂橫過自己脖子做框架。",
+    "answer_line": "手臂遠離自己的喉嚨",
+    "distractors": {
+     "plausible": ["緊抓對方遠側衣領", "抓自己的衣領當 base"],
+     "trap": ["前臂橫過自己脖子"]
+    }
+   },
+   {
+    "question": "對手已經鎖上 head-and-arm 配置，但還沒旋轉到完成角度——你還有哪些逃脫選項？",
+    "answer": "這是你最後一個高機率的逃脫時機。轉身面向對手、朝被困手臂那一側，努力撐到膝蓋上。同時用空出來的手臂對他們的髖部做框架，阻止他們完成旋轉到垂直角度。如果你能把膝蓋撐起來、正面朝向對手，他們就無法產生完成所需的胸腔壓迫。另外，也可以朝被困手臂那一側 bridge，把對手拉進你的 Closed Guard，藉此打亂完成角度。",
+    "answer_line": "轉身面向，撐起膝蓋",
+    "distractors": {
+     "plausible": ["直接用力向上 bridge", "抓住他們的腰帶撐住"],
+     "trap": ["轉身背對、放平身體"]
+    }
+   },
+   {
+    "question": "允許從 Reverse Scarf Hold 轉換到 Arm Triangle 的最常見防守錯誤有哪些？",
+    "answer": "最常見的錯誤，是本能地用近端手臂橫過自己脖子來防守 Reverse Scarf Hold 的胸壓，這直接創造了 Arm Triangle 的設置。第二常見的錯誤，是被夾住後轉身背對，這會加速勒頸，因為會把自己的肩膀更深地壓進頸動脈。第三個錯誤，是防守得太晚——對手從 pin 控制切換到 head-and-arm 抓握的那個轉換窗口，是最好的逃脫時機，而這個窗口只有 2-3 秒。",
+    "answer_line": "用近端手臂橫過自己脖子",
+    "distractors": {
+     "plausible": ["太早抓對方的袖子", "手肘一直貼緊身體"],
+     "trap": ["伸手去推對方的頭"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Arm Triangle/from Reverse Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

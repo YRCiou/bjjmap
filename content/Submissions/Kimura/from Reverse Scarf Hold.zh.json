@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Reverse Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Reverse Scarf Hold 施加 Kimura 主要攻擊哪些解剖構造？",
+    "answer": "Kimura 主要透過強制內旋來攻擊肩關節，鎖定旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊，以及關節唇。次要壓力會作用在肱二頭肌腱與支撐盂肱關節的韌帶上。強制內旋超過正常活動範圍，正是產生 submission 壓力的原因。",
+    "answer_line": "肩關節與旋轉肌袖",
+    "distractors": {
+     "plausible": [
+      "手肘過度伸展",
+      "手腕與前臂肌腱"
+     ],
+     "trap": [
+      "快速硬扳，不留 tap 空間"
+     ]
+    }
+   },
+   {
+    "question": "相較於標準 side control，reverse scarf hold 的姿勢為什麼能為 Kimura 提供力學優勢？",
+    "answer": "reverse 的姿勢讓你的雙手自然對齊 figure-four grip 的路徑，減少換 grip 的次數。你的體重直接壓進對手的胸口，把他壓平，消除了平常會破壞 Kimura 嘗試的 hip escape 動作。這個反向角度也改變了逃脫的幾何結構，讓翻身離開或把手臂往頭部方向伸直這類常見的防守方式，比從標準 side control 更難生效。",
+    "answer_line": "壓平對手，消除 hip escape",
+    "distractors": {
+     "plausible": [
+      "打開一條過腿的路線",
+      "設置一個直臂 armbar 角度"
+     ],
+     "trap": [
+      "抬起胸口用力扳"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己的腰帶，防止你把手臂拉開——正確的應對方式是什麼？",
+    "answer": "把胸口的重量往前壓，把他完全壓平，同時對 figure-four 做短促、有節奏的拉扯，來消耗他 grip 的力氣，而不是一次持續用力。每一次拉扯應該是快速的一小段，接著維持張力。如果試了幾次 grip 還是撐住，就改換方向，往另一側把手腕壓向地墊，切換成 americana，攻擊一個他用腰帶 grip 無法防守的旋轉角度。",
+    "answer_line": "短促拉扯，或改攻 americana",
+    "distractors": {
+     "plausible": [
+      "一次用力持續拉扯",
+      "等 grip 自己疲勞"
+     ],
+     "trap": [
+      "用力把手臂往上猛拉"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加 Kimura 有哪些重要的安全守則？",
+    "answer": "至少用 3 到 5 秒的時間慢慢施加旋轉壓力，絕對不要猛拉或突然加速。確保對練夥伴隨時至少有一隻手是空著可以 tap 的。留意並觀察任何 tap 訊號，包括口頭、拍手或拍腳。一有任何 tap 訊號，立刻停止：先停止旋轉，把手臂帶回中立位置，再放開 figure-four grip。絕對不要測試對練夥伴的痛覺忍耐度，或是在他 tap 之後還繼續維持。",
+    "answer_line": "慢慢旋轉，一有 tap 就放開",
+    "distractors": {
+     "plausible": [
+      "tap 之後再撐兩秒",
+      "只認拍手算 tap"
+     ],
+     "trap": [
+      "猛拉手臂逼他 tap"
+     ]
+    }
+   },
+   {
+    "question": "對練夥伴 tap 之後，你應該怎麼放開這個 Kimura？",
+    "answer": "一偵測到 tap，立刻停止所有旋轉壓力。慢慢把手臂往外旋轉，帶回起始的中立位置，絕對不要突然放開或讓手臂彈回去。等手臂回到中立位置後，完全鬆開 figure-four grip。在繼續訓練之前，讓你的對練夥伴自己評估肩膀的活動度。放開的過程應該是受控且漸進的，以避免因位置突然改變而造成傷害。",
+    "answer_line": "停止旋轉，慢慢放開",
+    "distractors": {
+     "plausible": [
+      "一次全部鬆開 grip",
+      "還要等對方口頭 tap"
+     ],
+     "trap": [
+      "再多扳一點確認"
+     ]
+    }
+   },
+   {
+    "question": "從位置控制的 grip 轉換到 Kimura 的 figure-four，正確的順序是什麼？",
+    "answer": "首先，用你近側的手控制住對手近側的手腕，把它牢牢壓在他身體上。只有在手腕被控制住之後，才能放開你遠側的位置錨點。把你遠側的手臂從外側穿過對手上臂下方，穿過他手肘與身體之間。你的遠手接著抓住自己近側的手腕，完成 figure-four。整個轉換過程中，胸部壓力都必須維持到底，防止對手創造防守空間。",
+    "answer_line": "先固定近側手腕再放開錨點",
+    "distractors": {
+     "plausible": [
+      "先穿手臂，再固定手腕",
+      "先抓自己的手腕"
+     ],
+     "trap": [
+      "先放開錨點，才抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在施加旋轉壓力之前，必須把手肘從身體上剝離開來？",
+    "answer": "如果對手的手肘還壓在肋骨上，旋轉會被他軀幹的結構支撐擋住。手肘是這個 submission 的支點，必須把它從身體抬離，才能創造出有效旋轉所需的槓桿臂。沒有這個分離，你可以無限施力，卻無法產生足夠讓對方 tap 的肩膀旋轉，白白浪費力氣，也給對手時間發展逃脫動作。",
+    "answer_line": "手肘要離開軀幹才能旋轉",
+    "distractors": {
+     "plausible": [
+      "手腕才是真正的支點",
+      "這會消耗他肩膀的力量"
+     ],
+     "trap": [
+      "盲目硬扳，結果被翻過去"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖死 figure-four，對手爆發性地 bridge——什麼調整能防止你失去位置？",
+    "answer": "立刻把遠側的腿往外伸展來拓寬底盤，並把近側的腿穩穩撐向對手頭部那一側。把髖部重量往下壓在他胸口，吸收 bridge 的力量。如果這個 bridge 強到讓你的底盤動搖，就順著往上的動力走，過渡到 mount，同時維持住 Kimura grip。figure-four grip 在這個轉換過程中就是你的控制把手，絕對不要因為 bridge 而放開它。只要你維持住 grip 的完整，他爆發性的 bridge 其實反而幫助你過渡到 mount。",
+    "answer_line": "拓寬底盤，順勢升上 mount",
+    "distractors": {
+     "plausible": [
+      "往他腿的方向翻滾",
+      "在 bridge 當下用力扳 grip"
+     ],
+     "trap": [
+      "轉身背對，讓出你的背"
+     ]
+    }
+   },
+   {
+    "question": "當對手成功防守住從 reverse scarf hold 施加的 Kimura 時，有哪些連段攻擊的選項？",
+    "answer": "如果對手抓住腰帶或手腕來防止手臂被拉開，就改把手腕往另一側的地墊壓，轉攻 americana。如果他把手臂完全伸直，就維持住手腕控制並跨過他的頭，轉換成遠側 armbar。如果他透過 hip escape 創造出明顯的空間，就放棄這個 submission，鞏固 side control 或推進到 north-south。Kimura 的嘗試應該永遠能製造出反應，打開至少一個替代的攻擊機會。",
+    "answer_line": "Americana、armbar，或鞏固 side control",
+    "distractors": {
+     "plausible": [
+      "改攻 collar choke",
+      "維持 grip 耗著等"
+     ],
+     "trap": [
+      "轉身找 leg lock，失去壓制"
+     ]
+    }
+   },
+   {
+    "question": "從 reverse scarf hold 施加 Kimura 的整個過程中，胸部壓力扮演什麼角色？",
+    "answer": "胸部壓力在整個攻擊過程中承擔三個關鍵功能。第一，它把對手壓平，防止他用 hip escape 創造出恢復 guard 的空間。第二，它限制他的呼吸，降低他產生爆發性防守動作的能力。第三，它固定住你的身體位置，讓你的雙手可以獨立處理 grip 轉換與收招機制，而不會犧牲位置的穩定。在攻擊的任何階段失去胸部壓力，都會危及整個 submission 的連段。",
+    "answer_line": "壓平對手並奪走呼吸",
+    "distractors": {
+     "plausible": [
+      "只是防止他恢復 guard",
+      "主要是加快換 grip"
+     ],
+     "trap": [
+      "坐起來空出雙手"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你怎麼辨識出對手正在從 Reverse Scarf Hold 設置 Kimura？",
+    "answer": "最主要的辨識訊號，是攻擊者把近側的手從位置控制改成抓住你的手腕，表示他正從維持壓制轉為設置這個 submission。你也會感覺到他的遠側手臂開始從你手肘與肋骨之間穿到你上臂下方。他的重心可能會稍微改變，因為他放開遠側的錨點，把雙手都投入到 grip 動作中。在手腕控制的階段就及早辨識，能提供你最好的防守空間。",
+    "answer_line": "近側手改抓你的手腕",
+    "distractors": {
+     "plausible": [
+      "他改成 knee-on-belly",
+      "他抓住你遠側的 collar"
+     ],
+     "trap": [
+      "不理它，讓手臂維持放鬆"
+     ]
+    }
+   },
+   {
+    "question": "對從 Reverse Scarf Hold 施加的 Kimura tap，最安全的方式是什麼？",
+    "answer": "提早、明確地 tap，同時用多個訊號一起表示。一邊口頭喊「tap」，一邊用空著的那隻手拍打攻擊者身體任何部位或地墊。如果你空著的手被困住了，就用拍腳或口頭訊號。不要等到疼痛變得劇烈才 tap，因為一旦旋轉到達活動範圍的極限，肩膀損傷可能很快就會發生。旋轉肌袖與關節唇有可能在明顯痛感出現之前就已經受損，因此及早 tap 對長期的肩膀健康至關重要。",
+    "answer_line": "提早 tap，用多個訊號",
+    "distractors": {
+     "plausible": [
+      "用搖頭來示意",
+      "等教練出面喊停"
+     ],
+     "trap": [
+      "撐過疼痛，靠力量掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Reverse Scarf Hold 施加的 Kimura，有哪些防守選項？",
+    "answer": "主要的防守方式是在 figure-four 完全建立之前，抓住自己的腰帶、短褲，或遠側手腕，防止手臂被拉開。次要選項包括：在攻擊者換 grip、底盤暫時不穩的空檔爆發性地 bridge、用 hip escape 創造距離來恢復 guard，以及把手臂完全伸直，防止旋轉的槓桿產生。關鍵在於要在 grip 建立的階段就及早防守，而不是等到 figure-four 鎖死、手肘被剝離之後才防守。",
+    "answer_line": "抓腰帶，及早 bridge",
+    "distractors": {
+     "plausible": [
+      "先等等，再用力掙脫手臂",
+      "等 figure-four 鎖死後再防守"
+     ],
+     "trap": [
+      "放鬆手臂來減輕疼痛"
+     ]
+    }
+   },
+   {
+    "question": "為什麼換 grip 的空檔是防守從 reverse scarf hold 施加的 Kimura 的最佳時機？",
+    "answer": "當攻擊者放開遠側的位置錨點，去穿 figure-four 時，他的底盤穩定度與壓制的壓力都會暫時被犧牲。這會創造出一個短暫的空檔，此時 bridge 與 hip escape 最為有效，因為攻擊者無法同時維持完整的位置控制，又建立起這個 submission 的 grip。一旦 figure-four 鎖死，攻擊者的控制其實反而會增加，因為這個 grip 本身就變成了一個控制把手。",
+    "answer_line": "換 grip 時他的底盤最不穩",
+    "distractors": {
+     "plausible": [
+      "他胸口壓力最重的時候",
+      "figure-four 鎖死後立刻反擊"
+     ],
+     "trap": [
+      "等你的手肘被剝離之後再說"
+     ]
+    }
+   },
+   {
+    "question": "當 figure-four 已經鎖在你的手臂上時，應該避免做什麼？",
+    "answer": "避免驚慌並做出不受控的掙扎動作，因為這可能會加速肩膀旋轉超過安全範圍，讓自己受傷。避免把手臂往身體外伸展，因為這會幫助攻擊者剝離手肘、施加旋轉。避免試著用空著的那隻手把攻擊者推開，因為這只是浪費力氣，並沒有處理到 grip 本身。取而代之，應該抓住自己的身體來防止手臂被拉開，保持冷靜，並尋找系統性的 grip 對抗機會或 bridge 的空檔。",
+    "answer_line": "掙扎，或把手臂伸直",
+    "distractors": {
+     "plausible": [
+      "抓住自己的大腿或腰帶",
+      "轉身面向攻擊者"
+     ],
+     "trap": [
+      "在肩膀還沒轉動前就 tap"
+     ]
+    }
+   }
+  ]
+ }
+}

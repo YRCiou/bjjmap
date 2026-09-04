@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Outside Heel Hook/from Cross Ashi-Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Cross Ashi-Garami 進的 Outside Heel Hook 主要攻擊哪些解剖構造？",
+    "answer": "Outside Heel Hook 透過 heel 的外旋攻擊膝關節，主要目標是加載內側副韌帶（MCL）和前十字韌帶（ACL）。次要壓力則作用在外側副韌帶（LCL）、後十字韌帶（PCL）和半月板上。旋轉力會從腳踝經脛骨傳到膝蓋，因為股骨被腿部纏繞固定住，形成一個孤立膝關節旋轉的槓桿系統。",
+    "safety_critical": true,
+    "answer_line": "透過膝蓋旋轉攻擊 MCL 和 ACL",
+    "distractors": {
+     "plausible": [
+      "目標是阿基里斯腱",
+      "半月板承受主要負荷"
+     ],
+     "trap": [
+      "無害，可以放心撐過去"
+     ]
+    }
+   },
+   {
+    "question": "對手用力屈膝並把 heel 拉往自己髖部開始做 boot defense，該如何調整才能阻止逃脫？",
+    "answer": "用你的外側交叉腿對他們的小腿施加向外的旋轉壓力，同時用控踝把他們的腳往你胸口拉。如果 boot defense 非常堅決、heel 無法暴露，就把 grip 轉往腳趾和腳掌進攻 toe hold，或放開交叉腿直接攻擊伸直的膝蓋線做 kneebar。boot defense 會暴露出不同的 submission 機會，正好懲罰這個彎腿的配置。",
+    "safety_critical": false,
+    "answer_line": "小腿外轉，把腳往內拉",
+    "distractors": {
+     "plausible": [
+      "等他們的腿累了再說",
+      "換成上壓式 heel grip"
+     ],
+     "trap": [
+      "放開交叉腿重置"
+     ]
+    }
+   },
+   {
+    "question": "哪種抓握配置能為 Outside Heel Hook 的 finish 提供最穩固的 heel cup？",
+    "answer": "最穩固的配置是雙手 cup grip：下方的手從下面包住 heel，掌心貼住阿基里斯腱，手指朝腳趾方向。上方的手疊在下方手上加強這個 cup。雙肘都必須緊貼肋骨，把 grip 和核心連結在一起，防止對手把雙手扳開。這個配置能把軀幹的旋轉轉化為直接作用在 heel 上的旋轉壓力。",
+    "safety_critical": false,
+    "answer_line": "下包式 cup，手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "上壓式 grip，手臂伸直",
+      "抓阿基里斯腱，手肘外張"
+     ],
+     "trap": [
+      "finish 中途放開重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施加從 Cross Ashi-Garami 進的 Outside Heel Hook 時，有哪些關鍵安全考量？",
+    "answer": "務必以至少五到七秒的時間漸進施加旋轉——絕不使用爆發性的力量。一收到任何拍的訊號，包括口頭拍、手拍、腳拍或任何痛苦的聲音，就要立刻放開。要認知到 heel hook 造成的膝關節韌帶損傷可能沒有痛覺警告——韌帶可能在對手感覺到痛之前就已撕裂。只跟了解腿鎖安全知識的有經驗夥伴訓練。絕不在出現第一個不適徵兆後繼續，也絕不測試柔軟度的極限。",
+    "safety_critical": true,
+    "answer_line": "緩慢旋轉，一拍就放開",
+    "distractors": {
+     "plausible": [
+      "只等手勢訊號",
+      "以痛覺當作唯一警訊"
+     ],
+     "trap": [
+      "用力硬拗以證明 finish 有效"
+     ]
+    }
+   },
+   {
+    "question": "拍了之後應該如何放開 Outside Heel Hook，才能避免放開過程本身造成傷害？",
+    "answer": "第一步，立刻停止對 heel 施加的所有旋轉壓力。接著放開 figure-four 或 heel cup grip，讓腳不再受到控制。移除髖部壓力和腿部伸展，讓對手的腿能自由活動。讓對手自然地伸直他們的腿——不要幫他們操作。放開的過程中絕對不要施加任何旋轉，因為即使是放開時的小幅旋轉動作也可能損傷已經承受壓力的韌帶。恢復訓練前先確認夥伴的狀態。",
+    "safety_critical": true,
+    "answer_line": "停止、放開、讓腿自由",
+    "distractors": {
+     "plausible": [
+      "快速幫他們把腿伸直",
+      "放開 grip 但保留髖部壓力"
+     ],
+     "trap": [
+      "反方向旋轉回去"
+     ]
+    }
+   },
+   {
+    "question": "對手開始積極地 grip fight 想剝除你的 heel cup，維持控制的關鍵調整是什麼？",
+    "answer": "先用靠近地墊的那隻手從下方包住 heel，建立最初的 heel cup。這種下包式的抓握比上壓式難剝除得多，因為對手必須繞過你的前臂才能碰到。如果他們掙脫了一隻手，立刻用 S-grip 或 figure-four 這類加強抓握重新確立控制。同時加大夾膝的壓力，讓他們忙於應付腿部防守，而不是全力 grip fight。",
+    "safety_critical": false,
+    "answer_line": "下包式 grip，加上夾膝",
+    "distractors": {
+     "plausible": [
+      "上壓式 grip，加倍用力拉",
+      "先剝奪他們的雙手"
+     ],
+     "trap": [
+      "放開腿重新進攻"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要 finish heel hook 時，全身的扭力至關重要，而不能只靠手臂力量？",
+    "answer": "光靠手臂力量，對抗一個正在抵抗的對手時所產生的旋轉力不足，而且手臂在負重下會迅速疲勞，讓 grip 的穩固度下降。全身的扭力——透過向上 bridge 髖部並整體旋轉軀幹來產生——能動用核心、臀肌和腿部這些更大塊的肌肉來產生 finish 的力量。手臂負責維持 grip 的連結，身體則提供動力。這也能讓手肘保持貼緊肋骨，防止 grip 被剝除。",
+    "safety_critical": false,
+    "answer_line": "Bridge 髖部，整體一起旋轉",
+    "distractors": {
+     "plausible": [
+      "只加大夾膝的力道",
+      "等到他們不再抵抗"
+     ],
+     "trap": [
+      "坐起來、手肘外張，腿滑脫"
+     ]
+    }
+   },
+   {
+    "question": "從 Cross Ashi-Garami 進的 Outside Heel Hook 一旦完全施加，防守方到了哪個時間點就已經無法逃脫？",
+    "answer": "無法回頭的時間點，是攻擊者已建立雙手緊貼肋骨的深握 heel cup，並開始搭配髖部伸展做外旋的時候。在這個階段，膝關節韌帶已承受負荷，防守方無法安全地抽出 heel 或旋轉身體來解除壓力，否則會有韌帶損傷的風險。防守方必須在這個時刻之前或當下就拍。一旦以鎖死的 grip 開始旋轉，任何防守動作——包括滾動——都可能加速而不是緩解韌帶的損傷。",
+    "safety_critical": true,
+    "answer_line": "深握 heel cup、旋轉已開始",
+    "distractors": {
+     "plausible": [
+      "一感覺到髖部被控制就是",
+      "inside hook 一設好就是"
+     ],
+     "trap": [
+      "等膝蓋開始痛之後"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識從 Cross Ashi-Garami 進的 Outside Heel Hook 正在被設置？",
+    "answer": "關鍵的辨識線索是對手在你被困的腿上建立交叉腿的配置，一個 hook 勾在你髖部後方，另一條腿橫跨你的小腿。他們的手會開始伸向你的 heel，從下方包住阿基里斯腱。你也會感覺到他們把膝蓋夾緊在你的小腿周圍，並伸展髖部來製造張力。這些訊號的任何組合都代表 heel hook 的設置正在進行，必須立刻採取防守行動。",
+    "safety_critical": false,
+    "answer_line": "交叉腿、雙手包住 heel",
+    "distractors": {
+     "plausible": [
+      "單一 hook 勾在你膝蓋後方",
+      "他們撐在你髖部上想站起來"
+     ],
+     "trap": [
+      "等感覺到硬拗再說"
+     ]
+    }
+   },
+   {
+    "question": "對從 Cross Ashi-Garami 進的 Outside Heel Hook 拍，最安全的方式是什麼？",
+    "answer": "先用口頭清楚地說「拍」，因為你的雙手可能正忙於 grip fighting。同時用空出來的手拍打對手身體或地墊。如果雙手都被困住，就用空出來的腳拍地墊或對手身體。關鍵時機是要在旋轉隨著鎖死的 grip 開始之前或那一刻就拍——一旦韌帶承受負荷，任何延遲都會增加受傷風險。訓練中絕對不要試圖硬撐過鎖死的 heel hook。要提早拍，然後重來。",
+    "safety_critical": true,
+    "answer_line": "口頭喊出來並拍地墊",
+    "distractors": {
+     "plausible": [
+      "夾緊他們的腿當作訊號",
+      "搖頭皺眉表示"
+     ],
+     "trap": [
+      "繼續 grip fight，賭它會滑脫"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Cross Ashi-Garami 進的 Outside Heel Hook，有哪些防守選項？",
+    "answer": "主要的防守方式包括：boot defense（屈膝把 heel 藏起來）、積極的 grip fighting 防止對方建立抓握、用空出來的腿做 frame 來管理距離，以及當攻擊者的 inside hook 變淺時進行反纏繞。這些方式應該疊加使用，而不是單獨依賴——boot defense 搭配 grip fighting 的效果，遠比單獨使用其中一個要好得多。如果所有防守層都失效、grip 已經鎖死，唯一安全的選項就是立刻拍。",
+    "safety_critical": false,
+    "answer_line": "boot defense 加上 grip fighting",
+    "distractors": {
+     "plausible": [
+      "只靠 frame 就好",
+      "等待反纏繞的機會"
+     ],
+     "trap": [
+      "爆發性地轉出去"
+     ]
+    }
+   },
+   {
+    "question": "從 Cross Ashi-Garami 進的 heel hook 位置中，逃脫的最佳時機是什麼時候？",
+    "answer": "最好的逃脫窗口出現在攻擊者放鬆腿部控制以調整 grip、重新定位身體或轉換到其他 submission 的時候。留意他們的 inside hook 失去深度、或外側交叉變鬆的時刻。這些過渡的空檔雖然短暫，但足以創造抽腿或反纏繞的空間。在對方控制緊密時嘗試逃脫，只會浪費體力並增加受傷風險。有耐心的防守搭配伺機而動的逃脫，成功率最高。",
+    "safety_critical": false,
+    "answer_line": "他們放鬆調整 grip 時",
+    "distractors": {
+     "plausible": [
+      "heel 完全暴露之後",
+      "他們鎖上 figure four 之後"
+     ],
+     "trap": [
+      "控制緊密時用力掙扎"
+     ]
+    }
+   },
+   {
+    "question": "被 heel hook 困住時，為什麼嘗試爆發性的旋轉逃脫很危險？",
+    "answer": "爆發性的旋轉或滾動，會透過被困的腿製造旋轉，而攻擊者能用他們既有的 grip 順勢加以放大。旋轉的動作非但不能逃離 heel hook，反而會把你自己的旋轉力加到攻擊者的力量上，加速他們的 finish 力學。這可能讓膝關節韌帶在你感覺到痛或來得及拍之前就已撕裂。只有在攻擊者的 grip 和腿部控制明顯鬆動時才嘗試旋轉逃脫，而且即便如此也要以受控的速度進行。",
+    "safety_critical": true,
+    "answer_line": "會把自己的力量餵給對方",
+    "distractors": {
+     "plausible": [
+      "會讓他們換成 toe hold",
+      "只有轉錯方向才有風險"
+     ],
+     "trap": [
+      "在鎖死前先轉出去"
+     ]
+    }
+   }
+  ]
+ }
+}

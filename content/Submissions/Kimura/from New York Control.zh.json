@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from New York Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from New York Control 主要攻擊哪些解剖構造？",
+    "answer": "Kimura 透過強制內旋攻擊肩關節，具體目標是旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊及其韌帶，以及盂唇。次要壓力則落在肱骨附著處的二頭肌肌腱上。figure-four 握法在肱骨上形成一根長槓桿臂，產生的旋轉扭力會超出肩膀的結構耐受度。",
+    "safety_critical": false,
+    "answer_line": "透過內旋攻擊肩關節",
+    "distractors": {
+     "plausible": [
+      "透過外旋攻擊旋轉肌袖",
+      "主要目標是二頭肌肌腱"
+     ],
+     "trap": [
+      "透過過伸攻擊手肘關節"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 New York Control 的 overhook 讓 Kimura 的架設比從一般 closed guard 更有效率？",
+    "answer": "深層的 overhook 已經隔離了對手的手臂，並把控制穿到他的腋下，跳過了傳統 Kimura 架設中最困難的階段。在一般 closed guard 中，你必須先破壞對手的posture，然後在對手用雙手防守的情況下爭取控制一隻手臂。而從 New York Control 開始，那隻手臂已經被限制住，對手無法撐地或創造距離，所以從 overhook 轉換成 figure-four 只需要一個步驟，而不是完整的手臂隔離流程。",
+    "safety_critical": false,
+    "answer_line": "Overhook 已經隔離手臂",
+    "distractors": {
+     "plausible": [
+      "這裡雙腿能產生更大力量",
+      "對手無法把上半身立起來"
+     ],
+     "trap": [
+      "放開 overhook 重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在完成 Kimura from New York Control 的過程中，什麼訊號代表你已經到了對手無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點出現在：figure-four 握法完全鎖死、hip escape 已經形成 45 度角，而且對手的防守握法連結已經被破壞。一旦他的手腕開始旋轉超過背部的平面、手肘被抬離身體，機械優勢就足以讓純肌肉防守無法阻止完成。到了這個階段，你必須緩慢漸進地施壓，好讓對方有時間拍下。",
+    "safety_critical": false,
+    "answer_line": "Figure-four 鎖死，髖部 45 度角",
+    "distractors": {
+     "plausible": [
+      "對手停止抵抗",
+      "手臂因疲勞而顫抖"
+     ],
+     "trap": [
+      "趁他的握法還在時硬扯"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試轉換握法時，對手把手臂伸直——怎麼調整才能防止他逃脫？",
+    "answer": "用你空著的手牢牢控制他的手腕，同時用你的雙腿把膝蓋拉過他的背部，把他伸直的手臂捲回彎曲位置。如果經過這番努力手臂仍然保持伸直，就在維持手腕控制的同時，立刻把腿甩過他的臉部轉換成 armbar 嘗試。伸直的手臂其實正好是送給你的 armbar 禮物，防守方這個反制反而是戰術失誤，替你打開了命中率更高的 submission。",
+    "safety_critical": false,
+    "answer_line": "把手臂捲回，或改攻 armbar",
+    "distractors": {
+     "plausible": [
+      "放棄 submission，重新調整位置",
+      "更用力硬架 figure-four"
+     ],
+     "trap": [
+      "放開手腕控制"
+     ]
+    }
+   },
+   {
+    "question": "你應該如何調整髖部位置，讓對肩膀的完成扭力最大化？",
+    "answer": "朝被困手臂那一側大幅做 hip escape，相對於對手中線形成大約 45 度的側向位移。這個角度讓你的整個身體都能透過 figure-four 槓桿貢獻旋轉力，而不是只靠手臂力量。你的 hip escape 應該讓髖部大致與對手的手臂垂直，同時上方那條腿持續壓在他背部，避免他跟著你的髖部移動來抵消這個角度。",
+    "safety_critical": false,
+    "answer_line": "髖部朝被困手臂側移 45 度",
+    "distractors": {
+     "plausible": [
+      "往被困側的反方向調角度",
+      "讓髖部維持在他正下方"
+     ],
+     "trap": [
+      "放下上方那條腿以求更快"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中對 New York Control 施展 Kimura 時，有哪些關鍵安全考量？",
+    "answer": "旋轉施壓至少要用三到五秒緩慢進行，絕不猛拉或瞬間加壓。肩關節可能在幾乎沒有預警的情況下遭受包括旋轉肌袖撕裂和脫臼在內的災難性傷害，因為痛覺門檻常常非常接近受傷門檻。務必確保夥伴至少有一隻手是空著能拍下的，留意口頭的不適訊號，並在任何拍下訊號出現時立刻放開——先停止旋轉，再把手臂帶回中立位置，最後才完全鬆開 figure-four 握法。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，至少 3 到 5 秒",
+    "distractors": {
+     "plausible": [
+      "靠痛覺提醒對方就好",
+      "只有對白帶才要放慢"
+     ],
+     "trap": [
+      "把雙臂都困住讓對方拍不了"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍下之後，你應該怎麼放開 Kimura from New York Control？",
+    "answer": "感覺到或聽到拍下的瞬間，立刻停止所有旋轉施壓。訊號出現後，連一絲一毫的壓力都不要再繼續。透過外旋把手臂帶回起始方向的中立位置，然後才完全鬆開 figure-four 握法。在繼續訓練之前，讓夥伴先自行評估肩膀的活動度。絕不要突然放手或讓手臂彈回去，因為即使壓力已經移除，突然的位置改變仍可能造成傷害。",
+    "safety_critical": true,
+    "answer_line": "停止施壓，引導手臂回中立",
+    "distractors": {
+     "plausible": [
+      "把壓力逐漸慢慢放鬆",
+      "拍下瞬間立刻解鎖握法"
+     ],
+     "trap": [
+      "讓手臂自由彈回"
+     ]
+    }
+   },
+   {
+    "question": "如果在完成階段對手的手臂因為出汗而滑溜，你該做什麼樣的握法調整？",
+    "answer": "把抓握的那隻手沿著自己的手腕往前臂方向再滑深一點，讓 figure-four 更深，創造更緊密的機械連結來抵抗滑脫。把手肘緊貼自己的肋骨，製造摩擦點來錨定握法。如果手腕特別滑，就把手腕握法稍微往上調整，控制他前臂表面積較大的位置。用身體姿勢和髖部壓力來減輕握法的負擔，而不是單純握得更緊。",
+    "safety_critical": false,
+    "answer_line": "握法加深，手肘貼緊肋骨",
+    "distractors": {
+     "plausible": [
+      "純靠蠻力握得更緊",
+      "改成掌對掌的握法"
+     ],
+     "trap": [
+      "坐起來重新抓握，失去角度"
+     ]
+    }
+   },
+   {
+    "question": "當 Kimura 被防守下來，你要怎麼從 New York Control 連鎖到其他 submission？",
+    "answer": "當對手用雙手互扣並挺起身體防守 Kimura 時，放開 figure-four，重新在 New York Control 中建立 overhook，然後趁他挺身創造出空間的瞬間，立刻把小腿架過他的喉嚨威脅 gogoplata。如果他為了防守 gogoplata 而收緊下巴，就改換腿的位置環繞他的頸部和手臂，架設 triangle。對手每一次防守某個 submission 的反應，都會為下一個攻擊打開特定的路徑，形成一個能維持持續進攻壓力的系統性連鎖。",
+    "safety_critical": false,
+    "answer_line": "重回 overhook，再威脅 gogoplata",
+    "distractors": {
+     "plausible": [
+      "把同一個握法扳得更用力",
+      "等他自己力竭"
+     ],
+     "trap": [
+      "打開 guard 讓他起身"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，完成 Kimura from New York Control 有哪些時機上的考量？",
+    "answer": "在比賽中，當對手投入防守其他威脅（例如 gogoplata 或 triangle）時，就啟動握法轉換，因為他的防守反應會創造出 Kimura 入手所需要的手臂位置。握法轉換必須快速而果斷，因為比賽強度下的對手會立刻反制緩慢的轉換動作。一旦 figure-four 建立起來，維持穩定的壓力而不是爆發性的力量，因為有控制的完成方式能防止對手掙扎脫困，也能讓裁判清楚辨識拍下訊號。",
+    "safety_critical": false,
+    "answer_line": "趁他防守其他威脅時入手",
+    "distractors": {
+     "plausible": [
+      "等對手力竭",
+      "從一開始的握法就直接進攻"
+     ],
+     "trap": [
+      "在他的握法裡慢慢磨"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你怎麼辨識對手正從 New York Control 設置 Kimura？",
+    "answer": "主要訊號是感覺到底位選手空著的那隻手抓住你 overhook 那一側的手腕，而不是控制你的頭部或另一隻手臂。你也會感覺到他做 overhook 的那隻手臂穿得更深、到你手肘下方而不是停在上方，同時他的髖部會開始朝遠離你被困手臂的方向側移，準備做完成角度所需要的 hip escape。如果拉扯的壓力越來越朝他的髖部方向而不是橫過他的胸口，就能確認他意圖攻 Kimura。",
+    "safety_critical": false,
+    "answer_line": "他空著的手抓住你的手腕",
+    "distractors": {
+     "plausible": [
+      "他的手改抓你的頭",
+      "overhook 的手臂橫拉過你胸口"
+     ],
+     "trap": [
+      "無視手的位置，繼續維持posture"
+     ]
+    }
+   },
+   {
+    "question": "被 Kimura from New York Control 困住時，最安全的拍下方式是什麼？",
+    "answer": "要在感覺到肩膀出現銳痛之前就早早明確拍下，因為肩鎖的不適轉變成受傷的速度非常快。用空著的手多拍幾次對手的身體。如果空著的手被困住，就用腳拍地墊，或大聲喊「tap」。任何表示不適的聲音都應該被視為拍下。不要試圖硬撐肩鎖的壓力，因為旋轉肌袖可能在痛到無法忍受之前就已經撕裂。",
+    "safety_critical": true,
+    "answer_line": "早早明確拍下",
+    "distractors": {
+     "plausible": [
+      "輕輕拍一次希望對方看到",
+      "等痛了才拍"
+     ],
+     "trap": [
+      "硬撐並試圖轉身脫困"
+     ]
+    }
+   },
+   {
+    "question": "在不同階段，對付 Kimura from New York Control 有哪些防守選項？",
+    "answer": "在 figure-four 鎖上之前的早期階段，立刻伸直手臂阻止握法穿入。一旦 figure-four 建立、但對手還沒做 hip escape 時，用 gable grip 雙手互扣來抵抗旋轉，同時設法恢復posture。等進攻方完成 hip escape 之後，你最好的選項是往前疊壓（stack），同時朝被困手臂那一側繞轉，來壓垮他的完成角度。你越晚辨識出這個攻擊，剩下的選項就越少，所以早期偵測至關重要。",
+    "safety_critical": false,
+    "answer_line": "早期伸直手臂，後期疊壓",
+    "distractors": {
+     "plausible": [
+      "直接往後拉扯逃脫",
+      "只有 hip escape 後才互扣雙手"
+     ],
+     "trap": [
+      "放鬆手臂以減少張力"
+     ]
+    }
+   },
+   {
+    "question": "防守時，為什麼朝被困手臂方向繞轉，會比直接往後拉更有效？",
+    "answer": "直接往後拉，等於是正面對抗 figure-four 槓桿的機械優勢，你單一手臂要對抗進攻方雙臂加上身體旋轉的合力。朝進攻方繞轉能把你的手肘拉近旋轉支點，縮短槓桿臂，降低 figure-four 能產生的扭力。這個繞轉的動作也會壓垮進攻方 hip escape 的角度，破壞他創造旋轉優勢所依靠的身體位置。",
+    "safety_critical": false,
+    "answer_line": "縮短槓桿臂，破壞角度",
+    "distractors": {
+     "plausible": [
+      "創造空間讓你能坐起來",
+      "破壞他的 figure-four 握法"
+     ],
+     "trap": [
+      "用全力直接往後扯"
+     ]
+    }
+   },
+   {
+    "question": "防守 Kimura from New York Control 時，你空著的那隻手應該做什麼？",
+    "answer": "你空著的那隻手在不同防守階段有多個關鍵功能。一開始，用它把進攻方壓在你背上的膝蓋推開，破壞他控制腿部的結構。如果 figure-four 已經鎖上，就用被困的那隻手和它互扣，形成雙手防守握法。如果在做 stacking，就用它撐在地墊上製造往前推的驅動力。絕不要讓空著的手閒置，也不要用它去推進攻方的胸口，因為這樣會浪費你最有價值的防守工具。",
+    "safety_critical": false,
+    "answer_line": "先推開膝蓋，再互扣握法",
+    "distractors": {
+     "plausible": [
+      "用力往他頸部做 frame",
+      "伸手去抓他較遠的那條腿"
+     ],
+     "trap": [
+      "往身後撐地，把背暴露出去"
+     ]
+    }
+   }
+  ]
+ }
+}

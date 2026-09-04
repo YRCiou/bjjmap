@@ -1,0 +1,134 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Bow and Arrow Choke/from Truck.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Bow and Arrow Choke from Truck 主要瞄準哪些解剖構造？",
+    "answer": "這個絞技透過領口壓迫，瞄準脖子兩側的頸動脈。當 gi 領口布料被拉過脖子前方、同時手腕骨邊緣往內壓時，會雙側壓迫頸動脈，限制流向大腦的血流。這會產生血液絞殺，如果完全施展而沒有解除，8-12 秒內就可能造成昏迷。",
+    "answer_line": "兩側頸動脈",
+    "distractors": {
+     "plausible": ["壓迫氣管/呼吸道", "只壓迫單側頸動脈"],
+     "trap": ["頸椎過度伸展"]
+    }
+   },
+   {
+    "question": "Truck 位置的垂直角度，跟標準 back control 相比，如何改變領口 grip 的設置方式？",
+    "answer": "Truck 的垂直排列代表攻擊者位於對手側邊、其中一條腿被困住，這讓你在完全建立 back control 之前，就能提早接觸到遠側領口。不過，光靠這個垂直角度沒辦法單獨完成弓形絞殺：攻擊者必須放開 figure-four，往上爬到真正的 back control，配上 seatbelt 和 hook，才能達到完成所需的幾何角度。這個優勢在於時機——可以提早餵領口，而不是省略爬到 back 的過程。",
+    "answer_line": "提早餵遠側領口",
+    "distractors": {
+     "plausible": ["先抓近側領口", "等完整 back control 才做"],
+     "trap": ["放棄腿部纏繞去抓領口"]
+    }
+   },
+   {
+    "question": "對手開始用雙手剝你的領口 grip——這會立刻創造出什麼機會？",
+    "answer": "當對手把雙手都投入剝你的領口 grip 時，他們就無法同時防守 twister 或 calf slicer。立刻轉向 twister，控制他們此刻沒有防守的遠側手臂並啟動脊椎旋轉；或者攻擊 calf slicer，在他們雙手忙於高處抓領口的時候伸展被困住的腿。這正是 Truck 位置的核心兩難原則。",
+    "answer_line": "進攻 twister 或 calf slicer",
+    "distractors": {
+     "plausible": ["硬把領口抓得更深", "改成爬去抓 back control"],
+     "trap": ["放開 truck 去追領口"]
+    }
+   },
+   {
+    "question": "一旦 Bow and Arrow from Truck 完全發動，防守者到了什麼程度就沒有逃脫機會？",
+    "answer": "當三個條件同時成立時，防守者就到了無法逃脫的地步：領口 grip 深深卡過下巴、手腕骨邊緣橫跨兩側頸動脈；並且攻擊者已經爬到真正的 back control、配有 seatbelt 和 hook，並抓到遠側腿或髖部的手 grip。一旦這兩個向量同時啟動，攻擊者開始進行 back-stretch，機械優勢就會壓倒性地站在攻擊者這一邊。防守者必須在兩者同時鎖定之前，先解決領口 grip 或往 back 爬升的問題。",
+    "answer_line": "深領口加上 seatbelt 與 hook",
+    "distractors": {
+     "plausible": ["領口已深，hook 還沒上", "seatbelt 已上，領口仍淺"],
+     "trap": ["還沒控制 back 就硬扭脖子"]
+    }
+   },
+   {
+    "question": "正確的拍降訊號有哪些，攻擊者收到任何一個訊號時該怎麼做？",
+    "answer": "拍降訊號包括口頭拍降、用手拍打身體或地板、腳拍地板、任何聽得到的痛苦聲音，或突然失去抵抗（可能代表即將昏迷）。收到任何拍降訊號後，攻擊者必須立刻放開領口 grip、解除腿部伸展與腿部纏繞的壓力、讓對手的頭部回到中立位置，並檢查對方的意識狀態。絕對不要質疑拍降的真實性。",
+    "answer_line": "立刻放開，檢查意識",
+    "distractors": {
+     "plausible": ["放手後站起來", "放鬆 grip 但維持姿勢"],
+     "trap": ["等第二次、更明確的拍降"]
+    }
+   },
+   {
+    "question": "為什麼在建立領口 grip 的整個階段都要維持靴狀腿部（boot）壓力？",
+    "answer": "boot 壓力是 truck 位置的根本控制機制。它產生旋轉扭力，讓對手維持側躺、背部暴露，並防止他們轉正面向你或完成 granby roll。沒有 boot 壓力，對手就能轉身面向你，逃出垂直角度並恢復 guard。如果對手在領口 grip 完全建立之前就逃出 truck，這個 grip 就沒有意義。",
+    "answer_line": "讓對手的背部持續暴露",
+    "distractors": {
+     "plausible": ["設置腿部纏繞用", "消耗對手核心肌力"],
+     "trap": ["放鬆 boot 壓力來空出手"]
+    }
+   },
+   {
+    "question": "當領口 grip 卡在下巴處無法再往裡餵時，你該如何調整？",
+    "answer": "用毛毛蟲式的抓握動作，透過抓、拉過、重抓更深、再重複的方式，逐步把領口越過下巴。同時施加額外的 boot 壓力，稍微旋轉對手，讓下巴和胸口之間打開空間，好讓領口能穿過去。如果收下巴的防守依然堅固無法突破，可以考慮用較淺的 grip 改打短距離絞技，或放棄領口轉向 twister 或 calf slicer。",
+    "answer_line": "毛毛蟲式抓握，加上旋轉",
+    "distractors": {
+     "plausible": ["用同一個 grip 硬拉", "伸手去抓對側領口"],
+     "trap": ["用力猛扯領口硬過下巴"]
+    }
+   },
+   {
+    "question": "訓練時，Bow and Arrow Choke from Truck 正確的施展速度是什麼？",
+    "answer": "這個絞技必須緩慢且漸進地施展，從初始壓力到完全壓迫至少需要 3-5 秒。這樣能讓訓練夥伴有足夠時間辨識絞技已經鎖死，並在昏迷發生之前給出拍降訊號。訓練時絕對不要突然發力或猛拉絞技。比賽速度的施展只保留給比賽使用。流暢、漸進的收緊能保護你的訓練夥伴。",
+    "answer_line": "緩慢漸進，3-5 秒完成",
+    "distractors": {
+     "plausible": ["快速鎖死，再等拍降", "流暢但沒有最低時間限制"],
+     "trap": ["用比賽速度訓練"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識 Bow and Arrow Choke from Truck 正在被設置，而不是其他的 truck 攻擊？",
+    "answer": "主要的辨識線索是對手不負責 boot 的那隻手放開上半身控制，並伸向你的 gi 領口，而不是伸向你的遠側手臂（twister）或調整腿部位置（calf slicer）。你可能也會感覺到 boot 壓力增加，因為他們在為抓領口做準備，胸口壓力也可能因為調整領口進攻角度而改變。",
+    "answer_line": "手伸向領口",
+    "distractors": {
+     "plausible": ["手伸向遠側手臂", "手在調整被困的腿"],
+     "trap": ["只防守腿，忽略脖子"]
+    }
+   },
+   {
+    "question": "當逃脫已不再可行時，對 Bow and Arrow Choke from Truck 拍降最安全的方式是什麼？",
+    "answer": "立刻用任何可用的訊號拍降：大聲口頭拍降、用手拍打對手的身體或地板，或腳拍地板。不要等著看自己能不能撐過這個絞技，因為 Bow and Arrow 會產生巨大的雙側頸動脈壓力，從不適到昏迷之間的時間窗可能短到只有 5-8 秒。在你感覺到領口鎖住脖子兩側、伸展開始的那一刻，就要拍降。",
+    "answer_line": "立刻拍降，任何訊號都算",
+    "distractors": {
+     "plausible": ["只有手拍才算有效", "等領口咬深再拍"],
+     "trap": ["撐下去累積防守經驗"]
+    }
+   },
+   {
+    "question": "當領口 grip 已經深深卡過下巴時，為什麼 granby roll 會很危險？",
+    "answer": "當領口 grip 很深時，granby roll 的旋轉動作實際上會讓領口更緊地壓在頸動脈上，因為你正朝著被拉扯的方向旋轉。這個滾動動作實際上等於幫攻擊者完成了他們的伸展工作，替他們把絞技完成。只有在領口 grip 還淺、正在被建立、或已經被剝開的情況下，才應該嘗試 granby roll。",
+    "answer_line": "旋轉會讓深絞技更緊",
+    "distractors": {
+     "plausible": ["滾動永遠能破領口 grip", "動作會讓任何 gi grip 鬆開"],
+     "trap": ["立刻滾動來逃脫"]
+    }
+   },
+   {
+    "question": "面對 Bow and Arrow Choke from Truck，有哪些防守選項？",
+    "answer": "主要的防守選項包括：透過搶手來防止領口 grip 深入，收下巴阻擋領口越過下巴線，如果 grip 已建立但伸展還沒開始就用 two-on-one 剝開領口 grip，在抓 grip 的轉換階段控制暫時被削弱時嘗試 granby roll 逃脫，以及在化解領口威脅後用清 boot 加上 hip escape 完全逃出 truck。",
+    "answer_line": "收下巴，剝開 grip",
+    "distractors": {
+     "plausible": ["硬掙脫 boot 壓力", "架橋滾向對手"],
+     "trap": ["逃脫髖部但留下脖子暴露"]
+    }
+   },
+   {
+    "question": "被困在 Truck 裡、對手正在嘗試 Bow and Arrow 時，防守的優先順序是什麼？",
+    "answer": "優先順序是：第一，收下巴、用靠近那側的手對抗領口 grip，保護脖子。第二，用搶手和下巴姿勢，防止 grip 越過下巴。第三，如果 grip 已經建立，在伸展開始前用 two-on-one 剝開它。第四，處理 boot 壓力和腿部纏繞。第五，執行逃脫恢復 guard。保護脖子永遠是第一優先，因為絞技是最立即的危險。",
+    "answer_line": "先顧脖子，再處理腿",
+    "distractors": {
+     "plausible": ["先解放被困的腿", "先剝 grip 再收下巴"],
+     "trap": ["grip 還深就做 granby roll"]
+    }
+   }
+  ]
+ }
+}

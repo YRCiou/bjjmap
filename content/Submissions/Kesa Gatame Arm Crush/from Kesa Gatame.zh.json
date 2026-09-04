@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kesa Gatame Arm Crush/from Kesa Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kesa Gatame Arm Crush 主要攻擊哪個解剖結構？過度伸展的力量是如何產生的？",
+    "answer": "arm crush 主要攻擊肘關節，讓它朝著自然活動範圍之外過度伸展。這個力量是靠攻擊者的髖骨作為固定的支點，放在肘關節後方，同時把手腕拉向胸口、髖部向前推所產生的。這在肘關節兩側形成相反的力，產生壓迫與過度伸展，對韌帶、關節囊及周圍軟組織造成壓力。",
+    "safety_critical": true,
+    "answer_line": "在髖部支點過度伸展肘關節",
+    "distractors": {
+     "plausible": [
+      "肩膀旋轉，如同 kimura",
+      "腕關節，向後彎折"
+     ],
+     "trap": [
+      "坐直身體硬扯手臂"
+     ]
+    }
+   },
+   {
+    "question": "你如何辨識對手的肘關節已正確定位在你的髖部上，準備施加最大壓迫壓力？",
+    "answer": "你應該感覺到對手肘部後方（鷹嘴突）與你的髖骨（髂骨嵴）之間有骨對骨的接觸。手臂應該完全伸直，沒有任何彎曲殘留，而手腕應該緊緊拉靠在你的胸口，手臂沒有任何鬆弛。當你開始把髖部往前推時，你應該立刻感覺到來自肘關節的阻力，而不是手臂滑動或彎曲。如果手臂壓進軟組織，代表支點位置錯誤，需要調整。",
+    "safety_critical": false,
+    "answer_line": "骨對骨、手臂伸直、無鬆弛",
+    "distractors": {
+     "plausible": [
+      "肘部埋進柔軟的腹部組織",
+      "微彎吸收驅動力"
+     ],
+     "trap": [
+      "坐起來重新定位，失去 pin"
+     ]
+    }
+   },
+   {
+    "question": "從 kesa gatame 控制轉換到 arm crush finish 之前，必須先建立哪些控制？",
+    "answer": "嘗試 arm crush 之前，你必須有穩固的 kesa gatame，髖部低而重壓在對手肋骨上，近側手臂穩固困在你的腋下，沒有讓對手抽回的空間，並且有足夠的底盤防止 bridging 的逃脫。對手應該被壓平、髖部活動度極小。只有在這之後，你才應該放開頭部控制、改用 two-on-one 手腕 grip，因為在轉換過程中，你的體重與髖部壓力必須取代頭部控制。",
+    "safety_critical": false,
+    "answer_line": "困住近側手臂，髖部低而重",
+    "distractors": {
+     "plausible": [
+      "先抓 two-on-one 手腕 grip",
+      "先把頭部控制鎖得更緊"
+     ],
+     "trap": [
+      "抬高髖部去扭手臂"
+     ]
+    }
+   },
+   {
+    "question": "在 arm crush 的設置過程中，到了哪個時間點對手就無法有效防守？",
+    "answer": "無法回頭的臨界點發生在手臂已完全伸直、肘關節已卡在髖骨上、手腕已用 two-on-one 控制緊鎖在攻擊者胸口的時候。一旦鬆弛全部消除、支點以骨對骨接觸建立，對手就無法彎曲手臂逃脫，因為攻擊者的全身體重壓住手臂保持伸直，而且他們也無法旋轉前臂，因為 two-on-one grip 阻止手腕轉動。到了這個階段，即使是很小的髖部壓力也會產生顯著的 submission 力量。",
+    "safety_critical": false,
+    "answer_line": "手臂伸直、肘卡在髖上",
+    "distractors": {
+     "plausible": [
+      "抓到 two-on-one grip 時就算",
+      "他們停止 bridging 就算"
+     ],
+     "trap": [
+      "放開 pin 去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "對手在你施加 arm crush 時開始旋轉手腕，試圖把肘關節從你的髖部滑開，什麼樣的 grip 調整能防止這個逃脫？",
+    "answer": "立刻透過旋轉手腕上的 grip，讓他們的手掌轉向天花板（pronate），這能把肘關節鎖在最脆弱的過度伸展平面上，防止他們轉動關節來卸除壓力。同時把你的手肘夾得更緊，把手臂固定在你的軀幹上，消除他們需要的旋轉自由度。如果他們持續對抗這個 grip，可以在前臂加上 figure-four 控制，以最大化手腕的固定，然後再重新施加髖部驅動。",
+    "safety_critical": false,
+    "answer_line": "轉手掌朝上、夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "把他們的拇指轉向地墊",
+      "把 grip 沿前臂往上滑"
+     ],
+     "trap": [
+      "坐起來去追，失去 pin"
+     ]
+    }
+   },
+   {
+    "question": "儘管姿勢看似正確，最常見讓對手逃過 arm crush 的 finishing 錯誤是什麼？",
+    "answer": "最常見的錯誤是手臂還留有鬆弛——肘部有輕微彎曲，或手臂與攻擊者軀幹之間有空隙，這會吸收所有的擠壓壓力，而不會對關節產生壓力。練習者常常覺得手臂已經定位正確，卻沒有在施加髖部驅動之前消除最後幾度的彎曲。修正方式是把手腕緊緊拉進胸口，同時用腋下壓力把肩膀推開，直到手臂完全緊貼在你身體上呈剛性，然後在推髖部之前確認肘部有骨對骨接觸。",
+    "safety_critical": false,
+    "answer_line": "手臂留有鬆弛",
+    "distractors": {
+     "plausible": [
+      "髖部驅動力度不夠",
+      "手腕抓得太靠上方"
+     ],
+     "trap": [
+      "打開雙腿加大驅動力"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 arm crush 必須逐步施加而非爆發式施加？速度不當可能造成哪些傷害？",
+    "answer": "爆發式施加 arm crush 可能造成肘關節過度伸展的傷害、韌帶撕裂（特別是尺側副韌帶），甚至在對手來得及察覺危險並 tap 之前就造成肘關節脫臼。肘關節一旦被固定在剛性支點上，結構容忍度就非常有限，突然施力可能在幾分之一秒內造成不可逆的傷害。逐步施加壓力，用 2 到 3 秒的時間，能讓對手有時間 tap，也能讓雙方感受到逐漸增加的阻力，藉此判斷關節正接近極限。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，讓對方有時間 tap",
+    "distractors": {
+     "plausible": [
+      "只等口頭 tap",
+      "讓手臂疲勞來完成 submission"
+     ],
+     "trap": [
+      "爆發式施加以求快速完成"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，當對手正積極從 kesa gatame 防守 americana 時，你要如何設置 arm crush？",
+    "answer": "當對手為了防守 americana 而伸直手臂並保持僵硬以避免 figure-four 時，這個防守反應恰好就給了 arm crush 機會。他們伸直的手臂正是你需要的——立刻從 americana grip 轉換到 two-on-one 手腕控制，把他們現在已經伸直的肘部推向你的髖部支點，然後施加 crush。這個 submission chain 創造出兩難：彎曲手臂防守 crush 就會暴露 americana，伸直手臂防守 americana 就會暴露 crush。交替利用兩種威脅，能壓垮對方的防守判斷力。",
+    "safety_critical": false,
+    "answer_line": "直臂防守正好餵給 crush",
+    "distractors": {
+     "plausible": [
+      "放棄 crush，硬上 figure-four",
+      "等手臂彎曲才進攻"
+     ],
+     "trap": [
+      "放開手腕重新 americana"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些最早的辨識訊號顯示對手正從 kesa gatame 控制轉換到 arm crush 攻擊？",
+    "answer": "最早的訊號是感覺到攻擊者放開頭部控制的那隻手，並用雙手伸向你被困的手腕。你也會感覺到他們開始把你的手臂拉過他們的軀幹，而不是單純把手臂固定在腋下不動。他們的髖部位置可能會移動，試圖把你的肘部對準他們的髖骨。及早辨識這些訊號，能給你在 crush 建立之前採取防守動作的關鍵幾秒鐘。",
+    "safety_critical": false,
+    "answer_line": "頭部控制手放開去抓手腕",
+    "distractors": {
+     "plausible": [
+      "他們把你的手臂夾向肋骨",
+      "他們的空手抓你的衣領"
+     ],
+     "trap": [
+      "grip 變鬆，控制正在減弱"
+     ]
+    }
+   },
+   {
+    "question": "為什麼維持手臂彎曲是對抗 arm crush 最重要的防守優先事項？",
+    "answer": "arm crush 需要完全伸直的手臂才能生效，因為只有肘部無法彎曲來吸收壓力時，過度伸展的力量才能發揮作用。彎曲的手臂能透過關節自然的活動範圍分散力量，讓壓迫失效。一旦手臂伸直、肘部靠在攻擊者的髖部支點上，防守者就完全失去了對抗攻擊者體重與 two-on-one grip 控制而彎曲或收回手臂的力學能力。透過保持彎曲手臂進行預防，遠比逃脫已被鎖住的 crush 容易得多。",
+    "safety_critical": false,
+    "answer_line": "彎曲能吸收力，伸直就鎖死",
+    "distractors": {
+     "plausible": [
+      "彎曲手臂能解放遠側 grip",
+      "彎曲手臂有助恢復頭部位置"
+     ],
+     "trap": [
+      "伸直手臂把攻擊者推開"
+     ]
+    }
+   },
+   {
+    "question": "對手已經完全伸直你的手臂，並把你的肘部定位在他們的髖部上——你該怎麼做？",
+    "answer": "此時 submission 已接近完成，逃脫的機率極低。試著旋轉你的前臂，讓肘部從骨支點上滑開——這是你最後的力學選擇。如果旋轉失敗、你感覺到肘關節上正在累積壓力，就立刻 tap。不要對已鎖住的 arm crush 嘗試爆發式的逃脫動作，因為這可能造成自我造成的韌帶損傷或肘關節脫臼。接受 tap、學習在序列較早階段就防守，遠比冒著嚴重訓練傷害的風險要好。",
+    "safety_critical": true,
+    "answer_line": "試著轉前臂，然後 tap",
+    "distractors": {
+     "plausible": [
+      "shrimp 髖部創造空間",
+      "用空手抓他們的腰帶"
+     ],
+     "trap": [
+      "橋起身體對抗這個鎖"
+     ]
+    }
+   },
+   {
+    "question": "從同一個位置防守 arm crush 和防守 americana 有什麼不同？",
+    "answer": "americana 需要彎曲的手臂，透過旋轉攻擊肩膀，所以防守方式是伸直手臂並保持僵硬。arm crush 恰恰相反——它透過肘關節過度伸展攻擊伸直的手臂，所以防守方式是保持手臂彎曲。這正是 kesa gatame submission 的核心兩難：對一種攻擊的防守位置，恰恰是另一種攻擊的脆弱位置。理解這層關係，能讓你根據攻擊者如何操控你的手臂來辨識即將來臨的攻擊，並相應調整你的防守手臂姿勢。",
+    "safety_critical": false,
+    "answer_line": "保持彎曲，而非伸直",
+    "distractors": {
+     "plausible": [
+      "第一時間用力橋起身體",
+      "在髖部上做 frame 創造空間"
+     ],
+     "trap": [
+      "伸直手臂保持僵硬"
+     ]
+    }
+   },
+   {
+    "question": "arm crush 設置過程中，主要的逃脫窗口是什麼時候？為什麼會存在這個窗口？",
+    "answer": "主要的逃脫窗口出現在攻擊者放開頭部控制、改用 two-on-one 手腕 grip 控制被困手臂的時候。在這 1 到 2 秒的轉換期間，對手的頭部與上半身暫時失去控制，而他們的重量分配也因為重新調整雙手而改變。這創造了爆發式 bridge 的機會，因為攻擊者無法同時控制你的頭部、維持髖部壓力並確保手腕控制。這個窗口之所以存在，是因為 arm crush 需要雙手都放在手腕上，迫使攻擊者在轉換期間犧牲頭部控制。",
+    "safety_critical": false,
+    "answer_line": "頭部控制放開時橋起身體",
+    "distractors": {
+     "plausible": [
+      "肘部一碰到髖部就逃脫",
+      "手wrist lock定完成後逃脫"
+     ],
+     "trap": [
+      "等手臂完全伸直才逃"
+     ]
+    }
+   }
+  ]
+ }
+}

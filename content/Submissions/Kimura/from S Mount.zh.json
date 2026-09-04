@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from S Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 S Mount 施加的 Kimura 具體攻擊哪些解剖構造？",
+    "answer": "從 S Mount 施加的 Kimura 攻擊肩關節複合體，特別是旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、盂肱韌帶、關節唇，以及肩關節囊。figure-four grip 產生的旋轉力，會迫使肱骨內旋超過安全範圍，把手腕往下背方向壓，同時對所有這些構造施加壓力。",
+    "answer_line": "肩膀：旋轉肌袖與關節囊",
+    "distractors": {
+     "plausible": [
+      "只有手肘過度伸展",
+      "手腕與前臂肌腱"
+     ],
+     "trap": [
+      "頸椎——改鎖脖子"
+     ]
+    }
+   },
+   {
+    "question": "對手做出什麼防守反應，代表這是從 armbar 威脅轉攻 Kimura 的理想時機？",
+    "answer": "當對手彎曲被困住的手臂來防守 armbar，把手拉向身體，或抓住自己的 collar 時，這就是理想的 Kimura 空檔。彎曲手臂的姿勢讓手腕暴露出來，方便你建立 figure-four grip，同時也解除了 armbar 的威脅。這個彎臂防守就是啟動 Kimura 的觸發訊號，而不是繼續硬拗手臂求伸直。",
+    "answer_line": "彎曲手臂，抓自己的 collar",
+    "distractors": {
+     "plausible": [
+      "把手臂伸直來推開",
+      "用前臂在你胸口做 frame"
+     ],
+     "trap": [
+      "用力 bridge 想 upa sweep"
+     ]
+    }
+   },
+   {
+    "question": "在開始 Kimura 旋轉之前，為什麼把對手的手肘固定在地墊上很關鍵？",
+    "answer": "壓在地墊上的手肘，創造出把旋轉力量集中在肩關節上的支點。沒有這個支點，力量會分散在整條手臂上，對手可以透過移動上臂來吸收旋轉。手肘與地墊的接觸點就像一個鉸鏈，確保所有旋轉能量都直接傳到肩關節，達到最大的力學效率。",
+    "answer_line": "手肘固定 = 支點",
+    "distractors": {
+     "plausible": [
+      "阻止他把你 bridge 掉",
+      "擋住他空著那隻手做的 frame"
+     ],
+     "trap": [
+      "抬起手肘，靠肌肉硬轉"
+     ]
+    }
+   },
+   {
+    "question": "你在建立 figure-four grip 時，對手開始把手臂伸直——什麼調整能防止他逃脫？",
+    "answer": "立刻放棄 Kimura grip 的嘗試，轉換成 armbar 收招，因為對手已經自己把手臂伸展到 armbar 所需要的正確位置了。這就是從 S Mount 出發的 Kimura-armbar 兩難根本所在。伸直的手臂，在這個位置下，對正確施加的 armbar 幾乎沒有防守空間，所以他對其中一個攻擊的防守，直接餵給了另一個攻擊。",
+    "answer_line": "放棄 Kimura，收 armbar",
+    "distractors": {
+     "plausible": [
+      "還是硬上 figure-four grip",
+      "先把手臂重新彎回來"
+     ],
+     "trap": [
+      "放掉所有控制，站起來"
+     ]
+    }
+   },
+   {
+    "question": "從 S Mount 收 Kimura 時，應該怎麼產生旋轉力量？",
+    "answer": "用你的整個身體來產生旋轉力量，而不是只靠手臂力量。把手肘夾緊軀幹，讓髖部與軀幹作為一個整體旋轉，就像用整個身體轉動方向盤一樣。你的手臂維持 figure-four grip 的結構，而核心與髖部提供主要的力量。這個方式比靠二頭肌硬轉能產生更大的力量，也更不容易累。",
+    "answer_line": "髖部與軀幹整體旋轉",
+    "distractors": {
+     "plausible": [
+      "用二頭肌把手腕往上捲",
+      "把手肘張開來取得槓桿"
+     ],
+     "trap": [
+      "爆發性猛拉——肩膀應聲斷裂"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加 Kimura 旋轉的正確速度與程序是什麼？",
+    "answer": "至少用 3 到 5 秒的時間慢慢、漸進地施加旋轉，讓你的對練夥伴有足夠時間察覺危險並 tap。絕對不要猛拉、突然加速旋轉。維持平順、持續的壓力，一感覺到或聽到任何 tap 訊號就立刻停止。放開之後，輕輕把手臂帶回中立位置，並讓對練夥伴在繼續訓練前先自行評估肩膀狀況。",
+    "answer_line": "放慢，3-5 秒，一 tap 就停",
+    "distractors": {
+     "plausible": [
+      "快到他來不及逃",
+      "施加到感覺有阻力為止"
+     ],
+     "trap": [
+      "猛然一頓來測試他會不會 tap"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 Kimura 嘗試中開始朝你的腿方向做 hip escape，你應該怎麼做？",
+    "answer": "跟著他髖部的移動方向，把自己的髖部也挪過去，維持住髖部與肩膀之間關鍵的連結。不要先用上半身去追，因為這會讓你的重量離開他的肩膀。如果儘管你已經調整，他還是創造出明顯的空間，你必須快速決定：是要在他完全逃脫之前完成旋轉，還是放棄 Kimura，先鞏固 S Mount 的控制，避免他恢復 guard。",
+    "answer_line": "挪動髖部，保持連結",
+    "distractors": {
+     "plausible": [
+      "把 figure-four 夾得更緊",
+      "空著的手撐地穩住底盤"
+     ],
+     "trap": [
+      "上半身撲過去，失去壓制"
+     ]
+    }
+   },
+   {
+    "question": "figure-four grip 的結構怎麼把對肩關節的控制最大化？",
+    "answer": "figure-four 創造出一個剛性的力學框架，讓雙手作為單一整體運作：你的近手控制對手的手腕，遠手則抓住自己的手腕，把這個迴路閉合。兩個大拇指指向同一個方向，確保旋轉方向一致。這個鎖死的結構讓對手無法旋轉前臂來釋放壓力，而四點接觸則讓控制力量平均分散在整個 grip 上。",
+    "answer_line": "鎖死的整體，擋住前臂轉動",
+    "distractors": {
+     "plausible": [
+      "兩個各自獨立的手腕 grip",
+      "大拇指指向相反方向"
+     ],
+     "trap": [
+      "手指交扣——grip 會斷裂"
+     ]
+    }
+   },
+   {
+    "question": "有哪些關鍵徵兆顯示這個 Kimura 已經到達防守方無法逃脫的地步？",
+    "answer": "當 figure-four 鎖死、手肘固定在地墊上，而且對手的手已經被旋轉超過他身體的平面、朝背後方向移動時，這個 submission 就已經超過可以逃脫的階段。到這個階段，唯一剩下的防守方式就是 tap。任何進一步的旋轉都會對肩關節造成傷害。攻擊者仍然應該慢慢施加，因為防守方可能還沒意識到這個位置已經定局。",
+    "answer_line": "grip 鎖死，手超過身體平面",
+    "distractors": {
+     "plausible": [
+      "只有手腕 grip 被固定",
+      "對手停止掙扎"
+     ],
+     "trap": [
+      "等聽到明顯的彈響聲"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，如果對手在 S Mount bottom 維持強力的 collar grip 防守，你要怎麼設置 Kimura？",
+    "answer": "有系統地一根一根剝開他的手指，從小指那一側開始。或者，用你的體重把他的手肘壓向地墊，這會改變他 grip 的角度，讓他的握力大幅減弱。你也可以假動作做出 armbar 伸展，逼他調整 grip，藉此創造出把手穿到手腕下方的空檔。耐心與位置壓力，最終會破解任何 grip 防守。",
+    "answer_line": "從小指側剝開，壓制手肘",
+    "distractors": {
+     "plausible": [
+      "一次把整個 grip 猛拉開",
+      "直接往後拉手腕"
+     ],
+     "trap": [
+      "雙手都撐地，結果被 bridge"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些視覺與觸覺線索，能分辨出對手正在從 S Mount 設置的是 Kimura 而不是 armbar？",
+    "answer": "關鍵線索是感覺到對手的手從外側穿到你的手腕下方，而不是把你的手臂往伸直的方向拉。你會感覺到一個環繞前臂的動作，因為他正在設置 figure-four，他 grip 的重點會從你的手腕轉移到繞過並環住你的前臂。他的身體位置也可能稍微改變，因為他正在準備施加旋轉力，而不是直線的力。",
+    "answer_line": "手穿到手腕下方，環住前臂",
+    "distractors": {
+     "plausible": [
+      "穩定地朝伸直方向拉",
+      "grip 轉移到你的二頭肌"
+     ],
+     "trap": [
+      "把手臂伸直——正好餵給 armbar"
+     ]
+    }
+   },
+   {
+    "question": "被從 S Mount 施加的 Kimura 抓住時，應該在什麼時間點 tap？",
+    "answer": "一旦 figure-four grip 完全鎖死，而你感覺到旋轉壓力開始把你的手往背後帶，就立刻 tap。不要等到感覺疼痛才 tap，因為一旦旋轉超過安全的活動範圍，肩膀損傷可能很快就會發生。如果你的 grip 防守失敗、旋轉已經開始，從 S Mount 正確施加的 Kimura 沒有有效的後期逃脫方式。早點 tap，明天再繼續訓練。",
+    "answer_line": "grip 鎖死就 tap，別等痛",
+    "distractors": {
+     "plausible": [
+      "等肩膀開始灼熱再說",
+      "把頭轉離被困住的手臂"
+     ],
+     "trap": [
+      "撐到彈響聲出現"
+     ]
+    }
+   },
+   {
+    "question": "面對從 S Mount 施加的 Kimura，正確的防守優先順序是什麼？",
+    "answer": "第一優先是防止 figure-four grip 建立起來，做法是保持手臂彎曲，並抓住自己的 collar。第二優先是在對方試圖剝除 grip 時，維持住這個彎臂結構。第三優先是抓準換 grip 的空檔做 hip escape，恢復 guard。如果這三者都失敗、figure-four 鎖死且旋轉已經開始，第四優先就是立刻 tap，保護你的肩膀。",
+    "answer_line": "先擋 figure-four：手臂保持彎曲",
+    "distractors": {
+     "plausible": [
+      "先做 hip escape 恢復 guard",
+      "grip 一鎖死就馬上 tap"
+     ],
+     "trap": [
+      "把手臂伸直來拉開脫困"
+     ]
+    }
+   },
+   {
+    "question": "對手暫時放開一隻手來重新調整 figure-four grip——你應該立刻做什麼？",
+    "answer": "在他重新建立控制之前，爆發性地把被困的手臂拉回自己身體，重新抓住自己的 collar。同時開始朝他的腿方向做 hip escape 來創造距離。這是你最好的逃脫空檔，因為 figure-four 的結構已經被破壞。就算只有半秒鐘的壓力釋放，只要你立刻果斷反應，也足以把手臂抽出來。",
+    "answer_line": "把手臂猛拉回來，重抓 collar",
+    "distractors": {
+     "plausible": [
+      "用力朝他的髖部 bridge",
+      "抓住自己的腰帶撐住"
+     ],
+     "trap": [
+      "把手臂伸直來試探他的 grip"
+     ]
+    }
+   },
+   {
+    "question": "在防守從 S Mount 施加的 Kimura 時，為什麼把手臂伸直去推開對手是一個重大錯誤？",
+    "answer": "把手臂伸直，會消除同時保護你不被 Kimura 與 armbar 攻擊的那個彎曲角度。從 S Mount 出發，一隻伸直的手臂正是 armbar 收招的理想位置，所以你其實是拿一個 submission 威脅去換另一個可能更立即危險的威脅。核心原則是保持手臂彎曲，靠髖部移動與空著那隻手的 frame 來逃脫，而不是用被困住的手臂去推。",
+    "answer_line": "手臂伸直正好餵給 armbar",
+    "distractors": {
+     "plausible": [
+      "彎曲手臂會擋住他的 hip escape",
+      "伸直手臂會讓你肩膀更累"
+     ],
+     "trap": [
+      "推開對手，坐起來準備站立"
+     ]
+    }
+   }
+  ]
+ }
+}

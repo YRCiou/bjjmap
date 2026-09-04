@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Bow and Arrow Choke/from Back Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Bow and Arrow Choke 主要攻擊哪些解剖構造?collar 是如何製造壓迫的?",
+    "answer": "Bow and Arrow Choke 同時攻擊頸部兩側的頸動脈。gi collar 的布料橫跨在頸部前方,加強縫線和手腕的刃面壓在其中一側的頸動脈上,collar 的布料則壓縮另一側。抓 collar 那隻手和抓腿那隻手之間的雙向拉力,會逐漸收緊這個環圈,製造出雙側的血流阻斷,在完全施展後幾秒內就會導致失去意識。",
+    "safety_critical": true,
+    "answer_line": "雙側頸動脈,collar加手腕刃面",
+    "distractors": {
+     "plausible": [
+      "只壓迫其中一側頸動脈",
+      "脊椎和頸椎"
+     ],
+     "trap": [
+      "壓碎氣管來finish"
+     ]
+    }
+   },
+   {
+    "question": "對手用雙手抓住你的手腕來防禦 collar 抓握。什麼調整能創造submission機會?",
+    "answer": "當對手把雙手都投入對抗 collar 抓握時,他的頸部就完全沒有防禦 rear naked choke 的能力了。立刻轉換為嘗試 RNC,可以維持或放開 collar,同時用你的自由手臂穿過下巴。對手無法同時對抗 collar 又防禦 RNC,這會形成一個根本上的兩難。如果他為了防禦 RNC 而放開 collar,就重新更深地建立 collar 抓握。",
+    "safety_critical": false,
+    "answer_line": "轉換攻擊naked choke",
+    "distractors": {
+     "plausible": [
+      "把collar抓握硬拉得更緊",
+      "改攻armbar"
+     ],
+     "trap": [
+      "完全放棄back control"
+     ]
+    }
+   },
+   {
+    "question": "collar 抓握的正確深度是什麼?你如何辨識抓得太淺?",
+    "answer": "正確的深度是讓你手腕的刃面直接橫跨在頸動脈上,collar 的縫線要越過對手的下巴線,位於頸部前方。當 collar 布料停在下顎或下巴上而不是頸部,或對手只要收下巴就能減輕壓力,或這個絞技只讓下巴感到疼痛卻沒有血流受阻的感覺時,就代表抓得太淺。如果一開始的位置在下巴以上,就用毛毛蟲式的動作把抓握往更深處移動。",
+    "safety_critical": false,
+    "answer_line": "手腕刃面越過下巴,貼在頸部",
+    "distractors": {
+     "plausible": [
+      "拇指朝內抓在肩膀處",
+      "手指伸進下巴處的collar"
+     ],
+     "trap": [
+      "在下顎橫向硬扳求finish"
+     ]
+    }
+   },
+   {
+    "question": "為什麼控制遠側腿對 bow and arrow 的finish至關重要?沒有它會發生什麼事?",
+    "answer": "抓遠側腿能製造出對抗的力量向量,這正是 bow and arrow 力學優勢的來源。沒有腿部的控制,這個絞技就只能靠拉扯 collar,而這產生的壓縮力不足,因為對手可以直接順著拉扯的方向縮短距離。抓腿的動作能把對手的身體拉成弓形,防止他收下巴或旋轉來減輕壓力,並透過在兩個抓握點之間製造更長的槓桿臂,放大 collar 上的有效力量。",
+    "safety_critical": false,
+    "answer_line": "腿部製造反向的弓形力量",
+    "distractors": {
+     "plausible": [
+      "抓腿只是為了平衡",
+      "只靠拉collar就足夠"
+     ],
+     "trap": [
+      "放手改撲雙腿"
+     ]
+    }
+   },
+   {
+    "question": "當你的訓練夥伴因這個絞技失去意識時,你必須立刻採取哪些步驟?",
+    "answer": "一察覺到失去意識——表現為肌肉張力突然消失、雙臂垂落,或對口頭呼叫沒有反應——就立刻放開所有抓握和壓力。讓夥伴平躺,把他的雙腿抬高到高於心臟的位置以幫助血流回到腦部,並持續觀察他的呼吸。多數人會在10到20秒內恢復意識。不要搖晃他們或施加刺激。如果20秒內沒有恢復意識,立刻呼叫醫療協助。在他完全清醒且意識清楚之前,持續陪在他身邊。",
+    "safety_critical": true,
+    "answer_line": "放開、抬高雙腿、持續觀察",
+    "distractors": {
+     "plausible": [
+      "搖晃他們求快速清醒",
+      "立刻扶他們坐起"
+     ],
+     "trap": [
+      "短暫重新施展以做確認"
+     ]
+    }
+   },
+   {
+    "question": "在從 seatbelt 轉換到 collar 抓握的過程中,對手開始轉身面向你。正確的反應是什麼?",
+    "answer": "如果你已經建立好 collar 抓握,就維持住它,並用你剩下的那隻 hook 來減緩他的旋轉。把 collar 拉緊以防止他完成轉身,因為 collar 本身就能成為阻止旋轉的工具。如果 collar 還沒抓穩,就放棄 bow and arrow 的嘗試,重新建立 seatbelt 以維持 back control,因為失去 back 遠比錯過一次submission嘗試更糟。位置的維持永遠優先於submission的嘗試。",
+    "safety_critical": false,
+    "answer_line": "維持collar或重建seatbelt",
+    "distractors": {
+     "plausible": [
+      "全部放開重新開始",
+      "無論如何都硬追finish"
+     ],
+     "trap": [
+      "放手改抓一條腿"
+     ]
+    }
+   },
+   {
+    "question": "你應該如何漸進式地施加finish壓力,以確保能安全辨識拍點?",
+    "answer": "至少花3到5秒的時間施加finish的擠壓,逐漸增加對 collar 的拉力,以及對抗腿部的伸展力。從中等張力開始,逐步增加,同時持續留意拍點訊號,包括口頭拍點、用手拍打你的身體或地面、用腳拍地,或任何顯示不適的聲音。絕對不要瞬間猛拉或突然把絞技加到最大壓力,因為這樣不會給對手足夠的時間辨識危險並發出submission訊號。訓練時,寧可施展得偏慢一些。",
+    "safety_critical": true,
+    "answer_line": "3-5秒內逐漸加壓",
+    "distractors": {
+     "plausible": [
+      "施加穩定的中等壓力",
+      "每次呼吸就加壓一次"
+     ],
+     "trap": [
+      "瞬間猛拉到最大壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手有效地收緊下巴來對抗你最初的 collar 進入。什麼樣的抓握調整能繞過這個防禦?",
+    "answer": "用毛毛蟲式的抓握動作,一點一點地把 collar 往更深處推進,而不是想一次就把它硬塞過下巴。抓住 collar,小幅度調整把鬆弛部分拉出來,再重新更深地抓握,重複這個過程。你也可以用自由手短暫地把對手的下巴往上推,同時用抓 collar 的手從下方餵入,或改成從下巴線下方而不是從上方餵入 collar。如果收下巴的力量非常強,就轉換成一種抓握較淺的短式絞技變化型。",
+    "safety_critical": false,
+    "answer_line": "毛毛蟲式抓握,逐步深入",
+    "distractors": {
+     "plausible": [
+      "快速把collar硬拉過下巴",
+      "改抓另一側collar"
+     ],
+     "trap": [
+      "壓碎下顎逼對方就範"
+     ]
+    }
+   },
+   {
+    "question": "在 bow and arrow 中,正確施展的血液絞技和危險的氣管絞技或壓碎下顎有什麼區別?",
+    "answer": "正確施展的血液絞技,collar 會橫跨在頸部兩側壓迫頸動脈,產生視線變暗、頭暈目眩的感覺,但沒有明顯疼痛。壓碎下顎的問題出在 collar 位置太高,橫跨在下顎骨上,造成劇烈疼痛卻沒有有效的血流阻斷。氣管絞技則是在喉嚨前方的氣管上施加壓力,造成嗆咳、咳嗽,並可能導致氣管損傷。修正的方法是確保 collar 位在下巴以下、橫跨頸部側面,拉扯的方向要偏向壓縮兩側,而不是壓碎前方。",
+    "safety_critical": true,
+    "answer_line": "頭暈無痛=正確的血液絞技",
+    "distractors": {
+     "plausible": [
+      "劇烈疼痛=正確的絞技",
+      "咳嗽代表正在起作用"
+     ],
+     "trap": [
+      "更用力壓迫氣管"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中,你的 bow and arrow 抓握已經建立,但對手正在防禦抓腿的動作。有什麼finish的替代方案能維持壓力?",
+    "answer": "如果你無法控制到遠側的腿,可以改用自由手臂推對手遠側的肩膀或髖部,製造對抗的力量。另一個選項是用你自己的腿去勾住他的遠側腿,而不是用手去抓,這樣就能空出雙手處理 collar。你也可以轉換成滑動式的 collar 絞技,把自由手移過去抓住 collar 的另一側,從 back 的位置形成十字型的絞絕。關鍵是在任何抓握轉換的過程中都要持續維持 collar 的張力,讓對手無法利用調整的空檔逃脫。",
+    "safety_critical": false,
+    "answer_line": "腿勾住遠側腿,空出雙手抓collar",
+    "distractors": {
+     "plausible": [
+      "抓近側腳踝取得槓桿",
+      "推近側髖部"
+     ],
+     "trap": [
+      "坐回去嘗試腿鎖"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 back control 被設置 Bow and Arrow Choke 時,最早的辨識線索是什麼?",
+    "answer": "最早的線索是攻擊者原本抓 seatbelt 的手鬆開 harness,伸向遠側的 collar;髖部開始橫向移動、朝絞技那一側滑動;以及你會感覺到 collar 布料被收攏或餵入你頸部前方。辨識出這些線索,能讓你在 collar 被鎖死之前就開始爭奪抓握,這是最有效的防禦窗口。",
+    "safety_critical": false,
+    "answer_line": "seatbelt手伸向collar",
+    "distractors": {
+     "plausible": [
+      "突然換髖轉為mount",
+      "兩個hooks同時鬆開"
+     ],
+     "trap": [
+      "等絞技感覺變緊才反應"
+     ]
+    }
+   },
+   {
+    "question": "面對 Bow and Arrow Choke 時,你應該什麼時候拍點?應該用什麼拍點訊號?",
+    "answer": "一感覺到有效的血流被阻斷到腦部——表現為視線變暗、頭暈目眩,或頭部有一種收緊的感覺——就立刻拍點。不要等到絞技已經從垂直角度完全鎖死、施展完成之後才想看看能不能逃脫。使用清楚的訊號:反覆用手拍打攻擊者的身體或地面、用腳拍地,或口頭說出拍點。訓練時,寧可提早拍點,以防止失去意識。",
+    "safety_critical": true,
+    "answer_line": "一頭暈或視線變暗就拍",
+    "distractors": {
+     "plausible": [
+      "只有頸部疼痛加劇才拍",
+      "點頭來示意拍點"
+     ],
+     "trap": [
+      "爆發橋動硬撐出去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼攻擊者放開一個 hook 的轉換階段是最好的防禦窗口?",
+    "answer": "當攻擊者放開一個 hook 去抓遠側腿時,他對你下半身的控制會暫時從兩個 hooks 減少為一個。這會製造出一個窗口,讓你的髖部動作受到的限制較小,有機會轉身面向攻擊者並回復guard。一旦雙邊抓握都建立、攻擊者達到垂直的finish角度,他的機械優勢就會變得壓倒性,逃脫變得極為困難。放開 hook 的那一刻,往往是你成功逃脫的最後現實機會。",
+    "safety_critical": false,
+    "answer_line": "放開hook能鬆開你的髖部",
+    "distractors": {
+     "plausible": [
+      "兩個hook都在時是最好窗口",
+      "逃脫時機從來不重要"
+     ],
+     "trap": [
+      "等垂直的finish角度出現"
+     ]
+    }
+   },
+   {
+    "question": "當 collar 抓握已經鎖死、你又無法把它剝除時,正確的防禦身體姿勢是什麼?",
+    "answer": "把身體向前捲成緊實的一團,膝蓋拉向胸口,下巴牢牢收向胸骨,雙手以二對一的方式控制住絞技那隻手腕。這種縮短的身體姿勢能減少攻擊者 bow and arrow 的槓桿優勢,拒絕給他製造最大壓縮所需的伸展空間。同時利用髖部動作防止攻擊者建立垂直的finish角度。絕對不要橋動或伸展脊椎,因為這樣反而會幫助攻擊者的finish力學。",
+    "safety_critical": false,
+    "answer_line": "捲身、收下巴、剝手腕",
+    "distractors": {
+     "plausible": [
+      "壓平身體並保持正對",
+      "只用一隻手推手臂"
+     ],
+     "trap": [
+      "橋動並伸展脊椎"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Modified Mount 主要攻擊哪個解剖構造？旋轉力量又是如何造成傷害的？",
+    "answer": "Americana 攻擊的是肩盂肱關節，透過在手肘被固定的情況下強迫肱骨外旋，將扭轉應力集中在旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）與肩關節囊上。figure-four grip 建立起一套槓桿系統：被固定的手肘是支點，手腕畫弧產生旋轉力。當手腕朝對手髖部移動且手肘鎖死時，肩關節會被迫超出自然外旋範圍，進而攻擊穩定關節的韌帶與肌腱。",
+    "safety_critical": false,
+    "answer_line": "攻擊肩關節，強迫外旋",
+    "distractors": {
+     "plausible": [
+      "槓桿手肘造成過度伸展",
+      "扭轉手腕對抗關節"
+     ],
+     "trap": [
+      "在手肘固定前就硬扯"
+     ]
+    }
+   },
+   {
+    "question": "相較於標準 mount，Modified Mount 的posted leg 如何具體強化 Americana 的完成？",
+    "answer": "posted leg 建立一個側向穩定的支點，能吸收對手在關鍵完成階段做出的橋（bridge）與翻滾嘗試，此時你的雙手都投入在 figure-four grip 上。在標準 mount 中，做 Americana 時對手一橋可能就會造成逆轉，因為雙膝都貼地，攻擊者的base 較窄。posted foot 則像結構性的支撐柱，阻止翻滾動能，讓攻擊者能全力投入旋轉壓力，而不必中斷完成動作去維持平衡。此外，在畫弧時把身體重心壓向posted leg，能為旋轉力加上體重。",
+    "safety_critical": false,
+    "answer_line": "阻擋 bridge，加上體重",
+    "distractors": {
+     "plausible": [
+      "壓制對手遠側髖部",
+      "同時控制遠側手臂"
+     ],
+     "trap": [
+      "雙腳都跪地，結果被橋翻"
+     ]
+    }
+   },
+   {
+    "question": "對手在你建立 figure-four 的過程中開始伸直被困的手臂——你該立即做出什麼調整？",
+    "answer": "立即放棄 Americana，把posted leg 甩過對手頭部改攻直臂式 armbar。防禦 Americana 的伸臂動作，恰好完美地為從 Modified Mount 進入 armbar 鋪好路，因為伸直的手臂正是 armbar 進入所需要的姿態。這正是 Americana 與 armbar 組合的核心矛盾：防禦其中一個submission 就會直接暴露另一個。如果對手再次彎曲手臂防禦 armbar，立刻回到 Americana。這種在兩種攻擊之間循環切換，最終會逼出對手tap。",
+    "safety_critical": false,
+    "answer_line": "把腿甩過頭改攻 armbar",
+    "distractors": {
+     "plausible": [
+      "強迫把手腕壓回地面",
+      "夾緊手肘繼續硬撐"
+     ],
+     "trap": [
+      "追著手臂跑，結果被頂回guard"
+     ]
+    }
+   },
+   {
+    "question": "從 Modified Mount 完成 Americana 時，有哪些跡象顯示你已經到達對手無法逃脫的地步？",
+    "answer": "無法逃脫的臨界點是三個條件同時成立：figure-four grip 完全扣緊、手肘夾得很緊；對手的手肘被牢牢固定在地面上，無法向上或側向移動；手腕已經越過畫弧的中點朝對手髖部前進。一旦手腕越過中點，對手就無法產生足夠的力量逆轉旋轉方向，因為槓桿力學會呈指數放大地對攻擊者有利。到了這個地步，唯一安全的反應就是tap。認清這個臨界點對安全很重要——此時submission 基本上已經鎖死，任何額外的力量都會有受傷風險。",
+    "safety_critical": true,
+    "answer_line": "手肘固定、手腕越過中點",
+    "distractors": {
+     "plausible": [
+      "figure-four grip 完全扣緊",
+      "對手停止bridge"
+     ],
+     "trap": [
+      "雙手都抓住手臂，重心往上抬"
+     ]
+    }
+   },
+   {
+    "question": "Americana 正確的施力速度為何？為什麼它被認為是一個慢速的submission？",
+    "answer": "Americana 從開始施加旋轉壓力到預期的tap，至少應該花 3 到 5 秒。drill 時最多只施加 10% 到 20% 的壓力。它之所以被歸類為慢速submission，是因為肩關節在到達結構極限之前，擁有相對較大的活動範圍，也就是說從初始不適到真正受傷之間，存在明顯的緩衝空間。這讓 Americana 比起像 heel hook 這類瞬間發作的submission 來得安全，但前提是要漸進施力。猛然發力或突然加速旋轉，可能在對手還來不及感知疼痛並發出tap 訊號之前，就造成旋轉肌袖撕裂或肩盂肱關節脫臼。",
+    "safety_critical": true,
+    "answer_line": "3 到 5 秒，漸進施力",
+    "distractors": {
+     "plausible": [
+      "慢是因為手肘比較弱",
+      "只有drill 才需要放慢"
+     ],
+     "trap": [
+      "趁對手還沒防守前快速扣死"
+     ]
+    }
+   },
+   {
+    "question": "對手tap 之後，你應該如何釋放 Americana？正確的順序是什麼？",
+    "answer": "一感知到tap 訊號，立即停止所有旋轉壓力。接著鬆開自己抓住的手腕，解開 figure-four grip。小心地把對手的手臂放回身體旁的中立位置——絕對不要突然放下，因為肩關節可能已經受到影響。放開對手手肘的控制，讓對方自由活動。用口頭確認對方是否無恙。如果對方回報任何疼痛，鼓勵他輕柔地活動肩膀，若疼痛持續則建議就醫。核心原則是：釋放要從停止旋轉開始，而不是先鬆開grip。",
+    "safety_critical": true,
+    "answer_line": "先停止旋轉，再放開grip",
+    "distractors": {
+     "plausible": [
+      "先鬆開grip 再慢慢卸力",
+      "立刻放手並翻身離開"
+     ],
+     "trap": [
+      "撐住壓力直到對方開口說話"
+     ]
+    }
+   },
+   {
+    "question": "對手用被困的那隻手抓住自己的腰帶（belt）來固定手臂——你要如何破解這個防禦性抓握？",
+    "answer": "利用你 figure-four 結構的機械優勢對抗他單手的抓握。首先嘗試用二對一的手腕槓桿把他的手從固定點剝開，同時讓你的 figure-four 提供結構性框架。如果抓握很強，用頭或肩膀施加cross face 壓力，讓他必須在防守cross face 和維持抓住衣服之間做出選擇。第三個選項是維持 figure-four 位置並等待，持續施加輕微而漸進的壓力——握力終究會疲勞，逼他放開固定點，這時你立刻恢復手腕畫弧的動作。",
+    "safety_critical": false,
+    "answer_line": "先cross face，再剝開grip",
+    "distractors": {
+     "plausible": [
+      "直接把手腕硬拉出來",
+      "把 figure-four 扭得更用力"
+     ],
+     "trap": [
+      "坐起來硬撬，結果丟掉base"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，有哪些完成動作的調整能提升從 Modified Mount 完成 Americana 的成功率？",
+    "answer": "在比賽中，開始畫弧前先把手肘再夾緊一些，收緊 figure-four grip，消除任何在腎上腺素作用下對手可能利用的鬆動空間。完成動作時把體重壓向posted leg，為旋轉增加重力輔助的力量。頭部保持低位並貼緊對手遠側的肩膀，防止他轉身面向你。畫弧速度要比訓練時稍快，但仍要維持漸進——比賽速度大約是 2 到 3 秒。如果對手有效地在對抗你的grip，可以佯攻 Americana 誘出他的防禦性手臂動作，接著立刻切換到他防禦動作所暴露出的 armbar 或choke（頸部絞技）。",
+    "safety_critical": false,
+    "answer_line": "收緊grip，壓向posted leg",
+    "distractors": {
+     "plausible": [
+      "把手肘打開以取得更多力矩",
+      "坐直身體以取得額外槓桿"
+     ],
+     "trap": [
+      "趁腎上腺素飆高快速硬扯畫弧"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Modified Mount 被設置 Americana 時，最早可以辨識的訊號有哪些？",
+    "answer": "最早的訊號是對手用同側的手抓住你近側的手腕，並開始把它往地面壓。甚至在抓握之前，就要留意對手把重心從posted leg 往前移並伸手來抓你的手臂，這代表他準備要進攻上半身。當有人把手穿過你上臂triceps 位置下方時，那種觸覺訊號就確認了 figure-four 正在被建立。在手腕剛被抓住的階段就開始防守，遠比等到 figure-four 完全鎖死才反應有效得多。",
+    "safety_critical": false,
+    "answer_line": "手腕被抓、被壓向地面",
+    "distractors": {
+     "plausible": [
+      "figure-four 已經完全鎖死",
+      "對手方正髖部並保持不動"
+     ],
+     "trap": [
+      "忽略它，直到肩膀開始痛"
+     ]
+    }
+   },
+   {
+    "question": "從 Modified Mount 被 Americana 攻擊時，什麼時候應該tap？該用什麼樣的tap 訊號？",
+    "answer": "一旦你感受到真正無法逆轉或逃脫的肩部旋轉壓力，就要立刻tap。不要等到疼痛變得劇烈——一旦旋轉角度超過你關節的容忍範圍，Americana 造成的肩部傷害可能很快發生。使用清楚的tap 訊號：用你的自由手在對手身上或地面上連續tap 至少兩下、大聲喊出「tap」、或用腳在地面tap。如果你的自由手被困住，立刻改用口頭或腳部訊號。在訓練中，忍受超出你舒適活動範圍的肩部壓力沒有任何好處。",
+    "safety_critical": true,
+    "answer_line": "提早tap，口頭或用腳示意",
+    "distractors": {
+     "plausible": [
+      "等到疼痛變得尖銳再說",
+      "在地上輕輕tap 一下就好"
+     ],
+     "trap": [
+      "撐著不動，藉此鍛鍊耐受度"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 Modified Mount 防守 Americana 比從標準 mount 防守更困難？",
+    "answer": "Modified Mount 的posted leg 給了攻擊者一個穩定的支撐base，抵銷了 Americana 最主要的防禦手段——在施作階段做bridge 並翻滾。在標準 mount 中，趁攻擊者雙手都忙於 figure-four 時抓緊時機bridge，有機會造成逆轉。但posted leg 會像結構性支撐柱一樣吸收bridge 的動能，這代表防守者無法靠爆發性的位置逃脫來中斷submission。這迫使防守者必須依賴阻止抓握與手臂回收，而不是從標準 mount 有效的bridge 逃脫。",
+    "safety_critical": false,
+    "answer_line": "posted leg 讓bridge 逃脫失效",
+    "distractors": {
+     "plausible": [
+      "你的雙臂都被困住",
+      "地面擋住了你肩膀的轉動"
+     ],
+     "trap": [
+      "更用力bridge 硬逼出翻滾"
+     ]
+    }
+   },
+   {
+    "question": "一旦 figure-four grip 完全鎖死、手肘也被固定，還剩下哪些防守選項？",
+    "answer": "選項有限，但並非完全沒有。第一，嘗試用整條手臂的力量把手朝天花板方向伸直——這是在攻擊 figure-four 結構最薄弱的一環。第二，把整個身體積極轉向攻擊者，縮小旋轉角度，阻止手腕朝你的髖部移動。第三，嘗試同時做bridge 與shrimp，讓手肘離開地面，藉此破壞支點。如果在最初幾秒內這些都無效，就要立刻tap，而不是繼續承受有肩部受傷風險的旋轉壓力。",
+    "safety_critical": true,
+    "answer_line": "伸直手臂、轉身內收，接著tap",
+    "distractors": {
+     "plausible": [
+      "抓住自己的腰帶撐住",
+      "用自由手推對手的頭"
+     ],
+     "trap": [
+      "拒絕tap，硬撐到底"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Americana/from Modified Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

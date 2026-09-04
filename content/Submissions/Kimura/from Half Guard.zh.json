@@ -1,0 +1,496 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "訓練時肩部旋轉的最短施力時間是多少？為什麼這一點很關鍵？",
+    "answer": "最短施力時間是漸進、平順地旋轉3到5秒。這一點很關鍵，因為肩關節對突然的扭力極度脆弱，快速施力可能在夥伴來得及察覺危險並拍降之前，就造成旋轉肌袖撕裂、肩關節脫臼或盂唇損傷。訓練中緩慢施力能保護夥伴的長期健康，同時仍能教會正確的finish力學。比賽時速度會較快，但絕對不能有猛拉的動作。",
+    "safety_critical": true,
+    "answer_line": "3到5秒，慢而平順",
+    "distractors": {
+     "plausible": [
+      "1到2秒，快但可控",
+      "跟比賽速度一樣快"
+     ],
+     "trap": [
+      "快速甩動盡快結束"
+     ]
+    }
+   },
+   {
+    "question": "從half guard施展的Kimura會製造出哪三個主要威脅？對手的防守方式如何決定你走哪一條路？",
+    "answer": "三個主要威脅是：(1) 透過肩部旋轉直接完成Kimura submission；(2) 當對手用空出的手撐地時，掃翻(sweep)取得上位；(3) 當對手為了減輕壓力而轉身面向你時，取得背後。對手的防守選擇決定你走哪一條路：如果他們保持不動、防守旋轉，就繼續朝submission進攻；如果他們撐地，就執行sweep；如果他們轉向你，就拿下背後控制。這種三重困境的結構，正是這個位置強大的原因。",
+    "safety_critical": false,
+    "answer_line": "submission、sweep或拿背後",
+    "distractors": {
+     "plausible": [
+      "armbar、triangle或omoplata",
+      "Kimura、過guard再上mount"
+     ],
+     "trap": [
+      "放開grip亂鬥過guard"
+     ]
+    }
+   },
+   {
+    "question": "從half guard下位施展Kimura時，為什麼保持髖對髖的連結很關鍵？",
+    "answer": "髖對髖的連結能防止對手透過granby滾動（往自己肩膀方向向前翻滾）逃脫submission。沒有這個連結，對手就有空間向前翻滾，這樣既能逃脫Kimura，也可能反轉位置。這個連結必須從figure-four完成一直維持到旋轉的初期階段。只有在根據對手的防守反應轉換成sweep或拿背後時，才能刻意放開它。",
+    "safety_critical": false,
+    "answer_line": "阻擋對手向前granby滾動",
+    "distractors": {
+     "plausible": [
+      "讓guard保持關閉以維持控制",
+      "阻止對手用遠端手撐地"
+     ],
+     "trap": [
+      "放開髖部連結加快旋轉"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴對從half guard施展的Kimura拍降之後，你必須立刻採取哪些動作？",
+    "answer": "立刻要做：(1) 停止對肩部的所有旋轉壓力；(2) 放開figure-four的grip結構；(3) 慢慢把對方的手臂帶回中立位置，避免突然的動作；(4) 放開包括half guard在內的所有位置控制；(5) 在繼續訓練前，跟夥伴確認肩膀的狀況。絕對不要爆發式放開或突然丟下對方的手臂，因為即使已經拍降，這樣做仍可能造成額外傷害。",
+    "safety_critical": true,
+    "answer_line": "停止、放開、引導手臂、確認狀況",
+    "distractors": {
+     "plausible": [
+      "鎖住直到他們開口說話",
+      "放開但保持half guard"
+     ],
+     "trap": [
+      "用力扯開手臂重新開始"
+     ]
+    }
+   },
+   {
+    "question": "在設置與施展Kimura的過程中，為什麼你必須讓對手的手肘一直貼近身體、不能碰到地面？",
+    "answer": "讓手肘保持貼近肋骨、不碰地面，能維持肩關節的結構脆弱點。如果他們的手肘碰到地面，就能取得撐地的base，產生反向壓力並逃出submission的旋轉力學。手肘被孤立的位置，能把肩部旋轉的槓桿效果最大化，同時把對手的防守選項降到最低。這個位置上的細節，正是「緊密、高成功率的submission」和「被防守逃脫的機會」之間的差別。",
+    "safety_critical": false,
+    "answer_line": "手肘離地能破壞撐地base",
+    "distractors": {
+     "plausible": [
+      "手肘離地能改善抓握角度",
+      "能把對手的髖部固定住"
+     ],
+     "trap": [
+      "讓手肘碰地再旋轉"
+     ]
+    }
+   },
+   {
+    "question": "Kimura figure-four正確的grip結構是什麼？常見會降低效果的抓握錯誤是什麼？",
+    "answer": "正確的figure-four是掌對掌或腕對腕的grip：一手控制對手的手腕，另一手抓住自己的手腕，形成一個封閉的環。常見的錯誤是抓自己的手指而不是手腕，這樣的連結較弱，在壓力下容易被破解。另一個錯誤是雙臂交叉方向錯誤，導致旋轉方向不對。在施加任何旋轉壓力之前，figure-four應該先鎖緊、鎖穩。",
+    "safety_critical": false,
+    "answer_line": "抓自己的手腕，不是手指",
+    "distractors": {
+     "plausible": [
+      "先旋轉再收緊環扣",
+      "夾住手肘來控制"
+     ],
+     "trap": [
+      "放開手腕重新扣合"
+     ]
+    }
+   },
+   {
+    "question": "對手在submission進行到一半時開始轉動身體來減輕肩部壓力——你要如何調整才能鎖定finish？",
+    "answer": "當對手轉動身體來減輕壓力時，你必須跟著他的轉動、同時維持figure-four的grip不變。在他轉動的同時，用胸口往前壓進他的背部，讓肩關節在整個移動過程中持續承受壓力。如果他繼續完全轉向你，這就變成你拿背後的機會——放開half guard並建立hooks。關鍵是在對手移動的過程中，絕對不能讓submission出現鬆動；你的身體要像影子一樣跟著他移動。",
+    "safety_critical": false,
+    "answer_line": "跟著轉動，grip保持鎖緊",
+    "distractors": {
+     "plausible": [
+      "固定住他們阻止轉動",
+      "finish前先重新調整角度"
+     ],
+     "trap": [
+      "放開手腕重新抓grip"
+     ]
+    }
+   },
+   {
+    "question": "Kimura主要攻擊哪個解剖構造？在什麼時間點submission會變得無法逃脫？",
+    "answer": "Kimura透過內旋攻擊盂肱關節（肩關節），把彎曲的前臂往下背方向推，對旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）與盂唇施加壓力。一旦對手的手腕越過髖部連線、且手肘被固定住，submission就變得無法逃脫。在這個角度下，肩關節已到達旋轉的極限，任何更進一步的動作都會造成關節損傷。在到達這個點之前，對手仍然可以橋起、翻滾或抽出手臂。",
+    "safety_critical": false,
+    "answer_line": "手腕過髖線、手肘固定",
+    "distractors": {
+     "plausible": [
+      "手腕到達背部中段",
+      "手肘離開肋骨"
+     ],
+     "trap": [
+      "還沒固定手肘就猛力旋轉"
+     ]
+    }
+   },
+   {
+    "question": "當對手把手臂伸直來防守Kimura時，你要如何調整finish的力學？",
+    "answer": "當對手把手臂伸直時，Kimura的grip效果會變差，因為彎曲的手肘才是旋轉所需的支點。此時應立刻轉換成armbar：維持抓住對手手腕的grip，把上方那條腿甩過他的臉，把手臂固定在你的髖部上伸展。手臂伸直其實反而讓armbar更容易完成。另一個做法是把對手的手腕拉向他自己的肩膀、同時用髖部壓進他的手肘，逼出Kimura所需的90度角，重新把手臂彎回來。",
+    "safety_critical": false,
+    "answer_line": "手臂伸直就轉攻armbar",
+    "distractors": {
+     "plausible": [
+      "等對手重新彎起手臂",
+      "更用力夾緊手腕grip"
+     ],
+     "trap": [
+      "放棄half guard去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "在對手實際發出拍降信號之前，哪些跡象顯示他即將拍降？",
+    "answer": "拍降前的關鍵跡象包括：(1) 突然停止防守動作或抵抗；(2) 發出明顯的吐氣或呻吟聲，顯示不適；(3) 空出的手朝你身體移動去拍，而不是繼續防守；(4) 下顎與頸部可見的表情扭曲或緊繃；(5) 肩膀上抬，試圖被動地減輕壓力。認出這些跡象，能讓你在訓練中不需要等到明確拍降就先減輕壓力，展現控制力並保護夥伴。",
+    "safety_critical": true,
+    "answer_line": "僵住、呻吟、手伸過來",
+    "distractors": {
+     "plausible": [
+      "呼吸變得緩慢而平穩",
+      "抓握變緊，髖部更用力"
+     ],
+     "trap": [
+      "假設對方沒事，直到拍降"
+     ]
+    }
+   },
+   {
+    "question": "從half guard下位施展Kimura時，你要如何防止對手把你壓扁(stack)逃脫？",
+    "answer": "為了防止被壓扁，要維持與對手垂直的強力角度，而不是平躺在他身下。讓靠近對手那一側的肩胛骨貼地，同時把髖部轉向遠離對手的方向，形成一個「L」型。用下方的knee shield或butterfly hook製造空間，阻止對手把體重向前壓。如果他開始壓扁你，就把上方那條腿甩過他的肩膀，製造額外的槓桿與frame。這個垂直角度會讓對手在力學上難以完成壓扁。",
+    "safety_critical": false,
+    "answer_line": "角度垂直，形成L型",
+    "distractors": {
+     "plausible": [
+      "橋起把對手的體重頂高",
+      "抓住腰帶阻止對手前壓"
+     ],
+     "trap": [
+      "放平身體任由對手壓扁"
+     ]
+    }
+   },
+   {
+    "question": "Kimura finish的「不可回頭點」在哪裡？在訓練中你要如何辨識該停止施力的時機？",
+    "answer": "不可回頭點出現在對手的手腕到達背部中段（兩肩胛骨之間）附近、且手肘仍緊貼肋骨時。在這個位置，肩關節已達到最大內旋，任何額外的壓力都會造成組織損傷。訓練時，應該在這個旋轉幅度大約70%到80%時就停止——也就是你感覺到關節出現「緊實的抵抗」而不是肌肉的抵抗時。如果到這個時候夥伴還沒拍降，用口頭確認或稍微加大壓力來提示他拍降，而不冒受傷的風險。",
+    "safety_critical": true,
+    "answer_line": "感覺緊實抵抗時停在約75%",
+    "distractors": {
+     "plausible": [
+      "只有等對方拍降才停",
+      "靠手臂角度而不是靠手感判斷"
+     ],
+     "trap": [
+      "超過彈性極限繼續硬拗"
+     ]
+    }
+   },
+   {
+    "question": "從half guard下位建立Kimura grip的最佳時機是什麼？",
+    "answer": "最好的時機出現在上位者把手撐在地上做base、伸手越過你身體去做crossface或underhook，或是在過guard嘗試中把手臂伸出去的時候。這些時刻會讓手臂暴露出來，而且對手的體重正朝某個方向投入，讓他難以把手臂縮回去。如果對手手肘緊貼、體重穩定沉墜時才嘗試抓grip，成功率會明顯較低。",
+    "answer_line": "對手撐手做base的時候",
+    "distractors": {
+     "plausible": [
+      "對手身體放平、體重下沉時",
+      "guard剛被過掉的瞬間"
+     ],
+     "trap": [
+      "對手手肘緊貼的時候"
+     ]
+    }
+   },
+   {
+    "question": "為什麼內側手臂要深穿到接近對手的手肘、而不是手腕？",
+    "answer": "深穿到手肘附近能大幅提升控制肩關節與finish Kimura submission的機械槓桿。太淺的抓握、只抓到手腕，會讓對手能透過簡單的伸展把手臂拉直、掙脫figure-four結構。深穿能形成較短的力臂，維持所需的力量較小，同時對肩帶產生更大的旋轉力。",
+    "answer_line": "深抓手肘，不是手腕",
+    "distractors": {
+     "plausible": [
+      "抓手腕比較容易抓到",
+      "抓手肘對你比較安全"
+     ],
+     "trap": [
+      "抓手腕來控制"
+     ]
+    }
+   },
+   {
+    "question": "你在half guard下位、對手把遠端的手撐在地上——你要如何開始Kimura的entry？",
+    "answer": "用外側的手快速用C-grip抓住他撐地的手腕，趁他還沒縮回之前。立刻用內側手臂深穿到他三頭肌下方朝手肘方向，同時把他的手腕拉向你的中線。抓住自己的手腕完成figure-four。撐地的那隻手是最脆弱的目標，因為他的體重正透過那隻手臂向前投入，導致縮手變慢，給你更大的entry空檔。",
+    "answer_line": "C-grip手腕，深穿到手肘",
+    "distractors": {
+     "plausible": [
+      "抓手腕，拉向自己髖部",
+      "先穿手臂，再抓手腕"
+     ],
+     "trap": [
+      "overhook手臂再翻滾"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試從half guard抓Kimura grip之前，關鍵的髖部位置要求是什麼？",
+    "answer": "你必須側身，讓內側的髖部離地抬起，形成朝向對手的角度，而不是平躺在背上。這個側身位置讓你能有效把內側手臂深穿到他的三頭肌下方，並提供把手臂帶過他中線所需的髖部靈活度。如果平躺著嘗試Kimura，手臂會構不到、grip槓桿會弱，而且容易被壓扁、被過guard。",
+    "answer_line": "內側髖部抬起，轉向對手",
+    "distractors": {
+     "plausible": [
+      "背部放平，髖部擺正",
+      "外側髖部抬起，轉向另一邊"
+     ],
+     "trap": [
+      "保持平躺比較安全"
+     ]
+    }
+   },
+   {
+    "question": "在你已經抓穩Kimura grip後，對手開始把手臂往回抽——你該如何回應？",
+    "answer": "手肘緊貼身體、牢牢維持grip，同時立刻加大對他肩部的旋轉壓力，讓他抽手變得不舒服。同時用髖部橋向他，把被困的手臂進一步壓過他的中線。他試圖抽手的動作，可以反過來被你利用，用他自己的抽手動能來破壞他的base，轉換成sweep機會。絕對不要伸長自己的手臂去追他的手臂，因為這會破壞你的grip結構。",
+    "answer_line": "抓緊不放，橋起轉sweep",
+    "distractors": {
+     "plausible": [
+      "放鬆grip，重新調整角度",
+      "改攻armbar"
+     ],
+     "trap": [
+      "伸長手臂去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "從half guard施展Kimura時，取得最大控制力所需的grip結構是什麼？",
+    "answer": "figure-four結構要求：內側手臂深穿到對手三頭肌下方、靠近手肘後，用內側手抓住自己外側的手腕。外側手則用拇指纏繞的C-grip牢牢控制對手的手腕，取得最大控制力。雙肘都要拉緊貼身，形成結構上的完整性。這個grip的運作方式是一個封閉的鏈條——由你的體重加強鎖定，而不是單靠抓握力量。",
+    "answer_line": "figure-four，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "雙手都抓手腕",
+      "overhook grip，手肘外張"
+     ],
+     "trap": [
+      "抓鬆一點，靠力量硬撐"
+     ]
+    }
+   },
+   {
+    "question": "在你取得初步的手腕控制後，對手猛力向前壓想把你壓平——你該怎麼做？",
+    "answer": "利用他向前的動能，趁他前壓時把他的手腕拉向你的中線，更快完成Kimura grip。他向前的壓力其實有助於穿手的過程，因為這會讓他的三頭肌更靠近你的內側手。一旦figure-four鎖定，他向前的推力可以被轉化成滾動式的Kimura sweep，利用他投入的體重把自己帶到上位。關鍵是順著他的壓力、透過Kimura系統把它導向對你有利的方向，而不是硬碰硬對抗它。",
+    "answer_line": "借力使力，快速完成grip",
+    "distractors": {
+     "plausible": [
+      "撐住擋下對手的前壓",
+      "後退重新調整base"
+     ],
+     "trap": [
+      "放開手腕，改做frame"
+     ]
+    }
+   },
+   {
+    "question": "在建立Kimura grip的過程中，half guard的leg entanglement扮演什麼角色？",
+    "answer": "half guard的leg entanglement是關鍵的錨點，能阻止上位者在你攻擊他手臂時脫身拉開距離。如果沒有維持這個leg entanglement，上位者可以往後sprawl、拉開距離，並在Kimura grip鞏固之前先抽出手臂。被困住的那條腿也限制了他改變角度或繞圈過guard的能力，讓他一直停留在你攻擊手臂最有效的平面上。",
+    "answer_line": "錨住對手，阻止後退",
+    "distractors": {
+     "plausible": [
+      "有助於完成choke",
+      "防止對手攻擊你的腿"
+     ],
+     "trap": [
+      "放開雙腿去攻擊手臂"
+     ]
+    }
+   },
+   {
+    "question": "你最初的Kimura entry失敗、對手在你鎖上figure-four之前把手臂抽走——這時有哪些連鎖攻擊可以用？",
+    "answer": "當Kimura entry失敗時，你有幾個能立即接續的選項，可以利用對手的防守反應。他抽手的動作通常會把他的體重往後拉，這會在同一側打開underhook的空間，讓你能做標準的half guard sweep或拿背後。如果他是靠夾緊手肘來抽手的，你可以改成overhook那隻手臂，威脅overhook sweep。這次失敗的Kimura嘗試，也會暫時打亂他過guard的壓力，讓你有空檔重新建立knee shield，或轉換到deep half guard。",
+    "answer_line": "underhook sweep或overhook",
+    "distractors": {
+     "plausible": [
+      "重新設置再抓一次Kimura grip",
+      "直接改攻armbar"
+     ],
+     "trap": [
+      "去追那隻正在抽回的手臂"
+     ]
+    }
+   },
+   {
+    "question": "把lockdown結合Kimura grip的entry，會如何改變攻擊的力學？",
+    "answer": "lockdown能錨住對手被困住的那條腿，逼他的髖部下沉，破壞他的posture，讓他在你攻擊手臂時無法posture up或脫身。這會創造一個更可控的entry環境：對手必須撐手來抵抗lockdown的拉力，直接暴露出你需要的那隻手臂來做Kimura。lockdown同時也阻止了knee slice pass這個反制手段，因為他的腿被固定住了，等於消除了對抗half guard Kimura entry最高成功率的防守反應。",
+    "answer_line": "lockdown逼撐手，暴露手臂",
+    "distractors": {
+     "plausible": [
+      "lockdown能加快submission",
+      "lockdown能讓你的髖部更自由"
+     ],
+     "trap": [
+      "放開lockdown去攻擊手臂"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從half guard下位察覺Kimura攻擊正在啟動時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是感覺到下位者原本抓在你背後的underhook放開，開始朝你的手腕或前臂游動，形成2對1的控制。這個從標準underhook轉為手腕控制的grip轉換，代表Kimura序列即將開始。這時你應該立刻把手臂收緊貼身，並用crossface壓力向前施壓。等到figure-four完全鎖上才防守，難度會大幅提高。",
+    "safety_critical": false,
+    "answer_line": "underhook放開，游向手腕",
+    "distractors": {
+     "plausible": [
+      "figure-four grip完全鎖上",
+      "對手髖部猛然轉開"
+     ],
+     "trap": [
+      "等旋轉開始再反應"
+     ]
+    }
+   },
+   {
+    "question": "被half guard的Kimura困住時，為什麼往自己肩膀方向向前翻滾（granby）是很危險的逃脫嘗試？",
+    "answer": "向前翻滾很危險，因為攻擊方會在你翻滾的整個過程中，維持著figure-four的Kimura grip。翻滾結束後，你會變成背部暴露，而攻擊方緊貼在你背後、Kimura依然鎖著。這會把一個「防守submission」的處境，變成「背後暴露加上submission威脅」，情況明顯更糟。攻擊方接下來可以從背後控制完成Kimura，或轉攻rear naked choke。與其翻滾，不如向後頂住攻擊方，或繞圈脫身。",
+    "safety_critical": true,
+    "answer_line": "grip仍鎖著，背後暴露",
+    "distractors": {
+     "plausible": [
+      "翻滾能重置回中立位置",
+      "翻滾能完全解除壓力"
+     ],
+     "trap": [
+      "向前翻滾逃脫grip"
+     ]
+    }
+   },
+   {
+    "question": "在Kimura序列中，防守變得極度緊迫的時間點是什麼？此時你該怎麼做？",
+    "answer": "防守變得極度緊迫的時間點，是你感覺到figure-four grip正在鎖住你手腕的那一刻。一旦鎖上、加上髖部連結與垂直角度形成，攻擊方的三重困境（submission、sweep、拿背後）就完全啟動，你每一個防守選擇都會打開不同的攻擊路線。你應該在這之前就採取行動：破解對手最初的手腕控制、把手臂收回到你的中線，並用沉重的crossface壓力把他壓平。如果figure-four已經鎖上，立刻抓住自己的大腿或腰帶來拖延旋轉，同時進行破grip。",
+    "safety_critical": false,
+    "answer_line": "在figure-four鎖上前先破手腕控制",
+    "distractors": {
+     "plausible": [
+      "等髖部連結形成再反應",
+      "等旋轉開始才反應"
+     ],
+     "trap": [
+      "保持不動，先讓grip穩定下來"
+     ]
+    }
+   },
+   {
+    "question": "如果你感覺到肩部旋轉壓力開始出現、又無法破解figure-four grip，你該怎麼做？",
+    "answer": "如果旋轉已經開始、破grip也失敗，一旦感到劇痛或感覺關節即將到達極限，就必須立刻拍降。在訓練情境下，寧可提早拍降，也不要冒著旋轉肌袖撕裂或肩關節脫臼的風險。如果在受傷之前還有一點空間，可以把身體轉向面對攻擊方（是轉向他，不是轉離他），同時把手肘用力拉向自己的髖部，這樣可能製造出瞬間的鬆動。但絕對不要嘗試硬撐過疼痛點——肩關節一旦到達旋轉極限，可能在幾分之一秒內就造成永久性損傷。",
+    "safety_critical": true,
+    "answer_line": "提早拍，不要硬抗旋轉",
+    "distractors": {
+     "plausible": [
+      "轉離對手來卸除壓力",
+      "硬撐過去逼出逃脫機會"
+     ],
+     "trap": [
+      "伸直手臂抵抗旋轉"
+     ]
+    }
+   },
+   {
+    "question": "當攻擊方利用你撐地的那隻手當作支點來完成Kimura sweep時，你要如何防守？",
+    "answer": "最好的防守是預防：絕對不要把空出的手撐在地上來抵抗旋轉。如果你有想撐地的衝動，改用那隻手去破壞攻擊方的figure-four grip，或控制他的髖部。如果你已經撐了手、感覺到sweep正在醞釀，立刻把撐地的手收回，並把髖部往地面下沉來降低base。把膝蓋張開，形成更寬的base，比較難被掃翻。這個sweep需要你的重心高、且集中在單一撐點上，所以降低重心能有效化解這個槓桿。",
+    "safety_critical": false,
+    "answer_line": "別撐手；下沉髖部、拓寬base",
+    "distractors": {
+     "plausible": [
+      "橋起並轉離對手",
+      "先把被困的腿踢開"
+     ],
+     "trap": [
+      "用力撐手阻止旋轉"
+     ]
+    }
+   },
+   {
+    "question": "察覺對手正從half guard下位嘗試Kimura時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是下位者放開他的underhook或主要frame，伸手來抓你的手臂——通常是你撐地的手，或是正在建立crossface的那隻手臂。你也可能感覺到他的內側手開始穿到你的三頭肌下方，或是他的身體角度猛烈地轉向側邊。在figure-four鎖上之前就認出這些早期動作，能給你最大的預防空間，透過收手臂或向前施壓來阻止。",
+    "answer_line": "對手放開frame去抓手臂",
+    "distractors": {
+     "plausible": [
+      "對手撐手做base",
+      "對手放平躺著"
+     ],
+     "trap": [
+      "對手撲去抓underhook"
+     ]
+    }
+   },
+   {
+    "question": "對手已經取得手腕控制，但還沒完成figure-four——此時你最好的即刻反應是什麼？",
+    "answer": "立刻把手臂往自己的髖部拉回，同時用胸口向前下方壓進對手的軀幹。手臂回收加上向前施壓的組合，會讓他幾乎不可能把內側手臂穿到你的三頭肌下方。如果無法把手臂收回，就把手肘朝自己身體內側繞，收緊三頭肌下方的空間，讓他無法穿手。速度非常關鍵，因為一旦figure-four鎖上，要抽出手臂就會呈指數級困難。",
+    "answer_line": "收手臂，胸口向下壓",
+    "distractors": {
+     "plausible": [
+      "推開對手製造空間",
+      "反過來抓對手手腕"
+     ],
+     "trap": [
+      "伸直手臂破解grip"
+     ]
+    }
+   },
+   {
+    "question": "保持良好的手臂紀律，如何能防止half guard的Kimura？",
+    "answer": "預設狀態下，讓手肘一直貼緊身體，絕不把手撐在靠近對手中線的位置，那裡最容易被抓。如果必須撐地做base，用離對手構不到的那一側的手。如果要建立crossface，讓手臂帶著手肘緊貼著壓過去，而不是伸長手臂去搆。這種紀律能徹底消除製造Kimura entry空檔的手臂暴露。",
+    "answer_line": "手肘貼緊，不伸手構",
+    "distractors": {
+     "plausible": [
+      "用靠近對手的手撐地",
+      "伸長手臂控制距離"
+     ],
+     "trap": [
+      "伸手橫越去做crossface"
+     ]
+    }
+   },
+   {
+    "question": "從half guard上位成功防守Kimura嘗試後，會出現什麼位置推進的機會？",
+    "answer": "當下位者兩隻手都投入Kimura攻擊時，他就犧牲了主要的frame與underhook控制。這會立刻打開過guard的空檔，因為他已經沒有任何防守結構能阻止你的體重壓下去。把胸口向前下壓，同時設法抽出被困的那條腿，因為他缺乏frame會讓你能完成過guard到side control。他失敗的Kimura嘗試，往往會讓他平躺在背上，失去guard retention所需的髖部角度。",
+    "answer_line": "趁對手沒有frame時過guard",
+    "distractors": {
+     "plausible": [
+      "等對手重新建立frame",
+      "改攻擊他的手臂"
+     ],
+     "trap": [
+      "後退重新調整posture"
+     ]
+    }
+   },
+   {
+    "question": "在防守Kimura grip建立時，為什麼向前施壓比後退更有效？",
+    "answer": "向前的壓力能壓平下位者的髖部角度，而這正是他穿手、完成figure-four所需要的結構基礎。當你後退或往後靠時，會創造出他加深grip、取得sweep槓桿所需要的空間。向前施壓也能固定他的肩膀，降低他側身的能力，而側身正是Kimura entry力學的關鍵。此外，你向前的體重會讓他跨身拉手臂的動作失效，因為你的體重能抵消Kimura系統的方向性力量。",
+    "answer_line": "向前施壓壓平髖部",
+    "distractors": {
+     "plausible": [
+      "後退能製造安全空間",
+      "站起來逃脫效果更好"
+     ],
+     "trap": [
+      "向後靠避開grip"
+     ]
+    }
+   },
+   {
+    "question": "對手已經完全建立Kimura grip，並開始威脅sweep——你的防守優先順序是什麼？",
+    "answer": "你的當務之急是先防止sweep，而不是先破grip，因為在Kimura grip還鎖著的情況下失去上位，處境會更加惡劣。把空出的那隻手撐得更寬，並把髖部sprawl開來降低重心，拓寬你的base。同時把胸口壓進他的軀幹，壓平他的髖部，降低他掃翻的槓桿。等你的base穩固、擋下sweep之後，再開始用可控的手肘畫圈動作，配合持續的向前壓力，慢慢破壞figure-four的結構來破grip。",
+    "answer_line": "先擋sweep，再破grip",
+    "distractors": {
+     "plausible": [
+      "立刻破解grip",
+      "坐回去破解鎖定"
+     ],
+     "trap": [
+      "翻滾逃離sweep"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

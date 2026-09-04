@@ -1,0 +1,272 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Japanese Necktie/from Front Headlock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Japanese Necktie 的主要 choke 機制是什麼？它與標準 guillotine 有何不同？",
+    "answer": "Japanese Necktie 是用對手自己被困的肩膀作為 choke 機制的一部分，透過你一側的肩膀和對手另一側的肩膀，形成雙側頸動脈壓迫。你的 choke 手臂主要用來控制頭部位置，而不是產生壓迫力本身。這與標準 guillotine 不同，guillotine 是直接靠你的手臂產生壓迫。Japanese Necktie 是靠髖部伸展與肩膀驅動來產生壓力，而非手臂力量，因此即使對付較大的對手也很有效。",
+    "safety_critical": false,
+    "answer_line": "雙側肩膀壓迫",
+    "distractors": {
+     "plausible": [
+      "只靠雙臂夾緊",
+      "只是更緊的 guillotine grip"
+     ],
+     "trap": [
+      "用前臂壓碎氣管"
+     ]
+    }
+   },
+   {
+    "question": "為什麼垂直角度對 Japanese Necktie 的有效性至關重要？角度錯誤會發生什麼事？",
+    "answer": "垂直角度（你的軀幹與對手脊椎大約成 90 度）非常關鍵，因為這樣能正確地把你的肩膀壓在他們脖子的遠側，同時他們被困的肩膀壓迫近側。如果你和對方的身體太平行，你的肩膀就無法接觸到脖子，choke 會完全失效。如果你旋轉超過垂直角度太多，就會失去槓桿，讓對方能輕易轉身面對你逃脫或取你的背。90 度角能最大化你的肩膀與對手肩膀之間的剪切作用，創造最理想的雙側頸動脈壓迫。",
+    "safety_critical": false,
+    "answer_line": "垂直角度，肩膀在遠側",
+    "distractors": {
+     "plausible": [
+      "旋轉超過 90 度更多",
+      "grip 緊度比角度重要"
+     ],
+     "trap": [
+      "在對方站起時保持平行"
+     ]
+    }
+   },
+   {
+    "question": "如果訓練夥伴在施加 Japanese Necktie 時失去意識，你必須立刻採取哪些步驟？",
+    "answer": "一發現失去抵抗力或身體變軟，立刻放開所有 grip 與 choke 壓力。從夥伴身邊翻身離開以創造空間，移除頸部所有的束縛。立刻檢查他們的意識與呼吸。抬高他們的雙腿以幫助血液回流到腦部。監控他們的呼吸，如果幾秒鐘內沒有恢復意識，要準備尋求醫療協助。絕不要搖晃他們或給予額外刺激。如果呼吸停止，立即開始 CPR 並呼叫緊急服務。",
+    "safety_critical": true,
+    "answer_line": "放手、翻開、檢查呼吸",
+    "distractors": {
+     "plausible": [
+      "扶起來給他們喝水",
+      "抬高頭而非腿"
+     ],
+     "trap": [
+      "維持 choke 以確認 tap"
+     ]
+    }
+   },
+   {
+    "question": "為什麼訓練 Japanese Necktie 時逐步施加壓力（至少 5 到 7 秒）如此重要，即使這個 choke 能更快見效？",
+    "answer": "逐步施加壓力能讓訓練夥伴有時間察覺危險、評估防守選項，並在失去意識前安全地 tap。Japanese Necktie 若爆發式施加，可能在 3 到 5 秒內就讓對手昏迷，這在訓練環境中無法提供足夠的安全 tap 時間。緩慢施加也能防止肩膀壓力突然造成的氣管損傷，並降低旋轉扭力造成的頸部拉傷風險。在訓練中，目標是技術養成與安全，而不是展示你能多快把人 choke 昏。逐步施加 submission 的夥伴能建立信任，為所有人創造更安全的訓練環境。",
+    "safety_critical": true,
+    "answer_line": "讓夥伴有時間安全 tap",
+    "distractors": {
+     "plausible": [
+      "提升完成率",
+      "防止你的 grip 滑掉"
+     ],
+     "trap": [
+      "快速鎖上以證明控制力"
+     ]
+    }
+   },
+   {
+    "question": "overhook 控制對手近側手臂的目的是什麼？如果這個手臂陷阱在施加過程中失敗會發生什麼事？",
+    "answer": "overhook 把對手的手臂困在他們自己身體上，把他們自己的肩膀變成 choke 機制的一部分。他們被困的肩膀壓迫一側頸動脈，你的肩膀壓迫另一側，形成 choke 所需的雙側壓迫。如果手臂陷阱失敗、對方抽出手臂，他們就能用那隻手撐地建立底盤、轉身面對你進入 guard，或用空出的手臂拚手來破壞你的 grip。沒有被困的手臂，你就失去了一半的 choke 機制，這個技術會退化成薄弱的 front headlock 位置，而非有效的 submission。如果陷阱失敗，應立刻轉換到 anaconda、darce 或標準 guillotine 等替代攻擊。",
+    "safety_critical": false,
+    "answer_line": "把肩膀變成第二個 choke 點",
+    "distractors": {
+     "plausible": [
+      "只是壓住他們的 posture",
+      "阻止他們翻滾回 guard"
+     ],
+     "trap": [
+      "手臂鬆脫後繼續擠壓"
+     ]
+    }
+   },
+   {
+    "question": "在 Japanese Necktie 中應該如何產生 choke 壓力？為什麼單靠手臂力量無效？",
+    "answer": "choke 壓力主要應來自髖部伸展、背部拱起與肩膀驅動，而非手臂力量。你把髖部向前上方伸展，同時拱起背部，這會把你的肩膀壓進對手脖子的一側，而他們被困的肩膀則壓迫另一側。你的手臂主要用來控制頭部位置、維持 grip 配置，而非產生擠壓力。單靠手臂力量無效，是因為你的二頭肌與前臂會很快疲勞，無法在頸動脈上產生足夠的壓力，而且會提前暴露這個 submission，給對手時間防守。運用正確的身體力學，即使對付較大、較強壯的對手也能完成 choke。",
+    "safety_critical": false,
+    "answer_line": "髖部伸展、肩膀驅動",
+    "distractors": {
+     "plausible": [
+      "彎曲手臂縮短距離",
+      "身體後仰並拉扯"
+     ],
+     "trap": [
+      "扭轉脊椎做頸部扭鎖"
+     ]
+    }
+   },
+   {
+    "question": "對手在設置過程中開始 posture 抬頭——什麼調整能防止逃脫並利用這個動作？",
+    "answer": "當對手在 Japanese Necktie 設置中抬頭 posture 時，立刻收緊環繞脖子的 grip，並趁機把你的 choke 手臂再往下巴下方深入。他們 posture 起來的位置反而讓脖子更容易接觸。急速下沉你的重量、用手臂把他們的頭往下拉，然後立刻開始旋轉到垂直角度。如果他們儘管有壓力仍持續 posture，就轉換成 standing guillotine，暫時放開手臂陷阱但維持深度的頸部控制。他們向上的動能可以被轉化為拉力，加速你的 submission 設置，而不是讓他們逃脫。",
+    "safety_critical": false,
+    "answer_line": "急速下沉重量、拉頭下沉",
+    "distractors": {
+     "plausible": [
+      "讓他們 posture，然後重置",
+      "把他們的頭往上推"
+     ],
+     "trap": [
+      "在他們起身時掛在脖子上"
+     ]
+    }
+   },
+   {
+    "question": "Japanese Necktie 攻擊哪些解剖結構？正確施加時會有什麼生理感覺？",
+    "answer": "Japanese Necktie 針對頸部兩側的頸動脈，形成雙側血液性 choke 壓迫，限制流向腦部的血流。正確施加時，對手會立刻感覺到脖子兩側的壓力，而氣管沒有明顯壓迫。感覺是脖子周圍的緊繃感，並快速伴隨頭暈與視野變窄，而非窒息或呼吸困難。如果對手回報喉嚨壓力或呼吸困難，代表 choke 位置不正確、壓迫的是氣道而非血管——應調整肩膀角度使其壓迫脖子兩側而非前方。正確施加的 Japanese Necktie 應在 3 到 8 秒內產生昏迷。",
+    "safety_critical": true,
+    "answer_line": "頸動脈：緊繃感、視野變窄",
+    "distractors": {
+     "plausible": [
+      "沿下顎的劇痛",
+      "呼吸逐漸變困難"
+     ],
+     "trap": [
+      "壓氣管直到他們喘氣"
+     ]
+    }
+   },
+   {
+    "question": "Japanese Necktie 中的「無法逃脫的臨界點」是什麼？你要如何確保能在對手防守前到達這個階段？",
+    "answer": "無法逃脫的臨界點需要同時滿足三個條件：手臂陷阱穩固、對手的肩膀被鎖在他們的脖子上，grip 配置已鎖定（無論是 gable grip、脛骨 grip 或衣領 grip），你的身體處於垂直角度，肩膀接觸脖子的遠側。一旦三個要素都到位、你開始髖部伸展，防守選項就會嚴重受限。要在對手防守之前達到這個階段，應優先建立手臂陷阱，因為這是最常被防守的要素。手臂陷阱建立後迅速執行旋轉，一到達垂直角度就立刻鎖定 grip。在轉換階段要快，在完成階段要謹慎。",
+    "safety_critical": false,
+    "answer_line": "三者齊全：陷阱、grip、角度",
+    "distractors": {
+     "plausible": [
+      "grip 鎖定就足夠",
+      "角度單獨就能鎖住"
+     ],
+     "trap": [
+      "手臂還沒被困就先伸展髖部"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手開始防守性地縮成 turtle——你要如何辨識從控制轉換到 Japanese Necktie finish 的理想時機？",
+    "answer": "理想的 finish 時機出現在對手把體重前傾撐在雙手上，試圖建立底盤來逃脫時。這種向前的重量轉移有兩個效果：手臂陷阱更容易建立，因為他們的手臂已頂在你的 overhook 上；他們的頭部位置也更低，讓你的 choke 手臂能更深入。留意他們對抗你的胸口壓力向前推進，或試圖撐一隻手的時刻——這是你爆發旋轉並鎖住 grip 的觸發點。反之，如果他們坐回腳跟做防守性蜷縮，你可能需要用胸口壓力與向前推進，先逼他們趴到手上，才能進攻 finish。",
+    "safety_critical": false,
+    "answer_line": "他們撐手、重心前傾",
+    "distractors": {
+     "plausible": [
+      "他們坐回腳跟",
+      "他們趴平肚子"
+     ],
+     "trap": [
+      "在他們站起時追 choke"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的 grip 配置無法產生 choke 壓力，你該做哪些 grip 調整？",
+    "answer": "如果頭後方的 gable grip 沒有產生壓力，先檢查你的肩膀位置——grip 可能足夠，但肩膀對位不正確。如果肩膀位置正確，可以嘗試改抓脛骨或腳踝，這會改變拉力角度，通常能產生更緊的壓迫。在有 gi 時，抓自己的衣領能提供更穩固的錨點。如果標準位置的所有 grip 變化都沒有效果，就執行 rolling variation，透過翻轉身體大幅改變壓力角度。有時問題出在髖部伸展不足而非 grip 選擇——確保在調整 grip 之前，髖部已完全伸展、背部已拱起。最後，如果對手真的過大或過於柔軟不適合標準 finish，就維持控制並轉換到 anaconda 或 darce，這些技術使用不同的力學優勢。",
+    "safety_critical": false,
+    "answer_line": "檢查肩膀，改試脛骨 grip",
+    "distractors": {
+     "plausible": [
+      "只是把 gable grip 抓更緊",
+      "同一個 grip 換手"
+     ],
+     "trap": [
+      "把頭往後拉來加壓"
+     ]
+    }
+   },
+   {
+    "question": "從防守角度來看，一旦 Japanese Necktie 被鎖住，最高機率的逃脫方式是什麼？為什麼這個防守有效？",
+    "answer": "最高機率的逃脫方式是在對手鎖住 grip 配置之前，把被困的手臂抽出來。一旦手臂脫困，他們的肩膀就無法再作為 choke 機制的一部分，整個技術就會瓦解。這個防守之所以有效，是因為它移除了兩個壓迫點中的一個（你自己的肩膀）。要執行這個逃脫，你必須在對手完成旋轉到垂直位置、鎖住雙手之前，積極把被困的手臂拉出來。用你的空手推對方的手肘或肩膀來創造空間，然後把手臂朝自己頭部方向拉出。一旦手臂脫困，立刻努力改善位置，坐回 guard 或站起來。等到對方已經鎖住 grip 後再嘗試這個逃脫會困難得多，因此及早辨識和反應非常關鍵。",
+    "safety_critical": false,
+    "answer_line": "在 grip 鎖定前抽出手臂",
+    "distractors": {
+     "plausible": [
+      "把頭直接往後拉",
+      "抓住他們的手腕撐住"
+     ],
+     "trap": [
+      "撐著等他們累"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺到 Japanese Necktie 正在被設置時，最重要的防守動作是什麼？",
+    "answer": "最重要的防守動作是在攻擊者鎖住 grip 配置之前，把你被困的手臂抽出來。Japanese Necktie 的獨特力學優勢，來自透過手臂陷阱把你自己的肩膀變成 choke 機制的一部分。抽出被困的手臂能完全消除這個優勢，把位置轉換回標準的 front headlock，這是已有完善防守流程的位置。用你的空手推攻擊者的 overhook 手肘，同時積極把被困的手臂朝你自己頭部拉出以創造空間。這必須在攻擊者完成垂直旋轉、鎖住雙手之前完成。",
+    "safety_critical": false,
+    "answer_line": "在 grip 鎖定前抽出手臂",
+    "distractors": {
+     "plausible": [
+      "縮下巴撐住",
+      "抓住他們的遠側手腕"
+     ],
+     "trap": [
+      "手臂被困也往前翻滾"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把頭直接往後拉對 Japanese Necktie 是無效的防守，這一點與其他 front headlock choke 不同？",
+    "answer": "把頭往後拉會伸展你的脖子，這反而會讓 choke 更緊，因為這會創造更多空間讓攻擊者的手臂能更深地滑到你的下巴下方，並增加下巴與胸口之間的距離。在標準的 guillotine 中，抽頭有時能成功，因為壓迫力完全來自攻擊者的手臂。但在 Japanese Necktie 中，壓迫力來自你自己被困的肩膀在一側，攻擊者的肩膀在另一側，所以伸展脖子並不能解決這兩個壓迫點。相反地，要把下巴緊鎖在胸口，並把所有防守力氣集中在抽出被困的手臂上，這才是讓這個 choke 特別危險的結構性要素。",
+    "safety_critical": false,
+    "answer_line": "伸展脖子，choke 更緊",
+    "distractors": {
+     "plausible": [
+      "和 guillotine 效果一樣",
+      "能解放被困的手臂"
+     ],
+     "trap": [
+      "用力拱背扯出頭來"
+     ]
+    }
+   },
+   {
+    "question": "在 Japanese Necktie 的設置過程中，到了哪個階段防守變得極低機率？如果到了那個階段你該怎麼做？",
+    "answer": "防守變得極低機率的時刻是三個條件都成立時：手臂陷阱已完全鞏固、你的肩膀被壓在自己的脖子上，攻擊者已達到垂直的身體角度，並且他們的 grip 配置已鎖定。一旦這些要素同時成立、攻擊者開始髖部伸展，choke 就會同時壓迫兩側頸動脈，數秒內就會失去意識。如果你到了這個階段，必須立刻 tap，而不是嘗試最後一刻的逃脫。硬撐過完全鎖住的 Japanese Necktie，有可能在你來得及 tap 之前就失去意識，這對雙方訓練夥伴都很危險。辨識這個無法回頭的臨界點是重要的安全技能。",
+    "safety_critical": true,
+    "answer_line": "一鎖住就立刻 tap",
+    "distractors": {
+     "plausible": [
+      "橋起身體用力翻滾",
+      "剝開手腕的 grip"
+     ],
+     "trap": [
+      "等 choke 鬆一點再說"
+     ]
+    }
+   },
+   {
+    "question": "轉身面對攻擊者如何幫助防守 Japanese Necktie？什麼時候這個做法很危險？",
+    "answer": "轉身面對攻擊者能破壞 Japanese Necktie 所需的垂直角度。透過旋轉面對他們，你消除了讓他們的肩膀壓在你脖子遠側的角度，並有可能把他們拉進你的 closed guard，讓這個 submission 無法完成。然而，如果 choke 已經部分鎖住或 grip 配置已固定，這個做法就很危險，因為轉身會讓你的體重壓進攻擊者的肩膀壓力中，反而可能加速 choke 而非緩解它。轉身這個防守只在早期設置階段——grip 尚未鎖定、攻擊者的肩膀尚未完全對準你脖子時——才有效。",
+    "safety_critical": true,
+    "answer_line": "破壞角度，grip 已鎖定則危險",
+    "distractors": {
+     "plausible": [
+      "剝開他們的 overhook grip",
+      "在 choke 任何階段都安全"
+     ],
+     "trap": [
+      "grip 鎖定後才轉身"
+     ]
+    }
+   },
+   {
+    "question": "當你被困在 Japanese Necktie 的早期階段時，你的空手拚手該優先做哪些事？",
+    "answer": "你的空手（沒有被困的那隻）必須依序積極處理兩個優先事項：第一，透過推攻擊者的手肘或前臂來剝開他們的 overhook，為被困的手臂創造抽出的空間。第二，如果無法立刻剝開 overhook，就用空手擋住攻擊者的遠側髖部越過你的背部，以拒絕他們所需的垂直旋轉角度。絕不要用空手去推他們的頭或胸口，因為這無法處理 choke 的任何一個關鍵要素。如果雙臂都被控制，立刻嘗試站起或坐入 guard，趁位置尚未鞏固之前行動。拚手的窗口非常短——你大約只有 2 到 3 秒的有效拚手時間，攻擊者就能鎖住他們的 grip 配置。",
+    "safety_critical": false,
+    "answer_line": "剝 overhook、擋髖部踩步",
+    "distractors": {
+     "plausible": [
+      "推他們的頭或胸口",
+      "先擋髖部踩步再管手臂"
+     ],
+     "trap": [
+      "等 grip 鎖定再防守"
+     ]
+    }
+   }
+  ]
+ }
+}

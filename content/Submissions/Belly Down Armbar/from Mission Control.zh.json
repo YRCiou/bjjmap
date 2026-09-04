@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Mission Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Mission Control 主要攻擊的是哪個解剖構造？",
+    "answer": "主要目標是肘關節，具體來說是讓它對抗髖線過度伸展，以對尺側副韌帶（ulnar collateral ligament）與關節囊造成壓力。belly down 姿勢創造出一個槓桿系統：你的髖部推動伸展對抗被鎖住的肘部，而你的膝蓋與手腕的 grip 則防止對手旋轉或抽出手臂。二次應力落在肱二頭肌肌腱上，因為它在你的體重下抵抗被迫的伸展。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩關節囊旋轉",
+      "手腕與前臂壓迫"
+     ],
+     "trap": [
+      "防守肩膀，忽略肘部"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down 收尾階段，肘部接近極限時有哪些視覺與觸覺上的指標？",
+    "answer": "當肘部接近極限時，你會感覺到手臂從肌肉抵抗突然變成骨對骨的機械性卡死。對手的身體會明顯緊繃，可能會發出痛苦或困擾的聲音，你也可能感覺到關節有微妙的鬆動或彈響感。任何一個訊號都需要立即停止施壓。如果你感覺到關節有結構性變化，不要等待口頭拍降。",
+    "safety_critical": true,
+    "answer_line": "先僵硬再突然鬆動",
+    "distractors": {
+     "plausible": [
+      "手臂逐漸放軟放鬆",
+      "握力漸漸減弱"
+     ],
+     "trap": [
+      "扭到聽見彈響聲才停"
+     ]
+    }
+   },
+   {
+    "question": "從 Mission Control 轉換到 armbar 旋轉之前，必須確認哪些控制點？",
+    "answer": "必須確認四個控制點：肩膀必須完全被隔離，overhook 穩固地穿在三頭肌下方；必須在目標手臂上建立 two-on-one 手腕控制；必須透過向被困手臂側移動髖部來建立側向角度；而 high guard 的那條腿必須仍在阻止對手恢復 posture。任何一項缺失都會增加對手在轉換過程中逃脫的風險。",
+    "safety_critical": false,
+    "answer_line": "Overhook、手腕、角度、guard 腿",
+    "distractors": {
+     "plausible": [
+      "只需要 overhook 和手腕 grip",
+      "髖部角度和頭部控制"
+     ],
+     "trap": [
+      "放下 guard 腿以便旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在 Belly Down Armbar 的流程中，對手在哪個時間點已經過了無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點發生在攻擊者完成完整的 belly down 旋轉、膝蓋夾緊、手腕釘在胸口之後。在此之前，對手可以拚 grip、拚 posture 或翻滾逃脫。一旦攻擊者完全趴平、手臂被困住、髖線位於肘部下方，槓桿優勢就會極端到幾乎無法在不冒嚴重關節損傷風險的情況下逃脫。對手應該在這個姿勢達成前或達成的當下就拍降。",
+    "safety_critical": true,
+    "answer_line": "完全 belly down，膝蓋夾緊",
+    "distractors": {
+     "plausible": [
+      "手腕 grip 一鎖定就算",
+      "髖部側移的時候"
+     ],
+     "trap": [
+      "完全趴平後繼續掙扎"
+     ]
+    }
+   },
+   {
+    "question": "對手用 Gable grip 扣緊雙手來阻止手臂被隔離——你該如何調整以繼續攻擊？",
+    "answer": "攻擊較弱的那隻手，撬開下方那隻手的手指或手腕，同時用雙腿製造分離壓力。或者，把腿位往對手頸部方向調整，威脅 triangle choke，逼他們放開 grip 來防守勒喉。一旦他們為了防守而放開自己的 grip，立刻重新隔離手臂，趁他們重新扣手之前繼續 armbar 流程。",
+    "safety_critical": false,
+    "answer_line": "撬弱手或穿 triangle",
+    "distractors": {
+     "plausible": [
+      "直接向後拉手腕",
+      "等他們的 grip 力竭"
+     ],
+     "trap": [
+      "硬用 grip 強行旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down 旋轉過程中，應該做哪些 grip 調整以防止手臂滑脫？",
+    "answer": "在旋轉過程中，從 two-on-one 手腕控制轉換為 figure-four grip 或 monkey grip，雙手夾緊手腕貼胸骨。把手腕拉緊貼身，而不是伸長手臂抓著。你的前臂應該互相貼緊，把對手的手腕夾在中間並抵住你的胸口。這種配置在動態旋轉階段遠比指尖式抓握更穩固。",
+    "safety_critical": false,
+    "answer_line": "Figure-four grip 貼胸骨",
+    "distractors": {
+     "plausible": [
+      "維持伸長的 two-on-one",
+      "改用指尖抓握"
+     ],
+     "trap": [
+      "放開手腕去抓衣領"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 belly down 姿勢下伸展壓力必須緩慢施加，而不是快速一扭？",
+    "answer": "belly down 姿勢創造出極端的槓桿優勢，你的整個體重透過髖部伸展驅動對抗被鎖住的肘部。即使是很小的髖部拱起，也會在關節上產生巨大力量。快速一扭可能讓肘部在對手來得及處理疼痛並拍降之前，就超過其結構極限。緩慢漸進的壓力給對手時間去意識到 submission 已鎖定並安全拍降，避免可能終結訓練生涯的韌帶撕裂與骨折。",
+    "safety_critical": true,
+    "answer_line": "傷害快過他們能拍降的速度",
+    "distractors": {
+     "plausible": [
+      "慢速在裁判面前比較好看",
+      "速度只是鬆動他們的 grip"
+     ],
+     "trap": [
+      "用速度突破他們的防守"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，面對拒絕早拍的對手，該如何調整 Belly Down Armbar from Mission Control 的收尾方式？",
+    "answer": "在比賽中，維持穩定漸進的壓力並相信力學原理。不論比賽壓力有多大，都不要突刺或猛扭手臂。如果對手明顯處於已鎖定的 belly down 姿勢卻不拍降，繼續平順地伸展，同時注意裁判是否給出口頭或視覺上的 submission 判定。belly down 姿勢的力學優勢極為壓倒性，耐心永遠會勝出。為了搶時間而急於收尾，會有讓對手受傷甚至因危險行為被取消資格的風險。",
+    "safety_critical": true,
+    "answer_line": "穩定施壓，相信力學",
+    "distractors": {
+     "plausible": [
+      "放棄並重設控制",
+      "改用 wrist lock 收尾"
+     ],
+     "trap": [
+      "突刺手臂逼對手拍降"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Mission Control 開始，最早能辨識出 Belly Down Armbar 正在被設置的線索是什麼？",
+    "answer": "第一個線索是攻擊者放開頭部控制，改用雙手抓你的手腕或前臂——這個 grip 轉換就是手臂隔離的設置動作。第二個線索是感覺到攻擊者的髖部朝你被困手臂那側側移，製造出腿部擺動所需的角度。第三個線索是 high guard 那條腿的壓力離開你的肩膀，代表他們準備把腿擺過你的臉。辨識出第一個線索能給你最大的防守空間。",
+    "safety_critical": false,
+    "answer_line": "頭控換成抓手腕",
+    "distractors": {
+     "plausible": [
+      "對手把背拱平",
+      "他們的衣領 grip 收緊"
+     ],
+     "trap": [
+      "等腿跨過你的臉再反應"
+     ]
+    }
+   },
+   {
+    "question": "從 Mission Control 面對 Belly Down Armbar，最安全、最恰當的拍降時機是什麼？",
+    "answer": "當攻擊者完成 belly down 旋轉、你的手腕被控制、他們的膝蓋夾緊時，立刻拍降。不要等到感覺肘部疼痛或壓力。belly down 姿勢的槓桿優勢極端，等到你感覺到明顯壓力時，關節可能已經超出安全活動範圍。用任何可用的拍降訊號：拍手、口頭拍降、或用腳拍地。如果你的雙手被困住，就大聲清楚地口頭拍降。",
+    "safety_critical": true,
+    "answer_line": "belly down 旋轉一結束就拍",
+    "distractors": {
+     "plausible": [
+      "肘部劇痛開始時",
+      "只有在逃脫失敗後"
+     ],
+     "trap": [
+      "等看看壓力會不會停"
+     ]
+    }
+   },
+   {
+    "question": "在 Belly Down Armbar 流程的各個階段，分別有哪些防守選項？",
+    "answer": "在手臂隔離階段：扣緊雙手拚 grip，或積極 posture 完全脫離 Mission Control。在腿部擺動階段：轉身面向攻擊者，阻止他們的腿越過你的頭部。在 belly down 旋轉初期：嘗試在姿勢鞏固之前翻滾脫困。一旦完全 belly down 且手腕被控制：立刻拍降。後續每個階段可用的防守選項都會越來越少、成功率越來越低。",
+    "safety_critical": false,
+    "answer_line": "早期拚 grip，趴平後就拍",
+    "distractors": {
+     "plausible": [
+      "只在旋轉後嘗試翻滾",
+      "藏臉等待狀況過去"
+     ],
+     "trap": [
+      "趴平後硬把手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從頭部控制轉換到手腕控制是最重要的防守窗口？",
+    "answer": "當攻擊者放開頭部控制去抓你的手腕時，Mission Control 的結構正處於最脆弱的時刻。沒有頭部控制往下拉住你的 posture，你就有一個短暫的窗口可以把 posture 拱起，甚至可能完全脫離 high guard。這是唯一能夠攻擊 submission 威脅根源——也就是 Mission Control 位置本身——而不是防守 armbar 症狀的階段。這個時間點之後的每一次防守都會越來越困難。",
+    "safety_critical": false,
+    "answer_line": "posture up——脫離 high guard",
+    "distractors": {
+     "plausible": [
+      "拚 grip 阻止抓手腕",
+      "把手肘收緊靠肋骨"
+     ],
+     "trap": [
+      "把被困手臂硬拉出來"
+     ]
+    }
+   },
+   {
+    "question": "嘗試從已完全鞏固的 Belly Down Armbar 姿勢中掙脫，有什麼風險？",
+    "answer": "已完全鞏固的 belly down armbar，加上膝蓋夾緊與手腕控制，會產生壓倒性的槓桿優勢，即使是很小的髖部動作，也可能讓尺側副韌帶斷裂、關節囊撕裂或肱骨遠端骨折。belly down 的方向消除了 hitchhiker escape，攻擊者的體重也把整個槓桿系統固定住。試圖硬掙脫這個位置，會顯著提高受傷的速度與嚴重程度，遠比拍降重來還糟。",
+    "safety_critical": true,
+    "answer_line": "小動作就會撕裂韌帶",
+    "distractors": {
+     "plausible": [
+      "主要風險是手腕扭傷",
+      "趴平後風險反而降低"
+     ],
+     "trap": [
+      "用力 bridge 硬掙脫"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Reverse Scarf Hold 主要攻擊哪個解剖構造？",
+    "answer": "Americana 主要透過強迫肩膀外旋超出自然活動範圍來進行攻擊。旋轉應力鎖定旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）與肩關節囊韌帶。次要的壓力則作用在肩鎖關節與肱二頭肌肌腱上。figure-four grip 建立起一套槓桿系統，手肘是支點，手腕畫弧產生旋轉力。",
+    "safety_critical": false,
+    "answer_line": "透過外旋攻擊肩關節",
+    "distractors": {
+     "plausible": [
+      "手肘過度伸展",
+      "grip 下的手腕屈曲"
+     ],
+     "trap": [
+      "扭脖子加快逼出tap"
+     ]
+    }
+   },
+   {
+    "question": "在 Americana 過程中，有哪些身體上的跡象顯示肩膀正接近極限？",
+    "answer": "關鍵跡象包括：肩膀到達活動範圍終點時，防守者身體明顯緊繃；出現不自主的聲音或急促的呼吸變化，顯示疼痛反應；手腕畫弧的動作出現明顯抵抗，代表繼續旋轉會碰到堅硬的解剖結構限制；以及當關節達到最大外旋時，防守者的肩膀開始離地。訓練中，你必須在這些跡象出現之前就先停下來，依靠夥伴的tap 訊號。",
+    "safety_critical": true,
+    "answer_line": "肩膀開始離地",
+    "distractors": {
+     "plausible": [
+      "他的grip 突然放鬆",
+      "他的雙腿完全靜止不動"
+     ],
+     "trap": [
+      "繼續施力直到聽到「啪」一聲"
+     ]
+    }
+   },
+   {
+    "question": "在投入完成動作之前，必須先建立哪些grip 與位置控制？",
+    "answer": "完成之前，你需要確保四個要素：用髖部到胸部的重壓維持固定；用你的grip 把近側手腕壓在地上；figure-four 穿過上臂，前臂接觸點就在手肘摺痕上方；以及遠側手臂要不是被你的體重困住、就是被框架化到無法出力。缺少任何一個要素，submission 嘗試都有可能完全失去位置。",
+    "safety_critical": false,
+    "answer_line": "固定手腕、鎖死figure-4、困住手臂",
+    "distractors": {
+     "plausible": [
+      "光靠胸部壓力就夠了",
+      "沒控制手腕的 figure-4"
+     ],
+     "trap": [
+      "放開遠側手臂去扣 figure-4"
+     ]
+    }
+   },
+   {
+    "question": "從 Reverse Scarf Hold 完成 Americana 時，到了哪個時間點防守者就再也無法逃脫？",
+    "answer": "無法逃脫的臨界點出現在 figure-four grip 完全鎖死、手肘緊貼防守者身體，且手腕已經開始沿著地面朝身體外側畫弧的時候。一旦肩膀在 figure-four 鎖定且胸部壓力維持的狀態下外旋超過大約四十五度，防守者就無法產生足夠力量逆轉grip 或製造足夠空間抽出手臂。在這個時間點之前，把手臂伸直或爆發性地bridge 仍然有機會打亂這個submission。",
+    "safety_critical": false,
+    "answer_line": "figure-4 鎖死，旋轉開始",
+    "distractors": {
+     "plausible": [
+      "手腕第一次碰到地面時",
+      "grip 一穿好就已經如此"
+     ],
+     "trap": [
+      "絕對不會——要一直反抗到底"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試 Americana 時對手開始把被困的手臂伸直——什麼樣的調整能防止他逃脫？",
+    "answer": "對手把手臂伸直時，立刻從 americana grip 轉換成 kimura grip，維持你的 figure-four 但反轉旋轉方向。伸直的手臂其實比彎曲的手臂更容易受到 kimura 攻擊，遠比彎曲手臂容易被 americana 攻擊來得脆弱。另一個做法是，如果他用力伸展手臂，就順著這股動能跨過他的手臂進入 armbar 位置。絕對不要硬碰硬地想把伸直的手臂扳回彎曲，這樣既浪費力氣又會洩露你的意圖。",
+    "safety_critical": false,
+    "answer_line": "切換為 kimura grip",
+    "distractors": {
+     "plausible": [
+      "把 figure-four 夾得更緊",
+      "放手重新設置位置"
+     ],
+     "trap": [
+      "用蠻力把手臂扳回彎曲"
+     ]
+    }
+   },
+   {
+    "question": "如果一開始的 figure-four grip 感覺鬆散或沒有效果，你應該如何調整？",
+    "answer": "如果grip 感覺鬆散，把你的手肘往自己身體中線的方向收緊，消除 figure-four 中的鬆動空間。確保你抓握的前臂位置就在手肘摺痕正上方，而不是前臂中段。夾緊手肘的同時維持手腕壓在地面上的接觸。必要的話，短暫放開並用更好的位置重新穿好grip，而不是硬撐一個位置不佳的 figure-four，因為那樣既浪費力氣又會提醒防守者。",
+    "safety_critical": false,
+    "answer_line": "收緊手肘，重新調整前臂",
+    "distractors": {
+     "plausible": [
+      "只靠手腕扣得更緊",
+      "加上體重往下壓"
+     ],
+     "trap": [
+      "硬撐著這個鬆散的grip"
+     ]
+    }
+   },
+   {
+    "question": "訓練中從 Reverse Scarf Hold 完成 Americana 時，關鍵的安全守則是什麼？",
+    "answer": "旋轉壓力至少要花三到五秒緩慢施加，絕對不要猛然發力或突然加速。drill 時最多只使用 10% 到 20% 的壓力。一收到任何tap 訊號——包括口頭、用手tap、用腳tap 或表示痛苦的叫聲——就要立刻放開。放開之後，小心地把手臂放回中立位置，而不是直接放手讓它掉下去。絕對不要在同一次訓練中對同一個肩膀重複施作submission。在配合式drill 中，只要出現任何不適的跡象就要停下，不必等到正式的tap。",
+    "safety_critical": true,
+    "answer_line": "緩慢施力，一tap 就放開",
+    "distractors": {
+     "plausible": [
+      "只等口頭訊號",
+      "完成後讓手臂自然落下"
+     ],
+     "trap": [
+      "快速一扯以節省時間"
+     ]
+    }
+   },
+   {
+    "question": "在比賽對手與訓練夥伴之間，你完成動作的策略要如何調整？",
+    "answer": "在比賽中，一旦grip 鎖死，你會更果斷地施加漸進壓力，全力投入完成動作，同時準備好一旦對手防守就立刻轉換攻擊。在訓練中，你會刻意把壓力控制在 10% 到 20%，給夥伴明確的空間去tap，並且一感覺到submission 已經鎖定就放開，而不是完成整個畫弧動作。機械上的設置完全相同，但比賽時可以全力投入完成動作，訓練時則需要時時留意夥伴的安全與舒適程度。",
+    "answer_line": "比賽全力施展，訓練放慢節制",
+    "distractors": {
+     "plausible": [
+      "兩種情境施力相同",
+      "比賽時也要放輕力道"
+     ],
+     "trap": [
+      "每次訓練對練都用全力"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在從 Reverse Scarf Hold 設置 Americana？",
+    "answer": "最主要的辨識訊號，是攻擊者放開他遠側的控制，改伸手去抓你近側的手腕，同時維持胸部壓力。你會感覺到他試圖把你的手腕往你髖部附近的地面壓。從位置控制轉換到submission 嘗試的過程中，會有一個短暫的瞬間，他的base 會出現變化，這既是警訊，也是你最好的逃脫時機。",
+    "safety_critical": false,
+    "answer_line": "放開遠側控制、抓手腕",
+    "distractors": {
+     "plausible": [
+      "胸部壓力增加，grip 沒變",
+      "攻擊者轉身面向你的腿"
+     ],
+     "trap": [
+      "不用理會，抓手腕很安全"
+     ]
+    }
+   },
+   {
+    "question": "被 Reverse Scarf Hold 的 Americana 困住時，最安全的tap 方式是什麼？",
+    "answer": "一感覺到旋轉壓力逼近你肩膀舒適的活動範圍，就要立刻tap。用你的自由手在攻擊者身上或地面上清楚tap 至少兩次。如果你的自由手被困住，改用腳在地面tap，或大聲喊出「tap」。絕對不要嘗試硬撐已經鎖死的 americana，因為這個submission 造成的肩傷可能終結你的訓練生涯，並需要花上數個月才能恢復。",
+    "safety_critical": true,
+    "answer_line": "用手或腳tap，或大聲喊",
+    "distractors": {
+     "plausible": [
+      "等裁判喊停",
+      "先試著硬拚脫身"
+     ],
+     "trap": [
+      "硬撐著，它會過去的"
+     ]
+    }
+   },
+   {
+    "question": "面對 Reverse Scarf Hold 的 Americana，有哪些防守選項可用？",
+    "answer": "最主要的防守方式是預防，讓你近側的手肘緊貼肋骨，手則保持在對側肩膀附近。如果攻擊者抓住你的手腕，在 figure-four 鎖死之前用力把手臂伸直。如果 figure-four 正在穿設，抓住自己的腰帶或短褲製造一個固定點。如果grip 已經完全鎖死，趁壓力轉換的瞬間朝攻擊者頭部方向bridge，並做hip escape 回復guard。",
+    "safety_critical": false,
+    "answer_line": "手肘貼緊，抓自己腰帶",
+    "distractors": {
+     "plausible": [
+      "用自由手推他的臉",
+      "翻滾離開攻擊者"
+     ],
+     "trap": [
+      "放手試著坐起來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼及早預防比晚期逃脫對這個submission 更重要？",
+    "answer": "一旦 figure-four grip 完全鎖死、攻擊者手肘夾緊且維持胸部壓力，機械優勢就會壓倒性地站在攻擊者那一邊。要在 reverse scarf hold 壓力下扳開已經鎖死的 figure-four，需要爆發性的力量，而這種力量在你呼吸已經受限的情況下很少能發揮出來。在 figure-four 成形之前、還處於手腕控制階段就開始防守，所需要的力氣少得多，成功率也高得多。",
+    "safety_critical": false,
+    "answer_line": "鎖死的grip 幾乎無法掙脫",
+    "distractors": {
+     "plausible": [
+      "強力bridge 在後期也能破解",
+      "肩膀疼痛是慢慢累積的"
+     ],
+     "trap": [
+      "先保留體力，之後再逃"
+     ]
+    }
+   },
+   {
+    "question": "如果你在來得及tap 之前就感覺到肩膀劇痛，你該怎麼做？",
+    "answer": "立刻喊出「tap」或任何表示危急的訊號。同時用任何可用的肢體tap，包括腳在內。你的訓練夥伴應該把任何的叫喊聲都視為tap 訊號。放開之後，不要立刻恢復訓練。評估肩膀的活動範圍是否受限，或是否有持續的疼痛。如果疼痛持續超過幾分鐘，或活動範圍明顯減少，在回到訓練之前應該先就醫檢查。",
+    "safety_critical": true,
+    "answer_line": "立刻大喊「tap」",
+    "distractors": {
+     "plausible": [
+      "放開後直接恢復對練",
+      "先檢查肩膀再反應"
+     ],
+     "trap": [
+      "趁還沒完全鎖死前硬拚脫身"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Americana/from Reverse Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

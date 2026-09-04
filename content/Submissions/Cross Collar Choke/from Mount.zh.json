@@ -1,0 +1,242 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Cross Collar Choke from Mount主要鎖定哪些解剖構造來造成submission？",
+        "answer": "Cross Collar Choke鎖定頸部兩側的頸動脈。兩隻抓grip手臂的前臂骨頭會雙側壓迫這些動脈，限制流向大腦的血流。正確施展時會在4-8秒內造成失去意識，不同於以氣管為目標的choke，那類choke限制呼吸而需要更久才會生效。",
+        "safety_critical": true,
+        "answer_line": "兩側頸動脈",
+        "distractors": {
+          "plausible": [
+            "氣管與呼吸道",
+            "只壓兩側頸靜脈"
+          ],
+          "trap": [
+            "頸椎過度伸展"
+          ]
+        }
+      },
+      {
+        "question": "對手開始用雙手剝離你第一個collar grip，這會製造什麼立即的攻擊機會？",
+        "answer": "當對方用雙手剝離你的collar grip時，他們的雙臂都被佔用在軀幹上方、遠離身體。這立刻創造Americana或Kimura的機會，攻擊任一隻手臂，因為對方無法一邊握著你的手腕一邊防守肩關節鎖。此外，對方抬高的手肘也會留出空間，讓你有機會推進到high mount，那裡的collar更容易取得。",
+        "safety_critical": false,
+        "answer_line": "任一手臂的Americana或Kimura",
+        "distractors": {
+          "plausible": [
+            "重新插入同一個collar grip",
+            "等對方雙手歸位"
+          ],
+          "trap": [
+            "放棄mount去追手臂"
+          ]
+        }
+      },
+      {
+        "question": "如何在施展時分辨有效的頸動脈壓迫與危險的氣管壓碎？",
+        "answer": "頸動脈壓迫鎖定頸部兩側，那裡動脈位置較淺，會產生壓力感和頭暈感，而不是疼痛或呼吸困難。氣管壓碎則鎖定喉嚨正前方，會造成咳嗽、作嘔和劇痛。手腕骨應該側向放在頸部中段高度。如果夥伴回報喉嚨疼痛或咳嗽，代表你的手部位置太靠中間，需要往頸部側邊調整。",
+        "safety_critical": true,
+        "answer_line": "手腕骨壓在頸部側邊",
+        "distractors": {
+          "plausible": [
+            "問對方是否感到頭暈",
+            "靠他們tap的速度判斷"
+          ],
+          "trap": [
+            "把前臂對準氣管中間"
+          ]
+        }
+      },
+      {
+        "question": "為什麼第一個collar grip必須深入頸後，才能嘗試插入第二個grip？",
+        "answer": "淺的第一個grip會讓前臂壓在氣管而非頸動脈上，只會造成疼痛而沒有有效的血流限制。深入插入能讓手腕骨直接壓在動脈上，確保第二個grip完成X形之後，雙側壓迫能立即生效。此外，淺的第一個grip較容易被對方剝離，浪費你的鋪陳並危及mount的穩定。",
+        "safety_critical": false,
+        "answer_line": "手腕骨要壓到動脈上",
+        "distractors": {
+          "plausible": [
+            "主要是防止grip被剝離",
+            "主要是保護你的posture"
+          ],
+          "trap": [
+            "扭喉嚨求快速tap"
+          ]
+        }
+      },
+      {
+        "question": "對手收緊下巴、雙手交扣護在頭後方以阻擋collar，你要怎麼調整才能持續攻擊？",
+        "answer": "用前臂施加cross face壓力轉動對方的頭部，露出一側的collar，或轉換成Ezekiel Choke，用道服袖口作為choke的接觸面，因為這個攻擊不需要collar。你也可以把手指楔入對方交扣的雙手與collar之間，把第一個grip插進去，利用對方收緊的下巴當作固定點，同時用手腕把collar撬開。",
+        "safety_critical": false,
+        "answer_line": "cross face轉頭，或改Ezekiel",
+        "distractors": {
+          "plausible": [
+            "一次把雙手都撬開",
+            "等對方先動再反應"
+          ],
+          "trap": [
+            "直接把頭往後扯"
+          ]
+        }
+      },
+      {
+        "question": "雙grip已呈X形建立完成後，正確的收尾力學是什麼？",
+        "answer": "把雙手手肘往地板方向下拉並互相拉開，同時胸口的重量往前壓在對方臉上。這會產生一個剪切動作，讓每隻前臂各壓迫一側頸動脈。力量來自身體重量透過前臂傳導，而不是手臂的擠壓力量。額頭應該貼近地面、靠在對方頭側，以最大化重量傳導進choke。",
+        "safety_critical": false,
+        "answer_line": "手肘下壓外開，胸口壓進去",
+        "distractors": {
+          "plausible": [
+            "用力把前臂夾緊",
+            "把對方頭往上拉"
+          ],
+          "trap": [
+            "抬起髖部加槓桿"
+          ]
+        }
+      },
+      {
+        "question": "Cross Collar Choke from Mount如何與armbar形成submission兩難？",
+        "answer": "當對方為了防守collar grip而把手抬到頸部附近，手肘會外翻遠離軀幹，留出armbar插入的空間。當對方把手肘收緊以防止手臂被孤立時，collar就會維持外露、可供choke的grip插入。這形成一個無解的二選一，防守一種攻擊就會暴露另一種，逼得下位者的防守選項越來越差，直到其中一個submission突破為止。",
+        "safety_critical": false,
+        "answer_line": "防一個，就暴露另一個",
+        "distractors": {
+          "plausible": [
+            "choke永遠比armbar強",
+            "只在手臂伸直時才成立"
+          ],
+          "trap": [
+            "放棄mount硬逼armbar"
+          ]
+        }
+      },
+      {
+        "question": "訓練夥伴在Cross Collar Choke施展中突然停止動作，你有哪些關鍵的安全處置？",
+        "answer": "立刻放開所有grip並脫離該position。停止動作的夥伴可能已經因頸動脈壓迫而失去意識。讓他側躺成復甦姿勢，觀察呼吸，並立刻通知教練。不要搖晃或用力嘗試喚醒他。blood choke可能在數秒內造成失去意識，因此任何突然的抵抗消失都必須視為可能失去意識，需要立即進行醫療評估。",
+        "safety_critical": true,
+        "answer_line": "放開grip，擺復甦姿勢，通報",
+        "distractors": {
+          "plausible": [
+            "放鬆grip再等一下",
+            "輕輕搖他確認狀況"
+          ],
+          "trap": [
+            "維持grip鎖住，叫教練來"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在grip插入階段維持沉重的髖部如此關鍵？",
+        "answer": "每一次grip插入都需要伸手，暫時削弱你的base，為對方留出bridge或hip escape的空檔。沉重的髖部能靠重力壓制對方軀幹來抵銷這種不穩定，讓對方的逃脫嘗試即使在你雙手忙於collar work時也難以奏效。抬高髖部去搆更深的grip，是在Cross Collar Choke鋪陳過程中最常見的失去mount的原因。",
+        "safety_critical": false,
+        "answer_line": "體重壓住髖部，同時伸手",
+        "distractors": {
+          "plausible": [
+            "沉重髖部能加快grip",
+            "只在雙grip都設好後才重要"
+          ],
+          "trap": [
+            "抬起髖部才能搆得更深"
+          ]
+        }
+      },
+      {
+        "question": "如果choke感覺已經很緊但對方過了幾秒還沒tap，你該做什麼grip調整？",
+        "answer": "如果壓力感覺很緊卻沒有tap，很可能是grip壓在氣管而非頸動脈上。不用放開position，稍微轉動手腕，把前臂骨頭側向調整到頸部兩側。確認X形是位在頸部中段高度，而不是壓在下巴或喉嚨上。訓練中如果重新調整後幾秒內仍沒有tap，應該放開重來，而不是對位置不對的choke硬加力道。",
+        "safety_critical": true,
+        "answer_line": "轉動手腕移到頸部側邊",
+        "distractors": {
+          "plausible": [
+            "不調整、直接加大力道",
+            "放開一個grip再重新餵入"
+          ],
+          "trap": [
+            "坐直身體去扭緊choke"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "防守Cross Collar Choke from Mount最關鍵的機會窗口是什麼時候？",
+        "answer": "最關鍵的窗口是對方插入第一個collar grip、第二隻手還沒建立的時候。這個階段用two-on-one剝離grip非常有效，因為只需要移除一隻手，而且對方的base也因為伸手而變弱。一旦雙grip形成X形，防守會呈指數級變難，因為雙側壓迫會立刻開始。",
+        "safety_critical": false,
+        "answer_line": "及早剝離第一個grip",
+        "distractors": {
+          "plausible": [
+            "等X形鎖死再說",
+            "感覺到壓力才防守"
+          ],
+          "trap": [
+            "伸直手臂拉開距離"
+          ]
+        }
+      },
+      {
+        "question": "訓練中什麼時候應該對Cross Collar Choke from Mount tap？",
+        "answer": "當你感覺到頸部兩側都出現壓力、且兩個grip都無法剝離時，要立刻tap。blood choke可能在4-8秒內造成失去意識，一旦choke完全鎖死，幾乎沒有臨時逃脫的餘地。訓練中及早tap能保護你的安全，也讓你有機會重來，練習更早期、更有效的防守窗口。",
+        "safety_critical": true,
+        "answer_line": "頸部兩側都受壓就tap",
+        "distractors": {
+          "plausible": [
+            "等到明顯頭暈",
+            "只有脖子痛才tap"
+          ],
+          "trap": [
+            "撐到視野變黑再說"
+          ]
+        }
+      },
+      {
+        "question": "為什麼伸直手臂去推開對方，對Cross Collar Choke來說是危險的防守反應？",
+        "answer": "伸直的手臂會立刻在mount之下留出armbar和Americana的機會。對方可以放棄choke嘗試，轉去攻擊你伸展的四肢，這可能比原本的choke更難防守。這會讓危險加倍，給攻擊者第二個高機率的submission選項。正確的防守是用two-on-one grip控制，手肘保持貼緊身體。",
+        "safety_critical": false,
+        "answer_line": "伸直手臂招來armbar",
+        "distractors": {
+          "plausible": [
+            "也會鬆掉你的base",
+            "只對高手才有效"
+          ],
+          "trap": [
+            "這是拉開距離最快的方法"
+          ]
+        }
+      },
+      {
+        "question": "如何利用bridge的時機來逃脫從Mount設置的Cross Collar Choke？",
+        "answer": "把你的bridge時機安排在對方伸手去搆第二個collar grip的時候，因為此時對方為了穿手需要前傾重心，base暫時較弱。伸手動作會提高對方重心並移開一隻撐地的手，讓你的bridge明顯更有效。把bridge搭配壓制對方同側撐地的手臂，徹底消除他的base。",
+        "safety_critical": false,
+        "answer_line": "在第二隻手伸來時bridge",
+        "distractors": {
+          "plausible": [
+            "第一個grip一到就bridge",
+            "全程持續不斷bridge"
+          ],
+          "trap": [
+            "等choke鎖死才bridge"
+          ]
+        }
+      },
+      {
+        "question": "從Mount設置Cross Collar Choke時，有哪些視覺與觸覺上的辨識線索？",
+        "answer": "視覺線索包括對方跨身伸手朝你遠側的collar、胸口向前壓低、以及第二隻手穿過第一隻手臂下方。觸覺線索包括感覺到手指插入你頸後的collar內側、手腕骨壓在你頸部側邊，以及抓grip那隻手臂前臂帶來的cross face壓力逐漸增加。及早辨識這些跡象，能讓你在grip階段就防守，而不是等到收尾階段才反應。",
+        "safety_critical": false,
+        "answer_line": "手指插入你頸後的collar",
+        "distractors": {
+          "plausible": [
+            "抓你近側的collar",
+            "第二隻手抓你的袖口"
+          ],
+          "trap": [
+            "只有單一grip沒什麼危險"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Submissions/Cross Collar Choke/from Mount.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

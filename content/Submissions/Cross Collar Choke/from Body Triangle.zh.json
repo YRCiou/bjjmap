@@ -1,0 +1,241 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Cross Collar Choke/from Body Triangle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Cross Collar Choke from Body Triangle 目標鎖定哪個解剖結構？",
+    "answer": "Cross Collar Choke 鎖定頸部兩側的頸動脈。交叉的手腕會產生剪刀式的動作，雙側同時壓迫頸動脈，阻斷通往腦部的血流。這是血液型勒頸（blood choke），不是氣管型勒頸，正確施作時幾秒內就能讓對手失去意識。",
+    "answer_line": "雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "只有單側頸動脈",
+      "迷走神經壓力點"
+     ],
+     "trap": [
+      "氣管正中央"
+     ]
+    }
+   },
+   {
+    "question": "對手在你抓到第二把 grip 之前，就用力破壞你第一把 collar grip——要怎麼調整才能終止這個循環？",
+    "answer": "當對手的手離開你的手腕來破你的 collar grip 時，立刻改攻 Rear Naked Choke。這會製造一個兩難：防守 collar 會暴露脖子給 RNC，防守 RNC 又會暴露 collar。在這兩個攻擊之間交替，讓對手每一次防守選擇都會打開另一條 submission 路線。",
+    "answer_line": "grip 被破時改威脅 RNC",
+    "distractors": {
+     "plausible": [
+      "重新抓同一個 collar grip",
+      "改攻 Bow and Arrow Choke"
+     ],
+     "trap": [
+      "解開 triangle 重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在 Cross Collar Choke 的終結階段，body triangle 的夾緊扮演什麼角色？",
+    "answer": "Body triangle 的夾緊會限制對手的橫膈膜、壓迫肋廓，造成呼吸困難，並與血液型勒頸互相疊加。這種雙重壓力迫使對手同時應付兩個威脅，通常能加速他 tap。在勒頸過程中維持或加強夾緊，能讓對手無法從容地防守。",
+    "answer_line": "疊加壓力，分散注意力",
+    "distractors": {
+     "plausible": [
+      "只是防止對手 bridge",
+      "主要是給腿部休息用的固定"
+     ],
+     "trap": [
+      "鬆開 hook 去追更深的 grip"
+     ]
+    }
+   },
+   {
+    "question": "哪些跡象能告訴你這個勒頸正確地作用在頸動脈，而不是氣管上？",
+    "answer": "正確施作的血液型勒頸會讓對手感覺脖子兩側被緊緊束住，而且對手可能在幾秒內出現臉色變化。如果對手在咳嗽、作嘔，或壓力集中在喉嚨前方，代表勒頸誤壓在氣管上。手腕位置抵在頸部兩側、手肘往髖部方向回拉，這些都代表正確鎖定了動脈。",
+    "answer_line": "脖子兩側緊束，不會作嘔",
+    "distractors": {
+     "plausible": [
+      "咳嗽代表正在起作用",
+      "臉色變化不可靠"
+     ],
+     "trap": [
+      "加大力道橫壓喉嚨"
+     ]
+    }
+   },
+   {
+    "question": "夥伴 tap 之後，該如何解除 Cross Collar Choke from Body Triangle？",
+    "answer": "一收到 tap 訊號就立刻放開兩隻手的 collar grip。接著解開 figure-four 腿部構型，打開 body triangle。讓夥伴有空間恢復呼吸與血液循環。確認他的意識清醒、完全恢復後才能繼續訓練。絕對不要在 tap 之後還保留任何壓力，因為血液型勒頸在有效施作後幾秒內就可能造成失去意識。",
+    "answer_line": "放開 grip、解開 triangle、確認狀況",
+    "distractors": {
+     "plausible": [
+      "先解開 triangle 再放開 grip",
+      "先慢慢放鬆壓力"
+     ],
+     "trap": [
+      "多撐一下確認對方真的 tap"
+     ]
+    }
+   },
+   {
+    "question": "哪種收尾方式的勒頸力道更強——把雙手擠在一起，還是把手肘往髖部拉？",
+    "answer": "把手肘往髖部方向拉、同時把胸口向前擴張，能產生更強、更持久的收尾效果。這運用了背部大肌群以及胸口擴張的槓桿優勢，而不是靠前臂和握力。把雙手擠在一起很快就會疲勞，而且常常變成壓迫氣管，而不是乾淨地壓迫動脈。",
+    "answer_line": "手肘拉向髖部、擴胸收尾",
+    "distractors": {
+     "plausible": [
+      "更用力把雙手擠在一起",
+      "手肘直直往上往後帶"
+     ],
+     "trap": [
+      "坐起身用蠻力收尾"
+     ]
+    }
+   },
+   {
+    "question": "對手深深收緊下巴以阻擋 collar 入手——什麼策略可以打開 collar 讓你插入 grip？",
+    "answer": "加強 body triangle 的夾緊，迫使對手必須處理呼吸問題，這會讓他反射性抬頭、鬆開收緊的下巴。另外也可以用一隻手做 cross face 或下顎壓力製造空間給抓 collar 的手。你也可以改從下巴下方而不是肩膀上方餵入 collar grip，讓手指沿著下顎線滑進 collar。",
+    "answer_line": "夾緊 triangle，加下顎壓力",
+    "distractors": {
+     "plausible": [
+      "等收緊的下巴累了自然鬆開",
+      "用雙手撬開下巴"
+     ],
+     "trap": [
+      "鬆開 triangle 重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在訓練中全速施作這個勒頸很危險？正確的施作速度是什麼？",
+    "answer": "正確施作在雙側頸動脈時，血液型勒頸最快只要 3-4 秒就能讓人失去意識。全力以競賽速度施作時，訓練夥伴可能沒有足夠時間察覺勒頸已經鎖死，來不及在失去意識前 tap。正確的訓練施作速度至少要 3-5 秒，並漸進加壓，讓夥伴有清楚的機會可以 tap。",
+    "answer_line": "緩慢漸進，超過 3-5 秒",
+    "distractors": {
+     "plausible": [
+      "先完全鎖死再放開",
+      "靠對方 tap 來喊停就好"
+     ],
+     "trap": [
+      "全速一次夾緊雙側頸動脈"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要怎麼辨識對手正在設置 Cross Collar Choke from Body Triangle？",
+    "answer": "最主要的訊號是對手放開 seatbelt 或上半身控制，開始把一隻手伸過你的肩膀朝 collar 移動。你會感覺到手指插進你的 collar 布料，並把布料的鬆弛感拉緊。抓 collar 時常常伴隨著 body triangle 夾緊力道增加，這是一種分散你注意力的戰術。",
+    "answer_line": "手越過肩膀伸向 collar",
+    "distractors": {
+     "plausible": [
+      "夾緊力道增加就代表是這招",
+      "hook 在腰部收緊"
+     ],
+     "trap": [
+      "不管夾緊力道，只看腿部"
+     ]
+    }
+   },
+   {
+    "question": "面對 Cross Collar Choke from Body Triangle，最安全的 tap 方式是什麼？",
+    "answer": "用任何可用的訊號清楚且提早 tap：口頭喊 tap、拍對手身體或拍墊子、用腳拍墊子。因為 body triangle 限制了軀幹活動，要確保至少有一隻手能碰到對手或墊子。如果雙手都被壓制，立刻用口頭 tap。不要等看看能不能逃脫已經鎖死的血液型勒頸，因為失去意識可能在幾秒內發生。",
+    "answer_line": "及早 tap——口頭、手或腳都可",
+    "distractors": {
+     "plausible": [
+      "只有拍墊子才算數",
+      "口頭 tap 留到最後再用"
+     ],
+     "trap": [
+      "撐著找逃脫機會"
+     ]
+    }
+   },
+   {
+    "question": "當對手開始攻 collar 時，為什麼要優先防守 collar grip 而不是先解開 body triangle？",
+    "answer": "Cross Collar Choke 是立即性的終結威脅，可能在幾秒內就結束比賽。Body triangle 雖然不舒服，但只是控制型的位置，不會直接造成 submission。如果只顧著處理 body triangle 而忽略 collar grip，會讓對手不受阻礙地設置勒頸；反之先防守 collar，能化解眼前的立即危險，再爭取時間處理位置上的逃脫。",
+    "answer_line": "collar choke 是立即性威脅",
+    "distractors": {
+     "plausible": [
+      "兩種危險永遠一樣重要",
+      "body triangle 可能先讓你 submit"
+     ],
+     "trap": [
+      "collar 設置時去掰開腿"
+     ]
+    }
+   },
+   {
+    "question": "如果對手已經抓到兩把 collar grip 且插得很深，這時你還有哪些防守選項？",
+    "answer": "當兩把 grip 都已經設好，你的選項雖然有限但並非完全沒有。用前臂架在對手的前臂上，阻擋他收尾的動作。試著用 two-on-one 技巧剝開最後才抓到的那把 grip。用力轉身面向對手，改變勒頸角度。如果手肘已經開始回拉、頸動脈壓力正在增加，應立刻 tap，不要冒著失去意識的風險。",
+    "answer_line": "架前臂、剝 grip、轉身面對",
+    "distractors": {
+     "plausible": [
+      "直接向後拉開距離",
+      "bridge 甩動想甩開對方"
+     ],
+     "trap": [
+      "撐到感覺頭暈才反應"
+     ]
+    }
+   },
+   {
+    "question": "對手在 collar grip 和 Rear Naked Choke 之間切換攻擊，你的防守該怎麼調整？",
+    "answer": "始終保留一隻手防守脖子，另一隻手處理 collar grip。當對手改攻 RNC，把原本防 collar 的手改去護頸；當對手改回 collar，再把一隻手移去防 collar。避免把雙手都投入同一個威脅，因為這會讓另一條 submission 路線敞開。要接受你無法完全阻擋兩種攻擊，專注於撐過去、爭取逃脫機會。",
+    "answer_line": "一隻手隨時護頸",
+    "distractors": {
+     "plausible": [
+      "追著最後移動的那把 grip 跑",
+      "轉頭閃避以藏住脖子"
+     ],
+     "trap": [
+      "雙手都壓在攻擊的手臂上"
+     ]
+    }
+   },
+   {
+    "question": "你的身體角度如何影響對你施作的 Cross Collar Choke 的效果？",
+    "answer": "把軀幹轉向對手的身體，能降低他交叉手腕對你頸動脈造成的剪刀式角度，讓勒頸效果明顯減弱。保持平躺或轉向另一側則會讓對手的槓桿優勢和勒頸力道達到最大。即使只轉了 30 到 45 度，也足以打亂 collar 的對齊角度，為你的 grip 對抗爭取時間。要把這個轉身動作和剝 grip 結合運用，不要只靠轉身。",
+    "answer_line": "轉向對手，減小角度",
+    "distractors": {
+     "plausible": [
+      "轉離對手來製造空間",
+      "保持平躺只做 grip 對抗"
+     ],
+     "trap": [
+      "拱背想逃離壓力"
+     ]
+    }
+   },
+   {
+    "question": "什麼時機轉身面向對手才是正確的防守選擇，而不是留在原位做 grip 對抗？",
+    "answer": "當對手雙手都已經投入 collar grip 時就該轉身面向他，因為這代表他幾乎沒有上半身控制力能阻止你轉動。如果只設好一把 collar grip、另一隻手還保有 seatbelt 或上半身控制，就該留在原位、專心剝掉那一把 grip，別讓它變成完整的勒頸。對強力的 seatbelt grip 硬轉身通常會失敗、白費力氣，但對已經雙手都投入 collar 的攻擊轉身，正好利用了他過度投入收尾的弱點。",
+    "answer_line": "雙手都上 collar 時才轉身",
+    "distractors": {
+     "plausible": [
+      "絕不轉身，只剝 grip",
+      "一有 grip 上身就立刻轉身"
+     ],
+     "trap": [
+      "對抗強力 seatbelt 硬轉身"
+     ]
+    }
+   },
+   {
+    "question": "在防守 collar grip 的同時，要如何應付 body triangle 造成的呼吸限制疊加效應？",
+    "answer": "採取有控制的淺胸式呼吸，而不是被 body triangle 限制住的深層橫膈膜呼吸。在 grip 對抗中避免憋氣，因為這會加速耗氧並引發恐慌。用短暫、有節奏的爆發做 grip 防守，中間穿插短暫的恢復，而不是持續使出最大力氣。要認清你的時間受氧氣管理限制，因此要做出果斷的防守選擇，而不是拖長時間、被動抵抗、承受持續疊加的壓力。",
+    "answer_line": "淺呼吸，短暫爆發式防守",
+    "distractors": {
+     "plausible": [
+      "grip 對抗時憋氣",
+      "用橫膈膜深呼吸"
+     ],
+     "trap": [
+      "全程都用最大力氣硬撐"
+     ]
+    }
+   }
+  ]
+ }
+}

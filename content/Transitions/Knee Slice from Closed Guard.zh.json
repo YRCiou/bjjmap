@@ -1,5 +1,11 @@
 {
- "_meta": { "source": "content/Transitions/Knee Slice from Closed Guard.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true },
+ "_meta": {
+  "source": "content/Transitions/Knee Slice from Closed Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
  "attacker": {
   "flashcards": [
    {
@@ -148,7 +154,7 @@
   "flashcards": [
    {
     "question": "對手正在嘗試從 closed guard 做 knee slice,最早出現的辨識線索是什麼？",
-    "answer": "最早的線索包括:對手強力站起姿勢,雙手壓在你的髖部上;他們的重心開始移向一側,前導膝蓋朝你的大腿線傾斜;以及他們的肩膀開始朝你的下巴推進,準備建立 crossface。你也可能感覺到他們在解開你腳踝鎖之後,把你近側的膝蓋往下壓住,並且撐地的那隻腳重新調整到身後位置,以產生往前推進的力量。",
+    "answer": "最早的線索包括:對手強力站起姿勢,雙手壓在你的髖部上;他們的重心開始移向一側,前導膝蓋朝你的大腿線傾斜;以及他們的肩膀開始朝你的下巴推進,準備建立 crossface。你也可能感覺到他們在解開你ankle lock之後,把你近側的膝蓋往下壓住,並且撐地的那隻腳重新調整到身後位置,以產生往前推進的力量。",
     "answer_line": "強力站姿,壓髖部",
     "distractors": {
      "plausible": [

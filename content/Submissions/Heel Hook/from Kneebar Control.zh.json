@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Heel Hook/from Kneebar Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Heel Hook from Kneebar Control 主要攻擊哪些解剖構造？",
+    "answer": "Heel Hook 主要攻擊膝蓋的旋轉韌帶——前十字韌帶（ACL）、內側副韌帶（MCL）和外側副韌帶（LCL）。次要目標包括半月板和踝關節韌帶。透過腳跟傳遞的旋轉力會在膝關節產生扭轉，相較於伸展或屈曲的力，膝關節對旋轉的結構性抵抗力較弱。",
+    "safety_critical": true,
+    "answer_line": "透過旋轉攻擊 ACL、MCL、LCL",
+    "distractors": {
+     "plausible": [
+      "只攻擊踝關節韌帶",
+      "半月板才是主要目標"
+     ],
+     "trap": [
+      "膝蓋很安全，硬凹到拍地為止"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體徵兆顯示 Heel Hook 即將到達斷裂點？",
+    "answer": "關鍵徵兆包括：感覺到對手的膝蓋開始隨著你的扭矩不自主地旋轉、感覺到韌帶達到彈性極限時肌肉抵抗力突然消失，以及對手身體反射性地僵直。在訓練中，你必須在這些徵兆變得明顯之前就先停下來——一旦你感覺到膝蓋開始出現旋轉性的鬆動，就要立刻減輕壓力並等待拍地。Heel Hook 造成的損傷會在痛覺訊號抵達之前就已發生。",
+    "safety_critical": true,
+    "answer_line": "膝蓋旋轉，抵抗力消失",
+    "distractors": {
+     "plausible": [
+      "夥伴發出很大的痛呼",
+      "腳在抓握中變得麻木"
+     ],
+     "trap": [
+      "更用力硬凹直到聽到啪聲"
+     ]
+    }
+   },
+   {
+    "question": "從 Kneebar 轉換到 Heel Hook 之前，必須先建立什麼控制？",
+    "answer": "轉換之前，要確保你的腿部纏鎖能阻止對手自由旋轉髖部，你的近側腿勾在他們的膝蓋後方或橫過大腿。你的髖部必須持續與他們的腿連結，且腳跟必須是你雙手可以搆到的。你的內側手臂應該預先穿到腳踝下方，準備捕捉腳跟。絕不要為了搆腳跟而放開腿部控制——由纏鎖負責控制，手臂只負責轉換。",
+    "safety_critical": false,
+    "answer_line": "先鎖住腿部纏鎖",
+    "distractors": {
+     "plausible": [
+      "先抓腳踝再顧髖部",
+      "只固定髖部，不管腳跟"
+     ],
+     "trap": [
+      "放開雙腿去抓腳跟"
+     ]
+    }
+   },
+   {
+    "question": "在這個降伏技過程中，到了哪個時間點防守者就再也無法逃脫？",
+    "answer": "一旦攻擊者在腳跟上鎖死了 figure-four 或 S 型抓握，手肘緊夾，並搭配強力的腿部纏鎖阻止髖部旋轉，逃脫就變得極度困難。在抓握鎖死之前，防守者還能搶手並試圖伸直腿。抓握建立、旋轉壓力開始之後，防守者的選項就只剩下立刻拍地。抓握鎖死加上髖部控制，就是真正的不歸點。",
+    "safety_critical": true,
+    "answer_line": "腳跟抓握鎖死、髖部被壓制",
+    "distractors": {
+     "plausible": [
+      "雙手扣住腳的那一刻",
+      "一進入纏鎖就算"
+     ],
+     "trap": [
+      "撐著抵抗直到韌帶撕裂"
+     ]
+    }
+   },
+   {
+    "question": "從 Kneebar 轉換到 Heel Hook 時，最常見的完成失誤是什麼？",
+    "answer": "最常見的失誤是在轉換抓握時放開腿部纏鎖去搆腳跟。攻擊者常常為了伸得更遠而打開雙腿，這讓防守者有機會抽出腿或自由旋轉髖部。正確做法是全程維持緊密的腿部勾鎖，只用雙手改變抓握配置，同時雙腿持續控制對手的髖部動作、阻止抽腿。",
+    "safety_critical": false,
+    "answer_line": "轉換抓握時打開雙腿",
+    "distractors": {
+     "plausible": [
+      "換抓握換得太慢",
+      "kneebar 壓力不夠"
+     ],
+     "trap": [
+      "讓髖部分開以搆得更遠"
+     ]
+    }
+   },
+   {
+    "question": "當對手的腳的方向讓標準的 Heel Hook 抓握變得困難時，你該如何調整抓握？",
+    "answer": "如果腳跟背離你的中線，先用外側手扣住腳跟，再把內側手臂穿到腳踝下方建立 figure-four。如果腳被收得很緊，就施加 kneebar 壓力，逼他把膝蓋彎得更深，這樣腳跟就會進入可及範圍。對於難以處理的腳部位置，可以考慮改用掌對掌或 S 型抓握配置，而不是傳統的 figure-four，因為這種抓握對腳跟位置的精準度要求較低，同時仍能產生強力的旋轉控制。",
+    "safety_critical": false,
+    "answer_line": "外側先扣住，內側再穿入",
+    "distractors": {
+     "plausible": [
+      "不管情況硬用 figure-four",
+      "把腳拉直來對齊"
+     ],
+     "trap": [
+      "放開纏鎖重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Heel Hook from Kneebar Control 比 Kneebar 本身更危險？",
+    "answer": "Kneebar 透過伸展攻擊，能提供清楚的本體感覺回饋——防守者能感覺到逐漸增加的伸展和壓力，有時間在損傷發生前拍地。Heel Hook 透過旋轉攻擊，對 ACL、MCL 和 LCL 造成的損傷幾乎沒有痛覺警告。防守者往往要到結構損傷已經發生之後才會感覺到明顯的痛。這種較短的回饋窗口，讓 Heel Hook 明顯更危險，要求訓練中極度緩慢地施加，並在任何拍地訊號出現時立刻放開。",
+    "safety_critical": true,
+    "answer_line": "旋轉悄悄撕裂韌帶",
+    "distractors": {
+     "plausible": [
+      "它會過度伸展膝關節",
+      "它完成得更快更緊"
+     ],
+     "trap": [
+      "痛覺會在受傷前警告你"
+     ]
+    }
+   },
+   {
+    "question": "在比賽情境中，你該如何設置 Kneebar 到 Heel Hook 的連鎖攻擊？",
+    "answer": "在比賽中，先投入真正的 Kneebar 壓力，逼出膝蓋彎曲的防守反應。Kneebar 必須是真正的威脅，而不是虛招——要施加足夠的力，逼對手不得不完全投入彎膝防守。當他投入防守時，立刻轉向腳跟。把換抓握的時機抓在他防守投入最深、腳跟最為外露、注意力集中在防止伸展的那一刻。這個轉換應該感覺像連續的流動，而不是兩個各自獨立的攻擊。",
+    "safety_critical": false,
+    "answer_line": "先施加真壓力，再轉向",
+    "distractors": {
+     "plausible": [
+      "虛晃 kneebar，直接攻腳跟",
+      "先攻腳跟，再攻 kneebar"
+     ],
+     "trap": [
+      "放開雙腿去假裝做 kneebar"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何分辨對手正從 Kneebar 轉換到 Heel Hook？",
+    "answer": "關鍵辨識線索包括：感覺到他們的手從緊抱你的腿貼向他們胸口，轉為穿到你的腳踝下方或扣住你的腳跟。你也會注意到直線伸展壓力減少，接著攻擊者調整他們的髖部角度。他們的前臂接觸到你腳跟後方或阿基里斯腱，而不是加固 Kneebar 抓握，是 Heel Hook 轉換已經開始最明確的訊號。",
+    "safety_critical": false,
+    "answer_line": "手從抱腿轉向腳踝",
+    "distractors": {
+     "plausible": [
+      "直線伸展力道增加",
+      "對手把膝蓋夾得更緊"
+     ],
+     "trap": [
+      "忽略手的位置，只防守膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "面對 Heel Hook from Kneebar Control，你什麼時候該拍地以避免受傷？",
+    "answer": "當你感覺到膝蓋上有無法透過同方向旋轉髖部來抵消的旋轉壓力時，立刻拍地。不要等痛——Heel Hook 造成的韌帶損傷會在痛覺訊號抵達之前發生。如果攻擊者已經在你的腳跟上鎖住抓握、手肘收緊，並開始任何你無法中和的旋轉動作，就立刻拍地。及早拍地、明天再訓練，遠比承受需要數月復健的 ACL 撕裂划算得多。",
+    "safety_critical": true,
+    "answer_line": "感到無法抵消的旋轉就拍",
+    "distractors": {
+     "plausible": [
+      "只在痛開始時才拍",
+      "腳麻掉時才拍"
+     ],
+     "trap": [
+      "朝扭轉的方向旋身脫困"
+     ]
+    }
+   },
+   {
+    "question": "對抗 Heel Hook from Kneebar Control 的主要防守技巧有哪些？",
+    "answer": "有三種主要防守：第一，在抓握轉換的窗口期用力伸直腿，阻止攻擊者捕捉你的腳跟，恢復 Kneebar 防守姿勢。第二，朝著 Heel Hook 扭矩相同的方向旋轉髖部，緩解膝蓋上的旋轉壓力。第三，在抓握鎖死之前積極搶抓腳跟——把腳拉出來、掰開他們的手，或把腳跟收到他們身體後方讓他們搆不到。",
+    "safety_critical": false,
+    "answer_line": "伸直腿、轉髖、搶抓握",
+    "distractors": {
+     "plausible": [
+      "把他們的 kneebar 手臂拉開",
+      "縮起來等待"
+     ],
+     "trap": [
+      "朝著 heel hook 的方向滾動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 Kneebar 到 Heel Hook 的抓握轉換是關鍵的防守窗口？",
+    "answer": "在抓握轉換的過程中，攻擊者必須放開標準的 Kneebar 手臂配置，重新抓握腳跟，控制力會暫時降低。這會創造出一個短暫的窗口，在此期間手臂控制被削弱，只有腿部纏鎖仍在維持位置。在這個窗口爆發式地伸直腿或做髖部逃脫，成功機率最高，因為攻擊者無法同時維持 Kneebar 壓力並鎖住 Heel Hook 抓握。",
+    "safety_critical": false,
+    "answer_line": "換抓握途中控制力變弱",
+    "distractors": {
+     "plausible": [
+      "此時 kneebar 壓力達到頂點",
+      "攻擊者的髖部暫時放鬆"
+     ],
+     "trap": [
+      "等轉換完成再行動"
+     ]
+    }
+   },
+   {
+    "question": "你可以採取哪些主動措施，完全預防 Kneebar 轉換到 Heel Hook？",
+    "answer": "最有效的預防方式是在防守 Kneebar 時，把腳跟收緊在攻擊者身體後方或雙腿之間，讓他們的手搆不到。維持主動的腳部位置——當你彎膝防守時，絕不要讓腳跟自由懸空。此外，要努力逃脫整個腿部纏鎖，而不是一個個防守個別的降伏技，因為位置上的逃脫能同時消除所有降伏威脅，讓你回到安全的位置。",
+    "safety_critical": false,
+    "answer_line": "收緊腳跟，逃脫整個纏鎖",
+    "distractors": {
+     "plausible": [
+      "只搶他們的手",
+      "用手臂頂住他們胸口製造空間"
+     ],
+     "trap": [
+      "讓你的腳跟自由懸空"
+     ]
+    }
+   }
+  ]
+ }
+}

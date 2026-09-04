@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Outside Heel Hook/from Backside 50-50.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Outside Heel Hook 主要攻擊哪些解剖構造，這對安全性有什麼重要意義？",
+    "answer": "Outside Heel Hook 主要攻擊 LCL（外側副韌帶）和後外側角結構，也可能透過旋轉剪力損傷 ACL（前十字韌帶）和半月板。這對安全性至關重要，因為這些膝關節韌帶在結構性損傷發生前幾乎不提供本體感覺回饋——不像 choke 那樣你能感覺到壓力逐漸累積，heel hook 可能在防守方感受到明顯疼痛之前就已造成嚴重的韌帶撕裂。這就是為什麼受控施力和提早拍是不可妥協的原則。",
+    "safety_critical": true,
+    "answer_line": "LCL 會在痛覺前撕裂",
+    "distractors": {
+     "plausible": [
+      "主要瞄準 ACL 而非 LCL",
+      "痛覺會像 choke 一樣逐漸累積"
+     ],
+     "trap": [
+      "等真正痛了再拍"
+     ]
+    }
+   },
+   {
+    "question": "有哪些可靠的指標顯示 submission 正逼近防守方膝蓋的斷裂臨界點？",
+    "answer": "可靠的臨界點指標包括：感覺到 heel 旋轉突然變得容易，代表韌帶阻力正在減弱；聽到或感覺到膝關節有輕微的爆裂或位移；以及防守方的身體突然僵硬或抽動。然而，關鍵的安全重點在於，這些指標可能與結構性損傷同時或在其之後才出現。這就是為什麼攻擊者必須漸進式施加旋轉力，而防守方必須在感覺到膝蓋有旋轉壓力的第一刻就拍，而不是等到痛才拍。",
+    "safety_critical": true,
+    "answer_line": "旋轉突然變輕鬆",
+    "distractors": {
+     "plausible": [
+      "劇痛會在損傷前先警告",
+      "阻力會全程保持穩固"
+     ],
+     "trap": [
+      "感覺鬆動就更用力硬拗"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在從 Backside 50-50 嘗試 heel hook grip 之前，胸貼背的壓力至關重要？",
+    "answer": "胸貼背的壓力能固定住對手的髖部，這是 heel hook 防守的主要機制。少了髖部的活動能力，防守方就無法把膝蓋內轉來藏 heel，也無法 bridge 來製造抽腳空間，更無法轉身面向攻擊者來轉換位置。先建立沉重的壓力，代表你的雙手能空出來進攻，因為你的身體結構正在做控制的工作，而不需要同時用雙手應付控制與進攻。",
+    "safety_critical": false,
+    "answer_line": "固定髖部，空出雙手進攻",
+    "distractors": {
+     "plausible": [
+      "空出腿部好加強夾緊",
+      "擋住他們看到 grip 的視線"
+     ],
+     "trap": [
+      "跳過壓力直接快速抓 heel"
+     ]
+    }
+   },
+   {
+    "question": "Outside Heel Hook 在什麼時間點會讓防守方實質上無法逃脫？",
+    "answer": "這個 submission 幾乎變得無法逃脫的時間點，是攻擊者同時達成三個條件：雙手深握形成 heel cup，heel 穩穩坐在掌心；控制用的手肘已穿到大腿內側，形成旋轉支點；並已開始主動的側向旋轉。一旦施加旋轉且手肘位置與加強 grip 都到位，防守方唯一剩下的選項就是拍。在旋轉進行中嘗試逃脫，會有造成災難性膝蓋損傷的風險。",
+    "safety_critical": true,
+    "answer_line": "深握、手肘穿入、正在旋轉",
+    "distractors": {
+     "plausible": [
+      "只是剛抓穩 heel cup",
+      "手肘在大腿外側、正在旋轉"
+     ],
+     "trap": [
+      "在旋轉中嘗試轉出去"
+     ]
+    }
+   },
+   {
+    "question": "降低 Outside Heel Hook 成功率的最常見 finish 錯誤是什麼？",
+    "answer": "最常見的 finish 錯誤，是施加旋轉時手肘位於對手大腿外側，而不是內側。這代表旋轉力會消散到空間中，而不是透過大腿內側手肘所形成的支點，直接加載到膝關節韌帶上。攻擊者會感覺自己很費力，但實際產生的破壞性壓力卻微乎其微。在旋轉之前把手肘穿到大腿內側，是決定 finish 有效性最重要的力學細節。",
+    "safety_critical": false,
+    "answer_line": "手肘在大腿外側而非內側",
+    "distractors": {
+     "plausible": [
+      "沒有把膝蓋夾緊",
+      "整體旋轉得太慢"
+     ],
+     "trap": [
+      "用力猛拉求快速結束"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 finish 過程中開始把 heel 往外抽，你該如何調整你的 grip？",
+    "answer": "如果對手在 finish 中開始把 heel 從你的 grip 抽走，先加緊你的 figure-four 或 Gable grip 加強握力，而不是用主手去追。接著加強夾腿力道，把他們的腿重新固定在纏繞中。如果 heel 持續在抽出，就立刻轉換到其他攻擊：把 grip 移到膝蓋上方進攻 kneebar，或利用他們正在伸直的腿進攻 toe hold。用越來越大的力量去追一個正在滑脫的 heel grip，可能會讓你完全失去這個位置。",
+    "safety_critical": false,
+    "answer_line": "收緊 figure-four，重新固定腿",
+    "distractors": {
+     "plausible": [
+      "用主手去追 heel",
+      "換手重新抓握"
+     ],
+     "trap": [
+      "在它滑脫前用力硬扯"
+     ]
+    }
+   },
+   {
+    "question": "為什麼相較於其他關節鎖如 armbar，爆發性施加 Outside Heel Hook 特別危險？",
+    "answer": "不像 armbar 中肘關節會透過逐漸增加的伸展提供漸進式的痛覺訊號，heel hook 瞄準的膝關節韌帶幾乎不提供漸進的疼痛反應。韌帶可能在防守方感受到明顯不適之前就已撕裂。此外，膝蓋所承受的旋轉力可能同時損傷多個構造（LCL、ACL、半月板、後外側角），造成比單一構造損傷更嚴重的複合性傷害。爆發性施力會消除防守方原本就很窄的察覺危險並拍的機會窗口。",
+    "safety_critical": true,
+    "answer_line": "不像 armbar 有漸進警訊",
+    "distractors": {
+     "plausible": [
+      "施力越大痛覺越穩定累積",
+      "只會拉傷一條韌帶"
+     ],
+     "trap": [
+      "爆發性硬拗求快速結束"
+     ]
+    }
+   },
+   {
+    "question": "當對手對從 Backside 50-50 進的 Outside Heel Hook 有強力防守時，哪種比賽策略能最大化 finish 率？",
+    "answer": "面對強力的 heel hook 防守，要運用 Backside 50-50 內建的兩難處境策略。在威脅 heel hook 和威脅推進 back control 之間交替進行。當對手專注於用強力的膝蓋內轉和 grip fighting 藏住 heel 時，就把髖部往他們身體上方走、朝 back control 推進。當他們把防守重心轉為用 frame 頂住你的髖部以阻止 back control 時，他們的手就會離開 heel 的防守，heel 因此暴露出來。關鍵在於在兩種威脅之間耐心來回切換，而不是全力壓在其中一個上。",
+    "safety_critical": false,
+    "answer_line": "在 heel 與 back 威脅間交替",
+    "distractors": {
+     "plausible": [
+      "全力壓在 heel hook 上",
+      "趕在對方拖延前搶快結束"
+     ],
+     "trap": [
+      "放棄 heel，只追 back"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你辨識到對手正從 Backside 50-50 嘗試 Outside Heel Hook 時，第一個防守動作應該是什麼？",
+    "answer": "絕對的第一優先，是透過積極的膝蓋內轉把 heel 藏起來——把膝蓋轉向內側，把腳趾往小腿方向拉。這必須在任何 grip fighting、frame 或逃脫嘗試之前就完成。heel 必須先變得無法讓攻擊者的 grip 觸及，才能處理其他事情。heel 每暴露多一瞬間，攻擊者建立 finish grip 的機率就越高。",
+    "safety_critical": true,
+    "answer_line": "膝蓋內轉，藏住 heel",
+    "distractors": {
+     "plausible": [
+      "先用 frame 頂住他們的胸口",
+      "先跟他們的手 grip fight"
+     ],
+     "trap": [
+      "轉開身體保護膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 heel hook 進攻中轉身背離攻擊者，是最危險的防守錯誤？",
+    "answer": "轉身背離攻擊者，會把你自己身體的旋轉動量加到攻擊者的 heel hook 旋轉力上。這會複合式增加你膝關節韌帶所承受的旋轉力，可能讓扭力翻倍甚至三倍。因為膝關節韌帶在沒有充分痛覺警告的情況下就會損傷，這種放大的力量可能造成瞬間的結構性損傷。務必朝攻擊者的方向轉身，以減少旋轉差，或者維持不動同時處理 grip 防守。",
+    "safety_critical": true,
+    "answer_line": "會把你的旋轉加到他們身上",
+    "distractors": {
+     "plausible": [
+      "只是有失去位置的風險",
+      "會讓 frame 變得不可能"
+     ],
+     "trap": [
+      "只要轉得夠快就安全"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中，什麼時候應該對 Outside Heel Hook 拍？",
+    "answer": "訓練中，一感覺到膝關節有任何旋轉壓力就要立刻拍。不要等到痛，因為 heel hook 可能在痛覺訊號傳到大腦之前就造成韌帶撕裂。當你感覺到膝蓋被扭向不自然的活動範圍，或當你察覺到攻擊者已建立穩固的加強 grip、手肘也已穿到你大腿內側且旋轉已開始，就應該拍。保護你的膝蓋讓它能撐過數十年的訓練生涯，比任何一次訓練交手都更有價值。",
+    "safety_critical": true,
+    "answer_line": "感受到旋轉壓力就拍",
+    "distractors": {
+     "plausible": [
+      "感覺到劇痛才拍",
+      "grip 完全鎖死才拍"
+     ],
+     "trap": [
+      "撐著並試著 posture"
+     ]
+    }
+   },
+   {
+    "question": "相較於標準的 50-50，Backside 50-50 這個位置為什麼讓 heel hook 防守變得更困難？",
+    "answer": "Backside 50-50 造成三個具體的防守劣勢。第一，攻擊者胸貼背的壓力固定住你的髖部，讓標準 50-50 中身為主要 heel hook 防守機制的髖部旋轉失效。第二，你的背對著攻擊者，讓你看不到他們 grip 的進展，無法得知他們雙手正在做什麼。第三，你的 frame 選項受限，因為在 Backside 位置很難輕易頂住他們的胸口。在標準 50-50 中，面對面的方向能提供視覺資訊、frame 的空間，以及更有效的髖部活動能力。",
+    "safety_critical": false,
+    "answer_line": "髖被固定、看不到、無法 frame",
+    "distractors": {
+     "plausible": [
+      "只是比較看不到 grip",
+      "只是失去髖部活動能力"
+     ],
+     "trap": [
+      "背部暴露反而有助逃脫"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候適合對攻擊者的腿反攻 heel hook 作為防守策略？",
+    "answer": "反攻攻擊者的 heel，只有在他們把雙手全力投入你的 heel、而他們自己的腿在你的纏繞中暴露出來時才適合。這通常發生在他們過於專注要結束你的 heel、以致於忽略自己腿部防守的時候。然而，這是一個高風險策略——如果你在自己的 heel 還暴露時去搆他們的 heel，你可能會先被結束。只有在自己的 heel 已經藏好、且攻擊者的 heel 明顯可以搆到時，才嘗試反攻。",
+    "safety_critical": false,
+    "answer_line": "只有在自己 heel 藏好之後",
+    "distractors": {
+     "plausible": [
+      "只要他們的腿靠近就可以",
+      "他們的手一碰到你就可以"
+     ],
+     "trap": [
+      "先去搆他們的 heel"
+     ]
+    }
+   }
+  ]
+ }
+}

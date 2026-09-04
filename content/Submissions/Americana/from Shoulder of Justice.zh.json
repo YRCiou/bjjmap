@@ -1,0 +1,241 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Americana/from Shoulder of Justice.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Shoulder of Justice 究竟攻擊哪些特定解剖構造？",
+    "answer": "Americana 透過以肘部為支點強迫肱骨外旋，攻擊肩盂肱關節。主要承受壓力的構造是旋轉肌袖肌群（棘上肌、棘下肌、肩胛下肌、小圓肌）、肩關節囊與唇緣，以及 AC 關節。figure-four 鎖法形成槓桿，把肱骨推向超出安全活動範圍的外旋，逐漸對這些構造施壓，直到對手拍降或發生受傷。",
+    "safety_critical": false,
+    "answer_line": "肩膀：強迫外旋",
+    "distractors": {
+     "plausible": [
+      "肘關節，如同 armbar",
+      "腕關節，透過過度屈曲"
+     ],
+     "trap": [
+      "內旋（那是 Kimura）"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體與觸感上的指標，告訴你 Americana 已接近臨界點？",
+    "answer": "關鍵指標包括：刷漆動作的阻力隨著旋轉肌袖到達活動極限而增加、對手肩頸肌肉明顯繃緊、不自主的聲音或呼吸型態改變、對方身體反射性地開始拱起或 bridge，以及一種明確的感覺，肩關節已到達機械極限，進一步旋轉需要顯著更大的力道。到這個階段，你應特別留意拍降訊號，並非常緩慢地施壓。",
+    "safety_critical": true,
+    "answer_line": "在活動極限處阻力上升",
+    "distractors": {
+     "plausible": [
+      "握法突然感覺變鬆",
+      "對手變軟且安靜"
+     ],
+     "trap": [
+      "呼吸大聲代表要繼續施壓"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 figure-four 鎖法之前，必須建立哪些控制要素？",
+    "answer": "在做 figure-four 鎖法之前，你必須具備：把肩膀壓力維持在對手下巴、呈 45 度角朝向他們遠側肩膀，防止頭部旋轉；髖部連接他們的近側髖線，防止 shrimp；近側手臂可觸及並因壓力反應而部分伸出；你的底盤穩固，遠側膝蓋張開撐地；以及對手的遠側手臂被妥善處理，不會干擾抓握轉換。缺少任何一項都會大幅降低終結成功率。",
+    "safety_critical": false,
+    "answer_line": "下巴壓力、髖部控制、底盤",
+    "distractors": {
+     "plausible": [
+      "遠側手臂自由、近側髖部打開",
+      "先做遠側 underhook"
+     ],
+     "trap": [
+      "跳過底盤，急著搶握法"
+     ]
+    }
+   },
+   {
+    "question": "在 Americana 執行過程中，到什麼程度後對手就無法逃脫？",
+    "answer": "無法逃脫的臨界點發生在 figure-four 鎖緊、肘部牢牢固定於地面，且手已被刷漆過肩膀水平線之下。一旦手過了肩膀水平線，肩盂肱關節上的旋轉力使對手在生物力學上不可能伸直手臂或旋轉軀幹來緩解壓力。在此之前，被動方仍可能抓自己的腰帶、伸直手臂或做 bridge 創造逃脫機會。",
+    "safety_critical": false,
+    "answer_line": "手被刷漆過肩膀水平線",
+    "distractors": {
+     "plausible": [
+      "figure-four 剛鎖上時",
+      "下巴壓力剛咬進去時"
+     ],
+     "trap": [
+      "肘部固定前就猛力施壓"
+     ]
+    }
+   },
+   {
+    "question": "對手在刷漆動作過程中開始朝你 bridge 並翻滾——什麼樣的調整能防止逃脫？",
+    "answer": "把遠側膝蓋撐得更寬，穩定底盤以對抗 bridge 力道，並把髖部壓得更沉在他們的近側髖線上。不要直接對抗 bridge——維持你的 figure-four 鎖法和肘部固定，順著承受它。當對手在 bridge 耗盡後回到地面時，立即恢復刷漆動作並加大壓力。如果他們持續翻滾，跟著轉到 north-south，同時保持 figure-four 鎖緊，因為這個握法很適合銜接到 north-south 角度。",
+    "safety_critical": false,
+    "answer_line": "撐寬底盤，順勢承受 bridge",
+    "distractors": {
+     "plausible": [
+      "壓平身體阻止 bridge",
+      "放手重建底盤"
+     ],
+     "trap": [
+      "坐起身擋住他們的髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己的腰帶阻止你把手往下刷漆——你該如何破解這個防禦性抓握？",
+    "answer": "依優先順序有三個選項：第一，把你的 figure-four 握法往他們手指方向滑，攻擊抓握中最弱的部分——手指力量會比手腕力量更快失效。第二，用銳利的髖部頂撞把他們的抓握震鬆，同時維持自己的 figure-four。第三，如果抓握持續超過 3 秒，放棄 Americana 直接改打 kimura，反轉旋轉方向，因為他們抓自己腰帶的動作其實有助於 kimura 的終結。",
+    "safety_critical": false,
+    "answer_line": "把握法滑向手指部位",
+    "distractors": {
+     "plausible": [
+      "把手腕直接往上撬",
+      "靜止不動等抓握放開"
+     ],
+     "trap": [
+      "硬拉手臂，強行刷漆"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在終結過程中開始伸直手臂，你該如何調整你的 figure-four 握法？",
+    "answer": "如果手臂開始伸直，你正在失去 Americana 的角度。立即把 figure-four 收緊，將手肘互相擠壓，並把握手拉近你的胸口，讓肘部重新彎曲。如果手臂儘管如此仍持續伸直，改抓 kimura 握法：維持腕部控制，換成反手抓法控制手腕，另一手控制肘部——伸直的手臂位置反而讓 kimura 更容易建立。不要浪費力氣去硬把一隻幾乎伸直的手臂重新彎回來。",
+    "safety_critical": false,
+    "answer_line": "收緊 figure-four，重新彎曲",
+    "distractors": {
+     "plausible": [
+      "更用力強行刷漆",
+      "改抓衣領"
+     ],
+     "trap": [
+      "放開控制，追著手臂跑"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展 Shoulder of Justice 的 Americana 有哪些重要的安全考量？",
+    "answer": "刷漆動作至少要漸進施壓 3 到 5 秒——絕不猛拉或突然施壓。drilling 時只用 10-20% 的力。務必確保夥伴有空出的手可以拍降。任何聲音或不適的跡象都要立即停止，不必等到正式拍降。切勿在同一次訓練中反覆對同一側肩膀施展。對於已有肩傷的訓練夥伴要特別小心，只在他們明確同意並取得醫療許可的情況下訓練。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，力道 10-20%",
+    "distractors": {
+     "plausible": [
+      "同一隻手臂重複練習",
+      "在對方防禦前快速完成"
+     ],
+     "trap": [
+      "加壓測試關節極限"
+     ]
+    }
+   },
+   {
+    "question": "對手拍降之後，你該如何正確放開 Americana？",
+    "answer": "立即停止對肩膀的所有旋轉壓力——這是最優先事項。接著放開 figure-four 握法，小心把手臂放回身體旁的中立位置，不要突然放下。放開肘部控制，讓夥伴自由移動。用言語確認他們的狀況。如果他們反映有殘留疼痛，鼓勵他們輕柔地活動肩膀，如果不適持續超過幾分鐘應就醫檢查。",
+    "safety_critical": true,
+    "answer_line": "停止施壓，緩慢放下手臂",
+    "distractors": {
+     "plausible": [
+      "先放開肘部控制",
+      "滑回 side control"
+     ],
+     "trap": [
+      "多撐一拍再放手"
+     ]
+    }
+   },
+   {
+    "question": "比賽和訓練情境下，Americana 終結手法應該如何調整？",
+    "answer": "在比賽中，由於對手正積極抵抗且局勢要求效率，你可以用完整漸進的速度和體重施展刷漆動作。趁轉換時機趕快建立握法，避免對手設好防禦性抓握。在訓練中，最多只用 10-20% 的力道，終結至少要花 3 到 5 秒，並把夥伴安全擺在完成度之上。兩種情境下都絕不能用突然的猛拉力量——差別在於漸進施壓的速度，而不是使用爆發性的猛擊。",
+    "answer_line": "實戰全速，訓練放慢",
+    "distractors": {
+     "plausible": [
+      "兩種情境力道相同",
+      "比賽慢、訓練快"
+     ],
+     "trap": [
+      "猛力終結求快速結束比賽"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在鎖法鎖緊之前，如何辨識 Shoulder of Justice 的 Americana 設置？",
+    "answer": "關鍵辨識線索是：對手的上手開始沿著你近側前臂滑向手腕，同時維持下巴壓力；你會感覺到他們的下手穿進你上臂下方；並注意到重心稍微朝你腿部方向偏移，這是他們在準備刷漆動作。抓握轉換階段是關鍵辨識窗口——一旦你感覺 figure-four 鎖開始成形，必須立即行動，因為每過一秒防禦難度都會指數上升。",
+    "safety_critical": false,
+    "answer_line": "他們的手滑向你的手腕",
+    "distractors": {
+     "plausible": [
+      "重心轉向你的頭部",
+      "他們先抓你的衣領"
+     ],
+     "trap": [
+      "伸手撬開他們的握法"
+     ]
+    }
+   },
+   {
+    "question": "拍降 Shoulder of Justice 的 Americana，最安全的做法是什麼？",
+    "answer": "用你空出的手清楚且提早拍降——至少拍打對手身體或地面兩下，訊號要明確有力。如果空出的手被卡住，大聲說「拍」或用腳拍地。安全的關鍵原則是：在刷漆動作把手拉過肩膀水平線之前就要拍降。一旦旋轉肌袖到達活動終端，受傷可能在幾分之一秒內發生。絕不要硬撐或等待更好的逃脫機會，如果鎖法已經很深。",
+    "safety_critical": true,
+    "answer_line": "提早拍降，清楚拍打兩下",
+    "distractors": {
+     "plausible": [
+      "輕輕拍一次地面",
+      "拉他們的衣袖示意"
+     ],
+     "trap": [
+      "撐過活動極限"
+     ]
+    }
+   },
+   {
+    "question": "當 figure-four 鎖法已鎖緊但刷漆動作尚未開始時，有哪些防禦選項？",
+    "answer": "你最好的選項是立即用近側手抓住自己的手腕、腰帶或衣領，建立第二道防線阻擋刷漆動作。同時嘗試朝被困手臂那一側做 bridge，破壞對手的底盤，減少有效的刷漆角度。如果能在對手固定肘部之前，趁他們調整重心的時機做 shrimp，你可能創造出足夠空間開始 guard recovery。關鍵是立即行動——每多耽誤一秒，隨著對手鎖緊握法並固定肘部，你的成功率就會下降。",
+    "safety_critical": false,
+    "answer_line": "抓自己手腕，朝被困側 bridge",
+    "distractors": {
+     "plausible": [
+      "轉身用髖部逃脫",
+      "用遠側手擋住對方頭部"
+     ],
+     "trap": [
+      "伸直手臂想推開對方"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在防禦 Americana 設置時伸直手臂是危險的？",
+    "answer": "雖然伸直手臂能阻止 figure-four 在彎臂狀態下鎖上，但這樣做直接讓你暴露在 kimura 和 armbar 攻擊之下。技術純熟的對手會立即在你伸直的手臂上抓 kimura 握法，或跨過你的頭部做 armbar。你等於是拿一個 submission 威脅去換另一個，而擅長 Shoulder of Justice 的攻擊者，正是專門訓練來利用這個防禦反應，作為他們 submission 鏈的一部分。",
+    "safety_critical": false,
+    "answer_line": "使你暴露於 kimura、armbar",
+    "distractors": {
+     "plausible": [
+      "拉傷自己的肘關節",
+      "只有 Americana 的風險"
+     ],
+     "trap": [
+      "最佳防禦，永遠伸直"
+     ]
+    }
+   },
+   {
+    "question": "防禦 Shoulder of Justice 的 Americana，最重要的單一防禦原則是什麼？",
+    "answer": "無論下巴壓力有多強烈，都要讓你的近側手臂隨時緊貼身體。整個 Americana 攻擊都仰賴你伸直近側手臂——肩膀壓力的存在正是為了誘發這個反應。透過抓住自己的衣領、腰帶或另一側手腕，並讓肘部緊貼肋骨，你就能拒絕給對方所需的手臂伸展。把下巴的不適視為暫時的，專注於有系統的逃脫時機，而不是直接反射性地伸直手臂，正中對方攻擊計畫的下懷。",
+    "safety_critical": false,
+    "answer_line": "近側手臂緊貼身體",
+    "distractors": {
+     "plausible": [
+      "快速推過下巴壓力",
+      "抓對方遠側的袖子"
+     ],
+     "trap": [
+      "伸直手臂騰出空間"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Honey Hole.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Toe Hold from Honey Hole 主要攻擊哪些解剖構造?",
+    "answer": "Toe Hold 攻擊踝關節的外側與內側副韌帶、腳趾的指間關節,以及中足的 Lisfranc 關節複合體。figure-four 抓法產生的旋轉力會同時在所有這些構造上產生扭轉壓力。Lisfranc 關節特別脆弱,可能承受需要手術治療的嚴重傷害。",
+    "safety_critical": true,
+    "answer_line": "踝關節韌帶加中足關節",
+    "distractors": {
+     "plausible": [
+      "膝關節副韌帶",
+      "阿基里斯腱加小腿"
+     ],
+     "trap": [
+      "腳跟加膝蓋(旋轉式)"
+     ]
+    }
+   },
+   {
+    "question": "你如何辨識從 heel hook 嘗試轉換到 Toe Hold 的最佳時機?",
+    "answer": "最佳的轉換時機是對手成功把腳跟藏起來,把腳蜷進你的腋下或塞到你的髖部後方,但腳趾和前足球部仍然暴露在外。你應該能看到他們的腳底朝向你,腳趾可以抓取。如果對手正在積極對抗你的腳跟抓法,這時轉換會製造混亂,趁著他們正在做防禦調整時抓住機會。",
+    "safety_critical": false,
+    "answer_line": "腳跟藏起,腳趾/前足外露",
+    "distractors": {
+     "plausible": [
+      "在乾淨完成 heel hook 的當下",
+      "一進入纏繞就立刻換"
+     ],
+     "trap": [
+      "等他們把腳踢脫再換"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的抓握配置能為 Toe Hold 提供最大的旋轉力?",
+    "answer": "figure-four 抓法是主手從外側包住全部五根腳趾和前足球部,接著自由的那隻手抓住主手的手腕,形成類似 kimura 的槓桿。前臂橫跨腳底。手肘保持貼近肋骨以獲得最大的機械優勢。這種配置透過槓桿系統倍增你的旋轉力,同時把壓力分散到整個前足。",
+    "safety_critical": false,
+    "answer_line": "Figure-four,前臂橫跨腳底",
+    "distractors": {
+     "plausible": [
+      "抓腳跟,在手腕處扭轉",
+      "單手抓腳趾,手肘外張"
+     ],
+     "trap": [
+      "抓單一腳趾,用力扯"
+     ]
+    }
+   },
+   {
+    "question": "什麼跡象顯示你已經到達對手無法逃脫的地步?",
+    "answer": "無法逃脫的臨界點出現在三個條件同時成立時:你的 figure-four 抓法完全鎖死、手肘緊貼肋骨,你的內側腿三角阻止任何髖部旋轉,而且你已經開始施加內旋壓力,消除踝關節的鬆弛。一旦旋轉壓力在腳完全被控制、髖部被固定的情況下作用,對手就無法產生足夠的反向旋轉來緩解壓力,除非拍降。",
+    "safety_critical": false,
+    "answer_line": "抓法鎖死,髖固定,已上扭力",
+    "distractors": {
+     "plausible": [
+      "抓法鎖死,但髖部還自由",
+      "三角已設好,但還沒上扭力"
+     ],
+     "trap": [
+      "對方一放鬆就鬆手"
+     ]
+    }
+   },
+   {
+    "question": "從 Honey Hole 施展 Toe Hold 時,最常見的完成技錯誤是什麼?",
+    "answer": "最常見的完成技錯誤是旋轉施力太快。習慣 heel hook 的練習者會突然施加扭轉力,但腳部較小的關節在較小的力道、較少的警訊下就會受傷,不像膝關節韌帶那樣。Toe Hold 需要 5 到 7 秒的漸進施力。倉促完成不僅有讓訓練夥伴嚴重受傷的風險,也會降低機械效率,因為 figure-four 在穩定漸進的扭力下效果最好。",
+    "safety_critical": true,
+    "answer_line": "旋轉施力太快",
+    "distractors": {
+     "plausible": [
+      "抓握沒有鎖緊",
+      "太早放開三角"
+     ],
+     "trap": [
+      "放手重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "當你嘗試 Toe Hold 時,對手開始伸直被困住的腿,你該做什麼調整?",
+    "answer": "伸直的腿實際上改善了你的 Toe Hold 力學,因為消除了原本能吸收旋轉力的保護性彎曲。維持你的 figure-four 抓法並繼續施加內旋。不過也要注意,伸直腿可能代表對手正試圖用腿蹬你的髖部來製造逃脫空間。你要把交叉的腿驅得更深、跨過他們的髖部,並把你的髖部往前挪近,在他們能完全伸直之前拉近距離來反制。",
+    "safety_critical": false,
+    "answer_line": "繼續旋轉,加深髖部控制",
+    "distractors": {
+     "plausible": [
+      "放開抓法重新調整位置",
+      "立刻轉換成 heel hook"
+     ],
+     "trap": [
+      "把髖部往後退拉開距離"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 Toe Hold 過程中主動繃緊腳掌並蜷起腳趾,你該如何調整抓法?",
+    "answer": "用你橫跨腳底的前臂當作撬棍,對抗這個繃緊動作。把抓握位置稍微往上滑,讓前臂橫跨蹠骨頭而不是腳趾本身。維持 figure-four 的壓力,用小幅度的脈動式調整逐漸克服繃緊。腳掌繃緊對防守者來說很耗體力,如果你維持穩定的反壓力而不是爆發式地硬拚,10 到 15 秒內就會鬆懈下來。",
+    "safety_critical": false,
+    "answer_line": "用前臂撬,抓握位置上移",
+    "distractors": {
+     "plausible": [
+      "換手,再重新完整抓握",
+      "改成側向扭轉腳踝"
+     ],
+     "trap": [
+      "放手改追 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "訓練 Honey Hole 的 Toe Hold 時必須遵守哪些安全守則?",
+    "answer": "所有施力至少要花 5 到 7 秒,絕不能有突然的旋轉力。永遠橫跨多個腳趾和前足球部抓握,絕不孤立抓單一腳趾。全程保持讓夥伴能清楚拍降的空間。一有異常的爆裂聲或不適跡象就立刻停止。絕不把 Toe Hold 的壓力和爆發性的髖部伸展結合。拍降後要漸進放開,而不是直接把腳丟開。繼續之前先確認夥伴沒事。",
+    "safety_critical": true,
+    "answer_line": "慢慢來 5-7 秒,抓整隻腳",
+    "distractors": {
+     "plausible": [
+      "只抓大拇趾,動作放慢",
+      "拍降瞬間立刻放開"
+     ],
+     "trap": [
+      "像 heel hook 一樣快速扭斷"
+     ]
+    }
+   },
+   {
+    "question": "相較於從 Outside Ashi-Garami 施展,Honey Hole 的內側腿三角如何增強 Toe Hold 的效果?",
+    "answer": "內側腿三角透過交叉的腿把對手的髖部固定住,阻止了在多數 Outside Ashi-Garami 的 Toe Hold 中能破解攻擊的旋轉逃脫。在 Outside Ashi 中,對手可以自由轉動髖部,讓腳跟著旋轉壓力對齊,化解扭力。從 Honey Hole 施展時,這種旋轉在機械上被阻擋,代表 Toe Hold 的全部旋轉力都會傳入踝關節和腳部構造,而不會因髖部動作而消散。",
+    "safety_critical": false,
+    "answer_line": "阻擋髖部旋轉逃脫",
+    "distractors": {
+     "plausible": [
+      "能更好地抓到腳趾",
+      "讓完成技來得更快"
+     ],
+     "trap": [
+      "讓對手能自由轉動髖部"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降後,你應該如何釋放 Toe Hold?",
+    "answer": "聽到或感覺到拍降後,立即停止所有旋轉壓力,但不要突然放開腳。花 1 到 2 秒漸進解開 figure-four 抓法,同時保持對腳的輕微接觸。讓對手的腳自然回到它原本的位置,而不是直接丟開。接著再放開你的腿部三角。持續施壓後突然放開,可能對已經承受壓力的韌帶造成傷害。恢復之前一定要先問夥伴是否沒事。",
+    "safety_critical": true,
+    "answer_line": "漸進解開抓法,再放開",
+    "distractors": {
+     "plausible": [
+      "立刻把腳丟開",
+      "先放三角再放抓法"
+     ],
+     "trap": [
+      "一口氣把抓法扯掉"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正從 heel hook 轉換到 Honey Hole 的 Toe Hold?",
+    "answer": "關鍵辨識線索是:對手放鬆對你腳跟的壓力,他們的手移向你的腳趾或前足球部,你感覺到他們的前臂開始橫跨你的腳底,而且他們的抓法從托住腳跟變成環繞你前足的 figure-four 配置。這個轉換大約需要 1 到 2 秒,是你主要的逃脫窗口。",
+    "safety_critical": false,
+    "answer_line": "抓法轉為 figure-four",
+    "distractors": {
+     "plausible": [
+      "他們更用力夾緊你的腳跟",
+      "他們把你的腿完全拉直"
+     ],
+     "trap": [
+      "他們已經放棄攻擊了"
+     ]
+    }
+   },
+   {
+    "question": "對 Honey Hole 的 Toe Hold,正確的拍降時機是什麼時候?",
+    "answer": "當你感覺到腳和踝關節開始承受旋轉壓力時,立刻拍降。不要試圖硬撐對抗已經建立的壓力。腳部較小的關節,尤其是 Lisfranc 關節和踝關節韌帶,在明顯更小的力道和更少的警訊下就會受傷,不像 heel hook 針對的膝關節韌帶。如果你正在猶豫要不要拍,那你早就該拍了。",
+    "safety_critical": true,
+    "answer_line": "一有扭力跡象就拍降",
+    "distractors": {
+     "plausible": [
+      "只有劇痛出現才拍",
+      "聽到爆裂聲才拍"
+     ],
+     "trap": [
+      "先試著用力掙脫"
+     ]
+    }
+   },
+   {
+    "question": "在從 heel hook 轉換到 Toe Hold 的抓握過程中,你有哪些防禦動作可用?",
+    "answer": "在這 1 到 2 秒的抓握轉換窗口中,你可以:爆發性地轉動髖部進入 50-50 逃離纏繞、如果腿三角鬆動就把腳踢脫,或者蜷起腳趾並繃緊腳掌來延遲抓法建立。髖部旋轉逃脫是成功率最高的方式。一旦 figure-four 抓法鎖死,所有防禦都會大幅失效。",
+    "safety_critical": false,
+    "answer_line": "轉動髖部進入 50-50",
+    "distractors": {
+     "plausible": [
+      "去破壞他們的 figure-four 抓法",
+      "把膝蓋拉向胸口"
+     ],
+     "trap": [
+      "把腿踢直硬掙脫"
+     ]
+    }
+   },
+   {
+    "question": "被 Honey Hole 的 Toe Hold 困住時,什麼身體對位能將受傷風險降到最低?",
+    "answer": "讓你被困住的腳與膝蓋保持對齊,方法是把整個身體轉向與旋轉壓力相同的方向。絕不要讓你的腳朝向和膝蓋不同的方向,因為這種錯位會讓踝關節韌帶承受集中的壓力。如果你無法維持對齊,並感覺到壓力增加,要立刻拍降,而不是讓腳和膝蓋往相反方向扭轉。",
+    "safety_critical": true,
+    "answer_line": "讓腳與膝蓋保持對齊",
+    "distractors": {
+     "plausible": [
+      "把腳指向遠離壓力的方向",
+      "把膝蓋完全伸直"
+     ],
+     "trap": [
+      "把腳往膝蓋反方向扭"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Honey Hole 的 Toe Hold 比其他位置的 Toe Hold 更危險?",
+    "answer": "Honey Hole 的內側腿三角透過交叉的腿把你的髖部完全固定住,阻止了通常能化解 Open Ashi 位置 Toe Hold 的旋轉逃脫。在 Outside Ashi-Garami 中,你可以轉動髖部使其與壓力方向對齊來緩解扭力。從 Honey Hole 施展時,這種旋轉在機械上被阻擋,代表全部的旋轉力會直接傳入你的踝關節和腳部構造,不會透過髖部動作消散。",
+    "safety_critical": false,
+    "answer_line": "髖部被固定,無法旋轉逃脫",
+    "distractors": {
+     "plausible": [
+      "比其他位置抓握更快",
+      "只在 no-gi 規則下有效"
+     ],
+     "trap": [
+      "很容易旋轉髖部逃脫"
+     ]
+    }
+   }
+  ]
+ }
+}

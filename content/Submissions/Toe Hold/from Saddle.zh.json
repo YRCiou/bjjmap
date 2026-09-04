@@ -1,0 +1,210 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Saddle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Saddle 施展的 Toe Hold 主要攻擊哪些解剖構造？",
+    "answer": "從 Saddle 施展的 Toe Hold 主要透過旋轉壓力攻擊踝關節韌帶，特別是外側和內側副韌帶。次要目標包括中足的 Lisfranc 關節複合體、腳趾與前足較小的骨頭與韌帶，以及足底筋膜。Saddle 對膝蓋線的控制，讓對手無法透過腿部移動來卸掉這股旋轉力，使壓力集中在這些脆弱的構造上。",
+    "safety_critical": false,
+    "answer_line": "踝關節副韌帶",
+    "distractors": {
+     "plausible": [
+      "阿基里斯腱附著處",
+      "旋轉下的膝關節 ACL"
+     ],
+     "trap": [
+      "只傷腳趾——可以安心撐過去"
+     ]
+    }
+   },
+   {
+    "question": "從 Saddle 位置轉換到 Toe Hold 握法之前，必須先完全建立哪些控制？",
+    "answer": "轉換到 Toe Hold 之前，你必須與對手保持垂直的身體角度、對被纏住的大腿施加沉重的髖部壓力、透過纏腿確保穩固的內側位置，並清除對手髖部上所有的防守 frame。握法轉換的過程會暫時降低位置控制力，如果沒具備這些前提就貿然轉換，會讓對手趁機逃脫。位置上的主導權必須先建立，才能進行任何完成技術的握法轉換。",
+    "safety_critical": false,
+    "answer_line": "垂直髖位、清除對方 frame",
+    "distractors": {
+     "plausible": [
+      "只要固定 underhook 就好",
+      "腳已經被牢牢纏住"
+     ],
+     "trap": [
+      "先握法、位置之後再說"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體上的跡象顯示 Toe Hold 正逼近極限、對手即將 tap？",
+    "answer": "關鍵跡象包括：對手的腳開始旋轉超出自然活動範圍、踝關節部位出現明顯的緊繃、對手的身體因本能抵抗旋轉而變得僵硬，以及在破握上展現越來越急迫的防守動作。你也可能感覺到關節的結構性阻力從有彈性的抵抗轉變成更硬的終末感。出現任一跡象時，維持壓力但不要突然加大，給對手時間 tap。",
+    "safety_critical": true,
+    "answer_line": "腳旋轉超出正常範圍",
+    "distractors": {
+     "plausible": [
+      "對方呼吸變快",
+      "你的握法開始滑動"
+     ],
+     "trap": [
+      "加大扭力逼對方 tap"
+     ]
+    }
+   },
+   {
+    "question": "如果對手開始主動旋轉腳來破解 Toe Hold，你該如何調整握法？",
+    "answer": "如果對手旋轉腳想破解握法，把手往腳跟那一側加深，那裡有更大的表面積可以抓握。把手肘往身體收緊來加強 figure-four。如果握法部分鬆脫，立刻做出判斷：要麼在維持 saddle 控制的同時乾淨地重新建立握法，要麼如果旋轉重新暴露出腳跟，就轉換攻擊 heel hook。絕不要用鬆散的雙手去追一個正在流失的握法。",
+    "safety_critical": false,
+    "answer_line": "加深握位、收緊 figure-four",
+    "distractors": {
+     "plausible": [
+      "把手滑向腳趾方向",
+      "用手臂拉、讓髖部放鬆"
+     ],
+     "trap": [
+      "用鬆散的雙手去追握法"
+     ]
+    }
+   },
+   {
+    "question": "從 Saddle 施展 Toe Hold 時最常見的完成錯誤是什麼？這如何造成危險？",
+    "answer": "最常見的完成錯誤是過快或過於爆發性地施加旋轉壓力。和勒頸不同——對手在勒頸中會逐漸失去意識，全程都有機會 tap——Toe Hold 攻擊的是較小的韌帶和骨頭，可能在沒有明顯警訊疼痛的情況下突然失效。爆發性施力可能在對手察覺危險並 tap 之前，就造成踝關節韌帶撕裂、腳趾骨折或 Lisfranc 關節損傷。所有旋轉壓力都必須至少花 5 到 7 秒漸進累積。",
+    "safety_critical": true,
+    "answer_line": "旋轉太快、太爆發",
+    "distractors": {
+     "plausible": [
+      "握得不夠緊",
+      "手在腳上的位置不對"
+     ],
+     "trap": [
+      "tap 之後還繼續鎖住"
+     ]
+    }
+   },
+   {
+    "question": "在施展 Toe Hold 的過程中，到什麼時間點防守者幾乎不可能逃脫？",
+    "answer": "一旦 figure-four 握法完全鎖死、腳被拉緊貼向攻擊者的胸口，且旋轉壓力已經開始，逃脫就會變得極度困難。此時，防守者的選項只剩下 tap 或嘗試緊急清髖。防守行動的關鍵窗口是在 figure-four 鎖死之前——一旦雙手扣合、腳被固定在胸口，機械優勢就會壓倒性地偏向攻擊者，踝關節也立刻陷入危險。",
+    "safety_critical": false,
+    "answer_line": "figure-four 鎖死、腳貼胸口",
+    "distractors": {
+     "plausible": [
+      "一進入 saddle 的瞬間",
+      "第一隻手扣上之後"
+     ],
+     "trap": [
+      "等感覺到疼痛再行動"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，放開 Toe Hold 的正確流程是什麼？",
+    "answer": "一感覺到或聽到任何 tap 訊號，立刻停止所有旋轉壓力。放開 figure-four 握法，雙手離開對方的腳。讓對手的腳自然回到中立位置，不要強行推回去。在夥伴確認自己沒事之前，保持輕微接觸。不要粗暴地把腳一把甩開，這可能造成二次拉傷。恢復訓練前先跟訓練夥伴確認狀況，如果有任何受傷跡象，就完全停止這一回合。",
+    "safety_critical": true,
+    "answer_line": "立刻停止、輕柔放開",
+    "distractors": {
+     "plausible": [
+      "慢慢逐漸放鬆壓力",
+      "撐到對方說沒事為止"
+     ],
+     "trap": [
+      "快速把腳甩開"
+     ]
+    }
+   },
+   {
+    "question": "在合法使用 heel hook 的賽制中，從 Saddle 施展的 Toe Hold 如何融入比賽策略？",
+    "answer": "在允許 heel hook 的賽制中，從 Saddle 的 Toe Hold 作為次要威脅，讓主要的 heel hook 更加有效。當對手專注於藏住腳跟時，Toe Hold 正好懲罰這個特定的防守選擇。它的策略價值不在於 Toe Hold 本身，而在於它所製造的兩難：同時害怕兩種攻擊的對手，會做出妥協的防守選擇，進而讓其中一招有機可乘。比賽中，根據對手的反應在 heel hook 握法和 Toe Hold 握法之間交替切換，直到他們的防守崩潰。",
+    "answer_line": "作為 heel hook 的次要威脅",
+    "distractors": {
+     "plausible": [
+      "Toe hold 是主要完成招式",
+      "只在有 gi 規則下才有用"
+     ],
+     "trap": [
+      "放開 saddle 去追那隻腳"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何察覺對手正從 heel hook 轉換到從 Saddle 施展的 Toe Hold？",
+    "answer": "留意握法的變化：對手放開原本標準的 heel hook 握法，改為從你腳的上方伸手，而不是從下方包住腳跟。你會感覺到包裹壓力落在腳掌前緣和腳趾上，而不是包住腳跟的壓力。對手也可能微調上半身的角度，以配合 figure-four 鎖法所需的不同握法配置。",
+    "safety_critical": false,
+    "answer_line": "握法移到腳上方，不是腳跟",
+    "distractors": {
+     "plausible": [
+      "更深地包住你的腳跟",
+      "對方髖部往你頭部方向滑動"
+     ],
+     "trap": [
+      "無視它、繼續藏腳跟"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Saddle 施展的 Toe Hold，什麼時候 tap 最安全？",
+    "answer": "一感覺到 figure-four 握法鎖死、踝關節開始出現任何旋轉壓力，就要立刻 tap。Toe Hold 攻擊的是較小的韌帶和骨頭，可能在沒有漸進式警訊疼痛的情況下突然失效，這和意識會逐漸消退的勒頸不同。一旦 figure-four 固定、旋轉開始，逃脫的窗口就會非常小。在踝關節第一次感受到旋轉壓力時就用口頭和肢體 tap，不要等著看自己能不能逃脫。",
+    "safety_critical": true,
+    "answer_line": "一感覺到旋轉壓力就 tap",
+    "distractors": {
+     "plausible": [
+      "等疼痛變劇烈才 tap",
+      "腿完全無法抽動時才 tap"
+     ],
+     "trap": [
+      "只有聽到爆裂聲才 tap"
+     ]
+    }
+   },
+   {
+    "question": "在 Toe Hold 的 figure-four 握法完全鎖死之前，你有哪些防守行動可以採取？",
+    "answer": "在 figure-four 鎖死之前，你可以用雙手對單手的方式破解初始的握法、伸直腿來消除旋轉角度、用 frame 頂住對手的髖部創造抽腿空間，或旋轉你的腳讓握法難以建立。這個窗口很小，因為對手只需要幾秒鐘就能鎖上 figure-four，所以及早察覺並立即行動，是成功防守的關鍵。",
+    "safety_critical": false,
+    "answer_line": "趁握法鎖死前先破解",
+    "distractors": {
+     "plausible": [
+      "屈膝縮短腿的長度",
+      "用雙手抓住對方的腳"
+     ],
+     "trap": [
+      "朝著扭轉的方向翻滾"
+     ]
+    }
+   },
+   {
+    "question": "當 Toe Hold 的旋轉已經開始時，為什麼把腿硬拉離開會很危險？",
+    "answer": "把腿拉開，會把你自己的肌肉力量疊加到對手已經施加在踝關節上的旋轉壓力中。這會放大韌帶所承受的扭力，可能讓踝關節在你和對手都來不及反應之前就發生災難性損傷。正確的做法是把身體朝對手移動，藉此縮短有效的力臂，降低關節所承受的旋轉壓力。",
+    "safety_critical": true,
+    "answer_line": "增加扭力，可能扭斷腳踝",
+    "distractors": {
+     "plausible": [
+      "會鬆開對方的 figure-four 握法",
+      "只是讓你的膕繩肌更累"
+     ],
+     "trap": [
+      "這是最好的逃脫方式"
+     ]
+    }
+   },
+   {
+    "question": "當攻擊者控制住 Saddle 時，防守者面臨的提交兩難是什麼？",
+    "answer": "防守者必須在藏住腳跟以防止 heel hook——但這會讓腳掌前緣暴露給 Toe Hold——以及保護前足，卻又重新讓腳跟暴露給 heel hook 攻擊之間做選擇。這種被迫在兩種提交威脅之間抉擇，正是 Saddle 位置如此危險的原因。唯一真正的解法是逃離底層的纏腿結構，而不是試圖無限期地逐一防守各別的提交。",
+    "answer_line": "藏腳跟就暴露前足",
+    "distractors": {
+     "plausible": [
+      "保護前足永遠是對的",
+      "兩種握法都要同樣用力對抗"
+     ],
+     "trap": [
+      "逐一防守每個提交就好"
+     ]
+    }
+   }
+  ]
+ }
+}

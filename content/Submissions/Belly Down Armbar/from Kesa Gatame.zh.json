@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Kesa Gatame 施展的 belly down armbar 主要攻擊哪個解剖結構？",
+    "answer": "主要目標是肘關節，具體來說是讓它超出自然活動範圍過度伸展。這個 submission 利用髖部伸展作為支點頂住肘後方，同時控制並抬起手腕，對尺側副韌帶和關節囊施加壓力。二次的壓力則作用在肱二頭肌肌腱上，因為它要在攻擊方全身重量的作用下抵抗這股強迫伸展的力量。",
+    "safety_critical": false,
+    "answer_line": "肘關節",
+    "distractors": {
+     "plausible": [
+      "肩關節",
+      "腕關節"
+     ],
+     "trap": [
+      "頸部／頸椎"
+     ]
+    }
+   },
+   {
+    "question": "從 Kesa Gatame 開始 step-over 旋轉之前，必須先建立什麼抓握？",
+    "answer": "開始任何旋轉之前，先確保 two-on-one 手腕控制，雙手都抓住對手的手腕和前臂。單手抓握是不夠的，因為 step-over 過程中的旋轉力量很容易把單手抓握破壞掉，導致失去這隻手臂，也讓 position 變得不利。靠近的那隻手控制手腕關節，另一隻手則在稍上方的前臂做加固。",
+    "safety_critical": false,
+    "answer_line": "雙手 two-on-one 抓手腕和前臂",
+    "distractors": {
+     "plausible": [
+      "單手抓 sleeve",
+      "扣住對側肩胛骨"
+     ],
+     "trap": [
+      "放開手臂，改抱住脖子"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中對手雙手互扣——該怎麼調整才能防止逃脫？",
+    "answer": "把髖部向前推進他們互扣的雙手，在抓握上製造分離的力量。你也可以用膝蓋楔入他們的前臂之間，用機械方式把抓握撬開。如果抓握還是鎖住的，可以考慮改攻上方那隻手臂做 kimura，或是控制住互扣的雙手做 americana。不要單純用手臂力量硬碰硬去對抗鎖死的 Gable grip，這樣只會浪費體力。",
+    "safety_critical": false,
+    "answer_line": "髖部推進加膝蓋楔入撬開",
+    "distractors": {
+     "plausible": [
+      "把雙手直接往上拉扯",
+      "把頭夾得更緊"
+     ],
+     "trap": [
+      "硬拚抓握，失去 base"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down armbar 的流程中，對手真正還有機會逃脫的窗口在什麼時候關閉？",
+    "answer": "真正無法逃脫的關鍵點，出現在攻擊方已經完全轉入 belly-down 趴姿、雙膝夾緊，並且對手的手臂被正確地以拇指朝上的方向夾在大腿之間。在這個時間點之前，也就是 step-over 和旋轉階段，防守方還有實際的逃脫機會，可以靠抽手臂、跟著旋轉方向轉動，或是爆發性 bridge。一旦趴姿鎖定，機械上的優勢就已經壓倒性了。",
+    "safety_critical": false,
+    "answer_line": "趴姿鎖定，雙膝夾緊",
+    "distractors": {
+     "plausible": [
+      "手腕抓握一到位就算",
+      "step-over 進行到一半"
+     ],
+     "trap": [
+      "永遠不會——後期都還能逃"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，該如何放開 belly down armbar？",
+    "answer": "先放開伸展壓力，把手腕放回中立位置，解除對肘關節的過度伸展力量。接著鬆開夾緊的雙膝，放開被困住的手臂。最後完全脫離你的身體位置，讓夥伴恢復。tap 之後絕對不要哪怕只是短暫維持這個 position。放開後檢查夥伴手臂的活動度和是否感到不適，再繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "先放手腕，再放膝蓋，然後放開",
+    "distractors": {
+     "plausible": [
+      "先放開夾緊的膝蓋",
+      "一次全部放開"
+     ],
+     "trap": [
+      "稍微撐一下確認 tap"
+     ]
+    }
+   },
+   {
+    "question": "為什麼這個特定的 armbar 變化型特別需要循序漸進地施加壓力？",
+    "answer": "belly-down 姿勢比標準的仰躺式 armbar 能創造出大得多的機械優勢，因為攻擊方全身重量加上髖部伸展的力量都集中作用在被隔離的肘關節上。這種被放大的槓桿效果，代表關節受傷的速度會比練習者預期的快很多。猛拉或突然發力可能會在防守方來得及察覺危險、tap 之前就造成嚴重的韌帶損傷。以這樣極端的槓桿優勢來說，慢而穩定的伸展力道就已經足夠。",
+    "safety_critical": true,
+    "answer_line": "身體重量加髖部力量放大槓桿",
+    "distractors": {
+     "plausible": [
+      "肘關節本身特別脆弱",
+      "Kesa Gatame 限制了你的控制"
+     ],
+     "trap": [
+      "快速發力把手臂做完"
+     ]
+    }
+   },
+   {
+    "question": "施加 finish 的伸展力之前，該確認什麼樣的拇指方向？",
+    "answer": "在 belly-down 姿勢中，對手的拇指應該朝向天花板。這個方向能確保過度伸展的力量正確地作用在肘關節的自然彎曲平面上。如果拇指轉向側邊或朝下，施力的角度就會偏移，可能讓對手有機會做 hitchhiker escape，或是變成扭轉的壓力，而不是乾淨俐落的過度伸展。若拇指轉動，要用身體跟著調整，維持正確的對位。",
+    "safety_critical": false,
+    "answer_line": "拇指朝上",
+    "distractors": {
+     "plausible": [
+      "拇指朝向側邊",
+      "拇指朝向地墊"
+     ],
+     "trap": [
+      "拇指方向並不重要"
+     ]
+    }
+   },
+   {
+    "question": "你進行 step-over 時對手開始 bridge——最好的應對方式是什麼？",
+    "answer": "在轉換過程中，透過髖部把重量持續往下壓在他們胸口上，保持沉重。如果 bridge 特別爆發性，你有兩個選擇：放棄這次的 belly-down 嘗試，重新回到穩固的 Kesa Gatame 維持優勢 position；或是利用他們 bridge 的動量，把 step-over 的時機配合他們向上的動作，更快完成旋轉。要選哪一個，取決於 bridge 過程中你的手腕抓握還維持得多穩。",
+    "safety_critical": false,
+    "answer_line": "保持沉重，順勢完成或重回 Kesa",
+    "distractors": {
+     "plausible": [
+      "放開抓握、之後再攻",
+      "不管怎樣都硬做 step-over"
+     ],
+     "trap": [
+      "把髖部抬高避開 bridge"
+     ]
+    }
+   },
+   {
+    "question": "從 Kesa Gatame 進入 belly down armbar，和從 mount 進入相比，差異在哪裡？",
+    "answer": "從 Kesa Gatame 開始時，攻擊方已經與對手呈垂直角度，手臂也已被夾在腋下，代表旋轉到 belly-down 的距離較短，手臂也已經先被隔離。從 mount 開始，攻擊方必須先隔離一隻手臂，再把腿甩過對手頭部，並從坐直姿勢轉換到趴姿。Kesa Gatame 的切入方式更直接，因為身體角度已經朝向正確的方向來完成趴姿 finish，而且對頭部的控制也限制了對手坐起來跟著旋轉的能力。",
+    "safety_critical": false,
+    "answer_line": "旋轉距離更短，手臂已先被隔離",
+    "distractors": {
+     "plausible": [
+      "距離跟從 mount 一樣",
+      "也得像從 mount 一樣先隔離手臂"
+     ],
+     "trap": [
+      "這裡不需要控制頭部"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在轉換過程中部分抽出手臂，該如何維持控制？",
+    "answer": "如果你感覺到旋轉過程中手臂正在滑脫，要立刻放棄 belly-down 的轉換，回到 Kesa Gatame 控制。不要為了追一隻已經部分掙脫的手臂而硬衝進趴姿，這樣容易造成混戰，讓你反而落入不利的 position。重新把手臂夾回腋下、重新建立頭部控制，並重新開始這套 submission 流程。從 Kesa Gatame 失敗的嘗試，會讓你回到毫無風險的優勢 position。",
+    "safety_critical": false,
+    "answer_line": "放棄動作，回到 Kesa Gatame",
+    "distractors": {
+     "plausible": [
+      "改成加快旋轉速度",
+      "轉換途中換手抓握"
+     ],
+     "trap": [
+      "硬追手臂進入趴姿"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正從 Kesa Gatame 設置 belly down armbar？",
+    "answer": "最主要的辨識訊號是對手放開原本纏繞頭部的那隻手，把雙手都轉去控制你被困住的手腕和前臂。這個抓握的改變，是進行 step-over 旋轉前必要的準備動作。次要訊號包括感覺到對手遠側的腿抬離地墊，以及他們的重量從垂直的胸口壓力轉移到你的手臂和肩膀區域。一察覺到第一次抓握改變，就要立刻反應。",
+    "safety_critical": false,
+    "answer_line": "放開頭部的手去抓手腕",
+    "distractors": {
+     "plausible": [
+      "雙膝都頂進你的肋骨",
+      "胸口壓力突然增加"
+     ],
+     "trap": [
+      "等到腿甩過頭再反應"
+     ]
+    }
+   },
+   {
+    "question": "被 Kesa Gatame 的 belly down armbar 鎖住時，最安全的 tap 方式是什麼？",
+    "answer": "用任何可行的方式大聲清楚地 tap：清楚喊出「tap」的口頭 tap、用你自由的那隻手在攻擊方身上或地墊上做出實際的拍打，或是用腳拍地墊。因為被困住的手臂已經無法動彈，你自由的那隻手和口頭訊號是主要的選項。感覺到伸展開始出現時就要提早 tap，不要等到痛感非常劇烈才 tap。belly-down 姿勢放大力量的速度非常快，太晚 tap 會有真正造成韌帶損傷的風險。",
+    "safety_critical": true,
+    "answer_line": "早一點大聲 tap，用聲音或手",
+    "distractors": {
+     "plausible": [
+      "用被困住的那隻手 tap",
+      "搖頭當作訊號"
+     ],
+     "trap": [
+      "等到痛感非常劇烈再說"
+     ]
+    }
+   },
+   {
+    "question": "在 step-over 轉換階段，有哪些防守選項？",
+    "answer": "在 step-over 過程中，攻擊方因為要抬腿，base 會暫時變得不穩。你主要的選項是：雙手互扣，阻止手臂被隔離；爆發性地朝攻擊方 bridge，打亂他們的平衡；轉動身體跟著他們旋轉的方向，防止手臂被隔離；或是把手肘拉緊，朝 turtle 方向轉離。最可靠的防守是把雙手互扣和 bridge 結合起來，同時解決防止抓握和打亂 base 這兩個問題。",
+    "safety_critical": false,
+    "answer_line": "雙手互扣並朝他們 bridge",
+    "distractors": {
+     "plausible": [
+      "用自由的手推他們的膝蓋",
+      "伸手去抓他們遠側的腳踝"
+     ],
+     "trap": [
+      "把手臂伸直好滑出來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼一旦趴姿建立，belly down armbar 就變得很難防守？",
+    "answer": "趴姿讓攻擊方能把全身重量加上髖部伸展的力量，全部集中在被隔離的肘關節上。跟標準仰躺式 armbar 不同的是，防守方在仰躺式中還能疊架、挺胸或旋轉來緩解壓力，但 belly-down 姿勢把這些防守角度都消除了。攻擊方大腿的夾緊阻止手臂被抽出，地面阻止手臂向下移動，這個機械優勢比例是所有 grappling submission 中數一數二高的。",
+    "safety_critical": false,
+    "answer_line": "沒有疊架、挺胸或滾動的角度",
+    "distractors": {
+     "plausible": [
+      "還是可以挺胸防守",
+      "轉開身體能緩解壓力"
+     ],
+     "trap": [
+      "用力 bridge 把 position 翻轉"
+     ]
+    }
+   },
+   {
+    "question": "對手已經控制住你的手腕，但還沒有做 step-over——你最有效的應對方式是什麼？",
+    "answer": "立刻用 Gable grip 或 S-grip 把雙手互扣，防止手臂被隔離。同時把被困住的手肘拉緊貼住肋骨，並開始朝對手 bridge，壓縮他們做 step-over 所需要的空間。如果你能完全掙脫手腕控制，立刻重新建立防守 frame，執行標準的 Kesa Gatame 下位逃脫。step-over 之前的階段是你最好的防守窗口，因為一旦腿越過你的頭部，選項就會大幅減少。",
+    "safety_critical": false,
+    "answer_line": "雙手互扣、手肘拉緊、bridge",
+    "distractors": {
+     "plausible": [
+      "挺身製造空間",
+      "單手把他們的頭推開"
+     ],
+     "trap": [
+      "等他們做完 step-over 再說"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Kesa Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

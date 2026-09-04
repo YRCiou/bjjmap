@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Short Choke/from Seat Belt Control Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Seat Belt Control Back 打出的 Short Choke 主要攻擊哪些解剖構造？",
+    "answer": "Short Choke 主要攻擊頸部兩側的頸動脈。穿過喉嚨的 lapel 布料對這些動脈造成雙側壓迫，阻斷流向腦部的血流。正確施作時，會在 6 到 10 秒內造成失去意識。如果施作不當，可能變成壓迫氣管，會造成不適與咳嗽，但作為降伏技的效率較低。",
+    "answer_line": "雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "只壓迫頸靜脈",
+      "只壓一側頸動脈"
+     ],
+     "trap": [
+      "壓迫氣管/呼吸道"
+     ]
+    }
+   },
+   {
+    "question": "哪些徵兆能告訴你這個 choke 正確壓在頸動脈上，而不是壓碎氣管？",
+    "answer": "正確定位的血液 choke 會讓對手的臉色出現明顯變化（脹紅），並讓他們感覺頭暈或視野變窄，但不會有明顯的呼吸困難。如果對手在咳嗽、乾嘔或發出沙啞的呼吸聲，代表壓力壓在氣管而不是頸動脈上。這時應調整成把 lapel 稍微往下拉，並確保前臂壓力是側向壓在頸部兩側，而不是壓在喉嚨中央。",
+    "answer_line": "臉脹紅、頭暈、沒有乾嘔",
+    "distractors": {
+     "plausible": [
+      "咳嗽代表有效",
+      "喘不過氣是正常的"
+     ],
+     "trap": [
+      "把前臂推向喉嚨中央"
+     ]
+    }
+   },
+   {
+    "question": "在投入切換到抓 collar 之前，必須先建立哪些位置控制要素？",
+    "answer": "在放開過手去抓 collar 之前，你必須讓兩個 hooks 都深深掛進對手大腿內側並持續向內施壓、維持胸貼背零空隙的緊密連結、下手臂已能穩固單獨維持控制、並且體重透過核心與雙腿分散，而不是仰賴 seat belt grip。如果這些要素有任何一項不到位，就應該先重新建立完整的 seat belt control，再嘗試進攻 collar。",
+    "answer_line": "放開前先讓下手臂能單獨撐住",
+    "distractors": {
+     "plausible": [
+      "先抓 collar，之後再顧 hooks",
+      "只要 grip 夠緊，胸口有空隙也沒差"
+     ],
+     "trap": [
+      "放開 seat belt 去抓 collar"
+     ]
+    }
+   },
+   {
+    "question": "在 Short Choke 的進攻順序中，對手在哪個時間點會抵達無法逃脫的臨界點？",
+    "answer": "無法逃脫的臨界點出現在 lapel 已完全穿過喉嚨、第二個 grip 也已經雙手都靠近頸部鎖住 cross-collar 型態之後。到了這個階段，對手若不放棄頸部防守就無法剝除 grip，而且任何動作都會讓 collar 更緊，choke 壓力因此會自我加強。在這個時間點之前，也就是初期抓 collar 和穿 lapel 的階段，對手仍然有實際可行的防守選項可以剝除或阻擋這個 choke。",
+    "answer_line": "Lapel 穿過、cross-collar 已鎖死",
+    "distractors": {
+     "plausible": [
+      "一抓到 collar 就算",
+      "兩個 hooks 都掛好時"
+     ],
+     "trap": [
+      "一旦建立 back control 就算"
+     ]
+    }
+   },
+   {
+    "question": "對手把手指塞進 collar 與頸部之間來防守 Short Choke——你該怎麼完成這個 choke？",
+    "answer": "透過擴胸與收肘施加漸進式的完成壓力，而不是硬要跟對手的防守手指比力氣。事實上，隨著 collar 收緊，對手的手指反而會把壓力傳導到頸部，讓他的防守變成幫倒忙——只要施加足夠力量就是如此。把髖部向前推，同時擴胸，產生足以壓制手指防守的壓縮力量。如果對手的手指製造出足夠空間拖延完成，可以考慮改攻擊他伸出來防守的那隻手臂，打 armbar。",
+    "answer_line": "擴胸、收肘",
+    "distractors": {
+     "plausible": [
+      "先把對手的手指扳開",
+      "用雙手更用力拉"
+     ],
+     "trap": [
+      "放開 grip 重新設置 choke"
+     ]
+    }
+   },
+   {
+    "question": "如果 collar 布料又厚又硬、很難穿過喉嚨，該怎麼調整握法？",
+    "answer": "遇到又厚又硬的 collar 布料時，把四根手指插入超過第二關節深度抓握，增加對布料的抓力。用往你髖部方向拉的動作、而不是直接橫拉過喉嚨的方式，先破壞 collar 的阻力，等它鬆開後再改方向拉過去。你也可以先抓胸口位置較低、布料較多的 lapel，等布料鬆開後再一路把握把往頸部推上去。在比賽中，因流汗而稍微濕潤的 collar 布料其實反而有助於穿入。",
+    "answer_line": "抓深、先往髖部方向拉",
+    "distractors": {
+     "plausible": [
+      "直接用力橫拉過喉嚨",
+      "改用徒手 choke"
+     ],
+     "trap": [
+      "只用指尖淺淺抓握"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施作 Short Choke 時，有哪些關鍵的安全準則？",
+    "answer": "在訓練中至少花 3 到 5 秒緩慢、漸進地施加壓力。留意訓練夥伴是否出現失去意識的徵兆，包括身體突然放鬆、手臂垂下或防守動作停止。只要看到任何拍降訊號，不論是口頭拍、拍打你身體或地墊、或用腳拍，都要立刻放開。放開後，把體重完全移離對手軀幹，並確認他的意識狀態。如果發生失去意識的情況，要抬高他的雙腿、確保呼吸道暢通，並且那個訓練回合不要再施作這個 choke。",
+    "answer_line": "緩慢施壓、任何拍降都立刻放開",
+    "distractors": {
+     "plausible": [
+      "只有口頭訊號才算數",
+      "數到五再放開"
+     ],
+     "trap": [
+      "choke 多撐一拍再放"
+     ]
+    }
+   },
+   {
+    "question": "Short Choke 如何與 RNC 整合成一套從 back control 發動的雙威脅攻擊系統？",
+    "answer": "RNC 與 Short Choke 構成一套互補的兩難系統。當對手為了防守 RNC 而縮緊下巴、把雙手都投入喉嚨防守時，他的 collar 就會露出破綻讓 Short Choke 得以進攻。當對手為了防守 collar 而調整把 lapel 拉離頸部時，就必須放棄縮下巴的防守，重新露出 RNC 的攻擊路線。持續在這兩種威脅間循環，能有系統地瓦解任何靜態防守姿態，因為防守其中一個就必然會露出另一個。",
+    "answer_line": "防守其中一個，就會露出另一個",
+    "distractors": {
+     "plausible": [
+      "永遠先攻擊 RNC",
+      "縮下巴能同時擋住兩種威脅"
+     ],
+     "trap": [
+      "放棄 back control 去切換攻擊"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手把下巴埋得死死的、雙手鎖在你的手腕上拖延時間——你該怎麼製造 Short Choke 的破綻？",
+    "answer": "透過髖部前推與收緊 hooks 施加漸進式的身體壓力，讓這個位置變得越來越不舒服。用微幅調整，一邊維持手腕對手腕的接觸來掩飾意圖，一邊逐步把過手往 collar 一線移動。用雙腿搖晃或頂撞對手，打亂他的握持節奏，製造他的手短暫移位的空檔。趁著這些空檔的其中一個時機切入抓 collar。你也可以開始隔離對手的手腕、威脅打 armbar，逼他放開鎖死的握法來防守。",
+    "answer_line": "累積壓力、趁 grip 移位時切入",
+    "distractors": {
+     "plausible": [
+      "先用 armbar 威脅開路",
+      "硬把兩隻手都從手腕上扯開"
+     ],
+     "trap": [
+      "放開 hooks 好騰出手臂"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降後，該怎麼安全地放開 Short Choke？",
+    "answer": "一感覺到或聽到拍降訊號，立刻鬆開雙手、放掉所有 collar grip 壓力。把 lapel 從喉嚨上移開，並把手臂從頸部區域收回。透過放開 hooks、移到對手身側，把體重從他的背上移開。在繼續訓練前，確認訓練夥伴有反應、呼吸正常。拍降後絕對不要維持任何殘留的 collar 張力，因為即使是輕微殘留的壓力，壓在已經受影響的頸動脈上，也可能造成延遲性的失去意識。",
+    "answer_line": "立刻放開所有壓力",
+    "distractors": {
+     "plausible": [
+      "慢慢放鬆 collar",
+      "先移到 side control 再放"
+     ],
+     "trap": [
+      "保留一點輕微的 choke 張力"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "怎麼分辨攻擊者正從 RNC 嘗試轉換成 Short Choke 的設置？",
+    "answer": "關鍵辨識線索是感覺到攻擊者的過手從 seat belt 連結上放開，並移向你的 collar 或 lapel，而不是滑向你的下巴下方。RNC 嘗試是前臂從你背後推向喉嚨；而 Short Choke 的設置則是那隻手橫過去抓住對側的 collar 布料。你也可能感覺到體重稍微移轉、seat belt grip 結構鬆開，這代表攻擊者正在這兩種威脅之間轉換。",
+    "answer_line": "手從下巴移向 collar",
+    "distractors": {
+     "plausible": [
+      "前臂往下巴下方挖得更深",
+      "hooks 突然收緊"
+     ],
+     "trap": [
+      "以為還是原本的 RNC"
+     ]
+    }
+   },
+   {
+    "question": "在 back control 中被 Short Choke 困住時，最安全的拍降方式是什麼？",
+    "answer": "立刻、清楚地用任何可行方式拍降：大聲喊「拍」的口頭拍降、用手快速連續拍打攻擊者的手臂、腿或地墊，或是用腳跺地。因為你被控制在 back control，攻擊者可能看不到細微的手拍，所以口頭拍降與用力的實體拍降最可靠。在剛感覺到動脈受壓時就要立刻拍降，不要等到頭暈才反應，因為血液 choke 一旦鎖緊，可能在數秒內就造成失去意識。",
+    "answer_line": "口頭拍、連續快拍、提早拍",
+    "distractors": {
+     "plausible": [
+      "在地墊上輕輕碰一下",
+      "小聲說一次「拍」就好"
+     ],
+     "trap": [
+      "先試著用力量掙脫"
+     ]
+    }
+   },
+   {
+    "question": "在 Short Choke 進攻的每個階段，各有哪些防守選項？",
+    "answer": "初期階段，攻擊者伸手去抓 collar 時：對他伸過來的手做 two-on-one 剝除 grip，或是趁 seat belt 打開的空檔做爆發性 hip escape。中期階段，lapel 正被穿過去時：把自己的 collar 拉緊，讓對手沒有布料可用，或轉身朝 choke 那一側減少槓桿角度。後期階段，choke 已用第二個握把鎖死時：用緊急 frame 頂住前臂，並朝開放的一側 bridge，盡力製造任何可能的空間。介入得越早，成功機率越高——後期防守的有效率不到 15%。",
+    "answer_line": "早期剝除握把，晚期用 frame",
+    "distractors": {
+     "plausible": [
+      "等到後期階段才防守",
+      "轉身背離 choke 那一側"
+     ],
+     "trap": [
+      "等鎖死後才嘗試完全逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼縮下巴對 Short Choke 沒有像對 RNC 那樣有效？",
+    "answer": "縮下巴之所以能防守 RNC，是因為它擋住前臂滑到下巴下方去接觸喉嚨的路線。Short Choke 並不需要前臂穿到下巴下方，它是靠繞在頸部外側的 gi collar 來造成雙側頸動脈壓迫。不論下巴姿勢如何，collar 都貼在頸部上，因為它是從原本就圍繞頸部的 collar 布料直接施作的。縮下巴反而可能讓 Short Choke 更嚴重，因為下巴被壓向 collar，會為這個 choke 機制再添加壓力。",
+    "answer_line": "Collar 繞頸而過，繞過下巴防守",
+    "distractors": {
+     "plausible": [
+      "縮下巴也能擋住 collar",
+      "只會稍微拖慢這個 choke"
+     ],
+     "trap": [
+      "把下巴縮得更緊來防守"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該嘗試逃出 back control，什麼時候該純粹專注在防守 collar grip？",
+    "answer": "應該在攻擊者放開 seat belt、伸手去抓 collar 的握把轉換空檔嘗試逃脫。這個一到兩秒的空檔代表 back control 的結構出現明顯削弱。如果你錯過這個空檔、collar grip 已經建立，就先轉為純粹的握把防守，阻止這個 choke 被完成，等 choke 威脅解除後再著手逃脫。絕對不要在 choke 正在收緊時嘗試逃脫，因為這時的動作可能會加速失去意識。",
+    "answer_line": "在握把轉換的空檔逃脫",
+    "distractors": {
+     "plausible": [
+      "一被拿到 back 就立刻逃",
+      "等 choke 完全鎖死再逃"
+     ],
+     "trap": [
+      "劇烈掙扎，讓頸部露出破綻"
+     ]
+    }
+   }
+  ]
+ }
+}

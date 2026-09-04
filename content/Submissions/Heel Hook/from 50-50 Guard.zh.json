@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Heel Hook/from 50-50 Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從50-50 Guard施展的heel hook，主要攻擊哪些解剖構造？",
+    "answer": "heel hook主要攻擊膝關節的韌帶，特別是前十字韌帶（ACL）、內側副韌帶（MCL）與外側副韌帶（LCL），旋轉力量會從腳踝經小腿傳導到膝關節。次要目標包含腳踝韌帶與半月板軟骨。這股旋轉扭力會造成膝關節結構上最脆弱的扭轉受力方式。",
+    "safety_critical": true,
+    "answer_line": "膝關節的ACL、MCL、LCL",
+    "distractors": {
+     "plausible": [
+      "主要是腳踝韌帶",
+      "小腿肌肉與阿基里斯腱"
+     ],
+     "trap": [
+      "撐著別停，不會有痛覺警告"
+     ]
+    }
+   },
+   {
+    "question": "為什麼取得inside position control是從50-50攻擊heel hook的前提條件？",
+    "answer": "在對稱的50-50纏繞中，inside position control決定了誰能優先取得對方的腳跟。掌握inside腿部控制的一方，既能取得對手的腳跟，同時又能保護自己的腳跟不被反攻。若沒有inside position，對手能輕易將膝蓋向內轉來藏起腳跟，也能發動自己的攻擊。inside control同時能讓你施加向下的髖部壓力，使防守方保持平貼。",
+    "safety_critical": false,
+    "answer_line": "取得對方腳跟，藏住自己的",
+    "distractors": {
+     "plausible": [
+      "只是為了增加髖部壓力",
+      "只是為了增加握力"
+     ],
+     "trap": [
+      "對方腳已被困就不需要"
+     ]
+    }
+   },
+   {
+    "question": "有哪些跡象顯示heel hook已接近臨界點？",
+    "answer": "當對手的腳開始相對於膝蓋外旋、旋轉力持續累積時，就代表即將到達臨界點。視覺上的指標包含腳趾轉向超出自然活動範圍，而膝蓋相對固定不動。觸覺上的指標包含感覺到踝關節已達到最大旋轉角度，以及韌帶張力透過你的手鎖傳導過來。訓練時必須在這個臨界點之前就停下來，因為膝蓋韌帶損傷發生時往往沒有疼痛訊號提前警告。",
+    "safety_critical": true,
+    "answer_line": "腳外旋，沒有疼痛警告",
+    "distractors": {
+     "plausible": [
+      "拍降前會有明顯爆音",
+      "膝蓋彎曲超過90度"
+     ],
+     "trap": [
+      "硬撐到對方露出痛苦表情"
+     ]
+    }
+   },
+   {
+    "question": "你進攻5秒後，對手開始把膝蓋內轉藏起腳跟——正確的戰術反應是什麼？",
+    "answer": "在對主動防守嘗試了5秒鐘卻無法成功露出腳跟後，應轉換成成功率更高的替代方案，而不是硬逼heel hook。主要選項包含：控制膝關節上方轉攻kneebar、放開腿部纏繞繞到對手身後抓背，或轉換到Inside Ashi-Garami或Honey Hole以取得更好的腳跟暴露角度。持續硬逼一個已被藏起的腳跟只會浪費力氣，並讓防守方的防禦更加鞏固。",
+    "safety_critical": false,
+    "answer_line": "轉攻kneebar或抓背",
+    "distractors": {
+     "plausible": [
+      "換手重新抓握腳跟",
+      "等對方體力耗盡"
+     ],
+     "trap": [
+      "繼續硬扭已藏起的腳跟"
+     ]
+    }
+   },
+   {
+    "question": "在heel hook的完成階段，手鎖調整應該如何管理？",
+    "answer": "手鎖調整必須遵守「至少一手隨時扣住」的原則，也就是至少一隻手隨時與腳跟保持接觸。加深手鎖時，先固定好新的手部位置，再放開舊的。腳跟杯（heel cup）應該把腳跟緊緊拉靠向你的胸口或胸骨，在你的身體旋轉與踝關節之間建立穩固的機械連結。絕不要只靠指尖去追腳跟，若手鎖變淺，要重新建立完整的手掌包覆。",
+    "safety_critical": false,
+    "answer_line": "一手隨時扣住腳跟",
+    "distractors": {
+     "plausible": [
+      "用指尖追著腳跟",
+      "扣住腳踝骨，而非腳跟"
+     ],
+     "trap": [
+      "完全放手重新扣杯"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴對heel hook拍降之後，正確的放手流程是什麼？",
+    "answer": "只要出現拍降訊號，第一步先立即停止所有旋轉施壓。接著先完全放開腳跟手鎖，再解開腿部纏繞。讓訓練夥伴以自己的節奏抽出腿部，不要急著硬拆解纏繞。放開之後，口頭詢問夥伴膝蓋與腳踝的狀況。即使看起來只是輕微不適，也要立即回報教練，因為heel hook造成的損傷可能延遲出現症狀。",
+    "safety_critical": true,
+    "answer_line": "先停止旋轉施壓",
+    "distractors": {
+     "plausible": [
+      "先解腿纏，再放手鎖",
+      "放手前先檢查膝蓋"
+     ],
+     "trap": [
+      "用力扯開腿部快速重來"
+     ]
+    }
+   },
+   {
+    "question": "從50-50嘗試heel hook最常導致失敗的完成錯誤是什麼？",
+    "answer": "最常見的完成錯誤是用手臂力量去旋轉腳跟，而不是透過全身髖部旋轉來產生扭力。手臂很快就會疲勞，無法對抗一個防守得當的對手，持續產生所需的旋轉力。正確的力學是把腳跟固定在胸口，透過髖部與肩膀將整個身體視為單一單位進行旋轉，這樣能以更少的體力消耗產生遠大得多的力量，並帶來更穩定的手鎖。",
+    "safety_critical": false,
+    "answer_line": "靠手臂而非髖部旋轉",
+    "distractors": {
+     "plausible": [
+      "太早就抓得太緊",
+      "旋轉速度太慢以求控制"
+     ],
+     "trap": [
+      "直接把腳跟往後猛扯"
+     ]
+    }
+   },
+   {
+    "question": "與從Saddle或Inside Ashi-Garami進攻相比，50-50 Guard這個起始位置如何改變heel hook的攻防？",
+    "answer": "50-50 Guard創造出對稱的纏繞，雙方對腿部的取得權利相等，這與攻擊者天生就佔位置優勢的Saddle或Inside Ashi-Garami不同。這代表攻擊者必須先贏得inside position的爭奪，腳跟才會變得可攻擊。防守方在整個交手過程中，也擁有鏡像的反攻潛力，迫使攻擊者必須在進攻與保護自己腳跟之間取得平衡。這種對稱性降低了成功率，但也提供了獨特的銜接機會。",
+    "safety_critical": false,
+    "answer_line": "對稱位置，須先贏inside",
+    "distractors": {
+     "plausible": [
+      "Saddle讓攻擊者控制較少",
+      "50-50不需要爭奪握點"
+     ],
+     "trap": [
+      "攻擊者永遠都能取得腳跟"
+     ]
+    }
+   },
+   {
+    "question": "在ADCC規則下，什麼比賽策略能將從50-50完成heel hook的機率最大化？",
+    "answer": "在允許heel hook的ADCC規則下，最佳策略是一進入50-50就立刻建立inside position、施加強力的髖部壓力阻止對手坐起，並在對手建立起穩固防守模式之前的前10到15秒內攻擊腳跟。若第一次heel hook失敗，要迅速銜接kneebar，或轉換到Saddle以取得更好的控制。避免在50-50中陷入長時間僵局，那會讓對手有機會恢復，也可能導致裁判判定重新開始。",
+    "safety_critical": false,
+    "answer_line": "先取得inside，儘早進攻",
+    "distractors": {
+     "plausible": [
+      "在heel hook之前先銜接kneebar",
+      "還沒取得inside就先壓髖部"
+     ],
+     "trap": [
+      "轉身逃離纏繞"
+     ]
+    }
+   },
+   {
+    "question": "為什麼heel hook被視為比其他關節技更危險？這對訓練方式有什麼影響？",
+    "answer": "heel hook之所以更危險，是因為膝蓋韌帶缺乏足夠的痛覺受器，無法在結構性損傷發生前提供警告。與armbar不同——armbar會有漸進的手肘疼痛訊號提醒危險程度上升——heel hook可能在防守方感覺到明顯不適之前，就已經撕裂ACL、MCL或LCL。這代表攻擊者必須承擔控制施力速度的主要責任。訓練時務必使用緩慢漸進的壓力，至少維持5到7秒，且雙方都必須清楚了解拍降訊號與放手流程。",
+    "safety_critical": true,
+    "answer_line": "受傷前沒有疼痛警告",
+    "distractors": {
+     "plausible": [
+      "膝蓋韌帶組織較弱",
+      "膝蓋承受較多體重"
+     ],
+     "trap": [
+      "快速施力以測試對方防守"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在從50-50 Guard設置heel hook？",
+    "answer": "主要的辨識線索是攻擊者用小腿脛骨頂住你的大腿內側建立inside腿部位置、他們的雙手朝你的腳跟或腳踝方向移動並帶有爭奪握點的意圖，以及增加的向下髖部壓力，目的是把你壓平、阻止你恢復位置。一旦感覺到任何一項線索，應立即透過將膝蓋向內轉來啟動腳跟保護，並開始防守性的握點爭奪。",
+    "safety_critical": false,
+    "answer_line": "內側脛骨、抓腳跟、髖壓",
+    "distractors": {
+     "plausible": [
+      "對手先抓住你的領口",
+      "突然增加的纏鬥動作"
+     ],
+     "trap": [
+      "等壓力感覺尖銳才反應"
+     ]
+    }
+   },
+   {
+    "question": "被50-50 Guard的heel hook鎖住時，最安全的拍降方式是什麼？",
+    "answer": "由於雙手可能正忙著對抗握點，主要訊號應是清楚大聲地口頭喊「拍」。同時用空出的那隻手快速多次拍打對手身體或地板作為身體訊號。若口頭與手部拍降都不可行，就用空出的那隻腳拍。要在感覺到明顯旋轉壓力之前就及早拍降，因為膝蓋韌帶損傷發生時往往沒有充分的疼痛警告。絕對不要試圖硬撐過heel hook。",
+    "safety_critical": true,
+    "answer_line": "及早喊「拍」＋空手拍降",
+    "distractors": {
+     "plausible": [
+      "拍一下地板就安靜等待",
+      "先用空腳示意"
+     ],
+     "trap": [
+      "等痛了才拍"
+     ]
+    }
+   },
+   {
+    "question": "面對50-50 Guard的heel hook，有哪些防守選項？",
+    "answer": "主要的防守優先順序是：第一，將膝蓋向內轉來藏起腳跟，從機制上保護關節。第二，在攻擊者建立起深度腳跟包覆之前，透過two-on-one對抗來剝離他們的握點。第三，若在3到5秒內無法恢復inside position，就把腿從纏繞中抽出。第四，只有在自己的腳跟已完全防守好之後，才透過爭取相同的inside position、威脅攻擊者的腳跟來進行反攻。",
+    "safety_critical": false,
+    "answer_line": "藏腳跟、剝握點、抽腿",
+    "distractors": {
+     "plausible": [
+      "躺平並抓住對方腰帶",
+      "先把對手的髖部推開"
+     ],
+     "trap": [
+      "用力把腿硬扯出來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在攻擊者已抓住你的腳跟時，絕對不該嘗試反攻？",
+    "answer": "在你的腳跟被抓住的情況下嘗試反攻，會帶來災難性的受傷風險，因為攻擊者可能趁你反攻的過程中完成heel hook。撕裂膝蓋韌帶所需的旋轉力，可能在不到兩秒內就施加完成，而且heel hook缺乏漸進式的痛覺回饋，無法在結構性損傷發生前提供警告。務必先完全剝離攻擊者對腳跟的握點，才能考慮任何進攻動作。",
+    "safety_critical": true,
+    "answer_line": "不到2秒就可能完成",
+    "distractors": {
+     "plausible": [
+      "感覺握點鬆了就沒關係",
+      "只有對上高手才危險"
+     ],
+     "trap": [
+      "先反攻分散注意再防守"
+     ]
+    }
+   },
+   {
+    "question": "如何決定要爭取翻轉位置，還是抽腿脫離糾纏？",
+    "answer": "在交手的前3到5秒內評估inside position的狀況。若你與對手勢均力敵，或能透過立即的髖部動作實際恢復inside position，就應該爭取翻轉，與攻擊者位置對等後掃到上位。若攻擊者已明顯掌握inside control且你無法迅速追平，就應立即轉為抽腿逃脫，站起或恢復guard。在沒有inside position的情況下爭取翻轉，只會浪費力氣並增加被降伏的風險。",
+    "safety_critical": false,
+    "answer_line": "3到5秒內評估inside position",
+    "distractors": {
+     "plausible": [
+      "以握力強弱來決定",
+      "永遠都爭取翻轉"
+     ],
+     "trap": [
+      "拖延觀望，等對方耗盡"
+     ]
+    }
+   }
+  ]
+ }
+}

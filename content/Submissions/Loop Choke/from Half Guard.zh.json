@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Loop Choke/from Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Half Guard 出發的 Loop Choke 攻擊哪些解剖結構以造成昏迷？",
+    "answer": "Loop Choke 攻擊頸部兩側的頸動脈與頸靜脈。當衣領環正確定位並透過 sprawl 收緊時，會對這些血管施加雙側壓迫，限制流向與流出大腦的血液。這種雙側頸動脈壓迫通常會在完全施加後的 8-12 秒內造成迅速昏迷。正確施加的 Loop Choke 是一種血液 choke，區別於氣道 choke 的關鍵在於衣領是纏繞在頸部兩側，而不是壓在喉嚨前方。",
+    "safety_critical": false,
+    "answer_line": "頸動脈與頸靜脈",
+    "distractors": {
+     "plausible": [
+      "頸部肌肉",
+      "頸椎壓力"
+     ],
+     "trap": [
+      "壓潰氣管使其閉合"
+     ]
+    }
+   },
+   {
+    "question": "你在 half guard top 已建立深握衣領，對手開始起身找 underhook——什麼動作能啟動這個 choke？",
+    "answer": "當對手起身找 underhook 時，他的頸部會伸展，下巴下方的空間也會打開——這正是理想的穿線時機。把你握衣領的那隻手臂穿過他的下巴下方，讓衣領布料在他向前的動作幫助下滑入下顎下方的正確位置。接著立即用你的自由手控制他的頭部，防止他把頭抽出。他的 underhook 嘗試其實反而幫助了 choke 的設置，因為向前的動作把他的頸部推入了衣領環。要在他動作開始時穿線，而不是等動作結束。",
+    "safety_critical": false,
+    "answer_line": "在下巴上抬時穿過衣領",
+    "distractors": {
+     "plausible": [
+      "等 underhook 完全成形",
+      "立刻猛拉緊衣領"
+     ],
+     "trap": [
+      "放開握法，去對抗 underhook"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加完整的 Loop Choke 壓力，最少要花多長時間？",
+    "answer": "最少要花 3-5 秒，從一開始的收緊到完全的收招壓力。這種透過受控 sprawl 的漸進施加，是給訓練夥伴足夠時間辨識這個 choke 並安全 tap 的關鍵安全要求。比賽速度、爆發式的 sprawl 絕不適用於訓練，且會大幅增加受傷風險。sprawl 應該穩定且受控，讓衣領逐漸收緊，好讓夥伴能感受到壓力的累積，並在過程中的任何時刻都能以 tap 回應。",
+    "safety_critical": true,
+    "answer_line": "3-5 秒，漸進 sprawl",
+    "distractors": {
+     "plausible": [
+      "1-2 秒，快速一頓",
+      "8-12 秒，慢慢累積"
+     ],
+     "trap": [
+      "以比賽速度爆發式 sprawl"
+     ]
+    }
+   },
+   {
+    "question": "為什麼髖部的 sprawl 動作比手臂拉扯更能有效完成從 Half Guard 出發的 Loop Choke？",
+    "answer": "sprawl 利用髖部與腿部這些大肌群，在攻擊者身體與對手頸部之間創造距離，而這個逐漸增加的距離正是收緊衣領環的關鍵。單靠手臂拉扯依賴的是容易疲勞的小肌群，無法產生乾淨完成血液 choke 所需的持續力量。sprawl 創造出一種機械優勢，讓攻擊者的全身體重都遠離衣領握法的錨點，產生持續的收緊壓力，讓防禦者難以抵抗。此外，sprawl 也能讓攻擊者的體重維持正確分布，防止收招時被掃技反擊。",
+    "safety_critical": false,
+    "answer_line": "髖部產生持續的距離",
+    "distractors": {
+     "plausible": [
+      "手臂能握得更緊",
+      "手臂力量收招更快"
+     ],
+     "trap": [
+      "後坐硬拗，結果被掃"
+     ]
+    }
+   },
+   {
+    "question": "你在 half guard top 已建立深握衣領，對手強力收下巴阻擋衣領穿線——你如何調整？",
+    "answer": "當對手收緊下巴時，用你 crossface 的那隻手臂把他的頭轉離你抓衣領的那一側，在露出的一側創造下巴下方的空間。維持穩定的 crossface 壓力並繼續保持深握衣領，直到他的下顎抬起足夠讓你穿線。或者，威脅其他互補的攻擊——例如他轉向你時的 darce choke，或攻擊他做 frame 的手臂的 kimura——逼他為了防禦而抬起下巴。你也可以用 collar drag 的動作，橫拉衣領讓他的頭旋轉，創造出開口。收下巴的防禦只有在他能在你的 crossface 壓力下維持時才有效。",
+    "safety_critical": false,
+    "answer_line": "用 crossface 轉開他的頭",
+    "distractors": {
+     "plausible": [
+      "拉衣領逼下巴上抬",
+      "直接改攻 guillotine"
+     ],
+     "trap": [
+      "後坐硬用蠻力拉衣領"
+     ]
+    }
+   },
+   {
+    "question": "如果完全施加 sprawl 壓力 5-6 秒後 Loop Choke 仍未逼出 tap，你應該怎麼做？",
+    "answer": "如果完全施壓 5-6 秒後仍未有反應，很可能是衣領位置有誤，你應該放開壓力、重新調整技術，回到 half guard top 的控制，而不是硬撐。持續對一個位置不良的 choke 施壓，通常代表握法太淺，只造成氣管壓力而非雙側頸動脈壓迫，這既無效又危險。維持衣領握法留待下次嘗試，同時回到標準過guard，或轉換成別的攻擊。硬撐一個位置錯誤的 choke，代表技術理解不足，也會為訓練夥伴帶來不必要的受傷風險。",
+    "safety_critical": true,
+    "answer_line": "放開、重設、回到上位",
+    "distractors": {
+     "plausible": [
+      "choke 進行中換握法",
+      "維持住等 tap"
+     ],
+     "trap": [
+      "更用力硬逼出 tap"
+     ]
+    }
+   },
+   {
+    "question": "在投入從 Half Guard Top 出發的 Loop Choke 之前，必須先建立什麼控制？",
+    "answer": "在投入 loop choke 之前，攻擊者必須先建立穩固的 half guard top 控制——髖部沉重加壓、強力的 crossface 控制對手頭部的方向，並控制或限制對手近側手臂，防止他做 frame 或防禦衣領。深握的四指衣領握法必須越過氣管、深入到頸部後方，才能開始任何收招嘗試。此外，攻擊者的底盤必須足夠穩固，才能在收招 sprawl 時防止被掃技。若沒有這些前提就嘗試 choke，通常會導致低成功率的失敗嘗試，或完全失去 half guard top 的位置。",
+    "safety_critical": false,
+    "answer_line": "crossface、控制手臂、深握衣領",
+    "distractors": {
+     "plausible": [
+      "只要淺握衣領即可",
+      "收招前先取得 underhook"
+     ],
+     "trap": [
+      "投入 choke，放棄上位"
+     ]
+    }
+   },
+   {
+    "question": "knee slice 過guard的嘗試，如何為從 Half Guard 出發的 Loop Choke 創造高成功率的入口？",
+    "answer": "在 knee slice 過guard的過程中，下位者必須應付過guard的壓力——不論是對抗切入的膝蓋做 frame、爭取 underhook，還是做 hip escape 恢復 guard。這些防禦反應中的每一個，都會創造出衣領穿線所需的動作與頸部暴露。knee slice 自然會讓上位者的身體處於與衣領握法方向一致的角度，過guard的壓力逼下位者在防禦過guard與保護衣領之間做選擇。如果你在開始 knee slice 之前就先建立衣領握法，對手就會面臨兩難：防禦過guard會暴露 choke，防禦 choke 則會讓過guard成功。這從 half guard top 創造出一個強大的雙面攻擊。",
+    "safety_critical": false,
+    "answer_line": "防禦過guard會暴露衣領",
+    "distractors": {
+     "plausible": [
+      "只在過guard完成後才有效",
+      "knee slice 會擋住衣領"
+     ],
+     "trap": [
+      "放棄過guard去追 choke"
+     ]
+    }
+   },
+   {
+    "question": "你已經把衣領穿過對手下巴，他開始用力 shrimp 拉開距離——什麼調整能完成 choke？",
+    "answer": "當對手做 shrimp 拉開距離時，他的動作其實在協助 choke，因為這正好創造出你 sprawl 本來要製造的那種距離。跟隨他 shrimp 的動作，維持你的衣領握法與頭部控制，讓他遠離你——他的 hip escape 會增加衣領環對他頸部的張力。不要對抗他的 shrimp，而是利用它：讓你的上半身透過握法保持錨定，你的髖部則以較慢的速度跟隨他的動作。他逃脫的速度與你追隨的速度之間的差異，正是創造收緊效果的關鍵。如果他 shrimp 得很用力，你可能需要用自由手維持頭部控制，防止他創造出足夠的角度把頭抽脫。",
+    "safety_critical": false,
+    "answer_line": "跟隨 shrimp，保持握法",
+    "distractors": {
+     "plausible": [
+      "追髖部去阻止 shrimp",
+      "放開握法重新調整位置"
+     ],
+     "trap": [
+      "對抗 shrimp，把髖部釘死"
+     ]
+    }
+   },
+   {
+    "question": "當訓練夥伴在 Loop Choke 的 sprawl 收招階段 tap 時，你必須立即採取什麼行動？",
+    "answer": "感覺或聽到 tap 時，你必須立即完全放開衣領握法與所有頭部控制，接著移開你的髖部壓力，移動到夥伴身旁的中立位置。在繼續任何訓練之前，先檢查他的意識與清醒程度。在恢復訓練前，至少要有 60 秒的恢復時間。在 sprawl 收招階段要特別留意，因為夥伴的雙手可能被部分困住，或他的口頭 tap 可能難以聽清——任何異常聲音、抵抗力的變化，或顯示痛苦的肢體語言，都必須被視為 tap 訊號，並毫無例外地立即尊重。",
+    "safety_critical": true,
+    "answer_line": "立即放開，檢查夥伴狀況",
+    "distractors": {
+     "plausible": [
+      "減輕壓力，問是否還好",
+      "放開握法，維持 half guard"
+     ],
+     "trap": [
+      "先口頭確認 tap，再放開"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防禦從 Half Guard 出發的 Loop Choke，最早、最有效的時機是什麼？",
+    "answer": "最有效的防禦時機是在攻擊者第一次伸手抓向遠側衣領時，也就是建立深握四指握法之前。在這個階段，只要用你近側的手擋住衣領開口、並收緊下巴防護，就能阻止整個攻擊發展。一旦深握越過氣管建立完成，之後每一個防禦動作都會變得更難，因為攻擊者可以把既有的握法當作錨點。如果深握已經建立，下一個關鍵窗口是在衣領穿過下巴之前——一旦穿過並且攻擊者開始 sprawl，防禦就會從預防變成緊急逃脫。",
+    "safety_critical": false,
+    "answer_line": "擋住最初的抓握",
+    "distractors": {
+     "plausible": [
+      "在衣領穿線時防禦",
+      "深握後才剝除握法"
+     ],
+     "trap": [
+      "等 sprawl 時再逃脫"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對從 Half Guard 出發的 Loop Choke 出 tap，而不是繼續嘗試逃脫？",
+    "answer": "當你感覺到雙側頸動脈同時受壓、衣領環已完全建立在你的下巴下方，且攻擊者已投入 sprawl 收招時，就要立即 tap。一旦環已閉合，攻擊者的體重正在創造收緊的距離，昏迷可能在 8-12 秒內發生。一旦 Loop Choke 以正確力學鎖死並完全施加 sprawl 壓力，就不存在安全的逃脫窗口。繼續抵抗會冒著失去意識的風險，那遠比 tap 重來更危險。訓練中永遠寧可提早 tap——每個 choke 防禦訓練都應該從預防開始，而不是從逃脫一個已經完全鎖死的 submission 開始。",
+    "safety_critical": true,
+    "answer_line": "環鎖死且開始 sprawl 就 tap",
+    "distractors": {
+     "plausible": [
+      "在 sprawl 時試著逃脫",
+      "等看握法是否鬆脫"
+     ],
+     "trap": [
+      "硬撐對抗這個 choke"
+     ]
+    }
+   },
+   {
+    "question": "為什麼當攻擊者已建立深握衣領時，起身找 underhook 特別危險？",
+    "answer": "起身找 underhook 會讓你的頸部向前伸展，下巴也會離開胸口，正好創造出攻擊者穿線所需的下顎下方空間。你向前的動作會把你的頸部推入衣領環，而起身的動能也讓你一旦衣領滑入下巴下方後，很難再把頭縮回。基本上，underhook 的嘗試變成了 choke 的觸發機制——攻擊者就是在等這個特定的動作才穿線。你必須在展開任何 underhook 嘗試之前，先檢查並處理衣領握法，或調整你的 guard 打法，改用不需要伸展頸部的技術。",
+    "safety_critical": false,
+    "answer_line": "伸展頸部正好餵給 choke",
+    "distractors": {
+     "plausible": [
+      "underhook 能擋住衣領",
+      "只有淺握時才危險"
+     ],
+     "trap": [
+      "快速把 underhook 打進去"
+     ]
+    }
+   },
+   {
+    "question": "即使衣領已經穿過下巴，關閉 guard 如何中和從 Half Guard 出發的 Loop Choke？",
+    "answer": "把 guard 完全關閉在攻擊者髖部周圍，能消除 sprawl——這正是從 half guard 出發的 loop choke 的主要收招機制。sprawl 需要攻擊者把髖部推離防禦者，才能創造收緊衣領環所需的距離。guard 關閉後，攻擊者的髖部被鎖在防禦者身體上，無法創造任何距離。雖然衣領可能仍穿在下巴下方，但沒有 sprawl，攻擊者就無法產生足夠的收緊力量完成 choke。這能爭取時間，讓你在相對安全的 closed guard 中處理剝除衣領握法，因為在這裡防禦者有更好的控制與更多的防禦選項。",
+    "safety_critical": false,
+    "answer_line": "關閉 guard 能扼殺 sprawl",
+    "distractors": {
+     "plausible": [
+      "guard 能剝除衣領握法",
+      "guard 能擋住初次穿線"
+     ],
+     "trap": [
+      "推開對方創造空間"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的防禦性身體姿勢最能防止 Loop Choke 在 Half Guard Bottom 被啟動？",
+    "answer": "最理想的防禦姿勢結合了：下巴用力收緊貼近胸口、近側的手主動保護攻擊者可能鎖定那一側的衣領開口、手肘緊貼肋骨，以及持續的髖部側向移動以防止攻擊者穩定 crossface 壓力。使用膝盾或蝴蝶鉤來維持距離，防止攻擊者把胸口重量壓垮在你身上，因為那會方便他取得衣領。在從 half guard bottom 展開任何進攻動作之前，先確認攻擊者的握法狀況——如果他已建立深握衣領，先用剝除握法處理，再展開 underhook 或掃技。",
+    "safety_critical": false,
+    "answer_line": "收下巴、擋衣領、做 frame",
+    "distractors": {
+     "plausible": [
+      "先取得 underhook 再防禦",
+      "攤平身體只護頭"
+     ],
+     "trap": [
+      "伸長手臂去搶 underhook"
+     ]
+    }
+   }
+  ]
+ }
+}

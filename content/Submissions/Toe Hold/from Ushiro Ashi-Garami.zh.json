@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Ushiro Ashi-Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Ushiro Ashi-Garami 施展的 Toe Hold 主要攻擊哪些解剖構造？",
+    "answer": "Toe Hold 主要攻擊踝關節的外側和內側副韌帶，次要壓力則作用在中足的 Lisfranc 關節複合體。旋轉力會在踝關節產生扭轉，可能損傷韌帶、足底筋膜，嚴重時甚至造成中足脫位。反向的 ushiro 角度會讓力量比標準 Toe Hold 更偏向外側方向傳遞。",
+    "safety_critical": true,
+    "answer_line": "踝關節副韌帶",
+    "distractors": {
+     "plausible": [
+      "膝關節韌帶（ACL/MCL）",
+      "主要是阿基里斯腱"
+     ],
+     "trap": [
+      "是腳趾、不是腳踝"
+     ]
+    }
+   },
+   {
+    "question": "與標準 Toe Hold 相比，Ushiro Ashi-Garami 的配置如何改變完成技術的力學？",
+    "answer": "Ushiro 的配置會反轉對手的髖部朝向，因而改變了完成技術的最佳旋轉方向。攻擊者必須把旋轉力導向對手的外側髖部，而不是遵循標準 Toe Hold 的角度。這種反轉後的幾何結構，實際上限制了防守者透過旋轉髖部來卸壓的能力，讓握法一旦正確建立，Toe Hold 在力學上就會更緊。",
+    "safety_critical": false,
+    "answer_line": "朝外側髖部方向旋轉",
+    "distractors": {
+     "plausible": [
+      "朝內側髖部方向旋轉",
+      "沿用標準 Toe Hold 的角度"
+     ],
+     "trap": [
+      "沒固定纏腿就硬扭"
+     ]
+    }
+   },
+   {
+    "question": "完成技術過程中對手開始在手腕連結處破解你的 figure-four 握法，你該如何調整以阻止逃脫？",
+    "answer": "把握著的那隻手往自己身體方向拉近，加深手腕握法，縮短對方能撬開的力臂。如果他們持續對抗握法，立刻把你上方的手轉向腳跟，改威脅 heel hook。這種握法破解的防守動作會讓腳跟暴露出來，所以轉換攻擊 heel hook 正好利用對方的防守反應，而不是硬撐一場正在輸掉的握法爭奪戰。",
+    "safety_critical": false,
+    "answer_line": "加深握法，轉攻腳跟",
+    "distractors": {
+     "plausible": [
+      "用力硬拼握法對抗",
+      "換手重新握"
+     ],
+     "trap": [
+      "放開握法、重置位置"
+     ]
+    }
+   },
+   {
+    "question": "在施加 Toe Hold 過程中，有哪些跡象顯示對手正逼近極限？",
+    "answer": "關鍵跡象包括：對手的腿變得僵硬、抵抗進一步旋轉；呼吸模式出現明顯變化，例如憋氣或急促吐氣；他們空出的那隻手放棄破握、轉而準備 tap；口頭表達痛苦的訊號；以及踝關節到達自然旋轉範圍的極限、韌帶開始被拉伸。當你感覺到踝關節旋轉阻力達到最大時，要把施力放得更慢。",
+    "safety_critical": true,
+    "answer_line": "腿變僵硬、呼吸變化",
+    "distractors": {
+     "plausible": [
+      "他們加快動作想逃脫",
+      "腳踝感覺鬆軟、活動自如"
+     ],
+     "trap": [
+      "大聲喊叫代表要加大力道"
+     ]
+    }
+   },
+   {
+    "question": "從纏腿控制轉換到 Toe Hold 握法之前，必須確認哪些關鍵控制條件？",
+    "answer": "在放開任何一隻手去抓腳之前，要確認你的 figure-four 纏腿是穩固的、雙膝夾緊；你內側的腿有深度大腿控制，能防止對手逃脫；對手的腳是可觸及的、沒有被藏在你髖部後方；以及你外側的腿正主動控制著他們空出的那條腿。如果沒完成這些檢查就過早放開手部控制，會讓對手直接逃出整個纏腿結構。",
+    "safety_critical": false,
+    "answer_line": "先確保纏腿穩固，再抓握",
+    "distractors": {
+     "plausible": [
+      "先抓腳，再固定腿",
+      "只需要大腿控制就好"
+     ],
+     "trap": [
+      "太早放開手部控制"
+     ]
+    }
+   },
+   {
+    "question": "在施展 Toe Hold 的過程中，到什麼時間點對手會錯過逃脫的機會？",
+    "answer": "當 figure-four 握法完全鎖死、手肘壓緊肋骨，且初始旋轉已使踝關節韌帶超出鬆弛範圍時，對手就已錯過逃脫的機會。一旦上半身旋轉開始對外側韌帶加壓，且髖部伸展的成分同時介入，對手就無法快速伸直腳或破握來阻止完成技術。這通常發生在受控施力開始後約 3 到 4 秒。",
+    "safety_critical": false,
+    "answer_line": "握法鎖死、旋轉已介入",
+    "distractors": {
+     "plausible": [
+      "手一碰到腳的瞬間",
+      "你的手肘外張時"
+     ],
+     "trap": [
+      "停止旋轉去重置握法"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，你應該如何正確放開 Toe Hold？",
+    "answer": "先立刻停止所有旋轉壓力，接著放開 figure-four 的手腕握法，然後再放開包住腳趾的手。讓對手的腳漸進地回到自然位置，不要突然放手，因為驟然釋放可能對已承受壓力的韌帶造成二次傷害。在夥伴示意沒問題之前，保持與踝關節的輕微接觸，接著口頭確認後再繼續這一回合。",
+    "safety_critical": true,
+    "answer_line": "先停止，再慢慢放開握法",
+    "distractors": {
+     "plausible": [
+      "先放握法、再停止施力",
+      "立刻把腳放下"
+     ],
+     "trap": [
+      "持續旋轉直到完全放開"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，如果對手積極嘗試反纏你的腿，你該如何調整 Toe Hold 策略？",
+    "answer": "面對反纏企圖時，你必須加快建立握法的節奏，同時維持足夠的腿部控制來防止被逆轉。優先快速鎖上 figure-four 握法，並在對方能建立自己的進攻位置之前開始旋轉。如果在你完成之前對方成功搆到你的腿，就要考慮放棄 Toe Hold、轉為防守反擊，而不是同時應付完成技術和防守兩件事。",
+    "safety_critical": false,
+    "answer_line": "加快握法、維持腿部控制",
+    "distractors": {
+     "plausible": [
+      "放慢速度求穩",
+      "立刻放棄 Toe Hold"
+     ],
+     "trap": [
+      "無視反擊、硬拼完成"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在握法建立之前，你如何察覺對手正在設置從 Ushiro Ashi-Garami 施展的 Toe Hold？",
+    "answer": "主要的察覺訊號是攻擊者把一隻或雙手從腿部或髖部控制中放開、伸向你的腳，感覺到一隻手臂穿到你的阿基里斯腱下方，以及注意到攻擊者的上半身朝你外側髖部角度調整。最早的訊號是攻擊者一邊把纏腿夾得更緊、一邊把手朝你的腳移動，代表他們正在鞏固腿部控制，準備轉換到 Toe Hold 握法。",
+    "safety_critical": false,
+    "answer_line": "雙手離開髖部、伸向你的腳",
+    "distractors": {
+     "plausible": [
+      "腳踝壓力突然飆升",
+      "對方抓住你的衣領"
+     ],
+     "trap": [
+      "等握法鎖死再反應"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Ushiro Ashi-Garami 施展的 Toe Hold，什麼是最安全的 tap 方式，能避免受傷？",
+    "answer": "要及早且清楚地 tap，同時使用多種訊號。大聲用口頭說出「tap」，同時用手拍打攻擊者的身體或地墊。一感覺到踝關節韌帶在旋轉壓力下開始受力，就立刻 tap，不要等到劇痛才反應，因為 ushiro 角度可能比大多數練習者預期的更快，從輕微不適升級成韌帶損傷。如果雙手都被困住，就用口頭 tap 並用空出的那隻腳拍地。",
+    "safety_critical": true,
+    "answer_line": "及早 tap，口頭加肢體並用",
+    "distractors": {
+     "plausible": [
+      "等劇痛出現才 tap",
+      "只在手能動時才 tap"
+     ],
+     "trap": [
+      "嘗試用力量硬撐掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Ushiro Ashi-Garami 施展的 Toe Hold，在攻擊的每個階段各有哪些防守選項？",
+    "answer": "在握法建立之前：控制攻擊者的手腕，阻止他們建立 figure-four，並有系統地抽出你的腿。在握法建立過程中：用力做背屈，同時把腳往自己身體方向拉，拒絕給出旋轉角度。在握法鎖死之後：反纏攻擊者空出的那條腿以尋求位置逆轉，或朝旋轉方向翻滾以卸壓，同時破解握法。如果旋轉已完全作用在韌帶上：立刻 tap，避免受傷。",
+    "safety_critical": false,
+    "answer_line": "控制手腕，及早拒絕握法",
+    "distractors": {
+     "plausible": [
+      "等鎖死後再逃脫",
+      "只把腳往回拉"
+     ],
+     "trap": [
+      "鎖死後才硬對抗旋轉"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 Ushiro Ashi-Garami 施展的 Toe Hold 比標準 Toe Hold 更難防守？",
+    "answer": "反轉的 ushiro 髖部朝向，限制了你透過旋轉髖部來卸除旋轉壓力的能力，而這正是防守標準 Toe Hold 的主要手段。反轉的纏腿幾何結構也限制了你抽腿的選項，並讓踝關節韌帶從一個大多數練習者較不熟悉防守的角度受力。此外，攻擊者從 ushiro 方向的纏腿，也限制了你能運用的防守性髖部移動範圍。",
+    "safety_critical": false,
+    "answer_line": "無法轉髖卸壓",
+    "distractors": {
+     "plausible": [
+      "在 ushiro 中腳踝彎曲角度更大",
+      "figure-four 握法比較弱"
+     ],
+     "trap": [
+      "轉動髖部就能逃脫"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該優先選擇 tap，而不是繼續對抗 Toe Hold 的防守？",
+    "answer": "只要感覺到旋轉壓力作用在外側踝關節韌帶上、超出輕微不適的程度，就要立刻 tap；當 figure-four 完全鎖死、手肘已壓緊，而你無法在 2 到 3 秒內破解握法時；當你聽到或感覺到腳踝或腳部有任何爆裂感，無論疼痛程度如何；或當你的防守選項已經用盡、繼續抵抗只會延遲不可避免的結果並增加受傷風險時，都應該 tap。訓練時永遠寧可提早 tap。",
+    "safety_critical": true,
+    "answer_line": "一感覺到旋轉壓力就 tap",
+    "distractors": {
+     "plausible": [
+      "先破解 figure-four 握法",
+      "等疼痛變劇烈才 tap"
+     ],
+     "trap": [
+      "用自己的腿鎖反擊"
+     ]
+    }
+   }
+  ]
+ }
+}

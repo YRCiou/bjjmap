@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Lockdown.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Lockdown 主要攻擊哪些解剖構造？",
+    "answer": "Kimura from Lockdown主要透過強迫內旋攻擊肩關節。具體來說，它針對旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、盂肱韌帶、盂唇，以及肩關節囊。當手臂被壓往背後時，次要的壓力會出現在二頭肌肌腱與肩鎖關節。",
+    "answer_line": "透過內旋攻擊肩膀",
+    "distractors": {
+     "plausible": [
+      "肘關節過伸",
+      "手腕與前臂"
+     ],
+     "trap": [
+      "硬凹脖子逼對方tap"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體上的跡象，能告訴你Kimura即將到達臨界點？",
+    "answer": "主要指標是旋轉阻力隨著肩膀接近內旋活動範圍極限而逐漸增加。你會感覺到手臂不再順暢移動、開始出現愈來愈強的抵抗。對手的身體會緊繃，可能開始bridge或扭動。你也可能感覺或聽到關節裡出現細微的「喀」聲。訓練時，只要感覺到阻力明顯增加，就要停在原地等待對方tap，而不是繼續硬凹。",
+    "answer_line": "旋轉阻力逐漸增加",
+    "distractors": {
+     "plausible": [
+      "對手先口頭tap",
+      "手臂變得軟弱無力"
+     ],
+     "trap": [
+      "更用力推，直到聽見一聲脆響"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須先用lockdown extension破壞對方的姿勢，才能開始建立Kimura抓法？",
+    "answer": "先破壞姿勢有三個關鍵作用。第一，它會讓對手的base崩潰，使他無法輕易挺直身體、擺脫抓法。第二，它會逼迫對手的手撐在墊子上，讓靠近你這一側的手臂暴露出來，方便你做overhook轉換。第三，它會讓對手的防守注意力被拆分——一部分要用來恢復姿勢，一部分要防守手臂——讓他無法全心防守抓法。如果沒有先破壞姿勢，對手可以直接堆起體重、挺直身體逃出Kimura。",
+    "answer_line": "崩潰base，暴露手臂",
+    "distractors": {
+     "plausible": [
+      "加緊figure-four抓法",
+      "設置deep half的切入"
+     ],
+     "trap": [
+      "跳過它，先抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "對手開始把被困住的手臂伸直，阻止Kimura的旋轉——你要做什麼調整？",
+    "answer": "當對手把手臂伸直時，維持figure-four抓法，讓他的手肘持續貼緊你的軀幹。用短促、脈衝式的旋轉去消耗他的抓握力，而不是試圖一次用力壓過伸直的手臂。如果手臂持續保持伸直，可以考慮把外側那隻腳跨過他的頭，改攻straight armbar，同時維持手腕控制，利用他伸直的手臂反過來對付他。關鍵不是放棄這個位置，而是連接到互補的攻擊。",
+    "answer_line": "脈衝式抓握，手肘壓緊",
+    "distractors": {
+     "plausible": [
+      "一次用力硬凹壓斷它",
+      "放手重新穿入figure-four"
+     ],
+     "trap": [
+      "坐起來去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "在Kimura from Lockdown的過程中，對手在哪個時間點會越過「再也無法逃脫」的界線？",
+    "answer": "「再也無法逃脫」的界線發生在：figure-four抓法已經鎖死、hip escape的角度已經建立，且對手的手肘已被緊緊壓在你的肋骨上時。一旦他的手腕越過身體中線朝背後移動、手肘也被控制住，他就無法產生足夠的槓桿力來逆轉這個旋轉。在此之前，他仍能剝開抓握、伸直手臂或翻滾。過了這個界線，他唯一的選擇就是tap，或承受關節損傷。",
+    "answer_line": "抓握鎖死、手腕過中線",
+    "distractors": {
+     "plausible": [
+      "lockdown的雙腳已鎖住",
+      "對手的肩膀開始痛"
+     ],
+     "trap": [
+      "手肘還沒壓住就硬凹"
+     ]
+    }
+   },
+   {
+    "question": "當對手的手腕因流汗而濕滑打滑時，你要如何調整Kimura的抓法？",
+    "answer": "當手腕控制因流汗而打滑時，把手腕對手腕的抓法改成掌對掌，或改用monkey grip，讓手指扣在他手腕上方一點的前臂處，那裡有更大的接觸面積。有穿gi訓練時，也可以抓住他的袖口或道服布料。在no-gi中，稍微抓高一點到前臂肌肉處，摩擦力較大，能防止打滑。絕對不要用加快旋轉速度來彌補抓握流失。",
+    "answer_line": "monkey grip，抓高一點到前臂",
+    "distractors": {
+     "plausible": [
+      "用一隻手更用力握緊",
+      "改抓手肘窩"
+     ],
+     "trap": [
+      "抓住他的手指來固定"
+     ]
+    }
+   },
+   {
+    "question": "當夥伴對Kimura from Lockdown tap時，正確的放開流程是什麼？",
+    "answer": "一感覺或聽到tap，立刻停止所有旋轉壓力。緩慢地把手臂外旋，讓它回到中立起始位置——絕對不要突然放手或讓手臂彈回去。完全放開figure-four抓法，接著再放開雙腳的lockdown。讓夥伴先自行確認肩膀活動度，再繼續訓練。如果有任何受傷的跡象，就整輪直接停止。",
+    "answer_line": "停止、緩慢反轉、放開抓法",
+    "distractors": {
+     "plausible": [
+      "先放開lockdown的雙腳",
+      "一次把所有東西全部放開"
+     ],
+     "trap": [
+      "撐兩秒確認tap是不是真的"
+     ]
+    }
+   },
+   {
+    "question": "在finish過程中，lockdown extension與Kimura旋轉是如何協同運作的？",
+    "answer": "lockdown extension與Kimura旋轉會形成兩股相反的力量，讓finish的壓力倍增。lockdown extension把對手的髖部與被困住的腿往你這裡拉遠，讓他無法朝Kimura那一側bridge來緩解壓力。同時，Kimura的旋轉把他的手臂壓往背後。這兩個方向相反的力量，代表對手無法用全身動作來抵抗肩關節鎖，因為他的下半身正被拉往與手臂相反的方向。",
+    "answer_line": "相反力量，壓力倍增",
+    "distractors": {
+     "plausible": [
+      "兩股力量方向相同",
+      "髖部保持方正不動"
+     ],
+     "trap": [
+      "放開lockdown來加快finish"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，有哪些策略能提高Kimura from Lockdown的finish成功率？",
+    "answer": "在比賽中，先透過sweep的威脅來設置Kimura，而不是直接正面進攻。對手在防守sweep時會暴露手臂，創造出成功率更高的抓法切入點。建立Kimura抓法後，把它維持穿越位置轉換，而不是急著在下位直接finish。如果可能，用Kimura抓法把sweep到上位，改從mount或side control finish，讓重力協助旋轉。也要抓準finish的時機，配合裁判的視角，確保tap能被清楚看見。",
+    "answer_line": "透過sweep威脅來設置Kimura",
+    "distractors": {
+     "plausible": [
+      "先直接攻擊手臂",
+      "立刻從下位finish"
+     ],
+     "trap": [
+      "打開guard來更用力硬凹"
+     ]
+    }
+   },
+   {
+    "question": "有哪三個最常見的finish錯誤，會讓你無法完成Kimura from Lockdown？",
+    "answer": "三個最常見的finish錯誤是：第一，沒有做hip escape來建立finish角度，讓submission變成下位的力量對抗。第二，在旋轉過程中讓對手的手肘離開你的身體，給他空間伸直手臂逃脫。第三，在處理上半身攻擊時失去lockdown的配置，讓對手能挺直身體、拉開距離剝開Kimura抓法。這三個錯誤都與finish過程中未能維持結構性控制有關。",
+    "answer_line": "做hip escape建立finish角度",
+    "distractors": {
+     "plausible": [
+      "直直往上bridge來finish",
+      "硬凹手腕逼對方tap"
+     ],
+     "trap": [
+      "放開lockdown、坐直身體"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在設置Kimura from Lockdown，而不是sweep？",
+    "answer": "關鍵區別在於lockdown extension之後對手手的位置。如果是sweep，對手會伸手去抓underhook控制，並開始撐起手肘或側身。如果是Kimura，對手會在你靠近他那一側的手臂上建立overhook，並開始把手滑向你的手腕，同時另一隻手伸到你手臂下方準備做figure-four。overhook轉向手腕的動作，就是區分Kimura設置與sweep設置的主要辨識線索。",
+    "answer_line": "overhook滑向手腕",
+    "distractors": {
+     "plausible": [
+      "他們去挖underhook",
+      "他們抓你的衣領"
+     ],
+     "trap": [
+      "伸展lockdown、不理會它"
+     ]
+    }
+   },
+   {
+    "question": "被Kimura from Lockdown困住時，最安全的tap方式是什麼？",
+    "answer": "一旦感覺到肩關節鎖已經生效、你的防守抓法正在失守，就要立刻清楚地tap。用你空出來的手，在對手身上、腿上或墊子上連續拍打幾次。如果雙手都被困住，就用腳連續拍打，或大聲清楚地說tap。不要等到劇痛才反應——只要你意識到自己無法逃脫這個旋轉，就該tap。lockdown會封住一般的逃脫路線，所以從被困住到可能受傷之間的時間窗口，比標準的Kimura更短。",
+    "answer_line": "提早tap，用手、腳或喊聲",
+    "distractors": {
+     "plausible": [
+      "只在墊子上輕輕拍一次",
+      "只用空手tap"
+     ],
+     "trap": [
+      "硬撐找逃脫的機會"
+     ]
+    }
+   },
+   {
+    "question": "面對Kimura from Lockdown攻擊，各個階段分別有哪些防守選項？",
+    "answer": "在破壞姿勢的階段，要努力維持姿勢、把手肘收緊，阻止對方建立overhook。在抓法轉換的階段，立刻雙手互扣，防止手腕被單獨控制。在hip escape的階段，把體重往前壓，阻止對方取得finish角度。在旋轉階段，朝Kimura方向翻滾以緩解壓力並製造scramble。在所有階段中，都要持續設法把被困住的腿從lockdown中抽出，因為這麼做能移除讓其他所有防守都變得更困難的控制基礎。",
+    "answer_line": "守姿勢、互扣、往前壓、順勢翻",
+    "distractors": {
+     "plausible": [
+      "每個階段都雙手互扣硬撐",
+      "不理抓法，只顧腿"
+     ],
+     "trap": [
+      "朝Kimura反方向翻滾"
+     ]
+    }
+   },
+   {
+    "question": "為什麼Kimura from Lockdown比標準half guard Kimura更危險？",
+    "answer": "lockdown移除了上位選手的兩個主要Kimura防守手段：挺直身體拉開距離，以及跨步改變角度。困住那條腿的figure-four leg lock讓這兩個動作都無法執行，代表防守者幾乎只能完全依靠抓握對抗與上半身位置調整來求生。這使得逃脫的時間窗口更短，submission也更難防守，需要比標準half guard Kimura更早察覺、更快做出防守反應。",
+    "answer_line": "lockdown封鎖姿勢與跨步",
+    "distractors": {
+     "plausible": [
+      "只是抓法被更快建立",
+      "那個角度手臂比較弱"
+     ],
+     "trap": [
+      "標準的逃脫方式依然有效"
+     ]
+    }
+   }
+  ]
+ }
+}

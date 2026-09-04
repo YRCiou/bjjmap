@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Arm in Guillotine/from Guillotine Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm-in guillotine 主要攻擊的是哪些解剖構造？",
+    "answer": "Arm-in guillotine 會對雙側頸動脈造成壓迫。鎖喉的前臂直接壓迫近側頸動脈，而對手自己被困住的手臂與肩膀則壓迫遠側頸動脈。次要壓力會作用在氣管上，限制呼吸。這種雙側血管攻擊會造成快速的意識喪失，讓 arm-in 版本比許多標準 guillotine 配置起效更快。",
+    "safety_critical": true,
+    "answer_line": "雙側頸動脈壓迫",
+    "distractors": {
+     "plausible": [
+      "只壓迫氣管",
+      "只壓迫近側頸動脈"
+     ],
+     "trap": [
+      "扭轉頸椎"
+     ]
+    }
+   },
+   {
+    "question": "當對手的手臂被困在 guillotine 裡面時，你應該如何調整抓法？",
+    "answer": "不要試著把被困的手臂抽出來，而是立刻把抓法調得更深，讓你的手腕或前臂刀刃直接壓在近側頸動脈上。雙手在對手頭後方靠近頭頂處扣緊，做出 palm-to-palm 或 gable grip。把鎖喉的手肘拉緊貼近自己的肋骨，消除手臂與對手脖子之間的任何空隙。被困的手臂此時就成了壓迫遠側頸動脈的楔子。",
+    "safety_critical": false,
+    "answer_line": "手腕刀刃沉深，扣 gable grip",
+    "distractors": {
+     "plausible": [
+      "用力把被困手臂拉出來",
+      "雙手扣在對方背後"
+     ],
+     "trap": [
+      "鬆開抓法重新定位"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體徵象顯示對手快要對 arm-in guillotine 拍擊了？",
+    "answer": "徵象包括臉部急速變色（先變紅、可能轉紫）、逃脫動作愈發絕望、防禦性的手部纏鬥力道減弱、呼吸出現聲響變化或咯咯聲，以及身體不自主緊繃後突然放鬆。最關鍵的徵象是對手變得軟弱無力，這代表意識喪失而不是拍擊。只要觀察到肌肉張力或反應性有任何突然變化，就要立刻放開。",
+    "safety_critical": true,
+    "answer_line": "臉色變化、逃脫動作愈發絕望",
+    "distractors": {
+     "plausible": [
+      "防禦抓法在力竭前變緊",
+      "身體張力上升是最後訊號"
+     ],
+     "trap": [
+      "髖部移開代表快拍了"
+     ]
+    }
+   },
+   {
+    "question": "從 guillotine control 嘗試收招 arm-in guillotine 之前，必須先建立哪些控制？",
+    "answer": "你需要壓垮對手的姿勢、手臂完全被困在鎖喉迴路中、雙手已牢牢扣緊，並用髖部壓力把對手壓制住。具體來說：guillotine control 已建立、對手姿勢被壓垮向前且頭部低於髖部；對手的手臂被困在鎖喉迴路中無法抽出；雙手在你選定的抓法配置下已在頭後方扣緊；以及維持上位並用髖部壓力防止對手挺身或把你拉進他們的 closed guard。少了這些前提條件就嘗試收招，成功率會大幅降低。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "只要姿勢被壓垮就夠",
+      "抓法夠深就不需要髖壓"
+     ],
+     "trap": [
+      "對方站起來時跳 guard"
+     ]
+    },
+    "answer_line": "姿勢壓垮、手臂被困、抓法扣緊"
+   },
+   {
+    "question": "在你嘗試 arm-in guillotine 時，對手開始用空手挺身——什麼調整能阻止逃脫？",
+    "answer": "立刻把髖部往前壓進他們的上背，同時把雙腿往後撐開，用體重壓制他們挺身的努力。把你的肩膀壓力斜向頂進他們撐地那隻手臂的那一側，壓垮他們的 base。如果他們持續挺高，就用扣緊的雙手用力把他們的頭往下拉，同時讓鎖喉前臂更深地捲進脖子。單手挺身在結構上比雙手挺身弱，所以持續的向前壓力通常能將其壓垮。",
+    "safety_critical": false,
+    "answer_line": "撐地壓髖，壓垮支撐",
+    "distractors": {
+     "plausible": [
+      "只把頭往下拉",
+      "推開他們遠側的肩膀"
+     ],
+     "trap": [
+      "讓他們站起來重新開始"
+     ]
+    }
+   },
+   {
+    "question": "阻止從 guillotine control 完成 arm-in guillotine 收招的最常見錯誤是什麼？",
+    "answer": "最常見的錯誤是抓法太淺，前臂壓在下巴或下顎上而不是深入脖子結構。這會造成疼痛與不適，但沒有血管壓迫，讓對手能無限期防禦。修正方法是在扣手之前先把抓法滑得更深，確保手腕刀刃直接跨過氣管與近側頸動脈。如果抓法太淺，應短暫鬆開重新深入抓握，而不是硬要從不良位置收招。",
+    "safety_critical": false,
+    "answer_line": "抓法太淺，壓在下巴而非脖子",
+    "distractors": {
+     "plausible": [
+      "擠壓得太快太用力",
+      "收招速度太慢"
+     ],
+     "trap": [
+      "讓對方過肩到 mount 也不放手"
+     ]
+    }
+   },
+   {
+    "question": "在執行 arm-in guillotine 的過程中，防禦者最難逃脫的時間點是什麼時候？",
+    "answer": "一旦攻擊者消除了鎖喉手臂與軀幹之間的所有空隙、建立了朝鎖喉側的身體角度，並投入了向前的髖部壓力，逃脫就會變得極度困難。此時防禦者沒有手臂可以纏鬥、挺身能力有限，而壓迫是結構性的而非肌肉性的。關鍵的臨界點是攻擊者的前臂刀刃完全貼合頸動脈，角度消除了鎖喉迴路中所有鬆弛——從這一刻起，即使壓力只是稍微增加也會導致降伏。",
+    "safety_critical": false,
+    "answer_line": "空隙消除、角度就位、髖部壓進",
+    "distractors": {
+     "plausible": [
+      "剛抓上第一個抓法時",
+      "雙手扣緊之前"
+     ],
+     "trap": [
+      "等完全鎖死才開始防禦"
+     ]
+    }
+   },
+   {
+    "question": "在道館訓練 arm-in guillotine 時，有哪些必要的安全預防措施？",
+    "answer": "務必在 3 到 5 秒內循序漸進施力，而不是突然爆發。持續觀察夥伴的拍擊訊號，包括手拍、腳拍、口頭拍擊以及任何窘迫徵象。Arm-in 版本在完全雙側壓迫下可能在不到 5 秒內造成昏迷，所以只要出現任何訊號就要立刻放開。確保夥伴的空手能自由拍擊。絕不要在對方拍擊後還持鎖，並且在恢復訓練前務必確認夥伴意識清醒。",
+    "safety_critical": true,
+    "answer_line": "循序漸進施力，注意拍擊訊號",
+    "distractors": {
+     "plausible": [
+      "相信夥伴會及時拍擊",
+      "只在清楚手拍時才停"
+     ],
+     "trap": [
+      "固定住空手用力擠壓"
+     ]
+    }
+   },
+   {
+    "question": "在對手積極防禦的比賽中，你要如何切入 arm-in guillotine？",
+    "answer": "在比賽中，arm-in 的機會通常出現在對手 shoot 後在 sprawl 防禦時、頭部與手臂接觸中把手臂留在裡面的時候。刻意留一點空隙來誘使對手把手臂游進你標準的 guillotine 抓法裡，藉此設下陷阱。你也可以從 front headlock 威脅標準 guillotine 迫使對方進行手部纏鬥，等他們的手臂進入空隙時再把它困住。把 arm-in 與標準 guillotine 及 high elbow 版本連鎖起來，形成多重威脅體系。",
+    "safety_critical": false,
+    "answer_line": "在 sprawl 防禦時誘使手臂進入",
+    "distractors": {
+     "plausible": [
+      "等一個乾淨的純脖子切入",
+      "只在對方拉 guard 後才進攻"
+     ],
+     "trap": [
+      "跳 guard 逼迫收招"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到對手被困的手臂在 arm-in guillotine 嘗試中開始滑脫——你該怎麼做？",
+    "answer": "立刻把鎖喉的手肘更用力夾緊貼近肋骨，並封閉任何讓手臂逃脫的空隙。如果手臂幾乎快脫出，你有兩個選擇：加大髖部壓力並在對方完全抽出手臂之前加速收招；或讓手臂脫出，立刻轉換到標準 guillotine 或 high elbow guillotine 版本，這在沒有手臂困住的情況下可能成功率反而更高。不要為了追逐被困的手臂而失去整體抓法位置。",
+    "safety_critical": false,
+    "answer_line": "把鎖喉手肘夾緊貼肋骨",
+    "distractors": {
+     "plausible": [
+      "挖深重新困住正在滑脫的手臂",
+      "扭手腕把手臂固定住"
+     ],
+     "trap": [
+      "放開頭部，重新抓雙手"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正從 guillotine control 設置 arm-in guillotine？",
+    "answer": "關鍵的辨識訊號是感覺到你的手臂被夾在對手的鎖喉前臂與自己的脖子之間，限制你進行手部纏鬥的能力。你會同時感覺到脖子兩側的雙側壓力——近側是對手的前臂，遠側則是你自己被困的手臂與肩膀。對手會把抓法調得更深，並把身體轉向鎖喉手臂那一側，代表他們正從控制轉為收招。",
+    "safety_critical": false,
+    "answer_line": "手臂被夾，脖子雙側受壓",
+    "distractors": {
+     "plausible": [
+      "只感覺到單側壓力",
+      "只是抓法深度改變"
+     ],
+     "trap": [
+      "忽略它，繼續手部纏鬥"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該對 arm-in guillotine 拍擊以避免受傷？",
+    "answer": "一旦你感覺到雙側頸動脈同時受到壓迫、且沒有可行的逃脫路徑時，就要立刻拍擊。需要立即拍擊的警訊包括視線變暗、耳鳴、頭暈感，或感覺 choke 已經完全鎖死、沒有任何空間能緩解壓力。在訓練中，等到最後一刻才拍擊沒有任何好處——arm-in guillotine 可能在不到 5 秒內造成昏迷。及早拍擊，從這個位置中學習，而不是冒著昏過去的風險。",
+    "safety_critical": true,
+    "answer_line": "一旦鎖死無法逃脫就拍擊",
+    "distractors": {
+     "plausible": [
+      "先剝抓法再決定",
+      "等脖子真的痛了才拍"
+     ],
+     "trap": [
+      "跳去拿 guard 硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "被 guillotine control 的 arm-in guillotine 困住時，你最優先的防禦動作是什麼？",
+    "answer": "最優先的動作是立刻把下巴內收朝向被困手臂那一側，同時嘗試靠身體旋轉把被困手臂抽出來。內收下巴能靠減少頸動脈受壓面積來爭取時間，而抽出手臂則能恢復你完整的防禦能力。如果在最初 2 到 3 秒內抽手失敗，就轉為用空手挺身，或在 choke 完全鎖死前向前驅動壓垮對手。",
+    "safety_critical": false,
+    "answer_line": "內收下巴，抽出被困手臂",
+    "distractors": {
+     "plausible": [
+      "先挺身再防禦",
+      "伸手去抓對方遠側的腿"
+     ],
+     "trap": [
+      "直接往後拉硬扯脫困"
+     ]
+    }
+   },
+   {
+    "question": "你的手臂被困在 guillotine 裡且壓力持續增加——你的立即反應是什麼？",
+    "answer": "立刻用力把下巴內收朝向被困手臂的肩膀，減少受壓面積。同時用空手撐在對手的髖部往上推起，建立姿勢，並讓整個身體轉向被困手臂那一側。這個旋轉動作能製造一個角度，讓被困手臂開始沿著你的脖子滑脫。如果挺身失敗，就果斷向前驅動壓垮對手以緩解鎖喉角度。不要浪費時間在半調子的動作上——選定一條逃脫路徑並全力執行。",
+    "safety_critical": false,
+    "answer_line": "內收下巴，轉身撐地逃脫",
+    "distractors": {
+     "plausible": [
+      "用被困的手臂纏鬥",
+      "轉身離開被困手臂那一側"
+     ],
+     "trap": [
+      "直接往後拉硬扯脫困"
+     ]
+    }
+   },
+   {
+    "question": "逃脫 arm-in guillotine 背後的關鍵力學原則是什麼？",
+    "answer": "Arm-in guillotine 依靠一個環繞脖子的封閉迴路，被困的手臂則作為壓迫楔子。逃脫的力學原則是靠身體轉動而非直線拉扯，來打破這個迴路的幾何結構。把身體轉向被困手臂那一側，能改變你的肩膀與手臂相對於迴路的角度，讓手臂能沿著阻力最小的路徑滑脫。同時，挺身或向前驅動能打開壓迫角度，減少施加在頸動脈上的力道。",
+    "safety_critical": false,
+    "answer_line": "轉動身體以鬆開迴路",
+    "distractors": {
+     "plausible": [
+      "把手臂直接拉出來",
+      "往下推創造空間"
+     ],
+     "trap": [
+      "用力把頭往後扯"
+     ]
+    }
+   }
+  ]
+ }
+}

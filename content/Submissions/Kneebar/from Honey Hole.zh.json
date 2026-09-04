@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kneebar/from Honey Hole.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Honey Hole 進行的 kneebar 主要攻擊哪些解剖構造？",
+    "answer": "kneebar 主要透過過度伸展攻擊後十字韌帶（PCL）和膝關節囊。次要壓力則施加在內側副韌帶（MCL）和半月板上。過度伸展的力量來自你把髖部向前推頂住對手膝蓋後方，同時對手的大腿被夾在你胸口，形成一個超出膝蓋自然伸展範圍的槓桿。",
+    "safety_critical": false,
+    "answer_line": "PCL 與膝關節囊",
+    "distractors": {
+     "plausible": [
+      "ACL 與半月板",
+      "主要是 MCL"
+     ],
+     "trap": [
+      "腳踝與阿基里斯腱"
+     ]
+    }
+   },
+   {
+    "question": "對手在你進攻 heel hook 時藏住腳跟——哪些跡象告訴你該轉換到 kneebar，而不是繼續搶腳跟？",
+    "answer": "當腳跟被深深藏進腋下或背後、重新握位需要放棄位置控制時，或當對手已經在你抓 heel hook 的手上建立起強力的雙手拆一手防守、讓重新握位變得不可能時，或當對手的防守姿勢讓腿打直、正好形成理想的 kneebar 對齊角度時，就該轉換到 kneebar。花超過 2 到 3 秒搶腳跟的握法只是在浪費時間，還會讓對手有機會準備逃脫。",
+    "safety_critical": false,
+    "answer_line": "腳跟被藏、腿打直",
+    "distractors": {
+     "plausible": [
+      "對手膝蓋深深彎曲",
+      "對手弓橋想站起來"
+     ],
+     "trap": [
+      "繼續硬扣已經藏起來的腳跟"
+     ]
+    }
+   },
+   {
+    "question": "是什麼讓從 Honey Hole 進行的 kneebar，比從其他位置進行的 kneebar 成功率更高？",
+    "answer": "Honey Hole 的內側腿triangle限制了對手髖部的旋轉，而這正是對抗標準 kneebar 的主要逃脫方式。這代表攻擊者不需要同時爭奪位置控制和完成技。這個纏繞也讓對手更難有效彎曲膝蓋，因為triangle限制了整體的腿部活動性，而且垂直的身體對齊為髖部伸展提供了最佳的槓桿效果。",
+    "safety_critical": false,
+    "answer_line": "Triangle阻擋髖部旋轉",
+    "distractors": {
+     "plausible": [
+      "胸口壓力控制姿勢",
+      "握力壓制腿部"
+     ],
+     "trap": [
+      "以為不用控制也能完成"
+     ]
+    }
+   },
+   {
+    "question": "對手開始蜷曲腿部抵抗伸展——什麼調整能讓他們無法維持這個彎曲？",
+    "answer": "把你的髖部往對手的腳的方向再走近一些，增加力臂的長度，這能讓你的髖部伸展所產生的力量，對抗對手膕繩肌蜷曲的力量倍增。同時把雙肘夾得更緊，防止手臂夾持出現任何鬆動。如果對手儘管做了這些調整仍維持蜷曲，他們的膕繩肌會在持續出力 15 到 30 秒內開始疲勞。你也可以在對手調整握法、蜷曲力量暫時減弱的瞬間，施加脈衝式的微幅加壓。",
+    "safety_critical": false,
+    "answer_line": "把髖部走向對手的腳",
+    "distractors": {
+     "plausible": [
+      "只夾緊手肘",
+      "把腿往自己方向拉"
+     ],
+     "trap": [
+      "爆發性猛拉求 tap"
+     ]
+    }
+   },
+   {
+    "question": "當你的訓練夥伴對從 Honey Hole 進行的 kneebar tap 時，正確的釋放流程是什麼？",
+    "answer": "一旦偵測到任何 tap 訊號，包括口頭、實際手部拍擊、腳部拍擊或痛苦的出聲，立刻停止所有髖部伸展。把你的髖部從對手腿部移開，解除膝關節上的所有壓力。維持手臂位置但不施加壓力，讓夥伴消化這個完成技，然後慢慢放開手臂夾持，讓對手以自己的節奏抽出腿。放開之後口頭確認夥伴沒有受傷。",
+    "safety_critical": true,
+    "answer_line": "停止、放髖、慢慢釋放",
+    "distractors": {
+     "plausible": [
+      "維持位置直到對方說沒事",
+      "先放手再放髖"
+     ],
+     "trap": [
+      "把 tap 完成再放"
+     ]
+    }
+   },
+   {
+    "question": "訓練中為什麼施展 kneebar 壓力必須漸進而不是爆發性用力？",
+    "answer": "後十字韌帶和膝關節囊可能在夥伴感受到足夠痛覺、觸發 tap 反應之前，就已經受到結構性損傷。和勒頸不同，勒頸有失去意識這個自然的停止點，但膝蓋過度伸展可能在不到一秒的爆發性施力中就造成韌帶撕裂。訓練夥伴可能來不及及時 tap 以避免因猛力扣緊的 kneebar 而受傷，導致需要 6 到 12 個月的 PCL 重建手術復原期。至少 3 到 5 秒的漸進施力，能給予足夠時間讓 tap 訊號發出。",
+    "safety_critical": true,
+    "answer_line": "傷害可能在痛覺之前就發生",
+    "distractors": {
+     "plausible": [
+      "爆發性完成能節省時間",
+      "痛覺總是先於傷害出現"
+     ],
+     "trap": [
+      "快速扣緊以結束回合"
+     ]
+    }
+   },
+   {
+    "question": "從 heel hook 轉換到 kneebar 的握法過程中，如何維持內側腿triangle的控制？",
+    "answer": "你的雙腿和雙手在轉換過程中要獨立運作。當你的雙手放開腳跟握法、轉向去建立圍繞大腿的手臂夾持時，你的內側腿triangle必須維持鎖死，你外側的腿也必須持續壓過對手的髖部。在雙手轉換的過程中，把triangle夾得更緊，彌補上半身控制暫時減弱的空檔。絕不能為了方便手部轉換而解開或鬆開triangle。",
+    "safety_critical": false,
+    "answer_line": "Triangle全程保持鎖死",
+    "distractors": {
+     "plausible": [
+      "先換外側的腿",
+      "改用夾膝來控制"
+     ],
+     "trap": [
+      "放開腿部纏繞"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，如何製造 heel hook 與 kneebar 之間的兩難，逼對手做出必輸的選擇？",
+    "answer": "先透過積極爭取腳跟握法，建立 heel hook 的威脅。當對手把雙手和身體位置全都投入到防守腳跟、把腳跟藏起來時，他們的腿會打直、雙手也會被佔用，正好形成理想的 kneebar 設置。這個兩難之所以有效，是因為防守 heel hook 需要把腳蜷曲並用雙手拆握法，這會讓膝蓋暴露出來，也讓對手失去對抗 kneebar 夾持的能力。在兩種威脅之間交替，讓對手持續被動反應，而不是主動逃脫。",
+    "safety_critical": false,
+    "answer_line": "腳跟威脅逼腿打直",
+    "distractors": {
+     "plausible": [
+      "永遠先攻 kneebar",
+      "隨機交替握法"
+     ],
+     "trap": [
+      "完全投入單一個技術"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的握法配置能為 kneebar 完成技提供最強的手臂夾持？",
+    "answer": "手掌相貼、手指交扣在對手膝蓋後方的 gable grip 能提供最強的夾持。把你的前臂交叉在膝關節後方，雙手扣在對手大腿的另一側。把雙肘夾在一起，消除任何左右晃動。你的胸口壓住對手大腿前側，握法則把對手的膝蓋後方固定在你的髖部支點上。當手部位置讓 gable grip 難以施展時，S-grip 也是可以接受的次要選擇。",
+    "safety_critical": false,
+    "answer_line": "膝蓋後方用 gable grip",
+    "distractors": {
+     "plausible": [
+      "主要用 S-grip",
+      "握在膝蓋骨上方"
+     ],
+     "trap": [
+      "抓腳踝以取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "對手在你進攻 kneebar 時爆發性地旋轉髖部——你立即的反應應該是什麼？",
+    "answer": "用你的髖部跟隨對手的旋轉，同時維持手臂夾持和內側腿triangle。如果對手朝你的方向旋轉，順勢利用這個動量轉換成臉朝下的 kneebar 位置，這能提供更強的完成技槓桿。如果對手往反方向旋轉，你的triangle應該能限制旋轉幅度、防止動作完成。如果旋轉有讓你失去平衡的風險，用你的自由手撐地維持底盤。旋轉過程中絕不要放開手臂夾持，因為你對腿部的握法，是你跟隨對手動作的錨點。",
+    "safety_critical": false,
+    "answer_line": "跟隨旋轉，維持夾持",
+    "distractors": {
+     "plausible": [
+      "逆著旋轉方向推",
+      "重置 guard 重新開始"
+     ],
+     "trap": [
+      "放開夾持去追腿"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "什麼是攻擊者從 heel hook 轉換到 kneebar 時，你最先感受到的身體訊號？",
+    "answer": "主要的訊號是感覺到攻擊者放開你的腳跟或腳踝握法，雙手往上移動到你膝蓋上方的大腿位置。你也會感覺到攻擊者的髖部從你的腿旁邊移動到直接在你膝關節後方。這個握法轉換過程需要 1 到 2 秒，這是你在手臂夾持建立之前實施彎膝防守的空檔。",
+    "safety_critical": false,
+    "answer_line": "腳跟放開，雙手上移",
+    "distractors": {
+     "plausible": [
+      "髖部移到你側邊",
+      "腳踝上的壓力加大"
+     ],
+     "trap": [
+      "對方全部放開，就放鬆戒備"
+     ]
+    }
+   },
+   {
+    "question": "對於從 Honey Hole 進行的 kneebar，你應該在什麼時候 tap 以避免受傷？",
+    "answer": "一旦感覺到你的彎膝防守無法對抗的髖部伸展壓力，立刻 tap。如果你的腿正違背你的意志被打直、攻擊者的髖部持續向前推進，在完全伸直之前就要 tap。PCL 可能在你感受到痛覺高峰之前就已撕裂，所以等到痛覺變得劇烈才 tap，代表韌帶可能已經受損。任何口頭、手部或腳部的 tap 訊號都可以，選最快能發出的方式就好。",
+    "safety_critical": true,
+    "answer_line": "感覺被強迫伸展就 tap",
+    "distractors": {
+     "plausible": [
+      "只在劇痛時才 tap",
+      "等口頭警告"
+     ],
+     "trap": [
+      "觀察情況是否惡化再說"
+     ]
+    }
+   },
+   {
+    "question": "當攻擊者已經完全鎖死手臂夾持並開始伸展時，還有哪些防守選項？",
+    "answer": "一旦手臂夾持鎖死、伸展已經開始，你實際可用的選項極為有限。全力彎膝或許能暫時延遲完成技，如果立刻嘗試，爆發性旋轉配合弓橋或許能破壞對齊角度。但如果伸展持續進行、你的腿正被打直，最安全的選擇就是 tap。在這個階段嘗試英雄式逃脫，受傷風險高而成功率低。預防和早期防守遠比後期嘗試有效得多。",
+    "safety_critical": true,
+    "answer_line": "選項不多；tap 最安全",
+    "distractors": {
+     "plausible": [
+      "等裁判介入",
+      "找機會反過來攻腿鎖"
+     ],
+     "trap": [
+      "硬撐用力對抗伸展"
+     ]
+    }
+   },
+   {
+    "question": "在 Honey Hole 中，防守 kneebar 和防守 heel hook 有什麼不同？",
+    "answer": "heel hook 的防守重點是靠蜷曲、拆握法和阻止破壞性旋轉，來防止對手取得腳跟的旋轉角度。kneebar 的防守重點是靠彎膝、推髖和破壞對齊角度，來防止直線伸展。這兩者的防守動作在方向和時機上根本不同，這也是為什麼 heel hook 轉 kneebar 的連招如此有效——因為防守者必須在攻擊者轉換的瞬間，立刻切換完全不同的防守思路。",
+    "safety_critical": false,
+    "answer_line": "直線伸展 vs 旋轉",
+    "distractors": {
+     "plausible": [
+      "兩者防法完全一樣",
+      "kneebar 只需要 tap 更快"
+     ],
+     "trap": [
+      "藏腳跟就能同時防兩個"
+     ]
+    }
+   },
+   {
+    "question": "為什麼完全逃脫 Honey Hole 這個位置，比逐一防守個別技術更好？",
+    "answer": "在 Honey Hole 中，攻擊者能同時取得多種完成技威脅，包括 heel hook、kneebar、toe hold 和 calf slicer。只防守其中一個技術，只會把攻擊者引導到連鎖中的下一個威脅。每一次防守努力都會消耗你的體力，而攻擊者卻能不斷循環進攻。完全逃離這個纏繞能同時消除所有完成技威脅，這也是唯一能持續下去的防守策略，而不是一個接一個地防守每個技術。",
+    "safety_critical": false,
+    "answer_line": "逃脫能消除所有威脅",
+    "distractors": {
+     "plausible": [
+      "依序防守每個威脅",
+      "只專注最強的防守"
+     ],
+     "trap": [
+      "用完成技交換來拖垮對方"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -91,3 +91,47 @@ For every file you write, confirm with a quick Bash/python check that:
 
 Report: the files you wrote, the card count per file, and anything you deliberately left in
 English beyond the glossary.
+
+---
+
+## The failure this section exists to prevent
+
+A translation pass rendered proper names into Chinese: `heel hook` became 腳跟鎖,
+`triangle` became 三角鎖, `armbar` became 十字固, `ankle lock` became 腳踝鎖. It happened in
+54 files, 222 times, and it is easy to miss on review because each sentence reads perfectly
+well — the Chinese is fluent, it is just wrong. A Taiwanese practitioner says "heel hook", and
+more importantly the name is the join between the sentence and the graph node the reader is
+looking at.
+
+**Before you finish a batch, scan your own output for it.**
+
+```bash
+python scripts/check_translations.py --check       # structure only — will NOT catch this
+```
+
+`check_translations.py` validates array lengths and Simplified characters. It does not know
+what a proper name is, so the name check is on you. Grep your own files for the Chinese forms
+of the terms in `scripts/glossary.json` `keep_english`. The ones that have actually occurred:
+
+| Chinese written | should have stayed |
+|---|---|
+| 腳跟鎖 / 足跟鎖 / 跟腱鎖 | heel hook |
+| 三角鎖 / 三角勒 / 三角絞 | triangle |
+| 十字固 / 臂十字 / 直臂鎖 / 手臂鎖 | armbar |
+| 腳踝鎖 / 踝鎖 / 踝關節鎖 / 直踝鎖 | ankle lock |
+| 木村鎖 | kimura |
+| 裸絞 / 後裸絞 | rear naked choke |
+| 美式鎖 / 肩固 | americana |
+| 斷頭台 | guillotine |
+| 腕鎖 | wrist lock |
+| 蝴蝶掃 / 剪刀掃 / 髖頂掃 | butterfly / scissor / hip bump sweep |
+| 膝切過腿 / 托雷安多 | knee slice pass / toreando |
+
+**The distinction that matters:** a NAME stays English, a COMMON NOUN does not. "This is a
+choke" is 這是一個絞技 and that is correct — 絞技 as an ordinary word is fine. "Rear Naked
+Choke" is a name and stays English even mid-sentence. The test is whether the English source
+capitalises it or refers to a specific technique in the graph.
+
+**Put a space between Chinese and embedded English.** 定義了 closed guard，並把它與 open
+guard 區分開來 reads; 從Ashi Garami施展的heel hook does not. This is inconsistent across the
+corpus today and is worth getting right in new batches.

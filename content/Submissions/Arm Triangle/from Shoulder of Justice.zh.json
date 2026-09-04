@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm Triangle from Shoulder of Justice 攻擊的是哪些解剖構造？",
+    "answer": "Arm Triangle 同時壓迫兩側頸動脈。對手自己被困住的肩膀從近側壓進一邊頸動脈，你的前臂則從對手頸後繞過，壓向另一側頸動脈。這種雙側壓迫限制了流向腦部的血流，若不放開，會在 6-8 秒內造成昏迷。這個機制靠的是對手自己的骨骼結構反過來對付他們自己。",
+    "answer_line": "兩側頸動脈",
+    "distractors": {
+     "plausible": ["氣管與呼吸道", "只有頸靜脈"],
+     "trap": ["扭轉脖子逼迫拍降"]
+    }
+   },
+   {
+    "question": "對手的什麼防守反應會創造出 Shoulder of Justice 的 Arm Triangle 機會？",
+    "answer": "觸發點是對手把遠端手臂橫過自己的臉和脖子，來抵擋 Shoulder of Justice 猛烈的下顎壓力。他們的前臂或手會推向你的肩膀，或橫過自己的喉嚨線來緩解壓力。這個手臂橫過自己脖子的動作，會讓他們的肩膀壓向自己的頸動脈，創造出 head-and-arm 配置。與其對抗這個反應，不如順勢利用它作為 Arm Triangle 的設置。",
+    "answer_line": "遠端手臂越過自己脖子",
+    "distractors": {
+     "plausible": ["對手把臉轉開", "對手推你的髖部"],
+     "trap": ["對手夾住你的近側 underhook"]
+    }
+   },
+   {
+    "question": "從 Shoulder of Justice 轉換過程中，什麼抓握配置能鎖住 head-and-arm 勒頸？",
+    "answer": "把勒頸手繞過對手被困的遠端手臂上方、穿到他們頸後之後，用勒頸手抓住自己的二頭肌鎖上 figure-four grip，空出的手扣住他們頭後。另一種選擇是用雙掌相貼的 gable grip 來取得更緊實的配置。抓握必須把對手的頭和被困手臂鎖成一個結構整體、毫無鬆動，以防止手臂被抽出。",
+    "answer_line": "Figure-four 或 gable grip",
+    "distractors": {
+     "plausible": ["同時做 underhook 和 overhook", "S-grip 抓衣領"],
+     "trap": ["雙手交扣在對方頭後"]
+    }
+   },
+   {
+    "question": "你的對手在抓握切換過程中開始把遠端手臂抽回——什麼調整能防止逃脫？",
+    "answer": "在手臂脫離之前，立刻加大胸壓、把體重壓下去固定住正在抽回的手臂。如果無法固定住，就放棄 Arm Triangle 的嘗試，立刻把肩膀重新壓回對方下顎，重新建立 Shoulder of Justice 的壓力。不要去追一個半鎖上的 Arm Triangle。手臂抽回，等於對手失去了對抗下顎壓力的防禦，所以退回 Shoulder of Justice 能重啟這個進退兩難的循環，這個反應會再次出現。",
+    "answer_line": "加大胸口體重固定手臂",
+    "distractors": {
+     "plausible": ["把抓握夾得更緊", "立刻走到完成角度"],
+     "trap": ["放棄上位改拉 guard"]
+    }
+   },
+   {
+    "question": "從 Shoulder of Justice 鎖上 Arm Triangle 後，什麼樣的身體角度能製造出最大的完成壓力？",
+    "answer": "把髖部走到跟對手身體垂直（90 度）的位置，站在被困手臂那一側。近側的髖部貼地，頭放在對手頭部遠側的墊子上。你的胸口應該正對著對手的臉。這個角度能讓你擴張的胸腔和體重把對手的肩膀壓進他們自己的頸動脈，同時前臂壓迫另一側。沒有這個垂直角度，勒頸就會變成頸部扭轉。",
+    "answer_line": "髖部垂直，頭貼地",
+    "distractors": {
+     "plausible": ["保持方正、加強夾緊", "髖部與對方身體平行"],
+     "trap": ["坐高身體，被反 bridge"]
+    }
+   },
+   {
+    "question": "有哪些關鍵跡象顯示 Arm Triangle 已正確鎖住，對手正接近無法逃脫的臨界點？",
+    "answer": "當你能感覺到對手被困住的肩胛骨緊緊壓進他們的脖子、你的胸口和他們身體之間毫無空隙時，代表勒頸已經鎖得很正確。他們的臉可能開始因血流受限而變色，防禦動作會變得越來越無力、越來越不協調。如果他們無法用空出來的手做出任何框架，也無法有效 bridge 來打亂你的角度，就代表他們已經過了無法逃脫的臨界點，完成只是時間問題。",
+    "answer_line": "肩胛骨壓緊、毫無空隙",
+    "distractors": {
+     "plausible": ["前臂壓迫氣管", "髖部與對方身體平行"],
+     "trap": ["等他們全身癱軟"]
+    }
+   },
+   {
+    "question": "在施展 Arm Triangle from Shoulder of Justice 時必須遵守哪些安全注意事項？",
+    "answer": "施壓要在 3-5 秒內循序漸進地加壓，絕對不要突然猛力或抽動。透過感覺抵抗力的變化和觀察臉部顏色變化，持續監控對手是否還有意識。務必讓對手至少有一隻手是自由的、能夠拍降。只要出現任何拍降訊號——口頭、拍手或拍腳——都要立刻放開。如果對手全身癱軟，立刻放開，讓他側躺、抬高雙腿。血液勒頸可能在 6-8 秒內造成昏迷。",
+    "answer_line": "慢慢施壓，拍降即放開",
+    "distractors": {
+     "plausible": ["快速夾緊，速戰速決", "只接受口頭拍降"],
+     "trap": ["對方全身癱軟後仍撐住"]
+    }
+   },
+   {
+    "question": "在從 Shoulder of Justice 轉換到 Arm Triangle 的過程中，你要如何防止對手抽出被困手臂？",
+    "answer": "關鍵的控制在於，抓握切換前後都要用胸壓固定住被困手臂。你的體重把對手的遠端手臂壓在他們自己脖子上，讓他們無法抽回。一旦 head-and-arm 抓握鎖上，figure-four 配置就會在結構上阻止手臂被抽出。如果你在轉換過程中感覺手臂正在滑出，要立刻退回 Shoulder of Justice 的壓力，而不是硬追一個已經妥協的 Arm Triangle。",
+    "answer_line": "胸壓固定住手臂",
+    "distractors": {
+     "plausible": ["夾緊手腕即可", "重新抓一次 underhook"],
+     "trap": ["抬起胸口去搆手臂"]
+    }
+   },
+   {
+    "question": "你鎖上抓握後，對手朝勒頸那一側 bridge——你要如何維持控制？",
+    "answer": "遠側的手撐地，加寬那一側的 base 來吸收 bridge。頭壓低、抓握持續鎖緊。如果 bridge 力道強到把你翻過去，就全程維持 head-and-arm 抓握，改從底部用 guard 版本的 Arm Triangle 完成。一次失敗的 bridge 其實對你有利，因為那會耗盡對手的體力，而且他們回到墊上時勒頸往往會夾得更緊。",
+    "answer_line": "加寬 base，抓握維持鎖緊",
+    "distractors": {
+     "plausible": ["坐回去擋住 bridge", "撐在勒頸側的手肘上"],
+     "trap": ["趴平身體阻止翻滾"]
+    }
+   },
+   {
+    "question": "從 Shoulder of Justice 完成 Arm Triangle 最常見的完成錯誤是什麼？",
+    "answer": "最常見的完成錯誤是用手臂硬夾，而不是靠胸腔壓迫和身體角度來產生壓力。用手臂硬夾很快就會疲勞，而且會變成頸部扭轉，而不是乾淨的血液勒頸。正確的做法是走到完全垂直的角度，把髖部放低、用頭封住位置，同時擴張胸腔並把手肘往身體中線收攏。你的身體力學才是產生勒頸力量的關鍵，手臂只是負責維持鎖定的配置。",
+    "answer_line": "用手臂硬夾而非用胸壓",
+    "distractors": {
+     "plausible": ["加壓速度太慢", "胸腔壓得太重"],
+     "trap": ["破壞封鎖，讓對手翻上位"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要怎麼辨識對手正從 Shoulder of Justice 轉換到 Arm Triangle？",
+    "answer": "關鍵的辨識訊號是感覺到對手的胸口體重往前壓在你的遠端手臂上，刻意把它固定在你自己的脖子上，接著他們放開 cross-face 抓握，開始把手繞過你的手臂、穿到你頸後。你也可能感覺到他們的髖部從 Side Control 姿勢鬆開，準備走到垂直的完成角度。",
+    "answer_line": "胸壓固定你的遠端手臂",
+    "distractors": {
+     "plausible": ["cross-face 抓握變得更緊", "髖部壓進你的肋骨"],
+     "trap": ["等抓握鎖上才反應"]
+    }
+   },
+   {
+    "question": "被 Arm Triangle from Shoulder of Justice 鎖住時，最安全的拍降方式是什麼？",
+    "answer": "立刻明確拍降，用任何可用的訊號：用空出來的手多次拍打地板或對手身體，如果手被困住就用腳拍，或大聲說「tap」。一旦勒頸鎖上，不要等著看能不能逃脫——Arm Triangle 會壓迫頸動脈，可能在 6-8 秒內造成昏迷。及早拍降能避免受傷，也讓你能繼續安全訓練。",
+    "answer_line": "立即明確拍降",
+    "distractors": {
+     "plausible": ["等到有一隻手空出來再拍", "輕輕拍一下就好"],
+     "trap": ["先努力掙脫再拍降"]
+    }
+   },
+   {
+    "question": "什麼樣的手臂擺位，能防止對手把 Shoulder of Justice 轉換成 Arm Triangle？",
+    "answer": "把遠端手臂緊貼在遠側肋骨上、手肘朝下，或是把手臂完全伸離自己的脖子。最致命的錯誤，是讓自己的前臂橫過自己的喉嚨線，這正是攻擊者需要的被困手臂位置。防守 Shoulder of Justice 的下顎壓力時，要用頭部擺位、呼吸控制和髖部移動，而不是用手臂橫過臉部去做框架。",
+    "answer_line": "手臂貼緊肋骨，手肘朝下",
+    "distractors": {
+     "plausible": ["雙手抱住對方的頭", "抓住勒頸那隻手的手腕"],
+     "trap": ["用前臂橫過自己脖子做框架"]
+    }
+   },
+   {
+    "question": "對手已經鎖上 head-and-arm 配置，但還沒走到完成角度——你還有哪些逃脫選項？",
+    "answer": "這是你最後一個高機率的逃脫時機。轉身面向對手、朝被困手臂那一側，努力撐到膝蓋上。同時用空出來的手臂對他們的髖部做框架，阻止他們走到垂直角度。如果你能把膝蓋撐起來、正面朝向對手，他們就無法產生完成所需的胸腔壓迫。另外，也可以朝被困手臂那一側 bridge，把對手拉進 Closed Guard，藉此打亂角度。",
+    "answer_line": "轉身面向，frame 對方髖部，撐起膝蓋",
+    "distractors": {
+     "plausible": ["推對方的臉爭取空間", "等待角度自己改變"],
+     "trap": ["轉身背對，露出背部"]
+    }
+   },
+   {
+    "question": "允許從 Shoulder of Justice 轉換到 Arm Triangle 的最常見防守錯誤有哪些？",
+    "answer": "最常見的錯誤，是本能地把遠端手臂橫過自己的臉來抵擋下顎壓力，這直接創造了 Arm Triangle 的設置。第二常見的錯誤，是被夾住後轉身背對對手，這會加速勒頸，因為會把自己的肩膀更深地壓進頸動脈。第三個錯誤，是防守得太晚——對手切換抓握的那個轉換窗口是最好的逃脫時機，而且只有 2-3 秒。",
+    "answer_line": "遠端手臂橫過自己的臉",
+    "distractors": {
+     "plausible": ["近側手肘外張", "下巴壓向自己胸口"],
+     "trap": ["翻滾成 turtle 來逃脫"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Arm Triangle/from Shoulder of Justice.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

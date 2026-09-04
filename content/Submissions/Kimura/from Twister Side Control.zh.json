@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Twister Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Twister Side Control 中的 Kimura 主要攻擊哪些解剖結構？",
+    "answer": "Kimura 主要透過強制內旋、超出正常活動範圍來攻擊肩關節。有風險的具體結構包括旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、盂肱韌帶、關節唇及肩關節囊。次要壓力則落在二頭肌肌腱與肩鎖關節上。從 Twister Side Control 這個側向角度，會比傳統 Kimura 更集中把力量施加在後方關節囊與棘下肌上。",
+    "safety_critical": true,
+    "answer_line": "透過內旋攻擊肩膀",
+    "distractors": {
+     "plausible": [
+      "手肘關節，像armbar一樣",
+      "手腕與前臂骨頭"
+     ],
+     "trap": [
+      "頸部與頸椎"
+     ]
+    }
+   },
+   {
+    "question": "相較於傳統側控，為什麼翻滾脫逃防禦對 Twister Side Control 中的 Kimura 沒有效？",
+    "answer": "Twister Side Control 特有的絆腳限制了底部選手的髖部旋轉，而髖部旋轉正是翻滾脫逃的基礎。在傳統側控中，防守者可以架橋並往 Kimura 那側的肩膀翻滾，藉此緩解壓力甚至反轉。從 Twister Side Control 攻擊時，腿部勾鎖把靠近的那側髖部釘住，阻止執行這個脫逃所需的協調髖部動作。這種機械性限制，正是從這個位置攻擊 Kimura 的主要優勢。",
+    "safety_critical": false,
+    "answer_line": "腿部勾鎖阻擋髖部旋轉",
+    "distractors": {
+     "plausible": [
+      "手臂控制阻擋翻滾",
+      "肩部壓力阻止翻滾"
+     ],
+     "trap": [
+      "翻滾得更用力來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "如果 Kimura 收技時，對手抓住自己的短褲來阻止手臂旋轉，你有哪些應對選項？",
+    "answer": "當防守者抓住自己的短褲或大腿時，你有幾個選項。第一，維持 figure-four 壓力的同時，一根一根地撬開他的抓握。第二，用 figure-four 做脈衝式施力，逐漸讓他的抓握疲勞。第三，轉換成直臂式armbar，伸展他的手臂，並在維持手腕控制的情況下把腿甩過他的頭部。第四，維持 Kimura 位置並威脅其他提交技術，逼他為了防守而放開抓握。無論轉換成上述哪一種，腿部絆鎖都能讓他在過程中持續被釘住。",
+    "safety_critical": false,
+    "answer_line": "撬開抓握、脈衝施力，或轉armbar",
+    "distractors": {
+     "plausible": [
+      "放棄這次提交嘗試",
+      "站起來破解他的抓握"
+     ],
+     "trap": [
+      "硬扭手臂結果失去釘制"
+     ]
+    }
+   },
+   {
+    "question": "在施加 Kimura 的過程中，到了哪個階段這個提交對防守者來說就已經無法逃脫？",
+    "answer": "不可逆的臨界點出現在：figure-four 抓握已經鎖緊、防守者的手肘被釘在自己身體上、進攻者的髖部已與被鎖手臂呈垂直，而且手腕已經旋轉超過防守者背部的平面。一旦手腕在手肘抬高的情況下越過髖線後方，力學槓桿會讓逃脫幾乎不可能，除非拍降。防守者必須認清，他們最後可行的防禦窗口，是在手肘被釘住之前。",
+    "safety_critical": false,
+    "answer_line": "手腕旋轉超過背部平面",
+    "distractors": {
+     "plausible": [
+      "figure-four 抓握剛扣上",
+      "髖部只是轉成垂直"
+     ],
+     "trap": [
+      "其實永遠不會真的無法逃脫"
+     ]
+    }
+   },
+   {
+    "question": "從這個位置收技時，該如何協調手腕旋轉與手肘抬高？",
+    "answer": "手腕和手肘必須以協調的組合同步移動。用你抓握的那隻手把手腕往防守者的下背方向旋轉，同時用你的前臂作為 figure-four 結構內的槓桿，把手肘從墊子上抬起。只做手腕旋轉而不抬高手肘，產生的肩部扭力不足；只抬高手肘而不做手腕旋轉，則會變成單純的扭轉而不是正確的 Kimura。兩者結合產生的向量，會形成一條斜線力，攻擊肩關節最脆弱的角度。",
+    "safety_critical": false,
+    "answer_line": "旋轉手腕、同時抬高手肘",
+    "distractors": {
+     "plausible": [
+      "只靠手腕旋轉就夠了",
+      "只靠抬高手肘就夠了"
+     ],
+     "trap": [
+      "快速扭手腕求拍降"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中從 Twister Side Control 施加 Kimura 時，有哪些關鍵安全考量？",
+    "answer": "旋轉要緩慢施加，最少 3-5 秒，絕不能猛拉或突然加壓。Twister Side Control 的側向角度只需極小的力氣就能產生可觀的扭力，這讓突然施力特別危險。要確認你的夥伴至少有一隻手或一隻腳能自由拍降。要留意口頭拍降或表示不適的聲音，因為底部姿勢可能限制身體拍降。任何拍降訊號出現時要立即解除：先停止旋轉，再把手臂放回中立位置，最後才解開抓握。絕不能在對方拍降後測試他的痛覺忍受度。",
+    "safety_critical": true,
+    "answer_line": "以 3-5 秒緩慢旋轉",
+    "distractors": {
+     "plausible": [
+      "扭力需要最大力量",
+      "只有身體拍降才算數"
+     ],
+     "trap": [
+      "又快又猛地突然加壓"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降後，該如何正確解除 Kimura，避免收技後的二次傷害？",
+    "answer": "解除要依照特定順序：第一，一偵測到拍降就立刻停止所有旋轉壓力。第二，緩慢地把手臂朝中立位置外旋回起始點。第三，完全解開 figure-four 抓握。第四，在繼續訓練前，讓對手自行評估肩膀的活動狀況。絕不能突然放開手臂或讓它猛然彈回，因為突然的位置變化會對已經受壓的結構造成額外的拉扯。要維持身體位置，直到你確定手臂已經被安全地放回。",
+    "safety_critical": true,
+    "answer_line": "先停止，放回手臂，再解開",
+    "distractors": {
+     "plausible": [
+      "先立刻放開抓握",
+      "讓對方自己解開"
+     ],
+     "trap": [
+      "快速放手，手臂彈回"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，Twister Side Control 中的 Kimura 如何融入更廣泛的提交策略？",
+    "answer": "Kimura 是 Twister Side Control 三重威脅系統中的一環，另外兩個是 twister 與 darce choke。在比賽中，你先建立位置並開始威脅 twister，因為這會逼對方伸出手臂做防禦性框架。當防守者用手臂框架來防止脊椎旋轉時，靠近你的那條伸展手臂就會讓 Kimura 出現機會。如果他們把手臂收回來防守 Kimura，twister 的威脅就會重新出現。理解這種依據防守反應在不同威脅間循環切換的選手，能讓每一個個別的提交都更有效，因為對其中一個的防守，會打開另一個的機會。",
+    "safety_critical": false,
+    "answer_line": "在 twister、kimura、darce 間循環",
+    "distractors": {
+     "plausible": [
+      "先攻 kimura，再攻 twister",
+      "只攻 kimura，不管其他"
+     ],
+     "trap": [
+      "防守一次就放棄威脅"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識 Twister Side Control 中的 Kimura 正在被布置？",
+    "answer": "主要的辨識線索，是進攻者放開一隻控制你肩膀或頭部的手，去抓你靠近的那隻手腕。你會感覺到他抓握的轉變，他的手掌心朝下包住你的手腕。次要線索包括感覺到他遠側的手臂正穿到你手肘下方，以及他的髖部突然朝你頭部方向移動。及早辨識非常關鍵，因為一旦 figure-four 建立，防禦效果就會大幅下降。",
+    "safety_critical": false,
+    "answer_line": "手放開，抓近側手腕",
+    "distractors": {
+     "plausible": [
+      "遠側手臂先穿到手肘下方",
+      "髖部朝你的腿部移動"
+     ],
+     "trap": [
+      "等 figure-four 出現才反應"
+     ]
+    }
+   },
+   {
+    "question": "被 Twister Side Control 的 Kimura 鎖住時，最安全的拍降方式是什麼？",
+    "answer": "一感覺到自己無法防守的旋轉壓力，就要在疼痛變劇烈之前立刻拍降。用你的空手快速拍打進攻者的身體、墊子，或自己的身體。如果你的空手被困住，就用口頭拍降，清楚多次說出「拍」，或用腳拍打墊子。不要試著硬撐或等到痛才反應，因為這個側向角度能很快產生可觀的扭力，肩傷可能在幾乎沒有預警的情況下發生。腿部絆鎖代表你無法用翻滾來緩解壓力，所以要提早拍降。",
+    "safety_critical": true,
+    "answer_line": "提早拍降，不要硬撐",
+    "distractors": {
+     "plausible": [
+      "等到痛得厲害再拍",
+      "只有手拍才算數"
+     ],
+     "trap": [
+      "試著翻滾硬拚出去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼標準的翻滾脫逃防禦對 Twister Side Control 中的 Kimura 沒有效？",
+    "answer": "翻滾脫逃需要協調的髖部旋轉，才能翻過 Kimura 那側的肩膀來緩解旋轉壓力。在 Twister Side Control 中，進攻者纏繞在你靠近那條腿上的絆鎖，會完全阻擋這個髖部旋轉。硬要嘗試翻滾脫逃會浪費大量體力，卻無法改善你的位置，甚至可能讓進攻者的控制更深。你必須改用其他防禦手段，專注於防止抓握、回收手臂，並利用抓握轉換的空檔做髖部脫逃。",
+    "safety_critical": false,
+    "answer_line": "腿部絆鎖阻擋髖部翻滾",
+    "distractors": {
+     "plausible": [
+      "手臂位置阻擋翻滾",
+      "抓握力量阻擋翻滾"
+     ],
+     "trap": [
+      "還是硬要做翻滾脫逃"
+     ]
+    }
+   },
+   {
+    "question": "在不同階段，你對 Twister Side Control 中的 Kimura 有哪些防守選項？",
+    "answer": "防守要視階段而定。抓握之前：把手肘收緊，拒絕讓對方接觸手腕。抓握轉換期間：立刻對抗手腕抓握，並利用進攻者肩部壓力減弱的空檔做髖部脫逃。figure-four 部分建立時：伸直手臂破壞角度，或用力把手肘抽回。figure-four 已鎖死時：抓住自己的短褲或大腿，暫時錨定以拖延旋轉。旋轉開始後：在受傷前拍降。越早採取防禦行動，成功機率就越高。",
+    "safety_critical": false,
+    "answer_line": "依階段而定：拒絕、回收、錨定",
+    "distractors": {
+     "plausible": [
+      "每個階段都用同一種防守",
+      "等鎖死了才防守"
+     ],
+     "trap": [
+      "鎖死後才嘗試翻滾脫逃"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該嘗試脫逃這個位置，而不是單純專注在防守提交？",
+    "answer": "最佳的脫逃時機，是進攻者在抓握轉換期間，也就是他放鬆肩部壓力去尋找你手腕的那一刻。這個短暫的空檔會削弱他的位置控制，讓髖部脫逃和重新拉關變得可行。如果 figure-four 已經鎖死，就要把全部心力放在防守提交上，透過抓握錨定和伸直手臂來防守，而不要嘗試位置脫逃，因為從已鎖死的 Kimura 嘗試脫逃，通常會為進攻者的旋轉創造更多空間，反而加速完成提交。",
+    "safety_critical": false,
+    "answer_line": "在抓握轉換期間脫逃",
+    "distractors": {
+     "plausible": [
+      "只在收技嘗試後脫逃",
+      "完全不要冒險脫逃"
+     ],
+     "trap": [
+      "鎖死後拚命亂扭"
+     ]
+    }
+   }
+  ]
+ }
+}

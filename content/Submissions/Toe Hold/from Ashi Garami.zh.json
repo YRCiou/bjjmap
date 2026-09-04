@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Ashi Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "toe hold 主要攻擊哪些解剖構造？",
+    "answer": "toe hold 主要透過旋轉扭力攻擊腳踝的內外側韌帶,以及中足的 Lisfranc 關節。它同時也會對足底筋膜與腳踝周圍的結締組織施加扭轉負荷。medial rotation 會同時在多個關節面上產生剪力。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "膝關節韌帶與半月板",
+      "主要是阿基里斯腱"
+     ],
+     "trap": [
+      "各個腳趾關節"
+     ]
+    },
+    "answer_line": "腳踝韌帶與 Lisfranc 關節"
+   },
+   {
+    "question": "從 Ashi Garami 施展 toe hold 的正確握法是什麼？",
+    "answer": "這是 kimura 式的 figure-four:一手扣住腳趾與蹠球部,另一手穿過腳踝下方握住自己的手腕。主握手的手掌貼在腳底,手指扣住蹠骨上方。這種雙鎖結構能在腳踝關節上產生旋轉槓桿。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "直接同時抓住兩隻腳踝",
+      "單手直臂硬拉"
+     ],
+     "trap": [
+      "抓住並扭轉每根腳趾"
+     ]
+    },
+    "answer_line": "figure-four:扣腳、握手腕"
+   },
+   {
+    "question": "你正要伸手扣握時,對手開始收回腳掌,你該怎麼做？",
+    "answer": "如果腳還沒完全收回,就一鼓作氣、乾脆地完成扣握,搶在他們收回之前。如果腳已經完全收回並蜷縮,就立刻放棄這次 toe hold 的嘗試,回到 Ashi Garami 的基本防守,而不是硬追一個抓不牢的握點。",
+    "safety_critical": false,
+    "answer_line": "快搶握點,不行就放棄",
+    "distractors": {
+     "plausible": [
+      "永遠追著硬搶握點",
+      "直接改攻 heel hook"
+     ],
+     "trap": [
+      "用力拉腿阻止收腳"
+     ]
+    }
+   },
+   {
+    "question": "訓練中施展 toe hold 時,有哪些關鍵的安全考量？",
+    "answer": "從握住到完成,至少要花 5 到 7 秒緩慢加壓。絕不要單獨抓住某根腳趾。絕不要使用爆發性的旋轉力道。永遠要扣住蹠球部,把力量分散在多個結構上。每加一點壓力就停頓,給對方拍降的機會。Lisfranc 關節若受到瞬間強力,可能造成需要手術的重大傷害。",
+    "safety_critical": true,
+    "answer_line": "放慢、扣蹠球,勿抓單趾",
+    "distractors": {
+     "plausible": [
+      "趁對方防守前快速扣死",
+      "抓腳趾以取得更好控制"
+     ],
+     "trap": [
+      "用力快速扭轉以求完成"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍降之後,你應該如何放開 toe hold？",
+    "answer": "先立刻停止所有旋轉壓力,接著完全放開扣趾的手,再放開腳跟與膝線的控制。讓對方的腳自然回到中立位置,不要突然放手。維持輕微接觸,直到夥伴表示沒事,再口頭確認一次,才繼續訓練,確保沒有殘留的疼痛。",
+    "safety_critical": true,
+    "answer_line": "先停旋轉,再依序放手",
+    "distractors": {
+     "plausible": [
+      "先放膝線,再放腳趾",
+      "所有部位同時快速放開"
+     ],
+     "trap": [
+      "維持扭力直到對方放鬆"
+     ]
+    }
+   },
+   {
+    "question": "你已經扣好 figure-four,但對手把腿伸直想要逃脫,你該如何調整？",
+    "answer": "腿一旦伸直,toe hold 的力學就會被破壞,因為旋轉力會透過伸直的膝蓋消散,而不是集中在腳踝上。如果膝線被打開,就放開 toe hold,立刻轉換攻擊已經伸直那條腿的 ankle lock,或是重新纏回 leg entanglement,把膝蓋再彎回來後再嘗試一次。",
+    "safety_critical": false,
+    "answer_line": "放手改攻 ankle lock",
+    "distractors": {
+     "plausible": [
+      "持續夾緊 figure-four",
+      "坐回去拖延搶分"
+     ],
+     "trap": [
+      "翻滾過去放棄腿部控制"
+     ]
+    }
+   },
+   {
+    "question": "從 Ashi Garami 上位發動的 toe hold,高成功率與低成功率的嘗試差別在哪？",
+    "answer": "高成功率的嘗試會同時具備三個要素:腳確實暴露、膝線控制良好且膝蓋接近彎曲 90 度、以及穩定的重心。這個穩定重心必須維持到整個完成動作結束為止。少了這三者中的任何一個,成功率都會大幅下降。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "初次抓握的速度",
+      "對手的體力消耗程度"
+     ],
+     "trap": [
+      "放鬆重心以換取更多旋轉"
+     ]
+    },
+    "answer_line": "腳暴露、膝彎90度、重心穩"
+   },
+   {
+    "question": "一旦 toe hold 正確扣上,對防守方來說什麼時候是不歸點？",
+    "answer": "不歸點是 figure-four 完全鎖死、膝線被夾在接近 90 度、並且 medial rotation 已開始對腳踝加壓的那一刻。一旦手腕對手腕的連結正確、外側腳踝韌帶已經承受負荷,防守者能逃脫的選項就非常有限。這時候,防守者應該認真考慮直接拍降,而不是硬撐一個已完全鎖死的關節技,以避免韌帶損傷。",
+    "safety_critical": true,
+    "distractors": {
+     "plausible": [
+      "他們一抓到腳的瞬間",
+      "他們一進入 ashi garami 時"
+     ],
+     "trap": [
+      "晚一點還是可以扭開"
+     ]
+    },
+    "answer_line": "握點鎖死、腳踝開始受力"
+   },
+   {
+    "question": "完成階段時對手往你的方向翻滾以卸掉旋轉壓力,你該如何調整才能防止對方逃脫？",
+    "answer": "跟著他們的翻滾調整你的髖部角度,讓旋轉方向相對於他們新的身體朝向持續有效。你的軀幹必須跟著轉動,讓 figure-four 持續對腳施加 medial 方向的力。如果他們翻滾到角度完全被抵消,可以考慮放開 toe hold,轉攻 heel hook,因為這種翻滾往往會暴露腳跟。",
+    "safety_critical": false,
+    "answer_line": "轉髖跟著對方翻滾",
+    "distractors": {
+     "plausible": [
+      "放開握點重新起手",
+      "直接往後硬拉"
+     ],
+     "trap": [
+      "放手改追takedown"
+     ]
+    }
+   },
+   {
+    "question": "從 Ashi Garami 上位施展 toe hold 時,有哪些比賽策略上的考量？",
+    "answer": "上位的 toe hold 最有效的用法是在對手嘗試推進時的突襲反擊,而不是作為主要戰術。依 IBJJF 規則,toe hold 在紫帶gi比賽以上等級才合法。要抓準對手在階層之間轉換、腳暫時暴露的時機出手,並且準備好在失敗時立刻回到 leg extraction 的防守。",
+    "safety_critical": false,
+    "answer_line": "突襲反擊,非主要戰術",
+    "distractors": {
+     "plausible": [
+      "作為第一個進攻手段",
+      "只對白帶使用"
+     ],
+     "trap": [
+      "一開始就狂用以消耗對手"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在從 Ashi Garami 佈局 toe hold？",
+    "answer": "注意上位者靠近你這側的手是否伸向你 hooking 腳的腳底、上位者是否停止嘗試 leg extraction 改為穩住姿勢,以及是否感覺到腳趾被扣住的壓力,接著另一手穿過腳踝下方。上位者夾緊雙腿鎖住你的膝蓋是最後的確認訊號。",
+    "safety_critical": false,
+    "answer_line": "手扣腳底,夾緊膝蓋",
+    "distractors": {
+     "plausible": [
+      "突然頂髖並換邊",
+      "在你的衣領上搶把位"
+     ],
+     "trap": [
+      "不用理會,腳還是自由的"
+     ]
+    }
+   },
+   {
+    "question": "當 toe hold 的旋轉壓力傳到你的腳踝時,最安全的反應是什麼？",
+    "answer": "立刻用任何可用的訊號拍降——口頭喊拍、用手拍墊子或夥伴、或用自由的那隻腳拍地。toe hold 一旦開始旋轉,會以極快的速度攻擊 Lisfranc 關節與腳踝韌帶。延遲拍降有可能造成需要手術、恢復期長達 3 到 6 個月的嚴重中足傷害。絕對不要在腳踝已經受壓的情況下硬撐。",
+    "safety_critical": true,
+    "answer_line": "立刻拍降,任何訊號都行",
+    "distractors": {
+     "plausible": [
+      "先觀察疼痛是否加劇",
+      "先試著用力掙脫"
+     ],
+     "trap": [
+      "硬撐到找到逃脫角度"
+     ]
+    }
+   },
+   {
+    "question": "面對 toe hold 攻擊的不同階段,分別有哪些防守選項？",
+    "answer": "握點接觸前:收腳並蜷縮腳趾。扣手已成但 figure-four 尚未鎖上:剝開單手握點。figure-four 已完成:雙手一起把手腕連結扳開。膝線已被夾住:用 hip escape 伸直腿以破壞彎膝的力學結構。旋轉進行中:朝攻擊者方向翻滾以抵消角度,若壓力已到腳踝就直接拍降。",
+    "safety_critical": false,
+    "answer_line": "依階段對應防守,再拍降",
+    "distractors": {
+     "plausible": [
+      "每個階段都用同一招逃脫",
+      "等完全鎖死才反應"
+     ],
+     "trap": [
+      "把膝蓋彎更多以減壓"
+     ]
+    }
+   },
+   {
+    "question": "為什麼預防性的腳部姿勢比被動逃脫更有效地對抗 toe hold？",
+    "answer": "toe hold 的力學優勢會隨著每個建立階段急遽增加——一旦 figure-four 鎖死、膝線被夾住,逃脫的選項就會迅速減少。在所有 Ashi Garami 動作中保持腳踝屈曲、腳趾蜷縮,能從一開始就杜絕扣握,讓這個攻擊根本無法發動。等握點成立後才被動逃脫,需要耗費更多力氣,受傷風險也更高。",
+    "safety_critical": false,
+    "answer_line": "蜷縮腳趾杜絕扣握",
+    "distractors": {
+     "plausible": [
+      "握點成立後再加快反應",
+      "只有完全鎖死才重要"
+     ],
+     "trap": [
+      "放鬆腳趾以感知對手動作"
+     ]
+    }
+   },
+   {
+    "question": "硬撐一個已完全鎖死的 toe hold 而不拍降,有哪些風險？",
+    "answer": "一個已完全鎖死並開始旋轉的 toe hold,可能造成需要手術、恢復期 3 到 6 個月的 Lisfranc 關節脫位,以及需要 6 到 12 週復健、可能留下慢性不穩的內外側腳踝韌帶撕裂,還有需要 8 到 16 週恢復的足底筋膜斷裂,以及腳趾骨折或脫位。這種攻擊的加壓速度極快,傷害可能在不歸點之後的短短幾分之一秒內發生。",
+    "safety_critical": true,
+    "answer_line": "瞬間重創腳掌與腳踝",
+    "distractors": {
+     "plausible": [
+      "膝關節韌帶會斷裂",
+      "腳趾麻木,之後會恢復"
+     ],
+     "trap": [
+      "夠柔軟的話可以硬撐掙脫"
+     ]
+    }
+   }
+  ]
+ }
+}

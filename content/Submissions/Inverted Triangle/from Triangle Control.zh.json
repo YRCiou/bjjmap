@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Inverted Triangle/from Triangle Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Inverted Triangle from Triangle Control 主要攻擊哪些解剖結構？",
+    "answer": "inverted triangle 主要是雙側壓迫頸動脈，限制流向腦部的血流。figure-four 腿部配置從一側施加壓力，而對手自己被困的手臂被拉過喉嚨，從另一側形成壓迫。氣管也可能受到次要壓迫，但主要的 submission 機制是血管性的——動脈完全阻斷後，8 到 12 秒內就會產生昏迷。",
+    "safety_critical": false,
+    "answer_line": "雙側頸動脈壓迫",
+    "distractors": {
+     "plausible": [
+      "只壓迫氣管與呼吸道",
+      "單側頸動脈壓力"
+     ],
+     "trap": [
+      "扭頸部逼迫 tap"
+     ]
+    }
+   },
+   {
+    "question": "對手的哪種防守投入，會創造從標準三角轉換到 inverted triangle 的最佳時機？",
+    "answer": "最佳時機出現在對手對標準三角角度投入靜態防守時——通常是緊緊縮下巴、把肩膀轉進 choke 裡，或把重量偏移一側以中和標準的壓迫向量。這種防守投入創造出可預測的位置，攻擊者便可加以利用，因為對手的防守結構被固定在一個方向，無法迅速重組來應付反轉的角度。對付還在移動、尚未投入防守的對手嘗試這個轉換，效果會差很多。",
+    "safety_critical": false,
+    "answer_line": "對手鎖定在單一防守中",
+    "distractors": {
+     "plausible": [
+      "對手開始 posture 起身",
+      "對手緊緊抓住你的雙腿"
+     ],
+     "trap": [
+      "對還在移動的防守者換角度"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在髖部旋轉階段維持頭部控制，是這個技術成功的關鍵？",
+    "answer": "頭部控制能防止對手在標準triangle放開、而反轉鎖尚未建立的短暫窗口中 posture 起身。沒有頭部控制，對手可以伸展脊椎、創造垂直距離，在轉換過程中完全逃脫三角。頭部控制的 grip 就像一個錨點，在雙腿重新配置時把對手固定在 submission 範圍內，讓它成為這個脆弱轉換階段中最重要的元素。",
+    "safety_critical": false,
+    "answer_line": "阻止對手 posture 起身",
+    "distractors": {
+     "plausible": [
+      "保持髖部角度正確",
+      "維持 figure-four 鎖"
+     ],
+     "trap": [
+      "放開頭部控制以重置雙腿"
+     ]
+    }
+   },
+   {
+    "question": "當你開始為 inverted triangle 進行髖部旋轉時，對手開始把你往前 stack，你該如何調整才能防止逃脫？",
+    "answer": "與其對抗 stack，不如利用對手的向前推動能量來輔助你的髖部旋轉。把他們的向前能量透過角度轉換為側向，把他們的防守性 stacking 壓力轉化為反轉轉換所需的旋轉力。他們的向前推動實際上會加速你的髖部朝反方向擺動，而 stacking 的姿勢往往會讓他們一旦到達反轉角度時，脖子暴露得更多，因為他們的 posture 已經向前垮掉。",
+    "safety_critical": false,
+    "answer_line": "把驅動力導入髖部擺動",
+    "distractors": {
+     "plausible": [
+      "撐一隻手來止住動能",
+      "不管情況加快旋轉"
+     ],
+     "trap": [
+      "直接對抗 stack"
+     ]
+    }
+   },
+   {
+    "question": "反轉 figure-four 鎖定位置正確、有機會成功 finish 的關鍵跡象有哪些？",
+    "answer": "當交叉的腳踝高位卡在對手脖子後方而非肩膀上、雙膝夾緊產生雙側壓迫、對手被困的手臂被拉過自己的喉嚨以加強 choke 機制，且你的髖部相對於反轉位置與對手中線呈 30 到 45 度角時，這個鎖就算正確定位。如果對手的臉色開始變化且無法轉頭，代表壓迫幾何是正確的。正確定位的鎖只需極少肌肉力量就能產生 submission 壓力。",
+    "safety_critical": false,
+    "answer_line": "腳踝高位、膝蓋夾緊、偏角",
+    "distractors": {
+     "plausible": [
+      "腳踝在肩膀上、膝蓋分開",
+      "手臂被拉離喉嚨"
+     ],
+     "trap": [
+      "正對對手，被 stack 又被 pass"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施加 Inverted Triangle from Triangle Control 時，有哪些重要的安全考量？",
+    "answer": "inverted triangle 必須以極度緩慢的進程施加——從開始建立到完全壓力至少要 5 到 7 秒。血液性 choke 在完全壓迫後 8 到 12 秒內就可能造成昏迷，而反轉角度可能讓對手措手不及，意味著他們可能無法及時察覺危險而 tap。務必確保訓練夥伴至少能用一隻手 tap，注意任何失去意識的跡象包括身體變軟或發出異常聲音，並在收到任何 tap 訊號後立刻鬆手。絕不要甩動或突然鎖入位置，也絕不要在訓練中施加比賽等級的壓力。",
+    "safety_critical": true,
+    "answer_line": "慢慢施加、一有 tap 就放",
+    "distractors": {
+     "plausible": [
+      "2 到 3 秒內達到完全壓力",
+      "被 tap 後逐漸放鬆"
+     ],
+     "trap": [
+      "快速鎖入以出其不意"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，你該如何立即鬆開 inverted triangle？",
+    "answer": "首先，打開你交叉的腳踝以解開 figure-four 鎖，移除主要的壓迫機制。接著移除跨過對手脖子後方的那條腿。小心地放開被困的手臂，不要用力甩動，因為它可能處於不利的位置。創造空間讓對手能轉頭、恢復腦部的正常血流。立刻檢查意識與呼吸。如果對手看起來昏迷或失去意識，鬆手時要扶住他們的頸部並讓他們側躺。絕不要單純放手就走開——血液性 choke 之後一定要確認夥伴的狀況。",
+    "safety_critical": true,
+    "answer_line": "先打開腳踝，再檢查狀況",
+    "distractors": {
+     "plausible": [
+      "先把被困的手臂拉出來",
+      "站起來重新開始這一回合"
+     ],
+     "trap": [
+      "維持鎖定以確認 tap"
+     ]
+    }
+   },
+   {
+    "question": "在雙腿重新配置階段，對手開始抽出被困的手臂——你最好的應對方式是什麼？",
+    "answer": "如果對手在轉換過程中開始把被困的手臂拉出，立刻夾緊雙腿環繞他們的脖子與肩膀，保留你手上還握有的任何控制。與其硬用鬆脫的手臂完成 inverted triangle（不會產生有效的壓迫力），不如把這次抽臂視為其他攻擊的機會。對手把手臂拉回，往往會暴露他們的背部，讓你可以趁機取背，或打開 omoplata 角度。要根據情況調整，而不是固執地追求已經失去主要力學要求的技術。",
+    "safety_critical": false,
+    "answer_line": "夾緊雙腿，改攻背/omoplata",
+    "distractors": {
+     "plausible": [
+      "沒有手臂也硬上完成 choke",
+      "放開腿去重新抓手臂"
+     ],
+     "trap": [
+      "伸手再把手臂抓回來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 inverted triangle 被視為 triangle control submission chain 的第四個方向攻擊？",
+    "answer": "標準的 triangle control submission chain 攻擊三個方向：正面的三角 choke、對手 posture 起身時的 armbar，以及對手 stack 時的 omoplata。inverted triangle 透過從相反角度攻擊 choke，加入第四個方向，專門懲罰成功防守標準三角方向的對手。這意味著對手能做出的每種防守反應——posture、stacking、轉肩或縮下巴——都會導向至少一個有效的進攻選項，隨著每次失敗的逃脫嘗試而創造出更加深化的兩難處境。",
+    "safety_critical": false,
+    "answer_line": "從相反方向攻擊",
+    "distractors": {
+     "plausible": [
+      "只在 posture 後才攻擊",
+      "取代標準三角 choke"
+     ],
+     "trap": [
+      "放棄三角去追反轉"
+     ]
+    }
+   },
+   {
+    "question": "一旦開始施加 inverted triangle，防守者到了什麼時間點就無法逃脫？",
+    "answer": "無法逃脫的臨界點發生在反轉的 figure-four 已完全鎖高在脖子上、被困的手臂已被拉過喉嚨，且攻擊者的髖部已正確擺出 30 到 45 度角之後。此時，雙側頸動脈壓迫已經建立，防守者無法產生足夠力量掙脫腿鎖或抽出手臂。在完全鎖定之前——在旋轉階段或手臂被拉過喉嚨之前——仍然可以透過 posture 恢復、抽臂或利用轉換窗口來逃脫。一旦兩個要素都鎖定，tap 是唯一安全的選擇。",
+    "safety_critical": true,
+    "answer_line": "figure-4 鎖定、手臂過喉",
+    "distractors": {
+     "plausible": [
+      "腿一交叉就算",
+      "頭部控制建立時就算"
+     ],
+     "trap": [
+      "不算——隨時都能掙脫"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對方正從標準三角轉換到 inverted triangle？",
+    "answer": "主要的辨識訊號是攻擊者在維持頭部控制 grip 的同時，把腳踝從標準的 figure-four 配置中打開，接著髖部向與標準三角角度相反的一側橫向移動。你會感覺到腿部壓力方向的轉變，以及攻擊者在旋轉開始前，對你的頭部或被困手臂加強 grip。在腳踝鬆開的階段及早辨識，能提供最大的防守窗口。",
+    "safety_critical": false,
+    "answer_line": "腳踝鬆開，髖部偏移",
+    "distractors": {
+     "plausible": [
+      "攻擊者把髖部對正你",
+      "對手的 posture 開始垮掉"
+     ],
+     "trap": [
+      "等到完全鎖定才反應"
+     ]
+    }
+   },
+   {
+    "question": "被 Inverted Triangle from Triangle Control 鎖住時，最安全的 tap 方式是什麼？",
+    "answer": "立刻用任何可行的方法清楚地 tap——用手拍對手的身體或地墊、大聲喊「tap」，或用腳拍地墊。inverted triangle 是一種血液性 choke，完全雙側壓迫後可能在 8 到 12 秒內造成昏迷，而反轉的角度可能讓你措手不及，代表你能察覺危險的時間比標準三角更短。不要等到完全壓迫建立後才試圖逃脫。要提早清楚地 tap——在訓練中冒著失去意識的風險沒有任何好處。",
+    "safety_critical": true,
+    "answer_line": "立刻 tap——手、腳或口頭",
+    "distractors": {
+     "plausible": [
+      "只有手拍才算數",
+      "用搖頭示意"
+     ],
+     "trap": [
+      "撐住試著撐過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼轉換窗口是對抗 inverted triangle 最重要的防守機會？",
+    "answer": "轉換窗口——也就是攻擊者放開標準 figure-four、重新配置反轉鎖的短暫期間——是唯一一個腿部配置未完全鎖定在你脖子周圍的階段。在這個窗口中，攻擊者的雙腿夠鬆，讓你有機會恢復 posture 或抽出手臂，而他們的髖部旋轉也在他們的控制中造成暫時的不穩定。一旦反轉的 figure-four 鎖住、手臂被拉過喉嚨，雙側頸動脈壓迫就建立，除非有明顯的力量或體型優勢，否則要逃脫會非常困難。",
+    "safety_critical": false,
+    "answer_line": "唯一雙腿尚未完全鎖定的階段",
+    "distractors": {
+     "plausible": [
+      "壓力最重的階段",
+      "反擊腿部的最佳時機"
+     ],
+     "trap": [
+      "等完全鎖定再逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在轉換階段，可以用哪些防守選項來對抗 inverted triangle？",
+    "answer": "在轉換過程中有三個主要防守選項：透過 posture 爆發伸展脊椎並在反轉鎖建立之前抽出頭部；在 figure-four 暫時解除時把被困的手臂抽出來；以及透過向前推壓把攻擊者的髖部壓平，打斷他們的橫向髖部旋轉。選擇取決於時機以及哪個要素最脆弱——如果雙腿最鬆，posture 恢復是最佳選擇；如果手臂的 grip 最弱，抽臂最好；如果攻擊者正在旋轉中途，向前推壓最有效。",
+    "safety_critical": false,
+    "answer_line": "posture、抽臂、向前推",
+    "distractors": {
+     "plausible": [
+      "雙手剝開上方那條腿",
+      "橋起身體翻到背部"
+     ],
+     "trap": [
+      "把力量推向 choke 的方向"
+     ]
+    }
+   },
+   {
+    "question": "如果 inverted triangle 已經完全鎖住，你無法逃脫，該怎麼做？",
+    "answer": "如果反轉的 figure-four 已完全鎖定、手臂已被固定在喉嚨上，且攻擊者角度正確，你應該立刻 tap。試圖硬撐過完全鎖住的 inverted triangle 有失去意識的風險，雙側頸動脈壓迫後 8 到 12 秒內就可能發生。在訓練中，冒失去意識的風險永遠沒有正當理由。在比賽中也是一樣，除非你正在執行一個特定、已經練熟並能立即見效的逃脫技術——但即使如此，血液性 choke 的容錯空間也非常小。",
+    "safety_critical": true,
+    "answer_line": "立刻 tap",
+    "distractors": {
+     "plausible": [
+      "先放開被困的手臂",
+      "posture 起身以減輕壓力"
+     ],
+     "trap": [
+      "憋氣撐過去"
+     ]
+    }
+   }
+  ]
+ }
+}

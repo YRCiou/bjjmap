@@ -1,0 +1,257 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Modified Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Modified Mount 攻擊的是哪些解剖構造？造成他拍的是哪一種力？",
+    "answer": "Kimura 攻擊的是肩關節（glenohumeral joint），透過超出自然活動範圍的內旋來施壓。主要受威脅的構造是旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、關節囊，以及盂唇。他拍的原因是：當前臂被朝對手雙腳方向旋轉、同時手肘被抬起時，肩關節會承受漸進的扭力，這個槓桿會把旋轉應力集中在關節囊與旋轉肌袖的肌腱上。",
+    "safety_critical": false,
+    "answer_line": "肩膀，內旋",
+    "distractors": {
+     "plausible": [
+      "手肘，過伸",
+      "手腕，擠壓"
+     ],
+     "trap": [
+      "把手肘扯過活動範圍"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Modified Mount 比一般 mount 更能給 Kimura 提供穩固的底盤？",
+    "answer": "Modified Mount 中那隻撐地的腳形成較寬的底盤，能像結構支架一樣抵抗對手的橋起（bridge）翻滾。在一般 mount 中，兩個膝蓋都在對手軀幹兩側，底盤相對窄，容易被橋起破壞。撐地的腳把底盤範圍往外延伸，讓進攻方可以把雙手都投入到 Kimura 的搶手（grip fight）中，而不必擔心被翻轉。這讓進攻方能用在一般 mount 中會顯得冒進的方式積極追求 submission。",
+    "safety_critical": false,
+    "answer_line": "撐地的腳擴大底盤抗橋起",
+    "distractors": {
+     "plausible": [
+      "壓低髖部讓底盤更重",
+      "兩個膝蓋夾住肋骨"
+     ],
+     "trap": [
+      "抬起兩個膝蓋坐高"
+     ]
+    }
+   },
+   {
+    "question": "對手用靠近側的手抓住自己的腰帶，防止手腕被隔離，你要怎麼破解這個防守？",
+    "answer": "使用「油漆刷」技巧：雙手放在他抓握的手腕上，用一連串小幅度的手交替動作，逐步把手腕移離腰帶。每一次小幅拉動都比一次大力拉扯更難抵抗。另一個做法是改攻同一隻手臂的 americana——防守 Kimura 用的「手腕抓腰帶」握法其實是靠手肘保持彎曲，反而助長了 americana 的架設。當對手為了防守 americana 而伸直手臂時，抓腰帶的握法就會鬆開，Kimura 的入手空間也隨之打開。",
+    "safety_critical": false,
+    "answer_line": "用油漆刷手法剝離腰帶握法",
+    "distractors": {
+     "plausible": [
+      "一口氣把手腕拉出來",
+      "一根一根扳開他的手指"
+     ],
+     "trap": [
+      "順勢坐下對彎曲的手臂做 armbar"
+     ]
+    }
+   },
+   {
+    "question": "在 Kimura 的完成序列中，對手到了哪個時間點就已經無法逃脫？",
+    "answer": "無法逃脫的時間點是：手腕被壓在對手頭部旁邊的地墊上，而且figure-four 握法已經完全鎖死。一旦手腕接觸地墊，對手就無法轉動前臂來釋放壓力，地墊本身也成為第二個錨點，讓手臂除了會讓 submission 更嚴重的方向以外，無法往任何方向移動。在這之前，對手仍可以把手臂拉回身體，或伸直手臂來破解 figure-four。手腕一旦被釘住，剩下的就只有拍下。",
+    "safety_critical": false,
+    "answer_line": "手腕壓地墊，握法鎖死",
+    "distractors": {
+     "plausible": [
+      "他們一抓住手腕的瞬間",
+      "他們翻向側身的時候"
+     ],
+     "trap": [
+      "要等到肩膀開始痛才算"
+     ]
+    }
+   },
+   {
+    "question": "怎麼判斷你的旋轉施壓是正確還是錯誤地在進行？",
+    "answer": "正確的施壓：你會感覺到 figure-four 握法中的阻力隨著肩膀接近旋轉極限而平順地累積，對手的身體逐漸繃緊，而力量來自你髖部的旋轉而不是手臂的拉扯。錯誤的施壓：你會感覺到自己的手臂在疲勞，對手能靠轉動身體逐漸減少旋轉幅度，或是手腕在旋轉過程中離開了地墊。如果手腕離開地墊，代表你已經失去錨點，必須重新釘住手腕才能繼續。",
+    "safety_critical": false,
+    "answer_line": "髖部驅動，手腕保持釘地",
+    "distractors": {
+     "plausible": [
+      "你一轉他就整個放鬆",
+      "手腕離地也繼續轉下去"
+     ],
+     "trap": [
+      "快速扯動逼他拍下"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍下後，你應該怎麼釋放 Kimura？為什麼釋放的程序這麼重要？",
+    "answer": "感覺到或聽到拍下的瞬間，立刻停止所有旋轉施壓。透過往起始位置方向做外旋，把手臂帶回中立位置——不要直接放手，因為手臂可能會彈到會造成傷害的位置。完全鬆開 figure-four 握法，讓夥伴自行評估肩膀的活動度。Kimura 攻擊的是旋轉肌袖，即使力量未達最大值也可能造成部分撕裂，所以「有控制地釋放」和「突然放手」之間的差異，可能就是輕微拉傷和需要手術的傷害之間的差異。",
+    "safety_critical": true,
+    "answer_line": "先緩回中立再放手",
+    "distractors": {
+     "plausible": [
+      "立刻直接放開握法",
+      "等對方開口說話才放"
+     ],
+     "trap": [
+      "壓力再多撐一下子"
+     ]
+    }
+   },
+   {
+    "question": "訓練中 Kimura 的施力速度上限是多少？為什麼？",
+    "answer": "施力速度應該緩慢且漸進，從開始旋轉到達到最大壓力，至少要花 3 到 5 秒。肩關節可能在痛覺訊號傳到大腦、夥伴來得及判斷該拍下之前就已經受傷。快速施力——猛拉或瞬間加壓旋轉——會完全跳過拍下的反應時間，可能在夥伴來得及反應之前就撕裂旋轉肌袖或造成肩關節脫臼。訓練的目標是展現控制力，而不是趁夥伴不注意時得手。",
+    "safety_critical": true,
+    "answer_line": "緩慢進行，至少 3 到 5 秒",
+    "distractors": {
+     "plausible": [
+      "配合對方的力量調整",
+      "只要對方能拍，速度不限"
+     ],
+     "trap": [
+      "握法一鎖上就立刻扯緊"
+     ]
+    }
+   },
+   {
+    "question": "你在穿 figure-four 時，對手開始把手臂伸直，正確的連鎖反應是什麼？",
+    "answer": "手臂伸直是在邀請你做 armbar，而不是成功防守了 Kimura。立刻放棄穿 figure-four，改把撐地那條腿甩過對手臉部，控制住已經伸直的手腕，坐下並抬高髖部壓向手肘，轉換成 armbar。這個轉換應該無縫接軌——對手對某一個 submission 的防守反應，直接就創造出下一個 submission 的入手機會。這個 Kimura 接 armbar 的連鎖，是 Modified Mount 命中率最高的組合。",
+    "safety_critical": false,
+    "answer_line": "放棄 Kimura，接 armbar",
+    "distractors": {
+     "plausible": [
+      "硬把 figure-four 穿過去",
+      "換握法重新穿 Kimura"
+     ],
+     "trap": [
+      "手臂還彎著就坐下"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在完成階段開始轉動前臂，你應該做什麼樣的握法調整？",
+    "answer": "如果對手轉動前臂來減少內旋壓力，就把手肘再夾緊一些，讓 figure-four 更緊，同時把握法更用力拉向他三頭肌背側。同時把手腕重新牢牢釘回地墊，消除他正在利用的旋轉空隙。如果他已經創造出明顯的空隙，就短暫放鬆旋轉，把手腕重新釘在更靠近他肩膀的更深角度，再從這個更有利的位置重新開始旋轉。絕不要一直追著鬆脫的握法跑——要重置並重新建立。",
+    "safety_critical": false,
+    "answer_line": "夾緊手肘，重新釘住手腕",
+    "distractors": {
+     "plausible": [
+      "握法跟著他的前臂移動",
+      "把手臂往自己胸口硬拉"
+     ],
+     "trap": [
+      "坐起身用雙臂硬扳"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對付一個純防守型對手，從 Modified Mount 攻 Kimura 的完成策略要如何發揮最大效果？",
+    "answer": "面對純防守型對手，把 Kimura 當成三重連鎖攻擊的核心。先威脅 Kimura 逼對手用握法防守，破壞那個握法後威脅 americana，等對手為了防守 americana 而伸直手臂時，就拿下 armbar。比賽策略不是要在對手最大阻力下硬做出 Kimura，而是把它當成主要威脅，讓後續攻擊有機可乘。每一次失敗的 Kimura 嘗試如果都能轉換到另一個 submission，就會不斷累積對手的疲勞、瓦解他的防守信心。完成的時機往往出現在第二輪或第三輪的循環，而不是第一輪。",
+    "safety_critical": false,
+    "answer_line": "連鎖 Kimura、Americana、armbar",
+    "distractors": {
+     "plausible": [
+      "用最大壓力硬做 Kimura",
+      "只攻最強的那個 submission"
+     ],
+     "trap": [
+      "翻滾強行完成卡住的 Kimura"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在握法還沒鎖死之前，你怎麼辨識對手正在設置 Kimura from Modified Mount？",
+    "answer": "最早的辨識訊號是對手一邊用橫跨身體的膝蓋維持胸口壓力，一邊伸手去抓你靠近側的手腕。你會感覺到他的手接觸到你撐地腳那一側的手腕或前臂。次要訊號包括對手把體重稍微轉移到撐地腳那一側（準備穿 figure-four），以及他的另一隻手開始滑向你的手肘附近。「油漆刷」技巧的感覺，就像是有人用一連串小動作把你的手腕逐漸拉向地墊。",
+    "safety_critical": false,
+    "answer_line": "手在找你靠近側的手腕",
+    "distractors": {
+     "plausible": [
+      "他的胸口壓到你的肋骨",
+      "雙掌都壓在你的肩膀上"
+     ],
+     "trap": [
+      "放棄手腕改高位做 frame"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 Kimura from Modified Mount 拍下？該用什麼訊號？",
+    "answer": "一旦 figure-four 鎖死、手腕被壓在地墊上、旋轉壓力開始出現，就要立刻拍下。不要等到痛——肩膀的傷害常常在痛覺訊號被感知到之前就已經發生。用空著的手快速連續拍打對手身體、清楚喊出「tap」，或是如果手被壓住，就用腳拍地。任何表示不適的聲音，雙方都應該視為拍下。如果感覺肩膀正接近旋轉極限，就先拍下，不要等著測試自己能不能逃脫——拍晚了的代價可能是好幾個月的復健。",
+    "safety_critical": true,
+    "answer_line": "旋轉一開始就立刻拍",
+    "distractors": {
+     "plausible": [
+      "先試一次逃脫再拍",
+      "只有手拍才算數"
+     ],
+     "trap": [
+      "撐到痛到受不了才拍"
+     ]
+    }
+   },
+   {
+    "question": "對付 Kimura from Modified Mount，最有效的早期防守是什麼？",
+    "answer": "最有效的早期防守，是靠近側的手抓住自己的腰帶、短褲或另一隻手腕，把手臂錨定在身體上，防止手腕被隔離。這會形成「雙手對雙手」的結構，而不是被鎖死的 figure-four 那種二對一的劣勢。保持這個握法，手肘緊貼髖部。對手必須先破壞這個握法，才能繼續推進 submission，這能替你爭取時間去做橋起和位置逃脫。",
+    "safety_critical": false,
+    "answer_line": "近側手抓住自己的腰帶",
+    "distractors": {
+     "plausible": [
+      "雙手撐在他的髖部上",
+      "抓住他的手腕往外推"
+     ],
+     "trap": [
+      "把手臂從自己髖部剝開"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把手臂伸直既是有效的 Kimura 防守，又是危險的戰術選擇？",
+    "answer": "把手臂伸直可以阻止 figure-four 握法被穿過去，因為 Kimura 需要彎曲的手臂才能形成槓桿。但是，伸直的手臂正好是 armbar 的必要條件——對手可以立刻把嘗試 Kimura 的動作轉換成 armbar，把撐地那條腿甩過你的臉，然後坐下完成。這代表伸直手臂雖然解決了眼前的 Kimura 威脅，卻製造出新的 armbar 威脅。正確的用法是短暫伸直來破解 figure-four，然後立刻重新彎曲並抓握，同時防住這兩個 submission。",
+    "safety_critical": false,
+    "answer_line": "破 Kimura，卻開啟 armbar",
+    "distractors": {
+     "plausible": [
+      "完全破解掉這個 submission",
+      "只對 Modified Mount 有效"
+     ],
+     "trap": [
+      "手臂保持伸直並往回拉"
+     ]
+    }
+   },
+   {
+    "question": "Modified Mount 不對稱的體重分配，會如何影響你選擇逃脫的方向？",
+    "answer": "撐地腳那一側承受對手較少的體重，因為那隻腳是踩在地墊上，而不是壓在你身上。這代表朝撐地腳那一側橋起（bridge）和 hip escape，遇到的阻力會比朝橫跨身體的膝蓋那一側逃脫更小，因為對手的完整控制壓力都集中在那一側。撐地的腳能幫助對手抵抗橋起，但不會在同一方向阻擋 hip escape。你的逃脫計畫應該持續鎖定撐地腳那一側，因為那裡對手的髖部和你身體之間的結構空隙最大。",
+    "safety_critical": false,
+    "answer_line": "朝撐地那隻腳橋起",
+    "distractors": {
+     "plausible": [
+      "朝壓重的膝蓋那一側橋起",
+      "直接朝正中間橋起"
+     ],
+     "trap": [
+      "翻成趴姿逃離 mount"
+     ]
+    }
+   },
+   {
+    "question": "如果對手已經鎖上 figure-four，但還沒把你的手腕釘到地墊上，你該怎麼做？",
+    "answer": "這是submission 變得極度危險之前，你最後一個可靠的逃脫機會。立刻朝撐地腳那一側大力橋起，同時把手肘緊貼身體——對手雙手都投入在握法上，沒辦法撐地阻止你橋起。同時朝橋起的方向做 hip escape，替回復guard 爭取空間。如果單靠橋起無法破壞位置，就把身體積極轉向對手，縮小肩膀旋轉的角度，降低 figure-four 的機械優勢。不要試圖破壞握法——改用全身的動作逃離這個位置。",
+    "safety_critical": true,
+    "answer_line": "朝撐地側橋起，手肘內收",
+    "distractors": {
+     "plausible": [
+      "用二對一剝開握法",
+      "手臂放鬆做 shrimp"
+     ],
+     "trap": [
+      "等手腕被釘住才反應"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Calf Slicer/from Inside Sankaku.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 inside sankaku 進行的 calf slicer 主要攻擊哪些解剖構造？",
+    "answer": "Calf slicer 主要是把小腿的腓腸肌與比目魚肌壓迫在脛骨上，同時威脅膝關節後方的後十字韌帶與膕窩結構。當腳在收尾壓迫時被控制在背屈姿勢，還會對阿基里斯腱造成次要壓力。",
+    "safety_critical": false,
+    "answer_line": "小腿肌肉被壓在脛骨上",
+    "distractors": {
+     "plausible": [
+      "只有阿基里斯腱",
+      "前十字韌帶與半月板組織"
+     ],
+     "trap": [
+      "撐著就好，slicer 沒什麼殺傷力"
+     ]
+    }
+   },
+   {
+    "question": "對手做出什麼樣的防守姿勢，會為你從 heel hook 轉換到 calf slicer 創造理想的機會？",
+    "answer": "當對手為了防守 heel hook 而把被困住的腿伸直——不管是把腳往前踢、把腳跟藏在髖部旁，還是伸膝來阻止旋轉——都會在膝窩後方留出空間，讓你可以把脛骨穿進去。對手中和旋轉性 heel hook 威脅的這個動作，恰好打開了 calf slicer 這種線性壓迫的威脅。",
+    "safety_critical": false,
+    "answer_line": "對手伸腿防守 heel hook",
+    "distractors": {
+     "plausible": [
+      "對手把腳從抓握中踢開",
+      "對手做橋式逃脫髖部"
+     ],
+     "trap": [
+      "腳跟被藏起來，還是硬轉旋轉"
+     ]
+    }
+   },
+   {
+    "question": "你的脛骨究竟該放在哪裡，才能達到最大的壓迫效果？",
+    "answer": "你的脛骨必須直接放在膕窩——也就是膝關節後方的軟組織凹陷處。如果脛骨太高放在膕繩肌上，或太低放在小腿上段，壓力就會分散到更大範圍的肌群，無法形成讓對手 tap 所需的集中壓迫。脛骨前緣的骨頭部分要直接壓進膝蓋後方的神經血管束。",
+    "safety_critical": false,
+    "answer_line": "脛骨要放在膕窩",
+    "distractors": {
+     "plausible": [
+      "脛骨放在膕繩肌高處",
+      "脛骨放在小腿上段低處"
+     ],
+     "trap": [
+      "把膝蓋往側邊硬扭以逼出 tap"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施展 calf slicer 的正確速度應該是多少？如果施展太快會發生什麼事？",
+    "answer": "訓練時施壓時間至少要拉長到 5 到 7 秒，使用漸進而穩定的力量，絕不能突然加速或猛拉。一旦支點就定位，calf slicer 會非常快速地產生劇烈疼痛，如果以比賽速度施壓，你的夥伴可能沒有足夠時間發出 tap 訊號。快速施展會有嚴重小腿肌肉撕裂、後十字韌帶拉傷，以及可能造成阿基里斯腱損傷的風險。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，穩定拉長到 5-7 秒",
+    "distractors": {
+     "plausible": [
+      "3 到 4 秒就已經夠安全",
+      "只要對手提早 tap，速度就沒關係"
+     ],
+     "trap": [
+      "用力猛壓髖部以求快速結束"
+     ]
+    }
+   },
+   {
+    "question": "對手朝你的方向翻滾以減輕 calf slicer 的壓力——這時你可以取得什麼降伏機會？",
+    "answer": "當對手往你的方向翻滾以改變壓迫角度時，他們的腳跟通常會朝你的身體中線旋轉過來，直接露出 inside heel hook 的機會。跟著對手的翻滾動作，同時維持髖部連結，把手從抓腳踝的位置轉換成 heel hook 的抓握配置。這正是這個位置的核心兩難：靠翻滾逃離 calf slicer 會餵給你 inside heel hook，靠伸腿防守 heel hook 又會餵給你 calf slicer。",
+    "safety_critical": false,
+    "answer_line": "翻滾會露出 inside heel hook",
+    "distractors": {
+     "plausible": [
+      "翻滾能同時逃脫兩種降伏",
+      "翻滾只是回到中立狀態"
+     ],
+     "trap": [
+      "跟著翻滾動作，放開抓握"
+     ]
+    }
+   },
+   {
+    "question": "從 heel hook 轉換到 calf slicer 的過程中，你要如何維持 figure-four 的固定？",
+    "answer": "在整個轉換過程中，讓你外側的腿持續主動交叉在內側腿上，維持環繞對手被困腿的triangle。Figure-four 提供讓壓迫得以成立的結構性固定——沒有它，對手就能輕易把腿抽出。當你開始把脛骨穿進去時，要把triangle得更緊，以補償從抓腳跟轉換成控制腳踝時可能出現的鬆動。",
+    "safety_critical": false,
+    "answer_line": "全程把triangle得更緊",
+    "distractors": {
+     "plausible": [
+      "放鬆抓握以重新調整手的位置",
+      "先換腿再調整抓握"
+     ],
+     "trap": [
+      "放開三角去抓腳踝"
+     ]
+    }
+   },
+   {
+    "question": "如果訓練夥伴沒有 tap，而你感覺到他們膝蓋出現結構性抵抗，你該立即採取什麼步驟？",
+    "answer": "不要等口頭或肢體上的 tap，立刻放開所有壓力。把你的脛骨從對手膝蓋後方移開，放開抓腳踝的手，讓夥伴自然地把腿伸直。在繼續任何訓練之前，先檢查對手膝蓋的活動能力、小腿的感覺，以及疼痛程度。在訓練中，夥伴的結構性安全永遠是第一優先——一旦出現結構性抵抗的跡象就要放開，不必等到 tap 才放。",
+    "safety_critical": true,
+    "answer_line": "立刻放開，不要等待",
+    "distractors": {
+     "plausible": [
+      "先問對方是否還好",
+      "慢慢逐漸放鬆"
+     ],
+     "trap": [
+      "撐著壓力直到對方 tap"
+     ]
+    }
+   },
+   {
+    "question": "你要如何協調髖部伸展與拉腳踝的動作，才能讓支點壓迫效果最大化？",
+    "answer": "把你的髖部往前推進纏繞位置，同時用雙手把對手的腳踝往你的胸口拉。這兩個相反方向的力量，會在膝蓋後方的脛骨支點上形成最大壓迫。這兩個動作的協調必須是同步的——只推髖部或只拉腳踝，產生的壓迫力大約只有一半。想像成要在你的髖部和對手的腳之間創造最大距離，而脛骨則是固定不動的支點。",
+    "safety_critical": false,
+    "answer_line": "同時推髖部、拉腳踝",
+    "distractors": {
+     "plausible": [
+      "用力拉腳踝，髖部不動",
+      "只推髖部，維持抓腳踝不變"
+     ],
+     "trap": [
+      "猛力一拉腳踝"
+     ]
+    }
+   },
+   {
+    "question": "如果對手的腳在收尾時開始從你的控制中滑脫，你該做什麼樣的抓握調整？",
+    "answer": "如果腳開始滑脫，立刻把它塞得更深進你的腋下，並把交扣式抓握換成 figure-four 手臂抓握，也就是你上方的手抓住自己的前臂，取得更強的機械優勢。把手腕內旋做出一個架子，防止腳滑出去。如果抓握持續惡化，就放棄 calf slicer，在完全失去位置控制之前轉回 heel hook。",
+    "safety_critical": false,
+    "answer_line": "換成 figure-four 手臂抓握",
+    "distractors": {
+     "plausible": [
+      "用同樣的手抓得更緊",
+      "重新調整身體位置，維持抓握"
+     ],
+     "trap": [
+      "放手重置位置"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，除了直接的降伏威脅之外，calf slicer 還能創造哪些戰略優勢？",
+    "answer": "Calf slicer 迫使對手把防守注意力分散在壓迫威脅與 heel hook 威脅之間，降低兩種防守的品質。它會消耗對手的防守能量，因為現在每一次 heel hook 防守都帶有餵給 slicer 的風險。知道你會同時攻擊兩種降伏的對手，逃脫動作會變得更加謹慎猶豫，這會延長你的控制時間，並提高在多次嘗試中用任一技巧完成降伏的機率。",
+    "safety_critical": false,
+    "answer_line": "把防守分散在兩種降伏之間",
+    "distractors": {
+     "plausible": [
+      "只會消耗對手的握力",
+      "逼對手更用力破解抓握"
+     ],
+     "trap": [
+      "讓你可以拖延回合時間"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "攻擊者從 heel hook 轉換到 calf slicer 時，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是攻擊者把抓握從你的腳跟轉移到你的腳踝或腳掌，把它往自己胸口拉，而不是施加旋轉力量。你也會感覺到他們的脛骨開始滑進你的膝窩，而不是維持設置 heel hook 時用的側向壓力。這個抓握變化發生在壓迫成立之前，會創造一個短暫但關鍵的防守反應窗口。",
+    "safety_critical": false,
+    "answer_line": "抓握從腳跟轉移到腳踝",
+    "distractors": {
+     "plausible": [
+      "髖部壓力突然增加",
+      "對手把 figure-four 的腿鎖緊"
+     ],
+     "trap": [
+      "等到痛了才反應"
+     ]
+    }
+   },
+   {
+    "question": "在面對從 inside sankaku 而來的 calf slicer 時，什麼時候應該直接 tap 而不是繼續嘗試逃脫？",
+    "answer": "當三個條件同時成立時就要立刻 tap：（1）攻擊者的脛骨已經完全嵌入你膝窩後方的膕窩，（2）他們已經用二對一的方式牢牢抓住你的腳踝或腳掌，（3）他們開始把髖部往前伸展以施加壓迫。一旦這三個條件都成立，這個降伏技巧會發展得非常快，可能在一到兩秒內造成嚴重的結構性傷害。一旦完全鎖死，就沒有安全的逃脫窗口了。",
+    "safety_critical": true,
+    "answer_line": "一旦完全鎖死、髖部開始壓迫",
+    "distractors": {
+     "plausible": [
+      "脛骨一滑進來就 tap",
+      "只有痛了才 tap"
+     ],
+     "trap": [
+      "用爆發力硬拔出腿"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的防守動作能防止 calf slicer，但可能會讓你暴露在 inside heel hook 的威脅之下？",
+    "answer": "把被困的腿伸直、拉開，讓攻擊者無法接觸到膝窩，能有效防止 calf slicer，但這個伸展動作會讓你的腳跟朝攻擊者的身體中線旋轉過去。如果攻擊者很快察覺到這一點，就會放棄 calf slicer，立刻對現在露出來的腳跟重新發動 inside heel hook。比較安全的做法是把腳跟往內收藏著抽回，而不是把腿完全伸直。",
+    "safety_critical": false,
+    "answer_line": "伸直腿會露出 heel hook",
+    "distractors": {
+     "plausible": [
+      "彎曲膝蓋來逃脫",
+      "坐起來抓對手的衣領"
+     ],
+     "trap": [
+      "朝攻擊者的髖部方向翻滾"
+     ]
+    }
+   },
+   {
+    "question": "你的髖部相對於攻擊者的位置，會如何影響 calf slicer 壓迫的嚴重程度？",
+    "answer": "你的髖部離攻擊者的髖部越近，他們能產生的壓迫力就越大，因為支點需要作用的距離變短了。透過把髖部往外推、盡量拉開與攻擊者的距離，你可以降低作用在小腿與膝蓋後方的壓迫力。此外，把身體稍微轉離攻擊者，會改變壓迫的方向向量，有可能讓脛骨偏離最佳的支點位置。",
+    "safety_critical": false,
+    "answer_line": "髖部越近，壓迫越強",
+    "distractors": {
+     "plausible": [
+      "重要的是髖部高度，不是距離",
+      "角度只會影響抓握力量"
+     ],
+     "trap": [
+      "把髖部拉近攻擊者"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他位置的 calf slicer，從 inside sankaku 而來的 calf slicer 為什麼特別危險？",
+    "answer": "Inside sankaku 的 figure-four 配置把你的腿鎖得比其他位置更牢固，一旦脛骨穿進來，要抽腿脫困會非常困難。這種纏繞會限制標準逃脫動作所需的髖部活動能力，而攻擊者可以在 heel hook 和 calf slicer 之間直接連鎖轉換，完全不必放棄位置控制。這會造成一種被困住的兩難——防守其中一種降伏，就會直接暴露另一種，大幅減少你的防守選項。",
+    "safety_critical": true,
+    "answer_line": "Sankaku 鎖死讓你無法抽腿",
+    "distractors": {
+     "plausible": [
+      "攻擊的是膝蓋，不是小腿",
+      "兩條腿會同時被困住"
+     ],
+     "trap": [
+      "可以安心撐著，晚點再防守"
+     ]
+    }
+   }
+  ]
+ }
+}

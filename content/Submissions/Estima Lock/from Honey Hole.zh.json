@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Estima Lock/from Honey Hole.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "Estima Lock from Honey Hole 主要攻擊哪些解剖構造？",
+   "answer": "Estima Lock 透過強制背屈攻擊腳踝關節與腳部。主要目標是腳踝內側的三角韌帶複合體、外側的距腓韌帶，以及跗蹠（Lisfranc）關節韌帶。前臂支點壓在腳踝前方，產生的彎折力會讓這些構造承受超出正常活動範圍的壓力。",
+   "safety_critical": false,
+   "answer_line": "透過背屈攻擊腳踝韌帶",
+   "distractors": {
+    "plausible": [
+     "膝蓋韌帶，ACL 與 MCL",
+     "阿基里斯腱與小腿"
+    ],
+    "trap": [
+     "扭轉對方膝蓋增加力量"
+    ]
+   }
+  },
+  {
+   "question": "對手把腳跟藏得很深並蜷曲腳趾——這個防守姿勢代表什麼 Estima Lock 的機會？",
+   "answer": "這種藏腳跟的防守正是你轉換到 Estima Lock 的主要觸發訊號。當對手蜷曲腳來藏腳跟時，腳背就會暴露出來、變得容易碰觸。他們為了藏腳跟所投入的防守，代表他們無法在不放開腳跟的同時，又同時防守 Estima Lock 的grip。這正是讓 Estima Lock 從 Honey Hole 有效的攻擊方向誤導。",
+   "safety_critical": false,
+   "answer_line": "轉換到 Estima Lock 的訊號",
+   "distractors": {
+    "plausible": [
+     "等腳放鬆再說",
+     "先退出來重設grip"
+    ],
+    "trap": [
+     "還是硬扭那個藏起來的腳跟"
+    ]
+   }
+  },
+  {
+   "question": "從 heel hook 的grip轉換到 Estima Lock 設置之前與過程中，必須維持哪些控制？",
+   "answer": "整個grip轉換過程中，圍繞對手大腿的內側腿三角必須維持持續張力。跨過對方髖部的外側腿所施加的髖部壓力也必須保持穩定，以防止對方旋轉逃脫。如果在換grip時三角鬆開或髖部壓力下降，對手就會獲得收腳或啟動逃脫的機會。你的雙腿要獨立維持位置控制，同時雙手在攻擊grip之間轉換。",
+   "safety_critical": false,
+   "answer_line": "腿三角與髖部壓力",
+   "distractors": {
+    "plausible": [
+     "只要更用力夾腳就好",
+     "用一隻手撐地維持base"
+    ],
+    "trap": [
+     "放開三角以便重新調整位置"
+    ]
+   }
+  },
+  {
+   "question": "對手在你施展技術途中開始把膝蓋往胸口拉、想抽出腳——你要如何維持住 Estima Lock？",
+   "answer": "把你的髖部往前推，封閉他們正在製造的空間，同時收緊圍繞大腿的內側腿三角。用你的外側腿把對方的髖部往下推回去，阻止膝蓋收回。如果你的前臂已經架在腳踝上，對方拉膝蓋的動作其實反而會增加對你有利的背屈壓力。如果他們成功製造出明顯的鬆動空間，立刻切換回 heel hook 攻擊，因為抽腿的動作很可能會重新暴露腳跟。",
+   "safety_critical": false,
+   "answer_line": "髖部前推、收緊三角",
+   "distractors": {
+    "plausible": [
+     "把對方的腳往自己拉",
+     "把腿伸直去拉伸"
+    ],
+    "trap": [
+     "放手重新設定位置"
+    ]
+   }
+  },
+  {
+   "question": "施展 Estima Lock from Honey Hole 時最常見的完成錯誤是什麼？",
+   "answer": "最常見的錯誤是把前臂放得太高，壓在腳趾或中足，而不是直接對準腳踝關節的摺線。這種錯位會大幅降低機械優勢，因為柔軟的腳趾關節會吸收力量，而不是把力量傳到腳踝韌帶上。橈骨必須精準地落在腳與小腿交會的腳踝摺線處，才能形成有效背屈槓桿所需的堅硬支點。",
+   "safety_critical": false,
+   "answer_line": "前臂太高、偏離腳踝摺線",
+   "distractors": {
+    "plausible": [
+     "施壓速度太慢",
+     "雙手扣合不夠緊"
+    ],
+    "trap": [
+     "用力扭轉來彌補"
+    ]
+   }
+  },
+  {
+   "question": "施壓過程中你一開始的前臂位置滑掉腳踝——你要做什麼grip調整？",
+   "answer": "立刻停止施壓，重新架好前臂位置後再繼續。鬆開你雙手的扣合，把橈骨重新放回腳踝摺線，再用手肘更貼近軀幹的方式重新扣緊 gable grip。滑動通常是因為一開始的前臂位置太高，或grip配置本身就有鬆動。不要試圖從一個位置不對的前臂硬撐完成，這樣既浪費力氣，也會因為力量方向失控而增加受傷風險。",
+   "safety_critical": false,
+   "answer_line": "先停止、把前臂重新架回摺線",
+   "distractors": {
+    "plausible": [
+     "把手臂往小腿上方滑",
+     "換攻另一隻腳踝"
+    ],
+    "trap": [
+     "用鬆掉的grip硬拚tap"
+    ]
+   }
+  },
+  {
+   "question": "Estima Lock 正確的施力速度是多少？為什麼這對這個submission特別關鍵？",
+   "answer": "施力速度必須非常慢——從一開始施壓到最大力量，至少要五到七秒。這一點特別關鍵，因為腳部含有小骨頭與韌帶，在結構性損傷發生前，能提供的疼痛回饋非常有限。不像勒頸那樣不適感是逐漸累積的，腳鎖可能在幾乎沒有預警的情況下就造成韌帶撕裂或骨折。緩慢施力能讓你的訓練夥伴有足夠時間辨識壓力、評估逃脫選項，並在任何結構性損傷發生前tap。",
+   "safety_critical": true,
+   "answer_line": "要慢，至少五到七秒",
+   "distractors": {
+    "plausible": [
+     "要快，趁對方還沒逃脫",
+     "跟勒頸一樣的速度"
+    ],
+    "trap": [
+     "一次快速爆發完成"
+    ]
+   }
+  },
+  {
+   "question": "在比賽中，對手正有效防守著從 Honey Hole 發動的 heel hook——你要如何設置並轉換到 Estima Lock？",
+   "answer": "先具說服力地威脅 heel hook，逼對方把腳跟藏得更深。當對手雙手都投入藏腳跟並蜷曲腳部時，用一個流暢的動作完成grip轉換——放開 heel hook 的grip，立刻把前臂纏繞在暴露出來的腳背上。比賽情境下，因為對手正在積極防守，你可以做更快速的轉換。關鍵在於準確辨識他們的腳跟防守正好讓腳部暴露出來的那一刻，然後毫不猶豫地全力投入轉換。",
+   "safety_critical": false,
+   "answer_line": "先威脅 heel hook，再切換",
+   "distractors": {
+    "plausible": [
+     "解開grip站起來",
+     "改攻對方空著的那條腿"
+    ],
+    "trap": [
+     "還是硬扭那個藏起來的腳跟"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "從 Honey Hole 下位如何辨識 Estima Lock 的設置正在開始？",
+   "answer": "主要的辨識訊號是感覺到攻擊方放開 heel hook 的grip，並且是繞到你腳背上方而不是從下方伸向腳跟。你會感覺到他們的前臂橫越過你的腳背。壓力方向會從旋轉轉變成向下的背屈。這個grip轉換是你關鍵的防守窗口——一旦前臂就位、雙手扣合，防守選項就會大幅受限。",
+   "safety_critical": false,
+   "answer_line": "感覺前臂橫越腳背",
+   "distractors": {
+    "plausible": [
+     "感覺對方膝蓋夾得更緊",
+     "感覺自己的腳跟開始旋轉"
+    ],
+    "trap": [
+     "不理會它，腳跟還安全"
+    ]
+   }
+  },
+  {
+   "question": "當 Estima Lock 已經完全鎖上、背屈壓力持續增加時，最安全的反應是什麼？",
+   "answer": "立刻用任何能用的訊號tap——口頭、拍手或拍地。Estima Lock 攻擊的是腳部與腳踝這些小構造，在結構性損傷發生前能提供的疼痛緩衝非常有限。不像肩關節鎖那樣有漸進的不適感作為預警，腳鎖可能在幾乎沒有事先疼痛的情況下就造成韌帶撕裂或骨折。一旦前臂鎖在腳踝上、壓力持續累積，逃脫機率幾乎是零，而且每延遲一秒，受傷風險都會迅速上升。",
+   "safety_critical": true,
+   "answer_line": "立刻tap，任何訊號都算",
+   "distractors": {
+    "plausible": [
+     "把腳尖繃直來緩解壓力",
+     "撥開前臂的grip"
+    ],
+    "trap": [
+     "用力翻滾想旋轉脫身"
+    ]
+   }
+  },
+  {
+   "question": "在攻擊方完全鎖上 Estima Lock 之前，還有哪些防守選項？",
+   "answer": "在grip轉換的窗口期間有三個主要選項：第一，一感覺到 heel hook 的grip放開就立刻收腳——在前臂能纏上你的腳之前把腳抽回來。第二，如果前臂已經接觸到你的腳但雙手還沒扣合，就用雙手撥開grip。第三，趁攻擊方在grip轉換過程中控制力減弱時，用爆發性的髖部旋轉整條腿抽出來。這三個選項都需要立即反應——哪怕只是遲疑一秒，成功機率都會大幅下降。",
+   "safety_critical": false,
+   "answer_line": "收腳、撥grip、旋轉",
+   "distractors": {
+    "plausible": [
+     "把腳趾蜷得更深藏腳跟",
+     "把對方膝蓋從你髖部推開"
+    ],
+    "trap": [
+     "等壓力累積起來再說"
+    ]
+   }
+  },
+  {
+   "question": "攻擊方放開 heel hook 的grip、伸手去抓你的腳——你的立即反應應該是什麼？",
+   "answer": "立刻把膝蓋往胸口拉來收回你的腳，同時用雙手伸過去，在對方前臂纏上你的腳之前先攔截住它。不要等確認他們正在轉換成哪一種攻擊——在 Honey Hole 裡任何grip的放開都是你的逃脫窗口。如果你的腳已經被部分控制住，就用雙手全力撥開grip，趕在lock配置完成之前。反應速度是防守成功最重要的單一因素。",
+   "safety_critical": false,
+   "answer_line": "收腳、快速撥開前臂",
+   "distractors": {
+    "plausible": [
+     "先確認是哪一種攻擊",
+     "加強 heel hook 的防守"
+    ],
+    "trap": [
+     "保持不動，保留體力"
+    ]
+   }
+  },
+  {
+   "question": "相較於其他腿鎖submission，為什麼延遲對 Estima Lock tap特別危險？",
+   "answer": "Estima Lock 透過背屈攻擊腳與腳踝，這些小韌帶與骨頭相較於較大的關節，在結構性損傷發生前能承受的疼痛容忍度低得多。Heel hook 攻擊膝蓋，還有一些漸進的不適感；armbar 也會在手肘產生明顯逐漸加劇的疼痛。腳鎖卻可能在幾乎沒有預警疼痛的情況下就造成跗蹠韌帶撕裂或蹠骨骨折。此外，這個緊湊的槓桿系統代表壓力會隨著攻擊方微小的調整而迅速增加，一旦達到破壞力道，幾乎沒有反應時間。",
+   "safety_critical": true,
+   "answer_line": "小骨頭幾乎沒有預警",
+   "distractors": {
+    "plausible": [
+     "腳部受傷需要最久才能痊癒",
+     "腳踝的活動度最大"
+    ],
+    "trap": [
+     "像撐 heel hook 那樣撐下去"
+    ]
+   }
+  }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Lasso Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Lasso Guard 主要攻擊哪些解剖構造？",
+    "answer": "Kimura攻擊整個肩關節複合體，特別針對旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊韌帶，以及盂唇。透過figure-four抓法施加的旋轉力，會超過肩膀內旋的活動範圍，同時對這些構造造成壓力。",
+    "answer_line": "肩關節（旋轉肌袖）",
+    "distractors": {
+     "plausible": [
+      "肘關節過度伸展",
+      "手腕與前臂骨骼"
+     ],
+     "trap": [
+      "脖子——手臂抵抗就硬凹"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在建立figure-four抓法之前，胸口壓力是不可或缺的？",
+    "answer": "胸口壓力能把對手的髖部壓平在墊子上，消除同時驅動lasso guard sweep與Kimura防守frame所需的髖部角度移動。沒有這股壓力，對手在你建立抓法的過程中仍能轉出角度、回guard，或利用剩餘的lasso槓桿做sweep，讓這次攻擊成功的機率大幅降低。",
+    "answer_line": "壓平髖部，消滅lasso力量",
+    "distractors": {
+     "plausible": [
+      "建立你的衣領抓法",
+      "讓他們抓握的手臂疲勞"
+     ],
+     "trap": [
+      "跳過它，先抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "對手把被抓住的手臂伸直、手肘夾緊身體——你要做什麼調整來防止他逃脫？",
+    "answer": "把攻擊方向改成Americana，把手腕壓力轉向墊子方向，而不是往背後旋轉。阻擋Kimura旋轉的伸直手臂防守，其實正好暴露在Americana相反方向的壓力之下。或者，也可以利用這個抓握上的混亂來推進你的過guard位置，因為對手專注防守，lasso很可能已經被削弱。",
+    "answer_line": "改攻Americana",
+    "distractors": {
+     "plausible": [
+      "更用力硬推旋轉",
+      "把手腕往自己方向拉"
+     ],
+     "trap": [
+      "放手直接撲向頭部"
+     ]
+    }
+   },
+   {
+    "question": "在Kimura finish過程中，施加旋轉壓力的正確速度是什麼？",
+    "answer": "旋轉必須緩慢且漸進，訓練中至少要花三到五秒。這種受控的施力方式，能讓對手有足夠時間察覺危險並清楚地tap。猛然施力或快速甩動旋轉，會有造成嚴重肩傷的風險，包括旋轉肌袖撕裂與盂唇損傷，可能需要手術修復及數個月的恢復期。",
+    "answer_line": "緩慢，至少3-5秒",
+    "distractors": {
+     "plausible": [
+      "快到能超過他們的base",
+      "配合他們的抵抗速度"
+     ],
+     "trap": [
+      "快速用力一甩來逼tap"
+     ]
+    }
+   },
+   {
+    "question": "感覺或聽到tap之後，你應該何時放開Kimura？",
+    "answer": "只要出現任何tap訊號——口頭、手拍、腳拍，或任何求饒聲——就要立刻放開所有旋轉壓力。緩慢地反向旋轉，讓手臂回到中立位置，再完全放開figure-four抓法。絕對不要突然放手，因為手臂猛然彈回可能造成額外傷害。讓夥伴先自行確認肩膀活動度，再繼續訓練。",
+    "answer_line": "出現任何tap訊號就立刻放開",
+    "distractors": {
+     "plausible": [
+      "只有明確的口頭喊停才放",
+      "等到他們停止抵抗"
+     ],
+     "trap": [
+      "再撐一拍以求確定"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試finish時，對手朝Kimura方向bridge並翻滾——你要如何應對？",
+    "answer": "跟著這個翻滾，維持figure-four抓法，讓動能把你帶進mount或side control的Kimura位置。在翻滾過程中，保持抓法鎖死、手肘貼緊。對手的bridge其實反而改善了你的finish位置，因為墊子不再能支撐他的肩膀，位置轉換後submission往往會變得更緊。",
+    "answer_line": "跟著翻滾，維持抓握",
+    "distractors": {
+     "plausible": [
+      "撐住base阻止翻滾",
+      "重置並重新抓手腕"
+     ],
+     "trap": [
+      "翻滾中途放手，落到下位"
+     ]
+    }
+   },
+   {
+    "question": "Kimura的威脅如何讓lasso guard玩家陷入戰術上的兩難？",
+    "answer": "Kimura把下位選手逼進一個左右為難的決定：要防守肩關節鎖，通常就得放開lasso抓法、把手臂拉到安全位置，這麼一來就等於移除了guard的主要障礙，直接打開過guard的機會。若堅持維持lasso同時防守Kimura，在結構上根本不可能，因為維持小腿纏繞與伸展抓握，正好會製造出Kimura所利用的那個手臂弱點。",
+    "answer_line": "防肩膀就丟lasso",
+    "distractors": {
+     "plausible": [
+      "用lasso換一個leg lock",
+      "stack passer來同時逃脫"
+     ],
+     "trap": [
+      "不理它，lasso依然安全"
+     ]
+    }
+   },
+   {
+    "question": "在從Lasso Guard top嘗試Kimura時，最常導致被sweep的錯誤是什麼？",
+    "answer": "就是為了專注抓握submission而放棄base，把雙膝併攏或抬起撐地的那隻腳。剩餘的lasso槓桿仍能給下位選手相當大的sweep力量，只要上位選手的base出現任何鬆動，就會立刻出現sweep的破口。在整個攻擊過程中維持寬闊的雙腳站位、至少一膝撐地，是穩定性的關鍵。",
+    "answer_line": "失去寬底盤、雙膝併攏",
+    "distractors": {
+     "plausible": [
+      "抓手腕抓得太緊",
+      "沒有讓髖部對正對手"
+     ],
+     "trap": [
+      "往前撲、雙肘同時落地"
+     ]
+    }
+   },
+   {
+    "question": "在figure-four finish過程中，什麼樣的抓握配置能提供最大的控制力？",
+    "answer": "figure-four應該讓對手的手肘緊貼你的肋骨，同時你自己的雙肘也要夾緊軀幹。要牢牢抓住自己的手腕，而不是抓手指或前臂。對手的手臂和你身體之間只要有任何空隙，都會降低旋轉的槓桿力。finish的力量來自軀幹旋轉、手臂被緊緊壓在你身上，而不是靠手臂單獨用力去拉手腕。",
+    "answer_line": "手肘夾緊，抓住自己的手腕",
+    "distractors": {
+     "plausible": [
+      "緊緊抓住他們的手指",
+      "把他們的手臂拉離你的肋骨"
+     ],
+     "trap": [
+      "身體後仰，放棄base"
+     ]
+    }
+   },
+   {
+    "question": "從Lasso Guard top發動Kimura攻擊，最理想的時機是什麼時候？",
+    "answer": "最理想的時機是對手的非lasso手臂遠離身體伸展的時候——例如伸手去抓衣領、撐地調整髖部角度，或伸手橫過身體建立次要控制。攻擊一隻收緊貼身的手臂非常困難、也很可能失敗，而伸展的手臂則提供了建立手腕控制、穿入figure-four所需要的空間。",
+    "answer_line": "當他們的空手伸展時",
+    "distractors": {
+     "plausible": [
+      "當他們把手臂收回時",
+      "剛過guard之後"
+     ],
+     "trap": [
+      "sweep進行到一半、失衡的時候"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從Lasso Guard top發動的Kimura攻擊，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是上位選手刻意控制你非lasso那隻手的手腕或前臂，而不是使用一般的過guard抓法。在這之前，他可能會先透過突然把體重往前壓、胸口貼緊你的軀幹來洩漏攻擊意圖。在手腕控制階段就辨識出這個意圖，能讓你在figure-four鎖死之前先做防守，這比逃脫已經完全建立的Kimura要容易得多。",
+    "answer_line": "有意圖地抓你的手腕或前臂",
+    "distractors": {
+     "plausible": [
+      "他們抓你的衣領",
+      "他們改成half guard"
+     ],
+     "trap": [
+      "等到鎖鎖上再反應"
+     ]
+    }
+   },
+   {
+    "question": "面對Lasso Guard發動的Kimura，什麼時候該tap而不是繼續防守？",
+    "answer": "只要你感覺到肩膀承受著現有防守抓法或位置都擋不住的旋轉壓力，就要立刻tap。如果figure-four已經鎖死、你的錨點抓法已被破壞，旋轉也已經超過你舒適的活動範圍，繼續抵抗會有旋轉肌袖或盂唇嚴重受傷的風險。提早tap、重新開始，永遠比冒著可能需要手術與數個月恢復期的訓練傷害更安全。",
+    "answer_line": "一旦你無法阻止旋轉",
+    "distractors": {
+     "plausible": [
+      "一旦你的lasso hook解開",
+      "只有在他們跨過你的頭時"
+     ],
+     "trap": [
+      "等到肩膀劇痛才反應"
+     ]
+    }
+   },
+   {
+    "question": "逃脫時，為什麼要朝Kimura那一側bridge，而不是朝反方向？",
+    "answer": "朝Kimura那一側bridge能壓縮攻擊者可利用的旋轉弧度，減少他finish所需的力學優勢。朝反方向bridge反而會拉大手臂能移動的距離，讓submission變得更緊，也讓攻擊者有更多空間製造finish的壓力。朝同側bridge同時也能為抽出被抓住的手臂，創造更好的hip escape角度。",
+    "answer_line": "朝Kimura那一側bridge",
+    "distractors": {
+     "plausible": [
+      "朝反方向拉開距離",
+      "直直往上bridge，不做角度"
+     ],
+     "trap": [
+      "轉身背對，放棄背後控制"
+     ]
+    }
+   },
+   {
+    "question": "一感覺到有人把figure-four抓法穿到你手臂下方，你應該立刻採取什麼行動？",
+    "answer": "立刻用受威脅的那隻手抓住最近的錨點——自己的腰帶、衣領、褲子，或另一隻手腕——阻止攻擊者製造任何旋轉。這能爭取關鍵時間，讓你開始hip escape與bridge的動作。如果沒有錨點抓法，攻擊者幾乎能在figure-four鎖上的瞬間就完成finish，讓你完全沒有時間做位置防守或逃脫。",
+    "answer_line": "抓住錨點：腰帶或衣領",
+    "distractors": {
+     "plausible": [
+      "把他們的頭推開",
+      "用蠻力對抗抓握"
+     ],
+     "trap": [
+      "把手臂伸直硬扯脫身"
+     ]
+    }
+   },
+   {
+    "question": "如果你在figure-four建立之前就辨識出Kimura，有哪些防守選項？",
+    "answer": "主要防守方式是立刻收回手臂——把手肘拉緊貼近髖部，抓住自己的衣領或腰帶，把手臂固定在安全位置。這樣能杜絕攻擊者穿入figure-four所需要的空間。你也可以用髖部移動來轉出角度、遠離攻擊者，阻止他建立把你壓平所需要的胸口壓力。放開衣領抓法，永遠好過去防守一個已經鎖死的肩關節鎖。",
+    "answer_line": "收回手肘，錨在腰帶上",
+    "distractors": {
+     "plausible": [
+      "推開、拉開距離",
+      "用抓握對抗爭奪手腕"
+     ],
+     "trap": [
+      "守住lasso，不理手臂"
+     ]
+    }
+   }
+  ]
+ }
+}

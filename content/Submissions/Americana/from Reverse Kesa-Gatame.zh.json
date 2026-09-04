@@ -1,0 +1,197 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Reverse Kesa-Gatame 主要攻擊哪個解剖構造？",
+    "answer": "Americana 主要攻擊肩膀的肩盂肱關節，特別鎖定旋轉肌袖群，包括棘上肌、棘下肌、肩胛下肌與小圓肌。figure-four grip 會讓肱骨產生超出自然活動範圍的外旋與外展，對肩關節囊與周圍韌帶造成極大的壓力。次要的壓力則會影響肩鎖關節。",
+    "safety_critical": false,
+    "answer_line": "肩關節（肩盂肱關節）",
+    "distractors": {
+     "plausible": [
+      "肘關節，像 armbar 一樣",
+      "直接作用在腕關節"
+     ],
+     "trap": [
+      "扭脖子而不是手臂"
+     ]
+    }
+   },
+   {
+    "question": "有哪些關鍵跡象顯示防守者的肩膀正在接近極限？",
+    "answer": "留意防守者臉上明顯的痛苦表情、身體不自主地緊繃或拱起、發出表示疼痛的聲音，以及抵抗變得慌亂而不再是技術性、有控制的動作。手臂會到達一個階段，此時繼續旋轉會遇到堅硬的解剖結構阻力，而不再只是肌肉的抵抗。到了這個地步，防守者應該立刻tap，而你必須準備好一收到任何訊號就立刻放開。",
+    "safety_critical": true,
+    "answer_line": "臉部痛苦、抵抗變慌亂",
+    "distractors": {
+     "plausible": [
+      "手臂變得鬆軟放鬆",
+      "他抓著你的力道感覺變鬆"
+     ],
+     "trap": [
+      "對方沉默就代表可以繼續旋轉"
+     ]
+    }
+   },
+   {
+    "question": "開始完成 Americana 之前，必須先建立哪些控制要素？",
+    "answer": "你必須已經穩固建立 reverse kesa-gatame，用胸部重壓在防守者上半身；把遠側手臂孤立於身體之外，手腕壓在他頭部旁邊的地面上，手肘彎曲成大約九十度；figure-four grip 已鎖死且完全沒有鬆動；並且base 要寬、雙腿呈sprawl 提供穩定性。如果這四個要素沒有全部到位，submission 嘗試很可能會失敗，甚至危及你的位置。",
+    "safety_critical": false,
+    "answer_line": "壓力、手腕固定、grip、base",
+    "distractors": {
+     "plausible": [
+      "光有 figure-four grip 就夠了",
+      "只要把手腕壓在地上就好"
+     ],
+     "trap": [
+      "放開胸部壓力去扣grip"
+     ]
+    }
+   },
+   {
+    "question": "在完成 Americana 的過程中，到了哪個時間點防守者幾乎已經無法逃脫？",
+    "answer": "一旦 figure-four grip 完全鎖死、沒有任何鬆動，且手腕被牢牢壓在地面上，逃脫就會變得極度困難。關鍵的控制點在於：胸部壓力固定住肩膀、figure-four 消除手臂獨立活動的能力，加上手腕被固定在地上，阻止任何肩部旋轉，三者結合在一起。在 figure-four 完成之前，防守者仍有多個可以利用的可行逃脫時機。",
+    "safety_critical": false,
+    "answer_line": "figure-four 鎖死，手腕被固定",
+    "distractors": {
+     "plausible": [
+      "一開始做 reverse kesa 就已經如此",
+      "一抓到遠側手臂就已經如此"
+     ],
+     "trap": [
+      "在grip 扣好之前就硬扯"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試固定手腕時，對手把手臂伸直——正確的調整是什麼？",
+    "answer": "立刻改攻 kimura，維持你抓住他手腕的grip，另一隻手則穿過他伸展的手臂下方去抓住自己的手腕。手臂伸直其實反而改善了你 kimura 的角度，因為現在你能用更好的槓桿把手臂帶到他背後。這個 Americana 轉 kimura 的連鎖，是從 reverse kesa-gatame 可以使用的最高成功率submission 順序之一。",
+    "safety_critical": false,
+    "answer_line": "切換為 kimura grip",
+    "distractors": {
+     "plausible": [
+      "用蠻力把手臂彎回去",
+      "放棄並重新設置固定"
+     ],
+     "trap": [
+      "對著伸直的手臂硬扭"
+     ]
+    }
+   },
+   {
+    "question": "如果防守者在旋轉過程中開始把手腕抽出，grip 應該如何調整？",
+    "answer": "如果手腕開始滑脫，立刻停止旋轉，重新固定住手腕之後再繼續。把你的體重透過胸部往下壓在他肩膀上，把他完全壓平，接著用你的前臂把他的手腕壓回地面。絕對不要只靠手臂的力量去追一個正在滑脫的grip，因為這會犧牲位置上的壓力。如果手腕完全脫離，回到維持位置的狀態，從頭開始重新進行孤立手臂的順序。",
+    "safety_critical": false,
+    "answer_line": "停下、壓平、重新固定手腕",
+    "distractors": {
+     "plausible": [
+      "加快旋轉速度",
+      "改攻近側手臂"
+     ],
+     "trap": [
+      "用蠻力扣grip，放掉胸部固定"
+     ]
+    }
+   },
+   {
+    "question": "訓練時完成 Americana 的正確施力速度是什麼？",
+    "answer": "從一開始接觸到預期tap，至少要花三到五秒緩慢施加旋轉壓力。drill 時最多只使用你可用力量的 10% 到 20%。在任何情況下，都絕對不要對肩關節猛然發力、突然加速或施加瞬間的力量。緩慢施力能給你的訓練夥伴足夠時間察覺submission 並安全地tap，同時也能提升你對完成動作機制的控制與手感。",
+    "safety_critical": true,
+    "answer_line": "3到5秒緩慢施力，力道輕",
+    "distractors": {
+     "plausible": [
+      "如果對方開始逃脫就加快",
+      "維持靜止把他耗到放棄"
+     ],
+     "trap": [
+      "趁對方還沒防守前快速扣死"
+     ]
+    }
+   },
+   {
+    "question": "如果防守者在完成 Americana 的過程中嘗試bridge 並翻滾，你要如何維持位置？",
+    "answer": "立刻拓寬你的base，把遠側腳往外伸得更遠，並讓近側腳穩穩地踩在地面上。把髖部放低，增加對他軀幹與肋骨的下壓壓力。維持 figure-four grip，但在bridge 嘗試完全平息之前暫停旋轉動作。跟著bridge 的動作走、保持與他身體的連結，而不是僵硬地對抗這個動作。等他重新落回地面後，再恢復緩慢漸進的旋轉壓力。",
+    "safety_critical": false,
+    "answer_line": "拓寬base、放低髖部、順勢跟隨",
+    "distractors": {
+     "plausible": [
+      "僵硬地對抗bridge",
+      "放開grip，重新設置位置"
+     ],
+     "trap": [
+      "追著翻滾動作跑，丟掉base"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在從 Reverse Kesa-Gatame 設置 Americana？",
+    "answer": "最主要的辨識訊號是攻擊者近側的手伸向你遠側的手腕或前臂，同時維持 reverse kesa 的胸部壓力；你的手臂被拉離身體，朝你頭部旁邊的地面方向移動；攻擊者也開始把他遠側的手穿過你上臂下方，準備建立 figure-four grip。你越早察覺這個順序，剩下能阻止submission 的防守選項就越多。",
+    "safety_critical": false,
+    "answer_line": "手腕被孤立，figure-four 正在成形",
+    "distractors": {
+     "plausible": [
+      "他把一隻手撐在你的髖部上",
+      "他的頭壓低靠向你的胸口"
+     ],
+     "trap": [
+      "無視靠近你手腕的那隻手"
+     ]
+    }
+   },
+   {
+    "question": "被 Reverse Kesa-Gatame 的 Americana 困住時，最安全的tap 方式是什麼？",
+    "answer": "要提早且清楚地tap，同時使用多重訊號。用你的自由手在攻擊者身上或地面上用力tap 至少兩次，同時清楚喊出「tap」發出口頭訊號。如果你的自由手被困住，改用腳在地面tap。訓練中絕對不要嘗試硬撐已經鎖死的 Americana，因為一旦超過旋轉極限，肩關節可能在幾秒內就受到永久性傷害，甚至需要花上數個月才能恢復。",
+    "safety_critical": true,
+    "answer_line": "提早tap，大聲喊加上用手",
+    "distractors": {
+     "plausible": [
+      "等到疼痛變得尖銳再說",
+      "點頭讓對方注意到"
+     ],
+     "trap": [
+      "硬拚grip 直到撕裂為止"
+     ]
+    }
+   },
+   {
+    "question": "面對 Reverse Kesa-Gatame 的 Americana，有哪些防守選項可用？",
+    "answer": "主要的防守選項包括：透過把手臂固定在自己身體上來對抗grip、防止手腕被孤立；短暫伸直手臂並配合bridge，防止 figure-four 成形；抓準攻擊者為了控制手臂而抬起胸部壓力的時機做hip escape；以及轉身面向攻擊者以縮小旋轉角度。最重要的原則是在 figure-four 完全鎖死之前就及早介入。",
+    "safety_critical": false,
+    "answer_line": "對抗grip、bridge、及早逃脫",
+    "distractors": {
+     "plausible": [
+      "用臥推的力量把他胸口推開",
+      "等他自己累了再說"
+     ],
+     "trap": [
+      "在全力承壓時硬把手臂扯出來"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該優先逃脫位置，而不是專門防守這個submission？",
+    "answer": "當攻擊者在設置submission 的過程中胸部壓力抬起，製造出髖部活動的空間時，就應該優先逃脫位置。如果你感覺到自己上半身與攻擊者胸口之間開始出現空間，應該立刻投入hip escape 去回復guard，而不是只單純防守手臂。成功的位置逃脫能同時消除所有submission 威脅，而單純防守手臂只是在拖延時間——面對一個熟練的攻擊者，他終究會連鎖轉攻 kimura 與arm triangle。",
+    "safety_critical": false,
+    "answer_line": "胸部壓力抬起的時候",
+    "distractors": {
+     "plausible": [
+      "grip 完全鎖死之後",
+      "手腕碰到地面的時候"
+     ],
+     "trap": [
+      "維持平貼，只防守手臂"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Americana/from Reverse Kesa-Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

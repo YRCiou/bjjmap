@@ -1,0 +1,257 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Aoki Lock/from Aoki Lock Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Aoki Lock 完結技主要攻擊哪些解剖構造？",
+    "answer": "Aoki Lock 完結技同時攻擊小腿、腓腸肌、腳踝與阿基里斯腱，透過壓迫和極端 plantar flexion 的組合，把力量同時分散到足底筋膜、踝關節韌帶（ATFL 與三角韌帶）、阿基里斯腱、腓腸肌，以及脛骨骨膜。因為壓力是分散在多個構造上，而不是孤立單一關節，阿基里斯腱與踝關節韌帶在施力過度或爆發式施展時最容易受傷。",
+    "safety_critical": true,
+    "answer_line": "小腿、腓腸肌、腳踝與阿基里斯腱",
+    "distractors": {
+     "plausible": [
+      "膝關節與前十字韌帶",
+      "只有腳趾與前足"
+     ],
+     "trap": [
+      "只是不舒服而已，可以撐著"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖定完結技時，對手開始爆發性翻滾——什麼調整能防止逃脫？",
+    "answer": "跟隨他們翻滾的動量，同時保持 figure-four 緊繃、雙膝持續夾緊。這個旋轉往往會讓腳被壓得更深進入 plantar flexion，反而讓壓迫更緊，而不是緩解。用你的雙手管理距離，讓對手無法製造出能抽腳的角度，如果他們累積出足夠的動量，就順著翻滾回到控制位置，而不要正面對抗。",
+    "safety_critical": false,
+    "answer_line": "順著翻滾，保持 figure-four",
+    "distractors": {
+     "plausible": [
+      "穩住 base 阻止翻滾",
+      "伸直雙腿爭取更大槓桿"
+     ],
+     "trap": [
+      "放手去追 back"
+     ]
+    }
+   },
+   {
+    "question": "你的壓迫接近臨界點的關鍵指標是什麼？",
+    "answer": "指標包括對手的空閒手伸向自己的腿或你的腿、出現聽得見的呻吟或不適發聲、可見的腳部膚色變化（因血液循環受影響）、身體出現不自主僵直反應，以及任何 tap 訊號，包含手拍、口頭 submission，或腳跺地。因為這個 lock 同時攻擊多個構造，要維持穩定的壓力，不要突然加壓——tap 已經迫在眉睫，額外的力量只會在他們能發出訊號前造成傷害。",
+    "safety_critical": true,
+    "answer_line": "手伸向腿、呻吟、腳變色",
+    "distractors": {
+     "plausible": [
+      "表情平靜、呼吸均勻",
+      "他們的手部纏鬥變強"
+     ],
+     "trap": [
+      "沒反應——快速加大力道"
+     ]
+    }
+   },
+   {
+    "question": "在你安全發動完結壓迫之前，必須先建立哪些控制？",
+    "answer": "必須確認四項控制：figure-four 已經扣緊，你的上方腳勾在下方膝蓋或小腿後方；對手的腳已經深深坐進壓迫的口袋，位置設定好準備進行 plantar flexion；你的雙手正在管理距離，阻擋對方坐起或旋轉；以及整個圈套沒有鬆動的空間。任何一項控制要素缺失，都會降低完結效果，或造成失控施壓角度的安全風險。",
+    "safety_critical": false,
+    "answer_line": "四項控制齊備，毫無鬆動",
+    "distractors": {
+     "plausible": [
+      "只要 figure-four 扣緊就好",
+      "只要腳跟坐得深就好"
+     ],
+     "trap": [
+      "先硬拉，再修正控制"
+     ]
+    }
+   },
+   {
+    "question": "在 Aoki Lock 完結技的過程中，對手在什麼時候會通過「無法逃脫」的臨界點？",
+    "answer": "無法逃脫的臨界點出現在 figure-four 完全鎖住、腳深深坐進準備 plantar flexion 的位置，並且你已經開始髖部伸展、膝蓋夾緊生效的時候。一旦對手無法再用 dorsiflexion 緩解壓力，也無法用旋轉打破圈套，他們唯一的選擇就是 tap。這個門檻會因個人踝關節柔軟度而異，應該永遠採漸進方式接近。",
+    "safety_critical": false,
+    "answer_line": "圈套鎖住、腳深、髖部驅動",
+    "distractors": {
+     "plausible": [
+      "一抓到腳就算通過",
+      "剛交叉雙腳的時候"
+     ],
+     "trap": [
+      "快速硬拉搶在逃脫前完成"
+     ]
+    }
+   },
+   {
+    "question": "從這個位置施展 Aoki Lock 最常見的完結失敗原因是什麼？",
+    "answer": "三個最常見的錯誤是：把腳坐得太淺，讓對手保有可以做 dorsiflexion 的鬆動空間；只依賴膝蓋夾緊卻忽略髖部伸展，而髖部伸展才是驅動 plantar flexion 的關鍵；以及忽略用雙手做距離控制，讓對手能坐起並轉出。第四個關鍵錯誤是爆發式施加壓力而非漸進式，這不會提高完結率，卻大幅提高訓練夥伴的受傷風險。",
+    "safety_critical": false,
+    "answer_line": "腳坐太淺、髖部驅動不足",
+    "distractors": {
+     "plausible": [
+      "膝蓋夾得太用力",
+      "上方腳交叉錯邊"
+     ],
+     "trap": [
+      "完結一半時放手重抓"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在完結過程中開始抽腳，你應該如何調整？",
+    "answer": "把你的上方腳勾得更深，並把雙膝拉近，重新扣緊 figure-four，接著把對手的腳跟重新坐回壓迫口袋，同時增加髖部伸展來消除鬆動。如果抽腳持續到腳跟已經脫離圈套的地步，立即用現有的腿部位置轉換到 inside heel hook 或 kneebar，而不要去追腳，那會讓你陷入不利的混戰位置。",
+    "safety_critical": false,
+    "answer_line": "重新坐回腳跟，重扣圈套",
+    "distractors": {
+     "plausible": [
+      "等腳完全脫離再說",
+      "往後滑爭取更多空間"
+     ],
+     "trap": [
+      "追著逃脫的腳跑"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，放開 Aoki Lock 的正確流程是什麼？",
+    "answer": "一收到任何 tap 訊號，立即用雙腿放開所有夾緊壓力，不要猶豫或質疑。不要為了確認對方是否真的 tap 而維持這個 lock。放開你交叉的雙腿，打開 figure-four，釋放被困的腳，讓對方的腿自然伸直，不要拉扯或扭轉。在繼續訓練前，檢查夥伴的腳踝、阿基里斯腱與小腿的活動度與疼痛程度。如果對是否 tap 有任何疑慮，永遠先放開再確認。",
+    "safety_critical": true,
+    "answer_line": "立即放開夾緊",
+    "distractors": {
+     "plausible": [
+      "幫他們把腿拉直",
+      "慢慢放鬆壓力"
+     ],
+     "trap": [
+      "撐兩秒確認再放"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄完結嘗試，改為轉換到 heel hook 或 kneebar？",
+    "answer": "當你已經進行兩次漸進式壓迫嘗試卻沒有進展、對手已經建立起結構性阻擋 plantar flexion 的強力 dorsiflexion 與抽腳防禦、他們製造出可轉換攻擊其他腿部的機會，或是你自己感覺體力消耗已經無法持續時，就該轉換。Aoki Lock 的纏繞位置能提供極佳的轉換機會，通往 inside heel hook 與 kneebar，這比硬拚一個防守完善的壓迫技更高效率。",
+    "safety_critical": false,
+    "answer_line": "兩次壓迫卡住後就放棄",
+    "distractors": {
+     "plausible": [
+      "第一次嘗試就放棄",
+      "重整控制後照原樣重來"
+     ],
+     "trap": [
+      "撐到力竭為止"
+     ]
+    }
+   },
+   {
+    "question": "比賽中完結 Aoki Lock 和訓練時的應用有什麼不同？",
+    "answer": "在比賽中，你可以更果斷地施壓，因為對手會有動機防禦而不是提早 tap，但你仍必須控制施壓速度，以免因危險的腿部攻擊而被判失格。投入前先扣緊 figure-four 並讓腳完全坐好，因為比賽中的對手會利用任何鬆動來抽腳。時間管理很重要：如果完結在十五到二十秒內沒有進展，就轉換到 heel hook 或 kneebar，而不要在僵持的壓迫中拖延。",
+    "safety_critical": false,
+    "answer_line": "堅定壓迫，但控制速度",
+    "distractors": {
+     "plausible": [
+      "先投入，再坐好腳",
+      "放鬆壓力讓對方早點 tap"
+     ],
+     "trap": [
+      "留鬆動空間好重扣圈套"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正從 Aoki Lock Control 發動完結攻擊？",
+    "answer": "關鍵辨識線索包括：對手把雙腿編成 figure-four 繞住你的小腿、對你的小腿與腓腸肌施加漸增的擠壓，而不是對膝蓋施加扭轉、你的腳被引導進入 plantar flexion 並坐得更深進口袋，以及對手伸展並抬高髖部，同時維持纏繞的緊度。從控制轉為完結的標誌，是壓迫逐漸增加，而不是突然的變化。",
+    "safety_critical": false,
+    "answer_line": "在小腿與腓腸肌上累積擠壓",
+    "distractors": {
+     "plausible": [
+      "在你膝蓋上的扭轉力",
+      "腳被逼進 dorsiflexion"
+     ],
+     "trap": [
+      "感覺輕微——撐著等待"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該對 Aoki Lock 的完結 tap，而不是繼續防禦？",
+    "answer": "當你感覺到腳踝、阿基里斯腱或小腿有劇痛，無法再做 dorsiflexion 或抽腳，壓迫達到不舒服的程度，或攻擊者的壓力持續增加而你沒有可行的逃脫路線時，立即 tap。Aoki Lock 造成的傷害包括阿基里斯腱斷裂、踝關節韌帶損傷與小腿撕裂——沒有任何一種值得在訓練或比賽中繼續防禦，而且傷害累積的速度比疼痛訊號傳遞得更快。",
+    "safety_critical": true,
+    "answer_line": "劇痛或腳被困就 tap",
+    "distractors": {
+     "plausible": [
+      "抽腳失敗兩次後才 tap",
+      "他們一抓到腳就 tap"
+     ],
+     "trap": [
+      "用爆發力硬把腳抽出"
+     ]
+    }
+   },
+   {
+    "question": "對抗從 Aoki Lock Control 發動的完結技，有哪些防禦選項可用？",
+    "answer": "主要選項包括：在 figure-four 鎖緊前，透過 dorsiflexion 與內轉髖部把腳抽出；坐起並向前 posture 來瓦解攻擊者的髖部伸展；以及當圈套鬆動時，朝被困的腿方向翻滾以製造混戰。關鍵原則是優先處理 figure-four 與困腳的問題，並且要用環形的髖部動作，而不是把腿直直往後拉，直拉只會讓 lock 更緊。",
+    "safety_critical": false,
+    "answer_line": "抽腳、posture、往腿側翻",
+    "distractors": {
+     "plausible": [
+      "跟他們的上半身 grip 纏鬥",
+      "等圈套自己鬆動"
+     ],
+     "trap": [
+      "把被困的腿直直往後拉"
+     ]
+    }
+   },
+   {
+    "question": "在防禦 Aoki Lock 完結技時，為什麼把腿直直往後拉會很危險？",
+    "answer": "把被困的腿直直往後拉，會把 figure-four 的架構拉得更緊，把你的腳推得更深入壓迫口袋，而不是緩解壓力。這個閉合圈套的作用像單向棘輪，所以直線拉扯會把腳固定進更深的 plantar flexion，並加速小腿、腓腸肌與阿基里斯腱受到擠壓。永遠改用環形的髖部內轉搭配膝蓋向胸口的捲曲動作，來瓦解圈套。",
+    "safety_critical": true,
+    "answer_line": "把你的腳往深處推進",
+    "distractors": {
+     "plausible": [
+      "只是浪費你的力氣",
+      "會暴露膝蓋給 kneebar"
+     ],
+     "trap": [
+      "沒事——用力硬拉掙脫"
+     ]
+    }
+   },
+   {
+    "question": "你的對手在完結過程中調整他們的髖部位置——你如何趁機反攻？",
+    "answer": "抓住這個不穩定的瞬間，在他們重新建立髖部伸展之前坐起並向前驅動，以瓦解他們的架構。把你抽腳的嘗試時機對準這個調整的空檔，因為 figure-four 在重新定位時往往會鬆動。利用他們短暫的不穩定，做出髖部內轉並把膝蓋拉向胸口。這通常是你成功逃脫的最佳時機。",
+    "safety_critical": false,
+    "answer_line": "坐起、向前驅動、抽腳",
+    "distractors": {
+     "plausible": [
+      "等更大的機會出現",
+      "被動配合他們的髖部動作"
+     ],
+     "trap": [
+      "把被困的腿直直往後拉"
+     ]
+    }
+   },
+   {
+    "question": "在長時間防禦 Aoki Lock 完結技時，你應該如何管理體力？",
+    "answer": "避免用持續的最大張力去對抗擠壓，因為那會在幾秒內就讓你在對抗腿部夾緊時耗盡體力。專注於有效率的動作模式，把你的逃脫嘗試時機對準攻擊者調整或壓力改變的瞬間，而不是持續對抗。維持 dorsiflexion 以拖延這個 lock，接受一定程度的壓迫無可避免，並把體力保留給圈套鬆動的特定時刻，用來做爆發式的抽腳嘗試。",
+    "safety_critical": false,
+    "answer_line": "把逃脫時機對準對方調整",
+    "distractors": {
+     "plausible": [
+      "等他們鎖緊後才逃",
+      "只維持 dorsiflexion，其他不做"
+     ],
+     "trap": [
+      "全力猛掙扎到力竭"
+     ]
+    }
+   }
+  ]
+ }
+}

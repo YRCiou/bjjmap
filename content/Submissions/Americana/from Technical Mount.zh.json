@@ -1,0 +1,257 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Americana/from Technical Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Technical Mount 主要攻擊哪個解剖構造，靠什麼樣的力量產生拍降？",
+    "answer": "Americana 主要透過強迫肩盂肱關節（肩膀）外旋並外展，超過關節自然的活動範圍。figure-four 鎖法建立起一個槓桿系統，扭轉旋轉肌袖複合體——特別是棘上肌、棘下肌和小圓肌，而被固定的手腕則作為固定支點。次要壓力會影響肩關節囊與 AC 關節。拍降的原因是這些構造承受漸進的旋轉壓力，而不是壓迫或勒頸的力量。",
+    "safety_critical": true,
+    "answer_line": "肩關節，旋轉扭力",
+    "distractors": {
+     "plausible": [
+      "肘關節，過伸",
+      "腕關節，壓迫力量"
+     ],
+     "trap": [
+      "頸部扭傷，脊椎扭力"
+     ]
+    }
+   },
+   {
+    "question": "在施展 Americana 的過程中，有哪些身體指標告訴你肩關節正接近其臨界點？",
+    "answer": "隨著旋轉接近活動極限，對手的身體會明顯變得僵硬。他們的遠側肩膀會離開地面，因為身體試圖跟著旋轉來減輕壓力。你會感覺到 figure-four 中的阻力隨著關節到達結構極限而增加。對手可能會發出痛苦的聲音、扭曲表情，或呼吸變得急促淺短。任何這些訊號都代表你正接近臨界點，必須謹慎控制速度，給予充分時間讓對方在受傷前拍降。",
+    "safety_critical": true,
+    "answer_line": "身體變僵硬，遠側肩膀離地",
+    "distractors": {
+     "plausible": [
+      "呼吸變慢、變深",
+      "他們抓袖子的力道變鬆"
+     ],
+     "trap": [
+      "等到聲響確認才停"
+     ]
+    }
+   },
+   {
+    "question": "在從 Technical Mount 嘗試 figure-four 鎖法前，必須先建立什麼控制？",
+    "answer": "手腕必須牢牢固定在地面上，手臂彎曲約 90 度。胸口壓力和髖部壓力必須輔助固定手腕——單靠手部力量對付會抵抗的對手是不夠的。Technical Mount 的底盤必須穩固，撐地的那條腿要積極提供平衡。對手的遠側手臂應被壓制或無法介入。在這些條件都未滿足前就嘗試 figure-four，會導致抓握失敗並浪費體力，同時提醒對手注意到這個威脅。",
+    "safety_critical": false,
+    "answer_line": "手腕以體重固定壓平",
+    "distractors": {
+     "plausible": [
+      "先設好 cross-face 握法",
+      "先做遠側腋下的 underhook"
+     ],
+     "trap": [
+      "雙手一起去撬手腕"
+     ]
+    }
+   },
+   {
+    "question": "在 Technical Mount 執行 Americana 的過程中，到什麼程度後對被動方而言這個 submission 就實質上無法逃脫？",
+    "answer": "一旦 figure-four 完全收緊、雙肘擠向身體中線，且刷漆旋轉已把肘部帶過大約 45 度朝向頭部方向，機械上的優勢就會壓過大多數的防禦力量。被固定的手腕、鎖緊的 figure-four 加上髖部重量，形成一個被動方無法用肌肉力量克服的槓桿系統。在這之前，被動方或許還能掙脫手腕固定、和握法搏鬥，或做 bridge 創造空間。到這之後，唯一的選項就是拍降。",
+    "safety_critical": false,
+    "answer_line": "肘過 45 度，figure-four 鎖緊",
+    "distractors": {
+     "plausible": [
+      "手腕剛被固定時",
+      "Technical Mount 一落地時"
+     ],
+     "trap": [
+      "要到肩膀撕裂才算"
+     ]
+    }
+   },
+   {
+    "question": "在 Technical Mount 施展 Americana 時，最常見讓對手逃脫的終結錯誤是什麼？",
+    "answer": "把髖部抬離對手肩膀去產生旋轉力。當攻擊者抬起身體，就會失去讓手腕固定在地面、肩膀被制住所需要的重力壓力。這立刻創造出空間，讓對手能 bridge、把肩膀從地面轉開，或把手臂收回。正確做法是全程讓髖部沉重壓在對手肩膀上，並在 figure-four 結構內用前臂槓桿和肘部力學來產生所有旋轉力。",
+    "safety_critical": false,
+    "answer_line": "把髖部抬離肩膀",
+    "distractors": {
+     "plausible": [
+      "把肘部夾得太緊",
+      "旋轉手臂太慢"
+     ],
+     "trap": [
+      "坐起身去抓頭部"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 Americana 施展過程中開始旋轉手腕製造空間，你該如何調整握法？",
+    "answer": "用抓握的手跟著手腕旋轉，保持拇指圍繞腕骨的位置。不要直接對抗旋轉——而是把 figure-four 收緊，透過擠壓肘部消除他們旋轉創造出的空隙。如果他們讓手掌朝上（旋後），調整你的腕部握法以維持對前臂旋轉的控制。同時增加對他們肩膀的髖部壓力，減少可供手腕操作的空間。收緊的 figure-four 能補償輕微的手腕調整。",
+    "safety_critical": false,
+    "answer_line": "跟著手腕，收緊 figure-4",
+    "distractors": {
+     "plausible": [
+      "每次都重新從頭抓握",
+      "強行加快旋轉速度"
+     ],
+     "trap": [
+      "抬起髖部求更大扭力"
+     ]
+    }
+   },
+   {
+    "question": "對手開始伸直手臂以阻止 Americana 的 figure-four 鎖法——你該如何反應？",
+    "answer": "立即轉打 armbar。伸直的手臂正是從 Technical Mount 施展 armbar 所需要的配置。保持腕部控制，開始 armbar 的跨腿動作，利用撐地那條腿發動轉換。這是 Technical Mount 進攻的核心兩難：手臂彎曲會招來 Americana，伸直則會招來 armbar。能夠根據對手的防禦反應在這兩個 submission 之間無縫切換，正是 Technical Mount 成為高成功率終結位置的原因。",
+    "safety_critical": false,
+    "answer_line": "直接轉換成 armbar",
+    "distractors": {
+     "plausible": [
+      "更用力鎖緊 figure-four",
+      "等對手體力耗盡"
+     ],
+     "trap": [
+      "放開撐地腿去追手臂"
+     ]
+    }
+   },
+   {
+    "question": "當對手防禦時抓住自己的腰帶、褲子或道服下擺以固定手腕，你該如何調整 Americana 的終結手法？",
+    "answer": "用膝蓋或小腿楔入他們抓握的手和固定點之間，施壓破壞這個防禦性抓握。如果這個抓握機械上太強難以破壞，改用高肘變化：在旋轉前先把他們的肘部重新定位到更靠近頭頂的位置——這會改變攻擊角度，往往能繞過防禦性錨點。或者，開始伸直他們的手臂威脅 armbar，迫使他們放開錨點抓握去防禦新的威脅。",
+    "safety_critical": false,
+    "answer_line": "用膝蓋楔入破壞抓握",
+    "distractors": {
+     "plausible": [
+      "更用力拉扯固定的手腕",
+      "換攻另一側手臂"
+     ],
+     "trap": [
+      "坐起身用雙手去撬"
+     ]
+    }
+   },
+   {
+    "question": "Americana from Technical Mount 正確的施力速度是多少，為什麼速度控制對安全這麼關鍵？",
+    "answer": "從 figure-four 建立到終結，Americana 應以緩慢穩定的旋轉壓力施展，至少花 3 到 5 秒。速度控制之所以關鍵，是因為肩關節對突然的旋轉力容忍度非常有限——旋轉肌袖肌腱和肩關節囊可能在對手來得及意識到 submission 並拍降之前就已撕裂。猛拉或突然施加 Americana 可能造成需要手術修復及數月復原的嚴重肩傷。有控制的施展方式，既是最安全，也是技術上最有效的做法。",
+    "safety_critical": true,
+    "answer_line": "3-5 秒緩慢穩定旋轉",
+    "distractors": {
+     "plausible": [
+      "靜止不動等待拍降",
+      "只在對方防禦後才加速"
+     ],
+     "trap": [
+      "快速扭動搶在防禦前完成"
+     ]
+    }
+   },
+   {
+    "question": "撐地那條腿的位置如何影響刷漆旋轉的終結扭力？如果旋轉卡住，你該如何調整？",
+    "answer": "撐地的那條腿穩固你的底盤，讓你能把髖部重量壓向被困的肩膀，同時不失去位置。如果旋轉中途卡住，先檢查你的髖部是否偏離了對手——重新把體重坐正在他們的肩膀上方。接著用撐地的腿把髖部稍微向前、向對手推進，增加對 figure-four 的下壓與旋轉力。你也可以微調，先把對手的肘部往頭頂方向再推高一點，再繼續弧線動作，改變旋轉角度以繞過對方肩膀柔軟度所吸收壓力的卡點。",
+    "safety_critical": false,
+    "answer_line": "以撐地腿推動髖部前進",
+    "distractors": {
+     "plausible": [
+      "抬起髖部求更大槓桿",
+      "更用力拉扯 figure-four"
+     ],
+     "trap": [
+      "放開撐地腿，向前傾身"
+     ]
+    }
+   },
+   {
+    "question": "比賽中剩餘時間有限，你已從 Technical Mount 建立好 figure-four——你該如何提高終結成功率？",
+    "answer": "全力投入終結，而不是在 Americana 和維持位置之間猶豫。增加對肩膀的髖部壓力，消除對方任何剩餘的 bridge 能力，確保對手無法在你終結時創造空間。稍微加快旋轉弧線的速度，但仍要保持控制——比賽節奏比 drilling 快，但絕不能變成猛擊。如果對手固定住手腕，立即改用高肘變化，而不是硬碰硬對抗那個錨點，因為時間壓力要求你繞過防禦而不是硬打。保持撐地腿積極運作，防止任何最後一刻的混戰破壞終結。",
+    "safety_critical": false,
+    "answer_line": "全力投入，加強髖部壓力",
+    "distractors": {
+     "plausible": [
+      "拖延時間守住上位",
+      "改找 choke 機會"
+     ],
+     "trap": [
+      "爆發性猛拉求快速拍降"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你感覺攻擊者在 Technical Mount 抓住你的手腕時，最重要的防禦動作是什麼？",
+    "answer": "立即對抗手腕固定，把肘部拉緊貼向肋骨，並把手腕向內轉向自己身體。不要等到看他們是否建立好 figure-four——手腕每被固定多一瞬間，逃脫就越難。同時開始朝撐地腿那側做 bridge，破壞他們的底盤。手腕固定是整個 Americana 的基礎；阻止它就能在最早、最容易防禦的階段擋下這個 submission。",
+    "safety_critical": false,
+    "answer_line": "拉緊肘部，內轉手腕",
+    "distractors": {
+     "plausible": [
+      "等看 figure-4 是否成形",
+      "推對方髖部向後"
+     ],
+     "trap": [
+      "立刻伸直手臂"
+     ]
+    }
+   },
+   {
+    "question": "在防禦 Technical Mount 的 Americana 時，為什麼伸直手臂很危險？",
+    "answer": "伸直手臂想掙脫手腕固定，會立即創造出從 Technical Mount 施展 armbar 的機會。攻擊者已經具備施展 armbar 跨腿所需的理想腿部位置，而伸直的手臂正是他們終結所需的確切配置。這個二選一的威脅正是 Technical Mount 進攻的核心。正確的防禦是保持手臂彎曲，透過肘部收回和身體移動來對抗手腕固定，除非能立即在 armbar 啟動前把手臂收回，否則絕不伸直手臂。",
+    "safety_critical": true,
+    "answer_line": "伸直手臂＝立刻遭 armbar",
+    "distractors": {
+     "plausible": [
+      "會招來 kimura 肩鎖",
+      "讓攻擊者取得完整 mount"
+     ],
+     "trap": [
+      "翻滾遠離以鬆脫手臂"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該拍降 Technical Mount 的 Americana 以避免受傷？",
+    "answer": "當你感覺到無法透過防禦動作阻止的漸進旋轉壓力壓在肩膀上時，就要拍降。不要等到感覺到劇痛——肩關節在旋轉負荷下，會很快從不適轉為結構性損傷。如果 figure-four 已鎖緊，且攻擊者已開始刷漆旋轉，誠實評估你是否還能逃脫。如果旋轉已過中點朝向你的耳朵，而你的 bridge 嘗試都失敗了，立即拍降。太晚拍降造成的肩傷可能需要手術修復和數個月的復健。",
+    "safety_critical": true,
+    "answer_line": "壓力無法阻止時就拍",
+    "distractors": {
+     "plausible": [
+      "兩次逃脫失敗之後",
+      "只在握力用盡之後"
+     ],
+     "trap": [
+      "撐住硬扛過去"
+     ]
+    }
+   },
+   {
+    "question": "在防禦 Technical Mount 的 Americana 時，嘗試 bridge 逃脫的最佳時機是什麼時候？",
+    "answer": "最佳時機是在攻擊者轉換抓握的時候——特別是他們穿插 underhook 建立 figure-four，或調整髖部位置開始終結旋轉的時候。這些時刻需要攻擊者把重心和注意力轉移到雙手上，創造出底盤暫時被破壞的短暫窗口。在這些轉換時機朝撐地腿方向做爆發性 bridge。避免在攻擊者已經穩定、髖部壓力完全到位時做 bridge，因為這樣只是在浪費體力對抗他們最強的底盤配置。",
+    "safety_critical": false,
+    "answer_line": "在攻擊者轉換握法時",
+    "distractors": {
+     "plausible": [
+      "在對方重心完全落定後",
+      "在他們調整完握法之後"
+     ],
+     "trap": [
+      "等 figure-four 鎖緊再做"
+     ]
+    }
+   },
+   {
+    "question": "成功防住 Technical Mount 的 Americana 之後，你該如何恢復 guard？",
+    "answer": "透過 bridge 或格擋成功破壞這個 submission 後，立即朝撐地腿那側 shrimp 你的髖部，並把你近側的膝蓋插入你和攻擊者之間，作為 knee shield。持續 shrimp 創造角度，接著用雙腿一起纏住攻擊者的內側腿，努力恢復 half guard。在恢復 guard 的整個過程中維持 frame，防止他們立刻重新建立 Technical Mount。任何 guard 的恢復——即使只是 quarter guard——都能解除立即的 submission 威脅，並把局勢導向更容易防守的位置。",
+    "safety_critical": false,
+    "answer_line": "shrimp 髖部，插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "臥推推開對方胸口",
+      "朝撐地腿反方向 hip escape"
+     ],
+     "trap": [
+      "轉為趴姿逃跑"
+     ]
+    }
+   }
+  ]
+ }
+}

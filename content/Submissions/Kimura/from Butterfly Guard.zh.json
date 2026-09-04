@@ -1,0 +1,143 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Butterfly Guard 進行的 Kimura 主要攻擊哪些解剖構造？",
+    "answer": "Kimura 主要透過強制內旋超出自然活動範圍來攻擊肩關節。有風險的具體構造包括旋轉肌袖（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊及其韌帶，以及盂唇。次要的壓力則會落在肱二頭肌肌腱與肩部相接的地方。",
+    "answer_line": "肩部：旋轉肌袖與關節囊",
+    "distractors": {
+     "plausible": ["手肘關節過伸", "腕骨與肌腱"],
+     "trap": ["如果肩膀卡住就加大力道扳"]
+    }
+   },
+   {
+    "question": "對手用手撐地來防守 butterfly sweep，你要如何轉換成 Kimura？",
+    "answer": "立刻用同側的手以 C-grip 抓住他撐地的手腕，往你的髖部方向拉，防止他抽回。把另一隻手穿過他的前臂上方，抓住自己的手腕，建立 figure-four。整個轉換過程中要維持雙腳的 hooks，這樣對手就無法把 posture 拉開。撐地的手之所以脆弱，是因為對手已經把體重壓在上面來做 base，很難快速抽回。",
+    "answer_line": "C-grip 抓手腕，上 figure-four，扣緊 hooks",
+    "distractors": {
+     "plausible": ["先 underhook 手臂再抓手腕", "把胸口正對對手的胸口"],
+     "trap": ["整個躺平到背部去完成"]
+    }
+   },
+   {
+    "question": "在施展 Kimura 時，什麼跡象代表已經到達肩部的斷裂臨界點？",
+    "answer": "當對手的手腕被旋轉到背後、越過脊椎的平面，而你感覺到肩關節已經到達內旋的活動終點時，就已經接近斷裂臨界點了。跡象包括對手身體僵硬、發出不自主的不適聲音、肩部肌肉明顯緊繃，以及手臂遇到硬性阻力、進一步旋轉會碰到骨對骨的抵抗。訓練時，你必須在遠遠到達這個點之前就停下來，並漸進地施加壓力。",
+    "answer_line": "手腕過脊椎，達活動終點",
+    "distractors": {
+     "plausible": ["手臂完全伸直", "對手的髖部離開地面"],
+     "trap": ["遇到第一次阻力就繼續推"]
+    }
+   },
+   {
+    "question": "在從 Butterfly Guard 嘗試完成 Kimura 之前，你必須先建立哪些控制？",
+    "answer": "在完成之前，你必須具備：對目標手臂穩固的手腕控制、鎖死的 figure-four 握法（你的前臂壓在他前臂的背側）、至少一隻仍在作用的 hook 防止對手拉開距離，以及讓身體角度轉成胸口正對被夾住的肩膀。如果缺少這四個要素中的任何一個，完成動作在力學上就會薄弱，對手很可能逃脫或反擊。",
+    "answer_line": "figure-four 加上 hook 與角度",
+    "distractors": {
+     "plausible": ["光抓手腕就夠了", "把胸口正對對手的胸口"],
+     "trap": ["整個躺平硬扳手臂"]
+    }
+   },
+   {
+    "question": "對手抓住自己的短褲來防守 Kimura 的旋轉，你該做什麼調整？",
+    "answer": "用你的 butterfly hooks 把他的髖部往上頂，改變他手臂相對於身體的角度，藉此破壞他的抓握連結。同時把手指楔入他的防守握法下方，一邊維持 figure-four 一邊把握法剝開。如果握力真的很強，就把髖部挪動來改變角度，讓旋轉壓力的方向改變，使防守握法變得比較沒有效果。",
+    "answer_line": "頂髖、剝握法、換角度",
+    "distractors": {
+     "plausible": ["更用力拉 figure-four", "立刻轉換成 armbar"],
+     "trap": ["放開 figure-four 重新抓握"]
+    }
+   },
+   {
+    "question": "訓練時要如何控制施展 Kimura 的速度以避免受傷？",
+    "answer": "施加旋轉壓力時要緩慢漸進，至少維持三到五秒，讓夥伴有足夠時間察覺危險並 tap。絕不能猛然施力、瞬間衝擊，或突然加快旋轉速度。持續保持溝通，留意各種 tap 訊號，包括口頭 tap、手拍、腳拍，以及任何顯示不適的聲音。只要出現任何 tap 訊號，立刻放開，並在放開握法前先把手臂帶回中立位置。",
+    "answer_line": "緩慢施壓，維持三到五秒",
+    "distractors": {
+     "plausible": ["配合夥伴的抵抗力道", "先快速上鎖再放緩"],
+     "trap": ["一鎖上就用力扭"]
+    }
+   },
+   {
+    "question": "在完成 Kimura 的過程中，最常需要做哪些握法調整？",
+    "answer": "最常見的調整包括：當出現鬆動時，夾緊手肘來收緊 figure-four；如果握法在對方抵抗時滑向前臂，就把握點重新移高到手腕；以及當對手創造出空間時，把他的手肘重新釘回你的肋骨上。如果對手轉動手掌，應該維持對手腕的壓力，而不是去追手的位置。",
+    "answer_line": "夾緊手肘、重新釘肘、控住手腕",
+    "distractors": {
+     "plausible": ["手掌轉動就去追手的位置", "放鬆握法以重新移高"],
+     "trap": ["讓手臂伸直以便重新抓握"]
+    }
+   },
+   {
+    "question": "夥伴對 Kimura 拍降之後，正確的放開流程是什麼？",
+    "answer": "一偵測到 tap，立刻停止所有旋轉壓力。把手臂朝中立休息位置外旋回起始角度。完全放開 figure-four 握法，讓夥伴的手臂可以自由活動。在繼續訓練前，給夥伴時間自我評估肩部的活動度與舒適度。絕對不要突然放手或讓手臂用力彈回，因為即使關節技的壓力已經停止，這樣做仍可能造成傷害。",
+    "answer_line": "停止、緩慢回正、放開握法",
+    "distractors": {
+     "plausible": ["放手後立刻滾回原位", "放緩力道但維持 figure-four"],
+     "trap": ["再多扳一下下"]
+    }
+   },
+   {
+    "question": "在完成動作的力學上，從 Butterfly Guard 施展的 Kimura 跟從 Closed Guard 施展的 Kimura 有什麼不同？",
+    "answer": "Butterfly Guard 版本的 Kimura 利用 hook 上頂來破壞對手的 base 並創造旋轉空間，而 Closed Guard 版本則依靠 hip escape 和雙腿控制來改變角度。butterfly guard 坐直的姿勢能讓你更快取得握法，但對對手髖部的下半身控制較少。butterfly 版本需要全程維持 hooks，而 closed guard 版本則可以打開 guard，在完成動作時用雙腿取得額外的槓桿。",
+    "answer_line": "hook 上頂 vs 髖部轉角",
+    "distractors": {
+     "plausible": ["closed guard 版本需要 hooks", "butterfly 版本不需要握法控制"],
+     "trap": ["跳過 hooks 直接硬扳手臂"]
+    }
+   },
+   {
+    "question": "比賽中，你握著 Kimura 的握法，對手開始猛力 posture up，什麼做法能阻止他逃脫？",
+    "answer": "把你的 hooks 往上頂進他的大腿內側，抬高他的髖部，在他完全伸展之前就破壞他的 posture。同時把被夾住的手臂拉向你的髖部，防止他拉開伸直手臂所需的距離。如果他繼續 posture up，就利用他向前的重心把他翻過去，進入 Kimura Trap 位置，讓你在握法完整的情況下轉到上位，把他的逃脫嘗試轉換成更具優勢的完成姿勢，順勢拿到反轉。",
+    "answer_line": "hooks 頂髖，把手臂拉近",
+    "distractors": {
+     "plausible": ["放開握法重整 base", "改成把對手的頭往下拉"],
+     "trap": ["讓他 posture up 好設置 sweep"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在設置從 Butterfly Guard 發動的 Kimura？",
+    "answer": "關鍵的辨識線索包括：在你撐手或伸出手臂之後，對手用 C-grip 伸手抓你的手腕；對手把身體角度轉成面對你的肩膀，而不是正對你的胸口；以及 hook 的壓力突然增加，同時搭配上半身的拉扯。最常見的觸發點是你為了防守 sweep 而把手撐在地上做 base，這樣會讓手腕暴露出來被抓。",
+    "answer_line": "你一撐手就被抓手腕",
+    "distractors": {
+     "plausible": ["突然嘗試 guard pass", "對手正對你的胸口"],
+     "trap": ["認為抓手腕沒有威脅而忽略"]
+    }
+   },
+   {
+    "question": "被 Kimura from Butterfly Guard 鎖住時，最安全的拍降方式是什麼？",
+    "answer": "當你感覺旋轉壓力接近肩膀能舒適承受的活動範圍時，就要立刻 tap。用你空出的手在攻擊者身上、自己的腿上，或地板上連續拍打幾下。如果空出的手被壓住，就大聲喊「tap」，或用任一隻腳拍地。不要等到感覺疼痛才反應，因為肩部關節技可能在明顯疼痛出現之前就已經造成結構性損傷。任何顯示不適的訊號都應該當作 tap 來對待。",
+    "answer_line": "提早 tap：手、腳或口頭",
+    "distractors": {
+     "plausible": ["請夥伴放慢上鎖速度", "只有拍到地板才算數"],
+     "trap": ["硬掙脫並等到痛了再說"]
+    }
+   },
+   {
+    "question": "在 Kimura from Butterfly Guard 的不同階段，你有哪些防守選項？",
+    "answer": "在被抓手腕的階段，要在對方建立 figure-four 之前立刻把手臂抽回。一旦 figure-four 已經鎖上，就抓住自己的短褲、腰帶，或另一隻手，阻擋旋轉，為破握爭取時間。如果已經完全被鎖住、旋轉開始發生，就往 Kimura 那一側繞過去以減輕壓力，同時處理握法。往前推進去 pass 只有在攻擊者失去坐直的 posture 和 hook 控制時才可行。",
+    "answer_line": "提早抽手、阻擋、繞開",
+    "distractors": {
+     "plausible": ["等旋轉變慢", "bridge 後用臥推方式頂手臂"],
+     "trap": ["在對方 hooks 還在時硬要 pass"]
+    }
+   },
+   {
+    "question": "一旦從 Butterfly Guard 發動的 Kimura figure-four 已經鎖上，為什麼預防會比事後逃脫更有效？",
+    "answer": "一旦 figure-four 已經鎖上、butterfly hooks 又在作用，攻擊者就能同時控制你的手臂旋轉和你的 base。hooks 讓你無法把 posture 拉開或創造距離，而 figure-four 則提供力學優勢，讓這個握法光靠力量非常難破解。在手腕控制階段做預防，只需要抽回一隻手臂；但要從已經鎖死的握法逃脫，卻要一邊處理 hook 的壓力、一邊維持自己的 base，同時破解一個被加強過的二打一握法。",
+    "answer_line": "鎖死握法加 hooks 雙重控制",
+    "distractors": {
+     "plausible": ["butterfly hooks 很容易清除", "晚了抽手臂依然有效"],
+     "trap": ["用蠻力把手臂掙脫"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Butterfly Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Outside Heel Hook/from Saddle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Outside Heel Hook 主要攻擊哪些解剖構造？這和 Inside Heel Hook 有什麼不同？",
+    "answer": "Outside Heel Hook 主要鎖定外側副韌帶（LCL）、外側半月板，並從外側向量對 ACL 施加壓力。Inside Heel Hook 則是透過內側旋轉鎖定內側副韌帶（MCL）與內側半月板。兩者都可能傷害 ACL，但透過不同的力學路徑。Outside 型是透過把腳跟往外側旋轉來攻擊，對膝蓋外側結構造成壓力，而不是 Inside Heel Hook 鎖定的內側結構。",
+    "answer_line": "LCL 加外側半月板（外側）",
+    "distractors": {
+     "plausible": [
+      "MCL 加內側半月板（內側）",
+      "髕腱與 PCL 壓力"
+     ],
+     "trap": [
+      "只有踝關節——不用急著 tap"
+     ]
+    }
+   },
+   {
+    "question": "對手把膝蓋往內轉，藏住腳跟以躲避你的 Inside Heel Hook——你要如何轉換成 Outside Heel Hook？",
+    "answer": "維持髖部壓力與腿部結構的穩定，同時把你下方的手轉移到腳跟外側去 cup 住它，手腕貼在腳跟後方，手指往外環繞。接著把上方的手臂穿過阿基里斯腱下方，建立一個能產生外側旋轉扭力的角度的 figure-four。關鍵在於，對手為了封閉內側通路而做的防禦性膝蓋旋轉，同時也會打開腳跟外側，讓你發動外側攻擊。轉換過程中不要放鬆髖部壓力。",
+    "answer_line": "往外 cup 腳跟，維持髖部壓力",
+    "distractors": {
+     "plausible": [
+      "在固定腿部之前先換 grip",
+      "先用上方的手抓腳跟"
+     ],
+     "trap": [
+      "放鬆髖部壓力來轉換"
+     ]
+    }
+   },
+   {
+    "question": "在終結姿勢中，什麼樣的 grip 配置能區分 Outside Heel Hook 與 Inside Heel Hook？",
+    "answer": "Outside Heel Hook 使用一個角度調整過的 figure-four grip，讓腳跟產生外側（往外）旋轉，手腕骨貼在腳跟的後外側，手指往腳掌外側環繞。Inside Heel Hook 的 figure-four 則調整成產生內側（往內）旋轉，grip 方向是把腳跟拉向攻擊者的中線。手臂穿過阿基里斯腱下方，在兩種變化型中都扮演相同的結構功能，只是旋轉角度不同。",
+    "answer_line": "手腕驅動外側旋轉",
+    "distractors": {
+     "plausible": [
+      "手腕驅動內側旋轉",
+      "手指往中線方向環繞"
+     ],
+     "trap": [
+      "放鬆 figure-four 來重新調整角度"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖死 Outside Heel Hook 的 grip，但對手開始朝著你旋轉的方向轉動身體來緩解膝蓋壓力——你該如何調整？",
+    "answer": "跟著旋轉方向轉動你自己的身體，同時維持髖部壓力。如果對手轉動的幅度夠大，這個動作其實會重新暴露出腳跟內側，讓你能切換回 Inside Heel Hook 方向。利用對手的旋轉動能來加速你 grip 轉換到內側攻擊的速度。這種根據對手防禦性旋轉在內外側之間切換的做法，正是 saddle 位置對heel hook攻擊如此具有壓制力的核心兩難。",
+    "answer_line": "跟著旋轉，切換到內側",
+    "distractors": {
+     "plausible": [
+      "坐高一點爭取更多槓桿",
+      "把膝蓋伸直來拉伸"
+     ],
+     "trap": [
+      "放開腿去追那個滾動"
+     ]
+    }
+   },
+   {
+    "question": "在 Outside Heel Hook 中，到什麼程度防守方就再也無法安全逃脫？",
+    "answer": "一旦 figure-four 鎖死、髖部伸展已經建立，且旋轉力量已經開始加載在膝蓋外側結構上，防守方的逃脫窗口實質上已經關閉。到了這個階段，機械優勢太大，爭 grip 或調整位置都已經無法克服。防守方應該在感覺到旋轉開始加載的那一刻立刻 tap，因為腳跟鎖造成的膝蓋韌帶損傷，往往在明顯痛感出現之前就已經發生，這讓延遲 tap 極度危險。",
+    "answer_line": "figure-four 一鎖死、髖部一伸展",
+    "distractors": {
+     "plausible": [
+      "痛感變得明顯的時候",
+      "一進入 saddle 就是"
+     ],
+     "trap": [
+      "只有聽到「啪」的一聲才算"
+     ]
+    }
+   },
+   {
+    "question": "訓練中施展 Outside Heel Hook 時，有哪些關鍵的安全考量？",
+    "answer": "旋轉力量至少要花 5 到 7 秒漸進施加，絕不能用突然或爆發性的旋轉。每增加一點壓力就先暫停，觀察訓練夥伴的反應。一有任何 tap 訊號、痛苦的聲音或慌亂的動作就立刻放開。訓練中絕不能用比賽速度練習。只跟了解 leg lock 機制、能清楚溝通的有經驗夥伴一起訓練。要認知到膝蓋韌帶損傷會在防守方感覺到明顯疼痛之前就發生，這讓可控的施力方式至關重要。",
+    "answer_line": "5 到 7 秒漸進施壓",
+    "distractors": {
+     "plausible": [
+      "只等口頭 tap",
+      "請夥伴痛的時候自己說一聲"
+     ],
+     "trap": [
+      "爆發性旋轉後再放開"
+     ]
+    }
+   },
+   {
+    "question": "對手一 tap，你應該如何立刻放開 Outside Heel Hook？",
+    "answer": "首先停止對腳跟施加的所有旋轉壓力——這是最關鍵、也最需要立即執行的動作。接著放開 figure-four grip 的連結。然後撤除髖部伸展的壓力，讓腿自然彎曲。絕對不要在放開其他控制的同時還維持任何旋轉力，因為這可能在轉換過程中造成傷害。讓對手按照自己的節奏把腿伸直，並在恢復訓練前先確認對方的狀況。",
+    "answer_line": "先停止旋轉",
+    "distractors": {
+     "plausible": [
+      "先放開 figure-four grip",
+      "先讓腿伸直"
+     ],
+     "trap": [
+      "扭力維持到腿完全自由為止"
+     ]
+    }
+   },
+   {
+    "question": "在你建立 figure-four 之前，對手雙手全力剝除你的 heel cup——你該如何回應？",
+    "answer": "用你空出來的手去爭取 heel cup 的 grip，同時意識到對手雙手投入爭 grip，已經讓他失去用空閒那條腿撐地的能力。收緊你的腿部結構，趁對手基底被破壞時獲利。如果對手成功剝掉你的 heel cup，立刻重新投入髖部壓力，回到位置控制，而不是拚命去追那個 grip。等你重新建立結構性控制之後，可以從更有利的角度重新嘗試抓 heel cup。",
+    "answer_line": "收緊雙腿，利用對手基底破壞",
+    "distractors": {
+     "plausible": [
+      "用雙手打贏這場 grip 爭奪戰",
+      "立刻硬上 figure-four"
+     ],
+     "trap": [
+      "把腿踢開站起來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要透過軀幹產生旋轉力量，而不是單獨靠手腕動作？",
+    "answer": "透過軀幹產生的旋轉，把你的整個上半身當作一個協調的槓桿系統，能產生比單靠手腕動作大得多的旋轉力量，同時減少對你自己較小關節的負擔。單靠手腕旋轉，對攻擊者自己的手腕有受傷風險，而且對一個持續抵抗的對手膝關節也產生不了足夠的扭力。figure-four grip 應該把力量從你的核心與肩膀旋轉，透過連結的手臂結構傳導到對手的腳跟，而不是在接觸點才產生力量。",
+    "answer_line": "扭力更大，手腕負擔更小",
+    "distractors": {
+     "plausible": [
+      "手腕猛扯終結更快",
+      "只靠手臂力量就夠了"
+     ],
+     "trap": [
+      "用力扭手腕強迫對方 tap"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，面對 leg lock 防守很強的對手，你要如何調整 Outside Heel Hook 的進攻方式？",
+    "answer": "面對有經驗的 leg lock 防守者，優先在 saddle 中建立無懈可擊的位置控制，先不要透露任何 submission 的意圖。建立完整的控制階層——垂直對正、髖部壓力、內側位置、控制對手空閒的腿——讓對手耗盡他們的防守能量。利用 Inside/Outside Heel Hook 的兩難來逼迫對手做出防守決定，再利用他們投入防守某一個方向所必然產生的破綻。面對技術好的防守者，耐心的位置壓制比積極追獵 submission 能產生更高的終結率。",
+    "answer_line": "先建立控制，再狩獵 submission",
+    "distractors": {
+     "plausible": [
+      "改用straight ankle lock",
+      "反覆嘗試同一個進入點"
+     ],
+     "trap": [
+      "坐起來放棄 saddle"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識攻擊者正從 Inside Heel Hook 轉換成 Outside Heel Hook？",
+    "answer": "留意攻擊者下方的手是否正轉移到腳跟外側去 cup 住它，手指朝你腳掌外側環繞，以及他的前臂角度是否正在改變、從設置內側旋轉轉為外側旋轉。你也會感覺到他的手臂穿過你阿基里斯腱下方的角度，和標準的 Inside Heel Hook figure-four 不一樣。及早辨識這個 grip 轉換非常關鍵，因為兩種heel hook方向的防守反應是不同的。",
+    "answer_line": "手轉移到腳跟外側去 cup",
+    "distractors": {
+     "plausible": [
+      "手轉移去抓腳趾",
+      "對手的髖部滑向你的頭部"
+     ],
+     "trap": [
+      "放鬆腿部等它過去"
+     ]
+    }
+   },
+   {
+    "question": "被完全鎖死的 Outside Heel Hook 困住時，最安全的 tap 方式是什麼？",
+    "answer": "同時用口頭與肢體 tap——清楚喊出「tap」，同時用手拍打攻擊者的身體、地墊，或你自己的身體。如果雙手都被困住，就用空閒的腳拍，或用清楚的口頭訊號。在感覺到旋轉力量開始加載到膝關節的那一刻就要 tap。不要等到感覺到疼痛，因為腳跟鎖造成的膝蓋韌帶損傷，會在明顯痛感出現之前就發生。任何一絲猶豫都有永久受傷的風險。",
+    "answer_line": "提早 tap，口頭加肢體同時進行",
+    "distractors": {
+     "plausible": [
+      "用力拍地墊，不用喊出聲",
+      "先喊出聲，之後再補拍手"
+     ],
+     "trap": [
+      "等感覺到痛才發出訊號"
+     ]
+    }
+   },
+   {
+    "question": "在 saddle 中面對 Outside Heel Hook，不同攻擊階段各有哪些防守選項？",
+    "answer": "在 grip 建立之前：把膝蓋往外轉來藏住外側腳跟，並對抗攻擊者手的定位。在 grip 轉換期間：用 two-on-one 爭 grip 的方式，在 figure-four 連結之前剝掉 heel cup。在 figure-four 鎖死之後：反向旋轉你的身體以降低旋轉壓力，同時嘗試破 grip。一旦旋轉正在加載膝蓋：立刻 tap，因為到這個階段已經無法安全逃脫。",
+    "answer_line": "及早爭 grip，一旦加載就 tap",
+    "distractors": {
+     "plausible": [
+      "figure-four 鎖死後才剝 cup",
+      "grip 都設好後才藏腳跟"
+     ],
+     "trap": [
+      "完全鎖死後才把腿抽走"
+     ]
+    }
+   },
+   {
+    "question": "在 Outside Heel Hook 中，當攻擊者已經控制住你的腳跟時，為什麼爆發性地把腿抽走很危險？",
+    "answer": "爆發性抽腿會產生動能，疊加到攻擊者 grip 已經施加在你膝蓋上的旋轉力量之上。這個拉扯動作不但不會幫你逃脫，反而會加速造成韌帶損傷的那個力學機制。正確的回應是把身體往攻擊者的方向移動，降低伸展與旋轉壓力，接著有條理地處理他的 grip，之後才嘗試任何腿部動作。",
+    "answer_line": "往攻擊者靠近，不要硬拉",
+    "distractors": {
+     "plausible": [
+      "扭腿來打破 grip",
+      "用另一條腿踢開"
+     ],
+     "trap": [
+      "爆發性地把腿扯走"
+     ]
+    }
+   },
+   {
+    "question": "在 saddle 中，防守 Outside Heel Hook 和防守 Inside Heel Hook 有什麼不同？",
+    "answer": "防守 Outside Heel Hook 需要把膝蓋往外轉（而不是像防守內側那樣往內轉），來藏住外側腳跟的暴露。然而這造成一個根本的兩難——保護你不受某一個方向攻擊的防禦性旋轉，會讓你暴露在另一個方向之下。要有效防守這兩種攻擊，需要保持膝蓋彎曲、腳掌繃緊，並用雙手全面保護腳跟區域，而不是完全投入去封鎖某一個特定的旋轉方向。在攻擊者轉換 grip 的期間及早爭 grip，是成功率最高的防守時機。",
+    "answer_line": "把膝蓋往外轉，而非往內",
+    "distractors": {
+     "plausible": [
+      "膝蓋也一起往內轉",
+      "腳尖繃緊來藏住腳跟"
+     ],
+     "trap": [
+      "不管腳跟，只防守膝蓋"
+     ]
+    }
+   }
+  ]
+ }
+}

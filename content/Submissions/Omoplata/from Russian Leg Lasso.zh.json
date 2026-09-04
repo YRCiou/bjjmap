@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Omoplata/from Russian Leg Lasso.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Russian Leg Lasso 進的 omoplata 主要攻擊哪些解剖構造？",
+    "answer": "omoplata 主要攻擊肩關節複合體，特別是旋轉肌袖的肌肉與肌腱、盂肱關節囊，以及 AC（肩鎖）關節。這個 submission 的原理是在攻擊者用雙腿與體重把對手的肩膀固定住的情況下，讓肱骨做超出自然活動範圍的內旋。次要的壓力則會作用在關節唇（stabilise 肩窩的軟骨環）上。",
+    "safety_critical": false,
+    "answer_line": "肩關節與旋轉肌袖",
+    "distractors": {
+     "plausible": [
+      "肘關節過伸",
+      "手腕與前臂骨骼"
+     ],
+     "trap": [
+      "頸部與頸椎"
+     ]
+    }
+   },
+   {
+    "question": "你開始做 hip pivot 時對手開始 posture up，該如何調整才能防止逃脫？",
+    "answer": "立刻更用力拉 collar grip，在完成 pivot 之前把對手的 posture 壓回去。如果他們已經有部分 posture，就把你的髖部再角度轉開拉開距離，並用非 lasso 腿當作 frame 頂住他們的髖部，阻止他們往前壓。如果 posture 恢復得很明顯，考慮放棄 omoplata，改攻 triangle，因為他們立起來的 posture 會讓你的腿有空間跨過他們的脖子而不是背部。",
+    "safety_critical": false,
+    "answer_line": "破 posture，拉緊 collar grip",
+    "distractors": {
+     "plausible": [
+      "加快 hip pivot 的速度",
+      "立刻換成 armbar"
+     ],
+     "trap": [
+      "放開 grip 重置 guard"
+     ]
+    }
+   },
+   {
+    "question": "在對肩膀施加任何 finishing 壓力之前，必須先確保哪些控制點？",
+    "answer": "finish 前必須確認三個控制點：第一，腿必須完全跨過對手背部，你的大腿後側頂住他們的頸肩交界處，膝蓋夾緊把手臂困住。第二，你必須完全坐直，髖部位置直接在他們被困肩膀的後方。第三，必須用雙手抓住腰帶或褲子，或勾住髖部，建立遠端髖部控制，防止前滾逃脫。三者沒有全部到位就嘗試 finish，會讓對手有機可逃或造成位置損失。",
+    "safety_critical": false,
+    "answer_line": "困住手臂、坐直、控制遠端髖部",
+    "distractors": {
+     "plausible": [
+      "只要腿跨過背部就好",
+      "坐起來抓住腰帶就好"
+     ],
+     "trap": [
+      "趁對手還沒防守前快速結束"
+     ]
+    }
+   },
+   {
+    "question": "在 omoplata 的流程中，防守方在哪個時間點之後就已經無法逃脫？",
+    "answer": "一旦攻擊者坐起來、確立了遠端髖部控制，並開始把髖部往防守方頭部方向移動、膝蓋夾緊，防守方就已經過了不能逃脫的臨界點。到這個階段，手臂已經完全被困住，前滾被髖部控制擋住，而肩膀旋轉的角度也讓抽出手臂在力學上不可能。較窄的防守空檔主要出現在更早的階段，也就是 hip pivot 的過程，以及坐起後、確立髖部控制之前的短暫瞬間。",
+    "safety_critical": false,
+    "answer_line": "坐直且確立遠端髖部控制後",
+    "distractors": {
+     "plausible": [
+      "在最初的 hip pivot 期間",
+      "膝蓋一夾緊就是"
+     ],
+     "trap": [
+      "手臂一被困住就是"
+     ]
+    }
+   },
+   {
+    "question": "你已經坐起來並確立髖部控制，但對手開始轉身面向你以卸掉壓力——這通常是哪個 finish 錯誤造成的？",
+    "answer": "很可能是你的髖部離對手肩膀太遠，導致旋轉的槓桿力不足。當你身體與他們肩膀之間的支點距離過遠時，對手就能轉動軀幹面向你，藉此減輕肩膀所承受的內旋力。修正方式是把髖部走到直接位於他們被困肩膀後方，讓你的髖骨壓在他們肩膀後側，形成緊密且無法逃脫的支點來完成 finish。",
+    "safety_critical": false,
+    "answer_line": "髖部離肩膀太遠",
+    "distractors": {
+     "plausible": [
+      "抓腰帶的 grip 太鬆",
+      "膝蓋夾得不夠緊"
+     ],
+     "trap": [
+      "用力硬拗把它逼出來"
+     ]
+    }
+   },
+   {
+    "question": "從 lasso 姿勢轉換到 omoplata finish 的過程中，你的抓握位置與身體姿勢應該如何改變？",
+    "answer": "在 lasso 階段，你的雙手分別抓 collar grip（非 lasso 側）和 sleeve grip（lasso 側）。開始 hip pivot 時，collar grip 先把 posture 往下拉，等你確定要轉換就放開。sleeve grip 則要全程維持，直到你的腿完全跨過他們的背部、膝蓋夾緊後才能放開。坐起來之後，雙手要立刻轉為控制遠端髖部，抓住腰帶或褲子。finish 期間，你靠近的那隻手可以扣住他們的手肘來進一步孤立關節，另一隻手則維持髖部控制。",
+    "safety_critical": false,
+    "answer_line": "先維持 sleeve grip，再雙手轉抓髖部",
+    "distractors": {
+     "plausible": [
+      "雙手全程都抓 collar",
+      "腿跨過去之前 sleeve grip 就放開"
+     ],
+     "trap": [
+      "抓遠端 collar 來控制 posture"
+     ]
+    }
+   },
+   {
+    "question": "omoplata finish 正確的施力速度該是多少，為什麼這點很關鍵？",
+    "answer": "finish 必須以緩慢、漸進的向前壓力施加，至少要維持四到六秒。這個受控的速度之所以關鍵，是因為肩關節容易受到嚴重傷害，包括旋轉肌袖撕裂、AC 關節分離、關節唇撕裂，這些都可能需要手術修復並花上六到十二個月恢復。omoplata 讓肩膀處於其旋轉活動範圍的極限，力量稍微增加就可能造成瞬間的結構性損傷。猛然施力或加速壓力會讓對手來不及在受傷前拍。",
+    "safety_critical": true,
+    "answer_line": "緩慢漸進，四到六秒",
+    "distractors": {
+     "plausible": [
+      "穩定的一到兩秒施壓",
+      "配合對方防守的速度"
+     ],
+     "trap": [
+      "用力猛拗逼對方拍"
+     ]
+    }
+   },
+   {
+    "question": "對手對從 Russian Leg Lasso 進的 omoplata 拍後，正確的放開順序是什麼？",
+    "answer": "一收到任何拍的訊號，就立刻停止所有向前的壓力，把上半身傾回中立姿勢。放開膝蓋的夾緊力道，讓被困的手臂減壓。把腿從對手背部解開，髖部回到中立位置。讓對手以自己的節奏慢慢抽出手臂，不要去拉或推。恢復訓練前先口頭確認對方沒有受傷。拍後絕對不要保留任何殘餘壓力，因為肩膀可能已經接近其結構極限。",
+    "safety_critical": true,
+    "answer_line": "停止、放鬆、讓對方自己抽手",
+    "distractors": {
+     "plausible": [
+      "放開 grip 直接進下一輪",
+      "快速幫他們把手臂抽出來"
+     ],
+     "trap": [
+      "維持壓力直到對方點頭沒事"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手用雙手互扣來防止肩膀旋轉，該如何調整才能完成 finish？",
+    "answer": "把髖部逐步往對手頭部方向移動，增加旋轉角度，這會讓雙手互扣的姿勢隨著槓桿力增加而越來越難維持。同時用你靠近的那隻手去攻擊他們的手腕或手指，試圖撬開扣住的手。你也可以用控腕的技巧，抓住他們扣住的手往外拉，同時維持身體向前的壓力。要施加穩定漸進的壓力，而不是硬去突破防守，因為光是角度增加往往就足以讓互扣的握法撐不住。",
+    "safety_critical": false,
+    "answer_line": "把髖部走上去，破壞互扣",
+    "distractors": {
+     "plausible": [
+      "直接往後拉更用力",
+      "立刻改攻 armbar"
+     ],
+     "trap": [
+      "猛拉被困的手臂"
+     ]
+    }
+   },
+   {
+    "question": "你在施加 finishing 壓力時對手嘗試前滾，該如何維持這個 submission？",
+    "answer": "如果髖部控制建立得當，前滾應該會完全被擋住。如果他們不顧你的控制仍嘗試前滾，就維持你的腿跨在他們背部上的位置，並跟著他們的滾動轉換成 rolling omoplata：用雙腿持續黏住他們的手臂，跟著他們滾動，在另一側重新確立坐姿的 omoplata。關鍵是在滾動過程中絕對不能放開跨在他們背部上的腿。如果在滾動中失去腿的位置，就立刻轉入 scramble，設法重新建立 guard，而不是硬追一個已經失效的 omoplata。",
+    "safety_critical": false,
+    "answer_line": "維持髖部控制，跟著滾",
+    "distractors": {
+     "plausible": [
+      "放開腿，重置成 guard",
+      "抵抗滾動、守住位置"
+     ],
+     "trap": [
+      "放開被困的手臂"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何分辨從 Russian Leg Lasso 進的 omoplata 正在啟動，還是只是一般的 sweep 嘗試？",
+    "answer": "關鍵的差異在於 hip pivot 的方向。做 sweep 時，對手的髖部會朝你的方向加載力量以產生掃倒的力道。做 omoplata 時，對手的髖部會轉向垂直方向並遠離 lasso 那一側，開始把腿甩過你的肩膀，而不是用它來產生旋轉性的 sweep 力學。你也會感覺到 sleeve grip 明顯收緊，這是他們準備轉換的訊號，而 collar grip 會把你的 posture 往下拉，而不是往側邊拉。",
+    "safety_critical": false,
+    "answer_line": "髖部轉開、腿跨過肩膀",
+    "distractors": {
+     "plausible": [
+      "髖部急遽朝你加載",
+      "collar grip 往側邊拉"
+     ],
+     "trap": [
+      "sleeve grip 突然變鬆"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該對從 Russian Leg Lasso 進的 omoplata 拍，以避免受傷？",
+    "answer": "當你感覺到肩關節有明顯壓力、且無法透過防守動作解除時，要立刻拍。不要等到痛才拍——肩膀可能在痛覺完全傳達之前，就已經承受了嚴重的結構性損傷，包括旋轉肌袖撕裂、AC 關節分離和關節唇撕裂。如果攻擊者已經確立位置、建立髖部控制並開始向前傾，而你的防守選項已經用盡，就寧可提早拍，也不要冒著可能需要手術和數個月恢復的受傷風險。任何口頭訊號、手拍或腳拍都算是有效的拍。",
+    "safety_critical": true,
+    "answer_line": "感受到真正壓力就立刻拍",
+    "distractors": {
+     "plausible": [
+      "等到開始痛再拍",
+      "只有髖部控制鎖死才拍"
+     ],
+     "trap": [
+      "試著硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "針對這個 submission，前滾逃脫的最佳時機窗口是什麼時候？",
+    "answer": "最佳的時機是攻擊者完成坐起後、但尚未用雙手確立遠端髖部控制之間的短暫瞬間。這個窗口通常只有一到兩秒。你可以透過感覺攻擊者坐起時體重向上移動、而他們的手還在從抓握轉換到髖部控制的過程中，來辨識這個窗口。要在這個窗口全力投入前滾，並用爆發性的髖部驅動完成。如果你感覺到他們的手已經扣住你的遠端髖部或腰帶，代表窗口已經關閉，必須尋求其他防守方式。",
+    "safety_critical": false,
+    "answer_line": "坐起後、髖部控制確立前",
+    "distractors": {
+     "plausible": [
+      "在最初的 hip pivot 期間",
+      "膝蓋一夾緊就是"
+     ],
+     "trap": [
+      "遠端髖部控制鎖定之後"
+     ]
+    }
+   },
+   {
+    "question": "在從 Russian Leg Lasso 進的 omoplata 各個階段，各有哪些防守選項？",
+    "answer": "早期階段（hip pivot 時）：積極 posture up 並在腿跨過背部之前把被困的手臂抽回。中期階段（腿轉換時）：把體重壓向前方，讓對手趴平，阻止他們坐起。後期階段（坐起之後）：在髖部控制建立之前執行前滾逃脫。最後手段（位置已鞏固之後）：雙手互扣拖延，製造 scramble 機會。每個階段的成功率會逐步下降，因此早期辨識並立即反應對成功防守至關重要。",
+    "safety_critical": false,
+    "answer_line": "早期 posture、中期壓制、後期滾",
+    "distractors": {
+     "plausible": [
+      "先壓制體重再 posture up",
+      "早滾、晚互扣"
+     ],
+     "trap": [
+      "等待並期望對方失誤"
+     ]
+    }
+   },
+   {
+    "question": "防守從 Russian Leg Lasso 進的 omoplata，和防守從 closed guard 進的一般 omoplata 有什麼不同？",
+    "answer": "Russian Leg Lasso 的 omoplata 給的預警較少，因為攻擊腿在 lasso 姿勢中已經穿過你的手臂，少了標準 omoplata 進攻中那個明顯的甩腿動作訊號。防守空檔比較窄，因為攻擊者省略了最初的腿部定位步驟。不過，lasso 轉 omoplata 的過程需要攻擊者先解開再重新穿腿，這在轉換過程中會產生一個標準 omoplata 設置中不存在的短暫力學弱點。防守時需要根據 hip pivot 的線索更早辨識，而不是依賴腿部動作的線索。",
+    "safety_critical": false,
+    "answer_line": "預警較少，沒有甩腿訊號",
+    "distractors": {
+     "plausible": [
+      "設置完全相同，時機一樣",
+      "更容易看到甩腿動作"
+     ],
+     "trap": [
+      "留意腿部動作線索"
+     ]
+    }
+   }
+  ]
+ }
+}

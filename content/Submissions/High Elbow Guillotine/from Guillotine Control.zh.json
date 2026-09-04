@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/High Elbow Guillotine/from Guillotine Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "High Elbow Guillotine 具體攻擊哪些解剖構造？手肘位置如何影響壓迫效果？",
+    "answer": "High Elbow Guillotine 同時攻擊兩側頸動脈。手腕或前臂的骨緣直接壓迫近身側頸動脈，而抬高的手肘則把遠身側頸動脈壓向攻擊者的胸口與肩膀而封閉。這種雙側壓迫會產生血液勒殺，完全鎖定後幾秒內就能造成昏迷，相較之下，氣管壓迫主要只會造成疼痛。",
+    "safety_critical": false,
+    "answer_line": "雙側頸動脈，雙邊血液勒殺",
+    "distractors": {
+     "plausible": [
+      "手腕骨緣壓迫氣管",
+      "只有近身側血管被封閉"
+     ],
+     "trap": [
+      "扭轉脊椎造成頸部扭傷"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 High Elbow Guillotine 能破解阻擋標準 guillotine 的縮下巴防守？",
+    "answer": "標準 guillotine 是從水平方向攻擊喉部前方，縮下巴會用下顎擋在前臂與氣管之間，有效阻擋這種攻擊。而 high elbow 角度是從下巴的下方與後方進攻——前臂骨緣會滑到下顎線下方觸及頸動脈，不管下巴位置如何都能碰到。手肘垂直向上的路徑讓縮下巴變得毫無意義，因為壓迫發生在下巴底下，而不是穿過下巴。",
+    "safety_critical": false,
+    "answer_line": "從下顎線下方滑入",
+    "distractors": {
+     "plausible": [
+      "更用力壓迫氣管",
+      "靠純粹握力硬壓"
+     ],
+     "trap": [
+      "扭轉頸部逼對方拍降"
+     ]
+    }
+   },
+   {
+    "question": "對手在握法轉換過程中開始對你的勒頸手腕進行手部纏鬥——怎麼調整才能防止被破壞？",
+    "answer": "把手肘緊貼肋骨，讓勒頸前臂緊貼你的胸壁，消除有效手部纏鬥所需要的空間。身體稍微朝勒頸側旋轉，增加對他們抓握手的向下壓力。如果他們一時破壞了你的扣握，立刻在手腕處重新抓握，而不是急著重建完整的掌對掌姿勢，然後在他們能重新展開手部纏鬥之前完成手肘抬高。",
+    "safety_critical": false,
+    "answer_line": "手肘緊貼肋骨",
+    "distractors": {
+     "plausible": [
+      "用握力硬壓過他們的手",
+      "不顧一切先重建掌對掌"
+     ],
+     "trap": [
+      "讓他們過guard，自己重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "有哪些關鍵跡象顯示勒頸已正確鎖定，對手正接近無法逃脫的地步？",
+    "answer": "關鍵跡象包括：對手的手部纏鬥變得無力或不協調、臉部明顯變色（發紅或發暗）、呼吸變得吃力或出現咕嚕聲，以及主動逃脫嘗試停止，取而代之的是靜態的緊繃。無法逃脫的地步發生在手肘達到最高點、前臂與頸部之間沒有任何空隙時——此時即使鬆開一隻手的握法，剩下的壓迫仍足以造成昏迷。",
+    "safety_critical": true,
+    "answer_line": "防守減弱、臉色變暗",
+    "distractors": {
+     "plausible": [
+      "大聲喘氣就代表沒鎖緊",
+      "只有口頭拍降才算數"
+     ],
+     "trap": [
+      "撐到對方癱軟無力"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降 High Elbow Guillotine 時，正確的放開流程是什麼？",
+    "answer": "只要出現任何拍降訊號——口頭、拍手、拍腳，或身體癱軟——就立即放開勒頸手臂的握法。同時放下勒頸手肘並移除肩膀壓力。放開頭部控制，打開guard 或往後退，製造空間。放開後觀察夥伴的呼吸與意識狀態十到十五秒。放開之後絕對不要再重新施壓，如果夥伴出現延遲反應或意識混亂的跡象，要準備尋求醫療協助。",
+    "safety_critical": true,
+    "answer_line": "立刻放開，然後觀察",
+    "distractors": {
+     "plausible": [
+      "慢慢放開以緩解壓力",
+      "先確認拍降再放開"
+     ],
+     "trap": [
+      "短暫維持以確認重點"
+     ]
+    }
+   },
+   {
+    "question": "如何協調髖部伸展與手臂收縮，產生最大的終結壓力？",
+    "answer": "髖部與手臂會製造出相反方向的力量，共同增強頸部的壓迫。把髖部向前推，背部稍微弓起，把對手被困住的頸部推向前臂骨緣，同時收縮手臂把他們的頭拉進你的胸口。時機的關鍵是先啟動髖部伸展來設定角度，再逐漸加上手臂的收緊。這種協調能讓骨架結構與體重來完成主要工作，而不是單靠握力。",
+    "safety_critical": false,
+    "answer_line": "先伸展髖部，再收縮手臂",
+    "distractors": {
+     "plausible": [
+      "手臂先收緊，髖部不動",
+      "把頭捲進來，髖部保持不動"
+     ],
+     "trap": [
+      "扭轉脊椎造成頸部扭傷"
+     ]
+    }
+   },
+   {
+    "question": "對手在你維持 guillotine 握法時開始過你的guard——正確的判斷是什麼？為什麼？",
+    "answer": "你必須在對手完成過guard 前立即終結降服技，或是放開握法，用標準方式重新守住guard。若對手過guard 到 side control 時你還維持著 guillotine 握法，會讓你暴露在 Von Flue 反制之下，他們的肩膀壓力壓在你頸部上會反過來讓你被降服。判斷的關鍵在於你的勒頸有多深、多緊——如果手肘已完全抬高且形成雙側壓迫，你可以趁過guard 過程中完成終結；如果握法已經受損，就立即放開。",
+    "safety_critical": false,
+    "answer_line": "快速終結，或放開握法",
+    "distractors": {
+     "plausible": [
+      "去找其他降服技",
+      "拖延等裁判介入"
+     ],
+     "trap": [
+      "抓著頸部一路撐到side control"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，當對手正積極防守時，有哪些終結調整能提高你的成功率？",
+    "answer": "在比賽中，快速在標準握法與 high elbow 姿勢之間切換，避免防守者固定在單一防守模式。抓準對手吐氣、頸部瞬間變細的時機來抬高手肘。把髖部移向勒頸側，增加槓桿臂長。如果對手能撐住你的終結，就轉而威脅過渡到 mount 或 back control——他們對位置威脅的防守反應，往往會讓頸部露出破綻，方便你終結勒頸。",
+    "safety_critical": false,
+    "answer_line": "切換握法、抓準吐氣時機",
+    "distractors": {
+     "plausible": [
+      "死守單一握法等他們累",
+      "等對方自己疲勞"
+     ],
+     "trap": [
+      "抓著勒頸讓他們過guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在從標準 guillotine 轉換到 high elbow 變化式？",
+    "answer": "主要跡象是對手的手肘開始垂直向上抬高，而不是水平方向擠壓；握法從標準的掌對掌轉變為手腕層級的扣握；壓力從你喉部前方轉移到下顎線下方與後方，而且增強。你也可能感覺到對手的髖部開始向前伸展，配合終結機制的協調動作。",
+    "safety_critical": false,
+    "answer_line": "手肘抬高、握法移到手腕",
+    "distractors": {
+     "plausible": [
+      "壓力轉移到衣領處",
+      "手肘抬高前握法先鬆開"
+     ],
+     "trap": [
+      "不用理會，縮下巴仍然有效"
+     ]
+    }
+   },
+   {
+    "question": "拍降 High Elbow Guillotine 最安全的方式是什麼？什麼時候該拍降？",
+    "answer": "用手清楚拍打對手的身體、自己的身體或地墊，或用口頭訊號清楚拍降。當你感覺到手肘已完全抬高、雙側頸動脈都被壓迫，而逃脫嘗試已經失敗時，要立即拍降。不要試圖硬撐一個已經鎖死的血液勒殺——從完全壓迫到昏迷的時間窗口只有五到十秒。清楚且及早的拍降能避免受傷，讓你能安全地繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "一鎖緊就立刻清楚拍降",
+    "distractors": {
+     "plausible": [
+      "捏手臂當作訊號",
+      "只有呼吸被切斷才拍降"
+     ],
+     "trap": [
+      "硬撐撐過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼縮下巴防守對 high elbow guillotine 無效？你應該改做什麼？",
+    "answer": "縮下巴是靠下顎擋在前臂與氣管之間，防守水平方向的前臂壓力。而 high elbow 角度是從下顎線下方進攻，前臂骨緣會滑到下巴底下觸及頸動脈，不管下巴位置如何都能碰到。你不能只靠縮下巴，必須主動用雙手對勒頸手腕進行手部纏鬥，阻止手肘抬高，同時透過撐住對手的髖部來設法恢復姿勢。",
+    "safety_critical": false,
+    "answer_line": "雙手抓手腕，再設法逃脫",
+    "distractors": {
+     "plausible": [
+      "推開他們的胸口製造空間",
+      "轉身壓平身體"
+     ],
+     "trap": [
+      "把下巴縮得更緊等待"
+     ]
+    }
+   },
+   {
+    "question": "當對手已經完全鎖住 high elbow 姿勢時，你還有哪些防守選項？",
+    "answer": "一旦手肘達到最高點並形成雙側頸動脈壓迫，你的選項會非常有限。最好的機會是用力轉向勒頸手臂那一側，把雙側壓迫變成單側壓力，爭取幾秒鐘的時間來剝開手腕的握法。如果對手鎖著 closed guard，你可以試著打開guard 並過guard，威脅 Von Flue 反制。但如果這兩種逃脫方式在幾秒內都無效，你必須立即拍降，避免失去意識。",
+    "safety_critical": true,
+    "answer_line": "轉向手臂側，剝開握法",
+    "distractors": {
+     "plausible": [
+      "直接用力向後橋撐",
+      "把頭直直拉出來"
+     ],
+     "trap": [
+      "保持不動硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "Von Flue 反制怎麼運作？什麼時候是可行的防守選項？",
+    "answer": "Von Flue 反制勒頸的方式是，在對手仍維持 guillotine 握法時過他們的guard，然後從 side control 把重壓的肩膀壓進他們頸部側面。對手自己的握法會把手臂困在原地，讓他們無法逃脫這個反制的壓力。這只有在對手用開放guard 維持 guillotine，或是你能成功打開他們的 closed guard 時才可行。如果對手 closed guard 鎖得很緊而且勒頸很深，這招不可行——你必須先處理guard，才能嘗試過guard。",
+    "safety_critical": false,
+    "answer_line": "過guard，肩膀壓頸部",
+    "distractors": {
+     "plausible": [
+      "對任何guillotine握法都有效",
+      "先剝開握法，再反制"
+     ],
+     "trap": [
+      "對緊鎖的closed guard也試試看"
+     ]
+    }
+   }
+  ]
+ }
+}

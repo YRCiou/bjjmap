@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從High Mount施展的Kimura主要攻擊哪些解剖構造？",
+    "answer": "Kimura透過強制內旋鎖定肩關節，把彎曲的前臂與手腕推向下背部，特別對旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊韌帶與盂唇施加壓力。figure-four grip會形成一個槓桿，讓肱骨在盂肱關節窩內旋轉超出自然活動範圍，手肘則作為支點。二頭肌肌腱與肩鎖關節也會受到次要的壓力。",
+    "safety_critical": false,
+    "answer_line": "透過內旋攻擊肩關節",
+    "distractors": {
+     "plausible": [
+      "手肘過伸",
+      "腕骨與前臂骨"
+     ],
+     "trap": [
+      "手臂卡住時改用頸部關節鎖"
+     ]
+    }
+   },
+   {
+    "question": "在施展過程中，你要如何辨識Kimura即將到達臨界點？",
+    "answer": "當防守方的前臂相對於起始位置，向背後旋轉超過大約90度時，臨界點就快到了。你會感覺到figure-four grip的抵抗越來越大，因為肩關節囊正在收緊，防守方的身體可能會開始不自主地拱起或扭動。訓練時，在到達這個點之前必須大幅放慢速度，並漸進式施加壓力，給夥伴充分的機會在結構性損傷發生前拍降。絕對不要在抵抗突然增加時繼續硬推。",
+    "safety_critical": true,
+    "answer_line": "前臂向背後旋轉超過90度",
+    "distractors": {
+     "plausible": [
+      "手肘離開地面時",
+      "雙手鬆開分開時"
+     ],
+     "trap": [
+      "用力旋轉直到鬆動"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試從High Mount抓figure-four grip之前，必須先建立哪些控制？",
+    "answer": "在投入figure-four之前，你必須建立三個控制點：第一，你的髖部要向前施加壓力，壓在防守方的上胸口，阻止他橋起；第二，目標手臂必須從防守方身體上被孤立出來，讓他的手肘離開肋骨；第三，必須監控或控制防守方的另一隻手臂，避免他建立frame或破壞你的grip。如果沒有這些前提條件就貿然嘗試figure-four，通常會導致失去mount位置。",
+    "safety_critical": false,
+    "answer_line": "髖部施壓，孤立目標手臂",
+    "distractors": {
+     "plausible": [
+      "用膝蓋把雙臂都固定住",
+      "先抓衣領grip"
+     ],
+     "trap": [
+      "放棄mount去追grip"
+     ]
+    }
+   },
+   {
+    "question": "從High Mount施展Kimura時，防守方在哪個階段會失去逃脫的能力？",
+    "answer": "無法逃脫的臨界點出現在figure-four grip鎖緊、手肘夾緊，且防守方的手肘被固定在地墊上作為固定支點時。一旦這兩個條件同時成立，防守方就無法把手臂伸直（grip阻止伸展）、無法翻滾（固定的手肘加上你的體重阻止旋轉）、也無法抽出手臂（緊夾的手肘消除了空間）。在到達這個點之前，防守方仍然能透過伸直手臂、破grip或橋起等方式逃脫。",
+    "safety_critical": false,
+    "answer_line": "figure-four鎖緊、手肘固定",
+    "distractors": {
+     "plausible": [
+      "手腕grip被抓住時",
+      "mount完全建立時"
+     ],
+     "trap": [
+      "放鬆壓力重新抓grip"
+     ]
+    }
+   },
+   {
+    "question": "對手把手臂伸直來破解Kimura角度——你的即刻反應是什麼？",
+    "answer": "手臂伸直等於邀請你轉攻armbar。立刻把靠近被困手臂那一側的腿跨過對手的頭，同時維持手腕控制，然後倒向垂直於對手身體的方向來完成armbar。防守方等於是用一個submission威脅換來了另一個，而且從這個位置做armbar的成功率甚至更高，因為他的手臂已經伸直了。如果armbar角度取不到，就維持手腕控制，把他的手肘往地墊方向推回去，重新彎回手臂。",
+    "safety_critical": false,
+    "answer_line": "轉攻armbar",
+    "distractors": {
+     "plausible": [
+      "重新抓grip再做一次Kimura",
+      "改攻Americana"
+     ],
+     "trap": [
+      "放手重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "如果防守方在Kimura finish過程中開始旋轉前臂，你該如何調整grip？",
+    "answer": "如果防守方向內旋轉前臂（旋前），就把figure-four收緊，把抓握的手拉近你的胸口，加大手肘夾緊力道，阻止進一步旋轉。如果他向外旋轉朝Americana方向，可以考慮改用Americana finish，把壓力方向改為朝地墊而不是朝背後。關鍵的調整在於：在任何旋轉過程中都持續維持手腕控制，並根據對方手臂的位置調整finish角度，而不是硬碰硬對抗他的動作。",
+    "safety_critical": false,
+    "answer_line": "收緊grip或改攻Americana",
+    "distractors": {
+     "plausible": [
+      "把手腕推向髖部",
+      "用力維持同一個角度"
+     ],
+     "trap": [
+      "坐起放棄手臂"
+     ]
+    }
+   },
+   {
+    "question": "訓練時施加Kimura的正確速度是多少？為什麼這一點很關鍵？",
+    "answer": "訓練時Kimura必須緩慢漸進地施加，finish的旋轉動作至少要花3到5秒。這個受控的節奏很關鍵，因為肩關節可能在防守方感覺到足夠疼痛而拍降之前，就已經發生災難性損傷（旋轉肌袖撕裂、關節囊損傷、盂唇撕裂）。肩膀的疼痛反應會落後於結構性損傷，這代表快速施加即使防守方有意拍降，也可能造成嚴重傷害。永遠給夥伴時間去察覺危險、理解局勢並發出拍降信號。",
+    "safety_critical": true,
+    "answer_line": "緩慢，旋轉3到5秒",
+    "distractors": {
+     "plausible": [
+      "只要拍降就停，速度不重要",
+      "速度只在比賽中才重要"
+     ],
+     "trap": [
+      "快速甩動直接拍降"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍降後，你應該如何立刻放開Kimura？",
+    "answer": "感覺到或聽到拍降的那一刻，立刻停止所有旋轉壓力，讓手臂維持在目前的位置，不再施加任何力量。接著慢慢把手臂朝外旋轉，帶回起始的中立位置。完全放開figure-four的grip，讓夥伴自行評估肩膀的活動狀況後再繼續。絕對不要突然放開或讓手臂彈回去，因為這種反彈可能對已經承受壓力的關節造成傷害。即使放開之後，也要持續留意肩膀可能仍受到影響。",
+    "safety_critical": true,
+    "answer_line": "停止，慢慢把手臂帶回",
+    "distractors": {
+     "plausible": [
+      "立刻放開grip",
+      "翻滾遠離讓對方有空間"
+     ],
+     "trap": [
+      "讓手臂彈回自由"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，對手用雙手互扣來防守Kimura——你要如何破解這個grip？",
+    "answer": "比賽中有幾種破grip策略可用：用空出的手一根一根把他的手指剝開；把他的手肘往地墊方向推，形成槓桿，透過力學劣勢把互扣的雙手分開；把膝蓋往上移，增加胸口壓力，讓他在受壓狀態下更難維持抓握力量；或暫時放棄Kimura去攻擊另一隻手臂，逼他鬆開互扣。最可靠的方法是結合「手肘壓向地墊」與「持續向前的體重」，因為疲勞終究會破壞他的grip。",
+    "safety_critical": false,
+    "answer_line": "剝手指，手肘壓地墊",
+    "distractors": {
+     "plausible": [
+      "用力把手臂拉直扯出",
+      "換手重新抓grip"
+     ],
+     "trap": [
+      "站起來硬扯開grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從High Mount施展Kimura比從標準mount或side control更有效？",
+    "answer": "High mount提供三個明顯的優勢：第一，抬高的膝蓋位置會自然把防守方的手肘推離身體，讓手臂孤立更容易；第二，由上往下的角度讓重力協助finish的旋轉，而不是像side control那樣要對抗重力；第三，防守方無法產生有效的橋起力量，因為攻擊方的體重壓在他的上胸口而不是髖部，移除了他主要的逃脫機制。這些綜合優勢讓High Mount的Kimura finish成功率明顯高於從較低位置發動的Kimura攻擊。",
+    "safety_critical": false,
+    "answer_line": "重力、孤立手肘、無法橋起",
+    "distractors": {
+     "plausible": [
+      "對手腕有更長的力臂",
+      "對手在下方更快疲勞"
+     ],
+     "trap": [
+      "撐手加大力道硬拗"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在grip被鎖上之前，你要如何辨識對手正在設置從High Mount施展的Kimura？",
+    "answer": "關鍵的辨識線索包括：攻擊方的手在你的手肘下方游動，或伸手橫過來抓你的手腕；他的體重開始向一側橫向移動，同時維持胸口壓力；以及你的手肘被他的膝蓋或手撬離肋骨。最早的警訊通常是攻擊方放棄頸部攻擊、把注意力轉向你的手臂。在figure-four完成之前認出這些線索，能給你最大的防守空間。",
+    "safety_critical": false,
+    "answer_line": "手游向手腕，手肘被撬開",
+    "distractors": {
+     "plausible": [
+      "突然嘗試頸部choke",
+      "體重壓向髖部"
+     ],
+     "trap": [
+      "等grip鎖上再理會"
+     ]
+    }
+   },
+   {
+    "question": "被從High Mount施展的Kimura困住時，最安全的拍降方式是什麼？",
+    "answer": "一旦感覺到自己無法阻止的肩部旋轉壓力，就立刻明確地拍降。用空出的手快速拍打攻擊方的身體、地墊或自己的身體。如果空出的手也被困住，就大聲喊「拍」或用腳拍地墊來口頭示意拍降。旋轉一旦開始，不要等著看能不能逃脫——肩膀可能在你感覺到明顯疼痛之前就已經發生結構性損傷，而且從High Mount由上往下的角度，讓太晚逃脫幾乎不可能成功。",
+    "safety_critical": true,
+    "answer_line": "快拍：用手、地墊或喊聲",
+    "distractors": {
+     "plausible": [
+      "只有空手拍才算數",
+      "只能拍地墊，不能拍身體"
+     ],
+     "trap": [
+      "硬撐住試圖逃脫"
+     ]
+    }
+   },
+   {
+    "question": "在從High Mount施展的Kimura各個階段，各有哪些防守選項？",
+    "answer": "在手腕被抓住之前：讓手肘貼緊、雙手靠近下巴，防止手臂被孤立。手腕被抓住的當下：爆發式伸直手臂，或立刻把雙手互扣在一起。figure-four鎖定之後：破grip來破壞連結，或朝Kimura那一側橋起。旋轉開始時：如果無法阻止動作就拍降。每個階段可用的選項會越來越少，這正是為什麼「早期辨識」與「立即反應」是有效Kimura防守的根本。",
+    "safety_critical": false,
+    "answer_line": "選項逐漸縮小，旋轉時就拍",
+    "distractors": {
+     "plausible": [
+      "每個階段都能用同樣的逃脫方法",
+      "鎖上之後才互扣雙手"
+     ],
+     "trap": [
+      "轉向跪姿逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防守從High Mount施展的Kimura時，橋起的時機非常關鍵？",
+    "answer": "橋起的時機必須配合攻擊方在Kimura finish嘗試中橫向移動體重的那一刻。當攻擊方居中在High Mount時，他在各個方向都有穩固的base，橋起無效。但當他把身體轉向被困手臂那一側、製造finish所需的槓桿時，他在另一側的base就會被破壞。這個橫向投入的瞬間，正是朝Kimura那一側爆發式橋起的最佳時機，能利用他自己的體重轉移來對付他。",
+    "safety_critical": false,
+    "answer_line": "趁對手橫向移動時橋起",
+    "distractors": {
+     "plausible": [
+      "對方一上mount就立刻橋起",
+      "grip鎖上才橋起"
+     ],
+     "trap": [
+      "往被困手臂那一側翻滾"
+     ]
+    }
+   },
+   {
+    "question": "要有效防守從High Mount施展的Kimura，你應該優先阻止什麼？",
+    "answer": "應該優先阻止手肘被固定在地墊上，因為這是讓Kimura在力學上成立的關鍵支點。沒有固定的支點，攻擊方雖然能移動你的手臂，卻無法產生足夠的旋轉力來對肩關節施壓。讓手肘保持可動、遠離地墊，維持彎曲手臂的frame，並主動抵抗向下的手肘壓力。如果手肘在figure-four鎖定的情況下碰到地墊，你剩下的防守選項就只剩拍降，或抓準時機做一個完美的橋起。",
+    "safety_critical": false,
+    "answer_line": "讓手肘離開地墊",
+    "distractors": {
+     "plausible": [
+      "防止手腕被抓住",
+      "防止髖部被固定"
+     ],
+     "trap": [
+      "把手肘壓下去做base"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Kimura/from High Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

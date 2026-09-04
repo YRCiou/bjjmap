@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Calf Slicer/from Twister Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Twister Control 施加的 Calf Slicer 主要攻擊哪些解剖結構？",
+    "answer": "Calf Slicer 透過壓迫脛骨支點（架在膝窩後方）來攻擊腓腸肌與比目魚肌。次要的壓力會影響膝蓋後側結構，包括膕韌帶，也可能對阿基里斯腱造成壓力。這種壓縮會產生一個折疊動作，同時破壞軟組織的完整性與關節的穩定性。",
+    "safety_critical": false,
+    "answer_line": "小腿肌肉壓在脛骨支點上",
+    "distractors": {
+     "plausible": [
+      "只有膝蓋韌帶受影響",
+      "主要是阿基里斯腱"
+     ],
+     "trap": [
+      "撐過去，只是肌肉痛而已"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他入口位置，Twister Control 對 Calf Slicer 提供了什麼特別的優勢？",
+    "answer": "Twister Control 已經先建立了深層的腿部纏繞與脊椎旋轉，這讓防守者無法伸直被鎖定的腿，也無法有效地伸髖。脊椎上的旋轉限制會削弱防守者核心的施力能力，讓緩解小腿壓縮變得困難許多。這種腿部控制加上脊椎旋轉的組合，是從 half guard 或 back control 之類的標準 Calf Slicer 入口所沒有的。",
+    "safety_critical": false,
+    "answer_line": "腿鎖加上脊椎旋轉",
+    "distractors": {
+     "plausible": [
+      "只是腳部控制更好",
+      "腳踝抓得更緊"
+     ],
+     "trap": [
+      "放掉控制去搶背部"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 Calf Slicer 過程中開始伸直腿部，你應該如何調整脛骨的位置？",
+    "answer": "立即把腳跟拉向自己的髖部，讓脛骨更深地卡進膝窩後方，同時加強對腳部的控制，重新把小腿折疊回去。如果腿已經接近伸直，考慮放棄 Slicer，改為威脅 Twister 的finish動作，因為在一條正在伸直的腿上硬逼 Slicer 會降低有效性，並有完全失去位置的風險。Twister 的威脅往往能重新暴露那條腿。",
+    "safety_critical": false,
+    "answer_line": "重新卡緊脛骨，改威脅 Twister",
+    "distractors": {
+     "plausible": [
+      "用更大力氣硬折",
+      "改攻straight ankle lock"
+     ],
+     "trap": [
+      "放開抓握重新進攻"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中從 Twister Control 施加 Calf Slicer 時，有哪些關鍵的安全守則？",
+    "answer": "施加壓縮至少要維持 5 到 7 秒，絕不能突然加速或猛拉。要持續意識到 Twister 的纏繞姿勢可能讓對手的手無法拍地，所以要立刻回應語言上的拍降或任何痛苦的叫聲。放技術時要先移除脛骨的壓力，然後緩慢、受控地解開腿部纏繞，避免在放技術階段造成二次傷害。",
+    "safety_critical": true,
+    "answer_line": "5~7 秒緩慢施壓",
+    "distractors": {
+     "plausible": [
+      "先解開腿再放脛骨",
+      "等對方拍手示意"
+     ],
+     "trap": [
+      "為了快速完成而突然加壓"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴對從 Twister Control 施加的 Calf Slicer 拍降後，正確的放技術順序是什麼？",
+    "answer": "第一步，立即放開腳部抓握並停止所有壓縮壓力。第二步，緩慢地把脛骨從膝窩後方移開，不能有任何猛拉的動作。第三步，小心地把腿從 Twister Control 的纏繞中解開。第四步，讓夥伴自然伸直腿部後才完全脫離接觸。最後，在繼續訓練前，確認夥伴受影響的腿有正常的知覺與完整的活動能力。",
+    "safety_critical": true,
+    "answer_line": "先放腳部，再慢慢解開纏繞",
+    "distractors": {
+     "plausible": [
+      "先解開雙腿再放手",
+      "讓夥伴自己把腿拔出來"
+     ],
+     "trap": [
+      "邊解開纏繞邊維持鎖定"
+     ]
+    }
+   },
+   {
+    "question": "哪些指標告訴你 Calf Slicer 已經到了防守者無法挽回的臨界點？",
+    "answer": "主要指標包括：防守者停止所有逃脫動作並變得僵硬、受影響那隻腳的腳趾因痛覺反應而不自主伸直、脛骨形成支點處的小腿肌肉出現明顯變形，以及防守者的呼吸變得急促或不規律。一旦下半腿被折疊超過九十度且脛骨深深卡入，防守者剩下的選擇就非常有限了。",
+    "safety_critical": false,
+    "answer_line": "身體僵硬、腳趾伸直",
+    "distractors": {
+     "plausible": [
+      "只是大聲抱怨",
+      "攻擊者的抓握鬆脫"
+     ],
+     "trap": [
+      "撐到痛感消退"
+     ]
+    }
+   },
+   {
+    "question": "從這個位置，Calf Slicer 如何跟 Twister 的finish動作形成一個submission上的兩難局面？",
+    "answer": "當防守者護住下巴、抵抗脊椎旋轉以防禦 Twister 時，他們會收緊核心、讓身體保持平坦，這反而讓腿部更容易被 Calf Slicer 攻擊。當他們為了應付 Calf Slicer 而伸直腿部或改變髖部角度時，就會鬆開原本防禦 Twister 的張力。這迫使防守者必須選擇優先防禦哪一個submission，而攻擊者就能利用防守者露出的任何一個破綻。",
+    "safety_critical": false,
+    "answer_line": "防一個就露出另一個",
+    "distractors": {
+     "plausible": [
+      "這裡只有髖部角度重要",
+      "Twister 必須先命中"
+     ],
+     "trap": [
+      "同時防兩者，拖延就好"
+     ]
+    }
+   },
+   {
+    "question": "對付一位技術純熟的對手時，從 Twister Control 完成 Calf Slicer 最有效的比賽策略是什麼？",
+    "answer": "先建立 Twister Control，威脅 Twister submission，迫使防守者採取收緊下巴的防禦姿勢。當對手為了防禦 Twister 而全力投入時，立即轉換到 Calf Slicer，穿入脛骨並控制對手的腳。維持整體控制結構的同時，逐漸加大壓力。如果對手開始逃脫 Slicer，就回頭威脅 Twister，持續重複這個兩難循環。",
+    "safety_critical": false,
+    "answer_line": "先威脅 Twister，再穿入 Slicer",
+    "distractors": {
+     "plausible": [
+      "永遠先攻 Slicer",
+      "一開始就用最大力道"
+     ],
+     "trap": [
+      "不計代價把 Twister 鎖完"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Twister Control 開始架設 Calf Slicer 時，最早期的警訊是什麼？",
+    "answer": "最早的線索包括感覺到對手的脛骨開始滑到你的膝窩後方、對手的抓握重心從你的上半身轉移到你的腳或腳踝，以及壓力方向出現明顯變化——從旋轉性的 Twister 扭力變成沿著下半腿方向的壓縮性下折壓力。你也可能注意到對手調整髖部位置，為脛骨支點取得更好的角度。",
+    "safety_critical": false,
+    "answer_line": "脛骨滑到你的膝窩後方",
+    "distractors": {
+     "plausible": [
+      "抓握轉移到你的衣領",
+      "對手抓住你的手腕"
+     ],
+     "trap": [
+      "等痛了再反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對從 Twister Control 施加的 Calf Slicer 拍降，而不是繼續嘗試逃脫？",
+    "answer": "當你感覺到小腿肌肉出現劇烈疼痛，或脛骨已經完全卡進你的膝窩後方、下半腿正被折疊超過九十度，或者無論你怎麼努力都無法產生任何能緩解壓縮的動作時，就要立即拍降。由於 Twister 的纏繞姿勢可能限制你用手拍地的能力，要使用語言拍降或任何清楚的叫聲。絕不要等到疼痛變得劇烈才反應，因為一旦位置鎖定，小腿壓縮的傷害會很快發生。",
+    "safety_critical": true,
+    "answer_line": "及早拍降，用語言喊出來",
+    "distractors": {
+     "plausible": [
+      "等腳出現麻木感",
+      "只有手能動才拍"
+     ],
+     "trap": [
+      "拱橋猛拉把腿扯出來"
+     ]
+    }
+   },
+   {
+    "question": "在 Calf Slicer 尚未從 Twister Control 完全建立之前，主要的防禦策略是什麼？",
+    "answer": "主要的防禦是在對手能完全折疊你的腿並建立脛骨支點之前，先伸直你的腿。把腳跟推離髖部，同時啟動股四頭肌來抵抗折疊動作。同時努力把腿從整個 Twister 纏繞中抽出來。如果你能阻止下半腿被折疊超過九十度，壓縮的效果會大幅降低，你也能爭取時間去執行更大範圍的逃脫。",
+    "safety_critical": false,
+    "answer_line": "伸直腿部，快速抽腿",
+    "distractors": {
+     "plausible": [
+      "去搶腳部的抓握權",
+      "壓平身體並保持重量"
+     ],
+     "trap": [
+      "拱橋猛烈翻滾"
+     ]
+    }
+   },
+   {
+    "question": "哪個常見的防禦錯誤會讓從 Twister Control 施加的 Calf Slicer 變得更加危險？",
+    "answer": "最危險的錯誤是在 Calf Slicer 部分施加的情況下，嘗試爆發性地翻滾或拱橋。這種爆發性的動作會讓你自己的小腿更用力地壓向對手的脛骨支點，大幅提高壓縮力道，超過對手原本打算施加的程度。壓力的突然飆升可能造成立即性的肌肉撕裂或膝蓋韌帶損傷。正確的做法是冷靜地透過受控的技術動作來伸直腿部。",
+    "safety_critical": true,
+    "answer_line": "爆發性拱橋或翻滾",
+    "distractors": {
+     "plausible": [
+      "繃緊小腿肌肉",
+      "去抓攻擊者的脛骨"
+     ],
+     "trap": [
+      "撐著等它自己滑掉"
+     ]
+    }
+   },
+   {
+    "question": "當從 Twister Control 施加的 Calf Slicer 只部分完成、尚未完全鎖定時，還有哪些防禦選項可用？",
+    "answer": "主要剩下的選項包括：伸直腿部對抗折疊以降低壓縮、努力把膝蓋滑過對手的脛骨前方以消除支點的接觸面，以及設法把腿從整個 Twister 纏繞中抽出來。你也可以嘗試轉身面向對手來改變壓縮的角度。每個選項的可行性都會隨位置加深而遞減，所以及早果斷行動非常關鍵。",
+    "safety_critical": false,
+    "answer_line": "伸直腿部，滑開膝蓋",
+    "distractors": {
+     "plausible": [
+      "去搶對手的腳部抓握",
+      "疊肩膀拖延時間"
+     ],
+     "trap": [
+      "爆發性拱橋逃脫"
+     ]
+    }
+   }
+  ]
+ }
+}

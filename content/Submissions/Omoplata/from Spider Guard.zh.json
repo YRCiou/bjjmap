@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Omoplata/from Spider Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Spider Guard 進的 omoplata 主要攻擊哪個解剖構造？",
+    "answer": "omoplata 主要透過讓肱骨對固定的肩帶做內旋來攻擊盂肱（肩）關節。被困的手臂被伸展到對手背後，攻擊者的髖部則對肩膀施加旋轉力，壓迫關節囊、旋轉肌袖肌肉和周圍韌帶。次要壓力則作用在 AC 關節和肱二頭肌肌腱上。",
+    "safety_critical": true,
+    "answer_line": "透過內旋攻擊肩膀",
+    "distractors": {
+     "plausible": [
+      "肘部過伸",
+      "手腕旋轉鎖"
+     ],
+     "trap": [
+      "扭頸部逼對方拍"
+     ]
+    }
+   },
+   {
+    "question": "在 omoplata finish 過程中，什麼跡象顯示你正接近肩膀的斷裂臨界點？",
+    "answer": "接近臨界點時，對手被困的手臂會開始不自主地旋轉，肩膀會明顯離開地墊，通常也會出現不適加劇的徵兆，例如呼吸急促、發出聲音或拚命想逃脫。對手的手腕也可能在肩膀達到旋轉極限時開始外旋。這時要極度緩慢地施壓，因為關節可能在毫無進一步警訊的情況下突然損傷。",
+    "safety_critical": true,
+    "answer_line": "手臂旋轉、肩膀離地",
+    "distractors": {
+     "plausible": [
+      "對手完全放鬆不動",
+      "只有大聲拍才算"
+     ],
+     "trap": [
+      "突然放鬆就代表要更用力"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個進攻過程中維持 sleeve grip 是最關鍵的力學要求？",
+    "answer": "sleeve grip 是你的力學錨點，能防止對手在甩腿轉換過程中把手臂抽回。少了它，對手可以直接把手臂拉回並 posture up，讓 omoplata 進攻完全失效。這個 grip 也能提供方向控制，引導手臂到正確位置以完成肩鎖。在進攻過程中任何時候失去這個 grip，都會把一個高成功率的攻擊變成對上位者有利的 scramble。",
+    "safety_critical": false,
+    "answer_line": "防止進攻時手臂被抽回",
+    "distractors": {
+     "plausible": [
+      "只是用來控制 posture",
+      "為 collar choke 備案而設"
+     ],
+     "trap": [
+      "放開 grip 改抓 overhook"
+     ]
+    }
+   },
+   {
+    "question": "對手在 omoplata 中開始前滾，該如何調整才能阻止這個逃脫？",
+    "answer": "立刻用你伸出去的手抓住對手的遠端髖部、腰帶或褲子，擋住滾動的方向。把上半身往前傾壓在他們背上，讓他們的胸口貼平地墊，消除他們啟動前滾所需的空間。如果滾動已經開始，就維持腿部控制與髖部壓力跟著他們，隨他們的動作旋轉，從新角度重新確立 omoplata，或轉換成騎乘位。",
+    "safety_critical": false,
+    "answer_line": "抓遠端髖部，壓平他們胸口",
+    "distractors": {
+     "plausible": [
+      "抓近端髖部擋滾動",
+      "夾緊膝蓋等它過去"
+     ],
+     "trap": [
+      "抬高身體、不管他們的髖部"
+     ]
+    }
+   },
+   {
+    "question": "如果對手雙手互扣來防守這個 finish，你該做什麼樣的抓握調整？",
+    "answer": "首先，用你空出來的手楔進他們互扣的手之間，用推一邊手腕、拉另一邊的方式撬開這個 grip。如果失敗，就攻擊上面那隻手，把它往小指方向彎折做控腕，同時維持 omoplata 的髖部壓力。或者，也可以維持 omoplata 壓力，同時移轉重心把他們往前 sweep，用被困的手臂當槓桿，這往往會迫使他們鬆開扣住的手，因為 sweep 時他們需要用手撐地。",
+    "safety_critical": false,
+    "answer_line": "撬手腕或控腕，或改 sweep",
+    "distractors": {
+     "plausible": [
+      "單手直接扯開 grip",
+      "立刻換成 armbar"
+     ],
+     "trap": [
+      "放開被困手臂改抓 collar"
+     ]
+    }
+   },
+   {
+    "question": "在施加 finishing 壓力之前，必須先建立哪些關鍵控制要素？",
+    "answer": "必須建立三個控制要素：第一，你的雙腿必須緊緊夾住被困的上臂，膝蓋壓緊。第二，你的髖部必須靠近對手被困的肩膀，以獲得最大旋轉槓桿力。第三，你必須控制對手的遠端髖部，防止前滾逃脫。三者若沒有全部到位，finish 要嘛力道不足以逼出拍，要嘛留下逃脫的路徑。",
+    "safety_critical": false,
+    "answer_line": "夾緊手臂、髖部靠近、控遠端髖",
+    "distractors": {
+     "plausible": [
+      "只靠握力就好",
+      "把手腕往地墊方向拉"
+     ],
+     "trap": [
+      "不管前滾、提早硬拗"
+     ]
+    }
+   },
+   {
+    "question": "在 omoplata 流程中，對手在哪個時間點會過了不能逃脫的臨界點？",
+    "answer": "不能逃脫的臨界點發生在：攻擊者完全坐直、對手的軀幹胸口貼平地墊、攻擊者的雙腿緊緊夾住被困的手臂，且遠端髖部已被控制的時候。在這個配置下，對手無法前滾（髖部被控制）、無法 posture up（被壓平且被夾緊）、也無法抽出手臂（雙腿夾緊）。此時攻擊者任何的髖部伸展，都會直接轉化為肩關節的壓力，沒有可行的逃脫機制。",
+    "safety_critical": false,
+    "answer_line": "坐直、軀幹壓平、腿夾緊、控髖",
+    "distractors": {
+     "plausible": [
+      "腿一跨過肩膀就是",
+      "腳踝一交叉就是"
+     ],
+     "trap": [
+      "他們一 post 就硬拗過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 omoplata 的 finish 必須緩慢漸進地施加，而不是快速猛拗？",
+    "answer": "肩關節特別容易受到突然的旋轉力傷害，因為痛覺反應會落後於實際的結構性損傷。對手可能在韌帶或關節囊已經受損之前，都還沒完全感受到壓力的嚴重程度。緩慢漸進的施加方式，能讓對手有時間察覺威脅並在受傷前拍。快速猛烈的施力則有可能在雙方都還來不及反應之前，就造成肩膀脫臼或旋轉肌袖撕裂。",
+    "safety_critical": true,
+    "answer_line": "痛覺會落後於關節損傷",
+    "distractors": {
+     "plausible": [
+      "慢慢施壓能產生更多扭力",
+      "讓你有時間重新抓握"
+     ],
+     "trap": [
+      "趁對方還沒防守前快速扯開"
+     ]
+    }
+   },
+   {
+    "question": "從 Spider Guard 進的 omoplata 和從 closed guard 進的有什麼不同？",
+    "answer": "從 Spider Guard 進攻時，手臂已經透過 sleeve grip 和腳踩二頭肌的配置被孤立並伸展開，因此甩腿動作更直接，因為對手的手臂早已在一定距離外被控制。從 closed guard 進攻時，你必須先破 posture，再用 overhook 或控腕孤立一隻手臂，然後才能製造出甩腿的角度。Spider Guard 提供更流暢的進攻方式，因為手臂孤立與角度的製造，本來就內建在這個 guard 的基本結構中。",
+    "safety_critical": false,
+    "answer_line": "Spider Guard 手臂已被孤立",
+    "distractors": {
+     "plausible": [
+      "closed guard 進攻更快",
+      "兩者的設置完全相同"
+     ],
+     "trap": [
+      "posture 不破就直接甩腿"
+     ]
+    }
+   },
+   {
+    "question": "面對高段位對手時，哪些比賽 finish 策略能提高 omoplata 的成功率？",
+    "answer": "面對高段位對手時，應該把 omoplata 和其他攻擊串連在一起，而不是單獨依賴它作為唯一 finish。用 triangle 的威脅逼對手用雙手防守，再孤立其中一隻手臂進攻 omoplata。當他們用雙手互扣防守 omoplata 時，就轉換成 sweep 得分，這往往會逼他們鬆開互扣的手。控制被困手臂的手腕，防止靠 grip 的防守，並隨時維持遠端髖部控制，消除高段位對手最常見的反制——前滾。",
+    "safety_critical": false,
+    "answer_line": "串連 triangle，控制手腕",
+    "distractors": {
+     "plausible": [
+      "只靠 omoplata 單一 finish",
+      "放棄控髖，直接改 sweep"
+     ],
+     "trap": [
+      "放開控腕，做 arm-drag 逃開"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Spider Guard 進的 omoplata 正在被設置時，最早的辨識線索是什麼？",
+    "answer": "最早的線索是感覺到不對稱的 sleeve 壓力——一隻手臂被拉得明顯比另一隻用力，同時那一側的腳踩著二頭肌往外推。這會製造出 omoplata 進攻所需的角度與手臂孤立。當你感覺到一隻手臂被更用力地往對手髖部方向拉、另一隻被往外推時，他們正在設置甩腿所需的進攻角度。",
+    "safety_critical": false,
+    "answer_line": "sleeve 拉力不對稱、腳外推",
+    "distractors": {
+     "plausible": [
+      "兩邊 sleeve 拉力一樣大",
+      "他們改抓遠端 collar"
+     ],
+     "trap": [
+      "先不理會，等腿甩過來再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼前滾逃脫必須立刻執行，而不是先評估情勢再說？",
+    "answer": "前滾逃脫的有效時機窗口很窄，會在攻擊者的腿跨過你肩膀後一到兩秒內關閉。一旦攻擊者坐起來並抓住你的遠端髖部，這個滾動就會被實質擋住，你也會失去成功率最高的逃脫機會。每花一刻評估情勢，都是在讓攻擊者用來建立讓滾動變得不可能的控制。感覺到腿一跨過肩膀，就要立刻投入滾動。",
+    "safety_critical": false,
+    "answer_line": "窗口很快關閉，立刻行動",
+    "distractors": {
+     "plausible": [
+      "任何階段滾動都有效",
+      "晚一點滾動槓桿力更大"
+     ],
+     "trap": [
+      "只有他們坐起來後才滾"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 omoplata 拍，而不是繼續對抗這個 submission？",
+    "answer": "如果你感覺到肩膀有銳痛、關節有摩擦或喀喀聲、軀幹已經完全被壓平且攻擊者已完全控制髖部而沒有任何逃脫選項，或攻擊者已開始施加 finishing 壓力而你在兩到三秒內無法啟動任何逃脫時，就要立刻拍。肩關節可能在你完全意識到壓力的嚴重程度之前，就已經承受永久性損傷。如果有疑慮，就寧可早拍——訓練中的位置可以重來，但受傷的肩膀不行。",
+    "safety_critical": true,
+    "answer_line": "肩膀一有銳痛就拍",
+    "distractors": {
+     "plausible": [
+      "等到肩膀完全鎖死再拍",
+      "手臂麻了才拍"
+     ],
+     "trap": [
+      "用力爆發把手臂扯出來"
+     ]
+    }
+   },
+   {
+    "question": "如何在維持你的 spider guard 過 guard 位置的同時，防止 omoplata 進攻？",
+    "answer": "維持穩固的雙側 posture，用雙臂同等的力量抵抗任何不對稱的拉力。讓手肘貼緊軀幹，不要讓它們被拉離身體。當你感覺到某一側的 sleeve 被拉得更用力時，立刻在那一側往前踏步，減少甩腿所需的角度空間。當你感覺到對手正在為旋轉加載髖部力量時，主動把 sleeve grip 撬開。系統性地處理 spider guard 的抓握，然後再嘗試過 guard。",
+    "safety_critical": false,
+    "answer_line": "均等抵抗拉力，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "站直直接跳過 guard",
+      "抓住雙腳踝不動"
+     ],
+     "trap": [
+      "伸直手臂去掙脫 grip"
+     ]
+    }
+   }
+  ]
+ }
+}

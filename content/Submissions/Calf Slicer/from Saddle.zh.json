@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Calf Slicer/from Saddle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 saddle 進行的 calf slicer 主要攻擊哪些解剖構造？",
+    "answer": "Calf slicer 主要是把小腿的腓腸肌與比目魚肌壓迫在你的脛骨上，脛骨在膝窩後方扮演支點的角色。當腳被折疊時，阿基里斯腱會承受次要壓力，膝關節本身也會承受過度屈曲的壓力。肌肉壓迫與關節壓力的組合，會形成迫使對手 tap 的疼痛。",
+    "safety_critical": false,
+    "answer_line": "小腿肌肉被壓在脛骨上",
+    "distractors": {
+     "plausible": [
+      "大腿後側的膕繩肌",
+      "腳折疊時的踝關節"
+     ],
+     "trap": [
+      "神經壓迫，只會麻不會痛"
+     ]
+    }
+   },
+   {
+    "question": "你建立 saddle 之後，對手把腳跟藏起來——這是如何創造出 calf slicer 的機會？",
+    "answer": "當對手把膝蓋往內旋轉以躲避 heel hook 攻擊、藏住腳跟時，他們會彎曲膝蓋，正好形成 calf slicer 所需的配置。他們彎曲的腿會讓小腿正好落在你的脛骨上方，而藏腳跟的旋轉動作代表他們無法在不重新暴露腳跟的情況下把腿伸直。這個防守上的兩難，正是 calf slicer 能與 saddle 的 heel hook 如此有效搭配的主要戰術原因。",
+    "safety_critical": false,
+    "answer_line": "彎膝為折疊創造條件",
+    "distractors": {
+     "plausible": [
+      "伸直的腿能讓折疊成立",
+      "髖部旋轉會阻擋折疊"
+     ],
+     "trap": [
+      "把腿伸直，等於餵給對手你的腳跟"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展 calf slicer 時，有哪些關鍵的安全準則？",
+    "answer": "施加壓迫時要漸進，時間至少拉長到 5 到 7 秒，絕不能猛拉或突然加速。要留意口頭 tap，因為腿部纏繞可能讓對手無法用手拍打表示 tap。一旦收到任何 tap 訊號就立刻放開，先放開對腳的控制，再慢慢移除脛骨的壓力。繼續訓練前，先檢查夥伴小腿的活動能力與感覺。絕對不要在對手 tap 之後還保持鎖住的姿勢來練習收尾的手感。",
+    "safety_critical": true,
+    "answer_line": "緩慢加壓，立刻放開",
+    "distractors": {
+     "plausible": [
+      "只靠手部 tap 來判斷停止",
+      "先放開脛骨再放開腳"
+     ],
+     "trap": [
+      "對手 tap 後仍維持鎖住"
+     ]
+    }
+   },
+   {
+    "question": "夥伴 tap 之後，你應該如何解除 calf slicer 以避免受傷？",
+    "answer": "一聽到或感覺到 tap，就立刻停止施加任何額外的壓迫力量。先放開你抓腳的手，讓腿自然地展開。接著緩慢地把脛骨從對手膝蓋後方抽出，不要有任何猛拉動作。在你解開 saddle 纏繞之前，讓夥伴以自己的節奏把腿完全伸直。永遠記得確認夥伴是否需要一些時間，再繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "停止壓迫，緩慢展開",
+    "distractors": {
+     "plausible": [
+      "先鬆開 saddle 的勾腿",
+      "先抽出脛骨再放開腳"
+     ],
+     "trap": [
+      "持續施壓直到對手放鬆"
+     ]
+    }
+   },
+   {
+    "question": "對手在折疊過程中開始把被困的腿伸直——什麼調整能阻止逃脫？",
+    "answer": "積極地把你的髖部往前推進對手的大腿，以對抗他們的伸展力量。同時更用力把對手的腳往你的胸口拉。如果對手達成部分伸展，你有兩個選擇：加強髖部推進以把腿重新彎回去，或是放棄 calf slicer，立刻轉換到 heel hook 攻擊，因為對手伸直的動作會重新暴露腳跟。當 heel hook 有機會時，絕對不要繼續打一場對抗腿部伸展的敗仗。",
+    "safety_critical": false,
+    "answer_line": "推進髖部，或轉換到 heel hook",
+    "distractors": {
+     "plausible": [
+      "拉腳，髖部保持不動",
+      "夾緊膝蓋，等對手耗盡力氣"
+     ],
+     "trap": [
+      "坐回去，放開 saddle"
+     ]
+    }
+   },
+   {
+    "question": "在這個壓迫動作中，正確的脛骨擺放位置和錯誤的擺放位置有什麼區別？",
+    "answer": "正確的擺放是把你脛骨的平面直接放在膝窩後方，接觸腓腸肌肥厚的肌腹。錯誤的擺放如果太高，會把脛骨放在膕繩肌上，壓迫效果較差；如果太低，則會針對阿基里斯腱區域，這會在沒有相應增加疼痛順從度的情況下提高受傷風險。理想的接觸感覺應該是脛骨自然地嵌入膝關節後方的凹陷處。",
+    "safety_critical": false,
+    "answer_line": "脛骨放在膝蓋後方、小腿肌腹上",
+    "distractors": {
+     "plausible": [
+      "位置偏高，橫跨膕繩肌",
+      "位置偏低，壓在阿基里斯腱上"
+     ],
+     "trap": [
+      "用脛骨邊緣猛壓膝關節"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的抓握配置能為收尾的折疊動作提供最強的控制？",
+    "answer": "最理想的收尾抓握是對對手的腳鎖出 figure-four：把靠近側的手臂穿過對手腳踝下方，再用另一隻手扣住自己靠近側的手腕。這會形成一個自我加強的鎖，不必依賴單獨的握力。一開始的設置是用雙手張開分別放在腳上——靠近側的手托住腳跟，另一隻手放在前腳掌——等折疊超過臨界點、對手再也無法把腿伸直後，再轉換成 figure-four。",
+    "safety_critical": false,
+    "answer_line": "對腳鎖出 figure-four",
+    "distractors": {
+     "plausible": [
+      "雙手抓握，不上鎖",
+      "在腳踝上用交扣式抓握"
+     ],
+     "trap": [
+      "放開雙腿去夾腳"
+     ]
+    }
+   },
+   {
+    "question": "在把手從 heel hook 抓握轉換到 calf slicer 抓握的過程中，你要如何維持 saddle 的控制？",
+    "answer": "這個轉換必須是循序進行，而不是同時進行。首先，確保你的腿部纏繞緊實，並保持強力的髖部壓力。放開 heel hook 抓握的其中一隻手，另一隻手則維持接觸。把空出來的手移到對手的腳上，建立 calf slicer 的控制。只有在第一隻手已經穩固抓在腳上之後，才放開第二隻手、完成整個抓握轉換。整個過程中，位置控制的重擔都要靠你的雙腿承擔。",
+    "safety_critical": false,
+    "answer_line": "依序換手，雙腿維持控制",
+    "distractors": {
+     "plausible": [
+      "同時放開雙手",
+      "換手時放鬆腿部壓力"
+     ],
+     "trap": [
+      "放開纏繞去抓握"
+     ]
+    }
+   },
+   {
+    "question": "在從 saddle 選擇施展 calf slicer 還是 heel hook 時，有哪些比賽策略上的考量？",
+    "answer": "在 submission-only 賽制中，calf slicer 是一種次要威脅，能逼迫對手離開藏腳跟的防守姿勢，重新打開成功率更高的 heel hook。在計分制比賽中，時間有限時可能更適合選擇 calf slicer，因為一旦折疊鎖上，它能更快逼出 tap。在 heel hook 違法但你的腰帶等級允許 calf slicer 的規則下，它會成為主要的攻擊手段。務必在比賽前確認規則的合法性。",
+    "safety_critical": false,
+    "answer_line": "Slicer 能重新打開 heel hook",
+    "distractors": {
+     "plausible": [
+      "只有在比分持平時才有用",
+      "從 saddle 最佳的開局招式"
+     ],
+     "trap": [
+      "在規則禁止的情況下照樣攻擊"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正在從 saddle 從 heel hook 轉換到 calf slicer？",
+    "answer": "主要的辨識線索是感覺到對手放開 heel hook 的抓握，把雙手都轉向你的腳和腳踝。你會感覺到膝窩後方的脛骨壓力增加，這是他們正在為折疊動作做位置準備。對手的髖部壓力通常會在準備往前推進時增加，你也可能注意到他們稍微調整身體角度，以優化壓迫的方向線。",
+    "safety_critical": false,
+    "answer_line": "感覺抓握從腳跟轉向腳",
+    "distractors": {
+     "plausible": [
+      "感覺對手的髖部放鬆",
+      "感覺你的腳踝旋轉自由"
+     ],
+     "trap": [
+      "轉身，等於餵給對手你的腳跟"
+     ]
+    }
+   },
+   {
+    "question": "面對從 saddle 而來的 calf slicer，最安全的 tap 方式是什麼，才能避免受傷？",
+    "answer": "優先用口頭 tap，因為你的手可能正忙於破解抓握，或是被困在腿部纏繞中。清楚且反覆地喊出 tap。如果能空出一隻手，就快速拍打對手或墊子。一旦察覺折疊已經鎖上、壓迫正在增加，就立刻 tap——不要等著看能不能逃脫。因延遲 tap 造成的小腿傷害恢復期很長，重新開始訓練永遠比受傷更划算。",
+    "safety_critical": true,
+    "answer_line": "大聲、用口頭立刻 tap",
+    "distractors": {
+     "plausible": [
+      "只用空出的手示意",
+      "拍墊子就好，不要喊"
+     ],
+     "trap": [
+      "硬撐著期待能逃脫"
+     ]
+    }
+   },
+   {
+    "question": "被從 saddle 而來的 calf slicer 困住時，有哪些防守選項？",
+    "answer": "你的主要防守是在折疊鎖上之前把被困的腿伸直，解除壓迫角度。你也可以在轉換階段用二對一的抓握破解對手在你腳上的抓握。用你的自由腿頂住對手的髖部做出 frame，能製造空間，可能讓你完全抽腿。如果折疊已經鎖到無法回頭的程度，正確的防守行動就是立刻 tap，而不是冒著受傷的風險硬撐。",
+    "safety_critical": false,
+    "answer_line": "在折疊鎖上前把腿伸直",
+    "distractors": {
+     "plausible": [
+      "在折疊固定後才破解抓握",
+      "用被困的腳做 frame"
+     ],
+     "trap": [
+      "硬用力量對抗已鎖上的 slicer"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把腿伸直既是主要的防守方式，同時又可能是一個陷阱？",
+    "answer": "把腿伸直能解除 calf slicer 所需的彎膝配置，這也是它作為主要防守方式有效的原因。然而，你的膝蓋一開始會彎曲，很可能是為了在 heel hook 攻擊中藏住腳跟。把腿伸直會重新暴露腳跟，對手可以立刻放棄 calf slicer，轉而攻擊現在露出來的腳跟。你必須在伸直腿的同時保持一定程度的膝蓋旋轉來保護腳跟，藉此應付這個兩難局面。",
+    "safety_critical": false,
+    "answer_line": "解除 slicer，卻暴露腳跟",
+    "distractors": {
+     "plausible": [
+      "只有轉身時才有風險",
+      "解放膝蓋，腳跟仍藏著"
+     ],
+     "trap": [
+      "完全伸直，不管腳跟的風險"
+     ]
+    }
+   }
+  ]
+ }
+}

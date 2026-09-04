@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Inside Heel Hook/from Inside Sankaku.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Inside Sankaku 的 heel hook 主要攻擊哪些解剖結構？為什麼這個 submission 被認為特別危險？",
+    "answer": "inside heel hook 主要透過 heel 施加的旋轉力攻擊膝蓋的內側副韌帶（MCL）與前十字韌帶（ACL），同時也會透過旋轉壓迫威脅半月板。這個 submission 特別危險，是因為這些韌帶在斷裂前幾乎不會有任何疼痛警訊——不像一般 joint lock 會產生漸進式疼痛，膝蓋可能在不到一秒內就從幾乎沒有壓力感，變成韌帶完全撕裂。",
+    "safety_critical": true,
+    "answer_line": "撕裂膝蓋韌帶，毫無預警",
+    "distractors": {
+     "plausible": [
+      "把踝關節扭開",
+      "拉伸阿基里斯腱"
+     ],
+     "trap": [
+      "等到痛了再 tap"
+     ]
+    }
+   },
+   {
+    "question": "對手正把 heel 藏在自己的髖部，哪些跡象告訴你 heel 即將暴露？",
+    "answer": "留意對手的髖屈肌開始疲勞，表現為他們的膝蓋開始從身體漂離，以及被困住的腿出現微小的不自主伸直動作。他們抓自己腳踝的 grip 會因為前臂肌肉疲勞而變弱，可以看到手指重新調整或鬆開。當他們移動自由腿去撐起或試圖逃脫時，軀幹的旋轉往往會暫時打開 heel。持續施加的髖部壓力會加速這些疲勞跡象出現，因為維持藏 heel 的姿勢會消耗更多能量。",
+    "safety_critical": false,
+    "answer_line": "膝蓋漂移、grip 鬆開、疲勞",
+    "distractors": {
+     "plausible": [
+      "呼吸開始變快",
+      "自由腿完全靜止不動"
+     ],
+     "trap": [
+      "直接搶 heel，放棄腿的控制"
+     ]
+    }
+   },
+   {
+    "question": "在投入 finishing grip 之前，必須確認哪三個控制點？",
+    "answer": "三個必要的控制點是：第一，hip-to-hip 連結，你的髖部要緊貼對手髖部以防止逃脫空間；第二，knee line 的主導權，你的 figure-four 腿部配置要阻擋對手把膝蓋轉過屏障；第三，entanglement 的完整性，你的外側腿要正確跨過內側腿以維持結構性的三角。只有這三點都確認後，才可以開始建立 grip。",
+    "safety_critical": false,
+    "answer_line": "髖對髖、knee line、entanglement",
+    "distractors": {
+     "plausible": [
+      "胸部壓力與頭部位置",
+      "wrist blade 在阿基里斯腱的深度"
+     ],
+     "trap": [
+      "提早硬上，結果被 spin 過去、passed"
+     ]
+    }
+   },
+   {
+    "question": "在 finishing 過程中，到了哪個時間點對手就過了無法逃脫的臨界點，只能選擇 tap？",
+    "answer": "無法逃脫的臨界點是在你已經用 wrist blade 抵住阿基里斯腱建立好 two-on-one grip、腳已經被夾在腋下、並且開始施加旋轉壓力之後。一旦旋轉力透過 heel 傳到膝蓋韌帶，對手就無法在不冒韌帶受傷風險的情況下安全抽腿。在此之前，他們還能繼續 grip 對抗、藏 heel 或清 knee line。過了這個點，唯一安全的選擇就是立刻 tap。",
+    "safety_critical": true,
+    "answer_line": "blade 抵阿基里斯腱、開始旋轉",
+    "distractors": {
+     "plausible": [
+      "腿一被隔離就到臨界點",
+      "grip 剛建立就到臨界點"
+     ],
+     "trap": [
+      "要等到膝蓋垮掉才算"
+     ]
+    }
+   },
+   {
+    "question": "你已經建立好 blade grip，但對手正用 two-on-one 積極把你的手拉開，你該如何調整 grip 策略？",
+    "answer": "用你的空手一次剝開一隻對手的防守手，同時維持 wrist blade 與阿基里斯腱的接觸。如果他們的 two-on-one 太強無法直接剝開，就改為朝反方向翻身進入 belly-down finish，同時保持 heel grip——belly-down 位置會讓他們的 two-on-one grip 對抗在機制上處於劣勢，因為他們必須對抗重力。另一個做法是先用假 grip 控制他們的腳趾，剝掉他們藏 heel 的姿勢，等到 heel 暴露後再換成真正的 heel grip。",
+    "safety_critical": false,
+    "answer_line": "剝一隻手，或轉 belly-down",
+    "distractors": {
+     "plausible": [
+      "同時對抗兩隻手，硬拉",
+      "放開重新來過"
+     ],
+     "trap": [
+      "在 grip 對抗中硬扯旋轉"
+     ]
+    }
+   },
+   {
+    "question": "從 Inside Sankaku 導致 finishing 失敗最常見的錯誤是什麼？該如何修正？",
+    "answer": "最常見的錯誤是用手臂力量而非讓整個軀幹與髖部參與來產生旋轉力。用手臂硬拗 heel hook 的人很快就會疲勞，對抗抵抗中的對手產生的力量不足，而且因為手臂是各自獨立在用力而非作為統一結構的一部分，會給對方剝 grip 的機會。修正方式是把手肘緊夾在肋骨兩側，把腳固定在腋下，然後整個軀幹當成一個整體來旋轉。手臂只作為結構連接，核心與髖部才是旋轉力量的來源。",
+    "safety_critical": false,
+    "answer_line": "用手臂而非軀幹旋轉",
+    "distractors": {
+     "plausible": [
+      "沒夾緊腋下的腳",
+      "整體旋轉速度太慢"
+     ],
+     "trap": [
+      "用手腕再用力硬拗"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，你該如何鬆開 Inside Sankaku heel hook？要避免哪些錯誤？",
+    "answer": "一收到任何 tap 訊號——不論是口頭、手拍、腳拍或任何求救的聲音——都要立刻釋放全部旋轉壓力。不要把 grip 調整完再放，也不要再多擠一下。放開旋轉後要短暫維持腿部位置，讓夥伴能安全抽腿而不需要突然的甩動。要避免的關鍵錯誤是在 tap 之後任何一瞬間繼續施加旋轉壓力。inside heel hook 可能在延遲鬆手與韌帶斷裂之間造成不可逆的傷害。務必在恢復訓練前，口頭確認夥伴沒有受傷。",
+    "safety_critical": true,
+    "answer_line": "一被 tap 立刻停止旋轉",
+    "distractors": {
+     "plausible": [
+      "花一秒慢慢放鬆",
+      "等對方喊停才放"
+     ],
+     "trap": [
+      "再擠一下才放手"
+     ]
+    }
+   },
+   {
+    "question": "在比賽情境中，對手在藏 heel 拖延時間，該用什麼系統性的壓力升級來迫使他反應？",
+    "answer": "先用持續的向前髖部壓力來讓對方的髖屈肌與藏 heel 的姿勢疲勞。當出現疲勞跡象時，改用假 grip 控制腳來威脅 toe hold——這會迫使對方在防守 toe hold 與繼續保護 heel 之間做選擇。如果他們去處理 toe hold，藏 heel 的力道就會變弱，你便可轉換成真正的 heel grip。如果他們持續藏 heel，就把 toe hold 當成正式 submission 來完成。這種製造兩難的方法能逼對方做出防守決策，而不是被動拖延——在有時間限制的比賽中至關重要。",
+    "safety_critical": false,
+    "answer_line": "用 toe hold 威脅逼對方選擇",
+    "distractors": {
+     "plausible": [
+      "更用力和他們的手拚 grip",
+      "換腳重新進入"
+     ],
+     "trap": [
+      "放開腿重新回到 guard"
+     ]
+    }
+   },
+   {
+    "question": "髖部伸展在 finishing 機制中扮演什麼角色？應該在什麼時候加入旋轉壓力中？",
+    "answer": "髖部伸展加入了一個次要力量向量，與旋轉結合後大幅增加膝蓋韌帶的壓力。做法是把髖部向前推，同時維持旋轉對位，同時創造扭轉與過度伸展兩種力量。髖部伸展應該只在單靠控制旋轉還無法讓對方 tap 時才加入——這是壓力序列中的最後一個升級。訓練中加入髖部伸展時應該極度謹慎、用最小的力道，因為這代表 submission 中風險最高的階段，韌帶斷裂在此發生得最快。",
+    "safety_critical": true,
+    "answer_line": "旋轉之後加入過度伸展",
+    "distractors": {
+     "plausible": [
+      "finishing 一開始就先做的動作",
+      "取代旋轉壓力"
+     ],
+     "trap": [
+      "一開始就用全力"
+     ]
+    }
+   },
+   {
+    "question": "你只有部分掌握對手 heel 的 grip 時，對手開始做 rolling escape——你該維持 grip 還是放開重新建立位置？",
+    "answer": "如果你的 grip 已經穩固，wrist blade 抵著阿基里斯腱且腳被夾在腋下，就維持 grip 並跟著翻滾——逃脫動作本身的旋轉其實可能因為對手自己的動能而加速 submission 的完成。如果你的 grip 只是部分而腳沒有夾在腋下，就放開 grip，專注於在翻滾過程中維持 Inside Sankaku 的 entanglement。在動態翻滾的混戰中維持不完整的 grip，會產生不可預測的力量，對雙方的膝蓋都有失控受傷的風險。位置隨時可以重新建立；但訓練中韌帶斷了無法重新接回去。",
+    "safety_critical": true,
+    "answer_line": "grip 穩固就跟著翻滾",
+    "distractors": {
+     "plausible": [
+      "永遠放開重新來",
+      "部分 grip 也繼續旋轉"
+     ],
+     "trap": [
+      "不管情況，強行在混戰中完成 finish"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些最早的辨識訊號告訴你，對方正在設置 Inside Sankaku heel hook？",
+    "answer": "最早的訊號是感覺到對手的雙腿以外側腿跨過內側腿的方式在你被困的腿周圍形成三角，加上他們的髖部逐漸向你貼近、壓力增加。你會感覺到膝蓋的旋轉開始受限，因為他們的腿部配置阻擋了你轉動的能力。當他們維持這個腿部配置、同時開始用雙手伸向你的腳或腳踝時，heel hook 的設置就已經在進行中。",
+    "safety_critical": false,
+    "answer_line": "雙腿夾三角，髖部貼近",
+    "distractors": {
+     "plausible": [
+      "他們的髖部往後退開",
+      "他們的外側腿沒有跨過"
+     ],
+     "trap": [
+      "先不理它，還不算危險"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該對 Inside Sankaku heel hook tap？該用哪些 tap 訊號？",
+    "answer": "一感覺到任何旋轉壓力透過 heel 傳到膝蓋，就要立刻 tap——不要等著評估自己還能不能逃脫。可以使用任何可行的 tap 訊號：口頭說「tap」或「stop」、至少拍兩下夥伴或地墊的手拍、用自由腿做腳拍，或任何表示痛苦的聲音。inside heel hook 在韌帶斷裂前幾乎不會有疼痛警訊，所以一旦感覺到 grip 已鎖定且開始旋轉，你能安全 tap 的時間窗口正在快速關閉。",
+    "safety_critical": true,
+    "answer_line": "旋轉一開始就立刻 tap",
+    "distractors": {
+     "plausible": [
+      "只有口頭 tap 才算數",
+      "grip 防守失敗才 tap"
+     ],
+     "trap": [
+      "等到痛了再 tap"
+     ]
+    }
+   },
+   {
+    "question": "當你發現自己被困在 Inside Sankaku 中，你最優先的防守動作是什麼？",
+    "answer": "你最優先的動作是藏好 heel，把它緊緊壓向自己的髖部，腳趾朝內、膝蓋朝外轉。用靠近的那隻手抓住自己的腳踝來加強藏 heel 的姿勢。這必須在任何逃脫嘗試之前完成，因為一旦 heel 暴露，inside heel hook 可能在不到一秒內就被鎖上。保護 heel 能為你爭取時間去評估逃脫選項，並開始有系統地執行防守流程。",
+    "safety_critical": true,
+    "answer_line": "把 heel 藏向自己的髖部",
+    "distractors": {
+     "plausible": [
+      "先剝對方遠側的 grip",
+      "坐起來和對方拚手"
+     ],
+     "trap": [
+      "轉身朝他們逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手暫時放鬆了髖部壓力去調整 grip，這創造了什麼逃脫機會？",
+    "answer": "髖部壓力的消失是你主要的逃脫窗口，因為正是那個 hip-to-hip 的連結才阻止你創造抽腿的空間。立刻用自由腿當作推撐的框架，抵著他們的髖部或地墊，把你的髖部往後推。在製造空間的同時，開始把被困的膝蓋往胸口拉，同時用靠近的手保持在腳踝上保護 heel。你必須動作快，因為對手會在一到兩秒內察覺這個空隙並重新施加髖部壓力。",
+    "safety_critical": false,
+    "answer_line": "髖部往後推，抽出膝蓋",
+    "distractors": {
+     "plausible": [
+      "等更大的空檔出現",
+      "先攻擊對方另一條腿"
+     ],
+     "trap": [
+      "轉身朝對方的髖部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼試圖轉身通過 knee line 是 Inside Sankaku 中最糟的防守錯誤？",
+    "answer": "轉身通過 knee line 是災難性的，因為這會把你的第二條腿也帶進 entanglement，直接轉入 Saddle 位置，讓雙腿都被困住。Saddle 給對手更大的控制，消除你大部分剩餘的逃脫選項，而且往往比原本的 Inside Sankaku 更完全地暴露你的 heel。這個錯誤實際上是在幫對手進入更強勢的位置，同時消耗你自己的能量在一個讓處境更糟的動作上。所有的逃脫動作都應該朝遠離對手的方向，以創造距離。",
+    "safety_critical": false,
+    "answer_line": "把第二條腿也送進 Saddle",
+    "distractors": {
+     "plausible": [
+      "清 knee line 讓自己自由",
+      "把腿伸直脫離鎖定"
+     ],
+     "trap": [
+      "清過膝蓋就安全了"
+     ]
+    }
+   }
+  ]
+ }
+}

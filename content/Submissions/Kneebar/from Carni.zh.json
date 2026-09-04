@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kneebar/from Carni.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Carni 進行的 kneebar 主要攻擊哪些解剖構造？",
+    "answer": "從 Carni 進行的 kneebar 主要透過強迫膝關節過度伸展，攻擊後十字韌帶（PCL）與內側副韌帶（MCL）。次要受害構造包括關節囊與半月板。你的髖部作為支點頂在對手膝蓋後方形成槓桿，把關節推超過自然伸展範圍，讓這些韌帶承受超出負荷的壓力。",
+    "safety_critical": true,
+    "answer_line": "PCL 與 MCL，靠過度伸展",
+    "distractors": {
+     "plausible": [
+      "旋轉肌袖肌腱",
+      "頸椎韌帶"
+     ],
+     "trap": [
+      "腳踝與阿基里斯腱"
+     ]
+    }
+   },
+   {
+    "question": "有哪些身體訊號告訴你 kneebar 已經接近臨界點？",
+    "answer": "臨界點的訊號包括對手的腿完全變僵硬、已無法再彎曲，身體語言和表情出現明顯的痛苦，關節到達活動終端時感受到的是骨頭硬碰硬的阻力而不是肌肉張力，以及膝關節發出任何啪聲或喀聲。只要出現這些跡象，即使對手沒有出聲 tap，也要立刻停止。",
+    "safety_critical": true,
+    "answer_line": "腿變僵硬，撞到硬停點",
+    "distractors": {
+     "plausible": [
+      "只靠口頭 tap",
+      "肌肉張力增加"
+     ],
+     "trap": [
+      "逼緊一點直到感覺對方 tap"
+     ]
+    }
+   },
+   {
+    "question": "從 Carni 進攻 kneebar 完成技之前，必須先建立哪些控制？",
+    "answer": "完成之前，你必須把髖部貼緊放在對手膝蓋正後方、不留任何空隙，雙腿在對手大腿膝蓋上方形成triangle住防止抽腿，用 gable grip 或 C-grip 把對手的小腿緊緊固定在你胸口，並用腿的三角控制住對手髖部的旋轉。少了這四個控制點中的任何一個，對手都可能在技術生效前靠彎膝、翻滾或抽腿逃脫。",
+    "safety_critical": false,
+    "answer_line": "髖貼膝蓋後方，雙腿三角鎖",
+    "distractors": {
+     "plausible": [
+      "只要抓緊腳踝就好",
+      "十字腳踝再後仰"
+     ],
+     "trap": [
+      "放開triangle，只拉小腿"
+     ]
+    }
+   },
+   {
+    "question": "在 kneebar 的流程中，對手到了哪個時間點就已經無法逃脫？",
+    "answer": "無法逃脫的時間點，是在腿的triangle已經扣在膝蓋上方、小腿已固定在你胸口，且髖部伸展已經開始、膝蓋接近 180 度伸直時。一旦關節到達自然活動終端，而攻擊者的髖部持續向前推進，防守者就無法產生足夠力量對抗這個合力去彎曲膝蓋。在這個時間點之前，強力的彎膝動作仍有機會抽出腿。",
+    "safety_critical": false,
+    "answer_line": "Triangle扣緊，髖部正在伸展",
+    "distractors": {
+     "plausible": [
+      "一抓到小腿就算",
+      "對手停止動作時"
+     ],
+     "trap": [
+      "只要你人在地板上"
+     ]
+    }
+   },
+   {
+    "question": "對手在你進攻 kneebar 時開始用力彎膝抵抗，你該如何調整才能避免逃脫？",
+    "answer": "當對手用力彎膝時，不要用更大的伸展力去對抗這個彎曲動作。而是維持你的腿triangle位置，立刻把握位轉回對手的腳跟，重新建立 heel hook 的威脅。對手彎曲的膝蓋正好會暴露出腳跟讓你攻擊。這會製造一個根本性的兩難：伸直就面對 kneebar，彎曲就面對 heel hook。讓對手的防守選擇來決定你下一步的攻擊。",
+    "safety_critical": false,
+    "answer_line": "轉換抓握攻 heel hook",
+    "distractors": {
+     "plausible": [
+      "改攻 toe hold",
+      "換邊重新triangle"
+     ],
+     "trap": [
+      "硬拗伸展去對抗彎曲"
+     ]
+    }
+   },
+   {
+    "question": "當對手抵抗時，在 kneebar 完成技過程中該如何調整握法？",
+    "answer": "隨著阻力增加，從標準的 gable grip 換成更深的 butterfly grip，雙手扣住腳踝、前臂壓在對手腳背上。把小腿更緊地拉向你的胸骨，握法角度稍微朝對手小拇趾側偏，防止旋轉逃脫。如果對手試圖扭動掙脫，把下巴壓在對手的小腿上增加第三個接觸點，消除所有空隙來加強控制。",
+    "safety_critical": false,
+    "answer_line": "換 butterfly grip，角度朝小拇趾",
+    "distractors": {
+     "plausible": [
+      "改用 gable grip",
+      "抓腳趾用力扭轉"
+     ],
+     "trap": [
+      "放鬆握力重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "訓練中從 Carni 施展 kneebar 時，正確的安全守則是什麼？",
+    "answer": "施展 kneebar 時要用緩慢、漸進的髖部伸展，至少維持 3 到 5 秒。絕對不要用爆發性或猛烈的抽動作。持續留意夥伴的 tap 訊號，包括口頭、手部或腳部的 tap。一旦收到任何 tap 訊號，立刻釋放所有髖部壓力，讓夥伴以自己的節奏抽出腿。訓練前先溝通彼此的 leg lock 經驗程度，未經對方明確同意，絕不對有膝蓋舊傷的夥伴施展 kneebar。",
+    "safety_critical": true,
+    "answer_line": "緩慢伸展，一 tap 就放",
+    "distractors": {
+     "plausible": [
+      "tap 後仍維持位置",
+      "快速穩定加壓"
+     ],
+     "trap": [
+      "快狠地直接扣上去"
+     ]
+    }
+   },
+   {
+    "question": "從 Carni 完成 kneebar，跟比賽中單獨進入 kneebar 的方式有什麼不同？",
+    "answer": "在比賽中，源自 Carni 的 kneebar 受益於既有的腿纏繞控制，以及先前 heel hook 帶來的威脅。對手往往心理上專注於防守 heel hook，這會延遲他們察覺 kneebar 轉換的時機。比賽策略是把 heel hook 當作主要威脅，同時觀察對手的伸展反應，然後比訓練時更快地轉換到 kneebar，同時維持控制。既有的 Carni 控制代表比從零開始進入 kneebar 需要更少的設置時間。",
+    "safety_critical": false,
+    "answer_line": "Carni 縮短設置時間",
+    "distractors": {
+     "plausible": [
+      "kneebar 永遠比較快",
+      "heel hook 威脅可以忽略"
+     ],
+     "trap": [
+      "完全放棄 heel hook 威脅"
+     ]
+    }
+   },
+   {
+    "question": "對手在你從 Carni 進攻 kneebar 時翻成臉朝下，你要如何維持攻勢？",
+    "answer": "當對手翻成臉朝下時，你有兩個選擇。第一，跟著翻滾維持臉朝下狀態的 kneebar，這其實會增加你的髖部伸展槓桿，因為對手的腿此時膝蓋是朝向地墊。第二，利用對手的旋轉轉換到 truck 位置，勾住對手較遠的那條腿，建立 calf slicer 或背後控制的威脅。臉朝下的翻滾動作常常會鬆動對手的膝蓋防守，所以隨著翻滾保持連結而不是放手，是關鍵所在。",
+    "safety_critical": false,
+    "answer_line": "跟著翻滾，維持triangle",
+    "distractors": {
+     "plausible": [
+      "用力扣膝蓋阻止翻滾",
+      "伸手去攻擊手臂"
+     ],
+     "trap": [
+      "放手以免失去位置"
+     ]
+    }
+   },
+   {
+    "question": "在 kneebar 中，用手臂力量完成技和用髖部伸展完成技，主要的力學差異是什麼？",
+    "answer": "髖部伸展動用臀肌和髖屈肌，這是身體中最強壯的肌群之一，透過大範圍的骨骼動作對膝蓋後方產生力量。手臂拉扯則是用相對較弱的二頭肌和前臂肌肉，透過短範圍的動作。髖部伸展創造出以支點為基礎的槓桿系統，微小的髖部動作就能轉化成膝蓋顯著的過度伸展力。手臂拉扯還會把你的上半身拉離腿部，鬆動你小腿貼胸的握法，破壞位置控制。",
+    "safety_critical": false,
+    "answer_line": "靠髖部伸展，不是手臂拉",
+    "distractors": {
+     "plausible": [
+      "雙手用力拉",
+      "用背肌猛拉"
+     ],
+     "trap": [
+      "快速把腿拉向你的胸口"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正在設置從 Carni 進行的 kneebar，而不是 heel hook？",
+    "answer": "關鍵的辨識線索是攻擊者的髖部位置從偏斜角度（heel hook）轉變為直接在你膝蓋正後方（kneebar）。此外，攻擊者的握法會從你的腳跟和腳踝轉移到你的小腿。壓力方向也會從旋轉扭力變成直線伸展。及早察覺這個轉變，能讓你在位置完全建立之前爭取到防守的轉換空檔。",
+    "safety_critical": false,
+    "answer_line": "髖部移到膝蓋正後方",
+    "distractors": {
+     "plausible": [
+      "握法仍停在腳跟",
+      "壓力感覺是旋轉的"
+     ],
+     "trap": [
+      "以為還是 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "對從 Carni 進行的 kneebar，最安全的 tap 方式是什麼？",
+    "answer": "立刻用清楚的手部拍擊拍在對手身上或地墊上，同時搭配口頭訊號一起 tap。感覺到膝蓋接近自然伸展極限時就要提早 tap，不要等看看能不能逃脫。kneebar 從完全伸展到韌帶受傷之間的空間非常小。同時使用多種 tap 訊號能確保攻擊者察覺並釋放。絕對不要硬撐已經扣緊的 kneebar 想避免 tap。",
+    "safety_critical": true,
+    "answer_line": "提早 tap，手勢加口頭",
+    "distractors": {
+     "plausible": [
+      "等看看能不能逃脫",
+      "真的很痛才 tap"
+     ],
+     "trap": [
+      "試著硬拚力氣掙脫"
+     ]
+    }
+   },
+   {
+    "question": "在不同階段，對從 Carni 進行的 kneebar 有哪些防守選項？",
+    "answer": "在轉換空檔（攻擊者正從 heel hook 轉向 kneebar）時，用力彎曲膝蓋並抵抗握法的轉換。一旦攻擊者已經把髖部擺到膝蓋後方但triangle尚未扣緊時，重點放在防止腿的triangle成形，把攻擊者橫過來的那條腿踢開。triangle扣緊之後，把髖部朝攻擊者方向旋轉，縮小伸展角度。一旦伸展開始接近活動終端，就要立刻 tap，不要冒韌帶受傷的風險。",
+    "safety_critical": false,
+    "answer_line": "triangle扣緊前先彎膝",
+    "distractors": {
+     "plausible": [
+      "推攻擊者的胸口",
+      "抓攻擊者的腳踝"
+     ],
+     "trap": [
+      "把腿伸直來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "防守從 Carni 進行的 kneebar 時，為什麼彎曲膝蓋是第一優先？",
+    "answer": "彎曲的膝蓋無法被過度伸展，因為關節已經處於屈曲狀態，方向正好與 kneebar 的力相反。立刻彎曲膝蓋能馬上解除這個技術的威脅，並爭取時間處理位置的其他層面。雖然彎曲膝蓋可能會重新暴露腳跟給 heel hook 攻擊，但這個交換是值得的，因為你從立即的完全技術危險，轉移到一個有時間可以實施其他防守的位置。",
+    "safety_critical": false,
+    "answer_line": "屈曲能擋住過度伸展",
+    "distractors": {
+     "plausible": [
+      "能防止 heel hook",
+      "能破壞攻擊者的握法"
+     ],
+     "trap": [
+      "把膝蓋推直來對抗"
+     ]
+    }
+   },
+   {
+    "question": "相較於單獨進入 kneebar，從 Carni 進行的 kneebar 為什麼特別危險？",
+    "answer": "從 Carni 進行的 kneebar 更危險，因為攻擊者已經建立了腿部纏繞控制，大幅縮短了設置時間。防守者往往心理上專注於防守 heel hook 威脅，這會延遲對 kneebar 轉換的察覺。攻擊者原本就在內側的腿部位置，代表能比從零開始進攻更快地扣緊腿的triangle。此外，heel hook 和 kneebar 的雙重威脅會製造一個兩難——防守其中一個就會為另一個攻擊敞開空間。",
+    "safety_critical": true,
+    "answer_line": "既有纏繞縮短設置時間",
+    "distractors": {
+     "plausible": [
+      "對手總是比較快 tap",
+      "防守者早有預期"
+     ],
+     "trap": [
+      "只顧防膝蓋，忽略 heel hook"
+     ]
+    }
+   }
+  ]
+ }
+}

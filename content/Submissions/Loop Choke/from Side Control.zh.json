@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Loop Choke/from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Loop Choke from side control 攻擊哪些解剖構造來造成昏迷?",
+    "answer": "Loop Choke 攻擊的是頸部兩側的頸動脈與頸靜脈。正確施展時,衣領會形成一個收緊的環,雙側同時壓迫這些血管,阻斷血液進出腦部,在完全施力後 8-12 秒內造成快速昏迷,而不會直接攻擊氣管。從 side control 出發時,水平的 sprawl 張力會同時把衣領拉過頸部兩側,產生真正血液型 choke 所需的雙側壓迫,而不是氣管型 choke。",
+    "answer_line": "頸動脈與頸靜脈,雙側同時",
+    "distractors": {
+     "plausible": [
+      "只壓迫遠側的動脈",
+      "壓迫迷走神經的位置"
+     ],
+     "trap": [
+      "壓碎氣管/呼吸道"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中,施加 Loop Choke from side control 的完整壓力,最少應該花多久時間?",
+    "answer": "從開始出現緊度到施加完整壓力,最少需要 3-5 秒。這種漸進式的施力方式是重要的安全規範,能讓訓練夥伴有足夠時間察覺到 choke 並安全地 tap。在訓練中絕對不應該以比賽速度施力,那樣會大幅提高受傷風險,尤其是衣領突然收緊造成的氣管損傷。choke 應該透過控制得宜的 sprawl 壓力逐漸收緊,讓夥伴能在整個過程中感受到壓力的變化,並隨時可以 tap。",
+    "answer_line": "3-5 秒,逐步加壓",
+    "distractors": {
+     "plausible": [
+      "不到一秒就直接固定",
+      "速度沒有深度重要"
+     ],
+     "trap": [
+      "用比賽速度完成"
+     ]
+    }
+   },
+   {
+    "question": "當你已經從 side control 建立深領口 grip,對手開始 shrimp 逃脫時,該如何調整以防止逃脫,並加速完成?",
+    "answer": "當對手 shrimp 逃脫時,跟著對方的髖部動作,把肩膀向前壓,同時維持衣領 grip 的深度。如果你維持深 grip 並用胸部向前施壓,對方的 shrimp 動作反而可能收緊頸部的衣領,因為那個動作創造出的距離會把衣領拉緊。用衣領 grip 當作繩索,把自己拉回胸部接觸的位置。如果對方拉開明顯距離,用 hip-switch 跟上對方,而不是伸手去追。關鍵在於,只要你維持向前的施壓,衣領 grip 就能把對方的逃脫動作轉化為 choke 的壓力。",
+    "answer_line": "跟著髖部,肩膀向前壓",
+    "distractors": {
+     "plausible": [
+      "放開 grip,重新伸得更深",
+      "換成另一種 choke"
+     ],
+     "trap": [
+      "伸手去追,失去胸部接觸"
+     ]
+    }
+   },
+   {
+    "question": "從 side control 施加完成壓力之前,哪些觸覺與視覺指標能確認 Loop Choke 位置正確?",
+    "answer": "關鍵指標包括:深領口 grip 的四指要越過氣管,拇指抵在頸側;你的前臂要以對角方式橫過對方喉嚨的中線,衣領布料要在兩側都有;近側衣領 grip 要在對方頸部形成明顯張力,朝你對側髖部方向;你的胸部與肩膀要把體重壓進對方上半身;你應該感覺到衣領對稱地壓緊頸部兩側,而不是壓碎喉嚨前方。當你開始輕微施加 sprawl 壓力時,對手應該出現雙側頸動脈受壓的跡象——臉色改變、立即出現防禦反應——而不是咳嗽或喘氣,那代表的是氣管型 choke。",
+    "answer_line": "深 grip,頸部均勻受壓",
+    "distractors": {
+     "plausible": [
+      "只插入兩指,拇指在內側",
+      "對方咳嗽喘氣"
+     ],
+     "trap": [
+      "撐起身體看自己的 grip"
+     ]
+    }
+   },
+   {
+    "question": "你已經全力施加完成壓力 6 秒,對手還沒 tap,這時該怎麼做,為什麼?",
+    "answer": "放鬆壓力,重新設置 grip,而不是繼續硬撐 choke。如果全力施壓 5-6 秒內都沒有讓對方 tap,設置幾乎可以確定不正確——通常代表你抓的是淺 grip、形成氣管型 choke 而非血液型 choke,或是 sprawl 角度不對,無法產生雙側壓迫。繼續硬撐一個位置不正確的 choke,只會造成不必要的氣管不適、浪費體力,還會有受傷風險,卻沒有實際完成的機會。回到 side control,重新建立 crossface 控制,再嘗試以正確深度重新抓 grip,或轉換到其他 submission。",
+    "answer_line": "放開並重新設置 grip",
+    "distractors": {
+     "plausible": [
+      "假設對方耐受度比較高",
+      "在 choke 中途調整 sprawl 角度"
+     ],
+     "trap": [
+      "加大力道直到對方 tap"
+     ]
+    }
+   },
+   {
+    "question": "與從 mount 施展 Loop Choke 相比,side control 的垂直角度如何改變完成時的施力方向?",
+    "answer": "從 side control 出發時,主要的完成力量來自 sprawl 髖部後拉、同時肩膀向前推所產生的水平張力,而不是像 mount 那樣靠重力向下的壓力。垂直的身體排列意味著你無法像在 mount 那樣直接把體重壓透過 choke。相反地,sprawl 會產生一股拉伸力,把衣領水平地拉緊在頸部上。你的肩膀扮演前方支點的角色,而髖部則朝反方向把衣領拉緊。這需要協調對角方向的 grip 施力與 sprawl 動作,才能對頸動脈產生複合式的壓迫。",
+    "answer_line": "sprawl 後拉,不要壓下體重",
+    "distractors": {
+     "plausible": [
+      "像 mount 一樣壓下胸部體重",
+      "把衣領直直往上拉"
+     ],
+     "trap": [
+      "放棄 sprawl,整個人壓平在上方"
+     ]
+    }
+   },
+   {
+    "question": "在 side control 施展 Loop Choke 的過程中,到了哪個階段,防守者幾乎不可能逃脫?",
+    "answer": "一旦兩個 grip 都已經以 loop 的結構建立,且攻擊者已經全力投入 sprawl、肩膀持續向前施壓,逃脫就幾乎不可能了。到了這個階段,衣領形成一個封閉的環套在頸部,任何動作都會讓它自行收緊——防守者的 bridge 會收緊衣領,轉頭會加深 grip,shrimp 則會把衣領布料拉緊橫過頸部。關鍵的臨界點,是攻擊者的前臂已經以對角方式橫過頸部中線、兩個 grip 產生相反方向張力的時候——到了這個時候,防守者唯一實際的選擇就是立刻 tap。",
+    "answer_line": "兩個 grip 到位,sprawl 全力投入",
+    "distractors": {
+     "plausible": [
+      "衣領 grip 一抓上就沒機會",
+      "只有在雙腿被困住之後"
+     ],
+     "trap": [
+      "永遠不會——隨時都能 bridge 出來"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴對 Loop Choke from side control tap 時,你必須立刻採取哪些行動?",
+    "answer": "感覺到或聽到 tap 的當下,立刻完全放開兩個衣領 grip,並脫離到中立位置,移除所有胸部與肩膀的壓力。放開後,先確認夥伴是否清醒、有意識,再繼續訓練。至少要讓對方休息 60 秒才能恢復。絕對不能猶豫或延遲放開,也絕對不能懷疑那個 tap 是不是真的——所有 tap 訊號都必須無條件立即遵守。血液型 choke 從不適到昏迷之間的空間非常窄,這使得立即放開對這個技術來說格外重要。",
+    "answer_line": "放開兩個 grip,確認夥伴狀況",
+    "distractors": {
+     "plausible": [
+      "放手後馬上再滾一次",
+      "先只放開上面那隻手"
+     ],
+     "trap": [
+      "撐住直到對方喊出聲"
+     ]
+    }
+   },
+   {
+    "question": "對手在 side control bottom 用力收緊下巴防守衣領 grip,你可以用什麼連鎖攻擊威脅對方,重新打開衣領?",
+    "answer": "威脅對方近側手臂的 americana 或 kimura,逼迫對方收回防禦性的 frame,把注意力從保護衣領轉移到防守手臂。當對方伸展手臂防止肩關節鎖時,原本收緊的下巴會因為防禦重心轉移而放鬆,重新打開衣領的空間。或者,可以用你的 crossface 壓力把對方遠側手臂壓過自己的頸部,威脅 arm triangle——這既能鋪陳另一種 choke,也會逼對方用手清開手臂,而不是保護衣領。下巴收緊只有在對方沒有其他威脅需要處理時才能持續。",
+    "answer_line": "威脅 kimura 或 arm triangle",
+    "distractors": {
+     "plausible": [
+      "立刻改打 back take",
+      "等對方自己放鬆"
+     ],
+     "trap": [
+      "用前臂硬扳開下巴"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 crossface 轉換到衣領 grip,對於從 side control 設置 Loop Choke 特別有效?",
+    "answer": "crossface 的位置天生就把你的前臂放在對方頸部上,正好是衣領 grip 伸入所需的路徑。把 crossface 轉換成衣領 grip 能維持橫過對方頸部的持續壓力——衣領布料取代前臂成為壓力來源,讓這個轉換對對方來說幾乎難以察覺。對方感覺到的是持續的頸部壓力,而不是從控制轉為 submission 的明顯轉變。此外,crossface 已經把對方的頭轉開,在頸部遠側創造出讓衣領深入的空間。沒有其他 side control 的 grip 能提供這種通往衣領的無縫路徑。",
+    "answer_line": "前臂無縫轉換成衣領",
+    "distractors": {
+     "plausible": [
+      "因為它困住了對方遠側手臂",
+      "靠暫停來累積壓力"
+     ],
+     "trap": [
+      "放開頭部去重新抓 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 Loop Choke from side control 最早、也最有效的時機是什麼?",
+    "answer": "最早也最有效的時機,是在攻擊者從標準 crossface 位置開始把手滑向遠側衣領的那個轉換瞬間。在這個階段,收緊下巴、用你近側的手蓋住衣領開口,就能完全阻止 grip 的建立。這比任何晚期防禦都更有效,因為 Loop Choke 需要深深插入衣領才能發揮作用——完全擋住這個入口,能在威脅發展之前就將其消除,而且花費的力氣遠比逃脫一個已經半鎖住的 choke 要少得多。",
+    "answer_line": "擋住 crossface 轉衣領的滑動",
+    "distractors": {
+     "plausible": [
+      "雙手 frame 住對方肩膀",
+      "立刻用力 bridge"
+     ],
+     "trap": [
+      "轉向側邊,露出背部"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該對 Loop Choke from side control tap,而不是繼續嘗試逃脫?",
+    "answer": "當你感覺到雙側頸動脈同時受壓、兩個 grip 都已經以 loop 結構建立,而且攻擊者已經全力投入 sprawl 完成動作時,你應該立刻 tap。一旦以正確的 grip 深度與對角施力方向施加水平 sprawl 張力,昏迷可能在 8-12 秒內發生。一旦 choke 從 side control 以正確力學完全施展,就沒有安全的逃脫時機。以 sprawl 為基礎的完成動作,只要你抵抗,拉伸的張力就會不斷增加。在訓練中,永遠寧可提早 tap——重新開始的代價,遠比失去意識的風險要小得多。",
+    "answer_line": "雙側頸動脈封住就立刻 tap",
+    "distractors": {
+     "plausible": [
+      "先 bridge 和 shrimp 逃逃看",
+      "等 sprawl 鬆開"
+     ],
+     "trap": [
+      "撐到快昏過去才罷休"
+     ]
+    }
+   },
+   {
+    "question": "作為 side control bottom 的防禦策略,為什麼剝除衣領 grip 比剝除深領口 grip 更有效?",
+    "answer": "近側的衣領 grip 在物理位置上離你的手更近,需要的手臂伸展較少,能讓你的手肘保持貼近身體,減少手臂被攻擊的暴露風險。深領口 grip 埋在你的頸後,你在那裡的機械槓桿極差——想要剝除它,必須把手臂伸到自己頭後方,這個動作既在力學上薄弱,也危險地暴露自己。既然 Loop Choke 需要兩個 grip 相互作用才能產生 choke 機制,破壞任一個 grip 就足以瓦解整個 choke。鎖定較容易觸及的那個 grip,能以低得多的風險達到相同效果。",
+    "answer_line": "剝除近側衣領,較容易觸及",
+    "distractors": {
+     "plausible": [
+      "先剝除深領口 grip",
+      "同時破壞兩個 grip"
+     ],
+     "trap": [
+      "把手伸到頭後方去剝衣領"
+     ]
+    }
+   },
+   {
+    "question": "在 Loop Choke 的設置過程中,攻擊者放開髖部控制的動作,如何為防守者創造最佳的逃脫時機?",
+    "answer": "當攻擊者放開控制髖部的那隻手去抓近側衣領時,他們的雙手會短暫地都忙於處理衣領與衣領抓握,而不是維持 side control 的結構。這會創造出一個攻擊者 base 明顯不穩的短暫空檔——沒有撐地的手,沒有髖部阻擋,雙臂都投入在你的軀幹上方。這是使出爆發性 bridge 或 hip escape 的最佳時機,因為攻擊者無法撐地阻止 bridge,也無法阻擋你的髖部動作來防止你 recovery guard。辨識出這個特定時機,並準備好練熟的逃脫反應,是對抗 side control 的 Loop Choke 最高成功率的防守策略。",
+    "answer_line": "雙手都離開時用力 bridge",
+    "distractors": {
+     "plausible": [
+      "緩慢地朝對方雙腿 shrimp",
+      "用單手爭奪衣領 grip"
+     ],
+     "trap": [
+      "轉成 belly-down 藏住頸部"
+     ]
+    }
+   },
+   {
+    "question": "從 side control bottom 防守時,哪種身體姿勢最能防止 Loop Choke 的完成機制?",
+    "answer": "最佳防禦姿勢結合了強力貼向胸口的下巴,用來實際阻擋衣領插入;近側的手主動蓋住衣領開口;手肘緊貼肋骨,防止手臂被孤立攻擊;以及髖部略微傾斜而非完全平貼,讓攻擊者的 base 變得不穩定。此外,靠核心收緊讓肩膀略微離開墊子,能防止攻擊者利用胸部體重在衣領上創造出讓 grip 插得更深的鬆弛空間。這種綜合姿勢既能阻止最初的 grip 建立,也限制攻擊者產生完成所需的水平 sprawl 張力的能力。",
+    "answer_line": "下巴內收,手蓋住衣領",
+    "distractors": {
+     "plausible": [
+      "髖部完全貼平墊子",
+      "挺起胸口,拱起背部"
+     ],
+     "trap": [
+      "伸直手臂把對方推開"
+     ]
+    }
+   }
+  ]
+ }
+}

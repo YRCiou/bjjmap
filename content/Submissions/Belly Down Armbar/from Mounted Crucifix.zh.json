@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Mounted Crucifix.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Mounted Crucifix 主要攻擊的是哪個解剖構造？",
+    "answer": "主要目標是肘關節，具體來說是讓它超出自然活動範圍過度伸展。尺側副韌帶（ulnar collateral ligament）與關節囊承受最大應力。belly down 角度把力量導向肘關節後側，攻擊者的骨盆作為對抗鷹嘴突（olecranon process）的支點。二次應力落在肱二頭肌肌腱上，因為它會抵抗被迫的伸展。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "像 kimura 那樣的肩膀旋轉",
+      "以肱二頭肌肌腱為主要目標"
+     ],
+     "trap": [
+      "透過 crucifix 進行頸部扭轉"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 belly down 姿勢比標準仰躺式 armbar 產生更多收尾壓力？",
+    "answer": "belly down 姿勢透過髖部伸展調動整個後鏈肌群——臀肌、腿後肌與脊椎豎脊肌——這些是全身最強壯的肌群之一。仰躺式 armbar 需要對抗重力抬起髖部，槓桿優勢較差。belly down 姿勢下重力會協助這個動作，髖部拱起的動作直接轉化為肘關節過度伸展。對手的手臂也被壓在地面上，消除了他們在仰躺姿勢下才有的旋轉或製造逃脫角度的能力。",
+    "safety_critical": false,
+    "answer_line": "後鏈肌群驅動髖部伸展",
+    "distractors": {
+     "plausible": [
+      "靠手臂力量抬起",
+      "壓制對手的肩膀"
+     ],
+     "trap": [
+      "全速把髖部拉起"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down 姿勢施展伸展時，關鍵的安全考量是什麼？",
+    "answer": "belly down 姿勢產生的力量遠超過傷害肘部所需，因此必須用漸進式的髖部抬升緩慢施加伸展。絕不能猛拉或突刺手臂。趴姿會使口頭拍降變得不明顯，因此要特別留意腳拍地與任何異常發聲。任何拍降訊號——即使只是懷疑——都要立刻放開，因為重新建立姿勢很容易，但關節損傷卻無法逆轉。在訓練中，施展速度大約應是你能達到速度的四分之一。",
+    "safety_critical": true,
+    "answer_line": "緩慢伸展，留意任何拍降",
+    "distractors": {
+     "plausible": [
+      "只依賴口頭拍降",
+      "觀察對方臉部表情"
+     ],
+     "trap": [
+      "猛拉手臂以快速鎖定"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍降之後，你應該如何釋放 Belly Down Armbar？",
+    "answer": "首先立即放低髖部，移除肘關節上的伸展壓力。接著鬆開手腕的 grip，讓手臂回到自然位置。最後鬆開膝蓋的夾緊，完全脫離這個姿勢。恢復訓練前，檢查夥伴的手臂活動度並詢問是否有疼痛。這個釋放順序優先移除來自最危險方向的壓力——也就是髖部伸展——然後才鬆開 grip 與姿勢。",
+    "safety_critical": true,
+    "answer_line": "先放低髖部，再鬆手腕",
+    "distractors": {
+     "plausible": [
+      "先鬆 grip 再放髖部",
+      "先鬆膝蓋再放髖部"
+     ],
+     "trap": [
+      "撐住壓力直到完全脫離"
+     ]
+    }
+   },
+   {
+    "question": "對手在旋轉過程中開始彎曲手肘——什麼調整能防止逃脫？",
+    "answer": "立刻加大膝蓋夾緊上臂的壓力，把二頭肌與三頭肌夾在一起，機械性地阻止進一步彎曲。如果手肘已經明顯彎曲，不要從這個角度強行伸展——而是回到 mounted crucifix，用完整的雙腿纏繞重新隔離手臂，之後再嘗試旋轉。在旋轉中途硬把彎曲的手臂拉直，通常會導致整條手臂被抽走。",
+    "safety_critical": false,
+    "answer_line": "夾緊膝蓋阻止彎曲",
+    "distractors": {
+     "plausible": [
+      "抓手腕更用力拉",
+      "加快旋轉速度"
+     ],
+     "trap": [
+      "強行把彎曲的手臂拉直"
+     ]
+    }
+   },
+   {
+    "question": "如果對手扣緊雙手來防守伸展，你該如何調整 grip？",
+    "answer": "從 belly down 位置，朝他們扣緊雙手的小指側剝離 grip，同時向上驅動你的髖部。透過骨盆支點施加的髖部伸展力量遠遠超過他們的握力，特別是朝他們扣手中最弱的軸向施力時效果更好。或者，維持姿勢並施加緩慢漸進的壓力——他們的 grip 會比你的髖部驅動力先疲乏。避免猛拉或爆發性破 grip，因為一旦 grip 突然失效，會有突然失控過度伸展的風險。",
+    "safety_critical": false,
+    "answer_line": "剝小指側，髖部上驅",
+    "distractors": {
+     "plausible": [
+      "從拇指側撬開",
+      "扭手腕來破 grip"
+     ],
+     "trap": [
+      "放開手臂改用雙手撬"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中，代表 submission 已到達臨界點、應該減輕壓力的關鍵指標有哪些？",
+    "answer": "留意對手身體因抵抗伸展而變得僵硬、呼吸加快或憋氣、被困手臂出現不自主的抽動、以及他們的自由手朝被困手臂伸去或拍打自己身體。肘部會達到完全伸直、手臂明顯拉直，超過這個點的任何壓力都有韌帶損傷的風險。訓練時，在完全伸直時就放鬆，並給予足夠時間拍降——submission 在完全伸直時就已經證明成功，不需要超過這個程度。",
+    "safety_critical": true,
+    "answer_line": "手臂伸直，身體僵硬",
+    "distractors": {
+     "plausible": [
+      "肘部仍彎曲 90 度",
+      "對手放鬆並癱軟"
+     ],
+     "trap": [
+      "等明確的口頭拍降"
+     ]
+    }
+   },
+   {
+    "question": "相較於從其他位置進入，Mounted Crucifix 的切入方式如何改變 Belly Down Armbar？",
+    "answer": "Mounted Crucifix 透過雙腿纏繞提供預先隔離的手臂控制，省去了其他位置所需要的拚 grip 與手臂隔離階段。這代表攻擊者可以完全專注在旋轉與收尾機制上，而不必花力氣先固定手臂。此外，對手的另一隻手臂也同時被控制住，讓他們無法協助被困手臂防守，也無法製造 frame 來干擾旋轉。代價是旋轉過程中鬆開雙腿纏繞需要精準的時機，才能維持連續控制。",
+    "safety_critical": false,
+    "answer_line": "手臂已隔離，無需拚 grip",
+    "distractors": {
+     "plausible": [
+      "不需要 base 所以更快",
+      "對手的自由手臂會鬆脫旋轉"
+     ],
+     "trap": [
+      "不需要維持雙腿纏繞"
+     ]
+    }
+   },
+   {
+    "question": "建立 belly down 姿勢後，有哪些 base 調整能防止對手把你翻過去？",
+    "answer": "雙腿大幅張開，形成穩固的三角 base，腳趾插入地面作為錨點。你的膝蓋應該離地，重量分布在腳趾與骨盆上。如果對手嘗試朝你方向翻滾，把遠側腿再撐開一些以擴大 base。如果他們往反方向翻滾，用髖部跟隨並維持伸展角度。base 越寬，需要更大的力量才能把你移位——雙腿夾太窄是攻擊者從 belly down 被翻滾的主要原因。",
+    "safety_critical": false,
+    "answer_line": "雙腿張開，腳趾插地固定",
+    "distractors": {
+     "plausible": [
+      "膝蓋貼地，重心置中",
+      "坐回腳跟"
+     ],
+     "trap": [
+      "雙腿夾緊並撐住"
+     ]
+    }
+   },
+   {
+    "question": "比賽中，什麼收尾策略能最大化 Belly Down Armbar from Mounted Crucifix 的成功率？",
+    "answer": "先用 crucifix 威脅勒喉來設置 Belly Down Armbar，逼對手為了防守而伸出手臂。當手臂伸出時，立刻固定手腕並開始旋轉。由於對手已經全力防守勒喉，可以全速執行旋轉。一旦 belly down，就漸進但不猶豫地施壓——比賽中的對手會快速連續嘗試多種逃脫方式。全程維持寬 base，並準備好在對手朝你旋轉時轉換成標準 armbar，把他們的逃脫變成第二次 submission 機會。",
+    "safety_critical": false,
+    "answer_line": "威脅勒喉，抓住伸出的手臂",
+    "distractors": {
+     "plausible": [
+      "等他們先拚 grip",
+      "先攻擊自由的手臂"
+     ],
+     "trap": [
+      "放棄 crucifix 轉身去搶"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識出 Belly Down Armbar from Mounted Crucifix 正在被設置？",
+    "answer": "關鍵辨識線索是攻擊者在被困手臂上建立雙手手腕控制、他們的髖部朝手臂那側向你頭部方向側移、以及他們的胸部開始朝地面旋轉。你也可能感覺到他們在被鎖定手臂上的腿部控制發生變化或鬆動，代表他們正準備鬆開 crucifix 進行旋轉。髖部側移是最可靠的指標，因為它必須先發生，旋轉才能開始。",
+    "safety_critical": false,
+    "answer_line": "髖部朝你的頭部側移",
+    "distractors": {
+     "plausible": [
+      "膝蓋夾緊你的髖部",
+      "一手撐在你頭部旁"
+     ],
+     "trap": [
+      "放鬆，crucifix 感覺很穩"
+     ]
+    }
+   },
+   {
+    "question": "從 Mounted Crucifix 面對 Belly Down Armbar，最安全的拍降方式是什麼？",
+    "answer": "及早且明確地同時使用多種訊號拍降。大聲口頭喊拍，因為你的雙手在趴姿下可能被困住或看不清楚。同時用你的自由手拍打攻擊者、地面或自己身體。用任一隻腳拍地作為額外訊號。在 belly down 姿勢下，槓桿優勢極大，傷害發生得很快——一旦感覺到明顯的伸展壓力就要拍降，而不是硬撐。對已完全鎖定的 submission 拍降並不丟臉。",
+    "safety_critical": true,
+    "answer_line": "及早用多種訊號拍降",
+    "distractors": {
+     "plausible": [
+      "先掙脫被困的手再拍",
+      "輕聲示意保持冷靜"
+     ],
+     "trap": [
+      "硬撐並在痛時才拍"
+     ]
+    }
+   },
+   {
+    "question": "面對 Belly Down Armbar from Mounted Crucifix，有哪些防守選項？",
+    "answer": "最高成功率的防守是在旋轉轉換時、攻擊者的腿部控制暫時鬆動時把手肘抽回。在旋轉中途轉身面向攻擊者，可以打亂趴姿角度並製造混戰機會。在髖部側移階段爆發性 bridge，可以把重心不穩的攻擊者掀翻。作為最後手段，一旦 belly down 已建立，扣緊雙手可以拖延伸展但無法逃脫。關鍵原則是所有有效防守都發生在轉換階段——一旦 belly down 姿勢連同完整伸展控制都建立，選項幾乎耗盡。",
+    "safety_critical": false,
+    "answer_line": "轉換時抽回手肘",
+    "distractors": {
+     "plausible": [
+      "抓自己的 gi 硬撐",
+      "踢腿製造空間"
+     ],
+     "trap": [
+      "伸直手臂以緩解疼痛"
+     ]
+    }
+   },
+   {
+    "question": "為什麼轉換階段是防守的關鍵窗口，而不是等 belly down 姿勢建立之後？",
+    "answer": "在轉換過程中，攻擊者必須從 crucifix 鬆開或調整雙腿纏繞才能旋轉到趴姿，這會製造出手臂控制暫時鬆動的短暫窗口。一旦 belly down 完全建立，髖部超過肩線、寬 base、手腕被固定，攻擊者透過髖部伸展的槓桿優勢就會壓倒性地強——他們的後鏈肌群對抗你的二頭肌，這根本不是一場能贏的力量對抗。防守轉換階段能阻止姿勢建立，而不是試圖從已經佔優勢的收尾姿勢中逃脫。",
+    "safety_critical": false,
+    "answer_line": "旋轉中腿部控制暫時鬆動",
+    "distractors": {
+     "plausible": [
+      "他們的髖部在翻滾中期最高",
+      "手腕 grip 在最後階段變弱"
+     ],
+     "trap": [
+      "等 belly down 後再逃"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Cross Ashi-Garami 發動的 heel hook 主要攻擊哪些解剖結構？",
+    "answer": "Heel hook 透過在踝關節施加的旋轉扭力攻擊膝蓋韌帶。主要目標是 ACL（前十字韌帶）、MCL（內側副韌帶）與 LCL（外側副韌帶）。旋轉力從踝關節向上經過脛骨傳到膝關節，產生膝韌帶本來不是設計來承受的剪力。次要傷害可能發生在半月板、踝關節韌帶與關節囊。",
+    "answer_line": "膝韌帶：ACL、MCL、LCL",
+    "distractors": {
+     "plausible": ["踝關節骨頭", "只有半月板與軟骨"],
+     "trap": ["只是小腿肌肉，可以放心壓"]
+    }
+   },
+   {
+    "question": "什麼身體徵象顯示 heel hook 正在接近 submission 的臨界點？",
+    "answer": "關鍵徵象包括對手的 heel 開始超出自然活動範圍旋轉、阿基里斯腱區域出現明顯緊繃、對手身體因韌帶承受張力而變得僵硬，以及口頭或肢體的痛苦訊號。訓練時，你應該能感覺到抓握中的漸進阻力，然後在結構開始屈服時突然減少。應該在這個點之前就大幅收手，讓你的夥伴在漸進加壓階段就有機會拍。",
+    "answer_line": "Heel 旋轉超出自然範圍",
+    "distractors": {
+     "plausible": ["阻力持續穩定增加", "阿基里斯腱區域感覺鬆弛"],
+     "trap": ["繼續轉到聽見喀一聲"]
+    }
+   },
+   {
+    "question": "在對 heel 施加旋轉力之前，必須先建立哪些控制？",
+    "answer": "你必須確保 cross 配置穩固，內側勾腿深深勾在髖部後方，外側腿在小腿高度交叉。Heel 必須完全暴露，並用 figure-four 或 S-grip 鎖死抓握。你的手肘必須夾緊肋骨，heel 拉緊貼在胸骨上。對手的腳趾與前腳掌必須被控制抵在你胸口。只有這五個控制點都建立好之後，才應該開始施加旋轉力。",
+    "answer_line": "Cross grip 鎖定，heel 貼胸",
+    "distractors": {
+     "plausible": ["只要穩穩抓住 heel 就好", "交叉雙腿，抓握可有可無"],
+     "trap": ["heel 一碰到就開始旋轉"]
+    }
+   },
+   {
+    "question": "在施加 heel hook 的過程中，到了什麼階段對防守者來說逃脫幾乎不可能？",
+    "answer": "一旦攻擊者鎖定 figure-four 抓握配置，把 heel 拉緊貼在胸口、手肘夾緊，逃脫就變得極為困難。此時防守者無法透過手部纏鬥剝開抓握，腳也被固定在攻擊者的軀幹上。一旦髖部旋轉開始，力學優勢完全壓倒性地偏向攻擊者，因為防守者無法從 cross ashi bottom 姿位產生足夠的反向旋轉。",
+    "answer_line": "Figure-four 鎖定，heel 被固定",
+    "distractors": {
+     "plausible": ["一旦進入 ashi garami 就是", "第一次手碰到 heel 就是"],
+     "trap": ["撐到真正感受到痛才算危險"]
+    }
+   },
+   {
+    "question": "對手開始把膝蓋往胸口收，試圖藏住 heel，你該做什麼調整來創造終結機會？",
+    "answer": "當防守者收膝蓋時，立刻轉換到 straight ankle lock 或 toe hold，因為膝蓋彎曲時這兩者都變得可行。彎曲的膝蓋反而提供了一個支點，讓 ankle lock 的力學更有效。另外，也可以用兩對一手腕破抓，把對方的手從你的手腕剝開，再利用你的腿纏繞把他們的腿拉直，重新暴露 heel。絕對不要死追一個完全藏住的 heel 硬用 heel hook 抓握追下去。",
+    "answer_line": "改攻 ankle lock 或 toe hold",
+    "distractors": {
+     "plausible": ["用更大力氣追抓 heel", "等對手伸直腿"],
+     "trap": ["還是硬拉 heel"]
+    }
+   },
+   {
+    "question": "什麼抓握調整能防止對手在你終結時把 heel 轉開逃脫？",
+    "answer": "用前臂把對手的腳趾與前腳掌牢牢固定在你的胸口上，形成一個能阻止腳旋轉的固定參考點。你的手腕骨頭應該橫跨在阿基里斯腱上作為支點，另一手則鎖住 figure-four。當對手試圖旋轉腳時，你前臂在他們腳趾上的接觸會阻止這個旋轉。保持手肘夾緊，讓腳沒有空間可以從中旋轉出去。",
+    "answer_line": "把腳趾固定於胸口，手腕作支點",
+    "distractors": {
+     "plausible": ["更用力夾緊踝骨", "用腿勾住他們的腳"],
+     "trap": ["放開抓握、重新抓 heel"]
+    }
+   },
+   {
+    "question": "訓練時 heel hook 正確的施力速度是什麼，這一點為什麼很關鍵？",
+    "answer": "訓練時，旋轉力必須從初始壓力到最大施力至少花 5 到 7 秒，每個增量都要暫停，讓夥伴有時間評估並拍。這很關鍵，因為 heel hook 會在防守者感覺到明顯疼痛之前就損傷膝韌帶。不像一般會隨壓力增加而痛感遞增、提供警訊的關節技，heel hook 的損傷可能突然且災難性地發生。緩慢施力讓雙方都有時間安全評估姿位。",
+    "answer_line": "緩慢，5-7 秒，並暫停確認",
+    "distractors": {
+     "plausible": ["一口氣連續加到最大", "跟 armbar 一樣的節奏"],
+     "trap": ["用力猛拉逼出終結"]
+    }
+   },
+   {
+    "question": "在比賽中，當對手積極用 boot 防守時，你該如何調整終結策略？",
+    "answer": "面對持續的 boot 防守，建立一個 submission 攻擊鏈，而不是硬幹 heel hook。威脅 heel hook 逼對手做出 boot 防守，然後立刻轉換到能利用其屈膝姿勢的 straight ankle lock 或 toe hold。當他們伸直腿防守 ankle lock 時，再重新攻擊 heel hook。這個攻擊鏈製造一個無解的兩難：防守其中一個 submission 就會暴露另一個。在轉換過程中始終維持 cross ashi 的完整性。",
+    "answer_line": "把 heel hook 接進 ankle lock",
+    "distractors": {
+     "plausible": ["等 boot 撐累了", "換攻另一條腿"],
+     "trap": ["硬凹已鎖住的 boot"]
+    }
+   },
+   {
+    "question": "對手開始坐起來用 frame 推你，而你只有初步 heel 接觸、還沒鎖死抓握，什麼能阻止他們逃脫？",
+    "answer": "把你的內側勾腿更深地勾進他們的髖部後方，把他們拉回來，同時把 heel 更緊地拉向你的胸口。他們往上的動作往往反而讓 heel 暴露得更清楚。用他們的支撐手臂作為時機提示：當他們把重心投入到 post 上時，他們手部纏鬥的能力會減弱，這正是你鞏固 figure-four 抓握的窗口。此時他們坐起的姿勢反而會幫助你的旋轉力學。",
+    "answer_line": "勾腿更深，heel 拉得更緊",
+    "distractors": {
+     "plausible": ["放開重來，重整姿位", "改追他們的上半身"],
+     "trap": ["立刻旋轉阻止他們"]
+    }
+   },
+   {
+    "question": "訓練夥伴拍了之後，你該如何放開 heel hook？",
+    "answer": "一旦感知到任何拍點訊號，立刻停止所有旋轉壓力。先完全放開 heel grip，再解開腿部纏繞。慢慢移開交叉的雙腿，讓夥伴以自己的節奏抽出腿。即使是被動的，也絕對不要在放開的過程中維持任何旋轉壓力。每次 heel hook 嘗試之後，都要向夥伴確認膝蓋與踝關節的狀況，並向教練回報任何不適。",
+    "answer_line": "立刻停止，再慢慢解開",
+    "distractors": {
+     "plausible": ["先問是否真的拍了", "快速放開抓握、站起來"],
+     "trap": ["放開的同時繼續扭轉"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識 Cross Ashi-Garami 的 heel hook 正在被設置？",
+    "answer": "關鍵辨識訊號包括：對手用外側腿交叉在你小腿上建立交叉腿配置、積極的手部纏鬥試圖取得你的 heel，以及對手把身體轉成與你垂直的角度。你會感覺到他們把你的腳拉向他們的胸口，並用手掌貼在你的阿基里斯腱上包住你的 heel。他們的手肘夾緊肋骨，代表抓握鞏固即將完成。",
+    "answer_line": "交叉雙腿，heel 被包住並拉近",
+    "distractors": {
+     "plausible": ["他們方正髖部並抓衣領", "他們的膝蓋滑向 half guard"],
+     "trap": ["等你感覺到膝蓋痛才反應"]
+    }
+   },
+   {
+    "question": "什麼時候你應該對 Cross Ashi-Garami 的 heel hook 拍，以避免受傷？",
+    "answer": "當對手鎖定 figure-four 抓握並開始任何旋轉壓力時，立刻拍。不要等疼痛，因為 heel hook 會在明顯痛感出現之前就損傷膝韌帶（ACL、MCL、LCL）。如果你感覺到 heel 旋轉超出自然範圍、膝蓋有任何異常壓力，或者你無法剝開抓握、旋轉已經開始，立刻用口頭與肢體訊號拍。及早拍能避免終結生涯的傷害。",
+    "answer_line": "鎖定就拍，別等痛感出現",
+    "distractors": {
+     "plausible": ["只在劇痛時才拍", "等看看是否會更緊"],
+     "trap": ["先試著用力掙脫"]
+    }
+   },
+   {
+    "question": "面對 Cross Ashi-Garami 的 heel hook，有哪些防守選項可用？",
+    "answer": "主要防守包括 boot 防守（彎曲膝蓋藏住 heel）、積極手部纏鬥以防止抓握鞏固、當攻擊者內側腿暴露時進行反纏繞，以及在 cross 配置鬆脫時進行旋轉逃脫。最有效的整體策略是把 boot 防守與手部纏鬥結合起來以防止抓握，同時在攻擊者調整姿位的過程中觀察逃脫窗口。",
+    "answer_line": "Boot 防守加手部纏鬥",
+    "distractors": {
+     "plausible": ["拖延並抓住對方遠側手臂", "雙手推對方的頭"],
+     "trap": ["爆發性旋轉甩開腿"]
+    }
+   },
+   {
+    "question": "在防守 Cross Ashi-Garami 的 heel hook 時，什麼情況會創造最好的逃脫窗口？",
+    "answer": "最好的逃脫窗口出現在攻擊者為了調整抓握、重新調整身體，或轉換到 Saddle 等其他纏繞位置而放鬆腿部控制的時候。留意他們內側勾腿失去深度或外側交叉變鬆的時刻。這些轉換瞬間會創造出抽腿或反纏繞的空間。對抗緊實的控制嘗試逃脫只會浪費體力並增加受傷風險。",
+    "answer_line": "當對方放鬆控制以調整時",
+    "distractors": {
+     "plausible": ["當對方的內側勾腿勾得更深時", "剛鎖住 heel 之後"],
+     "trap": ["躺平橋起來"]
+    }
+   },
+   {
+    "question": "為什麼在防守 Cross Ashi-Garami 的 heel hook 時，爆發性旋轉特別危險？",
+    "answer": "爆發性旋轉會把旋轉力直接餵進 heel hook 的機制。Heel hook 靠 heel 與踝關節的旋轉來終結，你不受控的旋轉動作正好製造出攻擊者需要來損傷你膝韌帶的旋轉力。攻擊者只需要跟隨並放大你自己的動量。只有在 cross 配置明顯鬆脫、逃脫路徑已經打開時，才嘗試旋轉逃脫。",
+    "answer_line": "旋轉正好餵進旋轉機制",
+    "distractors": {
+     "plausible": ["會讓對方疲勞", "會重置到中立姿位"],
+     "trap": ["這是最快的安全逃脫方式"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Heel Hook/from Cross Ashi-Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

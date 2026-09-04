@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Omoplata/from Butterfly Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+  {
+   "question": "從 Butterfly Guard 發動的 Omoplata 主要攻擊哪個解剖結構？",
+   "answer": "omoplata 主要攻擊肩關節複合結構，透過攻擊者雙腿與垂直於對手身體的姿勢，對肩部施加內旋合併伸展的扭力，鎖定旋轉肌袖、盂肱關節囊，以及肩鎖關節。",
+   "safety_critical": false,
+   "answer_line": "肩關節（旋轉肌袖）",
+   "distractors": {
+    "plausible": [
+     "手肘，像 armbar 一樣",
+     "手腕與前臂"
+    ],
+    "trap": [
+     "頸部與氣管"
+    ]
+   }
+  },
+  {
+   "question": "butterfly hook 的抬升動作如何為 omoplata 創造進入機會？",
+   "answer": "butterfly hook 向上頂入對手大腿內側，把對手的重量抬離墊子，破壞對手的底座。這個抬升動作在對手肩膀與攻擊腿的路徑之間創造出空間，讓遠側的腿能甩過對手肩膀，而不會被壓縮的姿勢擋住。",
+   "safety_critical": false,
+   "answer_line": "抬高髖部，清出腿的路徑",
+   "distractors": {
+    "plausible": [
+     "拉衣領破壞對手姿勢",
+     "underhook 抬起對手遠側手臂"
+    ],
+    "trap": [
+     "撐地站起來"
+    ]
+   }
+  },
+  {
+   "question": "從 butterfly guard 轉位到 omoplata 位置的整個過程中，必須維持的關鍵握點是什麼？",
+   "answer": "在整個轉位過程中都必須維持對目標手臂的 overhook。腋下要緊緊夾住對手的三頭肌，同時 overhook 那側的手抓住衣領或手腕作為備援。如果在髖部旋轉的過程中失去這個握點，對手就能抽回手臂，完全恢復姿勢。",
+   "safety_critical": false,
+   "answer_line": "保持 overhook 緊緊鎖住",
+   "distractors": {
+    "plausible": [
+     "對被困手臂做 underhook",
+     "抓對側的衣領"
+    ],
+    "trap": [
+     "改抓 double sleeve 握點"
+    ]
+   }
+  },
+  {
+   "question": "在什麼階段向前翻滾的逃脫會成為主要威脅？你該如何防止？",
+   "answer": "一旦你的腿甩過對手肩膀，你開始坐穿到垂直位置時，向前翻滾就會成為主要的逃脫威脅。防止的方法是立刻抓住對手遠側的髖部、腰帶或褲子。這個抓髖部的動作，是完成甩腿之後優先度最高的握點。",
+   "safety_critical": false,
+   "answer_line": "立刻抓遠側髖部或腰帶",
+   "distractors": {
+    "plausible": [
+     "先把對手胸口壓平",
+     "控制近側的腿"
+    ],
+    "trap": [
+     "放開握點，坐直身體"
+    ]
+   }
+  },
+  {
+   "question": "哪些觸覺與視覺線索代表 omoplata 已經到達肩膀的活動極限，拍擊即將發生？",
+   "answer": "當你把髖部走開並向前傾時，對手的手肘會指向上方，上臂再也無法內旋，這代表肩膀已經到達旋轉極限。對手的軀幹會被壓平、被困的手臂纏繞得很緊；此時即使只是稍微增加向前傾斜的幅度，也會產生劇烈壓力，所以最後幾度的施壓要放慢，並預期會立刻拍擊。",
+   "safety_critical": true,
+   "answer_line": "手肘朝上、軀幹壓平、手臂纏緊",
+   "distractors": {
+    "plausible": [
+     "對手臉色發紅",
+     "對手握點突然放鬆無力"
+    ],
+    "trap": [
+     "等到聽見喀啦聲或斷裂聲"
+    ]
+   }
+  },
+  {
+   "question": "訓練中施加終結壓力的正確速度是多少？為什麼這一點很關鍵？",
+   "answer": "終結壓力必須緩慢且漸進地施加，至少花 4 到 6 秒，逐漸增加向前傾斜的幅度與旋轉扭力。肩關節容易遭受突發性的嚴重損傷，包括旋轉肌袖撕裂與需要手術治療的關節唇損傷。訓練中絕對不能使用比賽速度來施壓。",
+   "safety_critical": true,
+   "answer_line": "緩慢漸進，花 4 到 6 秒",
+   "distractors": {
+    "plausible": [
+     "像比賽一樣快速頓點",
+     "穩定施壓，只花 1 到 2 秒"
+    ],
+    "trap": [
+     "全速施加最大扭力"
+    ]
+   }
+  },
+  {
+   "question": "當訓練夥伴對 omoplata 拍擊投降時，你應該立刻如何反應？",
+   "answer": "立刻停止對肩膀施加的所有向前壓力與旋轉力。把髖部轉回中立位置，鬆開腿部的夾力。讓對手不受阻力地慢慢抽出被困的手臂。在繼續下一輪之前，口頭確認對方沒有受傷。拍擊訊號出現後，絕對不要維持任何壓力。",
+   "safety_critical": true,
+   "answer_line": "停止、放開、讓對方抽臂",
+   "distractors": {
+    "plausible": [
+     "慢慢鬆開但維持位置",
+     "放開握點但腿仍困住對方"
+    ],
+    "trap": [
+     "多撐一下確認對方真的拍擊了"
+    ]
+   }
+  },
+  {
+   "question": "對手撐手防守你的 butterfly sweep，這如何創造出 omoplata 的機會？",
+   "answer": "當對手撐手防守 sweep 時，他們會側向轉移重量，並把手臂伸離身體。這讓撐地的手臂暴露在你 overhook 的轉位路徑上，同時對手因為防守 sweep 而破壞的底座，也讓抬升 hook 與甩腿變得更容易執行，在 sweep 與 submission 之間形成自然的連鎖攻擊。",
+   "safety_critical": false,
+   "answer_line": "撐地的手臂暴露給 overhook",
+   "distractors": {
+    "plausible": [
+     "對手重心集中，底座穩固",
+     "對手用手擋住陷阱"
+    ],
+    "trap": [
+     "愣住不動而被過人"
+    ]
+   }
+  },
+  {
+   "question": "相對於對手的身體角度，什麼角度能在 omoplata 中產生最大的終結槓桿力？",
+   "answer": "與對手身體垂直、呈 90 度的角度，能產生最大的終結槓桿力。腿甩過去之後，坐穿並把髖部走開，達成這個角度。平行或角度過小會降低旋轉扭力，讓對手能藉由轉身面向你或建立防守 frame 來抵抗終結。",
+   "safety_critical": false,
+   "answer_line": "垂直，呈 90 度角",
+   "distractors": {
+    "plausible": [
+     "平行，胸貼胸的角度",
+     "45 度角，髖部方正"
+    ],
+    "trap": [
+     "維持平躺，直接向後拉"
+    ]
+   }
+  },
+  {
+   "question": "在比賽中面對積極抵抗的對手，哪個終結細節最能可靠地把 omoplata 轉化成快速拍擊？",
+   "answer": "先透過夾住對手遠側髖部或腰帶來封鎖向前翻滾，然後在施加任何旋轉之前，先把對手的胸口壓平在墊子上。大多數比賽中的 omoplata 之所以卡住，是因為攻擊者在對手仍有空間翻滾或坐起時就開始旋轉肩膀；先消除這條逃脫路線，並在加上扭力之前先控制住游動的自由手，才是把控制位置轉化成終結技的關鍵。",
+   "safety_critical": false,
+   "answer_line": "先封翻滾、壓平、再旋轉",
+   "distractors": {
+    "plausible": [
+     "立刻旋轉肩膀",
+     "追逐對手游動的自由手"
+    ],
+    "trap": [
+     "放開髖部控制去調整位置"
+    ]
+   }
+  }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+  {
+   "question": "你如何分辨 omoplata 的設置與一般的 butterfly sweep 嘗試？",
+   "answer": "主要的區別在於 overhook 的深度與 hook 抬升的方向。在一般的 butterfly sweep 中，下位者會用衣領或 underhook 握點搭配側向的力量。在 omoplata 進入時，你會感覺到腋下緊緊夾住你的三頭肌，hook 直直向上頂而不是側向推，並且對手的髖部朝著 overhook 那一側旋轉。",
+   "safety_critical": false,
+   "answer_line": "深度 overhook，hook 向上頂",
+   "distractors": {
+    "plausible": [
+     "衣領握點，側向推 hook",
+     "underhook 搭配 hip escape"
+    ],
+    "trap": [
+     "任何 butterfly hook 的抬升"
+    ]
+   }
+  },
+  {
+   "question": "如果 omoplata 已經完全鎖死、你無法逃脫，最安全的反應是什麼？",
+   "answer": "立刻用任何可用的訊號拍擊投降，無論是口頭喊拍、拍打對手或墊子，或用腳拍擊。一旦 omoplata 完全鎖死、攻擊者開始向前傾，肩關節很快就會遭受嚴重損傷。絕對不要試圖用蠻力硬撐脫困已經完全鎖死的 omoplata，因為這會大幅提高旋轉肌袖撕裂、關節唇損傷或肩關節囊受傷的風險。",
+   "safety_critical": true,
+   "answer_line": "立刻拍擊，任何訊號皆可",
+   "distractors": {
+    "plausible": [
+     "先轉身面向攻擊者再拍",
+     "先試著翻滾出去"
+    ],
+    "trap": [
+     "用力硬撐把手臂拉出來"
+    ]
+   }
+  },
+  {
+   "question": "在 omoplata 的流程中，哪個階段你的防守選項會變得最有限？",
+   "answer": "一旦攻擊者的腿完全甩過你的肩膀，並且已經控制住你遠側的髖部，你的防守選項會變得最有限。在腿甩過去之前，挺身與抽臂都非常有效。腿甩過去之後、但髖部尚未被控制之前，向前翻滾仍然可行。一旦兩者都已建立，就只剩下轉身面向攻擊者或拍擊投降是可行的選項。",
+   "safety_critical": false,
+   "answer_line": "腿已甩過且遠側髖部被扣住",
+   "distractors": {
+    "plausible": [
+     "overhook 一鎖上的瞬間",
+     "向前翻滾的窗口期間"
+    ],
+    "trap": [
+     "只有在肩膀已經被扭轉之後"
+    ]
+   }
+  },
+  {
+   "question": "從 Butterfly Guard 發動的 Omoplata 各個階段，分別有哪些防守選項？",
+   "answer": "早期階段：抵抗 overhook，把手肘收緊並挺身。中期階段：積極向前壓垮對手，阻止腿甩過你的肩膀。後期階段：在髖部控制建立之前，翻過被困的肩膀向前翻滾脫困。最終階段：轉身面向攻擊者以縮小旋轉角度，或者一旦壓力對你的肩關節造成危險，就立刻拍擊投降。",
+   "safety_critical": false,
+   "answer_line": "抗握、壓垮、翻滾、轉身面對",
+   "distractors": {
+    "plausible": [
+     "挺身、翻滾、壓垮、轉身面對",
+     "壓垮、抗握、拍擊、翻滾"
+    ],
+    "trap": [
+     "拉 guard，然後提早拍擊"
+    ]
+   }
+  }
+  ]
+ }
+}

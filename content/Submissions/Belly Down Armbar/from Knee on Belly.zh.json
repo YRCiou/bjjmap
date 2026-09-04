@@ -1,0 +1,212 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "belly down armbar 這個 finish 主要攻擊哪個解剖結構？",
+    "answer": "主要目標是肘關節，具體來說是攻擊尺側副韌帶和關節囊的過度伸展。belly-down 姿勢創造出一個槓桿系統，髖部作為支點頂住肘後方，同時手腕被抬起，迫使關節超出自然伸展範圍。次要有風險的結構包括肱二頭肌肌腱和前側關節囊。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩關節囊",
+      "腕屈肌腱"
+     ],
+     "trap": [
+      "旋轉肌袖——扭轉測試看看"
+     ]
+    }
+   },
+   {
+    "question": "從 knee on belly 該如何辨識開始隔離手臂的最佳時機？",
+    "answer": "最佳時機出現在下位選手伸出靠近側的手臂去推你的膝蓋、想要減輕橫膈膜壓力的時候。留意手肘離開肋骨、前臂朝你的膝蓋伸展的動作。這個反射性的推擠，會在他們的手肘和軀幹之間製造出空間，讓你有機會在他們把手臂收回去之前，用乾淨俐落的 two-on-one 抓握捕捉住手腕。",
+    "safety_critical": false,
+    "answer_line": "手肘推開你的膝蓋",
+    "distractors": {
+     "plausible": [
+      "手伸向你的領口",
+      "把手撐在地墊上"
+     ],
+     "trap": [
+      "等他們嘗試找回 guard"
+     ]
+    }
+   },
+   {
+    "question": "在投入 step-over 轉換之前，必須先建立什麼樣的控制？",
+    "answer": "你必須有穩固的 two-on-one 手腕抓握，雙手都控制在對手手肘下方，並讓他們的拇指朝向你的胸口，以確保正確的肘部對位。這個抓握必須夠強，讓你能在整個 step-over 過程中維持持續的拉力張力。如果沒有先建立這個抓握，對手就會在 step-over 過程中把手臂抽回去，你會同時失去這個 submission 和位置優勢。",
+    "safety_critical": false,
+    "answer_line": "手肘下方的 two-on-one 抓握",
+    "distractors": {
+     "plausible": [
+      "單手抓手腕就夠了",
+      "抓在手肘上方"
+     ],
+     "trap": [
+      "先做 step-over 再抓握"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down armbar 的流程中，對手在什麼時候失去有效逃脫的能力？",
+    "answer": "無法逃脫的關鍵點，是 belly-down 旋轉完成、雙膝緊緊夾住上臂、髖部就位在肘部後方的時候。在這之前，對手還能嘗試抽手臂、bridge，或是找回 guard。旋轉完成之後，重力、雙膝的壓迫再加上髖部位置的組合，讓抽出手臂幾乎不可能，除非冒著關節受傷的風險硬拉。",
+    "safety_critical": false,
+    "answer_line": "雙膝夾緊，髖部壓在手肘上方",
+    "distractors": {
+     "plausible": [
+      "手腕抓握一穩固就算",
+      "step-over 的腳一落地就算"
+     ],
+     "trap": [
+      "他們一停止動作就放鬆"
+     ]
+    }
+   },
+   {
+    "question": "為什麼使用 belly down armbar 時，finish 的伸展動作必須慢慢施加？",
+    "answer": "belly-down 姿勢比標準仰躺式 armbar 能創造出大得多的機械優勢，因為重力輔助伸展的動作，攻擊方全身的重量也加強了髖部的壓力。這種被放大的槓桿效果，代表肘關節到達斷裂臨界點的速度，比大多數練習者預期得快很多。太快施力可能會在對手來得及察覺威脅並 tap 之前，就造成韌帶損傷或骨折。務必循序漸進地施加壓力，並給對方時間發出 tap 訊號。",
+    "safety_critical": true,
+    "answer_line": "重力和體重放大了力量",
+    "distractors": {
+     "plausible": [
+      "放慢能避免髖部滑動",
+      "慢慢伸展能產生更多扭力"
+     ],
+     "trap": [
+      "趁對方還沒防守前快速做完"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 finish 過程中開始轉動手腕想逃脫，你該如何調整抓握？",
+    "answer": "用交疊的抓握深深地把手腕包住，並把手肘夾緊來消除轉動的空間，藉此維持控制。如果對手把拇指從朝向你胸口的方向轉開，就稍微把髖部往他們的肩膀方向調整，維持過度伸展的角度。關鍵在於讓手腕一直被兩隻手困住，同時手肘持續鎖在你的髖部線上。絕對不要去追他們的抓握——而是調整你的髖部位置來維持對位。",
+    "safety_critical": false,
+    "answer_line": "深抓手腕，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "改成 figure-four 抓握",
+      "坐起來改變角度"
+     ],
+     "trap": [
+      "放開再重新抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "收到 tap 訊號後，該如何放開 belly down armbar？",
+    "answer": "按照特定順序放開以避免受傷：先把手腕放低，解除對肘關節的伸展壓力，接著打開雙膝，鬆開對上臂的夾迫，最後脫離髖部並完全離開對方的手臂。不要一次突然全部放開，因為手臂可能會反彈到不自然的姿勢。放開之後，檢查訓練夥伴手臂的活動度，並詢問是否有任何疼痛，再繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "先放低手腕，再打開雙膝",
+    "distractors": {
+     "plausible": [
+      "一次全部放開",
+      "先開膝蓋再放手腕"
+     ],
+     "trap": [
+      "立刻把手臂猛地拉開"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，如果對手防守得很好，該如何調整你的 finish 策略？",
+    "answer": "面對強力防守時，在比賽中應該專注在漸進式地增加壓力，而不是硬要逼出 finish。用微小的調整讓髖部一點一點靠近他們的肩膀，取得更好的支點位置。用有節奏的壓力——夾緊、維持、再更用力夾緊——而不是持續不變的力道，這種脈動式的施壓會讓防守方更難撐住。如果 belly-down 的 finish 完全卡住，可以考慮改攻被困手臂的 wrist lock，或是放開重新建立 knee on belly，展開新一輪攻擊。",
+    "safety_critical": false,
+    "answer_line": "有節奏地施壓，一點一點靠近",
+    "distractors": {
+     "plausible": [
+      "放棄改去過 guard",
+      "維持固定的最大壓力"
+     ],
+     "trap": [
+      "用力做一次最後的猛拉"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正從 knee on belly 設置 belly down armbar？",
+    "answer": "最主要的辨識訊號是攻擊方從壓制型的抓握（領口和褲子）轉變成針對手臂的抓握，鎖定在你靠近側的手腕或前臂上。你會感覺到他們放開領口控制，並在你的手肘下方建立 two-on-one 抓握。次要訊號包括攻擊方抬起支撐腳準備跨過你的頭，以及壓力從向下的膝蓋壓制轉變成橫向拉扯手臂。",
+    "safety_critical": false,
+    "answer_line": "抓握轉移到你的手腕",
+    "distractors": {
+     "plausible": [
+      "膝蓋壓力突然加大",
+      "他們抓住你對側的領口"
+     ],
+     "trap": [
+      "沒有任何改變——保持攤平"
+     ]
+    }
+   },
+   {
+    "question": "被完全鎖住的 belly down armbar 抓到時，為什麼提早 tap 非常重要？",
+    "answer": "belly-down 姿勢比標準仰躺式 armbar 能創造出大得多的機械優勢，因為重力、髖部推力和雙膝的壓迫全部一起作用。肘關節到達斷裂臨界點的速度，比標準 armbar 快很多，這種極端的槓桿效果意味著，即使在察覺到這個 submission 和 tap 之間只是短暫的延遲，都可能造成韌帶損傷或骨折。一旦你感覺到手臂開始完全伸展、無法抽出來，就要立刻 tap。",
+    "safety_critical": true,
+    "answer_line": "極端槓桿效果讓它瞬間就斷",
+    "distractors": {
+     "plausible": [
+      "等到完全伸展才 tap",
+      "肩膀會先撐不住，比肘關節早"
+     ],
+     "trap": [
+      "tap 之前先硬把手臂扯出來"
+     ]
+    }
+   },
+   {
+    "question": "在 knee on belly 的 belly down armbar 每個階段，各有哪些防守選項？",
+    "answer": "在手臂被隔離的階段，立刻把手肘收回貼緊肋骨，防止被 two-on-one 捕捉。在 step-over 階段，朝攻擊方 bridge，打亂他們的 base，避免頭部被乾淨地跨過。在旋轉階段，轉身面向攻擊方，並把雙腿穿過去，趁 belly-down 姿勢鎖定之前找回 closed guard。一旦 belly-down 完全鎖定，唯一安全的選項就是立刻 tap。",
+    "safety_critical": false,
+    "answer_line": "手臂被捕捉前先收肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "等 belly-down 鎖定後再 bridge",
+      "等旋轉時再 bridge"
+     ],
+     "trap": [
+      "朝被困手臂那一側滾開"
+     ]
+    }
+   },
+   {
+    "question": "在 knee on belly 之下，伸手臂去推開膝蓋為什麼是個嚴重的防守錯誤？",
+    "answer": "用伸直的手臂去推膝蓋，正是攻擊方想要的反應，因為這會讓你的手肘離開肋骨，讓前臂暴露出來被 two-on-one 捕捉。因為膝蓋的壓力很不舒服，這種防守本能感覺很自然，但它直接製造出 submission 的破口。正確做法是透過 hip escape、轉身側躺，以及用彎曲、手肘夾緊的手臂在攻擊方的髖部做 frame 來處理壓力。",
+    "safety_critical": false,
+    "answer_line": "暴露手臂讓對方 two-on-one 捕捉",
+    "distractors": {
+     "plausible": [
+      "無法快速緩解壓力",
+      "會過度削弱你的 base"
+     ],
+     "trap": [
+      "這是緩解膝蓋壓力最好的方法"
+     ]
+    }
+   },
+   {
+    "question": "什麼是 hitchhiker escape？它在什麼時候能用來對付 belly down armbar？",
+    "answer": "hitchhiker escape 是把你被困住的手臂旋轉，讓拇指朝向天花板，同時朝手指指的方向移動身體。這個旋轉動作會讓你的手肘偏離過度伸展的平面，可能製造出足夠的空間把手臂抽出來。不過，面對執行正確的 belly-down armbar 時，這個逃脫方式成功率很低，因為趴姿加上雙膝的夾迫，會阻止所需要的旋轉動作。它在 belly-down 旋轉完成之前使用最有效。",
+    "safety_critical": false,
+    "answer_line": "拇指朝上，趁旋轉未鎖定前",
+    "distractors": {
+     "plausible": [
+      "完全 belly-down 之後效果最好",
+      "拇指朝下再拉"
+     ],
+     "trap": [
+      "手肘一被捕捉就永遠可靠"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Knee on Belly.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

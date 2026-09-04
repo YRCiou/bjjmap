@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Omoplata/from Rubber Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Rubber Guard 做 Omoplata，主要的解剖攻擊目標是什麼？",
+    "answer": "Omoplata 的目標是肩關節，在肩胛骨被體重與跨在上背的腿部壓力固定住的情況下，透過肱骨外旋，對旋轉肌袖、肩關節囊，以及 AC 關節產生旋轉力。",
+    "safety_critical": false,
+    "answer_line": "肩關節外旋",
+    "distractors": {
+     "plausible": [
+      "肘關節過度伸展",
+      "手腕屈曲與扭轉"
+     ],
+     "trap": [
+      "頸部與脊椎受壓"
+     ]
+    }
+   },
+   {
+    "question": "在 Rubber Guard 系統中，哪個位置能提供 Omoplata 最理想的進入角度？",
+    "answer": "New York 提供了最理想的進入角度，因為腿已經處在跨過對手肩膀的位置，手臂也已經完全被隔離貼在胸口，同時消除了三大設置條件中的兩項，讓通往完成位置的路徑更短。",
+    "safety_critical": false,
+    "answer_line": "New York 位置",
+    "distractors": {
+     "plausible": [
+      "Mission Control 位置",
+      "Gogoplata 架構"
+     ],
+     "trap": [
+      "放開 Rubber Guard，坐起身"
+     ]
+    }
+   },
+   {
+    "question": "你正在施加 Omoplata 壓力時，對手開始向前翻滾——這時該做什麼即時調整來防止逃脫？",
+    "answer": "跟隨對手的翻滾，把髖部往前推進，同時維持對被困手臂的手腕控制。當對手完成翻滾時，順勢轉換到 mount，並持續困住手腕，把逃脫的嘗試轉化成通往 mount 的位置進展，同時繼續對手臂維持 submission 威脅。",
+    "safety_critical": false,
+    "answer_line": "跟隨翻滾，維持手腕控制",
+    "distractors": {
+     "plausible": [
+      "放開把位，重設位置",
+      "坐回原位重新建立角度"
+     ],
+     "trap": [
+      "放手去追 back take"
+     ]
+    }
+   },
+   {
+    "question": "從 Rubber Guard 做 Omoplata，與從標準 Closed Guard 做 Omoplata 之間，最關鍵的差異是什麼？",
+    "answer": "從 Rubber Guard 出發，手臂已經透過 Mission Control 與 New York 的架構被隔離，姿態也已經被破壞，這消除了標準 closed guard Omoplata 進入中最容易失敗的兩個步驟——對手通常會在腿完全越過肩膀之前挺身或抽出手臂。",
+    "safety_critical": false,
+    "answer_line": "手臂已隔離，姿態已破壞",
+    "distractors": {
+     "plausible": [
+      "腿能更快越過肩膀",
+      "腰部把位控制更緊"
+     ],
+     "trap": [
+      "不需要控制手臂"
+     ]
+    }
+   },
+   {
+    "question": "在 Omoplata 的流程中，防守方的逃脫時間窗在哪個時間點會變得最小？",
+    "answer": "一旦攻擊方完成坐起並確立腰部控制，逃脫時間窗就會變得極小。腿橫跨肩膀的壓力、垂直的髖部對齊，加上腰部把位這三者結合，會形成一個防守方無法在不同時處理這三個控制點的情況下，前滾、挺身或抽出手臂的局面。",
+    "safety_critical": false,
+    "answer_line": "坐起並確立腰部控制之後",
+    "distractors": {
+     "plausible": [
+      "腿剛越過肩膀的時候",
+      "姿態剛被破壞之後"
+     ],
+     "trap": [
+      "髖部還沒轉成垂直之前"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中，有哪些關鍵訊號代表你應該立刻放開 Omoplata？",
+    "answer": "只要出現任何拍地訊號——不管是口頭或肢體拍地——或是對手發出任何痛苦的聲音、你感覺或聽到肩膀部位發出啵一聲，或是出現突然、失控的肩部旋轉，都要立刻放開。肩關節一旦過了臨界點，可能在幾分之一秒內就造成永久性損傷，因此立刻放開沒有商量的餘地。",
+    "safety_critical": true,
+    "answer_line": "任何拍地、啵聲或突然旋轉",
+    "distractors": {
+     "plausible": [
+      "只有口頭拍地才算數",
+      "等到明顯痛苦訊號才放開"
+     ],
+     "trap": [
+      "持續加壓直到手臂完全伸展"
+     ]
+    }
+   },
+   {
+    "question": "從控制階段轉換到完成階段時，把位的位置應該如何改變？",
+    "answer": "在控制階段，維持手肘夾緊貼身，並保持腰部把位以防止逃脫。到了完成階段，改成用兩手控制被困手臂的手腕（two-on-one），同時維持髖部壓力與垂直對齊。這能防止對手用被困的那隻手撐地，也讓你能主導肩部旋轉的方向，以獲得最大槓桿效果。",
+    "safety_critical": false,
+    "answer_line": "改成兩手控制手腕",
+    "distractors": {
+     "plausible": [
+      "全程維持手肘夾緊",
+      "加一個第二腰部把位"
+     ],
+     "trap": [
+      "放開手腕，改抓遠側衣領"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中追求 Rubber Guard 的 Omoplata 時，有哪些策略上的調整？",
+    "answer": "在比賽中，要把 sweep 這個部分當作備案來強調——如果對手用翻滾來防守這個 submission，就順勢通過到 mount 拿分，之後再重新進攻手臂。及早建立起 Omoplata 控制位置，在朝完成技術努力的同時累積優勢分數，而不是急著求 submission、冒著整個位置全部失去的風險。",
+    "safety_critical": false,
+    "answer_line": "對手翻滾就順勢通過到 mount",
+    "distractors": {
+     "plausible": [
+      "放棄並重設 guard",
+      "立刻急著求 submission"
+     ],
+     "trap": [
+      "放開把位以避免被判消極"
+     ]
+    }
+   },
+   {
+    "question": "為什麼直接從 Mission Control 嘗試 Omoplata、而不先轉進 New York，是一個常見的完成錯誤？",
+    "answer": "Mission Control 讓腿橫跨在對手背上，但角度並不是能乾淨越過肩膀的正確幾何角度。New York 會重新調整腿的位置，讓它越過肩膀，提供 Omoplata 所需要的旋轉軸線。跳過 New York 這個步驟，通常會導致腿卡在肩膀上，引發一場混戰，而對手往往會趁機恢復姿態。",
+    "safety_critical": false,
+    "answer_line": "腿卡在肩膀上，沒有角度",
+    "distractors": {
+     "plausible": [
+      "Mission Control 的把位比較弱",
+      "手臂隔離不完整"
+     ],
+     "trap": [
+      "這樣做能加快完成速度"
+     ]
+    }
+   },
+   {
+    "question": "施加完成壓力時，要防止訓練夥伴受傷，正確的做法是什麼？",
+    "answer": "要在 4 到 6 秒內用體重逐步施加壓力，而不是突然猛拉或瞬間加大肩部旋轉。一邊逐漸前傾，一邊留意夥伴的反應。訓練中絕對不要用比賽等級的速度來施加完成壓力。全程隨時留意夥伴是否能拍地，一出現任何一種訊號就要立刻放開。",
+    "safety_critical": true,
+    "answer_line": "4 到 6 秒內漸進施壓",
+    "distractors": {
+     "plausible": [
+      "像比賽一樣快速施壓",
+      "施加穩定壓力、不前傾"
+     ],
+     "trap": [
+      "瞬間加壓以測試對方會不會拍"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在從 Rubber Guard 設置 Omoplata？",
+    "answer": "主要的辨識訊號，是對手的腿在你背上抬得更高，同時放開他們的抓腳把位，代表正從 Mission Control 轉換到 New York。你會感覺到被困手臂上的旋轉拉力增加，因為對手的髖部開始轉動，而他們的腿也會開始穿過你的肩膀，而不是維持在標準 Rubber Guard 的鎖定架構中。",
+    "safety_critical": false,
+    "answer_line": "腿抬高，抓腳把位放開",
+    "distractors": {
+     "plausible": [
+      "closed guard 的壓力增加",
+      "對手抓住雙邊衣領"
+     ],
+     "trap": [
+      "對手的髖部變得平坦"
+     ]
+    }
+   },
+   {
+    "question": "被 Rubber Guard 的 Omoplata 困住時，最安全的拍地方式是什麼？",
+    "answer": "一感覺到明顯的肩部旋轉壓力，就用空出來的手，及早且清楚地拍對手身體或地墊。如果空手被控制住，就立刻用口頭拍地。一旦攻擊方施加向前傾的壓力，肩關節會很快到達臨界點——一旦 submission 已經被腰部把位完全鎖死，就不要再等著測試逃脫選項。",
+    "safety_critical": true,
+    "answer_line": "及早用空手或口頭拍地",
+    "distractors": {
+     "plausible": [
+      "先測試逃脫選項再說",
+      "只有手臂麻木才拍地"
+     ],
+     "trap": [
+      "試著硬撐痛感翻滾出去"
+     ]
+    }
+   },
+   {
+    "question": "對 Rubber Guard 的 Omoplata，最有效的防守時機是什麼時候？",
+    "answer": "成功率最高的防守時間窗，出現在從 Mission Control 或 New York 轉換到完整 Omoplata 位置的過程中，特別是攻擊方放開抓腳把位、把腿穿過你肩膀的那一刻。在這個瞬間，控制架構暫時變弱，此時搭配挺身與抽出手臂的協調動作，是在旋轉完全鎖死之前成功率最高的時機。",
+    "safety_critical": false,
+    "answer_line": "轉換到完整 Omoplata 的過程中",
+    "distractors": {
+     "plausible": [
+      "腰部把位鎖定之後",
+      "腿剛接觸的那一瞬間"
+     ],
+     "trap": [
+      "髖部轉成垂直之後"
+     ]
+    }
+   },
+   {
+    "question": "當 Omoplata 已經完全確立、腰部控制也已鎖定時，還剩下哪些防守選項？",
+    "answer": "一旦腰部控制確立，選項就非常有限。前滾需要先破壞腰部把位，但在完成壓力下這非常困難。腿橫跨在你肩膀上、髖部垂直對齊，讓挺身幾乎不可能。剩下最可行的選項是鬆軟手臂防守——放鬆被困的肩膀，同時讓身體朝對手方向轉圈——但這個成功率很低，因此及早辨識並介入才是關鍵。",
+    "safety_critical": false,
+    "answer_line": "鬆軟手臂防守，成功率低",
+    "distractors": {
+     "plausible": [
+      "前滾逃脫",
+      "立刻挺身"
+     ],
+     "trap": [
+      "把被困的手臂硬拉出來"
+     ]
+    }
+   }
+  ]
+ }
+}

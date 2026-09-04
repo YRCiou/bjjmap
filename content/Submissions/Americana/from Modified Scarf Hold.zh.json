@@ -1,0 +1,212 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Modified Scarf Hold 主要攻擊哪些解剖構造？",
+    "answer": "americana 透過強迫外旋鎖定肩盂肱關節，將壓力施加在旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊與盂唇上。這種畫刷式的旋轉會產生超出關節安全活動範圍的扭力，如果防守者不tap，就有韌帶與肌腱受傷的風險。",
+    "safety_critical": true,
+    "answer_line": "透過外旋攻擊肩關節",
+    "distractors": {
+     "plausible": [
+      "手肘過度伸展",
+      "手腕屈曲過載"
+     ],
+     "trap": [
+      "只是肌肉痠痛，可以快速硬扯"
+     ]
+    }
+   },
+   {
+    "question": "你建立 figure-four grip 時，對手開始伸直手臂——什麼樣的調整能防止他逃脫？",
+    "answer": "手臂一伸直，figure-four 就會失去旋轉槓桿。立刻改用雙手勾住手腕，並開始把身體轉到與對手手臂垂直，改以直臂 armbar 威脅他。這會迫使對手在兩者之間選擇：再次彎曲手臂（讓你重新建立 americana），或是接受 armbar 攻擊。關鍵在於及早察覺手臂開始伸直，並在手臂完全伸展前就切換動作。",
+    "safety_critical": false,
+    "answer_line": "切換為 armbar 威脅",
+    "distractors": {
+     "plausible": [
+      "更用力硬扣 figure-four",
+      "放開並重新設置位置"
+     ],
+     "trap": [
+      "坐回去拉guard"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在完成動作的過程中維持胸部壓力如此關鍵？",
+    "answer": "胸部壓力在 americana 完成階段有三個作用：防止bridge 讓手肘支點離開地面、限制呼吸以消耗對手的防禦力氣、以及消除guard 回復嘗試所需要的髖部空間。放開胸部壓力去專注在手臂攻擊上，是這個submission 從 modified scarf hold 失敗最常見的單一原因，因為這樣做會同時打開多條防禦路徑。",
+    "safety_critical": false,
+    "answer_line": "阻擋bridge、呼吸與逃脫",
+    "distractors": {
+     "plausible": [
+      "更快孤立手臂",
+      "控制遠側髖部"
+     ],
+     "trap": [
+      "放開胸部壓力，改抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "完成 americana 時，什麼跡象顯示你已經到達對手無法逃脫的地步？",
+    "answer": "無法逃脫的臨界點出現在：防守者的手肘牢牢固定在地面上、figure-four grip 鎖定在前臂中段或手腕位置，而且手已經朝髖部旋轉超過大約 45 度。到這個階段，防守者無法產生足夠力量去對抗 figure-four 結構把手臂伸直，也因為你的胸部壓力而無法有效bridge，旋轉角度更讓他無法把grip 固定在自己身體上。",
+    "safety_critical": false,
+    "answer_line": "手肘固定、grip 鎖死、超過45度",
+    "distractors": {
+     "plausible": [
+      "對手停止掙扎",
+      "雙肩都平貼地面"
+     ],
+     "trap": [
+      "放開grip 重新調整角度"
+     ]
+    }
+   },
+   {
+    "question": "在no-gi 中，如果對手手臂因為流汗而濕滑，你應該如何調整grip？",
+    "answer": "在no-gi 情況下，把 figure-four grip 扣得更深，扣在手腕而不是前臂，以增加接觸面積。在標準的手腕對手腕控制不夠時，改用手掌對手掌或gable grip 的變化型。此外，增加胸部壓力來補償grip 摩擦力的下降，並考慮把對手的手腕壓在你自己的胸部或髖部，製造第二個摩擦點，防止手臂滑脫。",
+    "safety_critical": false,
+    "answer_line": "把 figure-four 沉得更深扣手腕",
+    "distractors": {
+     "plausible": [
+      "放開重新設置grip",
+      "改夾在前臂更高的位置"
+     ],
+     "trap": [
+      "還沒控制好就硬扯完成"
+     ]
+    }
+   },
+   {
+    "question": "訓練與比賽中，americana 正確的施力速度分別是什麼？",
+    "answer": "訓練時，至少要花 3 到 5 秒施加旋轉壓力，力量最多只用 10% 到 20%，給對手足夠時間察覺並發出tap 訊號。比賽中，動作可以做得比較快，但仍應該是漸進的而不是爆發性的。無論情境為何，都絕對不要對肩關節猛然發力或突然加速。肩關節對突然的旋轉力特別脆弱，倉促完成 americana 造成的傷害往往需要手術修復，並花上數個月復健。",
+    "safety_critical": true,
+    "answer_line": "緩慢漸進，絕不猛然發力",
+    "distractors": {
+     "plausible": [
+      "訓練快、比賽慢",
+      "配合對手的抵抗程度"
+     ],
+     "trap": [
+      "快速扣死盡快完成"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己遠側的肱二頭肌來對抗旋轉——你要如何破解這個防禦性抓握？",
+    "answer": "首先增加胸部壓力，把防守者壓平，降低他產生抓握力量的能力。接著利用你的 figure-four 結構製造漸進式旋轉，隨著疲勞累積逐漸削弱他的grip。如果抓握仍然持續，用頭把他防禦的那隻手從固定的手推開，或是改變攻擊角度，朝反方向旋轉威脅 kimura，逼他放開固定點去防禦這個新的威脅。",
+    "safety_critical": false,
+    "answer_line": "增加壓力，威脅 kimura",
+    "distractors": {
+     "plausible": [
+      "放棄並過渡到 mount",
+      "放開並重新設置grip"
+     ],
+     "trap": [
+      "爆發性地把手臂硬拉出來"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，從 modified scarf hold 進攻 americana 時要考慮哪些策略因素？",
+    "answer": "在展開submission 攻擊之前先確保你的side control 得分點（IBJJF 為 3 分），因為 americana 失敗導致對手回復guard 會失去位置優勢。等到防守者因為持續承受胸部壓力而體力耗盡時再嘗試，而不是一固定住就立刻進攻。考慮比賽比分與剩餘時間：如果分數領先，嘗試 americana 的位置風險較低；如果落後，就算submission 沒有成功，也要確保維持住固定位置，避免被sweep 或逃脫。",
+    "safety_critical": false,
+    "answer_line": "先確保得分點再進攻submission",
+    "distractors": {
+     "plausible": [
+      "一固定住就立刻進攻",
+      "不管比分，永遠追求完成"
+     ],
+     "trap": [
+      "放棄固定，追著求tap"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在從 Modified Scarf Hold 設置 Americana？",
+    "answer": "最主要的辨識訊號是感覺到攻擊者原本做underhook 的那隻手，開始沿著你的手臂滑向你的手腕，而不是維持標準位置。他的自由手會伸到你手肘下方去建立 figure-four。他為了完成動作而穩固位置時，胸部壓力通常也會隨之增加。在最初的1 到2 秒內察覺這個轉換非常關鍵，因為一旦 figure-four grip 鎖死，防守就會困難許多。",
+    "safety_critical": false,
+    "answer_line": "他的手滑向你的手腕",
+    "distractors": {
+     "plausible": [
+      "他改抓你的衣領",
+      "他的重心轉移到你的腿上"
+     ],
+     "trap": [
+      "等到 figure-four 鎖死再說"
+     ]
+    }
+   },
+   {
+    "question": "面對 Modified Scarf Hold 的 Americana，最安全的tap 方式是什麼？",
+    "answer": "要提早且清楚地tap，並使用多重訊號。首選方式是口頭tap 搭配用自由手在攻擊者身上或地面上實際拍打。在 modified scarf hold 中，你遠側的手通常是自由的，一旦感覺到肩部旋轉逼近你的疼痛閾值，就要立刻使用它。不要等到疼痛變劇烈才行動，因為一旦達到旋轉極限，肩關節的傷害可能很快發生。至少要清楚而有力地tap 兩次。",
+    "safety_critical": true,
+    "answer_line": "提早tap，口頭加動作並用",
+    "distractors": {
+     "plausible": [
+      "用被困的那隻手tap",
+      "用點頭當作訊號"
+     ],
+     "trap": [
+      "先硬拚脫身再tap"
+     ]
+    }
+   },
+   {
+    "question": "面對 Modified Scarf Hold 的 Americana，有哪些防守選項可用？",
+    "answer": "依優先順序，主要的選項有：讓手肘保持貼緊肋骨以防止手腕被孤立；抓住自己的衣領、短褲或遠側肱二頭肌來固定被困的手臂；把手臂伸直以防止 figure-four 鎖死；轉身面向攻擊者以減少外旋角度；朝 americana 那一側bridge 以製造空間回復guard。效果高度取決於時機，越早介入結果會明顯更好。",
+    "safety_critical": false,
+    "answer_line": "讓手肘貼緊肋骨",
+    "distractors": {
+     "plausible": [
+      "把攻擊者的臉推開",
+      "朝鎖定那一側的反方向bridge"
+     ],
+     "trap": [
+      "轉身背對並turtle 脫身"
+     ]
+    }
+   },
+   {
+    "question": "為什麼這個 americana 變化型比起從其他位置施作的 americana，更需要及早辨識？",
+    "answer": "modified scarf hold 會造成胸部壓迫，主動消耗你的體力並限制呼吸，這代表你每多撐一秒被固定，防禦能力就會隨之下降。不像標準side control 的 americana，你可以靠hip escape 機制撐得比較久，modified scarf hold 這個位置限制了髖部的活動，形成一個會不斷惡化的問題：疲勞削弱你的防禦能力的同時，攻擊者的控制卻越來越強。在grip 轉換的最初2 秒內察覺並採取行動，正是成功防守與被submission 之間的分水嶺。",
+    "safety_critical": false,
+    "answer_line": "胸部壓力快速消耗體力",
+    "distractors": {
+     "plausible": [
+      "hip escape 一樣有效",
+      "這個位置很容易逆轉"
+     ],
+     "trap": [
+      "等等看，防守會隨時間變好"
+     ]
+    }
+   },
+   {
+    "question": "面對 Modified Scarf Hold 的 Americana，什麼時候應該選擇tap 而不是繼續防守？",
+    "answer": "如果感覺到肩關節劇痛、旋轉角度已經超過大約 45 度而你的防禦性grip 正在失守、或者你完全無法對旋轉壓力產生任何有意義的抵抗，就要立刻tap。訓練時永遠寧可提早tap，因為 americana 造成的肩傷惡名昭彰地難以痊癒，而且可能變成慢性傷害。tap 在訓練中不會讓你損失任何東西，但撕裂的旋轉肌袖卻要花上好幾個月才能重回墊子。",
+    "safety_critical": true,
+    "answer_line": "劇痛或grip 正在失守",
+    "distractors": {
+     "plausible": [
+      "只有手臂完全鎖死才tap",
+      "只有教練喊停才tap"
+     ],
+     "trap": [
+      "忍痛硬撐著想逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Americana/from Modified Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

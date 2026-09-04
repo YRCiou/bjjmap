@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Americana/from S Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from S Mount 主要攻擊哪些解剖構造？",
+    "answer": "Americana 針對肩盂肱關節，特別是對肩關節囊、旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）以及周圍韌帶施加旋轉力。figure-four 鎖法在髖部壓力固定肩膀的同時，使肱骨產生外旋，同時對這些構造施壓。次要壓力會出現在 AC 關節與肱二頭肌肌腱上。",
+    "safety_critical": false,
+    "answer_line": "肩關節與旋轉肌袖",
+    "distractors": {
+     "plausible": [
+      "肘關節過伸",
+      "腕部屈肌肌腱"
+     ],
+     "trap": [
+      "頸部與頸椎"
+     ]
+    }
+   },
+   {
+    "question": "你施加 Americana 旋轉時，對手停止動作並變得僵硬——這代表什麼、你該如何反應？",
+    "answer": "僵硬和靜止通常表示對手已到達疼痛臨界點，關節正逼近其機械極限。他們可能是在硬撐而不是拍。這時應放慢施力速度並維持穩定壓力，而不是加大力道。留意言語上的痛苦反應或不自主的臉部扭曲，這些都是拍點即將到來的額外指標。訓練時應直接口頭詢問對方是否要拍，而不是繼續加壓。",
+    "safety_critical": true,
+    "answer_line": "放慢速度，維持穩定壓力",
+    "distractors": {
+     "plausible": [
+      "持續穩定增加壓力",
+      "鬆開手確認狀況"
+     ],
+     "trap": [
+      "加大力道求快速拍降"
+     ]
+    }
+   },
+   {
+    "question": "從 S Mount 開始 Americana 終結動作前，必須先建立什麼樣的控制？",
+    "answer": "髖部到肩膀的連結必須緊密，體重要透過對手的近側肩膀傳導下去。figure-four 鎖法必須完全鎖緊，一手控制手腕，另一手穿過肘部下方。你的雙腿必須維持 S Mount 結構，一腿跨過頭部，一腿橫過軀幹。對手的肘部應被固定在身體附近，前臂垂直於地面，才能開始任何旋轉動作。",
+    "safety_critical": false,
+    "answer_line": "髖部壓力＋鎖緊的 figure-four",
+    "distractors": {
+     "plausible": [
+      "只要控制手腕就夠了",
+      "鎖緊前先做 cross-face"
+     ],
+     "trap": [
+      "讓肘部離開地面漂浮"
+     ]
+    }
+   },
+   {
+    "question": "在 S Mount 執行 Americana 的過程中，到什麼程度後這個 submission 就幾乎無法逃脫？",
+    "answer": "一旦 figure-four 鎖緊，並有適當的髖部壓力固定住肩膀，且手腕已被拉過對手身體中線朝向地面，逃脫幾乎不可能。髖部壓在肩膀上的重量、鎖緊的 figure-four 鎖法，以及過中線的旋轉力三者結合，形成單靠力量無法克服的槓桿劣勢。此時被動方應立即拍降。",
+    "safety_critical": false,
+    "answer_line": "手腕已轉過身體中線",
+    "distractors": {
+     "plausible": [
+      "鎖法鎖緊、旋轉尚未開始",
+      "肘部已固定、手腕仍在中央"
+     ],
+     "trap": [
+      "等對手體力耗盡"
+     ]
+    }
+   },
+   {
+    "question": "在 S Mount 執行 Americana 時，最常導致無法完成終結的錯誤有哪些？",
+    "answer": "最常見的終結錯誤包括：旋轉時把髖部抬離對手肩膀，讓對手有空間做防禦動作；用手臂力量而不是髖部驅動來旋轉手腕，導致快速疲勞；讓對手的肘部離開地面，大幅降低旋轉槓桿；以及在手臂伸直時仍嘗試 Americana，而不是改打 armbar，浪費時間在不適合這個手臂角度的 submission 上。",
+    "safety_critical": false,
+    "answer_line": "把髖部抬離肩膀",
+    "distractors": {
+     "plausible": [
+      "用體重驅動旋轉",
+      "持續固定肘部"
+     ],
+     "trap": [
+      "猛拉鎖法求快速拍降"
+     ]
+    }
+   },
+   {
+    "question": "對手抓住自己的腰帶防禦 Americana 鎖法——你該如何調整以破解這個防禦？",
+    "answer": "維持你的 figure-four 鎖法，並將髖部壓力向前移動，加強對肩膀的固定。用小幅度、連續的髖部頂壓來消耗對方防禦性抓握的力氣，同時設法把手腕鬆開。或者，把控制手腕的那隻手滑向對方的手指，從小指開始逐一撬開。如果腰帶抓握依然牢固，可考慮轉打 armbar，設法伸直對手的手臂，因為這種防禦性抓握往往會使手肘伸直，進入 armbar 的位置。",
+    "safety_critical": false,
+    "answer_line": "頂壓髖部，逐一撬開抓握",
+    "distractors": {
+     "plausible": [
+      "直接把手腕往後扯",
+      "換手去撕開腰帶"
+     ],
+     "trap": [
+      "後仰用力扯開腰帶"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展 S Mount 的 Americana 時，有哪些重要的安全考量？",
+    "answer": "施加旋轉力至少要花 3 到 5 秒，絕不可猛拉或突然施壓在肩關節上。S Mount 的髖部壓力會大幅放大 submission 的力道，所以 drilling 時只用 10-20% 的力。留意言語上的痛苦反應、臉部扭曲，或身體僵硬，這些都是拍降前的徵兆。任何拍降訊號——不論是口頭、手拍或腳拍——都要立即放開。切勿在同一次訓練中反覆對同一側肩膀施展 submission，先前有肩傷的夥伴需要先取得醫療許可。",
+    "safety_critical": true,
+    "answer_line": "緩慢施壓，拍降立即鬆開",
+    "distractors": {
+     "plausible": [
+      "先用全力再慢慢放鬆",
+      "只依賴口頭拍降"
+     ],
+     "trap": [
+      "同一側肩膀重複施展"
+     ]
+    }
+   },
+   {
+    "question": "比賽中，對手正在防禦 Americana 鎖法但頸部露出破綻——你該採取什麼終結策略？",
+    "answer": "維持 Americana 的威脅作為主要攻擊，同時留意頸部露出的破綻。最好的比賽策略是製造 submission 兩難：積極施加 Americana 的威脅，迫使對方將防禦重心放在保護肩膀上，如果他們把空出的手橫過身體過度反應，就轉打 mounted triangle 或 arm triangle。Americana 作為主要施壓手段，開啟第二波攻擊，使你的 submission 鏈難以被全面防禦。",
+    "safety_critical": false,
+    "answer_line": "逼出反應，銜接 triangle",
+    "distractors": {
+     "plausible": [
+      "放棄肩鎖改打 choke",
+      "硬用蠻力鎖緊 keylock"
+     ],
+     "trap": [
+      "坐起身伸手去搆頸部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 figure-four 鎖法鎖緊之前，如何辨識對手正在從 S Mount 設置 Americana？",
+    "answer": "主要辨識線索是：對手的遠側手開始滑進你的手肘下方，同時近側手繼續維持腕部控制，形成 figure-four 穿插動作。你也會感覺到肩膀上的髖部壓力增加，這代表對方正在準備固定終結動作。從 armbar 威脅轉為 Americana 通常發生在你成功保持手肘彎曲時，所以要意識到你的 armbar 防禦其實只是轉移了威脅，而非消除了威脅。",
+    "safety_critical": false,
+    "answer_line": "遠側手穿進手肘下方",
+    "distractors": {
+     "plausible": [
+      "髖部壓力突然下降",
+      "近側手鬆開你的手腕"
+     ],
+     "trap": [
+      "等到手腕開始旋轉再反應"
+     ]
+    }
+   },
+   {
+    "question": "當 S Mount 的 Americana 已完全鎖緊、且旋轉已過中線時，最安全的做法是什麼？",
+    "answer": "立即用空出的手、口頭訊號或腳拍地面拍降。一旦 figure-four 在適當髖部壓力下鎖緊，手腕已被旋轉過身體中線，這個 submission 在機械上已經完成。嘗試抵抗會有旋轉肌袖撕裂、肩關節囊損傷或肩盂肱關節脫位的嚴重風險。到了這個階段，沒有任何防禦技巧能可靠地逃脫已鎖緊的 Americana——早點拍才能明天繼續訓練。",
+    "safety_critical": true,
+    "answer_line": "立即拍降，不要抵抗",
+    "distractors": {
+     "plausible": [
+      "用力 bridge 求翻轉",
+      "撐住等哨聲"
+     ],
+     "trap": [
+      "抵抗並奮力做 frame"
+     ]
+    }
+   },
+   {
+    "question": "對手開始從 S Mount 穿 figure-four 鎖法——在最初兩秒內有哪些防禦選項？",
+    "answer": "在鎖法完全鎖緊前的前兩秒：把肘部壓向地面並緊貼肋骨，防止對方的手穿進去；立刻用被威脅的那隻手抓住自己的衣領，建立一個對方必須破壞的錨點；並開始朝對方腿部方向做 hip escape，破壞垂直角度結構。關鍵時間窗是在 keylock 鎖緊之前——一旦 figure-four 完全成型，防禦選項會急遽減少。",
+    "safety_critical": false,
+    "answer_line": "固定肘部、抓自己衣領",
+    "distractors": {
+     "plausible": [
+      "推開對方胸口",
+      "等看鎖法是否鎖緊"
+     ],
+     "trap": [
+      "伸直手臂騰出空間"
+     ]
+    }
+   },
+   {
+    "question": "在 S Mount 被 Americana 鎖住最常見的防禦錯誤有哪些？",
+    "answer": "最常見的錯誤包括：試圖推開對手時把被困的手臂完全伸直，這樣反而餵給對方 armbar；把控制腿部的那隻空出手拿去和鎖法搏鬥，導致失去主要逃脫工具；驚慌之下沒有維持衣領抓握就直接 bridge，可能加速 submission 完成；以及沒有及早辨識出 Americana 的抓握設置，導致無法在 figure-four 成形前阻止，錯過成功率最高的防禦時機。",
+    "safety_critical": false,
+    "answer_line": "把被困的手臂伸直",
+    "distractors": {
+     "plausible": [
+      "把肘部緊貼肋骨",
+      "抓住自己的衣領"
+     ],
+     "trap": [
+      "對 keylock 提早拍降"
+     ]
+    }
+   },
+   {
+    "question": "你成功防住了 Americana 的鎖法，但仍被困在 S Mount 下位——你下一步最優先要做什麼？",
+    "answer": "回到 S Mount 的基本防禦：維持彎臂防禦並抓住衣領，用空出的手控制對手的近側腿，並開始朝對方腿部做 hip escape。防住 Americana 後不要放鬆——你仍然處於 armbar、triangle 或另一次 Americana 攻擊的嚴重危險中。利用對手重新設置攻擊的短暫過渡期，一點一點創造空間逃脫。此時的目標應從防禦 submission 轉為爭取位置逃脫。",
+    "safety_critical": false,
+    "answer_line": "恢復彎臂防禦，繼續 hip escape",
+    "distractors": {
+     "plausible": [
+      "放鬆，防禦已經完成",
+      "立即進攻求 sweep"
+     ],
+     "trap": [
+      "放開腿部控制休息一下"
+     ]
+    }
+   }
+  ]
+ }
+}

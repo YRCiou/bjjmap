@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Inside Sankaku.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Inside Sankaku 施展的 toe hold 主要攻擊哪些解剖構造？",
+    "answer": "toe hold 攻擊腳踝韌帶(內外側)、中足的蹠骨關節,以及足底筋膜。旋轉力會同時分散到多個小關節上,這使得這個降伏技既有效卻也危險,因為傷害可能同時發生在多個結構上。中足的 Lisfranc 關節群對這種扭轉機制特別脆弱。",
+    "safety_critical": true,
+    "answer_line": "腳踝、中足、Lisfranc 關節",
+    "distractors": {
+     "plausible": [
+      "只有阿基里斯腱",
+      "膝關節韌帶與股骨"
+     ],
+     "trap": [
+      "扭一根腳趾直到它斷掉"
+     ]
+    }
+   },
+   {
+    "question": "對手藏起腳跟以防守 inside heel hook,你該如何在不失去位置控制的情況下轉換成 toe hold？",
+    "answer": "在整個轉換過程中維持 Inside Sankaku 的纏腿與髖部連結。用靠近的那隻手放開 heel hook 的握點,立刻伸手扣住對手已暴露的腳趾與蹠球部。用遠側那隻手穿過對方腳下建立 figure-four,搶在他們收腳之前完成。關鍵是讓雙腿持續鎖在纏腿中,讓對手的腳在換握法的空檔無法逃脫。",
+    "safety_critical": false,
+    "answer_line": "鎖住雙腿,快速扣住腳趾",
+    "distractors": {
+     "plausible": [
+      "坐起來重新抓握腳跟",
+      "先切換到 outside ashi"
+     ],
+     "trap": [
+      "鬆開纏腿以便伸手抓腳趾"
+     ]
+    }
+   },
+   {
+    "question": "什麼訊號能告訴你 toe hold 已經接近造成結構性傷害的臨界點？",
+    "answer": "當對手腳踝旋轉到達活動範圍極限時,你會感覺到阻力突然下降。腳會開始感覺鬆動,你可能會感覺到蹠骨關節傳來輕微的爆裂感。到了這個時間點,這個降伏技已經非常接近造成結構性傷害。如果對手還沒拍降,就維持這個位置、不要再加壓,並口頭跟對方確認是否還要繼續。",
+    "safety_critical": true,
+    "answer_line": "突然鬆動、輕微爆裂感",
+    "distractors": {
+     "plausible": [
+      "對手變得安靜不動",
+      "他們的小腿用力繃緊"
+     ],
+     "trap": [
+      "持續加力直到聽見斷裂聲"
+     ]
+    }
+   },
+   {
+    "question": "從 Inside Sankaku 完成 toe hold 時,哪種握法配置能提供最強的力學優勢？",
+    "answer": "figure-four 握法配合手腕貼在蹠球部,能提供最大的槓桿。靠近的那隻手從外側包住腳趾,手指扣住蹠骨。遠側的那隻手穿過腳下,握住自己的手腕。手肘貼緊軀幹,腳被拉貼在你胸前,讓旋轉力來自整個身體的轉動,而不是單靠手臂力量。",
+    "safety_critical": false,
+    "answer_line": "figure-four,手腕貼腳",
+    "distractors": {
+     "plausible": [
+      "單手抓腳趾扭轉",
+      "直接抓住踝骨"
+     ],
+     "trap": [
+      "單獨鎖住某根腳趾猛拉"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴拍降後,你應該如何放開 toe hold？",
+    "answer": "一聽到或感覺到拍降,立刻停止所有旋轉壓力。緩慢放開你的 figure-four 握點,同時維持輕微的接觸,而不是突然把腳丟開。讓對手的腳自然回到中立位置。放開 Inside Sankaku 纏腿,給夥伴空間檢查自己的腳踝。開始下一動作之前,口頭確認對方沒事。",
+    "safety_critical": true,
+    "answer_line": "停止、緩慢放開、確認狀況",
+    "distractors": {
+     "plausible": [
+      "突然放手直接站起來",
+      "等第二次拍降才放"
+     ],
+     "trap": [
+      "拍降後再多施力一下"
+     ]
+    }
+   },
+   {
+    "question": "對手開始伸直被困的腿以卸掉 toe hold 的壓力,什麼調整能防止逃脫？",
+    "answer": "夾緊你的膝蓋、把髖部向前頂,收緊你的 Inside Sankaku 纏腿結構,防止對方伸直腿。用外側那條腿壓在對方大腿膝蓋上方,讓腿保持彎曲。如果他們持續用力伸直,可以短暫放開 toe hold 的壓力,先重新建立更深的 Inside Sankaku 控制,等腿被確實困住後再重新施展降伏。",
+    "safety_critical": false,
+    "answer_line": "夾緊膝蓋,頂髖向前",
+    "distractors": {
+     "plausible": [
+      "用力拉腳",
+      "立刻改攻 heel hook"
+     ],
+     "trap": [
+      "放開纏腿重新起手"
+     ]
+    }
+   },
+   {
+    "question": "從 Inside Sankaku 施展 toe hold 與從 open guard 位置施展,根本上的差異是什麼？",
+    "answer": "在 Inside Sankaku 中,對手的腿被困在你的 figure-four 纏腿裡,無法收腳或伸直腿來卸壓。而在 open guard 位置,對手可以踢脫、拉開距離,或整條腿收回。Inside Sankaku 的纏腿就像一個錨點,讓 toe hold 的成功率大幅提高,因為對手無法同時處理握點問題與位置控制問題。",
+    "safety_critical": false,
+    "answer_line": "腿被困住,無法收腳",
+    "distractors": {
+     "plausible": [
+      "open guard 提供更好的角度",
+      "握力強弱決定成敗"
+     ],
+     "trap": [
+      "跳過纏腿直接撲向腳部"
+     ]
+    }
+   },
+   {
+    "question": "如何在 heel hook 與 toe hold 的威脅之間切換,以創造有效的攻擊兩難？",
+    "answer": "根據對手腳的位置變化,交替你的握點攻擊。當他們把腳跟壓向自己髖部藏起來時,腳趾就會暴露出來,可以攻 toe hold。當他們蜷起腳趾、伸直腳掌防守 toe hold 時,腳跟就會打開,可以攻 heel hook。在轉換過程中持續保持對腳的接觸,讓對手永遠沒有空檔同時重整兩種防守。",
+    "safety_critical": false,
+    "answer_line": "攻打暴露的握點,持續黏住",
+    "distractors": {
+     "plausible": [
+      "永遠先攻 toe hold",
+      "每隔幾秒就換握點"
+     ],
+     "trap": [
+      "放開對腳的接觸來重整"
+     ]
+    }
+   },
+   {
+    "question": "從 Inside Sankaku 施展 toe hold 時,哪個常見的握法錯誤會造成最高的受傷風險？",
+    "answer": "抓住單一根腳趾,而不是整個包住蹠球部,會造成最高的受傷風險。單獨抓握腳趾會把力量集中在一個小關節上,遠在對手感覺到足夠痛感拍降之前,就可能骨折或脫位。永遠要用整個手掌包住多根腳趾與蹠骨,把力量分散在更大的腳部結構上,讓對手能感受到漸進的壓力,並及時拍降。",
+    "safety_critical": true,
+    "answer_line": "只抓單根腳趾,而非蹠球",
+    "distractors": {
+     "plausible": [
+      "握點太鬆容易滑脫",
+      "雙手都扣在腳跟上"
+     ],
+     "trap": [
+      "拍降後再多扭一下確保鎖死"
+     ]
+    }
+   },
+   {
+    "question": "對手朝著 toe hold 旋轉的方向轉動身體,你該跟著轉動還是放棄攻擊？",
+    "answer": "跟著他們的轉動,並維持 Inside Sankaku 控制,同時按比例增加你自己的旋轉壓力。他們的身體轉動會部分抵消你的扭力,但如果他們轉得夠多,腳跟就會因為這個轉動動作而暴露出來。這會創造出轉回 inside heel hook 的機會。這個兩難之處在於,他們對 toe hold 最好的防守,恰好會造成對 heel hook 最差的暴露,所以你要依據他們轉動的方向,在兩種威脅之間切換。",
+    "safety_critical": false,
+    "answer_line": "跟著轉動,追擊腳跟",
+    "distractors": {
+     "plausible": [
+      "維持位置,不做調整",
+      "放棄 toe hold,重新起手"
+     ],
+     "trap": [
+      "放開纏腿去追腳跟"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正從 Inside Sankaku 佈局 toe hold？",
+    "answer": "主要的辨識訊號是:對手放開 heel hook 的握點,用靠近的那隻手伸向你的腳趾;你感覺到手指從外側包住你的蹠球部或蹠骨區域;對手把你的腳往上拉向自己的軀幹時,胸口會抬高,控制點從髖部高度轉移到胸口高度。如果你一直成功藏住腳跟,就要預期 toe hold 是這個連鎖攻擊中自然的下一步。",
+    "safety_critical": false,
+    "answer_line": "放開腳跟,手伸向腳趾",
+    "distractors": {
+     "plausible": [
+      "他們在挖你的阿基里斯腱",
+      "對手在拉你的膝線"
+     ],
+     "trap": [
+      "不用理會,去追自己的腿部攻擊"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Inside Sankaku 施展的 toe hold,最安全的拍降方式是什麼？",
+    "answer": "大聲喊「拍」,同時用你的自由手拍打對手或墊子。口頭拍降特別重要,因為你的雙手可能正忙著搶握點。一感覺到旋轉壓力傳到腳踝關節,就立刻拍降,不要等到評估逃脫可能性後再拍。toe hold 會對腳踝與中足同時造成快速的多關節傷害,痛覺訊號往往在結構性傷害已經開始之後才傳來。",
+    "safety_critical": true,
+    "answer_line": "大聲喊拍,盡早拍降",
+    "distractors": {
+     "plausible": [
+      "先試試看能否逃脫",
+      "等疼痛到達高峰再拍"
+     ],
+     "trap": [
+      "用力掙脫把腳硬拉出來"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Inside Sankaku 施展的 toe hold,有哪些防守選項？",
+    "answer": "有三種主要防守方式:在 figure-four 鎖死之前,用雙手盡早把對手扣在你腳趾上的手指剝開;朝著扭轉壓力的方向轉動身體,以抵消腳踝上的旋轉力;或是趁對手雙手忙於扣握 toe hold、沒空控制你的腿時,用自由腿推開他們的髖部,打破 Inside Sankaku 的纏繞。",
+    "safety_critical": false,
+    "answer_line": "剝握點、轉身、抽腿",
+    "distractors": {
+     "plausible": [
+      "只用手搶握點,身體不動",
+      "用力把膝蓋拉向胸口"
+     ],
+     "trap": [
+      "爆發性地把腿伸直"
+     ]
+    }
+   },
+   {
+    "question": "被困在 Inside Sankaku 時,如何同時防守 heel hook 與 toe hold？",
+    "answer": "採取雙重防守姿勢:把腳跟藏在自己的髖部旁邊,同時蜷起腳趾、腳掌向下伸直,阻止 toe hold 扣握。讓靠近的那隻手保持備戰狀態,依對手攻擊的是腳跟還是腳趾,隨時準備搶握點。這種雙重防守姿勢很耗體力,所以要用它來爭取時間,同時進行位置逃脫的動作。",
+    "safety_critical": false,
+    "answer_line": "藏腳跟,蜷腳趾向下",
+    "distractors": {
+     "plausible": [
+      "把腳伸直並繃緊",
+      "只防守 heel hook"
+     ],
+     "trap": [
+      "把腿踢出去以斷開接觸"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對一個已經鎖死的 toe hold 嘗試強力伸直腿部很危險？",
+    "answer": "對一個已鎖死的 toe hold 做爆發性的伸腿動作,會把力量集中在已經受壓的腳踝關節與中足結構上。腳上的旋轉鎖意味著伸直的動作會增加第二個力量向量,可能同時撕裂外側腳踝韌帶並損傷 Lisfranc 關節群。這個動作發生的速度比你的神經系統能感知疼痛還快,所以結構性傷害會在你意識到需要拍降之前就已發生。",
+    "safety_critical": true,
+    "answer_line": "痛感傳來前腳踝已撕裂",
+    "distractors": {
+     "plausible": [
+      "會讓膝關節韌帶超負荷",
+      "會讓握點更難剝開"
+     ],
+     "trap": [
+      "把腿踢直以掙脫"
+     ]
+    }
+   }
+  ]
+ }
+}

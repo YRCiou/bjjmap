@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Modified Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Modified Scarf Hold 主要攻擊的是哪個解剖構造？",
+    "answer": "主要目標是肘關節，具體來說是對抗自然活動範圍的過度伸展，對尺側副韌帶（ulnar collateral ligament）與關節囊造成壓力。belly-down 姿勢創造出單一方向的力量，把肘部推超過其伸展極限。二次應力則落在肱二頭肌肌腱與周邊軟組織上，因為它們在承重下抵抗被迫的伸展。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩關節囊旋轉",
+      "手腕與前臂屈曲"
+     ],
+     "trap": [
+      "頸部——扭轉頸椎"
+     ]
+    }
+   },
+   {
+    "question": "你已經到達收尾臨界點、應該預期對方拍降的關鍵指標是什麼？",
+    "answer": "臨界點的指標包括：感覺手臂完全伸直、肘部沒有任何剩餘彎曲；對手的身體緊繃並嘗試最後一刻的絕望掙扎；以及感覺到對你髖部伸展的阻力逐漸增加，接著突然阻力驟降。如果你感覺到任何彈響或手臂突然變軟，立即放開，因為關節可能在對方能夠發出訊號之前就已經受損。",
+    "safety_critical": true,
+    "answer_line": "手臂伸直，阻力驟降",
+    "distractors": {
+     "plausible": [
+      "對手完全停止動作",
+      "他們的 grip 逐漸收緊"
+     ],
+     "trap": [
+      "扭到聽見彈響聲才停"
+     ]
+    }
+   },
+   {
+    "question": "決定從 Modified Scarf Hold 轉換到 belly-down 收尾之前，必須先建立哪些控制？",
+    "answer": "你必須先建立雙手扣緊的 two-on-one 手腕 grip、近側手臂緊拉貼胸沒有鬆動、對手的另一隻手無法抓到你控制的雙手、以及胸部壓力足以在轉換過程中防止對手突然 bridge。若在四個要素都建立前就貿然轉換，會替熟練的對手留下逃脫空間。",
+    "safety_critical": false,
+    "answer_line": "Two-on-one grip，手臂緊貼",
+    "distractors": {
+     "plausible": [
+      "光靠胸部壓力就夠",
+      "只靠頭肩固定"
+     ],
+     "trap": [
+      "手臂還有鬆動就跨過頭部"
+     ]
+    }
+   },
+   {
+    "question": "在 Belly Down Armbar 流程中，submission 在哪個時間點變得幾乎無法逃脫？",
+    "answer": "無法逃脫的臨界點發生在你完成 belly-down 旋轉、雙膝緊緊夾住上臂、對手的拇指朝上、你的髖部貼緊地面之後。對手無法做 hitchhiker escape，因為趴姿阻止了旋轉；無法 stack，因為你不是仰躺；也無法有效拚 grip，因為你的雙手都控制著貼胸的手腕。",
+    "safety_critical": false,
+    "answer_line": "膝蓋夾緊，髖部貼地，拇指朝上",
+    "distractors": {
+     "plausible": [
+      "還跪著時手腕就固定住",
+      "剛開始跨頭部，胸部壓實"
+     ],
+     "trap": [
+      "放鬆膝蓋以便讓髖部下沉"
+     ]
+    }
+   },
+   {
+    "question": "讓對手在幾乎鎖定的 Belly Down Armbar 中逃脫的最常見收尾錯誤是什麼？",
+    "answer": "最常見的錯誤是在收尾時沒有讓髖部貼近對手的肘關節。當攻擊者的髖部漂移到對手手腕方向、或遠離肘部時，槓桿支點會偏移，對手就能彎曲手臂製造防禦角度。修正方式是確保你的髖部摺痕在施展伸展之前直接抵住對手的肘關節，讓支點的槓桿效果最大化。",
+    "safety_critical": false,
+    "answer_line": "髖部偏離肘部",
+    "distractors": {
+     "plausible": [
+      "膝蓋夾得太緊",
+      "頭部離開地面"
+     ],
+     "trap": [
+      "坐起來重新抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 belly-down 收尾階段開始把手腕抽出來，你該如何調整 grip？",
+    "answer": "從標準的 two-on-one grip 轉換成 figure-four 配置，讓雙手緊扣鎖住手腕以加強槓桿。如果他們開始把前臂外旋，跟著旋轉你自己的 grip 以維持拇指朝上的方向。作為最後手段，把手腕夾進你的腋下，用二頭肌和前臂當虎鉗——這在 belly-down 姿勢下幾乎不可能被掙脫。",
+    "safety_critical": false,
+    "answer_line": "換成 figure-four grip",
+    "distractors": {
+     "plausible": [
+      "同樣的 grip 抓更緊",
+      "暫停等他們累"
+     ],
+     "trap": [
+      "翻回仰躺重新調整"
+     ]
+    }
+   },
+   {
+    "question": "施展這個位置的 Belly Down Armbar 時，必須注意哪些特定的受傷風險？",
+    "answer": "belly-down 姿勢產生的力量遠大於標準仰躺式 armbar，因為你全身的髖部伸展力量直接施加在肘部上。主要風險是尺側副韌帶斷裂，如果施壓太快，可能在對手拍降前就發生。務必緩慢漸進地伸展髖部。由於對手面朝下時肢體拍降可能難以察覺，要特別留意口頭求救訊號。如果感覺到任何突然鬆脫或彈響感，立即放開。",
+    "safety_critical": true,
+    "answer_line": "快速施壓導致 UCL 斷裂",
+    "distractors": {
+     "plausible": [
+      "肩袖撕裂風險",
+      "grip 造成手腕骨折"
+     ],
+     "trap": [
+      "不管情況都快速施壓"
+     ]
+    }
+   },
+   {
+    "question": "在比賽與訓練場景中，該如何調整 Belly Down Armbar 的收尾方式？",
+    "answer": "在比賽中，一旦姿勢完全鎖定，可以稍微加快伸展速度，考量到腎上腺素驅動下對方會有更強烈的防守嘗試。訓練時，永遠緩慢漸進地施壓，並在姿勢固定時口頭提醒。無論在哪種情境，設置與控制的技術標準都必須一致。針對比賽的特定調整包括：一開始就夾更緊膝蓋以避免裁判喊站立，以及把頭部遠離對手髖部以維持 base。",
+    "safety_critical": false,
+    "answer_line": "比賽較快，訓練較慢",
+    "distractors": {
+     "plausible": [
+      "兩種情境速度相同",
+      "比賽反而放慢伸展"
+     ],
+     "trap": [
+      "訓練時也快速伸展"
+     ]
+    }
+   },
+   {
+    "question": "你的對手在跨頭部階段開始 posture up——什麼調整能防止他們逃脫？",
+    "answer": "立刻停止跨頭部動作，把體重壓回他們的胸口，同時把被困手臂拉得更緊貼身。用正在跨越的那條腿去推對手後腦，把他們壓平回地面。等對手重新被壓平後，重新建立完整的胸部壓力再重新嘗試跨頭部。若對正在 posture up 的對手強行完成轉換，通常會導致整條手臂被抽走。",
+    "safety_critical": false,
+    "answer_line": "壓下體重，重新壓平對手",
+    "distractors": {
+     "plausible": [
+      "坐回去重新抓手腕",
+      "等他們自己安定下來"
+     ],
+     "trap": [
+      "強行完成跨頭部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Belly Down Armbar from Modified Scarf Hold 對善於防守標準 armbar 的對手特別有效？",
+    "answer": "標準的 armbar 防禦工具——hitchhiker escape、stacking、扣緊雙手、以及朝攻擊者旋轉——在攻擊者已經 belly-down 時都會失效。趴姿消除了旋轉逃脫路徑，因為攻擊者的體重把防守者壓平固定住。stack 需要攻擊者仰躺，在這裡並不適用。扣手防禦則在轉換開始前就已被 two-on-one 手腕控制破解。",
+    "safety_critical": false,
+    "answer_line": "趴姿阻斷 hitchhiker escape",
+    "distractors": {
+     "plausible": [
+      "收尾速度快得多",
+      "抓 gi 讓它無法破解"
+     ],
+     "trap": [
+      "翻回仰躺完成收尾"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識出 Belly Down Armbar from Modified Scarf Hold 正在被設置？",
+    "answer": "主要辨識線索是感覺對手從標準的 modified scarf hold grip 轉換成對你近側手腕更緊的 two-on-one 控制，感覺到他們胸部壓力稍微抬起準備移轉重量，以及注意到他們的遠側腿開始朝上重新定位以準備跨頭部。這些線索通常在兩到四秒內依序出現，給你一個雖然短暫但可以行動的防守窗口。",
+    "safety_critical": false,
+    "answer_line": "更緊的 two-on-one，腿部重新定位",
+    "distractors": {
+     "plausible": [
+      "他們把遠側手撐開",
+      "他們的頭往你的髖部靠"
+     ],
+     "trap": [
+      "用那隻手臂推開他們的髖部"
+     ]
+    }
+   },
+   {
+    "question": "對 Belly Down Armbar from Modified Scarf Hold 最安全的拍降方式是什麼？",
+    "answer": "及早且明確地拍降，同時使用多種訊號。用你的自由手拍打對手身體，大聲口頭喊拍，並用雙腳拍地。belly-down 姿勢會產生極端的槓桿優勢，能在幾分之一秒內傷害肘部。不要嘗試在這個姿勢下硬撐明顯的伸展壓力，因為韌帶損傷的風險遠遠超過延長防守所能帶來的任何比賽利益。",
+    "safety_critical": true,
+    "answer_line": "同時拍手、喊聲、拍腳",
+    "distractors": {
+     "plausible": [
+      "輕拍一次手就夠",
+      "只拍地不拍對手"
+     ],
+     "trap": [
+      "硬撐一下試試鎖定程度"
+     ]
+    }
+   },
+   {
+    "question": "面對 Belly Down Armbar from Modified Scarf Hold，有哪些防守選項？",
+    "answer": "主要防守是依序遞減的。首先，把手肘彎曲並緊貼肋骨，配合 grip 加固，防止手臂被隔離。其次，如果手臂已被隔離，在跨頭部階段朝對手方向 bridge 以打亂他們的轉換。第三，如果旋轉已開始，把身體轉向對手以恢復 guard。最後，如果 belly-down 已建立，扣緊雙手作為暫時的拖延手段，同時設法轉動身體。",
+    "safety_critical": false,
+    "answer_line": "手肘彎曲貼肋骨",
+    "distractors": {
+     "plausible": [
+      "先 bridge，之後再護手臂",
+      "扣手當作第一道防守"
+     ],
+     "trap": [
+      "讓手臂伸直，之後再轉身"
+     ]
+    }
+   },
+   {
+    "question": "為什麼轉換階段是對抗這個 submission 的關鍵防守窗口？",
+    "answer": "在從 Modified Scarf Hold 轉換到 belly-down 的過程中，攻擊者必須暫時降低胸部壓力、轉移重量分布並跨過你的頭部，這些動作都會在他們的控制上製造短暫的不穩定。一旦 belly-down 姿勢完全建立，膝蓋夾緊、髖部下沉，攻擊者的力學優勢就會壓倒性地強，逃脫機率會大幅下降。在轉換階段防守，你雖然處於劣勢但仍在對抗；等到完全鎖定後才防守，等於在對抗近乎不可能的勝算。",
+    "safety_critical": false,
+    "answer_line": "攻擊者控制暫時不穩",
+    "distractors": {
+     "plausible": [
+      "鎖定後 grip 反而最弱",
+      "胸部壓力在轉換中期最強"
+     ],
+     "trap": [
+      "等 belly-down 後再 bridge"
+     ]
+    }
+   },
+   {
+    "question": "如果感覺到手臂已經在 belly-down 姿勢中被伸展，你應該怎麼做？",
+    "answer": "如果已完全鎖定的 belly-down 姿勢中伸展已經開始，你的優先順序要立刻從逃脫轉向自身安全。毫不遲疑地同時用口頭與肢體訊號拍降。belly-down 髖部伸展所產生的力量遠超過肘關節所能安全承受的範圍。試圖在這個姿勢下硬撐完整伸展，有可能突然造成災難性的韌帶斷裂，需要手術修復並經歷數月復健。",
+    "safety_critical": true,
+    "answer_line": "立刻拍——口頭加肢體",
+    "distractors": {
+     "plausible": [
+      "等看壓力會不會緩解",
+      "喊拍就好，不用拍打"
+     ],
+     "trap": [
+      "bridge 用力硬拔手臂"
+     ]
+    }
+   }
+  ]
+ }
+}

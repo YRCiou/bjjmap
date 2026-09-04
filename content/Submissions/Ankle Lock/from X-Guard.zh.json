@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Ankle Lock/from X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Ankle Lock from X-Guard 主要攻擊哪些解剖構造？",
+    "answer": "直腿式 ankle lock 主要攻擊阿基里斯腱與踝關節（talocrural joint）。前臂的刀刃部位壓在阿基里斯腱上，figure-four grip 則在腳跟後方形成一個支點。接著髖部伸展會讓踝關節超過原本 dorsiflexion 的自然活動範圍而過度伸展，對肌腱以及前踝韌帶（特別是 anterior talofibular ligament）造成劇烈壓力。如果 grip 偏向腳掌方向，還會對足中部關節造成次要壓力。",
+    "safety_critical": false,
+    "answer_line": "阿基里斯腱與踝關節",
+    "distractors": {
+     "plausible": [
+      "膝關節韌帶，像 heel hook 一樣",
+      "腳趾與前足骨"
+     ],
+     "trap": [
+      "沒什麼脆弱的，可以放心硬拉"
+     ]
+    }
+   },
+   {
+    "question": "你感覺對手的腳在你施壓時開始不自主地彎曲，這代表你的完結位置有什麼意義？",
+    "answer": "不自主的腳部彎曲代表你正在逼近踝關節的力學極限。對手的身體正反射性地想透過 dorsiflexion 阻力來緩解阿基里斯腱上的壓力。這時候，維持穩定壓力，不要加快速度或加大力道。你的 grip 對齊與髖部伸展正在產生有效的 submission 壓力。持續漸進施壓，並仔細聆聽 tap 訊號，因為很多練習者在腳被 figure-four grip 控制時，會用口頭 tap 而不是用肢體 tap。",
+    "safety_critical": true,
+    "answer_line": "接近踝關節的力學極限",
+    "distractors": {
+     "plausible": [
+      "grip 正在鬆脫",
+      "對手快要逃脫了"
+     ],
+     "trap": [
+      "加快速度加大力道"
+     ]
+    }
+   },
+   {
+    "question": "從 X-Guard 投入 ankle lock 完結之前，必須先建立哪三個控制要素？",
+    "answer": "第一，腳必須被穩固的 figure-four grip 孤立，讓橈骨直接壓在阿基里斯腱上，腳跟緊貼你的胸口。第二，你的腿必須透過 Ashi Garami 架構控制對手的髖部，內側腿橫過對手近側髖部，外側腿勾住他們的膝蓋後方。第三，你的身體必須與被困的腿呈垂直對齊，髖部離地。這三個要素若沒有全部建立，對手仍保有可行的逃脫路線，submission 也缺乏足夠的力學槓桿來產生可靠的完結。",
+    "safety_critical": false,
+    "answer_line": "grip、髖部控制、垂直角度",
+    "distractors": {
+     "plausible": [
+      "只要 figure-four grip 夠緊就好",
+      "速度優先於位置控制"
+     ],
+     "trap": [
+      "立刻硬拉製造驚喜"
+     ]
+    }
+   },
+   {
+    "question": "你的對手在你握著 ankle lock 時開始站起來——到什麼地步他們的逃脫就不再有效了？",
+    "answer": "一旦你的 figure-four grip 在阿基里斯腱後方完全鎖住，你的身體垂直對齊並且髖部抬高，他們站起來的逃脫方式就不再有效。從那個時候起，站起來反而對他們不利：他們自己的體重透過你的 grip 掛在被困的腿上，替踝關節增加向下的力。無法逃脫的臨界點出現在髖部伸展超過大約四十五度，grip 完全鎖住，且你的腿正在控制對手髖部的時候。不過，如果他們在 grip 鎖緊之前就站起來，往往能在轉換過程中把腳抽回，所以 grip 的穩固程度才是關鍵門檻。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "他們一站起來的瞬間",
+      "他們的腳跟一離開地面"
+     ],
+     "trap": [
+      "他們站起來時就放開這個 lock"
+     ]
+    },
+    "answer_line": "grip 鎖住、髖部高伸展"
+   },
+   {
+    "question": "從 X-Guard 施展 ankle lock 時最常見的完結錯誤是什麼？它如何降低效果？",
+    "answer": "最常見的錯誤是依靠手臂力量硬拉腳踝，而不是用髖部伸展來產生破壞力。當練習者只靠雙臂擠壓時，會很快疲勞，壓力變得不穩定，力學槓桿也大幅低於正確的髖部伸展。修正方法是：用 figure-four grip 把腳踝緊緊固定在胸口，並靠把髖部推離對手來產生所有破壞力。雙臂維持 grip 的位置，髖部伸展則提供完成 submission 的力道向量。",
+    "safety_critical": false,
+    "answer_line": "靠手臂硬拉而非用髖部",
+    "distractors": {
+     "plausible": [
+      "figure-four grip 太淺",
+      "沒有夾緊膝蓋"
+     ],
+     "trap": [
+      "快速硬拉腳踝逼 tap"
+     ]
+    }
+   },
+   {
+    "question": "你的對手蜷起腳趾並繃緊腳掌來緩解阿基里斯腱的壓力——你該如何調整 grip 來克服這個防禦？",
+    "answer": "把你的手腕滑得更深，繞到腳踝後方更高的位置，讓刀刃部位接觸到更靠近小腿肌腱連接處的阿基里斯腱，因為那裡繃腳趾的保護效果較小。同時，把你的身體稍微朝對手腳趾方向轉，施加結合 dorsiflexion 與壓迫的複合力，這是單靠繃腳趾防禦無法完全應付的。如果這些 grip 調整仍然不夠，就轉換成 toe hold，利用他們僵硬的腳掌位置作為旋轉式 toe hold 攻擊的槓桿。",
+    "safety_critical": false,
+    "distractors": {
+     "plausible": [
+      "在同一個點更用力擠",
+      "直接改打 kneebar"
+     ],
+     "trap": [
+      "放手重新調整位置"
+     ]
+    },
+    "answer_line": "滑深 grip，角度朝腳趾"
+   },
+   {
+    "question": "為什麼直腿式 ankle lock 相對 heel hook 比較安全？但仍需要注意哪些特定傷害風險？",
+    "answer": "它比較安全，是因為 dorsiflexion 帶來的疼痛是漸進累積的，所以防禦者能感受到壓力逐漸加大，在造成嚴重傷害前有機會 tap。heel hook 則是透過旋轉攻擊膝蓋，可能在足夠的疼痛訊號傳到大腦前就造成韌帶損傷。不過 ankle lock 仍帶有明顯的傷害風險，包括需要三到六個月恢復的阿基里斯腱拉傷或部分撕裂、需要四到十二週恢復的踝關節韌帶扭傷，以及足中部 Lisfranc 損傷。練習者必須永遠緩慢漸進地施壓，絕不猛拉或突然施力，且一有 tap 訊號就立即放開。",
+    "safety_critical": true,
+    "distractors": {
+     "plausible": [
+      "旋轉在撕裂前會先示警",
+      "腳踝不容易受重傷"
+     ],
+     "trap": [
+      "撐住壓力等他們自己掙脫"
+     ]
+    },
+    "answer_line": "疼痛漸進累積，有時間 tap"
+   },
+   {
+    "question": "在比賽中還剩三分鐘，對手在你的 X-Guard 中拖延時間——你如何創造機會完成 ankle lock？",
+    "answer": "透過威脅強力的 sweep 攻擊來製造急迫感，迫使對手把重心往前壓以維持base。當他們為了防守特定 sweep 而posting時，被困的腳踝會因為對手的防禦注意力轉向維持base而暫時變得可攻擊。趁著這個防禦反應，立即轉換到抓腳踝的 grip。在比賽中，用受控但堅決的壓力來施加這個 lock。如果第一次嘗試被防守，立即轉換到 Ashi Garami，並連續進攻 heel hook 或 toe hold，而不是回到 X-Guard 重新開始交手。",
+    "safety_critical": false,
+    "answer_line": "先威脅 sweep，再取腳",
+    "distractors": {
+     "plausible": [
+      "回防拖延，耗掉時間",
+      "沒有鋪陳硬蠻力完結"
+     ],
+     "trap": [
+      "放開 hook 直接撲向腳"
+     ]
+    }
+   },
+   {
+    "question": "你的訓練夥伴表現出不適訊號，但沒有口頭或肢體 tap——正確的回應是什麼？",
+    "answer": "立即放開這個 submission。任何不適訊號——表情、異常發聲、身體僵硬，或恐慌動作——都必須視為明確的 tap。ankle lock 這個位置永遠可以重新建立，但因持有 submission 撐過模糊訊號而造成的傷害，卻無法挽回。放開之後，口頭確認對方是否處於不適並想 tap。這種安全優先的做法能建立訓練夥伴之間的信任，讓雙方都能積極訓練，而不必擔心因溝通失誤而受傷。",
+    "safety_critical": true,
+    "answer_line": "永遠立即放開",
+    "distractors": {
+     "plausible": [
+      "放鬆壓力，維持 grip",
+      "問他們是否想 tap"
+     ],
+     "trap": [
+      "撐到口頭 tap 為止"
+     ]
+    }
+   },
+   {
+    "question": "從 X-Guard 控制轉換到 ankle lock 完結時，應該遵循什麼樣的 grip 轉換順序？",
+    "answer": "先從 X-Guard 的 grip 開始：一手控制對手腳踝，另一手控制袖口或腰帶以控制 sweep。轉換時，先放開上半身的 grip，同時用主要抓腳的手維持腳踝接觸。把你進攻的手臂穿到阿基里斯腱下方，讓手腕刀刃部位對準肌腱。接著放開剩下的 guard grip，扣住自己的手腕來完成 figure-four。這種依序放開的方式確保你在轉換過程中永遠不會完全失去對腳踝的接觸，避免對手在短暫的 grip 轉換空檔把腳抽回。",
+    "safety_critical": false,
+    "answer_line": "先放上半身 grip，保住腳踝",
+    "distractors": {
+     "plausible": [
+      "先穿阿基里斯腱再放 grip",
+      "先扣 figure-four 再穿阿基里斯腱"
+     ],
+     "trap": [
+      "放開抓腳的手去建 lock"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 X-Guard 的 sweep 轉為 ankle lock 攻擊時，最早的辨識線索是什麼？",
+    "answer": "最早的線索是對手放開上半身的 grip，改用雙手去抓你的腳踝，他們的髖部開始轉向面對你被困的腿，而不是保持 sweep 的角度。你會感覺腳被進一步孤立，因為 hook 的架構從 X-Guard 的抬升力學，轉變成 Ashi Garami 式的夾控。同時對手的胸口會朝你的腳踝方向驅動、下壓，而不是維持 sweep 那種向上的抬升。辨識到這些線索能爭取到兩到三秒的時間窗，讓你在 figure-four grip 鎖緊之前把腳抽出。",
+    "safety_critical": false,
+    "answer_line": "放手抓腳，髖部轉向腿",
+    "distractors": {
+     "plausible": [
+      "sweep 的壓力突然增加",
+      "抓你衣領的 grip 改變"
+     ],
+     "trap": [
+      "不理它，sweep 才是威脅"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你的腳踝上鎖住 figure-four grip——你最好的防禦順序是什麼？",
+    "answer": "先做 boot defense，繃直腳趾、彎曲腳掌，在阿基里斯腱與對手手腕刀刃之間製造空間。同時把膝蓋朝對手方向內轉，降低踝關節伸展的槓桿。用你的空閒腿頂住對手的髖部或二頭肌，做出一個 frame 來阻止他們達成完全的髖部伸展。如果這些防禦讓 submission 停滯，就設法用空閒手插入他們扣緊的雙手之間，把上面那隻手剝開，來破壞 figure-four grip。在整個過程中，隨時準備好在壓力對你的腳踝或阿基里斯腱造成危險時立即 tap。",
+    "safety_critical": true,
+    "answer_line": "繃腳趾、頂髖部、剝 grip",
+    "distractors": {
+     "plausible": [
+      "夾緊膝蓋硬撐過去",
+      "放鬆腿部引誘對方失誤"
+     ],
+     "trap": [
+      "用力猛拉把腿抽出來"
+     ]
+    }
+   },
+   {
+    "question": "你的對手正在嘗試 ankle lock，但還沒達成身體垂直對齊——你如何利用這個位置錯誤？",
+    "answer": "當對手缺乏垂直對齊時，他們的髖部伸展所能產生的力學槓桿明顯不足。立即把你的空閒腿跨過他們的身體，朝他們原本應該轉向的那一側，這樣既能破壞他們的角度，也能開始 guard pass。同時把你被困的膝蓋往他們方向驅動，縮短距離、瓦解他們的 submission 結構。這種反攻式的做法比被動的 grip 對抗更有效，因為它逼迫對手放棄 submission 去防守 pass，而不是單純調整角度而已。",
+    "safety_critical": false,
+    "answer_line": "跨腿過身，驅膝過 pass",
+    "distractors": {
+     "plausible": [
+      "等他們自己修正角度",
+      "把膝蓋拉回製造空間"
+     ],
+     "trap": [
+      "跟 figure-four grip 對抗"
+     ]
+    }
+   },
+   {
+    "question": "為什麼必須立即處理 ankle lock 的攻擊，而不是等著評估威脅程度？",
+    "answer": "從 X-Guard 發起的 ankle lock 是一個入口型 submission——即使最初的 lock 不夠緊而無法完結，攻擊者的 grip 與腿部架構會自然地轉換進 Ashi Garami，讓 heel hook、toe hold 和 kneebar 都變得可行。被動等待會讓攻擊者逐漸提升位置品質。此外，直腿式 ankle lock 可能在攻擊者調整角度或髖部伸展時突然完結，而阿基里斯腱受傷在關節被加載之後，可能只需要額外很小的力量就會發生。在 submission 還在發展階段時立即採取防禦行動，才能有最高機率完全逃脫。",
+    "safety_critical": true,
+    "answer_line": "是通往 heel hook 與 toe hold 的入口",
+    "distractors": {
+     "plausible": [
+      "阿基里斯腱毫無預警就撕裂",
+      "你會失去 tap 的能力"
+     ],
+     "trap": [
+      "讓它先鎖緊再防守"
+     ]
+    }
+   }
+  ]
+ }
+}

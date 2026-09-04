@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Omoplata/from Inverted Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Inverted Guard 做 Omoplata 主要攻擊哪個解剖構造？",
+    "answer": "Omoplata 攻擊肩關節複合體，透過強迫內旋與超出關節自然活動範圍的伸展，主要目標是旋轉肌袖群的肌肉與肌腱。主要壓力施加在棘上肌、棘下肌與肩胛下肌的肌腱，次要壓力則在 AC 關節與肩關節囊。你雙腿對抗對手上臂所形成的槓桿，會迫使肱骨頭在盂窩內處於一個不利的位置。",
+    "safety_critical": false,
+    "answer_line": "肩部旋轉肌袖",
+    "distractors": {
+     "plausible": [
+      "肘關節過度伸展",
+      "腕關節受壓"
+     ],
+     "trap": [
+      "扭頸部以求更快完成"
+     ]
+    }
+   },
+   {
+    "question": "當你把腿穿過對手肩膀時，對手開始挺身 posture up，這時該怎麼調整才能防止逃脫？",
+    "answer": "把對手的手腕用力拉向你的胸口，同時加快你穿腿與髖部旋轉的速度。如果你能利用對手往上挺的動量，更快地轉到垂直角度，挺身的動作其實反而會幫助你的旋轉。一感覺到對手開始起身，就立刻夾緊雙腿，把他們試圖破壞姿態的動作，轉化成你自己轉換位置的能量。如果對手在你的腿穿過去之前就開始挺身，就中止這次進入、重新建立 inverted guard，不要硬做一個已經走樣的進入。",
+    "safety_critical": false,
+    "answer_line": "把手腕拉近，加快旋轉",
+    "distractors": {
+     "plausible": [
+      "停下來重新設置 guard",
+      "把對手的頭往下壓"
+     ],
+     "trap": [
+      "放開把位，讓對手站起來"
+     ]
+    }
+   },
+   {
+    "question": "在 Inverted Guard 做 Omoplata 時，對手的「無法逃脫臨界點」是什麼樣的狀態？",
+    "answer": "當你已經達到垂直姿勢、建立起髖部控制，且你的髖部緊貼在對手肩膀上時，就到達無法逃脫的臨界點。一旦髖部控制的把位能阻止對手前滾，而你的體重已經完全壓在被困的手臂上、你的髖部與對手肩膀之間沒有任何空隙，剩下唯一的選項就是拍地。在這之前，對手仍然可以前滾、挺身，或掙脫把位來逃脫。",
+    "safety_critical": false,
+    "answer_line": "髖部控制阻止前滾",
+    "distractors": {
+     "plausible": [
+      "手臂一被困住就算數",
+      "只要對手掙脫不了把位就算數"
+     ],
+     "trap": [
+      "轉成 belly-down 準備完成時算數"
+     ]
+    }
+   },
+   {
+    "question": "施加 Inverted Guard 的 Omoplata 時，有哪些關鍵的安全考量？",
+    "answer": "完成壓力必須緩慢施加，至少要在 4 到 6 秒內漸進加載。絕對不要突然猛拉或瞬間加大肩部旋轉。要隨時留意拍地訊號，包括口頭拍地、拍你身體或地墊的肢體拍地，以及任何痛苦的聲音。如果對手嘗試前滾，要立刻放開，因為在翻滾過程中持續施壓，會造成嚴重的肩部受傷風險。訓練時絕對不要用比賽等級的速度或強度來完成技術。",
+    "safety_critical": true,
+    "answer_line": "緩慢加壓，4 到 6 秒",
+    "distractors": {
+     "plausible": [
+      "只有手拍才停止",
+      "先夾緊雙腿再說"
+     ],
+     "trap": [
+      "在對手前滾時繼續硬扭"
+     ]
+    }
+   },
+   {
+    "question": "在對方拍地後，該如何釋放 Inverted Guard 的 Omoplata？",
+    "answer": "立刻停止對被困手臂的一切向前壓力，並停止髖部旋轉。把膝蓋分開、把在上方的那條腿從對手肩膀上抬起，鬆開腿部夾制。把你的髖部位置轉回中立。讓對手用自己的節奏抽出手臂，不要急、也不要硬拉，因為肩膀可能已經受損。恢復訓練前，先跟夥伴確認是否有任何疼痛或受傷。",
+    "safety_critical": true,
+    "answer_line": "立刻停止一切壓力",
+    "distractors": {
+     "plausible": [
+      "先轉回髖部再鬆開雙腿",
+      "把上方的腿踢過去然後站起來"
+     ],
+     "trap": [
+      "幫對方硬把手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "如果標準的完成角度沒有讓對手拍地，該怎麼調整把位？",
+    "answer": "把髖部繼續往對手頭部方向走，增加施加在肩關節上的旋轉角度。同時把膝蓋夾得更緊，用上方的大腿把對手被困的手肘往上抬，放大槓桿效果。你也可以把身體前傾的角度，從正前方微調成稍微斜向對手頭部方向，藉此改變施加在肩膀上的扭力方向。任何調整過程中，都要確保髖部控制持續保持穩固。",
+    "safety_critical": false,
+    "answer_line": "把髖部往對手頭部方向走",
+    "distractors": {
+     "plausible": [
+      "放鬆膝蓋以爭取空間",
+      "更用力地正前方傾倒"
+     ],
+     "trap": [
+      "用力硬拉被困的手臂"
+     ]
+    }
+   },
+   {
+    "question": "從 Inverted Guard 進入 Omoplata，跟標準的 Closed Guard Omoplata 進入方式有什麼不同？",
+    "answer": "Inverted 的進入方式利用了 inverted 姿勢本身既有的旋轉動量，直接甩到垂直的完成角度，這讓一開始的進入比標準設置更快，因為標準設置必須從靜止的 closed guard 中重新產生旋轉。這裡的穿腿是從對手肩膀的上方而來，而不是側邊，會製造出一個出乎意料的角度，繞過標準的 Omoplata 防守。不過，inverted 進入的風險較高，因為你必須從不穩定的 inverted 底盤，轉換到穩定的坐姿完成動作。",
+    "safety_critical": false,
+    "answer_line": "利用旋轉動量，速度較快",
+    "distractors": {
+     "plausible": [
+      "穿腿是從側邊而來",
+      "需要靜止的 closed guard"
+     ],
+     "trap": [
+      "卡在 inverted 姿勢中被壓平"
+     ]
+    }
+   },
+   {
+    "question": "當對手防守時，該如何把 Inverted Guard 的 Omoplata 串連到其他攻擊？",
+    "answer": "如果對手透過抽回手臂來防守 Omoplata，同樣的腿部位置只要改控制對手頸部的另一側，就能設置 triangle。如果對手用力挺身，就順著他們製造出的動量，改成 berimbolo 進入。如果對手往前壓，就用被困的手臂當槓桿把對手 sweep 掉。Omoplata、triangle、berimbolo 和 sweep 從 inverted guard 出發都共用相同的初始動作，因此每一種防守都會打開連鎖中的下一個攻擊。",
+    "safety_critical": false,
+    "answer_line": "防守會打開 triangle 或 sweep",
+    "distractors": {
+     "plausible": [
+      "持續硬扭同一隻手臂",
+      "等對手體力耗盡"
+     ],
+     "trap": [
+      "翻正並放棄背後"
+     ]
+    }
+   },
+   {
+    "question": "從 Inverted Guard 完成 Omoplata 時，最常見、會降低效果的完成錯誤是什麼？",
+    "answer": "最常見的完成錯誤，是你的髖部與對手被困的肩膀之間留有空隙。這個空隙會讓對手能把肩膀內旋，減少你體重所施加的扭力。這也會讓對手有空間開始挺身，或轉移體重來設置翻滾逃脫。修正方式是在施加任何向前壓力之前，先把髖部貼緊對手肩膀，消除完成位置上的所有空隙。",
+    "safety_critical": false,
+    "answer_line": "髖部與肩膀之間有空隙",
+    "distractors": {
+     "plausible": [
+      "膝蓋沒有夾得夠緊",
+      "抓錯了 sleeve"
+     ],
+     "trap": [
+      "放開髖部去抓手臂"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，該如何抓準時機，讓從 Inverted Guard 進入 Omoplata 的效果最大化？",
+    "answer": "當對手把重心往前壓，試圖處理你的 inverted guard 時，特別是他們伸手想控制你的髖部或嘗試通過把位時，正是進入的好時機。他們往前投入重心，正好製造出穿腿所需的手臂暴露，而他們的動量也會幫助你的旋轉。避免在對手保持距離，或體重放在後方時嘗試進入，因為他們可以直接脫離。最好的時間窗，是對手從站姿轉換到積極通過姿態的過程中。",
+    "safety_critical": false,
+    "answer_line": "趁對手重心前壓時進入",
+    "distractors": {
+     "plausible": [
+      "趁對手保持距離時進入",
+      "趁對手剛站起來時進入"
+     ],
+     "trap": [
+      "不管位置如何都硬做進入"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正在從 Inverted Guard 設置 Omoplata？",
+    "answer": "主要的辨識訊號，是對手在 inverted 姿勢中先確立對你手臂的手腕或 sleeve 控制，接著他們的遠側腿開始抬起、朝你的肩膀甩過來。你會感覺到手腕被一股拉力牽引，把你的手臂拉過身體，同時當對手的膕旁肌越過你的肩膀時，頸後的壓力也會增加。在手腕控制階段就及早辨識出來，能給你最好的防守時間窗。",
+    "safety_critical": false,
+    "answer_line": "手腕被控制，腿開始甩過來",
+    "distractors": {
+     "plausible": [
+      "只是突然出現的髖部壓力",
+      "正在形成 cross collar 把位"
+     ],
+     "trap": [
+      "先別理它，等 submission 出現再說"
+     ]
+    }
+   },
+   {
+    "question": "對 Inverted Guard 的 Omoplata，最安全的拍地方式是什麼？",
+    "answer": "用空出來的手，清楚且反覆地拍對手的身體、地墊，或自己的身體。口頭拍地一樣有效，如果空手被壓住，就應該使用口頭方式。當你感覺到肩膀快要到達旋轉極限時就要及早拍地，不要等到痛感出現才拍，因為肩關節可能在明顯痛感出現之前就已經受損。如果你無法用手拍地，就用腳拍，或大聲喊出來。",
+    "safety_critical": true,
+    "answer_line": "及早、清楚，或用口頭拍地",
+    "distractors": {
+     "plausible": [
+      "輕輕拍一下地墊就好",
+      "只用空手拍地"
+     ],
+     "trap": [
+      "試著用力硬撐掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對 Inverted Guard 的 Omoplata，有哪些防守選項可以使用？",
+    "answer": "依時機不同，有三種主要防守選項。早期階段：在腿穿過你肩膀之前，把受威脅的手臂抽回並挺身。中期階段：在對手旋轉的過程中，用 stack 並往前壓，把 inverted 選手壓平。後期階段：在攻擊方建立髖部控制之前，往被困肩膀的方向前滾。每一種防守只有在特定的時間窗內才有效，如果在錯誤的階段使用錯誤的防守，成功率會大幅下降。",
+    "safety_critical": false,
+    "answer_line": "依階段用抽回、stack 或翻滾",
+    "distractors": {
+     "plausible": [
+      "永遠都嘗試翻滾逃脫",
+      "抓自己的衣領拖延時間"
+     ],
+     "trap": [
+      "髖部控制建立後還硬要翻滾"
+     ]
+    }
+   },
+   {
+    "question": "一旦髖部控制確立之後，為什麼前滾逃脫就會失效？",
+    "answer": "抓住你遠側髖部或腰帶的髖部控制把位，會像錨一樣阻止你的身體完成向前旋轉。當攻擊方控制住你的髖部時，你翻滾的動量會被他們的把位吸收，你的身體也就無法完成逃脫所需要的旋轉。硬要對抗髖部控制去翻滾，只會把你被困的肩膀進一步推向 submission 的角度，讓情況變得更糟，而不是變好。",
+    "safety_critical": false,
+    "answer_line": "髖部把位像錨，阻止旋轉",
+    "distractors": {
+     "plausible": [
+      "肩膀太累無法旋轉",
+      "雙腿糾纏無法翻滾"
+     ],
+     "trap": [
+      "還是用力硬翻滾"
+     ]
+    }
+   },
+   {
+    "question": "怎樣的身體姿勢能防止 Inverted Guard 的 Omoplata 一開始就被設置起來？",
+    "answer": "與 inverted guard 選手交手時，手肘保持貼緊身體，避免把手往前伸。維持挺直的姿勢，底盤放寬，體重往後分布，而不是往前傾。抓把位時要用短而受控的動作，抓完立刻收回。如果為了過 guard 必須接觸對手的腿，要用手肘而不是伸長的手，並且收下巴，防止頭部被拿來當作控制點。",
+    "safety_critical": false,
+    "answer_line": "手肘貼緊，挺身，重心放後",
+    "distractors": {
+     "plausible": [
+      "抓住雙邊褲管低位把位",
+      "低頭把壓力壓在對手胸口"
+     ],
+     "trap": [
+      "伸手深抓 collar 把位"
+     ]
+    }
+   }
+  ]
+ }
+}

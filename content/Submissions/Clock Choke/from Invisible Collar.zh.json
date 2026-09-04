@@ -1,0 +1,152 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Clock Choke/from Invisible Collar.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Clock Choke from Invisible Collar 攻擊哪些解剖構造？",
+    "answer": "Clock Choke 鎖定的是頸部兩側的頸動脈與頸靜脈。道服領子折疊壓向其中一側，攻擊者的前臂或肩膀則在另一側製造壓力。這種雙側壓迫會阻斷血液流向大腦，正確施做時會在數秒內造成失去意識。旋轉繞步的動作會產生收緊效果，讓領子確實貼緊血管構造。",
+    "answer_line": "頸動脈與頸靜脈",
+    "distractors": {
+     "plausible": ["壓迫氣管與呼吸道", "只壓迫頸部單側"],
+     "trap": ["扭轉脊椎以加快完成"]
+    }
+   },
+   {
+    "question": "Invisible Collar 的抓握優勢，與標準 Clock Choke 的領口切入方式有何不同？",
+    "answer": "Invisible Collar 提供事先建立好的抓握深度，繞過標準 Clock Choke 最難的階段——初次穿入領子的搶握。標準 Clock Choke 中，攻擊者必須在對手主動防守頸部的情況下建立領子握點。而從 Invisible Collar 開始，早在對手察覺 Clock Choke 威脅之前，握點就已四指深入、指節貼緊頸部。這省去了搶握的階段，讓這個勒頸技術在繞步的頭兩步內就變得危險，而不需要走完整個弧線。",
+    "answer_line": "握點早已抓深，無需搶握",
+    "distractors": {
+     "plausible": ["更快用 arm drag 進入位置", "不需要先掛 hooks"],
+     "trap": ["放開領子重新抓得更深"]
+    }
+   },
+   {
+    "question": "對手在繞步過程中用雙手試圖剝除你的領子握點——你該如何調整以防止對手逃脫？",
+    "answer": "加快繞步的速度，讓勒頸在對手剝除握點之前先收緊。同時把胸口的體重更用力壓進對手的上背，壓縮對手的姿勢並限制其手部對抗的槓桿。如果加速後握點仍持續滑脫，立刻轉換成 Rear Naked Choke，因為對手的雙手都已被你的領子那隻手臂纏住，頸部完全暴露，正好可以切入 RNC。",
+    "answer_line": "加快繞步，體重壓進",
+    "distractors": {
+     "plausible": ["放開後重新抓領子", "換成另一隻手抓握"],
+     "trap": ["抬起胸口用力拉扯領子"]
+    }
+   },
+   {
+    "question": "訓練中施做 Clock Choke from Invisible Collar 時，有哪些關鍵安全考量？",
+    "answer": "施壓時要緩慢漸進，至少持續 3 到 5 秒，讓夥伴有時間察覺勒頸並拍擊。這個技術的隱蔽特性意味著夥伴可能要到壓力累積才會發現勒頸已經生效，所以漸進施壓格外重要。只要收到任何拍擊訊號——口頭、拍手或拍腳——都要立即放開。絕不能在夥伴癱軟後仍維持壓力。由於這種血液阻斷式勒頸可能很快造成失去意識，務必留意夥伴的異狀。",
+    "answer_line": "緩慢施壓，只要拍擊立即放開",
+    "distractors": {
+     "plausible": ["趁對手還沒防守前快速施壓", "只有口頭拍擊才算數"],
+     "trap": ["拍擊後稍微多鎖一下以確認"]
+    }
+   },
+   {
+    "question": "在對手拍擊後，你該如何解除 Clock Choke from Invisible Collar？",
+    "answer": "一收到任何拍擊訊號，立刻鬆開領子的抓握手指，放開道服布料。將體重從對手背上移開，把髖部移開並製造空間。不要維持繞步姿勢或對側的錨點握法。讓夥伴在沒有壓力、不被催促的情況下於中立姿勢中恢復。繼續訓練前先確認夥伴狀況，問一下是否無恙，尤其如果勒頸生效到拍擊之間有任何延遲的話。",
+    "answer_line": "拍擊瞬間立刻鬆手",
+    "distractors": {
+     "plausible": ["逐漸緩慢放鬆勒頸", "鬆開雙手但仍壓在背上"],
+     "trap": ["再多鎖一拍才放開"]
+    }
+   },
+   {
+    "question": "在從 Invisible Collar 全力進攻 Clock Choke 完成之前，必須先確立哪些控制條件？",
+    "answer": "全力進攻前必須確認四項前提：領子四指深入且指節貼緊頸部、在對手髖部或腰帶上建立穩固的對側錨點、hooks 已解除且體重正轉換成撲壓在對手肩膀上方、對手的姿勢已在 turtle 中被壓縮且行動受限。缺少任何一項都會大幅降低完成勒頸的機率，並可能同時失去 submission 與 back control 的位置。",
+    "answer_line": "領子夠深、有錨點、hooks 已解除",
+    "distractors": {
+     "plausible": ["只要領子抓深就已足夠", "hooks 仍在，體重向前壓"],
+     "trap": ["放開錨點以加快繞步"]
+    }
+   },
+   {
+    "question": "如果領子布料在頸部上滑動而非緊緊壓迫，你該如何調整握法？",
+    "answer": "將勒頸的前臂朝自己的髖部旋轉，而不是把領子從頸部拉開。領子應該要折疊並壓迫頸動脈，而不是在皮膚表面滑動。在整個繞步過程中確保指節持續緊貼頸部。如果滑脫持續發生，暫停繞步片刻，把手腕更深地壓進領子的摺痕，重新固定握點後再以更強的指節壓力繼續走弧線。",
+    "answer_line": "前臂朝自己的髖部旋轉",
+    "distractors": {
+     "plausible": ["把領子從頸部拉開", "換成另一手抓握"],
+     "trap": ["坐起來用雙手重新抓握"]
+    }
+   },
+   {
+    "question": "一旦 Clock Choke 的繞步開始，防守者會在哪個時刻進入「無法逃脫」的階段？",
+    "answer": "通常在攻擊者已繞過對手勒頸側的耳線、體重完全壓上肩膀上方時，就進入無法逃脫的階段。到這個角度時，領子的壓迫已經深到光靠搶握無法解除。防守者此時唯一剩下的選項是孤注一擲地翻滾，而對側的錨點握法應該能防止這一點。在此之前，積極的雙手剝握或抓準時機的 sit-out 仍能打斷勒頸。",
+    "answer_line": "越過耳線、體重全壓上",
+    "distractors": {
+     "plausible": ["只要抓握深達四指就算", "hooks 一解除的那一刻"],
+     "trap": ["繞步一開始就放開錨點"]
+    }
+   },
+   {
+    "question": "在比賽中，你該如何把 Clock Choke from Invisible Collar 整合進 submission 連段以求完成？",
+    "answer": "從 back control 出發，Clock Choke from Invisible Collar 是三選一連段中的主要威脅。如果對手靠剝除握點來防守領子，立刻轉換成 Rear Naked Choke，因為對手的雙手都已被占用。如果對手縮緊下巴撐過繞步，抓住對側衣領並旋轉，轉換成 Bow and Arrow Choke。如果對手翻滾以逃離繞步壓力，就跟著翻滾走，從上位完成或轉換到 side control。Invisible Collar 的握點是這三種威脅共同的基礎。",
+    "answer_line": "RNC、bow and arrow，或跟著翻滾走",
+    "distractors": {
+     "plausible": ["維持繞步直到對手拍擊", "換邊重新開始繞步"],
+     "trap": ["失敗就放棄 back control"]
+    }
+   },
+   {
+    "question": "對付 Clock Choke from Invisible Collar 最常見的防守反應有哪些？該如何辨識每一種？",
+    "answer": "三種最常見的防守方式是：雙手剝握，對手用雙手抓住你勒頸的手腕並把它從頸部拉開；往勒頸側翻滾以緩解旋轉壓力，可從髖部移動與肩膀旋轉看出；以及 sit-out 面向攻擊者，可從對手撐手並把髖部頂出來看出。每種防守都會製造特定的破綻——剝握會讓頸部暴露給 RNC，翻滾如果你跟著走反而會讓勒頸更緊，而 sit-out 可以用對側的錨點握法擋下。",
+    "answer_line": "剝握、翻滾，或 sit-out",
+    "distractors": {
+     "plausible": ["縮下巴是唯一的防守方式", "對手總是往弱側翻滾"],
+     "trap": ["對手翻滾時放開錨點"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在繞步壓力開始之前，你該如何察覺對手正在設置 Clock Choke from Invisible Collar？",
+    "answer": "留意攻擊者在 back control 時那隻壓在你肩上的手。如果它逐漸從肩膀移向你的領子，且手指開始穿入頸部附近的道服布料，代表對方正在建立 Invisible Collar。其他線索包括攻擊者的體重開始前傾、hooks 開始解除，以及對方伸出空著的手抓向你對側的髖部作為錨點。back control 中只要感覺到手指碰到領子，就應該立即啟動防守反應。",
+    "answer_line": "留意手逐漸移向領子",
+    "distractors": {
+     "plausible": ["等到 hooks 完全解除才反應", "只留意對側髖部的抓握"],
+     "trap": ["忽略那隻手直到壓力出現"]
+    }
+   },
+   {
+    "question": "面對 Clock Choke from Invisible Collar，最安全的拍擊方式是什麼？",
+    "answer": "一感覺到勒頸壓力累積，就用手清楚且連續地拍擊攻擊者的身體、手臂或地墊。如果雙手被困住或正忙著對抗握點，就大聲用口頭喊「拍」。你也可以用腳拍地墊。不要等到勒頸完全鎖死才拍——Invisible Collar 這個變化式因為握點早已建立，可能比預期更快造成失去意識。要早拍、要拍得清楚。",
+    "answer_line": "早點拍擊——用手、用喊的，或用腳",
+    "distractors": {
+     "plausible": ["只有手拍才算真正的拍擊", "只能拍地墊，不能拍身體"],
+     "trap": ["持續對抗握點直到它鬆開"]
+    }
+   },
+   {
+    "question": "在 Clock Choke from Invisible Collar 的各個階段，防守者各有哪些選擇？",
+    "answer": "在握點建立階段：用雙手剝除領子握點，徹底解除威脅。在 hooks 解除的轉換階段：往非勒頸側做爆發性 sit-out，改變角度並面向攻擊者。在繞步進行中：緊急往勒頸側翻滾，打斷繞步角度並恢復 guard。相較於標準 Clock Choke，這裡的防守時間更短，因此每個選項都必須更快、更果斷地執行。",
+    "answer_line": "依階段選擇剝握、sit-out 或翻滾",
+    "distractors": {
+     "plausible": ["不論哪個階段都直接翻滾", "全程只顧著對抗領子握點"],
+     "trap": ["保持不動、專心呼吸就好"]
+    }
+   },
+   {
+    "question": "在防守 Clock Choke 繞步時，為什麼往非勒頸側做 hip escape 比向前爬更有效？",
+    "answer": "向前爬其實會幫到攻擊者，因為這會維持勒頸角度，甚至在你遠離固定握點時把領子拉得更緊。往非勒頸側做橫向 hip escape 會改變攻擊者所需的旋轉角度，降低領子壓力，並製造空間讓你轉身面向攻擊者。方向的選擇很關鍵——往勒頸側逃脫反而可能直接餵進勒頸的機制中。",
+    "answer_line": "往非勒頸側做 hip escape",
+    "distractors": {
+     "plausible": ["向前爬以製造空間", "撐手直接站起來"],
+     "trap": ["往勒頸那一側逃脫"]
+    }
+   },
+   {
+    "question": "當攻擊者從 invisible collar 的 Clock Choke 轉換成 Rear Naked Choke 時，你該如何應對這連段威脅？",
+    "answer": "當攻擊者放開領子改抓 RNC 時，會有短暫的空檔，此時對方勒頸的那隻手臂正處於兩個位置之間、尚未固定。利用這個轉換瞬間，把對方正在切換的手臂夾在你的胸口或塞進腋下困住。同時立刻啟動 hip escape，因為對方的握點結構在轉換過程中最脆弱。關鍵在於把握放開領子的那一刻視為機會，而不是只是被動等待下一波攻擊成形。",
+    "answer_line": "困住轉換中的手臂，同時 hip escape",
+    "distractors": {
+     "plausible": ["等 RNC 握點鎖死再反應", "推開對手並站起來逃脫"],
+     "trap": ["轉身面向對方勒頸的手臂"]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Toe Hold/from Cross Ashi-Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Toe Hold from Cross Ashi-Garami 主要攻擊哪些解剖構造?",
+    "answer": "Toe Hold 主要攻擊整個踝關節複合體,特別是外側與內側副韌帶、距下關節,以及蹠跗關節(Lisfranc 關節)。figure-four 抓法產生的旋轉力會把腳往超出自然活動範圍的方向扭轉,對穩定踝關節的韌帶造成壓力。次要的壓力則作用在足底筋膜以及腳趾和前足的小關節上。不像 heel hook 主要威脅膝蓋,Toe Hold 的傷害集中在踝關節和腳部。",
+    "safety_critical": true,
+    "answer_line": "踝關節韌帶與蹠跗關節",
+    "distractors": {
+     "plausible": [
+      "膝關節韌帶,像 heel hook 一樣",
+      "阿基里斯腱與小腿肌肉"
+     ],
+     "trap": [
+      "只有腳趾,輕微可抵抗"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Cross Ashi-Garami 位置會讓 Toe Hold 比從標準 Ashi-Garami 更有效?",
+    "answer": "Cross Ashi-Garami 的交叉腿配置比標準 Ashi 的平行腿姿勢更能固定對手的髖部。交叉的雙腿形成一個楔子,防止對手轉動髖部來緩解壓力或抽回腳部。這代表 Toe Hold 抓法產生的旋轉力會直接傳遞到踝關節,而不是被髖部動作吸收。優異的髖部控制也阻止了最常見的 Toe Hold 防禦方式,也就是直接把腳抽出來。",
+    "safety_critical": false,
+    "answer_line": "交叉腿鎖住髖部",
+    "distractors": {
+     "plausible": [
+      "對腳的抓握更深",
+      "增加肩膀對脛骨的壓力"
+     ],
+     "trap": [
+      "放掉腿控制,直接抓腳"
+     ]
+    }
+   },
+   {
+    "question": "當你伸手要建立 Toe Hold 抓法時,對手蜷起腳趾並繃緊腳掌做 boot defense,你該如何應對?",
+    "answer": "不要硬對抗 boot defense 去建立抓法。改用手肘從腳底下方撬入,或者乾脆耐心等對方的腳放鬆,因為持續繃緊腳掌很耗體力。更策略性的做法是意識到 boot defense 往往會因為改變腳的角度而暴露出腳跟,創造轉換到 heel hook 的機會。把 Toe Hold 的威脅當作誘餌,逼出防禦反應,打開成功率更高的 heel hook。",
+    "safety_critical": false,
+    "answer_line": "耐心等待,轉換到 heel hook",
+    "distractors": {
+     "plausible": [
+      "一根一根撬開腳趾",
+      "放棄改抓 kneebar"
+     ],
+     "trap": [
+      "打開雙腿去撬腳"
+     ]
+    }
+   },
+   {
+    "question": "Toe Hold 正確的抓握配置是什麼,為什麼絕不能抓個別腳趾?",
+    "answer": "正確的抓法是 figure-four(類似 kimura)配置,下方的手從腳底下方繞過,掌心橫跨整個前足球部,上方的手則越過腳趾抓住自己的手腕。這樣能把力量分散到整個前足。抓個別腳趾會把力量集中在容易骨折的小骨頭上,抓握也很弱、容易被破壞,而且只會造成局部傷害,而不是能產生俐落旋轉壓力使對手拍降的踝關節攻擊。",
+    "safety_critical": true,
+    "answer_line": "Figure-four,掌心橫跨前足",
+    "distractors": {
+     "plausible": [
+      "單手托住腳跟",
+      "十指交扣扣住脛骨"
+     ],
+     "trap": [
+      "抓住並扭轉個別腳趾"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須緩慢施加 Toe Hold,這個技術在痛覺訊號方面特別危險的地方是什麼?",
+    "answer": "Toe Hold 會在對手感受到明顯疼痛之前,就對踝關節韌帶造成結構性傷害。不像 choke 那樣壓力感能提供清楚的警訊,踝關節韌帶可能已經被拉伸或撕裂,但對手仍然只感覺到中度不適。這種傷害與痛覺之間的落差,代表如果施力太快,訓練夥伴可能來不及拍降。施力至少要花 5 到 7 秒,並頻繁停頓,讓對方有時間評估關節狀況並在受傷前拍降。",
+    "safety_critical": true,
+    "answer_line": "緩慢施力 - 痛覺落後於傷害",
+    "distractors": {
+     "plausible": [
+      "韌帶會先痛才會撕裂",
+      "等待明確的口頭警告"
+     ],
+     "trap": [
+      "一鎖上就用力扭"
+     ]
+    }
+   },
+   {
+    "question": "對手用力伸直腿來防禦 Toe Hold,你該如何調整攻擊?",
+    "answer": "對手為了防禦 Toe Hold 而伸直腿,實際上創造了成功率更高的 heel hook 或 straight ankle lock 的機會。伸直的膝蓋為 heel hook 的旋轉提供了最佳槓桿,也消除了讓 heel hook 難以施展的防禦性屈膝。與其硬撐著在伸直的腿上維持 Toe Hold,不如把抓法從腳掌轉移到腳跟,改用 heel hook 攻擊。這個 Toe Hold 轉 heel hook 的連鎖,是 Cross Ashi-Garami 最有效的組合技之一。",
+    "safety_critical": false,
+    "answer_line": "換抓法,攻擊 heel hook",
+    "distractors": {
+     "plausible": [
+      "硬拚重新鎖回 toe hold",
+      "夾緊膝蓋耐心等待"
+     ],
+     "trap": [
+      "放掉纏繞,追腿"
+     ]
+    }
+   },
+   {
+    "question": "相較於手臂力量,軀幹旋轉在完成 Toe Hold 時扮演什麼角色?",
+    "answer": "軀幹旋轉是完成 Toe Hold 的主要力量來源。你的雙臂和 figure-four 抓法只是把核心的旋轉傳遞成踝關節旋轉的剛性連接器。只靠手臂和手腕力量去完成,在對手抵抗時力量不足,而且抓握會很快疲勞。透過整個上半身作為一個整體旋轉,同時保持 figure-four 鎖定,你能用最大的肌肉群產生持續、強大的旋轉壓力,而不是依賴前臂和手部的小肌肉。",
+    "safety_critical": false,
+    "answer_line": "軀幹旋轉,手臂只是連接",
+    "distractors": {
+     "plausible": [
+      "手腕和前臂力量",
+      "伸直雙腿把身體推開"
+     ],
+     "trap": [
+      "趁對方防禦前快速扯開"
+     ]
+    }
+   },
+   {
+    "question": "把手從控制腳跟轉換到 Toe Hold 抓法的同時,你要如何維持 Cross Ashi-Garami 的腿部控制?",
+    "answer": "在放開腳跟抓法轉換到 Toe Hold 之前,主動夾緊膝蓋以收緊腿部纏繞,並把內側鉤更深地插入對手髖部後方。你的雙腿必須維持獨立的位置控制,同時雙手改變配置。常見的錯誤是在抓法轉換過程中放鬆腿部壓力,讓對手得以抽出髖部。可以把它想成雙腿負責控制,雙手負責完成技術,兩個系統各自獨立運作。",
+    "safety_critical": false,
+    "answer_line": "夾緊膝蓋,加深內側鉤",
+    "distractors": {
+     "plausible": [
+      "快速換手動作",
+      "坐起來看清楚腳的位置"
+     ],
+     "trap": [
+      "放鬆雙腿好騰出雙手"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 Toe Hold 嘗試,改轉換到其他降伏技?",
+    "answer": "當對手已經完全建立防禦姿態時就該放棄 Toe Hold:雙手都在控制你的抓握手腕、腳掌主動繃緊做 boot defense,而且髖部位置已經調整好來吸收旋轉力。繼續對抗已建立的防禦只會浪費體力和時間,同時對手在進行他們的逃脫程序。如果對方伸直腿就轉換到 heel hook,如果深度屈膝就轉換到 straight ankle lock,或者乾脆重新建立位置控制,等新的機會出現時再威脅。判斷連鎖降伏技的正確時機,是有效攻擊者與可預測攻擊者的差別。",
+    "safety_critical": false,
+    "answer_line": "防禦已成 - 轉換新攻擊",
+    "distractors": {
+     "plausible": [
+      "等他們疲勞再進攻",
+      "加大抓握力道硬完成"
+     ],
+     "trap": [
+      "放開一切重新開始"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴對 Toe Hold 拍降後,正確的釋放程序是什麼?",
+    "answer": "感覺到或聽到拍降後,先立即停止所有旋轉壓力。接著先完全放開腳趾抓法,再放開腿部控制。讓對手的腳自然回到中立位置,而不是突然放開,因為突然放開可能對已經承受壓力的韌帶造成額外的拉傷。在對方示意沒事之前,保持輕微接觸。繼續之前先口頭確認。這個釋放順序很重要,因為在關節已經達到結構極限時,突然放開可能造成傷害。",
+    "safety_critical": true,
+    "answer_line": "先停止旋轉,再放開抓法",
+    "distractors": {
+     "plausible": [
+      "立刻放開腿部控制",
+      "馬上把腳放下"
+     ],
+     "trap": [
+      "保持姿勢確認拍降"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識攻擊者正從 heel hook 威脅轉換成 Toe Hold 的設置?",
+    "answer": "主要的辨識線索是感覺到攻擊者的手從托住你的腳跟(手掌繞著阿基里斯腱,鎖定腳跟做旋轉)轉向前足和腳趾。你會感覺到他們下方的手滑到你腳底下方,上方的手越過你的腳趾建立 figure-four。攻擊目標從腳跟轉移到前足球部。早期辨識出這個轉換能給你最好的防禦時機,因為攻擊者必須先放開腳跟控制才能建立 Toe Hold 抓法。",
+    "safety_critical": false,
+    "answer_line": "手從腳跟滑向前足",
+    "distractors": {
+     "plausible": [
+      "抓握突然變得更緊",
+      "攻擊者向後靠增加槓桿"
+     ],
+     "trap": [
+      "忽略它,heel hook 才是威脅"
+     ]
+    }
+   },
+   {
+    "question": "對 Cross Ashi-Garami 的 Toe Hold 什麼時候才是正確的拍降時機?",
+    "answer": "當你感覺到 figure-four 抓法已經鎖死,並且踝關節開始承受任何旋轉壓力時,要立刻拍降。不要等到痛,因為 Toe Hold 會在產生明顯痛覺訊號之前就傷害踝關節韌帶和關節結構。一旦從 Cross Ashi-Garami 鎖上抓法並開始旋轉,就沒有可靠的逃脫方法。提早拍降不是軟弱的表現,而是基本的安全技能。太晚拍降造成的 Lisfranc 關節傷害可能需要手術,並讓你停練六個月以上。",
+    "safety_critical": true,
+    "answer_line": "抓法鎖死加旋轉就拍",
+    "distractors": {
+     "plausible": [
+      "等到真正開始痛才拍",
+      "先看看能不能逃脫"
+     ],
+     "trap": [
+      "硬撐,反正是慢慢施力"
+     ]
+    }
+   },
+   {
+    "question": "對抗 Cross Ashi-Garami 的 Toe Hold 有哪些防禦選項,分別該在何時使用?",
+    "answer": "優先順序上的主要選項是:主動蜷腳趾做 boot defense 來阻止抓法建立(一辨識出來就立刻使用)、雙手破壞 figure-four 手腕連接的抓握(在抓法已建立但旋轉尚未開始時使用),以及在攻擊者換手過程中做 hip escape 抽出腿部(當他們的腿部控制鬆動時使用)。每種防禦都有特定的時機窗口,在錯誤的時機嘗試防禦是無效的。如果三種都失敗,抓法鎖死並開始旋轉,唯一剩下的選擇就是拍降。",
+    "safety_critical": false,
+    "answer_line": "辨識後立刻做 boot defense",
+    "distractors": {
+     "plausible": [
+      "先從破壞抓握開始",
+      "一接觸就做 hip escape"
+     ],
+     "trap": [
+      "把腳直接用力抽出來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼試圖用力踢腿掙脫 Toe Hold 抓法很危險?",
+    "answer": "對已鎖死的 figure-four 抓法用力踢腿,會把你自己的肌肉力量加到已經建立的扭轉壓力上,加速對自己踝關節的旋轉力。你的爆發性動作是朝著受傷的方向對抗自己的關節。抓法的配置代表你的力量無處可去,而突然的加速可能比你或攻擊者的反應速度更快地撕裂韌帶或使關節脫位。對抗已鎖死的腿鎖抓法,所有逃脫動作都必須是有控制、有系統的,絕不能是爆發性的。",
+    "safety_critical": true,
+    "answer_line": "把你的力量加進扭轉裡",
+    "distractors": {
+     "plausible": [
+      "只會讓對方抓握疲勞",
+      "踝關節能很好地吸收踢力"
+     ],
+     "trap": [
+      "用力踢把它掙脫"
+     ]
+    }
+   }
+  ]
+ }
+}

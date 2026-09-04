@@ -1,5 +1,11 @@
 {
- "_meta": { "source": "content/Transitions/Hip Escape from Back Control.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true },
+ "_meta": {
+  "source": "content/Transitions/Hip Escape from Back Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
  "attacker": {
   "flashcards": [
    {
@@ -46,7 +52,7 @@
    },
    {
     "question": "當你開始做髖部下滑時,對手收緊了 Body Triangle,你該如何調整你的逃脫方式？",
-    "answer": "面對 Body Triangle,你必須先處理三角鎖死的問題,標準的解 hook 方式在這裡不適用。轉身朝向三角鎖死的那一側(交叉腳踝的那一側),以降低對你肋骨的夾擠壓力,並製造出一個能鬆開三角結構的角度。等夾擠壓力降低之後,再用雙手把對手在上方的那隻腳推過鎖死點。只有在 Body Triangle 被解開之後,你才能恢復標準的 hip escape 下滑流程,此時就是在對付一般的 hook 了。",
+    "answer": "面對 Body Triangle,你必須先處理triangle死的問題,標準的解 hook 方式在這裡不適用。轉身朝向triangle死的那一側(交叉腳踝的那一側),以降低對你肋骨的夾擠壓力,並製造出一個能鬆開三角結構的角度。等夾擠壓力降低之後,再用雙手把對手在上方的那隻腳推過鎖死點。只有在 Body Triangle 被解開之後,你才能恢復標準的 hip escape 下滑流程,此時就是在對付一般的 hook 了。",
     "answer_line": "轉身朝向鎖死的腳踝那一側",
     "distractors": {
      "plausible": [
@@ -176,7 +182,7 @@
    },
    {
     "question": "當對手用 Body Triangle 版本的 hip escape,而不是標準的 hook 版本時,你的應對方式有什麼不同？",
-    "answer": "面對 Body Triangle,你的位置控制本質上更強,因為三角鎖死比標準 hook 提供更優越的髖部控制。當對手轉向鎖死那一側以減輕夾擠壓力時,跟著他們的轉動做細微調整,但仍要以維持三角鎖死作為你的主要支點。重點是防止對手把你交叉的那隻腳推過鎖死點,方法是保持腳踝夾緊,並把鎖死的那隻膝蓋往前推。Body Triangle 讓你有更多時間應對對手的逃脫,因為清除 hook 之前必須先解開三角,這對他們的逃脫流程來說是額外一個重要的步驟。",
+    "answer": "面對 Body Triangle,你的位置控制本質上更強,因為triangle死比標準 hook 提供更優越的髖部控制。當對手轉向鎖死那一側以減輕夾擠壓力時,跟著他們的轉動做細微調整,但仍要以維持triangle死作為你的主要支點。重點是防止對手把你交叉的那隻腳推過鎖死點,方法是保持腳踝夾緊,並把鎖死的那隻膝蓋往前推。Body Triangle 讓你有更多時間應對對手的逃脫,因為清除 hook 之前必須先解開三角,這對他們的逃脫流程來說是額外一個重要的步驟。",
     "answer_line": "三角更強,守住鎖死",
     "distractors": {
      "plausible": [

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Cross Collar Choke/from Knee on Belly.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Cross Collar Choke from Knee on Belly 主要攻擊哪些解剖結構？",
+    "answer": "Cross Collar Choke 透過雙側壓迫同時攻擊兩條頸動脈。交叉的 collar grip 會產生剪刀式的動作，每隻前臂連同 collar 布料一起壓迫脖子兩側各一條頸動脈。這會限制通往腦部的血流，全力施作 8 到 12 秒內就會造成失去意識。這個機制是血液型勒頸，不是氣管型勒頸——正確的手部擺位能確保壓力鎖定在頸部側面，而不是氣管。",
+    "answer_line": "雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "氣管，屬於氣道型勒頸",
+      "頸靜脈，阻斷回血"
+     ],
+     "trap": [
+      "頸椎，屬於頸部扭轉"
+     ]
+    }
+   },
+   {
+    "question": "對手用 two-on-one 破掉你的第一把 collar grip——接下來你該怎麼做？",
+    "answer": "不要立刻從同一個角度重新嘗試抓 grip。而是要大幅加大 Knee on Belly 的壓力，迫使他的雙手回去應付膝蓋壓力。他用 two-on-one 破 grip 需要雙手都放在你的手腕上，代表他暫時放棄了對抗壓力的防守。重新建立 KOB 控制，等待下一次讓他雙手都被占用的防守反應，再趁那個空檔重新插入 grip。或者，如果他在破 grip 時手臂伸展開來，也可以趁機改攻 armbar 之類的其他招式。",
+    "answer_line": "加大壓力，重新插入 grip",
+    "distractors": {
+     "plausible": [
+      "立刻用同角度重新抓握",
+      "把他扶坐起來重設 grip"
+     ],
+     "trap": [
+      "降低 KOB 壓力重新整隊"
+     ]
+    }
+   },
+   {
+    "question": "什麼跡象代表你已經抓到足夠深的 grip，能產生有效的血液型勒頸，而不是壓氣管？",
+    "answer": "足夠深代表你的指節透過 collar 布料，抵在對手下巴高度的脖子側面，而且 collar 會繞著脖子側面把頸動脈的位置包住。如果你的指節壓在喉嚨前方，或 grip 位置停在胸口高度，代表 grip 太淺，會產生氣管壓力。你應該感覺到 collar 布料從你的 grip 一路乾淨地繞到脖子側面——真正的勒頸表面是 collar 本身，而不是你的拳頭。",
+    "answer_line": "指節抵到下巴高度",
+    "distractors": {
+     "plausible": [
+      "grip 停在胸口高度",
+      "拇指鉤在 lapel 外側"
+     ],
+     "trap": [
+      "把拳頭直接壓進氣管"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個抓 grip 的過程中都要維持 KOB 壓力，而不是提早放下位置準備收尾？",
+    "answer": "KOB 壓力有雙重作用：它會壓迫橫膈膜，迫使對手用雙手去應付呼吸不順，而不是防守 collar；同時也把他釘死在平躺姿勢，讓他無法做出恢復 guard 所需的髖部動作。如果你在只抓到一把 grip 時就提早放下位置，對手會恢復完整的機動性，可以坐起、bridge 或 shrimp 來破掉 grip 並逃脫。膝蓋壓力正是讓 collar 變得可及的關鍵——太早收掉它會失去你最主要的優勢。",
+    "answer_line": "占用雙手，把他釘平",
+    "distractors": {
+     "plausible": [
+      "只對第一把 grip 有影響",
+      "只是讓收尾動作更快"
+     ],
+     "trap": [
+      "只靠一把 grip 就放下位置收尾"
+     ]
+    }
+   },
+   {
+    "question": "你插入第二把 grip 時，對手開始坐起來想靠近你——什麼調整能阻止他縮短距離？",
+    "answer": "利用你已經建好的第一把 collar grip，伸直抓握的手臂、把手肘往地面壓，把他的頭和肩膀壓回墊子上。同時把髖部往前往下推、加大 KOB 壓力。如果他只坐起一半，你可以用 collar grip 把他的動量導回墊子。只有在他完全縮短距離、威脅要恢復 guard 時，才應該放棄勒頸、改為重新過 guard。",
+    "answer_line": "把頭壓回去，加大 KOB",
+    "distractors": {
+     "plausible": [
+      "放棄勒頸直接站起來",
+      "等他自己坐回去"
+     ],
+     "trap": [
+      "任由他坐起來靠近你"
+     ]
+    }
+   },
+   {
+    "question": "最常見會把血液型勒頸變成危險的氣管壓迫的收尾錯誤是什麼？",
+    "answer": "把雙手往喉嚨中線擠，而不是把手肘往自己的髖部拉。當你往內擠壓時，壓力會集中在氣管，而不是分散到兩條頸動脈上。正確的收尾力學是把兩隻手肘往自己的髖骨方向拉，同時把胸口向外擴張——這會產生剪刀式的動作，讓每隻前臂透過 collar 布料壓迫一條頸動脈。向外擴胸這個細節，是大多數練習者最容易漏掉的關鍵。",
+    "answer_line": "把手肘拉向你的髖部",
+    "distractors": {
+     "plausible": [
+      "把兩隻手腕向內轉",
+      "手肘直直往上拉"
+     ],
+     "trap": [
+      "把雙手壓進氣管硬擠"
+     ]
+    }
+   },
+   {
+    "question": "從 KOB 下降到低位 side control 如何提升你的收尾槓桿優勢？",
+    "answer": "下降體位能把你的體重加進勒頸壓力，因為你的胸口會直接壓在對手的胸口或肩膀上，把他釘死不動。在高位的 KOB 姿勢時，你的手臂必須獨自產生所有勒頸力量。到了低位的 side control，你整個上半身都會投入收尾。此外，低位還會消除對手用來 bridge 或轉身逃脫所需的空間。這個轉換把靠手臂出力的勒頸，變成靠體重輔助的勒頸。",
+    "answer_line": "加上體重，把他釘平",
+    "distractors": {
+     "plausible": [
+      "讓你能空出雙手",
+      "讓手臂擠壓更快"
+     ],
+     "trap": [
+      "站高一點拉 collar"
+     ]
+    }
+   },
+   {
+    "question": "如果訓練夥伴在勒頸過程中失去反應，緊急安全處理程序是什麼？",
+    "answer": "立刻放開兩隻手的 collar grip，並移除加在對手身上的所有壓力。讓他平躺，稍微抬高雙腿促進血液流向腦部。檢查他的呼吸和意識狀態。大多數人在血液型勒頸解除後 5 到 15 秒內就會恢復。不要搖晃他，也不要往他臉上潑水。如果他 20 秒內還沒恢復意識，立刻尋求醫療協助。在夥伴完全清醒、恢復定向感之前絕對不要繼續對練。",
+    "answer_line": "放開 grip，抬高雙腿",
+    "distractors": {
+     "plausible": [
+      "立刻把他扶坐直",
+      "往他臉上潑水"
+     ],
+     "trap": [
+      "維持勒頸同時觀察狀況"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，如果對手正在積極 grip fighting，你要如何調整 Cross Collar Choke 的施作時機？",
+    "answer": "面對積極 grip fighting 的對手，要在過渡的瞬間先建立第一把 collar grip——例如在過 guard 或整理 side control 的過程中——趁他還來不及從 KOB 組織起 grip 防守之前完成。預先埋好一把 grip 代表你在 KOB 只需要再插入一把，等於把防守窗口縮短一半。如果直接插入 grip 一直被擋下，就用 KOB 的假動作（例如 armbar 或 baseball bat choke 的設置）先占用他的雙手，再投入 collar grip。連鎖攻擊會逼他在多個威脅之間做選擇。",
+    "answer_line": "在過渡時預先埋 grip",
+    "distractors": {
+     "plausible": [
+      "等他體力耗盡",
+      "繼續攻同一個角度"
+     ],
+     "trap": [
+      "用雙手硬搶 grip"
+     ]
+    }
+   },
+   {
+    "question": "如果對手的 collar 因為流汗而濕滑，該如何調整你的 grip 角度？",
+    "answer": "面對濕滑的 collar，要把 grip 餵得更深，讓更多 collar 布料包住脖子，增加摩擦接觸面積。用四根手指全部插進 collar 裡，而不是靠拇指扣在外側的方式。兩把 grip 都設好後，捲緊手指、把手肘緊貼身體來鎖住手腕，再開始下降收尾——這種預先繃緊的動作能防止在體位轉換過程中 grip 滑脫。你也可以在嘗試之間，把手在自己的 gi 褲上擦乾。",
+    "answer_line": "grip 餵更深，鎖緊手腕",
+    "distractors": {
+     "plausible": [
+      "用拇指捏住 lapel",
+      "先收尾再設 grip"
+     ],
+     "trap": [
+      "直接勒在裸露的脖子皮膚上"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識 Cross Collar Choke 正在從 Knee on Belly 被設置？",
+    "answer": "最主要的辨識訊號是對手的對側手在維持 KOB 的同時，伸向你較遠側的 collar。次要訊號包括：膝蓋壓力突然加大，目的是分散你的雙手注意力；對手放開抓你腰帶或褲子的手，好空出一隻手去插 collar；以及感覺到指節透過 collar 布料壓在你脖子側面。在第一把 grip 完全建立之前及早辨識出來，能給你最好的防守機會。",
+    "answer_line": "對側手伸向你的 collar",
+    "distractors": {
+     "plausible": [
+      "對手突然做 hip escape",
+      "對手抓住你的雙袖"
+     ],
+     "trap": [
+      "不管手部動作，只看髖部"
+     ]
+    }
+   },
+   {
+    "question": "面對從 Knee on Belly 施作的 Cross Collar Choke，什麼時候該 tap，而不是繼續對抗？",
+    "answer": "當你感覺到雙側頸動脈壓迫、無法破掉任一把 grip 或製造空間時，立刻 tap。勒頸已經鎖死的徵兆包括視野變窄、耳朵有呼嘯聲，或頭暈。不要等到失去意識——要及早清楚地 tap，可以用手拍打對手身體、口頭喊出訊號，或用腳拍墊子。訓練中及早 tap 能保護你的健康，也讓你有機會再次練習防守動作。在練習中撐到失去意識沒有任何好處。",
+    "answer_line": "鎖死且逃不掉時就 tap",
+    "distractors": {
+     "plausible": [
+      "只有頭暈之後才 tap",
+      "先破掉兩把 grip 再 tap"
+     ],
+     "trap": [
+      "撐到快要昏過去才 tap"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防守第一把 collar grip 比逃出 Knee on Belly 位置更重要？",
+    "answer": "一旦兩把 collar grip 都深深插入，不管你怎麼嘗試逃離位置，這個勒頸都會變得極度難以防守。對手可以下降到收尾位置，比你破掉兩把已建立的 grip 還要快完成勒頸。然而，單獨一把 collar grip 是無法完成勒頸的。破掉第一把 grip 能重置整個攻擊，讓你有時間在沒有 submission 威脅的情況下從 KOB 逃脫。防守 grip 是分秒必爭的事，位置上的逃脫雖然重要，但屬於次要優先。",
+    "answer_line": "單獨一把 grip 無法完成",
+    "distractors": {
+     "plausible": [
+      "膝蓋壓力才是真正的威脅",
+      "兩把都設好後反而容易破"
+     ],
+     "trap": [
+      "翻身趴下想逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手已經抓到第一把 collar grip，並加大膝蓋壓力——你的立即反應應該是什麼？",
+    "answer": "立刻用雙手對已經建立的 collar grip 做 two-on-one 破 grip。抓住他抓握的手腕和袖子，兩手同時剝開他插在 collar 裡的手指，同時把身體稍微側轉製造角度。加大的膝蓋壓力就是設計來把你的雙手拉去處理膝蓋——要抵抗這種本能反應，先處理 grip。你可以暫時忍受膝蓋壓力，但不能容忍兩把 collar grip 都被建立起來。",
+    "answer_line": "立刻對那把 grip 做 two-on-one",
+    "distractors": {
+     "plausible": [
+      "等第二把 grip 出現再說",
+      "用力 bridge 甩開膝蓋"
+     ],
+     "trap": [
+      "用雙手去推開膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "如果在你來得及破掉之前，兩把 collar grip 都已經建立好，最好的逃脫方式是什麼？",
+    "answer": "如果兩把 grip 都已經設好，你最好的選項是在對手來得及下降到收尾位置之前，用力坐起來靠近他、縮短距離。用雙臂環抱他的軀幹並把他拉向你，同時用雙腿設法恢復 closed guard。在近距離時，collar grip 會失去收尾的槓桿優勢，因為對手無法把手肘往自己的髖部拉回。到了 closed guard，你可以從更穩固的防守位置去做 two-on-one 破 grip。這是在壓力下需要相當核心力量的最後手段。",
+    "answer_line": "坐起來縮短距離",
+    "distractors": {
+     "plausible": [
+      "現在試著同時破兩把 grip",
+      "bridge 把他翻過去"
+     ],
+     "trap": [
+      "推開對手製造空間"
+     ]
+    }
+   }
+  ]
+ }
+}

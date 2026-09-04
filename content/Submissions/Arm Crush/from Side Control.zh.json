@@ -1,0 +1,272 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Arm Crush/from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Arm Crush submission 主要的壓力來源是什麼？",
+    "answer": "主要壓力來源是你的胸口重量向下、向前驅動壓進對手的肩膀，在你的體重與他們的軀幹之間造成壓碎式的壓迫。這結合了一個 figure-four grip 來控制手臂位置，讓你能加入旋轉扭力。這個 submission 更依賴身體位置與體重分佈，而不是手臂力量。",
+    "safety_critical": false,
+    "answer_line": "胸口重量壓碎肩膀",
+    "distractors": {
+     "plausible": [
+      "只靠 figure-four grip",
+      "靠控制手腕驅動壓力"
+     ],
+     "trap": [
+      "撐起身體找槓桿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Arm Crush 特別危險？它為什麼是高受傷風險的技術？",
+    "answer": "Arm Crush 高風險，是因為它同時結合兩種傷害機制：對肩關節的壓碎式壓迫，以及對旋轉肌群的扭轉力。這種雙重施力的組合可能很快就造成旋轉肌群撕裂、關節唇損傷，或肩關節脫臼。這個 submission 一旦正確就位，壓力發展也很快，讓對手在受傷前沒有太多時間 tap。此外，如果防禦者的頭部被 cross-face 控制住，他們可能無法用口頭 tap。",
+    "safety_critical": true,
+    "answer_line": "兩股力量同時發生，受傷很快",
+    "distractors": {
+     "plausible": [
+      "只有旋轉扭力重要",
+      "慢慢累積有時間 tap"
+     ],
+     "trap": [
+      "對方抵抗就加大力道"
+     ]
+    }
+   },
+   {
+    "question": "Arm Crush 要最大化壓力，正確的髖部位置是什麼？",
+    "answer": "你的髖部一開始應該低且緊貼對手近側髖部，以防止逃脫。施展這個 submission 時，把髖部稍微朝對手頭部方向走（不是向上），與他們的軀幹形成大約四十五度角。這個角度能最大化壓碎壓力，同時讓你的體重集中壓在他們的肩膀上。垂直抬高髖部會降低壓力並讓對方有機會逃脫。",
+    "safety_critical": false,
+    "answer_line": "往頭部方向走髖，45 度",
+    "distractors": {
+     "plausible": [
+      "髖部向上抬取得槓桿",
+      "保持髖部方正不動"
+     ],
+     "trap": [
+      "中途跨過去做 mount"
+     ]
+    }
+   },
+   {
+    "question": "如果你在施展過程中聽到對手肩膀發出爆裂或摩擦聲，你應該立即做什麼？",
+    "answer": "立即放開所有壓力——包含壓碎式壓迫與任何旋轉扭力。這些聲音代表肩關節正在發生結構性損傷，很可能涉及旋轉肌群、關節唇，或關節囊。在這些聲音出現後繼續施壓，可能造成嚴重、甚至終結職業生涯的傷害。停止訓練，口頭確認夥伴狀況，在繼續之前讓他們評估自己肩膀的活動度。",
+    "safety_critical": true,
+    "answer_line": "立即放開所有壓力",
+    "distractors": {
+     "plausible": [
+      "慢慢放鬆，維持 grip",
+      "重新調整位置再評估"
+     ],
+     "trap": [
+      "加大扭力確認 tap"
+     ]
+    }
+   },
+   {
+    "question": "對手的防禦姿勢如何反而讓 Arm Crush submission 成立？",
+    "answer": "當對手用手肘緊貼肋骨來防禦 side control（這通常是一個健全的防禦原則）時，他們反而創造出 Arm Crush 所需的手臂配置。手肘緊貼的位置，把他們的手臂困在你的身體與他們的身體之間，讓你能把手臂穿進去，建立起壓碎式的 grip。矛盾的是，他們用手肘防禦得越緊，你就能把 submission 扣得越深，壓碎壓力也就越有效。",
+    "safety_critical": false,
+    "answer_line": "手肘夾緊反而把手臂困更深",
+    "distractors": {
+     "plausible": [
+      "手肘放鬆才會製造機會",
+      "只有控制手腕才能啟動"
+     ],
+     "trap": [
+      "夾緊手肘硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "Arm Crush 攻擊哪些解剖構造？為什麼這種組合特別有效？",
+    "answer": "Arm Crush 主要攻擊肩關節複合體，包括旋轉肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、盂肱關節囊，以及關節唇。有效性來自同時從兩個向量攻擊這些構造——垂直壓迫把關節面壓在一起，而旋轉扭力則對旋轉肌群肌腱造成壓力。這種多方向的壓力，讓關節結構承受的衝擊，比像標準 Americana 這種單一向量攻擊更快超過極限。",
+    "safety_critical": false,
+    "answer_line": "旋轉肌群加關節唇，雙向量",
+    "distractors": {
+     "plausible": [
+      "只鎖定關節唇",
+      "二頭肌肌腱，單一向量"
+     ],
+     "trap": [
+      "像 armbar 一樣硬拉，不用 tap"
+     ]
+    }
+   },
+   {
+    "question": "Arm Crush 的無法逃脫臨界點在哪裡？你如何辨識已經到達這個階段？",
+    "answer": "無法逃脫的臨界點出現在你的 figure-four grip 鎖住、你的胸口以完全體重投入驅動進他們的肩膀，且他們的手肘被緊緊困在肋骨旁邊的時候。你會感覺到他們的手臂變得完全無法動彈——既無法朝身體方向抽出，也無法推開。到了這個階段，即使是小幅度的旋轉調整，也會產生巨大的完結壓力。對手通常會在同一時間意識到這個時刻，會立即 tap，否則就要承擔受傷的風險。",
+    "safety_critical": false,
+    "answer_line": "figure-four 鎖住，手臂不動",
+    "distractors": {
+     "plausible": [
+      "聽到他們用力吐氣",
+      "他們停止 bridge"
+     ],
+     "trap": [
+      "放開胸口壓力重新抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "你的對手在 Arm Crush 過程中開始 bridge——什麼調整能防止逃脫？",
+    "answer": "預先擴大你的 base，保持髖部低，來預期他們的 bridge。當他們 bridge 時，維持你的 figure-four grip 並順著動作走，而不是硬對抗——讓他們的 bridge 稍微帶動你。當他們回到地面時，立即加大壓力。事實上，bridge 常常會改善你的位置，因為它會讓他們的手臂稍微伸直，製造更多空間讓你的手臂楔入。在他們 bridge 的過程中，絕對不要放開 grip 或抬起胸口。",
+    "safety_critical": false,
+    "answer_line": "擴大 base，順著 bridge 走",
+    "distractors": {
+     "plausible": [
+      "硬用力量壓回去",
+      "從頭重新建立 grip"
+     ],
+     "trap": [
+      "遠側手撐地"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在 Arm Crush 過程中開始伸直被困的手臂，你應該如何調整 grip？",
+    "answer": "如果他們伸直手臂，把你的 figure-four grip 從控制手肘轉為控制手腕——這會把 Arm Crush 轉換成 Americana。把你遠側的手從對方手肘下方滑到手腕，同時近側的手維持 figure-four 連接。一旦控制住手腕，就把他們的前臂朝頭部方向旋轉，同時維持胸口壓力。他們伸直手臂，其實讓 Americana 比手肘彎曲時更高機率完結。",
+    "safety_critical": false,
+    "answer_line": "把 grip 滑到手腕，做 Americana",
+    "distractors": {
+     "plausible": [
+      "硬把手肘扳回彎曲",
+      "放棄重建整個架構"
+     ],
+     "trap": [
+      "追著手臂離開胸口"
+     ]
+    }
+   },
+   {
+    "question": "第一次學習 Arm Crush 與夥伴訓練時，應該遵循什麼樣的具體訓練流程？",
+    "answer": "從零阻力的演練開始，夥伴保持完全配合。只用百分之二十到三十的強度施壓，並在至少五到六秒內逐漸累積。夥伴應該在感覺到肩膀第一絲不適時就 tap，而不是等到疼痛——這能建立早期溝通的習慣。在加入任何阻力之前，先多次演練放開流程。雙方都必須理解，無論經驗程度如何，這個 submission 都不應該快速施展。每一次演練都必須全程保持口頭溝通。",
+    "safety_critical": true,
+    "answer_line": "零阻力，感覺不適就 tap",
+    "distractors": {
+     "plausible": [
+      "輕度阻力能練出抗性",
+      "真的痛了才 tap"
+     ],
+     "trap": [
+      "加快速度學習真實時機"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，什麼時候你應該放棄 Arm Crush 嘗試，轉換到其他攻擊？",
+    "answer": "放棄 Arm Crush 的時機包括：對手成功轉向你並開始逃離 side control、他們的手臂從被困位置抽出、你因為對方的 frame 或動作而無法維持胸口壓力，或即使位置正確，grip 仍感覺失效。轉換選項包括：如果他們轉身就搶 back，移到 north-south 尋找其他攻擊，或如果手臂位置改變就換成 Americana / Kimura。永遠不要硬撐一個位置不佳的 Arm Crush——受傷風險太高，而且完結機率會大幅下降。",
+    "safety_critical": false,
+    "answer_line": "手臂脫困就放棄，轉換攻擊",
+    "distractors": {
+     "plausible": [
+      "重新抓同一個楔入點",
+      "撐到比賽結束哨聲"
+     ],
+     "trap": [
+      "他們搶 back 時還硬追 sub"
+     ]
+    }
+   },
+   {
+    "question": "哪些破壞臨界點的指標告訴你 Arm Crush 即將產生 tap？",
+    "answer": "有幾個指標會發出即將完結的訊號：對手被困的手臂因不自主抵抗壓力而完全僵直、他們的呼吸因胸口壓迫而變得可聽見且吃力、他們的空閒手瘋狂地尋找你的 grip 或自己的手臂，而不是嘗試位置逃脫，以及他們的身體僵直成防禦性拱起。你也會透過你的 grip 感覺到肩關節正在達到結構極限——一種透過 figure-four 傳來的細微摩擦感，代表旋轉肌群肌腱正接近最大耐受度。",
+    "safety_critical": false,
+    "answer_line": "手臂僵直，呼吸吃力",
+    "distractors": {
+     "plausible": [
+      "他們用力 bridge 逃脫",
+      "你的 grip 開始疲勞"
+     ],
+     "trap": [
+      "搶在 tap 前撕開完結"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 side control 辨識 Arm Crush 正在被設置的最早線索是什麼？",
+    "answer": "最早的線索是感覺到攻擊者遠側的手臂正滑進你近側手肘下方，同時他們維持沉重的胸口壓力。這種楔入動作和一般的 side control grip 不同，因為攻擊者是把前臂穿進你上臂與肋骨之間，而不是控制你的手腕或肩膀。一旦你感覺到這個楔入，就必須立即反應，在 figure-four grip 鎖住之前把手肘抽出來。",
+    "safety_critical": false,
+    "answer_line": "手臂正楔入你的手肘下方",
+    "distractors": {
+     "plausible": [
+      "感覺到手在你手腕上",
+      "只是胸口壓力增加"
+     ],
+     "trap": [
+      "等看完整的 grip 鎖住"
+     ]
+    }
+   },
+   {
+    "question": "當 Arm Crush 完全鎖住、壓力正在累積時，為什麼立即 tap 是正確的反應？",
+    "answer": "Arm Crush 同時結合了兩種傷害機制——對肩膀的壓碎式壓迫，以及對肩膀的旋轉扭力。不像單一向量的 submission 可能還有幾秒鐘去嘗試逃脫，Arm Crush 的雙重施力，可能在最大壓力施加後的一到兩秒內就造成旋轉肌群撕裂、關節唇損傷，或肩關節脫臼。肩關節對結合壓迫與旋轉的耐受度非常有限，傷害門檻到達的速度，遠比標準 Americana 或 Kimura 更快。保護長期肩膀健康的優先順序，絕對高於任何比賽結果。",
+    "safety_critical": true,
+    "answer_line": "傷害在一到兩秒內發生",
+    "distractors": {
+     "plausible": [
+      "你還有時間可以逃脫",
+      "風險和 Americana 一樣"
+     ],
+     "trap": [
+      "撐著硬掙脫再考慮 tap"
+     ]
+    }
+   },
+   {
+    "question": "防禦 Arm Crush 時，為什麼應該轉向攻擊者，而不是轉離？",
+    "answer": "轉向攻擊者能縮小你肩膀與他們胸口之間的角度，直接降低壓碎壓力的向量。Arm Crush 依賴你的肩膀被大約四十五度角壓在攻擊者的體重與你自己的肋骨之間。轉向他們能拉平這個角度，降低 submission 的力學優勢。轉離則反而會增加旋轉扭力的成分，因為那會把你的肩膀在 grip 固定不動的情況下，進一步拉離中立位置。",
+    "safety_critical": false,
+    "answer_line": "縮小肩膀與胸口的角度",
+    "distractors": {
+     "plausible": [
+      "製造空間把手臂滑出",
+      "先緩解手肘關節"
+     ],
+     "trap": [
+      "轉離以解放肩膀"
+     ]
+    }
+   },
+   {
+    "question": "為了防止 Arm Crush 的設置，你應該建立哪些防禦性 frame？",
+    "answer": "主要的防禦 frame，是把你近側前臂垂直頂住攻擊者的胸口或髖部，形成一個結構性支撐，維持你手肘與肋骨之間的空間，防止攻擊者把手臂楔進來。你遠側的手應該控制攻擊者遠側的肩膀或二頭肌，限制他們調整角度的能力。保持手肘活動、靈活，而不是緊貼肋骨——Arm Crush 特別針對用手肘做防禦性緊貼身體的對手。",
+    "safety_critical": false,
+    "answer_line": "前臂頂胸口，手肘保持靈活",
+    "distractors": {
+     "plausible": [
+      "改推開他們的頭",
+      "控制遠側手腕而非肩膀"
+     ],
+     "trap": [
+      "把手肘緊貼肋骨"
+     ]
+    }
+   },
+   {
+    "question": "你的訓練夥伴施展 Arm Crush 太快，你在能 tap 之前肩膀感覺到一陣劇痛——接下來應該怎麼做？",
+    "answer": "雙方都應該立即停止。受傷的人應該保持不動，避免在初期疼痛消退前活動肩膀的活動範圍。不要試圖用力旋轉來測試肩膀。如果有冰敷就冰敷。如果疼痛持續、有任何喀啦聲或摩擦感，或活動範圍受限，就在回到訓練前尋求醫療評估。應該提醒訓練夥伴，Arm Crush 在訓練時必須永遠緩慢漸進地施壓，不論情況為何。向教練回報這次事件。",
+    "safety_critical": true,
+    "answer_line": "停止、休息、冰敷、就醫檢查",
+    "distractors": {
+     "plausible": [
+      "撐完這一輪再冰敷",
+      "今天避開那隻手臂就好"
+     ],
+     "trap": [
+      "轉動肩膀測試看看"
+     ]
+    }
+   }
+  ]
+ }
+}

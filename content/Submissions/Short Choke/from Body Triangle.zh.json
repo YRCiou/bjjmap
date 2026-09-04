@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Short Choke from Body Triangle 具體壓迫哪些解剖構造才能造成拍地？",
+    "answer": "Short Choke 讓衣領以對角線方式壓在脖子上，卡進氣管兩側的凹槽裡，同時壓迫兩側頸動脈。頸動脈負責供應腦部血流，雙側壓迫會造成快速的腦部缺血，若未處理將在 8 到 12 秒內導致失去意識。這個 choke 並不攻擊氣管——正確的放置方式會完全避開氣管本身。",
+    "safety_critical": false,
+    "answer_line": "雙側頸動脈",
+    "distractors": {
+     "plausible": [
+      "氣管／呼吸道",
+      "單側頸動脈"
+     ],
+     "trap": [
+      "只壓迫頸靜脈"
+     ]
+    }
+   },
+   {
+    "question": "施做 finish 之前，如何確認衣領已正確橫跨在兩側頸動脈上？",
+    "answer": "你應該感覺到衣領布料卡在氣管兩側柔軟的凹槽裡，而不是壓在氣管堅硬的軟骨上。布料要從脖子一側對角線橫跨到另一側。位置正確時，即使只是輕微的張力也會讓對手出現明顯的防守反應——他們會立刻試圖製造空間或剝除握把，而不是只是忍受不適感。",
+    "safety_critical": false,
+    "answer_line": "卡在凹槽，不壓氣管",
+    "distractors": {
+     "plausible": [
+      "布料平貼在喉嚨上",
+      "只在 finish 時才確認"
+     ],
+     "trap": [
+      "硬把布料往氣管上拗"
+     ]
+    }
+   },
+   {
+    "question": "投入雙手進行衣領餵送之前，必須先確立什麼控制？",
+    "answer": "身體三角必須以深度 figure-four 配置完全鎖緊，環繞在對手下肋骨處，腳要牢牢扣在自己的膝蓋後方。你的胸部必須緊貼在他們背後，髖部要放在墊上以維持穩定。沒有穩固好這個基礎就把雙手都投入抓衣領工作，會讓對手有機會清除掛勾、完全逃離背後控制位置。",
+    "safety_critical": false,
+    "answer_line": "身體triangle緊",
+    "distractors": {
+     "plausible": [
+      "只要確立 seatbelt 握把就好",
+      "一個掛勾就夠，三角鬆一點無妨"
+     ],
+     "trap": [
+      "雙手放開，髖部離開墊子"
+     ]
+    }
+   },
+   {
+    "question": "在哪個階段，這個 Short Choke 會對防守方變得幾乎無法逃脫？",
+    "answer": "一旦 cross-grip 確立、衣領緊緊卡在兩側頸動脈上、布料的鬆弛都被拉除，這個 choke 就會極度難以防守。無法回頭的臨界點是當攻擊方開始把手肘往自己身體方向收回、開始最後的拉扯時——這個階段，剝除握把所需要的時間會比防守方失去意識前的時間還長，因此拍地是唯一安全的選擇。",
+    "safety_critical": false,
+    "answer_line": "開始最後拉扯的那一刻",
+    "distractors": {
+     "plausible": [
+      "衣領一碰到脖子時",
+      "cross-grip 一鎖上時"
+     ],
+     "trap": [
+      "等他們停止呼吸才算"
+     ]
+    }
+   },
+   {
+    "question": "導致這個 choke 在收尾時失敗最常見的握把錯誤是什麼？",
+    "answer": "抓衣領的位置離脖子太遠，讓布料和頸動脈之間留下過多鬆弛。這種鬆散的配置缺乏有效壓迫血管所需的機械優勢，讓防守方能透過這個 choke 呼吸並從容逃脫。修正方式是盡可能貼近脖子抓握，並在嘗試收尾夾緊之前把衣領所有的鬆弛都拉除。",
+    "safety_critical": false,
+    "answer_line": "抓握位置離脖子太遠",
+    "distractors": {
+     "plausible": [
+      "抓錯了衣領的那一側",
+      "餵送過程中拉得太早"
+     ],
+     "trap": [
+      "伸手過遠失去 seatbelt"
+     ]
+    }
+   },
+   {
+    "question": "對手用力內收下巴阻擋衣領餵送——什麼調整能確立這個 choke？",
+    "answer": "沿著下顎線工作衣領，而不是試圖硬把它塞進下巴正下方。用空著的手在額頭上施加輕微的向上壓力，或是拉衣領製造下巴與胸口之間的縫隙。身體三角給你無限的時間，所以耐心是最主要的工具。或者，也可以用威脅 rear naked choke 逼對手把手抬起來，一旦下巴抬起就立刻轉回衣領餵送。",
+    "safety_critical": false,
+    "answer_line": "沿下顎工作，保持耐心",
+    "distractors": {
+     "plausible": [
+      "快速硬塞進下巴下方",
+      "換手用力硬拉"
+     ],
+     "trap": [
+      "放棄背後，改攻 armbar"
+     ]
+    }
+   },
+   {
+    "question": "把身體三角的收緊和 choke 的收尾協調配合，如何加速完成 submission？",
+    "answer": "身體三角壓迫肋腔與橫膈膜，限制呼吸並造成氧債。當你把腿的夾緊和 choke 的壓迫同時脈動施力，防守方會同時面臨動脈壓迫和呼吸限制。這種雙重壓力迫使他們把防守資源分散在兩個威脅之間，加速腦部缺血的發生，大幅縮短拍地所需的時間。",
+    "safety_critical": false,
+    "answer_line": "兩者同步脈動施力",
+    "distractors": {
+     "plausible": [
+      "先完成三角，再做 choke",
+      "先做 choke，後鎖三角"
+     ],
+     "trap": [
+      "放鬆三角，專心做 choke"
+     ]
+    }
+   },
+   {
+    "question": "訓練 Short Choke from Body Triangle 時，有哪些關鍵安全守則？",
+    "answer": "至少花三到五秒緩慢漸進施力，絕對不要突然猛拉。持續觀察夥伴是否出現拍地訊號，包括口頭拍地、手拍、腳拍，或身體軟掉。收到任何訊號都要立刻放開。身體三角加上 choke 的雙重壓力加壓速度很快，因此要格外警覺——失去意識可能比單純的 choke 來得更快。同一次訓練中若曾出現昏迷，絕對不要再次施做。",
+    "safety_critical": true,
+    "answer_line": "緩慢施力，觀察拍地訊號",
+    "distractors": {
+     "plausible": [
+      "突然夾緊，之後再確認",
+      "快速完成，只認口頭拍地"
+     ],
+     "trap": [
+      "情況不明就再施做一次"
+     ]
+    }
+   },
+   {
+    "question": "夥伴拍地後，你該如何解開 Short Choke？",
+    "answer": "立即放開衣領握把，解除脖子上所有的拉扯壓力。接著解開身體三角，把雙腿從對手軀幹上移開，恢復他完整的呼吸能力。在站起來或移動之前，先確認夥伴的清醒程度和呼吸狀況。放開的流程必須同時處理動脈壓迫與呼吸限制兩個部分，而不是只處理其中一項，因為這種疊加效應在放開後可能短暫持續。",
+    "safety_critical": true,
+    "answer_line": "同時放開握把與雙腿",
+    "distractors": {
+     "plausible": [
+      "放開衣領，保留三角",
+      "放開雙腿，保留衣領握把"
+     ],
+     "trap": [
+      "先撐一下確認有拍地"
+     ]
+    }
+   },
+   {
+    "question": "比賽中對手積極防守脖子時，如何利用身體三角的位置來設置 Short Choke？",
+    "answer": "利用身體三角的夾緊製造急迫感，逼防守方先處理呼吸問題，把他們的手從防守脖子的位置拉開。在威脅 rear naked choke 和 short choke 之間交替，製造兩難——每次他們防守其中一個攻擊，就立刻轉換到另一個。身體三角能在這些轉換過程中確保位置安全，讓你可以不斷串連攻擊，直到出現衣領餵送的機會為止。",
+    "safety_critical": false,
+    "answer_line": "串連 RNC 與 short choke 威脅",
+    "distractors": {
+     "plausible": [
+      "只反覆威脅同一種 choke",
+      "放鬆三角以便搆到衣領"
+     ],
+     "trap": [
+      "三角還沒鎖好就急著餵送"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在衣領穿過脖子之前，如何辨識 Short Choke from Body Triangle 正在被設置？",
+    "answer": "最主要的訊號是感覺到對手的手離開 seatbelt 握把去拉扯你的道服衣領，讓布料出現鬆弛。你可能感覺到他們的手指在你下顎附近動作，或感覺道服布料在上胸部滑動。攻擊方調整髖部角度以改善伸手抓握的角度，是另一個早期指標。在衣領穿過脖子之前辨識出這些訊號，能給你最好的防守時機。",
+    "safety_critical": false,
+    "answer_line": "手離開 seatbelt 去抓衣領",
+    "distractors": {
+     "plausible": [
+      "對手突然軟掉",
+      "攻擊方的胸部壓力抬起"
+     ],
+     "trap": [
+      "等喉嚨有壓力才反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該對 Short Choke from Body Triangle 拍地以避免受傷？",
+    "answer": "一旦感覺到衣領已經卡在脖子兩側、cross-grip 已經確立，並開始收尾施力時，立即拍地。從身體三角施做的血液阻斷 choke 可能在 8 到 12 秒內造成失去意識，而身體三角又阻止任何最後一刻的逃脫嘗試。如果在收尾開始後兩到三秒內無法剝除握把，毫不猶豫立即拍地。三角造成的呼吸限制疊加效應，代表你的時間比單純的 choke 還要更少。",
+    "safety_critical": true,
+    "answer_line": "衣領卡緊、握把鎖定即拍",
+    "distractors": {
+     "plausible": [
+      "只有視線模糊才拍",
+      "等過了幾秒再拍"
+     ],
+     "trap": [
+      "先撐一下試著對抗"
+     ]
+    }
+   },
+   {
+    "question": "感覺到衣領正在往脖子上餵送時，最優先的防守動作是什麼？",
+    "answer": "立刻用力把下巴內收貼向胸口，並用手把衣領布料困住或剝除，趕在它到達脖子另一側之前。在 cross-grip 確立之前，這個餵送過程最脆弱——一旦攻擊方雙手都控制住脖子兩側的衣領，剝除的難度會呈指數上升。專注於阻止餵送完成，而不是試圖同時逃脫整個位置。",
+    "safety_critical": false,
+    "answer_line": "收下巴，剝衣領",
+    "distractors": {
+     "plausible": [
+      "先試著清除掛勾",
+      "立刻轉身面對對手"
+     ],
+     "trap": [
+      "等 cross-grip 確立才反應"
+     ]
+    }
+   },
+   {
+    "question": "一旦攻擊方已經完全確立 cross-lapel 握把，還剩下哪些防守選項？",
+    "answer": "一旦 cross-grip 鎖定，你的選項會大幅縮減。可以嘗試雙手剝除握把，瞄準較弱的握把接觸點，同時接受脖子暫時暴露的風險。如果幾秒內無法破解握把，你最好的選項是積極轉身面對攻擊方以縮小 choke 的角度，儘管身體三角會限制這個動作。實際上，一旦技術純熟的攻擊方已經把 cross-grip 完全卡緊，拍地是防止失去意識最安全的選擇。",
+    "safety_critical": true,
+    "answer_line": "雙手剝除或拍地",
+    "distractors": {
+     "plausible": [
+      "橋起身體翻滾逃脫",
+      "做 frame 並蝦式逃脫髖部"
+     ],
+     "trap": [
+      "轉身離開來保護脖子"
+     ]
+    }
+   },
+   {
+    "question": "當攻擊方使用身體三角而非標準掛勾時，防守 Short Choke 有什麼不同？",
+    "answer": "標準掛勾能讓你在防守 choke 的同時利用髖部動作製造逃脫角度，清除掛勾後也能轉身面對攻擊方。身體三角則幾乎完全消除髖部旋轉的可能，代表你在防守 choke 時的逃脫選項會大幅減少。此外，身體三角造成的呼吸限制會與 choke 的血流限制疊加，讓你比在標準背後控制下面對同樣的 choke 時，擁有更少的時間和體力來執行防守動作。",
+    "safety_critical": false,
+    "answer_line": "三角消除髖部逃脫角度",
+    "distractors": {
+     "plausible": [
+      "掛勾和三角的防守方式一樣",
+      "只有握力大小才重要"
+     ],
+     "trap": [
+      "不管呼吸，只顧脖子"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Short Choke/from Body Triangle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

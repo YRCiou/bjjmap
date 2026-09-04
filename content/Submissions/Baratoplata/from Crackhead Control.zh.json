@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Baratoplata/from Crackhead Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Baratoplata from Crackhead Control 主要攻擊哪些解剖構造？",
+    "answer": "baratoplata 主要透過強制內旋來攻擊肩關節，鎖定旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）以及盂肱韌帶。四字型的構造會產生旋轉扭力，對肩關節囊施壓，用力施加時可能造成肩盂唇或旋轉肌袖肌腱撕裂。這種借助腿部的複合槓桿特別危險，因為它產生的力量超過單靠手臂執行的肩鎖技術。",
+    "answer_line": "透過內旋攻擊肩關節",
+    "distractors": {
+     "plausible": [
+      "透過外旋攻擊肩膀",
+      "透過外展槓桿攻擊肩膀"
+     ],
+     "trap": [
+      "像 armbar 一樣扭手肘"
+     ]
+    }
+   },
+   {
+    "question": "Crackhead Control 進入 baratoplata 的方式，和從其他位置設置有什麼不同？",
+    "answer": "Crackhead Control 提供了其他設置方式所沒有的既有 posture 控制與手臂隔離。橫在對方頸後的小腿讓對方保持被壓制的狀態，而 overhook 則自然地把目標手臂擺在適合穿入四字型的位置。這省去了從其他位置設置時所需三大步驟中的兩個——破壞 posture 與隔離手臂——讓進入動作明顯更有效率，也讓對方能利用的防守窗口變得更小。",
+    "answer_line": "posture 與手臂隔離已預先建立",
+    "distractors": {
+     "plausible": [
+      "只省去破壞 posture 這一步",
+      "隔離了手臂但沒破壞 posture"
+     ],
+     "trap": [
+      "放低小腿以更快穿入"
+     ]
+    }
+   },
+   {
+    "question": "對防守方而言，這個 submission 的無法逃脫臨界點是什麼？",
+    "answer": "無法逃脫的臨界點發生在：攻擊手臂與控制腿之間的四字型連結已完全閉合、沒有任何鬆動，且攻擊方開始以正確的髖部角度進行髖部伸展。一旦這個閉合迴路完全套住被困的手臂、攻擊方的髖部又已轉離角度，防守方就無法在攻擊方鬆開連結之前抽出手臂。防守動作必須在四字型閉合之前處理這個 submission，因為連結完成後的防守只能依靠破壞髖部角度，而不是逃脫手臂困局。",
+    "answer_line": "四字型閉合，髖部已轉角度",
+    "distractors": {
+     "plausible": [
+      "四字型閉合，但沒有髖部驅動",
+      "overhook 抓握已完全固定"
+     ],
+     "trap": [
+      "等到髖部驅動後再逃脫"
+     ]
+    }
+   },
+   {
+    "question": "面對肩膀異常柔軟的對手，你該如何調整完成壓力？",
+    "answer": "面對柔軟度高的對手，要進一步延伸髖部驅動，同時把四字型連結拉得更靠近你自己的中線，增加整體旋轉弧度。你可能也需要把髖部角度加大到超過標準的 30 度，才能進入更容易受傷的旋轉平面。關鍵指標是感覺到肩膀已到達活動範圍的末端。要持續施加緩慢而穩定的壓力、超過對方初始柔軟度範圍，而不是放棄這個 submission。柔軟度高的對手仍然有結構極限，只是需要更多的旋轉才能到達。",
+    "answer_line": "延伸髖部驅動，加大角度",
+    "distractors": {
+     "plausible": [
+      "改用手臂力量硬拚",
+      "放棄 submission，重新開始"
+     ],
+     "trap": [
+      "改用爆發性施力"
+     ]
+    }
+   },
+   {
+    "question": "訓練 Baratoplata from Crackhead Control 時，關鍵的安全守則是什麼？",
+    "answer": "完成壓力至少要花 5 到 7 秒施加，絕對不能爆發性施力。肩關節可能在對方感受到足夠疼痛去 tap 之前，就已經承受包括旋轉肌袖撕裂與肩盂唇損傷等結構性傷害。一收到任何 tap 信號——不論是口頭、手拍或腳拍任何表面——都要立刻釋放。練習時，只要一感覺肩膀有抵抗跡象就要停止，而不是硬推過去。曾有肩傷的夥伴應該完全避免這個技術，初學者則只該練習進入動作與四字型力學，不施加任何完成壓力。",
+    "answer_line": "緩慢施力，5 到 7 秒",
+    "distractors": {
+     "plausible": [
+      "只在口頭 tap 時才釋放",
+      "推過輕微的抵抗"
+     ],
+     "trap": [
+      "快速甩髖以求完成"
+     ]
+    }
+   },
+   {
+    "question": "最常見的完成技術錯誤有哪些，會讓對方得以逃脫 baratoplata？",
+    "answer": "三個最常見的完成技術錯誤是：第一，在施壓前沒有把髖部轉離被困手臂，這會讓旋轉槓桿減少約 40%；第二，在前臂與小腿之間的四字型連結上留有鬆動，讓對方有空間旋轉手肘緩解壓力；第三，只靠手臂力量嘗試完成，而不是用髖部伸展作為主要施力來源，這會導致快速疲勞且扭力不足。每一個錯誤都可能單獨把一個已鎖定的 submission 變成逃脫機會。",
+    "answer_line": "沒轉髖、有鬆動、只靠手臂",
+    "distractors": {
+     "plausible": [
+      "把髖部轉向被困手臂",
+      "太早穿入手臂"
+     ],
+     "trap": [
+      "硬拉肩膀去強迫完成"
+     ]
+    }
+   },
+   {
+    "question": "如果對方在完成過程中開始積極防守，你該如何調整抓握？",
+    "answer": "如果對方試圖伸直被困的手臂，把你的小腿拉近前臂以收緊四字型，並增加小腿對頸部的壓力以維持壓制。如果對方試圖 posture 起身，就先加強 crackhead control 的控腿位置再繼續完成技術。如果對方試圖朝被困手臂那一側翻滾，就順著他的旋轉方向移動，同時維持四字型連結，並利用這股動量加速完成 submission。每一種防守反應都有對應的調整方式，能維持甚至增加 submission 的壓力，而不需要重新開始。",
+    "answer_line": "收緊四字型，順勢翻滾",
+    "distractors": {
+     "plausible": [
+      "放鬆抓握重新調整位置",
+      "直接往後硬拉手臂"
+     ],
+     "trap": [
+      "追著翻滾跑，失去小腿控制"
+     ]
+    }
+   },
+   {
+    "question": "Baratoplata from Crackhead Control 如何融入比賽的 submission 策略？",
+    "answer": "baratoplata 在 crackhead control 的攻擊鏈中扮演次要威脅，與主要威脅 gogoplata 相輔相成。在比賽中，先建立 gogoplata 角度，逼迫對方縮下巴並做出手臂防守反應，這會把手臂暴露出來，讓你能穿入 baratoplata。這會製造一個真正的兩難——防守其中一個 submission 就會打開另一個。在所有競技等級中，這個技術的突襲效果都相當顯著，因為大多數練習者都大量練習 gogoplata 防守，但對 baratoplata 的防守經驗有限，這讓它成為對付有備而來的對手的有效武器。",
+    "answer_line": "搭配 gogoplata 設置的組合威脅",
+    "distractors": {
+     "plausible": [
+      "當作主要 submission，優先使用",
+      "單獨使用效果最好"
+     ],
+     "trap": [
+      "放棄小腿控制去強行完成"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴 tap 之後，你該如何釋放 Baratoplata from Crackhead Control？",
+    "answer": "一收到任何 tap 信號，立刻停止所有髖部伸展與對肩膀的向前壓力。放開小腿以釋放四字型抓握，接著把控制腿從對方頸後解開。降低你的髖部，撤除肩膀上所有的旋轉力量，再讓夥伴以自己的節奏抽出手臂。在恢復訓練前，確認他的肩膀有完整活動度且沒有疼痛。釋放過程中絕對不要維持任何壓力，因為肩膀在活動範圍末端時最為脆弱。",
+    "answer_line": "先放抓握，再解開控制腿",
+    "distractors": {
+     "plausible": [
+      "替他把手臂抽出來",
+      "先解開腿再放抓握"
+     ],
+     "trap": [
+      "解開的同時仍維持髖部伸展"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對方正在設置 Baratoplata from Crackhead Control，而不是其他攻擊？",
+    "answer": "主要的辨識線索是感覺到攻擊方放開他的 overhook 抓握，同時仍維持小腿對你頸部的壓力。在標準的 crackhead control 中，overhook 通常會為了 sweep 與 gogoplata 的設置而持續維持，因此如果他放開 overhook 卻仍保持腿部壓力，這就代表他正嘗試 baratoplata。接著你會感覺到一隻手臂正從你的前臂與攻擊方的小腿之間穿入被困的手臂下方。與 gogoplata 設置的關鍵差異在於，gogoplata 是小腿朝你的喉嚨角度移動，而 baratoplata 則是 overhook 那隻手從你手臂下方穿過。",
+    "answer_line": "overhook 放開，手臂穿入",
+    "distractors": {
+     "plausible": [
+      "小腿朝你的喉嚨角度移動",
+      "overhook 收緊，小腿放鬆"
+     ],
+     "trap": [
+      "忽略放開的 overhook 抓握"
+     ]
+    }
+   },
+   {
+    "question": "被 Baratoplata from Crackhead Control 困住時，最安全的 tap 方式是什麼？",
+    "answer": "一感覺到肩膀開始有旋轉壓力，就要立刻 tap，不要等到疼痛變得明顯。用你的自由手在對方身上或墊子上快速拍打，讓他能看到或感覺到。如果自由手受限，就大聲清楚地喊出「tap」。你也可以用腳在墊子上拍打。關鍵原則是及早 tap 而不是延遲——在借助腿部的複合槓桿之下，肩關節可能在初始壓力出現到關節失效之間的 1 到 2 秒內，就承受包括旋轉肌袖撕裂與脫臼在內的永久性結構損傷。",
+    "answer_line": "及早 tap，別等痛感達到高峰",
+    "distractors": {
+     "plausible": [
+      "只用自由手 tap",
+      "先扭出來再 tap"
+     ],
+     "trap": [
+      "等疼痛出現再說"
+     ]
+    }
+   },
+   {
+    "question": "在 baratoplata 設置的每個階段，各有哪些防守選項？",
+    "answer": "在手臂穿入開始之前：積極 posture，完全破壞 crackhead control，利用 overhook 放開後的短暫弱點。在手臂穿入的過程中：立刻把被困的手臂完全伸直，並把手肘拉向你的髖部，防止四字型閉合。在四字型連結完成、但髖部尚未伸展之前：試著朝被困手臂那一側爆發性 bridge，同時把手肘驅向你的髖部，在迴路中製造空間。一旦以正確角度開始髖部伸展：立刻 tap，因為到了這個階段有效的防守選項已經耗盡。",
+    "answer_line": "鎖死之前先伸直手臂",
+    "distractors": {
+     "plausible": [
+      "朝遠離被困手臂的方向 bridge",
+      "穿入開始後才破壞 posture"
+     ],
+     "trap": [
+      "在被鎖住的情況下硬把手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "阻止 baratoplata 完成，最重要的單一防守動作是什麼？",
+    "answer": "阻止四字型閉合是決定性的防守時刻。當你感覺到攻擊方正把手臂從你的手臂下方穿入時，立刻把被困的手臂伸直，並把手肘驅向你自己的髖部。這會把幾何結構從允許四字型閉合的彎曲手臂姿勢，改變成能阻止迴路在你手肘周圍完成閉合的伸直手臂結構。如果你能維持伸直手臂 3 到 5 秒，攻擊方通常會放棄 baratoplata，改回其他 crackhead control 攻擊，讓你在不失去位置的情況下重新開始。",
+    "answer_line": "伸直手臂，手肘驅向髖部",
+    "distractors": {
+     "plausible": [
+      "立刻爆發性 bridge",
+      "緊緊抓住自己的手腕"
+     ],
+     "trap": [
+      "太晚才想用蠻力掙脫手臂"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用對方嘗試 baratoplata 的機會來改善自己的位置？",
+    "answer": "當攻擊方放開他的 overhook 以開始 baratoplata 穿入時，這會暫時削弱他整體的 crackhead control，因為他移除了兩個主要控制機制之一。利用這 1 到 2 秒的窗口爆發性地 posture 起身，把你的頭與肩膀向後驅動，同時把被困的手臂拉出來。如果成功，你就能突破 crackhead control 回到 closed guard，甚至更進一步。關鍵在於把抓握放開視為防守機會，而不只是威脅——這段既沒有 overhook 控制、也沒有完成四字型的短暫時期，是你逃離整個 crackhead control 位置的最佳窗口。",
+    "answer_line": "趁 overhook 放開時 posture 起身",
+    "distractors": {
+     "plausible": [
+      "攻擊暴露出來的遠側腳",
+      "用手肘做 frame 製造空間"
+     ],
+     "trap": [
+      "等到四字型鎖死才行動"
+     ]
+    }
+   }
+  ]
+ }
+}

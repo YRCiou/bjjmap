@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Inside Heel Hook/from Ushiro Ashi-Garami.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Inside Heel Hook from Ushiro Ashi-Garami 主要攻擊哪些解剖結構？",
+    "answer": "inside heel hook 主要攻擊膝蓋內側韌帶，特別是 ACL（前十字韌帶）與 MCL（內側副韌帶），透過施加在 heel 上的旋轉力對膝關節產生扭轉壓力。次要傷害可能發生在半月板與周圍結締組織。從 ushiro 角度來的旋轉向量，攻擊這些結構的方向與標準位置略有不同。",
+    "safety_critical": true,
+    "answer_line": "ACL 與 MCL，膝蓋內側",
+    "distractors": {
+     "plausible": [
+      "髖關節囊與鼠蹊部",
+      "阿基里斯腱與小腿組織"
+     ],
+     "trap": [
+      "只有踝關節，可以慢慢等"
+     ]
+    }
+   },
+   {
+    "question": "在 ushiro 位置的 heel grip 位置，和標準的 inside ashi-garami 有什麼不同？",
+    "answer": "在 ushiro 中，對手倒轉的髖部朝向意味著他們的 heel 相對於你的軀幹是朝向不同方向。你必須從反轉的角度扣住 heel，調整你的主要手從相反的一側包住 heel 骨，這與標準 ashi-garami 不同。你的次要手則透過扣住手腕或用 figure-four 鎖住腳來加強 grip。關鍵差異在於你的手部旋轉方向會隨對手倒轉的幾何構造而改變。",
+    "safety_critical": false,
+    "answer_line": "從反轉角度扣住 heel",
+    "distractors": {
+     "plausible": [
+      "grip 和標準 ashi 完全相同",
+      "掌握小腿而非腳"
+     ],
+     "trap": [
+      "放開控制重新 grip"
+     ]
+    }
+   },
+   {
+    "question": "哪些突破點的跡象顯示 submission 即將成功？",
+    "answer": "關鍵指標包括：對手的膝蓋開始朝內旋轉，即使他們試圖抵抗；他們的 boot defense 崩潰、heel 完全暴露；他們停止嘗試位置逃脫、完全專注於 grip 防守（表示他們已意識到危險）；以及你透過 heel grip 感覺到韌帶張力隨著髖部伸展逐漸增加而不斷升高。任何口頭求救或慌亂拍地都需要立即釋放。",
+    "safety_critical": true,
+    "answer_line": "膝蓋旋轉，boot defense 失效",
+    "distractors": {
+     "plausible": [
+      "對手用手臂 frame 你的胸口",
+      "他們的自由腿撐在地墊上"
+     ],
+     "trap": [
+      "加快旋轉速度來逼迫完成"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 finishing 序列之前，必須先建立哪些控制？",
+    "answer": "在 finishing 之前，你需要確保三個控制點：（1）內側腿深入控制對手大腿以防止逃脫；（2）外側腿夾緊在他們膝蓋線上方以防止腿部伸直；（3）對手的自由腿被中和或控制，以防止反向旋轉。只有維持這三點之後，才應該讓雙手投入 heel grip 的建立與 finishing 壓力。",
+    "safety_critical": false,
+    "answer_line": "雙腿都固定，自由腿失效",
+    "distractors": {
+     "plausible": [
+      "內側腿控制就足夠了",
+      "只要夾緊膝蓋就好"
+     ],
+     "trap": [
+      "先把雙手投入控制 heel"
+     ]
+    }
+   },
+   {
+    "question": "在 heel hook 施加過程中的哪個階段，對手不再能安全防守？",
+    "answer": "無法逃脫的臨界點發生在：heel grip 已完全建立、手肘緊緊夾住、髖部已擺好準備伸展、初始旋轉力已把韌帶的鬆弛吃掉之後。一旦膝蓋韌帶已處於張力之下且 heel 已被鎖住，旋轉或伸直等防守動作反而可能加速受傷。這正是為什麼訓練夥伴必須提早 tap——在張力完全建立之前——而攻擊者也必須以足夠緩慢的速度施加力量，好讓對方有時間辨識並 tap。",
+    "safety_critical": true,
+    "answer_line": "heel 鎖住、韌帶鬆弛已消失",
+    "distractors": {
+     "plausible": [
+      "一旦 figure-four 鎖上就算",
+      "entanglement 一開始就算"
+     ],
+     "trap": [
+      "可以一直旋轉直到痛才停"
+     ]
+    }
+   },
+   {
+    "question": "對手在 ushiro 建立了強力的 boot defense，你該做什麼 grip 調整？",
+    "answer": "面對強力的 boot defense，改為直接攻擊腳部本身，改用 toe hold grip。或者，利用對方 boot defense 的反應，趁他們專注於腳的定位而非清腿時，把內側腿踩過去轉換到 saddle 位置。第三個選項是用一隻手控制腳趾來剝開 boot，另一隻手則在 heel 暴露時滑到 heel 後方。",
+    "safety_critical": false,
+    "answer_line": "改攻 toe hold 或轉 saddle",
+    "distractors": {
+     "plausible": [
+      "硬把 grip 拗過 boot",
+      "夾緊膝蓋等待"
+     ],
+     "trap": [
+      "打開 entanglement 去追"
+     ]
+    }
+   },
+   {
+    "question": "被 tap 後，你該如何鬆開 ushiro 的 inside heel hook 以避免傷害？",
+    "answer": "收到任何 tap 訊號後：（1）立刻停止所有旋轉壓力與髖部伸展；（2）完全打開雙手放開 heel；（3）伸直雙腿並把髖部移開，解開 figure-four entanglement；（4）在鬆手過程中不要施加任何殘餘壓力；（5）口頭向夥伴確認後再恢復訓練。鬆手必須立即且完全——絕不可為了展示位置而在 tap 後繼續維持 grip。",
+    "safety_critical": true,
+    "answer_line": "立刻鬆手，打開雙手",
+    "distractors": {
+     "plausible": [
+      "慢慢把壓力放掉",
+      "放開 heel，雙腿保持鎖住"
+     ],
+     "trap": [
+      "維持 grip 一邊問對方還好嗎"
+     ]
+    }
+   },
+   {
+    "question": "從 ushiro 完成 finishing 相較於標準位置，比賽策略需要哪些調整？",
+    "answer": "在比賽中，ushiro heel hook 常在對手逃脫嘗試過程中逮到他們，因為此時他們的防守注意力被分散在完成倒轉與保護 heel 之間。finishing 的窗口較短，因為對手正在主動移動。一旦建立 grip 就要迅速投入完成，或立刻轉換到 saddle 以獲得更穩定的 finishing 平台。在比賽中不要長時間停留在 ushiro——要嘛果斷進攻，要嘛推進位置。",
+    "safety_critical": false,
+    "answer_line": "迅速完成，或推進到 saddle",
+    "distractors": {
+     "plausible": [
+      "先取分，再進攻",
+      "混戰中換腿"
+     ],
+     "trap": [
+      "維持 entanglement 拖延時間"
+     ]
+    }
+   },
+   {
+    "question": "在 finishing 序列中，旋轉力的主要來源是什麼？",
+    "answer": "主要的旋轉力來自髖部伸展與背部拱起，而非手臂扭轉。雙手的作用是作為你身體與對手 heel 之間的固定連接點，而你的髖部則透過遠離被困腿的伸展來驅動實際的旋轉。這種以髖部為主導的機制產生的力量遠大於以手臂為主的扭轉，並能更好地控制速度，這對訓練中的安全應用至關重要。",
+    "safety_critical": false,
+    "answer_line": "髖部伸展、背部拱起",
+    "distractors": {
+     "plausible": [
+      "手臂像開瓶器般旋轉腳",
+      "肩膀拉動產生扭力"
+     ],
+     "trap": [
+      "快速扯開，不留 tap 的時間"
+     ]
+    }
+   },
+   {
+    "question": "如果對手部分清開了外側腿，你該如何維持進攻壓力？",
+    "answer": "如果對手清開了你的外側腿，但你的內側腿仍保有大腿的深度控制，就立刻把外側腿踩過去到他們髖部的遠側，轉換到 saddle。這能把對方的部分逃脫轉化為更高控制的 entanglement。內側腿的控制是關鍵的維持點——只要它持續深入貼在他們大腿上，你就能重建 entanglement 或轉換到 saddle，而不會完全失去位置。",
+    "safety_critical": false,
+    "answer_line": "踩腿過去到 saddle",
+    "distractors": {
+     "plausible": [
+      "用被釋放的腿去追",
+      "用手把他們拉回來"
+     ],
+     "trap": [
+      "放開雙腿重新進入"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識 ushiro 的 inside heel hook 正在被設置？",
+    "answer": "關鍵的辨識訊號包括：對方跟上你的倒轉、並在你被困的腿周圍維持 figure-four 控制，他們的雙手正從反轉角度朝你的 heel 或腳伸過來，他們的內側腿深深控制著你的大腿以阻止你完成逃脫，而且儘管你已經倒轉，你的髖部活動仍受限。當你感覺到倒轉後 entanglement 仍被維持時及早辨識，是及時防守的關鍵。",
+    "safety_critical": false,
+    "answer_line": "倒轉後仍維持 figure-four",
+    "distractors": {
+     "plausible": [
+      "他們的髖部在追你的",
+      "雙手都放在你的腰帶上"
+     ],
+     "trap": [
+      "等到 heel 被抓住才反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該對 ushiro ashi-garami 的 inside heel hook tap？",
+    "answer": "當你感覺到你的防守技術無法阻止的旋轉壓力施加在膝蓋上時，就要立刻 tap。不像手臂鎖有漸進的疼痛曲線，heel hook 一旦達到斷裂門檻，就會迅速損傷膝蓋韌帶。要在感覺到明顯疼痛之前就 tap——如果等到痛了才反應，結構性損傷很可能已經開始。可以用口頭 tap、手拍或腳拍。任何 tap 的延遲都可能導致 6 到 12 個月的 ACL 手術復健。",
+    "safety_critical": true,
+    "answer_line": "在有壓力時就 tap，別等痛",
+    "distractors": {
+     "plausible": [
+      "失去 grip 才 tap",
+      "heel 暴露就 tap"
+     ],
+     "trap": [
+      "等到劇痛才 tap"
+     ]
+    }
+   },
+   {
+    "question": "在整個防守序列中，最重要要維持的腳部姿勢是什麼？",
+    "answer": "在整個防守與逃脫序列中，都要毫不例外地維持 dorsiflexion（腳掌朝小腿彎曲，腳趾往上勾）。這個姿勢把 heel 拉近你的小腿，讓對手更難建立 finishing grip。絕不要放鬆腳或把腳趾伸直，即使是逃脫過程中的一瞬間也不行，因為這會給對手抓住 heel 所需的機會。",
+    "safety_critical": true,
+    "answer_line": "背屈，腳趾往上勾",
+    "distractors": {
+     "plausible": [
+      "腳向內轉",
+      "用腳趾勾住對方的腿"
+     ],
+     "trap": [
+      "腳趾伸直用力踢開"
+     ]
+    }
+   },
+   {
+    "question": "面對 ushiro 的 inside heel hook，有哪些防守選項？",
+    "answer": "主要選項包括：（1）用 dorsiflexion 做 boot defense 以拒絕 heel 被抓，同時進行逃脫；（2）繼續旋轉到 turtle，在全程保護 heel 的同時完成逃脫；（3）剝除 grip 並抽腿，透過控制攻擊者的手腕並拉出被困的腿；（4）在攻擊者調整 grip 時，用你自己的 ashi-garami 反向纏繞攻擊者暴露的腿。要根據 entanglement 深度與攻擊者的控制程度來選擇。",
+    "safety_critical": false,
+    "answer_line": "boot defense、旋轉、剝 grip",
+    "distractors": {
+     "plausible": [
+      "伸直膝蓋往外拉",
+      "橋起身體頂向他們的髖部"
+     ],
+     "trap": [
+      "用全速把腿硬拔出來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼中途停止倒轉比完成整個旋轉更危險？",
+    "answer": "中途停止會造成最糟的防守情境：你已經倒轉（降低了你的槓桿與平衡），完全被 entangle（攻擊者的 figure-four 完整無缺），而且靜止不動（給攻擊者時間建立最佳的 finishing grip）。完成旋轉到 turtle 要嘛能清空 entanglement，要嘛能轉換到攻擊者必須放棄 heel hook 的位置。持續旋轉短暫暴露 heel 的風險，遠低於停留在深層 ushiro bottom 的持續風險。",
+    "safety_critical": false,
+    "answer_line": "又倒轉、又被纏、又靜止",
+    "distractors": {
+     "plausible": [
+      "停在中途更能藏 heel",
+      "拖慢攻擊者的設置"
+     ],
+     "trap": [
+      "停在那裡安全重新評估"
+     ]
+    }
+   }
+  ]
+ }
+}

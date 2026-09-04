@@ -1,0 +1,251 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Electric Chair/from Electric Chair.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Electric Chair 主要攻擊哪些解剖構造？",
+    "answer": "Electric Chair 主要透過強制的髖部過度外展，攻擊髖關節，同時拉伸大腿內側的內收肌、髖屈肌，以及髖關節囊本身。當雙腿被劈開超出自然活動範圍時，鼠蹊部會承受最劇烈的壓力。透過 Lockdown 配置傳遞的旋轉力，也會對受困那條腿的膝關節內側副韌帶造成次要壓力。",
+    "answer_line": "髖關節與大腿內側內收肌",
+    "distractors": {
+     "plausible": ["脖子與頸椎", "肩關節囊與旋轉肌群"],
+     "trap": ["只是無害的肌肉拉伸，撐過去就好"]
+    }
+   },
+   {
+    "question": "有哪些視覺與觸覺上的指標，顯示你正在接近這個終結技的臨界點？",
+    "answer": "關鍵指標包括：對手的抵抗隨著接近柔軟度極限而逐漸變得僵硬、臉部表情或身體出現明顯的痛苦張力、對手空出的那條腿開始瘋狂掙扎或用力蹬地，以及呼吸模式出現明顯變化，變得急促或淺快。攻擊者應該會感覺到結構性阻力逐漸增加，接著到達髖部結構開始鬆動屈服的那一刻。",
+    "answer_line": "阻力先升高，接著髖部鬆動",
+    "distractors": {
+     "plausible": ["呼吸放慢並趨於平穩", "空出的腿變得靜止放鬆"],
+     "trap": ["突然鬆弛就代表他要拍了"]
+    }
+   },
+   {
+    "question": "在發動 Electric Chair 之前，必須先建立哪三個控制點？",
+    "answer": "三個必要的控制點分別是：第一，在對手受困的腿上建立緊密的 figure-four Lockdown，腳踝交叉，腳跟往下拉壓他的大腿；第二，深 underhook 繞過對手的背部，抓到他遠側的闊背或腰帶區域以取得伸展槓桿；第三，用空出的手抓住對手近側的腳踝或腳掌，以引導劈開的力道方向。這三個控制點必須在整個收尾過程中同時維持。",
+    "answer_line": "Lockdown、underhook、抓腳踝",
+    "distractors": {
+     "plausible": ["Lockdown、crossface、髖部壓力", "underhook、waistlock、膝蓋壓制"],
+     "trap": ["鬆開 Lockdown 去抓腳踝"]
+    }
+   },
+   {
+    "question": "在 Electric Chair 的過程中，防守者到達哪一點時就幾乎無法逃脫這個終結技？",
+    "answer": "一旦攻擊者達成完整的垂直角度、三個控制點全部鎖定，並且劈開幅度已經超過對手柔軟度範圍的大約 70%，這個終結技就會變得極難逃脫。到了這個階段，防守者已經沒有槓桿能把雙膝重新夾緊，攻擊者的機械優勢會壓倒性地強大。真正的逃脫關鍵窗口，是在完整的劈開壓力施加之前、角度建立的那個階段。",
+    "answer_line": "垂直角度，劈開達 70%",
+    "distractors": {
+     "plausible": ["一旦 Lockdown 固定就無法逃脫", "underhook 建立就無法逃脫"],
+     "trap": ["對手停止抵抗之後"]
+    }
+   },
+   {
+    "question": "哪些最常見的收尾錯誤，會讓對手有機會逃脫 Electric Chair？",
+    "answer": "兩個最常見的收尾錯誤，一是為了去抓腳踝而鬆開 Lockdown 的張力，這會讓對手趁機抽出腿；二是嘗試用爆發性的力道劈開，而不是漸進式施壓。爆發性的力道經常導致對手吸收掉第一波衝擊，並在短暫的恢復空檔中掙脫。有耐心、漸進式地逐步加大劈開幅度，遠比用蠻力硬做這個終結技更有效也更安全。",
+    "answer_line": "失去 Lockdown、太早爆發用力",
+    "distractors": {
+     "plausible": ["施壓太慢太穩", "沒有抓住衣領"],
+     "trap": ["坐起來放棄 Lockdown"]
+    }
+   },
+   {
+    "question": "如果對手開始成功用夾緊雙膝來抵抗劈開，你該如何調整握法？",
+    "answer": "當對手夾緊雙膝抵抗時，首先重新確認你的 Lockdown 是否緊密，重新扣緊腳跟拉力與腳踝交叉。接著透過進一步 hip escape 來調整劈開角度，製造出更垂直的力線來對抗他的夾膝防守。用脈動式的方式施壓——短暫減輕壓力，再迅速重新加大劈開力道，藉此找出他防守收縮中的縫隙。如果夾膝防守依然強韌，就轉換成 Old School Sweep，利用他為了夾緊雙腿而做出的防守承諾。",
+    "answer_line": "收緊腳跟、重新調角度、再脈動施壓",
+    "distractors": {
+     "plausible": ["等他自己累了", "抓住他的衣領往下拉"],
+     "trap": ["放掉 Lockdown 重新來過"]
+    }
+   },
+   {
+    "question": "為什麼在訓練中，Electric Chair 必須緩慢漸進地施加，而不能爆發性地做？",
+    "answer": "Electric Chair 攻擊的髖關節與鼠蹊部，柔軟度在不同人之間差異極大，而且可能每天都不同。不像勒頸技巧會在造成危險之前提供明確的警訊，髖部過度外展可能在防守者完全意識到危險之前，就已經造成嚴重傷害。夥伴可能前一刻只感覺輕微不適，只要再多一點點力道，就可能造成嚴重的鼠蹊撕裂或髖關節唇部損傷。漸進式施加能給防守者拍地的時間，也能讓攻擊者得到關於夥伴柔軟度極限的關鍵回饋。",
+    "answer_line": "鼠蹊受傷速度快過警訊",
+    "distractors": {
+     "plausible": ["放慢速度反而提高成功率", "能防止 Lockdown 打開"],
+     "trap": ["快速硬做，搶在防守之前"]
+    }
+   },
+   {
+    "question": "什麼樣的比賽策略能提高 Electric Chair 的終結成功率？",
+    "answer": "在比賽中，及早建立 Lockdown，並立刻朝 Electric Chair 位置推進，而不是先嘗試 sweep。一旦位置穩固，就用 Old School Sweep 的威脅逼對手把 base 投入防守，再利用他的防守姿勢發動劈開。持續施加穩定漸進的壓力，一旦開始劈開就不要重新歸零。如果對手成功防守了這個終結技，就趁他的注意力還放在防守劈開時，立刻轉換成 Old School Sweep。",
+    "answer_line": "先誘出 sweep，再劈開",
+    "distractors": {
+     "plausible": ["先 sweep，Chair 當備案", "拖延時間靠點數贏"],
+     "trap": ["放棄 Lockdown 去纏鬥"]
+    }
+   },
+   {
+    "question": "發動 Electric Chair 的最佳時機是什麼？",
+    "answer": "最佳時機是在對手把重心投入向前，防守 Old School Sweep，或是他嘗試用 crossface 壓力硬推的時候。這種向前投入重心的動作，讓他在力學上很難把受困的腿抽回，而且他的防守重心分布反而會放大劈開的壓力，因為他無法同時應付終結技的威脅並維持 base。",
+    "answer_line": "當他把重心投入向前時",
+    "distractors": {
+     "plausible": ["剛建立 Lockdown 之後", "當他坐回放鬆時"],
+     "trap": ["underhook 還沒建立之前"]
+    }
+   },
+   {
+    "question": "在嘗試 Electric Chair 之前，必須具備哪些條件？",
+    "answer": "必須滿足三個條件：figure-four 配置中沒有任何鬆動的牢固 Lockdown、深 underhook 繞過對手背部抓到他遠側的闊背或腰帶，以及用你遠側的手控制對手近側的腳踝。此外，你的髖部應該轉到大約 45 度角，以創造垂直的劈開力道。少了其中任何一個要素就嘗試收尾，效果都會大幅下降。",
+    "answer_line": "Lockdown、underhook、抓腳踝",
+    "distractors": {
+     "plausible": ["只需要 Lockdown 和 underhook", "先抓腳踝再上 Lockdown"],
+     "trap": ["髖部角度還沒設定就嘗試"]
+    }
+   },
+   {
+    "question": "讓 Electric Chair 有效的關鍵力學細節是什麼？",
+    "answer": "垂直的髖部角度是最關鍵的力學細節。透過把你的髖部旋轉離對手大約 45 度，你能把劈開的力道從單純的直線拉扯，轉變成從最脆弱角度攻擊鼠蹊與髖屈肌的垂直楔形力量。正是這種垂直力量，讓有效的收尾動作，區別於一個對手單靠腿部力量就能抵抗的位置。",
+    "answer_line": "45 度垂直髖部角度",
+    "distractors": {
+     "plausible": ["強力的 Lockdown 張力", "深 underhook 控制"],
+     "trap": ["直接把腿往後拉"]
+    }
+   },
+   {
+    "question": "嘗試這個終結技時，最常見的失誤點是哪些？",
+    "answer": "三個最常見的失誤點是：在確保抓住腳踝時失去 Lockdown 張力，導致對手抽腿逃脫；用手臂力量而不是髖部伸展來驅動劈開，這樣很快就會沒力；以及在施壓前沒有先建立正確的髖部角度，讓對手能單純靠伸直腿來抵抗。這些失誤都會把終結嘗試變成白費力氣，甚至可能讓你暴露在對手過guard的風險之下。",
+    "answer_line": "用手臂而不是用髖部",
+    "distractors": {
+     "plausible": ["承壓時失去髖部角度", "在上 Lockdown 之前先抓腳踝"],
+     "trap": ["鬆開 underhook 去抓腳踝"]
+    }
+   },
+   {
+    "question": "在收尾時，哪種握法能提供最牢固的腳踝控制？",
+    "answer": "腳跟杯狀握法——手掌包住腳跟後側、手指扣在阿基里斯腱下方——因為抓住的是腳踝結構最窄的部位，能提供最牢固的控制。這種握法比抓中足更能抵抗被甩脫，也讓你能在整個收尾過程中改變拉扯腳踝的方向。如果無法抓到腳跟杯狀握法，用大拇指在一側的 C 型握法環繞踝關節，也是有效的替代方案。",
+    "answer_line": "阿基里斯腱上的腳跟杯狀握法",
+    "distractors": {
+     "plausible": ["抓中足以取得控制", "環繞踝關節的 C 型握法"],
+     "trap": ["抓腳趾扭轉腳踝"]
+    }
+   },
+   {
+    "question": "這個終結技的主要施力方向是什麼？",
+    "answer": "主要的施力方向，是由三個相反向量共同創造出的垂直劈開：Lockdown 把對手受困的腿往下、往外驅動；underhook 把他的上半身往你、往上拉；腳踝控制則把他近側的腿往外、朝你的髖部方向拉。髖部 bridge 增加了垂直分量，同時放大這三個向量。結果就是一股穿過鼠蹊部的複合劈開力量，無法從單一防守方向抵抗。",
+    "answer_line": "垂直劈開，三個向量",
+    "distractors": {
+     "plausible": ["單純向下的直線拉力", "只靠 underhook 向上拉"],
+     "trap": ["只把腳踝直接拉向髖部"]
+    }
+   },
+   {
+    "question": "對手開始伸直他受困的腿來抵抗劈開——你該如何調整？",
+    "answer": "立刻加大 Lockdown 向下的壓力，把腳跟更用力往下壓他的大腿。如果他繼續伸直，這個伸展動作其實會製造出動能，你可以轉換成 Old School Sweep，在維持 underhook 的同時向後翻滾來重新導向這股力量。他伸直的腿反而會變成放大 sweep 效果的槓桿。如果你想繼續終結嘗試，就重新調整髖部角度，找出對抗他伸直那條腿的新垂直向量。",
+    "answer_line": "加大 Lockdown 向下的壓力",
+    "distractors": {
+     "plausible": ["更用力把腳踝拉向髖部", "重新調整髖部角度找新向量"],
+     "trap": ["鬆開 Lockdown 去追腳踝"]
+    }
+   },
+   {
+    "question": "如果 Electric Chair 被擋下，最有效的連鎖攻擊是什麼？",
+    "answer": "主要的連鎖攻擊是 Old School Sweep，它利用相同的 Lockdown 與 underhook 控制，只是把力量從劈開改為翻滾反轉。如果對手兩者都能防守，利用他嘗試抽腿的動作插入 crab ride 的 hook，轉換成 Truck 會非常有效。第三個選項，是在 Lockdown 部分被破壞時，直接鑽入對手身下轉換成 Deep Half Guard，維持攻勢主導權，而不是重新歸零回到中立的 half guard。",
+    "answer_line": "先打 Old School Sweep",
+    "distractors": {
+     "plausible": ["透過 crab ride hook 進 Truck", "潛入 Deep Half Guard"],
+     "trap": ["鬆開 Lockdown 重新過guard"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Lockdown 中，最早能辨識出對手正在設置 Electric Chair 的線索是什麼？",
+    "answer": "最早的線索是對手從 Lockdown 底部建立起明顯很深的 underhook，繞過你的背部；接著你會感覺到他開始把髖部往外伸展，對你受困的腿產生角度上的拉力；最後對手會鬆開一隻控制上半身的手，去抓你的腳踝或腳掌。任何一種組合出現，都代表 Electric Chair 正在被建立，你必須在劈開開始之前立刻採取防守行動。",
+    "answer_line": "深 underhook，髖部開始伸展",
+    "distractors": {
+     "plausible": ["他攤平身體僵持不動", "雙手都在爭奪你的衣領"],
+     "trap": ["放鬆讓他把角度做出來"]
+    }
+   },
+   {
+    "question": "為什麼在攻擊者達成完整垂直角度之前防守 Electric Chair 非常關鍵？",
+    "answer": "一旦攻擊者達成垂直角度，並建立完整三個控制點（Lockdown、underhook、腳踝），劈開的機械優勢就會變得壓倒性。到了這個階段，光靠夾膝防守已經無法抵抗劈開的力量，而且攻擊者的槓桿會隨著每一度角度增加而大幅倍增。在攻擊者還在建立控制的早期階段防守，所需的力氣遠比後期防守少，成功率也高出許多。",
+    "answer_line": "槓桿隨角度倍增",
+    "distractors": {
+     "plausible": ["鎖定之後反而更容易逃脫", "他的握力會隨時間變弱"],
+     "trap": ["撐著等髖部彈開"]
+    }
+   },
+   {
+    "question": "當你感覺到劈開的壓力開始在髖部形成時，最安全的立即反應是什麼？",
+    "answer": "最安全的立即反應，是同時把雙膝盡可能用力夾緊，並把胸口的重量壓向對手的上半身。這個組合能防止劈開持續進展，同時限制攻擊者建立更好垂直角度的能力。不要嘗試硬把腿抽出來，這樣反而可能讓劈開更嚴重。先專注於化解目前的壓力，再有系統地設法破壞 Lockdown 的配置。",
+    "answer_line": "夾緊雙膝，胸口向前壓",
+    "distractors": {
+     "plausible": ["先破壞 Lockdown", "打開雙膝建立 base"],
+     "trap": ["用力把受困的腿硬拉出來"]
+    }
+   },
+   {
+    "question": "如果你感覺自己無法逃脫，而終結壓力持續增加，你該如何反應？",
+    "answer": "立刻拍地認輸。Electric Chair 攻擊的是髖關節與鼠蹊部，受傷可能發生得很快，而且沒有足夠的警訊。不像勒頸技巧在失去意識前還有一段短暫的防守時間，Electric Chair 可能只要再多一點點壓力，就會造成突發的鼠蹊撕裂或髖關節唇部損傷。在真實的終結技壓力下測試自己的柔軟度極限，沒有任何安全的方式。如果劈開壓力已經很大、你又無法逃脫，拍地重新開始永遠是正確的決定。",
+    "answer_line": "立刻拍地",
+    "distractors": {
+     "plausible": ["等感覺到劇痛再拍", "深呼吸試著撐過去"],
+     "trap": ["用力硬撐把腿抽出來"]
+    }
+   },
+   {
+    "question": "成功逃脫 Electric Chair 之後，你應該立刻設法建立哪個位置？",
+    "answer": "逃脫之後，立刻設法建立標準的 half guard top 位置，透過 crossface 或肩膀壓力把重量往前驅動，並讓空出的那條腿建立寬闊的 base 以維持穩定。優先破壞剩餘的 Lockdown 配置，避免對手重新掌控你的腿。如果 Lockdown 已經被破壞，就直接轉換到過guard動作，例如 knee slice 或 smash pass，趁對手還沒重新建立 Lockdown guard 系統之前，把握這段混戰的機會。",
+    "answer_line": "half guard top，破壞 Lockdown",
+    "distractors": {
+     "plausible": ["全 mount，隔離手臂", "back control，seatbelt 握法"],
+     "trap": ["立刻追擊 leg lock"]
+    }
+   },
+   {
+    "question": "最早能辨識出 Electric Chair 正在被嘗試的線索是什麼？",
+    "answer": "最早的線索，是下位者鬆開一隻手，從 underhook 或其他上半身控制中放開，去抓你近側的腳踝。這個握法上的變化，代表從 sweep 威脅轉換成終結技嘗試，也是你防守的最佳窗口，因為這個收尾需要腳踝控制才能製造出劈開的動作。",
+    "answer_line": "手放開去抓腳踝",
+    "distractors": {
+     "plausible": ["髖部轉到 45 度角", "underhook 抓到你的背"],
+     "trap": ["等到感覺雙腿被劈開才反應"]
+    }
+   },
+   {
+    "question": "防守時，為什麼要優先剝除腳踝的握法，而不是先破壞 Lockdown？",
+    "answer": "腳踝的握法，是製造出定義 Electric Chair 的劈開動作的控制點。沒有腳踝控制，攻擊者只能施加 Lockdown 壓力與 underhook 伸展，這會製造出 sweep 威脅，但無法產生終結技所需要的垂直鼠蹊劈開。破壞 Lockdown 比較困難、也比較花時間，而且攻擊者經常能重新扣上；相反地，剝除腳踝握法能立即化解終結技的威脅。",
+    "answer_line": "腳踝握法製造出劈開",
+    "distractors": {
+     "plausible": ["Lockdown 比較容易破壞", "underhook 才是真正的威脅"],
+     "trap": ["先專注破壞 Lockdown"]
+    }
+   },
+   {
+    "question": "防守 Electric Chair 時，你應該如何旋轉髖部？",
+    "answer": "把髖部轉向攻擊者，而不是轉離他。轉向攻擊者能縮小劈開角度，讓你受困的腿更靠近你空出的那條腿，減少作用在鼠蹊上的垂直力量。轉離攻擊者反而會加大劈開角度，讓終結技更有效。搭配受困腿的內旋動作以及向前的驅動壓力，把髖部轉向攻擊者是化解這個收尾最有效的方式。",
+    "answer_line": "把髖部轉向攻擊者",
+    "distractors": {
+     "plausible": ["只內旋受困的腿", "向前驅動但不旋轉"],
+     "trap": ["把髖部轉離攻擊者"]
+    }
+   },
+   {
+    "question": "用向前壓力過度激進地防守 Electric Chair，有什麼風險？",
+    "answer": "過度的向前壓力，會讓你容易被 Old School Sweep 擊倒，這個 sweep 利用的正是同樣的 Lockdown 與 underhook 控制，只是把你向前的動能轉換成向後翻滾。攻擊者可以利用你投入的向前重心，鬆開腳踝握法把你翻過去。關鍵在於施加足夠的向前壓力來限制他的髖部角度，但不要把重心投入到一旦他發動 sweep 就無法恢復 base 的程度。",
+    "answer_line": "會讓你暴露在 Old School Sweep 之下",
+    "distractors": {
+     "plausible": ["會失去 underhook 位置", "會很快耗盡髖屈肌力氣"],
+     "trap": ["把全部重心投入向前"]
+    }
+   },
+   {
+    "question": "什麼時候應該拍地認輸，而不是繼續防守 Electric Chair？",
+    "answer": "如果你感覺到鼠蹊、髖屈肌或大腿內側出現劇痛，或劈開壓力已經到達你無法透過任何防守動作縮小角度的程度，就立刻拍地。鼠蹊與髖屈肌的結構一旦超過耐受門檻就可能快速撕裂，而且隨著劈開加深，受傷風險會呈指數上升。在訓練中，硬撐危險程度的劈開壓力沒有任何好處。及早拍地、重新開始，並加強早期防守辨識能力。",
+    "answer_line": "鼠蹊或髖屈肌劇痛",
+    "distractors": {
+     "plausible": ["等夥伴問你還好嗎再拍", "數到三慢慢過去就好"],
+     "trap": ["咬牙撐到壓力消失"]
+    }
+   }
+  ]
+ }
+}

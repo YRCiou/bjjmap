@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from North-South 主要攻擊哪個解剖構造？",
+    "answer": "Americana 透過強迫外旋攻擊肩盂肱關節，特別會對旋轉肌袖群（棘上肌、棘下肌、肩胛下肌、小圓肌）施加壓力，同時也影響肩關節囊韌帶與肩鎖關節。旋轉力來自固定手肘位置、把手畫弧壓向地面，藉此建立一個超出肩膀自然外旋範圍的槓桿。",
+    "safety_critical": false,
+    "answer_line": "攻擊肩關節，強迫外旋",
+    "distractors": {
+     "plausible": [
+      "手肘過度伸展",
+      "手腕與前臂骨骼"
+     ],
+     "trap": [
+      "頸椎，屬於neck crank"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試建立 figure-four grip 時對手把手臂伸直——你該做什麼調整？",
+    "answer": "立刻改攻 armbar，勾住他伸直的手腕，並轉動身體去攻擊此時已經伸展開的肘關節。從 north-south 拿到的直臂能提供絕佳的 armbar 槓桿，因為你的胸部本來就已經靠近他的手肘。這讓伸直手臂的防守方式對防守者來說是個賠本策略，會讓他不敢這樣做，也讓未來的 Americana 攻擊作為連鎖威脅更加有效。",
+    "safety_critical": false,
+    "answer_line": "攻擊已伸展的肘關節，改armbar",
+    "distractors": {
+     "plausible": [
+      "硬把 figure-four 扣死",
+      "對伸直的手臂硬扣 kimura"
+     ],
+     "trap": [
+      "坐起來硬拉手臂"
+     ]
+    }
+   },
+   {
+    "question": "為什麼完成動作時防守者的手肘必須維持在肩膀高度或以下？",
+    "answer": "當手肘維持在肩膀高度或以下時，figure-four grip 會建立一個機械槓桿，強迫肩膀外旋超出安全範圍。如果手肘升到肩膀高度以上，旋轉軸就會偏移，力向量會從危險的外旋轉變成肩膀可以承受的較弱角度。手肘的位置就是整個submission 的支點，用你的胸部重量把它壓住，能確保它維持在最有利完成動作的區域。",
+    "safety_critical": false,
+    "answer_line": "維持力量方向在外旋範圍內",
+    "distractors": {
+     "plausible": [
+      "阻止他做hip escape",
+      "穩固你自己的base"
+     ],
+     "trap": [
+      "追著手臂往上，放棄固定"
+     ]
+    }
+   },
+   {
+    "question": "完成 Americana 時，施加旋轉壓力的正確速度是什麼？",
+    "answer": "旋轉壓力必須緩慢且漸進地施加，至少要花三到五秒。一旦機械優勢建立起來，肩關節很快就可能受傷。快速或猛然的施力，可能在防守者還來不及察覺危險並tap 之前，就撕裂旋轉肌袖或造成肩膀脫臼。drill 時最多只使用 10% 到 20% 的壓力，永遠把夥伴的安全訊號放在完成submission 之前。",
+    "safety_critical": true,
+    "answer_line": "緩慢漸進，3到5秒",
+    "distractors": {
+     "plausible": [
+      "維持靜止不動地等",
+      "短暫地一波一波施力"
+     ],
+     "trap": [
+      "趁對手還沒防守前快速扯開"
+     ]
+    }
+   },
+   {
+    "question": "夥伴tap 之後，你應該如何立即釋放 Americana？",
+    "answer": "一感覺到或聽到tap，立刻停止所有旋轉壓力。鬆開扣在手腕上的 figure-four grip，小心地把手臂放回身體旁的中立位置，不要突然放下。放開對手肘的控制，讓夥伴自由活動。用口頭確認他沒事。tap 之後絕對不要維持哪怕一點點的grip 壓力，因為肩膀正處於受壓迫的狀態，即使是微小的額外力量也可能造成傷害。",
+    "safety_critical": true,
+    "answer_line": "立即停止，輕柔放下手臂",
+    "distractors": {
+     "plausible": [
+      "慢慢逐步放鬆壓力",
+      "讓手臂落下後再退開"
+     ],
+     "trap": [
+      "維持grip 直到對方說沒事"
+     ]
+    }
+   },
+   {
+    "question": "你的胸部壓力感覺很扎實，但構不到防守者的手腕來完成 figure-four——問題出在哪裡？",
+    "answer": "你的身體很可能偏向對手的髖部，而不是往前壓在他的肩膀上方。調整方式是把base 往前走，讓你的胸部更直接地覆蓋他的肩膀區域。這樣一來，你的手臂自然就能構到他的手腕，同時也增加了對他手肘的壓力。grip 應該是伸手就能碰到，不需要勉強伸展。如果你需要伸長手去構，應該重新調整身體位置，而不是犧牲壓力。",
+    "safety_critical": false,
+    "answer_line": "把base 往前走到肩膀上方",
+    "distractors": {
+     "plausible": [
+      "更用力把手腕拉過來",
+      "把胸部壓得更低以增加壓力"
+     ],
+     "trap": [
+      "坐起來去伸手抓手腕"
+     ]
+    }
+   },
+   {
+    "question": "防守者用被困的那隻手抓住自己的短褲來阻止旋轉——你要如何破解這個grip？",
+    "answer": "首先增加對他手肘的胸部壓力，壓縮他的防禦性grip 並限制他手部的力量。接著把你的 figure-four 往手腕大拇指那一側再往上移一點，那個位置你有更好的剝離槓桿。或者，你也可以反轉攻擊方向改攻 kimura。當旋轉力反過來時，他自己的防禦性grip 反而會變成他的弱點，形成一個能懲罰這個防禦性grip 的強力submission 連鎖。",
+    "safety_critical": false,
+    "answer_line": "加大胸部壓力，改攻 kimura",
+    "distractors": {
+     "plausible": [
+      "一根一根把他的手指剝開",
+      "改攻另一側的手臂"
+     ],
+     "trap": [
+      "又快又猛地硬扯想扯斷"
+     ]
+    }
+   },
+   {
+    "question": "從 North-South 完成的 Americana，與從 mount 或side control 完成的 Americana 有什麼不同？",
+    "answer": "North-South 的排列方式建立了一個獨特的垂直攻擊角度，你的胸部能透過直接的重量分配自然固定住防守者的手肘，不需要靠手臂去壓制。防守者標準的 Americana 防守方式在這裡比較弱，因為壓迫性的胸部壓力限制了他軀幹的活動，也讓他無法把雙手在身體前方連接起來。不過由於相對於防守者手臂的角度是反轉的，grip 的操作在技術上要求更高。",
+    "safety_critical": false,
+    "answer_line": "胸部固定手肘，grip 角度較刁鑽",
+    "distractors": {
+     "plausible": [
+      "grip 較容易，肘部固定較弱",
+      "與 mount 版本完全相同"
+     ],
+     "trap": [
+      "用手臂固定，抬起胸部"
+     ]
+    }
+   },
+   {
+    "question": "比賽中你已經鎖死 Americana，但防守者儘管肩膀明顯不對勁仍拒絕tap——你該怎麼做？",
+    "answer": "維持穩定的壓力，不要突然或爆發性地加壓。留意裁判是否介入，因為裁判應該要監控關節是否受到危害。在訓練中，只要你認為傷害即將發生，不論對方是否tap 都應該立刻放開，因為訓練夥伴的安全永遠優先。在比賽中，當防守者身處危險時，由裁判負責喊停比賽。絕對不要為了逼出tap 而施加爆發性的力量，因為這樣會大幅提高受傷的嚴重程度。",
+    "safety_critical": true,
+    "answer_line": "維持穩定壓力，留意裁判",
+    "distractors": {
+     "plausible": [
+      "放鬆等對方自己tap",
+      "喊教練來場邊處理"
+     ],
+     "trap": [
+      "扭得更用力逼他tap"
+     ]
+    }
+   },
+   {
+    "question": "如果最初畫刷式的旋轉弧沒能逼出tap，你該如何調整grip？",
+    "answer": "首先確認手肘是否確實固定在肩膀高度或以下，如果已經升高，必須先把它重新壓下去才能繼續。接著試著把base 稍微往對手頭部方向走，改變施加在關節上的旋轉角度。你也可以把 figure-four grip 收緊到更靠近手腕關節的位置，以增加槓桿力。如果這些調整都沒有效果，代表防守者可能有異於常人的肩部柔軟度，這時改攻 kimura 或 armbar 連鎖，會比硬逼 Americana 更有效率。",
+    "safety_critical": false,
+    "answer_line": "重新壓低手肘，走向對手頭部",
+    "distractors": {
+     "plausible": [
+      "把重量壓到他的肋骨上",
+      "加快畫刷動作的速度"
+     ],
+     "trap": [
+      "硬扯，冒著撕裂旋轉肌袖的風險"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在底下時，你要如何辨識對手正在從 North-South 設置 Americana？",
+    "answer": "最主要的辨識訊號，是感覺到攻擊者的胸部重量特意轉移過去覆蓋你其中一側的手肘，而不是平均分散在你整個胸口上。你也會感覺到他的一隻手開始用 C-grip 圈住你的手腕，另一隻手則穿過你的手肘下方。攻擊者的base 通常會變寬、髖部放低，這代表他正投入攻擊，而不是維持過渡性的位置。",
+    "safety_critical": false,
+    "answer_line": "胸部重量轉移到單側手肘",
+    "distractors": {
+     "plausible": [
+      "他先抓你的衣領",
+      "重量平均分散在你身上"
+     ],
+     "trap": [
+      "等鎖死之後再bridge"
+     ]
+    }
+   },
+   {
+    "question": "被 North-South 的 Americana 困住時，最安全的tap 方式是什麼？",
+    "answer": "要用任何可行的方式清楚且反覆地tap。你的自由手應該在攻擊者身上或地面上用力tap 至少兩次明確的動作。如果雙手都被困住，改用口頭tap，清楚喊出「tap」，或用腳在地面tap。不要等到疼痛變得劇烈才tap，因為一旦旋轉力建立起來，肩關節很快就可能永久受傷。訓練中要提早tap、常常tap。",
+    "safety_critical": true,
+    "answer_line": "清楚tap 兩下，用聲音或用腳",
+    "distractors": {
+     "plausible": [
+      "在自己大腿上輕輕tap 一下",
+      "喊教練來喊停"
+     ],
+     "trap": [
+      "等到疼痛變得尖銳再說"
+     ]
+    }
+   },
+   {
+    "question": "在攻擊的不同階段，面對 Americana 有哪些防守選項？",
+    "answer": "在grip 還沒扣穩之前的早期階段，把手臂伸直以拒絕 figure-four 的成形，或做hip escape 改變你的身體角度。在grip 部分完成的中期階段，把雙手連接起來或抓住自己的衣服來對抗旋轉。到了完全旋轉的後期階段，你唯一的選項就是tap，因為硬拚已經鎖死的 Americana 會有嚴重肩傷的風險。你越早防守，成功率就越高。",
+    "safety_critical": false,
+    "answer_line": "在grip 扣穩前先把手臂伸直",
+    "distractors": {
+     "plausible": [
+      "彎曲手臂來保護它",
+      "bridge 頂胯逃出 mount"
+     ],
+     "trap": [
+      "在完全旋轉時硬拉手臂脫身"
+     ]
+    }
+   },
+   {
+    "question": "為什麼hip escape 對防守 North-South Americana 特別有效？",
+    "answer": "North-South 的 Americana 依賴胸部與手肘垂直對齊來取得機械優勢。做hip escape 會改變你相對於攻擊者的身體角度，破壞這種對齊方式，降低他固定手肘的效果。這個動作也能製造空間，把膝蓋插入雙方身體之間，有機會回復half guard。攻擊者必須在跟著你的hip escape 動作（因而放開grip）或維持grip（因而失去位置控制）之間做出選擇。",
+    "safety_critical": false,
+    "answer_line": "破壞胸部與手肘的對齊",
+    "distractors": {
+     "plausible": [
+      "剝開他手腕上的 C-grip",
+      "把你的背壓平在地面"
+     ],
+     "trap": [
+      "用被困的手臂去撐開"
+     ]
+    }
+   },
+   {
+    "question": "當 Americana 的grip 部分扣上時，防守者最容易犯的最大錯誤是什麼？",
+    "answer": "最大的錯誤是驚慌失措，做出爆發性的全身掙扎，這反而會讓攻擊者的grip 扣得更緊，加速submission 的完成。這種掙扎動作往往會暴露更多角度給攻擊者，同時迅速耗盡防守者的體力。正確的做法是專注在有針對性的動作，例如對抗特定的手腕grip、把自己的雙手連接起來製造防禦性的固定點，或做有控制的hip escape 來改變位置角度。",
+    "safety_critical": false,
+    "answer_line": "驚慌爆發性掙扎",
+    "distractors": {
+     "plausible": [
+      "tap 得太早",
+      "在承壓時屏住呼吸"
+     ],
+     "trap": [
+      "轉成趴姿試圖逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Americana/from North-South.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

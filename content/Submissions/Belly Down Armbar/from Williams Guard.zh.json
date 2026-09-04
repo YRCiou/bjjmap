@@ -1,0 +1,212 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Williams Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Belly Down Armbar from Williams Guard 主要攻擊哪個解剖構造?",
+    "answer": "這個技巧透過過度伸展攻擊肘關節,特別是對尺側副韌帶(UCL)和關節囊施加壓力。支點是由攻擊者的髖骨壓在手肘後側製造出來的,同時手腕被控制、髖部朝地面延伸。次要的壓力會出現在肱二頭肌肌腱上,因為它要對抗被迫的伸展。",
+    "safety_critical": true,
+    "answer_line": "肘關節:UCL過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩關節囊拉傷",
+      "手腕關節旋轉"
+     ],
+     "trap": [
+      "扭轉手腕強迫拍點"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 belly down 姿勢能消除多數 guard armbar 都會被破解的stacking防禦?",
+    "answer": "在標準的仰躺 guard armbar 中,對手可以向前推並把體重壓在攻擊者身上,藉此減輕伸展壓力並製造抽手的角度。belly down 的旋轉會讓攻擊者轉為俯臥姿勢,手臂被困在自己身體下方。對手無法對一個已經俯臥的人進行stacking,因為攻擊者身下根本沒有空間可以推入——他的體重反而是助力,而不是阻力。",
+    "safety_critical": false,
+    "answer_line": "身下沒有空間可供stacking",
+    "distractors": {
+     "plausible": [
+      "對手完全失去base",
+      "攻擊者的髖部擋住posture"
+     ],
+     "trap": [
+      "讓他stacking,再重新旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在旋轉過程中,抓握會發生什麼轉換?你要如何避免失去手臂控制?",
+    "answer": "抓握會從 Williams Guard 的四字型肩關節鎖configuration轉換為二對一的手腕控制。為了避免失去手臂,你應該讓雙手沿著對手的手臂滑動,而不是先放開再重新抓握。在整個轉換過程中,至少要維持一個接觸點。四字型能提供強力的初始控制,而手腕的抓握則提供finish所需的伸展槓桿力。",
+    "safety_critical": false,
+    "answer_line": "四字型滑向手腕",
+    "distractors": {
+     "plausible": [
+      "手腕抓握轉為四字型",
+      "雙手重新抓住手肘"
+     ],
+     "trap": [
+      "放開手臂求快速重抓"
+     ]
+    }
+   },
+   {
+    "question": "對手開始用祈禱式扣手來抵抗伸展——你該做什麼調整?",
+    "answer": "維持 belly down 姿勢,並加緊你雙膝對他上臂的夾力。攻擊祈禱式扣手時,可以撬開上方那隻手的手指,或把你的身體稍微轉向他拇指那一側,用角度壓力而非直線拉扯來破壞扣握結構。你也可以把髖部稍微往手臂高處移動以增加槓桿力。belly down 姿勢給你足夠的時間和穩定性,能有系統地破除抓握而不失去位置。",
+    "safety_critical": false,
+    "answer_line": "撬開上方手,朝拇指側施力",
+    "distractors": {
+     "plausible": [
+      "直線向後拉得更用力",
+      "改成攻擊keylock"
+     ],
+     "trap": [
+      "放開膝蓋夾力去重抓"
+     ]
+    }
+   },
+   {
+    "question": "在這個submission過程中,防守者「無法逃脫」的臨界點是什麼?",
+    "answer": "無法逃脫的臨界點發生在攻擊者完成 belly down 旋轉、雙膝緊密夾住、髖部正對著手肘後方、手腕被固定在胸口的時候。一旦這三個要素同時到位,機械優勢就變得壓倒性,防守者無法產生足夠的力量抽出手臂或緩解伸展壓力。防禦動作必須在旋轉發生之前或過程中執行才有效。",
+    "safety_critical": false,
+    "answer_line": "雙膝、髖部、手腕全部鎖死",
+    "distractors": {
+     "plausible": [
+      "旋轉一開始就已無法逃脫",
+      "遠側腳跨過臉部時"
+     ],
+     "trap": [
+      "只有等對方口頭拍點才算"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 belly down finish 時,髖部的伸展壓力必須慢慢施加?",
+    "answer": "belly down 姿勢比標準的仰躺 armbar 產生大得多的機械優勢,因為攻擊者的全部體重都在強化髖部的伸展動作。這代表肘關節到達斷裂點的速度會遠比練習者預期的快。慢慢施加壓力能給對手足夠的時間察覺危險並在韌帶受損之前拍點。在這個姿勢下猛拉或瞬間施力,經常會造成嚴重的肘部傷害,包括尺側副韌帶撕裂。",
+    "safety_critical": true,
+    "answer_line": "讓對方能在受傷前拍點",
+    "distractors": {
+     "plausible": [
+      "放慢是為了累積更多力量",
+      "放慢能保持手臂受控"
+     ],
+     "trap": [
+      "加快速度求更快finish"
+     ]
+    }
+   },
+   {
+    "question": "在旋轉之前先製造髖部角度,對 belly down 的轉換成功率有什麼影響?",
+    "answer": "由最初的 hip escape 製造出的45度髖部角度,能提供旋轉動能,讓攻擊者平順地完成整個 belly down 轉換。沒有這個角度,旋轉會在中途卡住,因為在維持手臂控制的同時,沒有足夠的能量完成這個動作。這個 hip escape 同時也讓遠側的腳處在正確的角度,能夠掃過對手頭部——這在髖部正對的起始姿勢下是幾何上不可能做到的。",
+    "safety_critical": false,
+    "answer_line": "提供旋轉的動能",
+    "distractors": {
+     "plausible": [
+      "只是增強抓握力量",
+      "讓對手保持平躺"
+     ],
+     "trap": [
+      "跳過角度,直接加快旋轉"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中,對手防守得很積極,你無法完成 belly down 旋轉——Williams Guard 還提供哪些替代攻擊?",
+    "answer": "當 belly down armbar 被防守時,Williams Guard 提供多種替代攻擊。如果對手posture up以防止那條腿掃過他的臉,就旋轉你的髖部、把腿穿過他的肩膀轉為 omoplata。如果他向前推想stacking,就利用他的動能設置 triangle 或 back take。肩關節鎖本身在整個過程中都持續是有效的submission威脅。這些替代方案形成一條submission鏈,防守其中一個攻擊就會為另一個攻擊打開破綻。",
+    "safety_critical": false,
+    "answer_line": "Omoplata、triangle、back take",
+    "distractors": {
+     "plausible": [
+      "同一抓握下的wrist lock",
+      "collar drag轉single leg"
+     ],
+     "trap": [
+      "放手起身passing"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正在從 Williams Guard 設置 belly down armbar?",
+    "answer": "主要的辨識線索是依序出現的:首先,底位的人一邊維持肩關節鎖的抓握,一邊做 hip escape 來製造角度。第二,他的遠側腳開始朝你的頭部往上掃。第三,你會感覺到抓握從四字型肩關節鎖轉為手腕控制。辨識出第一個線索——hip escape——能給你最大的防禦窗口,在技巧真正發展成形之前介入。",
+    "safety_critical": false,
+    "answer_line": "hip escape是最早的線索",
+    "distractors": {
+     "plausible": [
+      "對方壓平身體並posture up",
+      "對方的collar抓握突然收緊"
+     ],
+     "trap": [
+      "等旋轉完成才反應"
+     ]
+    }
+   },
+   {
+    "question": "被困在 belly down armbar finish 時,最安全的拍點時機是什麼?",
+    "answer": "一感覺到 belly down 姿勢下肘關節開始出現伸展壓力,就立刻拍點。不要等看看髖部下壓後自己能不能逃脫——俯臥姿勢下的機械優勢非常巨大,肘關節到達斷裂點的速度會遠比標準 armbar 快得多。要同時使用口頭和肢體的拍點訊號。如果你的自由手碰不到攻擊者,就大聲拍地或立刻口頭示意。",
+    "safety_critical": true,
+    "answer_line": "肘部一有壓力就立刻拍",
+    "distractors": {
+     "plausible": [
+      "先試試看能不能逃脫",
+      "等髖部完全下壓才拍"
+     ],
+     "trap": [
+      "硬撐,手臂撐得住"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在髖部製造角度的階段提早介入,會比等 belly down 姿勢完全建立後才防守更有效?",
+    "answer": "在髖部製造角度的階段,攻擊者還沒有建立起 armbar 的機械結構——他仍處於一個變化型的 Williams Guard 位置。在這個階段透過向前施壓或抽手來破壞角度,能讓你回到標準的guard passing情境。一旦 belly down 姿勢完成,攻擊者的體重、膝蓋夾力和髖部伸展會同時發揮全部的機械優勢,幾乎沒有任何可用的槓桿力能讓你逃脫。",
+    "safety_critical": false,
+    "answer_line": "機械結構還沒鎖定成形",
+    "distractors": {
+     "plausible": [
+      "對手旋轉會累",
+      "那個階段的抓握最弱"
+     ],
+     "trap": [
+      "等等,俯臥時更好逃"
+     ]
+    }
+   },
+   {
+    "question": "當 belly down 旋轉已經進行到一半時,有哪些防禦選項可用?",
+    "answer": "當旋轉正在進行時,你的主要選項是把雙手扣成祈禱式來防止手臂被伸展,以及順著攻擊者旋轉的方向一起翻滾以製造scramble。祈禱式扣手能為你爭取時間,用朝自己中線的圓弧動作把手臂抽出。順著方向翻滾能在攻擊者最脆弱的時刻——旋轉途中——打亂他的位置,並在隨之而來的混亂中創造出解放手臂的機會。",
+    "safety_critical": false,
+    "answer_line": "祈禱式扣手或順勢翻滾",
+    "distractors": {
+     "plausible": [
+      "把手臂直線向後拉",
+      "用力推開他的髖部"
+     ],
+     "trap": [
+      "維持不動、硬等過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要避免用直線向後拉手臂的方式逃脫 armbar control?",
+    "answer": "直線拉扯正好對抗 armbar control 的機械結構,因為攻擊者的整個身體都在強化這個抓握。這種方式非常耗費體力,而且當你把自己的手臂朝他的支點伸展時,反而經常會增加肘部的壓力。應該改用圓弧型的抽手動作,把手臂朝自己的髖部和中線方向旋轉。這些小圈能改變施力角度,解除抓握的機制,而不是正面對抗它。",
+    "safety_critical": false,
+    "answer_line": "對抗支點;應改用圓弧動作",
+    "distractors": {
+     "plausible": [
+      "直線拉扯只是讓抓握變累",
+      "圓弧動作只適用於wrist lock"
+     ],
+     "trap": [
+      "用力硬把手臂拉出來"
+     ]
+    }
+   }
+  ]
+ }
+}

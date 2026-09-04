@@ -1,0 +1,212 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "belly down armbar 這個 finish 主要攻擊哪個解剖結構？趴姿又是如何改變施力方式的？",
+    "answer": "belly down armbar 透過讓肘關節超出自然活動範圍過度伸展來攻擊它，特別是對尺側副韌帶和關節囊施加壓力。趴姿大幅改變了施力方式，因為髖部伸展會把支點向前推頂住肘後方，同時重力也在輔助這個伸展動作。跟仰躺式 armbar 不同的是，仰躺時攻擊方要對抗重力把髖部向上抬，而 belly down 姿勢則是讓體重和髖部力量的方向跟重力一致，用更少的力氣就能產生大得多的破壞力。",
+    "safety_critical": false,
+    "answer_line": "髖部力量加重力伸展手肘",
+    "distractors": {
+     "plausible": [
+      "肩關節囊承受主要壓力",
+      "像仰躺式那樣把髖部往上抬"
+     ],
+     "trap": [
+      "快速把體重壓到手肘上"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down finish 的過程中，如何辨識已經對肘關節施加了足夠的破壞壓力？",
+    "answer": "足夠壓力的指標包括感覺到對手的手臂已經完全伸展、肘部沒有任何彎曲空間，感覺到阻力從肌肉張力轉變為韌帶的結構性阻力，以及對手出現明顯的痛苦訊號，例如 tap、發出聲音，或是全身緊繃。訓練時絕對不應該把壓力推到這種結構極限。要循序漸進地施加壓力，一感覺到手臂變直就要停在那裡，讓對手有時間 tap，避免任何韌帶真正受到衝擊。",
+    "safety_critical": true,
+    "answer_line": "手臂變直，韌帶有彈性阻力就停",
+    "distractors": {
+     "plausible": [
+      "你的雙膝開始分開",
+      "髖部壓力感覺變輕"
+     ],
+     "trap": [
+      "硬做到聽見喀一聲為止"
+     ]
+    }
+   },
+   {
+    "question": "從 Kuzure Kesa-Gatame 開始旋轉進入 belly down position 之前，必須先建立什麼樣的抓握控制？",
+    "answer": "在開始任何旋轉之前，你必須先建立穩固的 two-on-one 手腕控制。雙手抓住對手的手腕或前臂遠端，靠近的那隻手在腋下夾制還維持壓力的時候先建立接觸，接著另一隻手加入完成抓握。這種前後重疊的控制方式，能確保在整個轉換過程中手臂絕不會自由。抓握的位置要讓對手的拇指朝上，預先為完成姿勢中的過度伸展做好肘部對位。",
+    "safety_critical": false,
+    "answer_line": "先用雙手抓住手腕",
+    "distractors": {
+     "plausible": [
+      "單手抓手腕就夠了",
+      "抓住手肘附近的 gi sleeve"
+     ],
+     "trap": [
+      "先放開腋下再抓握"
+     ]
+    }
+   },
+   {
+    "question": "belly down armbar 的轉換過程中，到了哪個階段這個技術幾乎變得無法防守？",
+    "answer": "無法逃脫的臨界點，是攻擊方的腿已經越過對手的頭部，並開始下沉進入 belly down position、雙膝夾住上臂的時候。到了這個階段，防守方已經無法再轉身面向攻擊方，手臂已經完全與身體隔離，而趴姿的機械優勢讓雙手互扣防守成了唯一剩下的選項。一旦攻擊方的髖部落定在手肘後方、雙膝夾緊，就連雙手互扣的防守也只是暫時拖延，而不是真正的逃脫。",
+    "safety_critical": false,
+    "answer_line": "腿越過頭，雙膝夾住手臂",
+    "distractors": {
+     "plausible": [
+      "手腕一被抓就算",
+      "遠側腳一撐地就算"
+     ],
+     "trap": [
+      "要等到肘關節過度伸展才算"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down position 施加 finish 壓力時，最常見的機械性錯誤是什麼？",
+    "answer": "最常見的錯誤是用手臂的力量把手腕往上拉，而不是把髖部往前向地面推。用手臂拉扯會產生不足的壓力，因為肱二頭肌和肩膀在對抗對手防守的握力時很快就會疲勞。正確的機制是把髖部伸展當作主要的力量來源，把骨盆向前向下推，手臂只負責維持手腕的位置。這樣能動用整個後鏈肌群和體重，產生的力量遠比只靠手臂拉扯大得多。",
+    "safety_critical": false,
+    "answer_line": "用手臂而不是髖部拉手腕",
+    "distractors": {
+     "plausible": [
+      "太早夾緊雙膝",
+      "頭抬得太高離開地墊"
+     ],
+     "trap": [
+      "爆發性地猛拉手腕"
+     ]
+    }
+   },
+   {
+    "question": "從 scarf hold 的腋下控制轉換到 belly down 的手腕控制時，該如何調整抓握？",
+    "answer": "抓握的轉換必須是重疊的，絕對不能出現空檔。先在腋下夾制仍然維持壓力的同時，把靠近側的手從腋下滑下去到對手的手腕，一旦靠近側的手已經確保手腕控制，就加上另一隻手形成 two-on-one 抓握。只有在這之後，才能放開腋下的壓力開始旋轉。整個 step-over 過程中，都要把手臂拉緊貼住你的軀幹，維持手腕控制。落到 belly down 之後，重新調整雙手位置，讓拇指朝上以利 finish 時的伸展。",
+    "safety_critical": false,
+    "answer_line": "靠近側的手先抓手腕再放開",
+    "distractors": {
+     "plausible": [
+      "先放開腋下再抓手腕",
+      "先用遠側的手抓，再用靠近側的手"
+     ],
+     "trap": [
+      "step-over 途中兩隻手都放開"
+     ]
+    }
+   },
+   {
+    "question": "跟其他 armbar 變化型相比，為什麼 belly down armbar 特別需要控制好、循序漸進地施加壓力？",
+    "answer": "belly-down 姿勢把力量放大到遠超出大多數練習者預期的程度，因為髖部伸展加上重力，在肘關節上創造出巨大的機械優勢。在標準仰躺式 armbar 中，攻擊方要對抗重力把髖部抬起，這自然形成了一個速度限制。而在 belly down 中，施力方向和重力一致，所以即使是很小的髖部動作，也會產生顯著的伸展壓力。此外，防守方在 belly down 姿勢中的本體感覺回饋也會減少，因為他們看不到手臂的角度，這讓他們更難判斷該在什麼時候 tap。這些因素加在一起，讓猛拉或突然施力變得極度危險。",
+    "safety_critical": true,
+    "answer_line": "重力和髖部消除了力量煞車",
+    "distractors": {
+     "plausible": [
+      "仰躺版本施加的力量更大",
+      "全靠夾膝就能完成"
+     ],
+     "trap": [
+      "猛甩髖部快速逼出 tap"
+     ]
+    }
+   },
+   {
+    "question": "對手在 Kuzure Kesa-Gatame 中把被困的手臂緊緊彎曲貼在身體上做被動防守——該如何製造出轉換到 belly down armbar 的機會？",
+    "answer": "先用威脅 americana 的方式，把你抓著手腕的手往對手髖部旁的地墊方向移動，逼迫他們必須把手臂伸直來抵抗肩部的旋轉。當他們為了防守 americana 而伸展手臂時，立刻切換成 two-on-one 手腕抓握，展開 belly down armbar 的旋轉。他們為了防守 americana 而伸展出來的手臂位置，正好就是你進行 step-over 所需要的手臂位置。這正是 Kuzure Kesa-Gatame 的核心兩難：要防守彎臂型的攻擊，就必須伸直手臂，而這樣一伸直，就會打開直臂型攻擊的破口。",
+    "safety_critical": false,
+    "answer_line": "威脅 americana 逼手臂伸直",
+    "distractors": {
+     "plausible": [
+      "用蠻力把手肘撬開",
+      "等對手放鬆抓握"
+     ],
+     "trap": [
+      "放棄這個 position，重回 guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何辨識對手正從 Kuzure Kesa-Gatame 轉換到 belly down armbar 的嘗試？",
+    "answer": "主要的辨識訊號是依序出現的：首先，攻擊方把抓握從腋下夾制轉變成雙手抓你的手腕或前臂。接著，他們把遠側的腳撐在你頭部附近並開始起身。最後，他們的腿開始劃過你的頭部。最早出現的訊號——抓握的轉換——是防守最關鍵的時刻，因為這代表你的防守選項仍然多且有效。",
+    "safety_critical": false,
+    "answer_line": "腋下夾制變成抓手腕",
+    "distractors": {
+     "plausible": [
+      "他們攤平身體僵持不動",
+      "他們換成 north-south"
+     ],
+     "trap": [
+      "放鬆等壓力過去"
+     ]
+    }
+   },
+   {
+    "question": "當你的手臂活動受限時，被 belly down armbar 鎖住時最安全的 tap 方式是什麼？",
+    "answer": "被 belly down armbar 抓到時，被困住的手臂無法 tap，這時要用你自由的那隻手快速拍打攻擊方的腿、髖部或地墊。如果連自由的手也被限制住，就用任一隻腳大力拍打地墊。口頭 tap 隨時都可以使用——清楚地喊出「tap」，或發出任何大聲的聲音。在這個 position 要提早 tap，因為趴姿的機械優勢，讓傷害級別的力量出現的速度比大部分其他 armbar 都快。訓練時絕對不要試圖用完全伸直手臂的方式去硬撐抵抗。",
+    "safety_critical": true,
+    "answer_line": "自由的手拍他們的腿或地墊",
+    "distractors": {
+     "plausible": [
+      "把口頭 tap 留到最後手段",
+      "先跺腳再做其他動作"
+     ],
+     "trap": [
+      "撐到抓握鬆開為止"
+     ]
+    }
+   },
+   {
+    "question": "在從 Kuzure Kesa-Gatame 轉換到 belly down armbar 的每個階段，各有哪些防守選項？",
+    "answer": "在早期抓握轉換階段，當腋下壓力減弱時，把被困的手臂手肘用力彎曲收回。在中期的 step-over 階段，積極轉身面向攻擊方，防止 belly down 建立成功。在後期已經到達 belly down 之後，用 Gable grip 把雙手互扣，並執行 hitchhiker escape，把拇指轉向地面、身體跟著轉動的方向旋轉。每個階段能用的選項會越來越少，這使得及早辨識和反應變得非常重要。",
+    "safety_critical": false,
+    "answer_line": "先收手臂、再轉身、最後 hitchhiker",
+    "distractors": {
+     "plausible": [
+      "用自由的手抓住腰帶",
+      "把他們的膝蓋從你頭上推開"
+     ],
+     "trap": [
+      "等到 belly down 之後才防守"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對付 belly down armbar 時，早期防守遠比晚期防守有效得多？",
+    "answer": "belly down 姿勢會隨著攻擊方逐漸就位而呈指數級增加機械優勢。在抓握轉換階段防守，只需要在壓力暫時減弱時把手臂收回即可。在 step-over 階段，攻擊方的 base 是不穩的，轉身面向他們就能輕鬆打亂旋轉。但一旦 belly down 完全建立、雙膝夾緊、髖部對位就緒，即使是強力的抓握防守也只是暫時的，因為攻擊方髖部伸展的槓桿力量遠遠超過防守方的握力。物理條件在每個階段都越來越有利於攻擊方。",
+    "safety_critical": false,
+    "answer_line": "槓桿效果在每個階段不斷疊加",
+    "distractors": {
+     "plausible": [
+      "belly down 會讓攻擊方變累",
+      "一旦就位靠力量就能對抗"
+     ],
+     "trap": [
+      "保留體力，最後再防守"
+     ]
+    }
+   },
+   {
+    "question": "如果你部分防住了旋轉、阻止 belly down 完全建立，該如何完成逃脫到安全的 position？",
+    "answer": "如果你已經轉身面向攻擊方、阻止了 belly down 完全建立，立刻把被困的手臂拉緊貼近身體，並把膝蓋插入雙方身體之間，設法找回 guard。如果你打亂了旋轉，但攻擊方仍然控制著你的手腕，就繼續朝他們轉身，同時收緊下巴、把身體蜷縮成防守姿勢，防止他們重新建立 scarf hold。從這場混戰中，要優先找回 guard，而不是站起來，因為只要給攻擊方空間，他們仍然有可能轉換成變化型的 armbar。",
+    "safety_critical": false,
+    "answer_line": "手臂拉緊貼身，找回 guard",
+    "distractors": {
+     "plausible": [
+      "立刻站起來拉開距離",
+      "從混戰中追求 back mount"
+     ],
+     "trap": [
+      "伸直手臂拉開距離"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Kuzure Kesa-Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

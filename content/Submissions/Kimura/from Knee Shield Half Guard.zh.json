@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Kimura/from Knee Shield Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Kimura from Knee Shield Half Guard 主要攻擊哪些解剖構造？",
+    "answer": "Kimura 透過強迫內旋攻擊肩關節，特別針對旋轉肌袖群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊，以及盂唇。figure-four 抓法形成一個槓桿系統，將旋轉力放大到遠超肩關節的自然活動範圍，足以造成嚴重的結構性損傷。",
+    "answer_line": "肩關節，強迫旋轉",
+    "distractors": {
+     "plausible": [
+      "肘關節過度伸展",
+      "腕部與前臂骨骼"
+     ],
+     "trap": [
+      "只傷肌肉，沒有受傷風險"
+     ]
+    }
+   },
+   {
+    "question": "你已經建立 knee shield，這時對手把手撐在墊子上——你的立即動作順序是什麼？",
+    "answer": "立刻用靠近的那隻手以 C-grip 抓住對手撐地的手腕，把它拉向你的髖部，破壞他的base。接著把另一隻手從對手三頭肌下方穿過，建立 figure-four 抓法，全程維持你的 knee shield。只有在 figure-four 完全鎖死、手肘貼緊身體之後，才開始用 hip escape 製造finish所需的角度。",
+    "answer_line": "先控腕，再figure-four，最後找角度",
+    "distractors": {
+     "plausible": [
+      "先找角度，再抓手腕",
+      "先figure-four，再抓手腕"
+     ],
+     "trap": [
+      "放掉knee shield去抓手"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中，什麼跡象顯示你應該停止施加旋轉壓力？",
+    "answer": "只要出現任何tap訊號——口頭、拍手或拍腳——就要立刻停止。訓練時也要留意肩關節是否已接近內旋極限（關節出現明顯阻力）、被鎖住的手臂出現明顯不適或緊繃，以及任何口頭求饒訊號。肩關節鎖技造成的傷害往往是漸進性的，劇痛出現前就可能已經受傷，所以施力速度要慢到讓夥伴有足夠時間察覺危險並tap，在造成結構性傷害之前停下來。",
+    "answer_line": "任何tap——口頭、手、或腳",
+    "distractors": {
+     "plausible": [
+      "當他們的手肘到達90度時",
+      "只有在他們大喊求救時"
+     ],
+     "trap": [
+      "等到聽見一聲脆響或碎裂聲"
+     ]
+    }
+   },
+   {
+    "question": "對手雙手互扣成gable grip來防守旋轉——你要如何破解？",
+    "answer": "把被抓住的手肘往墊子方向壓，在gable grip最弱的地方把它撐開，同時維持你的垂直角度。把你的figure-four抓法往對手的手指方向移，那裡的握力最弱。你也可以用knee shield去推、破壞對手的重心，干擾他的抓握連結。如果握力還是破不了，就改用kimura control當作sweep的把手，而不是硬要finish。",
+    "answer_line": "壓肘向下，走位到手指",
+    "distractors": {
+     "plausible": [
+      "把手臂用力往上拉扯",
+      "用蠻力把抓握扯開"
+     ],
+     "trap": [
+      "坐起來、放掉knee shield"
+     ]
+    }
+   },
+   {
+    "question": "訓練夥伴tap之後，你應該如何放開Kimura？",
+    "answer": "一感覺到tap，立刻停止所有旋轉壓力。緩慢地把手臂外旋回起始位置，讓它回到中立姿勢。完全放開figure-four抓法，讓夥伴先自行確認肩膀活動度，再繼續訓練。絕對不要突然放手或讓手臂猛然彈回去，因為即使submission的壓力已經解除，那股反彈的動能仍可能造成傷害。",
+    "answer_line": "緩慢把手臂放回，再鬆手",
+    "distractors": {
+     "plausible": [
+      "繼續鎖著figure-four不放",
+      "等對方自己掙脫"
+     ],
+     "trap": [
+      "快速把肩膀甩回去"
+     ]
+    }
+   },
+   {
+    "question": "在施加finish旋轉之前，關鍵的角度調整是什麼？",
+    "answer": "用hip escape讓自己與對手身體呈約90度的垂直角度，再施加旋轉壓力。若在平行姿勢下嘗試finish，對手能利用上位的體重優勢做stack並成功防守。垂直角度能確保旋轉力沿著肩關節阻力最弱的軸向施加，同時讓對手無法靠向前壓、靠體重來反制。",
+    "answer_line": "hip escape到90度角",
+    "distractors": {
+     "plausible": [
+      "保持平行、向前推進",
+      "只角度到45度"
+     ],
+     "trap": [
+      "被壓平在對手體重下"
+     ]
+    }
+   },
+   {
+    "question": "對手開始朝kimura方向翻滾以緩解肩膀壓力——你要如何調整以防止他逃脫？",
+    "answer": "跟著他的翻滾，維持手肘緊貼肋骨的控制，並調整髖部，讓自己在他旋轉時持續保持垂直角度。不要對抗這個翻滾——順勢利用它。他向前翻滾常常會暴露背部，這正是轉換到背後控制的機會，同時繼續維持kimura抓法。持續啟動下方那隻腳的hook，控制他的翻滾速度，避免他完成整個逃脫翻滾。",
+    "answer_line": "順勢翻滾，拿下背後控制",
+    "distractors": {
+     "plausible": [
+      "對抗翻滾、守住原位",
+      "停下來重新抓手腕"
+     ],
+     "trap": [
+      "翻滾中途放手，被壓平"
+     ]
+    }
+   },
+   {
+    "question": "哪些抓握錯誤最常讓對手從Kimura from Knee Shield Half Guard中逃脫？",
+    "answer": "最常見的抓握錯誤是手肘外張、遠離身體，在手臂與軀幹之間留出空間，讓對手得以抽出手臂。第二常見的是抓握位置離對手手腕太遠，大幅降低旋轉槓桿力。第三是在壓力下沒能維持figure-four的連結——只要雙手鬆開片刻，對手就能把手臂伸直逃脫。這三種錯誤的根源都是抓握的夾緊力不夠。",
+    "answer_line": "手肘外張、貼身留有空隙",
+    "distractors": {
+     "plausible": [
+      "抓握位置離手腕太近",
+      "進入角度稍微太陡"
+     ],
+     "trap": [
+      "讓雙手鬆開來調整"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你要如何辨識對手正在設置Kimura from Knee Shield Half Guard？",
+    "answer": "留意對手靠近你的那隻手是否放開原本的guard抓法，轉而伸向你的手腕或前臂。若對手在維持knee shield的同時做hip escape，代表他正在建立finish所需要的角度。如果你感覺到自己的手臂被拉向他的髖部，或感覺到他的另一隻手正穿過你的三頭肌下方，代表攻擊序列已經開始，你必須立刻反應。",
+    "answer_line": "他的手伸向你的手腕",
+    "distractors": {
+     "plausible": [
+      "突然抓住你的衣領",
+      "快速朝你背後纏鬥"
+     ],
+     "trap": [
+      "不管它，繼續硬過guard"
+     ]
+    }
+   },
+   {
+    "question": "面對Kimura from Knee Shield Half Guard，最安全的tap方式是什麼？",
+    "answer": "在旋轉到達肩關節活動極限之前，就要提早清楚地tap。用你空出來的那隻手，在對手身體或墊子上快速連續拍打，確保對方感覺得到。如果你的空手被困住，就用腳拍打墊子，或大聲清楚地說「tap」。肩關節鎖技絕對不要硬撐——關節可能在劇痛強烈到逼你tap之前，就已經造成永久性結構損傷。",
+    "answer_line": "提早tap，別等到肩關節極限",
+    "distractors": {
+     "plausible": [
+      "小聲說你認輸",
+      "拍自己的腿示意"
+     ],
+     "trap": [
+      "硬撐並試圖抵抗鎖技"
+     ]
+    }
+   },
+   {
+    "question": "面對從Knee Shield Half Guard發動的Kimura攻擊，各階段分別有哪些防守選項？",
+    "answer": "在figure-four鎖死之前的早期階段，立刻收回手臂、手肘貼緊身體。在抓法已建立的中期階段，雙手互扣成gable grip並向前施加壓力，阻止對手做出finish角度。在旋轉已經開始的後期階段，朝kimura方向翻滾以緩解壓力，同時設法拆解對手的抓握。預防永遠比後期逃脫來得容易。",
+    "answer_line": "早期收臂、中期gable、晚期翻滾",
+    "distractors": {
+     "plausible": [
+      "早期翻滾、中期才收臂",
+      "只在旋轉後才互扣雙手"
+     ],
+     "trap": [
+      "把手臂拉直硬扯脫身"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的手臂位置紀律能預防Knee Shield Half Guard的Kimura設置？",
+    "answer": "面對積極的knee shield guard玩家時，絕對不要把手撐在他伸手可及的墊子上。雙手應保持在對手身上——抓衣領、抓二頭肌或抓下擺——而不是伸到墊子上做base。在尋找抓法或過guard角度時，手肘要貼緊軀幹。Kimura的設置需要一隻暴露且伸展的手臂，因此有紀律的手臂位置能徹底消除這個主要的切入機會。",
+    "answer_line": "手不撐地，手肘貼緊",
+    "distractors": {
+     "plausible": [
+      "用伸直的手臂做frame",
+      "加寬雙膝做base"
+     ],
+     "trap": [
+      "把手平貼撐在對方可及範圍內"
+     ]
+    }
+   }
+  ]
+ }
+}

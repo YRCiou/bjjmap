@@ -1,0 +1,242 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "belly down armbar 這個 finish 主要攻擊哪個解剖結構？",
+    "answer": "belly down armbar 主要攻擊肘關節，透過過度伸展對尺側副韌帶和關節囊施加壓力。趴姿創造出一個槓桿，髖部摺線作為支點頂住肘後方，向下的身體重量加上手腕捲曲的動作，會產生伸展力，讓韌帶承受阻止手肘向後彎的壓力。",
+    "safety_critical": false,
+    "answer_line": "肘關節過度伸展",
+    "distractors": {
+     "plausible": [
+      "肩關節旋轉",
+      "腕關節屈曲"
+     ],
+     "trap": [
+      "扭頸讓對手 tap"
+     ]
+    }
+   },
+   {
+    "question": "你開始轉向 belly-down 時，對手雙手互扣——該怎麼調整才能破解這個防守？",
+    "answer": "即使對手雙手互扣，也要完成整個旋轉、進入 prone position，因為 belly-down 時的身體重量比仰躺姿勢能製造出更大的破握力量。一旦進入趴姿，把你的前臂楔入他們互扣的雙手之間，用槓桿把手撐開，或是針對上方那隻手一根一根地把手指剝開。趴姿在重力輔助下的壓力，會讓雙手互扣只是暫時拖延，而不是真正有效的防守。",
+    "safety_critical": false,
+    "answer_line": "完成旋轉，把手撬開",
+    "distractors": {
+     "plausible": [
+      "暫停旋轉去破握",
+      "坐回去等對方力竭"
+     ],
+     "trap": [
+      "把腿從對手臉上抬開"
+     ]
+    }
+   },
+   {
+    "question": "在整個旋轉過渡的過程中，你必須維持什麼樣的抓握配置？",
+    "answer": "維持穩固的 two-on-one 手腕抓握，雙手都包住對手的手腕，拇指在內側交疊。前臂要夾緊，像老虎鉗一樣夾住手腕。這個抓握在旋轉過程中絕對不能鬆開，因為只要有一瞬間的鬆動，就會讓對手把手臂抽回去。手指交扣繞住手腕的 monkey grip 變化型，在動態移動中能提供最穩固的控制。",
+    "safety_critical": false,
+    "answer_line": "two-on-one 手腕抓握，拇指朝內",
+    "distractors": {
+     "plausible": [
+      "單手抓腕，另一手自由",
+      "抓在手腕上方的前臂"
+     ],
+     "trap": [
+      "抓握放鬆，隨時再調整"
+     ]
+    }
+   },
+   {
+    "question": "在 belly down armbar 的流程中，防守方在哪個時間點會失去逃脫機會？",
+    "answer": "當攻擊方完成趴姿旋轉、雙膝夾緊、髖部緊貼對手肩膀時，就到了無法逃脫的臨界點。一旦攻擊方的身體重量透過雙膝夾緊向下壓在手臂上，防守方就無法產生足夠的力量把手臂抽回或轉出。旋轉過渡的那個階段，是最後可靠的逃脫機會，這也是為什麼防守方必須在旋轉完成之前就採取行動。",
+    "safety_critical": false,
+    "answer_line": "雙膝夾緊，髖部貼緊肩膀",
+    "distractors": {
+     "plausible": [
+      "旋轉一開始就算",
+      "手腕抓握一穩固就算"
+     ],
+     "trap": [
+      "等到趴姿完成後再逃"
+     ]
+    }
+   },
+   {
+    "question": "降低 belly down armbar 效果的最常見 finish 錯誤是什麼？",
+    "answer": "最常見的錯誤是旋轉完成後，髖部離對手的肩膀太遠。這會讓支點偏離肘關節，迫使攻擊方只能靠手臂力量而不是身體重量去完成 finish。修正方式是在旋轉過程中及旋轉之後，主動把髖部往肩膀方向靠近，確保肘關節緊貼在髖部摺線上、完全沒有空隙。",
+    "safety_critical": false,
+    "answer_line": "髖部離對手肩膀太遠",
+    "distractors": {
+     "plausible": [
+      "太早開始施壓",
+      "雙膝沒有夾緊"
+     ],
+     "trap": [
+      "翻回仰躺姿勢加大力道"
+     ]
+    }
+   },
+   {
+    "question": "在你進行 belly-down 旋轉時，對手突然爆發性地 bridge——該如何調整？",
+    "answer": "順著對手的髖部動作去吸收 bridge 的力道，而不是硬碰硬對抗。收緊手腕抓握，利用他們向上的力量來幫助你完成旋轉。他們 bridge 時手臂會稍微伸展，這其實有助於你完成 finish 姿勢。等他們落回地墊，立刻夾緊雙膝，建立趴姿控制。他們的 bridge 力量在你的旋轉過渡中完全發揮不了作用。",
+    "safety_critical": false,
+    "answer_line": "順勢帶過 bridge，抓握保持緊",
+    "distractors": {
+     "plausible": [
+      "停止旋轉直到 bridge 結束",
+      "向下壓制阻止 bridge"
+     ],
+     "trap": [
+      "放開抓握重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 belly-down 姿勢中施加伸展壓力必須比標準 armbar 更慢？",
+    "answer": "belly-down 姿勢比標準仰躺式 armbar 能創造出遠大許多的機械優勢，因為攻擊方是靠重力讓整個身體重量透過手臂傳導下去，而不僅僅是髖部 bridge 的力量。這種被放大的槓桿效果意味著，攻擊方即使感覺沒有很用力，肘關節也會更快到達結構極限。太快施壓，會有在防守方來得及 tap 之前就造成嚴重韌帶損傷或骨折的風險。",
+    "safety_critical": true,
+    "answer_line": "身體重量會放大槓桿效果",
+    "distractors": {
+     "plausible": [
+      "趴姿時重力反而影響較小",
+      "面朝下時手肘能彎得更多"
+     ],
+     "trap": [
+      "趁對手還沒防守前快速施力"
+     ]
+    }
+   },
+   {
+    "question": "對手 tap 之後，belly down armbar 正確的放開流程是什麼？",
+    "answer": "立刻放開伸展壓力，把手腕從你的胸口方向放低，接著鬆開夾在手臂上的膝蓋，然後完全脫離趴姿控制。不要等第二次 tap 或口頭確認。放開後檢查夥伴手肘的活動度，並詢問是否有任何不適，之後再繼續訓練。如果不確定對方是否 tap 了，就應該立刻放開，因為這個 position 之後隨時可以安全地重新建立。",
+    "safety_critical": true,
+    "answer_line": "先放手腕，再放雙膝",
+    "distractors": {
+     "plausible": [
+      "先放膝蓋再放手腕",
+      "tap 後仍維持輕微控制"
+     ],
+     "trap": [
+      "撐住鎖點等第二次 tap"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，要如何設置 belly-down 轉換才能最大化 finish 的成功機率？",
+    "answer": "在比賽中，先用標準 armbar finish 作為真正的第一波攻擊，而不是虛招。從仰躺姿勢施加真實的 finish 壓力，逼迫對手做出像雙手互扣或疊架這種投入的防守反應。當你感覺到他們的防守已經鎖定，立刻轉換到 belly-down，此時他們的防守結構正對著錯誤的 finish 方向。當兩個威脅都是真的，這種雙階段攻擊才最有效。",
+    "safety_critical": false,
+    "answer_line": "先來真的，再轉換",
+    "distractors": {
+     "plausible": [
+      "先虛晃一招假裝 finish",
+      "直接跳到 belly-down"
+     ],
+     "trap": [
+      "旋轉時放鬆雙膝"
+     ]
+    }
+   },
+   {
+    "question": "在 belly-down finish 過程中，有哪些跡象顯示肘關節正逼近結構性的極限？",
+    "answer": "關鍵跡象包括手臂在阻力下已經完全伸直、肘關節明顯變直、防守方身體不自主地繃緊或拱起、任何表達痛苦的叫聲或表情，以及感覺到手臂在你的髖部壓力下變得僵硬。當你感覺到手臂在你的伸展壓力下已經鎖死、完全沒有彎曲空間時，關節就已經到達結構極限。這時應該稍微放輕壓力、等待 tap，而不是繼續施力超過這個界線。",
+    "safety_critical": true,
+    "answer_line": "手臂鎖死，完全沒有餘裕",
+    "distractors": {
+     "plausible": [
+      "對手完全停止動作",
+      "手腕上的抓握開始滑動"
+     ],
+     "trap": [
+      "持續施力直到聽見喀一聲"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "哪些是最早期的辨識訊號，代表攻擊方正在轉換到 belly-down armbar finish？",
+    "answer": "最早期的訊號是攻擊方把遠側那隻腳撐在地墊上、雙手集中鎖定到你的手腕做出緊實的 monkey grip，以及靠近側那條腿開始朝你臉部方向劃過。你也可能感覺到被困住的手臂受到一股旋轉拉力，同時他們的身體重量從你身側移到你的手臂上方。立刻察覺這些訊號非常關鍵，因為防守的機會窗口只有 1 到 2 秒就會關閉。",
+    "safety_critical": false,
+    "answer_line": "腳撐地，腿劃過來",
+    "distractors": {
+     "plausible": [
+      "他們把背部貼平地墊",
+      "他們的抓握轉去抓領口"
+     ],
+     "trap": [
+      "等雙膝夾緊再反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該 tap belly down armbar finish，而不是繼續防守？",
+    "answer": "當攻擊方已經建立起趴姿、雙膝夾緊、髖部貼緊，而你的手臂開始在你的抵抗下逐漸伸直時，就要立刻 tap。belly-down 姿勢會把力量放大到遠超過標準 armbar 的程度，代表肘關節到達結構極限的速度會比你預期的快很多。如果你感覺到即使已經用盡全力防守，手臂仍在伸展，就要在感覺到喀一聲或劇痛之前先 tap。一旦手臂在趴姿的體重下開始變直，就沒有技術性的防守方式了。",
+    "safety_critical": true,
+    "answer_line": "手臂一開始變直就 tap",
+    "distractors": {
+     "plausible": [
+      "等手臂完全伸直再說",
+      "所有逃脫都失敗之後"
+     ],
+     "trap": [
+      "感覺到手肘喀一聲時"
+     ]
+    }
+   },
+   {
+    "question": "在攻擊方旋轉過渡的過程中，有哪些防守選項？",
+    "answer": "在過渡階段，你可以轉身面向攻擊方並坐起來，阻止旋轉完成；也可以趁動態移動讓對方抓握出現破綻的中段旋轉時機，爆發性地把手臂抽回；或者趁攻擊方全心投入旋轉動作時，做 hip escape 把 closed guard 找回來。這三個選項都必須在趴姿建立之前的 1 到 2 秒過渡窗口內完成。",
+    "safety_critical": false,
+    "answer_line": "坐起、抽手臂或 hip escape",
+    "distractors": {
+     "plausible": [
+      "用力 bridge 把對方頂開",
+      "手臂撐直守住 frame"
+     ],
+     "trap": [
+      "把手臂伸直以減輕壓力"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 hitchhiker escape 對 belly-down armbar position 沒有用？",
+    "answer": "hitchhiker escape 之所以能對付標準的仰躺式 armbar，是靠把手臂在攻擊方的髖部下方旋轉、把手肘滑過去逃脫。在 belly-down 姿勢中，攻擊方的整個身體重量把手臂壓死在地墊上，讓旋轉逃脫所需要的空間完全消失。向下的壓力方向讓手肘根本不可能滑到下方，使得 hitchhiker 對趴姿 finish 完全失效。",
+    "safety_critical": false,
+    "answer_line": "身體重量壓死手臂，沒有空間",
+    "distractors": {
+     "plausible": [
+      "只在有 gi 抓握時才有效",
+      "需要雙手都空出來才能轉"
+     ],
+     "trap": [
+      "還是硬轉手臂並撐住"
+     ]
+    }
+   },
+   {
+    "question": "防守已經建立的 belly-down armbar 時，該怎麼 bridge？",
+    "answer": "要朝著被困手臂那一側橫向 bridge，而不是直接向上頂。向上 bridge 會把力量餵給攻擊方向下的壓力系統，還可能把手肘往他們的髖部支點抬高，反而加速手臂伸展。橫向 bridge 會製造出旋轉，可能把攻擊方從你的手臂上移開，並破壞他們雙膝的夾緊。不過，如果趴姿已經完全建立、控制紮實，光靠 bridge 通常難以逃脫，這時應該優先安全地 tap，而不是持續抵抗。",
+    "safety_critical": true,
+    "answer_line": "朝手臂方向橫向 bridge",
+    "distractors": {
+     "plausible": [
+      "把髖部 shrimp 遠離對方",
+      "踢腿製造動量"
+     ],
+     "trap": [
+      "直接向上 bridge 頂他們的髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Belly Down Armbar/from Armbar Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

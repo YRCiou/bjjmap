@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 grasshopper guard 發動的 heel hook 主要攻擊哪些解剖結構？",
+    "answer": "Heel hook 主要透過經由 heel 與踝關節施加的旋轉力攻擊膝韌帶，具體來說是 ACL、MCL 與 LCL。Heel 的側向旋轉會在這些韌帶上產生扭轉應力，因為腳掌就像對抗固定膝關節的槓桿臂。次要壓力會影響踝關節韌帶與半月板軟骨。",
+    "answer_line": "旋轉造成的 ACL、MCL、LCL 損傷",
+    "distractors": {
+     "plausible": [
+      "只有踝關節與阿基里斯腱",
+      "髖屈肌與髂脛束"
+     ],
+     "trap": [
+      "只是肌肉拉傷，可以放心壓"
+     ]
+    }
+   },
+   {
+    "question": "什麼身體徵象表示你已經到達破壞臨界點、應該預期對方拍？",
+    "answer": "主要徵象是感覺到對手的腳開始自由旋轉、不再有肌肉阻力，代表他們的防守張力已經被克服。你也可能感覺到膝關節對位出現輕微鬆動，或聽到口頭反應。這個時候立刻停止增加壓力並等待拍，因為關節已達結構極限，繼續施力會造成不可逆的損傷。",
+    "answer_line": "腳自由旋轉，沒有阻力",
+    "distractors": {
+     "plausible": [
+      "他們的呼吸變快",
+      "他們的支撐垮到墊子上"
+     ],
+     "trap": [
+      "硬凹到聽見喀一聲"
+     ]
+    }
+   },
+   {
+    "question": "在施加任何旋轉壓力之前，必須先建立哪三個控制要素？",
+    "answer": "在旋轉之前，你必須有一個穩固的兩對一 heel grip、把 calcaneus（heel 骨）包在主要手中，雙腿在被纏住的腿周圍鎖成 figure-four 或三角配置並夾緊雙膝，並且對手的膝蓋要與你的胸口中線對齊。沒有全部三個要素就嘗試旋轉，會有失去姿位或以允許逃脫的角度施力的風險。",
+    "answer_line": "Heel grip、腿三角、膝蓋對齊",
+    "distractors": {
+     "plausible": [
+      "只要 heel grip 加旋轉",
+      "Triangle加髖部轉換"
+     ],
+     "trap": [
+      "抓到 heel 就立刻硬凹"
+     ]
+    }
+   },
+   {
+    "question": "在執行過程中，到了什麼階段防守者幾乎不可能逃脫？",
+    "answer": "一旦攻擊者完成髖部轉換進入 ashi garami、腿triangle死、heel 也已固定，逃脫就變得極為困難。在此之前，防守者可以伸直腿、後退，或轉動身體來清出纏繞。triangle死並正確對齊膝蓋之後，防守者的選項就只剩配合旋轉或立刻拍。",
+    "answer_line": "Triangle死，heel 已固定",
+    "distractors": {
+     "plausible": [
+      "一旦只抓住 heel 就是",
+      "髖部剛開始轉換時"
+     ],
+     "trap": [
+      "永不拍，任何階段都掙脫"
+     ]
+    }
+   },
+   {
+    "question": "你的 heel grip 在終結時開始滑動，你該做什麼調整？",
+    "answer": "立刻停止旋轉壓力，把 heel 拉得更深進你的胸口或腋下重新鞏固抓握。用你的輔助手加強控制腳或踝關節。避免只用手指更用力抓，這樣很快就會疲勞。如果抓握無法重新建立，就轉換到 ankle lock，或放開重整這次攻擊，而不是用降級的控制硬撐。",
+    "answer_line": "重新固定 heel，拉緊卡入",
+    "distractors": {
+     "plausible": [
+      "用手指抓更緊",
+      "夾緊雙膝、加快旋轉"
+     ],
+     "trap": [
+      "對滑動的抓握硬做旋轉"
+     ]
+    }
+   },
+   {
+    "question": "從 grasshopper 建立 heel grip 跟從標準 ashi garami 抓有什麼不同？",
+    "answer": "從 grasshopper 出發，抓握是在倒立狀態下最初建立的，代表你的手是從上方角度接近 heel，而不是標準的側向角度。在轉換到 ashi garami 的過程中，必須在髖部旋轉時維持抓握，這要求整個動作過程中手肘都要緊貼身體。最終的終結抓握位置是一樣的，但到達那個位置的路徑，在倒立到 ashi 的轉換階段，需要更高的抓握意識。",
+    "answer_line": "抓握是倒立式，從上方角度",
+    "distractors": {
+     "plausible": [
+      "抓握完全不同",
+      "跟標準 ashi 一樣的側向角度"
+     ],
+     "trap": [
+      "轉換時讓手肘外張"
+     ]
+    }
+   },
+   {
+    "question": "為什麼拍之後、解開腿部纏繞之前，先釋放所有旋轉壓力這麼重要？",
+    "answer": "如果扭轉姿位改變時突然釋放，儲存在扭轉姿位中的殘餘旋轉力可能造成額外的韌帶損傷。拍的那一刻膝關節可能已經在結構極限，任何在扭力仍在負載時發生的纏繞幾何突然改變，都可能在拍之後撕裂韌帶。永遠先完全釋放 heel 的旋轉，再以對手的節奏慢慢解開雙腿。",
+    "answer_line": "殘餘扭力仍會撕裂韌帶",
+    "distractors": {
+     "plausible": [
+      "能恢復腳部血液循環",
+      "讓裁判確認拍點"
+     ],
+     "trap": [
+      "一口氣把腿全部解開"
+     ]
+    }
+   },
+   {
+    "question": "在比賽中，你該如何設置這個 heel hook 以達到最大的突襲效果？",
+    "answer": "把 heel hook 接進從 grasshopper guard 發動的 sweep 攻擊鏈。先威脅 X-guard 的抬升式 sweep，逼對手防守性地支撐並拓寬他們的重心基底。這個重心調整會讓他們的前腿暴露出來，方便你穿腿進入。對手會把這視為 guard 保持或 sweep 的力學動作，而不是 submission 威脅，這爭取到寶貴的幾秒鐘，讓你在他們啟動 leg lock 防守之前就先建立初步纏繞。",
+    "answer_line": "接在 X-guard 的 sweep 威脅之後",
+    "distractors": {
+     "plausible": [
+      "不做 sweep 就直接攻 heel",
+      "從靜態 guard 慢慢設置"
+     ],
+     "trap": [
+      "沒有控制就直接撲向腿"
+     ]
+    }
+   },
+   {
+    "question": "對手開始朝你的 heel hook 扭力方向旋轉身體，你該如何回應？",
+    "answer": "如果對手隨你的扭力旋轉，他們正在抵消 submission 所需的旋轉差。跟隨他們的旋轉，調整你自己的身體角度，維持他們膝蓋與腳之間的相對扭轉關係。如果他們持續成功旋轉，就轉換到 kneebar 或換攻另一條腿，而不是對著一個正在旋轉的對手硬加更多扭力，那只會白費力氣、沒有進展。",
+    "answer_line": "跟著他們轉，保持扭轉差",
+    "distractors": {
+     "plausible": [
+      "立刻轉去攻 kneebar",
+      "調整之前先換腿"
+     ],
+     "trap": [
+      "放手去搶背後"
+     ]
+    }
+   },
+   {
+    "question": "從 grasshopper guard 發動的 heel hook 在終結階段最常見的失敗原因是什麼？",
+    "answer": "最常見的失敗是終結時夾膝不足，這讓對手能伸直腿並從纏繞中抽出。許多練習者把注意力全放在 heel grip 與旋轉力，卻忽略了防止抽腿的腿部夾鎖。沒有雙腿緊夾住被纏住的腿，即使完美的 heel grip 也會失敗，因為對手只需要伸直腿就能脫離 submission。",
+    "answer_line": "夾膝鬆散，腿被抽出",
+    "distractors": {
+     "plausible": [
+      "heel grip 力量不足",
+      "旋轉太慢"
+     ],
+     "trap": [
+      "放開雙膝重新調整角度"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識 heel hook 攻擊正從 grasshopper guard 逐步形成？",
+    "answer": "留意對手的雙手從 guard 抓握轉向伸向你的 heel 或踝關節，同時他們的腿纏繞在你的前腿上。關鍵轉換訊號是他們的髖部從倒立姿位切換到 ashi garami，可以從下半身的旋轉看出來。你越早察覺這種手部與髖部動作的轉變，你能運用的防守選項就越多。",
+    "answer_line": "手伸向 heel，髖部開始轉換",
+    "distractors": {
+     "plausible": [
+      "對手把 guard 抓得更緊",
+      "突然嘗試站起來"
+     ],
+     "trap": [
+      "等 heel grip 出現才反應"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到膝蓋上有你無法反制的旋轉壓力時，最安全的回應是什麼？",
+    "answer": "立刻用口頭與肢體訊號同時清楚地拍。大聲說拍，同時反覆用手拍打對手或墊子。不要等到感覺疼痛，因為膝韌帶損傷經常在痛感傳到大腦之前就已發生。如果你感覺到任何無法透過反向旋轉或抽腿中和的膝蓋旋轉壓力，不管比賽情境如何，立刻拍。",
+    "answer_line": "立刻大聲清楚地拍",
+    "distractors": {
+     "plausible": [
+      "踢空腿掙脫抓握",
+      "坐起來把踝關節撬開"
+     ],
+     "trap": [
+      "等到真正感覺到痛"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到 grasshopper guard 發動的初步穿腿時，你的主要防守動作是什麼？",
+    "answer": "立刻伸直被威脅的腿並向後退步，把腿移出對手的纏繞範圍。這個 boot 防守必須在對手鎖死 heel grip 之前完成，因為一旦 heel 被抓住、triangle死，你的逃脫選項會急速減少。把伸直腿的動作結合後退，以拉開與他們倒立姿位的距離。",
+    "answer_line": "伸直腿，向後退步",
+    "distractors": {
+     "plausible": [
+      "先抓住他們的腳踝",
+      "坐穿回到 guard"
+     ],
+     "trap": [
+      "爆發性猛拉抽腿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼試圖爆發性掙脫一個部分鎖住的 heel hook 很危險？",
+    "answer": "對一個已經鎖住的 heel hook 做爆發性動作會大幅加速韌帶損傷。膝蓋上的旋轉力會隨抽腿速度呈指數增加，突然的拉扯可能在你來得及感覺到痛，或攻擊者來得及放手之前就撕裂 ACL。透過反向旋轉並緩慢抽腿的可控、有條理的逃脫，遠比任何爆發性反應安全。",
+    "answer_line": "速度會放大韌帶損傷",
+    "distractors": {
+     "plausible": [
+      "只是浪費體力",
+      "會暴露你的逃脫意圖"
+     ],
+     "trap": [
+      "搶在痛感出現前掙脫"
+     ]
+    }
+   },
+   {
+    "question": "在這個 heel hook 的初期階段被卡住時，你應該朝哪個姿位努力？",
+    "answer": "努力把髖部往前推，雙腿環繞對手的軀幹，建立 closed guard，這能消除他們倒立帶來的優勢，也去掉腿部纏繞攻擊所需的角度。這會迫使他們完全放棄 heel hook 去處理 guard 姿位的改變。另一個選項是用寬廣的重心站起來，同時清掉他們的勾腿，消除以倒立為基礎的攻擊。",
+    "answer_line": "closed guard，消除倒立優勢",
+    "distractors": {
+     "plausible": [
+      "推向更深的腿部纏繞",
+      "跟著倒立以配合角度"
+     ],
+     "trap": [
+      "轉身翻滾逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Submissions/Heel Hook/from Grasshopper Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

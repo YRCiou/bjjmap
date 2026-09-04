@@ -1,0 +1,242 @@
+{
+ "_meta": {
+  "source": "content/Submissions/Americana/from Scarf Hold Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Americana from Scarf Hold 主要攻擊哪個解剖構造？",
+    "answer": "Americana 主要攻擊肩盂肱關節（肩膀），迫使其外旋超過安全活動範圍。旋轉壓力會施加在旋轉肌袖肌群（棘上肌、棘下肌、小圓肌、肩胛下肌）、肩關節囊以及唇緣上。當手臂被拉向地面時，AC 關節也會承受次要壓力。",
+    "safety_critical": false,
+    "answer_line": "肩膀（肩盂肱關節）",
+    "distractors": {
+     "plausible": [
+      "肘部過伸",
+      "腕部與前臂肌腱"
+     ],
+     "trap": [
+      "頸椎（neck crank）"
+     ]
+    }
+   },
+   {
+    "question": "當你從頭部控制轉為腕部控制時，對手開始伸直手臂——什麼樣的調整可以防止這個防禦？",
+    "answer": "立即放棄 Americana 的嘗試，轉為抓住 kimura 握法，繞過對方已伸直的手腕，攻擊相反方向的旋轉。伸直的手臂正是 kimura 的最佳設置。或者，利用你的胸口壓力，把體重壓在肘部上方，使伸直的手臂重新彎曲，再重新嘗試 figure-four。切勿用 Americana 的機制去追一隻正在伸直的手臂。",
+    "safety_critical": false,
+    "answer_line": "改抓 kimura 握法",
+    "distractors": {
+     "plausible": [
+      "硬把手腕塞進 figure-four",
+      "把頭鎖抱得更緊"
+     ],
+     "trap": [
+      "追著手臂跑，結果被翻回 guard"
+     ]
+    }
+   },
+   {
+    "question": "在 Scarf Hold 完成 Americana 終結時，正確的支點在哪裡？",
+    "answer": "被固定的肘部就是支點。在施加任何旋轉壓力之前，必須用你的近側手臂把它牢牢壓在地面上。肘部保持不動，手腕則以刷漆般的弧線朝地面移動。如果肘部沒有被牢牢固定，對手可以把手臂拉向自己身體，讓 submission 角度整個崩潰，抵銷你的槓桿優勢。",
+    "safety_critical": false,
+    "answer_line": "肘部固定於地面",
+    "distractors": {
+     "plausible": [
+      "鎖緊的腕部握法",
+      "對手的肩膀"
+     ],
+     "trap": [
+      "把肘部抬起然後被 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你已經鎖好 figure-four，但對手抓住自己的腰帶抵抗刷漆動作——你該怎麼做？",
+    "answer": "維持你的 figure-four 鎖法，並增加髖部壓力進一步孤立手臂。用前臂擠進他們手和腰帶或褲頭之間的縫隙，撬開他們的抓握。如果直接破壞抓握太困難，威脅轉打 armbar——開始把腿跨向對方頭部，迫使他們放開腰帶抓握來防禦新的威脅。等他們的抓握鬆開後再回到 Americana。",
+    "safety_critical": false,
+    "answer_line": "撬開抓握，威脅 armbar",
+    "distractors": {
+     "plausible": [
+      "更用力拉扯手腕",
+      "等抓握力氣耗盡"
+     ],
+     "trap": [
+      "放低髖部壓力去撕開抓握"
+     ]
+    }
+   },
+   {
+    "question": "相較於 mount，Scarf Hold 的垂直角度如何改變 Americana 的終結機制？",
+    "answer": "垂直角度讓你可以用整個軀幹旋轉來驅動刷漆動作，而不像 mount 那樣主要依靠手臂力量。你的體重以 90 度角透過髖部壓進對方肋骨，防止對手有效 bridge。Scarf Hold 也因為既有的頭臂控制，天然讓手腕更靠近，使抓握轉換比從 mount（必須先孤立手臂）更短、更有效率。",
+    "safety_critical": false,
+    "answer_line": "靠軀幹旋轉，非手臂力量",
+    "distractors": {
+     "plausible": [
+      "先孤立手臂再轉身",
+      "用手臂力量硬扭手腕"
+     ],
+     "trap": [
+      "坐起身以加強扭力"
+     ]
+    }
+   },
+   {
+    "question": "在你從頭部控制轉為腕部控制的過程中，對手用力做爆發性的 bridge——你該如何維持控制？",
+    "answer": "立即拓寬你的底盤，把後腿再往後伸展，同時把髖部重量壓得更低壓在對方肋骨上。用胸口壓力保持連結去承受 bridge，而不是撐開來閃躲。如果 bridge 力道強到創造出空間，放棄 Americana 嘗試，先重新建立頭部控制。只有在你已經整合好沉重的髖部壓力，並確認底盤能承受對方 bridge 之後，才重新嘗試抓握轉換。",
+    "safety_critical": false,
+    "answer_line": "拓寬底盤，壓低髖部重量",
+    "distractors": {
+     "plausible": [
+      "遠側手撐地",
+      "把頭鎖抱得更緊"
+     ],
+     "trap": [
+      "在 bridge 中追著手腕跑"
+     ]
+    }
+   },
+   {
+    "question": "在訓練中施展 Scarf Hold 的 Americana 有哪些重要的安全考量？",
+    "answer": "施力至少要緩慢漸進地花 3 到 5 秒。絕不可猛拉、突然施壓或對肩膀使用爆發性旋轉力。drilling 時最多只用 10-20% 的力。務必確保對手有清楚的手能用來拍降。任何不適的跡象都要立即停止，不必等到正式拍降。切勿在同一次訓練中反覆對同一側肩膀施展。對於已有肩傷的訓練夥伴要格外謹慎。",
+    "safety_critical": true,
+    "answer_line": "緩慢漸進施壓",
+    "distractors": {
+     "plausible": [
+      "為求真實用 60% 力量 drilling",
+      "撐到正式拍降才放"
+     ],
+     "trap": [
+      "快速扭動求速戰速決"
+     ]
+    }
+   },
+   {
+    "question": "對手拍降之後，你該如何放開 Scarf Hold 的 Americana？",
+    "answer": "立即停止對肩膀的所有旋轉壓力。放開手腕的 figure-four 握法。小心地把手臂放回中立位置，不要突然放下，因為肩膀可能已經受到壓力。放開所有對肘部的控制，讓對手可以自由活動。用言語確認夥伴狀況是否無恙。如果他們表示有任何疼痛，鼓勵他們保持肩膀活動，若疼痛持續應就醫。",
+    "safety_critical": true,
+    "answer_line": "放開握法，緩慢放下手臂",
+    "distractors": {
+     "plausible": [
+      "放下手臂立刻重新開始",
+      "先問是否無恙再放手"
+     ],
+     "trap": [
+      "拍降後再多扭一下"
+     ]
+    }
+   },
+   {
+    "question": "在施展 Americana 的過程中，到什麼程度後就代表已經沒有逃脫機會？",
+    "answer": "無法逃脫的臨界點發生在 figure-four 完全鎖緊、肘部固定在地面，且攻擊者的髖部壓力阻止任何軀幹旋轉的時候。到這個階段，被動方無法伸直手臂、抓自己的腰帶，或有效地 bridge。唯一剩下的選項就是拍降。這正是為什麼防禦者必須在 figure-four 鎖緊之前及早辨識並防禦，也是為什麼攻擊者一旦達到這個控制門檻就必須漸進施壓的原因。",
+    "safety_critical": false,
+    "answer_line": "figure-four 鎖緊、肘部固定",
+    "distractors": {
+     "plausible": [
+      "腕部握法建立時",
+      "Scarf Hold 一旦建立"
+     ],
+     "trap": [
+      "只有在肩膀發出聲響時"
+     ]
+    }
+   },
+   {
+    "question": "當 Scarf Hold 的 Americana 被部分防禦時，有哪些 submission 銜接選項？",
+    "answer": "如果對手伸直手臂，改抓 kimura 握法，攻擊相反的旋轉方向。如果他們轉身靠近你以縮小角度，改用手臂穿過他們頸部和被困手臂，銜接 arm triangle。如果他們用遠側手推你的頭，攻擊那隻手臂做 far-side armbar，或轉為 north-south 尋找其他 submission 選項。Scarf Hold 的 Americana 作為連續攻擊鏈的一環，效果遠比單一孤立攻擊更好。",
+    "safety_critical": false,
+    "answer_line": "銜接 kimura 或 arm triangle",
+    "distractors": {
+     "plausible": [
+      "加大力道直到完成",
+      "改攻近側的wrist lock"
+     ],
+     "trap": [
+      "坐起身，被撈進 guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何辨識對手正在從 Scarf Hold 設置 Americana？",
+    "answer": "主要辨識線索是對手用遠側手放開頭部控制，並將它滑向你近側的手腕。你也會感覺到髖部壓力增加，因為他們正把重量壓向你的肩膀，同時他們的近側手臂開始特別把你的肘部壓向地面。你的前臂被壓平在地面、手掌朝上的觸覺，確認了 Americana 的設置正在進行中。",
+    "safety_critical": false,
+    "answer_line": "遠側手滑向你的手腕",
+    "distractors": {
+     "plausible": [
+      "cross-face 壓力增加",
+      "他們的小腿滑過你的髖部"
+     ],
+     "trap": [
+      "等到 figure-four 鎖緊再反應"
+     ]
+    }
+   },
+   {
+    "question": "拍降 Scarf Hold 的 Americana 以避免受傷，最安全的方式是什麼？",
+    "answer": "在感覺到肩膀劇痛之前就要早且清楚地拍降。用空出的手在對手身上或地面上至少拍打兩下，力道要清晰。如果空出的手被卡住，用腳拍地或大聲說出「拍」。不要試圖硬撐、忍受肩膀的壓力——Americana 施加的力量作用在旋轉肌袖和唇緣上，可能毫無預警就撕裂。當你感覺肩膀達到舒適活動範圍的極限時，就要立刻拍降。",
+    "safety_critical": true,
+    "answer_line": "肩膀痛前就早點拍",
+    "distractors": {
+     "plausible": [
+      "等痛了再快速示意",
+      "在自己腿上輕拍一下"
+     ],
+     "trap": [
+      "硬撐，忍受壓力"
+     ]
+    }
+   },
+   {
+    "question": "當 figure-four 鎖法部分鎖上時，有哪些防禦選項可用？",
+    "answer": "如果 figure-four 只是部分鎖上而非完全鎖緊，積極把肘部拉緊貼向肋骨並旋轉前臂，破壞對手的手部位置，藉此撬開鎖法。同時做 bridge 破壞對方底盤，創造足夠的動作來鬆脫尚未完成的鎖法。如果鎖法幾乎完成，優先在最後連結完成之前把手臂伸直，因為伸直的手臂無法有效地被 Americana 機制攻擊。",
+    "safety_critical": false,
+    "answer_line": "撬開鎖法，把肘部拉向肋骨",
+    "distractors": {
+     "plausible": [
+      "向上臥推對方胸口",
+      "踢腿製造動能"
+     ],
+     "trap": [
+      "朝鎖法方向翻滾靠近"
+     ]
+    }
+   },
+   {
+    "question": "對手已固定你的肘部並開始刷漆動作——你最後可行的防禦是什麼？",
+    "answer": "到了這個晚期階段，你的選項非常有限。用最大力氣抓住自己的大腿、腰帶或褲頭，錨定手腕以抵抗刷漆動作。同時朝攻擊者方向做 bridge 破壞他們的旋轉角度。如果無法阻止進展，立刻拍降，不要冒肩傷風險。一旦肘部固定、刷漆動作開始，這個 submission 在機械上已經穩固，硬撐可能導致嚴重的旋轉肌袖或唇緣損傷。",
+    "safety_critical": true,
+    "answer_line": "把手腕錨定在腰帶或大腿",
+    "distractors": {
+     "plausible": [
+      "朝攻擊者反方向 bridge",
+      "踢腿製造動能"
+     ],
+     "trap": [
+      "硬撐尋找逃脫機會"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該優先選擇拍降，而不是繼續嘗試逃脫 Americana？",
+    "answer": "如果你感覺肩關節劇痛、手臂被旋轉超出舒適範圍且無法阻止進展、figure-four 已完全鎖緊而你沒有任何抓握錨點可用，或是感覺到肩膀有喀啦聲或彈響感，就要立即拍降。訓練時，寧可提早拍降。肩傷可能讓你數個月無法訓練。沒有任何一次訓練值得用旋轉肌袖撕裂或肩關節脫位去交換。",
+    "safety_critical": true,
+    "answer_line": "劇痛或完全鎖緊時就拍",
+    "distractors": {
+     "plausible": [
+      "只有在逃脫失敗兩次後",
+      "空出的手發麻時"
+     ],
+     "trap": [
+      "撐住證明自己能承受"
+     ]
+    }
+   }
+  ]
+ }
+}
