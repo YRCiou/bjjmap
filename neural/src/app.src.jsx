@@ -2700,14 +2700,35 @@ class Component extends DCLogic {
     // whole index: qhash(question) -> deck INDEXES into its own ordered deck list. Only
     // questions carried by 2+ decks are listed (451 of 21,334 — 10.6KB raw / 4.3KB gzip), which
     // is why it can be eager.
-    // Which decks have a Traditional Chinese chunk. Shipped as INDEXES into this file's own deck
-    // order, the same scheme `shared` uses, so adding it costs ~4 bytes per translated deck
-    // rather than a full key. Absent on an older manifest, which simply means "no translations".
+    // Which decks have a Traditional Chinese chunk: a base64 BITMAP, one bit per deck in this
+    // file's own key order, LSB-first inside each byte (manifest format 5).
+    //
+    // It was an index array in format 4 and had to change: the manifest is the one deck file
+    // every visitor fetches, so it is on the EAGER payload budget, and an index array grows with
+    // the translation — 385 decks cost 794 gzip bytes and a finished corpus would have cost
+    // 6,325, breaking the budget on its own. The bitmap is 366 bytes at any coverage and gzips
+    // to 203 today, 26 when every bit is set.
+    //
+    // Decoded ONCE here into the per-deck flag the rest of the app already reads, rather than
+    // bit-testing on every _cardsOf call: the set can only change when a new manifest lands, so
+    // this is the only moment it can be wrong.
     {
-      const keys = Object.keys(decks);
-      for (const i of (j && j.zh) || []) {
-        const k = keys[i];
-        if (k && decks[k]) decks[k].zh = 1;
+      const keys = Object.keys(decks);   // JSON object order == the manifest's emitted order
+      const b64 = (j && typeof j.zh === "string") ? j.zh : "";
+      if (b64) {
+        try {
+          const bin = atob(b64);
+          for (let i = 0; i < keys.length; i++) {
+            const byte = bin.charCodeAt(i >> 3);
+            if (byte && (byte >> (i & 7)) & 1) {
+              const k = keys[i];
+              if (k && decks[k]) decks[k].zh = 1;
+            }
+          }
+        } catch (e) {
+          // a malformed bitmap must not cost anyone their decks: every deck simply reads English
+          console.warn("[neural] zh bitmap unreadable:", e);
+        }
       }
     }
     this._sharedQ = null;
