@@ -1,0 +1,161 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge and Turn to Turtle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Bridge and Turn to Turtle 的主要目標是什麼？",
+    "answer": "主要目標是逃離令人窒息的 North-South 控制，轉換成防禦性的 turtle 姿勢。雖然 turtle 本身不是有利的位置，但它比被壓制在 North-South 底下擁有多得多的逃脫選項與呼吸空間。這個技巧的優先考量是在轉換過程中創造空間並保護背部。",
+    "answer_line": "轉換成 turtle 以取得空間",
+    "distractors": {
+     "plausible": ["直接 bridge 掃倒對手", "拚命逃脫到 guard"],
+     "trap": ["保持平躺，硬扛壓力"]
+    }
+   },
+   {
+    "question": "為什麼要以 45 度角 bridge，而不是直直往上頂？",
+    "answer": "直直往上頂會讓對手很容易順著你的 bridge 移動——他們只需要跟著你的動作走，等你落下時重新壓制。朝對手遠側膝蓋方向的 45 度角能製造旋轉性的破勢力量，打亂他們的重心分佈，並創造出啟動翻轉所需的空間。這個角度把單純的抬升轉變成對他們基礎的破壞。",
+    "answer_line": "朝遠側膝蓋角度，破壞重心",
+    "distractors": {
+     "plausible": ["直直往上 bridge 求高度", "朝對手近側膝蓋角度"],
+     "trap": ["朝反方向 bridge 遠離對手"]
+    }
+   },
+   {
+    "question": "對手開始伸手抓你近側手臂準備 kimura——這如何影響你的逃脫時機？",
+    "answer": "這創造了絕佳的逃脫時機窗口。當他們伸手抓 grip 時，他們的重心會暫時離開你的胸口，注意力也會集中在固定手臂而非維持壓力上。要在他們開始伸手、尚未完成 grip 之前立刻執行 bridge。他們對降伏技的投入會讓自己在被你的 bridge 破勢時變得脆弱。",
+    "answer_line": "趁對手伸手抓 grip 時 bridge",
+    "distractors": {
+     "plausible": ["等到 grip 完全固定再動作", "在對手還沒動作前就 bridge"],
+     "trap": ["先試著剝開對手的 grip"]
+    }
+   },
+   {
+    "question": "為什麼轉向對手而不是轉離對手，這點為何關鍵？",
+    "answer": "轉離對手會讓你的背完全暴露，讓他們輕易插入 hook 並建立背後控制——這個位置比 North-South 更糟。轉向對手能靠近距離保護背部；即使他們跟著你轉，最後也只會落在你側邊而不是正後方。這能讓你建立起可以防守、也能逃脫的防禦性 turtle。",
+    "answer_line": "轉向對手，保護背部",
+    "distractors": {
+     "plausible": ["轉離對手以取得更多空間", "轉向對手後又攤平"],
+     "trap": ["轉離對手面朝地墊"]
+    }
+   },
+   {
+    "question": "如果對手成功跟上你的轉身，正在建立背後控制，你該怎麼做？",
+    "answer": "不要停在 turtle 讓對手插入 hook 固定。要持續動作，可以選擇：繼續轉向對手以面對他們並奪回 guard、立即坐穿建立 seated guard，或是在對手固定位置前先站起來。最糟的結果就是停在靜止的 turtle 裡，讓對手有條不紊地用 hook 建立背後控制。",
+    "answer_line": "持續移動，別停在 turtle",
+    "distractors": {
+     "plausible": ["定住 turtle，建立 frame", "轉向面對後就停滯"],
+     "trap": ["靜止不動，讓對手插 hook"]
+    }
+   },
+   {
+    "question": "不靠手臂的情況下，如何為 bridge 產生力量？",
+    "answer": "所有力量都來自透過雙腿的髖部伸展。雙腳平踩，腳跟貼近臀部，接著透過腳跟發力，將髖部向天花板方向伸展。手臂則貼緊身體以防止被單獨鎖定——它們只在後續的轉身時提供輔助，並不參與 bridge 本身的發力。試圖用伸直的手臂把對手推開只會浪費力氣，還會讓手臂暴露在降伏技的風險中。",
+    "answer_line": "透過腳跟發力，伸展髖部",
+    "distractors": {
+     "plausible": ["用伸直的手臂推開對手", "用腳趾發力，拱背"],
+     "trap": ["用手臂拉扯對手"]
+    }
+   },
+   {
+    "question": "當你開始 bridge 時，對手放低重心並加寬 base，正確的應對方式是什麼？",
+    "answer": "立刻中止這次逃脫嘗試。繼續對抗他們已經穩定、加寬的 base，只會浪費你的力氣，還可能讓手臂暴露在降伏技風險中。回到防禦性 frame，控制呼吸，等待更好的時機窗口。耐心是關鍵——硬拚對抗已經穩固的重心是輸家的策略。",
+    "answer_line": "中止動作，回到 frame",
+    "distractors": {
+     "plausible": ["加大力道 bridge 破壞 base", "改用 hip escape"],
+     "trap": ["硬闖過去繼續 bridge"]
+    }
+   },
+   {
+    "question": "你應該尋找哪些關鍵指標來判斷最佳時機窗口？",
+    "answer": "關鍵指標包括：對手伸手準備降伏技 grip（尤其是 kimura 或 armbar 的準備動作）、開始轉換往 mount 或 side control、調整膝蓋位置或 base、微微抬起胸口查看你的手臂，或是移動髖部準備勒頸。任何重心的重新分配都會創造出壓力減輕的瞬間，是你的 bridge 可以有效利用的機會。",
+    "answer_line": "任何重心轉移或伸手抓 grip",
+    "distractors": {
+     "plausible": ["只有在 mount 固定後", "只有在降伏技即將完成時"],
+     "trap": ["等對手完全放鬆"]
+    }
+   },
+   {
+    "question": "完成轉身進入 turtle 後，你的首要任務是什麼？",
+    "answer": "立刻建立防禦性的 turtle 外殼：把髖部壓低貼近地墊、下巴緊緊內收保護頸部不被勒住、雙手護住衣領位置，並讓手肘收在膝蓋內側形成緊密的形狀。速度是關鍵——對手會試圖用 hook 建立背後控制，或設置 front headlock。穩固的防禦外殼能爭取時間讓你規劃下一步逃脫。",
+    "answer_line": "建立緊密的防禦外殼",
+    "distractors": {
+     "plausible": ["永遠立刻站起來", "伸手去抓對手的腿"],
+     "trap": ["攤平身體，只護住臉部"]
+    }
+   },
+   {
+    "question": "如果一開始的嘗試被擋下，這個逃脫技巧要如何串接其他技術？",
+    "answer": "如果 bridge-and-turn 被擋下，你還有幾個串接選項：趁對手重新調整重心時試著 hip escape 到 half guard、利用任何創造出的空間嘗試 Granby roll 變化、等待對手下一次降伏技嘗試以創造新的時機窗口，或者如果他們轉換到 mount，就接受這個位置並開始執行 mount 逃脫。關鍵在於認知到，被擋下的逃脫嘗試往往會創造新的機會，因為對手必須重新整理他們的位置。",
+    "answer_line": "Hip escape、Granby 或等待",
+    "distractors": {
+     "plausible": ["硬拚同樣的 bridge", "放棄背部，重置位置"],
+     "trap": ["轉身暴露背部"]
+    }
+   },
+   {
+    "question": "在 bridge 階段應該維持什麼樣的 grip 配置？",
+    "answer": "手肘緊貼肋骨，前臂擺出防禦性 frame 抵住對手的胸口或肩膀。不要抓住對手的 gi 或身體——你的雙手應該保持自由，等 bridge 創造出空間後協助轉身。在 bridge 階段抓住對手會把你固定在他們身上，降低破勢的效果。你的手臂在 bridge 階段扮演保護屏障的角色，在轉身階段則變成旋轉的驅動力。",
+    "answer_line": "手肘緊貼，雙手自由，不抓 grip",
+    "distractors": {
+     "plausible": ["抓住對手的 gi 來固定轉身", "提早 underhook 對手遠側手臂"],
+     "trap": ["抓住對手的頭來控制"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 North-South 阻止 bridge-and-turn 逃脫最可靠的方法是什麼？",
+    "answer": "最可靠的預防方式結合三個要素：以沉重的胸口壓力分散壓在對手上半身，限制他們的呼吸與 bridge 力量；控制至少一隻手臂，消除轉身所需的旋轉輔助；並保持寬闊的 base、放低髖部，以吸收角度化的 bridge 力量而不被移位。只要否定三個前提條件中的任何一個（腳踩穩、手臂自由、重心轉移），就能大幅降低逃脫成功率。",
+    "answer_line": "壓力、控制手臂、寬闊 base",
+    "distractors": {
+     "plausible": ["只控制腿，忽略手臂", "坐後、髖部抬高放鬆"],
+     "trap": ["在轉換過程中追求降伏技"]
+    }
+   },
+   {
+    "question": "你感覺到對手雙腳踩穩並開始繃緊髖部——你該怎麼做？",
+    "answer": "立即將雙腿向外展開、加寬 base，並放低髖部，同時把胸口壓力往前下方推進。這樣能對即將到來的 bridge 創造最大的穩定性。同時加強手臂控制，防止旋轉性的轉身。如果你原本在設置降伏技，放棄它並優先確保 base 的穩定。目標是讓 bridge 在產生動能之前就失敗，迫使對手在徒勞的嘗試上浪費力氣。",
+    "answer_line": "加寬 base，放低髖部，壓胸口",
+    "distractors": {
+     "plausible": ["站起來重整姿勢", "堅持降伏技，忽略 base"],
+     "trap": ["放鬆壓力，靜觀其變"]
+    }
+   },
+   {
+    "question": "對手的 bridge 成功了，正在轉身中——你應該試著重新建立 North-South，還是跟進到背後控制？",
+    "answer": "立刻跟進到背後控制。一旦轉身已經開始並且逐漸成功，硬拚重新建立 North-South 是低機率的做法，還會浪費掉取得更優勢位置的機會窗口。趁對手轉向四足跪姿時，固定 seatbelt grip 並在他們收緊 turtle 外殼之前插入近側 hook。背後控制連 hook 值 4 分，且降伏機率比 North-South 更高，這會讓對手的逃脫嘗試適得其反。",
+    "answer_line": "跟進到背後控制",
+    "distractors": {
+     "plausible": ["硬拚回到 North-South", "讓對手完全站起來"],
+     "trap": ["改追求腿鎖"]
+    }
+   },
+   {
+    "question": "你自己從 North-South 發動的降伏技嘗試，如何造成對 bridge-and-turn 的脆弱性？",
+    "answer": "每一次降伏技嘗試都需要重心的重新分配與手臂的移動，這正是對手所需要的時機窗口。伸手準備 kimura 會讓你的重心偏向一側，抬起胸口設置 North-South 勒頸會降低壓制的壓力，而為任何攻擊調整手臂都會暫時讓對手的手臂獲得自由。關鍵在於認知到，你必須要嘛快速全力投入降伏技，要嘛在每次嘗試之間重新鞏固你的 base，而不是讓自己停留在不穩定的過渡性重心分佈中。",
+    "answer_line": "攻擊會轉移重心，打開窗口",
+    "distractors": {
+     "plausible": ["降伏技從不冒險你的 base", "只有手臂攻擊才有風險"],
+     "trap": ["緩慢且受控地投入"]
+    }
+   },
+   {
+    "question": "當對手轉向 turtle 時，成功跟進到背後控制與失敗的跟進，差別在哪裡？",
+    "answer": "關鍵因素是建立上半身控制的速度。成功的跟進會在對手轉身的同時立即固定 seatbelt grip，在整個轉換過程中維持胸貼背的接觸，並在對手把手肘收到膝蓋內形成防禦外殼之前插入近側 hook。失敗的跟進通常在轉換過程中胸口接觸出現空隙，讓對手能建立緊密的 turtle，抵抗 hook 的插入。seatbelt 必須在轉身過程中建立，而不是等對手到達四足跪姿之後。",
+    "answer_line": "轉身過程中固定 seatbelt",
+    "distractors": {
+     "plausible": ["對手安定後才抓 seatbelt", "seatbelt 前先插 hook"],
+     "trap": ["等對手到達四足跪姿"]
+    }
+   }
+  ]
+ }
+}

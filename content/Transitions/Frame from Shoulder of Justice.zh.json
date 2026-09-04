@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Frame from Shoulder of Justice.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Frame from Shoulder of Justice 在目標上和 Frame Escape from Shoulder of Justice 有什麼不同？",
+        "answer": "Frame from Shoulder of Justice 的目標，是藉由打亂 45 度肩部壓力角度，把位置降級成標準的 side control 下位，讓你能使用完整範圍的 side control 逃脫技術。而 Frame Escape from Shoulder of Justice 則以完整恢復 half guard 為目標。這個技術只是一個部分改善，作為多階段逃脫連鎖中的第一步，而不是一個獨立完整的逃脫技術。",
+        "answer_line": "降級成標準 side control",
+        "distractors": {
+          "plausible": [
+            "跟另一個一樣，完整恢復 guard",
+            "同一個技術，只是名稱不同"
+          ],
+          "trap": [
+            "直接跳到 half guard"
+          ]
+        }
+      },
+      {
+        "question": "為什麼前臂 frame 應該對準對手的肩部接合處，而不是胸口？",
+        "answer": "三角肌與斜方肌交會的肩部接合處，是一個狹窄的骨性接觸點，前臂楔子只需很小的力量就能重新導引肩部壓力的方向。胸口則提供一個寬大的平面，會吸收並分散 frame 的壓力，卻無法打亂肩部角度。瞄準這個接合處，能對 Shoulder of Justice 特有的壓力對齊方式造成最大的機械性破壞。",
+        "answer_line": "骨性接合處能重新導引壓力",
+        "distractors": {
+          "plausible": [
+            "胸口能提供更大的槓桿",
+            "兩個位置效果一樣好"
+          ],
+          "trap": [
+            "改推對方的頸部"
+          ]
+        }
+      },
+      {
+        "question": "對手用更沉重的體重透過肩膀壓垮你的 frame，正確的反應是什麼？",
+        "answer": "透過骨骼對齊維持 frame，而不是升級成用肌肉硬撐。如果 frame 完全被壓垮，就把手臂收緊貼向肋骨，等待下一次微小的調整時機再重新插入楔子。不要因為壓力加大就進一步伸展手臂，因為那正是這股壓力想誘發、讓你暴露在 kimura 之下的反應。",
+        "answer_line": "把手臂收緊貼向肋骨",
+        "distractors": {
+          "plausible": [
+            "更用力推回去搶回 frame",
+            "換另一隻手臂做 frame"
+          ],
+          "trap": [
+            "進一步伸展手臂撐住"
+          ]
+        }
+      },
+      {
+        "question": "這個技術需要的最佳 hip escape 幅度是多少，為什麼幅度太大反而適得其反？",
+        "answer": "只需要大約五到十公分的 hip escape，就能強化 frame 對肩部壓力角度的打亂效果。幅度太大的 hip escape 會創造出可觀的空間，讓對手趁你還沒建立起 knee shield 之前推進到 mount，而這並不是這個技術的目標。小幅度的 hip escape 只改變角度，不會製造出邀請對方進入 mount 的空間。",
+        "answer_line": "小幅度五到十公分的 hip escape",
+        "distractors": {
+          "plausible": [
+            "做大幅 hip escape 逃到 guard",
+            "完整 hip escape 到 knee shield"
+          ],
+          "trap": [
+            "現在就做大幅爆發式 hip escape"
+          ]
+        }
+      },
+      {
+        "question": "如何確認 Shoulder of Justice 已經成功降級成標準的 side control？",
+        "answer": "下巴不再受到集中於 45 度角的肩胛骨直接攻擊。對手的壓力感覺是分散在你的胸口，而不是集中在下巴的某個單點上。他們的肩膀可能依然沉重，但已經失去了對準你顳顎關節那種特定的對齊方式，也就是造成 Shoulder of Justice 那種強烈不適感和兩難局面的關鍵。",
+        "answer_line": "壓力從下巴分散開來",
+        "distractors": {
+          "plausible": [
+            "對手的體重感覺變輕了",
+            "他們完全放開了肩部壓力"
+          ],
+          "trap": [
+            "你完全感覺不到壓力"
+          ]
+        }
+      },
+      {
+        "question": "插入 frame 時你的前臂稍微分開，對手趁機抓握 kimura——你必須以多快的速度反應？",
+        "answer": "你必須在一到兩秒內把手臂收回肋骨，搶在對手鎖住你手腕的雙手握法之前。因為對手必須先放開他們的壓力底座才能伸手去抓握，所以只要你反應夠快，這個 kimura 空檔其實很短暫。立刻把手肘貼緊肋骨，並抓住自己的短褲或腰帶。放棄一次 frame 的嘗試，遠比在這個位置被 kimura 鎖住手臂划算得多。",
+        "answer_line": "一到兩秒內收回手臂",
+        "distractors": {
+          "plausible": [
+            "大約五秒內反應就好",
+            "等握法完成後再把手拉回"
+          ],
+          "trap": [
+            "維持 frame，硬撐對抗握法"
+          ]
+        }
+      },
+      {
+        "question": "成功把位置降級成標準 side control 之後，接下來該做什麼、為什麼？",
+        "answer": "立刻開始準備你偏好的 side control 逃脫技術，例如 elbow escape、hip escape 到 guard，或 ghost escape。這個 frame 技術已經把一個極度困難的逃脫局面轉化成一個標準情境，但你仍然處於 side control 下位，這依然是一個不利的位置。不要停下來休息或慶祝這個改善，因為對手接下來要嘛重新建立 Shoulder of Justice，要嘛從標準 side control 開始進攻。",
+        "answer_line": "立刻開始你的 side control 逃脫",
+        "distractors": {
+          "plausible": [
+            "先停下來恢復體力",
+            "重設並重新做肩部 frame"
+          ],
+          "trap": [
+            "放鬆，你已經擊敗這個壓力"
+          ]
+        }
+      },
+      {
+        "question": "為什麼透過尺骨的骨骼對齊，比用肌肉硬推更能有效維持 frame？",
+        "answer": "骨骼對齊建立起一個結構性屏障，讓負荷透過骨頭傳遞，而不是靠肌肉收縮承擔。骨頭可以長時間承受壓縮力而不疲勞，肌肉卻在持續的等長收縮下很快就會疲乏。以尺骨對骨接觸建立的 frame，能在不消耗體力的情況下維持所需要的時間，而用肌肉硬推，前臂在 Shoulder of Justice 的沉重壓力下幾秒鐘內就會力竭。",
+        "answer_line": "骨頭能承重不疲勞",
+        "distractors": {
+          "plausible": [
+            "肌肉能爆發出更強的短暫力量",
+            "兩種方式的疲勞速度一樣"
+          ],
+          "trap": [
+            "用前臂肌肉更用力推"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "下位者正在試圖對你的肩部接合處做 frame，最早能感覺到的觸覺線索是什麼？",
+        "answer": "最早的線索是感覺到下位者的近側前臂從平貼狀態旋轉成一個帶角度的楔形接觸，正壓在你的肩部接合處。這種旋轉會產生一種骨稜狀的接觸感，跟一隻被動貼在你身上的手臂明顯不同。這個旋轉動作發生在任何重量位移之前，是搶在 frame 完成骨骼對齊之前將其壓垮的最佳時機。",
+        "answer_line": "前臂旋轉成楔形",
+        "distractors": {
+          "plausible": [
+            "對手的髖部先移動",
+            "他們的體重突然增加"
+          ],
+          "trap": [
+            "等完整的 frame 成形再反應"
+          ]
+        }
+      },
+      {
+        "question": "為什麼維持髖對髖的連結，比單純加大肩部壓力更能有效防止這個 frame 技術？",
+        "answer": "這個 frame 技術只需要大約五到十公分的 hip escape 就能強化角度的破壞效果。髖部的連結會直接從物理上阻擋這個動作，不管對手的 frame 品質有多好。如果只加大肩部壓力而不維持髖部連結，反而可能幫了下位者，因為這會造成一個向前傾的重量投入，讓 frame 有機可趁重新導引方向。緊密連結的髖部能阻止那個讓 frame 變得永久有效的強化性 hip escape。",
+        "answer_line": "髖部連結能擋住 frame",
+        "distractors": {
+          "plausible": [
+            "單純加重肩部壓力就夠了",
+            "把雙腿撐開加寬底座"
+          ],
+          "trap": [
+            "更用力推肩部壓力"
+          ]
+        }
+      },
+      {
+        "question": "下位者已經部分建立起 frame，你的肩部角度被打亂了——你應該重新建立 Shoulder of Justice，還是直接推進到 mount？",
+        "answer": "推進到 mount。一旦肩部角度被打亂，要重新建立精確的 45 度對齊，就必須重新調整你的整個位置，這會造成延長的重量轉移空檔，讓下位者有機可趁進一步逃脫。推進到 mount 能利用當下的位置狀態，並徹底消除 frame 的問題，因為在 mount 這個位置，肩部壓力已經不再是主要的控制機制。",
+        "answer_line": "推進到 mount",
+        "distractors": {
+          "plausible": [
+            "重新建立 Shoulder of Justice",
+            "後退並重設底座"
+          ],
+          "trap": [
+            "硬把肩部角度扳回去"
+          ]
+        }
+      },
+      {
+        "question": "你要如何分辨一個讓手臂暴露在 kimura 之下的 frame 嘗試，和一個防護得當的 frame 嘗試？",
+        "answer": "防護得當的 frame，手肘會一直貼緊肋骨，前臂只是在原地旋轉，手肘和軀幹之間不會出現明顯空隙。容易被 kimura 攻擊的 frame，則會看到手肘和肋骨之間有明顯的分離，前臂向外伸展超出身體中線。只有在看到這種分離時才進攻 kimura，因為對一隻防護得當的手臂出手，只是浪費機會、削弱你自己的壓力控制。",
+        "answer_line": "手肘持續貼緊肋骨",
+        "distractors": {
+          "plausible": [
+            "前臂的角度決定一切",
+            "握力強弱決定安全與否"
+          ],
+          "trap": [
+            "只要對方在做 frame 就攻擊 kimura"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Buggy Choke to North-South.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Buggy Choke 陷入僵局、你該轉換到 North-South 的主要徵兆有哪些？",
+    "answer": "主要的僵局徵兆包括：對手成功把你的衣領抓握限制在很淺的深度超過五秒、他們維持下巴內收讓勒頸壓力無法推進、呼吸依然平穩而不是急促，或是他們開始系統性地剝除你的抓握、逐漸削弱你的控制。當這些徵兆同時出現時，這個 choke 很難完成，繼續下去只會浪費原本可以用來推進位置的體力。",
+    "answer_line": "抓握卡住、下巴內收、呼吸平穩",
+    "distractors": {
+     "plausible": [
+      "對手抓到更深的衣領抓握",
+      "對手因壓力提早 tap"
+     ],
+     "trap": [
+      "呼吸急促，繼續勒頸"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在朝 North-South 走髖的過程中，維持胸口持續貼合對手身體如此關鍵？",
+    "answer": "持續的胸口接觸，在整個轉換過程中同時扮演控制機制與壓平力量的角色。如果你的胸口離開對手身體，就會出現壓力空檔，讓他們有機會回收 turtle 姿勢、坐起來準備 guard、做 granby roll 拉開距離，或製造混戰。你的胸口沿著他們的肩胛骨滑動，維持住讓對方無法做出這些防禦反應的下壓力量，同時逐步完成朝垂直對位的轉換。",
+    "answer_line": "胸口不離身，貼緊不放",
+    "distractors": {
+     "plausible": [
+      "撐地手放下，抬起胸口",
+      "抓住腰帶，讓胸口浮起"
+     ],
+     "trap": [
+      "抬起胸口確認位置"
+     ]
+    }
+   },
+   {
+    "question": "就在你放開 Buggy Choke 抓握的同時，對手開始坐起來準備 guard——你該如何調整？",
+    "answer": "立刻放棄 North-South 的轉換，改為利用他們坐起的動作，勾住他們近側的腿，順勢跟下去建立 back control。他們坐起時髖部的暴露，正好是插入 hooks 的最佳時機。如果無法拿到背後控制，就再次用肩膀壓力把他們壓平，重新做 Buggy Choke，或轉為 side control，而不是硬要對一個已經半坐起的對手強行做 North-South。",
+    "answer_line": "勾住近側腿，拿背後控制",
+    "distractors": {
+     "plausible": [
+      "硬做 North-South",
+      "立刻重新抓衣領"
+     ],
+     "trap": [
+      "改撲向 leg lock"
+     ]
+    }
+   },
+   {
+    "question": "從 Buggy Choke 轉換到 North-South 過程中，最關鍵的抓握變化是什麼？",
+    "answer": "最關鍵的時刻是放開勒頸的衣領抓握，並立刻把雙手改抓對手的肩膀控制。這個抓握變化必須在一個流暢的動作中完成，放開舊抓握與建立新控制點之間絕不能有任何停頓。原本穿插的手臂應該改抓近側的 underhook 或肩膀控制，另一隻手則控制遠側肩膀。這些動作之間只要有延遲，就會出現一個空檔，讓對手既不受勒頸壓力、也不受肩膀控制限制。",
+    "answer_line": "放抓握，快速抓住肩膀",
+    "distractors": {
+     "plausible": [
+      "保持衣領抓握，再加 underhook",
+      "先改抓手臂控制"
+     ],
+     "trap": [
+      "抓握轉換之間停頓一下"
+     ]
+    }
+   },
+   {
+    "question": "把對手從 turtle 壓平成 prone，對建立 North-South 有什麼幫助？",
+    "answer": "一個被壓平的對手，逃脫選項比維持 turtle 姿勢的對手少得多。在 turtle 中，對手可以坐起準備 guard、做 granby roll、站起來，或重新架好防禦性的 frame。一旦被壓平成 prone，他們就失去所有靠髖部發動的逃脫動作，只能在你的胸口壓力直接壓迫他們肋骨的位置下掙扎。壓平的過程也自然而然讓他們的身體對準了 North-South 所需要的垂直角度，讓最後的定位更容易完成。",
+    "answer_line": "壓平成 prone，封死髖部逃脫",
+    "distractors": {
+     "plausible": [
+      "讓他們維持 turtle，加大壓力",
+      "等他們自己站起來"
+     ],
+     "trap": [
+      "讓髖部保持自由，只控制手臂"
+     ]
+    }
+   },
+   {
+    "question": "一到達 North-South 位置，你該優先建立什麼樣的手臂控制？",
+    "answer": "第一優先是防止對手雙手在你的胸口前架起 frame。一完成轉動，就立刻用 underhook 或 overhook 至少控制住一隻手臂。第二優先是控制近側手臂，防止對方靠 frame 逃脫。如果你抵達時對手雙手都是自由並正在架 frame，就用肩膀重量壓垮其中一個 frame，另一隻手控制另一個。絕對不要在還沒處理對手手臂位置之前，就先安於靜態的 North-South 壓力。",
+    "answer_line": "先封死雙手 frame",
+    "distractors": {
+     "plausible": [
+      "先控制腿再控制手臂",
+      "先安頓壓力，手臂之後再說"
+     ],
+     "trap": [
+      "讓手臂自由，只鎖定頸部"
+     ]
+    }
+   },
+   {
+    "question": "當你正在朝對手頭部方向走髖時，對手嘗試做 granby roll——你該如何應對？",
+    "answer": "讓你的頭部保持沉重，持續貼緊對手身體，當作抵抗 granby roll 旋轉動能的錨點。把髖部往下壓，增加對抗他們翻滾的下壓力量。如果 granby 已經開始，就用你的髖部跟著他們的翻滾走，並趁他們旋轉時插入一個 hook，尋求轉為 truck 的切入。如果無法跟上翻滾，就立刻做 sprawl，阻止他們完成轉向 guard 的旋轉，並從胸貼背的位置重新接觸。",
+    "answer_line": "頭部沉重，跟著滾動打 truck",
+    "distractors": {
+     "plausible": [
+      "放開抓握重置位置",
+      "追腿放棄頭部控制"
+     ],
+     "trap": [
+      "放輕頭部，追他們的髖部"
+     ]
+    }
+   },
+   {
+    "question": "從陷入僵局的 Buggy Choke，什麼時候該選擇轉換成 North-South、什麼時候該選 side control？",
+    "answer": "當對手已經部分被壓平、你的髖部可以順利越過他們的頭部時，選擇 North-South；如果你想切入 North-South 專屬的 submission，像是 north-south choke 或 kimura，也適合選這個。當對手維持強力的 turtle 姿勢、抵抗壓平時，或是你需要保留背後暴露以爭取 back take，或對手的手臂位置讓 side control 的手臂攻擊更容易取得時，就選 side control。North-South 需要更完整的壓平才有效，而 side control 則能對付那些仍保有一些 turtle 結構的對手。",
+    "answer_line": "壓平選 NS，仍縮 turtle 選 side",
+    "distractors": {
+     "plausible": [
+      "永遠以 North-South 收尾",
+      "永遠預設選 side control"
+     ],
+     "trap": [
+      "對緊縮的 turtle 硬推 NS"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你察覺對手正從 Buggy Choke 轉換到 North-South 的主要辨識訊號是什麼？",
+    "answer": "最可靠的訊號，是勒頸壓力突然放鬆或明顯減少，同時感覺到攻擊者的手從衣領或頸部抓握轉為肩膀控制。這個抓握轉變代表攻擊者已經放棄 submission，正在轉換成位置上的推進。你也可能感覺到他們的髖部開始朝側邊、繞著你的頭部移動，而不是繼續沉重地壓在你近側的髖部上。",
+    "answer_line": "勒頸壓力下降，抓握改變",
+    "distractors": {
+     "plausible": [
+      "抓握在頸部上更加收緊",
+      "雙腿勾得更緊"
+     ],
+     "trap": [
+      "忽略它，繼續防守 choke"
+     ]
+    }
+   },
+   {
+    "question": "為什麼抓握放開的那一刻，是你在這個轉換過程中最好的逃脫機會？",
+    "answer": "抓握放開會製造出一個短暫的空檔，這時攻擊者既沒有原本的勒頸控制，新的位置控制也還沒完全建立。在這個空檔中，因為他們的雙手正處於控制點之間的轉換階段，能阻止你逃脫動作的能力會降低。一旦他們建立起肩膀控制、開始用胸口壓力走髖，你的逃脫選項就會迅速減少。在抓握放開後的一到兩秒內採取行動，能把你防禦成功的機率最大化。",
+    "answer_line": "動作要快，抓握正在轉換",
+    "distractors": {
+     "plausible": [
+      "等肩膀控制建立後再說",
+      "只在髖部完全走完後才逃"
+     ],
+     "trap": [
+      "靜止不動，保留體力"
+     ]
+    }
+   },
+   {
+    "question": "對手已經放開 Buggy Choke 抓握，髖部也開始繞著你的頭部走——你成功率最高的防禦反應是什麼？",
+    "answer": "成功率最高的反應，是在他們完成垂直對位之前，立刻坐起準備 half guard，或轉身面向攻擊者。坐起準備 guard 之所以有效，是因為抓握放開減少了原本阻止你髖部移動的下壓力量，你坐起的動能可能比他們走髖的速度更快。如果坐起被擋住，就把身體轉向攻擊者，阻止垂直對位的形成——只要你正面面對他們，他們就無法建立 North-South。",
+    "answer_line": "坐起準備 guard 或轉身面對",
+    "distractors": {
+     "plausible": [
+      "bridge 把他們翻過去",
+      "撐手等待情況過去"
+     ],
+     "trap": [
+      "維持 turtle，下巴收得更緊"
+     ]
+    }
+   },
+   {
+    "question": "隨著轉換的進行，繼續維持被動的 turtle 防禦為什麼會越來越危險？",
+    "answer": "當攻擊者的髖部繞著你的頭部走的時候，他們的胸口壓力會逐漸把你從 turtle 壓平成 prone。在轉換過程中，你在被動 turtle 中多停留一秒，就讓攻擊者多推進一點弧線、增加一分壓平的壓力。一旦被完全壓平成 prone、攻擊者達成垂直對位，你就會失去坐起、站立與翻滾逃脫的所有管道，因為你的髖部活動能力已經被完全消除。如果你不在轉換的空檔中採取行動，這個位置會從難以逃脫的 turtle 惡化成幾乎無法逃脫的 North-South。",
+    "answer_line": "被動只會讓你被壓平",
+    "distractors": {
+     "plausible": [
+      "turtle 永遠安全",
+      "等待 choke 重新出現"
+     ],
+     "trap": [
+      "放鬆，在 turtle 中保留體力"
+     ]
+    }
+   }
+  ]
+ }
+}

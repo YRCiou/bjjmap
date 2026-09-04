@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Double Underhook Pass 的主要目標是什麼？",
+    "answer": "主要目標是利用雙側 underhook 控制把 turtle 防守者壓平，從 Crackhead Control 轉換到 side control。這個過腿透過胸壓和手臂槓桿消除對手的防禦底盤，瓦解四足跪姿，推進到具支配性的控制位置。",
+    "answer_line": "把 turtle 壓平進 side control",
+    "distractors": {
+     "plausible": [
+      "先把對手翻成仰躺",
+      "先破壞對手的底盤"
+     ],
+     "trap": [
+      "把對手拉進你的 guard"
+     ]
+    }
+   },
+   {
+    "question": "Double Underhook Pass 是從什麼位置開始的？",
+    "answer": "這個技巧從 Crackhead Control Top 開始，具體來說是坐椅式的 turtle 控制位置，此時你的髖部壓在對手下背部上，已經建立初步的控制。這個過腿需要 Crackhead Control 提供的力學平台。",
+    "answer_line": "Crackhead Control Top",
+    "distractors": {
+     "plausible": [
+      "一般的 turtle 控制",
+      "seatbelt back control"
+     ],
+     "trap": [
+      "turtle bottom 位置"
+     ]
+    }
+   },
+   {
+    "question": "Double Underhook Pass 需要的關鍵抓握是什麼？",
+    "answer": "關鍵抓握是深入雙側的 underhook，完全穿過對手兩邊腋下，雙手在對手胸骨的高度以 Gable grip（掌對掌、不扣拇指）相扣。underhook 必須夠深，讓你的手能伸到超過對手肩線的位置。",
+    "answer_line": "深 underhook，Gable grip",
+    "distractors": {
+     "plausible": [
+      "underhook 搭配 S-grip 抓法",
+      "只做單邊深 underhook"
+     ],
+     "trap": [
+      "在頸部鎖 overhook"
+     ]
+    }
+   },
+   {
+    "question": "你在找第二個 underhook 時，對手往你身上坐回來，你該如何調整？",
+    "answer": "立刻放棄第二個 underhook，改用你已經建立的單邊 underhook 轉換成 back take。對手坐回的動作實際上會暴露出可以插腳勾的機會，讓你能拿到 back control。利用這個 underhook 當槓桿保持連結，同時搶在對手把身體壓平之前建立腳勾。",
+    "answer_line": "放棄它，改拿背後",
+    "distractors": {
+     "plausible": [
+      "硬闖過去，完成過腿",
+      "重整回 Crackhead Control"
+     ],
+     "trap": [
+      "放開 underhook，重新開始"
+     ]
+    }
+   },
+   {
+    "question": "嘗試 Double Underhook Pass 的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手把防禦精力投入在阻止 back take 上——特別是他們專注於防守 collar tie、seatbelt 抓握和頸部攻擊時。這種防禦焦點會讓 underhook 的路徑更容易進入，也會分散他們的注意力。",
+    "answer_line": "當他們在防守 back take 時",
+    "distractors": {
+     "plausible": [
+      "當他們把 turtle 縮得很緊時",
+      "剛做完 takedown 之後立刻進行"
+     ],
+     "trap": [
+      "當他們雙手都撐出去時"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個過腿過程中維持髖部壓力這麼關鍵？",
+    "answer": "來自坐椅式姿勢的髖部壓力，正是阻止對手做出主要 turtle 逃脫方式（例如坐穿、站起或 granby 翻滾）的關鍵。即使只是暫時放鬆這股壓力，也會給對手足夠的空間重整底盤或發動反擊。這個過腿依靠的就是在轉換上半身控制的同時，持續把對手壓制住。",
+    "answer_line": "阻止 turtle 逃脫方式",
+    "distractors": {
+     "plausible": [
+      "讓抓握維持鎖緊",
+      "消耗對手肩膀的體力"
+     ],
+     "trap": [
+      "壓平之後這就不重要了"
+     ]
+    }
+   },
+   {
+    "question": "把對手壓平時，你應該朝什麼方向施力——垂直向下還是帶角度？",
+    "answer": "以大約 45 度角向前、並垂直於對手脊椎的方向施力。純粹垂直向下會讓對手能靠撐地手臂維持底盤。垂直於脊椎的元素能阻止翻滾逃脫，向前的元素則能瓦解他們的撐地手臂。兩者結合會形成無法阻擋的壓平力量。",
+    "answer_line": "45 度角，向前施力",
+    "distractors": {
+     "plausible": [
+      "垂直向下，用全部體重",
+      "只做垂直方向，不向前"
+     ],
+     "trap": [
+      "只向前，不帶角度"
+     ]
+    }
+   },
+   {
+    "question": "你發動壓制時，對手開始做 granby 翻滾，正確的應對方式是什麼？",
+    "answer": "維持雙邊 underhook 抓握和胸壓，跟著對手的翻滾走，不要對抗翻滾的方向。如果你保持連結並跟隨旋轉，對手的 granby 動作通常會直接把你帶進 side control，甚至是 mount。為了阻止翻滾而放開抓握，才是會造成混戰機會的錯誤做法。",
+    "answer_line": "跟著翻滾走，保持鎖緊",
+    "distractors": {
+     "plausible": [
+      "立刻停住翻滾",
+      "換到另一邊做 underhook"
+     ],
+     "trap": [
+      "放開抓握，重整底盤"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的具體身體姿勢代表對手容易被這個過腿攻破，而不是有效防守？",
+    "answer": "當對手的手臂朝前防守頸部（下巴內收、雙手靠近鎖骨），而不是阻擋 underhook 的入口（手肘外張、雙手靠近腋下）時，就代表他們容易被攻破。此外，當他們的重心前移防守 back take，而不是集中在膝蓋上方時，也無法有效阻止 underhook 穿入。",
+    "answer_line": "手在鎖骨，重心前移",
+    "distractors": {
+     "plausible": [
+      "手肘外張，雙手抬高",
+      "重心集中在膝蓋上方"
+     ],
+     "trap": [
+      "雙手 overhook 住你的手臂"
+     ]
+    }
+   },
+   {
+    "question": "在有系統的進攻序列中，如何把 Double Underhook Pass 與 back take 的嘗試串連起來？",
+    "answer": "這種串連是雙向的。先威脅 back take 把對手的防禦注意力吸引到頸部，等他們過度投入防守背後時，再切換成 Double Underhook Pass。反過來說，如果過腿因為對手防守 underhook 而卡住，就利用他們手臂被抬起的機會進入 back take。對手無法同時防守兩者，這會讓他們陷入兩難。",
+    "answer_line": "威脅背後，再切換成過腿",
+    "distractors": {
+     "plausible": [
+      "每次都先攻擊過腿",
+      "隨機交替兩側"
+     ],
+     "trap": [
+      "全力投入其中一種攻擊"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Double Underhook Pass 的流程中，最關鍵的防守空檔是什麼時候？",
+    "answer": "最關鍵的空檔是從單邊 underhook 轉換到雙邊 underhook 的過程，此時攻擊方必須移轉髖部壓力來製造穿入的角度。在這個瞬間，攻擊方只建立了一個 underhook，重量分配也暫時失衡。像是坐回或剝除第一個 underhook 這類防守動作，在這時最有效，因為攻擊方無法同時維持髖部壓力、控制第一個 underhook，又穿入第二個。",
+    "answer_line": "在 underhook 轉換的瞬間",
+    "distractors": {
+     "plausible": [
+      "抓握剛鎖緊的時候",
+      "髖部完全壓上來之後"
+     ],
+     "trap": [
+      "等完全被壓平之後再反應"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到攻擊方的 Gable grip 已經在你胸骨處鎖緊、雙邊 underhook 都已深入，你的首要任務是什麼？",
+    "answer": "立刻用朝地墊方向的畫圓動作，嘗試在向前壓制施力之前，把一隻手臂游脫出來破壞 Gable grip。如果剝除抓握失敗，立刻轉為準備做 granby 翻滾，把髖部移向側邊，準備隨對手的壓制方向旋轉。不要浪費時間嘗試站起來或推開攻擊方——鎖緊的抓握會讓這兩種選項都無效且危險。你在壓制開始前的空檔大約只有一到兩秒。",
+    "answer_line": "在壓制前先把手臂游脫",
+    "distractors": {
+     "plausible": [
+      "剝除 underhook 的抓握",
+      "等 granby 翻滾開始"
+     ],
+     "trap": [
+      "站起來把對手推開"
+     ]
+    }
+   },
+   {
+    "question": "如何分辨攻擊方是在準備 back take，還是在設置 Double Underhook Pass？",
+    "answer": "back take 的設置，攻擊方的雙手會朝你的 collar、頸部或上胸與肩膀處的 seatbelt 位置移動。Double Underhook Pass 的設置訊號，則是攻擊方的雙手從下方鑽進你的腋下，向上頂住你的肩膀施加抬升壓力。這種觸感上的差異非常明顯：back take 是從你肩膀的上方和周圍進攻，而過腿則是從下方穿過你的腋下空間進攻。此外，back take 的設置通常伴隨攻擊方試圖插入腳勾，而過腿的設置則會讓對手的雙腿留在你身後、維持坐椅式姿勢。",
+    "answer_line": "腋下=過腿，領口=背後",
+    "distractors": {
+     "plausible": [
+      "髖部壓力代表過腿",
+      "移動速度能看出意圖"
+     ],
+     "trap": [
+      "手靠近你的髖部=過腿"
+     ]
+    }
+   },
+   {
+    "question": "對手用鎖緊的 Gable grip 向前壓制，你的肩膀開始接近地墊，這時最後的防守手段是什麼？",
+    "answer": "在你的髖部碰到地墊的同時，把近側膝蓋插入你和攻擊方之間。把小腿穿過對手的中線，立刻用雙腿纏住他們近側的腿，建立 half guard。這個動作必須在壓平的轉換過程中完成，趕在你的肩膀被完全固定之前。一旦進入 half guard，立刻建立 knee shield 或 underhook，避免對手直接透過 half guard 完成過腿。這是進入 side control 前的最後一道防線。",
+    "answer_line": "插入膝蓋，建立 half guard",
+    "distractors": {
+     "plausible": [
+      "橋起身體翻滾逃脫",
+      "用雙手撐地阻止下壓"
+     ],
+     "trap": [
+      "把 turtle 縮得更緊來撐過去"
+     ]
+    }
+   },
+   {
+    "question": "防守 underhook 的入侵時，為什麼手肘位置比抓握纏鬥更重要？",
+    "answer": "把手肘緊緊夾在肋骨旁，會形成一道完全阻擋 underhook 路徑的物理屏障。不論怎麼抓握纏鬥，都無法把 underhook 穿過閉合的腋下。用雙手做抓握纏鬥代表你的手臂是伸展且主動的，這反而會弔詭地打開攻擊方需要的腋下空間。手肘貼肋骨的連結是一種只需極少體力維持的結構性防禦，而抓握纏鬥則是動態的拉扯戰，會讓你的手臂疲勞，並在你每次破壞抓握之間，給攻擊方可乘之機。",
+    "answer_line": "手肘夾緊肋骨",
+    "distractors": {
+     "plausible": [
+      "用雙手抓握纏鬥",
+      "手肘外張製造空間"
+     ],
+     "trap": [
+      "伸直手臂把對手推開"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Double Underhook Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

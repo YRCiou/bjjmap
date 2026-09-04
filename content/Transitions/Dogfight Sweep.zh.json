@@ -1,0 +1,171 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "當搭配 underhook 壓力時，是什麼關鍵抓握讓 Dogfight Sweep 在力學上勢在必行？",
+        "answer": "抓住對手遠側膝蓋或大腿後方是關鍵要素。這個抓握移除了對手主要的撐地底盤——他們的遠側腳——這是唯一能防止他們被 underhook 驅力放倒的結構。沒有這個支撐點，對手就無法抵抗透過 underhook 與頭部壓力施加的對角力量。這個抓握應該從膝蓋後方托住，以取得對腿部位置的最大控制。",
+        "answer_line": "抓住對手遠側膝蓋後方",
+        "distractors": {
+          "plausible": [
+            "改抓遠側腳踝",
+            "改用 overhook 控制遠側手臂"
+          ],
+          "trap": [
+            "放開抓握，直接往前推"
+          ]
+        }
+      },
+      {
+        "question": "執行 Dogfight Sweep 時，力量應該朝哪個方向施加？",
+        "answer": "力量必須以對角方式施加——向前並朝向對手被控制的遠側腿那一側。單純直線向前推很容易被對稱的撐地吸收，但對角驅力會製造旋轉式的破勢，一旦遠側腿的支撐被移除，對手就無法反制。想像你的肩膀是朝著對手遠側髖部即將落地的那個點驅動，而不是直直穿過他們的中心線。",
+        "answer_line": "朝遠側腿方向對角施力",
+        "distractors": {
+          "plausible": [
+            "直線穿過中心施力",
+            "朝自己那一側施力"
+          ],
+          "trap": [
+            "把對手直接往後拉"
+          ]
+        }
+      },
+      {
+        "question": "你的對手把遠側腿撐得很寬，而且在你伸手去抓時主動把腿收回，你該如何調整？",
+        "answer": "當對手收回遠側腿以拒絕被抓握時，他們的髖部勢必會轉離你，暴露出背部。這正是主要的連鎖進攻機會。立刻放棄抓遠側腿的嘗試，轉為拿背——加深你的 underhook，把胸口壓向他們轉動中的背部，並爭取 seatbelt control。sweep 的威脅創造了拿背的機會，反之亦然——正是這種兩難處境，讓 Dogfight 系統如此有效。",
+        "answer_line": "放棄抓握，改拿背",
+        "distractors": {
+          "plausible": [
+            "追著收回的腿繼續抓",
+            "改用 guillotine choke"
+          ],
+          "trap": [
+            "放開 underhook，重新開始"
+          ]
+        }
+      },
+      {
+        "question": "嘗試 Dogfight Sweep 之前，必須滿足哪些進入條件？",
+        "answer": "必須存在五個條件：深的 underhook 能碰到對手遠側的闊背肌或肩胛骨、頭部位置達到或高於對手頭部並持續向前施壓、內側腿仍纏繞在半防禦中以錨定你的位置、外側腿撐地以提供驅動力，以及在伸手去抓遠側腿之前，已經先用前壓負荷對手的底盤。若缺少任何一項條件就嘗試 sweep，會大幅降低成功機率。",
+        "answer_line": "underhook 加上前壓",
+        "distractors": {
+          "plausible": [
+            "只要有深的 underhook 就好",
+            "先抓遠側腿再施壓"
+          ],
+          "trap": [
+            "急著立刻抓腿"
+          ]
+        }
+      },
+      {
+        "question": "你的 Dogfight Sweep 嘗試因為對手施展沉重的 whizzer 而卡住，你的即時連鎖進攻是什麼？",
+        "answer": "沉重的 whizzer 代表對手正投入大量體力與體重來控制你的 underhook 手臂。這會立刻創造兩個連鎖機會：第一，鑽過 whizzer 壓力潛入 deep half guard，讓對手的 whizzer 反而變成結構上的劣勢；第二，利用 whizzer 的壓力反制對手，轉為運用他們已投入的體重來完成前驅式 sweep。絕不要正面硬拼強力的 whizzer——把力量導向你的下一個技巧。",
+        "answer_line": "鑽過去進入 deep half guard",
+        "distractors": {
+          "plausible": [
+            "硬拼 whizzer 爭奪 underhook",
+            "改為攻擊 armbar"
+          ],
+          "trap": [
+            "硬是繼續強推 sweep"
+          ]
+        }
+      },
+      {
+        "question": "在 Dogfight Sweep 中，發動遠側腿抓握的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手把體重加到遠側腿上的時候，通常是他們試圖施展 crossface 壓力，或是頂回你的前壓時。此時他們的遠側腿正在承重，無法輕易收回。若在對手把體重轉移到近側或調整抓握時發動抓握，遠側腿會較輕、容易移開，導致抓握失敗並失去進攻節奏。",
+        "answer_line": "腿承重時再抓握",
+        "distractors": {
+          "plausible": [
+            "在對手調整抓握時抓",
+            "在對手轉移到近側時抓"
+          ],
+          "trap": [
+            "underhook 一到手就立刻抓"
+          ]
+        }
+      },
+      {
+        "question": "對遠側腿施加哪種特定抓握，能提供最高比例的 sweep 完成率？",
+        "answer": "用掌心托住遠側膝蓋後方、貼著膝蓋骨背面，能提供控制力與力學優勢的最佳組合。這個抓握既能阻擋腿往後撐地，也能把腿往側邊、朝你的方向重新導引。抓褲管在腳踝處能提供距離，但控制力較弱。抓大腿肌肉力量強，但在 no-gi 中容易滑脫。托住膝蓋後方的抓法在 gi 與 no-gi 中都有效，能在 sweep 過程中精準控制腿的行進軌跡。",
+        "answer_line": "托住膝蓋骨後方",
+        "distractors": {
+          "plausible": [
+            "抓腳踝處的褲管",
+            "抓大腿肌肉"
+          ],
+          "trap": [
+            "抓住腳跟並向上抬"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "Dogfight Sweep 嘗試正在發動時，最早能感受到的觸覺線索是什麼？",
+        "answer": "最早的線索是感覺到對手原本撐在你身上或地墊上的空閒手放開，開始伸向你的遠側腿。這通常會伴隨 underhook 的前壓稍微增加，因為施展 sweep 的一方正在蓄力。你也可能感覺到他們外側的膝蓋重新調整位置以產生更大的推力。手離開撐地位置是最可靠、也最早出現的指標，因為沒有抓到遠側腿，sweep 就無法完成。",
+        "answer_line": "對手的手離開撐地位置",
+        "distractors": {
+          "plausible": [
+            "underhook 壓力增加",
+            "外側膝蓋重新調整位置"
+          ],
+          "trap": [
+            "等到雙手都放開為止"
+          ]
+        }
+      },
+      {
+        "question": "對手已經抓住你的遠側膝蓋並向前驅動，你最後的防守手段是什麼？",
+        "answer": "當 sweep 已經執行到一半時，最好的最後手段是把遠側手撐在你身後的地墊上，同時用最大的 sprawl 壓力把髖部往後頂向施展 sweep 的對手。手撐地能創造一個暫時的第三支撐點，足以撐住不被放倒，讓你有時間用 whizzer 側的手剝除他們對遠側腿的抓握，或是把髖部繞轉離開。如果 sweep 進行得太深，來不及用這個方法，可以考慮順著 sweep 的方向轉身，接受 turtle 姿勢，也好過被乾淨俐落地放倒仰躺。",
+        "answer_line": "遠側手撐地，髖部後 sprawl",
+        "distractors": {
+          "plausible": [
+            "抓住他們抓遠側腿的那隻手",
+            "轉身離開，接受 turtle"
+          ],
+          "trap": [
+            "用雙臂直接往上推"
+          ]
+        }
+      },
+      {
+        "question": "防守 Dogfight Sweep 時，如何在不過度投入、不暴露背部的情況下取得平衡？",
+        "answer": "關鍵在於防守時讓髖部持續面向對手，而不是轉離。施展 whizzer 與 crossface 壓力，同時讓胸口朝向施展 sweep 的對手。收回遠側腿時，把它往後、朝對手髖部的方向繞轉，而不是完全拉到自己身後——那樣會轉出背部。如果你感覺到對手正從 sweep 轉為拿背（表現為他們的 underhook 朝你遠側髖部加深，而不是持續向前驅動），立刻重新扣緊 whizzer 並把髖部往前驅動，拒絕暴露背部。",
+        "answer_line": "讓髖部持續面向對手",
+        "distractors": {
+          "plausible": [
+            "把腿完全拉到身後",
+            "轉身以保護那條腿"
+          ],
+          "trap": [
+            "把背轉向施展 sweep 的對手"
+          ]
+        }
+      },
+      {
+        "question": "成功防守 Dogfight Sweep 並保持在 Dogfight 位置後，你該如何進一步取得優勢？",
+        "answer": "成功防守 sweep 之後，立刻從防守轉為進攻。施展 sweep 的一方已經投入體力在失敗的嘗試上，此刻正處於失衡或重新調整結構的狀態。用 crossface 壓力向前驅動，在對方能夠設置下一波進攻之前，把他們壓平回半防禦下位。在轉換的當下，讓手臂朝內游動，剝除他們的 underhook。如果你能把對手壓平並建立 crossface 控制，你就等於把他們的進攻性 Dogfight 有效轉化成你的過 guard 機會。",
+        "answer_line": "crossface 並將對手壓平",
+        "distractors": {
+          "plausible": [
+            "重置回中立半防禦",
+            "立刻追求降伏技"
+          ],
+          "trap": [
+            "撤退並重新回防"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Dogfight Sweep.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

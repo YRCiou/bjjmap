@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame Escape from High Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對付已經穩固的 High Mount 時，插入 frame 的最佳時機窗口是什麼？",
+    "answer": "最佳時機發生在上位者換抓握、嘗試 submission，或調整姿勢時體重轉移的瞬間。當對手伸手抓衣領時，重心會向前移離髖部；當對手調整膝蓋位置時，底盤會暫時抬起；當對手用手撐地時，往下壓的力量會被重新導向。這些瞬間會大幅減少往下壓的力量，製造出足夠插入 frame 的空間，這在對手體重完全安頓時是不可能做到的。",
+    "answer_line": "體重轉移：抓握、進攻、撐地",
+    "distractors": {
+     "plausible": [
+      "剛壓穩 mount 的那一刻",
+      "只在 submission 嘗試時"
+     ],
+     "trap": [
+      "對手體重完全安頓的時候"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的前臂位置能製造出最強的 frame，同時不會讓手臂暴露在被攻擊的風險下？",
+    "answer": "把前臂的骨面——尺骨——直接頂在對手的髖部皺褶處，手肘彎曲大約九十度並貼靠在自己的肋骨上。雙手應該保持靠近自己身體，而不是伸向對手。這個姿勢利用骨對骨接觸來取得最大結構強度，同時手肘角度太過銳利，對手無法把你的手臂拉直來設置 armbar 或 americana。",
+    "answer_line": "尺骨頂髖部，手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "用掌心推對手髖部",
+      "抓對手褲頭"
+     ],
+     "trap": [
+      "把手臂直直伸向對手髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手把你的右手臂壓在地墊上、同時維持 High Mount，你要如何調整 frame escape？",
+    "answer": "用自由的左手臂對對手左側髖部做單側 frame，同時朝被困手臂那一側做 hip escape。hip escape 會製造出角度，讓對手更難維持對手臂的壓制。如果壓制太強，就朝被困那一側 bridge 以製造空間，再把手臂收回防禦位置，之後再用雙側前臂重新嘗試 frame escape。",
+    "answer_line": "自由手 frame，配合 hip escape",
+    "distractors": {
+     "plausible": [
+      "先硬把被困手臂扯出來",
+      "雙臂都 frame，無視壓制"
+     ],
+     "trap": [
+      "朝被壓制那一側 bridge"
+     ]
+    }
+   },
+   {
+    "question": "在 frame escape 的過程中，最常見的失敗點是什麼？",
+    "answer": "最常見的失敗是只製造出初始的 frame 壓力，卻沒有搭配髖部動作。單靠 frame 無法產生足夠力量移動一個決心壓制的對手底盤。hip bump 必須和 frame 壓力同時發生，才能產生倍增效果的合力。此外，許多練習者建立了初始 frame，卻沒有在執行逐步的 hip escape、把對手底盤一路走到腰部的過程中維持連續的壓力。",
+    "answer_line": "有 frame 壓力卻沒有 hip bump",
+    "distractors": {
+     "plausible": [
+      "沒先 frame 就直接 bridge",
+      "hip escape 途中停下 frame"
+     ],
+     "trap": [
+      "還沒 frame 就先伸手抓握"
+     ]
+    }
+   },
+   {
+    "question": "在 frame escape 過程中，你的抓握或手部姿勢應該維持什麼樣子？",
+    "answer": "雙手應該維持握拳或掌心貼在自己胸口或頸部附近，讓前臂骨面來對付對手的髖部，而不是靠雙手出力。如果有機會抓住對手髖部附近的褲子或腰帶是可以接受的，但伸手去抓較遠的地方會危險地把手臂伸展開來。優先要維持的是彎曲手臂的結構強度，而不是建立傳統抓握、犧牲 frame 的架構。",
+    "answer_line": "手貼自己胸口，前臂做 frame",
+    "distractors": {
+     "plausible": [
+      "抓對手衣領以取得控制",
+      "伸手去抓對手腰帶"
+     ],
+     "trap": [
+      "伸長手去抓對側身體的握點"
+     ]
+    }
+   },
+   {
+    "question": "進行 frame escape 時，力量應該往哪個方向施加？",
+    "answer": "力量應該沿著對手軀幹的軸線方向——把對手的髖部朝斜下方推向你自己的腰部，而不是直直往上或往外推。往上推只會暫時把對手抬起，但他會回到原本的位置。往側邊推會造成旋轉，但不會改變位置。沿著軀幹向下的方向能把對手的底盤從你的上胸口滑到你的腰部，這正是這個技巧要達成的特定位置改善。",
+    "answer_line": "沿軀幹方向往下推髖部",
+    "distractors": {
+     "plausible": [
+      "從胸口正直往上推",
+      "往側邊推使對手旋轉"
+     ],
+     "trap": [
+      "把對手往上拉離你的髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手因應你的 frame escape 轉換到 S Mount，你要立刻做什麼調整？",
+    "answer": "立刻放棄 frame escape，改為保護被困的手臂——把雙手交扣在一起，或抓住自己的道服衣領。把身體轉向被困手臂那一側，防止對手把它伸直來完成 armbar。用自由的手臂推對手橫跨的那個膝蓋，設法把對手的 S Mount 結構壓垮回標準 mount。轉換到 S Mount 代表你的 frame escape 確實造成了移動，所以要先處理這個新的位置威脅，再繼續嘗試逃脫。",
+    "answer_line": "雙手交扣，保護被困手臂",
+    "distractors": {
+     "plausible": [
+      "繼續 frame 以奪回 mount",
+      "推開對手遠側的膝蓋"
+     ],
+     "trap": [
+      "伸直手臂去剝除對手抓握"
+     ]
+    }
+   },
+   {
+    "question": "要如何把 frame escape 串連成一套有效的 mount escape 序列？",
+    "answer": "在開始 frame escape 之前就先預先選定後續要銜接的逃脫動作。當對手的髖部到達你的腰部高度時，立刻執行你選定的技巧：如果是 upa，就困住對手手臂與同側腳，再爆發性地 bridge；如果是 elbow escape，就在對手髖部上建立 frame，開始 shrimp 把膝蓋插入。這個轉換必須無縫接軌，因為對手一旦回到標準 mount，會在兩到三秒內嘗試重新推進。frame escape 與 mount escape 之間沒有休息的階段。",
+    "answer_line": "預先選定 upa 或 elbow escape",
+    "distractors": {
+     "plausible": [
+      "逃脫前先停下來重整",
+      "等一個更大的空間窗口"
+     ],
+     "trap": [
+      "髖部到達腰部後就休息"
+     ]
+    }
+   },
+   {
+    "question": "對手用雙膝緊緊卡住你腋下、維持穩固的 High Mount，完全不轉移體重，你要如何創造出插入 frame 的機會？",
+    "answer": "當對手拒絕轉移體重時，你必須自己製造出這個機會。用一個銳利的 hip bump 短暫抬起對手的底盤，趁那一瞬間的空隙立刻把手肘楔入對手的大腿內側。另一個做法是稍微暴露頸部或手臂來誘使對手發動 submission——對手伸手進攻的動作正好會製造出你需要的體重轉移。關鍵原則是：完全靜止的對手必須被誘使去移動，被動的 frame 插入才有可能成功。",
+    "answer_line": "hip bump 或誘使對手進攻",
+    "distractors": {
+     "plausible": [
+      "耐心等待對手自己轉移體重",
+      "雙臂直接往上推"
+     ],
+     "trap": [
+      "完全暴露頸部，逼對手勒頸"
+     ]
+    }
+   },
+   {
+    "question": "在 High Mount 的 frame escape 過程中，你的雙腳與雙腿扮演什麼角色？",
+    "answer": "你的雙腳是驅動 hip bump 與 hip escape 的主要力量來源，這兩者正是 frame escape 的動力。把雙腳平貼在靠近髖部的地墊上，才能在 bump 時獲得最大的向上驅動力。做 hip escape 時，用一隻腳蹬地來讓身體轉角度，同時維持 frame 壓力。一旦對手的髖部到達你的中段身體，你的膝蓋與小腿就會變成壓在對手大腿內側的屏障，防止對手重新推進。如果下肢沒有積極參與，光靠手臂無法產生足夠力量移動對手的底盤。",
+    "answer_line": "雙腳驅動 bump 與 hip escape",
+    "distractors": {
+     "plausible": [
+      "把雙腿伸直、保持被動",
+      "用雙腳勾住對手雙腿"
+     ],
+     "trap": [
+      "把腳踝交叉以求穩定"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在 High Mount 嘗試 frame escape 時，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是感覺到對手刻意用前臂骨面壓在你的髖部皺褶處或大腿內側，這和一般漫無目的的防禦性揮動不同。對手的手肘會從被動收攏的姿勢，轉為主動朝向你骨盆方向角度化。這種前臂對髖部的接觸會發生在任何髖部動作之前，是你第一個能在對手透過 frame 加 bump 的組合技巧累積動能之前化解逃脫的機會。",
+    "answer_line": "前臂骨面壓在髖部",
+    "distractors": {
+     "plausible": [
+      "突然向上的 hip bump",
+      "雙手抓你的衣領"
+     ],
+     "trap": [
+      "等對手 shrimp 離開再反應"
+     ]
+    }
+   },
+   {
+    "question": "對手建立起穩固的前臂 frame，並開始做 hip bump，你的最佳反制策略是什麼？",
+    "answer": "與其直接用對抗力量硬拚 frame，不如轉換到 S Mount——把一條腿跨過對手因為專注 frame 而最暴露的那隻手臂。對手全力投入 frame 的姿勢會讓至少一隻手臂處於伸展開的狀態，這正是進入 S Mount、接著發動 armbar 攻擊的理想條件。另一個做法是積極把體重向前壓、把膝蓋往上走，壓縮可用的 frame 空間，但這只在對手的 frame 還沒建立完整結構強度時才有效。",
+    "answer_line": "跨腿進 S Mount，攻擊暴露手臂",
+    "distractors": {
+     "plausible": [
+      "用純力量硬拚 frame",
+      "坐回去完全重整底盤"
+     ],
+     "trap": [
+      "放手站起來重新開始"
+     ]
+    }
+   },
+   {
+    "question": "要如何避免對手抓準時機在你發動 submission 時插入 frame？",
+    "answer": "在設置 submission 時盡量減少體重轉移，逐步建立抓握，而不是整個身體重心一次壓上去。使用能讓體重保持向前的衣領抓握，而不是需要側向傾斜的手腕抓握。如果一定要為了進入 submission 而轉移體重，就要迅速、果斷地做，全力投入而不是製造出長時間壓力減弱的空窗期。在伸手抓 submission 抓握之前，先壓制住靠近側的手臂，消除至少一個潛在的 frame 來源。",
+    "answer_line": "先壓制近側手臂，用衣領抓握",
+    "distractors": {
+     "plausible": [
+      "用力側傾去抓手腕",
+      "慢慢花時間安頓抓握"
+     ],
+     "trap": [
+      "伸得遠、緩慢地投入"
+     ]
+    }
+   },
+   {
+    "question": "如果對手成功把你的髖部一路走回他腰部的高度，你應該轉換到什麼位置？",
+    "answer": "如果你失去 High Mount、回到標準 mount，要立刻重新建立沉重的髖部壓力，並開始把膝蓋走回腋下方向。如果對手正積極串連 mount escape 動作，可以考慮在對手開始側身時轉換到 Technical Mount，或是在對手完成完整逃脫之前，靠抓握輔助的膝蓋推進重新建立 High Mount。標準 mount 依然是極具優勢的位置，所以保持冷靜、有系統地重新推進，會比對失去位置感到恐慌更有效。",
+    "answer_line": "重新加壓，把膝蓋走上去",
+    "distractors": {
+     "plausible": [
+      "恐慌並倉促搶 submission",
+      "立刻放棄 mount 位置"
+     ],
+     "trap": [
+      "還沒重新安頓就急著追 submission"
+     ]
+    }
+   }
+  ]
+ }
+}

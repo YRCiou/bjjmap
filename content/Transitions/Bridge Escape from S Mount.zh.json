@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from S Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 S Mount 發動 bridge escape 的最佳時機窗是什麼？",
+    "answer": "最佳時機是上位選手把重心往前移向你被困手臂、準備開始 armbar 延展的時候。這個向前的重心轉移會減輕他們支撐腿那一側的壓力，在他們的 base 上創造出最大的空隙。在他們轉移重心之前就 bridge，破壞力會很小，因為他們的重心是居中的。等他們已經完全投入 armbar 之後才 bridge 又太遲，因為你的手臂可能已經被延展開了。",
+    "answer_line": "重心轉向被困手臂時",
+    "distractors": {
+     "plausible": [
+      "S Mount 一建立就立刻",
+      "手臂完全延展之後"
+     ],
+     "trap": [
+      "任何感覺到壓力增加的時候"
+     ]
+    }
+   },
+   {
+    "question": "在 S Mount 中，你應該朝對方身體的哪個方向 bridge？",
+    "answer": "朝對方跨過你頭部上方的那條腿呈對角線方向 bridge。這個方向利用了他們垂直式 base 中最主要的結構性空隙。S Mount 的結構讓橫跨你軀幹的方向具有強度，但朝支撐腿的方向相對較弱。直直往上的 bridge 很容易被吸收，而朝支撐腿方向的對角線 bridge，會產生對上位選手來說在生物力學上很難抵抗的移位。",
+    "answer_line": "朝頭部上方的腿呈對角線",
+    "distractors": {
+     "plausible": [
+      "直直朝天花板往上",
+      "朝他們近側的膝蓋"
+     ],
+     "trap": [
+      "遠離他們支撐的那條腿"
+     ]
+    }
+   },
+   {
+    "question": "你發動 bridge 時，對方開始延展你被困的手臂——你該如何調整？",
+    "answer": "立刻中止 bridge，把全部注意力放在把手臂收回上。用被困的手加強對自己領口的抓握，同時把手肘拉回肋骨。手腕向內捲曲，身體稍微轉向被困手臂那一側以降低延展的槓桿效果。只有在重新建立起穩固的手臂保護之後，才考慮再次嘗試逃脫，而且最好改用不同的方法。",
+    "answer_line": "中止 bridge，快速收回手臂",
+    "distractors": {
+     "plausible": [
+      "繼續 bridge，不管手臂",
+      "更用力 bridge 來創造空間"
+     ],
+     "trap": [
+      "放開抓握把手臂拉出來"
+     ]
+    }
+   },
+   {
+    "question": "在整個 bridge escape 過程中，被困的手必須維持什麼樣的抓握？",
+    "answer": "被困的手在整個逃脫過程中必須抓著自己的領口、下擺或肩膀。這個抓握能讓手肘保持在 90 度或更緊的彎曲角度，讓手臂在生物力學上更能抵抗延展與 armbar 的完成。抓領口是絕對不能妥協的，在 bridge 的任何階段都不應該放開——不管是爆發動作中、hip escape 過程中，都不能放，直到雙腿完全回復 guard 為止。",
+    "answer_line": "絕不放開領口抓握",
+    "distractors": {
+     "plausible": [
+      "只在 bridge 期間抓握",
+      "逃脫途中換抓握方式"
+     ],
+     "trap": [
+      "放開抓握把手撐地"
+     ]
+    }
+   },
+   {
+    "question": "你要如何從 bridge 造成的破壞轉換成完整的回復 guard？",
+    "answer": "bridge 破壞對方重心之後，立刻接續朝對方腿部方向做 hip escape。當空間打開時，一邊維持手臂彎曲一邊把被困手臂收回，同時把近側膝蓋橫跨過對方身體作為屏障。把雙腿穿過對方腰部並在他們背後鎖住腳踝，建立 closed guard。用雙臂 frame 住對方胸口，防止他們在你完全建立 guard 之前重新壓回 mount。",
+    "answer_line": "hip escape、knee shield、鎖腿",
+    "distractors": {
+     "plausible": [
+      "反覆 bridge 直到脫困",
+      "先把對方直接推開"
+     ],
+     "trap": [
+      "放開遠側腿去掙扎起身"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 破壞了對方的平衡，但他們仍維持著對你近側手腕的控制——你立刻該怎麼反應？",
+    "answer": "持續積極地做 hip escape，同時盡全力把手肘拉回髖部。手腕的抓握比他們在 S Mount 時的完整手臂控制要弱，所以 hip escape 能創造出足夠的距離來破解那個抓握。如果他們跟著你的 hip escape 移動，就利用動量的變化在他們調整時把手臂抽出。如果手腕抓握還是撐住，就用自由手 frame 住對方髖部，再做一次 shrimp，趁對方還沒重新建立 S Mount 之前完成。",
+    "answer_line": "做 hip escape，手肘拉回髖部",
+    "distractors": {
+     "plausible": [
+      "用力把手臂直接扯回來",
+      "停下動作重設位置"
+     ],
+     "trap": [
+      "放棄抓握對抗，轉 turtle"
+     ]
+    }
+   },
+   {
+    "question": "從 S Mount 下位執行 bridge 之前，需要什麼樣的腳部擺位？",
+    "answer": "雙腳必須平貼地面，膝蓋彎曲約 90 度，腳跟盡量拉近髖部。這個姿勢能最大化 bridge 的髖伸展力量。雙腳應與髖同寬以提供穩定的平台。如果有一隻腳被對方的腿卡住或位置不對，要先調整好再嘗試 bridge，因為只用單腳做的 bridge 產生的力量不足以移動對方脫離 S Mount。",
+    "answer_line": "雙腳平貼，腳跟靠近髖部",
+    "distractors": {
+     "plausible": [
+      "一腳用力、一腳伸直",
+      "雙腳併攏、膝蓋打直"
+     ],
+     "trap": [
+      "膝蓋鎖死打直、雙腳外伸"
+     ]
+    }
+   },
+   {
+    "question": "為什麼連續嘗試多次 bridge escape 而不換技巧是危險的？",
+    "answer": "每一次 bridge 嘗試都會消耗大量用於爆發性髖伸展的快縮肌群能量。第一次失敗的 bridge 會讓對方察覺你的逃脫策略，讓他們得以降低重心、專門針對 bridge 收緊 base。反覆的 bridge 會耗盡你的體力，而對方卻越來越懂得如何反制。第一次 bridge 失敗後，改用 frame-and-shrimp 或 trap-and-roll 能趁對方還在調整防守時出其不意，也能維持不可預測性。",
+    "answer_line": "讓對方察覺，耗盡你的體力",
+    "distractors": {
+     "plausible": [
+      "只會讓雙腿疲勞",
+      "只是浪費時間，沒別的影響"
+     ],
+     "trap": [
+      "沒差，永遠重複 bridge 就好"
+     ]
+    }
+   },
+   {
+    "question": "什麼情況下你應該完全避免嘗試從 S Mount 做 bridge escape？",
+    "answer": "當被困手臂已經部分延展，或領口抓握已經被破解時，要避免 bridge，因為 bridge 的動作會加速手臂暴露、進入 armbar。另外，如果你無法讓雙腳平貼地面，也要避免，因為單腳的 bridge 缺乏足以移動對方的力量。如果你已經嚴重疲勞、無法產生爆發且全力投入的 bridge，就改用 frame-and-shrimp 逃脫，這種方式更依賴漸進式的髖部動作而非爆發力，反制風險也較低。",
+    "answer_line": "手臂已暴露，或雙腳無法貼地",
+    "distractors": {
+     "plausible": [
+      "只有在完全力竭時才避免",
+      "對方抓住你領口時避免"
+     ],
+     "trap": [
+      "還是試著 bridge 來測試防守"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 成功移位了對方，但他們掙扎著要重新壓回 mount 而不是倒向一側——你該如何阻止他們重新壓回？",
+    "answer": "一旦你感覺到對方在掙扎著恢復 mount，立刻加速你的 hip escape，把近側膝蓋橫過他們的髖線作為屏障。這個 knee shield 能防止他們把髖部重新壓回你的軀幹上。用雙臂 frame 住對方胸口維持距離，同時把遠側腿穿過他們的腰部。如果對方堅持不放，可以利用 knee shield 創造出足夠的空間插入 butterfly hooks，而不是直接做 closed guard，因為 butterfly guard 能立即帶來 sweep 的威脅，讓對方不敢繼續向前壓進 mount。",
+    "answer_line": "knee shield、frame、穿腿",
+    "distractors": {
+     "plausible": [
+      "壓住對方的頭並等待",
+      "反向 bridge 重設 S Mount"
+     ],
+     "trap": [
+      "讓他們穩定下來，之後再 shrimp"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些早期徵兆顯示下位選手正準備從你的 S Mount 發動 bridge escape？",
+    "answer": "留意下位選手把雙腳平貼地面、拉近髖部並彎曲膝蓋，這會建立起 bridge 所需的力學平台。他們的自由手移向控制你近側的腿，表示他們正在建立逃脫所需的 frame。呼吸轉為更深沉的吸氣，顯示正準備爆發用力。他們的身體張力會增加，可能會停止積極防守手臂，把注意力轉向擺位。",
+    "answer_line": "腳貼地、深吸氣、身體繃緊",
+    "distractors": {
+     "plausible": [
+      "突然口頭表達挫折",
+      "手臂防守加強，抓得更緊"
+     ],
+     "trap": [
+      "完全放鬆，沒有張力"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位選手為了 bridge 而擺好雙腳時，你該如何調整重心分配？",
+    "answer": "立刻把你的髖部更緊地壓進他們的肩膀，並把上半身稍微向前傾，降低重心。加強透過髖肩連結點向下的壓力。如果可以，把支撐腿張得更開以增加 base。目標是在 bridge 產生最大力量之前，讓你在連結點上的重量盡可能又重又低，這樣才能在對方的向上驅力移位你之前先吸收掉。",
+    "answer_line": "降低髖部，壓進肩膀",
+    "distractors": {
+     "plausible": [
+      "抬高髖部求更好的 base",
+      "把重心轉向被困手臂那一側"
+     ],
+     "trap": [
+      "撐手，放掉髖部壓力"
+     ]
+    }
+   },
+   {
+    "question": "對方爆發性地 bridge，造成明顯的向上移位——你應該利用什麼樣最高機率的轉換？",
+    "answer": "如果 bridge 讓對方的領口抓握鬆動，或稍微暴露出被困的手臂，立刻攻擊 armbar：把他們的手腕拉向你的胸口，同時後仰並夾緊雙膝。bridge 的動量常常會替你把他們的手臂延展開來。如果手臂仍然受到保護，但你正在被移位，就朝側邊轉換，從另一個角度重新建立 S Mount，而不是硬碰硬對抗 bridge 的力量。要善用對方自己的力氣來對付他們。",
+    "answer_line": "手臂暴露就攻擊 armbar",
+    "distractors": {
+     "plausible": [
+      "用純力量對抗 bridge",
+      "立刻轉換到 back mount"
+     ],
+     "trap": [
+      "放開手臂以重新取得平衡"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的髖部擺位能防止 bridge 破壞你垂直式的 S Mount 控制？",
+    "answer": "你的髖部必須緊貼對方的近側肩膀，讓髖骨頂進他們前三角肌的區域。這會建立起一種結構性的連結，讓 bridge 的力量透過你的身體、經由你支撐的雙腿傳入地面，而不是讓力量把你移位。如果你的髖部即使只是稍微高於肩膀，bridge 就能鑽進你身下，取得足以移位你的槓桿。",
+    "answer_line": "髖部緊貼近側肩膀",
+    "distractors": {
+     "plausible": [
+      "髖部置中對準對方胸口",
+      "重量放在膝蓋而非髖部"
+     ],
+     "trap": [
+      "稍微抬起髖部求機動性"
+     ]
+    }
+   }
+  ]
+ }
+}

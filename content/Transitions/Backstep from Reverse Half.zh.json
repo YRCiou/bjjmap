@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Reverse Half Guard 發動 backstep 的最佳時機是什麼時候？",
+    "answer": "最佳時機是下位者投入轉身、試圖恢復標準 half guard 的那一刻。他們的旋轉動作會同時讓背部進一步暴露，並破壞自身的防守 base。趁對方正在轉身途中發動 backstep，代表他們無法有效阻擋邁步的腿或反制背控，因為他們的動能正好朝著有利於這次轉換的方向前進。",
+    "answer_line": "當對方轉身要恢復 guard 時",
+    "distractors": {
+     "plausible": [
+      "一落入 Reverse Half Guard 就立刻做",
+      "當對方趴平時"
+     ],
+     "trap": [
+      "等對方拿到 underhook 之後"
+     ]
+    }
+   },
+   {
+    "question": "開始做 backstep 動作之前，必須先建立什麼抓握？",
+    "answer": "必須先建立好 seatbelt 抓握。一手繞過對方肩膀，另一手穿過對方遠側腋下，雙手互扣。這個抓握能在整個下肢動作過程中維持上半身連結，並防止對手在轉換期間製造出距離。沒有 seatbelt，backstep 會產生一個短暫的空隙，讓對手有機會防守回復。",
+    "answer_line": "Seatbelt 抓握",
+    "distractors": {
+     "plausible": [
+      "Crossface 抓握",
+      "遠側 underhook"
+     ],
+     "trap": [
+      "雙手控制單一手腕"
+     ]
+    }
+   },
+   {
+    "question": "backstep 邁腿弧線中，最關鍵的力學細節是什麼？",
+    "answer": "在整個弧線過程中維持胸口貼緊對方背部，是唯一最關鍵的細節。邁步的腿必須以平順、受控的弧線擺動，同時你的胸壓必須持續壓在對方背部不間斷。邁步過程中只要胸口稍微抬起，就會製造出空間，讓對手能夠轉身、趴平，或啟動逃脫流程，讓這次背控嘗試失敗。",
+    "answer_line": "胸口緊貼對方背部",
+    "distractors": {
+     "plausible": [
+      "邁大步跨過去",
+      "用手撐地維持平衡"
+     ],
+     "trap": [
+      "抬起胸口以便清腿"
+     ]
+    }
+   },
+   {
+    "question": "執行 Reverse Half Guard 的 backstep 時，最常見的失敗點是什麼？",
+    "answer": "最常見的失敗發生在攻擊者在邁腿動作中把胸口抬離對方背部，以便為腿部擺動騰出空間時。這個短暫的分離會讓下位者有機會轉身面向攻擊者恢復 half guard，或是趴平在墊上阻止勾腳插入。修正方法是把這個邁步想成繞著對手旋轉，而不是跨過對手。",
+    "answer_line": "把胸口抬離對方背部",
+    "distractors": {
+     "plausible": [
+      "邁步速度太慢",
+      "失去 seatbelt 抓握"
+     ],
+     "trap": [
+      "硬拚對方的 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你發動 backstep 時，對手趴平了——你該如何調整？",
+    "answer": "把目標從直接插入勾腳，轉換為建立類似 body-lock 的控制。從趴平的姿勢用雙腿環住對方腰部，並利用 seatbelt 抓握開始把對方一側肩膀抬離墊面。一旦你在對方趴平的身體下方創造出角度，就逐步插入勾腳，先從下位側的勾腳開始，並用它當作槓桿為第二個勾腳製造空間。",
+    "answer_line": "Body-lock、抬肩、插勾腳",
+    "distractors": {
+     "plausible": [
+      "硬要照原計畫插入勾腳",
+      "改用 crossface 壓制"
+     ],
+     "trap": [
+      "放棄背控，改為過腿"
+     ]
+    }
+   },
+   {
+    "question": "邁步的腿落地之後，建立背控的正確順序是什麼？",
+    "answer": "正確的順序是：一落地就立刻插入第一個勾腳，用這個勾腳和 seatbelt 作為支點，把被困的腿從 half guard 中抽出，被困腿一旦自由就立刻插入第二個勾腳，最後鞏固所有控制點。在第一個勾腳建立之前就急著抽腿，會失去受控抽腿所需的支點，並製造出逃脫的機會。",
+    "answer_line": "先插勾腳，再抽腿",
+    "distractors": {
+     "plausible": [
+      "先抽腿，再插勾腳",
+      "同時插入兩個勾腳"
+     ],
+     "trap": [
+      "放開 seatbelt 以便抽腿"
+     ]
+    }
+   },
+   {
+    "question": "在你做 backstep 弧線動作時，對手用爆發力 bridge 並轉身——正確的應對是什麼？",
+    "answer": "不要硬拚這個轉身。相反地，用你的 seatbelt 抓握跟隨對方的旋轉，在對方轉身時緊貼著他們的背部。如果你在整個翻滾過程中保持胸口連結，經常會在對面那一側取得背控。硬拚爆發性的 bridge 會浪費體力，而且經常會扯斷你的 seatbelt 抓握，跟隨這個動作則能在整個過程中保住你的優勢控制。",
+    "answer_line": "跟隨翻滾，保持貼緊",
+    "distractors": {
+     "plausible": [
+      "撐開身體阻止 bridge",
+      "用寬站姿站穩 base"
+     ],
+     "trap": [
+      "用體重硬拚 bridge"
+     ]
+    }
+   },
+   {
+    "question": "從 Reverse Half Guard 的 backstep 如何連結到更廣的 backstep 過腿系統？",
+    "answer": "從 Reverse Half Guard 的 backstep，是整個 backstep 過腿系統的自然終點。過腿者可以透過從 De La Riva、deep half、K-guard 或標準 half guard 執行 backstep 過腿，進入 Reverse Half Guard。一旦到達 Reverse Half Guard，背控就是接下來價值最高的進展。這形成了一條系統化的路徑：任何能達成 Reverse Half Guard 的 backstep 過腿，都能透過這個技巧直接銜接到背控。",
+    "answer_line": "完成 backstep 過腿系統的最後一環",
+    "distractors": {
+     "plausible": [
+      "只能從標準 half guard 使用",
+      "需要先做一次獨立的過腿"
+     ],
+     "trap": [
+      "最適合從 full guard 嘗試"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 Reverse Half Guard 發動 backstep，最早的辨識線索是什麼？",
+    "answer": "第一個線索是重心分配的改變——你會感覺到對方的重量從雙腿平均分配轉為壓向被困腿那一側，因為他們正準備抬起自由腿。同時，他們的上半身抓握可能會收緊，或從 crossface 轉換為 seatbelt 配置。這些重心與抓握的變化通常會比邁步動作早一到兩秒發生，這就是你反應的防守空檔。",
+    "answer_line": "重心轉移、抓握收緊",
+    "distractors": {
+     "plausible": [
+      "對方放開 crossface",
+      "對方遠側手撐地"
+     ],
+     "trap": [
+      "等腿開始動了再反應"
+     ]
+    }
+   },
+   {
+    "question": "當你發現對手正在發動 backstep 時，最優先的防守動作是什麼？",
+    "answer": "最優先的是在邁步的腿完成弧線之前，爆發性地轉身面向攻擊者。這個轉身必須抓準攻擊者自由腿騰空的那一刻，因為那正是他們單腿承重、base 最不穩的時候。把轉身動作結合頂住對方髖部的強力 frame，製造距離並破壞他們在這個脆弱轉換期的平衡。",
+    "answer_line": "轉身面向對方，頂住髖部",
+    "distractors": {
+     "plausible": [
+      "把對方頭部往墊上推",
+      "抓遠側腳踝擋住邁步"
+     ],
+     "trap": [
+      "轉身離開以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防止 seatbelt 抓握比阻擋邁步的腿更重要？",
+    "answer": "seatbelt 抓握能讓攻擊者持續掌握上半身控制，無論雙腿發生什麼狀況，這個控制都能撐過整個 backstep 轉換過程。沒有它，backstep 會在對方胸口和你背部之間製造出短暫的分離，你可以利用這個空隙轉身面對他們。一旦 seatbelt 鎖死，就算你成功防住了腿，效果也只是暫時的，因為攻擊者仍維持著上半身連結，可以再次嘗試邁步。",
+    "answer_line": "Seatbelt 帶來持續性的控制",
+    "distractors": {
+     "plausible": [
+      "擋住腿就能完全阻止",
+      "腿部防守比抓握更重要"
+     ],
+     "trap": [
+      "不管抓握，只顧擋腿"
+     ]
+    }
+   },
+   {
+    "question": "你的防守轉身失敗了，對手插入了第一個勾腳——接下來該怎麼做？",
+    "answer": "立刻專注於防止第二個勾腳插入，因為只有一個勾腳的背控並不完整，逃脫仍然是實際可行的。用同側的腿把已經插入的勾腳頂出去，同時用雙手對抗 seatbelt 抓握。把身體轉向勾腳那一側，減少對手控制你髖部旋轉的能力。如果第二個勾腳也插進來了，立刻轉換到標準背控逃脫流程。",
+    "answer_line": "擋第二個勾腳，頂掉第一個",
+    "distractors": {
+     "plausible": [
+      "立刻試著站起來",
+      "從下位發動 leg lock"
+     ],
+     "trap": [
+      "放鬆並接受被背控"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄防守 backstep，轉為執行背控逃脫的基本流程？",
+    "answer": "一旦兩個勾腳都插入且 seatbelt 已經鎖死，這次 backstep 就已經成功，繼續硬拚只會浪費體力。此時應立刻轉換為標準背控防守：用二對一抓握對抗正在勒頸的手臂以保護頸部，有系統地從較弱的一側開始頂掉勾腳，並執行髖部逃脫流程來製造轉身逃脫的角度。",
+    "answer_line": "兩個勾腳都鎖死之後",
+    "distractors": {
+     "plausible": [
+      "一個勾腳插入就放棄",
+      "在爭奪 underhook 落敗時"
+     ],
+     "trap": [
+      "永遠不要停止對抗勾腳"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Backstep from Reverse Half.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

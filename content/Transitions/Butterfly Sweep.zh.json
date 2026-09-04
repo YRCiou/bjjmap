@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Butterfly Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Butterfly Sweep 對付體型較大的對手時，最有效的力學原理是什麼？",
+    "answer": "Butterfly Sweep 靠的是槓桿與旋轉動量，而不是純粹的力量。透過用支撐的 base hand 建立支點，並用 butterfly hook 破壞對手的 base，同時把對手拉過你的中線，你會製造出類似輪子的旋轉，讓力量倍增。這個技巧會重新導引對手的體重、利用他們自己的質量對付他們，讓體型差異變得比較不重要。正確的執行需要多個環節（hook 的抬升、上半身的拉力、髖部旋轉）同時協調，產生對手光靠 base 無法抵抗的圓周動量。",
+    "answer_line": "旋轉槓桿勝過蠻力",
+    "distractors": {
+     "plausible": [
+      "速度與敏捷的優勢",
+      "柔軟度與關節活動度"
+     ],
+     "trap": [
+      "用蠻力硬幹過去"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 Butterfly Sweep 之前，為什麼破壞對手的姿態（posture）如此重要？",
+    "answer": "破壞姿態會讓對手的體重壓到你的中線與 hooks 上，破壞他們的 base，讓他們可以被破勢並掃倒。這也能讓他們看不到 sweep 要來了，無法提早用手撐地反應，同時製造出你可以在 sweep 中重新導引的前衝動量，並限制他們用壓力把你壓制住的能力。如果姿態沒有被破壞，對手就能維持強壯的 base，體重分散在膝蓋與腳上，讓 sweep 變成一場低成功率的推擠比賽。矛盾的是，讓對手整個人壓在你身上反而更容易被掃倒，因為一旦你重新導引他們的體重，那體重就會變成他們的負擔。",
+    "distractors": {
+     "plausible": [
+      "先讓對手體力耗盡",
+      "先設置一個 submission"
+     ],
+     "trap": [
+      "讓對手保持挺直、重心輕"
+     ]
+    },
+    "answer_line": "把他們的體重壓到你的 hooks 上"
+   },
+   {
+    "question": "如果對手在你嘗試 Butterfly Sweep 時把手撐在地上，你該怎麼做？",
+    "answer": "手撐地能建立穩固的防守 base，但同時也創造了機會。首要反應是攻擊撐地那隻手臂，抓 Kimura grip，因為那隻手臂正處於伸展且孤立的狀態。另一個選擇是把 sweep 方向改到另一側，因為對手的體重此刻已經壓在撐地那一側。你也可以調整 hooks 去控制另一條腿，轉換成 X-Guard。進階練習者可以透過破解 grip 移除對手撐地的手，或製造足夠的旋轉動量來壓過那隻撐地的手，繼續完成 sweep。關鍵是及早發現對手撐地，立刻轉換到你事先規劃好的應對方式，而不是硬跟那隻撐地的手對抗。",
+    "answer_line": "攻擊撐地手臂的 Kimura",
+    "distractors": {
+     "plausible": [
+      "同一側更用力推過去",
+      "改成嘗試 collar choke"
+     ],
+     "trap": [
+      "抓住那隻撐地的手把自己拉起來"
+     ]
+    }
+   },
+   {
+    "question": "撐地那隻 base hand 的位置如何幫助 sweep 成功？",
+    "answer": "base hand 是旋轉 sweep 動作的支點（pivot point）。它撐在你身後、手肘微彎，能防止你向後倒，並在整個 sweep 過程中提供結構上的穩定。這隻手創造出一個旋轉軸，讓你的身體能像輪子一樣運作，把對手翻轉過去。正確的撐地方式能讓你透過拉開撐地手與 hooks 之間的距離來製造槓桿，把力學優勢最大化。如果沒有這隻 base hand 撐地，你就有向後倒的風險，會失去所有動量，往往最後被對手壓在 mount 底下。這隻撐地手必須在 sweep 開始前就建立好，並在整個動作中維持。",
+    "answer_line": "旋轉的支點",
+    "distractors": {
+     "plausible": [
+      "多一個 grip 用來拉近對手",
+      "用來把對手推開的 frame"
+     ],
+     "trap": [
+      "兩隻手都放在對手的 collar 上"
+     ]
+    }
+   },
+   {
+    "question": "成功的 Butterfly Sweep 和最後變成 scramble 的失敗 sweep，兩者差別在哪裡？",
+    "answer": "成功的 sweep 會完整逆轉位置，讓你建立 mount 或 side control，把對手的背壓在地上。這需要：在動作開始前先破壞對手姿態；所有 sweep 環節協調一致地執行；足夠的旋轉動量把對手完全翻過去；對手翻轉的同時立刻抽出 hooks；積極向前推進以建立上位；以及立刻用 crossface 和 underhook 鞏固控制。失敗的 sweep 通常來自：姿態破壞不足，讓對手的 base 依然完整；協調不佳導致動量不足；hooks 太早抽出，讓對手無法完全翻轉；沒有徹底跟進，讓對手能turtle；或是 sweep 動作被對手看穿，讓他們有時間準備防守。關鍵差異在於決心與執行——你必須全力投入這個 sweep，徹底把它做完，而不是希望對手自己翻過去。",
+    "answer_line": "完整逆轉，接著鞏固上位",
+    "distractors": {
+     "plausible": [
+      "對手的 base 只是暫時被破壞",
+      "對手撐地並重新回到 guard"
+     ],
+     "trap": [
+      "對手一開始傾斜就停下來"
+     ]
+    }
+   },
+   {
+    "question": "當對手向後 sprawl 遠離你的 butterfly hooks 時，有哪些立即可用的轉換選擇？",
+    "answer": "當對手向後 sprawl 時，他們會把體重從你的 hooks 上移開，但同時也暴露出 guard 轉換的機會。首要選擇是跟隨他們向後的動作，把一條腿深深滑進他們身體下方，轉換成 Deep Half Guard。另一個選擇是調整 hooks 去控制其中一條腿，轉換成 Single Leg X-Guard。你也可以做 Technical Standup 站起來，同時維持 grip 控制。如果對手保持跪姿，另一個選擇是轉換成 Shin-to-Shin 或 De La Riva guard。關鍵是要維持 grip 控制，並立刻跟隨對手的動作，而不是想把他們拉回你的 hooks 上。要把這些轉換當成 Butterfly Sweep 失敗後的直接銜接動作來練習。",
+    "answer_line": "跟進轉換成 deep half guard",
+    "distractors": {
+     "plausible": [
+      "把他們拉回你的 hooks 上",
+      "從遠距離追著抓腳踝"
+     ],
+     "trap": [
+      "放開所有 grip 脫離接觸"
+     ]
+    }
+   },
+   {
+    "question": "發動 Butterfly Sweep 的最佳時機是什麼？",
+    "answer": "最佳時機是對手把體重往前移的瞬間——像是傾身抓 grip、往前壓要 pass、或想把你壓平的時候。在那一刻他們的重心會移到你的 hooks 上方，他們的手忙著搶 grip 而不是撐地維持 base，而且他們向前的動量可以被你重新導引成旋轉力。第二個時機窗口是對手伸出一隻手去抓 grip 或嘗試 crossface 時，暫時少了一隻可能撐地的手。要辨識這些時機，需要透過大量的位置對抗訓練，培養出對 hooks 和 grip 上體重變化的敏感度。",
+    "distractors": {
+     "plausible": [
+      "他們剛坐下的那一刻",
+      "他們已經完全 sprawl 回去之後"
+     ],
+     "trap": [
+      "等他們已經 pass 過你的腿之後"
+     ]
+    },
+    "answer_line": "當他們傾身向前抓 grip 時"
+   },
+   {
+    "question": "標準 underhook Butterfly Sweep 中，哪種 grip 配置能提供最強的控制？",
+    "answer": "最強的配置是在 sweep 那一側建立深深的 underhook，手伸到對手遠側的肩胛骨或 lat，同時另一側用 collar grip、控制手腕或 overhook 配合。underhook 有雙重作用：防止對手在 sweep 那一側撐地，並提供拉力來破壞姿態、產生旋轉動量。另一隻手的 grip 控制非 sweep 那一側，防止對手撐地或拉開距離。underhook 必須夠深，讓你的肩膀緊貼對手的腋下，形成一個結構上的連結，把你髖部的動作直接傳遞到他們的上半身。",
+    "answer_line": "深 underhook 加遠側 grip",
+    "distractors": {
+     "plausible": [
+      "兩隻手都抓同一個 collar",
+      "在非 sweep 側做 underhook"
+     ],
+     "trap": [
+      "放棄 underhook 換成 collar tie"
+     ]
+    }
+   },
+   {
+    "question": "Butterfly Sweep 過程中主要的施力方向應該是哪裡？",
+    "answer": "主要的力量向量是斜向且旋轉的，不是純粹向上或純粹側向。負責 sweep 的那隻 hook 會以大約 45 度角向上、朝對手對側肩膀的方向推，同時你上半身的 grip 會朝同一個斜向拉動對手。你會朝著撐地那隻 base hand 的方向倒下，同時把對手翻過去。這會形成一個以你撐地手為支點的圓弧，讓對手的身體繞著它旋轉。一個常見的誤解是 sweep 主要靠向上抬升，但抬升只是其中一個環節。真正的 sweep 力量來自協調一致的斜向「拉—倒」動作，把對手前衝的體重轉換成旋轉動量。",
+    "answer_line": "斜向的「拉—倒」旋轉",
+    "distractors": {
+     "plausible": [
+      "純粹向上抬升的力量",
+      "純粹側向推的力量"
+     ],
+     "trap": [
+      "把對手直接往後推"
+     ]
+    }
+   },
+   {
+    "question": "對手在你還維持 hooks 與 grip 的情況下站起來，防守你的 Butterfly Sweep，你接下來該追打哪個攻擊鏈？",
+    "answer": "當對手從你的 butterfly guard 站起來時，維持你的 grip，立刻把 hooks 調整到符合新姿勢的位置。首要選擇是把一隻 hook 插到他們的膝蓋後方，同時控制同側的袖子或 collar，進入 X-Guard 或 Single Leg X-Guard——對站立中的對手來說，這時 sweep 的成功率反而更高。如果他們站起來時 base 很窄，可以立刻做抬升式 sweep，同時把兩隻 hooks 向上推、把他們的上半身向下拉。如果他們拉開距離、放開 grip，就轉換成 De La Riva 或 Reverse De La Riva guard 以維持腿部控制。最大的錯誤是在對方站起來時放開 grip，這會讓他們脫離接觸並開始 standing pass。",
+    "answer_line": "維持 grip，進入 X-Guard",
+    "distractors": {
+     "plausible": [
+      "立刻跟著站起來",
+      "改成 double leg takedown"
+     ],
+     "trap": [
+      "對手站起來時放開 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要防止 Butterfly Sweep 被發動，最重要的單一身體姿勢細節是什麼？",
+    "answer": "把髖部往後、放低，體重靠膝蓋分散，而不是向前傾壓在對手的 hooks 上。當你的髖部在肩膀後方時，對手就無法有效地把你的體重壓到他們的 hooks 上，而這正是任何 Butterfly Sweep 變化型的前提條件。這個髖部姿勢同時也限制了 hooks 能產生多少抬升力，並減少底下的人可以重新導引的前衝動量。維持這個姿勢需要主動的意識，因為自然的纏鬥本能常常會讓人向前傾以施加壓力，而這正是餵給 sweep 的動作。",
+    "answer_line": "髖部往後、重心放低",
+    "distractors": {
+     "plausible": [
+      "肩膀打平、保持疊起",
+      "膝蓋外開拉寬 base"
+     ],
+     "trap": [
+      "向前傾以施加壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立深 underhook，開始把你往前拉並抬升其中一隻 hook，你當下最優先的防守動作是什麼？",
+    "answer": "你當下最優先的動作是在 hook 抬升的那一側把手撐到地上，同時在同一側把髖部往下壓，消除那個抬升。這個撐地動作必須在完整旋轉開始前完成。同時，用你另一隻手攻擊 underhook，做 whizzer 或把手臂游回內側。不要試圖靠拉開距離來擺脫 underhook，因為這正好給了底下的人他們需要的角度。在阻止當下的 sweep 威脅之後，要在對手下一次嘗試之前把 underhook 剝除。如果你覺得撐地已經太晚、旋轉已經開始，就爆發性地向後 sprawl，把體重整個從 hooks 上移開。",
+    "answer_line": "撐地，把髖部往下壓",
+    "distractors": {
+     "plausible": [
+      "拉開距離製造空間",
+      "改到另一側撐地"
+     ],
+     "trap": [
+      "伸手去抓他們遠側的腿"
+     ]
+    }
+   },
+   {
+    "question": "防守 Butterfly Sweep 時，為什麼向後 sprawl 有時候比撐地更有效？",
+    "answer": "向後 sprawl 會同時把你全身的體重從 hooks 上移開，消除驅動 sweep 的抬升力。單靠撐地只能擋住旋轉的方向，如果底下的人產生足夠的動量，或把 sweep 改到另一側，撐地就可能被壓過。sprawl 還有一個優點是不分方向，不管 sweep 是朝哪一側發動都有效，而撐地只能擋住一個方向，讓你在另一個方向上仍然有破綻。不過，sprawl 在 sweep 序列還沒確定方向的早期階段最有效。一旦完整旋轉已經開始，撐地會比完整的 sprawl 更快、更實用。",
+    "answer_line": "一次移除所有體重",
+    "distractors": {
+     "plausible": [
+      "只擋住近側的方向",
+      "完全旋轉之後效果更好"
+     ],
+     "trap": [
+      "試著用力量硬撐過抬升"
+     ]
+    }
+   },
+   {
+    "question": "在上位時，如何透過 grip fighting 在 Butterfly Sweep 開始之前就先防止它？",
+    "answer": "主動的 grip fighting 能阻止底下的人組合出 sweep 所需的前提條件。優先阻止 underhook，把你的手肘收緊，用你自己的 underhook 或 collar tie 爭奪內側位置。如果是穿 gi，要用 two-on-one 立刻破解 collar grip，不讓對手拿來破壞你的姿態。控制對手至少一隻手腕，避免他們建立高成功率 sweep 所需的雙側控制。當你掌控了 grip 的交鋒，底下的人就必須花力氣搶 grip，而不是執行 sweep，這會把戰術主動權轉移到你身上，並為你的 pass 創造機會。",
+    "answer_line": "阻止 underhook，手肘收緊",
+    "distractors": {
+     "plausible": [
+      "用 cross-face 把他們壓平",
+      "抓住褲子拖延時間"
+     ],
+     "trap": [
+      "讓他們抓到 two-on-one grip"
+     ]
+    }
+   },
+   {
+    "question": "成功防守 Butterfly Sweep 之後，你緊接著該做的動作是什麼？",
+    "answer": "立刻發動 pass 的攻勢，在對手能重新建立最佳 guard 結構之前完成。sweep 失敗後，底下的人的 grip 會被打亂，姿態可能因為那次嘗試而被破壞，hooks 也可能部分移位。這會製造一個短暫的窗口，讓他們維持 guard 的能力下降。具體要用哪種 pass 取決於你用的防守方式：如果是靠撐地防守，就把撐地那一側往前推，做 knee slice 或 pressure pass；如果是靠 sprawl 防守，就順著向前的壓力做 smash pass 或 over-under 配置；如果是靠剝除 grip 防守，就立刻建立自己的主導 grip，做 toreando 或 body lock pass。",
+    "answer_line": "立刻開始 pass guard",
+    "distractors": {
+     "plausible": [
+      "回到中立位置慢慢重新抓 grip",
+      "等對手再次進攻"
+     ],
+     "trap": [
+      "後退拉開距離"
+     ]
+    }
+   }
+  ]
+ }
+}

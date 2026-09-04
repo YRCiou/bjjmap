@@ -1,0 +1,143 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge from Scarf Hold Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼 scarf hold 的翻轉需要 45 度的 bridge 角度，而不是垂直 bridge？",
+    "answer": "45 度角能利用 scarf hold 垂直配置的特性，把旋轉力導向對手暴露出來的肩線上方。垂直 bridge 只會短暫把對手抬起，接著重力就會把他們帶回原本位置，不會產生任何水平位移。角度化的 bridge 能把垂直的髖部伸展力量轉化為水平的翻滾動能，鎖定對手背朝你這個角度的結構弱點，而這個弱點光靠向下的壓力是無法抵抗的。",
+    "answer_line": "把力量翻滾過暴露的肩線",
+    "distractors": {
+     "plausible": ["垂直 bridge 抬得更高", "角度能避開對手的 base"],
+     "trap": ["直直往上 bridge 求最大高度"]
+    }
+   },
+   {
+    "question": "在投入 bridge 之前，必須先建立的最關鍵控制點是什麼？",
+    "answer": "困住對手繞頭那隻手臂，是最關鍵的控制點。如果沒有把這隻手臂固定橫過你的胸口，對手一感覺到 bridge 就能立刻把手撐在地墊上，建立穩固的結構性 base，完全抵消掉旋轉力量。困住手臂能消除對手主要的撐地能力，讓翻滾在力學上變得可能。腿部的 hook 與腳部擺位能加強 bridge，但無法彌補缺少手臂控制的問題。",
+    "answer_line": "困住繞頭那隻手臂",
+    "distractors": {
+     "plausible": ["先 hook 對手遠側的腿", "先建立近側 underhook"],
+     "trap": ["先 bridge，之後再控制"]
+    }
+   },
+   {
+    "question": "對手感覺到你在準備 bridge 時，把遠側手臂撐得很寬——你該如何應變？",
+    "answer": "當對手加寬 base 來抵抗翻滾時，面對他們寬闊的撐地三角，完整的翻轉在力學上會變得不可能。此時要把 bridge 嘗試轉換成 frame bridge hip escape：利用向上的 bridge 動作在你的軀幹與對手重量之間創造出垂直空間，接著立刻把髖部 shrimp 開，插入膝蓋奪回 half guard。阻擋翻滾的寬闊 base，實際上會在垂直 bridge 階段創造出更多空間，讓 hip escape 的變化型更為可行。",
+    "answer_line": "先 bridge，再 shrimp 到 half guard",
+    "distractors": {
+     "plausible": ["還是硬拚翻滾過去", "等對手手臂累了"],
+     "trap": ["硬把翻滾推向對手的 base"]
+    }
+   },
+   {
+    "question": "這個 bridge 翻轉最危險的反擊是什麼，你該如何預防？",
+    "answer": "最危險的反擊是，當你的髖部在 bridge 過程中抬起時，對手趁機跨腿進入 mount。你向上的髖部動作會創造出他們需要的空間，讓他們把近側的腿掃過你的身體並建立 mount，把你的逃脫嘗試轉變成大幅更糟的位置。要預防這一點，必須在 bridge 之前用你在下方的腿在腳踝或小腿處 hook 住對手的近側腿，物理性地阻擋跨腿。如果即使有 hook 你仍感覺到跨腿正在發生，要立刻放棄 bridge，夾緊手肘阻擋 mount 的鞏固。",
+    "answer_line": "bridge 前先 hook 對手近側腿",
+    "distractors": {
+     "plausible": ["把遠側手臂困得更緊", "更快 bridge 搶在跨腿之前"],
+     "trap": ["高高 bridge，不 hook 腿"]
+    }
+   },
+   {
+    "question": "從 scarf hold 執行 bridge-and-roll 翻轉的最佳時機窗口是什麼時候？",
+    "answer": "最佳的時機窗口出現在對手重心轉移、準備發動降伏技攻擊或位置轉換的時候。當他們放鬆部分頭部控制去攻擊 americana，或轉移髖部準備轉換到 mount 或 north-south 時，他們的 base 會暫時受損，注意力也會分散在攻擊與維持 base 之間。這創造出一個窗口，讓完整的 bridge 能用最少的力氣發揮最大效果，因為對手的結構性抵抗此時處於最低點。",
+    "answer_line": "趁對手攻擊或重心轉移時",
+    "distractors": {
+     "plausible": ["對手剛穩定就立刻動作", "對手加強頭部控制時"],
+     "trap": ["對手完全穩定且靜止時"]
+    }
+   },
+   {
+    "question": "這個技巧與 bridge escape 到 half guard 復位有什麼不同？",
+    "answer": "bridge-and-roll 翻轉是投入把對手完全翻過他們的肩膀，讓自己落在對手 closed guard 的上位，產生完整的位置翻轉。bridge escape 到 half guard 則是利用 bridge 創造垂直空間，再轉換成 hip escape 以奪回 guard，不嘗試完整的翻滾。翻轉的風險較高，因為投入的 bridge 會讓你暴露在 mount 跨腿反擊之下，但成功時的結果更好，因為你最終會處於上位，而不是 half guard 底部。",
+    "answer_line": "完整翻滾到上位 closed guard",
+    "distractors": {
+     "plausible": ["同一個動作，只是 grip 不同", "最後停在 half guard 底部"],
+     "trap": ["只 bridge，不做翻滾"]
+    }
+   },
+   {
+    "question": "你的 bridge 嘗試失敗，落回地墊回到 scarf hold——你接下來立刻該做什麼？",
+    "answer": "立刻串接後續逃脫動作，而不是休息或重置。即使完整的翻滾被擋下，失敗的 bridge 仍會造成一些位置上的破壞與空間。利用這短暫的空間，把髖部 shrimp 開，執行以 frame 為基礎的 hip escape 到 half guard，或是轉身面向對手，往膝蓋方向朝 turtle 移動，轉換成 ghost escape。失敗的 bridge 之後絕不要被動地攤回起始位置，因為對手會收緊控制，你的體力就會完全白費，沒有後續動作。",
+    "answer_line": "串接 hip escape，別重置",
+    "distractors": {
+     "plausible": ["重置，重新蓄力 bridge", "稍微休息，再嘗試一次"],
+     "trap": ["靜止不動，承受壓力"]
+    }
+   },
+   {
+    "question": "這個翻轉在 no-gi 與 gi 執行時，grip 需要做哪些調整？",
+    "answer": "在 gi 中，抓住對手繞頭那隻手臂手腕或手肘摺痕處的衣袖布料來完成困臂，這能提供安全、靠摩擦力的控制，抵抗對手抽出手臂。在 no-gi 中，則使用手腕對手腕的 grip、手肘上方的 C-grip，或在被困的手臂上建立 two-on-one 控制，因為沒有衣袖可以抓。no-gi 版本需要把被困的手臂更緊地夾在你胸口，因為在爆發性 bridge 過程中，摩擦力較少，較難保持 grip 穩固。腿部 hook 的力學在兩種情境下維持相同。",
+    "answer_line": "No-gi：抓手腕，夾得更緊",
+    "distractors": {
+     "plausible": ["No-gi：一樣抓衣袖就好", "No-gi：跳過困臂"],
+     "trap": ["No-gi：改抓對手衣領"]
+    }
+   },
+   {
+    "question": "預備頂動與主要 bridge 之間是什麼關係，為什麼頂動必須保持細微？",
+    "answer": "預備頂動會在主要 bridge 之前，把對手的重心稍微移到預定翻滾路線之上，確保爆發性的髖部伸展能把他們推過臨界點，而不只是暫時把他們移位。頂動必須保持細微，因為明顯的向上髖部動作會洩漏逃脫意圖，讓對手預先加寬 base，這會同時抵消頂動與後續的 bridge。理想的預備頂動，在上位者感覺起來應該像是輕微的位置調整或呼吸動作，而不是刻意的逃脫鋪陳，這樣才能為接下來投入的 bridge 保留出其不意的效果。",
+    "answer_line": "頂動要細微，不能明顯",
+    "distractors": {
+     "plausible": ["頂動要大，求最大力量", "用頂動取代主要 bridge"],
+     "trap": ["用力頂動來測試對手的 base"]
+    }
+   },
+   {
+    "question": "你成功翻轉了對手，但落在對手的 open guard 而不是 closed guard——可能哪裡出了問題，你該如何把握機會？",
+    "answer": "落在 open guard 而不是 closed guard，通常代表翻滾過程中的貫徹力度不足，你可能在 bridge 最高點停頓，或沒有把身體完全推過旋轉、讓髖部落在對手雙腿之間。對手在轉換過程中有時間打開雙腿並建立防禦性 frame。要把握機會，立刻建立 combat base 姿勢，雙手放在對手髖部上，並在對手能夠關閉 guard 或建立 grip 之前開始過 guard 的動作序列。優先控制對手的雙腿、阻止 guard 關閉，因為你從翻轉的動能中獲得了短暫的上位優勢。",
+    "answer_line": "趁 guard 關閉前快速過 guard",
+    "distractors": {
+     "plausible": ["重置，再試一次完整翻滾", "就從 open guard 安頓下來"],
+     "trap": ["等對手先關閉 guard"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "bridge 翻轉要成功，需要串連哪三個準備要素，你應該優先破壞哪一個？",
+    "answer": "這三個要素是：困住你繞頭的手臂、hook 住你的近側腿，以及以 45 度角執行爆發性 bridge。應優先防止困臂，因為這是最關鍵的要素。如果手臂沒有被困住，下位者就無法阻止你在 bridge 過程中撐地，這讓翻轉在力學上變得不可能，無論 bridge 力量或腿部 hook 的位置如何。保持你繞頭那隻手臂靈活且貼緊，是你防守上的最高優先。",
+    "answer_line": "優先阻止困臂",
+    "distractors": {
+     "plausible": ["優先擋住腿部 hook", "優先加寬你的 base"],
+     "trap": ["忽略手臂，專注在髖部"]
+    }
+   },
+   {
+    "question": "當你在 scarf hold 時，下位對手抬起髖部準備 bridge——你應該抵抗 bridge，還是轉換成反擊？",
+    "answer": "最佳的應對是轉換，而不是抵抗。趁對手髖部抬起時，把近側的腿跨過對手身體轉換到 mount，利用他們向上的動能創造你需要的空間。靠力量硬扛是一種消耗戰策略，這對能連續發動多次嘗試的下位者更有利。把 bridge 轉換成 mount 的過程，能把對手逃脫的力量轉化為你位置的推進，遠比反覆吸收爆發性 bridge 更有效率。",
+    "answer_line": "跨腿進 mount，不要抵抗",
+    "distractors": {
+     "plausible": ["sprawl 並把重量壓下", "用自己的 bridge 對抗"],
+     "trap": ["硬撐並用力氣壓制"]
+    }
+   },
+   {
+    "question": "什麼時候嘗試 mount 轉換反擊來對抗 bridge 翻轉最危險？",
+    "answer": "當下位者已經固定了全部三個控制點（困臂、腿部 hook，以及 45 度 bridge 角度），並全力投入爆發性旋轉時，mount 反擊最危險。在這種情況下，嘗試跨腿有可能被旋轉的動能一起帶過去，完全失去位置。當下位者在沒有牢固困臂或腿部 hook 的情況下 bridge 時，這個反擊最安全，因為 bridge 只會產生向上的動作，沒有足以把你帶過去的旋轉力量。在投入跨腿之前，先判讀對方準備動作的完成程度。",
+    "answer_line": "三個控制都固定時才危險",
+    "distractors": {
+     "plausible": ["只固定腿部 hook 時", "髖部一抬起的瞬間"],
+     "trap": ["只要感覺到任何 bridge"]
+    }
+   },
+   {
+    "question": "你該如何在控制用的髖部壓力，與被 bridge 翻轉的風險之間取得平衡？",
+    "answer": "髖部壓力應該透過骨盆向下壓向下位者的肋骨，以限制他們的呼吸與 bridge 能力，但你的重量不能完全投入在翻滾路線的正前方。要把重心維持在你撐地的各個 base 點之間，而不是直接堆疊在下位者胸口正上方。如果你感覺下位者把重量往你身上加載，就把壓力稍微往後移，同時加寬 base，以防止自己被加載超過旋轉 bridge 的臨界點。",
+    "answer_line": "向下壓，被加載時就後移",
+    "distractors": {
+     "plausible": ["把全部重量往前壓", "重心集中在對手胸口正上方"],
+     "trap": ["把重量堆疊在翻滾路線上"]
+    }
+   }
+  ]
+ }
+}

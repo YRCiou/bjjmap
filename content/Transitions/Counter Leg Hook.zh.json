@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 Counter Leg Hook 的最佳時機窗口是什麼時候？",
+    "answer": "最佳窗口出現在上位者把重心前傾以推進 pass，或側向轉移以鞏固 hook 的時候。在這些轉換的瞬間，對方的底盤暫時受損，無法快速應對你的反制動作。如果在上位者已經安頓、平衡穩固時才發動反制，成功率會大幅下降。",
+    "answer_line": "趁對方投入重心或轉移時",
+    "distractors": {
+     "plausible": [
+      "hook 一設定就立刻反制",
+      "等對方安頓平衡之後"
+     ],
+     "trap": [
+      "等到完全被壓平才反制"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要先拆解或鬆開 hook，才能轉向 turtle？",
+    "answer": "如果你在 hook 仍然鎖住的狀態下轉向 turtle，上位者會維持對腿部的控制，這正好直接餵給對方建立 back control 所需的條件。仍然生效的 hook 等於是幫對方預先建立了 back take 的第一個 hook，代表你抵達 turtle 時就已經有一半陷入被奪背的處境。先拆解 hook，能確保你抵達 turtle 時是處於中立的防禦位置，而不是已經受損的位置。",
+    "answer_line": "hook 會餵養對方的奪背",
+    "distractors": {
+     "plausible": [
+      "無論如何 turtle 都比較安全",
+      "為 scramble 保留體力"
+     ],
+     "trap": [
+      "立刻轉向 turtle"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試轉向 turtle 時，對手用力 sprawl 壓制——你該如何調整？",
+    "answer": "把 sprawl 的壓力當成改為 guard recovery 的機會。對方的 sprawl 會造成向下的壓力，但同時也降低了他們的側向移動能力。趁對方 sprawl 沉重、側向較弱的時候，把髖部從壓力下滑開，重新插入 knee shield 或 butterfly hook。只要你順著這個方向調整動作，sprawl 實際上反而能幫你創造出重新插入 guard 所需的分離空間。",
+    "answer_line": "滑開髖部，插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "硬闖到 turtle",
+      "頂進對方的胸口"
+     ],
+     "trap": [
+      "靜止不動，等它過去"
+     ]
+    }
+   },
+   {
+    "question": "讓 hip escape 在這個反制中有效的關鍵力學細節是什麼？",
+    "answer": "hip escape 的方向必須垂直於上位者的壓力方向，而不是直接遠離對方。垂直移動能利用對方重心已經投入某個特定方向這個事實，讓他們很難跟上這個側向的改變。下方的腳負責驅動這個逃脫動作，同時用 frame 頂住對方上半身，防止對方把你創造出的空間重新壓縮回去。",
+    "answer_line": "垂直於壓力方向逃脫",
+    "distractors": {
+     "plausible": [
+      "直接遠離對方逃脫",
+      "朝對方背後逃脫"
+     ],
+     "trap": [
+      "直接頂進對方胸口"
+     ]
+    }
+   },
+   {
+    "question": "在發動反制之前，你應該優先爭奪拆解哪個握點？",
+    "answer": "優先拆解 crossface 握點，因為它控制著你的頭部與上半身朝向，讓轉身動作變得極度困難。次要優先是任何控制你近側髖部的握點，因為那會阻止反制所需的 hip escape。用雙手夾擊的方式拆解優先握點，然後在對方能重新建立控制之前立刻發動反制。",
+    "answer_line": "優先拆解 crossface",
+    "distractors": {
+     "plausible": [
+      "優先拆解遠側握點",
+      "優先拆解袖口握點"
+     ],
+     "trap": [
+      "無視握點，直接 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "在反制過程中，你如何決定該轉向 turtle 還是嘗試 guard recovery？",
+    "answer": "這個決定取決於 hip escape 之後你有多少可用空間，以及上位者上半身有多接近你。如果你創造出足夠的空間，能把膝蓋插進雙方身體之間，就嘗試用 knee shield 或 butterfly hook 來 guard recovery。如果上位者即使失去 hook 仍然緊貼你的上半身，turtle 是比較安全的選擇，因為在對方仍維持胸口壓力的情況下嘗試插入 guard，往往會導致更糟的位置。",
+    "answer_line": "膝蓋插得進去就選 guard",
+    "distractors": {
+     "plausible": [
+      "一律預設選擇 turtle",
+      "一律硬拚 guard"
+     ],
+     "trap": [
+      "貼身時仍硬插 knee shield"
+     ]
+    }
+   },
+   {
+    "question": "你的反制嘗試失敗，對手重新建立 hook——這時的連鎖攻擊是什麼？",
+    "answer": "立刻連鎖進行第二次反制，方向與剛才相反，利用對方重新建立 hook 時產生的前衝動能來反制對方。另外，如果 hook 比之前更深，就放棄反制，改從對方底盤下方穿入 deep half guard。關鍵在於：反制失敗後絕不要安於停留在靜態的被攻腿下位。",
+    "answer_line": "反方向連鎖反制",
+    "distractors": {
+     "plausible": [
+      "重複同方向的反制",
+      "放棄並拖延重新開始"
+     ],
+     "trap": [
+      "安於停留在被攻腿下位"
+     ]
+    }
+   },
+   {
+    "question": "frame 在整個反制序列中扮演什麼角色？",
+    "answer": "frame 是反制每個階段的結構基礎。在反制開始前，frame 能防止被壓平，並創造出最初的空間。在拆解 hook 的過程中，frame 能阻止上位者跟上你的髖部移動。在轉身過程中，frame 能創造出完成位置轉換所需的分離空間。抵達 turtle 或 guard 之後，frame 能防止上位者立刻重新建立支配性控制。在任何一個階段失去 frame 接觸，通常都會導致反制失敗。",
+    "answer_line": "frame 全程防止被壓平",
+    "distractors": {
+     "plausible": [
+      "frame 只在一開始重要",
+      "frame 只在抵達 turtle 後才重要"
+     ],
+     "trap": [
+      "放開 frame 以求更快"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "Counter Leg Hook 嘗試正在醞釀，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是對方積極爭奪你控制他們頭部的 crossface 手，同時下位者的自由腿開始對你的 hook 腿或髖部產生動作。這些動作代表對方正在建立反制所需的前提條件：消除你對上半身的控制，並開始處理 hook。及早察覺這些線索，能讓你在反制形成動能之前，提早增加壓力並加深 hook 的投入。",
+    "answer_line": "爭奪 crossface + 腿開始動作",
+    "distractors": {
+     "plausible": [
+      "hook 突然變深",
+      "對手轉換到 side control"
+     ],
+     "trap": [
+      "等 hip escape 嘗試出現再反應"
+     ]
+    }
+   },
+   {
+    "question": "在防禦這個反制時，為什麼 crossface 控制比 hook 深度更重要？",
+    "answer": "crossface 控制限制了下位者轉身、改變方向或建立 frame 的能力，而這些都是反制的必要前提。沒有 crossface 的深 hook，會讓下位者能自由地建立 frame，並運用髖部力學拆解 hook。反過來說，強力的 crossface 搭配中等深度的 hook，能讓下位者維持平貼、無法產生任何反制變化所需的動作。",
+    "answer_line": "crossface 阻止轉身與 frame",
+    "distractors": {
+     "plausible": [
+      "hook 深度最重要",
+      "underhook 最重要"
+     ],
+     "trap": [
+      "放鬆 crossface，加深 hook"
+     ]
+    }
+   },
+   {
+    "question": "下位者成功抵達 turtle——你應該如何轉換你的攻擊？",
+    "answer": "立刻從 passing 壓力轉換成 back control 的攻擊方法。建立胸貼背的壓力，扣上 seatbelt 或 harness 握點，並從近側 hook 開始有系統地插入 hook。不要試圖回到攻腿式 pass 的位置。turtle 位置其實比重新建立 pass 位置提供了更高成功率的 back take 機會，所以要把這個轉換當成一個機會，而不是問題。",
+    "answer_line": "轉為攻擊 back control",
+    "distractors": {
+     "plausible": [
+      "重新建立 pass 位置",
+      "重置回中立、重新開始"
+     ],
+     "trap": [
+      "讓對方恢復 full guard"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位者正在蓄積髖部準備反制時，你該如何調整自己的重心分配？",
+    "answer": "立刻把重心壓低，把髖部驅向對方的髖線，阻止驅動這個反制的垂直方向 hip escape。透過胸口增加向下的壓力，並把你的重心轉向下位者試圖逃脫的那一側。這樣能封鎖對方的逃脫角度，同時維持你的 hook 投入。避免把重心抬高，因為那會創造出對方需要的空間。",
+    "answer_line": "壓低重心，驅向髖線",
+    "distractors": {
+     "plausible": [
+      "抬高身體以看清空間",
+      "把重心轉向另一側"
+     ],
+     "trap": [
+      "放鬆壓力以避免拖延判罰"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Counter Leg Hook.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

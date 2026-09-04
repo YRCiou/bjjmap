@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Balloon Sweep 與傳統 closed guard 橫向掃技，在力學上的主要差異是什麼？",
+        "answer": "Balloon Sweep 利用垂直位移與髖部向上爆發伸展，先把對手的重心抬起，再把對手翻過一條對角線，而不是仰賴橫向的髖部移動去削弱對方的底盤。這個垂直分量會製造出短暫的失重瞬間，讓對手無法撐地支撐，因此對那些底盤寬、能成功防守 Scissor Sweep 這類橫向掃技的對手特別有效。",
+        "answer_line": "垂直上抬，而非橫向切",
+        "distractors": {
+          "plausible": [
+            "橫向切斷對方底盤",
+            "坐起身向前驅趕"
+          ],
+          "trap": [
+            "伸直手臂把對方推開"
+          ]
+        }
+      },
+      {
+        "question": "為什麼壓縮蓄力階段對 Balloon Sweep 的成功如此關鍵？",
+        "answer": "把膝蓋收向胸口進行壓縮蓄力的階段，會產生類似彈簧壓縮的效果，儲存爆發伸展所需的彈性能量。若沒有正確蓄力，你只能仰賴向心肌力，而不是伸展—收縮循環，抬起的力道會薄弱，很容易被防守掉。對手的體重必須完全落在你的 butterfly hook 或撐地腳上，你才能釋放爆發伸展，製造最大的位移。",
+        "answer_line": "先蓄力於髖，再爆發彈起",
+        "distractors": {
+          "plausible": [
+            "單純用蠻力硬抬",
+            "體重還沒落定就伸髖"
+          ],
+          "trap": [
+            "對手還沒承重就先爆發"
+          ]
+        }
+      },
+      {
+        "question": "對手在你進行 Balloon Sweep 時成功把遠側腿撐寬，你該如何調整？",
+        "answer": "根據對手撐地的位置，你有幾個連續攻擊選項。如果他遠側腿撐寬，就改打 Scissor Sweep，直接切入他已經撐寬的底盤。如果他的手撐在墊上，就針對那隻被孤立伸直的手臂進攻 armbar from guard。如果他撐地時身體跟著轉動，就順勢跟著轉動去take the back。關鍵在於辨識他是用哪個肢體撐地，攻擊撐地造成的結構弱點，而不是硬幹原本的掃技方向。",
+        "answer_line": "改打 Scissor Sweep",
+        "distractors": {
+          "plausible": [
+            "硬幹原本的掃技方向",
+            "直接攻擊撐地那條腿的 armbar"
+          ],
+          "trap": [
+            "放開grip重新來過"
+          ]
+        }
+      },
+      {
+        "question": "執行 Balloon Sweep 時，你的髖部應該保持什麼角度？為什麼這個角度很關鍵？",
+        "answer": "你的髖部應該朝著collar grip那一側的對角，約呈 45 度角。這個角度會建立掃技的旋轉軸，並阻止對手把遠側腿直接撐在身後形成三角底盤。這個掃技是把對手翻過一條對角線，而不是直接往後翻，這在幾何上排除了對手最強的撐地選項，逼他只能往底盤最弱的側邊撐地。",
+        "answer_line": "髖部偏離中線約 45 度",
+        "distractors": {
+          "plausible": [
+            "髖部方正直接往後",
+            "呈 90 度以阻擋撐地"
+          ],
+          "trap": [
+            "髖部放平，重心壓在腳跟"
+          ]
+        }
+      },
+      {
+        "question": "爆發階段中，上半身與下半身之間正確的同步方式是什麼？",
+        "answer": "你必須同時用髖部向上爆發伸展，並靠 butterfly hook 把對手抬起，同一瞬間用力把collar往下拉，維持對手身體前傾，同時sleeve grip 阻止他用那隻手撐地。腿部的向上抬力與collar的向下拉力，會形成對抗的力向量，把對手翻過你的身體。如果這兩股力量沒有同步，對手就能靠挺直身體吸收抬力，或靠撐地吸收拉力。",
+        "answer_line": "腿抬人、手拉collar同時進行",
+        "distractors": {
+          "plausible": [
+            "先拉collar再抬髖",
+            "先抬髖再拉collar"
+          ],
+          "trap": [
+            "推開對手的髖部"
+          ]
+        }
+      },
+      {
+        "question": "啟動 Balloon Sweep 的最佳時機窗口是什麼時候？",
+        "answer": "最佳時機是你感覺到對手的體重完全壓縮、落在你的 butterfly hook 或撐地腳上時，理想狀況下正好搭配他自己向前施壓或移動的瞬間。具體的觸發點包括：對手向前驅趕想把你壓平、對手伸手去抓grip導致重心前移，或是他剛防守完一個 submission 失敗、身體向前垮下的那一刻。他的雙手必須靠近你的身體，而不是撐寬在墊上。",
+        "answer_line": "體重落上hook的瞬間",
+        "distractors": {
+          "plausible": [
+            "對手任何時候挺直身體都可以",
+            "對手雙手撐寬時"
+          ],
+          "trap": [
+            "打開guard之後立刻執行"
+          ]
+        }
+      },
+      {
+        "question": "對手手肘夾得很緊，不讓你建立掃技所需的collar grip，你該用什麼策略切入？",
+        "answer": "用submission的威脅逼開對方，創造抓collar grip的機會。從closed guard威脅 triangle 或 armbar，逼對手用雙手和頭部去防守。當他在防守submission時，他的姿勢會前傾破勢，雙手也會被佔用，這就創造出建立深collar grip的空檔。另一個做法是用overhook控制他一隻手臂並向前拉，這會破壞他手肘夾緊的防守，並把他的重心壓向前方、帶入掃技的蓄力位置。",
+        "answer_line": "用submission威脅逼開grip",
+        "distractors": {
+          "plausible": [
+            "硬掰開collar grip",
+            "等對手手臂放鬆"
+          ],
+          "trap": [
+            "把對手手肘往外推寬"
+          ]
+        }
+      },
+      {
+        "question": "Balloon Sweep 與 Hip Bump Sweep 在施力方向上的關鍵差異是什麼？",
+        "answer": "Hip Bump Sweep 是靠爆發性地坐起身、把力量斜向前上方灌向對手，用你的軀幹作為主要的掃技機制。Balloon Sweep 則是靠髖部伸展與 butterfly hook 的力學，從下方把力量垂直向上灌，同時用collar的拉力維持對手前傾。Hip Bump 需要你把背部離地坐起；Balloon Sweep 抬起的過程中你的背始終貼在墊上。這代表在 Hip Bump 無法啟動的情況下，Balloon Sweep 依然可以運作，尤其是當對手重心低、體重又重的時候。",
+        "answer_line": "Balloon 垂直上抬，背不離地",
+        "distractors": {
+          "plausible": [
+            "兩者都靠坐起身向前驅趕",
+            "Balloon 是斜向前方掃"
+          ],
+          "trap": [
+            "Balloon 需要上半身坐起"
+          ]
+        }
+      },
+      {
+        "question": "當對手只部分防守成功時，如何把 Balloon Sweep 銜接成take the back？",
+        "answer": "當對手撐地的遠側腿擋住了完整的掃技，但他的上半身因為你的抬力而跟著旋轉時，立刻順著這個旋轉放開collar grip，改抓近側的underhook。把你的髖部轉向背後那一側，同時把下方的hook插入他的膝蓋後方。他撐地的那條腿會變成一個支點，你就繞著這個支點轉到他背後。在嘗試插入第二個hook之前，先確保拿到seat belt control。關鍵是要辨識出他的防守讓背部暴露的那一刻，而不是繼續硬幹掃技。",
+        "answer_line": "順勢轉動，take the back",
+        "distractors": {
+          "plausible": [
+            "還是硬把掃技完成",
+            "全部放開重新開始"
+          ],
+          "trap": [
+            "繼續直直往後拉"
+          ]
+        }
+      },
+      {
+        "question": "無道服（no-gi）版本的 Balloon Sweep 需要做哪些grip上的調整？",
+        "answer": "把collar grip換成深overhook或whizzer，緊緊夾在對手手肘上方，控制他的姿勢並阻止那一側撐地。把sleeve grip換成手腕控制或那隻對側手臂上的two-on-one grip。改用overhook那一側把對手的頭壓向你的胸口做頭部控制，而不是仰賴collar的壓力。基本力學完全相同，但因為no-gi的grip本質上不如collar grip穩固，這些grip的替代方案需要更緊密的身體貼合。",
+        "answer_line": "改用overhook與腕部控制",
+        "distractors": {
+          "plausible": [
+            "雙手都用two-on-one",
+            "改抓深collar grip"
+          ],
+          "trap": [
+            "抓鬆一點靠速度取勝"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "在closed guard下位，Balloon Sweep正在被設置時，最早能察覺到的線索是什麼？",
+        "answer": "最早的線索是對手建立deep collar grip，同時破壞你身體前傾的姿勢。guard甚至還沒打開之前，collar grip與破姿就已經建立起這個掃技所需的上半身控制。及早察覺並抵抗這個grip，能阻止整條掃技鏈的發展，因為沒有姿勢控制，對手就無法把你的體重壓上他的hook。",
+        "answer_line": "深collar grip先破壞姿勢",
+        "distractors": {
+          "plausible": [
+            "butterfly hook先插入",
+            "guard先打開才開始設置"
+          ],
+          "trap": [
+            "對手抓住雙邊sleeve"
+          ]
+        }
+      },
+      {
+        "question": "一旦Balloon Sweep的抬力開始，為什麼撐開遠側腿是最有效的即時防守？",
+        "answer": "把遠側腿撐寬會形成一個三角形的底盤，垂直的抬力無法克服，因為這個掃技是沿著一條對角線移動，而撐開的腿正好擋住這條路線。對手設計這個掃技，是要以45度角把你翻過他的中線。遠側腿寬撐就像在掃技力量的路徑上直接立起一根結構支柱，把掃技變成一個停滯的僵局，對手耗費了力氣卻無法達成位移。",
+        "answer_line": "擋住對角線的掃技路徑",
+        "distractors": {
+          "plausible": [
+            "增加體重來擋住抬力",
+            "把脊椎完全挺直"
+          ],
+          "trap": [
+            "把腿收緊靠近身體"
+          ]
+        }
+      },
+      {
+        "question": "對手打開guard，你感覺到有一個butterfly hook正插入你的大腿下方。正確的防守順序是什麼？",
+        "answer": "立刻把遠側膝蓋往外跨開，撐寬底盤。用空出來的那隻手，靠two-on-one的方式撕開或抵抗collar grip。把髖部往後推，卸除hook上的重量，並恢復挺直姿勢。控制對手的腿或髖部，阻止他完成角度轉換。如果hook已經插得很深，就直接站起來base up，而不是嘗試在跪姿下把它抽出來，因為站起來能直接消除這個hook所帶來的力學優勢。",
+        "answer_line": "撐寬底盤、撕開grip",
+        "distractors": {
+          "plausible": [
+            "坐回去把對手拉近",
+            "用力向前sprawl髖部"
+          ],
+          "trap": [
+            "把近側腿往前撐"
+          ]
+        }
+      },
+      {
+        "question": "維持正確的closed guard上位姿勢，如何能在Balloon Sweep啟動之前就先防止它？",
+        "answer": "頭部保持在髖部正上方、體重透過膝蓋分散，而不是往前壓在雙手上，這樣的正確姿勢，直接否定了Balloon Sweep所需的基本蓄力條件。這個掃技需要你的體重向前、向下集中壓在對手的hook上。只要姿勢保持挺直，你的重心就留在hook可能插入的位置後方，就算hook真的插進來，也沒有足夠的前傾體重去壓縮出爆發抬力所需的彈簧效應。維持姿勢本身就是一種預防性防守。",
+        "answer_line": "重心壓膝蓋、頭在髖上",
+        "distractors": {
+          "plausible": [
+            "重心前壓在雙手上",
+            "用grip fight取代姿勢維持"
+          ],
+          "trap": [
+            "向前壓把對手壓平"
+          ]
+        }
+      },
+      {
+        "question": "成功防守Balloon Sweep之後，會出現哪些反擊機會？",
+        "answer": "對手為了嘗試這個掃技而打開guard，會創造出closed guard鎖住時所沒有的過guard機會。如果你靠撐地並把髖部往後推成功防守，就能立刻在這個已經打開的guard上控制他的腿，銜接toreando pass。如果你是靠站起來防守，就能直接發動站立式的guard passing。掃技失敗往往也會讓對手的grip位置錯亂，這給了你grip fight與重建姿勢的空檔，加速你的guard opening流程。",
+        "answer_line": "guard一打開就過guard",
+        "distractors": {
+          "plausible": [
+            "快速reset回closed guard",
+            "攻擊他暴露的背部"
+          ],
+          "trap": [
+            "繼續糾纏掃技的grip"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Balloon Sweep.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

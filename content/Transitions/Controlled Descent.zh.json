@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Controlled Descent.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Controlled Descent 的主要目標是什麼？",
+    "answer": "主要目標是把站立式的 back control 轉換成一個以你自己節奏達成的地面防禦位置（通常是 turtle），消除站立降伏與強力 takedown 的威脅，同時取得站立時無法使用的地面逃脫流程。",
+    "answer_line": "以自己的節奏抵達 turtle",
+    "distractors": {
+     "plausible": [
+      "逃離站立式的背後暴露",
+      "逆轉成上位"
+     ],
+     "trap": [
+      "硬撐著保持站立"
+     ]
+    }
+   },
+   {
+    "question": "Controlled Descent 是從什麼位置開始的？",
+    "answer": "這個技術是從 Standing Back Control/Bottom 開始的，也就是雙方都站著、對手已經取得背後暴露、胸口貼著你的背，通常已建立 harness 或 seatbelt 抓握。",
+    "answer_line": "Standing Back Control, Bottom",
+    "distractors": {
+     "plausible": [
+      "Standing Back Control, Top",
+      "Turtle, Bottom"
+     ],
+     "trap": [
+      "Rear mount，hook 已上鉤"
+     ]
+    }
+   },
+   {
+    "question": "為什麼下沉過程中的髖部轉動對成功至關重要？",
+    "answer": "髖部轉動能防止你平趴倒地，避免對手取得 mounted back control 或把你完全壓平。透過朝 underhook 那一側轉動，你能製造出降落到 turtle 位置所需的角度，而 turtle 提供的防禦選項與逃脫路徑遠比平趴多得多。",
+    "answer_line": "朝 underhook 那一側轉動",
+    "distractors": {
+     "plausible": [
+      "朝遠離 underhook 的方向轉動",
+      "轉身面向對手"
+     ],
+     "trap": [
+      "整個人平趴倒地"
+     ]
+    }
+   },
+   {
+    "question": "對手已建立緊密的 harness 控制，並正在嘗試 rear naked choke——你該如何抓時機執行 Controlled Descent？",
+    "answer": "在對手正伸手準備 choke（也就是抓握從 harness 轉換到絞勒位置）的時候執行下沉，而不是等他們已經扣好 choke 抓握。這個時機利用的是他們控制最鬆散的瞬間——一隻手正從控制轉向進攻，這會製造出一個空檔，讓你的下沉能打斷他們的降伏嘗試。",
+    "answer_line": "在他們伸手準備 choke 時",
+    "distractors": {
+     "plausible": [
+      "等 choke 完全鎖死之後",
+      "在他們取得 harness 控制之前"
+     ],
+     "trap": [
+      "先等待並防守 choke"
+     ]
+    }
+   },
+   {
+    "question": "執行 Controlled Descent 需要的關鍵抓握是什麼？",
+    "answer": "與進攻技術不同，Controlled Descent 主要著重在防禦性的手部位置，而不是特定抓握。你的前手應該控制住對手正在絞勒的那隻手臂的手腕，下巴要收向胸口，手肘要夾緊肋骨。你並不是在抓握對手，而是在整個下沉過程中持續防禦與建立 frame。",
+    "answer_line": "控制手腕，收下巴，建立 frame",
+    "distractors": {
+     "plausible": [
+      "緊緊抓住對手的衣領",
+      "underhook 他們的遠側手臂"
+     ],
+     "trap": [
+      "放手護住臉部"
+     ]
+    }
+   },
+   {
+    "question": "朝對手 underhook 那一側下沉，對你的結果有什麼幫助？",
+    "answer": "朝對手 underhook 手臂那一側下沉，會讓他們在力學上更難維持完整的 harness 抓握，並更難用有利姿勢跟著你一起下沉。下沉過程中，underhook 那隻手臂常會被壓在下方而被困住，往往會鬆開他們的控制，讓你更容易建立 turtle。",
+    "answer_line": "困住他們的 underhook 手臂",
+    "distractors": {
+     "plausible": [
+      "完全解放他們的 harness 抓握",
+      "為逆轉打開空間"
+     ],
+     "trap": [
+      "朝他們較強壯的那隻手下沉"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該避免嘗試 Controlled Descent？",
+    "answer": "當對手還沒建立完整的 harness 控制時（你在站立狀態下仍有逃脫機會）、你的姿勢已經完全被壓垮向前（你無法控制下沉的角度）、或對手已經鎖上 body triangle 時（轉換到地面不會改善你的處境），都應該避免執行 Controlled Descent。",
+    "answer_line": "harness 尚未完全建立時",
+    "distractors": {
+     "plausible": [
+      "當兩個 hook 都已上鉤時",
+      "姿勢只是稍微彎曲時"
+     ],
+     "trap": [
+      "當你正被向前驅趕時"
+     ]
+    }
+   },
+   {
+    "question": "落地後必須立刻採取什麼後續動作？",
+    "answer": "落地後，立刻用雙手撐地並把膝蓋收到髖部下方，建立正確的 turtle 姿勢，接著開始處理對手的 hook，把他們的腳跟從你的大腿上推開。落地後的頭兩到三秒，決定了你能不能執行地面逃脫，還是會被困在 grounded back control 裡。",
+    "answer_line": "撐起身體，清掉對方的 hook",
+    "distractors": {
+     "plausible": [
+      "轉身面向對手",
+      "坐起來破解抓握"
+     ],
+     "trap": [
+      "整個人放平喘口氣"
+     ]
+    }
+   },
+   {
+    "question": "對手從站立式 back control 開始強力向前驅趕你——你該硬撐，還是啟動 Controlled Descent？",
+    "answer": "立刻啟動 Controlled Descent，而不是去硬撐一個你贏不了的向前驅趕。當對手把體重壓向前方時，你可以把那股動能導向你的下沉，並利用它在轉換過程中製造距離。在站立背後暴露的狀態下硬撐一個已經全力發動的向前驅趕，通常會導致你被摔倒或重摔，這遠比有控制的轉換到 turtle 糟糕得多。",
+    "answer_line": "立刻啟動下沉",
+    "distractors": {
+     "plausible": [
+      "撐住並用雙腳頂住",
+      "等他們過度伸展"
+     ],
+     "trap": [
+      "硬頂住向前的驅趕"
+     ]
+    }
+   },
+   {
+    "question": "Controlled Descent 與單純被摔倒之間的關鍵差異是什麼？",
+    "answer": "關鍵差異在於主導權——你自己選擇 Controlled Descent 的時機、角度與落地位置。當你被對手摔倒時，是他們決定你落在哪裡、身體如何朝向，通常會把你放進最糟的防禦姿勢。而在 Controlled Descent 中，你主動加入髖部轉動、選擇下沉的方向，並在轉換過程中主動朝 turtle 或 guard 努力，而不是落入對手選定的位置。",
+    "answer_line": "你掌控時機與角度",
+    "distractors": {
+     "plausible": [
+      "對手決定你的落地位置",
+      "兩種結果都會落在 turtle"
+     ],
+     "trap": [
+      "基本上結果是一樣的"
+     ]
+    }
+   },
+   {
+    "question": "對手已上一個 hook 並取得 harness 控制，但第二個 hook 還沒建立——這是執行 Controlled Descent 的正確時機嗎？",
+    "answer": "這其實是應該考慮站立逃脫，而不是 Controlled Descent 的強勢時機。只有一個 hook 加上 harness 時，你仍然有轉身面向對手或執行爆發性髖部轉動等有意義的站立逃脫選項。Controlled Descent 應該留給兩個 hook 與 harness 都已鞏固的時候，或對手控制緊到讓站立逃脫成功率很低的時候。太早下沉會浪費完全逃離背後暴露的機會。",
+    "answer_line": "不，改為站立逃脫",
+    "distractors": {
+     "plausible": [
+      "是，在第二個 hook 上鉤前先下沉",
+      "先等完整 harness 建立"
+     ],
+     "trap": [
+      "是，立刻下沉到 turtle"
+     ]
+    }
+   },
+   {
+    "question": "下沉的每個階段中，力量的方向如何變化？",
+    "answer": "一開始，隨著你加寬 base 並降低重心，力量是朝下與側向施加。在膝蓋下沉的過程中，力量會轉為旋轉向量，因為髖部轉動會把你的身體導向選定的一側。落地後，力量會轉換成向前撐地的方向，你用雙手與膝蓋撐入身體下方，建立 turtle 位置。這個三階段的力量方向能防止直接向下崩塌、導致被壓平的情況。",
+    "answer_line": "先向下，再旋轉，再向前撐地",
+    "distractors": {
+     "plausible": [
+      "全程都直接向下",
+      "先旋轉，再向下沉"
+     ],
+     "trap": [
+      "直接推成 sprawl 姿勢"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將發動 Controlled Descent 時，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是站姿明顯加寬，同時彎曲膝蓋以降低重心。這通常會伴隨他們防禦行為的轉變，從積極對抗你的抓握，變成專注保護下巴與頸部防禦。從對抗直立姿勢轉為準備向下轉換的姿態變化，是最主要的早期指標。",
+    "answer_line": "站姿變寬，膝蓋彎曲",
+    "distractors": {
+     "plausible": [
+      "突然爆發嘗試 takedown",
+      "抓握對抗變得更積極"
+     ],
+     "trap": [
+      "他們放開 harness 控制"
+     ]
+    }
+   },
+   {
+    "question": "對手開始以強力的髖部轉動朝左側發動 Controlled Descent——你應該立刻做什麼調整？",
+    "answer": "朝你的右邊繞轉（也就是他們的左側，配合他們髖部轉動的方向），同時把胸口壓力向前向下驅動。透過跟隨他們髖部轉動的相同方向，你能阻止他們製造出乾淨建立 turtle 所需的角度。同時在轉動那一側加深你的 hook，在整個旋轉過程中維持髖部控制，並用你的 harness 抓握把他們的肩膀拉向你，而不是讓他們順利撐地。",
+    "answer_line": "跟著轉動方向繞轉並下壓",
+    "distractors": {
+     "plausible": [
+      "朝轉動的反方向繞轉",
+      "後退製造空間"
+     ],
+     "trap": [
+      "放開 hook 重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "當對手決定執行 Controlled Descent 時，為什麼跟隨下沉比硬抵抗更好？",
+    "answer": "抵抗一個已經全力發動的下沉會變成拉鋸戰，浪費你的體力，而且通常會失敗，因為重力會幫助對手的向下動作。透過跟隨下沉，你能把站立控制不中斷地轉換成地面控制，在轉換的混亂過程中往往能取得更深的 hook 與更好的 harness 位置。地面能給你更穩固的 base 來進攻，而對手下沉的力學動作需要他們分心處理，這會給你機會加強控制點。",
+    "answer_line": "跟隨下沉以維持控制",
+    "distractors": {
+     "plausible": [
+      "抵抗以逼出僵局",
+      "放手重新回到站立"
+     ],
+     "trap": [
+      "為了空間對抗下沉"
+     ]
+    }
+   },
+   {
+    "question": "在對手下沉的過程中，什麼樣的重心分配最能阻止他們達成 turtle？",
+    "answer": "在下沉過程中，把大約 70% 到 80% 的體重透過胸口向前驅動，壓在他們的上背與肩膀上。這股向前的壓力向量會把他們的落地角度壓平，讓他們更難用雙手撐地建立 turtle。保持你的髖部貼近他們，並讓你的 hook 保持主動，防止他們的髖部轉動製造出分離空間。下沉過程中結合向前的胸口壓力與主動的 hook 控制，通常會導致平趴或接近平趴的落地，而不是乾淨的 turtle。",
+    "answer_line": "70-80% 體重壓向上背",
+    "distractors": {
+     "plausible": [
+      "均勻壓在脊椎上",
+      "把體重透過髖部往下壓"
+     ],
+     "trap": [
+      "坐回去困住他們的腿"
+     ]
+    }
+   },
+   {
+    "question": "對手成功透過 Controlled Descent 抵達 turtle——你的立即優先順序是什麼？",
+    "answer": "立刻把 seatbelt 抓握扣得更緊，並在他們開始逃脫流程之前插入或加深 hook。你的首要任務是阻止他們製造動作——把體重下沉到他們的上背，並以 45 度角向前驅動胸口壓力，壓垮他們的 turtle 結構。快速處理 underhook 的爭奪，防止他們建立 frame。在對方是熟練的對手時，你只有三到五秒的空檔，接下來他們就會開始 turtle 逃脫連鎖，所以鞏固速度至關重要。",
+    "answer_line": "扣緊 seatbelt，快速加深 hook",
+    "distractors": {
+     "plausible": [
+      "先等他們安定下來",
+      "立刻換成 choke"
+     ],
+     "trap": [
+      "坐回去控制距離"
+     ]
+    }
+   }
+  ]
+ }
+}

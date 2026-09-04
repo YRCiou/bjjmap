@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Break Clinch.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "對手在 Clinch 中建立了強力的 collar tie 與內側腕部控制——在嘗試 break 之前，你該用什麼樣的 grip fight 順序？",
+        "answer": "先處理 collar tie，因為它控制著你的姿勢，也讓對手能發動 snap-down。用空出的手抓住對手在 collar tie 那隻手的手腕，朝他的中線方向以畫圓的方式把它撥開，同時收緊下巴避免對手重新建立控制。collar tie 被破壞後，立刻把剛空出來的手插入對手胸口，建立內側框架位置。接著再用銳利的畫圓拉扯或手肘頂推來剝除腕部控制。只有在兩個控制抓握都被化解之後，才投入爆發性的分離動作。在 collar tie 還沒解除的情況下嘗試 break，等於邀請對手做出 snap-down 反擊。",
+        "answer_line": "先撥開 collar tie，再處理手腕",
+        "distractors": {
+          "plausible": [
+            "先剝除腕部抓握",
+            "先抓住雙手腕"
+          ],
+          "trap": [
+            "帶著 collar tie 硬 break"
+          ]
+        }
+      },
+      {
+        "question": "相對於對手的重心分佈，發動 clinch break 的最佳時機是什麼時候？",
+        "answer": "最佳時機是在對手重心往前偏移、或正在切換抓握型態的時候。重心往前偏移代表對手的力量已經投入到某個方向，沒辦法立刻跟上你往後的動作。在抓握轉換的瞬間，對手的控制結構會出現短暫的空隙。最糟的時機是對手已經穩定站好、控制性抓握都已經建立的時候，因為那時他有最大的能力去抵抗或反制你的分離嘗試。",
+        "answer_line": "趁重心偏移或抓握轉換時 break",
+        "distractors": {
+          "plausible": [
+            "Clinch 一形成就立刻 break",
+            "等抓握都穩定後再 break"
+          ],
+          "trap": [
+            "等對手底盤完全穩固後再 break"
+          ]
+        }
+      },
+      {
+        "question": "在建立初始框架的階段，髖部位置對 clinch break 有什麼關鍵作用？",
+        "answer": "你的髖部必須低於對手的重心，膝蓋彎曲、體重壓進雙腿。這種低髖姿勢有三個作用：建立能抵抗 snap-down 與向前拉扯的穩定底盤；為向後爆發蓄積雙腿的力量；讓軀幹的角度能讓前臂框架在對抗對手向前的壓力時發揮最大的結構強度。如果髖部太高、或落在身體後方，框架就會變成對手可以輕易壓垮的脆弱槓桿。",
+        "answer_line": "髖低、屈膝、蓄力",
+        "distractors": {
+          "plausible": [
+            "髖部持平、重心居中",
+            "髖低、重心放在腳尖"
+          ],
+          "trap": [
+            "髖部拉高、身體後仰"
+          ]
+        }
+      },
+      {
+        "question": "你做出了 push-off，但對手在一步之內就立刻重新貼近建立 clinch——下一次要做什麼調整才能避免這個情況？",
+        "answer": "對手能立刻重新貼近，代表製造的距離不夠、也沒有做出角度上的移動。調整方式是加大 push 加 step 這個組合動作的爆發力，製造更多初始距離，並在第一步之後立刻側向繞行，而不是繼續直線後退。同時要確保在分離過程中把所有的抓握都清除乾淨，因為就算只剩下袖口或領口的殘留抓握，也會給對手一個能快速拉近距離的繩索。也可以考慮改用 underhook peel 的變化型，這種角度上的分離方式，天生就比直線後推更難被追上。",
+        "answer_line": "加大爆發步伐，往外繞行",
+        "distractors": {
+          "plausible": [
+            "直線往後推得更用力",
+            "保留一個抓握維持控制"
+          ],
+          "trap": [
+            "繼續直線往後退"
+          ]
+        }
+      },
+      {
+        "question": "對手預判到你要 break clinch，在你開始推的同時壓低重心——你該如何調整技術？",
+        "answer": "當對手在你 break 的過程中壓低重心時，他很可能是在設置 takedown 或 body lock。放棄高位框架的 push-off，改為把髖部往後 sprawl，同時在對手頭部維持強力的 cross-face 或 collar tie，阻止他完成 level change。如果對手已經抱住了一條腿，就轉為 sprawl 防禦，而不是繼續嘗試 break。等你防下這次進攻、取得上位或回到中性位置後，再從更有利的起始位置重新嘗試 clinch break。",
+        "answer_line": "Sprawl 並維持頭部控制",
+        "distractors": {
+          "plausible": [
+            "硬頂著 level change 繼續推",
+            "拉 guard 躲避進攻"
+          ],
+          "trap": [
+            "繼續用高位框架硬推"
+          ]
+        }
+      },
+      {
+        "question": "在分離階段，相對於對手的中線，主要力量應該往哪個方向施加？",
+        "answer": "主要力量應該透過你的框架，穿過對手的中線並稍微向上施加，把他的胸口與肩膀往外推開，同時你的髖部沿著同一個方向線往後驅動。如果推的方向偏離中心，會產生旋轉力量，讓對手能借力轉成角度性的 takedown 進攻。向上的力量成分能防止對手壓低重心來抵抗這股推力。中線的推力製造出分離之後，你才立刻把自己的動作重新導向側邊、製造角度，但推力本身應該直接指向對手的重心中央，才能發揮最大效果。",
+        "answer_line": "往中線稍微向上推",
+        "distractors": {
+          "plausible": [
+            "往外側角度推開",
+            "直接往下往後推"
+          ],
+          "trap": [
+            "刻意偏離中線推出角度"
+          ]
+        }
+      },
+      {
+        "question": "你第一次 break 嘗試失敗了，對手因此收緊了抓握——你接下來該用什麼樣的銜接動作？",
+        "answer": "第一次嘗試失敗後，對手會預期你再用同樣的技術，所以要換一個變化型。如果你剛才用的是 frame-and-push break，就改用 swim move exit 或 underhook peel，這些用不同的機制、攻擊不同的抓握結構。在第二次嘗試之前，先重新投入 grip fight 來處理已經收緊的控制，而不是硬碰更強的阻力再試一次同樣的 break。你也可以把失敗的 break 嘗試當作進攻性轉換的鋪墊，例如 arm drag 或 guard pull，把對手收緊抓握的反應轉化成機會——把他拉進你偏好的交手方式，而不是把他推開。",
+        "answer_line": "換變化型，重新 grip fight",
+        "distractors": {
+          "plausible": [
+            "用更大的力氣重複同一個 break",
+            "先休息重設站姿"
+          ],
+          "trap": [
+            "硬是再做一次同樣的 break"
+          ]
+        }
+      },
+      {
+        "question": "對抗雙 underhook 的對手，和對抗 collar tie 型態的對手，執行 clinch break 的關鍵差異是什麼？",
+        "answer": "對抗雙 underhook 時，你沒辦法在胸口建立內側框架，因為對手的手臂已經在你的手臂內側。這時要改用 overhook 控制對手的二頭肌，加寬站姿避免被抱起，並設法先重新奪回一側的 underhook，再嘗試分離。從雙 underhook 逃脫，通常需要用 underhook peel 這個變化型，靠奪回的那一側 underhook 當作槓桿。對抗 collar tie 時，你的內側位置是可以取得的，但必須先剝除 collar tie 的抓握，才能防止在 push-off 過程中被 snap-down。一旦頭部控制被化解，frame-and-push break 對付 collar tie 效果很好，因為對手剩下的控制通常只是單一的腕部抓握，重新貼近的能力有限。",
+        "answer_line": "雙 underhook 用 overhook，collar tie 先剝除",
+        "distractors": {
+          "plausible": [
+            "雙 underhook 也用胸口框架",
+            "對付 collar tie 不用剝抓握"
+          ],
+          "trap": [
+            "對抗雙 underhook 時嘗試把對手抱起"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手用 two-on-one 開始剝除你的 collar tie——你該如何在 clinch break 開始之前就先防止它？",
+        "answer": "立刻轉換到另一個控制點，而不是硬撐著對抗 two-on-one 的剝除。在對方剝除抓握完成之前，換成同側的 underhook 或 body lock，在整個轉換過程中至少維持一個穩固的錨點。目標是永遠不要讓自己與對手完全脫離接觸，所以主動轉換抓握，會比死守一個正在被系統性拆解的抓握更有效。",
+        "answer_line": "抓握被剝除前先換抓握",
+        "distractors": {
+          "plausible": [
+            "硬撐著維持 collar tie",
+            "放開抓握、重新拉開距離"
+          ],
+          "trap": [
+            "兩隻手都完全放開"
+          ]
+        }
+      },
+      {
+        "question": "用 snap-down 反制 clinch break 嘗試，最有效的時機是什麼時候？",
+        "answer": "最佳時機是在 push-off 階段，也就是對手伸展雙臂製造距離、重心開始往後移動的時候。此時對手的頭部相對於髖部而言比較往前，他的手臂是伸展的、正好變成你可以反向利用的槓桿，而他往後的動能也會加強你 snap 向下的力道。在這個時機之前執行 snap-down 會失敗，因為對手的重心還是居中的；在這個時機之後執行也會失敗，因為他已經製造出太多距離了。",
+        "answer_line": "趁對手伸臂 push-off 時出手",
+        "distractors": {
+          "plausible": [
+            "在對手重心後移之前出手",
+            "等對手完全分離後出手"
+          ],
+          "trap": [
+            "往前撲去追逐 break 的對手"
+          ]
+        }
+      },
+      {
+        "question": "對手在 break 嘗試中成功拉開約六十公分的距離，但還沒繞出角度——你該立刻做什麼動作來阻止他完全脫離？",
+        "answer": "立刻朝對手中線做出穿透步，在他還沒來得及繞行之前先縮短距離。伸手去抓對手的領口、手腕或手肘，重新建立一個連結點，再利用這個抓握把自己拉回 clinch 範圍。速度非常關鍵，因為從初始分離到建立角度之間的空檔大約只有一到兩秒。如果對手已經開始繞行，在你縮短距離之前，就要往他移動的方向側步切斷他的繞行路線，而不是在他身後追逐。",
+        "answer_line": "穿透步逼近，快速重新抓握",
+        "distractors": {
+          "plausible": [
+            "等對手先繞行再反應",
+            "直線在對手身後追逐"
+          ],
+          "trap": [
+            "向後退開，重新拉開距離"
+          ]
+        }
+      },
+      {
+        "question": "面對整場比賽中不斷嘗試 clinch break 的對手，你該如何調整自己的 clinch 策略？",
+        "answer": "在每一次 clinch 交手一開始，就更早收緊你的抓握型態，並優先選擇比較難被框架對付的 body lock 或雙 underhook 控制。在 snap-down、向前壓力與 level change 之間輪流變換反制方式，讓對手無法預測你的反應。也可以考慮把對手嘗試 break 的傾向轉為進攻機會——趁他重心往後移動的時候發動 takedown，把他的逃脫嘗試變成你的進攻切入點。一個專注於掙脫 clinch 的對手，注意力往往放在分離上，而不是防守 takedown，所以反而更容易被得手。",
+        "answer_line": "收緊抓握，抓準時機做 takedown",
+        "distractors": {
+          "plausible": [
+            "每次都用同一種反制方式",
+            "放鬆抓握節省體力"
+          ],
+          "trap": [
+            "放任對手自由脫離 clinch"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在嘗試清除 butterfly hook 之前，必須先建立上半身控制？",
+    "answer": "透過 crossface 或 collar tie 建立的上半身控制，能限制對手旋轉軀幹、跟上你 hip 動作的能力。如果沒有這個控制，bottom 玩家就能自由調整他的 hook 角度來對抗你任何清除的嘗試。Crossface 特別能把對手的頭轉開，切斷他上半身與 hook 那側之間的動力鏈，製造出對抗他阻力、清除 hook 所需的結構性斷裂。",
+    "answer_line": "Crossface 切斷動力鏈",
+    "distractors": {
+     "plausible": [
+      "先控制腿部",
+      "清除前先把 hip 壓平"
+     ],
+     "trap": [
+      "抓遠側褲管"
+     ]
+    }
+   },
+   {
+    "question": "清除 butterfly hook 最關鍵的時機是什麼時候？",
+    "answer": "最佳時機出現在對手發動一側 sweep 嘗試的時候，此時他的重心和注意力會暫時投入到推動那個 hook 上。沒有進攻的那個 hook 會變弱，因為對手的 hip 已經朝 sweep 方向蓄力，注意力也從維持雙邊 hook 壓力上移開。這種反時機的做法，是利用對手的進攻投入，而不是硬碰一個完全平衡的 butterfly guard 結構。",
+    "answer_line": "對手發動 sweep、另一側 hook 變弱時",
+    "distractors": {
+     "plausible": [
+      "對手剛插入 hook 之後",
+      "對手坐起來搶 grip 時"
+     ],
+     "trap": [
+      "等到完全僵持不下"
+     ]
+    }
+   },
+   {
+    "question": "對手右側有很深的 underhook，兩邊 hook 都很強——你該先鎖定哪個 hook？為什麼？",
+    "answer": "先鎖定左邊的 hook，也就是對手強勢右側 underhook 的另一側。對手的右側 underhook 讓他在那一側擁有更好的結構控制，讓他更容易重新插入 hook，如果你把重心轉移到那一側，還會製造出被 back take 的威脅。左側沒有 underhook 支援，保留 hook 的能力較弱。先清除較弱的那個 hook，能讓你獲得穩定的 half guard 位置，之後再處理較強的 underhook 那一側。",
+    "answer_line": "遠離 underhook 的左側 hook",
+    "distractors": {
+     "plausible": [
+      "先攻右側 hook 破 underhook",
+      "同時清除兩邊 hook"
+     ],
+     "trap": [
+      "清除有 underhook 那側的 hook"
+     ]
+    }
+   },
+   {
+    "question": "在你清除 hook 的過程中，如何阻止對手轉換到 X-Guard？",
+    "answer": "在整個轉換過程中保持 hip 低且沉重，絕不讓你身體底下出現空間。如果你感覺到有一隻腳踩上你的 hip，就立刻把 hip 蹲低並退回 combat base，而不是繼續清除 hook 的動作。防止的關鍵在於保持胸貼胸的接觸和低位的 hip，這樣能消除 X-Guard 所需的垂直空間。此外，用手控制對手遠側的 hip 也能限制他旋轉進入 X-Guard 角度的能力。",
+    "answer_line": "Hip 蹲低，退回 base",
+    "distractors": {
+     "plausible": [
+      "不管腳的接觸硬推",
+      "控制近側 hip，而非遠側"
+     ],
+     "trap": [
+      "撐起身體製造空間"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的 hip 動作最能有效清除 butterfly hook？",
+    "answer": "把 hip 往前、往下推進目標側對手的膝蓋，把他的膝蓋往墊子方向壓。這樣能從下方壓垮 hook 的角度，而不是試圖把腿側向拉出來。你的 hip 會實際把對手的大腿往下壓，消除 hook 向上抬升的能力。再搭配夾緊雙膝壓縮整個 butterfly 結構，就能開出一條直接的路徑，讓你的腿跨過並繞過已被中和的 hook。",
+    "answer_line": "Hip 往下推壓對手膝蓋",
+    "distractors": {
+     "plausible": [
+      "把腿側向拉出",
+      "抬 hip 跨過 hook"
+     ],
+     "trap": [
+      "把腳直接往後扯"
+     ]
+    }
+   },
+   {
+    "question": "你成功清除一個 hook，但對手立刻開始想重新插回去——你的前三個動作是什麼？",
+    "answer": "第一，把已清空的那條腿撐開成寬闊的姿勢，建立穩定的 base，避免在混戰中被 sweep。第二，把 crossface 的肩膀壓得更深，把對手的頭進一步轉離清空的那一側，破壞他用腿跟上你 hip 動作的能力。第三，把 hip 的重量沉重地壓在清空的那一側，用身體重量實際擋住重新插入的路徑。這三個動作必須在清除 hook 後的前兩到三秒內完成，趕在對手重新組織結構之前。",
+    "answer_line": "撐寬、crossface、hip 加重",
+    "distractors": {
+     "plausible": [
+      "後退重整 posture",
+      "立刻切換到 back take"
+     ],
+     "trap": [
+      "放開 crossface 製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼「跨過 hook」比「把腿往後拉來清除它」更有效？",
+    "answer": "往後拉會在你和對手之間製造距離，讓對手有空間恢復坐姿、重新插入 hook，或轉換到像 X-Guard 這類需要空間的其他 guard。跨過去則能維持胸貼胸的壓力和向前的動能，讓對手保持被壓縮的狀態，限制他的移動選項。跨過去的動作也能讓你的腿自然轉換進入 half guard 的 pass 位置，而不是讓你卡在對手 guard 外的無人地帶。",
+    "answer_line": "跨過去能維持胸口壓力",
+    "distractors": {
+     "plausible": [
+      "往後拉 pass 得更快",
+      "跨過去能避開混戰"
+     ],
+     "trap": [
+      "往後拉重整 base"
+     ]
+    }
+   },
+   {
+    "question": "當對手用的是 collar-and-sleeve grip 配置而非 underhook 時，你該如何調整策略？",
+    "answer": "Collar-and-sleeve grip 給對手的是靠距離維持的控制，而不是近身的力量。先破 sleeve grip，因為它控制著你撐地的那隻手，限制你在轉換過程中做 base 的能力。一旦 sleeve grip 被破壞，就用胸口壓力積極拉近距離，讓 collar grip 在遠距離失去效果。清除 hook 的機制本身不變，但準備階段需要額外的 grip 纏鬥，先移除對手管理距離的工具，才能建立轉換所需的胸口接觸。",
+    "answer_line": "先破壞 sleeve grip",
+    "distractors": {
+     "plausible": [
+      "先破壞 collar grip",
+      "用對稱的 grip 對應"
+     ],
+     "trap": [
+      "後退來破壞兩個 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正試圖清除你的 butterfly hook 時，最早的辨識訊號是什麼？",
+    "answer": "最早的訊號是感覺到對手把膝蓋夾緊在一起，壓縮你兩個 hook 之間的空間。這個夾膝動作是大多數清除 hook 動作的前置準備，因為它會壓垮你 hook 有效抬升所需的側向角度。感覺到這個壓縮時，立刻把你的 hook 往外、往上頂住以抵抗這個夾緊，並準備反擊或調整你的位置。",
+    "answer_line": "對手把膝蓋夾緊",
+    "distractors": {
+     "plausible": [
+      "對手雙手撐在墊子上",
+      "突然向上做 hip bridge"
+     ],
+     "trap": [
+      "等 hook 自己滑出去"
+     ]
+    }
+   },
+   {
+    "question": "對手成功清除一個 hook，正準備安頓進 butterfly half guard top——你當下最優先的事是什麼？",
+    "answer": "你當下最優先的事，是在對手建立控制之前的前三到五秒內，重新插回被清除的 hook，或主動轉換到相關的 guard 系統，例如 Deep Half Guard 或 Lockdown。不要被動地停留在 butterfly half guard 裡，指望之後再重新插入。如果對手已經建立好 crossface 和寬闊的 base，重新插入會變得非常困難，這時往 Deep Half 轉換——鑽到對手 hip 下方，或用 Lockdown 鎖住被困住的腿——通常是勝算更高的回應。",
+    "answer_line": "重插 hook，或轉進 deep half",
+    "distractors": {
+     "plausible": [
+      "冷靜等待重新評估",
+      "專注在破壞平衡做 sweep"
+     ],
+     "trap": [
+      "完全放棄下位的 hook"
+     ]
+    }
+   },
+   {
+    "question": "保持 underhook 如何能阻止那一側的 hook 被清除？",
+    "answer": "Underhook 在你的肩膀和對手的腋下之間建立直接的結構連結，阻止對手在那一側做 crossface。沒有 crossface，對手就無法把你的頭轉開，也就無法切斷你上半身和 hook 之間的動力鏈。Underhook 也能讓你在對手轉移重心時，把自己拉向他來跟上他的 hip 動作，讓你的 hook 保持正確地卡在他大腿下方。這種阻止 crossface 加上追蹤動作的組合，讓有 underhook 的那一側明顯更難被清除。",
+    "answer_line": "擋住 crossface，追蹤 hip",
+    "distractors": {
+     "plausible": [
+      "增加額外的 hook 壓力",
+      "鎖住對手遠側的腿"
+     ],
+     "trap": [
+      "空出手來抓褲管"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你該嘗試反 sweep，而不是純粹專注在保留 hook？",
+    "answer": "當對手為了清除一個 hook 而把重心不對稱地投入時，就嘗試反 sweep，這會製造出你可以利用的明顯方向性失衡。觸發時機是感覺到對手的重心果斷地移向一側。如果對手的重心轉移只是溫和或試探性的，就專注在保留 hook 上。如果對手強力投入，而你能感覺到他在反方向的 base 已經出現破綻，就立刻執行 butterfly sweep，利用他自己投入的重心當作催化劑。關鍵的判斷在於對手的重心轉移是試探性的，還是完全投入的。",
+    "answer_line": "對手重心完全投入時",
+    "distractors": {
+     "plausible": [
+      "只要對手碰到你的 hook 就做",
+      "只有在 hook 被清除之後"
+     ],
+     "trap": [
+      "在試探性轉移時就做 sweep"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Guard to Butterfly Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "_meta": {
+  "source": "content/Transitions/De La Riva to Grasshopper Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+ "flashcards": [
+  {
+   "question": "在從 De La Riva 翻轉進入 Grasshopper 的過程中，最重要、必須全程維持的是什麼?",
+   "answer": "De La Riva 鉤腳。它是讓你在翻滾時仍與對手腿部保持連結的錨點，確保你翻轉後浮出時仍連結著對方的重心，而不是甩飛到開放空間讓對手完成過guard。放開這個鉤腳是這個轉換失敗最常見的原因。",
+   "answer_line": "保持 De La Riva 鉤腳",
+   "distractors": {
+    "plausible": [
+     "保持頭部內收",
+     "保持胸部貼緊"
+    ],
+    "trap": [
+     "放開以轉得更快"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候才是投入翻轉、而不是繼續留在直立 De La Riva 的正確時機?",
+   "answer": "只有在你讀到對手正在脫離——後撤步、拖腿(leg-dragging)、或把重心從你的鉤腳繞開時，才投入翻轉。那個重心轉移會讓對方重心浮起，打開你翻滾到底下的窗口。如果對方仍然方正沉穩，就不要翻轉；繼續在直立 De La Riva 進攻，等待對方重心移動。",
+   "answer_line": "當對方重心移開時",
+   "distractors": {
+    "plausible": [
+     "剛設好 DLR 鉤腳之後",
+     "當對方站直並抓握時"
+    ],
+    "trap": [
+     "當對方前壓要過guard時"
+    ]
+   }
+  },
+  {
+   "question": "在這個翻轉中，翻滾到對手底下時要如何保護自己的背部?",
+   "answer": "翻滾時讓一側膝蓋或小腿橫過中線，一旦髖部抬起、雙腿能夠接觸對手重心時就停止旋轉。絕不要過度旋轉超過雙腿連結的那個點，因為把背部轉向對手會讓對方藉著你的動能發動背後控制的入侵。",
+   "answer_line": "髖部抬起就停止旋轉",
+   "distractors": {
+    "plausible": [
+     "完全翻轉到背對對方",
+     "整個翻滾過程收下巴"
+    ],
+    "trap": [
+     "轉背完成翻滾"
+    ]
+   }
+  },
+  {
+   "question": "為什麼一浮出翻滾就必須立刻抬高髖部?",
+   "answer": "平躺著浮出會讓你處在容易被過guard、毫無槓桿的位置，而不是真正的 Grasshopper 姿態。啟動核心把髖部推到胸部高度，能建立起以肩膀為支撐的抬高結構，給你掃技的槓桿，也讓你有角度能穿腿進入 kneebar、ankle lock 以及 inside ashi 纏鎖(entanglement)。",
+   "answer_line": "把髖部推到胸部高度",
+   "distractors": {
+    "plausible": [
+     "撐手停頓",
+     "坐起靠手肘支撐"
+    ],
+    "trap": [
+     "保持平躺以穩固重心"
+    ]
+   }
+  },
+  {
+   "question": "在你剛開始低頭時，對手把 De La Riva 鉤腳解開了——你該怎麼辦?",
+   "answer": "中止翻轉，不要翻進空無一物的空間。沒有鉤腳你就沒有錨點，會浮出時失去連結，等於幫對方完成過guard或暴露背部。恢復到直立 De La Riva，重新建立鉤腳，或改用 Reverse De La Riva 進入，等腿部連結恢復後再嘗試翻轉。",
+   "answer_line": "中止並回到直立 DLR",
+   "distractors": {
+    "plausible": [
+     "照樣完成翻滾",
+     "翻滾途中換腿"
+    ],
+    "trap": [
+     "直接翻進空無一物的空間"
+    ]
+   }
+  },
+  {
+   "question": "在投入翻轉之前，你應該已經先規劃好什麼?",
+   "answer": "一個明確的腿部進攻目標——inside 或 outside ashi-garami、kneebar、ankle lock，或是抬腿掃技。Grasshopper 非常耗體力且難以久撐，所以你必須帶著計畫抵達，並在幾秒內把這個平台轉換成具體進攻，而不是漫無目的地翻轉、停滯不前讓對手把過guard做穩。",
+   "answer_line": "先設定好腿部進攻目標",
+   "distractors": {
+    "plausible": [
+     "打算拖延後重置",
+     "打算掙扎回到上位"
+    ],
+    "trap": [
+     "先翻轉，之後再決定"
+    ]
+   }
+  }
+ ]
+ },
+ "defender": {
+ "flashcards": [
+  {
+   "question": "為什麼解開 De La Riva 鉤腳是對抗這個翻轉的最優先防守?",
+   "answer": "De La Riva 鉤腳是底位選手連結你重心的錨點。只要它還在，你的後撤步或繞行只會拖著你正在後退的那隻腳，反而助長對方的翻滾，讓對方翻進 Grasshopper 時仍與你連結。在脫離之前先解開鉤腳，就能移除這個錨點，讓翻轉卡住，逼對方回到直立 De La Riva。",
+   "answer_line": "先解開 DLR 鉤腳",
+   "distractors": {
+    "plausible": [
+     "立刻後撤步",
+     "從鉤腳處繞開"
+    ],
+    "trap": [
+     "沒解開鉤腳就後退"
+    ]
+   }
+  },
+  {
+   "question": "底位選手全力投入翻轉時，會給你創造什麼機會?",
+   "answer": "對方全力投入的 granby-roll 會讓脊椎轉向你，讓你能順著旋轉進入背後控制。當對方在你重心底下翻轉時，背部會短暫暴露，所以與其對抗對方正在建立的腿部纏鎖，不如順著旋轉，配合胸部貼緊追擊內側鉤腳，把對方投入的翻轉轉換成背後控制。",
+   "distractors": {
+    "plausible": [
+     "對抗腿部纏鎖",
+     "疊壓對方使其攤平"
+    ],
+    "trap": [
+     "改追腿鎖"
+    ]
+   },
+   "answer_line": "順旋轉追背後控制"
+  },
+  {
+   "question": "前壓把翻轉壓平可能會怎麼弄巧成拙?你又該如何安全地做到?",
+   "answer": "前壓會把你的體重送進對方腿裡，所以只能在早期、Grasshopper 平台還沒成形前壓平翻轉。時機抓錯的話，對方會把那股前壓的力量轉化成抬腿掃技或 inside ashi 的入侵，而不是被壓平。安全的做法是只在你能比對方髖部更快搶到抬高位置時才疊壓、跨步，同時讓你的自由腿保持在對方正在穿的腿之外。",
+   "distractors": {
+    "plausible": [
+     "隨時都前壓",
+     "對方一翻轉就用力疊壓"
+    ],
+    "trap": [
+     "平台成形後才前壓"
+    ]
+   },
+   "answer_line": "只在平台成形前、要趁早"
+  }
+ ]
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "_meta": {"source": "content/Transitions/Escape Reverse Kesa-Gatame.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Reverse Kesa-Gatame 啟動 hip escape 的最佳時機是什麼？",
+    "answer": "當對手的重心穩定壓低、胸口壓力沉重時，hip escape 反而最有效——這聽起來矛盾，因為這正是 bridge 最沒有效果的時候。最佳窗口會在對手投入穩定位置之後、開始進攻終結技之前立刻出現。此外，對手任何調整重心或發動攻擊的瞬間，都會創造出一個壓力暫時降低的微小窗口，讓你能完成最初的 frame 與髖部轉動。",
+    "answer_line": "趁對方壓力剛減弱時",
+    "distractors": {
+     "plausible": [
+      "在壓力最沉重的瞬間動手",
+      "只在對方進攻終結技後動手"
+     ],
+     "trap": [
+      "在壓力最沉重時硬 bridge"
+     ]
+    }
+   },
+   {
+    "question": "在投入第一次 shrimp 動作之前，必須具備哪些條件？",
+    "answer": "必須建立三個條件：空出來的手臂要架成堅固的 frame，頂住對手的髖部或下背，防止他們跟上你的 shrimp；身體必須轉向遠側髖部，創造出有效側向移動所需的角度；遠側的腳必須平貼地面、靠近髖部，以產生驅動力。若在這三個條件都不具備的情況下就嘗試 shrimp，會大幅降低 escape 的效果，並白白浪費體力。",
+    "answer_line": "frame、轉髖、腳踩穩，三者齊全",
+    "distractors": {
+     "plausible": [
+      "只要 frame 和轉髖就夠",
+      "先 shrimp 再架 frame"
+     ],
+     "trap": [
+      "用近側的手撐地推開"
+     ]
+    }
+   },
+   {
+    "question": "在這個 escape 序列中，最關鍵的髖部動作是什麼？",
+    "answer": "最初從平躺轉向遠側髖部的這個轉動，是最關鍵的動作。這個旋轉把身體從一個對手可以沿著中線壓制的平坦表面，轉變成一個能透過 shrimp 產生側向力量的傾斜結構。若沒有這次轉髖，之後的每一次 shrimp 都只能發揮一小部分的潛在效果。這個轉動應該是架好 frame 之後的第一個實際動作。",
+    "answer_line": "轉向遠側髖部",
+    "distractors": {
+     "plausible": [
+      "先 bridge 起來",
+      "轉向近側髖部"
+     ],
+     "trap": [
+      "直接跳過去做 shrimp"
+     ]
+    }
+   },
+   {
+    "question": "在紫帶與棕帶程度，這個 escape 最常見的失敗原因是什麼？",
+    "answer": "最常見的失敗是在 shrimp 序列過程中沒有維持好 frame。這個程度的練習者通常理解 shrimp 的力學原理，卻沒有讓 frame 在整個過程中保持堅固且主動，導致對手能跟上每一次 shrimp、重新鞏固壓力。frame 必須持續阻止對手把每一次 hip escape 創造出的空隙封回去，發揮像單向閥一樣、保留累積空間的作用。",
+    "answer_line": "shrimp 過程中 frame 垮掉",
+    "distractors": {
+     "plausible": [
+      "shrimp 的速度太慢",
+      "轉錯了髖部方向"
+     ],
+     "trap": [
+      "放下 frame 以求 shrimp 更快"
+     ]
+    }
+   },
+   {
+    "question": "開始這個 escape 時，空出來的手臂應該先建立什麼握法？",
+    "answer": "空出來的手臂應該在對手的髖骨或下背建立起前臂 frame，手肘朝下，前臂垂直於對手的身體。這樣的放置方式能創造出最大的結構強度，因為這個 frame 是靠骨骼結構支撐，而不是靠肌肉發力。避免把手撐在對手的肩膀或胸口，因為這會形成更長的力臂，更容易被壓垮，也更消耗體力維持。",
+    "answer_line": "前臂 frame 頂在對方髖部",
+    "distractors": {
+     "plausible": [
+      "手掌 frame 頂在對方胸口",
+      "underhook 對方遠側手臂"
+     ],
+     "trap": [
+      "把手撐在對方肩膀上"
+     ]
+    }
+   },
+   {
+    "question": "在這個 escape 過程中，主要的 shrimp 力量應該朝哪個方向施加？",
+    "answer": "shrimp 的方向應該是遠離對手、並稍微朝他們髖部所面對的那一側移動，在 Reverse Kesa-Gatame 中也就是朝他們髖部朝向的方向。這個方向利用了反向定位所創造出的自然空隙，把 bottom 玩家移向 top 玩家控制最弱的那個點。若直接朝遠離對手、或朝對手頭部方向 shrimp，會移進控制更強的區域，降低 escape 的效率。",
+    "answer_line": "遠離對方、朝其髖側移動",
+    "distractors": {
+     "plausible": [
+      "直直遠離對方",
+      "朝對方頭部方向"
+     ],
+     "trap": [
+      "朝對方胸口方向 shrimp"
+     ]
+    }
+   },
+   {
+    "question": "你開始 shrimp 時，對手把胸口向下壓、加大壓力——你該如何調整？",
+    "answer": "把 frame 維持得堅固不動，暫停 shrimp 序列以吸收他們的壓力。一旦他們把重心投入到向前且壓低的位置，就做一個快速的假動作 bridge，打亂他們已經穩定的重心，然後趁他們重心暫時被打散時立刻恢復 shrimp。這種 bridge 接 shrimp 的組合，正好利用了對手向前投入的這個弱點——bridge 把他們向上抬起，而 shrimp 則趁他們回落時把你移出去。如果他們的重心被抬得夠高，也可以改換成完整的 bridge escape。",
+    "answer_line": "暫停、假動作 bridge、再恢復",
+    "distractors": {
+     "plausible": [
+      "更用力硬拚 shrimp 撐過去",
+      "現在就直接改用完整 bridge"
+     ],
+     "trap": [
+      "放下 frame 向上推"
+     ]
+    }
+   },
+   {
+    "question": "你已經插入了 knee shield，但對手正對它施加沉重的壓力——緊接著該怎麼做？",
+    "answer": "一旦 knee shield 建立好，就把你的 frame 從對手的髖部，轉移到控制他們遠側的手臂或壓制他們準備做 crossface 的手，防止他們對你使出終結技或把你壓過 knee shield 壓平。持續 shrimp 以擴大兩人身體之間的空間，同時用腿去爭取纏住對方近側的腿，以建立完整的 half guard。knee shield 不是終點——它是從 escape 模式轉換到 guard 回復模式的過渡點。把它當作建立 underhook 的平台來運用。",
+    "answer_line": "控制對方手臂、持續 shrimp",
+    "distractors": {
+     "plausible": [
+      "撤掉 shield、重置位置",
+      "停止移動、固守 shield"
+     ],
+     "trap": [
+      "放開 frame 去抓衣領"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "bottom 玩家正在啟動 hip escape 而非 bridge，最早的辨識指標是什麼？",
+    "answer": "關鍵的區別在於轉髖——bottom 玩家轉向遠側髖部，代表這是 shrimp escape，而雙腳對稱平放則代表這是 bridge。hip escape 還會呈現出空出來的手臂側向頂在你髖部上作為 frame，而不是頂在你肩膀下方作為撐推點。在第一秒內辨識出這個區別，能讓你做出正確的防守反應：對 hip escape 施加向前壓力，對 bridge 則做 sprawl。",
+    "answer_line": "對方轉向遠側髖部",
+    "distractors": {
+     "plausible": [
+      "雙腳對稱平放",
+      "用手撐推你的肩膀"
+     ],
+     "trap": [
+      "等到第二次 shrimp 才反應"
+     ]
+    }
+   },
+   {
+    "question": "當 bottom 玩家開始 shrimp 遠離你時，你應該如何調整重心分配？",
+    "answer": "把髖部朝 bottom 玩家移動的同一方向驅動，在他們整個 shrimp 序列中維持胸口接觸。你的重心應該透過胸口傳遞、壓進他們的上半身，而不是靜止不動。不要有想坐高一點去跟上他們動作的衝動——保持髖部壓低，用步伐向前跟進。每次他們 shrimp，就立刻縮短距離，趕在下一次 shrimp 累積更多空間之前。",
+    "answer_line": "髖部向前驅動、保持壓低",
+    "distractors": {
+     "plausible": [
+      "坐高一點去跟上",
+      "配合速度，髖部抬高"
+     ],
+     "trap": [
+      "後靠等待，讓它過去"
+     ]
+    }
+   },
+   {
+    "question": "對手在 escape 過程中成功插入了 knee shield——最好的即時應對是什麼？",
+    "answer": "一旦 knee shield 插進來，不要試圖把那條腿拉出來移除它，因為這只會創造更多空間。相反地，用肩膀壓力頂住 knee shield 把它壓平，然後轉換到 half guard 的過關策略，例如 knee slice 或 smash pass。如果那個 shield 還沒插得很深，你也可以後撤步，重新建立不同的控制位置。關鍵的認知是：一旦膝蓋插進來，Reverse Kesa-Gatame 就已經失守——必須立刻切換成 half guard top 的思維模式。",
+    "answer_line": "壓平 shield、過 half guard",
+    "distractors": {
+     "plausible": [
+      "把腿從 shield 中拉出來",
+      "後撤步找新角度"
+     ],
+     "trap": [
+      "用力猛拉那條插 shield 的腿"
+     ]
+    }
+   },
+   {
+    "question": "在對方嘗試 escape 的過程中，從壓制防守轉為推進 mount 的最佳時機是什麼？",
+    "answer": "最佳時機是 bottom 玩家已經透過兩到三次 shrimp 創造出側向空間、但還沒抬起近側膝蓋做阻擋的時候。他們的髖部這時已經偏離你、朝單一方向移動，為你遠側的腿跨過去創造出一條清楚的路徑。這個窗口通常只存在於空間創造出來到膝蓋插入之間的一到兩秒。行動太早，空間還不足以完成跨腿；行動太晚，knee shield 就會擋住這個轉換。",
+    "answer_line": "2-3 次 shrimp 後、膝蓋抬起前",
+    "distractors": {
+     "plausible": [
+      "第一次 shrimp 一出現就動手",
+      "等 knee shield 插入之後"
+     ],
+     "trap": [
+      "等對方完全回復 guard 再動手"
+     ]
+    }
+   }
+  ]
+ }
+}

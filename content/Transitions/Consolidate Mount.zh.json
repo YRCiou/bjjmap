@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Consolidate Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼取得 mount 之後應該立刻下沉體重？",
+    "answer": "立刻下沉體重能把對手的髖部釘在地上，限制他們的呼吸，並阻止他們累積 bridge 或 hip escape 所需的動能。這個初期的壓力至關重要，因為你剛取得 mount 的那一刻，正是對手最有可能做出最爆發性逃脫嘗試的時候。",
+    "answer_line": "釘住髖部，中斷逃脫動能",
+    "distractors": {
+     "plausible": [
+      "提早設置降伏",
+      "先建立抓握"
+     ],
+     "trap": [
+      "撐起身體以取得空間"
+     ]
+    }
+   },
+   {
+    "question": "在鞏固 mount 的過程中，grapevine hook 的主要作用是什麼？",
+    "answer": "grapevine hook 能中和對手的下半身，阻止他們做 hip escape，並降低他們的 bridge 力量。透過把你的雙腳鉤在他們大腿內側，你能控制他們的腿部動作，讓他們幾乎不可能產生標準 mount 逃脫所需的髖部動作。",
+    "answer_line": "阻止 hip escape 與 bridge",
+    "distractors": {
+     "plausible": [
+      "設置 back take",
+      "鎖住準備做 triangle"
+     ],
+     "trap": [
+      "鬆開雙腿以便推進"
+     ]
+    }
+   },
+   {
+    "question": "對手用雙手在你的髖部建立了強力的 frame，你該如何破解？",
+    "answer": "用手肘對手肘的方式把你的手臂游進他們的 frame 內側，然後把手肘壓向地面，壓制住他們的手臂。你也可以用 cross-face 壓力把他們的一隻手臂逼過身體，或用你的手把他們的手腕壓在地上，同時維持胸口的壓力。",
+    "answer_line": "游進內側，把手肘壓向地面",
+    "distractors": {
+     "plausible": [
+      "把他們的手腕硬扳開",
+      "用手把 frame 往下壓"
+     ],
+     "trap": [
+      "撐起身體往後靠"
+     ]
+    }
+   },
+   {
+    "question": "為什麼一取得 mount 就立刻嘗試降伏是個錯誤？",
+    "answer": "過早進攻會製造逃脫的破綻。當你撐起姿勢或轉移體重去嘗試降伏時，你會解除原本壓制住對手的壓力。失敗的嘗試會造成混戰，對手往往能藉此重新拿回 guard。先鞏固位置，能確保你的進攻平台穩固，並讓對手的防禦資源逐漸耗盡。",
+    "answer_line": "過早進攻會解除壓力",
+    "distractors": {
+     "plausible": [
+      "對手已預料到攻擊",
+      "你會先承受體力風險"
+     ],
+     "trap": [
+      "趁對手還沒調整快速進攻"
+     ]
+    }
+   },
+   {
+    "question": "把膝蓋走位到 high mount 的正確時機與方法是什麼？",
+    "answer": "只有在對手的 frame 被消除之後，才逐步把膝蓋往上走位，並在整個過程中維持沉重的髖部壓力。每一次膝蓋的推進都應該只遇到極小的阻力。如果對手在你推進時製造出空間，就先停下來重新建立壓力，再繼續推進。整個爬升過程應該以受控的方式進行五到十秒。",
+    "answer_line": "frame 消失後才走膝蓋",
+    "distractors": {
+     "plausible": [
+      "立刻急著把膝蓋往上走",
+      "在上 grapevine 之前先走膝蓋"
+     ],
+     "trap": [
+      "撐起身體快速走膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "你正在鞏固位置時，對手嘗試 elbow-knee escape，你該如何回應？",
+    "answer": "用你的膝蓋擋住逃脫那一側的髖部，並加大胸口的壓力，阻止他們轉身。如果他們開始製造空間，要在他們能夠插入 knee shield 之前立刻重新封閉空隙。預判逃脫的方向，並在他們真正發動動作之前，先把阻擋用的膝蓋擺好位置。",
+    "answer_line": "用膝蓋擋髖部，加大壓力",
+    "distractors": {
+     "plausible": [
+      "抓住遠側手臂並做 cross-face",
+      "坐回去重新設定 base"
+     ],
+     "trap": [
+      "撐起身體看清楚逃脫動作"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該選擇轉換到 Technical Mount，而不是鞏固 High Mount？",
+    "answer": "當對手防守 High Mount 的方式是把手肘極度貼緊身體，讓你無法把膝蓋走到他們腋下時，就選擇 Technical Mount。Technical Mount 提供不同的進攻角度，同時維持優勢控制，並開啟 back take 的機會。",
+    "answer_line": "手肘一直貼緊身體時",
+    "distractors": {
+     "plausible": [
+      "對手體力耗盡時",
+      "想快速取得降伏時"
+     ],
+     "trap": [
+      "他們對你的腿上 grapevine 時"
+     ]
+    }
+   },
+   {
+    "question": "有哪些關鍵指標能判斷 mount 鞏固完成、可以開始進攻？",
+    "answer": "當你達成以下狀態時，mount 就算鞏固完成：你已取得 High Mount，膝蓋在對手腋下；對手的 frame 已被消除；他們的手臂被控制或孤立；他們已經停止爆發性的逃脫嘗試，轉為保存體力；而且你感覺自己足夠穩固，可以轉移體重進攻而不用擔心被 sweep。",
+    "answer_line": "膝蓋在腋下，frame 已消失",
+    "distractors": {
+     "plausible": [
+      "對手完全停止動作",
+      "你已經扣住 choke 抓握"
+     ],
+     "trap": [
+      "你覺得累了，該進攻了"
+     ]
+    }
+   },
+   {
+    "question": "在 grapevine 階段，對手用雙腿困住了你的腳，你該如何在不失去位置的情況下解開？",
+    "answer": "維持沉重的胸口壓力，避免把腿直接往後拉，因為那樣會製造空間。改用畫圓的方式，把髖部向外旋轉來抽出那隻腳。必要時可以先換到對側的低位 hook，同時保持體重向前，等腿抽出之後再重新建立 grapevine。",
+    "answer_line": "旋轉髖部，畫圓抽出",
+    "distractors": {
+     "plausible": [
+      "把腿直接往後猛拉",
+      "改成攻擊 triangle"
+     ],
+     "trap": [
+      "用力快速把腿往後拉"
+     ]
+    }
+   },
+   {
+    "question": "在鞏固過程中的手臂孤立階段，應該優先建立哪種抓握？",
+    "answer": "優先建立 cross-face 抓握，把你的前臂壓入對手下巴下方，並控制遠側的肩膀。這個抓握能把對手壓平，防止他們轉身面向你，並讓近側的手臂暴露出來以便孤立。cross-face 也會製造心理壓力，逼出防禦反應，讓你有機可乘推進位置。",
+    "answer_line": "cross-face，控制遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "緊抓雙手手腕",
+      "用 underhook 控制近側手臂"
+     ],
+     "trap": [
+      "撐起身體去抓衣領"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼在被 mount 之後的前三到五秒內開始嘗試逃脫至關重要？",
+    "answer": "取得 mount 後的頭幾秒，逃脫成功率最高，因為進攻者的體重還沒完全下沉、grapevine 還沒上鉤，你的 frame 也還沒被消除。一旦鞏固流程進展到體重下沉與 grapevine 階段之後，逃脫成功率會大幅下降，因為你的 bridge 力量、髖部靈活性與 frame 能力都會被削弱。",
+    "answer_line": "在體重下沉、上鉤之前",
+    "distractors": {
+     "plausible": [
+      "對手還沒找到抓握",
+      "裁判很快會重置位置"
+     ],
+     "trap": [
+      "等對手放鬆再行動"
+     ]
+    }
+   },
+   {
+    "question": "對手已經下沉 mount 並開始插入 grapevine hook，你的防守優先順序是什麼？",
+    "answer": "你最優先的任務是阻止 grapevine 被完全建立。伸直你的腿，用腳跟施壓，把對手的腳往外推開，避免他們鉤進你大腿內側。如果其中一個 grapevine 已經上鉤，就專注阻止第二個，同時用手在髖部建立 frame，並嘗試朝自由腿那一側做 hip escape。",
+    "answer_line": "在勾鎖之前用腳跟外推",
+    "distractors": {
+     "plausible": [
+      "抓住雙手手腕並建立 frame",
+      "立刻用力 bridge"
+     ],
+     "trap": [
+      "讓一個 hook 上鉤，先放鬆"
+     ]
+    }
+   },
+   {
+    "question": "你如何辨識對手正從低位鞏固 mount 轉換成把膝蓋走向 High Mount？",
+    "answer": "關鍵辨識線索是：對手放開 grapevine 並開始把體重向前轉移，你感覺到膝蓋的壓力沿著你的肋骨往腋下推進，而且對手的 frame 從控制你髖部高度的手臂，轉為控制你肩膀高度的手臂。這個轉換過程中，對手一次只移動一隻膝蓋，base 會有短暫的破綻。",
+    "answer_line": "膝蓋壓力往腋下推進",
+    "distractors": {
+     "plausible": [
+      "對手抓住你的衣領",
+      "他們把手撐得很寬"
+     ],
+     "trap": [
+      "他們完全放開所有壓力"
+     ]
+    }
+   },
+   {
+    "question": "什麼情況讓 upa escape 成為鞏固 mount 期間的可行選項，什麼時候該避免使用？",
+    "answer": "當你能同時困住對手的一隻手臂與同側的腳時，upa 就是可行的，通常出現在他們伸手抓握或開始走膝蓋往上時的體重轉移瞬間。當對手 base 很寬、grapevine 已完全插入時要避免 upa，因為被困住的雙腿會妨礙翻滾動作。同樣地，如果手臂或腳都無法確實困住，也要避免使用，因為不完整的 upa 只會浪費體力，並暴露你的背部。",
+    "answer_line": "困住同側的手臂與腳",
+    "distractors": {
+     "plausible": [
+      "只要對手體重壓得重就用",
+      "當兩個 hook 都上鉤時"
+     ],
+     "trap": [
+      "沒有先困住就嘗試 upa"
+     ]
+    }
+   },
+   {
+    "question": "對手已經消除你的 frame，正在把膝蓋走向 High Mount，你最後可行的防守選項是什麼？",
+    "answer": "在這個較晚的階段，最好的選項是把握對手抬起一隻膝蓋推進的瞬間，時機精準地做一次爆發性的 hip escape。當他們轉移體重去把那隻膝蓋走上來時，他們的 base 會有一瞬間變得不對稱。利用那一瞬間，用力朝正在推進的那隻膝蓋方向做 shrimp，製造足夠的空間，把手肘、接著把膝蓋插入雙方身體之間，以重建 half guard。",
+    "answer_line": "在對方抬膝時做 shrimp",
+    "distractors": {
+     "plausible": [
+      "爆發性地向上 bridge",
+      "用 frame 頂開髖部"
+     ],
+     "trap": [
+      "等對方完全鎖死 mount"
+     ]
+    }
+   }
+  ]
+ }
+}

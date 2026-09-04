@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Elevation Sweep to Mount 這個技巧最主要的目的是什麼？",
+    "answer": "主要目的是利用 Reverse X-Guard 的 hook 配置，把對手的 base 整個從地面抬起，讓他們向後倒下，同時你跟著他們的動作，直接落地進入 mount 位置。這樣能跳過中間的位置，用單一動作達到最大幅度的位置推進。",
+    "answer_line": "抬起 base，直接放倒進 mount",
+    "distractors": {
+     "plausible": [
+      "sweep 到上位後再過 guard",
+      "破勢後轉進 side control"
+     ],
+     "trap": [
+      "放開 hooks，在上位搶位置"
+     ]
+    }
+   },
+   {
+    "question": "Elevation Sweep to Mount 是從什麼位置開始執行的？",
+    "answer": "這個技巧是從 Reverse X-Guard Bottom 開始的，你的主要 hook 放在對手靠近那側的膝蓋後方，次要 hook 控制他們的髖部，身體則轉向一側，讓你的髖部位於他們重心正下方。",
+    "answer_line": "Reverse X-Guard Bottom",
+    "distractors": {
+     "plausible": [
+      "Single Leg X-Guard 底位",
+      "標準 X-Guard 底位"
+     ],
+     "trap": [
+      "closed guard，腳踝交叉"
+     ]
+    }
+   },
+   {
+    "question": "Elevation Sweep to Mount 需要的關鍵 grip 是什麼？",
+    "answer": "最關鍵的 grip 是抓住與你 hooks 同一側的袖口或手腕，防止對手在被 sweep 時撐地。有穿 gi 時，也可以改抓腰帶來加強旋轉控制，或抓深領來做對角拉動。這個 grip 必須能向前拉，把對手的體重壓到你的 hooks 上。",
+    "answer_line": "同側袖口／手腕 grip",
+    "distractors": {
+     "plausible": [
+      "異側的領口 grip",
+      "雙手抓袖口的 cross grip"
+     ],
+     "trap": [
+      "抓住對手雙邊褲管"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試 Elevation Sweep to Mount 的最佳時機？",
+    "answer": "最佳時機是對手體重維持置中、姿勢挺直的時候，特別是當他們正伸手要在你上半身建立 grip 的那一刻。他們向前的體重轉移，加上升高的重心，正好創造出讓抬升機制生效的理想條件。",
+    "answer_line": "體重置中、姿勢挺直、伸手進來時",
+    "distractors": {
+     "plausible": [
+      "對手把 base 撐得很寬時",
+      "對手坐著、被動不動時"
+     ],
+     "trap": [
+      "對手已經整個平躺在地上時"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試抬升時，對手把 base 大幅撐寬，你該怎麼應對？",
+    "answer": "對手把 base 撐寬時，直接抬升會變得困難。這時應該立刻改打配合他們側向 base 延伸的技術性 Reverse X-Guard Sweep，或者順著他們撐寬的動作轉進 Single Leg X-Guard。他們寬站的姿勢，其實反而暴露出利用側向失衡的方向性 sweep 的破綻。",
+    "answer_line": "改打側向的 X-Guard sweep",
+    "distractors": {
+     "plausible": [
+      "更用力硬做抬升",
+      "全部放開，重新架 guard"
+     ],
+     "trap": [
+      "直直往後拉來做抬升"
+     ]
+    }
+   },
+   {
+    "question": "在啟動 sweep 之前，髖部必須處於什麼樣的關鍵位置？",
+    "answer": "你的髖部必須正好位於對手重心的正下方，這樣才能形成一個平台，讓你的 hook 伸展時能透過他們的 base 產生垂直方向的力量。如果髖部離太遠，你抬升的方向會偏向自己，而不是向上；如果太近，又會缺乏伸展的空間。最理想的位置，是在他們支撐腿正下方形成一個支點。",
+    "answer_line": "髖部在對手重心正下方",
+    "distractors": {
+     "plausible": [
+      "髖部往後拉以爭取伸展空間",
+      "髖部收緊貼近自己胸口"
+     ],
+     "trap": [
+      "髖部轉開、遠離對手"
+     ]
+    }
+   },
+   {
+    "question": "在 sweep 過程中，上半身與下半身的動作要如何協調配合？",
+    "answer": "拉袖口的動作與髖部伸展必須完全同步。先開始向前拉一點，把體重壓到 hooks 上，接著在持續拉的同時，爆發性地伸展髖部。上半身的拉動能阻止對手向後恢復，而髖部伸展則提供抬升的力量。如果這兩者脫節，就會出現對手能夠利用的破綻。",
+    "answer_line": "先拉，再爆發伸展髖部",
+    "distractors": {
+     "plausible": [
+      "先伸展髖部，再拉",
+      "拉動作與伸展同時進行"
+     ],
+     "trap": [
+      "髖部伸展時放開 grip"
+     ]
+    }
+   },
+   {
+    "question": "這個 sweep 和標準的 Reverse X-Guard Sweep 有什麼不同？",
+    "answer": "Elevation Sweep 使用垂直方向的抬升機制，把對手直接向後放倒進 mount；而標準的 Reverse X-Guard Sweep 則是用旋轉力量做側向 sweep。Elevation Sweep 適合對抗體重置中的對手，結果會進入 mount。標準 sweep 則適合對抗有側向 base 的對手，通常會進入需要過 guard 的上位。",
+    "answer_line": "垂直抬升進 mount，不是過 guard",
+    "distractors": {
+     "plausible": [
+      "旋轉 sweep 到上位",
+      "兩者結果都一樣"
+     ],
+     "trap": [
+      "Elevation sweep 最後會抓到背"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 hooks 在嘗試抬升的過程中開始滑脫，補救方式是什麼？",
+    "answer": "如果 hooks 滑脫，要在完全失去控制之前立刻放棄抬升，改做轉換。如果主要 hook 滑脫，就轉為需要較淺 hook 深度的 Single Leg X-Guard。如果次要 hook 滑脫，就用剩下的 hook 跟上對手，嘗試抓背或進 Ashi Garami。絕對不要在 hooks 已經受損的情況下硬做 sweep。",
+    "answer_line": "放棄，依 hook 狀況轉換",
+    "distractors": {
+     "plausible": [
+      "只靠一個 hook 硬撐",
+      "重新架 guard，重新進場"
+     ],
+     "trap": [
+      "不管情況硬做 sweep"
+     ]
+    }
+   },
+   {
+    "question": "你開始抬升時，對手把手撐在身後地上，你該如何在技巧進行中調整？",
+    "answer": "對手把手撐在身後時，立刻加大袖口 grip 向前拉的力道，把撐地的手臂拉垮。如果沒辦法破壞這個撐地，就把 sweep 的角度改往撐地那一側，因為那隻撐地的手臂沒辦法提供側向的 base。另一方面，撐地也代表那隻手離開了控制你 grip 的工作，這時剛好可以立刻轉換成另一個角度的 sweep，或抓 arm drag 的機會。",
+    "answer_line": "加大拉力，拉垮撐地的手",
+    "distractors": {
+     "plausible": [
+      "轉換角度避開撐地那側",
+      "放棄 sweep，重新架位置"
+     ],
+     "trap": [
+      "把對手推向他撐地那一側"
+     ]
+    }
+   },
+   {
+    "question": "抬升過程中，兩個 hook 各自產生的施力方向是什麼？",
+    "answer": "放在膝蓋後方的主要 hook，產生向上、稍微向後的力量，把對手的 base 抬離地面。放在髖部的次要 hook，則產生向後與旋轉的力量，讓對手的骨盆繞著主要 hook 形成的支點傾倒。兩者合在一起，會形成一個複合向量，把對手往上、往你身體另一側拋出。合力必須指向對手的中線方向，才能防止他們側向逃脫。",
+    "answer_line": "向上向後抬升，髖部傾倒",
+    "distractors": {
+     "plausible": [
+      "兩個 hook 都直直向下拉",
+      "hooks 向前、向外推"
+     ],
+     "trap": [
+      "hooks 把對手拉向你自己"
+     ]
+    }
+   },
+   {
+    "question": "sweep 成功了，但你落地時 mount 很鬆散，對手已經在做 frame，問題出在哪裡？該怎麼避免？",
+    "answer": "這通常是因為太早放開 hooks，或是沒有緊緊跟隨 sweep 的動能。修正方式是在整個 sweep 轉換過程中，讓 hook 的接觸維持得更久，並在整個旋轉過程中讓身體貼緊對手。落地的同時，立刻把髖部往前壓向對手的太陽神經叢，並在對手能建立 frame 之前先控制住至少一隻手臂。mount 應該在落地後的半秒之內就要鞏固完成。",
+    "answer_line": "貼緊身體、快速控制手臂",
+    "distractors": {
+     "plausible": [
+      "坐回去重新調整 base",
+      "先撐手，再慢慢安頓"
+     ],
+     "trap": [
+      "放開 hooks，直接跳進 mount"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在設置 Elevation Sweep，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是對手把髖部滑到你重心正下方，同時身體對角轉向、遠離你。這個髖部加壓的動作，發生在任何拉動或抬升之前，代表這是防守介入最有效的設置階段。你也會感覺到他們的 hooks 正在調整，形成一個雙邊的平台，而不是維持一般的 guard 維持姿勢。",
+    "answer_line": "髖部壓進你身下、轉角度",
+    "distractors": {
+     "plausible": [
+      "對手緊緊抓住你的領口",
+      "突然爆發性地伸展髖部"
+     ],
+     "trap": [
+      "對手已經把 base 撐得很寬"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把 base 撐寬是主要的預防性防守？這樣做會帶來什麼風險？",
+    "answer": "把 base 撐寬能把你的體重側向分散，而不是集中在對手的 hooks 上，這樣就拿掉了 sweep 方需要的雙邊抬升平台。不過，寬 base 也會讓你容易被側向的 sweep 攻擊，例如技術性的 Reverse X-Guard Sweep，也可能打開轉進 Single Leg X-Guard 的機會。防守方在撐寬 base 之後，必須馬上準備應付這些接下來的威脅。",
+    "answer_line": "擋住抬升，但開出側向 sweep",
+    "distractors": {
+     "plausible": [
+      "完全安全、沒有後續風險",
+      "能永久擋掉所有 sweep"
+     ],
+     "trap": [
+      "撐寬 base 後就不用管 hooks 了"
+     ]
+    }
+   },
+   {
+    "question": "你已經被抬起、無法阻止這個 sweep 了，這時損害控制的策略是什麼？",
+    "answer": "當預防失敗、你已經在被抬升的過程中時，立刻轉為減輕傷害。用一隻手撐在身後放慢下墜速度，接著在下墜過程中積極旋轉髖部，把靠近的膝蓋橫過對手身體。目標是落進 half guard，而不是完整的 mount。把插膝蓋的時機抓在落地那一刻，也就是 sweep 方從控制 hooks 轉為建立 mount 的瞬間，因為這時他們的控制最弱。",
+    "answer_line": "撐地、轉髖、插膝進 half guard",
+    "distractors": {
+     "plausible": [
+      "放鬆，接受完整 mount",
+      "硬拚 hooks，拒絕倒下"
+     ],
+     "trap": [
+      "縮成 turtle 來逃避 sweep"
+     ]
+    }
+   },
+   {
+    "question": "為什麼控制你袖口或手腕的那個 grip，對 sweep 能否成功這麼關鍵？",
+    "answer": "這個控制性的 grip 能讓對手做出向前加壓的拉動，把你的體重轉移到他們的 hooks 上，創造出有效抬升的條件。沒有這個 grip，sweep 方就沒辦法阻止你在 hooks 接上時往後靠或往後退。破壞或提前阻止這個 grip，會讓 sweep 少掉上半身的元素，逼對手只能單靠 hooks，這樣的 sweep 力量與控制力都會大幅下降。",
+    "answer_line": "讓拉動能把體重壓上 hooks",
+    "distractors": {
+     "plausible": [
+      "只是為了平衡，不是必要",
+      "只是用來控制姿勢"
+     ],
+     "trap": [
+      "sweep 落地後才需要這個 grip"
+     ]
+    }
+   },
+   {
+    "question": "對手嘗試抬升，但你成功把 base 撐寬了，接下來該做什麼？",
+    "answer": "撐寬 base 擋住抬升之後，要立刻開始處理 hooks，趁對手還沒轉換到其他攻勢之前動手。向前施壓把他們的結構壓平，開始清掉放在你膝蓋後方的主要 hook，並透過領口或袖口 grip 建立上半身控制。不要被動地停在寬 base 的姿勢裡，因為對手會很快轉為利用你撐寬姿勢的側向 sweep 或纏腿進場。",
+    "answer_line": "立刻清 hooks、向前施壓",
+    "distractors": {
+     "plausible": [
+      "維持寬 base 被動等待",
+      "立刻站起來脫離接觸"
+     ],
+     "trap": [
+      "放鬆 base，讓 hooks 重新接上"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Elevation Sweep to Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

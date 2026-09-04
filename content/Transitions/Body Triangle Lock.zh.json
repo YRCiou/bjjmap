@@ -1,0 +1,224 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Body Triangle Lock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Gift Wrap 施展 Body Triangle Lock 的主要目標是什麼？",
+    "answer": "主要目標是在維持 Gift Wrap 手臂控制的同時鎖上 Body Triangle，同時消除對手的手臂防禦與髖部逃脫。這種組合控制的位置能把位置優勢發揮到最大，並創造出耐心尋找降伏機會的最佳條件。",
+    "distractors": {
+     "plausible": [
+      "先困住遠側手臂再上鎖",
+      "翻滾到 mount 位置"
+     ],
+     "trap": [
+      "放掉 Gift Wrap 去夾肋骨"
+     ]
+    },
+    "answer_line": "鎖上 triangle，保留 Gift Wrap"
+   },
+   {
+    "question": "Body Triangle Lock 是從什麼位置開始的？",
+    "answer": "Body Triangle Lock 是從 Gift Wrap/Top 開始，這時你已經取得背後控制，並把對手一隻手臂困在他身體橫向的位置。那隻手臂是靠你的手臂穿過對方腋下來固定，並在遠側取得手腕或前臂的控制。",
+    "distractors": {
+     "plausible": [
+      "雙 hook 都插入的 Back Control",
+      "帶著 Gift Wrap 手臂的 Mount"
+     ],
+     "trap": [
+      "側控，手臂被困住"
+     ]
+    },
+    "answer_line": "Gift Wrap 背後控制"
+   },
+   {
+    "question": "施展 Body Triangle Lock 需要哪些關鍵的抓握與控制？",
+    "answer": "關鍵控制包括 Gift Wrap 手臂控制、胸背貼緊，以及鎖腳的腳踝勾在進攻腿膝蓋後方。整個過程都要維持 Gift Wrap，也就是你的手臂穿過對手腋下、在遠側取得手腕或前臂控制；而把鎖腳的腳踝放在進攻腿的膝蓋或腳踝後方，正是這個 triangle 力學優勢的來源。",
+    "distractors": {
+     "plausible": [
+      "腳踝放在膝蓋前方",
+      "雙 hook 插入，不用 Gift Wrap"
+     ],
+     "trap": [
+      "夾肋骨，放掉 Gift Wrap"
+     ]
+    },
+    "answer_line": "Gift Wrap + 腳踝勾膝蓋後方"
+   },
+   {
+    "question": "你放開 hook、準備穿腿完成 Body Triangle 時，對手開始轉向你，你該如何應對？",
+    "answer": "利用你的 Gift Wrap 手臂控制，把對手被困住的那側肩膀拉回你這邊，阻止對方轉身。如果對方還是成功轉了過來，就放棄 Body Triangle 的嘗試，維持 Gift Wrap 並跟著對方轉到 technical mount。不要在對手轉身時硬上 triangle，否則你會失去位置。",
+    "answer_line": "用 Gift Wrap 把肩膀拉回來",
+    "distractors": {
+     "plausible": [
+      "重新插入雙 hook",
+      "跟著轉到 mount，放掉 Gift Wrap"
+     ],
+     "trap": [
+      "硬把 triangle 上完"
+     ]
+    }
+   },
+   {
+    "question": "穿腿完成 Body Triangle 的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手安定下來、沒有積極解脫的時候，例如在吐氣之後，或是解脫嘗試失敗之後。其他不錯的時機包括對方停下來喘息，或是把注意力放在防守頸部而非移動髖部時。在對方劇烈掙扎時嘗試穿腿，通常會導致你失去位置。",
+    "distractors": {
+     "plausible": [
+      "剛拿到背後控制的當下",
+      "hook 一插入就馬上做"
+     ],
+     "trap": [
+      "在劇烈掙扎的過程中"
+     ]
+    },
+    "answer_line": "對手安定下來、未在解脫時"
+   },
+   {
+    "question": "為了效果最大化且避免受傷，Body Triangle 應該放在對手身體的哪個位置？",
+    "answer": "把 Body Triangle 放在下肋骨與上腹部一帶，位於浮肋之下。這樣既能提供最大的髖部控制，又能避免傷及浮肋的風險。夾在浮肋位置可能導致骨折，訓練時應該避免。",
+    "answer_line": "放在浮肋以下",
+    "distractors": {
+     "plausible": [
+      "放在胸口高處",
+      "放在很低的髖部位置"
+     ]
+    }
+   },
+   {
+    "question": "對手用他唯一空著的手去擋你穿腿，這創造出什麼機會？",
+    "answer": "當對手用他唯一空著的手臂去防守你的腿穿過來時，他就失去了對頸部的保護。這立刻創造出攻擊 rear naked choke 或其他頸部降伏的機會。Gift Wrap 已經困住一隻手臂，如果對方把剩下的那隻手也用來防腿，頸部就完全暴露在勒頸攻擊之下。",
+    "answer_line": "頸部暴露，攻擊勒頸",
+    "distractors": {
+     "plausible": [
+      "加快完成 triangle",
+      "改攻 armbar"
+     ],
+     "trap": [
+      "放掉 Gift Wrap 去防腿"
+     ]
+    }
+   },
+   {
+    "question": "把腳踝勾在膝蓋前方和勾在膝蓋後方，關鍵差異是什麼？",
+    "answer": "勾在膝蓋後方能創造力學優勢，維持位置只需要極少的力氣，結構本身就能撐住這個位置。勾在膝蓋前方則形成一個薄弱的鎖扣，需要持續用肌肉發力維持，而且當對手伸展身體時很容易被破解。永遠要把鎖腳的腳踝放在進攻腿的後方。",
+    "answer_line": "膝蓋後方，省力",
+    "distractors": {
+     "plausible": [
+      "腳踝關節後方",
+      "小腿上方"
+     ],
+     "trap": [
+      "膝蓋前方"
+     ]
+    }
+   },
+   {
+    "question": "在穿腿完成 Body Triangle 的過程中，如何維持胸背貼緊？",
+    "answer": "讓上半身完全保持靜止，只用髖部與雙腿移動。把你的胸口想像成黏在對方背後，讓下半身在底下獨立移動。穿腿過程中只要上半身的貼緊出現任何空隙，對手就有機會開始解脫流程。",
+    "answer_line": "上半身不動，雙腿移動",
+    "distractors": {
+     "plausible": [
+      "把胸口壓得更用力",
+      "讓胸口跟著髖部移動"
+     ],
+     "trap": [
+      "抬高胸口以便穿腿"
+     ]
+    }
+   },
+   {
+    "question": "施展 Body Triangle 時，什麼常見錯誤會導致肋骨受傷？該如何避免？",
+    "answer": "把 Body Triangle 放得太高、壓在浮肋上再夾擠，會造成骨折風險。避免的方法是把腿穿得低一點，鎖定在肋骨以下、接近腰線的部位。應該用髖部伸展來製造壓力，而不是用雙腿去夾。",
+    "answer_line": "穿得低，用髖部伸展",
+    "distractors": {
+     "plausible": [
+      "穿得低，用雙腿夾擠",
+      "穿得高，用髖部伸展"
+     ],
+     "trap": [
+      "用力夾在肋骨上"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防止 Body Triangle Lock 成立的主要防守時機是什麼？",
+    "answer": "主要的防守時機，就是進攻方放開一個 hook、開始把腿穿過你腹部的那一刻。這個放開 hook 的動作會讓對方的控制暫時從兩點降為一點，造成不穩定，你可以趁這個空檔用爆發性的髖部動作、轉身或擋腿，在 Body Triangle 被固定之前化解。",
+    "answer_line": "hook 放開時，趁鎖定前爆發",
+    "distractors": {
+     "plausible": [
+      "triangle 鎖上之後",
+      "Gift Wrap 固定之前"
+     ],
+     "trap": [
+      "先等待、保留體力"
+     ]
+    }
+   },
+   {
+    "question": "對手在維持 Gift Wrap 的同時把腿穿過你的腹部，你應該用空著的手去擋腿，還是保護頸部？",
+    "answer": "除非你的下巴已經深深收好、肩膀抬高提供結構性的頸部保護，否則應該先保護頸部。輸給 rear naked choke 比讓對方拿到 Body Triangle 更糟糕。只有在頸部已經有結構性防守的情況下，才能把空著的手用來擋腿，因為只要進攻方看到你的喉嚨暴露，就會立刻發動攻擊。",
+    "answer_line": "先保護頸部",
+    "distractors": {
+     "plausible": [
+      "橋起來試著站起",
+      "把注意力分給頸部和腿"
+     ],
+     "trap": [
+      "擋腿，讓頸部暴露"
+     ]
+    }
+   },
+   {
+    "question": "Body Triangle 已經鎖上了，你的當下首要任務是什麼？",
+    "answer": "把策略從阻止上鎖，轉為管理這個位置。首要任務是保護頸部，因為進攻方接下來會積極尋找降伏機會。接著要設法攻擊 figure-four 鎖扣，鎖定對方勾在膝蓋後方的那隻腳踝，用髖部動作創造空間，而不是想用手臂蠻力把雙腿撬開。",
+    "answer_line": "先護頸，再處理鎖扣",
+    "distractors": {
+     "plausible": [
+      "用手把雙腿撬開",
+      "被動等待對方失誤"
+     ],
+     "trap": [
+      "不管頸部，直接攻擊鎖扣"
+     ]
+    }
+   },
+   {
+    "question": "在防守 Body Triangle 穿腿嘗試時，為什麼保持側身姿勢很關鍵？",
+    "answer": "側身能形成一道實體屏障，讓對方更難把腿穿過你的身體完成 triangle，同時保留你做 shrimp、製造側向髖部位移的能力，也能防止進攻方建立能把穿腿角度發揮到最大的平背背後控制。攤平身體會失去這些優勢，反而是在幫進攻方的忙。",
+    "answer_line": "擋住穿腿，保留 shrimp 空間",
+    "distractors": {
+     "plausible": [
+      "比較容易坐起來",
+      "保護手臂不被控制"
+     ],
+     "trap": [
+      "攤平身體以創造空間"
+     ]
+    }
+   },
+   {
+    "question": "為了防守 Body Triangle 的穿腿，你轉身面向進攻方時，會面臨什麼取捨？",
+    "answer": "轉向進攻方能封住橫穿身體的路徑，阻止 Body Triangle 穿腿成立，但這個轉身動作可能導致局面轉換到 technical mount 或 mount，而進攻方仍然維持著 Gift Wrap 手臂控制。雖然這些位置提供不同的逃脫選擇，仍然很危險。這個轉身仍然值得，因為 Body Triangle 加上 Gift Wrap 比 mount 加上 Gift Wrap 更難逃脫。",
+    "answer_line": "擋住穿腿，但有落入 mount 的風險",
+    "distractors": {
+     "plausible": [
+      "完全逃脫，沒有風險",
+      "解放被困住的手臂"
+     ],
+     "trap": [
+      "維持平躺，避免轉身"
+     ]
+    }
+   }
+  ]
+ }
+}

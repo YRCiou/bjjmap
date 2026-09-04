@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Modified Mount 執行 bridge escape 時，最關鍵的方向考量是什麼？",
+    "answer": "bridge 必須明確朝撐地那條腿的方向做，那裡是上位者結構上的弱點。撐地腿把 base 向外延伸，對來自反方向的 bridge 有穩定性，但對朝撐地腳方向、穿過去的力量卻很脆弱。朝跨身的那個膝蓋方向做 bridge，等於直攻他們最強的控制點，白白浪費力氣而無法造成位移。",
+    "answer_line": "朝撐地腿方向做 bridge",
+    "distractors": {
+     "plausible": [
+      "直接向上使出全力",
+      "配合呼吸抓 bridge 時機"
+     ],
+     "trap": [
+      "朝跨身的膝蓋方向做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "對手右腿撐地，左膝跨過你身體——你該往哪個方向做 bridge，為什麼？",
+    "answer": "往你的左邊做 bridge，朝他們撐地的右腿方向。撐地的右腿在那一側製造了方向性的破綻，因為他們的 base 被延伸出去，加上腳的伸展位置，讓他們吸收側向力的能力受損。他們跨身的左膝則是控制最強的一點，向下壓力集中，是逃脫時錯誤的方向。",
+    "answer_line": "往左做 bridge，攻向撐地腿",
+    "distractors": {
+     "plausible": [
+      "先向上做 bridge，再選方向",
+      "往右做 bridge，攻向近側膝蓋"
+     ],
+     "trap": [
+      "朝跨身的膝蓋方向做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的腳掌位置，能為這個逃脫動作創造最大的 bridge 力量？",
+    "answer": "雙腳平踩在墊子上，腳跟拉近髖部，大約與肩同寬，腳尖稍微朝外。撐地腿那一側的腳，應該稍微放前一點，讓 bridge 的力量斜向撐地腿的方向，而不是直接向上。這樣的擺位，能讓臀部與後側動力鏈以最理想的方式，產生爆發式的定向髖部伸展。",
+    "answer_line": "腳跟靠髖，前腳對準撐地側",
+    "distractors": {
+     "plausible": [
+      "雙腳張開，腳尖朝內",
+      "腳跟靠近，雙腳對稱"
+     ],
+     "trap": [
+      "雙腳伸直，腿伸長"
+     ]
+    }
+   },
+   {
+    "question": "你開始做 bridge，但上位者立刻伸手抓你近側的手臂準備做 armbar——你該如何調整？",
+    "answer": "立刻中止 bridge，優先防守手臂：把近側手肘收緊貼住髖部，雙手互扣，形成雙臂防守結構。Modified Mount 中的 armbar 威脅非常嚴重，優先順序高於完成逃脫。手臂確保安全之後，重新評估局勢，等上位者放棄 armbar 嘗試、重新調整 grip 時，再尋找下一個逃脫窗口。",
+    "answer_line": "中止 bridge，先防守手臂",
+    "distractors": {
+     "plausible": [
+      "先做完 bridge 再防守手臂",
+      "邊做 bridge 邊把手臂拉出來"
+     ],
+     "trap": [
+      "硬撐過去，不理會手臂被抓"
+     ]
+    }
+   },
+   {
+    "question": "在發動 bridge 之前，應該先建立什麼樣的 frame 位置？",
+    "answer": "你遠側的手應該撐在對方靠近撐地腿那一側的髖骨上，建立一道結構性屏障，防止他們跟隨你的髖部動作。近側手肘則緊貼自己的髖部，手用來保護頸部或抓自己的 collar。沒有這個髖部 frame，上位者會順著你的 bridge 動能重新騎乘，重新建立位置，讓逃脫完全失效。",
+    "answer_line": "遠手 frame 對方近側髖部",
+    "distractors": {
+     "plausible": [
+      "近手 frame 遠側髖部",
+      "雙手都 frame 遠側髖部"
+     ],
+     "trap": [
+      "推對方胸口，不做 frame"
+     ]
+    }
+   },
+   {
+    "question": "用 bridge 創造出空間之後，緊接著最重要的動作是什麼？",
+    "answer": "在一個流暢的動作中，把髖部往外做 shrimp，同時雙膝夾緊，把撐地那條腿夾進你的雙腿之間。bridge 只會創造一個短暫的失衡窗口，如果沒有立刻控制住那條腿，上位者會恢復 base、重新建立 mount。shrimp 加夾腿必須訓練成一個銜接 bridge 的單一協調動作，中間不能有任何停頓。",
+    "answer_line": "做 shrimp 並夾住撐地腿",
+    "distractors": {
+     "plausible": [
+      "把對方推開，再重整 guard",
+      "在夾腿之前再做一次 bridge"
+     ],
+     "trap": [
+      "停下來確認位置，再行動"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 創造出空間，但上位者在你夾住那條腿之前轉換成標準 mount——你該如何回應？",
+    "answer": "立刻轉換成標準 mount 的逃脫技巧，因為 Modified Mount 的配置已經不存在了。從標準 mount 執行 hip escape 或 upa，並認清這次 bridge 其實創造了戰術優勢，因為上位者在轉換過程中正短暫調整位置，可能還沒在新配置中完全鞏固他們的 base。",
+    "answer_line": "改用標準 mount 的逃脫方式",
+    "distractors": {
+     "plausible": [
+      "繼續追已經失去的撐地腿",
+      "重整之後再誘發一次 bridge"
+     ],
+     "trap": [
+      "靜止不動，等下一次機會"
+     ]
+    }
+   },
+   {
+    "question": "上位者預判你 bridge 的方向，把重量轉向撐地腿那一側——你該如何應變？",
+    "answer": "如果 bridge 方向被對方預先調整重量擋住了，改往跨身膝蓋那一側做 hip escape，因為那一側的重量轉移，讓那裡相對變輕。對方無法同時在兩側都加重，所以他們防守性地把重量轉向撐地腿，勢必會讓另一側空出來。這種方向切換，正是 mount 連鎖逃脫的核心精神。",
+    "answer_line": "改往跨膝那一側做 hip escape",
+    "distractors": {
+     "plausible": [
+      "更用力朝撐地腿做 bridge",
+      "等他們完全過度投入"
+     ],
+     "trap": [
+      "再一次朝撐地腿方向做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 bridge escape 的目標是恢復 half guard，而不是完全反轉到上位？",
+    "answer": "撐地那條腿是 bridge 過程中最容易控制的結構元素，因為它本來就已經延伸離開對方的重心。把它夾進你的雙腿之間，能直接轉換成 half guard，這是一個可控、具有真正進攻選項的位置。嘗試完全反轉，則需要移動上位者的整個體重，這需要遠遠更多的體力，成功窗口也小得多。",
+    "answer_line": "撐地腿最容易被控制",
+    "distractors": {
+     "plausible": [
+      "完全反轉出手更快",
+      "half guard 有腿鎖風險"
+     ],
+     "trap": [
+      "硬拚完全反轉成 mount"
+     ]
+    }
+   },
+   {
+    "question": "從 Modified Mount 發動 bridge escape 的最佳時機窗口是什麼？",
+    "answer": "最好的窗口，是上位者伸手去抓新的 grip 或準備 submission 的時候，這時他們的重量會暫時轉移、控制壓力降低。在上位者從標準 mount 調整到 Modified Mount，或在不同變化之間切換的轉換過程中，同樣有效。任何他們把腿撐得比理想位置更遠的時刻，都會放大破綻。等待這些自然出現的機會，而不是硬碰一個已經鞏固的控制。",
+    "answer_line": "趁對方伸手抓 grip 或準備 sub",
+    "distractors": {
+     "plausible": [
+      "mount 剛壓穩就立刻做",
+      "只有在完全休息夠時才做"
+     ],
+     "trap": [
+      "硬碰穩固的控制"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位者正準備從 Modified Mount 發動 bridge escape 的最早訊號是什麼？",
+    "answer": "最早的訊號，是下位者把雙腳重新平踩在靠近髖部的墊子上，建立 bridge 的平台。這個腳部動作，通常會比真正的 bridge 早幾秒出現，是最明確的警示訊號。加上髖部微微轉向你撐地腿那一側，以及在你髖部上建立 frame，這些準備動作會形成一個可辨識的模式，讓你能提前採取防守行動。",
+    "answer_line": "腳平踩靠近髖部",
+    "distractors": {
+     "plausible": [
+      "緊緊抓住你的 collar",
+      "用力吐氣，全身緊繃"
+     ],
+     "trap": [
+      "放鬆下來，停止移動"
+     ]
+    }
+   },
+   {
+    "question": "下位者朝你撐地那條腿爆發性地做 bridge——你該立刻怎麼調整 base？",
+    "answer": "把你撐地那隻腳穩穩踩進墊子，同時拉寬你的 base，透過跨身的膝蓋加大向下壓力。你撐地的腿應該作為結構性支撐，吸收 bridge 的側向力。把重心降得更低，讓髖部下沉，並稍微朝撐地那一側傾斜，以抵消 bridge 的力量。跨身膝蓋則全程維持主要控制。",
+    "answer_line": "撐地腳踩穩，拉寬 base",
+    "distractors": {
+     "plausible": [
+      "抬起撐地腿重新歸位",
+      "身體遠離撐地那一側"
+     ],
+     "trap": [
+      "站直身體逃開"
+     ]
+    }
+   },
+   {
+    "question": "為什麼相較於標準 mount，Modified Mount 特別容易受到定向 bridge escape 的攻擊？",
+    "answer": "Modified Mount 會產生不對稱的重量分布，撐地腿那一側承受的控制壓力，明顯比跨身膝蓋那一側少。這種不對稱意味著，朝撐地腿方向做的 bridge，遇到的阻力比對抗標準 mount 均勻重量分布時更小。撐地那條腿也把上位者的 base 向外延伸，創造出的空間，可以在 bridge 位移最大的瞬間被用來夾腿。",
+    "answer_line": "撐地腿那側承受壓力較少",
+    "distractors": {
+     "plausible": [
+      "標準 mount 重量本來就不均",
+      "跨膝那側永遠比較弱"
+     ],
+     "trap": [
+      "兩側承受的壓力相同"
+     ]
+    }
+   },
+   {
+    "question": "你感覺下位者在你的髖部上建立 frame，準備做 bridge——你該如何預先阻止逃脫？",
+    "answer": "立刻把重量向前轉移，用沉重的 crossface 壓力固定他們的頭部，阻止定向 bridge 所需要的髖部旋轉。同時把髖部壓低游動，壓碎他們的 frame，縮小你我身體之間的空間。如果 frame 很強，威脅攻擊近側手臂的 armbar，逼他們把做 frame 的手收回去防守手臂，這樣就能完全打亂他們的逃脫準備。",
+    "answer_line": "重壓 crossface，威脅 armbar",
+    "distractors": {
+     "plausible": [
+      "退回 guard 重新來過",
+      "抓住雙手腕用力夾緊"
+     ],
+     "trap": [
+      "坐回去，給他們空間"
+     ]
+    }
+   },
+   {
+    "question": "你該威脅哪種位置轉換，來遏止對方反覆嘗試從 Modified Mount 做 bridge escape？",
+    "answer": "威脅近側手臂的 armbar，因為 Modified Mount 的身體位置天生就適合 armbar 的進入機制。當下位者開始準備 bridge，伸手去抓他們的手腕或控制他們的手肘，會製造一個 submission 兩難，逼他們必須在防守 armbar 和執行 bridge 之間做選擇。這個 submission 威脅，會讓 bridge 嘗試變得代價高昂，遏止反覆嘗試，讓你能以更少的防守力氣維持 mount 位置。",
+    "answer_line": "威脅近側手臂的 armbar",
+    "distractors": {
+     "plausible": [
+      "威脅 cross collar choke",
+      "威脅轉換到 back"
+     ],
+     "trap": [
+      "放開 grip 引誘對方做 bridge"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Modified Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

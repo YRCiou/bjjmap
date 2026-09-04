@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Complete Pass from Quarter.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 quarter guard 完成過人的最佳時機是什麼時候？",
+    "answer": "最佳時機是在建立 quarter guard 後的五到十秒內。超過這個時間窗口，下位者就有足夠時間重建防禦結構，包括恢復 knee shield、建立 underhook，或進入 deep half guard。應該在下位者殘餘的 hook 開始鬆動、或他們的 frame 開始崩潰的那一刻立刻發動過人，因為猶豫會直接對應到過人成功率的下降。",
+    "answer_line": "五到十秒內完成過人",
+    "distractors": {
+     "plausible": [
+      "等對手放鬆再動",
+      "逃脫前任何時間都可以"
+     ],
+     "trap": [
+      "先讓他們重建 guard"
+     ]
+    }
+   },
+   {
+    "question": "在你決定抽出被困的那條腿之前，必須先滿足哪些前置條件？",
+    "answer": "你必須已經建立 crossface 或同等程度的頭部控制，讓對手無法轉身；你的髖部必須已經越過他們的中線至少六英吋；而且他們殘餘的腿部纏繞必須降到最低。此外，他們近側的手臂必須被控制或壓制住，避免對方建立 frame，而你支撐用的那條腿必須提供穩固的 base，防止在抽腿過程中被 sweep。",
+    "answer_line": "先鎖死 crossface 控制",
+    "distractors": {
+     "plausible": [
+      "髖部只是勉強過中線",
+      "用 underhook 取代 crossface"
+     ],
+     "trap": [
+      "腿還纏著就嘗試"
+     ]
+    }
+   },
+   {
+    "question": "在抽腿階段中，最關鍵的力學細節是什麼？",
+    "answer": "在整個抽腿過程中維持持續的上半身壓力，是單一最關鍵的細節。被困的那條腿必須以先向後畫弧再橫掃的方式抽出，而不是直接向後硬拉，硬拉會製造出可利用的空間。隨著腿部移動，胸口的體重必須成比例增加，確保下位者無法利用這個過渡瞬間插入 frame 或重建 guard 結構。",
+    "answer_line": "抽腿的同時保持壓力",
+    "distractors": {
+     "plausible": [
+      "快速把腿直接向後拉",
+      "先抽腿，之後再加壓"
+     ],
+     "trap": [
+      "放鬆壓力以重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "這個過人嘗試在 quarter guard 階段最常見的失敗原因是什麼？",
+    "answer": "最常見的失敗原因包括 crossface 壓力不足，讓對手能轉身重建 frame；在消除 knee shield 之前就提早抽腿；抽腿過程中失去髖對髖的接觸，給了對方重建 guard 的空間；腿部部分脫困後猶豫不決，讓對手重新掛回 hook；以及只有靜態壓力而沒有主動推進，給下位者時間發展反制策略。",
+    "answer_line": "crossface 壓力不足",
+    "distractors": {
+     "plausible": [
+      "抽腿速度太快",
+      "失去髖對髖的接觸"
+     ],
+     "trap": [
+      "crossface 壓力太大"
+     ]
+    }
+   },
+   {
+    "question": "完成這個過人時，用什麼樣的抓握配置控制效果最好？",
+    "answer": "最理想的配置是 crossface 肩部壓在對手遠側臉頰上，同時近側的手控制對手遠側的髖部以防止旋轉。支撐用的那隻手應該用來做 base，而不是拿來抓握。crossface 是不可或缺的——沒有它，過人成功率會大幅下降，因為對手能夠轉身、製造角度，並重建防禦結構。",
+    "answer_line": "crossface 加上遠側髖部控制",
+    "distractors": {
+     "plausible": [
+      "underhook 加上近側髖部抓握",
+      "雙 underhook，不用 crossface"
+     ],
+     "trap": [
+      "用支撐手用力抓握"
+     ]
+    }
+   },
+   {
+    "question": "在完成過人的最後動作中，力量應該朝哪個方向施加？",
+    "answer": "力量應該朝對角前下方施加，指向對手遠側肩膀，而不是正下方或正前方。這個對角向量能同時防止對手轉向你、阻擋他們的 hip escape，並帶動你的體重壓過他們的中線。這個方向在完成過人的過程中會稍微轉變——一開始偏向前方以推進髖部，之後偏向側面以達成與對手垂直的 side control 位置。",
+    "answer_line": "朝遠側肩膀對角施力",
+    "distractors": {
+     "plausible": [
+      "正下方壓向胸口",
+      "正前方全力施壓"
+     ],
+     "trap": [
+      "向後拉把對方壓平"
+     ]
+    }
+   },
+   {
+    "question": "對手在你嘗試抽腿時恢復了部分的 knee shield，你該如何調整？",
+    "answer": "如果重新建立的 knee shield 很弱、缺乏完整壓力，立刻加大向前的髖部推進力，同時用近側的手把他們的膝蓋往地面壓，繼續完成過人。如果 shield 已經穩固重建，就換成 smash pass 的變化，把他們的膝蓋壓向對側肩膀，或重新設定回結構化的 knee slice pass。決定關鍵在於重建的 shield 強度——弱就硬闖過去，強就換技術。",
+    "answer_line": "shield 弱就硬闖過去",
+    "distractors": {
+     "plausible": [
+      "不管情況一律硬闖",
+      "重置回站立過人"
+     ],
+     "trap": [
+      "硬闖強力的 shield"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的過人嘗試被擋下，接下來應該串接什麼攻勢？",
+    "answer": "立即串接到 knee slice pass，用膝蓋橫掃過他們的大腿線；或改用 long step pass，跨過他們下方那條腿的同時維持 crossface。如果對手在你嘗試過程中轉身躲避 crossface 壓力，立刻跟上去做 back take，而不是堅持原本的正面過人。如果他們建立了 underhook，轉換成 kimura grip 來控制它，並從這個新的控制點繼續過人。",
+    "answer_line": "串接 knee slice 或 long step",
+    "distractors": {
+     "plausible": [
+      "重置回 closed guard",
+      "立刻重試同一個過人"
+     ],
+     "trap": [
+      "堅持原本的過人切入點"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "上位者正試圖從 quarter guard 完成過人時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是 crossface 肩部壓力開始更用力壓向你的臉、上位者近側的手開始特別針對你殘餘的 knee shield 或 hook、髖部向前推進越過你的中線並帶著對角方向的重心轉移，以及開始出現對你殘餘 hook 的畫弧式抽腿動作。這些線索通常會在過人完全發動前一到兩秒出現。",
+    "answer_line": "crossface 壓力增加",
+    "distractors": {
+     "plausible": [
+      "對手安定下來停留在原位置",
+      "重心直接往下轉移"
+     ],
+     "trap": [
+      "等過人完全發動再反應"
+     ]
+    }
+   },
+   {
+    "question": "從 quarter guard 防守時，什麼時候該選擇重建 guard，什麼時候該嘗試 sweep？",
+    "answer": "當你的 underhook 被破壞，或你已經被部分壓平時，選擇重建 guard，因為這些條件會讓 sweep 在力學上變得不可靠。當你有深的 underhook、側身且髖部靈活性良好，而上位者在抽腿時把重心壓向前方時，就嘗試 sweep。如果你在兩秒內無法判斷哪個選項可行，預設選擇重建 guard，這是成功率較高的較安全選項。",
+    "answer_line": "不確定時預設重建 guard",
+    "distractors": {
+     "plausible": [
+      "一律優先嘗試 sweep",
+      "underhook 被破壞時才 sweep"
+     ],
+     "trap": [
+      "被壓平時仍嘗試 sweep"
+     ]
+    }
+   },
+   {
+    "question": "如果沒有成功防守從 quarter guard 完成的過人，主要風險是什麼？",
+    "answer": "防守失敗會讓對手建立 side control，這會給他們三個 IBJJF 分數、沉重的壓力且逃脫選項有限，並立即面臨包括 Americana、Kimura 和 arm triangle 在內的降伏威脅。逃脫已建立的 side control 所需的體力成本，遠高於在 quarter guard 階段就阻止過人，所以及早防守遠比事後補救有效率。",
+    "answer_line": "側控後接降伏威脅",
+    "distractors": {
+     "plausible": [
+      "損失一個 advantage 分數",
+      "只是小幅度的位置調整"
+     ],
+     "trap": [
+      "之後有輕鬆的逃脫機會"
+     ]
+    }
+   },
+   {
+    "question": "防守從 quarter guard 完成的過人時，你應該如何運用你的自由腿？",
+    "answer": "你的自由腿有三個防禦功能：抵在對手髖部做 frame，阻止他們向前推進並創造距離；插入成 butterfly hook，鉤在他們的大腿下方以破壞 base 並製造 sweep 機會；或撐在你身後的墊子上，防止被完全壓平。自由腿絕對不能是被動的——主動把它用在這些角色之一，才能爭取到重建 guard 或執行 sweep 所需的時間與空間。",
+    "answer_line": "保持主動，frame、hook 或撐地",
+    "distractors": {
+     "plausible": [
+      "讓腿保持被動，節省體力",
+      "只用這條腿撐地"
+     ],
+     "trap": [
+      "把腿收起來，減少動作"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到上位者開始抽出被困的腿時，你該做什麼調整？",
+    "answer": "立即收緊殘餘的腿部纏繞，把膝蓋夾緊；把 underhook 拉得更緊，防止對方上半身同時向前推進；並朝抽腿方向的反方向做 hip escape，創造新的防禦角度。如果經過這些調整後對方仍持續抽腿，立刻轉換到 deep half guard，鑽到他們的重心下方，或用你的自由腿建立 butterfly hook，在這個過渡瞬間破壞他們的 base。",
+    "answer_line": "夾緊膝蓋，拉緊 underhook",
+    "distractors": {
+     "plausible": [
+      "把對手的髖部推開",
+      "把自由腿撐在墊子上"
+     ],
+     "trap": [
+      "放鬆抓握，重新設定位置"
+     ]
+    }
+   }
+  ]
+ }
+}

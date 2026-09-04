@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Cross Face Pass from Flattened Half.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 cross face pass 過程中，發動抽腿的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手正忙於應付 crossface 壓力，或剛完成一次 bridge 嘗試的時候。在 bridge 恢復的過程中，他們會短暫把髖部沉回地面，此時無法主動防守抽腿。把雨刷式擺動的時機對準這個沉降階段，能利用他 hook 壓力最弱、防守注意力被分散的短暫空檔。",
+    "answer_line": "趁 bridge 恢復沉降時",
+    "distractors": {
+     "plausible": [
+      "crossface 剛固定時立刻進行",
+      "髖部一擺正就立刻進行"
+     ],
+     "trap": [
+      "在 hook grip 最強的時候"
+     ]
+    }
+   },
+   {
+    "question": "在有效發動 flattened half guard 的 cross face pass 之前，必須具備哪些條件？",
+    "answer": "你需要已建立的 crossface 控制，讓對手的頭轉向另一側；透過骨架對齊讓體重沉穩地保持胸對胸接觸；對手的 frame 已被瓦解，使他無法製造距離；並且他的 underhook 已被中和或控制。若這四個條件沒有全部滿足，貿然嘗試過腿只會製造出讓對手恢復 frame 或轉換 guard 的破口，抵銷你的壓力優勢。",
+    "answer_line": "四個控制點全部到位",
+    "distractors": {
+     "plausible": [
+      "只要有 crossface 控制就好",
+      "只靠胸口壓力，不管 frame"
+     ],
+     "trap": [
+      "在解除 underhook 前就進攻"
+     ]
+    }
+   },
+   {
+    "question": "crossface 在力學上是如何製造出抽腿所需角度的？",
+    "answer": "crossface 把對手的頭轉離過腿方向，這會旋轉他的肩膀，在他上半身與下半身的對齊之間製造出一道楔形。這個楔形效應限制了他用自己的髖部跟上你橫向髖部移動的能力，讓你能走動腳步、製造出抽腿角度，而對手卻無法同步移動來維持他的 hook。",
+    "answer_line": "轉頭楔開上下半身",
+    "distractors": {
+     "plausible": [
+      "光靠胸口體重就能做到",
+      "髖部壓力會旋轉他的脊椎"
+     ],
+     "trap": [
+      "拉扯遠側手臂製造空間"
+     ]
+    }
+   },
+   {
+    "question": "即使已建立 crossface 控制，cross face pass 失敗最常見的原因是什麼？",
+    "answer": "最常見的失敗原因是在製造角度或抽腿階段抬起了胸口壓力。許多練習者在走動腳步或試圖抽出腿部時，會不自覺地減少胸口接觸。這會製造出空間，讓對手得以恢復 frame、重新建立 underhook，或插入 knee shield，抵銷 crossface 帶來的位置優勢，逼你必須重新做一次整套壓平流程。",
+    "answer_line": "抬起了胸口壓力",
+    "distractors": {
+     "plausible": [
+      "失去轉頭角度",
+      "腳步走得太快太急"
+     ],
+     "trap": [
+      "伸手去搶遠側 underhook"
+     ]
+    }
+   },
+   {
+    "question": "在 cross face pass 過程中，你的空閒手應該放在哪裡，為什麼？",
+    "answer": "你的空閒手應該控制對手的遠側髖部，阻止他用髖部移動或 shrimp 掉你的壓力。這隻手能防止他用 hip escape 跟上你的角度製造，並在你的 crossface 控制他上半身的同時，把他的下半身釘住。若沒有髖部控制，對手就能配合你的橫向移動，在整個過腿嘗試中維持住他的 hook 位置。",
+    "answer_line": "釘住遠側髖部",
+    "distractors": {
+     "plausible": [
+      "控制近側肩膀",
+      "抓腰帶借力"
+     ],
+     "trap": [
+      "去抓領口 collar tie"
+     ]
+    }
+   },
+   {
+    "question": "做 crossface 時，你的肩部壓力應該朝哪個方向施加，為什麼？",
+    "answer": "把肩部壓力朝斜下方且橫向施加，穿過對手的下顎線，推向他頭部遠側的地面方向。這個斜角能製造最大的轉頭幅度，同時壓縮他的胸口。單純向下施壓能提供壓力，但轉頭幅度有限；單純橫向施壓則缺乏防止 bridge 與恢復 frame 所需的體重分量。",
+    "answer_line": "斜向下方，穿過下顎",
+    "distractors": {
+     "plausible": [
+      "垂直向下穿過胸口",
+      "水平橫過臉部"
+     ],
+     "trap": [
+      "向上推離地面"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試過腿時，對手用近側手在你的髖部上建立 frame——你該如何應對？",
+    "answer": "加大胸口與髖部向前的壓力來瓦解他的 frame，同時把手肘夾緊貼身，把他的手困在你的髖部與他自己身體之間。一旦他的 frame 被瓦解，就利用這個機會推進你的過腿角度。他把一隻手投入到髖部 frame 上，會暫時讓他失去爭搶 underhook 的能力，為你製造出加速製造角度的空檔。",
+    "answer_line": "瓦解 frame，困住他的手",
+    "distractors": {
+     "plausible": [
+      "立刻剝開他的手腕",
+      "退開重設位置"
+     ],
+     "trap": [
+      "抓住他的手腕拉開"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你嘗試 cross face pass 時重新建立 knee shield，你應該連鎖到哪些後續技術？",
+    "answer": "轉換成 smash pass，把髖部壓力壓進他的 knee shield 使其瓦解；或改用 long step pass，把你的空閒腿跨過他的 shield。你維持住的 crossface 會為這兩種後續技術帶來明顯優勢，因為他的頭已經被轉離。如果他的近側手臂在對抗重建的 knee shield 時橫過身體，你也可以轉換成 arm triangle 的架設。",
+    "answer_line": "壓垮 shield 或走 long step",
+    "distractors": {
+     "plausible": [
+      "換 base 重新做 crossface",
+      "繞回去改拉 guard"
+     ],
+     "trap": [
+      "放棄 crossface 改做 armdrag"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手在設置 cross face pass，而不只是維持 flattened half guard，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是他的腳開始朝被困住的腿那一側橫向走動，同時維持或加大 crossface 壓力。單純維持位置只會是靜態壓力、沒有橫向移動；而過腿的設置則會有刻意的走腳動作，用來製造抽腿所需的角度。及早察覺這個橫向移動，能為你爭取最大的防守反應空間，趕在角度形成之前行動。",
+    "answer_line": "腳步朝被困腿走動",
+    "distractors": {
+     "plausible": [
+      "crossface 壓力加大",
+      "髖部更用力向前頂"
+     ],
+     "trap": [
+      "髖部平貼地面沉下"
+     ]
+    }
+   },
+   {
+    "question": "對手在過腿過程中施加沉重的 crossface 壓力——你的防守雙手應該放在哪裡？",
+    "answer": "你的近側手應該爭搶他遠側的 underhook，對進一步的壓平提供結構性的抵抗。你的遠側手則應該在他的髖部或二頭肌上建立 frame，為髖部移動製造最起碼的空間。避免把任何一隻手伸向他的頭部或胸口，這樣會讓你的手臂暴露在 kimura 與 americana 的攻擊之下，卻無法改善你對抗過腿的防守位置。",
+    "answer_line": "搶 underhook，frame 髖部",
+    "distractors": {
+     "plausible": [
+      "雙手都推他的胸口",
+      "雙臂都在他頭上建 frame"
+     ],
+     "trap": [
+      "伸手橫過去抓領口"
+     ]
+    }
+   },
+   {
+    "question": "在 cross face pass 過程中，防守方最有利的恢復時機是在什麼時候？",
+    "answer": "最有利的時機發生在對手走腳的階段，此時過腿方的 base 變窄，體重正在穩定位置之間橫向轉移。這個時刻他的壓力正在轉移而非已經沉穩下來，一次抓準時機的 hip escape 能大幅打亂他製造角度的過程。一旦他用髖部釘住你的大腿並開始抽腿，這個窗口就會關閉，防守選項會嚴重受限。",
+    "answer_line": "他走腳的階段",
+    "distractors": {
+     "plausible": [
+      "crossface 剛固定之後",
+      "髖部完全釘死之後"
+     ],
+     "trap": [
+      "抽腿已經開始之後"
+     ]
+    }
+   },
+   {
+    "question": "你的 hip escape 方向會如何影響你阻止 cross face pass 的能力？",
+    "answer": "朝被困住的腿那一側做 shrimp 最有效，因為這會讓你的髖部朝過腿方預定製造角度的相反方向移動，封閉他抽腿所需的空間。朝自由腿那一側或朝遠離對手的方向做 shrimp，反而可能暴露你的背部，實際上還會幫助過腿方製造角度，因為這會讓你的髖部脫離他的壓力控制點，打開抽腿路徑。",
+    "answer_line": "朝被困腿那一側 shrimp",
+    "distractors": {
+     "plausible": [
+      "朝自由腿那一側 shrimp",
+      "直接平貼向後 shrimp"
+     ],
+     "trap": [
+      "轉身背對，暴露背部"
+     ]
+    }
+   },
+   {
+    "question": "對手開始用雨刷式擺動抽出被困住的腿——你最優先的防守動作是什麼？",
+    "answer": "立刻夾緊你的腿部 hook，把膝蓋併攏、把腳跟拉向臀部，以加強 hook 的握力。同時朝被困腿那一側做出一記急促的 hip escape，消除過腿方製造出的角度。如果 hook 已經明顯被瓦解，就立刻轉換成插入膝蓋做 knee shield，趕在他完成過腿之前——因為一旦抽腿已經開始，要恢復完整的 hook 控制幾乎不可能成功。",
+    "answer_line": "夾緊 hook，朝被困側 hip escape",
+    "distractors": {
+     "plausible": [
+      "先把他的頭推開",
+      "等待並緩慢重設 base"
+     ],
+     "trap": [
+      "放開 hook，改用 frame"
+     ]
+    }
+   }
+  ]
+ }
+}

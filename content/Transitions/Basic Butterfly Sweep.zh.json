@@ -1,0 +1,227 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "讓Butterfly Sweep有效的主要力學原理是什麼？",
+        "answer": "Butterfly Sweep的原理是透過butterfly hook作為對手重心下方的支點來製造槓桿。當你把hook向上推的同時，把對手的上半身往前、往側邊拉，就會產生擾亂他底盤的旋轉力。hook的抬升加上上半身控制形成一種力學優勢，讓體型較小的人能靠物理原理、而不是靠蠻力去掃倒體型較大的對手。",
+        "answer_line": "hook上抬，雙手向前拉",
+        "distractors": {
+          "plausible": [
+            "靠蠻力硬壓過對方",
+            "只靠hook、不控制手"
+          ],
+          "trap": [
+            "把對手的髖部推開"
+          ]
+        }
+      },
+      {
+        "question": "執行Basic Butterfly Sweep的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手把重心壓向前、壓在你的髖部上方，形成前傾壓力的時候。這可能是他嘗試過guard或向你施壓時自然發生，你也可以用grip把他往前拉來製造這個時機。關鍵是要等到他的重心分佈在你的butterfly hook上方的那一刻才啟動掃技。如果在他重心後移或平均分佈時嘗試，他就能輕易撐地防守。",
+        "answer_line": "他重心前移的瞬間",
+        "distractors": {
+          "plausible": [
+            "guard剛建立時立刻",
+            "他坐回腳跟時"
+          ],
+          "trap": [
+            "他已經撐地之後"
+          ]
+        }
+      },
+      {
+        "question": "你想往左掃對手，他卻用右手撐在墊上，你最好的回應是什麼？",
+        "answer": "對手撐地時，你有幾個高成功率的選項：第一，立刻改往反方向掃，因為單側撐地會讓另一側的底盤變得脆弱。第二，攻擊那隻撐地的手臂，用kimura lock，因為它已經伸直並承重，很容易被抓住。第三，把肩膀鑽到撐地那隻手臂下方，控制他的遠側腿，轉換成single leg X-guard。關鍵原則是要立刻辨識出撐地的動作，順勢轉換到反擊，而不是硬幹原本的掃技方向。",
+        "answer_line": "改方向掃，或攻kimura",
+        "distractors": {
+          "plausible": [
+            "更用力硬做原本的掃技",
+            "等他重新撐地"
+          ],
+          "trap": [
+            "放開grip重新guard"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在推動Butterfly Sweep之前，建立45度髖角這麼關鍵？",
+        "answer": "在掃技之前先建立角度，能達成多個生物力學上的目的：它讓你的身體自然地銜接到上位，不需要在掃技過程中重新調整位置；它讓butterfly hook能以更好的槓桿角度向上、向前推，而不是單純向上，產生旋轉力而非純垂直力；它讓你的脊椎朝掃技方向彎曲，有助於產生扭力；而且它讓對手更難在被掃的那一側撐地，因為這個角度已經把他推離了自己的中線。沒有這個角度，掃技就會變成純粹的力量對抗。",
+        "answer_line": "先建角度再推hook",
+        "distractors": {
+          "plausible": [
+            "髖部方正以求最大力道",
+            "角度只在掃技後才重要"
+          ],
+          "trap": [
+            "先與對手正面相對"
+          ]
+        }
+      },
+      {
+        "question": "Basic Butterfly Sweep最有效的grip組合有哪些？分別在什麼情況下該選用？",
+        "answer": "最有效的grip組合是：collar and sleeve grips，能提供最大的上半身控制，並阻止對手在sleeve那一側撐地；double underhooks，在把對手往前拉、阻止他建立底盤上非常強力，尤其在no-gi中特別有效；還有overhook/underhook組合，能製造不對稱的控制，非常適合方向性的掃技。每種grip都達成兩個目標：破壞對手的姿勢讓他重心前移，以及阻止他用手撐地防守。有距離時在gi中選collar-sleeve，能拉近距離時選double underhooks，當對手先做出underhook時選overhook-underhook。",
+        "answer_line": "Collar-sleeve或double underhooks",
+        "distractors": {
+          "plausible": [
+            "只用單邊collar grip",
+            "只抓雙邊sleeve"
+          ],
+          "trap": [
+            "抓對手的腰帶做控制"
+          ]
+        }
+      },
+      {
+        "question": "完成Butterfly Sweep之後，你應該立刻做什麼來鞏固上位？",
+        "answer": "掃技完成後，立刻順著對手的動能、不要脫離接觸，建立主導的上位。維持grip控制的同時跪起身，把胸口向前壓以阻止他回guard，並保持身體貼緊，把膝蓋沿著他的軀幹兩側走位，快速轉換成mount。如果他在掃技過程中轉向側身，就順勢跟進side control，用crossface和髖部控制；如果他把背暴露出來，就take the back。關鍵原則是在整個轉換過程中維持持續的壓力與接觸，不要停頓或製造出空隙。",
+        "answer_line": "順勢跟進，壓向mount",
+        "distractors": {
+          "plausible": [
+            "坐回去重整guard",
+            "放開grip站起來"
+          ],
+          "trap": [
+            "停下來確認位置"
+          ]
+        }
+      },
+      {
+        "question": "對手坐得非常挺直、姿勢很好，就是不肯讓重心前移，你該如何創造Butterfly Sweep的條件？",
+        "answer": "面對姿勢挺直的對手，你必須用間接的方式製造出他重心前移的條件。用arm drag逼他伸手向前找平衡，製造出短暫的前移。用把他的頭往下扯的動作威脅guillotine choke，逼他做出破壞姿勢的防守性修正、把重心帶向前方。用力拉collar grip逐步破壞他的姿勢。如果他堅決不肯前傾，就改用elevator sweep變化式，這在對付挺直姿勢時依然有效，或是改從下方攻擊他的腿，切入X-guard。",
+        "answer_line": "arm drag或guillotine威脅",
+        "distractors": {
+          "plausible": [
+            "拉雙腳踝破壞底盤",
+            "把hook撐更寬並上抬"
+          ],
+          "trap": [
+            "轉身去抱single leg"
+          ]
+        }
+      },
+      {
+        "question": "失敗的Butterfly Sweep嘗試，和正確放棄的掃技有什麼不同？這會如何影響你的位置？",
+        "answer": "失敗的Butterfly Sweep是在沒有做好準備的情況下全力硬幹，耗盡體力，最後平躺在背上、guard也守不住。正確放棄的掃技則是及早察覺對手已經成功防守——撐地、sprawl，或建立了主導的grip——並立刻轉換到次要攻擊。放棄掃技時仍維持你坐姿的姿勢、hook的接觸與grip控制，讓你能銜接到X-guard、single leg X、arm drag，或是反方向的掃技。關鍵的差異在於你是否維持了自己的結構性位置與進攻主動權，而不是硬幹到無法挽回的地步。",
+        "answer_line": "及早放棄，銜接X-guard",
+        "distractors": {
+          "plausible": [
+            "全力硬幹到底",
+            "只有在完全投入後才放棄"
+          ],
+          "trap": [
+            "就算對方已防守也繼續推"
+          ]
+        }
+      },
+      {
+        "question": "gi與no-gi的Butterfly Sweep，grip的要求有什麼不同？",
+        "answer": "在gi中，collar and sleeve grips能提供精準的方向控制與強力的防撐地效果，collar grip能產生強大的拉力破壞姿勢。在no-gi中，你要仰賴underhooks、overhooks、collar tie與腕部控制，這些需要更近的距離與更靈活的grip fight。No-gi的Butterfly Sweep需要更緊密的身體貼合，因為grip較不牢靠，這讓double underhooks和body lock的配置變得更重要。基本的掃技力學完全相同，但no-gi需要更快的執行速度，因為控制的時間窗口較短，你必須更強調身體對身體的接觸，而不是靠布料進行控制。",
+        "answer_line": "No-gi需要更緊密的身體控制",
+        "distractors": {
+          "plausible": [
+            "gi與no-gi的grip完全相同",
+            "no-gi可以拉開更鬆的距離"
+          ],
+          "trap": [
+            "在no-gi中依賴collar grip"
+          ]
+        }
+      },
+      {
+        "question": "當Butterfly Sweep只部分成功時，這與後續的guard轉換選項之間有什麼關係？",
+        "answer": "一個部分成功的Butterfly Sweep——對手被抬起但恢復了平衡——會創造出好幾個高價值的轉換機會。如果他在被抬起時撐了一隻手，他的重心就會轉移到那隻撐地的手臂上，打開kimura攻擊與反方向掃技的機會。如果他把髖部sprawl向後躲避被掃，這製造出的距離正好適合順著他後退的腿切入X-guard或single leg X-guard。如果他跨過你的一隻hook去建立headquarters position站穩底盤，形成的不對稱位置會直接餵給reverse De La Riva或deep half guard的切入點。因此Butterfly Sweep就像一個逼迫機制，會製造出可以被更廣泛的butterfly guard系統利用的反應。",
+        "answer_line": "反應會餵給X-guard或kimura",
+        "distractors": {
+          "plausible": [
+            "部分成功就用同樣方式再來一次",
+            "永遠重整回中性guard"
+          ],
+          "trap": [
+            "放棄位置直接站起來"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "身為防守方，你必須阻斷Butterfly Sweep的哪三個力學元素？",
+        "answer": "這三個元素是：hook在你大腿下方提供向上抬升的力量、grip在你的上半身提供旋轉的拉力，以及髖部角度朝被掃的方向製造方向性的力量。身為防守方，只要阻斷其中任何一個元素，就能阻止掃技完成。最可靠的防守策略是先阻斷grip，因為這是掃技設置中最早出現的元素，接著維持姿勢以防止重心前移，最後在抬升已經開始時，用撐地作為最後手段的防守。",
+        "answer_line": "Hook、grip與髖部角度",
+        "distractors": {
+          "plausible": [
+            "只擋hook，不管grip",
+            "只專注姿勢，不管hook"
+          ],
+          "trap": [
+            "把對手拉進closed guard"
+          ]
+        }
+      },
+      {
+        "question": "你感覺到對手轉動髖部製造角度，同時把你的collar往前拉，這時你該立刻做出什麼防守反應？",
+        "answer": "髖部角度轉換加上collar拉動，代表掃技即將啟動。你的立即反應應該是把手撐在對手正在轉向的那一側墊上，同時把髖部往後推，減少壓在他hook上方的前傾重量。如果可能的話，用空出來的那隻手撕開collar grip，同時維持撐地的姿勢。穩住之後，努力恢復挺直的姿勢，並開始處理他的grip控制，防止他再次嘗試。不要試圖向前壓向對手，因為這正好會餵養掃技的力學。",
+        "answer_line": "撐手、髖部後推、撕grip",
+        "distractors": {
+          "plausible": [
+            "抓更深的collar grip",
+            "等等看會發生什麼事"
+          ],
+          "trap": [
+            "向前壓向對手"
+          ]
+        }
+      },
+      {
+        "question": "為什麼sprawl有時反而對防守Butterfly Sweep有反效果？",
+        "answer": "雖然sprawl能有效透過脫離對手的大腿來移除hook這個支點，但它會製造出距離，讓熟練的butterfly guard玩家加以利用。這個距離會打開通往X-guard、single leg X-guard與technical standup的轉換路徑，這些位置的危險程度可能不亞於甚至超過原本的butterfly guard。sprawl最有效的情況是搭配立即重新貼近的站立式過guard，或是用來對付缺乏轉換技巧、無法利用這個距離的較不熟練對手。面對高階練習者時，維持姿勢與阻斷grip往往比sprawl更可取。",
+        "answer_line": "為X-guard切入創造空間",
+        "distractors": {
+          "plausible": [
+            "sprawl永遠能完全防守",
+            "只用在對付高階對手時"
+          ],
+          "trap": [
+            "每次都要sprawl到底"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候適合用向前施壓作為防守Butterfly Sweep的策略？",
+        "answer": "只有在你已經阻斷對手的上半身grip、並能建立主導控制——例如搭配underhook的crossface或double underhooks——把他的butterfly結構壓平時，向前施壓才適合。如果沒有先阻斷grip，向前施壓正好會提供對手所需要的重心前移，直接餵養掃技。有效施壓的時機窗口，是在對手建立他的拉力grip與坐姿之前。一旦他已經取得主導的grip與挺直的姿勢，向前施壓就會變成最危險的防守策略，這時你應該改用撐地、sprawl，或距離管理。",
+        "answer_line": "只在阻斷他的grip之後",
+        "distractors": {
+          "plausible": [
+            "永遠一開始就施壓",
+            "在他抓好grip之後"
+          ],
+          "trap": [
+            "他一被抓住grip就向前推"
+          ]
+        }
+      },
+      {
+        "question": "面對一個把掃技與submission嘗試串連在一起的butterfly guard玩家時，你的防守方式應該如何調整？",
+        "answer": "面對一個把guillotine、kimura與arm drag等submission融入掃技嘗試的butterfly guard玩家，你的防守優先順序要跟著改變。你必須靠收緊下巴、維持挺高的姿勢來保護頸部，用雙臂爭取內側位置以阻止他建立underhook或collar tie，並避免過度投入單側撐地，因為這會讓手臂暴露在kimura攻擊之下。關鍵的調整是維持更保守、更居中的底盤，而不是把重心大量押在單側去撐地。用距離管理與grip阻斷作為主要防守手段，而不是靠手撐地，並把你的過guard嘗試安排在對手進攻節奏的空檔，而不是在他正在進行掃技與submission連鎖攻擊的當下。",
+        "answer_line": "保護頸部，阻斷內側位置",
+        "distractors": {
+          "plausible": [
+            "用力押注單側撐地",
+            "只專注過guard"
+          ],
+          "trap": [
+            "同一隻手臂反覆用力撐地"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Basic Butterfly Sweep.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

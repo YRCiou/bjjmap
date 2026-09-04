@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 scarf hold 逃脫時，為什麼 bridge 必須朝 45 度角進行，而不是直直往上？",
+    "answer": "45 度角能利用 scarf hold 垂直式結構的特性，把力量導向對方暴露出來的肩線之上。垂直的 bridge 只能短暫抬起對方，重力很快就會把他們帶回原本的位置；而角度性的 bridge 則能創造出橫向移位對方 base 的旋轉動量。這個角度把垂直的髖部力量轉換成水平的翻滾力量，對方單純靠向下的壓力是無法抵抗的。",
+    "answer_line": "45 度角把抬升轉為翻滾",
+    "distractors": {
+     "plausible": [
+      "直的 bridge 能把對方抬更高",
+      "角度是為了避開他的 crossface 手臂"
+     ],
+     "trap": [
+      "直直往上用全力 bridge"
+     ]
+    }
+   },
+   {
+    "question": "對方在 scarf hold 中控制頭部緊密、髖部壓力沉重——在嘗試 bridge escape 之前，你必須先建立什麼？",
+    "answer": "第一優先是用自由手在對方頸部與肩膀之間建立防禦性的 frame，創造出呼吸空間並防止完全被悶住。若沒有足夠的呼吸，你無法產生爆發性 bridge 所需的持續體力。這個 frame 也能防止對方加深 crossface 控制，否則會進一步限制你頭部的活動能力，並消除逃脫所需的旋轉動作空間。",
+    "answer_line": "先 frame 出呼吸空間",
+    "distractors": {
+     "plausible": [
+      "先困住頭部纏繞的手臂",
+      "先勾住他近側的腿"
+     ],
+     "trap": [
+      "立刻爆發做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "如果你嘗試 bridge 卻沒有先困住對方頭部纏繞的手臂，會發生什麼事？",
+    "answer": "沒有困住手臂的話，對方一感覺到你的髖部抬起，就會立刻用自由手撐地，建立起堅實的結構性 base，完全抵銷你 bridge 的旋轉力量。他們撐地的手臂就像支架一樣阻止翻滾，你會浪費大量體力在一個完全沒有成功機會的逃脫嘗試上。困住手臂是承諾投入 bridge 之前必須建立的最關鍵控制點。",
+    "answer_line": "他撐地，翻滾就被破壞",
+    "distractors": {
+     "plausible": [
+      "他會收緊 crossface 抓握",
+      "他會跨腿轉換到 mount"
+     ],
+     "trap": [
+      "更用力 bridge 硬闖過去"
+     ]
+    }
+   },
+   {
+    "question": "當對方感覺到你在準備 bridge 而擴大他們的 base 時，你該如何調整逃脫策略？",
+    "answer": "當對方擴大 base 抵抗翻滾時，把 bridge 轉換成 frame bridge 搭配 hip escape 的變化型。利用向上的 bridge 動作，在你的軀幹與對方的重心之間創造出短暫的空間，然後立刻做 shrimp 遠離對方，插入膝蓋回復 half guard。原本用來抵抗翻滾的寬闊 base，反而會在 bridge 的垂直階段創造出更多空間，讓後續的 hip escape 比硬做完整翻滾更有效。",
+    "answer_line": "bridge 抬起，再 shrimp 回 guard",
+    "distractors": {
+     "plausible": [
+      "硬把翻滾透過他的 base 做完",
+      "停下來等他下一步動作"
+     ],
+     "trap": [
+      "更用力推向他寬闊的 base"
+     ]
+    }
+   },
+   {
+    "question": "在 bridge escape 中，勾住對方近側腿的作用是什麼？",
+    "answer": "勾住近側腿能消除對方的次要撐地 base，防止他們把腿張開來抵抗 bridge 的旋轉力量。沒有這個勾腿，對方可以直接把近側腿向外伸展，形成一個三腳架式的 base，輕易吸收掉翻滾的動量。這個勾腿動作也能防止一種危險的反制——也就是當你髖部抬起的瞬間，對方跨腿轉換到 mount，這是這個逃脫最常見的災難性失敗方式。",
+    "answer_line": "擋住他三腳架式的撐地腿",
+    "distractors": {
+     "plausible": [
+      "困住他頭部纏繞的手臂",
+      "為 bridge 的抬升增加力量"
+     ],
+     "trap": [
+      "不用勾這隻腿，改勾遠側腿"
+     ]
+    }
+   },
+   {
+    "question": "從 scarf hold 執行 bridge escape 的最佳時機窗是什麼時候？",
+    "answer": "最佳時機發生在對方轉移重心去發動降伏攻擊或位置轉換的時候。當他們放鬆部分頭部控制去攻擊 americana，或轉移髖部準備轉往 mount 或 north-south 時，他們的 base 會暫時受到破壞。這個重心轉移會降低對 bridge 的結構性抵抗，並讓他們的注意力分散在攻擊與維持 base 之間，創造出一個能讓完整 bridge 用最少體力達到最大效果的時機窗。",
+    "answer_line": "他轉移重心準備攻擊時",
+    "distractors": {
+     "plausible": [
+      "剛建立好你的 frame 之後",
+      "當他沉穩不動的時候"
+     ],
+     "trap": [
+      "只要他收緊 crossface 就 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 嘗試被防守下來，落回地面——你下一步立刻該做什麼？",
+    "answer": "立刻接續進行下一個逃脫方式，而不是休息或重設。即使完整的翻滾被擋下，失敗的 bridge 仍會造成一定的位置擾動與空間。利用這個短暫的空間做 shrimp 遠離對方，進行以 frame 為基礎的 hip escape，或轉身面向對方、跪起來做 ghost escape。絕對不要在 bridge 失敗後單純攤回原本的起始位置，因為對方會收緊控制，你耗費的體力就白白浪費、沒有任何後續效果。",
+    "answer_line": "直接接續做 hip escape",
+    "distractors": {
+     "plausible": [
+      "重設並重新建立 frame",
+      "稍作休息，再重新 bridge"
+     ],
+     "trap": [
+      "攤回起始位置"
+     ]
+    }
+   },
+   {
+    "question": "腳的擺位如何影響 bridge 的力量？最佳的位置是什麼？",
+    "answer": "雙腳應平貼地面，盡量拉近髖部，膝蓋彎曲約 90 度。這個姿勢能在爆發性 bridge 時最大化髖伸肌群（臀肌與腿後肌）的力學優勢。腳離髖部太遠會降低 bridge 的高度，因為髖伸展的弧度被壓平，主要產生的是向前的推力而不是向上與旋轉的力量。腳擺得靠近，也能讓你在 bridge 頂點時透過腳掌前端發力，增加額外的旋轉動量。",
+    "answer_line": "腳貼地、靠近髖部、彎90度",
+    "distractors": {
+     "plausible": [
+      "雙腳大開求穩定",
+      "雙腳遠伸，腿伸直"
+     ],
+     "trap": [
+      "把腳放在他的髖部上助抬"
+     ]
+    }
+   },
+   {
+    "question": "在有道服與無道服的情況下，用來困住手臂的抓握方式有什麼不同？",
+    "answer": "有道服時，抓對方頭部纏繞手臂的手腕或前臂道服布料，這種靠摩擦力的抓握即使在爆發動作中也很難被掙脫。無道服時無法依靠布料的摩擦力，所以要改抓肘部以上的二頭肌位置，或用自己的手腕扣住對方手腕背後形成 wrist-to-wrist 的 Gable grip。無道服的抓握需要更緊密的身體貼合，因為在流汗與壓力下手臂更容易滑脫，這讓建立抓握與執行 bridge 之間的時機更加緊湊。",
+    "answer_line": "有道服抓道服；無道服抓二頭肌／Gable grip",
+    "distractors": {
+     "plausible": [
+      "兩種情況都用同樣的手腕抓握",
+      "無道服也能靠抓道服解決"
+     ],
+     "trap": [
+      "無道服時改抓領口"
+     ]
+    }
+   },
+   {
+    "question": "對方撐得很開，重量分散在伸展開的四肢上，而不是集中在髖部——你應該嘗試 bridge escape 嗎？",
+    "answer": "不應該，當對方的重量分散在寬闊撐開的四肢上、而不是集中透過髖部時，這不是執行 bridge escape 的理想條件。bridge escape 的原理是把對方集中在髖部的壓力轉換成旋轉動量。當他們撐得很開時，他們的結構性 base 太強，難以被翻滾撼動，而且缺乏集中在你軀幹上的重量，也代表沒有足夠的動量可以轉移。此時應該利用他們大開的撐地姿勢，改用以 frame 為基礎的 hip escape 或回復 guard，因為他們分散的重量會創造出有利於 shrimp 而非 bridge 的空隙與空間。",
+    "answer_line": "不要，改 shrimp 而非 bridge",
+    "distractors": {
+     "plausible": [
+      "要，更用力 bridge 打破 base",
+      "等他頭部控制收緊再說"
+     ],
+     "trap": [
+      "還是硬 bridge 拚一次終結"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪三個徵兆會顯示對方正準備從 scarf hold 下位發動 bridge escape？",
+    "answer": "三個主要徵兆是：雙腳走近髖部並牢牢平貼地面、自由手伸過來想困住你頭部纏繞的手臂，以及下位那隻腿穿繞過來勾住你的近側腿。只要辨識出其中任何一個徵兆，就應該立即調整 base 並收緊控制，趁對方還沒完成全部三個準備動作、投入爆發性 bridge 之前先發制人。",
+    "answer_line": "腳貼地、困手臂、勾腿",
+    "distractors": {
+     "plausible": [
+      "深呼吸並扭動髖部",
+      "抓你的領口和腰帶"
+     ],
+     "trap": [
+      "等他髖部完全抬起再說"
+     ]
+    }
+   },
+   {
+    "question": "你在 scarf hold 中，下位選手抬起髖部準備 bridge——你該硬撐抵抗 bridge，還是直接轉換位置？",
+    "answer": "最佳反應是轉換位置而不是硬撐抵抗。趁對方髖部抬起的瞬間把近側腿跨過他們身體轉換到 mount，利用他們向上的動量創造出讓腿跨越所需的空間。用力量硬抗 bridge 是一種消耗戰策略，這對能反覆嘗試的下位選手更有利。把 bridge 轉換成 mount 的轉換動作，能把對方逃脫的力氣化為你在位置上的推進，效率遠高於硬拚。",
+    "answer_line": "跨腿轉換到 mount，別硬抗",
+    "distractors": {
+     "plausible": [
+      "sprawl 重心壓下去阻止",
+      "抓住雙腿把它們疊起來"
+     ],
+     "trap": [
+      "用純力量對抗 bridge"
+     ]
+    }
+   },
+   {
+    "question": "在 bridge escape 的準備階段，你該如何防止下位選手困住你頭部纏繞的手臂？",
+    "answer": "讓你頭部纏繞的手臂保持主動活動，維持抓著領口、腰帶，或繞在對方頸後，而不是被動地放著。一旦感覺到這隻手臂被拉扯或抓住，立刻把手肘向外畫圓掙脫抓握，重新建立控制位置。你也可以主動先收緊手臂，把手肘頂進對方遠側肩膀，讓它在物理上難以被困住。絕對不要讓下位選手在這隻手臂上的抓握變得穩固。",
+    "answer_line": "保持手臂主動，畫圓掙脫抓握",
+    "distractors": {
+     "plausible": [
+      "把手臂平壓在地上",
+      "改抓他遠側的領口"
+     ],
+     "trap": [
+      "讓它沉重地放在他頸上"
+     ]
+    }
+   },
+   {
+    "question": "當你發現對方正在準備從 scarf hold 發動 bridge escape 時，應該做什麼樣的 base 調整？",
+    "answer": "立刻擴大你的 base，把遠側手臂撐得更開，並把後腿進一步向後伸展，形成更寬闊的結構性三角形。同時把髖部壓力更深地壓進對方的肋骨，壓縮他們 bridge 的能力。這種組合反應能對旋轉性的力量產生最大的抵抗，同時限制對方產生 bridge 高度的能力。這個更寬的 base 應該一直維持，直到你確認對方已經放棄 bridge 的準備動作。",
+    "answer_line": "擴大 base，髖部壓得更深",
+    "distractors": {
+     "plausible": [
+      "縮窄 base，坐直身體",
+      "改換到 north-south 位置"
+     ],
+     "trap": [
+      "雙手撐地並向後靠"
+     ]
+    }
+   },
+   {
+    "question": "對 bridge escape 的 mount 轉換反制，在什麼時候最有效？什麼時候最危險？",
+    "answer": "當下位選手只做出沒有完整旋轉動量的垂直 bridge——也就是髖部直直往上抬，而不是以 45 度逃脫角度發動時，mount 轉換是最有效的。當下位選手已經建立好全部三個控制點（困住手臂、勾腿、旋轉角度）並全力爆發投入時，這個反制是最危險的。在這種情況下，嘗試跨腿可能反而被旋轉的動量一起帶著翻過去。關鍵是要在 bridge 早期向上抬升的階段、在完整旋轉力量發展出來之前就完成跨腿。",
+    "answer_line": "早期垂直抬升、旋轉尚未發生前",
+    "distractors": {
+     "plausible": [
+      "三個控制點都建立好之後",
+      "bridge 到達頂點的中段"
+     ],
+     "trap": [
+      "只要他髖部一抬起就隨時跨腿"
+     ]
+    }
+   }
+  ]
+ }
+}

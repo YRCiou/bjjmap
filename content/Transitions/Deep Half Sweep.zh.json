@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "你建立deep half時，對手開始施加沉重的crossface壓力——你如何利用這一點來製造sweep的優勢？",
+    "answer": "沉重的crossface壓力代表對手正在把重心投入向前，而這正是Deep Half Sweep所需要的蓄力條件。與其對抗crossface，不如維持你的underhook，把對手向前的壓力當作髖部上提的燃料。對手向前的重心投入，代表當你把髖部往上推時，對手更難sprawl回去。要抓準對手壓力來到頂點的那一刻，做出上提。",
+    "answer_line": "利用向前壓力蓄力sweep",
+    "distractors": {
+     "plausible": [
+      "先對crossface做frame",
+      "等壓力減輕再說"
+     ],
+     "trap": [
+      "對抗crossface壓力"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試髖部上提之前，必須先做出什麼關鍵的腳步調整？",
+    "answer": "你必須用小碎步把腳步移向對手頭部方向，在你和對手的身體之間製造出一個銳角。這個角度會把你髖部上提的力，從直直向上改成向前越過對手，讓sweep的效果大幅提升。沒有這個角度調整，對手只要撐手或sprawl就能輕易抵擋直直向上的上提。通常三到四個小碎步就能製造出足夠的角度。",
+    "answer_line": "把腳步移向對手頭部",
+    "distractors": {
+     "plausible": [
+      "把腳步移向對手髖部",
+      "先把髖部擺正再上提"
+     ],
+     "trap": [
+      "把腳直直往上推去上提"
+     ]
+    }
+   },
+   {
+    "question": "在no-gi和gi中執行這個sweep，grip需要做出什麼調整？",
+    "answer": "在no-gi中，underhook必須更深，手臂要更完整地環繞大腿，通常要在膝蓋後方使用gable grip或butterfly grip來取得最大穩固度，因為沒有gi布料的摩擦力可以依靠。空出的手則用腕控或對髖部做frame，取代抓下擺或腰帶。在gi中，你可以用空出的手額外抓腰帶grip來增加拉力，並在近側腿抓褲管grip以取得更好的控制。",
+    "answer_line": "No-gi用更深underhook和gable grip",
+    "distractors": {
+     "plausible": [
+      "兩種規則用同樣的grip",
+      "no-gi改用下擺grip"
+     ],
+     "trap": [
+      "抓遠側腳踝來控制"
+     ]
+    }
+   },
+   {
+    "question": "對手感覺到你的上提嘗試後，把髖部sprawl回去——你緊接著要做的連鎖攻擊是什麼？",
+    "answer": "當對手sprawl回去時，立刻轉換成rolling變體，持續朝對手遠側身下鑽、去take back，或改用雙腳勾住對手撤退的腿，轉換成X-Guard或Single Leg X-Guard。Sprawl會讓對手的重心離開你的肩膀，但也會在身下製造出空間，你應該跟著對手撤退的腿用勾腿去利用這個空間，而不是硬撐原本的sweep路徑。",
+    "answer_line": "跟隨腿部轉換X-guard或back",
+    "distractors": {
+     "plausible": [
+      "重整guard、重建grip",
+      "立刻改做Waiter Sweep"
+     ],
+     "trap": [
+      "更用力硬做原本的上提"
+     ]
+    }
+   },
+   {
+    "question": "決定Deep Half Sweep最終會落在side control還是mount的關鍵是什麼？",
+    "answer": "你在上提之前製造的角度，以及你推進的方向，決定了最終的落點位置。更垂直的角度、搭配橫越對手身體的推進，通常會落在side control。更直接地朝對手中線推進、同時維持underhook，則可能落在mount。Side control是命中率較高的終點，因為在sweep完成的混戰階段所需的精準度較低。",
+    "answer_line": "角度與推進方向決定終點",
+    "distractors": {
+     "plausible": [
+      "速度決定落點位置",
+      "對手體型決定落點"
+     ],
+     "trap": [
+      "放開underhook才能到mount"
+     ]
+    }
+   },
+   {
+    "question": "在同一個位置下，Deep Half Sweep和Waiter Sweep的施力方向有什麼不同？",
+    "answer": "Deep Half Sweep是透過髖部上提、以肩部楔入作為支點，把力導向前方、越過對手身體。它的力向量主要是先向上、再向前。Waiter Sweep則是用空出的手抬起對手遠側腿，同時用髖部動作把對手側向破勢。Waiter Sweep的力比較偏旋轉性，Deep Half Sweep則比較線性、直接。",
+    "answer_line": "Deep half用提力；Waiter用旋轉",
+    "distractors": {
+     "plausible": [
+      "兩個sweep的施力方式相同",
+      "Waiter也用髖部上提"
+     ],
+     "trap": [
+      "deep half需要側向旋轉"
+     ]
+    }
+   },
+   {
+    "question": "面對技術好的對手時，最常造成Deep Half Sweep失敗的身體位置錯誤是什麼？",
+    "answer": "最常見的錯誤是沒有先用碎步把腳移向對手頭部製造出足夠的角度，就直接嘗試上提。當身體排列與對手太過平行時，髖部上提只會把對手直直頂高，讓對手輕易撐手或把重心sprawl回去抵抗。角度才是把原始的向上力量轉化成能繞過對手撐地能力的sweep動能的關鍵。",
+    "answer_line": "上提前沒有製造角度",
+    "distractors": {
+     "plausible": [
+      "underhook太淺",
+      "上提得太早"
+     ],
+     "trap": [
+      "上提時力氣不夠大"
+     ]
+    }
+   },
+   {
+    "question": "對手在你嘗試sweep時，對你的underhook手臂施加whizzer——你該如何調整以防止被反制？",
+    "answer": "當對手對你的underhook手臂做whizzer時，不要直接硬對抗whizzer。改為把underhook的手肘朝對手遠側髖部推進，讓whizzer較難剝奪你的控制。或者，利用whizzer的壓力，把髖部餵得更深、對被困的腿建立lockdown，藉此設定Electric Chair的entry。Whizzer會讓對手的手臂被牽制住，這正好可以用來轉換位置。",
+    "answer_line": "把手肘轉向遠側髖部",
+    "distractors": {
+     "plausible": [
+      "硬拚把whizzer剝掉",
+      "放棄underhook重新抓grip"
+     ],
+     "trap": [
+      "用力硬把手臂扯出來"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位選手在設置Deep Half Sweep而非其他攻擊時，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是下位選手用小碎步把腳移向你的頭部方向。這種角度製造是髖部上提sweep獨有的特徵，能與轉身背對你的rolling back take，或用空出的手去抓你遠側腿的Waiter Sweep區分開來。當你感覺到腳步移動、同時對你大腿內側的肩部壓力增加時，代表髖部上提sweep正在蓄力。",
+    "answer_line": "腳步正移向你的頭部",
+    "distractors": {
+     "plausible": [
+      "對手轉身背對你",
+      "空出的手伸向你遠側腿"
+     ],
+     "trap": [
+      "肩部壓力正在減輕"
+     ]
+    }
+   },
+   {
+    "question": "為什麼施加沉重的crossface壓力是對抗Deep Half Sweep的高風險防守策略？",
+    "answer": "沉重的crossface壓力需要把你的重心投入向對手頭部那一側前傾。這種向前的重心投入，正是驅動Deep Half Sweep的動力來源，因為下位選手會把你向前的壓力搭配自己的髖部上提，把你翻過去。熟練的deep half玩家會刻意誘使你做crossface來蓄力sweep。你應該用crossface來控制對手頭部的方向，但不要把全部重心壓向前方。",
+    "answer_line": "投入重心，幫對手蓄力sweep",
+    "distractors": {
+     "plausible": [
+      "crossface沒有真正的壞處",
+      "只對體型小的對手有風險"
+     ],
+     "trap": [
+      "把全部重心壓進crossface"
+     ]
+    }
+   },
+   {
+    "question": "對Deep Half Sweep做backstep反制的最佳時機視窗是什麼時候？",
+    "answer": "最佳的backstep時機是在你感覺到下位選手開始碎步、但還沒開始髖部上提的那一刻。此時對手的注意力放在製造角度上，而不是維持控腿，因此會有一個短暫的視窗，這時你被困的腿受到的限制較少。如果backstep做得太早，對手還沒投入，很容易重新調整。如果backstep做得太晚、在上提過程中，對手向上的壓力會讓抽腿變得困難許多。",
+    "answer_line": "在對手碎步時做backstep",
+    "distractors": {
+     "plausible": [
+      "sweep一開始就做backstep",
+      "上提後立刻做backstep"
+     ],
+     "trap": [
+      "等完全被提起來才動作"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到sweep的上提開始時，該如何調整你的重心分佈？",
+    "answer": "立刻把重心往後轉移，把髖部從下位選手的肩膀移開，並把空出的那條腿撐得更寬、放在身後。不要試圖向前推進去對抗這個上提，因為這反而會餵養這個sweep。目標是把你的重心從對手肩膀的支點上移開，讓對手的上提提不到任何東西。同時把base側向加寬，對抗這個向前導向的sweep力量以建立穩定性。",
+    "answer_line": "壓低髖部，向後加寬base",
+    "distractors": {
+     "plausible": [
+      "把髖部向前推去對抗",
+      "把重心sprawl到對手背上"
+     ],
+     "trap": [
+      "向前頂進這個上提動作"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Deep Half Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

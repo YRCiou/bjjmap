@@ -1,0 +1,269 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 side control 發動 ghost escape 回到 open guard 的最佳時機是什麼？",
+    "answer": "最佳時機是在對手把重心轉移到上半身施加 crossface 壓力、調整 grip，或發動 submission 架設、使他們的髖部壓力離開你的腰腹部位的時候。任何他們髖部壓力減輕的瞬間都會創造出機會，因為穿膝需要髖部有自由旋轉與穿入的空間。若在對手髖部壓力完全穩固時嘗試，不管技術多精確都會失敗。",
+    "answer_line": "趁對手髖部壓力減輕時翻身",
+    "distractors": {
+     "plausible": ["從下位隨時都可以做", "等對手完全轉換到 mount"],
+     "trap": ["在沉重髖部壓力下硬做"]
+    }
+   },
+   {
+    "question": "這個技術與以 turtle 為目標的標準 ghost escape 有什麼不同？",
+    "answer": "關鍵的差異在於穿膝的時機。標準 ghost escape 中，練習者會完成整個旋轉，落到 turtle 的四點跪姿。在這個變化型中，近側膝蓋是在轉身的過程中就穿入兩人身體之間，直接落到 open guard，完全跳過 turtle 階段。這樣可以避免暴露背部，但在旋轉階段需要更精確的時機掌握與髖部力學。",
+    "answer_line": "轉身過程中穿膝直達 guard",
+    "distractors": {
+     "plausible": ["跟標準版一樣結束於 turtle", "轉身結束後才穿膝"],
+     "trap": ["旋轉前先穿膝"]
+    }
+   },
+   {
+    "question": "穿膝階段最關鍵的力學細節是什麼？",
+    "answer": "膝蓋必須在轉身動作正在製造空隙的當下，就穿過你的腰腹與對手胸口之間的空隙，而不是等轉身完成之後再穿。這個空隙是暫時性的，隨著對手調整姿勢就會關閉，所以穿膝與髖部旋轉必須同時發生，作為一個整合的動作。如果把穿膝當成轉身後的獨立步驟來執行，空隙會在膝蓋通過之前就先關閉。",
+    "answer_line": "轉身時同步穿膝",
+    "distractors": {
+     "plausible": ["轉身完成後再穿膝", "慢慢小心地穿膝"],
+     "trap": ["轉到一半暫停穿膝"]
+    }
+   },
+   {
+    "question": "導致這個逃脫最終落到 turtle 而非 guard 的兩個最常見失誤點是什麼？",
+    "answer": "第一個是穿膝的時機太晚，也就是在轉身完成、空隙已經關閉之後才穿，這會讓結果變成標準 ghost escape 的 turtle 落點。第二個是轉身過程中對對手髖部的 frame 壓力不足，讓對手能夠緊緊跟隨你的旋轉，導致完全沒有空隙讓膝蓋穿入。這兩種失誤都會把這個技術變成標準 ghost escape，而不是直接回復 guard。",
+    "answer_line": "穿膝太晚、髖部 frame 太弱",
+    "distractors": {
+     "plausible": ["穿膝太晚、肩膀 frame 太弱", "穿膝太早、髖部 frame 很強"],
+     "trap": ["跳過 frame，加快轉身速度"]
+    }
+   },
+   {
+    "question": "開始轉身之前必須建立什麼 frame？它的作用是什麼？",
+    "answer": "轉身之前，必須用近側前臂在對手的髖骨或腰部建立 frame，這一點至關重要。這個 frame 有雙重作用：它能先在你的腰腹與對手胸口之間製造初始的分離，讓轉身得以開始；同時它也會成為阻止對手跟隨你旋轉的屏障。如果沒有這個 frame，對手的胸口會在整個轉身過程中持續貼著你的軀幹，讓穿膝所需的空隙完全消失。",
+    "answer_line": "前臂 frame 頂住對手髖部",
+    "distractors": {
+     "plausible": ["前臂 frame 頂住對手肩膀", "手掌推對手胸口"],
+     "trap": ["不用 frame，直接爆發轉身"]
+    }
+   },
+   {
+    "question": "你架設 ghost escape 時，對手用力壓 crossface——這會如何影響你的做法？",
+    "answer": "沉重的 crossface 壓力其實對 ghost escape 有幫助，因為你會順著 crossface 推你的方向轉身，而不是對抗它。crossface 的力量會轉換成轉身的動能。而且沉重的 crossface 壓力往往伴隨著較輕的髖部壓力，這正是這個技術所需要的條件。利用 crossface 的方向來驅動你的轉身，同時利用較輕的髖部接觸來執行穿膝。",
+    "answer_line": "順著 crossface 方向轉身",
+    "distractors": {
+     "plausible": ["對抗 crossface", "等 crossface 放開"],
+     "trap": ["往回頂 crossface"]
+    }
+   },
+   {
+    "question": "對手緊緊跟隨你的轉身，擋住了穿膝——你該立刻做什麼調整？",
+    "answer": "接受落到 turtle 的結果，不要硬幹一個已經失敗的穿膝。完成標準 ghost escape 的轉身，落到四點跪姿，然後立刻用 sit-through、granby roll，或 technical stand-up 從 turtle 回復 guard。即使穿膝失敗，這個轉身動作本身依然是一次有價值的 side control 逃脫。對一個緊緊跟隨的對手硬要穿膝，只會浪費體力，還可能讓你卡在轉身到一半的脆弱位置。",
+    "answer_line": "接受 turtle，再回復 guard",
+    "distractors": {
+     "plausible": ["硬把膝蓋穿過去", "反轉旋轉回到起點"],
+     "trap": ["轉到一半停下來重來"]
+    }
+   },
+   {
+    "question": "完成穿膝、面對對手之後，你應該如何立刻建立 open guard 的控制？",
+    "answer": "一旦你的膝蓋穿出、你面對對手的瞬間，你的主要手必須立刻抓住對手最近的 sleeve 或手腕，防止他們立刻向前貫穿重新過腿。你的次要手則控制對手的 collar、遠側 sleeve，或在他們肩膀上建立 frame。你的雙腳應該立刻在對手的髖部或小腿上啟動，管理距離。沒有主動 grip 與雙腳介入的 guard 無法維持，幾秒鐘內就會被重新過腿。",
+    "answer_line": "抓 sleeve、frame、腳啟動",
+    "distractors": {
+     "plausible": ["雙邊都抓 sleeve，腳不動", "只用 frame，先不抓 grip"],
+     "trap": ["坐回去，不抓 grip 也不用腳"]
+    }
+   },
+   {
+    "question": "相較於傳統的 shrimping 逃脫，讓 Ghost Escape 有效的主要力學原理是什麼？",
+    "answer": "Ghost Escape 使用的是圓形旋轉動作，而不是直線式的 shrimping 移動。這會製造出角度，以上位者難以輕易跟隨的方式，打亂他們垂直方向的重量分布，因為他們的重心結構是設計來抵抗側向移動，而不是旋轉移動。圓形路徑也會產生動能，並在整個逃脫過程中不斷累積。",
+    "answer_line": "用圓形動作破壞對方重心",
+    "distractors": {
+     "plausible": ["用更快的直線 shrimping", "用爆發性 bridge 推開"],
+     "trap": ["直接頂進對方的重心結構"]
+    }
+   },
+   {
+    "question": "發動 Ghost Escape 的最佳時機是什麼時候？",
+    "answer": "最佳時機是在過渡的瞬間——也就是上位者轉移重心、調整 grip、發動 submission 架設，或在不同控制變化之間轉換的時候。這些瞬間會創造出短暫的機會窗口，讓對方的壓力與重心受到破壞。若在對手已經完全穩固的 side control 下嘗試逃脫，成功機率會大幅降低。",
+    "answer_line": "趁對手過渡的瞬間",
+    "distractors": {
+     "plausible": ["對手一穩固下來就做", "只在對方嘗試 submission 時"],
+     "trap": ["對抗已經完全穩固的控制"]
+    }
+   },
+   {
+    "question": "對手用沉重的 crossface 壓制你，並用近側手擋住你的髖部——你該如何創造出 Ghost Escape 的條件？",
+    "answer": "首先用遠側手臂在對手肩膀上建立 frame，製造出最小限度的分離。接著用一次短促而爆發的 bridge 頂向對手，短暫抬起他們的胸口重量，這也會迫使他們擋住你髖部的那隻手做出反應。一旦他們的重心因為 bridge 而向上移動，就立刻爆發性地把髖部往外旋轉，趁對手還沒重新穩固之前開始 ghost 的轉身動作。",
+    "answer_line": "先 bridge 抬起，再旋轉",
+    "distractors": {
+     "plausible": ["反覆 bridge 直到對手疲累", "先推開擋髖部的手"],
+     "trap": ["不用肩膀 frame 就直接 bridge"]
+    }
+   },
+   {
+    "question": "為什麼在整個 Ghost Escape 轉身過程中，收緊下巴至關重要？",
+    "answer": "收緊下巴能在脆弱的旋轉階段保護頸部，避免遭受 guillotine 與 front headlock 的攻擊，也能讓身體更緊實，提升旋轉效率，並防止對手控制你的頭部位置。抬起下巴還會打亂完成這個逃脫所需的向前翻滾力學。",
+    "answer_line": "保護頸部，幫助旋轉",
+    "distractors": {
+     "plausible": ["有助於翻滾時呼吸", "隨時盯著對手"],
+     "trap": ["抬起下巴看清出口"]
+    }
+   },
+   {
+    "question": "練習者最常沒有確實執行的關鍵步驟是什麼？為什麼這會讓逃脫卡住？",
+    "answer": "最常被忽略的步驟是抽出下方手臂。當身體旋轉時，最靠近墊子的那隻手臂，必須主動拉過軀幹，手肘緊貼肋骨。如果沒有抽出這隻手臂，它就會被壓在身體下方，實質上阻止旋轉完成。練習者必須單獨反覆練習這個抽手動作，直到變成自動反應。",
+    "answer_line": "及早抽出下方手臂",
+    "distractors": {
+     "plausible": ["抽出遠側手臂", "旋轉結束後再抽手"],
+     "trap": ["讓下方手臂一直壓在身體下"]
+    }
+   },
+   {
+    "question": "你開始做髖部旋轉時，對手開始跨步準備轉到 mount——你有哪兩個應對選項？",
+    "answer": "選項一：把下方膝蓋緊貼胸口，實質阻擋對手的腿跨過去，爭取時間讓你完成旋轉，或放棄後重新建立 frame。選項二：大幅加快旋轉速度，在 mount 完全建立之前就完成逃脫、落到 turtle。該選哪一個，取決於你發現這個狀況時，mount 轉換已經進行到什麼程度。",
+    "answer_line": "用膝蓋擋，或加快速度",
+    "distractors": {
+     "plausible": ["停止旋轉重新設 frame", "用手推開對手的腿"],
+     "trap": ["靜止不動、等待對方動作"]
+    }
+   },
+   {
+    "question": "完成 Ghost Escape 落到 turtle 之後，你應該優先做什麼？",
+    "answer": "立刻建立緊實的防禦型 turtle，手肘壓緊膝蓋內側、下巴收緊、髖部抬高。開始進行手部纏鬥，防止對手建立 seatbelt 或 harness control。不要靜止停留在 turtle 姿勢。在 2 到 3 秒內，若空間允許就啟動 technical stand-up，或透過 sit-through、granby roll 回復 guard，若對手重心已被破壞，也可以嘗試 single leg 進攻。",
+    "answer_line": "緊實 turtle，快速脫身",
+    "distractors": {
+     "plausible": ["放平身體稍作休息", "被動等待對手動作"],
+     "trap": ["靜止停留在 turtle 姿勢"]
+    }
+   },
+   {
+    "question": "在有道服與無道服的情況下，Ghost Escape 的執行方式有什麼不同？",
+    "answer": "在無道服時，這個逃脫通常比較快，因為阻礙旋轉的摩擦力較小，但你可能需要先建立 underhook，因為你沒有道服 collar grip 可以借力。有道服時，你可以用 collar grip 來輔助旋轉，但對手同樣也能用道服 grip 來拖慢或阻止你的動作。無道服版本需要更爆發性的投入，而有道服版本則允許稍微多一點架設時間。",
+    "answer_line": "無道服更快，需要 underhook",
+    "distractors": {
+     "plausible": ["有道服永遠比較快", "無道服需要 collar grip"],
+     "trap": ["無道服也依賴 collar grip"]
+    }
+   },
+   {
+    "question": "哪些情況顯示你應該放棄 Ghost Escape 嘗試，改用其他逃脫方式？",
+    "answer": "如果對手在你初始旋轉時成功 sprawl、把沉重的體重重新壓回你的髖部上，或你感覺到對手正在跨步準備轉 mount、而你的膝蓋阻擋失敗，又或者對手在你完成翻滾之前就鎖上緊實的 front headlock，這些情況都應該放棄 Ghost Escape。遇到這些狀況時，回到防禦性的 frame，改用 elbow escape、bridge-and-roll，或等待下一個時機，而不要硬撐一個已經卡住的旋轉。",
+    "answer_line": "sprawl、mount 跨步，或被鎖 headlock",
+    "distractors": {
+     "plausible": ["對手施加任何 crossface 壓力", "對手稍微調整 grip"],
+     "trap": ["繼續硬做同樣的旋轉"]
+    }
+   },
+   {
+    "question": "為什麼旋轉必須一氣呵成，而不能分階段執行？",
+    "answer": "旋轉到一半的任何暫停，都會讓你卡在半轉身的姿勢，背部部分暴露、frame 也被破壞。這個中間位置比原本的 side control 下位還要糟糕，因為它讓對手能輕鬆、幾乎不費力地轉換到 mount 或 back take。持續不斷的動能，也讓對手在力學上幾乎不可能即時追蹤並跟隨這個動作。",
+    "answer_line": "暫停會暴露背部",
+    "distractors": {
+     "plausible": ["暫停能重新設定 grip", "分階段旋轉力量更大"],
+     "trap": ["暫停檢查對手重心"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手在架設回到 guard 的 ghost escape，而不是標準的 hip escape 時，最早的辨識線索是什麼？",
+    "answer": "最早的線索，是對手把前臂 frame 建立在你的髖部，而不是肩膀或頸部。傳統的 hip escape 是用肩膀 frame 來製造空間、朝你的方向做 shrimp；而回到 guard 的 ghost escape，則是用髖部 frame 來阻止你跟隨他們轉身離開。frame 建立的位置，會告訴你這個逃脫將往哪個方向進行。",
+    "answer_line": "frame 頂髖部而非頸部",
+    "distractors": {
+     "plausible": ["frame 頂肩膀", "frame 頂遠側手臂"],
+     "trap": ["不管 frame，只看對手的腳"]
+    }
+   },
+   {
+    "question": "為什麼要阻止這個特定逃脫，髖對髖的壓力比 crossface 更重要？",
+    "answer": "這個逃脫其實會利用 crossface 壓力，順著 crossface 推的方向轉身，藉此產生轉身動能。更強的 crossface 壓力反而可能無意中助長這個逃脫。相反地，髖對髖壓力能直接阻止啟動轉身的髖部旋轉，並消除穿膝所需的空間。只要沒有髖部的自由，不管下位者的 frame 多強，這個逃脫都無法開始。",
+    "answer_line": "髖部壓力能阻止旋轉",
+    "distractors": {
+     "plausible": ["crossface 能阻止旋轉", "兩者阻止效果一樣"],
+     "trap": ["加重 crossface 壓力"]
+    }
+   },
+   {
+    "question": "對手已經開始轉身，你無法阻止這個旋轉——你最好的應對是什麼？",
+    "answer": "積極跟隨對手的轉身，把胸口壓向他們的背部，關閉你們身體之間的空隙，讓他們的膝蓋無法穿過去。你的目標從阻止逃脫，轉變成阻止對方回復 guard。如果你成功關閉空隙，對手會落到 turtle 而不是 guard，讓你有機會從 turtle 上位發動背後攻擊，這比讓對方直接回復 guard 好得多。",
+    "answer_line": "追上背部，關閉空隙",
+    "distractors": {
+     "plausible": ["把對手推平回 side", "抓住雙腿阻止轉身"],
+     "trap": ["後退重新調整位置"]
+    }
+   },
+   {
+    "question": "面對一個已知會用這個逃脫的對手，你應該如何調整 side control 的維持方式？",
+    "answer": "優先追求最大程度的髖對髖接觸，把重量更多分配在對手的髖部，而不是上半身。一旦對手建立任何近側髖部 frame，就要主動剝除。減少對沉重 crossface 壓力的依賴，因為那反而可能助長轉身。保持警覺，注意 bridge 接轉身的組合動作，並準備好在旋轉開始的頭半秒內，把髖部壓低或立刻跟隨轉身。",
+    "answer_line": "重髖部壓力，剝除 frame",
+    "distractors": {
+     "plausible": ["重 crossface，輕髖部", "只剝除肩膀 frame"],
+     "trap": ["主要依賴 crossface 控制"]
+    }
+   },
+   {
+    "question": "防禦這個變化型，跟防禦以 turtle 為目標的標準 ghost escape 有什麼不同？",
+    "answer": "標準 ghost escape 只需要阻止旋轉，就能防止對手落到 turtle。這個變化型多了穿膝階段，意味著你多了一道第二防線：即使你無法阻止轉身，只要跟得夠緊、不讓膝蓋穿入，依然能阻止對手回復 guard。這代表跟隨轉身、最終取得 turtle 上位，是一個可行且對你有利的防禦結果；而在標準 ghost escape 中，跟隨到 turtle 只是預期中的結果，並沒有額外優勢。",
+    "answer_line": "仍可擋穿膝，取得 turtle",
+    "distractors": {
+     "plausible": ["必須完全阻止轉身", "turtle 上位永遠不利"],
+     "trap": ["轉身一開始就放棄"]
+    }
+   },
+   {
+    "question": "顯示 Ghost Escape 嘗試正在開始的最早身體線索是什麼？",
+    "answer": "最早的線索，是感覺到下位者的髖部開始朝自己的腹部方向做圓形旋轉，遠離你，而不是標準 hip escape 那種直線側向的 shrimping 動作。這種旋轉式的髖部動作，往往會先有一次短促的 bridge，是 Ghost Escape 起始的標誌性動作，一旦開始，你的反應時間會非常短。",
+    "answer_line": "髖部圓形旋轉，非側向",
+    "distractors": {
+     "plausible": ["髖部側向做 shrimp", "肩膀先於髖部旋轉"],
+     "trap": ["等完全落到 turtle 再反應"]
+    }
+   },
+   {
+    "question": "為什麼要阻止 Ghost Escape，髖對髖壓力比 crossface 控制更重要？",
+    "answer": "雖然 crossface 能控制頭部並限制肩膀旋轉，但髖對髖壓力才能直接阻止啟動 Ghost Escape 的初始髖部旋轉。如果下位者無法轉動髖部，這個逃脫就無法開始，而沉重的髖部壓力能在物理上阻擋這個動作。如果你的髖部與對手髖部之間有空隙，光靠 crossface 並不能阻止髖部旋轉。",
+    "answer_line": "髖部壓力能阻止髖部旋轉",
+    "distractors": {
+     "plausible": ["crossface 能阻止髖部旋轉", "頭部控制能阻止旋轉"],
+     "trap": ["只專注在 crossface 控制"]
+    }
+   },
+   {
+    "question": "對手發動 Ghost Escape，髖部已經旋轉了 90 度——這個階段你最好的反制是什麼？",
+    "answer": "到了這個階段，旋轉已經進行得太深，無法把對手壓平回 side control。你最好的選擇是把遠側腿跨過對手正在轉身的身體，直接轉到 mount，或者跟隨這個旋轉，在對手完成轉身、落到 turtle 的瞬間立刻建立 seatbelt control，準備拿下背後。這個階段試圖把對手壓平，很可能會失敗，白白浪費你的位置優勢。",
+    "answer_line": "轉 mount 或拿下背後",
+    "distractors": {
+     "plausible": ["硬把對手壓平回 side control", "現在就抓 kimura grip"],
+     "trap": ["用力下壓把對手壓平"]
+    }
+   },
+   {
+    "question": "面對一個已知會用 Ghost Escape 的對手，你應該如何調整 side control 的維持方式？",
+    "answer": "面對已知會用 Ghost Escape 的對手，優先追求最大程度的髖對髖接觸，讓你的髖部略微在對方髖部後方，阻擋旋轉。主動剝除對手嘗試建立的任何 frame。保持警覺，注意 bridge 接轉身的組合動作，一旦出現圓形髖部動作的跡象，就立刻準備 sprawl 或跨步轉 mount。把你的體重更多分配在對手的髖部，而不是上半身。",
+    "answer_line": "髖部略在後，剝除 frame",
+    "distractors": {
+     "plausible": ["髖部齊平，觀察肩膀", "重 crossface，輕髖部接觸"],
+     "trap": ["只追求上半身控制"]
+    }
+   },
+   {
+    "question": "當下位者完成 Ghost Escape、落到 turtle 之後，你應該優先做什麼？",
+    "answer": "立刻追求 seatbelt 或 harness control，把胸口壓向對手背部，建立 over-under grip。不要讓你的胸口與對手背部之間出現空隙。把你的髖部貼近對方的髖部，阻止他們站起來，同時開始嘗試穿入 hooks，取得完整的背後控制。對手落到 turtle 後的頭 2 到 3 秒，是你最好的機會窗口，趁對手還來不及回復 guard 或做 technical stand-up 之前動手。",
+    "answer_line": "立刻上 seatbelt，堵住站起",
+    "distractors": {
+     "plausible": ["先等對手站起來", "直接進攻對手的腿"],
+     "trap": ["後退避免陷入 scramble"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Ghost Escape from Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

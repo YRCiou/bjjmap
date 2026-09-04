@@ -1,0 +1,210 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Fight to Inside Ashi from Saddle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Saddle 下位開始任何 leg pummeling 動作之前，最優先要做的事是什麼？",
+    "answer": "把膝蓋往身體中線內轉，並用雙手控制自己的腳和腳踝，藉此保護腳跟。在腳跟被確實保護好之前不應該開始任何動作，因為任何在逃脫過程中讓腳跟暴露的嘗試，都有立即被 heel hook 終結技巧完成的風險。對手正是在等你在逃脫時犯下這種錯誤，好完成 submission。",
+    "answer_line": "先內轉膝蓋，護住自己腳跟",
+    "distractors": {
+     "plausible": [
+      "先剝除對方的 grip",
+      "先把自由腿撐出去"
+     ],
+     "trap": [
+      "立刻硬拉腿掙脫"
+     ]
+    }
+   },
+   {
+    "question": "當你開始把膝蓋 pummel 過對方外側的 leg hook 時，對手重新收緊了 figure-four，你該如何調整？",
+    "answer": "立刻停止 pummel 的動作，回到 grip fighting 階段。針對重新建立的 figure-four，用兩手夾一手（two-on-one）的方式在拇指處破壞他們的腳部連接。等你再次鬆動他們的結構之後，才恢復 leg pummel。硬要在 figure-four 重新收緊的狀態下強行突破，只會浪費體力，而且在對抗結構優勢的過程中也有暴露腳跟的風險。",
+    "answer_line": "先停下，在拇指處破 grip",
+    "distractors": {
+     "plausible": [
+      "更用力硬 pummel",
+      "直接切換成 bridging"
+     ]
+    }
+   },
+   {
+    "question": "在清理髖部壓力的階段，為什麼要往對手方向 bridge，而不是把被困住的腿往外拉？",
+    "answer": "往對手方向 bridge 會壓垮 Saddle 賦予 heel hook 機械優勢的那個垂直角度。把腿往外拉則會產生旋轉的力，這正好會加重 heel hook 的機制，可能立刻造成膝關節韌帶的傷害。往對手方向移動能降低關節壓力，同時消除他們完成技巧所需要的空間。這個違反直覺的移動方向，正是這個技巧最關鍵的生物力學洞察。",
+    "answer_line": "往對手 bridge，不要拉腿",
+    "distractors": {
+     "plausible": [
+      "把膝蓋直接拉出來",
+      "坐起來轉身離開"
+     ],
+     "trap": [
+      "把腿往回拉出空間"
+     ]
+    }
+   },
+   {
+    "question": "在從 Saddle 轉換到 Inside Ashi 的整個過程中，自由腿扮演什麼角色？",
+    "answer": "自由腿在整個轉換過程中，是你主要的防禦性 frame。它撐在對手的髖部上，防止對方把你被困住的腿再往深處驅動，同時控制距離、避免對方重新收緊纏繞，並降低對手維持垂直對位的能力。如果沒有有效的自由腿 frame，對手只要在你嘗試 pummel 時，就能輕易重新建立 Saddle 的壓力。",
+    "answer_line": "撐髖部，控制距離",
+    "distractors": {
+     "plausible": [
+      "只用來踢出空間",
+      "勾住對方遠側腿做控制"
+     ],
+     "trap": [
+      "把它收起來當作 base"
+     ]
+    }
+   },
+   {
+    "question": "你已經成功降級到 Inside Ashi-Garami，但感覺對手立刻想重新進入 Saddle，該怎麼防止這件事？",
+    "answer": "立刻建立 Inside Ashi 的防禦姿勢，控制自己的膝蓋線，並用雙腿撐住對手的髖部。關鍵細節是防止你的膝蓋往外轉，因為那會讓對手有機會把腿重新穿回 figure-four 的結構。讓膝蓋維持指向自己的中線，並保持髖部主動面對對手，而不是轉身背對他們。",
+    "answer_line": "膝蓋內收，雙腿撐住髖部",
+    "distractors": {
+     "plausible": [
+      "轉身把腿藏起來",
+      "撐一條腿、坐回去"
+     ],
+     "trap": [
+      "讓膝蓋往外轉"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試逃脫的過程中，對手開始用旋轉的壓力伸展你的腳跟，你該立刻怎麼反應？",
+    "answer": "立刻拍地投降。一旦 heel hook 的旋轉壓力已經加上，安全逃脫的時機就已經過了。在腳跟被旋轉的狀態下繼續硬撐逃脫，有可能造成嚴重的內側副韌帶和前十字韌帶損傷，甚至可能結束你的訓練生涯。沒有任何逃脫技巧值得拿永久性的膝蓋傷害去冒險。重新開始，抓更好的時機並在腳跟保護到位的情況下，再嘗試一次逃脫。",
+    "answer_line": "立刻拍地投降",
+    "distractors": {
+     "plausible": [
+      "先剝除腳踝的 grip",
+      "踢出自由腿破 grip"
+     ],
+     "trap": [
+      "用力朝反方向硬轉"
+     ]
+    }
+   },
+   {
+    "question": "在 leg pummel 能成功之前，必須先處理哪個 grip？這個 grip 在哪裡最弱？",
+    "answer": "對手的 figure-four 腿部結構是必須先處理的主要結構性控制，此外還有任何抓在你腳踝或腳跟上的手部 grip。所有 grip 在拇指連接點最弱。透過在拇指處用兩手夾一手（two-on-one）的方式剝開 grip，而不是硬拉手指對抗。等髖部壓力被清除之後，figure-four 的腿部 hook 也會最弱，因為維持這個 hook 所需要的垂直角度已經被破壞了。",
+    "answer_line": "剝拇指，two-on-one",
+    "distractors": {
+     "plausible": [
+      "去扳對方的手指",
+      "先攻擊遠側的 grip"
+     ],
+     "trap": [
+      "直接硬扯手指對抗"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是把內側腿 pummel 到 Inside Ashi、而不是繼續防守的最佳時機？",
+    "answer": "在兩個條件同時成立的瞬間立刻 pummel：對手鎖你腳跟的 grip 已經被破解，而且你的 bridge 已經壓垮他們的髖部壓力，讓垂直對位鬆動。那個短暫的空檔——在破 grip 和清髖之後、但在對方重新穿回 figure-four 之前——就是你的膝蓋能以最小阻力越過他們外側 hook 的時機。太早行動，你會在對方控制還完整時硬 pummel，同時暴露腳跟；等太久，他們就會重新收緊 Saddle。",
+    "answer_line": "Grip 已破 + 髖部已清",
+    "distractors": {
+     "plausible": [
+      "一破 grip 就立刻行動",
+      "第一次 bridge 之後馬上行動"
+     ],
+     "trap": [
+      "在剝 grip 之前就 pummel"
+     ]
+    }
+   },
+   {
+    "question": "要讓「戰鬥至 Inside Ashi」還是一個可行的逃脫方式、而不是應該拍地投降的情況，需要哪些條件仍然存在？",
+    "answer": "這個轉換只在終結前的空檔有效：你的腳跟還沒被完全鎖定隔離、對手還沒展開旋轉伸展、你還有殘餘的髖部活動度、有一條自由腿可以用來 frame，而且上半身還有足夠的自由度可以 grip fight。如果內側的 heel hook 已經鎖定並且旋轉已經展開，任何降級動作都不值得拿膝蓋韌帶去冒險，這時應該拍地投降。這個技巧只適用於 Saddle 尚未達到最緊、完全隔離的結構之前。",
+    "answer_line": "未旋轉，腳跟未被隔離",
+    "distractors": {
+     "plausible": [
+      "只要沒有感覺到痛就行",
+      "只要他還沒交叉腳踝"
+     ],
+     "trap": [
+      "旋轉一開始就硬拚出去"
+     ]
+    }
+   },
+   {
+    "question": "你的內側腿 pummel 完全被卡死，figure-four 也不肯鬆動，這時你該接什麼、而不是硬撐？",
+    "answer": "不要硬用蠻力對抗重新收緊的 figure-four；改為切換威脅，讓對手沒辦法用單一防守就封死你整個逃脫。重新剝 grip、再嘗試一次 bridge 加 pummel，或者切換到其他 Saddle 下位的選項：用 Boot Scoot Escape from Saddle 拉開距離、反纏繞進入 50-50 Guard 中和腳跟暴露的風險，或是如果對方在其他地方控制鬆動了，改用 Ashi Garami Escape。讓對手必須應付多重降級威脅，才是最終打開 pummel 通道的關鍵。",
+    "answer_line": "接 Boot Scoot 或 50-50",
+    "distractors": {
+     "plausible": [
+      "繼續用蠻力硬 pummel",
+      "立刻直接切換成 submission"
+     ],
+     "trap": [
+      "一次又一次硬把膝蓋擠過去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在進行有系統的「戰鬥至 Inside Ashi」，而不是隨機亂逃，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是動作變得刻意而受控，而不是慌亂掙扎。留意對手是否把膝蓋往內轉、同時伸手護住自己的腳跟，接著自由腿是否帶著結構性意圖穩穩撐在你的髖部上，而不是隨意亂推。這一連串動作代表這是受過訓練的逃脫程序，而不是本能的掙扎，需要有系統的防守回應。",
+    "answer_line": "膝蓋受控內轉＋伸手護腳",
+    "distractors": {
+     "plausible": [
+      "快速慌亂地亂踢腿",
+      "突然爆發式的髖部逃脫"
+     ],
+     "trap": [
+      "只是很兇地在剝 grip"
+     ]
+    }
+   },
+   {
+    "question": "在對手嘗試逃脫的過程中，什麼時候應該放棄維持 Saddle、全力完成 submission？",
+    "answer": "當對手的逃脫動作讓腳跟短暫暴露時，可以進攻 submission，但前提是你能在進攻的同時維持你的 figure-four 腿部結構。如果進攻需要鬆開你的位置控制，這樣的風險報酬就很差，因為在 Saddle 已經被破壞的情況下嘗試失敗的 submission，只會加速對手的降級逃脫。最理想的時機，是對方 pummel 膝蓋、腿短暫伸直、腳跟暫時暴露的那一刻。",
+    "answer_line": "腳跟暴露，維持 figure-four",
+    "distractors": {
+     "plausible": [
+      "對方一動就立刻進攻",
+      "鬆開 grip 去追拍地"
+     ],
+     "trap": [
+      "放棄控制、硬求終結"
+     ]
+    }
+   },
+   {
+    "question": "要怎麼防止對手的自由腿 frame 產生足夠的力量清掉你的髖部壓力？",
+    "answer": "在對方的自由腿建立起穩固的結構性支撐之前，用你的上位腿或空著的手處理它。把對方的自由腿固定在你身上、用手臂勾住他們的膝蓋後方，或用你的上位腿交叉控制他們的自由腿。如果那個 frame 已經建立起來了，就把你的髖部往前驅動、頂進他們被困住的腿，用這個方式對抗那股推力，而不是直接想去移除那個 frame。",
+    "answer_line": "固定或勾住對方的 framing 腿",
+    "distractors": {
+     "plausible": [
+      "用手把對方的腿推開",
+      "等對方自己重新擺位"
+     ],
+     "trap": [
+      "不理會它，只顧著追終結"
+     ]
+    }
+   },
+   {
+    "question": "對手已經部分破壞了你的 Saddle，你感覺到 figure-four 正在鬆動，這時你的恢復程序是什麼？",
+    "answer": "立刻重新扣緊你外側的 leg hook 在對方膝蓋後方，並把內側腿驅動得更深、越過他們的髖部。加大對被困住那條腿的髖部壓力，重新建立垂直對位。等這些結構性元素恢復之後，才處理腳跟或腳踝上的 grip。如果破壞程度已經太嚴重、不太可能重新進入 Saddle，可以考慮從這個受損的位置直接嘗試 submission，或策略性地脫離、轉換到上位。",
+    "answer_line": "重新勾腿、驅動髖部，再處理 grip",
+    "distractors": {
+     "plausible": [
+      "先去抓對方腳跟的 grip",
+      "重置回中性位置"
+     ],
+     "trap": [
+      "放棄結構、只顧追拍地"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Roll to Top.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 counter roll 的最佳時機是什麼？",
+    "answer": "最佳時機是對手把體重往前或往側邊壓下的時候，通常發生在他們嘗試 submission（例如 rear naked choke 攻擊）、轉換到 mount 的過程，或是調整 grip 以收緊手臂困鎖的當下。這些瞬間會製造暫時的失衡，讓爆發性的 bridge 得以利用來做旋轉逆轉。",
+    "answer_line": "對手把體重往前壓",
+    "distractors": {
+     "plausible": [
+      "只在對方嘗試 rear naked choke 時",
+      "grip 剛搭上的那一刻"
+     ],
+     "trap": [
+      "對手放平、體重壓實的時候"
+     ]
+    }
+   },
+   {
+    "question": "在整個翻滾過程中必須維持哪個 grip？為什麼它是關鍵？",
+    "answer": "你必須牢牢抓住那隻穿過你腋下、控制你被困手臂的手臂，抓緊對方的手腕或前臂。這個 grip 有兩個重要作用：一是靠機械力把對手隨著你的旋轉一起拉過去，讓逆轉得以成立；二是讓你能在完成後接管上位的 Gift Wrap 控制。沒有這個連接，你就會獨自翻滾，而對方則趁機重新站穩。",
+    "answer_line": "抓住對方手腕把他拉過來",
+    "distractors": {
+     "plausible": [
+      "為了 sweep 抓對方袖口",
+      "抓自己的手腕借力"
+     ],
+     "trap": [
+      "放開 grip 自由翻滾"
+     ]
+    }
+   },
+   {
+    "question": "執行 counter roll 時，你應該往哪個方向 bridge？",
+    "answer": "往被困手臂那一側 bridge，絕不要往自由手臂那一側。被困手臂那一側正是對手透過 Gift Wrap 控制把體重壓上去的地方，形成自然的旋轉支點與失衡軸線。若往自由手臂那一側 bridge，會直接撞進對手的 base，導致翻滾徹底失敗、白白浪費力氣。",
+    "answer_line": "往被困手臂那一側 bridge",
+    "distractors": {
+     "plausible": [
+      "往遠離對方體重的方向 bridge",
+      "哪一側空就往哪一側 bridge"
+     ],
+     "trap": [
+      "往自由手臂那一側 bridge"
+     ]
+    }
+   },
+   {
+    "question": "對手把體重壓平、擋下你的 bridge 嘗試——你該怎麼做？",
+    "answer": "立刻放棄 counter roll，轉換到標準的 hip escape 序列。不要在對方已經穩住的阻力下反覆嘗試翻滾，因為這只會白白消耗體力而毫無成果。把對手為了擋下翻滾所耗費的空間與力氣，當作 shrimp、建立 frame、爭取恢復 guard 的機會。",
+    "answer_line": "放棄翻滾，shrimp 回 guard",
+    "distractors": {
+     "plausible": [
+      "直接改攻 submission",
+      "靜止等待下一個機會"
+     ],
+     "trap": [
+      "持續重複 bridge 直到成功"
+     ]
+    }
+   },
+   {
+    "question": "如果你半途而廢、在旋轉過程中卡住不動，會有什麼風險？",
+    "answer": "半途而廢往往會導致比成功或徹底失敗都更糟的處境。不完整的旋轉會讓你的另一隻手臂暴露在 crucifix 進攻之下，甚至可能轉變成被 mount 背後控制。這個技術需要全力、爆發性地投入，因為旋轉過程中的中間姿勢正是最脆弱的瞬間。",
+    "answer_line": "讓手臂暴露在 crucifix 攻擊下",
+    "distractors": {
+     "plausible": [
+      "只是浪費一點體力而已",
+      "對手會重新拿回完整 guard"
+     ],
+     "trap": [
+      "可以安全地停下來重新評估"
+     ]
+    }
+   },
+   {
+    "question": "你正在計畫 counter roll 時，對手開始進攻 rear naked choke——你應該繼續嗎？",
+    "answer": "當 rear naked choke 正在被鎖緊時，絕對不要嘗試 counter roll。旋轉的動作實際上可能收緊絞技，加速 submission 成立。應該先透過 two-on-one 手部纏鬥與收下巴來處理絞技防守。只有在化解眼前的絞技威脅、對手轉換到其他攻擊之後，才能考慮 counter roll。",
+    "answer_line": "不，先防守絞技",
+    "distractors": {
+     "plausible": [
+      "可以，翻滾能加速你逃脫",
+      "只有在 grip 已經鬆脫時才行"
+     ],
+     "trap": [
+      "可以，翻滾會讓絞技鬆開"
+     ]
+    }
+   },
+   {
+    "question": "完成翻滾後的頭兩秒，你必須做什麼？",
+    "answer": "用你的自由手撐地穩住身體，把胸口壓進對方的背部，並立刻著手建立你自己的 Gift Wrap 控制——把手臂穿過對方腋下、控制住他的手腕，並把 hook 插進他的大腿內側。如果沒能在這個時間窗口內鞏固控制，對手就有機會掙扎、恢復，或逃回中立姿勢。",
+    "answer_line": "撐地、壓實胸口、鎖住 Gift Wrap",
+    "distractors": {
+     "plausible": [
+      "坐起來確認周圍狀況",
+      "馬上找 submission 機會"
+     ],
+     "trap": [
+      "放開控制重新調整姿勢"
+     ]
+    }
+   },
+   {
+    "question": "counter roll 在整個 Gift Wrap Bottom 逃脫系統中扮演什麼角色？",
+    "answer": "counter roll 是基本逃脫動作（如手臂恢復與 hip escape）的高風險高報酬輔助手段。它不應該是主要的逃脫策略，而是一個機會性的武器，在對手因積極進攻而製造出明顯時機窗口時才使用。練習者應該先建立可靠的漸進式逃脫，再把 counter roll 當作對手變得可預測時的突襲反擊。",
+    "answer_line": "機會性使用，不是主要逃脫手段",
+    "distractors": {
+     "plausible": [
+      "練熟後就當主要逃脫方式",
+      "每個姿勢都用它"
+     ],
+     "trap": [
+      "完全取代 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "對手放開 Gift Wrap、撐手阻止你的翻滾——這算失敗嗎？",
+    "answer": "這其實是一個重大的成功，即使完整的逆轉沒有完成。逼迫對手放開 Gift Wrap 的手臂困鎖，你就已經消除了他最主要的控制優勢，回到標準的背後控制局面。從這裡開始，你完整的防守手段——包括雙手都能自由運用——重新可用，大幅提升你透過一般背後逃脫序列脫身的機會。",
+    "answer_line": "不，Gift Wrap 困鎖已被破解",
+    "distractors": {
+     "plausible": [
+      "算，翻滾完全失敗了",
+      "沒差，其實什麼都沒改變"
+     ],
+     "trap": [
+      "算，該驚慌並 turtle 起來"
+     ]
+    }
+   },
+   {
+    "question": "counter roll 的 bridge 方向，與從 mount 標準的 bridge and roll 逃脫，關鍵差異是什麼？",
+    "answer": "在從 Gift Wrap 發動的 counter roll 中，你特意往被困手臂那一側 bridge，因為那正是對手透過手臂穿繞結構把體重壓上去的地方。而在從 mount 標準的 bridge and roll 中，你是往對手 base 較弱的那一側、越過肩膀 bridge。原理相同，都是利用方向性的失衡，但方向是由 Gift Wrap 的機制決定，而不是一般的 base 判斷。",
+    "answer_line": "往被困手臂側，而非 base 較弱側",
+    "distractors": {
+     "plausible": [
+      "兩者方向完全一樣",
+      "mount 逃脫是往腿的方向 bridge"
+     ],
+     "trap": [
+      "往 base 較強的那一側 bridge"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在準備 counter roll 嘗試時，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是對手雙腳平踩地面、膝蓋彎曲，同時空出的那隻手移動去抓住你穿過他腋下的那隻控制手臂。這種蓄力 bridge 姿勢與抓住你控制手臂的 grip 同時出現，代表翻滾嘗試即將發動。應該立刻壓低髖部體重來反應，而不是等到 bridge 真正發生才行動。",
+    "answer_line": "雙腳踩穩，抓住你的手臂",
+    "distractors": {
+     "plausible": [
+      "對手開始喘氣加重",
+      "他們的髖部微微移動"
+     ],
+     "trap": [
+      "等 bridge 出現後再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在進攻絞技時把體重過度往前壓，會讓你容易被 counter roll 反擊？",
+    "answer": "當你把體重往前壓來攻擊頸部時，你的重心會轉移到對手上方，你的髖部相對於他的背部會變輕。這正是 counter roll 所利用的方向性失衡。對手只需要用 bridge 把你原本就已經往前的動能，轉向側邊即可。即使在進攻時也維持髖部沉重需要練習，但能消除這個弱點。",
+    "answer_line": "髖部變輕，容易被轉向",
+    "distractors": {
+     "plausible": [
+      "絞技的 grip 會變得太鬆",
+      "手臂因為用力夾而疲勞"
+     ],
+     "trap": [
+      "更用力往前壓"
+     ]
+    }
+   },
+   {
+    "question": "在翻滾嘗試發生時，什麼時候應該放開 Gift Wrap，而不是試圖維持它？",
+    "answer": "當翻滾已經產生足夠的動能、你的撐地與髖部壓制已經無法擋住旋轉時，就該放開 Gift Wrap。如果在一次成功的翻滾中還維持手臂困鎖，你最終會落到被逆轉的 Gift Wrap 底位。放開困鎖、保留標準的背後控制，或是脫離到 guard，都遠比在這場交手中被逆轉到最不利的位置要好得多。",
+    "answer_line": "當動能壓過你的 base 時",
+    "distractors": {
+     "plausible": [
+      "只有手臂開始痛才放",
+      "bridge 一開始就放"
+     ],
+     "trap": [
+      "抓得更緊來阻止翻滾"
+     ]
+    }
+   },
+   {
+    "question": "改用 body triangle 如何幫助防守 counter roll 的嘗試？",
+    "answer": "body triangle 用四字型把你的雙腿鎖在對手腰部周圍，把你下半身的重量固定在他的髖部上。這大幅增加了 bridge 產生旋轉抬升所需要的力量，因為對手必須把你整個下半身的體重當成一個整體來移動。標準的 hooks 在 bridge 過程中比較容易被移開，但鎖死的 body triangle 就像一個結構性的錨點，讓翻滾在力學上困難得多。",
+    "answer_line": "固定髖部，更難 bridge 出去",
+    "distractors": {
+     "plausible": [
+      "鎖住他們遠側的 underhook",
+      "困住他們兩隻手腕"
+     ],
+     "trap": [
+      "放鬆 hooks 以保持機動性"
+     ]
+    }
+   },
+   {
+    "question": "對手擋下你的絞技嘗試，並立刻爆發性地 bridge——你的立即反應是什麼？",
+    "answer": "第一時間把髖部壓平、把體重 sprawl 到他的背上。同時把空出的手往他翻滾的方向撐地。如果 bridge 已經產生相當大的旋轉，要準備好放開 Gift Wrap 以保住背後控制，而不是被逆轉。擋下翻滾之後，重新安頓你的體重，並考慮轉換到 body triangle，以防止之後再度發生。",
+    "answer_line": "壓平 sprawl 並撐手",
+    "distractors": {
+     "plausible": [
+      "把絞技 grip 抓得更緊",
+      "坐回去重整姿勢"
+     ],
+     "trap": [
+      "更用力搶絞技的 grip"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "防守 Old School Sweep 時，建立 whizzer 防守的最佳時機是什麼時候？",
+    "answer": "一旦你察覺到對手做出 lockdown 加 underhook 的組合，就必須立刻建立 whizzer，搶在對方取得頭部控制、開始產生掃翻動能之前完成。理想上要在感覺到 lockdown 成形後的兩到三秒內完成。一旦三個控制點都已建立、下位選手開始進行掃翻旋轉，這時候再插入 whizzer 就會困難許多，防守效果也會大幅下降。",
+    "answer_line": "2-3 秒內插入 whizzer",
+    "distractors": {
+     "plausible": [
+      "等頭部控制先建立好",
+      "等旋轉開始後再反應"
+     ],
+     "trap": [
+      "拖到掃翻完全發動才反應"
+     ]
+    }
+   },
+   {
+    "question": "要成功防守 Old School Sweep，必須先具備哪些條件？",
+    "answer": "你需要至少一隻空出來的手臂，才能把 whizzer 穿進對方 underhook 的腋下；還需要足夠的殘餘 base，才能在旋轉開始前把自由腿撐寬定位；並且要有足夠的敏銳度，能在對手完全投入掃翻之前就看出 Old School 的架設。如果下位選手已經帶著動能深度旋轉進去，防守的時間窗就已經過了，這時你可能得接受位置變化，改從 mount 或 scramble 中重新爭取。",
+    "answer_line": "空出手臂、寬 base、提早判讀",
+    "distractors": {
+     "plausible": [
+      "只要 whizzer 手臂夠力就行",
+      "等旋轉開始後再反應"
+     ],
+     "trap": [
+      "先完全投入，之後再靠 scramble 脫身"
+     ]
+    }
+   },
+   {
+    "question": "這個防守中，建立 whizzer 時最關鍵的細節是什麼？",
+    "answer": "whizzer 必須穿得夠深，手要抓到你自己的大腿或對方的髖部，形成不需要持續用力就能維持的結構性控制。如果 whizzer 太淺，只碰到對方的手肘，控制力就不夠，下位選手可以輕易把手臂游出來重新建立 underhook。手肘必須緊貼你的肋骨，才能阻止 underhook 那隻手臂產生拉扯所需的槓桿力。",
+    "answer_line": "把 whizzer 穿到你自己大腿",
+    "distractors": {
+     "plausible": [
+      "只抓到對方手肘附近",
+      "夾緊二頭肌來控制"
+     ],
+     "trap": [
+      "讓手肘離開肋骨外翻"
+     ]
+    }
+   },
+   {
+    "question": "當你正在建立防守時，對手開始猛力 pump lockdown，你該如何調整？",
+    "answer": "感受 pump 的節奏，用你的 sprawl 去抵銷每一次伸展的嘗試。當你感覺到腿開始伸展時，立刻把髖部稍微向後 sprawl，同時保持胸貼胸的連結。在對方 pump 的間隔，趁機做一些小幅度的腳踝操作和髖部壓力變化，鬆動 lockdown。絕對不要用同樣爆發的力量去對抗，因為那樣會消耗你的體力，也會製造出對方需要的時間空隙。",
+    "answer_line": "用 sprawl 對準對方的 pump 時機",
+    "distractors": {
+     "plausible": [
+      "用爆發力硬碰硬",
+      "純靠蠻力頂過去"
+     ],
+     "trap": [
+      "全程僵硬撐著不動"
+     ]
+    }
+   },
+   {
+    "question": "要防守這個掃翻，哪種握法能提供最穩固的 whizzer 控制？",
+    "answer": "理想的握法是把 whizzer 那隻手臂深深穿過對方腋下，手抓住自己內側的大腿，形成一個對手不易破解的封閉迴圈。手肘要緊貼肋骨，防止 underhook 那隻手做出 pump 或拉扯的動作。這種配置靠的是骨對骨的槓桿結構控制，而不是握力，讓你能長時間維持防守而不易疲勞。",
+    "answer_line": "whizzer 那隻手抓自己大腿",
+    "distractors": {
+     "plausible": [
+      "改抓對方遠側的髖部",
+      "雙手互扣以求更有力"
+     ],
+     "trap": [
+      "讓手肘離開肋骨浮起"
+     ]
+    }
+   },
+   {
+    "question": "相對於掃翻的方向，你應該把 crossface 的壓力往哪個方向施加？",
+    "answer": "把 crossface 的壓力垂直施加，並且方向與掃翻方向相反。Old School Sweep 會把你往 lockdown 那一側旋轉過去，所以你的 crossface 要把對方的頭往遠離那一側的方向推，讓對方的臉轉向天花板，或轉離他自己的 underhook。這會破壞掃翻所需的幾何對齊，把對方的軀幹角度壓平，防止出現能產生掃翻力量的側躺姿勢。",
+    "answer_line": "把對方的臉轉離 lockdown 那側",
+    "distractors": {
+     "plausible": [
+      "把頭直接往胸口方向壓",
+      "垂直推向對方的 base"
+     ],
+     "trap": [
+      "把對方的臉轉向 lockdown 那一側"
+     ]
+    }
+   },
+   {
+    "question": "對手從 Old School Sweep 改成嘗試 Electric Chair，你該如何應對？",
+    "answer": "把 whizzer 那隻手臂再插得更深，並加大 crossface 的壓力，阻止對方轉出 Electric Chair 進入所需的旋轉。把自由腿撐得更寬，並把髖部朝對方試圖分開你雙腿的反方向繞開。Electric Chair 需要對手鑽到你髖部下方並把雙腿分開，所以保持髖部低而沉，同時維持 crossface，就能封鎖他們轉換所需的空間與角度。",
+    "answer_line": "加深 whizzer，把腿撐得更寬",
+    "distractors": {
+     "plausible": [
+      "放開 whizzer 把腿伸直",
+      "坐回去製造 scramble 空間"
+     ],
+     "trap": [
+      "讓髖部抬高以舒緩壓力"
+     ]
+    }
+   },
+   {
+    "question": "成功防下掃翻之後，馬上有哪些過腿選項可以用？",
+    "answer": "在對手已經被你的 crossface 和 whizzer 壓平的情況下，透過操作腳踝和施加髖部壓力來鬆開 lockdown。一旦 lockdown 鬆開，立刻沿著對方大腿線切入做 knee slice，或是把膝蓋壓進對方髖部執行 smash pass，把對方徹底壓平。關鍵在於把防守的瞬間立刻轉化為進攻行動，搶在下位選手能重新建立 half guard 控制或轉換到其他 guard 變化之前完成。",
+    "answer_line": "先破 lockdown，再切 knee slice",
+    "distractors": {
+     "plausible": [
+      "直接跳去做一般過腿",
+      "先放開 crossface 重新開始"
+     ],
+     "trap": [
+      "先站起來重新歸零"
+     ]
+    }
+   },
+   {
+    "question": "在長時間的 Old School 防守拉鋸中，該如何管理體力消耗？",
+    "answer": "靠結構性的姿勢，而不是靠肌肉緊繃。whizzer 的控制力來自手臂插入的深度與手肘的位置，不是靠夾緊二頭肌。crossface 的壓力來自體重的擺放位置，不是靠肩膀硬推。base 靠撐地那條腿的骨骼對齊來維持，不是靠大腿肌肉緊繃。在對方每次掃翻嘗試之間穩定呼吸、放鬆身體，把爆發力留到掃翻真正發動的關鍵時刻。",
+    "answer_line": "靠結構撐住，不靠肌肉緊繃",
+    "distractors": {
+     "plausible": [
+      "持續夾緊 whizzer 的二頭肌",
+      "用肩膀去推動 crossface"
+     ],
+     "trap": [
+      "用爆發力跟對方拚節奏"
+     ]
+    }
+   },
+   {
+    "question": "成功防守掃翻和只是勉強撐過去，兩者最主要的差別是什麼？",
+    "answer": "撐過去指的是吸收掃翻的嘗試，維持在 Old School Top 位置卻沒有任何進展，讓下位選手可以自由地再次進攻。成功防守則是在化解掃翻的同時，同步瓦解下位選手的進攻結構，把對方壓平、破壞他們的控制，創造出立即可以過腿的機會。目標是把每一次防下的掃翻都轉化成向前的位置進展，朝向 half guard top，最終推進到 side control。",
+    "answer_line": "壓平對手，創造過腿機會",
+    "distractors": {
+     "plausible": [
+      "只是吸收掃翻然後原地不動",
+      "拖延直到對方鬆手"
+     ],
+     "trap": [
+      "退回 open guard 空間"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你怎麼判斷自己的 Old School Sweep 正被成功防守，該轉換成其他進攻？",
+    "answer": "主要指標有：一個緊緊夾住你 underhook 那隻手臂的深 whizzer，限制了你的拉扯槓桿；沉重的 crossface 壓力把你的頭轉離掃翻方向；還有一個角度撐開、自由腿定位穩固的寬 base。當這三個防守要素都已建立時，繼續硬做掃翻只會失敗。關鍵是要在感覺到防守鎖死後的兩到三秒內就察覺，而不是把體力耗在一個注定失敗的嘗試上。",
+    "answer_line": "三項防守都鎖死於 2-3 秒內",
+    "distractors": {
+     "plausible": [
+      "只要 whizzer 建立好就好",
+      "等對手體力耗盡"
+     ],
+     "trap": [
+      "繼續硬做同一個掃翻"
+     ]
+    }
+   },
+   {
+    "question": "當上位選手 sprawl 來防守你的掃翻時，這個空隙會打開哪些其他攻擊選項？",
+    "answer": "sprawl 會在上位選手的髖部下方製造出空間，讓你可以放開 underhook、把頭鑽進對方髖部下方，進入 Deep Half Guard。這也會拉開對方雙腿之間的距離，如果你能把 lockdown 的力量重新導向去分開對方的 base，就有可能打開 Electric Chair 的入口。此外，sprawl 還可能讓對方的重心前移，如果你能在他們恢復姿勢的過程中重新出手，就能製造出不同角度的掃翻機會。",
+    "answer_line": "透過放開的 underhook 進 Deep Half",
+    "distractors": {
+     "plausible": [
+      "重新進入標準 half guard",
+      "reguard 回 closed guard"
+     ],
+     "trap": [
+      "放開 lockdown 重新開始"
+     ]
+    }
+   },
+   {
+    "question": "面對防守嚴密的對手，什麼時機調整能提高你的掃翻完成率？",
+    "answer": "與其在對手已經建立好防守結構時強攻掃翻，不如把攻擊時機放在對方在不同防守姿勢之間轉換的瞬間。當上位選手調整 base、重新擺放 crossface，或是移動重心去應對 lockdown 時，會出現一個或多個防守要素暫時失守的短暫空窗。這些轉換瞬間的掃翻完成率，遠高於直接攻擊一個靜止、完全建立好的防守。",
+    "answer_line": "趁對方轉換時機出手",
+    "distractors": {
+     "plausible": [
+      "直接攻擊對方完整建立的結構",
+      "等對手完全放鬆"
+     ],
+     "trap": [
+      "重複同一招直到成功"
+     ]
+    }
+   },
+   {
+    "question": "硬做一個已被防守的掃翻，和順勢轉換到其他攻擊，兩者的關鍵差異是什麼？",
+    "answer": "硬做一個已被防守的掃翻，會消耗體力去對抗一個已經建立好的結構性防守，暴露你的意圖，也會讓上位選手趁著你的可預測性逐步推進他們的過腿壓力，讓你的進攻位置越來越差。順勢轉換到其他攻擊，則是利用對手的防守投入來反制他們，一邊維持進攻的主導權，一邊利用每個防守要素各自造成的弱點。這種順勢的做法能節省體力，並讓對手持續被你的轉換牽著走。",
+    "answer_line": "順著對方的防守投入轉換攻勢",
+    "distractors": {
+     "plausible": [
+      "用更大的力量硬推過去",
+      "回到中立位置重新開始"
+     ],
+     "trap": [
+      "再重複一次同樣的掃翻"
+     ]
+    }
+   },
+   {
+    "question": "從掃翻防守轉換到其他攻擊的過程中，該如何管理 lockdown？",
+    "answer": "在整個轉換過程中，lockdown 必須持續保持張力，因為它是這整套連續攻擊背後的基礎控制。即使你正從 Old School Sweep 換成 Electric Chair 或 Deep Half Guard 入口，也要讓下方的腳持續勾住對方的腳踝、雙腿主動伸展，維持 lockdown 的延伸狀態。只有在某個特定技術確實需要時才刻意放開 lockdown，例如轉換到完全不同的 guard 系統時。",
+    "answer_line": "全程維持 lockdown 的張力",
+    "distractors": {
+     "plausible": [
+      "在攻擊之間放開 lockdown",
+      "為了省力而放鬆 lockdown"
+     ],
+     "trap": [
+      "為了換招而放掉 lockdown"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Defend Old School Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

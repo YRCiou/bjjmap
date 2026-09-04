@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在嘗試從 collar sleeve guard 做 Bull Pass 之前，最關鍵要破壞的 grip 是哪一個？",
+    "answer": "必須先破壞 sleeve grip，因為那是對手用來控制距離、阻止你建立腿部改向所需 pant grip 的主要工具。Collar grip 雖然能控制 posture，但單靠它無法阻止側向的 pass 動作。破壞 sleeve grip 會製造出整個 pass 賴以成立的短暫破綻空檔。",
+    "answer_line": "先破壞 sleeve grip",
+    "distractors": {
+     "plausible": [
+      "先破壞 collar grip",
+      "同時破壞兩個 grip"
+     ],
+     "trap": [
+      "跳過 grip，直接側向跨步"
+     ]
+    }
+   },
+   {
+    "question": "如果你在破壞 sleeve grip 和建立 pant grip 之間猶豫，會發生什麼事？",
+    "answer": "就算只停頓一到兩秒，對手也能重新建立 sleeve grip，或調整 guard 結構，讓整個 pass 機會完全重置。從破壞 grip 到建立 pant grip 必須連貫成一個單一動作。反覆 drill 這個轉換直到變成本能反應非常重要，因為在這個空檔中靠意識判斷太慢了。",
+    "answer_line": "破 grip 直接接上 pant grip，一氣呵成",
+    "distractors": {
+     "plausible": [
+      "停頓確認 grip 已破",
+      "放慢速度以求更好的控制"
+     ],
+     "trap": [
+      "提早放開 collar grip"
+     ]
+    }
+   },
+   {
+    "question": "在你側向跨步時，如何避免對手接成 half guard？",
+    "answer": "側移時讓後腳緊貼前腳，不要跨成寬闊的分腿站姿。如果你的雙腳分得太開，對手就能輕易用靠近的那條腿勾住你的後腳，建立 half guard。把側向移動想成是兩腳一起滑動，而不是一腳先跨出去、另一腳留在後面。",
+    "answer_line": "雙腳併攏，不要分腿",
+    "distractors": {
+     "plausible": [
+      "為了 base 採取寬站姿",
+      "先跨大步再擺正"
+     ],
+     "trap": [
+      "讓後腳伸展留在後方"
+     ]
+    }
+   },
+   {
+    "question": "從 collar sleeve guard 發動 Bull Pass 的最佳時機是什麼時候？",
+    "answer": "最佳空檔是在成功破壞 sleeve grip 之後立刻出現，此時對手還沒能重新在你的手臂或袖子上建立控制性的 grip。這個空檔通常只有一到兩秒。次要的時機出現在對手過度投入 sweep 嘗試、把腿伸展出去時，或是對手放鬆 grip 調整 guard 角度時。",
+    "answer_line": "破壞 sleeve grip 之後馬上",
+    "distractors": {
+     "plausible": [
+      "對手嘗試 sweep 時",
+      "對手調整 guard 角度時"
+     ],
+     "trap": [
+      "等對手重新抓回 sleeve"
+     ]
+    }
+   },
+   {
+    "question": "對手總是用 hip escape 跟著你的側向移動並恢復 guard——你該如何調整？",
+    "answer": "把 Bull Pass 當成假動作，先往一個方向發動側移，引誘對手的 hip escape，然後立刻反方向用 Knee Slice 從中路穿過。對手往錯誤方向做的 hip escape，會為 Knee Slice 開出一條清楚的 pass 路線。這個組合能把對手成功防守 Bull Pass 的結果，轉變成他對另一個互補技巧的破綻。",
+    "answer_line": "假動作，再反方向 Knee Slice",
+    "distractors": {
+     "plausible": [
+      "繼續往原本方向推進",
+      "用更大力重複同樣的側跨步"
+     ],
+     "trap": [
+      "直接追著對手的 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "在改向對手的腿時，你應該施加什麼方向的力？",
+    "answer": "把膝蓋往大約 45 度的側向、並稍微朝墊子下壓的方向推，而不是單純往側邊推。向下的角度能釘住對手的 hip，阻止他抬起來恢復 guard。側向的角度必須把對手的腿推過某個界線，讓他光靠 hip escape 無法恢復 guard 位置。持續施壓比單一次的爆發推擠更有效。",
+    "answer_line": "45 度，側向並下壓",
+    "distractors": {
+     "plausible": [
+      "直接往下壓對手的 hip",
+      "純側向，不下壓"
+     ],
+     "trap": [
+      "把膝蓋往上推"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你轉換到 pant grip 時，用力拉扯你的 collar grip，你該怎麼辦？",
+    "answer": "如果 collar 的拉扯在你抓穩 pant grip 之前就破壞了你的 posture，就要立刻放棄這次 Bull Pass 嘗試。在 posture 已被破壞的情況下硬 pass，會因為重心前傾、base 狹窄而造成 sweep 的破綻。重新建立挺直的 posture 和穩定的 base，之後再重新嘗試破 grip，或改用能配合 collar grip 的壓制式 pass 方式。",
+    "answer_line": "放棄，重整 posture 和 base",
+    "distractors": {
+     "plausible": [
+      "不管 posture 硬抓 pant grip",
+      "在失去平衡前加快速度"
+     ],
+     "trap": [
+      "用狹窄的 base 往前推"
+     ]
+    }
+   },
+   {
+    "question": "從 collar sleeve guard top 搭配其他技巧時，Bull Pass 如何製造 pass 的兩難？",
+    "answer": "Bull Pass 威脅的是側向 pass，而 Knee Slice 和 pressure pass 這類技巧威脅的是直接向前的 pass。當你在這些威脅之間交替使用時，對手的防守結構無法只固定往單一方向投入。如果對手為了防守側向的 Bull Pass 而把 hip 轉向側邊，就會暴露在直接的 Knee Slice 之下；如果對手為了防守 Knee Slice 而把 hip 擺正，側向 pass 就會變得更容易得手。這種多方向的威脅會迫使對手的防守出現妥協。",
+    "answer_line": "混合側向與向前的威脅",
+    "distractors": {
+     "plausible": [
+      "只重複使用 Bull Pass",
+      "全力投入單一方向"
+     ],
+     "trap": [
+      "每次都用同樣明顯的 pass"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從你的 collar sleeve guard 嘗試 Bull Pass 時，最早出現的辨識訊號是什麼？",
+    "answer": "最早的訊號是 passer 用他空著的那隻手，抓住你抓 sleeve 那隻手的手腕或前臂，建立二對一破 grip。這個準備動作會比實際破 grip 早一到兩秒出現，能讓你有最多的防守準備時間。一感覺到二對一，就立刻抓緊 grip、把手腕內捲，並準備做 hip escape 動作。",
+    "answer_line": "二對一抓住你的手腕",
+    "distractors": {
+     "plausible": [
+      "突然側向重心轉移",
+      "對手把 hip 擺正"
+     ],
+     "trap": [
+      "等 grip 完全被破壞"
+     ]
+    }
+   },
+   {
+    "question": "當 sleeve grip 被破壞後，為什麼 collar grip 是你最重要的防守資產？",
+    "answer": "Collar grip 能讓你持續連結對手的上半身，在整個側向 pass 嘗試過程中破壞他的 posture 和 base。即使 sleeve grip 已經丟失，強力的 collar 拉扯依然能讓 passer 的 posture 往前垮掉，讓他無法做出完成 pass 所需的爆發性側跨步。Collar grip 也能把你錨定在 passer 身上，讓他更難製造出清開你雙腿所需的距離。",
+    "answer_line": "把對手的 posture 往前壓垮",
+    "distractors": {
+     "plausible": [
+      "控制對手遠側的 hip",
+      "為你自己的 sweep 做準備"
+     ],
+     "trap": [
+      "放開它去重抓 sleeve"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到雙腿被改向到一側時，你該優先做什麼身體動作？",
+    "answer": "立刻朝 passer 側向移動的同一方向做 hip escape，而不是朝你雙腿被推的方向。你的目標是用 hip 追蹤對手的移動，重新面向 passer。同時拉扯 collar grip 破壞他的 posture。這種 hip escape 加上拉 collar 的組合，是阻止 pass 完成的最佳機會，因為它會封住 passer 試圖打開的那條 pass 路線。",
+    "answer_line": "順著對手方向做 hip escape",
+    "distractors": {
+     "plausible": [
+      "往對手推的反方向做 hip escape",
+      "改推對手的膝蓋"
+     ],
+     "trap": [
+      "保持平躺用手擋"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你該接受轉成 half guard，而不是硬撐維持 collar sleeve guard？",
+    "answer": "當 passer 已經把一條腿清過你的膝蓋線，並帶著全力壓上來的壓力往前推進時，就接受轉換到 half guard。從這個位置硬要恢復完整的 collar sleeve guard 只會浪費體力，往往還會落得完全被 pass 的下場。這時應該立刻插入 knee shield，或鎖住對手的腿，建立 half guard 結構，讓自己擁有強而有力的攻防平台。",
+    "answer_line": "腿被清過，插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "sleeve grip 一丟失就轉",
+      "一感受到任何壓力就轉"
+     ],
+     "trap": [
+      "繼續硬撐完整的 guard"
+     ]
+    }
+   },
+   {
+    "question": "如何防守假 Bull Pass 接 Knee Slice 的組合技？",
+    "answer": "保持 hip 置中，在確認 passer 真的把重心側向投入之前，不要過度往 Bull Pass 動作最初的方向做 hip escape。如果你發現 passer 的重心維持在中間，而沒有完全投入側跨步，就維持你的 guard frame 位置，不要去追他一開始的方向。當他反方向做 Knee Slice 時，你置中的 hip 已經準備好防守這條中線的 pass。",
+    "answer_line": "Hip 保持置中，不要追",
+    "distractors": {
+     "plausible": [
+      "第一個動作就做 hip escape",
+      "提早投入第一個方向"
+     ],
+     "trap": [
+      "追著最初的側跨步"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Bull Pass from Collar Sleeve.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

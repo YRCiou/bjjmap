@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Reverse Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Reverse Scarf Hold 逃脫時，最佳的 bridge 方向是什麼？為什麼跟標準的 side control 逃脫不同？",
+    "answer": "最佳的 bridge 方向是朝上位選手的背部與頭部方向呈 45 度角。這跟標準 side control 逃脫不同，因為在 Reverse Scarf Hold 中，上位選手是面向你的雙腿而不是頭部，形成一種根本上不同的 base 結構。由於反向的姿勢，他們朝自己背部方向的支撐能力是最弱的，這使得這個角度成為最有效的破壞方向。直直往上 bridge 效果不佳，因為 reverse scarf 的結構本來就是設計來透過寬闊的腿部 base 抵抗垂直方向的力量。",
+    "answer_line": "朝對方背部／頭部呈 45 度",
+    "distractors": {
+     "plausible": [
+      "直直往上，標準 bridge",
+      "朝對方腿部呈 45 度"
+     ],
+     "trap": [
+      "翻身趴下，遠離對方"
+     ]
+    }
+   },
+   {
+    "question": "對方在維持 Reverse Scarf Hold 的同時伸手抓 kimura——這會如何影響你 bridge escape 的時機？",
+    "answer": "kimura 的嘗試會創造出理想的 bridge 時機窗，因為上位選手必須放開遠側的控制才能建立 figure-four 的抓握，暫時破壞了他們的 base 寬度與重心分配。當你感覺到他們雙手都投入 kimura 抓握時，就該立刻 bridge，因為此時他們的支撐能力大幅下降。不過你必須先保護被鎖定的手臂——如果 kimura 已經鎖死，要先處理降伏防守，再嘗試任何 bridge escape。這個 bridge 時機正是利用抓握開始與降伏完成之間的空檔。",
+    "answer_line": "雙手都投入抓握時 bridge",
+    "distractors": {
+     "plausible": [
+      "抓握一開始就立刻 bridge",
+      "等 kimura 完全鎖死再 bridge"
+     ],
+     "trap": [
+      "不管手臂，立刻 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你爆發性地 bridge，但對方藉由擴大 base 吸收了力量——你接下來該立刻做什麼？",
+    "answer": "立刻轉換成朝 bridge 反方向的 hip escape。當對方擴大 base 來吸收 bridge 時，會在他們身體與你之間製造出可以被 hip escape 利用的空隙。關鍵是失敗的 bridge 之後不要停頓——趁對方還在適應你 bridge 的方向時，直接接續做 shrimp。這個從 bridge 接到 hip escape 的連續動作，正是 Reverse Scarf Hold 逃脫兩難系統的基礎——每一種方法都會為另一種創造條件。",
+    "answer_line": "朝 bridge 反方向做 hip escape",
+    "distractors": {
+     "plausible": [
+      "同方向再 bridge 一次",
+      "暫停，重新評估抓握"
+     ],
+     "trap": [
+      "把對方頭壓下去固定住"
+     ]
+    }
+   },
+   {
+    "question": "從 Reverse Scarf Hold 下位發動 bridge，什麼樣的腳部擺位能產生最大力量？",
+    "answer": "雙腳必須平貼地面，腳跟盡量拉近髖部，與肩同寬。這個姿勢能最大化髖伸肌群與臀部肌肉的力學優勢。雙腳應保持平行或稍微外轉以增加穩定性。腳離髖部太遠會降低 bridge 的高度與力量，而雙腳太靠近則會犧牲方向性角度所需的橫向穩定性。腳必須在 bridge 之前就先擺好——你無法在同時調整腳步的情況下產生有效的力量。",
+    "answer_line": "腳跟拉近髖部，與肩同寬",
+    "distractors": {
+     "plausible": [
+      "雙腳大開求穩定",
+      "雙腳遠離髖部，加長槓桿"
+     ],
+     "trap": [
+      "雙腳併攏，踮腳尖"
+     ]
+    }
+   },
+   {
+    "question": "成功的 bridge 創造出空間之後，最關鍵的後續動作是什麼？",
+    "answer": "最關鍵的後續動作是立刻在你的身體與對方軀幹之間插入膝蓋，這個動作必須在 bridge 到達頂點的當下就開始，而不是等 bridge 結束之後。bridge 創造出的空間大約只能維持一到兩秒，之後上位選手就會重新壓回重心。你的近側膝蓋必須插得夠深，形成一道結構性的屏障，讓小腿橫跨過對方身體。這個膝蓋插入是連接「逃脫創造空間」與「建立 half guard」之間的橋樑——沒有它，bridge 的力氣就完全白費了。",
+    "answer_line": "在 bridge 頂點插入膝蓋",
+    "distractors": {
+     "plausible": [
+      "bridge 穩定後再插膝蓋",
+      "先把對方的髖部推開"
+     ],
+     "trap": [
+      "放鬆讓空間關閉"
+     ]
+    }
+   },
+   {
+    "question": "你發動 bridge 的同時，對方開始轉換到 mount——你該如何調整？",
+    "answer": "如果你在 bridge 的過程中感覺到對方的腿開始跨過來，立刻放棄回復 guard 的計畫，專注於阻擋 mount 的完成。把近側手肘夾緊到對方跨過的那一側的髖部，形成對方的腿無法跨越的物理屏障。用剩餘的 bridge 力量把髖部轉離跨腿的方向。如果能夠阻止 mount 完成，你可能會落入 half guard，或有機會從已經被打亂的 Reverse Scarf Hold 位置重新嘗試逃脫。",
+    "answer_line": "手肘夾緊髖部，擋住跨腿",
+    "distractors": {
+     "plausible": [
+      "繼續 bridge 朝回復 guard 進行",
+      "抓對方的腿把它扯開"
+     ],
+     "trap": [
+      "把髖部轉向跨腿的方向"
+     ]
+    }
+   },
+   {
+    "question": "為什麼近側手臂必須在整個 bridge escape 過程中保持受保護？",
+    "answer": "近側手臂是從 Reverse Scarf Hold 上位最主要的降伏目標，容易遭受 americana、kimura 與直臂式 armbar 的攻擊。bridge 過程中，你的身體會產生明顯的動量，同時暫時降低你保護手臂的能力。如果近側手臂在 bridge 的瞬間暴露出來，上位選手就能在你逃脫的同時抓住它進行降伏抓握，把你逃脫用的力氣轉變成他們終結的槓桿。把手肘緊貼肋骨、手掌靠近對側肩膀，能消除這個弱點，同時仍能透過髖部驅動維持有效的 bridge 力學。",
+    "answer_line": "手肘貼肋骨，手掌上抬",
+    "distractors": {
+     "plausible": [
+      "手臂大開撐地求 base",
+      "伸手 frame 對方的髖部"
+     ],
+     "trap": [
+      "伸手到對側去抓握"
+     ]
+    }
+   },
+   {
+    "question": "你成功 bridge 並插入了膝蓋，但無法完全鎖住 half guard——還有哪些完成逃脫的替代方案？",
+    "answer": "如果無法建立完整的 half guard，還有幾種替代方案。第一，把插入的膝蓋當作 butterfly hook 使用，將腳掌放在對方大腿內側並上抬，為另一條腿創造更多介入空間。第二，把 knee shield 轉換成 open guard 的 frame，伸直腿的同時建立 collar 或 sleeve 的抓握，阻止對方重新貼近。第三，利用局部的空間執行 technical stand-up，撐開遠側手並向上站起。核心原則是絕不把 bridge 創造出的空間還給對方——用任何能建立起來的 guard 結構作為進一步改善的平台。",
+    "answer_line": "改用 butterfly hook 或 knee shield",
+    "distractors": {
+     "plausible": [
+      "硬拚 half guard，堅持鎖住",
+      "放棄膝蓋，重新趴平"
+     ],
+     "trap": [
+      "讓膝蓋滑出，重新攤平"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從 Reverse Scarf Hold 下位發動 bridge escape 時，最早出現的辨識徵兆是什麼？",
+    "answer": "最早的徵兆是腳部的重新擺位——你感覺到或看到對方把雙腳平貼移到地面上，腳跟拉近髖部。這讓他們從被動的平躺姿勢轉換成隨時可以 bridge 的預備姿勢。次要的徵兆包括在你的髖部或肩膀建立遠側 frame、深沉而受控的吸氣顯示即將發力，以及透過胸口接觸感覺到的細微核心緊繃。及早辨識這些徵兆，能讓你在爆發性 bridge 開始之前就先主動調整 base。",
+    "answer_line": "腳走平貼地，腳跟靠髖",
+    "distractors": {
+     "plausible": [
+      "只有深吸氣與核心繃緊",
+      "遠側 frame 最先出現"
+     ],
+     "trap": [
+      "等 bridge 發生了再說"
+     ]
+    }
+   },
+   {
+    "question": "對方朝你背部方向以 45 度角發動 bridge——你該立刻做出什麼樣的 base 調整？",
+    "answer": "立刻把遠側的腿朝他們 bridge 的方向進一步伸展，在那一側建立更寬的支撐 base。同時把你的髖部重量壓低到他們胸口上，並把髖部稍微轉向 bridge 的方向。如果 bridge 的力量強大到明顯移動了你的重心，就放棄硬撐維持 Reverse Scarf Hold，順著動量跨腿轉換到 mount。最糟糕的反應就是繃緊身體硬碰硬地對抗方向性的力量，這樣會陷入力學上處於劣勢的對抗，白白浪費你的體力。",
+    "answer_line": "遠側腿擴大，髖部下壓",
+    "distractors": {
+     "plausible": [
+      "雙腳直接往後 sprawl",
+      "撐手讓髖部浮起"
+     ],
+     "trap": [
+      "繃緊身體對抗力量"
+     ]
+    }
+   },
+   {
+    "question": "提前攻擊近側手臂，如何降低對方 bridge escape 嘗試的效果？",
+    "answer": "用 kimura 或 americana 攻擊近側手臂，會迫使對方把手臂防守放在逃脫準備之前。他們必須把手臂拉回防守位置，用遠側手來防禦降伏而不是建立 frame，並放棄腳步的重新擺位來應對眼前的威脅。這會重置他們逃脫準備的時間軸，並把體力消耗在防守而非進攻上。不過你必須在降伏嘗試期間維持 base——如果雙手都投入攻擊而沒有調整 base，就會創造出一個讓孤注一擲的 bridge 有機會成功的空檔。",
+    "answer_line": "逼對方防守而非逃脫",
+    "distractors": {
+     "plausible": [
+      "光是 kimura 抓握就能阻止 bridge",
+      "改攻擊遠側手臂"
+     ],
+     "trap": [
+      "雙手都投入，不管 base"
+     ]
+    }
+   },
+   {
+    "question": "對方發動強力的 bridge，明顯抬起了你的髖部——你該硬撐維持 Reverse Scarf Hold，還是轉換位置？",
+    "answer": "應該轉換而不是硬撐。當 bridge 產生的力量足以明顯移動你的髖部時，試圖重新壓回 Reverse Scarf Hold 會陷入耗費體力、結果不確定的纏鬥。此時應該利用對方向上的動量，把你的遠側腿跨過他們身體轉換到 mount，把對方逃脫的力氣轉化成你在位置上的推進。這種戰術判斷力——知道何時該堅守、何時該轉換——正是有效運用 Reverse Scarf Hold 的選手，與那些浪費體力硬撐特定配置的選手之間的差別。",
+    "answer_line": "轉換位置，跨腿到 mount",
+    "distractors": {
+     "plausible": [
+      "硬撐重新壓回 scarf hold",
+      "用力把重心 sprawl 壓下"
+     ],
+     "trap": [
+      "放開控制，完全脫離"
+     ]
+    }
+   },
+   {
+    "question": "防守方在面對 Reverse Scarf Hold 的 bridge escape 嘗試時，最常犯的錯誤是什麼？",
+    "answer": "最常見的錯誤是維持過窄的 base，讓方向性的 bridge 變得非常有效。許多練習者在 Reverse Scarf Hold 中會把雙腿靠得很近，或雙膝緊密併攏，雖然這樣能提供極佳的壓力，但對於角度性的 bridge 抵抗力很差。當對方朝防守方背部方向以 45 度角 bridge 時，過窄的 base 無法吸收方向性的力量，導致重心被移位、空間被創造出來。改正方式是維持寬闊、張開的 base，雙腿以一定角度伸展，犧牲一些壓縮力來換取明顯提升的 bridge 抵抗力。",
+    "answer_line": "base 太窄，難擋角度 bridge",
+    "distractors": {
+     "plausible": [
+      "向前的壓力太多",
+      "遠側抓握太鬆"
+     ],
+     "trap": [
+      "壓緊併膝"
+     ]
+    }
+   }
+  ]
+ }
+}

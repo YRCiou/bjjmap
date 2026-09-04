@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼時候你應該決定放棄 Z-Lock、逃向標準 Half Guard，而不是繼續在惡化的位置裡硬拚？",
+    "answer": "當兩次以上的 sweep 嘗試都被上位選手的防守擋下時、當上位選手已經建立起無法破解的 crossface、讓你完全沒有進攻角度時、當你的 butterfly hook 被系統性地化解、無法再威脅抬升時，或是當你感覺自己的體力消耗超過進攻產出時，就該放棄 Z-Lock。關鍵指標是：維持 Z-Lock 已經變成純防守，完全沒有實際可行的進攻路徑了。",
+    "answer_line": "2次以上sweep失敗，沒進攻可打",
+    "distractors": {
+     "plausible": [
+      "只有在體力完全耗盡時",
+      "crossface一出現就立刻"
+     ],
+     "trap": [
+      "絕不放棄，硬拚sweep"
+     ]
+    }
+   },
+   {
+    "question": "逃脫過程中你應該先放開哪一條腿？為什麼這個順序至關重要？",
+    "answer": "在大多數情況下，先放開 butterfly hook（外側那條腿），同時維持在被纏住那條腿上的 lockdown。lockdown 提供了主要的機械連結，防止上位選手立刻推進。同時放開兩者，會製造出一個完全沒有腿部控制的空窗，讓上位選手可以自由過guard。lockdown 把他們固定住，同時你重新擺放外側腿，然後只有在你的雙腿準備好收進標準 half guard 纏鎖之後，才放開 lockdown。",
+    "answer_line": "先放外側hook，保留lockdown",
+    "distractors": {
+     "plausible": [
+      "先放開lockdown那條腿",
+      "先放開內側被纏的腿"
+     ],
+     "trap": [
+      "兩個hook同時放開"
+     ]
+    }
+   },
+   {
+    "question": "你開始放開 butterfly hook 的那一刻，對手立刻加大 crossface 的壓力——你要如何調整？",
+    "answer": "如果逃脫過程中 crossface 壓力加劇，你內側前臂在對方肩膀上的 frame 就變得至關重要。把 frame 頂進他們的肩膀去製造空間，同時收緊下巴，防止 crossface 把你壓平。如果當下壓力大到難以承受，就放棄標準 half guard 的恢復方式，改成鑽到他們下方進入 deep half guard，利用他們向前的壓力反過來對付他們。deep half 這個緊急備案，能把他們的進攻壓力轉換成你的優勢。",
+    "answer_line": "frame肩膀，收緊下巴",
+    "distractors": {
+     "plausible": [
+      "用力頂着壓力bridge",
+      "手撐髖部推開"
+     ],
+     "trap": [
+      "翻成趴姿逃出去"
+     ]
+    }
+   },
+   {
+    "question": "在轉換過程中的 hip escape 環節裡，最關鍵的力學細節是什麼？",
+    "answer": "hip escape 必須讓你的髖部至少移動離開上位選手的髖部15公分以上，同時維持你在他們被纏那條腿上的 lockdown 連結。方向應該朝你 underhook 的那一側，製造出一個角度，讓你側身而不是平躺在背上。常見的錯誤是做了一個又小又沒效果的 hip escape，無法製造出有意義的空間或角度。用你自由的那隻腳蹬地，用爆發性的髖部動作,產生建立正確標準 half guard 結構所需要的距離。",
+    "answer_line": "髖部移出15公分以上，保留lockdown",
+    "distractors": {
+     "plausible": [
+      "朝你自由腳那一側逃",
+      "小幅度hip escape，保持平躺"
+     ],
+     "trap": [
+      "放掉lockdown來換取距離"
+     ]
+    }
+   },
+   {
+    "question": "到達標準 Half Guard 的當下，你必須立刻建立什麼抓握，才能防止上位選手利用這次轉換獲利？",
+    "answer": "第一優先是被纏那條腿一側的 underhook，深深伸向他們的遠側髖部或腰帶位置。單單這一個抓握，就能把被動的 half guard 轉變成能發動 sweep 和搶背的進攻平台。如果因為上位選手的 crossface 而拿不到 underhook，就用外側小腿橫貼他們的髖部和肩膀，建立起強力的 knee shield，製造距離和 frame，防止他們重新建立胸貼胸的壓力。這兩個抓握，都必須在完成腿部重新配置後的一秒內確立。",
+    "answer_line": "深深underhook被纏那側腿",
+    "distractors": {
+     "plausible": [
+      "先在遠側做overhook",
+      "先做collar tie再找underhook"
+     ],
+     "trap": [
+      "推開對方髖部後脫離接觸"
+     ]
+    }
+   },
+   {
+    "question": "你放開 butterfly hook 的同時，對手發動了 knee slice 過guard——什麼立即反應能阻止這次過guard？",
+    "answer": "用你剛剛獲得自由的外側腿，在對方的膝蓋切過你髖線之前，立刻建立 knee shield 擋住。你維持在他們被纏那條腿上的 lockdown，能阻止他們快速完成這個切腿動作，幫你爭取時間擺好 knee shield。用你內側手臂在他們 crossface 那側的肩膀上做 frame，防止他們向前推進。如果 knee shield 及時擋住了他們的膝蓋，你就能把這次切腿導開，並用已經就位的 knee shield 作為主要防禦結構,恢復到標準 half guard。",
+    "answer_line": "用剛獲自由的外腿做knee shield",
+    "distractors": {
+     "plausible": [
+      "趕快重新鎖回butterfly hook",
+      "用力bridge把膝蓋頂開"
+     ],
+     "trap": [
+      "放開lockdown去重新做frame"
+     ]
+    }
+   },
+   {
+    "question": "維持 Z-Lock 和逃向標準 Half Guard 之間，出力方向有什麼不同？",
+    "answer": "在 Z-Lock 裡，你的力量向量主要是旋轉性的——lockdown 拉住對方的腿，同時 butterfly hook 抬升製造 sweep 所需的扭力。逃脫過程中，你的力量向量轉為線性——你朝遠離上位選手的方向 shrimp 來製造空間，同時你的 frame 把他們往前推開。到達標準 half guard 之後，力量向量會變成對角線，因為你要調整身體角度，準備 underhook sweep 或搶背。理解這個轉換,能幫助你避免一個常見錯誤——在逃脫過程中就想著sweep,而不是全力投入位置的恢復。",
+    "answer_line": "旋轉式sweep vs線性shrimp",
+    "distractors": {
+     "plausible": [
+      "兩個階段用的向量完全一樣",
+      "Z-Lock是線性、逃脫是旋轉"
+     ],
+     "trap": [
+      "還在逃脫時就想著sweep"
+     ]
+    }
+   },
+   {
+    "question": "如果你逃向標準 Half Guard 被擋住、無法解開 Z-Lock，你應該追求什麼替代的連續動作？",
+    "answer": "如果標準逃脫被擋住，重新評估 Z-Lock 是否真的需要放棄，還是上位選手的反制動作其實已經創造出新的進攻機會。他們阻止你逃脫的努力，可能已經讓他們的重心偏移，或打開了某些抓握。如果 Z-Lock 依然沒有進展，嘗試 deep half 緊急備案，鑽到下方而不是在同一層級恢復。如果 deep half 也被擋住，考慮爆發性 bridge 製造一個混戰局面——有時候透過動作重置位置，比一個受控的技術性轉換更有效。",
+    "answer_line": "重新評估，再選deep half或bridge",
+    "distractors": {
+     "plausible": [
+      "反覆硬拚同一個逃脫動作",
+      "立刻放棄所有抓握"
+     ],
+     "trap": [
+      "放開lockdown重置位置"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早能透過觸感察覺下位選手正開始逃脫他們的 Z-Lock 配置的訊號是什麼？",
+    "answer": "最早的訊號是 butterfly hook 在你自由那條腿上的抬升壓力減弱。butterfly hook 通常是逃脫過程中最先被放開的控制，因為下位選手需要先重新擺放那條腿。你也可能會感覺到他們的髖部角度出現細微轉變、正準備 shrimp，以及他們在你肩膀上的前臂 frame 壓力增加，作為防守保險。及早辨識出這些訊號,能給你一到兩秒的窗口,在逃脫發展到無法挽回之前先做出反應。",
+    "answer_line": "butterfly hook壓力減弱",
+    "distractors": {
+     "plausible": [
+      "髖部角度轉向shrimp",
+      "前臂frame壓上你的肩膀"
+     ],
+     "trap": [
+      "自由腳擺出去要sweep"
+     ]
+    }
+   },
+   {
+    "question": "下位選手成功放開了 butterfly hook，但你的腿上仍然被 lockdown 纏著——你最理想的回應是什麼？",
+    "answer": "這是關鍵的轉換窗口。立刻把你自由的膝蓋透過原本 butterfly hook 所在的空間往前推進，目標是在他們建立 knee shield 或收成標準 half guard 之前，切過他們的髖部。同時加大 crossface 壓力，防止他們 shrimp 逃開。lockdown 會拖慢但不會完全阻止你膝蓋的推進。如果你能在他們放開 lockdown 之前,讓膝蓋越過他們的髖線,不論他們之後如何處理那條 lockdown 的腿,你都已經取得主導性的過guard位置。",
+    "answer_line": "把自由的膝蓋推過空隙",
+    "distractors": {
+     "plausible": [
+      "先解開自己的腿再過guard",
+      "先做crossface再推進"
+     ],
+     "trap": [
+      "站起來解開lockdown"
+     ]
+    }
+   },
+   {
+    "question": "如果下位選手成功恢復標準 Half Guard、並拿到 underhook，你應該如何調整策略？",
+    "answer": "如果逃脫成功，他們拿著 underhook 建立起標準 half guard，不要浪費體力硬要把他們逼回 Z-Lock。相反地，立刻轉向你標準的 half guard 過guard打法。用 whizzer 或 crossface 爭奪 underhook，在他們被纏的腿上建立沉重的髖部壓力，並開始你的主要過guard動作序列（knee slice、smash pass 或 backstep）。下位選手已經改變了局面——辨識出這個新位置,並套用正確的策略,而不是為失去的 Z-Lock 控制感到惋惜。",
+    "answer_line": "爭奪underhook，過half guard",
+    "distractors": {
+     "plausible": [
+      "硬拚要重新回到舊的Z-Lock",
+      "拖延到他們失去underhook"
+     ],
+     "trap": [
+      "放棄壓力去重置位置"
+     ]
+    }
+   },
+   {
+    "question": "當下位選手開始逃脫時，為什麼有條理的推進比爆發性反應更有效？",
+    "answer": "在位置轉換過程中做出爆發性反應，往往會讓上位選手失去base、重心過度偏移，正好製造出下位選手需要的混戰機會。有條理的推進能維持持續的壓力，保護你的base不被 sweep 反制，並有系統地封閉下位選手試圖利用的轉換窗口。下位選手在重新配置的過程中已經處於脆弱狀態——你不需要冒險，因為受控的壓力推進能用小得多的逆轉風險,達成同樣的結果。",
+    "answer_line": "保護base，避免混戰風險",
+    "distractors": {
+     "plausible": [
+      "爆發性突進永遠收得更快",
+      "反應更能跟上他們的節奏"
+     ],
+     "trap": [
+      "爆發突進去悶住逃脫"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Escape Z-Lock Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

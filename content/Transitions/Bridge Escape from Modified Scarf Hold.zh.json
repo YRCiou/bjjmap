@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Modified Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Modified Scarf Hold 發動 bridge escape 的最佳時機是什麼？",
+    "answer": "最佳時機是上位選手的重心開始轉移的時候，這通常發生在他們調整抓握、設置降伏技、調整頭部位置，或準備轉換位置時。若在對方重心完全穩定時才 bridge，成功率會大幅降低。感受他們胸口壓力減輕或髖部微微抬起的瞬間，然後立刻投入方向性的 bridge，趁對方還來不及重新穩定之前完成。",
+    "answer_line": "對方重心轉移的瞬間",
+    "distractors": {
+     "plausible": [
+      "對方完全穩定之後",
+      "剛壓制成功之後馬上"
+     ],
+     "trap": [
+      "持續頻繁地 bridge"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 Modified Scarf Hold 要朝特定方向 bridge，而不是直直往上？",
+    "answer": "直直往上 bridge 會讓對方輕易地擴大他們的 base，吸收掉垂直方向的力量，然後直接又壓回原本的位置。以 45 度角朝對方頭部方向做方向性的 bridge，可以針對他們結構最弱、支撐最少的角度。這種方向性的力量會把對方的重心橫向移位，而不只是把它抬起來，這樣才能真正創造出足夠的空間來做髖部旋轉與膝蓋插入。",
+    "answer_line": "力量朝對方頭部方向施加",
+    "distractors": {
+     "plausible": [
+      "直直往上，對方只會擴大 base",
+      "任何方向都能破壞對方的 base"
+     ],
+     "trap": [
+      "朝對方頭部的反方向 bridge"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 bridge escape 之前與過程中，你的自由手應該做什麼？",
+    "answer": "在 bridge 之前，自由手要用前臂在對方的髖部或肩膀建立一個 frame，形成一道結構性的屏障，阻止對方繼續向前壓進。在 bridge 進行的過程中，這個 frame 能放大方向性的力量，並且防止對方在 bridge 到達頂點時直接把胸口壓回你身上。絕對不要用自由手直直往上推對方的胸口，這樣會製造出 arm triangle 和 kimura 的破綻。",
+    "answer_line": "用前臂 frame 對方的髖部或肩膀",
+    "distractors": {
+     "plausible": [
+      "用力抓緊對方遠側的領口",
+      "從對方近側手臂下方勾住"
+     ],
+     "trap": [
+      "直直往上推對方的胸口"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 創造出約 15 公分的空間，但對方立刻向前壓回重新穩定——問題出在哪裡？",
+    "answer": "最可能的錯誤是沒有在 bridge 到達頂點後立刻旋轉髖部。創造出空間卻沒有改變角度，會讓對方輕易地向前壓回同樣的胸對胸位置。髖部旋轉必須在 bridge 開始下降之前就啟動，改變雙方的相對角度，讓對方無法直接重新套用同樣的壓力方向。此外，frame 手臂可能也沒有正確擺位來擋住對方向前的驅力。",
+    "answer_line": "髖部沒有及時旋轉",
+    "distractors": {
+     "plausible": [
+      "bridge 爆發力不夠",
+      "創造的空間太小"
+     ],
+     "trap": [
+      "先等更大的空間再行動"
+     ]
+    }
+   },
+   {
+    "question": "當對方在你 bridge 的過程中跨腿準備轉換到 mount 時，你該如何調整逃脫方式？",
+    "answer": "一旦你感覺到對方的膝蓋開始抬起準備跨腿，立刻放棄回復 guard 的嘗試，把你近側的膝蓋迅速穿越擋在對方的路徑上，阻止 mount 的轉換。如果跨腿動作已經進行得太快來不及阻擋，就立刻切換到 mount 的逃脫程序，而不要試圖回到 scarf hold 的防守。預防勝於治療——一個正確朝對方頭部方向施力的 bridge，本身就會破壞對方轉換所需的平衡，讓跨腿更難執行。",
+    "answer_line": "伸膝穿越擋住對方",
+    "distractors": {
+     "plausible": [
+      "繼續推進爭取完整 guard",
+      "立刻抓對方遠側的腿"
+     ],
+     "trap": [
+      "放鬆讓對方穩定下來"
+     ]
+    }
+   },
+   {
+    "question": "從 Modified Scarf Hold 做的 bridge escape，跟從一般 mount 做的 bridge escape，關鍵差異是什麼？",
+    "answer": "從 mount 逃脫時，upa 的目標是透過困住對方單側的手臂與腿，把對方整個翻滾過去，追求完全的逆轉。從 Modified Scarf Hold 逃脫時，bridge 主要是為了創造空間以回復 half guard，而不是完全逆轉。scarf hold 的結構讓完全逆轉變得困難，因為對方的身體是側身貼靠著你，而不是直接壓在你正上方。bridge 的方向、髖部旋轉的力學，以及後續動作都完全不同。",
+    "answer_line": "創造空間，而非完全逆轉",
+    "distractors": {
+     "plausible": [
+      "套用同樣的 upa 力學",
+      "scarf 的 bridge 總是比較快"
+     ],
+     "trap": [
+      "試圖把對方整個翻滾過去"
+     ]
+    }
+   },
+   {
+    "question": "你第一次的 bridge 嘗試失敗了，對方也收緊了控制——接下來你該採取什麼順序？",
+    "answer": "絕對不要重複同樣失敗的 bridge 模式。bridge 失敗後，立刻轉換到另一種逃脫方式：趁對方還在恢復 base 時，用 frame 手臂做橫向的 hip escape；利用任何殘留的空間嘗試轉為 turtle；或者建立一連串 frame 逐步累積空間，做 shrimp escape。即使 bridge 沒有完全成功，它可能已經創造出些微的位置優勢，所以要善用它帶來的任何角度變化，而不是重新歸零。",
+    "answer_line": "改用新的逃脫方式",
+    "distractors": {
+     "plausible": [
+      "再次 bridge，這次更用力",
+      "等待並重新歸零"
+     ],
+     "trap": [
+      "重複同樣的 bridge 模式"
+     ]
+    }
+   },
+   {
+    "question": "面對經驗豐富的對手，你要如何避免讓 bridge escape 的意圖被提前識破？",
+    "answer": "有經驗的對手會留意腳跟的位置、核心的緊繃程度，以及呼吸的變化，這些都是即將發動 bridge 的訊號。要對抗這一點，把腳部的調整動作分散在整個過程中逐步進行，而不是一次突然完成。在發動的那一刻之前都要維持平穩的呼吸節奏。可以用一些細微的預備動作，例如小幅度的髖部移動，來掩飾腳部擺位的意圖。也可以考慮用調整 frame 或抓握的動作作為干擾，藉此掩蓋 bridge 所需的腳部擺位。",
+    "answer_line": "漸進調整腳步，不要突然",
+    "distractors": {
+     "plausible": [
+      "憋氣直到爆發",
+      "一口氣快速擺好腳步"
+     ],
+     "trap": [
+      "提早繃緊核心做準備"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從 Modified Scarf Hold 發動 bridge escape 時，最早出現的徵兆是什麼？",
+    "answer": "最早的徵兆是腳部的重新擺位——下位選手把腳跟拉近臀部，腳掌平貼在地上。這是任何有效 bridge 的力學前提，通常會比核心緊繃或呼吸變化更早出現。透過餘光觀察腳部位置，或透過自己的 base 感受地面的震動，都能讓你提前做出反制調整。",
+    "answer_line": "腳跟拉近，腳掌平貼地面",
+    "distractors": {
+     "plausible": [
+      "呼吸突然出現變化",
+      "核心明顯繃緊"
+     ],
+     "trap": [
+      "等到 bridge 發動了再說"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到對手開始爆發性地 bridge 時，你該如何調整自己的 base？",
+    "answer": "立刻把髖部向後向下 sprawl，同時把胸口以向下的角度往前壓進對方的胸骨。維持在腳尖上而不是完全放平，因為動態的壓力遠比靜態的重量更能有效吸收方向性的 bridge。sprawl 能對抗向上的力量，而向前壓胸則能對抗 bridge 的方向性分量。",
+    "answer_line": "sprawl 髖部，胸口向前壓",
+    "distractors": {
+     "plausible": [
+      "放平重心加壓",
+      "撐手等待它過去"
+     ],
+     "trap": [
+      "站起來完全後退"
+     ]
+    }
+   },
+   {
+    "question": "對手朝你頭部方向強力 bridge，並創造出明顯的空間——你要如何把這個情況轉換成 mount？",
+    "answer": "順著 bridge 的動量走，而不是硬碰硬對抗。當對方的髖部抬起、你的胸口被抬離時，立刻把你遠側的膝蓋跨過對方身體的另一側，利用他們自己逃脫嘗試所創造出的空間來完成 mount 轉換。在完成跨腿的同時把髖部向下壓進對方的腹部，在對方反應過來之前就用 grapevines 建立起 low mount。",
+    "answer_line": "遠側膝蓋跨過，髖部下壓",
+    "distractors": {
+     "plausible": [
+      "對抗 bridge 並重新穩定",
+      "改抓一條腿做腿鎖"
+     ],
+     "trap": [
+      "坐回去拉 guard"
+     ]
+    }
+   },
+   {
+    "question": "防守方向性 bridge 跟防守直直往上的 bridge，關鍵差異是什麼？",
+    "answer": "直直往上的 bridge 只要維持穩定的重量並擴大 base 就能吸收掉。方向性的 bridge 則需要主動的反向動作，因為橫向的力量分量會把你的重心推向一側。面對方向性的 bridge，你必須朝 bridge 力量的反方向 sprawl，同時施加胸口的壓力。沒有對抗方向性分量，正是資深上位選手的 bridge 常常成功的主要原因。",
+    "answer_line": "必須朝力量的反方向 sprawl",
+    "distractors": {
+     "plausible": [
+      "只是加更多向下的重量",
+      "撐手等它過去"
+     ],
+     "trap": [
+      "順著對方 bridge 的方向走"
+     ]
+    }
+   }
+  ]
+ }
+}

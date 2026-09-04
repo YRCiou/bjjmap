@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Gift Wrap to Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 Gift Wrap to Back 轉換的最佳時機窗口是什麼？",
+    "answer": "最佳時機是對手轉身避開你、防禦手臂進攻時,通常是躲避從 S Mount 發動的 armbar 威脅。他們朝被困手臂旋轉的動作,正好同時創造出 Gift Wrap 所需的動量與手臂擺位。若在他們正面對著你時嘗試,就必須逆著阻力硬把手臂拉過去,成功率會大幅下降,也有失去 S Mount 的風險。",
+    "answer_line": "當他們轉身躲 armbar 時",
+    "distractors": {
+     "plausible": [
+      "剛建立 S Mount 之後立刻做",
+      "他們挺身準備逃脫時"
+     ],
+     "trap": [
+      "用蠻力把手臂拉過去"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試這個轉換之前,必須具備哪些進入條件？",
+    "answer": "你需要已建立且具支配性的 S Mount 或 high mount、對手的近側手臂被孤立或可供橫過身體纏繞,以及對手正在轉身避開你,無論是為了保護手臂或躲避進攻威脅。你的胸口與髖部必須就位以跟隨他們的旋轉,你的遠側手也必須空出來,能伸到他們頸部下方完成握法。",
+    "answer_line": "S Mount + 孤立手臂 + 轉身",
+    "distractors": {
+     "plausible": [
+      "任何有手臂在附近的 mount",
+      "背後控制加上近側手臂空出"
+     ],
+     "trap": [
+      "站在對手 guard 上方"
+     ]
+    }
+   },
+   {
+    "question": "在旋轉階段,最關鍵的機械細節是什麼？",
+    "answer": "在整個旋轉過程中維持髖部與對手身體持續接觸,是唯一最關鍵的機械細節。你的髖部必須緊貼他們的肩膀與上背部,同時繞著他們的頭部移動。你的髖部與對手身體之間出現任何空隙,都會讓他們得以髖部逃脫、轉身面向你,或製造出足夠的距離恢復 half guard。髖部連接正是讓這個旋轉具有控制力,而不只是單純移動的關鍵。",
+    "answer_line": "髖部緊貼對手身體",
+    "distractors": {
+     "plausible": [
+      "持續對手臂施加胸口壓力",
+      "全程控制對手的頭"
+     ],
+     "trap": [
+      "放開髖部以求更快繞行"
+     ]
+    }
+   },
+   {
+    "question": "導致這個技巧失敗最常見的兩個失敗點是什麼？",
+    "answer": "第一個是在對手轉身之前就嘗試 Gift Wrap,逆著阻力硬把手臂拉過中線,而不是利用他們防禦性的旋轉。第二個是在旋轉階段放鬆對被纏繞手臂的胸口壓力,這會讓對手抽出手臂,轉身面向你或開始逃脫序列。這兩個錯誤都源自於操之過急,而不是讓對手的反應自然創造出機會。",
+    "answer_line": "太早硬拉、失去胸口壓力",
+    "distractors": {
+     "plausible": [
+      "握法順序錯誤、旋轉太慢",
+      "角度不對、underhook 太弱"
+     ],
+     "trap": [
+      "進攻等太久"
+     ]
+    }
+   },
+   {
+    "question": "Gift Wrap 的具體握法配置是什麼,又是如何建立的？",
+    "answer": "Gift Wrap 需要你的遠側手從對側伸到對手頸部下方抓住他們的手腕,同時他們的手臂已經被送過身體朝向對側肩膀。你的近側手一開始控制他們的手腕、把手臂送過去,接著遠側手從下方連接完成握法。結果是你的手臂繞過他們的頭,同時控制被困的手腕貼緊他們的頸部,形成一個把他們的臉推離你的環圈。",
+    "answer_line": "遠側手在頸下抓手腕",
+    "distractors": {
+     "plausible": [
+      "近側手在頸下抓手腕",
+      "雙手一起把手臂送過身體"
+     ],
+     "trap": [
+      "underhook 遠側手臂,不管手腕"
+     ]
+    }
+   },
+   {
+    "question": "在送手臂的階段,施力方向應該朝哪裡？",
+    "answer": "施力方向應該斜向穿過對手的中線,把他們的手腕從近側推向遠側肩膀。這不是單純的直推,而是斜向送出並結合向下的胸口壓力,把手臂壓在他們身上。這個方向至關重要,因為它符合你遠側手需要在他們頸部下方連接的自然弧線。若沒有這個斜向角度、只是直接橫推,握法連接會困難許多。",
+    "answer_line": "斜向送往遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "直接橫推過胸口",
+      "把手腕直直往上拉"
+     ],
+     "trap": [
+      "把手臂直直往後扯"
+     ]
+    }
+   },
+   {
+    "question": "對手把手肘夾得非常緊,拒絕讓手臂越過中線,你該如何調整？",
+    "answer": "夾緊手肘的防禦其實正好創造出完美的 armbar 進入,而不是有利於 Gift Wrap。改攻 armbar,因為他們彎曲的手臂已經在 S Mount 中被你的雙腿孤立住了。他們對抗 Gift Wrap 的防禦姿勢,正好就是 armbar 成功所需的手臂配置。這正是核心的兩難:防守一種進攻就會打開另一種進攻。順著對手給你的機會走,而不是硬逼 Gift Wrap。",
+    "answer_line": "改攻 armbar",
+    "distractors": {
+     "plausible": [
+      "硬是逼出 Gift Wrap",
+      "放棄 S Mount 重新開始"
+     ],
+     "trap": [
+      "放開手臂重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "你開始繞過對手頭部旋轉時,對手把遠側手臂 post 出去,這創造出什麼選項？",
+    "answer": "他們 post 出去的手臂現在是伸展開且脆弱的。你可以用空手在他們 post 的手腕上抓住 kimura 握法,暫時放棄旋轉去進攻暴露出來的手臂。另一個做法是繼續旋轉,在你越過那隻手臂時用腿把它困住,轉換到 mounted crucifix 而不是標準的背後控制。Post 出去的手臂是一個防禦失誤,會打開多條進攻路徑。",
+    "answer_line": "進攻 kimura 或困住轉 crucifix",
+    "distractors": {
+     "plausible": [
+      "忽略它,趕快搶 seatbelt",
+      "立刻轉攻 armbar"
+     ],
+     "trap": [
+      "放開 Gift Wrap 去抓 post"
+     ]
+    }
+   },
+   {
+    "question": "從 Gift Wrap 握法轉換到 seatbelt 的過程中,如何維持連續的控制？",
+    "answer": "這個轉換必須重疊——你的空手要先在對手遠側建立 seatbelt underhook,再用另一隻手放開 Gift Wrap 握法。在整個旋轉過程中持續用胸口壓住他們被纏繞的手臂,作為第二層控制。絕對不能有任何一個瞬間是 Gift Wrap 與 seatbelt 都沒有控制住對手上半身。如果你在固定 seatbelt 之前就放開 Gift Wrap,對手能趁著控制空隙轉身逃脫。",
+    "answer_line": "先固定 seatbelt 再放手",
+    "distractors": {
+     "plausible": [
+      "先放開 Gift Wrap 再抓 seatbelt",
+      "盡快切換握法"
+     ],
+     "trap": [
+      "提早放手以節省體力"
+     ]
+    }
+   },
+   {
+    "question": "如果 take the back 被擋下、你無法完成旋轉,有哪些連鎖進攻可用？",
+    "answer": "如果對手轉身面向你以阻止暴露背部,跟隨他們的旋轉、維持 Gift Wrap 完整地保持 mount,並從新的角度重新嘗試。如果他們用遠側手臂 post,進攻 kimura 或轉換到 crucifix。如果他們 bridge 製造出空間,放棄 Gift Wrap,改為固定 side control 或重置回 mount。Gift Wrap 的控制在大多數防禦反應下都能維持,所以你能在握法真正被破解之前串連多次嘗試。",
+    "answer_line": "順勢應變:kimura/mount/side",
+    "distractors": {
+     "plausible": [
+      "永遠以 armbar 收尾",
+      "重置到 guard 重新開始"
+     ],
+     "trap": [
+      "逆著阻力硬旋轉"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺對手正在嘗試 Gift Wrap to Back 的最早跡象是什麼？",
+    "answer": "最早的跡象是感覺到對手的近側手控制住你的手腕,並開始把你的手臂推過身體朝向對側肩膀。這個送手臂的動作是整個技巧的起始動作。立刻察覺這個壓力並反應——夾緊手肘、收回手臂——是整個序列中成功率最高的防禦時機。",
+    "answer_line": "感覺手腕被推過身體",
+    "distractors": {
+     "plausible": [
+      "感覺髖部貼緊你的背",
+      "感覺遠側手伸到頸下"
+     ],
+     "trap": [
+      "等完全被 mount 住再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 S Mount 下感覺到手臂壓力時,轉身避開對手是最糟的防禦反應？",
+    "answer": "轉身避開正是 Gift Wrap 技巧所需要的反應。它會同時把你的手臂送過中線(完成 Gift Wrap 一半的鋪陳)並暴露出你的背部(滿足 take the back 所需的位置條件)。對手故意製造手臂威脅的壓力,正是為了引誘出這個轉身反應。反過來面對對手則能同時否定這兩個條件。",
+    "answer_line": "同時送手臂又暴露背部",
+    "distractors": {
+     "plausible": [
+      "能緩解手肘的壓力",
+      "能製造逃脫的空間"
+     ],
+     "trap": [
+      "快速轉身以搶在旋轉之前"
+     ]
+    }
+   },
+   {
+    "question": "Gift Wrap 創造出什麼防禦兩難,你應該如何排定反應的優先順序？",
+    "answer": "這個兩難在於:緊緊防守手臂(夾緊手肘)會創造出 armbar 的脆弱性,而讓手臂越過身體以避開 armbar 又會讓 Gift Wrap 與 take the back 成立。優先順序應該是夾緊手肘以防止 Gift Wrap,因為停留在 S Mount 下位、面對 armbar 威脅,遠比讓出背後控制要好得多。讓手臂越過身體等於是拿一個壞位置去換一個更差的位置。",
+    "answer_line": "夾緊手肘,承擔 armbar 風險",
+    "distractors": {
+     "plausible": [
+      "放手臂過去以保護手肘",
+      "同時兼顧兩種威脅"
+     ],
+     "trap": [
+      "完全放鬆手肘以求逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手已經固定住 Gift Wrap,並開始繞著你的頭旋轉,你最好的防守選項是什麼？",
+    "answer": "把你的遠側手臂 post 在地面上,並用肩膀擋住他們的路徑,阻止他們的旋轉,防止他們越過你的肩膀。同時朝他們的腿部方向髖部逃脫以拉開距離。如果你能拖延旋轉夠久,對手可能需要重置或改變進攻方式。接受在這個階段剝開握法幾乎不可能,把注意力放在位置防禦上,能給你最大的恢復機會。",
+    "answer_line": "遠側手 post,朝腿部逃脫",
+    "distractors": {
+     "plausible": [
+      "用空手剝開握法",
+      "反覆直直向上 bridge"
+     ],
+     "trap": [
+      "順著旋轉方向繼續轉"
+     ]
+    }
+   },
+   {
+    "question": "在 Gift Wrap to Back 的轉換過程中,如何恢復 half guard？",
+    "answer": "把你的 bridge 與髖部逃脫的時機,對準對手旋轉、他們的髖部短暫離開你身體、繞過你頭部的那一刻。爆發性地 bridge,同時朝他們的腿部方向髖部逃脫,接著把你上方的膝蓋插入雙方身體之間,建立 half guard 纏鬥。關鍵在於朝他們腿部方向的逃脫要結合 bridge,而不是單純向上 bridge。",
+    "answer_line": "Bridge、髖部逃脫、插膝",
+    "distractors": {
+     "plausible": [
+      "只單純向上 bridge",
+      "朝遠離他們腿部的方向逃脫"
+     ],
+     "trap": [
+      "把他們的髖部往下壓並拖延"
+     ]
+    }
+   }
+  ]
+ }
+}

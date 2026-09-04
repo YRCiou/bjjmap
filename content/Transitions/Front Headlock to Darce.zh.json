@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在嘗試繞到 Darce 收招位置之前，最關鍵要先建立的控制點是什麼？",
+    "answer": "近側髖部控制是繞動之前最關鍵要建立的控制點。如果沒有控制住對手的近側髖部，他們就能在你建立收招位置之前，用 granby roll 或其他防禦性翻滾逃脫。髖部控制應該在鎖上 figure-four 手臂配置後立刻建立。把它想成是整個繞動階段的關卡。",
+    "answer_line": "近側髖部控制",
+    "distractors": {
+     "plausible": ["鎖上 figure-four grip", "控制對手的頭部"],
+     "trap": ["立刻開始繞動"]
+    }
+   },
+   {
+    "question": "你正壓制著 front headlock 時，對手開始朝你纏勒手臂的反方向繞動——你該如何利用這個動作？",
+    "answer": "對手朝你纏勒手臂的反方向繞動，正是進入 Darce 的理想觸發時機。他們繞動時，遠側手臂會自然打開，創造出你需要用來穿入 underhook 的空隙。跟隨他們的動作，趁他們移動時把你空出的手臂穿入他們遠側腋下。他們自己的防禦性動作，其實正好幫助了你架設 submission。關鍵是讓 underhook 的穿入時機配合他們的繞動，而不是對抗一個靜止不動的姿勢。",
+    "answer_line": "跟隨動作，穿入 underhook",
+    "distractors": {
+     "plausible": ["對抗對手的繞動", "等對手停止移動"],
+     "trap": ["放開 headlock 重新來過"]
+    }
+   },
+   {
+    "question": "從 front headlock 轉換到 Darce 收招位置時，應該朝哪個方向繞動？",
+    "answer": "你應該永遠朝纏勒那一側繞動——也就是你纏繞對手頸部那隻手臂的同一側。這會讓你的身體與對手呈垂直角度，自然收緊 choke 的結構。朝纏勒側的反方向繞動，會形成錯誤的角度，讓 choke 無法有效收招。想像成你正帶著胸口走向對手的遠側髖部。",
+    "answer_line": "朝纏勒那一側繞動",
+    "distractors": {
+     "plausible": ["直接往後繞", "朝對手的腿那側繞"],
+     "trap": ["往反方向繞，暴露自己的背部"]
+    }
+   },
+   {
+    "question": "如果你嘗試繞動時，對手成功抓住你的腿並向前貫穿，正確的應對方式是什麼？",
+    "answer": "如果對手抓住你的腿並向前貫穿，改打 anaconda choke 或 guillotine，而不是硬要完成 Darce。調整手臂位置改打 anaconda，或者如果對手把頭抬起，就直接拿下 guillotine。你也可以把髖部往後 sprawl，同時維持頭部向下的壓力來對抗他們的向前貫穿。關鍵是維持控制、順勢流轉到其他進攻，而不是硬要完成一個已經被破壞的 Darce。",
+    "distractors": {
+     "plausible": ["用力把腿抽回來", "站起來破解對方的抓握"],
+     "trap": ["不管情況硬要完成 Darce"]
+    },
+    "answer_line": "順勢轉打 anaconda 或 guillotine"
+   },
+   {
+    "question": "在 scramble 中，當施展速度至關重要時，應該使用哪種 grip 配置？",
+    "answer": "在講求速度的 scramble 中，使用 gable grip（掌對掌）。gable grip 是最快能建立的 grip，因為不需要穿手腕或二頭肌，只要把雙手拍在一起就好。雖然它的收招緊實度略遜於 figure-four 二頭肌抓法，但在 scramble 中速度上的優勢，勝過壓力上的差異。一旦你建立控制、放慢節奏，隨時都能升級成 figure-four 或抓手腕的方式來收招。",
+    "answer_line": "Gable grip（掌對掌）",
+    "distractors": {
+     "plausible": ["Figure-four 二頭肌抓法", "抓手腕求深度"],
+     "trap": ["停下來設定最深的 grip"]
+    }
+   },
+   {
+    "question": "在 Darce 轉換過程中，為什麼壓在對手肩膀上的胸口壓力很重要？",
+    "answer": "壓在受困肩膀上的胸口壓力，會壓垮對手的 frame，讓他們持續轉向 choke 而無法轉身背對。這能防止他們建立 frame 逃脫，也有助於瓦解他們的防禦結構。沉重的胸口壓力還能讓最終的 choke 更有效，因為它會對頸部增加額外壓縮，限制對手呼吸或進行防禦性移動的能力。如果沒有這股壓力，對手就會保有足夠的活動空間，把受困的手臂抽出來。",
+    "distractors": {
+     "plausible": ["讓你的髖部更自由繞動", "控制對手的遠側腿"],
+     "trap": ["放鬆壓力來保存體力"]
+    },
+    "answer_line": "壓垮 frame，讓對手持續轉向"
+   },
+   {
+    "question": "你剛開始繞動時，對手就把受困的手臂抽出來防禦 Darce——你的下一個立即串接進攻是什麼？",
+    "answer": "當對手把受困的手臂抽出來時，Darce 的結構已經被破壞，這時不應該硬幹。你最好的串接進攻是：轉換到 guillotine，因為你依然控制著對手的頭，而他們抽手臂的動作往往會讓下巴抬起；或者從反方向重新穿入手臂，改打 anaconda。如果這兩種 choke 都拿不到，就回到 front headlock 控制，威脅 back take。關鍵原則是絕不追打一個已經破壞的 Darce grip——要立刻順勢轉到下一個可用的進攻。",
+    "answer_line": "順勢轉打 guillotine 或 anaconda",
+    "distractors": {
+     "plausible": ["回到 turtle 控制", "重置回中立姿勢"],
+     "trap": ["追著重新鎖上 Darce grip"]
+    }
+   },
+   {
+    "question": "在 Darce 中鎖上 figure-four 有哪三種主要的手部 grip 選項？分別在什麼時機使用？",
+    "answer": "三種 grip 分別是二頭肌抓法（標準）、抓手腕（更深、更緊），以及 gable grip（最快，用於 scramble）。二頭肌抓法是用手抓住自己另一側的二頭肌，是最常見的做法，兼顧了緊實度與穩固性。抓手腕則是抓住自己的手腕，能形成更深、更緊的鎖定，適合用在對付體型較大的對手，或需要最大壓力的時候。gable grip（掌對掌）是最快能施展的做法，適合講求速度的情況或 scramble 中使用，只是緊實度略遜於其他選項。選擇哪一種取決於當下情況、對手體型與個人偏好。",
+    "distractors": {
+     "plausible": ["Collar、sleeve、lapel grip", "Seatbelt、harness、S-grip"],
+     "trap": ["停下來穿最深的 grip"]
+    },
+    "answer_line": "二頭肌抓法、抓手腕、Gable grip"
+   },
+   {
+    "question": "在嘗試 Front Headlock to Darce 轉換之前，必須具備哪些具體的進入條件？",
+    "answer": "你需要一個夠深的 front headlock、一個暴露出近側手臂的破壞性姿勢，以及足夠的空間與重心來朝纏勒側繞動。首先，你的纏勒手臂必須深深繞過對手頸部，把他們的頭控制在你身體上。第二，對手必須處於破壞性姿勢（turtle、scramble，或彎腰站立），讓近側手臂可以被你穿入 underhook。第三，你需要足夠的空間與重心，才能開始朝纏勒側繞動。如果對手的手臂緊緊收在身體旁，或維持強而有力的挺直姿勢，underhook 的穿入就會失敗，這時應該改用其他進攻方式。",
+    "distractors": {
+     "plausible": ["只要有深的 headlock grip 就好", "對手已經 turtle"],
+     "trap": ["手臂收緊、姿勢挺直"]
+    },
+    "answer_line": "深 grip、開放姿勢、空間"
+   },
+   {
+    "question": "這個轉換技術中，underhook 穿入階段與收招階段的施力方向有什麼不同？",
+    "answer": "underhook 穿入階段是透過胸口向下、向內施力，而收招階段則轉變為與脊椎垂直的側向壓縮。穿入階段時，你把重量向下壓穿過胸口、壓在對手肩膀上，同時把手臂穿到對手身體下方橫越過去。繞動之後的收招階段，你的纏勒手臂會朝胸口方向向內拉，肩膀則垂直於對手脊椎向前推，對兩側頸動脈同時形成夾擊。理解這個施力方向的轉變非常重要，因為在架設階段用收招方向的力，或在收招階段用架設方向的力，都會讓兩個階段的效果都打折扣。",
+    "distractors": {
+     "plausible": ["全程施力方向相同", "穿入向上，收招向下"],
+     "trap": ["收招時直接往後拉"]
+    },
+    "answer_line": "穿入向下，收招側向"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從標準 front headlock 轉換到 Darce 嘗試時，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索，是感覺到對手空出的那隻手開始穿到你遠側腋下，同時維持著頭部控制。這個 underhook 的穿入動作，正是 Darce 配置的起始動作。你也可能感覺到他們的重心開始偏向一側，準備進行繞動。立刻辨識出這個動作非常關鍵，因為隨著轉換進展到後續每個階段，防禦選項會逐漸受限。",
+    "answer_line": "感覺手臂穿入腋下",
+    "distractors": {
+     "plausible": ["只感覺到重心偏移", "感覺對手抓住你的手腕"],
+     "trap": ["等 figure-four 鎖死後再說"]
+    }
+   },
+   {
+    "question": "當你察覺到 Darce 正在架設時，為什麼應該向前貫穿對手，而不是往後拉開？",
+    "answer": "向前貫穿會卡住對手繞到收招所需垂直位置的能力。往後拉開反而會製造空間，讓他們更容易加深 underhook、更輕鬆鎖上 figure-four，並加速完成繞動階段。向前的壓力也會壓垮他們的重心，甚至可能迫使他們放棄 Darce 來防守自己的位置。Darce 需要攻擊者繞著你的身體移動，而向前的壓力正好直接阻止了這個繞動動作。",
+    "answer_line": "卡住對手的繞動能力",
+    "distractors": {
+     "plausible": ["直接保護你的頸部", "更快讓對手體力耗盡"],
+     "trap": ["往後拉開製造空間"]
+    }
+   },
+   {
+    "question": "對手已經鎖上 figure-four，但還沒建立髖部控制或開始繞動——你最好的防禦選項是什麼？",
+    "answer": "立刻朝纏勒手臂的反方向做 granby roll。這是在對手控制你的髖部、開始繞動之前，你最後一個高成功率的逃脫窗口。翻滾的動作會打亂 figure-four 的角度，動能轉換的瞬間也可能讓受困的手臂鬆脫，最差的情況也能讓你回到 turtle 或 guard 姿勢。這裡的關鍵時機是，這個翻滾必須在髖部控制建立之前完成，因為一旦對手抓住你的近側髖部，翻滾就會變得困難許多。",
+    "answer_line": "朝纏勒反方向 granby roll",
+    "distractors": {
+     "plausible": ["bridge 把對手翻過去", "等髖部控制建立後再翻滾"],
+     "trap": ["保持不動，只收下巴"]
+    }
+   },
+   {
+    "question": "受困的手臂與 Darce 的有效性有什麼關係？這對你的防禦優先順序意味著什麼？",
+    "answer": "Darce choke 需要你的手臂被困在自己頸部旁，才能產生限制頸動脈血流的壓縮力。如果沒有這種手臂受困的配置，choke 的力學結構就完全失效，因為纏勒手臂與頸部之間沒有足夠的材料來形成雙側壓縮。這代表在保護下巴之後，你最優先的防禦事項就是把受困的手臂抽出來。就算你無法完全逃脫這個位置，只要能鬆開那隻手臂，就能把一個危險的 Darce 轉變成威脅性小得多的標準 headlock，之後就能用一般的方式逃脫。",
+    "answer_line": "抽出受困的手臂",
+    "distractors": {
+     "plausible": ["只保護下巴就好", "抓住對手手腕拖延時間"],
+     "trap": ["把對手的頭往下壓，等待時機"]
+    }
+   },
+   {
+    "question": "如果對手在你逃脫過程中，把 Darce 嘗試改成 anaconda，你的防禦應該做什麼調整？",
+    "answer": "anaconda 的手臂穿入方向與 Darce 相反，所以你的逃脫方向也必須反過來。如果你原本是朝 Darce 側的反方向繞動，現在就要改朝反方向繞動來逃脫 anaconda。關鍵的辨識線索，是感覺到對手的手臂從你遠側腋下抽出，改從另一側重新穿過你的頸部。無論面對哪一種進攻，把手肘夾緊都始終至關重要。如果你能及早辨識出這個切換，轉換的瞬間本身會創造出一個短暫的空檔，此時兩種 choke 都還沒完全鎖死，向前貫穿或嘗試站起來的成功機率都很高。",
+    "answer_line": "反轉你的逃脫方向",
+    "distractors": {
+     "plausible": ["維持同樣的逃脫方向", "往外推開，不理會切換"],
+     "trap": ["放鬆手肘來製造空間"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Front Headlock to Darce.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

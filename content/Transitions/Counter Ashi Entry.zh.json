@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Ashi Entry.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Counter Ashi Entry 的主要目標是什麼？",
+    "answer": "主要目標是在對手用 Ashi Garami 控制你的腿時，建立你自己的纏腿控制，把一個防禦局面轉化成進攻機會，在隨後雙方互纏的交換中取得位置優勢。",
+    "answer_line": "建立自己的 ashi 控制",
+    "distractors": {
+     "plausible": [
+      "只求撐過對方的 ashi 鎖",
+      "逃脫並重置回中立位置"
+     ],
+     "trap": [
+      "無視腳跟，急著反攻"
+     ]
+    }
+   },
+   {
+    "question": "Counter Ashi Entry 是從什麼位置開始的？",
+    "answer": "Counter Ashi Entry 是從 Ashi Garami/Top 開始的，也就是對手已經對你其中一條腿建立纏腿控制，而你在上方維持站立或跪姿的 base。",
+    "answer_line": "Ashi Garami（上位）",
+    "distractors": {
+     "plausible": [
+      "Ashi Garami（下位）",
+      "Closed Guard（上位）"
+     ],
+     "trap": [
+      "Saddle（下位）"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試反纏之前，你必須先確認什麼？",
+    "answer": "你必須確認被困那條腿的腳跟受到保護，沒有暴露在立即的完結機制之下。如果你的腳跟暴露，且對手已取得降伏抓握，你應該先伸直那條腿並保護腳跟，之後再嘗試任何反纏。",
+    "answer_line": "先保護暴露的腳跟",
+    "distractors": {
+     "plausible": [
+      "先檢查抓握的緊度",
+      "先確認髖部的對位"
+     ],
+     "trap": [
+      "無視腳跟，快速插腿"
+     ]
+    }
+   },
+   {
+    "question": "成功插腿之後，你的膝蓋應該放在哪裡？",
+    "answer": "你的膝蓋應該放在對手近側大腿的內側，向地面驅動以建立內側空間控制。這種膝蓋內側的位置，能讓你在纏腿交換中取得階層上的優勢。",
+    "answer_line": "膝蓋放在近側大腿內側",
+    "distractors": {
+     "plausible": [
+      "膝蓋放在遠側大腿外側",
+      "膝蓋平貼地面"
+     ],
+     "trap": [
+      "膝蓋朝外遠離髖部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在插入的過程中上半身控制很重要？",
+    "answer": "透過抓衣領、控制二頭肌或 underhook 建立的上半身控制，能防止對手用 hip escape 遠離你的插入。沒有這個連結，對手就能脫離並化解你的反纏，甚至有可能藉機推進他們自己的位置。",
+    "answer_line": "抓衣領/二頭肌能阻止 hip escape",
+    "distractors": {
+     "plausible": [
+      "抓住遠側的腿以控制",
+      "只為了平衡而做 underhook"
+     ],
+     "trap": [
+      "放開抓握以空出雙手"
+     ]
+    }
+   },
+   {
+    "question": "對手調整了他們對你被困那條腿的抓握，你該如何回應？",
+    "answer": "抓握調整會製造一個插入的機會窗口，因為對手的控制會暫時鬆動。這正是把你自由的那條腿穿入他們兩腿之間、建立你自己的反纏的最佳時機，要在他們重新鎖緊位置之前完成。",
+    "answer_line": "趁抓握鬆動時穿腿",
+    "distractors": {
+     "plausible": [
+      "等待更大的空檔",
+      "先重置你的 base"
+     ],
+     "trap": [
+      "把膝蓋抽出來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你開始插入時開始施展 heel hook 的力學動作，你該怎麼辦？",
+    "answer": "立刻把保護腳跟放在第一優先，伸直被困的那條腿並把腳跟藏好。如果你的腳跟暴露，就放棄這次反纏——沒有任何反纏值得用膝蓋去承受一個完成的 heel hook 所造成的傷害。",
+    "answer_line": "伸直腿，藏好腳跟",
+    "distractors": {
+     "plausible": [
+      "伸手去抓對方的腳",
+      "快速用力把腳抽出來"
+     ],
+     "trap": [
+      "繼續插入，無視 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "Counter Ashi Entry 與纏腿位置階層之間的關係是什麼？",
+    "answer": "Counter Ashi Entry 通常會建立 Outside Ashi-Garami 位置，這是腿鎖階層的入門點。從那裡開始，你應該有系統地依序推進，經過 Inside Ashi、Cross Ashi，再到 Saddle，才嘗試完結，同時要保持對對手原本位置的防禦意識。",
+    "answer_line": "從 Outside Ashi-Garami 進入",
+    "distractors": {
+     "plausible": [
+      "直接進入 Saddle",
+      "從 Cross Ashi-Garami 進入"
+     ],
+     "trap": [
+      "跳過直接完結 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "成功執行 Counter Ashi Entry 後，可以接續哪些攻擊？",
+    "answer": "透過反纏建立 Outside Ashi 之後，你可以立即追求 Straight Ankle Lock，或設法透過 Inside Ashi Entry 推進位置朝 Saddle 前進，爭取 heel hook 的機會。反攻的一方在隨後的交換中通常握有動能優勢。",
+    "answer_line": "Straight Ankle Lock 或推進位置",
+    "distractors": {
+     "plausible": [
+      "立刻嘗試 heel hook",
+      "從外側做 Kimura"
+     ],
+     "trap": [
+      "放棄位置，直接站起來"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄反纏，單純把腿抽出來？",
+    "answer": "當對手透過 hip escape 製造出明顯的距離、你的腳跟暴露且無法保護，或對手緊密的髖部位置完全阻擋了內側空間的取得時，就應該放棄反纏。標準的抽腿動作可能比硬闖一個已經被破壞的插入更安全。",
+    "answer_line": "腳跟暴露，髖部被封死",
+    "distractors": {
+     "plausible": [
+      "只要對手抵抗就放棄",
+      "感覺疲累時就放棄"
+     ],
+     "trap": [
+      "即使暴露也硬闖插入"
+     ]
+    }
+   },
+   {
+    "question": "對手把他們自由的那條腿深深穿入，並開始把膝蓋往你的大腿內側驅動——發生了什麼事，你該如何反制？",
+    "answer": "對手正在對你施展同樣的 Counter Ashi Entry 技術，嘗試建立相對的內側空間控制。你必須立刻處理他們正在插入的那條腿，把大腿夾緊並做 hip escape 以拒絕內側空間。或者，你也可以加速你自己的降伏嘗試，逼迫他們把防守放在反纏之前。",
+    "answer_line": "夾緊大腿，做 hip escape",
+    "distractors": {
+     "plausible": [
+      "跟他們的腳踝抓握對抗",
+      "只把他們的膝蓋往外推"
+     ],
+     "trap": [
+      "無視這個動作，追求降伏"
+     ]
+    }
+   },
+   {
+    "question": "在 Counter Ashi Entry 中插入自由腿時，力量的關鍵方向是什麼？",
+    "answer": "力量應該朝內向下施加，把你的膝蓋往對手近側大腿內側的地面方向驅動。這會製造出一個能控制內側空間的楔形結構。要避免向前或向外推，那樣只會製造淺層的接觸，對手能輕易清除。向下的角度能把你的膝蓋鎖在他們大腿內側，讓他們在結構上很難清掉你的腿。",
+    "answer_line": "把膝蓋朝內向下驅動",
+    "distractors": {
+     "plausible": [
+      "把膝蓋直接往前推",
+      "把膝蓋朝外向上驅動"
+     ],
+     "trap": [
+      "把腿推出去並脫離"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正嘗試 Counter Ashi Entry 時，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是對手把體重轉移到被困那條腿上，並抬起或把自由那條腿朝你兩腿之間的空間內轉。這個體重轉移與腿部重新定位，發生在實際插入動作之前，能給你最大的防禦空檔去封閉內側空間，或加速你自己的進攻。",
+    "answer_line": "體重轉移，腿朝內轉",
+    "distractors": {
+     "plausible": [
+      "對手抓住你的衣領",
+      "對手的呼吸節奏改變"
+     ],
+     "trap": [
+      "等膝蓋完全插入再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼保持進攻壓力是對抗 Counter Ashi Entry 最有效的防禦？",
+    "answer": "持續的進攻壓力會迫使對手把防守你的降伏放在啟動反纏之前。Counter Ashi Entry 需要冷靜、精準的時機與刻意的位置調整——當對手必須應付立即的 heel hook 或 ankle lock 威脅時，這些條件都會被打亂。一個正在防守降伏的對手，無法同時執行協調完整的反纏動作。",
+    "answer_line": "逼他們防守而非反纏",
+    "distractors": {
+     "plausible": [
+      "這樣會拖垮對手的體力",
+      "這樣能藏住你自己的腳跟"
+     ],
+     "trap": [
+      "拖延時間以控制節奏"
+     ]
+    }
+   },
+   {
+    "question": "對手已經把自由的腿部分插入你的內側空間，但還沒建立上半身連結，你最好的回應是什麼？",
+    "answer": "用你的手在他們正在插入的膝蓋上建立 frame，把它推向外側，同時做 hip escape 封閉剩下的內側空間。因為他們缺乏上半身連結，無法阻止你的 hip escape，也無法把插入的腿錨定住。這是最後一個可靠的防禦窗口——一旦他們同時取得腿部插入與上半身抓握，這場交換就會變成雙邊纏鬥，控制起來會困難得多。",
+    "answer_line": "膝蓋建立 frame，立刻 hip escape",
+    "distractors": {
+     "plausible": [
+      "立刻搶 underhook",
+      "先把他們的髖部推開"
+     ],
+     "trap": [
+      "等他們的抓握扣穩再反應"
+     ]
+    }
+   },
+   {
+    "question": "你如何利用對手的反纏嘗試來推進自己的位置？",
+    "answer": "當對手把髖部向前驅動以插入自由的腿時，這股向前的重心投入，反而給了你推進到 Inside Ashi-Garami 或 Cross Ashi-Garami 的機會。他們向前的壓力實際上會把他們的髖部帶得更靠近你內側的腿，反而幫助了你的位置推進。趁他們向前驅動時，把你內側的腿更深地穿過他們的髖部，取得階層上更優勢的位置。",
+    "answer_line": "趁對方前驅時把腿穿得更深",
+    "distractors": {
+     "plausible": [
+      "往後拉開重置空間",
+      "換成站立式 base"
+     ],
+     "trap": [
+      "坐回去放棄上位"
+     ]
+    }
+   },
+   {
+    "question": "用手在對手正插入的膝蓋上建立 frame，主要的風險是什麼？",
+    "answer": "用手在他們膝蓋上建立 frame，會暫時讓一隻手離開控制他們被困那條腿的抓握，這會削弱你的降伏設置，也可能製造出一個短暫的空檔，讓他們能抽出腳跟或調整他們的防禦位置。這個取捨只有在他們插入腿的動作已經迫在眉睫時才值得——否則應該維持雙手對他們被困那條腿的抓握，單靠髖部位置來拒絕內側空間。",
+    "answer_line": "削弱你對被困腿的抓握",
+    "distractors": {
+     "plausible": [
+      "拖慢你的 hip escape",
+      "讓建立 frame 的手臂疲勞"
+     ],
+     "trap": [
+      "不管時機，永遠建立 frame"
+     ]
+    }
+   }
+  ]
+ }
+}

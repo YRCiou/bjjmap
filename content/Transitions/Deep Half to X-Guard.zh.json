@@ -1,0 +1,171 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對手開始把被困的腿往後拉、同時維持crossface壓力——你如何啟動X-Guard的轉換？",
+    "answer": "利用crossface壓力來配合對手的拉動時機。當對手向後拉時，crossface的效果會下降，因為對手的重心正在遠離你。趁腿往後移動時，把你的內側hook穿到對手膝蓋後方，利用對手抽腿的動能協助hook深深扣入。同時把你的近側手轉移到對手腳踝上，防止完全抽出。往後拉反而讓內側hook更容易穿入，因為對手的腿正朝著你hook進入的角度移動。",
+    "answer_line": "趁腿後拉時穿入hook",
+    "distractors": {
+     "plausible": [
+      "抵抗拉力，守住hook",
+      "等腿完全抽出再說"
+     ],
+     "trap": [
+      "放開hook去追腿"
+     ]
+    }
+   },
+   {
+    "question": "從deep half轉換到X-Guard時，最關鍵的hook位置是哪裡？",
+    "answer": "扣在對手近側膝蓋後方的內側hook是最關鍵的位置。這個hook必須完全穿過膝關節後方、腳要露在對側可見。只扣到大腿後方的淺hook控制力不足，很容易被抽出。用髖部推力來穿入hook，而不是單靠伸腿，並確保hook扣在膝窩處，這個位置能為上提sweep提供最大槓桿，也能防止對手直接把腿踢開。",
+    "answer_line": "內側hook扣在近側膝蓋後方",
+    "distractors": {
+     "plausible": [
+      "hook扣在大腿周圍",
+      "改扣在腳踝處"
+     ],
+     "trap": [
+      "抓住雙腿，跳過hook"
+     ]
+    }
+   },
+   {
+    "question": "你已經穿好內側hook，但在建立外側腿之前對手就sprawl了——你該如何調整？",
+    "answer": "如果只有內側hook扣好、對手就sprawl，先評估距離。如果對手還在可及範圍內，立刻只靠內側hook上提破壞對手平衡，同時搶快把外側腳放上對手遠側髖部。如果對手已經拉開太多距離、外側腿搆不到，就轉換成Single Leg X-Guard，把外側腿帶到同一側的髖部，用雙腳勾在同一側。內側hook能給你足夠的控制，防止對手完全脫離，讓你有時間重新配置。",
+    "answer_line": "上提hook或轉換成SLX",
+    "distractors": {
+     "plausible": [
+      "放棄hook，重整guard",
+      "不管三七二十一硬上外側腿"
+     ],
+     "trap": [
+      "放開hook，站起來"
+     ]
+    }
+   },
+   {
+    "question": "在完成X-Guard配置之前，你必須在對手腳踝上建立什麼grip？",
+    "answer": "你的近側手應該扣住對手被困那條腿的腳踝或腳跟，控制小腿以防止向後抽出。在gi中，抓住褲管的腳踝口。在no-gi中，用手掌握住腳跟或勾住阿基里斯腱後方。這個grip是三點控制系統中的第三點，另外兩點是內側hook和外側腿frame。沒有腳踝控制，對手只要直接往後一步就能脫離X-Guard，因為單靠勾腿無法阻止對手投入抽腿時的直線後退。",
+    "answer_line": "抓住被困的腳踝或腳跟",
+    "distractors": {
+     "plausible": [
+      "改抓遠側膝蓋",
+      "抓大腿處的褲管"
+     ],
+     "trap": [
+      "放開腿，去抓領口"
+     ]
+    }
+   },
+   {
+    "question": "上位選手把膝蓋往前頂、阻止你的內側hook穿入——你能接續什麼連鎖攻擊？",
+    "answer": "當對手把膝蓋往前頂來擋住內側hook時，對手的重心會轉移向你，這正是觸發deep half sweep的條件。放棄X-Guard的嘗試，立刻改用waiter sweep進攻，利用對手投入向前的重心來對付對手。或者，如果對手頂膝蓋的動作在遠側製造出空間，就進入old school sweep。對手面臨兩難：頂膝蓋抵抗X-Guard的轉換，就會暴露在deep half sweep之下；往後拉，就等於讓你順利進入X-Guard。",
+    "answer_line": "進攻waiter sweep",
+    "distractors": {
+     "plausible": [
+      "繼續硬搶X-Guard",
+      "把膝蓋推回去重整"
+     ],
+     "trap": [
+      "放開grip後退"
+     ]
+    }
+   },
+   {
+    "question": "在完成的X-Guard位置中，相對於對手的什麼髖部角度能製造最佳的sweep槓桿？",
+    "answer": "你的身體應該與對手被困的那條腿呈垂直，形成一個T字形，你的肩膀朝向大約與對手腿部方向呈90度的方向。這個垂直角度能把sweep槓桿最大化，因為你的雙腿會製造出與對手base呈直角的力，這是破壞平衡在力學上最有效率的方向。平行角度會讓sweep力量大幅下降，因為你的力會與對手的base方向一致，而不是橫切過去。",
+    "answer_line": "垂直的T字形角度",
+    "distractors": {
+     "plausible": [
+      "與對手腿的方向平行",
+      "正面面對對手"
+     ],
+     "trap": [
+      "轉身背對對手"
+     ]
+    }
+   },
+   {
+    "question": "嘗試Deep Half到X-Guard的轉換前，必須存在哪兩個主要條件？",
+    "answer": "第一，對手必須正在把重心往後轉移，或試圖把遠側腿從你的deep half控制中抽出。對於重心向前推進的對手，應該用deep half的技術sweep掉，而不是嘗試轉換。第二，你必須有足夠的髖部活動度和空間，從deep half倒轉的角度旋轉到X-Guard的垂直位置。如果你被crossface壓力完全壓扁、沒有空間旋轉，就要先透過frame和shrimp製造出空間，再嘗試這個轉換。",
+    "answer_line": "重心後移加上有髖部空間",
+    "distractors": {
+     "plausible": [
+      "guard一破就是時機",
+      "對手平躺、不需要空間"
+     ],
+     "trap": [
+      "在沉重crossface下硬做"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺下位選手正從deep half轉換到X-Guard的最早線索是什麼？",
+    "answer": "最早的線索是對你遠側腿的深度underhook正在鬆開或放開。在deep half guard中，這個underhook是主要的控制機制，所以任何主動的鬆開都代表下位選手正準備重新配置hook。你也可能感覺到對手的髖部開始從deep half倒轉的角度朝垂直位置旋轉。這兩個線索都發生在實際穿hook之前，能提供有效防守所需的關鍵早期預警視窗。",
+    "answer_line": "遠側腿的underhook正在鬆開",
+    "distractors": {
+     "plausible": [
+      "髖部先開始旋轉",
+      "被困的腿先往後拉"
+     ],
+     "trap": [
+      "等hook穿好再說"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位選手的underhook正在鬆開時，該如何調整你的重心分佈？",
+    "answer": "把重心稍微往前移，並把crossface壓力壓向下位選手的下巴和上半身。這種向前的重心投入能壓平對手的上半身，阻止X-Guard進入所需的髖部旋轉，同時把你被困的膝蓋往前推，超過對手hook能進入的範圍。不過不要過度投入向前——要保留足夠的平衡，以便在對手從X-Guard嘗試切回利用你向前壓力的deep half sweep時能及時調整。",
+    "answer_line": "重心前移，crossface壓下巴",
+    "distractors": {
+     "plausible": [
+      "重心後移，製造空間",
+      "坐回去防守hook"
+     ],
+     "trap": [
+      "過度前傾，放棄base"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你膝蓋後方穿好一個hook，但還沒建立外側腿——最佳的防守反應是什麼？",
+    "answer": "只有內側hook扣好時，X-Guard還無法發揮作用。立刻把被勾住的膝蓋往下、往外驅動，讓hook變淺，同時施加crossface壓力，阻止外側腿搆到你的髖部。如果你能把對手的內側hook往下推到你的膝關節以下，它就會失去控制效果。同時用空出的手擋住對手的外側腿，防止它越過你的髖部線。沒有外側腿的frame，單靠內側hook無法產生sweep槓桿。",
+    "answer_line": "膝蓋下壓，擋住外側腿",
+    "distractors": {
+     "plausible": [
+      "立刻把腿踢開",
+      "把髖部後撤製造空間"
+     ],
+     "trap": [
+      "先讓hook扣好，之後再防守"
+     ]
+    }
+   },
+   {
+    "question": "哪個grip或壓力點最能有效阻止下位選手完成X-Guard所需的垂直角度？",
+    "answer": "對對手下巴和上半身施加crossface壓力是最有效的控制方式。垂直角度需要靠先轉動頭部和肩膀來帶動髖部旋轉。透過把肩膀或前臂壓過對手的臉、把對手的頭釘在墊子上、朝向旋轉方向的相反面，你就能從力學上阻止髖部旋轉的發生。用一隻手控制對手的遠側髖部作為輔助控制，能進一步限制完成轉換所需的旋轉動作。",
+    "answer_line": "crossface釘住頭部和肩膀",
+    "distractors": {
+     "plausible": [
+      "只抓遠側髖部",
+      "往下壓對手胸口"
+     ],
+     "trap": [
+      "放開crossface，去抓腿"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Deep Half to X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

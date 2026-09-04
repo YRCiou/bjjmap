@@ -1,0 +1,125 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge from Reverse Kesa-Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "上位者的重心分佈如何時，會為 bridge 逃脫創造最佳時機？",
+    "answer": "當上位者的重心集中在你胸口高處或偏向你的頭部時，bridge 最為有效。這種偏高的重心位置會破壞他們的 base 穩定性，讓他們容易被 bridge 產生的向上與側向力量移位。當對手的髖部壓低、雙腿張開，並把大量壓力壓在你的肋骨上時，bridge 會困難許多，此時應優先考慮以 shrimp 為基礎的替代逃脫方式。",
+    "answer_line": "重心偏高在胸口或頭部",
+    "distractors": {
+     "plausible": ["重心偏低、集中在髖部", "重心平均分佈在軀幹"],
+     "trap": ["等對手髖部壓低再動作"]
+    }
+   },
+   {
+    "question": "為什麼 bridge 必須朝被困手臂那一側方向，而不是直直往上？",
+    "answer": "朝被困手臂那一側 bridge，能利用上位者在 Reverse Kesa-Gatame 中最弱的 base 方向。因為他們面朝你的腿部，雙手投入在控制手臂上，所以在被困手臂那一側的撐地能力有限。直直往上的 bridge 會給對方時間重新平均分配重心，而朝其結構弱點方向的定向 bridge，則能用最少的力氣創造出最大的移位效果。",
+    "answer_line": "朝被困手臂那一側 bridge",
+    "distractors": {
+     "plausible": ["直直往上 bridge 求力量", "朝你自由手臂那一側 bridge"],
+     "trap": ["朝對手的頭部方向 bridge"]
+    }
+   },
+   {
+    "question": "如果上位者立刻 sprawl 來對抗你的 bridge 嘗試，你應該如何調整？",
+    "answer": "如果對手用 sprawl 回應你的 bridge，要立刻轉換到以 shrimp 為基礎的逃脫方式，而不是再試一次 bridge。sprawl 會在他們把髖部壓低時，在雙方身體間創造出短暫的間隙。利用這個間隙朝你的自由手臂那一側執行 hip escape，設法插入膝蓋奪回 half guard。將失敗的 bridge 直接串接到後續的逃脫動作，不要停頓。",
+    "answer_line": "朝自由手臂側 shrimp",
+    "distractors": {
+     "plausible": ["立刻再 bridge 一次", "朝被困手臂側 shrimp"],
+     "trap": ["維持 bridge，靜觀其變"]
+    }
+   },
+   {
+    "question": "什麼樣的腳部擺位能最大化 bridge 力量，並且如何防範被轉換到 mount？",
+    "answer": "雙腳平踩，腳跟靠近臀部，腳尖稍微朝外，以達到最大爆發性的髖部伸展。要在 bridge 過程中防範被轉換到 mount，手肘要緊貼身體，並在動作最高點時立刻轉身，而不是停留在抬升的姿勢。你把 bridge 轉化為轉身的速度越快，對手能跨腿進入 mount 的機會就越少。",
+    "answer_line": "腳跟靠近，最高點快速轉身",
+    "distractors": {
+     "plausible": ["雙腳張開，延長 bridge 時間", "腳跟靠近，最高點停頓"],
+     "trap": ["維持高 bridge，延遲轉身"]
+    }
+   },
+   {
+    "question": "你的 bridge 部分成功，但對手仍維持胸口接觸——你的立即後續動作是什麼？",
+    "answer": "沒有完全移位對手的部分 bridge，仍會創造出寶貴的空間。立刻轉換成朝你原本 bridge 方向同一側的 hip escape，利用創造出的空間開始抽出被困的肩膀。即使沒有完全成功，部分 bridge 已經打亂了對手的重心分佈，這使得後續的 hip escape 遠比沒有先前 bridge 動作時更有效。",
+    "answer_line": "朝 bridge 同側做 hip escape",
+    "distractors": {
+     "plausible": ["朝相反側做 hip escape", "朝同方向再 bridge 一次"],
+     "trap": ["靜止不動，重置 base"]
+    }
+   },
+   {
+    "question": "在整個 bridge 逃脫過程中，自由手臂扮演什麼角色？",
+    "answer": "自由手臂在整個逃脫過程中承擔多項關鍵功能。一開始，它抵住對手的髖部或肩膀形成 frame，創造初始空間並防止對手把重心壓得更低。在 bridge 過程中，它推抵對手，把他們導離你的中線。當你轉身進入 turtle 時，自由手臂會成為你建立四點 base 的第一個撐地點。在整個過程中積極運用自由手臂，能大幅提高逃脫成功率。",
+    "answer_line": "先 frame、推抵，再撐地轉 turtle",
+    "distractors": {
+     "plausible": ["只 frame，手臂保持被動", "把對手的頭推開"],
+     "trap": ["抓住對手的衣領往回拉"]
+    }
+   },
+   {
+    "question": "從 Reverse Kesa-Gatame 與傳統 Kesa Gatame 執行 bridge，關鍵的時機差異是什麼？",
+    "answer": "在 Reverse Kesa-Gatame 中，上位者面朝你的腿部而非頭部，這代表他們撐地的能力與恢復 base 的方向根本不同。bridge 應該朝被困手臂那一側，因為對手的雙手是用來控制手臂而非撐地。在傳統 Kesa Gatame 中，bridge 的方向則是朝對手的背部。這個方向上的差異，是練習者在不同 scarf hold 變化型之間套用 bridge 逃脫時最常犯的錯誤。",
+    "answer_line": "朝被困手臂側，而非對手背部",
+    "distractors": {
+     "plausible": ["與傳統 kesa 方向相同", "永遠朝對手的腿部方向"],
+     "trap": ["朝對手的背部方向 bridge"]
+    }
+   },
+   {
+    "question": "你的第一次 bridge 未能移位對手——你應該串接什麼動作，而不是再 bridge 一次？",
+    "answer": "絕對不要重複相同的 bridge，因為對手會預判你的時機與方向，直接跟著你的第二次嘗試移動。相反地，應立刻流暢轉換到朝你自由手臂那一側的 hip escape 或 elbow escape，利用失敗的 bridge 所造成的重心破壞，插入膝蓋奪回 half guard。如果對手為了追上你的 bridge，把重心過度投入到前方，technical stand-up 脫離接觸也是一個選項。要把失敗的 bridge 視為蓄意鋪陳、為下一個逃脫動作蓄力，而不是白費的嘗試。",
+    "answer_line": "朝自由手臂側 hip escape",
+    "distractors": {
+     "plausible": ["等對手重心過度投入", "改為攻擊降伏技"],
+     "trap": ["朝同方向再 bridge 一次"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位者準備 bridge 逃脫最早的徵兆有哪些？",
+    "answer": "最早的徵兆是下位者雙腳平踩地墊，腳跟收近髖部，蓄積爆發性的髖部伸展力量。你也可能感覺到他們的核心繃緊，重心微微轉向被困手臂那一側。他們的自由手臂會移動，抵住你的髖部或肩膀建立 frame。及早辨識這些準備動作，能讓你有時間在 bridge 發動前先 sprawl 並加寬 base。",
+    "answer_line": "雙腳踩穩，腳跟靠近髖部",
+    "distractors": {
+     "plausible": ["對手抓緊你的衣領", "髖部轉向遠側"],
+     "trap": ["深呼吸，完全放鬆"]
+    }
+   },
+   {
+    "question": "當你感覺到 bridge 嘗試即將發生時，應該如何調整你的重心分佈？",
+    "answer": "立刻降低髖部並把它推向地墊，將雙腿張得更開以建立更穩定的 base。你的胸口壓力應該透過胸骨加壓在對手的上胸口，產生最大的向下力量，直接對抗 bridge 向上的力向量。避免用手臂撐地，這會讓你的重心升高。讓你的骨架結構與髖部重量去對抗 bridge，同時讓雙手保持在控制手臂的位置。",
+    "answer_line": "降低髖部，sprawl，加壓胸口",
+    "distractors": {
+     "plausible": ["雙手撐寬求平衡", "抬高髖部增加向下力量"],
+     "trap": ["用手臂撐地，放開控臂"]
+    }
+   },
+   {
+    "question": "什麼時候順著對手的 bridge 進入 mount 比單純抵抗更有利？",
+    "answer": "當下位者全力投入一個大幅抬升髖部的 bridge 時，順勢進入 mount 會更有利。他們抬高的髖部會為你的腿創造出跨越的通道。這種做法對於方向可預測、且全力投入的對手效果最好。不過時機必須精準——要在 bridge 的最高點跨腿，而不是提前或延後。如果你對自己轉換 mount 的時機沒有把握，單純抵抗會是比較安全的選擇。",
+    "answer_line": "對手全力投入時，於最高點跨腿",
+    "distractors": {
+     "plausible": ["任何 bridge 都提早跨腿", "每次 bridge 都順勢進 mount"],
+     "trap": ["在最高點之前就跨腿"]
+    }
+   },
+   {
+    "question": "如果你在 bridge 嘗試期間過度積極維持控臂，會發生什麼事？",
+    "answer": "在 bridge 期間過度積極維持控臂，會破壞你的 base，因為雙手都投入在控制對手手臂上，導致 bridge 移位你的平衡時完全沒有能力撐地。要放開其中一個控制點來撐地，同時維持另一個控制點。具體來說，放開遠側手臂來撐地，同時保持近側腋下對對手手臂的夾制，這樣既能保住 base 恢復能力，又能維持控臂。",
+    "answer_line": "放開遠側手臂，撐地建立 base",
+    "distractors": {
+     "plausible": ["雙手都抓住對手手臂", "放開雙手撐地"],
+     "trap": ["雙手抓得更緊"]
+    }
+   }
+  ]
+ }
+}

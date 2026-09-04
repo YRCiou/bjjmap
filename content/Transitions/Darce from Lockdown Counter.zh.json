@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Darce from Lockdown Counter 的主要目標是什麼？",
+    "answer": "主要目標是把防守位置（被困在 Electric Chair 中）轉變成進攻性的降伏威脅。透過進攻 Darce choke，你能迫使下位選手放棄他們的 lockdown 控制來防守，不論是降伏對手，還是創造逃脫並過關的機會。",
+    "answer_line": "把防守轉為 Darce 威脅",
+    "distractors": {
+     "plausible": ["先解放被困的腿", "先掃到上位再進攻"],
+     "trap": ["翻成趴姿滑脫"]
+    }
+   },
+   {
+    "question": "Darce from Lockdown Counter 是從什麼位置開始的？",
+    "answer": "這個技巧從 Electric Chair Top 開始，具體來說是當對手用 half guard 下位的 lockdown 困住你、並用 Electric Chair 位置進攻時。你的一條腿被困在對手的 lockdown 中，而對手用一隻手深勾住你的背部做 underhook。",
+    "answer_line": "Electric Chair Top，腿被困住",
+    "distractors": {
+     "plausible": ["half guard 上位，尚未取得 underhook", "knee slice pass 位置"],
+     "trap": ["雙鉤 back control"]
+    }
+   },
+   {
+    "question": "Darce from Lockdown Counter 需要哪些關鍵握法？",
+    "answer": "關鍵握法是 Darce 的 figure-four 配置：你的纏繞手臂穿過對手的頸部（越過對手遠側肩膀，穿過對手近側腋下），並連接到你另一隻手臂的二頭肌。你空出來的手接著扣住纏繞手臂的手肘後方，或抓住自己的手腕。gable grip 的變化版也可行。",
+    "answer_line": "figure-four 手臂扣住自己二頭肌",
+    "distractors": {
+     "plausible": ["單邊 collar tie，沒有 figure-four", "雙手環抱腰部做 underhook"],
+     "trap": ["只抓對手遠側手腕"]
+    }
+   },
+   {
+    "question": "你該如何反制 Darce from Lockdown Counter？",
+    "answer": "主要反制方法包括：在握法連接之前，立刻放開 underhook 並做 frame 拉開距離；收下巴並轉身面向對手，阻止手臂穿過；或朝對手方向翻滾以減輕壓力（不過如果做得不好，這反而可能讓絞技變得更緊）。",
+    "answer_line": "放開 underhook，frame 拉開距離",
+    "distractors": {
+     "plausible": ["把對手的頭推開然後等待", "與纏繞的手進行握力對抗"],
+     "trap": ["把對手拉得更靠近你的胸口"]
+    }
+   },
+   {
+    "question": "嘗試 Darce from Lockdown Counter 的最佳時機是什麼時候？",
+    "answer": "最理想的時機是對手在 Electric Chair 延伸動作中完全投入他們的 underhook 時。當對手的手臂深深越過你的背部、頭部朝你的髖部下沉時，對手無法快速收回手臂，這創造了進入 Darce 的完美窗口。",
+    "answer_line": "underhook 完全投入時",
+    "distractors": {
+     "plausible": ["lockdown 剛鎖上的當下", "對手已經收手之後"],
+     "trap": ["在對手正在建立掃技時"]
+    }
+   },
+   {
+    "question": "對手感覺到 Darce 即將來臨，開始收回他們的 underhook——你該怎麼做？",
+    "answer": "如果對手提早收手，立刻放棄 Darce，轉換到過對手現在已經削弱的 guard。對手主要的 lockdown 控制（深的 underhook）已經被破壞。趁對手重新建立握法之前，用 knee slice pass 或 smash pass 過關。Darce 的威脅已經達成了破壞對手控制的目標。",
+    "answer_line": "放棄 Darce，過 guard",
+    "distractors": {
+     "plausible": ["追著手臂強行取得握法", "保持不動並重整位置"],
+     "trap": ["放開所有控制並站起來"]
+    }
+   },
+   {
+    "question": "在完成絞技的收尾動作中，關鍵的髖部與肩膀動作是什麼？",
+    "answer": "在收尾時，把你的髖部往後下方 sprawl，同時把肩膀壓進對手頭部側邊。讓你的身體與對手的身體呈垂直移動，最終形成 90 度角。把手肘夾緊，並把 sprawl 的髖部往地墊方向下壓。這個組合能將壓力最大化地施加在頸動脈上。",
+    "answer_line": "sprawl 髖部，肩膀壓頭",
+    "distractors": {
+     "plausible": ["坐回去，只用手臂拉", "保持方正，夾緊手肘"],
+     "trap": ["往後靠並把頸部往上扳"]
+    }
+   },
+   {
+    "question": "在仍被困在 lockdown 中嘗試 Darce 時，你該如何擺放雙腿？",
+    "answer": "用空出來的腿勾住對手的髖部，或撐在地墊上做底盤。即使一條腿還被困在 lockdown 裡，控制髖部也能防止對手翻滾脫離或拉開距離。優先阻止對手的髖部移動，而不是急著抽出被困住的腿——即使你的腿仍被鎖住，絞技依然可以完成。",
+    "answer_line": "空腿勾住髖部，加以控制",
+    "distractors": {
+     "plausible": ["先扯出被困的腿", "雙腳站起來"],
+     "trap": ["無視髖部，只追手臂"]
+    }
+   },
+   {
+    "question": "你的 Darce 握法已經連接，但對手朝你翻滾——你該如何應對？",
+    "answer": "維持你的 Darce 握法，順著翻滾走。翻滾往往反而會讓絞技變得更緊，而不是減輕壓力。如果對手完成翻滾、你最後落在下位，你仍然可以從 guard 位置完成 Darce。如果你最後落在上位，你就擁有更優越的完成位置，重力還會協助絞技。",
+    "answer_line": "順著翻滾，維持握法",
+    "distractors": {
+     "plausible": ["放開握法以避免被翻滾", "撐住並阻止翻滾"],
+     "trap": ["放手並搶攻上位"]
+    }
+   },
+   {
+    "question": "正確擺放的 Darce 與 neck crank 有什麼不同？",
+    "answer": "正確擺放的 Darce，手肘彎曲處會位於對手喉嚨前方，同時對兩側的頸動脈施加壓迫。如果你的握把位置太高（在下顎上），你做的就是扳頸而不是絞頸。務必確認你的手臂穿過位置是在喉嚨的高度橫越頸部，而不是下顎的高度。",
+    "answer_line": "手肘彎曲處在喉嚨高度",
+    "distractors": {
+     "plausible": ["夾得更緊來完成絞技", "手腕刀刃卡在下巴下方"],
+     "trap": ["扭轉下顎的握法直到對手拍降"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "辨識對手正在嘗試 Darce from Lockdown Counter 最早的線索是什麼？",
+    "answer": "最早的線索是上位選手近側的手臂開始越過你的頸部移動，而不是防守 lockdown 或維持 crossface 控制。你會感覺到二頭肌壓在你頸部側邊，同時對手的肩膀往你的頭部方向推進。這個穿引動作就是 Darce 的起手式，必須在握法連接之前立刻處理。",
+    "answer_line": "近側手臂穿越頸部",
+    "distractors": {
+     "plausible": ["crossface 壓在你下顎上", "對手的髖部滑向你的頭部"],
+     "trap": ["直到握法鎖上前都沒有徵兆"]
+    }
+   },
+   {
+    "question": "為什麼收回 underhook 是主要的防守反應，而不是繼續進攻 Electric Chair？",
+    "answer": "深的 underhook 正是讓 Darce choke 得以成立的手臂配置。維持手臂伸展，等於把上位選手完成頸部周圍 figure-four 所需要的被困手臂送上門。Darce choke 完成的速度往往比大多數 Electric Chair 的掃技還快，所以風險與報酬的計算明顯偏向立刻收回手臂。一旦絞技威脅解除，你隨時都能重新建立 underhook。",
+    "answer_line": "伸展的手臂餵養 Darce",
+    "distractors": {
+     "plausible": ["重整髖部以做更強的掃技", "拉開以掙脫對手的握法"],
+     "trap": ["把 underhook 推得更深"]
+    }
+   },
+   {
+    "question": "對手已經開始穿引 Darce 的手臂，但握法尚未連接——你該優先採取哪種防守？",
+    "answer": "優先立刻收回你的 underhook，同時用 frame 頂住對手的二頭肌與頸部以拉開距離。這是成功率最高的防守，因為移除被困的手臂能徹底消除手臂纏繞的配置。同時收下巴，阻止手臂完全穿越你的頸部。速度在這裡至關重要——握法還沒連接的每一瞬間，都是你阻止絞技的時間。",
+    "answer_line": "收回 underhook，frame 並收下巴",
+    "distractors": {
+     "plausible": ["抓住對手正在穿引的手腕並拉扯", "翻成趴姿遠離對手"],
+     "trap": ["往對手方向推以卡住穿引動作"]
+    }
+   },
+   {
+    "question": "對 Darce 反制的警覺性，應該如何改變你用 Electric Chair 進攻的方式？",
+    "answer": "這種警覺性應該讓你在 underhook 的深度與下巴位置上更有紀律。即使在伸展動作中也要維持收下巴，伸得夠深以做出有效的掃技，但要讓手臂保持可以收回的狀態，並持續監控上位選手的手臂位置。培養一種能力：在威脅 Electric Chair 的同時，讓你的頸部角度保持封閉，不給 Darce 穿引路徑可乘之機。這種節制的做法能降低你的風險，同時不必放棄整個 lockdown 系統。",
+    "answer_line": "收好下巴，手臂保持可收回",
+    "distractors": {
+     "plausible": ["永遠盡可能伸得最深", "完全放棄 underhook"],
+     "trap": ["把手臂完全伸展以加快掃技"]
+    }
+   },
+   {
+    "question": "Darce 握法已經鎖上，對手開始 sprawl——你最後的防守手段是什麼？",
+    "answer": "在握法已鎖上且承受 sprawl 壓力的情況下，完全放開 lockdown，做 hip escape 拉開最大距離。用空出來的手推對手的髖部，阻止對手跟上。盡可能把下巴收緊，並嘗試把被困的手臂朝自己髖部的方向移動以抽出。如果你能創造足夠的距離破壞胸對胸的連接，絞技的完成威力就會大幅減弱。寧可接受落入 half guard 下位的位置劣勢，也不要讓絞技完成。",
+    "answer_line": "放開 lockdown，hip escape 拉開",
+    "distractors": {
+     "plausible": ["用力 bridge 試圖把對手翻過去", "與握法纏鬥以拆解 figure-four"],
+     "trap": ["把 guard 拉得更緊以拖延時間"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Darce from Lockdown Counter.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

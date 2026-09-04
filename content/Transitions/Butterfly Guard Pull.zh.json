@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在發動 butterfly guard pull 之前，你必須先建立哪些 grip？為什麼？",
+    "answer": "在開始坐下之前，你至少要先建立一個具支配性的控制 grip。在 gi 中，cross collar grip 搭配同側 sleeve grip 能同時控制對手的 posture 和一隻手臂。在 no-gi 中，collar tie 搭配腕部控制能提供等同的連結。這個 grip 作用像一條實體的繫繩，在你坐下的整個過程中維持連結——沒有它，坐下的動作會製造出空隙，讓對手在你的 guard 結構成形之前脫離、sprawl，或開始 pass。這個 grip 也能讓你在坐下時把對手的重心往前拉，阻止他維持穩固的挺直 base。",
+    "answer_line": "Cross collar 加同側 sleeve",
+    "distractors": {
+     "plausible": [
+      "抓兩邊 sleeve，不抓 collar",
+      "坐下前先做 underhook"
+     ],
+     "trap": [
+      "先坐下，再抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "你開始坐下時，對手開始向後退步——你該如何調整？",
+    "answer": "如果對手在你開始坐下時後退，你的回應取決於時機。如果你的 hip 還沒投入到無法回頭的程度，就放棄這次 pull，回到站姿，從更好的距離重新交手。如果你已經投入坐下的動作，就加速這次 pull，把雙腳往對手雙腿之間推進去追 hook，同時用最大的 grip 張力阻止對手完全脫離。你也可以改成腳頂著對手 hip 的 seated guard 來維持距離控制，等重新取得連結後，再從坐姿設法重新建立 butterfly hook。",
+    "answer_line": "早期就放棄，已投入就追",
+    "distractors": {
+     "plausible": [
+      "永遠加速這次 pull",
+      "改成 closed guard pull"
+     ],
+     "trap": [
+      "放手重新抱腿"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly guard pull 落地階段，最關鍵的身體位置是什麼？",
+    "answer": "最關鍵的位置是落地後立刻維持挺直的坐姿，胸口朝對手方向推進。你的脊椎應保持垂直或稍微前傾，核心完全收緊，頭抬起。這個挺直的 posture 非常重要，因為它保留了 butterfly sweep 所需的生物力學槓桿——只有當你的軀幹透過 grip 提供反向拉力時，hook 才能產生有效的抬升力。整個人平躺落地會完全喪失這個槓桿，把一次進攻性的 guard pull 變成對抗一個擁有 posture 優勢對手的防守性混戰。",
+    "answer_line": "挺直坐姿，胸口前推",
+    "distractors": {
+     "plausible": [
+      "身體後仰去加壓對手 hip",
+      "先平躺再插入 hook"
+     ],
+     "trap": [
+      "整個平躺，用 hook 控制"
+     ]
+    }
+   },
+   {
+    "question": "執行 butterfly guard pull 的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手正往前推進、重心已經投入的時候，例如踏步向前搶 grip、用 collar 壓力往前推進，或回應你的向前假動作。這股前衝動能會跟你 pull 的動作疊加，讓對手極難及時 sprawl 或脫離。最糟的時機是對手正在後退、側向繞行，或重心已穩穩地落在腳跟、擺出寬闊的 base 時。透過 grip 連結讀出對手的重心分佈和前衝投入程度，是判斷 pull 時機的主要技能。",
+    "answer_line": "在對手前衝時 pull",
+    "distractors": {
+     "plausible": [
+      "在對手側向繞行時 pull",
+      "任何向前假動作都拿來 pull"
+     ],
+     "trap": [
+      "在對手後退時 pull"
+     ]
+    }
+   },
+   {
+    "question": "在坐下的過程中，如何避免你的 hook 被阻擋？",
+    "answer": "關鍵在於把插入 hook 的動作跟坐下的動作協調在一起，而不是坐下之後才插入。當你的 hip 下降時，膝蓋應該向外展開，雙腳在同一個連續動作中推向對手的大腿下方。在整個 pull 過程中保持強力的 grip 張力，能讓對手保持在夠近的距離，讓 hook 可以搆到他的大腿內側。如果對手試圖夾緊膝蓋阻擋 hook，就把一隻腳改頂到他的 hip 當作暫時的 frame，同時從外側處理另一個 hook，之後再處理第二個 hook。在動態的坐下階段快速插入，遠比從靜態坐姿硬搶 hook 有效得多。",
+    "answer_line": "在坐下過程中插入 hook",
+    "distractors": {
+     "plausible": [
+      "先坐下，之後再搶 hook",
+      "先破 grip，再插入 hook"
+     ],
+     "trap": [
+      "等完全坐穩才插入 hook"
+     ]
+    }
+   },
+   {
+    "question": "你 pull 之後對手立刻施加沉重的 top 壓力——你該如何回應？",
+    "answer": "如果對手在你 pull 之後立刻帶著沉重壓力往前壓，這股前衝動能其實正好餵給你的 butterfly sweep。抓準時機做一個 Elevator Sweep，用一邊的 hook 往上頂，同時用 grip 把對手的上半身往同一方向拉，製造旋轉的力量。如果壓力太重太快來不及立刻 sweep，就用前臂在對手肩膀上做 frame 來吸收壓力，同時保持 hook 在他大腿下方的接觸。如果 hook 在極端壓力下被破壞，就往 Deep Half Guard 轉換，游過對手胸口朝他遠側 hip 方向鑽，同時至少保留一次腿部纏繞來阻止對手乾淨地 pass 過去。",
+    "answer_line": "利用動能抓準時機做 Elevator Sweep",
+    "distractors": {
+     "plausible": [
+      "先 frame 開，再重整 guard",
+      "推開對手製造空間"
+     ],
+     "trap": [
+      "放開 hook 轉成 turtle"
+     ]
+    }
+   },
+   {
+    "question": "就執行方式而言，butterfly guard pull 和標準的 closed guard pull 有什麼不同？",
+    "answer": "Butterfly guard pull 在三個關鍵執行細節上有所不同。第一，你落地時是挺直的坐姿而非平躺，這能保留立即進攻 sweep 的能力。第二，你是把 hook 插入對手大腿下方，而不是把雙腿環繞鎖住對手腰部，這需要在坐下過程中更精確的腳部擺位，但能為 sweep 提供更好的抬升槓桿。第三，butterfly pull 從你落地那一刻起就製造立即的進攻壓力，而 closed guard pull 通常需要額外的 grip 調整和破 posture 才能進攻。代價是 butterfly guard pull 需要更精準的時機和更精確的 hook 協調。",
+    "answer_line": "挺直坐姿，hook 插入大腿下方",
+    "distractors": {
+     "plausible": [
+      "相同 posture，不同 grip",
+      "改用雙腿環繞鎖腰"
+     ],
+     "trap": [
+      "像 closed guard pull 一樣平躺落地"
+     ]
+    }
+   },
+   {
+    "question": "用 pull 建立 butterfly guard 之後，你的第一個進攻動作應該是什麼？",
+    "answer": "你的第一個動作應該是用 hook 施加 elevator 壓力，同時用上半身的 grip 往 sweep 方向拉，測試對手的平衡。這有雙重目的——如果對手還沒從 pull 中恢復平衡，立即嘗試 sweep 可能在他建立防守 base 之前就成功。如果對手抵抗這個 sweep 方向，他的防守反應會透露出他的重心分佈模式和平衡傾向，直接影響你之後的進攻選擇。關鍵原則是完成 pull 到發動第一個 sweep 威脅之間絕不能停頓，不讓對手有時間安頓進舒適的作戰 base。",
+    "answer_line": "立刻用 hook 測試 sweep",
+    "distractors": {
+     "plausible": [
+      "先暫停重整 grip",
+      "等對手站穩 base"
+     ],
+     "trap": [
+      "放手重建自己的 base"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你感覺對手的 grip 收緊、重心開始往後移時，最有效的立即回應是什麼？",
+    "answer": "最有效的回應是立即 sprawl，同時讓 hip 往前推。把你的 hip 往墊子方向壓下，同時把重心往前壓進對手的胸口和肩膀。這樣能把你的重心壓到對手身上，阻止他完成坐下的動作，也能阻擋他插入 hook 到你大腿下方所需的空間。這個 sprawl 必須在你察覺到 pull 開始的第一秒內完成——一旦對手的 hip 已經下降超過到墊子距離的一半，這個防守的效果就會大幅下降，因為 hook 會在坐下的最後階段開始插入。",
+    "answer_line": "Sprawl 並把 hip 往前推",
+    "distractors": {
+     "plausible": [
+      "後退拉開距離",
+      "把對手拉進 closed guard"
+     ],
+     "trap": [
+      "坐下配合對手的高度"
+     ]
+    }
+   },
+   {
+    "question": "對手已經坐下但 hook 還沒完全建立——你該立刻做什麼，才最有機會阻止 butterfly guard 成形？",
+    "answer": "積極地把靠近的膝蓋往對手雙腿之間推進，同時在他胸口施加沉重的 crossface 或肩部壓力。這個向前的推進會壓平對手挺直的 posture，移除他 butterfly sweep 所需的槓桿，你的膝蓋卡在他雙腿之間也能阻止 hook 完全插入。同時控制對手的一隻手臂，阻止他建立 underhook。目標是在對手能安頓好 hook、建立起驅動 sweep 系統的挺直 posture 之前，把情勢轉換成 pass 位置——half guard 或 Headquarters。",
+    "answer_line": "膝蓋卡入，用力 crossface",
+    "distractors": {
+     "plausible": [
+      "抓住雙腳踝站起來",
+      "只 pummel 搶 underhook"
+     ],
+     "trap": [
+      "坐回去把 guard 拉開"
+     ]
+    }
+   },
+   {
+    "question": "對手完成 guard pull 後立刻要執行 sweep，你該如何阻止？",
+    "answer": "一感覺到對手的 hook 卡進你的大腿內側，就立刻彎膝降低重心、加寬 base。把重心平均分配在雙腳上，而不是偏重到某一側，因為 butterfly sweep 正是專門利用單側重心投入來製造旋轉力量。控制對手至少一邊的手腕或 sleeve，破壞驅動 butterfly 抬升的拉扯與抬起協調動作。最關鍵的是，不要往對手的 hook 方向前傾——這是最常見、最容易餵給 elevator sweep 機制的錯誤，因為你前傾的重心正好提供對手完成 sweep 所需的動能。",
+    "answer_line": "加寬 base，不要前傾",
+    "distractors": {
+     "plausible": [
+      "雙手撐在墊子上",
+      "搶兩隻手腕的 grip"
+     ],
+     "trap": [
+      "前傾去壓平對手的 hip"
+     ]
+    }
+   },
+   {
+    "question": "防守 butterfly guard pull 和防守標準 closed guard pull 有什麼不同？",
+    "answer": "關鍵差異在於 butterfly guard 需要把 hook 插入你的大腿下方，你可以主動把膝蓋併攏、往對手中線方向推進來阻擋這件事。對抗 closed guard pull 時，一旦對手的雙腿環繞鎖住你的背後，不管你怎麼回應都已經身處 closed guard 之中。對抗 butterfly 時，你有一個有意義的防守空檔，阻止 hook 建立能從根本上改變結果——對手最終只會落得一個弱勢的 seated guard，而不是強力的 butterfly 位置。這種阻擋 hook 的空檔在 closed guard pull 中並不存在，使得 butterfly guard pull 在轉換階段有著獨特的可防守性。",
+    "answer_line": "阻擋 hook，膝蓋往內推",
+    "distractors": {
+     "plausible": [
+      "防守方式相同，只是把 posture 站直",
+      "立刻做雙邊 underhook"
+     ],
+     "trap": [
+      "先讓 hook 進來，再 pummel 出去"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Guard Pull.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

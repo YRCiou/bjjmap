@@ -1,0 +1,235 @@
+{
+ "_meta": {"source": "content/Transitions/Crucifix Transition.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Crucifix Transition 的主要目標是什麼？",
+    "answer": "主要目標是從 standing back control 推進到 crucifix 位置，方法是在對手爭奪握把做防守時，趁其中一隻手臂伸出而將其捕捉。這會建立一個雙臂都被隔離的主導控制位置，並帶來多個高成功率的降伏選項。",
+    "answer_line": "捕捉手臂，推進到 crucifix",
+    "distractors": {
+     "plausible": [
+      "維持 standing back control",
+      "現在就完成 rear naked choke"
+     ],
+     "trap": [
+      "放開握把，改抱摔"
+     ]
+    }
+   },
+   {
+    "question": "Crucifix Transition 是從什麼位置開始的？",
+    "answer": "這個技術是從 Standing Back Control 開始，你處於上位，也就是雙方站立時你以 harness 或 seat belt 握法建立胸貼背的連結。對手爭奪握把的動作會創造出轉換的機會。",
+    "answer_line": "Standing back control，上位",
+    "distractors": {
+     "plausible": [
+      "地面 back control",
+      "Turtle 上位"
+     ],
+     "trap": [
+      "guard，對手站立"
+     ]
+    }
+   },
+   {
+    "question": "什麼情況會創造出嘗試 crucifix transition 的機會？",
+    "answer": "當對手在防守性爭奪握把時把手臂伸離身體，機會就出現了。當他們伸手去剝除你的鎖喉手臂，或把你的控制手推開時，就會把手臂暴露出來讓你捕捉。這就是為什麼你應該先威脅 choke，逼出對方的防守反應。",
+    "answer_line": "對手伸臂防守時",
+    "distractors": {
+     "plausible": [
+      "對手縮成 turtle 防守",
+      "對手抓住你的手腕"
+     ],
+     "trap": [
+      "對手挺身想逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手伸出手臂但把手肘保持彎曲成九十度——你還能捕捉嗎？",
+    "answer": "手肘保持九十度緊貼的彎曲手臂很難用來完成 crucifix transition。你需要手臂充分伸展，讓手肘離開身體。如果對手在爭奪握把時一直保持手肘緊貼，就直接攻擊頸部，因為他們並沒有防守頸部，或者利用這個位置把他們壓垮到地面 back control。",
+    "answer_line": "不行，手肘必須伸出去",
+    "distractors": {
+     "plausible": [
+      "可以，立刻困住它",
+      "可以，用二對一握法"
+     ],
+     "trap": [
+      "可以，現在就轉入 truck"
+     ]
+    }
+   },
+   {
+    "question": "要把對手伸出的手臂引導過去，應該用鎖喉的那隻手臂還是控制手臂？",
+    "answer": "用控制手臂，也就是在 harness 結構中位於對手腋下的那隻手臂。這隻手臂把對方伸出的手臂引導橫越身體，同時你的鎖喉手臂持續對頸部保持威脅。放開 harness 改用雙手去抓，會製造逃脫機會。",
+    "answer_line": "控制手臂負責引導",
+    "distractors": {
+     "plausible": [
+      "鎖喉手臂負責引導",
+      "雙手放開 harness"
+     ],
+     "trap": [
+      "放手，改用雙手抓"
+     ]
+    }
+   },
+   {
+    "question": "一旦開始捕捉手臂後，要如何防止對手的手臂逃脫？",
+    "answer": "建立雙重控制點：一方面用你的腿和髖部把對方的上臂困住，另一方面用手控制對方的手腕。在動態的落地轉換過程中，光靠腿部困鎖並不夠牢靠。手腕控制能確保即使腿部困鎖暫時鬆動，對方也無法滑脫。",
+    "answer_line": "腿部困鎖加上手腕控制",
+    "distractors": {
+     "plausible": [
+      "光靠腿部困鎖就夠了",
+      "光靠手腕控制就夠了"
+     ],
+     "trap": [
+      "放開腿部困鎖以重新歸位"
+     ]
+    }
+   },
+   {
+    "question": "當你開始捕捉手臂時，對手爆發性地把重心壓低——你該如何應對？",
+    "answer": "跟著對方一起落下，轉換到 truck 位置，而不是硬撐著維持站立。他們壓低重心的動作會創造出動能，你可以利用它來建立腿部纏繞。從 truck，你可以繼續往 crucifix 發展，或是嘗試其他攻擊，例如 calf slicer 的切入。關鍵在於不要對抗他們下沉的動作，而是加以利用。",
+    "answer_line": "跟著下沉轉入 truck",
+    "distractors": {
+     "plausible": [
+      "硬撐著維持站立",
+      "把對方拉回站姿"
+     ],
+     "trap": [
+      "放開握把，向後 sprawl"
+     ]
+    }
+   },
+   {
+    "question": "完成 crucifix transition 中的落地回收後，最終的位置是什麼樣子？",
+    "answer": "落地回收後，你應該讓對手側躺，你的雙腿呈三角形困住對方的被困手臂和軀幹，你的雙臂控制對方的兩隻手臂（一隻被你的腿困住，另一隻越過對方頭部被你控制）。對方的頸部應該完全暴露，可以進行 rear naked choke 的各種變化，或是任一手臂都能進行 armbar。",
+    "answer_line": "腿困一臂，雙臂控制兩臂",
+    "distractors": {
+     "plausible": [
+      "對手趴平，背部暴露",
+      "雙臂皆自由，頸部被困"
+     ],
+     "trap": [
+      "對手面朝下，雙臂自由"
+     ]
+    }
+   },
+   {
+    "question": "對手把空手撐在地上想抵抗takedown——你該如何調整？",
+    "answer": "撐地的手創造的是新的機會，而不是問題。你可以用 kimura 握法攻擊那隻撐地的手臂，因為它處於伸展且承重的狀態，容易受到肩關節鎖的切入。或者，用你的空手把撐地的手掃開，讓對方基座崩潰，完成落地回收。絕對不要忽略撐地的手，因為那也代表對方已經停止防守頸部。",
+    "answer_line": "攻擊撐地手臂，或把它掃開",
+    "distractors": {
+     "plausible": [
+      "不理會，完成takedown",
+      "抓住那隻撐地的手往內拉"
+     ],
+     "trap": [
+      "放開控制去阻止撐地"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 crucifix 切入之前先威脅 choke 對技術能否成功至關重要？",
+    "answer": "威脅 rear naked choke 會讓對手陷入防守兩難。如果他們不爭奪握把，你就完成 choke。如果他們爭奪握把，就會伸出手臂，創造出 crucifix 切入的機會。如果沒有一開始的 choke 威脅，對手就沒有理由伸出手臂，可以維持緊密的防守姿態，完全不給 crucifix 機會。choke 威脅是讓整個轉換得以成立的催化劑。",
+    "answer_line": "逼對方伸臂防守",
+    "distractors": {
+     "plausible": [
+      "更快耗盡對手體力",
+      "分散注意力以利 crucifix 設置"
+     ],
+     "trap": [
+      "跳過 choke，直接攻手臂"
+     ]
+    }
+   },
+   {
+    "question": "把被困手臂推過對手中線時，正確的施力方向是什麼？",
+    "answer": "力量應該對角地施加並稍微向下，把對手的手肘推過中線朝向對側的髖部。這個對角方向能防止對方單純把手臂直接往回拉，並利用該角度下肩關節的力學劣勢。你的控制手臂從下方推，同時從背後施加的胸口壓力防止對方轉身跟著手臂走。",
+    "answer_line": "對角向下，越過中線",
+    "distractors": {
+     "plausible": [
+      "直直往回拉向自己",
+      "直直向下壓向地面"
+     ],
+     "trap": [
+      "把手臂往外拉出"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早能辨識出對手正在嘗試 crucifix 切入、而非延續標準 choke 攻擊的訊號是什麼？",
+    "answer": "最早的訊號是感覺到對手的控制手臂從維持 harness 轉為主動把你的手肘推過中線。在標準的 choke 攻擊中，控制手臂會固定在 harness 中，而鎖喉手臂則朝你的下巴推進。當控制手臂開始改為引導你的手臂時，這就代表轉入了 crucifix 切入，你必須立刻反應。",
+    "answer_line": "控制手臂推你的手肘",
+    "distractors": {
+     "plausible": [
+      "鎖喉手臂推進得更快",
+      "胸口壓力突然下降"
+     ],
+     "trap": [
+      "對手放開 harness 握把"
+     ]
+    }
+   },
+   {
+    "question": "面對 crucifix 切入時，為什麼縮成 turtle 被視為有利的防守結果？",
+    "answer": "相較於完全被 crucifix 困住，turtle 比較有利，因為在 turtle 中你仍保有防守性的 frame（手肘對膝蓋），你的雙臂沒有被隔離，而且你有已建立的逃脫路徑，包括 granby roll、sit-through 和 technical stand-up。完全的 crucifix 會透過困住雙臂消除所有防守 frame，讓逃脫變得極其困難。及早接受 turtle 能剝奪對手完成 crucifix 落地回收所需的站立槓桿。",
+    "answer_line": "保有 frame，逃脫路徑暢通",
+    "distractors": {
+     "plausible": [
+      "完全避開 choke",
+      "爭取時間重新站起來"
+     ],
+     "trap": [
+      "turtle 會困住你的雙臂"
+     ]
+    }
+   },
+   {
+    "question": "對手已經捕捉到你的手臂，並正在把腿跨過來——現在防守是不是已經太遲了？",
+    "answer": "還沒有太遲，但窗口正在快速關閉。在對方把腿跨過來的過程中，你仍然可以在腿還沒鎖住你的手臂和軀幹之前，用力轉身面向對手。用二對一握法剝除他們的手腕控制，同時把軀幹轉向對方。如果腿已經越過你的手臂，就立刻壓低重心縮成 turtle，不要讓對方完成站立式的落地回收。關鍵的臨界點是腿部困鎖和手腕控制同時確立的那一刻。",
+    "answer_line": "不遲，轉身、剝手腕",
+    "distractors": {
+     "plausible": [
+      "太遲了，無計可施",
+      "太遲了，直接把手臂拉出來"
+     ],
+     "trap": [
+      "撐住空手，等待時機"
+     ]
+    }
+   },
+   {
+    "question": "要如何調整你爭奪握把的方式，才能同時防守 choke 和 crucifix？",
+    "answer": "用短促、緊湊的動作對抗鎖喉手，讓你的手肘隨時保持在距離肋骨約十五公分以內。用近距離的手腕旋轉和二對一破握，而不是完全伸手到腦後去抓對手的手。這種緊湊的爭奪握把方式能同時應對 choke 威脅，並讓你的手肘保持夠近，拒絕給 crucifix 切入所需的手臂伸展空間。要接受這種方式對抗 choke 稍微沒那麼有效，但能大幅降低 crucifix 的風險。",
+    "answer_line": "緊湊握法，手肘內收",
+    "distractors": {
+     "plausible": [
+      "完全伸展去破握",
+      "雙手伸到腦後去抓"
+     ],
+     "trap": [
+      "大幅伸手去剝除雙手"
+     ]
+    }
+   },
+   {
+    "question": "對手放棄了 crucifix 嘗試，改回威脅 choke——你該如何調整防守？",
+    "answer": "即使 crucifix 嘗試已經失敗，也要持續保持較高的手肘警覺性。對手現在已經讓你知道他們會找機會打 crucifix，這代表往後爭奪握把時必須更有紀律。持續使用貼近肋骨的緊湊動作。要意識到他們可能會在 choke 威脅和 crucifix 嘗試之間來回切換，藉此在你長時間爭奪握把時抓住破綻。如果你無法同時維持 choke 防守與手肘紀律，可以考慮提早主動縮成 turtle。",
+    "answer_line": "保持紀律，手肘內收",
+    "distractors": {
+     "plausible": [
+      "放鬆，威脅已經解除",
+      "改用積極的方式爭奪握把"
+     ],
+     "trap": [
+      "伸出手臂反握對抗"
+     ]
+    }
+   }
+  ]
+ }
+}

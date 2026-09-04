@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Body Triangle Escape to Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "攻擊 Body Triangle 鎖點的最佳時機窗口是什麼？",
+    "answer": "最好的時機是對手正在調整上半身抓握，或在不同 submission 設置之間轉換的時候。在這些短暫的瞬間，對手夾緊的壓力會自然稍微減弱，注意力也會轉移到手部位置上，創造出一個鎖點最容易被你嘗試清除的窗口。絕對不要在對手正積極攻擊你頸部時嘗試清除。",
+    "answer_line": "趁對手抓握轉換時",
+    "distractors": {
+     "plausible": [
+      "鎖上後立刻嘗試",
+      "夾緊壓力達到高峰時"
+     ],
+     "trap": [
+      "對手正勒你脖子時"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 Body Triangle 清除動作前，必須具備哪些條件？",
+    "answer": "你必須已經建立基本的頸部防守——下巴內收，並至少用一隻手控制勒頸的手臂。你必須已經辨識出 Body Triangle 是從你身體的哪一側交叉過來，以確定正確的翻轉方向。在還沒做好頸部防守前就嘗試清除，會立刻招致勒頸；翻錯方向則會讓夾緊壓力增加，而不是減少。",
+    "answer_line": "下巴內收，並辨識好方向",
+    "distractors": {
+     "plausible": [
+      "只要做好頸部防守就夠",
+      "只要知道交叉的那一側"
+     ],
+     "trap": [
+      "先清除，再防守頸部"
+     ]
+    }
+   },
+   {
+    "question": "讓 ankle push 清除技巧生效的關鍵力學細節是什麼？",
+    "answer": "figure-four 鎖法完全依賴那隻腳卡在對手膝蓋後方。透過把腳踝向下、遠離膝窩推開，你就能移除整個鎖法的結構支點。施力方向必須與對手的股骨垂直，把腳向外推，而不是試圖把雙腿拉開，這樣才能攻擊 figure-four 結構中最脆弱的角度。",
+    "answer_line": "把腳踝推離膝窩",
+    "distractors": {
+     "plausible": [
+      "把腳踝推向對手膝蓋",
+      "沿著墊子方向直直往上推"
+     ],
+     "trap": [
+      "把雙腿拉開分離"
+     ]
+    }
+   },
+   {
+    "question": "對手的 Body Triangle 鎖得很緊，交叉的那條腿從你的左側進入——你該往哪個方向翻轉？為什麼？",
+    "answer": "朝你的左側翻轉，也就是朝 Body Triangle 那條腿的方向翻。這樣能讓你的軀幹與交叉腿的方向對齊，而不是持續與其垂直，藉此減少有效的夾緊角度。向左翻轉也能讓你的左手更靠近鎖點，也就是對手膝蓋後方腳卡住的位置，方便你嘗試清除。",
+    "answer_line": "朝 Body Triangle 那條腿的方向左轉",
+    "distractors": {
+     "plausible": [
+      "保持方正，兩邊都不轉",
+      "向左轉，但先用 hip 帶動"
+     ],
+     "trap": [
+      "向右轉，遠離那條腿"
+     ]
+    }
+   },
+   {
+    "question": "攻擊 Body Triangle 鎖點時該用什麼抓握？力量確切要施加在哪裡？",
+    "answer": "用靠近墊子那隻手，以 C-grip 或掌心推壓對手的腳踝或腳背。手指繞在腳踝後方或周圍，把腳往下、遠離對手膝窩推開。力量方向要與股骨線垂直，把腳往墊子方向、並向外驅趕。避免抓腳趾或腳底，因為這對抗鎖死的結構幾乎沒有力學優勢。",
+    "answer_line": "C-grip 抓腳踝，向下推",
+    "distractors": {
+     "plausible": [
+      "掌心直接推膝蓋",
+      "把腳踝直直向上推"
+     ],
+     "trap": [
+      "抓住腳趾往外拉"
+     ]
+    }
+   },
+   {
+    "question": "你開始清除 Body Triangle 時，對手開始攻擊 Rear Naked Choke——你該如何回應？",
+    "answer": "立刻放棄清除的嘗試，把雙手收回頸部防守。深深收下巴，對勒頸的手臂建立雙手控單手的二對一控制。絕對不要為了搶快而急著清除，趕在 choke 之前完成——choke 完成的速度遠快於清除完成的速度。等待對手下一次抓握轉換，再創造新的窗口重新嘗試清除。",
+    "answer_line": "放棄清除，優先防守頸部",
+    "distractors": {
+     "plausible": [
+      "只用一隻手防守",
+      "撐著不動，雙手保持原位"
+     ],
+     "trap": [
+      "趕緊搶快完成清除"
+     ]
+    }
+   },
+   {
+    "question": "如果 Body Triangle Escape to Half Guard 被擋住，對手又重新鎖上了 Body Triangle，你該追求哪些替代方案？",
+    "answer": "改成朝 turtle 方向做 hip escape，作為替代的落點，這會攻擊不同的角度，逼對手調整自己的防守位置。如果對手把身體收緊，阻止你做任何翻轉，就嘗試 bridge-and-roll 變化型，用向上的壓力取代側向移動。在不同逃脫方向之間交替，能避免對手安於單一的防守模式。",
+    "answer_line": "改走 turtle 或 bridge-roll",
+    "distractors": {
+     "plausible": [
+      "堅持硬闖同一個 half guard",
+      "只嘗試 bridge and roll"
+     ],
+     "trap": [
+      "保持不動，保存體力"
+     ]
+    }
+   },
+   {
+    "question": "從 Body Triangle 逃脫時，為什麼 half guard 是比 turtle 更好的落點？",
+    "answer": "half guard 能立刻提供進攻選項，包括 underhook sweep、deep half 切入，以及背後控制的連段，能對對手施加壓力，把局勢從求生轉為交鋒。turtle 則會讓你陷入防守位置，對手可以立刻重新取得背後控制。half guard 迫使對手進入過 guard 的情境，而不是讓對手繼續維持進攻上的主導地位。",
+    "answer_line": "half guard 能發動 sweep／進攻",
+    "distractors": {
+     "plausible": [
+      "turtle 更安全，控制更多",
+      "兩者防守性一樣"
+     ],
+     "trap": [
+      "turtle 能讓你重建 guard"
+     ]
+    }
+   },
+   {
+    "question": "逃脫後建立 half guard 的當下，你的首要任務是什麼？",
+    "answer": "立刻在被困腿那一側取得 underhook，並建立 knee shield 或前臂 frame，避免被壓平。對手會在你剛到達 half guard 的最初幾秒內，嘗試重新取得背後控制或過 guard 到 side control。搶在對手重新建立 crossface 或 seatbelt 控制之前先取得 underhook，是決定這次逃脫是否真正成功的關鍵轉折點。",
+    "answer_line": "立刻搶 underhook，建立 frame",
+    "distractors": {
+     "plausible": [
+      "馬上進攻 submission",
+      "先建立 overhook"
+     ],
+     "trap": [
+      "放平休息"
+     ]
+    }
+   },
+   {
+    "question": "在你部分清除腳踝之後，如何防止對手重新鎖上 Body Triangle？",
+    "answer": "腳一從膝蓋後方清出來，立刻把你的手肘或前臂插進你身體與對手鎖腿之間的空隙，當成一個結構性的楔子。這個 frame 能實際擋住那隻腳回到鎖定位置。在執行 hip escape 的過程中維持這個楔子——直到你的雙腿完全穿過、half guard 建立起來之前，都不要放開。",
+    "answer_line": "把手肘楔進空隙",
+    "distractors": {
+     "plausible": [
+      "再次把腿推開",
+      "牢牢抓住對手的腳踝"
+     ],
+     "trap": [
+      "放開後再慢慢調整位置"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你如何察覺對手即將嘗試 Body Triangle 清除動作？",
+    "answer": "留意對手是否開始把軀幹轉向 Body Triangle 那條腿的方向，這會減少你的夾緊角度。對手的手從頸部防守移向你膝蓋後方的腳踝，是即將展開清除嘗試最明確的指標。對手手部對抗中的短暫停頓，往往預示著一次認真的嘗試即將到來，因為他們正在為這個動作蓄力並集中注意力。",
+    "answer_line": "手移向你的腳踝",
+    "distractors": {
+     "plausible": [
+      "把下巴收得更緊",
+      "用力抓住你的 collar"
+     ],
+     "trap": [
+      "放鬆夾緊，以為在休息"
+     ]
+    }
+   },
+   {
+    "question": "當對手成功把你的腳從膝蓋後方推出後，你最好的回應是什麼？",
+    "answer": "立刻嘗試把腳重新驅回膝蓋後方，搶在對手用手肘或前臂建立阻擋 frame 之前完成。如果一到兩秒內無法重新鎖上，就轉換成標準的 hooks，把雙腳插進對手大腿內側，同時維持 seatbelt 控制。不要在對手正積極用 hip escape 恢復 guard 的情況下，花太多時間試圖重新鎖上一個明顯已經被破壞的 Body Triangle。",
+    "answer_line": "快速重鎖，或改用 hooks",
+    "distractors": {
+     "plausible": [
+      "無限期地纏鬥重新鎖上",
+      "立刻改用 hooks"
+     ],
+     "trap": [
+      "放開 seatbelt 重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "當對手開始 Body Triangle 清除動作時，為什麼攻擊頸部是最有效的反制？",
+    "answer": "攻擊頸部會製造一個無法兼顧的資源分配難題——對手必須用手防守 choke，但清除 Body Triangle 也需要用手。兩件事無法同時做到。對手每花一秒把手收回防守頸部，就少一秒能用來清除 Body Triangle，而反覆的勒頸威脅，也會在你的 Body Triangle 造成的呼吸限制下，消耗對手的體力與心理狀態。",
+    "answer_line": "逼對手的手只能二選一",
+    "distractors": {
+     "plausible": [
+      "改成雙腿夾得更緊",
+      "改成控制對手的 hip"
+     ],
+     "trap": [
+      "讓對手清除，再重新進攻"
+     ]
+    }
+   },
+   {
+    "question": "當對手朝交叉腿方向翻轉時，你需要做哪些位置調整才能維持 Body Triangle 的效果？",
+    "answer": "跟著對手翻轉的動作調整你的 hip，讓自己持續與對手軀幹保持垂直，而不是被對手帶著轉向你夾緊的方向。用 seatbelt 把對手的肩膀往你這邊拉，把胸口更緊貼在對手背後。在對手翻轉的過程中，短暫增加夾緊的壓力，藉此打消對手繼續旋轉的念頭，甚至可能逼對手完全放棄這次翻轉嘗試。",
+    "answer_line": "跟著翻轉，維持垂直",
+    "distractors": {
+     "plausible": [
+      "任由對手翻轉，維持夾緊",
+      "放開雙腿，重新鎖 Body Triangle"
+     ],
+     "trap": [
+      "在對手翻轉時放鬆夾緊"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該優先轉換成 hooks，而不是繼續纏鬥維持 Body Triangle？",
+    "answer": "當對手已經成功把你的腳從膝蓋後方卡掉，並建立了阻止重新鎖上的結構性 frame 時，就轉換成 hooks。如果你花超過兩到三秒對抗一個有效的 frame、試圖重新鎖上，你損失的時間其實可以拿來確保 hooks。關鍵因素在於 seatbelt 與胸口連結是否仍然完整——如果仍然完整，hooks 就能有效維持背後控制。",
+    "answer_line": "腳已脫出，frame 擋住重鎖",
+    "distractors": {
+     "plausible": [
+      "立刻改用 hooks",
+      "只有在失去 seatbelt 時才換"
+     ],
+     "trap": [
+      "絕不切換，永遠重新鎖上"
+     ]
+    }
+   }
+  ]
+ }
+}

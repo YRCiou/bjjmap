@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在嘗試 Butterfly Half Guard Sweep 之前，你應該建立什麼樣的髖部角度？",
+    "answer": "相對於對手的中心線，大約呈 45 度角，偏向 butterfly hook 那一側。這能創造出最理想的對角 sweep 軌跡，把對手導向被困住的 half guard 腿的上方，而不是直接側向，那樣會讓他們容易撐地站穩。這個角度能確保 sweep 的力向量對準對手最無法撐地或抵抗的方向。",
+    "answer_line": "45° 偏向 hook 側",
+    "distractors": {
+     "plausible": [
+      "正對對手，不用角度",
+      "45° 偏離 hook 側"
+     ],
+     "trap": [
+      "把髖部壓平在地面上"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個 sweep 執行過程中，維持 half guard 的困腿控制如此關鍵？",
+    "answer": "half guard 的困腿控制能防止對手把被困的腿撐地抵抗 sweep。如果你過早放開控制，他們就能把那條腿向後或向側邊踩出，立刻恢復 base，讓你的抬升失效。這個困腿控制是這個技術與一般 butterfly sweep 的差異所在，也是讓這個 sweep 在對抗高水平對手時仍保持高成功率的力學優勢。",
+    "answer_line": "絕不放開困腿控制",
+    "distractors": {
+     "plausible": [
+      "抬升後就放開控制",
+      "為了調整而鬆開控制"
+     ],
+     "trap": [
+      "放開腿以便坐起"
+     ]
+    }
+   },
+   {
+    "question": "你開始用 butterfly hook 抬升時，對手把遠側的手撐在地上——你該如何調整？",
+    "answer": "撐手是一個轉換攻擊的機會。改用 100% Sweep 或 Old School Sweep，這兩個技術正好利用撐手來攻擊已經變弱的另一側。他們撐出的手已經把重心投入到一個方向，讓他們容易被朝另一個方向的 sweep 擊倒。這種一動一應的連鎖反應是 butterfly half guard 進攻系統的核心，應該練到成為自動反應。",
+    "answer_line": "改做 100% 或 Old School Sweep",
+    "distractors": {
+     "plausible": [
+      "硬拚原本的 butterfly sweep",
+      "抓住那隻撐地的手"
+     ],
+     "trap": [
+      "放開 hook，拉 guard"
+     ]
+    }
+   },
+   {
+    "question": "執行這個 sweep 時，最關鍵的時機要素是什麼？",
+    "answer": "butterfly hook 的驅動與 underhook 的拉動必須同時發生，成為一個統一的爆發性動作。這兩個動作之間若有先後順序，就會給對手時間反應並在施力之間撐地站穩。這個 sweep 的成功仰賴沿著同一條對角線方向的協調施力，而不是分成連續步驟。要練到讓驅動與拉動感覺像是同一時刻發動的單一動作。",
+    "answer_line": "hook 驅動與拉動同步",
+    "distractors": {
+     "plausible": [
+      "先驅動 hook，再拉",
+      "先拉 underhook，再驅動"
+     ],
+     "trap": [
+      "放開 grip，用腳踢起 hook"
+     ]
+    }
+   },
+   {
+    "question": "對手把髖部向後 sprawl，並施加沉重的 crossface 壓力，壓制住你的 butterfly hook 抬升——你最好的回應是什麼？",
+    "answer": "潛入他們髖部下方進入 deep half guard，把頭滑向他們較遠的髖部一側。他們的 sprawl 姿勢其實有利於這個入場，因為他們的髖部後移、重心又壓在你的上半身，正好創造出你需要的空間潛入下方。或者，如果你還能維持 half guard 的困腿控制，就換成 lockdown，用甩起的動作創造新的進攻角度。不要繼續硬拚對抗一個已經 sprawl 的對手。",
+    "answer_line": "潛入 deep half guard",
+    "distractors": {
+     "plausible": [
+      "更用力硬拚 hook",
+      "改做 guard recovery"
+     ],
+     "trap": [
+      "撐手，暫停等待"
+     ]
+    }
+   },
+   {
+    "question": "這個 sweep 最強的 grip 組合是什麼？",
+    "answer": "在 butterfly hook 那一側建立深 underhook 是主要的 grip，手臂穿到對手腋下，手掌控制對方的 lat 肌肉或搆到腰帶位置。這能為 sweep 軌跡提供最大的拉力。在 gi 中，可以再加上遠側的 collar grip 增加旋轉控制。在 no-gi 中，非 butterfly 一側的 overhook 或 collar tie 能為傾倒動作提供額外的拉力槓桿。",
+    "answer_line": "深 underhook，hook 那側",
+    "distractors": {
+     "plausible": [
+      "hook 那側改用 overhook",
+      "只抓 collar，不用 underhook"
+     ],
+     "trap": [
+      "underhook 抓在遠側"
+     ]
+    }
+   },
+   {
+    "question": "你要如何防止對手靠壓低、加重髖部來破壞你的 butterfly hook？",
+    "answer": "透過收縮髖屈肌，讓 hook 持續施加主動的向上壓力，即使沒有正在發動 sweep，也要保持 hook 上膛。如果他們開始用髖部壓力把你的 hook 壓平，立刻調整髖部角度，把髖部稍微後移以創造更多下方空間。如果 hook 真的已經被壓死，就轉換到 knee shield half guard 或 deep half guard，而不是硬拚一個已經失去 sweep 潛力的死 hook。",
+    "answer_line": "持續施加向上 hook 壓力",
+    "distractors": {
+     "plausible": [
+      "把對手的髖部往下推",
+      "用遠側腿撐寬 base"
+     ],
+     "trap": [
+      "即使被壓平也硬撐 hook"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的身體姿勢代表發動這個 sweep 的最佳時機？",
+    "answer": "最佳時機是對手的重心轉向或傾向 butterfly hook 那一側，不論是自然發生，還是因為他們正試圖 pass 或建立 crossface。他們向前投入的重心會壓在你的 butterfly hook 上，創造抬升的絕佳條件。此外，當他們用遠側手臂伸出攻擊或建立 grip 時，他們的 base 會暫時失衡。辨識這些重心分布的微小變化，是高成功率執行這個 sweep 的關鍵時機技巧。",
+    "answer_line": "對手重心傾向 hook 側",
+    "distractors": {
+     "plausible": [
+      "對手遠離、採防守姿態",
+      "對手坐回、壓平身體"
+     ],
+     "trap": [
+      "對手把髖部向後 sprawl"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在布局 Butterfly Half Guard Sweep 時，最早出現的辨識線索是什麼？",
+    "answer": "最早的線索是他們把髖部角度調整到相對於你中心線大約 45 度，並在 butterfly 那一側積極爭奪 underhook。這個角度調整會在任何抬升開始之前，就先創造出對角 sweep 的軌跡。及早辨識這一點，能讓你在對手把你的重心加載到 hook 上之前，就先發動防守動作，例如 whizzer underhook 或把髖部向後 sprawl。",
+    "answer_line": "髖部呈 45°，爭奪 underhook",
+    "distractors": {
+     "plausible": [
+      "對手緊抓 collar",
+      "對手把髖部壓低放平"
+     ],
+     "trap": [
+      "對手挺身站高 posture"
+     ]
+    }
+   },
+   {
+    "question": "為什麼即使把手撐在地面上能阻止立即的 sweep，卻仍會造成脆弱性？",
+    "answer": "撐手雖然能創造緊急 base 阻止一個方向的 butterfly sweep，但也會把你的重心投入到一側，並佔用你的一隻手臂。這會給對手機會轉換成 100% Sweep 或 Old School Sweep，這兩個技術正好針對你因為手臂被佔用而無法防守的那一側。撐手只是短期的緊急應對，卻會造成另一個需要立即後續處理的長期問題。",
+    "answer_line": "投入重心，開啟破口",
+    "distractors": {
+     "plausible": [
+      "完全阻止所有 sweep",
+      "只會影響平衡"
+     ],
+     "trap": [
+      "忽略它，不用後續處理"
+     ]
+    }
+   },
+   {
+    "question": "對手開始用協調的 hook 驅動與 underhook 拉動發動 sweep——你的立即反應是什麼？",
+    "answer": "立刻用力把髖部向後 sprawl，同時把遠側的手撐寬在地面上做緊急 base。同時把肩膀驅入他們的胸口，破壞他們的坐姿 posture，瓦解他們的結構。不要試圖直接硬扛抬升力。如果 sweep 已經超過臨界點，就順著動作走，立刻專注於建立 guard recovery，而不是從一個不利的角度硬拚一個已經輸掉的位置。",
+    "answer_line": "sprawl、撐手、驅動肩膀",
+    "distractors": {
+     "plausible": [
+      "保持僵硬，直接硬扛",
+      "只撐近側的手"
+     ],
+     "trap": [
+      "拉 guard 坐回去"
+     ]
+    }
+   },
+   {
+    "question": "當對手已經建立主動 hook 的 Butterfly Half Guard 時，你該如何管理重心分布？",
+    "answer": "保持髖部低而沉重，重心以對角方式偏離 butterfly hook 那一側。你的近側髖部應壓向對手身體，遠側腿則提供寬廣的 base 撐地。避免把重心投入到 butterfly hook 的上方，因為這正是對手發動 sweep 所需要的加載條件。把你的重心分布想像成一個三腳架：兩點透過你的身體接觸，第三點則透過你撐出的自由腿。",
+    "answer_line": "重心低、對角、三腳架",
+    "distractors": {
+     "plausible": [
+      "重心壓在 hook 側前方",
+      "重心正對，雙腳都撐地"
+     ],
+     "trap": [
+      "立刻把手撐在地上"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Half Guard Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

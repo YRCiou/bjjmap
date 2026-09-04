@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame Escape from Shoulder of Justice.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Shoulder of Justice 的壓迫是設計來誘發什麼最關鍵的錯誤？為什麼這麼危險？",
+    "answer": "肩膀壓迫是特別設計來誘使你把靠近的那隻手臂伸直，想把肩膀從下顎推開。這很危險，因為這會立刻讓手臂暴露在 kimura 攻擊之下，而從這個位置發動的 kimura 由於對手身位與槓桿角度佔優勢，完成率極高。正確的做法是讓靠近的手臂始終緊貼身體。",
+    "answer_line": "手臂伸直會暴露 kimura",
+    "distractors": {
+     "plausible": [
+      "直接向上 bridge",
+      "轉為腹部朝下"
+     ],
+     "trap": [
+      "縮成 turtle 保護頸部"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你的 hip escape 時機必須配合對手體重轉移，而不是在壓力最大時嘗試逃脫？",
+    "answer": "在壓力最大時，對手的全身體重都透過肩膀壓在你下顎上，底盤穩固、髖部緊貼。在這種壓力下逃脫在力學上是徒勞的，還會浪費關鍵體力。當對手調整姿勢、伸手抓握或做轉換時，會出現體重轉移，這時壓迫的方向會暫時減弱，製造出讓你的 hip escape 真正能產生空間的時機窗口。",
+    "answer_line": "在體重轉移時逃脫",
+    "distractors": {
+     "plausible": [
+      "在壓力最大時逃脫",
+      "frame 一架好就立刻逃脫"
+     ],
+     "trap": [
+      "對全力壓迫硬做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "對手察覺到你要架 frame，立刻加大髖部壓力，你要如何應對？",
+    "answer": "把 frame 維持在目前的位置，不要推、也不要試圖製造動作。對手無法無限期維持最大壓力，遲早需要調整或轉換。耐心是關鍵。把你的 frame 當作靜態的結構屏障維持著，等到下一次真正的體重轉移機會出現時，再重新開始逃脫嘗試。",
+    "answer_line": "維持 frame，等待轉移",
+    "distractors": {
+     "plausible": [
+      "對抗壓力更用力推",
+      "從頭重新架 frame"
+     ],
+     "trap": [
+      "放棄 frame，爆發性 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你的 hip escape 正確方向是哪裡？方向為什麼重要？",
+    "answer": "把你的 hip escape 導向遠離對手頭部的方向，朝對手的髖部與腿部移動。朝頭部方向逃脫會招來 north-south 的轉換，讓對手能繞過你的頭部、建立更具優勢的位置。朝對手腿部方向移動則會自然製造出插入 knee shield 與恢復 half guard 所需的角度。",
+    "answer_line": "朝髖部逃脫，而非朝頭部",
+    "distractors": {
+     "plausible": [
+      "直直往後逃脫",
+      "繞向遠側"
+     ],
+     "trap": [
+      "朝頭部方向逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 knee shield 必須與 hip escape 同時插入，而不是之後才插入？",
+    "answer": "如果你在製造出空間與插入 knee shield 之間停頓，對手會立刻重新縮短距離、重新建立肩膀壓迫。hip escape 製造出的空間窗口是暫時的，必須立刻用結構性屏障填補起來。knee shield 能鎖住這個空間，防止對手回到 Shoulder of Justice。",
+    "answer_line": "立刻插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "完全逃脫後再插膝蓋",
+      "先插入 knee shield"
+     ],
+     "trap": [
+      "先停下來重整底盤"
+     ]
+    }
+   },
+   {
+    "question": "你做 hip escape 時，對手開始跨腿要上 mount，你要做什麼調整？",
+    "answer": "立刻把插入膝蓋的優先順序放在繼續 shrimp 拉開距離之前。把靠近的膝蓋頂過對手的髖線，阻擋對手的腿完成跨越。就算只是部分的 knee shield，也能防止對手完全建立 mount。如果對手已經跨過一條腿，你就恢復到 half guard，而不是讓對手取得完整 mount——這仍然算是從 Shoulder of Justice 部分成功的逃脫。",
+    "answer_line": "用膝蓋阻擋跨腿動作",
+    "distractors": {
+     "plausible": [
+      "bridge 把對手甩開",
+      "繼續 shrimp 拉空間"
+     ],
+     "trap": [
+      "用雙手推對手的髖部"
+     ]
+    }
+   },
+   {
+    "question": "呼吸在這個逃脫技的成功中扮演什麼角色？應該維持什麼樣的呼吸方式？",
+    "answer": "鼻腔呼吸能啟動副交感神經系統，維持鎮定，防止下顎壓力設計用來觸發的恐慌反應。用嘴呼吸則會加速壓力反應，導致快速疲勞與反射性的倉促決策。在整個逃脫序列中，即使在最不舒服的時刻，也要維持穩定的鼻腔吸氣、吐氣循環。",
+    "answer_line": "維持穩定鼻腔呼吸",
+    "distractors": {
+     "plausible": [
+      "用嘴深呼吸",
+      "壓力下憋氣"
+     ],
+     "trap": [
+      "快速用嘴呼吸來蓄力"
+     ]
+    }
+   },
+   {
+    "question": "成功插入 knee shield 之後，你必須立刻做什麼，以防止對手重新建立控制？",
+    "answer": "立刻鞏固完整的 half guard：把對手被困的那條腿纏鎖住，轉身側身面向對手，並爭取被困腿那一側的 underhook。如果只有 knee shield、身體仍平躺在背上，對手就能從優勢的 crossface 位置開始他的 half guard 過關序列。",
+    "answer_line": "鞏固 half guard，取得 underhook",
+    "distractors": {
+     "plausible": [
+      "保持平躺、只守住 knee shield",
+      "把對手頭部推開"
+     ],
+     "trap": [
+      "急著嘗試 guard pass sweep"
+     ]
+    }
+   },
+   {
+    "question": "在整個逃脫過程中，你靠近那側的手臂應該維持什麼樣的抓握與姿勢？為什麼這是不容妥協的？",
+    "answer": "讓靠近那側的手肘牢牢黏在自己的肋骨上，前臂扮演骨對骨的楔子頂住對手的髖部，絕不能伸直手臂去推。這是不容妥協的，因為手肘與肋骨之間只要出現分離，就會立刻送出 kimura 的抓握機會，而這正是從 Shoulder of Justice 完成率最高的終結技。frame 必須靠骨骼結構製造空間，而不是靠手臂伸展。",
+    "answer_line": "手肘永遠黏著肋骨",
+    "distractors": {
+     "plausible": [
+      "前臂橫過對手臉部",
+      "抓對手遠側衣領"
+     ],
+     "trap": [
+      "伸直手臂把肩膀推開"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 frame 已經到位，卻因為對手髖對髖的連結太沉重而無法製造出任何空間，應該切換到哪個變化型？",
+    "answer": "切換到 Elbow Wedge Frame Escape，用靠近那側尖銳的手肘直接頂進對手的髖骨，而不是用扁平的前臂。這個較小、較硬的接觸點更難被壓垮，再搭配 bridge-shrimp 的組合動作，能在對抗一般前臂 frame 都無法對付的極沉重連結時，讓每個動作循環都製造出最大的空間。",
+    "answer_line": "改用 Elbow Wedge Escape",
+    "distractors": {
+     "plausible": [
+      "改用雙 underhook",
+      "改用 bridge and roll"
+     ],
+     "trap": [
+      "用扁平前臂更用力推"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要辨識底部的人正在準備有系統的 frame escape，而不是恐慌反應，最早的線索是什麼？",
+    "answer": "受控的鼻腔呼吸是最早的指標。當底部的人從用嘴呼吸或紊亂的呼吸，轉變為穩定的鼻腔呼吸節奏時，代表他已經重新恢復鎮定，正在準備有系統的逃脫序列。這正是你應該搶先加大壓力、控制他靠近側手臂，或開始轉換位置以防止這個有系統逃脫嘗試的最佳時機。",
+    "answer_line": "受控的鼻腔呼吸",
+    "distractors": {
+     "plausible": [
+      "突然爆發性 bridge",
+      "說話或口頭表現挫折"
+     ],
+     "trap": [
+      "身體放鬆、沒有張力"
+     ]
+    }
+   },
+   {
+    "question": "對手成功對你的髖部建立起前臂 frame，最優先的反制是什麼？",
+    "answer": "立刻把體重更沉重地透過肩膀壓下去，把髖部坐得更低、壓在對手的髖線上，在 frame 發展出結構強度之前把它壓垮。不要伸手去抓那隻手臂或試圖用手把它移開，因為這樣會降低你的壓迫。要用全身體重、透過肩膀與髖部的連結，把 frame 壓扁貼平在對手身上。",
+    "answer_line": "用體重壓垮 frame",
+    "distractors": {
+     "plausible": [
+      "抓住並移開對手的手臂",
+      "改攻對側"
+     ],
+     "trap": [
+      "把對手做 frame 的手臂拉開"
+     ]
+    }
+   },
+   {
+    "question": "底部的人做 hip escape 製造出空間，你應該重新安頓回 Shoulder of Justice，還是推進到 mount？",
+    "answer": "應該把靠近側的腿跨過對手身體，推進到 mount。一旦底部的人已經透過 hip escape 製造出明顯的空間，嘗試重新安頓回 Shoulder of Justice 需要對抗已經建立的 frame 縮短距離，既耗費體力又可能失敗。推進到 mount 能善用對手製造出的空間。只有在對手已經插入擋住跨腿的 knee shield 時，才應該重新安頓回原位。",
+    "answer_line": "跨腿推進到 mount",
+    "distractors": {
+     "plausible": [
+      "重新安頓回 Shoulder of Justice",
+      "後退重整底盤"
+     ],
+     "trap": [
+      "用前臂追著壓下顎"
+     ]
+    }
+   },
+   {
+    "question": "要如何一邊維持肩膀壓迫，一邊防止對手抓準你體重轉移的時機來嘗試逃脫？",
+    "answer": "盡量減少不必要的調整動作，因為那會製造出體重轉移的時機窗口。真的需要調整時，用上半身的小幅度動作來完成，同時讓髖部始終緊貼對手的髖線。讓調整的時機與節奏不規律地變化，而不是落入對手能夠讀出並利用的固定模式。",
+    "answer_line": "調整時機不規律",
+    "distractors": {
+     "plausible": [
+      "用固定節奏調整",
+      "頻繁鬆開髖部再調整"
+     ],
+     "trap": [
+      "抬起髖部來重新調整位置"
+     ]
+    }
+   }
+  ]
+ }
+}

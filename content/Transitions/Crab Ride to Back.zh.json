@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crab Ride to Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Crab Ride to Back 的轉換過程中，建立控制的正確順序是什麼？",
+    "answer": "正確的順序是：先建立 Crab Ride 位置，配上第一個 hook 和近側手臂控制；接著開始建立 seat belt 抓握，把上方的手扣過對方遠側肩膀；然後放開近側手臂控制，立刻把下方的手插入對方近側腋下，完成 seat belt；再插入第二個 hook，同時維持 seat belt 控制；接著透過翻滾或滑動完成轉換到 back mount；最後鞏固 back control 位置。這個順序確保在整個轉換過程中持續維持控制，不給對方任何逃脫機會。",
+    "answer_line": "先控制近側手臂，再做 seat belt",
+    "distractors": {
+     "plausible": [
+      "在做 seat belt 前先插入兩個 hook",
+      "先完成 seat belt 再插入 hooks"
+     ],
+     "trap": [
+      "在固定 hook 之前先放開近側手臂"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在這個轉換的早期階段控制對手的近側手臂如此關鍵？",
+    "answer": "控制近側手臂能阻止對手撐地建立強力的防守框架，否則對方可能因此擋下 seat belt 的完成，甚至有機會逃回 guard 或站起來。近側手臂控制能讓對手在你建立 seat belt 抓握時，姿勢持續受損、base 受限。一旦 seat belt 部分建立完成，你就可以放開近側手臂，去完成抓握的下半部，而不用給對手時間建立防守框架。",
+    "answer_line": "阻止對手撐地建立框架",
+    "distractors": {
+     "plausible": [
+      "為了立刻設置 kimura 進攻",
+      "騰出雙手準備 choke"
+     ],
+     "trap": [
+      "讓他們撐地來誘發 scramble"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中對手坐向自己髖側，並開始轉身面向你——你該如何調整？",
+    "answer": "如果對手轉身面向你，先維持穩固的近側手臂控制，並用你的 hook 阻止髖部的移動。如果他們成功開始轉身，就跟隨他們的動作，轉換到 crucifix 或 truck 這類替代位置，而不是硬拚 back take 而可能整個丟掉位置。他們的轉身動作，經常會暴露出遠側手臂，讓你進入 crucifix，或創造出腿部纏繞的機會，讓你進入 truck 位置。這說明了一個原則：跟隨對手的動作，而不是死板地套用固定技巧。",
+    "answer_line": "跟隨轉身進入 crucifix 或 truck",
+    "distractors": {
+     "plausible": [
+      "無論如何都硬做 back take",
+      "放開 hook 重設位置"
+     ],
+     "trap": [
+      "為了搶分硬拚翻滾"
+     ]
+    }
+   },
+   {
+    "question": "適當的 hook 深度，如何影響 Crab Ride to Back 這個轉換的成功率？",
+    "answer": "把 hook 深深固定在髖部凹陷處，並用腳控制住髖屈肌，這對於整個轉換過程維持控制至關重要，尤其是在翻滾或滑動進入 back mount 的階段。淺的 hook 在轉換過程中容易被對手清除，導致失去位置或被逆轉。深的 hook 能撐過動態的移動過程，並提供鞏固 back control 所需的穩定性。深度必須在你投入最後轉換階段之前就先建立好。",
+    "answer_line": "把 hook 深深固定在髖部凹陷處",
+    "distractors": {
+     "plausible": [
+      "hook 放在大腿任何位置都可以",
+      "為了快速插入而用淺 hook"
+     ],
+     "trap": [
+      "用淺 hook，提早投入翻滾"
+     ]
+    }
+   },
+   {
+    "question": "這個技巧的「翻滾式進入 back」和「滑動式進入 back」兩種變化，主要差異是什麼？",
+    "answer": "翻滾式進入 back 的變化，適用於對手被壓平在 turtle、下方幾乎沒有空間的情況。你把身體受控地翻向側邊，同時把對方一起帶著轉，結束時對方在前、你在他們背後。滑動式進入 back 的變化，則適用於對手下方還有空間的情況。你把髖部滑過去，同時把對方往你身上拉，不需要完整翻滾就能轉換到 back mount。兩者都需要維持 seat belt 控制和深的 hooks，但選擇哪一種取決於對手的姿勢和可用的空間。",
+    "answer_line": "壓平時翻滾，有空間時滑動",
+    "distractors": {
+     "plausible": [
+      "壓平時滑動，有空間時翻滾",
+      "翻滾需要深 hook，滑動不需要"
+     ],
+     "trap": [
+      "放掉 seat belt 才能滑過去"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中對手用他們的腿困住你下方的 hook——正確的應對方式是什麼？",
+    "answer": "暫時接受單 hook 的局面，而不是急著硬拚去掙脫，因為那樣的掙扎會製造出逃脫空間。你的首要任務是維持緊密的 seat belt 控制，並用你空出的那條腿去撐地並調整角度。被困住的 hook 其實可以當成一個固定點，你可以利用它作為支點，爭取更好的位置。如果纏繞進一步加深，可以考慮轉換到 truck control，這時腿部配置反而對你有利，可以進攻 twister 或 calf slicer，同時仍保有通往 back control 的路徑。",
+    "answer_line": "保住 seat belt，別硬拚 hook",
+    "distractors": {
+     "plausible": [
+      "立刻硬把 hook 扯出來",
+      "放棄 seat belt 去解放腿"
+     ],
+     "trap": [
+      "立刻拚命掙脫 hook"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，什麼樣的抓握配置能提供最穩固的 seat belt 控制？",
+    "answer": "用 gable grip 或 S-grip，一隻手臂扣過對方遠側肩膀，另一隻手臂穿過近側腋下，這樣能提供這個轉換過程中最穩固的 seat belt。扣在上方的那隻手臂，應該是準備 choke 那一側的手，這樣一旦鞏固了 back control，就已經處於進攻 rear naked choke 的位置。把雙手在對手胸骨高度扣緊，手肘貼緊自己身體，防止對手個別剝離抓握。避免用扣指的方式，因為這種抓法在受力時比手掌對手掌的配置更容易鬆脫。",
+    "answer_line": "gable grip，choke 手在上方",
+    "distractors": {
+     "plausible": [
+      "扣指以求更緊的鎖定",
+      "抓在對手鎖骨位置"
+     ],
+     "trap": [
+      "為了求快而鬆鬆地扣指"
+     ]
+    }
+   },
+   {
+    "question": "投入最後的翻滾或滑動進入 back mount，最佳的時機窗口是什麼？",
+    "answer": "最佳窗口出現在同時滿足三個條件的時候：兩個 hook 都深深固定在髖部凹陷處、seat belt 已鎖緊雙手扣合，而且對手做出防守性的動作，例如試圖壓平身體、把重心前移，或伸手去抓你的抓握點。他們的防守動作會製造出短暫的不穩定，你可以順著他們的移動方向翻滾或滑動加以利用。如果在對手完全靜止、姿態穩固的時候投入，需要用上明顯更大的力量，而且失敗率也更高，遠不如順著對方的動作抓時機。",
+    "answer_line": "對手做出防守動作的時候",
+    "distractors": {
+     "plausible": [
+      "對手穩固不動的時候",
+      "只要有一個 hook 進去就投入"
+     ],
+     "trap": [
+      "在對方姿態穩固時硬做"
+     ]
+    }
+   },
+   {
+    "question": "當對手有效防守時，該如何串連 submission 威脅來製造 back take 的機會？",
+    "answer": "從 Crab Ride 開始，威脅進攻近側手臂的 kimura，或是在對手低頭時威脅 darce choke。這些威脅會逼出對方特定的防守反應：防守 kimura 通常需要對手把手臂拉緊夾住，這會削弱他們撐地的能力；防守 darce 則會逼對方抬頭並伸展身體，這會製造出讓你插入 hook 的空間。submission 本身不需要真的完成——防守反應本身就會打開通往 back take 的路徑。這種進攻串連正是讓 Crab Ride 系統如此有效的位置困境。",
+    "answer_line": "威脅 kimura 或 darce 打開路徑",
+    "distractors": {
+     "plausible": [
+      "在 back take 之前先完成 kimura",
+      "忽略 submission，只專注 hooks"
+     ],
+     "trap": [
+      "全力投入完成 kimura"
+     ]
+    }
+   },
+   {
+    "question": "要有效執行這個轉換，最重要的身體素質是什麼？為什麼？",
+    "answer": "相較於單純的力量或柔軟度，髖部的靈活度以及流暢改變髖部角度的能力，對這個轉換更為重要。整個動作序列需要持續的髖部調整：轉角度插入第一個 hook、位移建立 seat belt、重新調整位置插入第二個 hook，最後透過翻滾或滑動旋轉進入 back mount。髖部僵硬的練習者，往往會在這些調整過程中製造出空間，給對手逃脫的機會。專門訓練 hip circles、switch base 練習和 granby roll，能有效提升順暢執行所需要的髖部靈活度。",
+    "answer_line": "髖部靈活度與角度變換能力",
+    "distractors": {
+     "plausible": [
+      "seat belt 所需的抓握力",
+      "雙腿整體的柔軟度"
+     ],
+     "trap": [
+      "靠蠻力硬做翻滾"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要從 Crab Ride to Back 逃脫，最關鍵的時機點是什麼？",
+    "answer": "最關鍵的逃脫窗口，出現在進攻方放開近側手臂控制、準備建立 seat belt 抓握的那一刻。在這個短暫的轉換過程中，進攻方對你撐地能力的控制降低，而且他們的重心也會為了配合抓握變化而移動。在這個時機做出時機精準的 sit-through、Granby roll，或爆發性起身，成功率最高，因為你利用的是控制配置之間的空檔，而不是硬拚已經完全建立的控制點。",
+    "answer_line": "他們放開近側手臂抓握時",
+    "distractors": {
+     "plausible": [
+      "兩個 hook 都插入之後",
+      "最後翻滾進入 back 的過程中"
+     ],
+     "trap": [
+      "等到 seat belt 鎖緊之後"
+     ]
+    }
+   },
+   {
+    "question": "為什麼把所有防守精力都放在卸除 hook、卻忽略 seat belt，是個錯誤？",
+    "answer": "seat belt 提供了讓進攻方能夠隨時重新插入 hook 的上半身優勢控制。就算你暫時卸掉一個 hook，只要 seat belt 完成，進攻方仍然維持胸背貼合以及足夠的手臂控制，可以輕易地把 hook 重新穿回來。有效的防守必須同時處理這兩層控制：手肘貼緊，拒絕讓對方拿到 underhook 來完成 seat belt，同時用積極的髖部移動和腿部防守來管理 hook 的深度。只卸 hook 而不處理 seat belt，就像只舀水卻不堵住破洞一樣。",
+    "answer_line": "seat belt 讓他們能重插 hook",
+    "distractors": {
+     "plausible": [
+      "hook 比 seat belt 更重要",
+      "卸掉一個 hook 就能解除威脅"
+     ],
+     "trap": [
+      "忽略 seat belt，只卸 hook"
+     ]
+    }
+   },
+   {
+    "question": "在較長的防守 Crab Ride to Back 過程中，該如何管理你的體力？",
+    "answer": "積極防守，但把爆發性的體力保留給特定的逃脫窗口，而不是持續維持最大強度。在嘗試逃脫的空檔，專注於維持穩固的 turtle base、手肘貼緊、下巴收緊，並配合有控制的呼吸。當你察覺到進攻方的抓握轉換或重心移動時，全力投入單一一次、方向明確的爆發性技巧。如果逃脫嘗試失敗，立刻回到積極防守與恢復狀態，而不是連續嘗試多次力道不足的動作，那只會耗盡體力，卻創造不出真正的逃脫機會。",
+    "answer_line": "把爆發力留給真正的窗口",
+    "distractors": {
+     "plausible": [
+      "持續爆發以消耗對方體力",
+      "連續嘗試多次力道不足的逃脫"
+     ],
+     "trap": [
+      "每次嘗試都全力以赴"
+     ]
+    }
+   },
+   {
+    "question": "對手已經插入一個 hook，正伸手越過你遠側肩膀準備做 seat belt——你的防守優先事項是什麼？",
+    "answer": "你的首要任務是阻止 seat belt 完成，用你遠側的手去對抗對方伸過來的手臂，同時朝 hook 那一側展開 sit-through。這個伸手的動作會造成對方重心短暫向前上方移動，削弱他們 hook 的固定力。在對方伸手的同時，把你近側的髖部下沉到地墊並轉身面向他們，你就能利用這個控制被分散在維持 hook 和建立新抓握之間的窗口。這是整個轉換序列中防守時機成功率最高的一刻。",
+    "answer_line": "朝 hook 那一側做 sit-through",
+    "distractors": {
+     "plausible": [
+      "朝遠離 hook 的方向做 sit-through",
+      "轉身避開以保護頸部"
+     ],
+     "trap": [
+      "撐手穩住，保持不動"
+     ]
+    }
+   },
+   {
+    "question": "在整個 Crab Ride 過程中，即使還沒開始嘗試逃脫，你應該維持什麼樣的防守身體姿勢？",
+    "answer": "維持緊密的 turtle 姿勢，膝蓋要張得足夠寬以維持 base，但不能太寬而失去髖部的靈活度。手肘夾緊身體兩側，拒絕對方拿到 underhook 的機會；下巴收向胸口，預先保護頸部；肩膀微微聳起，減少對方能用來做 over-shoulder 抓握的空間。你的重量應該主動分散在四個撐地點上，而不是被動地坐著。這樣的防守姿勢雖然不能讓你直接逃脫這個位置，但能明顯拖慢進攻方推進控制序列的速度，為你爭取時間找出逃脫窗口。",
+    "answer_line": "緊密 turtle，手肘貼緊，下巴收緊",
+    "distractors": {
+     "plausible": [
+      "雙臂張開，base 拉寬",
+      "身體放平以降低重心"
+     ],
+     "trap": [
+      "早期先放鬆 base 保留體力"
+     ]
+    }
+   }
+  ]
+ }
+}

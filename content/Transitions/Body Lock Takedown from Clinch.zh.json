@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Body Lock Takedown from Clinch.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "body lock 的最佳抓握高度是多少？這對 takedown 的力學為什麼重要？",
+    "answer": "body lock 應該固定在對手下肋骨的高度，大約與肚臍同一條線。這個高度能直接控制對手的重心，代表你的驅動力會帶動對手整個身體一起移動，而不只是上半身。如果抓得太高、繞在胸口附近，對手就能獨立於上半身，單獨轉動 hip，抵銷你的驅動力。如果抓得太低、繞在腰際，又無法充分控制對手的姿態，讓對手能撐起身體並抵抗。下肋骨的位置在控制重心與破壞姿態之間，取得最理想的平衡。",
+    "answer_line": "在下肋骨處扣鎖",
+    "distractors": {
+     "plausible": [
+      "低抓在腰際",
+      "抓在背部中段，雙手交扣"
+     ],
+     "trap": [
+      "高抓在胸口附近"
+     ]
+    }
+   },
+   {
+    "question": "當你開始用 body lock 向前驅動時，對手把 hip 往後 sprawl——你該如何調整？",
+    "answer": "當對手 sprawl 時，他們的 hip 會遠離你，但因為 body lock 抓握的緣故，上半身仍相對貼近你。這創造出一個機會，讓你從向前驅動改成側向摔倒——側踏一步，把對手拉過你的 hip，把對手向後的抵抗轉化為旋轉方向上的弱點。另外，如果 sprawl 製造出足夠的空間，你可以放開一側的 body lock，立刻搶攻對手此時重心已壓在前腳的 single leg。關鍵是及早察覺 sprawl，順勢轉向，而不是硬對抗對手的防守角度。",
+    "answer_line": "轉換成側向摔倒",
+    "distractors": {
+     "plausible": [
+      "繼續直直向前驅動",
+      "改成 double leg"
+     ],
+     "trap": [
+      "放開 lock，往後退"
+     ]
+    }
+   },
+   {
+    "question": "相對於對手，你應該以什麼角度驅動？這為什麼很關鍵？",
+    "answer": "以 45 度角朝你頭部所在的那一側驅動，而不是直直向前。直線驅動會讓對手能用雙腿平均抵抗，形成一個非常難以突破的對稱防守結構。45 度角攻擊的是對手的側向平衡，讓對手只能用一條腿撐地，站姿對側向位移幾乎沒有抵抗力。這個角度驅動也會自然形成一條繞過對手 hip 線的路徑，這對於完成 takedown、避免卡在僵局中至關重要。",
+    "answer_line": "朝頭側 45 度驅動",
+    "distractors": {
+     "plausible": [
+      "直線向前驅動",
+      "朝頭部對側 45 度驅動"
+     ],
+     "trap": [
+      "完全繞到對手背後"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定了 body lock takedown 時你的頭應該放在哪一側？",
+    "answer": "你的頭應該放在你 underhook 最強、或抓握最深的那一側，因為這樣能創造出力學上最有利的驅動角度。此外，把頭放在對手 base 較弱的那一側，通常是站姿較窄或腳步位置較靠後的那一側。頭部就像方向楔子，決定整個 takedown 的軌跡。在驅動過程中途換邊非常困難，通常會導致嘗試失敗，所以在開始驅動之前就要確定頭部位置。",
+    "answer_line": "頭放在 underhook 最強的一側",
+    "distractors": {
+     "plausible": [
+      "頭朝向對手較強的一側",
+      "頭放在較高的一側"
+     ],
+     "trap": [
+      "驅動途中換頭側"
+     ]
+    }
+   },
+   {
+    "question": "最常見的抓握位置錯誤是什麼？它如何降低 takedown 的效果？",
+    "answer": "最常見的錯誤是把 body lock 扣得太高，繞在對手的胸口或腋下附近。這種高位抓握能控制對手的肩膀與上半身，卻讓對手的 hip 能自由獨立移動。當你用高位抓握向前驅動時，對手可以直接把 hip 轉離你的驅動方向、把腿移出危險範圍，或是在上半身跟著你移動的同時把 hip 往後 sprawl。修正方式是確保抓握固定在下肋骨，這樣能把對手的重心與你的驅動力綁在一起，消除讓對手能用腳步防守的那種 hip 獨立性。",
+    "answer_line": "抓握扣在胸口太高",
+    "distractors": {
+     "plausible": [
+      "抓握扣在 hip 太低",
+      "抓握鬆散，雙手沒扣緊"
+     ],
+     "trap": [
+      "抓得高，硬用蠻力驅動"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試扣緊 body lock 時，對手在纏鬥中贏得了 underhook——你的立即反應是什麼？",
+    "answer": "不要在對手已經建立 underhook 的情況下硬要扣緊 body lock，這樣做不但會失敗，還會浪費體力。應該先處理 underhook，可以積極重新纏鬥搶回內側位置，或轉換成利用對手 underhook 反制對手的攻擊。此時 snap down 會變得非常好用，因為對手的 underhook 讓他們的重心被迫向前投入，而對 underhook 那隻手臂做 arm drag 則可以讓對手背後暴露。一旦你化解或搶回了 underhook 的劣勢，再重新嘗試扣緊 body lock。要正確建立 body lock，至少需要一個 underhook。",
+    "answer_line": "重新纏鬥搶回內側位置",
+    "distractors": {
+     "plausible": [
+      "硬用蠻力把 lock 扣上",
+      "降低重心搶攻 double leg"
+     ],
+     "trap": [
+      "轉身背對對手試圖脫身"
+     ]
+    }
+   },
+   {
+    "question": "你的腿和 hip 在為 takedown 產生驅動力的過程中扮演什麼角色？",
+    "answer": "你的腿和 hip 是整個 takedown 的主要力量來源。驅動力從你的後腳蹬地開始，透過 hip 傳導，進入扣緊的 body lock 抓握，連結到對手的重心。你的 hip 向前並略微向下驅動，產生一個既能把對手往後移動、也能把對手姿態往下壓垮的力向量。你的手臂與扣緊的抓握只是一個剛性的傳導系統，負責傳遞由腿部產生的力量。只靠上半身力量嘗試驅動，效率低、非常耗體力，而且產生的力量不足以撼動一個正在抵抗的對手。",
+    "answer_line": "腿與 hip 驅動力量",
+    "distractors": {
+     "plausible": [
+      "手臂與肩膀驅動力量",
+      "背部肌肉產生驅動力"
+     ],
+     "trap": [
+      "只靠手臂用力拉"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的驅動被擋下，但你仍維持 body lock 抓握，這時有哪些連續攻擊可用？",
+    "answer": "只要在驅動被擋下後仍維持 body lock，就有幾個連續攻擊可用。第一，可以對對手的前腳發動內側絆摔，因為對手的重心正防禦性地分布在對抗你的驅動上。第二，往相反方向的側向摔倒能出其不意，因為對手的防守姿態是針對原本的驅動方向調整的。第三，你可以放開一隻手，攻擊 knee tap 或 single leg，同時用另一隻手臂維持上半身控制。第四，改變角度後再次嘗試驅動通常會成功，因為對手在第一次嘗試中的防守姿態，往往已經在其他方向上犧牲了他們的 base。",
+    "answer_line": "內側絆摔或側向摔倒",
+    "distractors": {
+     "plausible": [
+      "重新回到中性纏鬥",
+      "放棄並搶攻 double leg"
+     ],
+     "trap": [
+      "把頭埋低再次驅動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個 takedown 過程中維持胸貼胸的接觸至關重要？",
+    "answer": "胸貼胸的接觸有三個關鍵作用。第一，它消除了對手用前臂或手肘插入防守 frame 所需的空間，這種 frame 會製造分離、扼殺驅動力。第二，它確保你的體重能在整個 takedown 過程中持續貢獻向前的壓力，為你的驅動力加上重力的助力。第三，在倒地過程中，胸口接觸能阻止對手創造距離去恢復 guard hooks 或建立防守結構，讓你能搶先轉換到 side control。takedown 任何階段的分離，都會製造出對手可以利用的防守機會。",
+    "answer_line": "扼殺 frame，杜絕逃脫空間",
+    "distractors": {
+     "plausible": [
+      "提升你的抓握力量",
+      "讓對手的平衡維持均衡"
+     ],
+     "trap": [
+      "拉開距離產生力量"
+     ]
+    }
+   },
+   {
+    "question": "從完成 takedown 到轉換至 side control 的過程中，正確的身體位置應該是什麼？",
+    "answer": "落地後立刻在一到兩秒內放開 body lock 抓握，建立 side control：用你近側的前臂壓過對手臉部做 crossface，同時用遠側的手擋住對手的 hip，阻止對手插膝蓋。把你的雙腿向後 sprawl，把 hip 移出對手恢復 guard 的範圍之外，避免對手勾住你的腿建立 half guard 或 closed guard。你的胸口應該與對手軀幹保持垂直，用沉重的肩膀壓力把對手的頭壓離你。這個轉換的速度至關重要，因為從落地到對手建立防守結構之間的空檔非常短暫。",
+    "answer_line": "crossface、擋 hip、雙腿 sprawl",
+    "distractors": {
+     "plausible": [
+      "坐後喘口氣",
+      "直接搶攻 submission"
+     ],
+     "trap": [
+      "維持胸貼胸，hip 向前"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你能察覺並防守 body lock takedown 進攻的最早時機點是什麼？",
+    "answer": "最早的察覺時機，是在抓握對抗階段，當對手開始從一般的纏鬥抓握，轉換成環繞身體的手臂位置時。留意對手是否放開 collar tie 或頭部控制，把雙臂游向你的背後。在這個階段，積極的手部對抗、並至少維持一個 underhook，能阻止 body lock 扣緊，這比抓握已經扣上之後才防守要容易得多。從對手放開纏鬥抓握到建立 body lock 之間的這段空檔，是成功率最高的防守機會。",
+    "answer_line": "對手把雙臂游向你背後",
+    "distractors": {
+     "plausible": [
+      "當 hip 開始向前驅動時",
+      "當對手扣緊 body lock 時"
+     ],
+     "trap": [
+      "等到 lock 扣緊後再說"
+     ]
+    }
+   },
+   {
+    "question": "對手已經扣緊 body lock，並開始蓄力準備驅動——你成功率最高的防守回應是什麼？",
+    "answer": "立刻深深彎曲膝蓋，把 hip 往下沉，降低重心，讓驅動變得大幅困難。同時在一側建立 overhook，用空出來的手在驅動的那一側對對手的 hip 做 frame。如果對手開始驅動，就把 hip 往後 sprawl，並朝有 overhook 的那一側轉圈，破壞對手的驅動角度。如果驅動仍然壓過你的防守，就用內側的腿去勾住對手的近側腿，確保落地時是 half guard 而不是 side control。降 hip、建立 frame、sprawl、勾腿，這種分層式的回應提供多重防守關卡。",
+    "answer_line": "降 hip、建 frame、搶 overhook、sprawl",
+    "distractors": {
+     "plausible": [
+      "伸直手臂推對手胸口",
+      "把對手的頭往下拉"
+     ],
+     "trap": [
+      "站得筆直，用手臂推開"
+     ]
+    }
+   },
+   {
+    "question": "防守 body lock 時，為什麼向前傾並推對手胸口很危險？",
+    "answer": "向前傾並伸直手臂推，正好造成攻擊方最容易利用的身體排列。你向前傾會讓重心移到 base 前方，讓攻擊方更容易把你的動能轉為向下。伸直的手臂對側向或角度性的驅動幾乎沒有結構性的抵抗力，因為在那些方向上缺乏骨骼排列的支撐。此外，如果交鋒轉到地面，伸直的手臂也容易遭受 kimura 與 americana 的轉換攻擊。正確做法是把手肘收緊、降低 hip，並用緊實的前臂結構對對手的 hip 做 frame。",
+    "answer_line": "抬高重心，毫無結構支撐",
+    "distractors": {
+     "plausible": [
+      "更快讓抓握疲勞",
+      "太早暴露你的意圖"
+     ],
+     "trap": [
+      "伸直手臂，用力推胸口"
+     ]
+    }
+   },
+   {
+    "question": "如果你無法阻止 takedown 完成，在倒地過程中你的優先事項應該是什麼？",
+    "answer": "面對無法避免的 takedown，你的主要目標是控制落地位置，避免最終落入 side control。當你感覺自己要倒下時，立刻用內側的腿勾住攻擊方的近側腿，建立 half guard，讓你手上有 guard 位置，而不是被過 guard 之後的位置。倒地時盡量轉身面向攻擊方，而不是平躺著背部著地，並在落地前至少建立一個 underhook。以側身姿勢落地，帶著 half guard 的勾腿與一個 underhook，能讓你從 half guard bottom 立刻擁有進攻選項，這遠比在 side control 底下苦撐要好得多。",
+    "answer_line": "勾住近側腿，落地成 half guard",
+    "distractors": {
+     "plausible": [
+      "平躺著背部著地",
+      "轉身背對，保護臉部"
+     ],
+     "trap": [
+      "放鬆全身，任由對手控制"
+     ]
+    }
+   }
+  ]
+ }
+}

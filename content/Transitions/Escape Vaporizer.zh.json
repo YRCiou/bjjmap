@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "有什麼訊號顯示你的 Vaporizer 位置已經失去效益，該轉換到 open guard 了？",
+    "answer": "關鍵指標包括：對手持續靠拓寬base來化解你的whip-up動作、他們建立起強力的whizzer阻止你的underhook產生槓桿力、多次sweep嘗試失敗，以及對手開始有系統地嘗試解開你的lockdown。體力消耗超過進攻產出是最明確的訊號——如果你維持這個位置所花的力氣，比對手逃脫它所花的力氣還多，這個位置就已經變得得不償失，改採戰術性重置回 open guard 會有更好的效益。",
+    "answer_line": "花的力氣已超過你的收穫",
+    "distractors": {
+     "plausible": [
+      "base只拓寬過一次",
+      "whizzer擋住你的underhook"
+     ],
+     "trap": [
+      "無視疲勞，繼續硬撐"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在完全放開 lockdown 之前，必須先在對手髖部上建立腳的 frame？",
+    "answer": "腳的 frame 會建立起一道防禦屏障，防止 lockdown 一放開，對手就立刻壓力前衝完成過guard。沒有這個 frame，就會出現一個脆弱的空窗期，你和對手之間沒有任何結構性防禦。腳踩髖部的動作，同時是一個控制距離的工具，也是一個可以把對手推開、創造 open guard 距離的平台。在沒有建立這個 frame 之前就放開 lockdown，是轉換過程中最常見的被過guard原因。",
+    "answer_line": "阻擋對方壓力前衝過guard",
+    "distractors": {
+     "plausible": [
+      "把對方的髖部固定住",
+      "為sweep嘗試做鋪陳"
+     ],
+     "trap": [
+      "在建立frame之前先放開lockdown"
+     ]
+    }
+   },
+   {
+    "question": "就在你開始鬆開 lockdown 的同時，對手開始施加向前的壓力——正確的反應是什麼？",
+    "answer": "立刻中止逃脫的嘗試，重新收緊 lockdown 的figure-four。對手的向前動能會讓這個轉換過程變得極度危險，因為在任何不完整的 frame 建立起來之前，他們就會直接壓穿過去。等到他們的壓力先穩定下來，再重新嘗試放開。如果你無法重新建立完整的 lockdown，就轉換到 knee shield half guard 作為防守性的備案，而不是在強大的前壓之下硬要完成 open guard 的轉換。",
+    "answer_line": "立刻重新收緊lockdown",
+    "distractors": {
+     "plausible": [
+      "趕快把腳踩上對方髖部",
+      "推開對方、往後挪動"
+     ],
+     "trap": [
+      "繼續放開，硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "從 Vaporizer 轉換到 open guard 的過程中，underhook 扮演什麼角色？",
+    "answer": "underhook 是連接這兩個位置之間的主要控制橋樑。在這個脆弱的轉換窗口中，它能防止對手自由推進位置或建立 crossface 控制。整個放開的動作序列中都應該維持 underhook，直到腳的 frame 完全建立、距離也已經拉開之後，才把它換成 open guard 的抓握。過早放開 underhook，會讓你在最危險的階段失去對對手上半身的控制能力。",
+    "answer_line": "frame建好前都不要放開",
+    "distractors": {
+     "plausible": [
+      "早早換成collar tie",
+      "用它來加強sweep的力量"
+     ],
+     "trap": [
+      "放開它去抓腳踝"
+     ]
+    }
+   },
+   {
+    "question": "主動的 Escape Vaporizer 和單純被對手解開 lockdown，在機制上有什麼不同？",
+    "answer": "當你主動發起逃脫時，你能掌控 lockdown 放開的時機和順序，讓你能主動協調 frame、抓握和拉開距離的動作。當對手解開你的 lockdown 時，是由他們主導時機，而且通常他們會同時推進他們的過guard位置。關鍵差異在於主導權——主動放開能讓你在 lockdown 打開之前就先建立好防禦結構，而被迫解開則會讓你在毫無準備的情況下,被動應付對方的過guard壓力。",
+    "answer_line": "由你掌控放開的時機",
+    "distractors": {
+     "plausible": [
+      "結果相同，只是速度不同",
+      "打開時你要用更多力氣"
+     ],
+     "trap": [
+      "等對方先把它解開"
+     ]
+    }
+   },
+   {
+    "question": "相對於對手的動作週期，發動 lockdown 放開的最佳時機窗口是什麼？",
+    "answer": "在對手重心穩定、正處於兩次防守調整之間時發動放開——特別是他們剛完成拓寬base或重心轉移、暫時處於靜止狀態的那一刻。避免在他們任何主動動作進行中,或是他們正在製造前衝力道時放開。理想的窗口出現在他們防守動作序列中的一個停頓點，此時他們的肌肉張力略微降低,反應時間也略微變慢。",
+    "answer_line": "趁對方靜止不動時放開",
+    "distractors": {
+     "plausible": [
+      "在他們base拓寬後立刻",
+      "在他們重心轉移的過程中"
+     ],
+     "trap": [
+      "趁他們正向前衝時"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中，當你嘗試把腳放上對手髖部時，對手抓住了你的腳踝——你要如何應對？",
+    "answer": "用你的 underhook 把他們的上半身拉向你，這會削弱他們用全力維持腳踝抓握的能力。同時把你的腳畫圈，用旋轉力量去破解抓握，而不是直接往回拉。如果抓握還是很牢固，就暫時重新建立 lockdown，而不是在一個不利的位置硬拚腳的擺放。一次失敗的轉換嘗試、最後回到 lockdown，遠比卡在一個半完成的逃脫、兩邊位置都不穩固要好得多。",
+    "answer_line": "腳畫圈，用underhook拉",
+    "distractors": {
+     "plausible": [
+      "把腳直接往回拉扯",
+      "硬拚抓握，強行擺腳"
+     ],
+     "trap": [
+      "放棄underhook去解開腳踝"
+     ]
+    }
+   },
+   {
+    "question": "lockdown 放開後，拉開距離時你應該把力量導向哪個方向？為什麼？",
+    "answer": "用腳掌前端水平推對手的髖部，力量沿著地墊平面朝後方施加，同時往反方向做 hip escape。若把腳往上推,反而會把對手抬高、誘使他們向前折疊做壓力式過guard,而直直往後推則能分開髖部、開出乾淨的 open guard 距離,同時不犧牲自己的base。這個推蹬動作和 hip escape 必須同時發動,這樣你創造出來的距離,才不會馬上被對手跨步收回。",
+    "answer_line": "腳直直往後推",
+    "distractors": {
+     "plausible": [
+      "腳往上又往後推",
+      "先推，之後再做hip escape"
+     ],
+     "trap": [
+      "把腳往上推，抬高對方"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 Escape Vaporizer 時，發動向前壓力的最佳時機是什麼時候？",
+    "answer": "最佳時機是你第一次感覺到 figure-four 開始鬆動，但下位選手還沒把腳放上你髖部之前。這是最關鍵的弱點窗口——lockdown 正在放開，但還沒有任何防禦性 frame 建立起來。在這個精準的時刻向前施壓，會讓下位選手卡在兩個位置之間，阻止他們完成到 open guard 的轉換。哪怕只是多等兩秒，都會讓對方有時間建立 frame，讓過guard明顯變得更困難。",
+    "answer_line": "鬆動時、腳還沒踩上髖部前",
+    "distractors": {
+     "plausible": [
+      "lockdown完全打開的那一刻",
+      "他們一開始動就立刻"
+     ],
+     "trap": [
+      "等他們都擺好位置再動"
+     ]
+    }
+   },
+   {
+    "question": "lockdown 放開時，為什麼你應該把原本被纏住的那條腿往前推進,而不是往後抽？",
+    "answer": "把那條腿往前推進，能持續對下位選手施加壓力，並立刻讓你進入過guard的位置。這條腿應該變成一個過guard的工具——切進去做 knee slice，或是往前推進行壓力式過guard。把腿往後抽會在你和對手之間製造出空間，而這正是對方建立 open guard frame 和距離所需要的東西。你原本被纏住的那條腿，會在一個流暢的前推動作中，從負擔變成武器。",
+    "answer_line": "把它當武器向前推進",
+    "distractors": {
+     "plausible": [
+      "往後抽以建立安全base",
+      "畫圈抽出重整posture"
+     ],
+     "trap": [
+      "把腿撤回以躲開抓握"
+     ]
+    }
+   },
+   {
+    "question": "你要如何在把握 lockdown 放開的機會，和防守下位選手仍維持的 underhook 之間取得平衡？",
+    "answer": "在向前施壓的同時，同步處理 underhook 的問題。當你向前推進時，用你近側的手臂建立 whizzer 或 crossface，來削弱 underhook 的拉力。不要為了追求抓腳踝而忽略 underhook——在位置纏鬥中，一個活著的 underhook 會給下位選手 sweep 的機會，可能把整個位置完全逆轉。正確的順序是：感覺到放開、向前施壓、建立 crossface 或 whizzer，然後再推進過guard位置。",
+    "answer_line": "邊推進邊解決underhook",
+    "distractors": {
+     "plausible": [
+      "先追腳踝的抓握",
+      "先完成過guard再處理underhook"
+     ],
+     "trap": [
+      "無視underhook，只追腿"
+     ]
+    }
+   },
+   {
+    "question": "對手放開了 lockdown，並成功把雙腳都放上了你的髖部——你應該啟動什麼過guard動作序列？",
+    "answer": "一旦雙腳都放上你的髖部，轉換到 open guard 基本上已經完成，你必須改採標準的 open guard 過guard策略。把膝蓋往側邊推，剝開其中一隻腳，同時用另一隻手抓住他們的衣領或手腕來控制 posture。或者，抓住兩邊褲管在膝蓋處，發動 toreando 過guard，把他們的雙腿導向一側，同時繞步過去。要在他們建立起完整 open guard 上半身抓握之前迅速行動。",
+    "answer_line": "剝開一隻腳，控制衣領",
+    "distractors": {
+     "plausible": [
+      "直接撲上去做double leg takedown",
+      "等他們先建立抓握"
+     ],
+     "trap": [
+      "後退重整站姿"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Escape Vaporizer.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

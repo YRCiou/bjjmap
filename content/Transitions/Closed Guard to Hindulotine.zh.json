@@ -1,0 +1,143 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼樣的單一力學改變，能把一般 closed guard 的 guillotine 轉換成 Hindulotine 的切入？",
+    "answer": "把你的髖部清離正中線。你不是平躺在背上、身體對正對手來完成技術，而是打開 guard，把髖部朝勒頸手臂那一側 shrimp 出 45 到 90 度，讓你的核心驅動繞頸的旋轉壓力，而不是把對手的頭直直向下拉。這個偏離正中線的角度，正是定義 Hindulotine 的結構性差異。",
+    "answer_line": "把髖部 shrimp 到偏離正中線",
+    "distractors": {
+     "plausible": [
+      "把頭直直向下拉",
+      "雙膝夾緊"
+     ],
+     "trap": [
+      "放開抓握以取得角度"
+     ]
+    }
+   },
+   {
+    "question": "在這個切入中，為什麼你必須在打開 closed guard 之前先確保抓握穩固？",
+    "answer": "打開 guard 是一個投入的關鍵時刻——它釋放了你的髖部，但同時也放棄了控制對手的髖部夾制。如果此時抓握還沒鎖高、鎖緊在下巴下方，打開雙腿只會給對手空間抬頭、重新調整姿勢，或開始 pass。這樣一來你會同時失去 choke 和你的 guard。抓握的穩固必須永遠先於髖部的釋放。",
+    "answer_line": "先鎖緊抓握，再打開 guard",
+    "distractors": {
+     "plausible": [
+      "先打開 guard，再抓緊",
+      "抓在靠近鎖骨的低位"
+     ],
+     "trap": [
+      "立刻打開 guard 以取得角度"
+     ]
+    }
+   },
+   {
+    "question": "當你還沒清出髖部之前，對手就向前 stack 想把你壓平——最高成功率的回應是什麼？",
+    "answer": "不要正面對抗這個 stack。把對手向前的體重壓載到 butterfly hook 上，在維持 guillotine 抓握的同時完成 butterfly sweep，或是順著對手的向前驅力直接進入偏離正中線的角度。對手向前的壓力反而變成解放你髖部的能量，所以這個 stack 反而餵養你的分支選項，而不是阻止這個切入。",
+    "answer_line": "把 stack 的力量壓進 butterfly hook",
+    "distractors": {
+     "plausible": [
+      "硬用力量頂住 stack",
+      "放開抓握重設角度"
+     ],
+     "trap": [
+      "撐手以阻止 stack"
+     ]
+    }
+   },
+   {
+    "question": "Hindulotine 的角度如何破解那種會讓一般 guillotine 卡住的縮下巴防守？",
+    "answer": "一般的 guillotine 是把頭直直向後拉，這種力道可以被用力縮緊的下巴擋住。Hindulotine 則是因為你的髖部偏離正中線、核心把勒頸的手肘朝對側髖部旋轉，而讓頸部承受纏繞式的旋轉壓力。這個扭力能繞過縮緊的下巴發揮作用，所以你應該把抓握往上走、增加髖部的旋轉，而不是更用力地硬拉。",
+    "answer_line": "繞過縮下巴，靠旋轉發力",
+    "distractors": {
+     "plausible": [
+      "更用力地直直向後拉",
+      "改換其他 choke"
+     ],
+     "trap": [
+      "用力把頭向下猛拉"
+     ]
+    }
+   },
+   {
+    "question": "當你打開 guard 進入 Hindulotine 之後，雙腿扮演什麼角色？",
+    "answer": "雙腿從髖部的夾制轉換成主動的控制——在近側大腿下方建立 butterfly hook，或是用 knee shield 橫在對手軀幹上。它們的任務是阻止對手繞出、站起，或把你壓平，維持住你創造出來的偏離角度，讓旋轉不會被破解。沒有這個腿部控制，角度就會崩潰，對手就能 pass 掉這個已經打開的 guard。",
+    "answer_line": "用 hook 或 knee shield 做控制",
+    "distractors": {
+     "plausible": [
+      "在對手背後交叉腳踝",
+      "用雙腳蹬離"
+     ],
+     "trap": [
+      "讓雙腿放鬆自由"
+     ]
+    }
+   },
+   {
+    "question": "為什麼進攻者應該把這個 guillotine 抓握當成切入而不是終結技？",
+    "answer": "先建立 Hindulotine，能讓你在 choke 已經上鎖的狀態下控制對手的姿勢與髖部，這讓每一個後續動作的成功率都很高。如果 choke 卡住，已經上鉤的雙腿能餵養一個通往 mount 的 butterfly sweep；對手轉身閃避會暴露背部；近側手臂的 frame 則能打開 Darce 的機會。如果只追求終結技本身，就會放棄這些分支，也會降低整體的成功率。",
+    "answer_line": "能餵養 sweep、取背、Darce",
+    "distractors": {
+     "plausible": [
+      "一路追 choke 直到拍墊",
+      "之後重置回 closed guard"
+     ],
+     "trap": [
+      "放開抓握去獵手臂"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在進入 Hindulotine，而不只是單純維持 guillotine——真正的危險訊號是什麼？",
+    "answer": "是髖部的釋放。當下位者打開他們的 closed guard，把髖部往一側 shrimp 出去，讓他們的脊椎不再正對著壓在你身上時，他們正在創造那個能把可以撐過去的直線 guillotine 轉變成旋轉式 Hindulotine 的偏離角度。能辨識出這個 shrimp 動作，而不是只注意 choke 的壓力大小，才能讓你在角度鎖死之前完成 stack 和對正。",
+    "answer_line": "對手的髖部偏離正中線",
+    "distractors": {
+     "plausible": [
+      "choke 的壓力增加",
+      "抓握改成雙手"
+     ],
+     "trap": [
+      "等到拍墊才反應"
+     ]
+    }
+   },
+   {
+    "question": "面對這個切入，為什麼你應該向前 stack 施壓，而不是把頭直直向後拉？",
+    "answer": "把頭直直向後拉，會同時助長直線式的 choke，而且一旦對手已經偏離正中線，還會助長旋轉的扭力，讓終結變得更緊。把體重向前壓、把髖部壓在對手上方並對正，能夠否定掉那個偏離的角度，把對手壓平，緩解 choke，並打開一條可以把現在已經敞開的 guard pass 到 side control 的路徑。",
+    "answer_line": "向前 stack，把髖部對正",
+    "distractors": {
+     "plausible": [
+      "把頭向後拉以逃脫",
+      "縮成 turtle 姿勢翻滾離開"
+     ],
+     "trap": [
+      "向後坐以創造空間"
+     ]
+    }
+   },
+   {
+    "question": "Von Flue choke 什麼時候能有效反制這個切入？什麼時候會失效？",
+    "answer": "當下位者還維持著 guillotine、但還沒把髖部偏離正中線之前，Von Flue 是有效的：你把近側的肩膀壓進對手的頸側，向對手的頭部方向施壓，這樣能緩解 choke 並反過來威脅終結。一旦對手已經把角度偏離出去，Von Flue 就會失效，因為你的肩膀無法再對準對手的頸部，反而有被 sweep 的風險，所以時機必須搶在角度成形之前。",
+    "answer_line": "只在髖部偏離之前有效",
+    "distractors": {
+     "plausible": [
+      "只要 guillotine 存在隨時可用",
+      "在對手清出髖部之後才用"
+     ],
+     "trap": [
+      "在角度已經偏離後才壓肩"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Closed Guard to Hindulotine.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

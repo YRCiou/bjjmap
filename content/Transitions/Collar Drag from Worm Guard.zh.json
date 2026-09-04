@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼 Worm Guard 的下擺纏繞會讓 Collar Drag 比從一般 open guard 執行時明顯更有效?",
+    "answer": "下擺纏繞會固定住對手的前導腿，讓他們無法向後跨步來抵抗向前的拉力。在一般 open guard 中，對手被拉動時可以直接向後跨步，把 Collar Drag 的力量卸掉。當那條腿被下擺困住時，他們唯一的選擇就是用手撐地，或試圖解除抓握，這兩種反應都會給進攻者可利用的機會。",
+    "answer_line": "困住前導腿，擋住後跨步",
+    "distractors": {
+     "plausible": [
+      "空出一隻手來加抓握",
+      "縮短拉動的距離"
+     ],
+     "trap": [
+      "放開下擺去解除領口抓握"
+     ]
+    }
+   },
+   {
+    "question": "從 Worm Guard 發動 Collar Drag 的最佳時機是什麼時候?",
+    "answer": "最佳時機是對手試圖挺直 posture 對抗 Worm Guard 的張力時，或是在防守完某次 sweep 嘗試後把體重往後移動的那一刻。他們向上或向後的力量會削弱他們向前的抵抗力，讓 Collar Drag 更有效。此外，當他們試圖用一隻手解除下擺時，他們的 base 就只剩單手支撐，這也是發動 Collar Drag 的另一個絕佳時機。",
+    "answer_line": "對手挺直 posture 或解除抓握時",
+    "distractors": {
+     "plausible": [
+      "一建立好下擺纏繞就立刻發動",
+      "對手體重向前壓時發動"
+     ],
+     "trap": [
+      "等到對手開始 pass 才發動"
+     ]
+    }
+   },
+   {
+    "question": "領口抓握需要多深?為什麼抓太淺會失敗?",
+    "answer": "領口抓握必須深入到頸後、領口與肩膀交會的褶線處。只抓在下擺摺邊的淺握，槓桿不足，因為拉動角度離對手的重心太遠。深握在頸後能讓你以最大的力學優勢把對手的頭直接往下拉，讓 Collar Drag 難以抵抗。",
+    "answer_line": "深握在頸旁的領口褶線處",
+    "distractors": {
+     "plausible": [
+      "只咬住下擺摺邊的淺握",
+      "抓在對手手肘處的袖口"
+     ],
+     "trap": [
+      "伸手去抓對側的領口"
+     ]
+    }
+   },
+   {
+    "question": "你執行 Collar Drag 時，對手把雙手都撐在地上——你該如何利用這個防守反應?",
+    "answer": "雙手都撐在地上，代表對手沒有多餘的手可以保護頸部或控制你的身體。持續拉動的動作，同時向側邊畫弧建立 Front Headlock。他們撐地的雙手其實反而幫了你，因為他們無法用手 frame 對抗你的坐起動作或控制你的頭。一旦你抵達 Front Headlock，他們撐地的姿勢其實正好就是你需要他們彎腰的姿勢，方便發動 choke 進攻。",
+    "answer_line": "持續拉動，畫弧進 Front Headlock",
+    "distractors": {
+     "plausible": [
+      "改打其他 sweep",
+      "暫停下來重新設定抓握"
+     ],
+     "trap": [
+      "躺平不動、原地等待"
+     ]
+    }
+   },
+   {
+    "question": "執行 Collar Drag 時，施力的主要方向是什麼?",
+    "answer": "主要施力方向是對角向前並稍微偏向一側，而不是直直向下。這個對角角度讓對手更難抵抗，因為他們無法單純向前撐住。側向的分量能製造出你需要的角度，讓你能繞到側邊完成 Front Headlock。直直向下拉，往往會讓對手整個人壓在你身上，而不是壓到你旁邊，戰術上比較不利。",
+    "answer_line": "對角向前並偏向一側",
+    "distractors": {
+     "plausible": [
+      "直直朝地面向下",
+      "直直朝自己的髖部往後拉"
+     ],
+     "trap": [
+      "把對手推開來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "在 Worm Guard 的 sweep 系統中，Collar Drag 如何作為連續進攻發揮作用?",
+    "answer": "Collar Drag 威脅的是與標準 Worm Guard sweep 不同的平面——標準 sweep 主要從側向進攻。當對手成功用拓寬 base 來防守側向 sweep 時，他們反而更容易受到向前的 Collar Drag 攻擊，因為他們的體重是側向分布，而不是前後分布。這種多方向的威脅系統，逼迫對手必須同時防守所有平面，讓他們在每個平面的防守都變弱。",
+    "answer_line": "攻擊 sweep 顧不到的那個平面",
+    "distractors": {
+     "plausible": [
+      "取代 sweep 成為主要進攻",
+      "只在 sweep 失敗後才使用"
+     ],
+     "trap": [
+      "放開下擺以空出雙手"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在拉動過程中成功解除你的領口抓握，你該怎麼做?",
+    "answer": "如果領口抓握被解除，但你仍控制著下擺，立刻轉換到 Worm Guard 的其他進攻，而不要試圖重新建立領口抓握。可選的選項包括：對解除抓握的那隻手臂做 arm drag、利用對手短暫分心的空檔嘗試 sweep，或從不同角度重新設定領口抓握。最糟的反應就是愣住不動，讓對手重新建立防守 posture。",
+    "answer_line": "立刻銜接 arm drag 或 sweep",
+    "distractors": {
+     "plausible": [
+      "把對手推回去、重設距離",
+      "closed guard 拖延一下"
+     ],
+     "trap": [
+      "放開下擺去追領口"
+     ]
+    }
+   },
+   {
+    "question": "從 Worm Guard 發動的 Collar Drag，和坐起式的 sweep 有什麼不同?應該在什麼情況下選擇哪一種?",
+    "answer": "Collar Drag 的目標是透過把對手往前拉並繞到他側邊，取得 Front Headlock 的上位；而坐起式的 sweep 目標則是鑽到對手身體下方把他抬起，藉此反轉位置。當對手 base 很寬、不易被抬起，或你想進入 Front Headlock 的降伏技系統，或對手 posture 較高時，就選擇 Collar Drag。當對手體重往前、比較容易被抬起時，就選擇 sweep。",
+    "answer_line": "Collar Drag 求 headlock；sweep 求抬升",
+    "distractors": {
+     "plausible": [
+      "Collar Drag 只是比較快的 sweep",
+      "兩者最後都會壓制同一種上位"
+     ],
+     "trap": [
+      "朝前方壓力方向把對手抬起"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 Worm Guard 設置 Collar Drag，你最早能察覺的線索是什麼?",
+    "answer": "最早的線索是對手空出的那隻手在維持 Worm Guard 下擺抓握的同時，伸向你的領口或你的頸後。這個伸手動作代表他們正試圖建立 Collar Drag 所需的第二個連結點。你應該立刻反應：解除那隻伸過來的手，或是挺直 posture，讓抓握更難建立。",
+    "answer_line": "空出的手伸向你的領口",
+    "distractors": {
+     "plausible": [
+      "他們把髖部正對著你",
+      "他們把你拉進 closed guard"
+     ],
+     "trap": [
+      "等到感覺被拉動才反應"
+     ]
+    }
+   },
+   {
+    "question": "在建立 Worm Guard 的情況下，為什麼向後跨步是不可靠的 Collar Drag 防守方式?",
+    "answer": "Worm Guard 的下擺纏繞會把下擺纏在你的前導腿上，專門用來固定那條腿，讓你無法向後跨步。既然向後跨步是被向前拉動時最自然的防守反應，Worm Guard 就消除了你最強的防守機制。這正是為什麼從 Worm Guard 發動的 Collar Drag，比從一般 open guard 位置發動的明顯更有效。",
+    "answer_line": "下擺纏繞固定住你的前導腿",
+    "distractors": {
+     "plausible": [
+      "他們的領口抓握太強",
+      "後跨步需要雙手都空著"
+     ],
+     "trap": [
+      "拓寬 base、保持身體挺立"
+     ]
+    }
+   },
+   {
+    "question": "對手已經取得深領口抓握，你感覺到 Collar Drag 即將發動——你成功率最高的防守反應是什麼?",
+    "answer": "立刻把體重往前下方壓，同時用遠側的手撐地，避免整個人臉朝下倒下。你向前的力量會抵消他們的拉力，讓他們無法在你身體下方坐起。同時用另一隻手設法解除領口抓握。如果你成功把他們壓平，他們的 Collar Drag 就會完全失去力量，因為他們無法完成繞到 Front Headlock 所需的坐起動作。",
+    "answer_line": "向前下壓、撐地、解除抓握",
+    "distractors": {
+     "plausible": [
+      "向後坐、拉開距離",
+      "把頭直接往後拉"
+     ],
+     "trap": [
+      "turtle 起來、給出背部"
+     ]
+    }
+   },
+   {
+    "question": "防守 Collar Drag 和防守標準的 Worm Guard sweep 有什麼不同?",
+    "answer": "標準的 Worm Guard sweep 是從側向進攻，所以你要靠拓寬 base、把體重分散到兩側來防守。Collar Drag 則是向前向下進攻，需要你維持強力的向前抵抗與 posture，而不是拓寬 base。關鍵是：用抬高重心的方式防守 sweep，反而會讓你更容易受到 Collar Drag 攻擊。有效的防守需要判讀對方正在發動哪種進攻，並相應調整體重分布。",
+    "answer_line": "抵抗向前的力，而非拓寬 base",
+    "distractors": {
+     "plausible": [
+      "像防 sweep 一樣拓寬 base",
+      "先跟兩邊袖口搶抓握"
+     ],
+     "trap": [
+      "抬高你的重心"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Collar Drag from Worm Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

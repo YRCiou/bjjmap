@@ -1,0 +1,165 @@
+{
+ "_meta": {"source": "content/Transitions/Escape Modified Scarf Hold.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Modified Scarf Hold 啟動 hip escape 時，正確的 frame 位置在哪裡？",
+    "answer": "空出來的前臂要頂住對手近側的髖骨，手肘則要頂進他們的腹部。這個 frame 要略微斜向擺放，把力量導向對手的遠側髖部，而不是直直向上。這個結構性的 frame 依靠骨骼對位而不是肌肉發力，把 hip escape 的動作轉化成側向的分離。這個 frame 能阻止對手用胸口壓力跟上你的髖部動作。",
+    "answer_line": "前臂頂近側髖部，斜向",
+    "distractors": {
+     "plausible": [
+      "frame 直直向上，而非斜向",
+      "手肘頂遠側髖骨"
+     ],
+     "trap": [
+      "用伸直的手臂撐開"
+     ]
+    }
+   },
+   {
+    "question": "在 Modified Scarf Hold 下，為什麼漸進式的 hip escape 比一次爆發性的動作更有效？",
+    "answer": "一次爆發性的動作很容易被反制，因為對手可以在啟動與完成之間的空檔進行調整。多次小幅度的 hip escape 能逐步累積空間，而 frame 能防止對手在每個循環之間把空間封回去。三到四次小幅度的 shrimp，比一次大動作創造出更多的總分離空間，同時消耗更少體力，並且能在整個過程中維持 frame 接觸。這種累積效果會壓垮 top 玩家的應變能力。",
+    "answer_line": "多次小 shrimp，而非一次大動作",
+    "distractors": {
+     "plausible": [
+      "一次爆發性 shrimp 比較快",
+      "先做一次大 shrimp 再保持 frame"
+     ],
+     "trap": [
+      "還沒架 frame 就先爆發"
+     ]
+    }
+   },
+   {
+    "question": "你的髖部 frame 一直被對手向前壓垮——你該如何調整？",
+    "answer": "如果對手向前壓進你的 frame，就利用他們向前的動能改做 bridge escape。他們向前的推進會讓他們的重心越過你的重心，使他們容易受到朝他們頭側方向的定向 bridge 攻擊。這會形成一套分層的 escape 系統：frame escape 引誘對方 sprawl，而 bridge escape 則利用這個 sprawl。另一個選擇是把 frame 從他們的髖部改架到肩膀，這樣他們比較難用向前推進把它壓垮。",
+    "answer_line": "利用對方的推進做 bridge escape",
+    "distractors": {
+     "plausible": [
+      "用更大力量對抗推進",
+      "改架在肩膀上"
+     ],
+     "trap": [
+      "轉身背對壓力做 turtle"
+     ]
+    }
+   },
+   {
+    "question": "在插入膝蓋回復 guard 之前，最關鍵的檢查點是什麼？",
+    "answer": "在插入膝蓋之前，要確認你近側手臂的手肘仍然貼著肋骨，沒有被完全孤立。如果在近側手臂完全被孤立的情況下嘗試插膝，會造成更糟的處境，因為你在轉換過程中對手可以直接攻擊那隻手臂。此外，要確保你的 frame 仍然頂在對手的髖部上，在插膝過程中維持空間。膝蓋插入時必須作為一個楔子，接替 frame 維持分離的功能。",
+    "answer_line": "保持近側手肘貼緊肋骨",
+    "distractors": {
+     "plausible": [
+      "frame 是否頂住最重要",
+      "檢查 frame 而非手肘位置"
+     ],
+     "trap": [
+      "把手臂伸出去以便插膝"
+     ]
+    }
+   },
+   {
+    "question": "在 hip escape 過程中，你如何防止對手轉換到 mount？",
+    "answer": "頂在對手近側髖部的髖部 frame 具有雙重作用：既創造 escape 空間，也擋住 mount 的轉換路線。只要這個 frame 持續頂著對手的髖部，他們想跨腿過來就必須先突破這個 frame。如果你感覺到他們抬起一隻膝蓋準備跨過來，立刻用你的近側膝蓋橫向頂住他們的路線作為阻擋，同時用手臂維持髖部 frame。手臂 frame 與膝蓋阻擋這兩者結合，會讓對方轉換到 mount 變得極度困難。",
+    "answer_line": "frame 加膝蓋擋住跨腿",
+    "distractors": {
+     "plausible": [
+      "光靠 frame 就能擋住 mount",
+      "對方抬膝時轉身閃避"
+     ],
+     "trap": [
+      "放開 frame 去抓對方的腿"
+     ]
+    }
+   },
+   {
+    "question": "對手回應你的 hip escape，開始繞到 north-south——你的反應是什麼？",
+    "answer": "當對手繞向你的頭部方向時，立刻把你的 frame 重新導向他們新的進攻角度，並朝他們繞行的方向做 shrimp，而不是遠離他們。轉動身體面向他們的移動方向，用雙膝插入作為你軀幹與他們之間的屏障。關鍵是要及早辨識出 north-south 的轉換——如果你感覺到他們的髖部是朝你的頭部移動、而不是壓向你，就要從側向 hip escape 切換成旋轉式的身體定位，讓你的雙腿始終隔在你與對方之間。",
+    "answer_line": "朝對方方向 shrimp，膝蓋作屏障",
+    "distractors": {
+     "plausible": [
+      "朝對方繞行的反方向 shrimp",
+      "保持平躺、維持 frame"
+     ],
+     "trap": [
+      "轉成趴姿以求脫困"
+     ]
+    }
+   },
+   {
+    "question": "在從 Modified Scarf Hold 執行 frame escape 時，呼吸扮演什麼角色？",
+    "answer": "有控制的呼吸是其他一切動作的前提。在任何 escape 動作之前，先把頭轉向遠側並收下巴，確保呼吸道暢通。用橫膈膜呼吸，而不是用胸口去對抗對手的重量擴張。穩定的呼吸能防止導致爆發性、低成功率動作的恐慌反應。把每一次 shrimp 循環配合吐氣的節奏，因為你的核心在吐氣時最為出力。在啟動 escape 之前先做三次有控制的呼吸，能確保你的神經系統穩定下來，以有條不紊地執行技術。",
+    "answer_line": "每次 shrimp 配合吐氣",
+    "distractors": {
+     "plausible": [
+      "每次 shrimp 時憋氣",
+      "用胸式呼吸撐開空間"
+     ],
+     "trap": [
+      "為求更快 escape 而急促呼吸"
+     ]
+    }
+   },
+   {
+    "question": "從 Modified Scarf Hold 做的 frame escape，跟從標準 side control escape 有什麼不同？",
+    "answer": "Modified Scarf Hold 透過胸對胸的擠壓、加上近側手臂被困住，把壓力集中在一起，而標準 side control 則是把重量分散在較大的接觸面上。從 scarf hold 做 frame escape，必須先處理手臂被困住的問題，先固定住近側手肘，再架 frame 做 shrimp。這個髖部 frame 必須特別瞄準對手的髖骨，因為 scarf hold 讓他們的髖部比標準 side control 更靠近你。此外，escape 的方向也可能不同，因為 scarf hold 的重量分布軸線與 crossface side control 不同。",
+    "answer_line": "先解放被困住的手臂",
+    "distractors": {
+     "plausible": [
+      "跟 side control 的 escape 一樣",
+      "frame 瞄準胸口而非髖部"
+     ],
+     "trap": [
+      "不理會被困的手臂，直接 shrimp"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Modified Scarf Hold 下，你最早應該在什麼時間點就處理對手的 frame 嘗試？",
+    "answer": "在你一感覺到對手的前臂接觸到你的髖骨時，就要立刻處理這個 frame，趕在他們建立起結構性角度、把骨骼對位徹底架好之前動手。一旦這個 frame 完全就位、角度正確，且對手的體重也壓在後面支撐，要把它壓垮就需要明顯更多的力氣，甚至可能得放掉胸口壓力才行。及早介入能防止這個 frame 一開始就發揮效果。",
+    "answer_line": "一接觸前臂就立刻阻止",
+    "distractors": {
+     "plausible": [
+      "等 frame 完全架好再處理",
+      "等對方壓上重量之後再處理"
+     ],
+     "trap": [
+      "無視前臂，等對方 shrimp 才反應"
+     ]
+    }
+   },
+   {
+    "question": "當對手連續執行 hip escape 時，你要如何維持 Modified Scarf Hold 的壓力？",
+    "answer": "要保持踮腳、動態施壓，而不是把全部重量壓死不動。每次對手把髖部 shrimp 離開時，立刻滑動你的身體跟上他們的動作，全程維持胸對胸的接觸。關鍵在於讓你的壓力調整速度跟上他們側向移動的速度。把你的胸口想像成黏在對方胸口上，兩人像一個整體一樣移動。只要你落後一個 shrimp 循環，累積下來的空間就會變得難以挽回。",
+    "answer_line": "胸口貼緊、隨髖部滑動",
+    "distractors": {
+     "plausible": [
+      "壓死重量、原地等待",
+      "每隔一次 shrimp 循環才跟上"
+     ],
+     "trap": [
+      "放下重量、停止調整"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立起強力的髖部 frame，並成功完成了兩次 hip escape——你最好的選擇是什麼？",
+    "answer": "到了這個階段，想要重新架回原本的 scarf hold 配置，需要對抗已建立的 frame 與已創造的空間，代價很高。比較好的選擇是轉換局面：利用對手創造出的空間跨腿轉換到 mount，或是繞到 north-south，從另一個角度維持 top 控制。硬要拚回對手正在一步步瓦解的那個原始位置，通常成功率比推進到另一個優勢位置來得低。",
+    "answer_line": "推進到 mount 或 north-south",
+    "distractors": {
+     "plausible": [
+      "拚回原本的 scarf hold",
+      "重新架 frame、重啟控制"
+     ],
+     "trap": [
+      "現在就去追手臂的終結技"
+     ]
+    }
+   }
+  ]
+ }
+}

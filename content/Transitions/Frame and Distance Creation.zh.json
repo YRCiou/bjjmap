@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame and Distance Creation.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Frame and Distance Creation 的主要目標是什麼？",
+    "answer": "主要目標是在對手的上半身建立結構性的 frame，藉此和攻擊者之間拉開距離。這個距離會鬆開對手抓握你腳踝的力道，並削弱他們對你腿部的控制，為抽腳脫困、轉換到 open guard 或站起來爭取空間。",
+    "answer_line": "上半身 frame 創造空間",
+    "distractors": {
+     "plausible": [
+      "直接剝除對方的腳踝抓握",
+      "橋起身體翻滾脫逃"
+     ],
+     "trap": [
+      "推對方的腿部爭取空間"
+     ]
+    }
+   },
+   {
+    "question": "Frame and Distance Creation 是從什麼位置開始的？",
+    "answer": "當你是 defender（被攻擊的上位者）、處於 Straight Ankle Lock Control 之下時，就會使用這個技巧。你的腿被困住，對手控制著你的腳踝，但你仍保有髖部的活動度，膝蓋也還維持彎曲。",
+    "answer_line": "防守 Straight Ankle Lock",
+    "distractors": {
+     "plausible": [
+      "正在進攻 Straight Ankle Lock",
+      "被困在 inside ashi-garami 裡"
+     ],
+     "trap": [
+      "Straight Ankle Lock，腿已伸直"
+     ]
+    }
+   },
+   {
+    "question": "在整個 framing 過程中，為什麼保持膝蓋彎曲這麼關鍵？",
+    "answer": "彎曲的膝蓋能保留結構完整性，限制腳踝關節承受的技鎖壓力。腿部完全伸直會大幅提高攻擊者對 ankle lock 的槓桿優勢，也讓你失去用髖部旋轉脫逃的能力。彎曲的膝蓋還能讓你在拉開距離後，把腿收向自己的胸口。",
+    "answer_line": "彎膝限制腳踝壓力",
+    "distractors": {
+     "plausible": [
+      "彎膝是為了保護髖部",
+      "彎膝能加快 sweep 的速度"
+     ],
+     "trap": [
+      "伸直腿部以取得更多力量"
+     ]
+    }
+   },
+   {
+    "question": "對手清掉你的 frame 並拉近距離——你該怎麼應對？",
+    "answer": "立刻在不同的接觸點重新建立 frame，並結合髖部旋轉，製造一個對手必須重新處理的新角度。如果他們一再清掉你的 frame，讓你無法建立有意義的距離，可以考慮轉換成 standing escape 的順序，徹底改變局勢。",
+    "answer_line": "重建 frame，轉髖找角度",
+    "distractors": {
+     "plausible": [
+      "在同一個接觸點重新架 frame",
+      "直接向前推以爭取空間"
+     ],
+     "trap": [
+      "翻成臉朝下重新開始"
+     ]
+    }
+   },
+   {
+    "question": "建立結構性 frame 時，關鍵的抓握點在哪裡？",
+    "answer": "把 frame 對準對手的胸口、肩膀或頭部。用掌心或前臂接觸，並透過手肘與肩膀維持骨骼對齊。主要的 frame 放在你被困住那條腿的同一側，次要的 frame 則放在對手另一側的肩膀或頭部，形成兩個接觸點。",
+    "answer_line": "Frame 胸口、肩膀、頭部",
+    "distractors": {
+     "plausible": [
+      "Frame 對方的髖部與大腿",
+      "抓對方的手腕和前臂"
+     ],
+     "trap": [
+      "推對方遠側的膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "對手在你逃脫途中開始轉換到 inside ashi-garami——這代表什麼，你又該如何調整？",
+    "answer": "這代表攻擊者已經看穿你的 framing 嘗試，選擇推進位置而不是完成 ankle lock。你應該立刻放棄 framing 的順序，改用適合這個纏鎖的防守方式應對 inside ashi 位置。一旦位置根本性地改變，繼續 framing 只是徒勞。",
+    "answer_line": "放棄 frame，防守 inside ashi",
+    "distractors": {
+     "plausible": [
+      "加快提高 frame 的壓力",
+      "重新回到 Straight Ankle Lock"
+     ],
+     "trap": [
+      "繼續 framing，無視位置變化"
+     ]
+    }
+   },
+   {
+    "question": "發動 Frame and Distance Creation 的最佳時機是什麼時候？",
+    "answer": "最佳時機是你一察覺到自己陷入 ankle lock 控制，就要在對手完成 leg triangle、鞏固抓握之前立即行動。當對手正在調整抓握時，這個技巧同樣有效，因為此時他們的控制力最薄弱。避免在對手已經完全鎖住 leg triangle 之後才嘗試。",
+    "answer_line": "在 triangle 鞏固前行動",
+    "distractors": {
+     "plausible": [
+      "在 triangle 架設進行到一半時",
+      "在對手剛穩住位置之後"
+     ],
+     "trap": [
+      "在對手完全鎖住 leg triangle 之後"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 frame 應該對準上半身，而不是對手的腿部？",
+    "answer": "推對手的腿部並不會製造出鬆開他們腳踝抓握所需的距離，甚至可能把你的腿推得更深入他們的控制範圍。上半身的距離會影響對手整個控制結構——當他們的軀幹被推遠，腿部纏繞會鬆開、抓握的穩固度下降，破壞槓桿的力量也會同時減弱。",
+    "answer_line": "上半身能鬆開整體控制",
+    "distractors": {
+     "plausible": [
+      "腿部距離較近，處理較快",
+      "兩個目標效果一樣好"
+     ],
+     "trap": [
+      "推對方的腿部爭取空間"
+     ]
+    }
+   },
+   {
+    "question": "你的自由腿被對手的腿部纏繞控制住——你要如何產生推動力來完成逃脫？",
+    "answer": "如果自由腿只是部分被控制，先專注在手臂的 frame 上，製造初步的分離。用髖部旋轉逐步解放這條腿。就算自由腿只有部分能動，用它抵住對手的內側膝蓋也能破壞他們的纏繞。如果自由腿完全被困住，就完全依靠手臂 frame 搭配積極的髖部旋轉，製造足夠的空間來抽腳脫困。",
+    "answer_line": "先用手臂 frame，再動髖部",
+    "distractors": {
+     "plausible": [
+      "立刻硬把腿掙脫出來",
+      "只推腿，不管手臂"
+     ],
+     "trap": [
+      "用力對抗纏繞硬拉腿部"
+     ]
+    }
+   },
+   {
+    "question": "在 Frame and Distance Creation 中，你如何協調多方向的壓力？",
+    "answer": "用雙手 frame 推對手的上半身，同時把你的自由腿驅動向他們的髖部或內側膝蓋。手臂 frame 製造水平方向的分離，腿部的推力則加入一個垂直方向的力量向量。這種多方向的壓力比單一平面的力量難以抵抗得多，因為對手無法同時抵擋兩個不同方向的力。",
+    "answer_line": "手臂 frame 加腿部推力並用",
+    "distractors": {
+     "plausible": [
+      "先推手臂，再推腿",
+      "手臂和腿輪流推"
+     ],
+     "trap": [
+      "只用自由腿去推"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Frame and Distance Creation 發揮效果之前，反制它的關鍵時間窗口是什麼？",
+    "answer": "關鍵窗口是對手開始在你上半身建立 frame 後的最初 2 到 3 秒。在他們透過骨骼對齊達成完全手臂伸展之前，你可以相對輕鬆地從內側游過去清掉他們的 frame。一旦結構性對齊透過兩個接觸點建立完成，距離就會變得極難再度縮短。",
+    "answer_line": "最初 2-3 秒，從內側游過",
+    "distractors": {
+     "plausible": [
+      "等到對方手臂完全伸展",
+      "直接向後推對抗 frame"
+     ],
+     "trap": [
+      "讓對方把 frame 架設完成"
+     ]
+    }
+   },
+   {
+    "question": "對手建立了強力的 frame 並拉開明顯的距離——你應該繼續爭取 ankle lock，還是轉換？",
+    "answer": "立刻轉換到 inside ashi-garami 或其他更有優勢的腿部纏鎖。一旦 frame 拉開了明顯的距離，ankle lock 在力學上就會被削弱，因為你的破壞槓桿仰賴近距離。頑固地堅持一個已經被削弱的 ankle lock 只會浪費體力，還會讓對手順利完成逃脫。要把對手投入 framing 的這個機會，拿來推進自己的位置。",
+    "answer_line": "轉換到 inside ashi-garami",
+    "distractors": {
+     "plausible": [
+      "繼續爭取 ankle lock",
+      "換抓握改打 heel hook"
+      ],
+     "trap": [
+      "硬靠距離逼出終結"
+     ]
+    }
+   },
+   {
+    "question": "要如何從內側游過對手的 frame 來化解它？",
+    "answer": "把你的手臂穿過對手的前臂 frame 和你自己的身體之間，讓手肘往內驅動、切入他們的 frame 結構。這會瓦解他們的骨骼對齊，因為力量再也無法透過一條直線的骨頭傳遞。從內側位置，用身體把對手的手臂往回擠，同時縮短他們製造出來的距離。這比從外側硬頂 frame 有效得多。",
+    "answer_line": "手臂穿內側，瓦解 frame",
+    "distractors": {
+     "plausible": [
+      "直接向後推頂住 frame",
+      "抓住對方手腕往回拉"
+     ],
+     "trap": [
+      "從外側頂住對方的 frame"
+     ]
+    }
+   },
+   {
+    "question": "什麼視覺線索可以分辨 framing escape 和 grip-fighting escape 的差異？",
+    "answer": "framing escape 會以掌心或前臂接觸你的胸口、肩膀或頭部，鎖定你的上半身來製造距離。grip-fighting escape 則直接鎖定你的手和手腕，試圖用 two-on-one 的破解方式剝掉你的腳踝抓握。判斷對手正在採用哪一種逃脫方式，決定了你該處理上半身的 frame，還是保護自己的抓握結構。",
+    "answer_line": "接觸上半身即為 framing",
+    "distractors": {
+     "plausible": [
+      "任何接觸都算是 framing",
+      "grip fighting 鎖定的是髖部"
+     ],
+     "trap": [
+      "不用分辨差異，防守方式一樣"
+     ]
+    }
+   },
+   {
+    "question": "對手用雙臂推 frame，同時自由腿驅動頂進你的髖部——你要如何應對這種多方向的壓力？",
+    "answer": "優先處理腿部的推力，收緊你的腿部纏繞，阻止對手的自由腿在你的髖部取得槓桿。腿部的推力會放大手臂 frame 的效果，所以先化解它能大幅降低整體壓力。等腿部的推力被控制住後，再從內側游過手臂 frame、縮短距離。如果只處理手臂 frame、放任腿部持續推動，距離會不斷累積，最終導致逃脫成功。",
+    "answer_line": "先化解腿部推力",
+    "distractors": {
+     "plausible": [
+      "先處理手臂 frame",
+      "兩邊平均分配注意力"
+     ],
+     "trap": [
+      "無視腿部，只顧手臂"
+     ]
+    }
+   }
+  ]
+ }
+}

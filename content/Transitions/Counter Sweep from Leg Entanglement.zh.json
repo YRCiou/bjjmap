@@ -1,0 +1,171 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Sweep from Leg Entanglement.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 leg entanglement 底位可以發動 counter sweep 的主要時機訊號是什麼？",
+    "answer": "主要的訊號是對手放開對你上半身軀幹的控制，改為集中雙手鎖定你腳掌或腳踝的終結 grip。這種從位置控制轉向 submission 終結的轉換，會製造 base 上的弱點，因為對手必須把 grip 結構從控制你的重心，重新導向操控你的肢體末端。在這個 grip 轉換的過程中，他們的體重通常會往後或往側邊移動，阻止你髖部向前發力的能力也會暫時被削弱。",
+    "answer_line": "放開軀幹改鎖腳",
+    "distractors": {
+     "plausible": [
+      "對手挺直身體時",
+      "他們把髖部大幅側移時"
+     ],
+     "trap": [
+      "等 submission 鎖死後才行動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 counter sweep 中必須用髖部發力，而不是用手臂拉扯？",
+    "answer": "髖部發力產生的力量遠大於手臂拉扯，因為髖伸肌與核心是全身最強壯的肌群。單靠手臂無法克服在纏繞底位中一個持續抵抗的對手 base。此外，若用手臂力量來完成 sweep，就會失去同時撐地與控制對手上半身的能力，而這兩者對完成 sweep 都至關重要。手臂必須保持空出，用來撐地、阻擋對手的撐地手，並在位置逆轉的過程中控制他們的上半身。",
+    "answer_line": "髖部比手臂更能發力",
+    "distractors": {
+     "plausible": [
+      "只是讓手臂空出來撐地",
+      "手臂比髖部更容易疲勞"
+     ],
+     "trap": [
+      "先把對手往前拉"
+     ]
+    }
+   },
+   {
+    "question": "對手用緊實的 ashi garami、雙腳在你膝蓋後方交叉——你應該立刻嘗試 counter sweep 嗎？",
+    "answer": "不，不應該在腳踝交叉鎖在你膝蓋後方時嘗試 counter sweep。腳踝交叉會形成一個鎖死的纏繞結構，阻止 sweep 所需要的髖部位移，硬要衝過去可能會讓你的膝蓋暴露在危險的扭力之下。應該先用你空出的手去撬開鎖住的那隻腳踝，或用髖部旋轉製造足夠的鬆動來把他們的雙腳分開，解除交叉。只有在鬆開纏繞之後，才去尋找 sweep 的時機窗口。",
+    "answer_line": "不，先解開腳踝交叉",
+    "distractors": {
+     "plausible": [
+      "不，等對手自己移動",
+      "可以，但只用腿部力量"
+     ],
+     "trap": [
+      "可以，硬把 sweep 做完"
+     ]
+    }
+   },
+   {
+    "question": "成功轉換到上位之後，大多數練習者忽略的關鍵動作是什麼？",
+    "answer": "最常被忽略的動作，是在取得上位後立刻清除 leg entanglement。許多練習者一感覺到自己到了上位就會暫時放鬆，但對手的雙腿仍然維持在進攻結構中。如果不立刻處理這個纏繞，對手可以從底位重新發動鎖腿攻擊，而且往往角度更好，因為你的腿仍然穿在他們的控制結構裡。sweep 與解除纏繞必須視為同一個連續動作。",
+    "answer_line": "立刻清除纏繞",
+    "distractors": {
+     "plausible": [
+      "先確保一個優勢 grip",
+      "挺身控制頭部"
+     ],
+     "trap": [
+      "放鬆並慶祝過腿成功"
+     ]
+    }
+   },
+   {
+    "question": "你 sweep 的方向，與對手在腿部攻擊時的體重投入方向有什麼關係？",
+    "answer": "sweep 的方向應該與對手體重投入的方向垂直，或沿著同一個向量。如果他們為了 heel hook 往後仰，就往他們身體前方空出來的空間往前 sweep。如果他們為了 kneebar 往側邊移動，就朝那個側邊方向進一步 sweep 他們。逆著他們體重投入的方向 sweep，等於是撞進他們最穩固的 base，會大幅降低成功機率。讀懂並配合對手的體重分布向量，是決定 sweep 能否製造足夠破勢而成功的根本技巧。",
+    "answer_line": "往他們空出的空間 sweep",
+    "distractors": {
+     "plausible": [
+      "往你慣用的一側 sweep",
+      "不管方向一律往後 sweep"
+     ],
+     "trap": [
+      "撞進他們最穩的 base"
+     ]
+    }
+   },
+   {
+    "question": "坐起式 counter sweep 變化，與翻滾式 counter sweep 變化，在使用時機上有什麼區別？",
+    "answer": "當對手為了終結 heel hook 明顯往後仰、在前方 base 上留出很大的空缺時，適合使用坐起式 counter sweep，可以透過髖部前推、坐起壓過對方來利用這個空缺。當對手的纏繞較淺、沒有完全控制膝蓋線時，適合使用翻滾式 counter sweep，讓你能在這個位置上做旋轉動作。關鍵差異在於纏繞的深度——深且緊的纏繞適合坐起式，因為旋轉受限；淺的纏繞則能利用翻滾動作、靠動能來破壞對方的 grip 結構。",
+    "answer_line": "纏繞深時適合坐起式",
+    "distractors": {
+     "plausible": [
+      "對方為 heel hook 後仰時用翻滾式",
+      "依你的柔軟度來選擇"
+     ],
+     "trap": [
+      "永遠預設用翻滾式"
+     ]
+    }
+   },
+   {
+    "question": "對手撐出空出的手來阻擋你的 counter sweep 嘗試——你的立即反應應該是什麼？",
+    "answer": "立刻用 kimura grip 或 two-on-one 控制攻擊那隻撐地的手臂。撐地的手臂是伸展且承重的，容易受到上半身攻擊。透過威脅撐地手臂的 kimura 或 armbar，你會迫使對手在維持對抗你 sweep 的 base，或保護自己的手臂之間做出選擇。如果他們把撐地的手收回來防守，base 就沒了，你就能重新嘗試 sweep。這會製造一個兩難：對手無法同時維持撐地與保護手臂。",
+    "answer_line": "攻擊撐地手臂，上 kimura",
+    "distractors": {
+     "plausible": [
+      "更用力推過他們的撐地手",
+      "改換另一個方向"
+     ],
+     "trap": [
+      "改抓對方遠側的腿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 leg entanglement 發動的 counter sweep，除了直接的位置價值之外，還被視為一種戰略上的嚇阻手段？",
+    "answer": "counter sweep 改變了鎖腿交手的博弈邏輯，懲罰那些為了 submission 嘗試而犧牲位置控制的對手。當對手知道你有可靠的 counter sweep 時，他們在腿部攻擊時就必須維持更好的上半身控制與 base，這會直接降低他們的終結效率。這造就了一種局勢優勢：你的 sweep 威脅逼迫對手在優化腿鎖攻擊機制（會露出 sweep 破綻）與維持防守性 base（會降低他們的 submission 成功率）之間陷入兩難。這種嚇阻效果往往比 sweep 本身更有價值。",
+    "answer_line": "逼出 base 與終結的兩難",
+    "distractors": {
+     "plausible": [
+      "提升你的腿鎖防守能力",
+      "加快比賽節奏"
+     ],
+     "trap": [
+      "讓你可以忽略腿部進入"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在你發動腿部攻擊時，哪一個具體的 grip 轉換會製造出最大的 counter sweep 弱點？",
+    "answer": "最脆弱的瞬間是你放開對對手軀幹的上半身控制，改用雙手集中鎖住他們的腳來取得終結 grip。這個轉換會移除阻止對手坐起並向前發力的主要屏障。在這個 grip 轉換過程中，對手的軀幹不再被控制，撐地的手臂也空了出來，這正是 counter sweep 的理想條件。要減輕這個風險，應該在終結序列的最後一刻之前，都持續維持至少一個上半身的接觸點。",
+    "answer_line": "雙手同時離開軀幹去鎖腳",
+    "distractors": {
+     "plausible": [
+      "換成不同的 grip",
+      "調整你的髖部角度"
+     ],
+     "trap": [
+      "放開腳重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用對手 sweep 的動能，推進到一個更優勢的纏繞位置？",
+    "answer": "當對手為了 counter sweep 向前發力時，把你遠側的腿跨過他們的髖部，進入 saddle 配置。他們向前的髖部發力其實反而有助於這個轉換，因為它製造出你需要的髖部抬升與角度，讓你能把腿穿進去。結果是他們主動發起的 sweep 攻擊，反而把他們送進最危險的纏繞位置——saddle，讓你能發動 inside heel hook 以及多條 submission 路徑。這需要及早辨識出 sweep，才能在他們的動能帶過轉換點之前完成跨腿動作。",
+    "answer_line": "跨腿轉進 saddle 位置",
+    "distractors": {
+     "plausible": [
+      "坐回去重整 base",
+      "先把他們的髖部往下壓"
+     ],
+     "trap": [
+      "放手並快速站起來"
+     ]
+    }
+   },
+   {
+    "question": "對手正在準備從底位 leg entanglement 發動 counter sweep，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是對手手臂動作的改變——具體來說，就是他們從用雙手守在被鎖的腿附近防守腿部攻擊，轉變為空出手臂、伸向地墊準備撐地。這個手臂重新定位會比髖部發力早幾秒發生，代表對手在心理上已經從防守轉為反攻。辨識出這個手臂變化，能讓你有最大的反應時間窗口，在 sweep 發動之前重新建立上半身控制，或調整你的 base。",
+    "answer_line": "手臂轉向準備撐地",
+    "distractors": {
+     "plausible": [
+      "髖部突然抬高",
+      "腿部夾緊的壓力增加"
+     ],
+     "trap": [
+      "深呼吸並靜止不動"
+     ]
+    }
+   }
+  ]
+ }
+}

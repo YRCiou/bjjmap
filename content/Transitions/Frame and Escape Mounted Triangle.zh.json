@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame and Escape Mounted Triangle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "被困在 mounted triangle 裡、還沒開始任何逃脫動作之前，最優先的防守要點是什麼？",
+    "answer": "立刻把下巴收向胸口、頭轉向被困那隻手臂的方向，藉此縮小 triangle 的勒頸角度。同時把被困的手臂緊緊彎向身體，並抓住自己的衣領或對手的腿，避免手臂被單獨拉出去打 armbar。這兩個動作能同時應對兩個主要的技鎖威脅——triangle choke 和 armbar——而且要在任何逃脫動作開始之前就完成。",
+    "answer_line": "收下巴，彎臂靠身體",
+    "distractors": {
+     "plausible": [
+      "立刻向上 bridge",
+      "用被困的手臂推開對方"
+     ],
+     "trap": [
+      "伸直手臂在髖部架 frame"
+     ]
+    }
+   },
+   {
+    "question": "為什麼一定要往被困手臂那一側做 hip escape，而不是往反方向？",
+    "answer": "往被困手臂那一側做 hip escape 會打開 triangle 結構的角度，降低勒頸壓力，並為抽出手臂製造空間。往反方向逃脫反而會收緊 triangle 的角度、增加勒頸壓力，因為這個動作會把你的脖子更深地推入對手雙腿造成的壓迫之中。這個方向的選擇是這個逃脫動作裡最重要的力學細節，沒有之一。",
+    "answer_line": "往被困手臂那側逃脫",
+    "distractors": {
+     "plausible": [
+      "直接向後逃脫",
+      "用 bridge 取代 hip escape"
+     ],
+     "trap": [
+      "往被困手臂的反方向逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手感覺到你正在建立 frame，於是把 triangle 收得更緊——你該怎麼應對？",
+    "answer": "維持你的 frame 位置，不要放棄整個逃脫順序。對手持續全力收緊，體力消耗很大，時間一久他們的腿就會疲勞。持續保持結構性的 frame，同時透過鼻子刻意呼吸，等你感覺到收緊的壓力稍微下降時，再重新啟動 hip escape 的順序。耐心和維持 frame 最終會勝過純粹的肌肉力量。",
+    "answer_line": "撐住 frame，等對方力竭",
+    "distractors": {
+     "plausible": [
+      "反過來夾緊、硬拚力氣",
+      "放掉 frame，改用 bridge"
+     ],
+     "trap": [
+      "驚慌硬把手臂扯出來"
+     ]
+    }
+   },
+   {
+    "question": "在整個逃脫過程中，你被困的手臂應該維持什麼樣的抓握，為什麼？",
+    "answer": "讓被困的手臂維持大約 90 度的彎曲，並且抓住自己的衣領（gi 訓練時）、抓自己另一側的二頭肌（no-gi 時），或是抓住對手靠近髖部的褲管。這能防止手臂在逃脫過程中被伸直、暴露在 armbar 的風險之下。整個過程中都必須維持這個抓握，因為只要手臂有一瞬間伸直，就會立刻給處於 mount 位置的對手一個技鎖破口。",
+    "answer_line": "彎臂 90 度，抓自己衣領",
+    "distractors": {
+     "plausible": [
+      "伸直手臂用來撐開",
+      "抓對手遠側的衣領"
+     ],
+     "trap": [
+      "讓手臂鬆散地垂在身側"
+     ]
+    }
+   },
+   {
+    "question": "在對手進攻的過程中，什麼時機是啟動你 hip escape 的最佳窗口？",
+    "answer": "最佳窗口出現在對手把重心壓向前方要完成 triangle，或是伸手去調整收尾抓握（例如抓自己的脛骨往下拉）的那一刻。這些動作會讓他們的重心前移，暫時減少壓在你髖部上的重量。把你第一次爆發性的 hip escape 抓準在這個重心轉移的瞬間，才能用最少的力氣換取最大的距離。",
+    "answer_line": "對手重心前移的瞬間",
+    "distractors": {
+     "plausible": [
+      "triangle 鎖緊之後立刻做",
+      "他們重新把底盤擺正時"
+     ],
+     "trap": [
+      "在對方夾得最緊的時候"
+     ]
+    }
+   },
+   {
+    "question": "你已經用 frame 製造出空間，但因為對手阻擋而無法插入 knee shield——你該追求什麼替代方案？",
+    "answer": "如果 knee shield 被擋住，繼續做 hip escape 製造更多距離，同時維持 frame 的壓力。用內側的腳穿入對手的內側大腿，架出一個 butterfly hook 作為替代的結構性阻隔。如果 knee shield 和 butterfly hook 都用不上，就持續連續做 hip escape，累積足夠的整體空間，在對手能重新縮短距離之前，把雙腳都插進他們的髖部之間，重新拿回 closed guard。",
+    "answer_line": "架 butterfly hook，連續 shrimp",
+    "distractors": {
+     "plausible": [
+      "硬把 knee shield 從縫隙塞進去",
+      "改成拉 full guard"
+     ],
+     "trap": [
+      "停止移動，只維持 frame"
+     ]
+    }
+   },
+   {
+    "question": "這個逃脫動作在 hip escape 階段失敗，最常見的原因是什麼？",
+    "answer": "最常見的失敗原因是只做了一次 hip escape，一旦對手調整就停下來，而不是連續做好幾次 hip escape。單一一次 hip escape 很少能製造出足夠插入膝蓋或抽出手臂的空間。要連續做三到四次 shrimp，並全程維持 frame 的壓力，每一個動作都逐步擴大空間，直到能夠插入 knee shield 或拿回 half guard 為止。",
+    "answer_line": "只 shrimp 一次，沒有連續",
+    "distractors": {
+     "plausible": [
+      "shrimp 的速度太快",
+      "shrimp 的角度不對"
+     ],
+     "trap": [
+      "用 bridge 取代 shrimp"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試逃脫時，感覺到對手放開了 triangle 並轉動髖部——這代表什麼，你該如何應對？",
+    "answer": "這代表對手正在轉換成 armbar 進攻，用轉髖的動作把你的手臂單獨拉出去。立刻把雙臂緊緊收回貼身，並轉向對手而不是轉離對手。如果可以，用你的自由手抓住自己被鎖定那隻手的手腕，對這隻手臂做出 two-on-one 的防守。對手放開 triangle 並轉髖，其實也製造了空間——把握這個機會加速你的 hip escape、爭取拿回 guard，而不是靜靜地躺著防守 armbar。",
+    "answer_line": "收回手臂，加速逃脫",
+    "distractors": {
+     "plausible": [
+      "靜態防守 armbar",
+      "轉身背對對手"
+     ],
+     "trap": [
+      "伸直手臂去擋住轉髖"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手開始進行有系統的 frame and escape，而不是隨意的防守動作，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是自由手臂帶著目的性移動、用前臂接觸你的髖部，而不是慌亂地亂揮；積極地收下巴，並刻意把頭轉向他們被困的那隻手臂；還有髖部開始有系統地側向 shrimp，而不是爆發性地向上 bridge。這些有規律、循序漸進的動作代表對方在執行一套訓練過的逃脫順序。在第一個動作出現時就辨識出來，能讓你在對方的 frame 建立起結構性槓桿之前就先反制。",
+    "answer_line": "有目的的 frame 手臂，收下巴",
+    "distractors": {
+     "plausible": [
+      "爆發性地向上 bridge",
+      "隨意亂揮的防守"
+     ],
+     "trap": [
+      "等對方完全拿回 guard"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你的髖部建立起強力的 frame，並開始連續做 hip escape——你首要的立即應對是什麼？",
+    "answer": "立刻用你的自由手把對方的頭拉向自己，同時把髖部往下、往前壓，壓制住他們髖部的側向移動。調整你 triangle 的角度，讓它壓向那個 frame，而不是單靠夾腿力量硬碰硬。如果 frame 已經製造出明顯的空間，就轉換去攻擊那隻伸直架 frame 的手臂打 armbar——他們為了架 frame 而伸直的手臂，正好給了 armbar 進攻所需要的破口。",
+    "answer_line": "把頭拉近，壓住髖部",
+    "distractors": {
+     "plausible": [
+      "放開 triangle 重新開始",
+      "把腿追回肩膀上"
+     ],
+     "trap": [
+      "只是把雙腿夾得更緊"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該放棄 mounted triangle，轉換成其他進攻或位置？",
+    "answer": "當你感覺到雙腿從對手肩膀上滑落、已經無法維持勒頸角度時，或是對方連續的 hip escape 已經製造出足夠空間、讓你的 triangle 角度再也無法有效壓迫頸部時，又或是你已經全力收緊了兩次卻沒能完成技鎖、雙腿明顯開始疲勞時，就該放棄 mounted triangle。這時應該立刻轉換到 armbar、抱後或重新上 mount，而不是繼續硬拚一個結構上已經失效的位置。",
+    "answer_line": "雙腿滑落，角度已失",
+    "distractors": {
+     "plausible": [
+      "對方一架起 frame 就放棄",
+      "第一次收緊失敗後就放棄"
+     ],
+     "trap": [
+      "絕不放棄，持續夾緊"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用對手 frame and escape 的嘗試，來完成 armbar 技鎖？",
+    "answer": "對手用來架 frame 的手臂，在逃脫過程中會自然地伸直並被孤立出來，這創造了一個原本他們把手臂護在身邊時不存在的 armbar 機會。當你感覺到他們的前臂壓在你髖部上時，用你的自由手控制他們的手腕，再用你的胸口壓住他們的上臂來取得肘部控制，接著轉動你的髖部，做出 armbar 的角度。他們自己的逃脫動作，正好製造出你完成這個技鎖轉換所需要的手臂破口。",
+    "answer_line": "控制手腕，轉髖打 armbar",
+    "distractors": {
+     "plausible": [
+      "改為等待抱後的機會",
+      "追腳去打 kneebar"
+     ],
+     "trap": [
+      "放開對方手臂重新開始"
+     ]
+    }
+   }
+  ]
+ }
+}

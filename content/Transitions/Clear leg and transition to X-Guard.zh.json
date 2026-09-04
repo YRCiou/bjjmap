@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Clear Leg and Transition to X-Guard 的主要目標是什麼？",
+    "answer": "主要目標是把防守性的腿部纏鎖逃脫，轉化為具攻擊性的優勢位置。這個技術不只是把被困的腿抽出來回到中性位置，而是直接建立 X-Guard——一個強力的掃技與進攻位置，能立刻扭轉交手局勢，並懲罰對手失敗的 leg lock 嘗試。",
+    "answer_line": "把逃脫變成 X-Guard 掃技",
+    "distractors": {
+     "plausible": [
+      "只把腿清出來回到中性位置",
+      "回到 closed guard"
+     ],
+     "trap": [
+      "改追 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼用轉髖比用拉扯更有效地清出被困的腿？",
+    "answer": "轉髖能改變纏鎖的角度來製造空間，自然鬆開腿部纏鎖的結構，而不需要跟對手比力氣。直接向後拉反而會讓大部分的腿部纏鎖更緊，還可能讓你的腳跟暴露在 heel hook 攻擊之下。轉髖是用技巧取代蠻力，也創造出抽腿所需的力學路徑。",
+    "answer_line": "轉髖鬆開纏鎖",
+    "distractors": {
+     "plausible": [
+      "用腿把對手推開",
+      "硬用力量掙脫纏鎖"
+     ],
+     "trap": [
+      "直接向後拉，冒著被 heel hook 的風險"
+     ]
+    }
+   },
+   {
+    "question": "當你開始清腿時，對手開始向後撤步拉開距離——你該如何調整？",
+    "answer": "立刻轉換成近側腿的 single leg X-Guard，而不是硬要追求完整的 X-Guard 架構。如果對手拉開的距離大到無法建立任何形式的 X-Guard，就在維持住對手腳踝的抓握下轉換成 technical standup。利用對手向後的動能，接續摔角式的攻擊，而不是硬要維持 guard。",
+    "answer_line": "在近側腿建立 single leg X-Guard",
+    "distractors": {
+     "plausible": [
+      "還是硬追完整的 X-Guard",
+      "站起來，放開腳踝的抓握"
+     ],
+     "trap": [
+      "放手回到中性位置"
+     ]
+    }
+   },
+   {
+    "question": "在整個轉換過程中必須維持哪個抓握？為什麼？",
+    "answer": "必須一直維持對對手腳踝或阿基里斯腱的 two-on-one 抓握，直到兩個 X-Guard 的 hook 都建立完成為止。這個抓握能控制距離，防止對手向後撤步，也防止腿部纏鎖重新被建立，同時提供把體重壓進 X-Guard 所需的拉力支點，並確保完成後能立刻具備掃技能力。",
+    "answer_line": "two-on-one 腳踝抓握",
+    "distractors": {
+     "plausible": [
+      "抓對側的衣領",
+      "underhook 近側手臂"
+     ],
+     "trap": [
+      "放開抓握去插入 hook"
+     ]
+    }
+   },
+   {
+    "question": "X-Guard 的兩個 hook 應該按照什麼順序建立？為什麼順序很重要？",
+    "answer": "應該先建立卡在對手膝蓋後方的 butterfly hook，接著再建立對側髖部的 cross-body hook。順序之所以重要，是因為 butterfly hook 是防止對手直接跨過你的 guard 的錨點。如果先插入 cross-body hook，會製造出一個不穩定的位置，讓對手很容易 pass 或脫離。",
+    "answer_line": "先 butterfly hook，再 cross",
+    "distractors": {
+     "plausible": [
+      "先建立 cross-body hook",
+      "同時插入兩個 hook"
+     ],
+     "trap": [
+      "跳過 hook，直接拉扯求掃技"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試轉換的過程中，對手猛力向前施壓——這是個問題嗎？",
+    "answer": "不是，對手的向前施壓其實反而有助於這個轉換。他們向前的動能會把體重壓進你的 X-Guard 結構，讓完成掃技變得更容易。利用這股動能加速插入 hook 並抬升對手。真正的危險來自平躺、拉開距離的反應，而不是可以被轉化成立即掃技的向前施壓。",
+    "answer_line": "不是，利用動能完成掃技",
+    "distractors": {
+     "plausible": [
+      "是，撐住並拖延",
+      "是，向後撤步"
+     ],
+     "trap": [
+      "向後推以製造距離"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 X-Guard 的轉換？此時該怎麼做？",
+    "answer": "當對手在你清腿的過程中成功重新建立腿部纏鎖控制時，就該放棄。絕對不要在對手重新纏鎖的情況下硬要轉換成 X-Guard，因為這會讓你立刻暴露在被 submission 的危險之下。這時候應該專注把腿清到中性位置，再重新評估局勢。與其硬撐轉換而被抓到 submission，不如重置回中性位置。",
+    "answer_line": "重新被纏鎖就放棄，重置",
+    "distractors": {
+     "plausible": [
+      "對手站起來就放棄",
+      "硬撐推進到 X-Guard"
+     ],
+     "trap": [
+      "硬上 X-Guard，冒 submission 風險"
+     ]
+    }
+   },
+   {
+    "question": "為什麼這個轉換對現代腿鎖系統特別有效？",
+    "answer": "現代的腿鎖系統仰賴維持纏鎖控制來威脅 submission。這個轉換直接攻擊那個控制機制的根本：一邊從纏鎖中抽離，一邊同時建立起攻擊性的位置。X-Guard 提供你自己的控腿平台並帶有掃技威脅，能有效懲罰失敗的腿部攻擊，也會讓對手不敢積極追求腿部纏鎖。",
+    "answer_line": "攻擊對手的纏鎖控制",
+    "distractors": {
+     "plausible": [
+      "耗盡對手的握力",
+      "完全避開腿部纏鎖"
+     ],
+     "trap": [
+      "追求腿鎖互換"
+     ]
+    }
+   },
+   {
+    "question": "身體姿勢如何影響你執行清腿動作的能力？",
+    "answer": "你必須側躺而不是平躺在背上，才能執行清腿的動作。平躺會消除完成清腿所需的旋轉力學。在嘗試轉換前，用你自由的那條腿與上半身做 frame，以維持側身的姿勢。如果被迫壓平，要先重新建立側身姿勢，才能繼續進行清腿。",
+    "answer_line": "維持側身，不要平躺",
+    "distractors": {
+     "plausible": [
+      "平躺並用手臂 frame",
+      "坐起來面向對手"
+     ],
+     "trap": [
+      "平躺，用 bridge 逃脫"
+     ]
+    }
+   },
+   {
+    "question": "從建立好的 X-Guard 位置，可以立即接續哪些後續攻擊？",
+    "answer": "X-Guard 能立即銜接 technical standup 掃技、single leg 掃技、overhead 掃技，以及 leg drag 的切入。此外，你還能用自己的切入方式攻擊對手的腿，進入 inside ashi 或 outside ashi。從轉換中維持的腳踝抓握，也能在掃技被防守時立刻銜接 ankle lock 的攻擊。這麼多樣的選項讓 X-Guard 成為極具價值的逃脫終點。",
+    "answer_line": "standup、single leg、leg drag 掃技",
+    "distractors": {
+     "plausible": [
+      "只有 technical standup",
+      "只有 straight ankle lock"
+     ],
+     "trap": [
+      "放棄腳踝抓握去 pass guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在準備 Clear Leg to X-Guard 轉換時，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是下位者從平躺的防守姿勢轉為側躺，並把髖部朝向你角度傾斜。這個側身姿勢是啟動整個清腿力學所需轉髖動作的前提。如果你在對手建立抓握之前就察覺到這個姿勢轉變，就可以透過向前施壓把對手的髖部壓平，來阻止這個轉換。",
+    "answer_line": "髖部轉向側躺",
+    "distractors": {
+     "plausible": [
+      "出現 two-on-one 腳踝抓握",
+      "插入 butterfly hook"
+     ],
+     "trap": [
+      "等到 X-Guard 建立完成才反應"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你的腳踝上建立了 two-on-one 抓握，但還沒開始轉髖——你最好的回應是什麼？",
+    "answer": "立刻用你空出的手剝除對手的抓握，或是改變腳的位置來解除這個抓握。two-on-one 的腳踝抓握是啟動整個轉換的距離控制機制。沒有它，即使下位者把腿清出來，也無法控制插入 hook 所需的空間。同時加強纏鎖的壓力，讓對手不敢再嘗試逃脫。",
+    "answer_line": "立刻剝除腳踝抓握",
+    "distractors": {
+     "plausible": [
+      "等對手轉髖後再反應",
+      "向後撤步拉開空間"
+     ],
+     "trap": [
+      "無視抓握直接 pass 到 side"
+     ]
+    }
+   },
+   {
+    "question": "下位者的腿已經部分清出，但還沒插入任何 X-Guard 的 hook——你該向前施壓還是向後撤步？",
+    "answer": "向後撤步拉開距離。在這個階段向前施壓很危險，因為腿部已經部分清出，代表下位者很接近插入 hook 的時機，你的向前施壓反而會把體重壓進他們的 X-Guard 結構。應該向後撤步破壞交纏，阻止 hook 的插入，並迫使對手從一個完全沒有結構控制的位置追著你打。用站姿或 combat base 在你自己的節奏下重新交手。",
+    "answer_line": "向後撤步阻止 hook",
+    "distractors": {
+     "plausible": [
+      "向前施壓壓平對手",
+      "保持不動，重新抓腿"
+     ],
+     "trap": [
+      "向前推進到 X-Guard 之中"
+     ]
+    }
+   },
+   {
+    "question": "積極攻擊 submission 為什麼能作為防守這個轉換的手段？",
+    "answer": "當下位者投入清腿的動作時，他們會把原本用來保護 submission 的防守 frame 轉移到清腿的動作上。這會製造出一個短暫的窗口，讓 heel hook 和 toe hold 的成功率提高，因為下位者的手正忙著抓握腳踝，注意力也放在轉髖上，而不是藏好腳跟。趁這個窗口進攻，會迫使對手必須在完成逃脫和防守 submission 之間做出選擇。",
+    "answer_line": "趁清腿時攻擊 heel hook",
+    "distractors": {
+     "plausible": [
+      "等對手完全抽腿出來",
+      "只專注在維持姿勢"
+     ],
+     "trap": [
+      "放棄腿部攻擊改去 pass guard"
+     ]
+    }
+   },
+   {
+    "question": "對手已經成功在你膝蓋後方插入一個 butterfly hook——接下來最關鍵的動作是什麼？",
+    "answer": "無論如何都不要向前施壓，因為這會把體重壓進他們的 guard 結構。應該立刻處理這個 hook，把腿向後抽並讓膝蓋向外角度轉開來剝除這個 hook。如果抽腿失敗，就積極向後撤步，阻止第二個 hook 被插入。單獨一個 hook 並不能構成穩定的 X-Guard——對手需要同時擁有 butterfly hook 和 cross-body hook。阻止第二個 hook 就能瓦解整個轉換嘗試。",
+    "answer_line": "抽腿，剝除 hook",
+    "distractors": {
+     "plausible": [
+      "向前施壓壓平對手",
+      "等待第二個 hook 出現"
+     ],
+     "trap": [
+      "向前推進到 guard 之中"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Clear leg and transition to X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

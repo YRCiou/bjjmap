@@ -1,0 +1,200 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Complete Leg Weave Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "當你正試圖抽出被纏繞的那條腿時，對手開始把髖部往外泵動——你該如何維持過關的壓力？",
+    "answer": "立刻加大 crossface 肩膀的壓力，把體重往前壓進對手的上半身，抵消他 hip escape 的方向。你的胸口應該追著對手移動，而不是你的腿。如果對手的髖部拉出距離，用肩膀的前壓去縮短它，而不是把腿往回拉。crossface 這個錨點必須緊咬對手的上半身，讓他髖部拉出的距離被你的前壓抵消掉。",
+    "answer_line": "用 crossface 追，不是用腿追",
+    "distractors": {
+     "plausible": [
+      "把腿往回拉以縮短距離",
+      "用你的髖部跟著對手髖部"
+     ],
+     "trap": [
+      "放開 crossface 重新調整"
+     ]
+    }
+   },
+   {
+    "question": "在 Complete Leg Weave Pass 抽腿的過程中，關鍵的重心轉移順序是什麼？",
+    "answer": "在任何腿部動作開始之前，重心必須先從分散在全身，轉為集中在你的胸口與肩膀、壓在對手的上半身。這會建立上半身的錨點，把對手固定住。抽腿的過程中，重心會隨著你把腿旋轉抽出而橫向轉移，接著在你建立 Side Control 時垂直落下。順序是：先穩住上半身重心，在髖部變輕的狀態下旋轉把腿抽出，再讓髖部垂直落下以鞏固位置。",
+    "answer_line": "先穩胸口、轉腿、再落髖",
+    "distractors": {
+     "plausible": [
+      "先旋轉腿再穩住胸口",
+      "腿還沒抽出就先落髖"
+     ],
+     "trap": [
+      "全程平均分配重心"
+     ]
+    }
+   },
+   {
+    "question": "對手在你剛開始清鉤腳時插入 knee shield——你該如何調整？",
+    "answer": "立刻停止抽腿，馬上處理 knee shield。把髖部重量壓進去把 shield 收縮掉，同時把肩膀壓力的角度朝對手頭部方向調整，把他的上半身壓平。如果 shield 只建立到一半，通常可以把髖部往前投入，直接把 shield 硬闖過去。如果 shield 已經完全建立，可以考慮改用 knee slice 的收尾方式，把 shield 當成一個支點來利用，而不是正面硬碰。",
+    "answer_line": "收縮 shield，角度朝頭部",
+    "distractors": {
+     "plausible": [
+      "用手把 shield 撬開",
+      "撤退重新開始過關"
+     ]
+     ,
+     "trap": [
+      "無視 shield，繼續抽腿"
+     ]
+    }
+   },
+   {
+    "question": "在完成整個 Leg Weave 過關的過程中，必須全程維持哪個抓握才能防止對手重建 guard？",
+    "answer": "從最初建立 Leg Weave 到最後鞏固 Side Control，crossface 肩膀壓力必須全程不中斷。這是防止對手轉身、坐起或跟著你腿部動作移動的主要錨點。次要重要的是控制遠側髖部的那隻手，它能防止對手在轉換階段插膝。任何一個抓握鬆脫，都會給經驗豐富的 guard 玩家立刻可以利用的防守空檔。",
+    "answer_line": "crossface 肩膀壓力",
+    "distractors": {
+     "plausible": [
+      "只靠遠側髖部控制手",
+      "遠側手臂的 underhook"
+     ],
+     "trap": [
+      "放開 crossface 去抓髖部"
+     ]
+    }
+   },
+   {
+    "question": "你正從 Leg Weave 轉換到 Side Control 時，對手抓到一個深的 underhook——你該如何反制？",
+    "answer": "立刻在對手 underhook 那隻手臂上建立 whizzer，把重心往前壓，把對手重新壓平在墊子上。如果無法建立 whizzer，就把 crossface 換成沉重的 shoulder of justice 壓力，讓對手的 underhook 變得不舒服、難以維持。最糟的反應是硬把對手的手臂拔出來，那樣反而會製造出空間。應該暫時接受 underhook 的存在，用你上位更優勢的體重把它變得無效——在對手能利用它製造 scramble 之前，先把他的身體壓平。",
+    "answer_line": "上 whizzer，用重量壓平",
+    "distractors": {
+     "plausible": [
+      "只上 whizzer，不加前壓",
+      "只加重 crossface，不上 whizzer"
+     ],
+     "trap": [
+      "把對手手臂拉出來逃脫"
+     ]
+    }
+   },
+   {
+    "question": "決定過關收尾時抽腿的最佳方向，取決於什麼因素？",
+    "answer": "抽腿的方向取決於對手鉤腳的位置以及他防守架框的朝向。如果鉤腳鬆散且勾得偏低，直接朝外做旋轉式抽腿效果最好。如果鉤腳勾得又緊又高，用 knee slice 的角度、讓小腿切過對手大腿會更有效。如果對手正用力架框對抗前壓，改用 backstep 的抽腿方式能完全反轉方向。判讀對手防守投入最集中的地方，往他準備最不足的方向抽腿。",
+    "answer_line": "判讀鉤腳緊度與架框",
+    "distractors": {
+     "plausible": [
+      "永遠往外做旋轉式抽腿",
+      "永遠用 knee slice，不管情況"
+     ],
+     "trap": [
+      "朝對手最強的架框方向抽"
+     ]
+    }
+   },
+   {
+    "question": "在你抽腿的過程中，對手爆發性地做出 bridge——正確的反應是什麼？",
+    "answer": "立刻壓低重心，把髖部放低，用撐地那條腿把底盤加寬。吸收這個 bridge，而不是硬碰硬——讓對手的力量消散在你穩住的重量上。關鍵是不要放棄抽腿去重新安頓。而是暫停抽腿、吸收 bridge，等對手的髖部一落回墊子就立刻恢復抽腿。bridge 失敗後那一刻，正是最佳的抽腿時機，因為對手剛耗費了力氣，需要一段恢復的時間才能再做出下一次爆發性動作。",
+    "answer_line": "壓低底盤、吸收、恢復抽腿",
+    "distractors": {
+     "plausible": [
+      "放棄抽腿、完全重新安頓",
+      "用同等力量對抗 bridge"
+     ],
+     "trap": [
+      "用上半身力量硬對抗 bridge"
+     ]
+    }
+   },
+   {
+    "question": "如果對手每次在你抽腿時都持續恢復 Half Guard，你該如何調整過關方式？",
+    "answer": "持續恢復 Half Guard 通常代表你在抽腿時上半身壓力不足，或是抽腿的時機太容易被預測。第一，花更多時間鞏固上半身控制再嘗試抽腿——對手應該感受到最大的不適，架框幾乎失效。第二，在旋轉式抽腿、knee slice 與 backstep 收尾之間變換你的抽腿時機與方式，讓對手無法預判你的動作模式。第三，考慮是否需要在開始抽腿之前更徹底地破壞對手的架框，而不是試圖硬闖主動的架框。",
+    "answer_line": "抽腿前先加強控制",
+    "distractors": {
+     "plausible": [
+      "抽腿更快以搶在恢復之前",
+      "永遠只用旋轉式抽腿"
+     ],
+     "trap": [
+      "跳過上半身控制，直接快速抽腿"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你感覺到過關者的胸口重量正在增加、髖部壓力則在減輕——這代表什麼訊號？你該如何反應？",
+    "answer": "這個重心轉移代表過關者正在建立上半身錨點、準備抽出被纏繞的腿。這是你最佳的反攻空檔，因為對手的髖部這一刻比較輕。立刻反應：要嘛俯衝進入對手抬高的髖部下方做 Deep Half Guard 入位，要嘛爆發性地做 hip escape 重新插入 knee shield。就算只等個兩秒，也會讓對手完成重心轉移、開始抽腿，之後你成功的機率會大幅下降。",
+    "answer_line": "馬上行動：Deep Half 或 shrimp",
+    "distractors": {
+     "plausible": [
+      "先等對手完全抽出腿",
+      "立刻爆發性做 bridge"
+     ],
+     "trap": [
+      "保持不動以節省體力"
+     ]
+    }
+   },
+   {
+    "question": "在 Leg Weave 過關完成的過程中，最重要要維持的架框是什麼？為什麼？",
+    "answer": "抵在過關者 crossface 肩膀上的前臂架框最為關鍵，因為它能阻止對手建立能讓他抽腿的上半身錨點。沒有這個架框，對手的肩膀會壓進你的下巴、把你的頭轉開，並把你的上半身釘在墊子上。這一個架框就能打亂對手整個抽腿的架設，因為他無法穩定上半身，而你的架框創造出一個楔子，阻止肩膀落定。失去這個架框，基本上等於把過關拱手讓出。",
+    "answer_line": "前臂架框對抗 crossface",
+    "distractors": {
+     "plausible": [
+      "架在遠側髖部",
+      "架在近側膝蓋上"
+     ],
+     "trap": [
+      "把頭轉進壓力方向"
+     ]
+    }
+   },
+   {
+    "question": "過關者已經清掉一個鉤腳，但還沒建立起 Side Control——在這個狹窄的空檔中，你最好的防守選項是什麼？",
+    "answer": "這是最後的防守空檔，需要立即行動。你最好的選項是轉身面向對手，在他建立垂直對位之前搶一個 underhook。當對手從抽腿轉換到鞏固階段時，會有一個短暫的瞬間，他的 crossface 正在調整、髖部還沒安頓。利用這個空檔，撐起你靠內側的手肘，確立 underhook，並奮力爬起到跪姿，進入 dogfight 的 scramble。如果你在這個空檔中還是平躺背部貼地，Side Control 幾乎是必然的結果。",
+    "answer_line": "轉身、搶 underhook、起跪",
+    "distractors": {
+     "plausible": [
+      "平躺並用手臂架框",
+      "推開對手、伸直手臂頂住髖部"
+     ],
+     "trap": [
+      "保持平躺、靠架框硬撐"
+     ]
+    }
+   },
+   {
+    "question": "你該如何決定要嘗試恢復 knee shield，還是俯衝進入 Deep Half Guard？",
+    "answer": "這取決於過關者的重心分布與你自己的身體位置。如果對手的重心集中在前方、髖部被抬高，Deep Half Guard 的入位是可行的，因為你能鑽到他底盤下方。如果對手的重心比較平均、髖部壓得較低，Deep Half 的入位會被擋住，但可能還有空間做 hip escape、把膝蓋插進去架 shield。一般來說，Deep Half 是高風險高回報的選項，而恢復 knee shield 則是比較保守的選擇。感覺到對手髖部下方有明顯空間時選 Deep Half，髖部靈活度允許側向逃脫時就選 knee shield。",
+    "answer_line": "髖部被抬高就選 Deep Half",
+    "distractors": {
+     "plausible": [
+      "永遠選 Deep Half",
+      "只有在重心前傾時才用 knee shield"
+     ],
+     "trap": [
+      "對付又低又穩的底盤選 Deep Half"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 一再被過關者吸收、無法打亂他的抽腿——你該如何調整防守策略？",
+    "answer": "如果 bridge 一直被吸收，代表過關者很可能已經建立了寬而穩定的底盤、重心很低。對抗這種底盤做 bridge 只是白白耗費體力。改用以架框為主的防守：在對手的肩膀與髖部上建立前臂架框，然後朝遠離他 crossface 壓力的方向做 hip escape。或者，如果對手的底盤在側向較寬，可以攻擊 underhook 那一側，因為他撐寬的那條腿會在那一側製造出空間。關鍵在於察覺爆發性防守正被吸收的時刻，轉而採用能針對對手底盤具體破綻的技術性架框防守。",
+    "answer_line": "改用架框式防守",
+    "distractors": {
+     "plausible": [
+      "做更用力的 bridge 破底盤",
+      "被動等待對手失誤"
+     ],
+     "trap": [
+      "繼續爆發性地做 bridge"
+     ]
+    }
+   }
+  ]
+ }
+}

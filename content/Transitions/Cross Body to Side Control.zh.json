@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Cross Body to Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 cross body ride 過渡到 side control 時，最關鍵的力學原則是什麼？",
+    "answer": "壓力必須先於移動。你必須先透過持續的肩部壓力瓦解對手的 turtle 結構，才能嘗試滑入 side control 位置。若對手仍保持穩固的 turtle base 時就嘗試過渡，會製造出空間與逃脫機會，反而違背了這個技術的用意。",
+    "answer_line": "先壓垮 turtle 再滑入",
+    "distractors": {
+     "plausible": [
+      "趁對手還沒恢復前快速滑入",
+      "先固定 grip 再施加壓力"
+     ],
+     "trap": [
+      "為求速度倉促滑入"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該選擇壓平進 side control，而不是從 cross body ride 追求背後控制？",
+    "answer": "當對手展現出強力的 turtle 防守，讓你無法取得背後控制時——例如手肘夾緊、頸部藏好、posting 結構穩固，或有效防守 hook 進入——就該選擇轉換到 side control。如果你已多次嘗試背後控制都被防下，而對手成功維持防守姿態，壓平進 side control 能提供穩定的位置推進，而不是在控制位置中停滯不前。",
+    "answer_line": "turtle 防守擋下背後控制時",
+    "distractors": {
+     "plausible": [
+      "永遠優先嘗試背後控制",
+      "只在對手體力耗盡時才壓平"
+     ],
+     "trap": [
+      "面對緊密防守仍強行取背"
+     ]
+    }
+   },
+   {
+    "question": "在發動壓平之前，你必須先固定哪些 grip 或控制點？",
+    "answer": "在推動壓平之前，你需要能阻止對手站起的上半身控制——一個 seatbelt grip 或深的 overhook——再加上控制對方遠側髖部或遠側腋下的近身控制點。遠側髖部控制是不可或缺的 grip：沒有它，對手只要一轉髖，就能在你把體重壓上去的瞬間立刻恢復 guard。",
+    "answer_line": "上半身控制加遠側髖部",
+    "distractors": {
+     "plausible": [
+      "只有 seatbelt grip 就足夠",
+      "壓平前先控制近側髖部"
+     ],
+     "trap": [
+      "跳過髖部控制直接向前推進"
+     ]
+    }
+   },
+   {
+    "question": "在壓垮與滑入的過程中，你的體重與力量應朝哪個方向移動？",
+    "answer": "力量先透過你的肩膀向下傳導至對手近側的肩胛骨，讓他的 posting 手臂彎折，同時藉由把腳步向上走，讓力量角度略微偏向他的頭部方向。一旦對手垮下，你的體重便沿著他的脊椎橫向移動，胸口從他的背後滑到胸前——先向下瓦解結構，再橫向落定進入 side control，絕不能向前超過他的頭部，否則會被翻滾反制。",
+    "answer_line": "先向下，再橫向滑入",
+    "distractors": {
+     "plausible": [
+      "先向前超過頭部，再向下",
+      "先橫向，再向下"
+     ],
+     "trap": [
+      "把體重壓向對手頭部前方"
+     ]
+    }
+   },
+   {
+    "question": "當你發動壓平時，對手開始做 granby roll，你該如何應對？",
+    "answer": "順著翻滾的方向，保持胸口貼合，讓你的體重跟著他的旋轉移動，而不是試圖阻止翻滾。全程讓胸口緊貼他的背部。如果他完成了翻滾，立刻在最終形成的位置上建立上位控制。硬要阻止翻滾只會製造分離空間，往往導致比順勢而為更糟的結果。",
+    "answer_line": "順著翻滾，保持貼合",
+    "distractors": {
+     "plausible": [
+      "撐住並阻止旋轉",
+      "放開 grip 重新來過"
+     ],
+     "trap": [
+      "硬撐對抗翻滾以維持位置"
+     ]
+    }
+   },
+   {
+    "question": "遠側髖部控制在這個過渡中扮演什麼角色？",
+    "answer": "遠側髖部控制是阻止對手恢復 guard 的主要結構要素。沒有它，對手就能自由轉動髖部、把膝蓋插進你們兩人之間，恢復 half guard 或 full guard。在發動壓平之前，用你的近側手或膝蓋建立遠側髖部控制，能封死最常見的反制手段——透過轉髖恢復 guard。",
+    "answer_line": "封死轉髖恢復 guard",
+    "distractors": {
+     "plausible": [
+      "控制對手的肩膀",
+      "阻止對手站起"
+     ],
+     "trap": [
+      "只要 seatbelt 夠緊就不需要"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在從背後接觸轉為胸前接觸的過程中，抬起胸口會是個錯誤？",
+    "answer": "抬起胸口會在你和對手的身體之間製造空隙。即使只是短暫的空隙，也會讓對手有機會插入 frame、重新建立 turtle posting 結構、做 sit-through 恢復 guard，或發動逃脫。這個過渡動作必須是一個連續的滑動，你的胸口要保持不間斷的接觸，從對手的背後轉移到胸前，中間不能有分離。",
+    "answer_line": "製造空隙讓對手插 frame 逃脫",
+    "distractors": {
+     "plausible": [
+      "會拖慢過渡速度",
+      "會失去 crossface grip"
+     ],
+     "trap": [
+      "抬起胸口確認髖部位置"
+     ]
+    }
+   },
+   {
+    "question": "在這個過渡中，膝蓋阻擋和其他髖部控制方式有什麼不同？",
+    "answer": "近側的膝蓋阻擋會在對手遠側髖部形成一道實體屏障，被動地阻止他插膝恢復 guard。相較於需要握力、且容易被掙脫的手部髖部控制，膝蓋阻擋是用骨架結構來維持屏障。這讓你的雙手能空出來建立 crossface 與 overhook 控制，而膝蓋則自動負責髖部管理。",
+    "answer_line": "被動屏障，空出雙手",
+    "distractors": {
+     "plausible": [
+      "比手部控制握力更強",
+      "比手部建立得更快"
+     ],
+     "trap": [
+      "讓你可以放開所有 grip"
+     ]
+    }
+   },
+   {
+    "question": "如果對手擋下壓平並重建緊密的 turtle，你最高機率的連鎖攻擊是什麼？",
+    "answer": "重新威脅背後控制。當對手把所有防守資源都投入在阻止壓平上——擴大 base 並把體重向後頂向你——他們通常會暴露背部或停止防守 seatbelt。重新加載完整的 cross body ride 壓力，攻擊 hook 或 harness，讓背後控制的威脅逼他再次壓平，把 side control 的滑入作為這個兩難局面中的第二選項。",
+    "answer_line": "重新威脅背後控制",
+    "distractors": {
+     "plausible": [
+      "加大向下的壓力",
+      "改攻擊腿部"
+     ],
+     "trap": [
+      "放棄位置重新開始"
+     ]
+    }
+   },
+   {
+    "question": "從背後接觸滑向胸前接觸的最佳時機是什麼時候？",
+    "answer": "在對手的 posting 手臂彎折、髖部開始垮向地面的瞬間就發動滑入——也就是他的 turtle 結構瓦解、再也無法重新 post 的那一刻。太早滑入會讓他趁你體重移動時重建 base；太晚滑入則讓他重新 turtle 起來。這個觸發點是靠觸感判斷的：你會感覺到他的近側肩膀讓步，對你向下壓力的抵抗突然消失。",
+    "answer_line": "posting 手臂彎折、髖部下垂",
+    "distractors": {
+     "plausible": [
+      "固定 grip 後立刻進行",
+      "只要髖部開始下垂就可以"
+     ],
+     "trap": [
+      "一接觸就立刻滑入"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在壓平嘗試中反覆重建 turtle base，你該如何調整做法？",
+    "answer": "如果對手在你施壓後仍能成功重建 turtle，代表你的壓力角度不足，或是他已練出有效的重新 posting 時機。調整方式是改變壓力角度——把腳步再往他頭部方向靠近，以增加向下的力量分量——或先威脅背後控制，逼他把防守資源從維持 base 上調離。製造出真正的背後控制威脅，往往能讓壓平成為第二選項而順勢打開。",
+    "answer_line": "改變角度或威脅背後控制",
+    "distractors": {
+     "plausible": [
+      "加快滑入的速度",
+      "改成站立式 guard pass"
+     ],
+     "trap": [
+      "完全放棄上位"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 cross body ride 中，你要如何分辨對手是在嘗試背後控制，還是在嘗試壓平？",
+    "answer": "背後控制的嘗試會讓對手把 hook 朝你的髖部方向推進，並固定朝向背部暴露方向的 seatbelt 或領口 grip。壓平的嘗試則是對手透過你的近側肩膀向下施加肩部壓力，並把髖部朝你的身體方向走動，而不是保持垂直角度。關鍵指標在於他體重的方向——朝你背部移動是背後控制，透過你肩膀向下壓則是壓平。",
+    "answer_line": "體重方向：朝背部 vs 向下",
+    "distractors": {
+     "plausible": [
+      "看 hook 是否先進來",
+      "哪隻手先固定 grip"
+     ],
+     "trap": [
+      "看對手的反應速度"
+     ]
+    }
+   },
+   {
+    "question": "對抗壓平時，做 granby roll 防守的最佳時機窗口是什麼時候？",
+    "answer": "最佳時機窗口是在壓平初期階段，在對手還沒建立遠側髖部控制之前。一旦他用膝蓋或手擋住你的遠側髖部，granby roll 的髖部旋轉就會受到嚴重限制。當你感覺到近側肩膀承受集中的向下壓力，但遠側髖部仍然自由時，就是發動 granby roll 逃脫的理想觸發點。",
+    "answer_line": "遠側髖部被控制之前",
+    "distractors": {
+     "plausible": [
+      "crossface 固定之後",
+      "壓平完全成功之後"
+     ],
+     "trap": [
+      "遠側髖部被擋住之後"
+     ]
+    }
+   },
+   {
+    "question": "當壓平只部分成功時，為什麼恢復 half guard 會比繼續留在 turtle 更好？",
+    "answer": "一旦壓平已部分成功，你的 turtle 結構已被破壞，繼續停留在受損的 turtle 位置，代表你既沒有強力 turtle 的防守優勢，也沒有 guard 位置的進攻選項。half guard 雖然不理想，卻能提供既有的防守 frame、掃技機會，以及恢復 guard 的路徑，這些都是垮掉的 turtle 所沒有的。從受損的 turtle 過渡到 half guard，能保留你的選項。",
+    "answer_line": "half guard 保留逃脫選項",
+    "distractors": {
+     "plausible": [
+      "turtle 仍有一些防守力",
+      "half guard 比較快達成"
+     ],
+     "trap": [
+      "留在 turtle 中等待時機"
+     ]
+    }
+   },
+   {
+    "question": "你的 turtle base 正在持續壓力下瓦解——你的緊急防守順序是什麼？",
+    "answer": "執行以下順序：第一，把髖部爆發性地推離壓力來源，製造出短暫空間。第二，立刻把近側膝蓋插進你的身體與對手髖部之間，開始建立 half guard。第三，用前臂在對手肩膀上建立 frame，阻止他固定 crossface。第四，透過腿部纏繞完成 half guard 的恢復。關鍵在於要在完全被壓平之前就轉換到 guard，而不是之後才做。",
+    "answer_line": "髖部推離、插膝、frame、guard",
+    "distractors": {
+     "plausible": [
+      "先做 frame，再移動髖部",
+      "先等待，之後再插膝"
+     ],
+     "trap": [
+      "更用力 turtle 硬扛壓力"
+     ]
+    }
+   }
+  ]
+ }
+}

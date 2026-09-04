@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Twister Control 做 Defensive Roll 的主要目標是什麼？",
+    "answer": "主要目標是減少脊椎旋轉，逃到一個可以恢復的防守位置，例如 Turtle 或 Half Guard。這個逃脫的原理是透過一個受控的翻滾，把對方的旋轉能量重新導向，而不是正面對抗那個扭力。",
+    "answer_line": "逃到 turtle 或 half guard",
+    "distractors": {
+     "plausible": [
+      "正面對抗旋轉",
+      "反轉到上位"
+     ],
+     "trap": [
+      "硬推進完全的 twister 鎖"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須順著脊椎旋轉的方向滾動，而不是逆著它？",
+    "answer": "逆著旋轉方向滾動會大幅增加脊椎的扭力，可能對頸椎和胸椎造成嚴重傷害。順著旋轉方向滾動則能借用對方自身的動能，減少你脊椎承受的壓力，同時製造出逃脫的角度。",
+    "answer_line": "借用對方動能，扭力較小",
+    "distractors": {
+     "plausible": [
+      "先解放被困住的腳",
+      "累積壓力來破解握法"
+     ],
+     "trap": [
+      "逆向旋轉來解開對方"
+     ]
+    }
+   },
+   {
+    "question": "發動 Defensive Roll 的最佳時機是什麼時候？",
+    "answer": "最佳時機是在對手調整握法、準備收尾完成 Twister 的時候。這個握法調整會暫時削弱他們對腿部的控制，製造出一個能成功破解糾纏的窗口。太早或太晚滾動都會大幅降低成功率。",
+    "answer_line": "對方為收尾調整握法時",
+    "distractors": {
+     "plausible": [
+      "雙腿一被纏住就馬上做",
+      "對方一鎖上 hooks 就馬上做"
+     ],
+     "trap": [
+      "等 twister 完全鎖死才做"
+     ]
+    }
+   },
+   {
+    "question": "在做 Defensive Roll 時，你該如何保護你的頸部？",
+    "answer": "在開始任何翻滾動作之前，先把下巴牢牢收向胸口，並用你空出來的那隻手建立一個 frame 來對抗潛在的勒頸嘗試。在整個翻滾過程中都要維持收下巴的姿勢，防止在轉換過程中被 guillotine 或頸部扭轉降伏。",
+    "answer_line": "收下巴，用空手 frame",
+    "distractors": {
+     "plausible": [
+      "把頭轉離壓力方向",
+      "把脖子撐硬保持不動"
+     ],
+     "trap": [
+      "伸展脖子製造空間"
+     ]
+    }
+   },
+   {
+    "question": "完成 Defensive Roll 之後，你應該立刻做什麼？",
+    "answer": "立刻建立一個防守位置——要嘛是帶著積極 frame 的穩固 Turtle，要嘛開始用 knee shield 恢復 Half Guard。不要在中間過渡位置停頓或休息，因為對手會試圖重新建立 back control，或再次進入 Twister 的入口。",
+    "answer_line": "建立 turtle 或 half guard",
+    "distractors": {
+     "plausible": [
+      "停下來喘口氣",
+      "轉身面對並 scramble 起身"
+     ],
+     "trap": [
+      "靜止坐在中立位置"
+     ]
+    }
+   },
+   {
+    "question": "對手預判到你要滾動，收緊了他們對腿部的控制，你該如何應對？",
+    "answer": "放棄這次滾動的嘗試，回到漸進式的逃脫方法——用手部纏鬥對方的握法，做一些小幅度的調整來鬆動腿部控制。試圖硬闖過已經收緊的腿部控制，有受傷的風險，而且通常會失敗。等待一個更好的時機。",
+    "answer_line": "放棄滾動，手部纏鬥握法",
+    "distractors": {
+     "plausible": [
+      "用力 bridge 破解這個鎖",
+      "換到另一側滾動"
+     ],
+     "trap": [
+      "硬闖過這個緊鎖"
+     ]
+    }
+   },
+   {
+    "question": "在翻滾的過程中，你該如何抽出被困住的那隻腿？",
+    "answer": "在滾動的同時，主動把你的膝蓋往胸口方向拉。滾動的動能會改變腿部糾纏的角度，製造出空間讓你抽出被困住的腿。這必須是滾動過程中主動施力的動作，而不是等滾動結束後才想到要做的事。",
+    "answer_line": "滾動時把膝蓋拉向胸口",
+    "distractors": {
+     "plausible": [
+      "滾動結束後再抽腿",
+      "把腿直接踢直來脫困"
+     ],
+     "trap": [
+      "留腿被困，繼續完成滾動"
+     ]
+    }
+   },
+   {
+    "question": "對手跟著你的滾動並建立了 back control，你的即時反應該是什麼？",
+    "answer": "完成滾動的當下用雙手用力撐地，阻止他們把你壓平。在對方能鎖上他們的 hooks 之前，立刻轉身 sit through 進 guard。速度是關鍵——你在 Turtle 姿勢下被對手掛在背後的時間越長，你的位置就會越差。",
+    "answer_line": "撐手，sit through 進 guard",
+    "distractors": {
+     "plausible": [
+      "留在 turtle 裡縮成一團",
+      "再滾一次尋求 scramble 脫身"
+     ],
+     "trap": [
+      "先停下來重新架 base"
+     ]
+    }
+   },
+   {
+    "question": "你撐地那隻手臂的握法配置怎樣才能在滾動過程中提供最好的引導？",
+    "answer": "把你撐地的手臂朝著預定滾動的方向平放在墊子上，手掌打開，手指指向遠離身體的方向。這種開掌撐地能讓你的手臂吸收滾動的動能，並引導你的軌跡。握拳或閉合的手在旋轉負荷下有手腕受傷的風險，方向控制也比較差。",
+    "answer_line": "手掌打開平放，手指朝外",
+    "distractors": {
+     "plausible": [
+      "握拳撐地比較穩固",
+      "手掌朝向你的髖部"
+     ],
+     "trap": [
+      "不撐地，用頭滾過去"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候不該嘗試 Defensive Roll？",
+    "answer": "當對手對腿部的控制已經完全鎖死，而且他們的 Twister 握法已經穩固時，不要嘗試。這時逃脫的窗口已經關閉，嘗試滾動反而會增加脊椎的壓力，加速受傷的風險。在這種情況下，保護好你的頸部，必要時直接拍館求安全。",
+    "answer_line": "twister 握法完全鎖死時",
+    "distractors": {
+     "plausible": [
+      "胸口壓力感覺很重時",
+      "你無法自由 bridge 時"
+     ],
+     "trap": [
+      "永遠不要——每次都要滾出來"
+     ]
+    }
+   },
+   {
+    "question": "對手開始從 Truck 調整到完整的 Twister Control——你該現在就滾，還是等待？",
+    "answer": "這個轉換的瞬間其實正是 Defensive Roll 的最佳窗口。當對手從 Truck 轉換到 Twister Control 時，他們對腿部的糾纏會在位置調整的過程中暫時鬆開。要在這個重新配置的階段就發動滾動，而不是等到完整的 Twister Control 建立、握法都鎖定之後。",
+    "answer_line": "現在就滾，控制正在鬆動",
+    "distractors": {
+     "plausible": [
+      "等 twister 完全鎖死",
+      "等 hooks 鎖上"
+     ],
+     "trap": [
+      "等對方發動降伏嘗試"
+     ]
+    }
+   },
+   {
+    "question": "你完成了滾動，但落在 Turtle 姿勢，對手仍然掛在你身上——什麼因素決定你能恢復 Half Guard，還是只能停留在 Turtle 防守？",
+    "answer": "決定性因素在於你被困住的那隻腿在滾動過程中是否已經完全抽出。如果那隻腿已經自由，立刻把膝蓋插進你們兩人身體之間，建立 knee shield Half Guard，這能提供更好的進攻選項。如果那隻腿仍然部分被困，就優先做 Turtle 防守，維持穩固的 frame 和積極的髖部位置，同時持續漸進式地把腿抽出來。",
+    "answer_line": "被困的腿是否已經自由",
+    "distractors": {
+     "plausible": [
+      "你朝哪個方向滾動",
+      "對手有多累"
+     ],
+     "trap": [
+      "永遠預設回到平躺 turtle"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位選手要成功做出 Defensive Roll 需要哪三個條件？你該如何逐一封鎖？",
+    "answer": "這三個條件是：腿部控制出現短暫鬆動（透過在握法轉換期間仍維持緊密的腿部糾纏來封鎖）、有一隻空出來的手可以撐地（透過控制或壓制對方空出來的手臂來封鎖）、以及朝滾動方向投入的髖部驅動（透過維持沉重的胸口壓力、壓縮對方裝載髖部的能力來封鎖）。只要拿掉其中任何一個條件，就能阻止這個滾動。",
+    "answer_line": "封鎖腿、手臂、髖部三者",
+    "distractors": {
+     "plausible": [
+      "只封鎖撐地的那隻手",
+      "只維持胸口壓力"
+     ],
+     "trap": [
+      "鬆開腿部去追降伏"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到下位選手收下巴、開始繃緊核心，你的即時反應該是什麼？",
+    "answer": "這些是 Defensive Roll 的典型準備訊號。立刻收緊你的腿部糾纏，把胸口壓力更沉地壓進他們的上背，並設法控制他們空出來的那隻手臂。如果可能，加速你自己的進攻連環——要嘛全力投入 Twister 收尾，要嘛轉換到其他降伏。目標是要嘛在他們滾動之前完成降伏，要嘛拿掉他們逃脫所需的條件。",
+    "answer_line": "收緊雙腿，控制空手",
+    "distractors": {
+     "plausible": [
+      "先觀察對方接下來的動作",
+      "鬆開握法重新調整位置"
+     ],
+     "trap": [
+      "現在就伸手搶收尾握法"
+     ]
+    }
+   },
+   {
+    "question": "下位選手發動了滾動，你無法阻止，這時最佳的後續策略是什麼？",
+    "answer": "在整個旋轉動作過程中維持胸貼背的連結，跟著滾動走。當對方完成滾動、進入 Turtle 時，立刻設法插入你的 hooks，建立 seatbelt 式的纏抱，取得傳統的 back control。不要放手重新歸零——滾動過程中那短暫的 scramble，正是你在對方能建立防守性 Turtle frame 之前，取得 back control 的最佳窗口。",
+    "answer_line": "跟著滾動，拿下 back control",
+    "distractors": {
+     "plausible": [
+      "放手回到中立位置",
+      "改追腿鎖"
+     ],
+     "trap": [
+      "放手站起來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在伸手抓 Twister 收尾握法時，鬆開腿部控制是很危險的？",
+    "answer": "為了伸手抓收尾握法而鬆開腿部控制，正好會製造出下位選手等待已久、用來發動 Defensive Roll 的那個時機窗口。腿部糾纏是 Twister Control 的根基——沒有它，讓這個位置危險的旋轉限制就會消失。永遠把腿部控制放在最優先，漸進式地調整上身的握法，而不是為了收尾而犧牲腿部的壓力。",
+    "answer_line": "鬆腿等於打開滾動窗口",
+    "distractors": {
+     "plausible": [
+      "會拖慢降伏嘗試的速度",
+      "會消耗你的握力"
+     ],
+     "trap": [
+      "拿腿去換收尾握法"
+     ]
+    }
+   },
+   {
+    "question": "維持胸口壓力具體是如何阻止 Defensive Roll 的？",
+    "answer": "胸口壓力會把下位選手的軀幹壓進墊子，消除他們產生滾動動能所需的髖部抬升空間。Defensive Roll 需要下位選手朝滾動方向用力驅動髖部，而這只有在他們有空間裝載並爆發時才做得到。沉重的胸口壓力會拿掉這個空間，讓他們保持貼平，無法製造出逃脫所需的方向性力量。",
+    "answer_line": "拿掉髖部爆發的空間",
+    "distractors": {
+     "plausible": [
+      "長時間下來會拖垮對手體力",
+      "阻擋對方的視線和握法"
+     ],
+     "trap": [
+      "放鬆壓力以節省體力"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Defensive Roll.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

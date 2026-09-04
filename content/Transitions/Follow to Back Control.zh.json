@@ -1,0 +1,269 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Follow to Back Control 的主要目標是什麼？",
+    "answer": "主要目標是利用對手已經投入的 inversion 逃脫，放棄成功率較低的 leg attack，轉換到具有主導地位的 back control。與其對一個快速旋轉的對手硬拚 heel hook，不如順著他們的防守動量，取得擁有多個高成功率 submission 威脅的位置。",
+    "answer_line": "放棄 leg lock，拿下背後",
+    "distractors": {
+     "plausible": [
+      "更快強行完成 heel hook",
+      "重整回中立位置"
+     ],
+     "trap": [
+      "更用力追 leg lock"
+     ]
+    }
+   },
+   {
+    "question": "Follow to Back Control 是從哪個位置開始的？",
+    "answer": "這個技術從 Ushiro Ashi-Garami/Top 開始，也就是反轉的腿部纏繞位置——儘管對手試圖 inversion，你仍維持著控制。這個位置的特徵是你外側的腿跨過對手膝蓋連線，內側腿在下方，從反轉的角度形成 figure-four。",
+    "answer_line": "Ushiro Ashi-Garami（上位）",
+    "distractors": {
+     "plausible": [
+      "標準 50-50 guard",
+      "Saddle／Inside Ashi-Garami"
+     ],
+     "trap": [
+      "已經在 back control 了"
+     ]
+    }
+   },
+   {
+    "question": "對手的髖部已經旋轉 45 度，並且正在對抗你的手——你應該放開腿部纏繞嗎？",
+    "answer": "不，現在還太早。在 45 度且對手仍積極對抗手部控制的情況下，對手還沒有完全投入 inversion 逃脫。如果你放開，他們可能會反轉方向，甚至反過來纏住你的腿。要等到他們的髖部旋轉超過 90 度，並且明顯放棄防守 heel hook、轉而選擇 turtle 逃脫時，才可以放開。",
+    "answer_line": "不，現在放開還太早",
+    "distractors": {
+     "plausible": [
+      "是，應該立刻放開",
+      "只放開上方的 hook"
+     ],
+     "trap": [
+      "放開後去追 overhook"
+     ]
+    }
+   },
+   {
+    "question": "Follow to Back Control 需要的關鍵 grip 是什麼？",
+    "answer": "關鍵的 grip 是 seat belt（over-under）：一隻手臂繞過對手肩膀上方，手伸向對側胸肌；另一隻手臂穿過對手另一側腋下，手在胸骨高度扣住上方那隻手。underhook 必須夠深，手肘緊貼肋骨，防止被對手撬開。",
+    "answer_line": "Seat belt：深 over-under",
+    "distractors": {
+     "plausible": [
+      "只用雙 underhook",
+      "領口加袖口 grip"
+     ],
+     "trap": [
+      "雙手都鬆鬆地 overhook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼下方的 hook 必須在上方 hook 之前插入？",
+    "answer": "下方的 hook 控制對手的髖部動作，防止 granby roll 逃脫。沒有下方 hook 的控制，對手可以用 granby roll 從你正在嘗試插入的上方 hook 上方翻過去，完全逃出 back control。下方 hook 會固定住你的位置，讓插入上方 hook 變得安全。",
+    "answer_line": "阻止 granby roll 逃脫",
+    "distractors": {
+     "plausible": [
+      "更快拿到絞技",
+      "控制對手遠側手臂"
+     ],
+     "trap": [
+      "上方 hook 永遠先插入"
+     ]
+    }
+   },
+   {
+    "question": "如果對手把手伸到背後阻擋你的 underhook，你該如何應對？",
+    "answer": "改用 two-on-one arm drag grip 控制他們防守的那隻手臂。用這個 grip 把手臂橫向拉開，露出被清開那一側的背部。一旦控制住那隻手臂，就在對手能把手收回去、再次防守之前，建立 seat belt grip。",
+    "answer_line": "Arm drag，用 two-on-one grip",
+    "distractors": {
+     "plausible": [
+      "強行把 underhook 穿過去",
+      "改用 overhook grip"
+     ],
+     "trap": [
+      "整個放掉 seat belt"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試 Follow to Back Control 的最佳時機？",
+    "answer": "最佳時機是對手的髖部旋轉已經超過臨界值（超過 90 度），並正積極轉向 turtle 位置的時候。這時他們的防守注意力集中在清開腿部纏繞上，而不是防守上半身控制，這就創造出取得背後的空檔。",
+    "answer_line": "超過 90 度，轉向 turtle",
+    "distractors": {
+     "plausible": [
+      "髖部一開始旋轉就出手",
+      "等他們到達 turtle 之後"
+     ],
+     "trap": [
+      "還在對抗手部控制時就出手"
+     ]
+    }
+   },
+   {
+    "question": "你的對手比你快，總是在你建立 grip 之前就到達 turtle——你該如何調整？",
+    "answer": "更早放開腿部纏繞，在他們的旋轉達到最高加速度之前就放。要提前預判對手的投入，而不是等到看見才反應。如果他們總是能搶先到達 turtle，即使你提早放手，也要接受這個結果，改用 turtle 攻擊系列——front headlock、clock choke 或 spiral ride——而不是硬要完成一個條件不足的 back take。",
+    "answer_line": "提早放手，攻擊 turtle",
+    "distractors": {
+     "plausible": [
+      "更用力抓住腿",
+      "配合對手的旋轉速度"
+     ],
+     "trap": [
+      "在旋轉中途硬做 heel hook"
+     ]
+    }
+   },
+   {
+    "question": "什麼跡象顯示對手可能是在誘使你拿背後，好藉機重回 guard？",
+    "answer": "留意那些旋轉超過 90 度、卻仍讓手肘貼著膝蓋、用手維持強力 frame，或旋轉時不急不徐的對手。這些跡象代表他們可能是在製造假的投入感，引誘你放開腿，然後趁你放手的瞬間把髖部彈回去重新建立 guard。面對這類對手，要把腿部控制維持得更久。",
+    "answer_line": "手肘貼膝、不急不徐",
+    "distractors": {
+     "plausible": [
+      "快速爆發式的旋轉",
+      "雙臂高舉過頭"
+     ],
+     "trap": [
+      "立刻放開雙腿"
+     ]
+    }
+   },
+   {
+    "question": "你已經拿到 seat belt，但無法把對手壓平以插入 hook——你有哪些選擇？",
+    "answer": "如果對手維持強力的 turtle，就轉換成 turtle 攻擊的變化型：嘗試 clock choke、穿過對手近側手臂轉換成 crucifix，或插入單一 hook 並從 three-quarter back 爭取 body triangle。另外，你也可以維持 seat belt 和髖部壓力，等對手體力耗盡自然壓平。",
+    "answer_line": "攻擊 turtle：clock、crucifix",
+    "distractors": {
+     "plausible": [
+      "用蠻力硬壓平",
+      "放開 seat belt 重來"
+     ],
+     "trap": [
+      "放棄並重新追腿"
+     ]
+    }
+   },
+   {
+    "question": "跟隨對手旋轉時，關鍵的施力方向是什麼？",
+    "answer": "力量應該朝前並繞著弧線方向施加，順著對手旋轉的弧線走，而不是橫向切過去。讓你的胸骨朝對手遠側的肩胛骨方向推進，同時髖部緊跟他們的髖線。橫向的力量（伸手橫越過去）會製造出空間，而順著弧線的旋轉力量則能在整個轉換過程中維持胸貼背的連結。",
+    "answer_line": "朝前並順著弧線走",
+    "distractors": {
+     "plausible": [
+      "橫向伸手越過去",
+      "直接往後拉"
+     ],
+     "trap": [
+      "橫切過去以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "你的對手已經部分清開了你的腿，但背部仍然暴露——你該繼續拿背後，還是重新纏住腿？",
+    "answer": "繼續拿背後。一旦對手已經部分清開腿部纏繞，重新建立 figure-four 的成功率會比順勢完成 back control 還要低。他們部分清開的動作，代表旋轉已經投入下去，背部暴露程度也已經到達最大。放棄拿背後、轉去追腿，只是在浪費他們逃脫動作創造出來的位置優勢。",
+    "answer_line": "繼續完成拿背後",
+    "distractors": {
+     "plausible": [
+      "重新固定 figure-four",
+      "重整回中立位置"
+     ],
+     "trap": [
+      "再次追 leg lock"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 leg attack 轉換成拿背後，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是感覺到 figure-four 的腿部配置放鬆，同時伴隨一股從你被困住的腿往前推的力道。攻擊者會主動推離你的腿，藉此製造朝你上半身移動的動量。這種腿部壓力的釋放，就是提醒你該立刻加快旋轉或準備防守 frame 的信號。",
+    "answer_line": "Figure-four 放鬆並往前推",
+    "distractors": {
+     "plausible": [
+      "對手抓住你的領口",
+      "對手停止動作"
+     ],
+     "trap": [
+      "對手加大 leg lock 的力道"
+     ]
+    }
+   },
+   {
+    "question": "對手已經放開你的腿，正在跟著你旋轉——你應該試著重新纏住腿，還是繼續轉向 turtle？",
+    "answer": "大多數情況下應該繼續轉向 turtle。一旦攻擊者已經放手並把髖部投入跟隨動作，要重新纏住腿就得整個逆轉你的動量，這會比他們往前的推進慢得多。完成旋轉、進入穩固的 turtle，在那裡你會有既有的防守選項。只有在你很早就察覺到對方放手、而且攻擊者在投入跟隨動作前還有猶豫時，才應該逆轉方向。",
+    "answer_line": "繼續旋轉進入 turtle",
+    "distractors": {
+     "plausible": [
+      "逆轉方向、重新纏腿",
+      "停下來重整回中立"
+     ],
+     "trap": [
+      "去追已經放棄的 leg lock"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者已經建立 seat belt 但還沒有 hook——你當下防守的首要任務是什麼？",
+    "answer": "你當下的首要任務是阻止 hook 的插入，特別是下方的 hook。用你下方的腿往後踢，撥開任何試圖勾住的動作，同時把膝蓋夾緊。與此同時，用 two-on-one 控制去對抗 seat belt 中負責 underhook 的那隻手臂，把它撥開。沒有 hook，即使有 seat belt，攻擊者也無法把 back control 鞏固下來，這能讓你有時間製造逃脫的角度。",
+    "answer_line": "撥開下方 hook 的嘗試",
+    "distractors": {
+     "plausible": [
+      "先對抗 seat belt 的手",
+      "轉向有上方 hook 的那一側"
+     ],
+     "trap": [
+      "伸直雙臂把對方推開"
+     ]
+    }
+   },
+   {
+    "question": "在 inversion 旋轉的過程中，你應該維持什麼樣的身體姿勢，才能把背部暴露減到最少？",
+    "answer": "把下巴緊緊收向胸口，手肘壓向膝蓋，形成一個緊密的殼狀防守，並讓上背保持圓拱。你的旋轉應該緊湊而快速，而不是拉長且緩慢。整個過程中手臂都要貼緊軀幹——絕對不要把手臂伸到身後。這種緊湊的防守球形姿勢，能把攻擊者在轉換過程中能抓握的面積降到最低。",
+    "answer_line": "下巴內收，手肘貼膝",
+    "distractors": {
+     "plausible": [
+      "手臂伸展以維持平衡",
+      "旋轉緩慢且受控"
+     ],
+     "trap": [
+      "把手撐在身後"
+     ]
+    }
+   },
+   {
+    "question": "你 inversion 起始的時機，如何影響你被拿背後的脆弱程度？",
+    "answer": "緩慢、有預兆的 inversion 會給攻擊者時間讀出你的旋轉，準備他們的放手與跟隨動作。快速、爆發性的 inversion 則會在你與攻擊者之間製造出距離，讓他們更難追蹤你的旋轉、及時到達你的背後。理想的 inversion 應該是全力投入、爆發性、並一次動作完成，而不是讓攻擊者能配合節奏的漸進式旋轉。",
+    "answer_line": "快速爆發勝過緩慢",
+    "distractors": {
+     "plausible": [
+      "緩慢受控比較安全",
+      "速度影響不大"
+     ],
+     "trap": [
+      "旋轉到一半暫停重整"
+     ]
+    }
+   },
+   {
+    "question": "對手已經插入一個 hook 並拿到 seat belt——你該往哪個方向逃脫？",
+    "answer": "往插入 hook 的那一側逃脫。藉由轉向那個 hook，你可以利用髖部動作，伸展你的腿並用膝蓋壓對方的腳，把 hook 撥開。往反方向逃脫反而會讓 hook 更緊、更難移除。同時，在你轉身時用 two-on-one grip 對抗 seat belt 中的 underhook，製造上半身的分離。",
+    "answer_line": "轉向有 hook 的那一側",
+    "distractors": {
+     "plausible": [
+      "轉離有 hook 的那一側",
+      "直接往後推"
+     ],
+     "trap": [
+      "伸直腿把 hook 撥開"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Follow to Back Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

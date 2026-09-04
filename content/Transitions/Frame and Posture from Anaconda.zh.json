@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame and Posture from Anaconda.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Anaconda Control 逃脫的 Frame and Posture，背後最根本的力學原理是什麼？",
+    "answer": "anaconda choke 需要透過胸口壓向肩膀的壓力，才能在頸部周圍形成收縮的力量。frame 藉由在對手的胸口和你被困的肩膀之間插入一道結構性屏障，來打斷這股壓力——即使沒有解開對手的抓握，也能減少驅動這個技鎖的力量。透過骨骼結構架 frame、移除胸口壓力這個要素，勒頸的圈套就會鬆到足以讓你恢復姿勢、最終從擴大的開口中把頭抽出來。",
+    "answer_line": "Frame 打斷胸口壓力",
+    "distractors": {
+     "plausible": [
+      "撬開勒頸的抓握",
+      "立刻硬把頭拔出來"
+     ],
+     "trap": [
+      "更用力頂進對方胸口"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該把 frame 架在對手的身體上，而不是他們勒頸的那隻手臂上？",
+    "answer": "對手勒頸的那隻手臂，背後有透過胸口壓力傳來的全身體重，所以光靠你的自由手想用手臂對手臂的方式移動它，幾乎不可能。把 frame 架在他們的肩膀或髖部，鎖定的是身體結構，你可以用骨骼對齊去抵抗。frame 不需要移動勒頸的手臂——它只需要阻止對手的胸口壓向你的肩膀，就能移除讓 anaconda choke 有效運作的那股壓迫力。",
+    "answer_line": "Frame 髖部或肩膀，而非手臂",
+    "distractors": {
+     "plausible": [
+      "直接把 frame 架在他們手臂上",
+      "推被困那側的手肘"
+     ],
+     "trap": [
+      "撬開他們勒頸的手"
+     ]
+    }
+   },
+   {
+    "question": "你的 frame 已經架好，但對手正以沉重的胸口壓力向前推進——你該做什麼調整？",
+    "answer": "調整你 frame 的角度，把對方向前的壓力導向側邊，而不是正面硬接。旋轉你的前臂，讓對手的體重從你的 frame 旁滑過，而不是直接壓穿過去。同時增加朝壓力向量反方向的髖部移動，製造角度上的偏移，讓對方向前的推進失去效果。如果正面壓力實在太大，就把 frame 稍微往下移到對方的髖部，在那裡你對他們的體重有更好的力學槓桿。",
+    "answer_line": "把壓力導向側邊",
+    "distractors": {
+     "plausible": [
+      "直直向後正面硬頂",
+      "正面對上，硬拚力量"
+     ],
+     "trap": [
+      "放掉 frame，用力 bridge"
+     ]
+    }
+   },
+   {
+    "question": "什麼情況下 Frame and Posture escape 比 Anaconda Grip Break 更適合使用？",
+    "answer": "當對手抓握的接合點無法觸及時——可能是因為他們的手鎖得太深，在你脖子遠側你的自由手搆不到，或是 figure-four 的結構讓接合點很難撬開——Frame and Posture 就是更好的選擇。當你因為被困手臂的位置而手部靈活度受限、但自由手臂仍能架出前臂 frame 時，這個方法也比較好。而當你能清楚接觸到對手交扣的雙手時，grip break 則是更好的選擇。",
+    "answer_line": "抓握接合點搆不到",
+    "distractors": {
+     "plausible": [
+      "對手的抓握感覺鬆動",
+      "你的手部靈活度完全正常"
+     ],
+     "trap": [
+      "永遠優先選 grip break"
+     ]
+    }
+   },
+   {
+    "question": "相對於 frame 的建立，開始恢復姿勢的正確時機是什麼？",
+    "answer": "只有在 frame 已經在對手胸口和你被困的肩膀之間製造出可測量的空間之後，才開始恢復姿勢。如果你感覺到對手的胸口壓力減少、呼吸變得順暢，就代表 frame 正在製造足夠的分離，可以開始抬起你的軀幹。在 frame 承受重量之前就嘗試恢復姿勢，會讓技鎖在你移動的過程中收緊，因為你的身體會在收縮的圈套裡移位。frame 必須先產生實際的反向壓力，任何姿勢上的改變才能開始。",
+    "answer_line": "只在 frame 鬆開技鎖後",
+    "distractors": {
+     "plausible": [
+      "frame 手一碰到就立刻做",
+      "和架 frame 同時進行"
+     ],
+     "trap": [
+      "在 frame 生效之前就做"
+     ]
+    }
+   },
+   {
+    "question": "當你正在做 frame escape 時，對手發動 roll-through，你該如何應對？",
+    "answer": "立刻放棄 frame，用你的自由手撐地，同時把雙腿向後撐開來抵抗這個翻滾。roll-through 是收尾的動作，絕對優先於繼續進行 frame escape。一旦翻滾嘗試卡住、對手必須重新調整位置，就重新架起你的 frame、恢復逃脫順序。因為你撐地的手正忙著架 frame 而不是撐開身體，frame escape 本身會讓你稍微容易受到翻滾攻擊，所以要全程保持警覺，留意對方是否要發動翻滾。",
+    "answer_line": "撐地並撐開身體，放棄 frame",
+    "distractors": {
+     "plausible": [
+      "繼續在翻滾中保持 frame",
+      "改用抓握對抗而不是撐地"
+     ],
+     "trap": [
+      "維持 frame，硬撐過翻滾"
+     ]
+    }
+   },
+   {
+    "question": "在你 frame and posture 恢復的過程中，對手改用 darce 抓握——你要如何辨識並應對？",
+    "answer": "你會感覺到他們勒頸的手臂穿得更深、橫過你脖子後方，而另一隻手放開、從不同角度重新抓握。壓力的方向會從 anaconda 的側向壓迫，變成 darce 橫跨頸部的斜向壓迫。立刻把你的 frame 改向 darce 的壓迫角度，通常是從對方的肩膀改為對準他們的胸口或遠側肩膀。持續恢復姿勢的同時，把髖部繞向 darce 手臂的那一側，因為這個方向會削弱 darce 的壓迫幾何。",
+    "answer_line": "把 frame 調整到 darce 角度",
+    "distractors": {
+     "plausible": [
+      "維持原本 frame 的位置繼續施壓",
+      "專注解放勒頸的手臂"
+     ],
+     "trap": [
+      "朝 darce 手臂的反方向繞開"
+     ]
+    }
+   },
+   {
+    "question": "在你架 frame 的那隻手上，什麼樣的抓握結構能對抗對手體重、提供最好的結構性阻力？",
+    "answer": "五指張開的掌心頂住對手肩膀，或是握拳頂進他們遠側的髖部，能提供最好的結構性阻力。關鍵在於前臂的對齊——你的前臂必須和對方身體大約呈 90 度垂直，手肘要緊貼自己的肋骨。這種短槓桿的結構，能讓力量透過你的骨骼結構傳遞，而不是仰賴肌肉力量。避免用手掌內扣或抓握對方的衣物，因為這會動用抓握肌群，在持續受壓下很快就會疲勞。",
+    "answer_line": "掌心張開，前臂垂直",
+    "distractors": {
+     "plausible": [
+      "握拳抓住對方的道服",
+      "手指彎曲用力抓握"
+     ],
+     "trap": [
+      "緊緊抓住對方的袖子"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在嘗試 Frame and Posture escape，而不是 grip break，最早能觀察到的辨識線索是什麼？",
+    "answer": "Frame and Posture escape 的辨識方式，是感覺到對手的自由前臂刻意以垂直方式接觸你的肩膀或髖部，形成一個結構性的架設。這和 grip break 不同，後者是對方的自由手伸向你脖子遠側的抓握接合點。這個區別很重要，因為 frame escape 要靠調整身體壓力和改變角度來反制，而 grip break 則要靠夾緊手肘、強化抓握接合點來反制。",
+    "answer_line": "前臂頂住你的肩膀",
+    "distractors": {
+     "plausible": [
+      "自由手伸向抓握接合點",
+      "勒頸壓力突然增加"
+     ],
+     "trap": [
+      "手肘夾得更緊"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你肩膀上建立起強力的 frame，並開始抬起身體恢復姿勢——你該維持 anaconda 還是轉換？",
+    "answer": "如果姿勢恢復已經進展到你的胸口正在和對方的肩膀分離、儘管你嘗試反向施壓，勒頸壓力仍明顯減弱，就立刻轉換。你最好的選擇是改成 darce 的結構，從一個 frame 原本沒有設計來對抗的角度進攻，或是轉換到 side control，維持優勢位置。繼續硬拚一個正在失效的 anaconda 只會浪費體力，還可能讓對手趁勢完成逃脫、進入 front headlock。",
+    "answer_line": "轉換到 darce 或 side control",
+    "distractors": {
+     "plausible": [
+      "繼續爭取 anaconda",
+      "立刻退回 guard"
+     ],
+     "trap": [
+      "硬靠力氣把技鎖收得更緊"
+     ]
+    }
+   },
+   {
+    "question": "要如何破解已經穩固架在你遠側肩膀上的前臂 frame？",
+    "answer": "把你肩膀和胸口的壓力斜向驅動，而不是直接頂進 frame 阻力最強的那條軸線。frame 對抗的是它所對齊方向的垂直力量，所以把你的施壓角度改成大約 45 度，就能繞過 frame 的結構性阻力。同時，把你的髖部橫向移動，完全從另一個角度接近對方。如果只改變角度還不夠，就夾緊手肘、增加壓迫，不靠胸口壓力也能收緊圈套。",
+    "answer_line": "以角度驅動壓力",
+    "distractors": {
+     "plausible": [
+      "直接頂進 frame",
+      "把對手的手臂拉開"
+     ],
+     "trap": [
+      "後退重新架設位置"
+     ]
+    }
+   },
+   {
+    "question": "當 Frame and Posture escape 部分成功、對手已經製造出明顯的空間時，你最佳的轉換是什麼？",
+    "answer": "你最好的轉換是改成 darce 的結構。趁著 frame 製造出來的空間還在，把你勒頸的手臂穿得更深、橫過對方的脖子——這個部分的空間其實有助於 darce 的穿線，因為它為你的手臂橫越對方脖子後方提供了空間。對手的 frame 是針對 anaconda 的壓迫角度設置的，而不是 darce 的斜向壓迫，這讓這個轉換特別能有效對抗 frame escape。要在對方完全恢復姿勢之前完成轉換，否則你會失去 darce 所需要的頭部控制。",
+    "answer_line": "快速轉換到 darce",
+    "distractors": {
+     "plausible": [
+      "重新收緊 anaconda",
+      "改打 guillotine choke"
+     ],
+     "trap": [
+      "放開頭部控制去重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在對手 frame 架好之後，你要如何阻止他們恢復姿勢？",
+    "answer": "用立即的下壓力反制姿勢恢復——把你胸口的重量透過對方的頭部和上背向前、向下驅動，在向上的動能累積之前，重新壓垮他們的姿勢。同時把手肘夾得更緊，維持收縮圈套的效果。如果單靠下壓力不夠，因為 frame 阻擋了正面壓力，就把髖部走到 frame 的另一側，從 frame 無法抵抗的方向進攻，再從新的角度施加下壓力。",
+    "answer_line": "下壓並夾緊手肘",
+    "distractors": {
+     "plausible": [
+      "拚抓握找更深的領勾",
+      "張開手臂拉寬對方的底盤"
+     ],
+     "trap": [
+      "讓對方抬頭好換邊"
+     ]
+    }
+   }
+  ]
+ }
+}

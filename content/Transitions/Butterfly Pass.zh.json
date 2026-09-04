@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "過 butterfly guard 時，為什麼維持寬廣的重心支撐面如此重要？",
+    "answer": "寬廣的支撐面之所以重要，是因為 butterfly hook 是靠著在過guard者與地墊接觸點之間製造角度來產生 sweep 的槓桿力。當你的膝蓋比對手 hook 能碰到的範圍展得更開時，這種幾何關係會讓他們無法有效地把你的重心抬起。butterfly sweep 依靠用雙腳頂進你髖部下方，同時控制你的上半身——寬廣的支撐面能把你的髖部放在他們 hook 無法製造出必要槓桿力的範圍之外。此外，寬廣的支撐面還能對抗偏角度的 sweep 嘗試，提供側向的穩定性，並讓你能策略性地轉移重心而不失去平衡。",
+    "answer_line": "寬支撐面拿掉 hook 槓桿力",
+    "distractors": {
+     "plausible": [
+      "坐直去對抗 grip",
+      "髖部正對、向前施壓"
+     ],
+     "trap": [
+      "雙膝併攏跪地、向前傾"
+     ]
+    }
+   },
+   {
+    "question": "過guard過程中拆解 butterfly hook 時，主要的力學目標是什麼？",
+    "answer": "主要的力學目標是把 butterfly hook 壓平，拿掉它產生向上力量所需要的垂直角度。butterfly hook 只有在能夠上抬時才能發揮 sweep 的作用——一旦透過髖部壓力與策略性的重心分配把 hook 壓平貼地，它就會完全失去力學上的優勢。做法是在維持向前壓力的同時，把你這一側的髖部朝 hook 所在方向壓向地墊，創造出一股向下的力量，壓過 hook 原本要往上的軌跡。壓平的 hook 無法再抬起你的身體，這樣在化解對手的 sweep 威脅的同時，就能安全地推進位置。",
+    "answer_line": "壓平 hook，消除上抬角度",
+    "distractors": {
+     "plausible": [
+      "用手把他們的腳踝硬拉開",
+      "把雙腿交叉來擋住它"
+     ],
+     "trap": [
+      "抬高髖部去跨過 hook"
+     ]
+    }
+   },
+   {
+    "question": "向前的胸口壓力如何有助於成功地過 butterfly guard？",
+    "answer": "向前的胸口壓力在過 butterfly guard 時發揮多項關鍵作用。第一，它能防止對手取得有效 sweep 所需要的坐直姿勢——butterfly sweep 需要下位者在維持 hook 接觸的同時坐起身並建立 grip。沉重的胸口壓力會讓坐起變得極為困難。第二，向前的壓力會製造心理與生理上的不適，迫使對手做出防守反應，而不是主動進攻。第三，它會限制對手轉換到 deep half 或 X-guard 等其他 guard 所需要的空間。最後，持續的向前壓力能在整個過guard過程中維持你的進攻動能，防止對手創造出足以恢復或重設 guard 位置所需要的距離。",
+    "answer_line": "胸口壓力破壞對手姿勢",
+    "distractors": {
+     "plausible": [
+      "先跟 grip 對抗，再施壓",
+      "只在 hook 都拆解後才施壓"
+     ],
+     "trap": [
+      "坐後方誘使對手嘗試 sweep"
+     ]
+    }
+   },
+   {
+    "question": "處理多個 butterfly hook 時，正確的順序是什麼？為什麼順序很重要？",
+    "answer": "正確的順序是先找出並化解主要威脅的 hook（通常是對手上半身控制或 grip 較強勢的那一側），然後在取得更多控制之後，再處理第二個 hook。順序之所以重要，是因為同時嘗試拆解兩個 hook 會分散你的壓力，讓兩側都出現破綻。先完全化解一個 hook，就能拿掉對手一半的 sweep 威脅，同時建立起控制性的 frame（underhook 或 crossface），讓處理第二個 hook 變得安全許多、也容易許多。主要 hook 的判斷方式，是評估哪一側對手有更好的 grip、姿勢或槓桿優勢——先化解這個威脅，能防止他們在你過guard轉換中最脆弱的時候，發動勝算最高的攻擊。",
+    "answer_line": "先消滅最強的那個 hook",
+    "distractors": {
+     "plausible": [
+      "同時拆解兩個 hook",
+      "先拆解較弱的 hook"
+     ],
+     "trap": [
+      "無視 hook，直衝 side control"
+     ]
+    }
+   },
+   {
+    "question": "在完成過guard進入 side control 之前，為什麼必須先確保 underhook 或 crossface 控制？",
+    "answer": "underhook 或 crossface 能釘住對手的上半身，防止他們在你把髖部與雙腿轉換進 side control 時恢復 guard。若沒有這些控制，即使已經拆解了 butterfly hook，對手仍能輕易地插入膝蓋以保留 guard、建立 frame 來製造空間，或蝦式移動來恢復位置。underhook 或 crossface 就像一個錨點，能在你把髖部與雙腿轉換到最終過guard位置時，牢牢釘住對手的上半身。若沒有這種控制就嘗試完成過guard，會讓你在轉換過程中露出破綻，使 side control 的建立變得不穩固，而不是具有壓制性。這些控制能把位置上的優勢，轉化成真正確立的壓制位置。",
+    "distractors": {
+     "plausible": [
+      "先控制雙腿",
+      "等對方攤平再說"
+     ],
+     "trap": [
+      "轉身背對以滑過去"
+     ]
+    },
+    "answer_line": "完成前先釘住上半身"
+   },
+   {
+    "question": "如果對手在你過 butterfly guard 的過程中嘗試轉換到 deep half guard，你該如何應對？",
+    "answer": "立刻加大 crossface 壓力，讓靠近的那條腿保持沉重，並把髖部向下壓，防止他們鑽到你腿下更深的位置。你的重心應該轉移到他們正在攻擊的那一側，讓他們難以確立 deep half 位置。如果他們設法取得部分 deep half 位置，就把策略從 butterfly 過guard轉換成 deep half 過guard的力學——專注於髖部孤立、防止他們鎖死（lockdown），並建立針對 deep half 逃脫的控制。關鍵在於及早辨識：一旦你看到他們開始撈你的腿或把頭伸到你較遠的髖部，就立刻調整重心分配，防止他們完全確立這個位置。",
+    "distractors": {
+     "plausible": [
+      "雙腿一起往後 sprawl",
+      "坐後方重新抓 lapel"
+     ],
+     "trap": [
+      "讓腿深入，轉身脫困"
+     ]
+    },
+    "answer_line": "髖部下壓，crossface 加重"
+   },
+   {
+    "question": "你開始拆解第一個 hook 時，對手把較遠的那隻手撐在地墊上——你該如何利用這一點？",
+    "answer": "當對手把較遠的手撐地時，他們是在犧牲上半身的 grip 控制以維持重心，這會立刻創造出一個機會。他們撐地的那隻手無法同時控制你的 collar、sleeve 或建立 underhook，代表他們那一側的 sweep 力量已大幅減弱。加快在撐地那一側對側拆解 hook 的速度，同時向前施壓進他們的胸口。撐地的手臂也很容易被孤立——你可以把手臂鑽到他們撐地的手肘下方建立 underhook，或利用這個空隙確立深入的 crossface。撐地代表他們正在採取防守姿態，所以加快你的進攻節奏，更果斷地朝遠離撐地手的方向推進過guard。",
+    "answer_line": "加速朝遠離撐地手臂的方向過guard",
+    "distractors": {
+     "plausible": [
+      "先拆掉撐地的那隻手",
+      "保持不動，等他們重新抓握"
+     ],
+     "trap": [
+      "撲向較遠側的 underhook"
+     ]
+    }
+   },
+   {
+    "question": "在 gi 中，什麼樣的 grip 配置能為發動 butterfly 過guard提供最強的控制？",
+    "answer": "最有效的 grip 配置是 cross-collar grip 搭配同側的 sleeve grip。cross-collar grip 能直接控制對手的姿勢、防止他們坐起身，這是所有 butterfly guard 進攻的根基。與你打算過guard方向同側的 sleeve grip，能阻止 arm drag，並控制他們在那一側建立 underhook 的能力。這樣的配置會在對手身體上形成一條斜向的控制線，自然有利於過guard的角度。另一個勝率很高的選項，是 collar grip 搭配過guard那一側的 underhook，能提供更直接的控制，但需要更靠近 hook。在 no-gi 中，相對應的做法是 collar tie 搭配 wrist control，或 underhook 與 overhook 的組合。",
+    "answer_line": "cross collar 加同側 sleeve",
+    "distractors": {
+     "plausible": [
+      "近側 sleeve 做 two-on-one",
+      "雙 lapel grip，不抓 sleeve"
+     ],
+     "trap": [
+      "抓住雙側褲管、向前傾"
+     ]
+    }
+   },
+   {
+    "question": "對抗一個積極的 guard player 時，發動 butterfly 過guard的最佳時機窗口是什麼時候？",
+    "answer": "在對手投入某個進攻動作之後立刻發動過guard，特別是在一次失敗的 sweep 嘗試或 grip 轉換之後。當對手嘗試 butterfly sweep、而你成功透過拓寬支撐面來防守時，會有一個短暫的窗口，此時他們的 hook 已部分移位、上半身的 grip 也因失敗的嘗試而受損。這個 1 到 2 秒的窗口，正是你該積極開始拆解 hook 的時候。同樣地，當對手放開一個 grip 去爭奪另一個 grip 時，上半身控制暫時的喪失會降低他們的 sweep 威脅，並創造出空間讓你能施壓、開始過guard。避免在對手 grip 已完全建立、hook 深且姿勢已穩固時發動過guard，因為這正是他們防守最強的時候。",
+    "distractors": {
+     "plausible": [
+      "等 hook 深且穩固後再說",
+      "guard一設好就立刻進攻"
+     ],
+     "trap": [
+      "在任何 grip 建立之前就衝進去"
+     ]
+    },
+    "answer_line": "在 sweep 失敗後立刻出手"
+   },
+   {
+    "question": "如果你的 butterfly 過guard被擋下，對手開始插入 knee shield，接下來有哪些連續攻擊選項？",
+    "answer": "面對淺層的 knee shield 可以轉換到 knee slice，一旦 shield 完全建立，則可轉換到 body lock、backstep 或 over-under 過guard。如果 shield 較淺、只有膝蓋橫在中間，立刻切換成 knee slice 過guard，把重心壓向 knee shield 那一側，並讓你的膝蓋沿著他們的大腿滑向地墊。如果對手建立起更深的 knee shield、小腿完全橫過你的軀幹，就轉換成 body lock 過guard，用雙手 underhook 環抱他們的雙腿並疊壓化解 shield。你也可以 backstep 從另一側處理這個位置，或使用 over-under 過guard，把一隻手臂穿到他們下方腿的底下，另一隻手則越過 knee shield。關鍵原則是及早辨識 knee shield 的插入，並立刻切換到互補的過guard系統，而不是繼續硬套 butterfly 過guard的力學去對抗一個本質上完全不同的 guard 配置。",
+    "distractors": {
+     "plausible": [
+      "等 shield 打開",
+      "直接推向他們的小腿"
+     ],
+     "trap": [
+      "伸手進 shield 內側去撐地"
+     ]
+    },
+    "answer_line": "knee slice 或用 body lock 化解 shield"
+   },
+   {
+    "question": "用髖部壓力壓平 butterfly hook 時，關鍵的施力方向是什麼？",
+    "answer": "施力方向必須是斜向的——同時向下並朝對手身體中線施力。純粹向下的力量會讓 hook 得以側向改變方向，保留部分上抬能力。純粹的側向力量則無法處理 hook 向上抬的力量。這股斜向的合力能達成兩件事：向下的分量壓過 hook 向上的軌跡，而向內的分量則把對手的膝蓋壓向地墊、壓向他們另一條腿，徹底瓦解 hook 的結構完整性。你的髖部就像一個楔子，沿著他們大腿內側往下滑，把他們的膝蓋壓平，同時你的胸口向前施壓，防止他們調整。這條斜向的壓力線正是為什麼單純沉重地坐著並不足夠——你必須主動把髖部橫越 hook、朝對側地墊方向壓下去。",
+    "answer_line": "斜向：向下並朝中線",
+    "distractors": {
+     "plausible": [
+      "用體重直直向下壓",
+      "把 hook 從髖部側向推開"
+     ],
+     "trap": [
+      "把 hook 往上拉並釘住"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要辨別對方發動的是 butterfly 過guard、而不是一般的壓力接觸，最早能察覺到的線索是什麼？",
+    "answer": "最早的明確線索，是過guard者刻意把膝蓋支撐面拓寬到超過一般格鬥姿勢的寬度，同時把髖部壓低。這種明顯的姿勢改變，能把 butterfly 過guard的嘗試與一般的接觸區分開來，因為這種誇張的加寬支撐面除了對抗 butterfly sweep 的槓桿力之外，沒有其他用途。單純接觸你 guard 的過guard者，會維持一般的格鬥姿勢寬度；而正在發動 butterfly 過guard的人，則特別需要這個超寬的平台，才能安全地開始施加向前壓力並做出側向重心轉移，以有系統地拆解 hook。及早察覺這種加寬支撐面的動作，能給你大約 2 到 3 秒的關鍵時間，趁過guard者開始壓力連續動作之前，先建立 grip 並準備反制。",
+    "answer_line": "支撐面超寬、髖部下沉",
+    "distractors": {
+     "plausible": [
+      "過guard者站起來後退",
+      "過guard者雙手抓 collar"
+     ],
+     "trap": [
+      "以為是在拖延，放鬆 hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼過guard者移動重心去壓平你第一個 hook 的那一刻，是最關鍵的防守窗口？",
+    "answer": "為壓平一個 hook 而做出的側向重心轉移，會在過guard者的重心支撐上創造出一個瞬間的結構性破綻，這種破綻在過guard流程的其他任何時刻都不存在。為了把髖部壓向你的 hook，過guard者必須把大部分重心投入到一側，這必然會削弱他們另一側的穩定性。這正是所有 sweep 能成立的相同力學原理——把某人的重心破壞到一側，就會讓他容易被 sweep 到另一側。你在未受壓那一側的 hook，仍保有完整的上抬能力，只要搭配上半身協調的拉扯朝較輕的那一側進行，就能在過guard者已投入重心、來不及迅速恢復重心支撐的那一刻，製造出 sweep 所需的破勢。",
+    "answer_line": "過guard者重心轉移打開 sweep 機會",
+    "distractors": {
+     "plausible": [
+      "等兩個 hook 都被壓平之後",
+      "在他們建立任何 grip 之前"
+     ],
+     "trap": [
+      "頂住那個正在壓平的髖部"
+     ]
+    }
+   },
+   {
+    "question": "在過guard嘗試中，什麼時候該放棄保留 butterfly guard、轉換到其他 guard？",
+    "answer": "轉換離開 butterfly guard 的判斷時機，是在你主要的 hook 已被壓平、且過guard者在那一側已經確立 crossface 或 underhook 的時候。到了這個階段，要對抗一個已建立上半身控制的對手去恢復被壓平的 hook，勝算會變得非常低，也非常耗費體力。此時硬要恢復 butterfly guard，通常會導致完全被過guard，因為過guard者已經達成他們流程中關鍵的一半進度。此時應該立刻轉換到 deep half guard，撈起他們靠近的那條腿，或用你剩下還活著的那個 hook，透過伸展並改變方向來進入 X-guard 或 single leg X。這些轉換能利用一個事實：過guard者把重心投入到一側，往往會讓他們的腿部容易被纏住。核心原則是：主動轉換到一個強勢的替代 guard，永遠比拚命嘗試恢復一個已受損的 butterfly guard 效果更好。",
+    "answer_line": "hook 已壓平、且 crossface 已確立",
+    "distractors": {
+     "plausible": [
+      "一失去任何一個 grip 就轉換",
+      "只在完全被過guard之後"
+     ],
+     "trap": [
+      "硬要恢復 hook，繼續纏鬥"
+     ]
+    }
+   },
+   {
+    "question": "防守 butterfly 過guard時的 grip 對抗策略，與主動進攻的 butterfly guard 相比有什麼不同？",
+    "answer": "在主動進攻的 butterfly guard 中，你的 grip 對抗著重在建立能用於設置 sweep 的主導控制——你會優先考慮用 collar grip 來破壞姿勢、用 sleeve grip 來控制 sweep 的方向。防守 butterfly 過guard時，你的 grip 對抗則轉向拒絕與破壞。首要目標變成阻止過guard者確立能讓他們建立向前壓力系統的 collar grip 或 crossface。這代表你的雙手必須更偏向反應性地運作，在對方 grip 剛形成時就把它拆掉，而不是主動先建立自己的設置 grip。防守性的 grip 對抗也會優先考慮用手肘取得內側位置，讓手肘保持貼緊，防止過guard者穿入 underhook。然而，最好的防守者會結合這兩種做法——他們一邊拆掉過guard者的 grip，一邊同時努力建立自己的進攻控制，形成一種防守與反攻同時運作的 grip 對抗動態。",
+    "answer_line": "拆 grip，拒絕 crossface 進入",
+    "distractors": {
+     "plausible": [
+      "先設置好 sweep 用的 grip",
+      "專注在外側手肘控制"
+     ],
+     "trap": [
+      "讓 grip 先形成，之後再反制"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

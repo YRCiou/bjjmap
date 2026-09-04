@@ -1,0 +1,213 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Chill Dog.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對手體重分布出現什麼具體變化，會是發動 hip escape 的最佳時機訊號？",
+    "answer": "當你感覺到對手的體重向前壓上你的上背，或側向偏向一邊時，最佳的窗口就會打開。向前的壓力代表他們的底盤在後方失衡，讓他們很難跟上你的側向 hip escape。側向偏移代表其中一側較輕，可供逃脫。你也可以在 grip 轉換時感受到瞬間的輕盈，也就是他們放開一個控制點去建立另一個控制點的當下——這個兩到三秒的窗口通常是爆發性執行的最佳機會。",
+    "answer_line": "體重前壓或側偏時",
+    "distractors": {
+     "plausible": [
+      "對手把壓力壓得更緊時",
+      "等 grip 完全鎖死"
+     ],
+     "trap": [
+      "趁對手用力向後坐時逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼腿的穿插動作必須與 hip escape 同時發生，而不是分開執行？",
+    "answer": "如果你做 hip escape 卻沒有立刻把腿穿進去，你只會創造出側向空間，卻沒有建立任何 guard 結構。對手只需跟著你的髖部動作，在新的位置重新建立 turtle top 的控制——你動了，但什麼也沒得到。腿的穿插正是把 hip escape 轉化為位置改變的關鍵，它創造出 half guard 的纏繞。沒有這個動作，你做的只是一個結果仍回到相同位置的 hip escape。hip escape 與腿穿插之間的協調，正是這個技術最基本的力學技巧。",
+    "answer_line": "光做 hip escape 什麼都得不到",
+    "distractors": {
+     "plausible": [
+      "腿穿插需要先有空間",
+      "hip escape 是先建立 frame"
+     ],
+     "trap": [
+      "先做 hip escape，之後再穿腿"
+     ]
+    }
+   },
+   {
+    "question": "你發動 hip escape 後，對手用力 sprawl 把你的髖部壓在地墊上——你該如何挽救這次逃脫嘗試？",
+    "answer": "如果是在腿穿插之前就被壓制住，用撐地的手臂建立一個 frame，並做一個小幅度的 hip escape，創造出剛好足夠讓內側膝蓋滑入的空間。即使是從被壓平的位置，只要你能把膝蓋伸進對手雙腿之間，就能開始 half guard 的恢復。如果完全被壓平、毫無空間，就轉換成貼地式逃脫，伸手去抓對手遠端的腳踝來破壞他們的 sprawl 底盤，然後在對方因為腳踝爭奪而體重轉移時，再重新嘗試 hip escape。",
+    "answer_line": "建 frame，微調逃脫，膝蓋滑入",
+    "distractors": {
+     "plausible": [
+      "撐開後快速再試一次",
+      "用力 bridge 把對手掀掉"
+     ],
+     "trap": [
+      "翻成腹部朝上，更用力 turtle"
+     ]
+    }
+   },
+   {
+    "question": "當你透過逃脫建立 half guard 後，應該立刻爭奪什麼 grip？",
+    "answer": "把被困腿那一側的 underhook 當作你的首要目標來爭奪。這個 underhook 能把 half guard 從一個中性的恢復位置，轉變成一個具攻擊性的 sweep 平台，可以連接 old school sweeps、back takes 和 dogfight 的轉換。如果因為對手的 crossface 而無法立刻取得 underhook，就先建立 knee shield 創造距離，再從受保護的位置爭奪 underhook。underhook 是進入進攻型 half guard 的門戶。",
+    "answer_line": "被困腿那一側的 underhook",
+    "distractors": {
+     "plausible": [
+      "遠側的 overhook",
+      "用 collar tie 控制"
+     ],
+     "trap": [
+      "去 underhook 遠側的手臂"
+     ]
+    }
+   },
+   {
+    "question": "當對手維持完美居中、穩定的壓力時，你該如何創造逃脫機會？",
+    "answer": "當對手穩定且已經安頓下來時，你必須靠主動挑動來創造自己的機會。做一些小動作逼對方做出反應——短暫朝某個方向移動體重，假裝要做 Granby roll，把他們的壓力引導到那個方向，然後立刻朝相反方向做 hip escape。或者也可以用髖部向上頂，逼他們重新平衡。目標是創造一個你能利用的瞬間體重轉移。永遠不要無限期地等待一個可能永遠不會出現的機會。",
+    "answer_line": "假動作一邊，逃向另一邊",
+    "distractors": {
+     "plausible": [
+      "耐心等對手犯錯",
+      "直接硬頂過壓力"
+     ],
+     "trap": [
+      "在對手身下直接向上爆發"
+     ]
+    }
+   },
+   {
+    "question": "如果你在腿部纏繞尚未確立之前，就把上半身轉向面對對手，主要風險是什麼？",
+    "answer": "在腿部纏繞尚未建立前就轉身，會讓你的 back 在沒有任何 guard 結構的情況下暴露出來。對手可以在你旋轉的當下立刻插入 hook，並用 seatbelt grip 建立 back control。腿部纏繞正是讓這個轉身變得安全的關鍵，因為即使對手試圖跟上，他們的腿也被困住，無法自由插入 hook。少了這個錨點，你等於是旋轉進入柔術中最危險的位置——沒有任何防守結構的 back 暴露。",
+    "answer_line": "back 暴露，沒有 guard 結構",
+    "distractors": {
+     "plausible": [
+      "失去 top 位置控制",
+      "對手重新拿回 full mount"
+     ],
+     "trap": [
+      "給對手一個輕鬆的 sweep 機會"
+     ]
+    }
+   },
+   {
+    "question": "你的逃脫已經到達 half guard，但對手立刻壓上一個沉重的 crossface——你的優先反應是什麼？",
+    "answer": "不要接受 crossface、硬撐過去。立刻用內側手臂在對手 crossface 的肩膀上建立 frame 來創造空間，再朝側邊做 hip escape，創造出能側身的角度。如果他們已經用 crossface 把你壓平，在他們完全鞏固之前，把 knee shield 插進去，做為兩人身體之間的屏障。knee shield 能給你距離，把 crossface 卸開，並開始建立進攻型 half guard。在 half guard 中接受 crossface 會導致快速被 pass。",
+    "answer_line": "frame 頂 crossface，逃出角度",
+    "distractors": {
+     "plausible": [
+      "直接把對方的頭推開",
+      "跟對方爭奪 crossface 的那隻手臂"
+     ],
+     "trap": [
+      "接受 crossface，撐著等它過去"
+     ]
+    }
+   },
+   {
+    "question": "在逃脫過程中，你的髖部該朝哪個方向發力？這個方向由什麼決定？",
+    "answer": "你的髖部應該側向發力，朝對手體重已經離開的空間移動，而不是頂向他們壓力最重的地方。如果他們把體重前壓在你的上背，就朝他們底盤最輕的那一側逃脫；如果他們偏向某一側，就朝相反、已經騰空的那一側發力。移動進入騰空的空間，能讓你以最小的阻力創造出穿腿所需的側向空隙；反之，直接頂向他們的壓力，會遭遇最大的阻力，讓逃脫在腿還沒進去之前就卡住。",
+    "answer_line": "朝已騰空、較輕的一側",
+    "distractors": {
+     "plausible": [
+      "直接向後遠離壓力",
+      "朝他們壓力最重的地方"
+     ],
+     "trap": [
+      "把髖部頂進對方的底盤"
+     ]
+    }
+   },
+   {
+    "question": "你的 hip escape 和穿腿都被對手用完美的壓平跟隨封死了——你的連續攻擊是什麼？",
+    "answer": "不要停下來硬拚，試圖對抗對手的壓力強行做出 half guard。把你已經創造出的動能，轉換成朝 hip escape 同方向的 Granby roll，翻向 open guard 或 closed guard。如果 Granby 也被擋住，立刻銜接朝對手壓力最輕的一側做 technical stand-up。關鍵在於絕不停止你的動作——把 hip escape 銜接到 Granby roll，再銜接到 technical stand-up，逼對手必須依序防守三種逃脫方式，而不是把全部體重投入來封死其中一種。",
+    "answer_line": "銜接 Granby，再站起",
+    "distractors": {
+     "plausible": [
+      "持續硬做同一個逃脫動作",
+      "改用 bridge 把對手翻過去"
+     ],
+     "trap": [
+      "停下來、重新壓平底盤"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "什麼觸覺訊號能告訴你，下位的人即將嘗試 hip escape 而不是 Granby roll？",
+    "answer": "hip escape 之前，下位的人會先用內側手臂用力撐地，把體重壓在雙手上，準備側向發力。相對地，Granby roll 之前，會先收起內側肩膀，把體重壓在上背與肩膀上。透過你的胸口接觸感受到的手臂撐地感覺是不同的——在 hip escape 的準備階段，你會感覺到他們向外、側向推；而在 Granby 的準備階段，你會感覺到他們向內收縮並開始旋轉。",
+    "answer_line": "手臂撐地、體重壓在手上",
+    "distractors": {
+     "plausible": [
+      "收肩膀、體重壓在上背",
+      "把膝蓋緊緊夾在一起"
+     ],
+     "trap": [
+      "壓力完全放鬆"
+     ]
+    }
+   },
+   {
+    "question": "對手已經成功把內側腿穿到你雙腿之間，但還沒轉身面對你——你最好的應對是什麼？",
+    "answer": "這是搶奪 back control 的關鍵窗口。他們的腿已經投入穿插動作，代表他們撤回完整 Chill Dog 的能力有限。立刻把靠近那一側的 hook 頂進穿腿上方的大腿內側，並伸手做 over-under 建立 seatbelt grip。他們只完成一半的逃脫，反而給了你一個比完整 Chill Dog 更容易控制的、半轉身的 back。不要試圖把自己的腿從穿插中抽出來——相反地，接受這個 half guard 式的腿部位置，專注於建立上半身的 back control。",
+    "answer_line": "hook 頂內側，seatbelt over-under",
+    "distractors": {
+     "plausible": [
+      "把穿插的腿抽離開",
+      "用力 sprawl 把對手壓平"
+     ],
+     "trap": [
+      "追著那隻腿回到 guard"
+     ]
+    }
+   },
+   {
+    "question": "當下位的人做出小幅度的髖部動作來試探你的反應時，你該如何維持控制？",
+    "answer": "小幅度的試探性動作，目的是在正式發動完整逃脫之前，先摸清你的壓力並找出弱點。用相對應比例的調整來回應，而不是做出大反應。如果他們稍微向左偏，你的體重也稍微向左跟著調整。不要因為過度反應而用力 sprawl 或猛力下壓——這會暴露你的反應模式，並創造出他們正在試探尋找的破口。維持穩定的胸口壓力與髖部連結，同時做出微調，讓自己始終保持在他們動作的中心。",
+    "answer_line": "用比例微調來對應",
+    "distractors": {
+     "plausible": [
+      "每一次抽動都用力 sprawl",
+      "無視動作，保持沉重壓制"
+     ],
+     "trap": [
+      "用力下壓來直接封死"
+     ]
+    }
+   },
+   {
+    "question": "反制 hip escape 到 half guard，和反制 Granby roll，兩者根本的差異是什麼？",
+    "answer": "hip escape 是側向移動，需要你側向跟隨並阻止穿腿——你的反制是側向追擊與髖部控制。Granby roll 是向前的旋轉移動，需要你向前壓體重來阻止翻滾，或是跟著翻滾以維持對 back 的暴露。hip escape 的反制強調的是保持側向連結，而 Granby 的反制強調的是垂直壓力或旋轉跟隨。誤判逃脫的類型，會導致在最糟的時機用上錯誤的反制方式。",
+    "answer_line": "側向追擊 vs 垂直壓力",
+    "distractors": {
+     "plausible": [
+      "兩者都需要同樣的 sprawl",
+      "兩者都用同樣的方式跟著旋轉"
+     ],
+     "trap": [
+      "撐住底盤、什麼都不做"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該選擇跟隨逃脫去搶 back control，而不是封死它以維持 Chill Dog top？",
+    "answer": "當逃脫已經創造出明顯的側向空間、下位的人開始旋轉時，就該跟隨去搶 back control——此時封死它所需的力氣，已經超過利用這個動作所能得到的好處。當你在準備階段的早期就察覺到逃脫，並能用一個簡單的壓力調整就阻止 hip escape 時，就該封死它。決策點在於對方是否已經創造出空間：如果空間已經存在，就跟隨並攻擊 back；如果空間還沒出現，就阻止空間被創造出來。",
+    "answer_line": "有空間就跟；沒空間就防",
+    "distractors": {
+     "plausible": [
+      "永遠都跟著去搶 back",
+      "永遠立刻封死"
+     ],
+     "trap": [
+      "等到完全騎上 back 再說"
+     ]
+    }
+   }
+  ]
+ }
+}

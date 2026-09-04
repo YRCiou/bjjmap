@@ -1,0 +1,395 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在deep half entry過程中，最先必須建立的主要控制點是什麼？",
+    "answer": "對對手近側腿的深度underhook是最先必須建立的主要控制。你的肩膀應該頂在對手大腿內側，手則抓在對手膝蓋後方或伸向對手遠側髖部。這個underhook是整個旋轉動作的錨點，提供安全完成entry所需的基礎控制。",
+    "answer_line": "對近側腿做深度underhook",
+    "distractors": {
+     "plausible": [
+      "overhook對手的手臂",
+      "抓對手的遠側膝蓋"
+     ],
+     "trap": [
+      "去抓領口grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼正確的頭部位置在deep half entry中至關重要，頭該放在哪裡？",
+    "answer": "正確的頭部位置至關重要，因為它能防止對手施加肩部壓力把你壓扁、封死entry。你的頭應該低於對手髖部的水平線，臉朝向對手的遠側髖部，而不是抬頭面向對手胸口。這個低頭位置移除了對手施加向下壓力所需的角度，讓你能在對手重心之下完成旋轉。",
+    "answer_line": "頭低於對手的髖部線",
+    "distractors": {
+     "plausible": [
+      "頭埋進對手胸口",
+      "頭轉向近側髖部"
+     ],
+     "trap": [
+      "抬頭，胸貼胸"
+     ]
+    }
+   },
+   {
+    "question": "對手把手撐在墊子上，開始把腿從你的underhook中往後抽（limp leg）——你該如何調整？",
+    "answer": "立刻跟著往後撤的腿把髖部往前推，維持連結。如果能重新扣住underhook，就把腿拉緊，繼續進行entry。如果腿已經完全抽出，不要繼續平躺。改用雙腳勾住對手剩下的那條腿，轉換成single leg X guard，或積極坐起追擊，對往後撤的腿做single leg takedown。關鍵是在第一秒內就辨識出對手的反制動作，並轉換應對，而不是硬撐去搶救已經失去的位置。",
+    "answer_line": "追腿，轉換成single leg X",
+    "distractors": {
+     "plausible": [
+      "保持平躺等機會",
+      "重新去搶原本的underhook"
+     ],
+     "trap": [
+      "保持位置不動髖部"
+     ]
+    }
+   },
+   {
+    "question": "在deep half entry的過程中，最關鍵的髖部動作是什麼？",
+    "answer": "最關鍵的髖部動作是最初的shrimp／髖部逃脫，製造出開始旋轉所需的2到3英吋空間。沒有這個空間的製造，整個entry都不可能，因為對手的胸口壓力會把你壓扁貼平。做shrimp時必須用上方手臂維持frame接觸。第二個關鍵髖部動作是旋轉本身，你的髖部朝對手擺開、同時上半身穿到對手身下，形成垂直的T字型身體排列。",
+    "answer_line": "先shrimp製造空間",
+    "distractors": {
+     "plausible": [
+      "用bridge破壞對手平衡",
+      "先旋轉髖部再shrimp"
+     ],
+     "trap": [
+      "把胸口壓向對手"
+     ]
+    }
+   },
+   {
+    "question": "在你投入完整旋轉進入deep half之前，必須滿足哪些grip條件？",
+    "answer": "你需要對對手的近側腿有深度underhook，肩膀楔入對手大腿內側，手至少要抓到對手膝蓋後方。你的上方手臂必須保持自由，並主動對對手的肩膀或髖部做frame以在旋轉過程中管理距離。Entry本身不需要抓對手上半身的grip，但underhook的深度絕對不能妥協。只抓到膝蓋的淺underhook，遇到任何sprawl反制都會失敗。",
+    "distractors": {
+     "plausible": [
+      "只到膝蓋的淺underhook",
+      "overhook加領口grip"
+     ],
+     "trap": [
+      "雙手都抓對手的腰帶"
+     ]
+    },
+    "answer_line": "深度underhook超過膝蓋"
+   },
+   {
+    "question": "發動deep half entry的最佳時機視窗是什麼時候？",
+    "answer": "最佳時機視窗是對手把重心投入向前的時候，不論是把壓力壓進你的half guard，還是向前伸手去抓grip。當對手重心向前轉移時，對手的近側腿會被加重負荷、難以快速抽回，這讓underhook更容易扣住、limp leg反制也更難執行。相反地，如果在對手坐回腳跟或處於撐地base時嘗試entry，underhook會很淺，容易被sprawl破解。",
+    "answer_line": "對手向前施壓時",
+    "distractors": {
+     "plausible": [
+      "對手坐回腳跟時",
+      "對手混戰重整時"
+     ],
+     "trap": [
+      "等對手站起來"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立crossface控制、施加沉重的肩部壓力——你還該嘗試deep half entry嗎？",
+    "answer": "不該——一旦強力的crossface把你的頭逼開，deep half entry的視窗就已經關閉，你不該再嘗試旋轉。對著已建立的crossface硬轉，只會讓你被壓扁、露出後背。此時應優先用frame製造空間、破解crossface，恢復knee shield或轉換成lockdown。等你化解crossface、重建防禦frame之後，再等對手下次向前施壓時尋找deep half entry的視窗。",
+    "distractors": {
+     "plausible": [
+      "該，硬轉穿過壓力",
+      "不該，但改試limp leg"
+     ],
+     "trap": [
+      "還是硬轉"
+     ]
+    },
+    "answer_line": "不該——先破解crossface"
+   },
+   {
+    "question": "一旦deep half建立，你該用underhook施加什麼方向的力？",
+    "answer": "把對手的近側腿以捲曲的動作拉緊靠向自己胸口、並稍微向上提，消除所有鬆弛。把對手大腿拉進自己身體，能讓對手無法抽腿，並把對手的重心壓上你的肩膀和上背，形成sweep所需的支點。絕對不要把腿往外推或推開。搭配髖部上提，這個拉力會產生讓所有deep half sweep有效的槓桿。",
+    "distractors": {
+     "plausible": [
+      "把腿往外推開",
+      "把腿直直往下壓平"
+     ],
+     "trap": [
+      "放開grip重新調整角度"
+     ]
+    },
+    "answer_line": "把腿拉緊並向上捲"
+   },
+   {
+    "question": "如果你最初的waiter sweep嘗試因為對手把base放寬而被擋下，你該接續進攻什麼連鎖攻擊？",
+    "answer": "當對手拓寬base來擋waiter sweep時，對手的重心會側向轉移，遠側腿也會離開你的hook。這會打開反方向的old school sweep：維持你的underhook，用遠側腿的hook加重對手重心，接著把髖部向上推、把對手朝近側翻過去。如果對手撐手，就能順著這個動能持續往下鑽，銜接rolling back take。核心原則是：對一個sweep的每個防守反應，都會打開另一個不同角度的sweep。放寬的base能防住waiter，卻露出old school和back take。",
+    "answer_line": "old school sweep，再接back take",
+    "distractors": {
+     "plausible": [
+      "更用力重複waiter sweep",
+      "改做scissor sweep"
+     ],
+     "trap": [
+      "放棄underhook，重整guard"
+     ]
+    }
+   },
+   {
+    "question": "從half guard bottom嘗試deep half前，必須存在哪些entry條件？",
+    "answer": "必須具備四個條件：第一，你的內側腿必須在half guard中控制住對手的腿，維持基本的纏鎖。第二，對手的重心必須投入向前、或至少分佈在被困住的那條腿上，而不是坐回base。第三，你必須有能力透過frame或髖部逃脫製造至少最小限度的空間。第四，近側underhook必須可用，也就是對手還沒建立能阻擋你下方手臂穿到對手大腿下的overhook或whizzer。如果缺少任何一項條件，就先設法製造出來再嘗試entry。",
+    "answer_line": "控腿、重心向前、有空間",
+    "distractors": {
+     "plausible": [
+      "overhook加對手平躺",
+      "對手撐寬base站立"
+     ],
+     "trap": [
+      "對手重心坐回去"
+     ]
+    }
+   },
+   {
+    "question": "對手在half guard中有強力的crossface控制——你如何製造出deep half的entry角度？",
+    "answer": "面對強力crossface，用內側手對對手做crossface的手臂在二頭肌或手腕處做frame，製造出瞬間的分離。同時做一個急促的髖部逃脫、朝對手擺開身體，製造角度。隨著角度改變讓crossface鬆動，把臉轉向對手髖部、讓頭游到對手手臂下方。髖部逃脫是主要工具，因為當你的身體角度大幅改變時，crossface的效果會大幅下降。",
+    "answer_line": "frame手臂、髖部逃脫、游頭",
+    "distractors": {
+     "plausible": [
+      "把對手的頭推開",
+      "抓對手遠側領口去轉身"
+     ],
+     "trap": [
+      "直接頂向crossface"
+     ]
+    }
+   },
+   {
+    "question": "Deep Half Entry過程中最關鍵的髖部動作是什麼？",
+    "answer": "朝對手斜向擺開的髖部逃脫是最關鍵的動作。這製造出把頭穿到對手髖部下方所需的角度路徑。沒有這個髖部逃脫，你的身體會保持與對手正面相對，沒有空間滑到對手重心之下。髖部逃脫應該把你的髖部帶向對手遠側腿那一側，打開對手雙腿與你上半身之間的通道。",
+    "answer_line": "斜向擺開的髖部逃脫",
+    "distractors": {
+     "plausible": [
+      "正面向後的髖部逃脫",
+      "髖部直直向上bridge"
+     ],
+     "trap": [
+      "保持正面、向前推"
+     ]
+    }
+   },
+   {
+    "question": "在投入deep half entry的鑽入動作之前，必須先建立什麼grip？",
+    "answer": "必須先在被困腿那一側建立underhook才能投入entry。這個underhook在整個轉換過程中都是主要的控制機制，最終會成為完成後deep half guard中對遠側腿的深度underhook。沒有這個underhook，你在entry過程中就無法控制對手位置，可能被壓扁或頭部被困住卻沒有製造sweep槓桿的辦法。",
+    "answer_line": "扣住被困腿那一側的underhook",
+    "distractors": {
+     "plausible": [
+      "overhook對手的遠側手臂",
+      "先做領口勒再鑽入"
+     ],
+     "trap": [
+      "頭先鑽，grip之後再說"
+     ]
+    }
+   },
+   {
+    "question": "你開始entry時，對手把空出來的那條腿撐得很寬——你該如何調整？",
+    "answer": "當對手撐寬那條腿時，對手是在製造一個穩固的base，讓entry變得更困難。用你空出的手去推或拉對手撐開的那條腿，破壞對手寬廣的base。或者，對被困腿施加lockdown把對手拉向前，讓對手的base塌陷，重新製造你需要的向前重心投入。你也可以改為直接用single leg X entry進攻對手撐開的那條腿，而不是硬對著對手加強的base做deep half。",
+    "answer_line": "進攻對手撐寬的那條腿",
+    "distractors": {
+     "plausible": [
+      "從中央硬推過去",
+      "等對手收攏base"
+     ],
+     "trap": [
+      "放棄控腿，撤退"
+     ]
+    }
+   },
+   {
+    "question": "從Half Guard嘗試Deep Half Entry之前，必須存在哪些條件？",
+    "answer": "你需要對對手的腿有穩固的half guard纏鎖、至少一個frame或underhook、對手重心已經投入向前，以及靈活的髖部。Frame或underhook能防止你被完全壓扁，向前的壓力給你能鑽到對手身下的重量，髖部的靈活度則讓你能透過髖部逃脫製造entry角度。如果缺少任何一項條件，entry很可能會失敗，讓你陷入不利的位置。",
+    "distractors": {
+     "plausible": [
+      "overhook、平躺、髖部僵硬",
+      "crossface、sprawl base、有空間"
+     ],
+     "trap": [
+      "控腿鬆散、髖部正對"
+     ]
+    },
+    "answer_line": "纏鎖、frame、重心向前"
+   },
+   {
+    "question": "你嘗試建立underhook時，對手用whizzer反制——你該怎麼回應？",
+    "answer": "Whizzer其實反而能幫助你完成entry。當對手overhook你的手臂時，把頭更深地埋到對手身下，並利用whizzer的旋轉壓力協助你滑到身下。Whizzer把你的肩膀往下、往內推，這正好與你想要前進的entry方向一致。或者，如果whizzer扣得太緊，改為利用whizzer grip的位置弱點，改做old school sweep或back take等其他攻擊。",
+    "answer_line": "把頭埋更深，借力whizzer",
+    "distractors": {
+     "plausible": [
+      "立刻掙脫whizzer",
+      "把手臂抽出來重整"
+     ],
+     "trap": [
+      "停下來放棄entry"
+     ]
+    }
+   },
+   {
+    "question": "Deep Half Entry過程中最常見的失敗點是什麼，該如何預防？",
+    "answer": "最常見的失敗點是頭部被困在對手身下、卻沒有先扣住遠側腿的underhook。這會造成一個卡住的位置，你完全沒有控制權，對手可以用crossface壓力把你壓扁。要預防這一點，永遠在投入鑽入動作之前先建立underhook，並在整個轉換過程中持續維持控腿，防止對手在過程中抽腿通過。",
+    "answer_line": "頭部被困，underhook沒扣住",
+    "distractors": {
+     "plausible": [
+      "underhook只抓到膝蓋、太淺",
+      "髖部離對手太遠"
+     ],
+     "trap": [
+      "急著先把頭鑽進去"
+     ]
+    }
+   },
+   {
+    "question": "在Deep Half Entry的轉換過程中，施力方向如何變化？",
+    "answer": "施力方向會從側向變成斜向、再變成旋轉。一開始，你透過髖部逃脫施加側向的力來製造entry角度。在鑽入過程中，力量變成斜向，你以一個角度穿到對手身下、朝向對手的遠側髖部。一旦deep half建立，力量就變成旋轉，你的肩部楔入和underhook會製造出sweep所需的環形槓桿。理解這個施力進程，能幫助你在每個階段施加正確的壓力類型。",
+    "answer_line": "側向、斜向、再到旋轉",
+    "distractors": {
+     "plausible": [
+      "先旋轉再側向",
+      "斜向力全程不變"
+     ],
+     "trap": [
+      "全程都是直線力"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在嘗試deep half entry，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是對手的髖部逃脫，在對手軀幹和你胸口之間製造出空間，同時對手下方的手臂開始穿到你的近側大腿下方。這些前置動作發生在旋轉開始之前。察覺這些線索能讓你有最大的防守視窗。等到對手的頭低於你的髖部線時，你的防守反應已經慢了一步。",
+    "answer_line": "髖部逃脫加上手臂穿入",
+    "distractors": {
+     "plausible": [
+      "對手的頭低於髖部",
+      "對手抓你的領口"
+     ],
+     "trap": [
+      "對手把手撐在墊子上"
+     ]
+    }
+   },
+   {
+    "question": "當對手已經建立深度underhook時，為什麼向前推進重心很危險？",
+    "answer": "在underhook已經建立時向前推進，會把你的重心直接壓上對手用肩膀頂住你大腿內側所建立的支點。這正是對手做waiter sweep所需要的重心分佈——對手坐起、把你甩過肩膀。你的向前壓力反而變成把你sweep掉的力量。此時應該把髖部坐回去、建立crossface，並在投入任何向前壓力之前先設法抽出被困的腿。",
+    "answer_line": "餵給對手waiter sweep的支點",
+    "distractors": {
+     "plausible": [
+      "有助於壓扁對手肩膀",
+      "改善你的crossface控制"
+     ],
+     "trap": [
+      "加快你的guard pass"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到underhook正在被扣上你的近側腿時，正確的防守順序是什麼？",
+    "answer": "正確的順序是：第一，立刻用肩膀施加crossface壓力，阻止對手的頭低於你的髖部線。第二，把空出的那條腿撐得很寬、加大你的base。第三，維持上半身壓力的同時，嘗試以畫圓的方式把被困的腿往後limp leg抽出。第四，如果limp leg失敗，對對手做underhook的手臂施加whizzer overhook，釘住對手肩膀、阻止旋轉。在這個順序中，速度比力量更重要。",
+    "answer_line": "crossface、加大base、limp leg",
+    "distractors": {
+     "plausible": [
+      "先whizzer，再crossface",
+      "先坐回去，再做crossface"
+     ],
+     "trap": [
+      "向前推進underhook"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立deep half、正在蓄力做waiter sweep——你的緊急防守是什麼？",
+    "answer": "如果你已經身陷deep half、感覺到waiter sweep正在蓄力，立刻把重心往後、往下轉移，把髖部壓向墊子。用空出的那條腿大幅加寬你的base。施加crossface壓力壓扁對手上半身，阻止對手坐起。用空出的手抓住對手遠側髖部或腰帶，穩住你的位置。如果sweep已經迫在眉睫，最後手段是把手撐在身後的墊子上防止被翻過去，然後再想辦法抽出被困的腿。",
+    "answer_line": "重心後移、加寬base、crossface",
+    "distractors": {
+     "plausible": [
+      "撐手等待情況過去",
+      "坐起向前施壓"
+     ],
+     "trap": [
+      "放開crossface、坐直"
+     ]
+    }
+   },
+   {
+    "question": "面對經常使用deep half entry的對手，你該如何管理自己的base？",
+    "answer": "面對已知擅長deep half的對手，從一開始在half guard top就維持較寬的base。讓空出的那條腿比平常撐得離身體更遠，降低重心。持續施加crossface壓力，限制對手製造空間的能力。保持髖部沉重，避免被誘導做出向前施壓的pass、反而餵養對手的entry。可以考慮用backstep pass的方式，把你的近側腿帶離對手可及範圍，而不是往前推進到對手underhook的攻擊範圍內。",
+    "answer_line": "寬base加上持續的crossface",
+    "distractors": {
+     "plausible": [
+      "站姿變窄求快速pass",
+      "持續施加向前壓力"
+     ],
+     "trap": [
+      "把腿深深餵進對手guard"
+     ]
+    }
+   },
+   {
+    "question": "察覺Deep Half Entry正在被嘗試的最早線索是什麼？",
+    "answer": "最早的線索是下位選手做出一個急促的髖部逃脫，形成斜向角度，而不是繼續正對著你。這個髖部逃脫製造出entry的路徑，是整個entry動作序列的基礎動作。在頭部開始穿入之前就察覺這個角度製造，能讓你有最多時間施加防守措施、封死entry。",
+    "answer_line": "急促的斜向髖部逃脫角度",
+    "distractors": {
+     "plausible": [
+      "對手抓你的遠側膝蓋",
+      "對手的頭先垂下"
+     ],
+     "trap": [
+      "對手把空出的腿撐開"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對deep half entry的嘗試施加向前的重心是不好的反應？",
+    "answer": "向前的重心投入正是下位選手完成entry所需要的。Deep half entry利用向前的壓力、把它導向身下，用上位選手的動能協助滑入deep half位置。正確的反應是把髖部往後sprawl，透過肩膀和crossface施加壓力，而不是把重心往前推進到對手的entry路徑上。",
+    "answer_line": "把動能餵給對手的entry",
+    "distractors": {
+     "plausible": [
+      "加快你的pass節奏",
+      "有助於壓扁對手肩膀"
+     ],
+     "trap": [
+      "加強你的crossface壓力"
+     ]
+    }
+   },
+   {
+    "question": "防止Deep Half Entry時，你最優先該建立的防守grip是什麼？",
+    "answer": "Crossface是你最優先的防守控制。用肩膀或前臂壓過下位選手的臉、壓進墊子，能阻止對手轉頭穿到你髖部下方。Crossface也會把對手的肩膀壓平，消除對手entry所需的角度。如果對手無法轉頭、製造角度，entry在力學上就變得不可能。",
+    "answer_line": "用crossface壓平對手肩膀",
+    "distractors": {
+     "plausible": [
+      "對對手下方手臂做whizzer",
+      "用領口勒控制姿勢"
+     ],
+     "trap": [
+      "underhook對手的近側腿"
+     ]
+    }
+   },
+   {
+    "question": "對手的頭已經穿到你身下一半——你最好的恢復方式是什麼？",
+    "answer": "如果頭已經部分穿到身下，髖部切換搭配backstep是你最好的恢復方式。透過旋轉身體把髖部換到另一側，改變角度，能把對手的頭從你身下擠出來。同時設法對對手的underhook手臂建立whizzer，阻止對手完成對遠側腿的控制。如果entry進展得太深，就接受deep half的位置，立刻轉換成deep half top的防守。",
+    "answer_line": "髖部切換、backstep、加whizzer",
+    "distractors": {
+     "plausible": [
+      "把對手的頭推回去",
+      "立刻把髖部sprawl壓平"
+     ],
+     "trap": [
+      "站起來跨過去"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Deep Half Entry.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

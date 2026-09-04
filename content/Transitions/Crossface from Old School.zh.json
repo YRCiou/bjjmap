@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crossface from Old School.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "當你發動 crossface 時，對手開始猛烈地 pump Lockdown——你該如何調整做法？",
+    "answer": "立刻把髖部微微向後 sprawl，同時維持胸口壓力，以中和 pump 動作的掃技槓桿。不要用拉腿的方式對抗 pump，因為這樣只會餵養他的力學機制。等 pump 的節奏放慢，趁 pump 之間的停頓恢復 crossface 的推進。sprawl 能移除他所需的槓桿角度，而你的體重則持續把他釘住。",
+    "answer_line": "sprawl 髖部，等停頓再推進",
+    "distractors": {
+     "plausible": [
+      "硬闖過 pump 做 crossface",
+      "放開胸口壓力重新開始"
+     ],
+     "trap": [
+      "用力硬拉出被困住的腿"
+     ]
+    }
+   },
+   {
+    "question": "在 Old School Top 中，讓 crossface 生效最關鍵的身體位置要素是什麼？",
+    "answer": "胸對胸的體重分配、髖部放低，是最關鍵的要素。crossface 的力量來自透過胸口與肩膀傳導的體重，而不是手臂的力量。當胸口的體重確實向前投入到對手的胸骨上時，crossface 就變成一股他無法用 frame 抵擋的結構性力量，同時也阻止了他做掃技與恢復 guard 所需的髖部移動。",
+    "answer_line": "胸對胸體重，髖部放低",
+    "distractors": {
+     "plausible": [
+      "靠握力控制頭部",
+      "髖部施壓，胸口放輕"
+     ],
+     "trap": [
+      "雙手寬寬地 post 以求 base"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在整個 crossface 過腿過程中，必須全程維持 whizzer 的深度？",
+    "answer": "whizzer 能阻止下位的對手恢復深 underhook，而這正是他整套 Old School 控制系統的根基。如果 whizzer 在 crossface 過程中鬆脫，對手就能重新 pummel 出他的 underhook，無論頭部位置如何，都能立刻重建掃技角度。whizzer 是穩住你進度的錨點，而 crossface 則負責主動壓平的工作。",
+    "answer_line": "whizzer 擋住 underhook 恢復",
+    "distractors": {
+     "plausible": [
+      "whizzer 用來設置掃技",
+      "whizzer 用來控制他的髖部"
+     ],
+     "trap": [
+      "放開 whizzer 改用空閒手"
+     ]
+    }
+   },
+   {
+    "question": "對手用前臂在你做 crossface 的肩膀上建立 frame——這代表什麼，你該如何應對？",
+    "answer": "這個 frame 代表他放棄了頭部控制才做出這個 frame，這其實對你有利，因為頭部控制正是你需要瓦解的結構之一。把你做 crossface 的手從他 frame 的前臂內側游過去，在 frame 下方重新建立 crossface。一旦你到了他的 frame 下方，這個 frame 就失效了，而他也已經主動放棄了更危險的頭部控制 grip。",
+    "answer_line": "從 frame 內側游過，在下方重建 crossface",
+    "distractors": {
+     "plausible": [
+      "用更大力氣硬闖過 frame",
+      "改抓頭部控制 grip"
+     ],
+     "trap": [
+      "退開重設你的 grip"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試從 Lockdown 中抽出被困住的腿之前，必須先滿足哪些條件？",
+    "answer": "對手必須已經被大幅壓平、肩膀接近地面，他的頭已被 crossface 轉離 underhook 那一側，而他的 underhook 也已變淺或被你的 whizzer 中和。如果在這些條件滿足之前就嘗試抽腿，你會在對手仍保有掃技角度的情況下，硬碰一個力學上很強的 Lockdown。壓平的過程正是讓 Lockdown 變得可以抽腿的原因。",
+    "answer_line": "壓平、頭轉開、underhook 變淺",
+    "distractors": {
+     "plausible": [
+      "頭已轉開，但 underhook 仍深",
+      "對手已壓平，但頭仍居中"
+     ],
+     "trap": [
+      "提早硬拉腿以搶在 pump 之前"
+     ]
+    }
+   },
+   {
+    "question": "相對於對手的呼吸與動作節奏，你應該如何抓 crossface 推進的時機？",
+    "answer": "在對手吐氣的時候，或在他兩次進攻動作之間停頓的時候，推進 crossface。吐氣時他的核心張力降低，會讓壓平變得更容易。Lockdown pump 或掃技嘗試之間的停頓，代表他的結構正在重設的窗口。避免在他做爆發性的 bridge 或 pump 動作時推進，因為這時你的力量只會加到他的動能上，而不是有效對抗它。",
+    "answer_line": "趁吐氣或停頓推進，避開 bridge",
+    "distractors": {
+     "plausible": [
+      "在他吸氣時推進",
+      "持續推進，不管時機"
+     ],
+     "trap": [
+      "在他 bridge 爆發時硬推"
+     ]
+    }
+   },
+   {
+    "question": "如果 crossface 卡住、無法完全把對手壓平，還有哪些替代的過渡選項？",
+    "answer": "一個部分成功的 crossface——轉了頭但沒能完全壓平——會打開幾個選項：利用部分轉頭製造出的角度做 Knee Slice Pass；如果對手轉離 crossface 而暴露出頸部，可以做 Darce Choke；或改成游向對側的 underhook 過腿。即使沒能完成過腿，這個部分成功的 crossface 依然已經削弱了他的控制結構。",
+    "answer_line": "Knee Slice、Darce，或改走 underhook 過腿",
+    "distractors": {
+     "plausible": [
+      "放棄過腿，重設回 guard",
+      "改做 leg lock 的進入"
+     ],
+     "trap": [
+      "放開頭部控制重新抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "在你做 crossface 時，對手朝你身下鑽，試圖進入 Deep Half Guard——你的立即反應是什麼？",
+    "answer": "把髖部大力向後、向下 sprawl，同時把 crossface 推得更深，阻止他完成 deep half 進入所需的旋轉。他的 deep half 嘗試需要從你的髖部下方舀進去，所以移除髖部空間是首要任務。如果他已經部分鑽進去，改用 whizzer 與沉重的髖部壓力阻止他完成這個位置，優先處理 deep half，而不是繼續原本的 crossface 過腿。",
+    "answer_line": "sprawl 髖部，把 crossface 推更深",
+    "distractors": {
+     "plausible": [
+      "post base 等待情勢明朗",
+      "立刻追逐 underhook"
+     ],
+     "trap": [
+      "讓他完全落入 deep half"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你察覺對手從 Old School Top 發動 crossface 時，第一件該做的事是什麼？",
+    "answer": "立刻用最大幅度伸展 pump Lockdown，同時收緊你的 underhook，把你控制頭部的 grip 拉得更深。pump 動作能製造出抵抗壓平效果的反作用力，而收緊的控制則能阻止 crossface 想達成的漸進式瓦解。在 crossface 壓力還輕的時候及早行動，遠比在已經被大幅壓平之後才試圖恢復要有效得多。",
+    "answer_line": "pump Lockdown，收緊 underhook",
+    "distractors": {
+     "plausible": [
+      "先等壓力累積起來",
+      "在他胸口建立 frame 推開"
+     ],
+     "trap": [
+      "放鬆並接受被壓平"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對手做 crossface 時的體重轉移，會為 Old School Sweep 製造機會？",
+    "answer": "crossface 需要對手把體重透過肩膀與胸口向前投入到你的臉上。這股向前的體重投入，正好是讓 Old School Sweep 最有效的體重分配方式，因為對手的重心已經朝掃技方向偏移。在他推進得最沉重的那一刻，他的 base 會暫時失衡，製造出掃技成功機率最高的時機窗口。",
+    "answer_line": "向前的體重有利掃技時機",
+    "distractors": {
+     "plausible": [
+      "crossface 會削弱他的握力",
+      "體重轉移打開取背機會"
+     ],
+     "trap": [
+      "等髖部抬高再做掃技"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你該放棄 Old School 防守，改為過渡到 Deep Half Guard？",
+    "answer": "當你的頭已被轉離 underhook 那一側超過 45 度、你的 underhook 深度已被削減到淺，而你仍保有能舀進對手身下的髖部靈活度時，就該過渡到 deep half。這些條件顯示 Old School 的恢復不太可能成功，但你還沒有被完全壓平。這個過渡需要同時放開 Lockdown 與頭部控制，並鑽到對手髖部下方，所以不要等到你已經被壓平仰躺才行動。",
+    "answer_line": "頭正在轉開，髖部仍靈活",
+    "distractors": {
+     "plausible": [
+      "等到完全被壓平再做",
+      "保留 Lockdown，只換頭部"
+     ],
+     "trap": [
+      "放開 Lockdown，仍保持平躺"
+     ]
+    }
+   },
+   {
+    "question": "在 crossface 的攻防交換中，你要如何在對抗 whizzer 的情況下維持 underhook 的深度？",
+    "answer": "把你做 underhook 的手肘緊緊夾住肋骨，而不是向外伸展，並盡可能高地抓住對手的背部或肩膀。whizzer 的力量來自於對你手臂施加向下的壓力，所以夾緊手肘就能移除他所需的槓桿。此外，利用你的頭部控制把對手的姿態向下拉，這反而會讓你的 underhook 更深，因為他的身體會朝你向前折疊。",
+    "answer_line": "手肘夾緊、抓高、拉低姿態",
+    "distractors": {
+     "plausible": [
+      "伸展手肘以獲得更多槓桿",
+      "抓低他的髖部以求控制"
+     ],
+     "trap": [
+      "放開 underhook 來逃脫 whizzer"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "啟動這個轉換動作的主要觸發時機是什麼？",
+    "answer": "主要的觸發時機是感覺到對手開始把髖部朝你的方向轉動。這種轉動通常發生在他們試圖解除背後的壓力、製造逃脫角度，或防守勒頸攻擊的時候。這個轉換動作把這個防守性的動作，重新導引成 mount 位置，而不是讓對手順利逃脫。",
+    "answer_line": "感覺到他們的髖部朝你轉動",
+    "distractors": {
+     "plausible": [
+      "對手用空出來的手撐地",
+      "他們的肩膀貼平在墊子上"
+     ],
+     "trap": [
+      "放掉兩個 hook 直接跳上 mount"
+     ]
+    }
+   },
+   {
+    "question": "你會先放開哪一個 hook？為什麼？",
+    "answer": "先放開遠側的 hook，同時維持近側的 hook。近側的 hook 是旋轉時的支點，讓你在轉換過程中保持連結，並引導對手進入 mount 位置。如果先放開近側的 hook，你會失去支點，整個人滑離對手的背部。",
+    "answer_line": "先放遠側 hook，留住近側 hook",
+    "distractors": {
+     "plausible": [
+      "兩個 hook 一起放開",
+      "兩個 hook 都保留然後直接旋轉"
+     ],
+     "trap": [
+      "放開近側 hook，靠遠側 hook 撐著"
+     ]
+    }
+   },
+   {
+    "question": "對手用空出來的手臂抵住你正在轉換的膝蓋，你該怎麼回應？",
+    "answer": "維持 Gift Wrap 的緊度，用堅定的髖部壓力硬闖過那個單手支撐的 frame。單一手臂的結構強度不足以擋住有決心的膝蓋推進。如果這個 frame 一直存在，立刻威脅要攻擊那隻伸展手臂的 armbar——這會讓對手陷入兩難，必須選擇擋住 mount 還是保護手臂。",
+    "answer_line": "推進膝蓋，接著威脅 armbar",
+    "distractors": {
+     "plausible": [
+      "重新調整並收緊 Gift Wrap",
+      "先暫停改攻絞技"
+     ],
+     "trap": [
+      "放開 Gift Wrap 去剝離手臂"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的關鍵失誤，會讓練習者最後停在 half guard 而不是 mount？",
+    "answer": "如果在對手髖部放平之前，沒有把膝蓋完全越過對手的髖線，結果就會停在 half guard 或 quarter guard。膝蓋必須在對手還在轉動的當下完全跨越過去。半吊子的動作只會做出半吊子的 half guard。解法是在轉動到垂直點的那一刻，全力完成膝蓋的跨越。",
+    "answer_line": "膝蓋在越過髖線前就卡住",
+    "distractors": {
+     "plausible": [
+      "太早放開近側 hook",
+      "髖部轉動得太快"
+     ],
+     "trap": [
+      "放掉控制直接跳上 mount"
+     ]
+    }
+   },
+   {
+    "question": "為什麼目標位置是 technical mount 而不是一般的 mount？",
+    "answer": "膝蓋抬高的 technical mount 能維持 Gift Wrap 帶來的手臂封鎖優勢。被困住的那隻手臂在防守上持續受限，讓後續的降伏攻擊成功率明顯更高。低位的 mount 會讓對手能用雙手來做逃脫的 frame，抵銷掉 Gift Wrap 建立起來的控制優勢。",
+    "answer_line": "持續封鎖對手被困住的手臂",
+    "distractors": {
+     "plausible": [
+      "提供更寬、更重的底盤",
+      "讓你能坐得更挺、姿勢更高"
+     ],
+     "trap": [
+      "坐低位 mount 讓自己感覺更重"
+     ]
+    }
+   },
+   {
+    "question": "對手持續滾動想要越過 mount、試圖回到 guard，你該怎麼回應？",
+    "answer": "把遠側的腳穩穩地撐地，重心壓低來固定住自己。利用 Gift Wrap 的手臂控制來阻止對手上半身旋轉，同時撐地的那隻腳阻止髖部旋轉。如果對手在這些措施之下仍然持續動作，就順著他們的動力，在另一側建立 technical mount，而不要硬跟他們對抗方向。",
+    "answer_line": "撐腳、固定、順勢跟著滾動",
+    "distractors": {
+     "plausible": [
+      "對抗旋轉，守住中心",
+      "放開控制重新來過"
+     ],
+     "trap": [
+      "追著 guard 跑、放棄 Gift Wrap"
+     ]
+    }
+   },
+   {
+    "question": "在轉換過程中，什麼時候應該放棄 Gift Wrap？",
+    "answer": "只有在那隻手臂已經在恢復、而且維持這個抓握會完全妨礙 mount 轉換時，才放棄 Gift Wrap。用一般的控制方式完成 mount，總比同時失去手臂封鎖和位置來得好。但除非真的必要，否則要盡力維持 Gift Wrap——它能大幅提升從 technical mount 發動降伏攻擊的成功率。",
+    "answer_line": "只有在會賠上 mount 時才放棄",
+    "distractors": {
+     "plausible": [
+      "只要抓握感覺累了就放",
+      "膝蓋一跨過去就馬上放"
+     ],
+     "trap": [
+      "放開它然後轉身攻 armbar"
+     ]
+    }
+   },
+   {
+    "question": "面對一個消極、拒絕移動的對手，你要如何製造出旋轉？",
+    "answer": "積極攻擊 rear naked choke 來逼對手做出防守性的手部動作和轉頭。用你勒頸的那隻手臂實際去把對手的頭和上半身轉向你，同時 Gift Wrap 的那隻手臂維持控制。這種被迫的旋轉，會製造出跟自然防守動作一樣的觸發時機。用 body triangle 加壓也會造成不適，進而引發對手移動。",
+    "answer_line": "攻擊絞技，轉動對手的頭",
+    "distractors": {
+     "plausible": [
+      "等對手先動",
+      "用力夾緊然後保持不動"
+     ],
+     "trap": [
+      "放鬆 hook 誘使對手移動"
+     ]
+    }
+   },
+   {
+    "question": "在旋轉階段，維持 Gift Wrap 的最佳握法配置是什麼？",
+    "answer": "Gift Wrap 的手臂穿過對手的腋下，抓住對手身體另一側的手腕或前臂下段。在旋轉過程中，把被困住的手臂往上拉，越過胸口朝遠側肩膀方向靠近，以增加機械槓桿優勢。你的握點應該放在手腕以取得最大槓桿力，同時手肘往下壓進對手身體，防止在混亂的轉換階段手臂被抽離。",
+    "answer_line": "抓手腕、手肘往下壓",
+    "distractors": {
+     "plausible": [
+      "抓袖子、手肘外張",
+      "抓二頭肌、手臂壓低"
+     ],
+     "trap": [
+      "旋轉中途放開手腕"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換動作的每個階段，施力方向如何變化？",
+    "answer": "在初期階段，當你用近側 hook 和 Gift Wrap 控制來引導旋轉時，施力是側向的。到達垂直點時，施力轉為向下的壓力，讓你的膝蓋跨越髖線。在鞏固階段，施力變成垂直方向，讓你把重量沉入 technical mount。理解這些方向上的轉變，能避免在錯誤的平面上出力，而這正是大多數轉換失敗的根本原因。",
+    "answer_line": "先側向、再向下、最後沉穩",
+    "distractors": {
+     "plausible": [
+      "全程都用向下的壓力",
+      "一開始就整個往上抬"
+     ],
+     "trap": [
+      "抬高重心讓膝蓋跨過去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺對手正在嘗試 Gift Wrap to Technical Mount 這個轉換動作，最早的辨識線索是什麼？",
+    "answer": "最早的線索是遠側的 hook 放開，同時近側 hook 的壓力增加，或轉為主動引導你的髖部旋轉。這個 hook 的移除是攻擊方為了讓膝蓋跨越你身體所必須做的動作，也是最可靠的早期警訊。一感覺到這個訊號，就應該立刻開始防守動作。",
+    "answer_line": "遠側 hook 放開、近側轉為引導",
+    "distractors": {
+     "plausible": [
+      "勒頸的手臂先收緊",
+      "重心先壓到你胸口"
+     ],
+     "trap": [
+      "等到膝蓋到達髖線再反應"
+     ]
+    }
+   },
+   {
+    "question": "在旋轉過程中，為什麼防止髖部貼平是最重要的防守優先事項？",
+    "answer": "當你的髖部平貼在墊子上時，你會完全失去用下半身做 shrimp、bridge 或製造角度的能力。攻擊方的膝蓋能毫無阻力地滑過你貼平的髖部，讓對手輕易就能建立 mount。至少讓一側髖部離開墊面，能保留髖部的活動度，讓你可以 shrimp 拉開距離、放入膝盾，並製造出阻擋膝蓋跨越所需的角度。",
+    "answer_line": "保留髖部活動度以便 shrimp",
+    "distractors": {
+     "plausible": [
+      "能更久保護被困住的手臂",
+      "保住你最好的抓握"
+     ],
+     "trap": [
+      "把髖部貼平來吸收壓力"
+     ]
+    }
+   },
+   {
+    "question": "攻擊方已經放開遠側的 hook，你感覺到旋轉開始了——你的兩步防守流程立即該怎麼做？",
+    "answer": "第一步，把空出來的那隻腳撐在墊子上，同時 bridge 髖部防止貼平，並同步把髖部往遠離攻擊方的方向 shrimp 開。第二步，用空出來的手臂、手肘彎曲，對攻擊方正在轉換的膝蓋建立結構性的 frame，阻擋它跨越你的髖線。這兩個動作要相互配合——髖部的移動製造距離，frame 則阻擋對手推進。",
+    "answer_line": "Bridge／shrimp，再 frame 住膝蓋",
+    "distractors": {
+     "plausible": [
+      "先建立 frame，再 bridge 拉開",
+      "抓住遠側 hook，阻擋旋轉"
+     ],
+     "trap": [
+      "把身體貼平、吸收壓力"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候，把目標改成回復 half guard 會比完全阻止 mount 更好？",
+    "answer": "當轉換已經在進行中、攻擊方的膝蓋正逼近你的髖線時，回復 half guard 就成為比較好的目標。這個時間點上，要完全阻止 mount 需要的防守資源，可能超過你在一隻手臂被困住的情況下能調動的量。把膝蓋當作膝盾放入、在 half guard 卡住對手的腿，是一個實際可行的目標，仍然保有 sweep 和逃脫的選項；相對地，嘗試完全阻止可能會失敗，最後落入毫無防守的 mount。",
+    "answer_line": "膝蓋逼近髖線時",
+    "distractors": {
+     "plausible": [
+      "只有在 mount 已經確立之後",
+      "從一開始就這麼做"
+     ],
+     "trap": [
+      "絕不退讓，永遠死守完整 mount"
+     ]
+    }
+   },
+   {
+    "question": "在這個特定的轉換動作中，為什麼你應該避免嘗試把被困住的手臂拉回來？",
+    "answer": "這個轉換動作只留給你大約兩到三秒的狹窄防守空窗，介於 hook 移除和 mount 鞏固之間。如果把注意力分散在手臂回收和阻止 mount 之間，兩邊都得不到足夠的防守能量。回收手臂需要肩膀旋轉和髖部動作，而這與阻擋膝蓋所需的髖部姿勢是互相衝突的。優先阻止 mount——手臂之後可以視最終落入的位置再處理，但帶著 Gift Wrap 的 technical mount 是最糟的結果。",
+    "answer_line": "優先阻擋 mount",
+    "distractors": {
+     "plausible": [
+      "把心力平分在手臂和髖部上",
+      "用力 bridge 來抽出手臂"
+     ],
+     "trap": [
+      "無視膝蓋，硬把手臂拉出來"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Gift Wrap to Technical Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

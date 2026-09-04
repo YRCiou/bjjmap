@@ -1,0 +1,199 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從 Double Jump 放棄拿背嘗試、轉為過渡到 side control 的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手已成功多次防守拿背嘗試，用手肘收緊、下巴保護、髖部緊貼地面來維持嚴密的 turtle 殼形防守。這個過渡應該在你仍握有透過 crossface 或 harness 建立的強力上半身控制時就發動——而不是等到位置已經開始瓦解之後。如果對手的防守完全聚焦在用密封姿態防止背部暴露，通往 side control 的側向路徑通常就是敞開的。",
+        "answer_line": "密封緊縮，控制仍強",
+        "distractors": {
+          "plausible": [
+            "拿背嘗試失敗之後",
+            "位置開始鬆動之後"
+          ],
+          "trap": [
+            "無論如何都硬要拿背"
+          ]
+        }
+      },
+      {
+        "question": "在開始抽出 hook 之前，必須先建立哪種上半身控制？",
+        "answer": "你必須先建立深的 crossface——前臂穩固地壓過對手的下顎與頸部，位置在你打算建立 side control 的那一側——或是緊密的 seatbelt 抓法，一手繞過肩膀、一手穿過腋下。這個上半身控制是整個過渡過程中的主要位置錨點——沒有它，移除你的 leg hook 會消除髖部控制卻沒有任何補償機制，讓對手能自由纏鬥或搶回 guard。",
+        "answer_line": "先建立 crossface 或 seatbelt",
+        "distractors": {
+          "plausible": [
+            "先讓雙 hook 深入再建立控制",
+            "只用遠側 underhook"
+          ],
+          "trap": [
+            "先抽出 hook，再取得抓握"
+          ]
+        }
+      },
+      {
+        "question": "在側向過渡中，應該先抽出哪一個 hook？為什麼？",
+        "answer": "先抽出遠側的 hook——也就是離你打算建立 side control 方向最遠的那個 hook。這讓你能把那隻獲得自由的腳撐在身後的地墊上以取得穩定，同時在關鍵的早期側向髖部行走階段，繼續用近側 hook 維持對下半身的影響力。如果先抽出近側 hook，會消除過渡那一側的控制，讓你在側向移動時失去底盤。",
+        "answer_line": "先抽出遠側 hook",
+        "distractors": {
+          "plausible": [
+            "先抽出近側 hook",
+            "兩個 hook 一起抽出"
+          ],
+          "trap": [
+            "先放開上半身抓握"
+          ]
+        }
+      },
+      {
+        "question": "當你抽出第一個 hook 時，對手開始 sit-out，你該如何調整？",
+        "answer": "立刻放棄 side control 過渡，順著對手坐起的動作拿背，或進入 crab ride。他們的 sit-out 動作其實比密封的 turtle 更加暴露背部。用你剩下的 hook 與上半身控制跟隨他們的動作，從側向過渡改為背後控制的切入。硬要對一個正在積極坐起的對手完成 side control 路徑，通常會落入半防禦或纏鬥。",
+        "answer_line": "順著 sit-out 拿背",
+        "distractors": {
+          "plausible": [
+            "無論如何都硬要 side control",
+            "停下並重置回 turtle"
+          ],
+          "trap": [
+            "放開 hook 並脫離"
+          ]
+        }
+      },
+      {
+        "question": "在這個過渡的側向髖部行走階段，力量的關鍵方向是什麼？",
+        "answer": "主要的施力方向是側向並向下，一邊把髖部繞著對手身體移動，一邊持續把胸口壓力向前、向下驅動到他們的上背與近側肩膀。crossface 把對手的頭部推離你、壓向地墊，這同時創造出垂直對位所需的角度，並瓦解他們的 turtle 底盤。整個繞行過程中，你的髖部應該持續沉重地壓在他們的近側髖部上。",
+        "answer_line": "側向行走髖部，向下施壓",
+        "distractors": {
+          "plausible": [
+            "只單純直線向前驅動",
+            "把對手的頭往上拉"
+          ],
+          "trap": [
+            "向後靠以製造空間"
+          ]
+        }
+      },
+      {
+        "question": "一到達 side control 的對位角度，應該立刻建立哪種抓握配置？",
+        "answer": "一到達垂直對位，立刻建立標準的 side control 抓握：用遠側手臂的 crossface，前臂壓過對手的頸部與臉部，近側手則阻擋對手的遠側髖部，防止膝蓋插入與搶回 guard。髖部阻擋是優先順位最高的抓握，因為它封閉了最主要的逃脫路徑。把髖部壓低、沉重地貼向對手髖部，同時雙腿寬幅 sprawl 以取得穩定底盤。",
+        "answer_line": "crossface 加上遠側髖部阻擋",
+        "distractors": {
+          "plausible": [
+            "underhook 加上遠側手臂封鎖",
+            "只用雙臂做 crossface"
+          ],
+          "trap": [
+            "先追逐遠側手臂"
+          ]
+        }
+      },
+      {
+        "question": "因為對手在部分抽出 hook 後不斷恢復 turtle 底盤，過渡卡住了，你該怎麼做？",
+        "answer": "如果對手在部分抽出後成功重新收緊，你有兩個選擇：把已抽出的 hook 重新插回，回到完整的 Double Jump，在對手底盤進一步瓦解後從不同角度再次嘗試過渡；或者改採更積極的做法，把沉重的體重 sprawl 壓在他們背上以瓦解 turtle，再嘗試抽出 hook。你也可以改走完全不同的進攻路徑，例如 crab ride 或 truck 的切入。",
+        "answer_line": "重插 hook 或沉重 sprawl",
+        "distractors": {
+          "plausible": [
+            "硬要重複同樣的抽出動作",
+            "立刻改攻 armbar"
+          ],
+          "trap": [
+            "放開所有控制並重置"
+          ]
+        }
+      },
+      {
+        "question": "這個過渡如何在更廣泛的 Double Jump 進攻系統中創造策略性的兩難困境？",
+        "answer": "side control 過渡創造了兩難，因為它懲罰的正是防止拿背的那種防守姿態。當對手用收緊的手肘與下巴密封背部來防守 hook 提升至背後控制時，他們無意間就暴露了通往 side control 的側向路徑。如果他們把底盤加寬以防止側向過渡，就會為主要的拿背切入創造出空隙。這種雙重威脅迫使防守者只能在狹窄的防守通道中周旋，防住一條路徑就等於打開了另一條。",
+        "answer_line": "防住一邊就打開另一邊",
+        "distractors": {
+          "plausible": [
+            "只影響拿背的防守",
+            "加寬底盤能同時防住兩者"
+          ],
+          "trap": [
+            "無視 side control，只密封背部"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正從 Double Jump 過渡到 side control，而不是繼續拿背嘗試，最早能辨識的線索是什麼？",
+        "answer": "最早的線索包括感覺到一個 leg hook 開始從你大腿內側抽離，同時 crossface 壓力同步加強；上位者的胸壓從集中在你脊椎正中，轉移向一側肩膀，顯示出側向的方向；以及感覺到他們的髖部開始以小碎步的方式繞著你的身體行走，而不是維持在你身後的靜止位置。hook 鬆脫加上上半身壓力增加的組合，代表 side control 過渡即將發生。",
+        "answer_line": "hook 鬆脫，壓力轉移",
+        "distractors": {
+          "plausible": [
+            "雙手重新調整位置準備 choke",
+            "體重突然沉到髖部"
+          ],
+          "trap": [
+            "雙 hook 同時放開"
+          ]
+        }
+      },
+      {
+        "question": "在這個過渡的哪個階段，防守動作最有可能成功？",
+        "answer": "最有效的防守時機是在第一個 hook 抽出時，此時雙側的髖部控制降為單側控制。這會創造出一段短暫時期，讓上位者的下半身影響力減半，同時他們正在重新調整位置。在側向髖部行走建立新的施壓角度之前，這個抽出階段的 sit-out、granby roll 與底盤恢復嘗試，成功機率最高。",
+        "answer_line": "在第一個 hook 抽出時",
+        "distractors": {
+          "plausible": [
+            "在最終的髖部行走時",
+            "抓握剛設定好之後"
+          ],
+          "trap": [
+            "等到 side control 鎖定為止"
+          ]
+        }
+      },
+      {
+        "question": "你的對手已經抽出一個 hook 並正在側向行走髖部，你的即時防守反應是什麼？",
+        "answer": "立刻朝他們側向移動的反方向發動 sit-out，利用不對稱的重量分布來取得優勢。把遠側手撐在地墊上，把髖部朝他們行走方向的反方向轉動。他們對側向路徑的投入，讓他們很難跟上你反方向的移動。如果 sit-out 的時機已經錯過，就轉身面向對手，在他們到達垂直對位之前，把膝蓋 frame 塞進雙方身體之間。",
+        "answer_line": "朝行走反方向 sit-out",
+        "distractors": {
+          "plausible": [
+            "直接 bridge 上去翻過",
+            "把對手的頭推開"
+          ],
+          "trap": [
+            "跟著他們行走的方向移動"
+          ]
+        }
+      },
+      {
+        "question": "為什麼靜態密封的 turtle 防守對拿背有效，對 side control 過渡卻無效？",
+        "answer": "手肘收緊、背部受保護的靜態密封 turtle，能防止 hook 提升至背後控制，因為它封閉了上位者進行傳統拿背切入所需的路徑。然而，同樣這種密封姿態卻讓側向路徑完全敞開，因為防守者並沒有積極抵抗髖部繞行。這種阻擋背後入口的緊密防守殼，反而為上位者提供了一個穩定的表面，讓他們能一邊維持壓力，一邊把髖部行走到 side control 的對位。",
+        "answer_line": "對側向行走毫無抵抗",
+        "distractors": {
+          "plausible": [
+            "手肘收得太緊無法移動",
+            "下巴位置導致暴露"
+          ],
+          "trap": [
+            "密封得更緊就能擋住行走"
+          ]
+        }
+      },
+      {
+        "question": "如何利用上位者側向的重量投入來創造逆轉機會？",
+        "answer": "當上位者為了 side control 過渡而把重量側向投入時，他們的平衡會暫時偏向一側，跟隨反方向移動的能力會降低。此時執行 sit-out 或轉向他們重量投入的反方向，借力使力反制他們自己的方向性投入。他們在側向行走中進行得越深，就越難重新調整方向來跟上你反方向的移動，這會為搶回 guard 創造出纏鬥的機會。",
+        "answer_line": "轉向他們重量轉移的反方向",
+        "distractors": {
+          "plausible": [
+            "朝他們的投入方向 bridge",
+            "直接推向他們的胸口"
+          ],
+          "trap": [
+            "跟著他們側向的方向移動"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Double Jump to Side Control.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

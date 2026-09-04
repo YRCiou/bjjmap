@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Double Jump.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在開始從失敗的 double jump 抽腿之前，最重要必須先建立的一件事是什麼？",
+    "answer": "在開始任何抽腿動作之前，必須先在對手的肩膀與髖部建立前臂 frame。沒有這些 frame，對手會在抽腿階段把體重壓垮到你的胸口上，把你壓平，讓這次撤退變成比失敗的進入還要更糟的位置。這些 frame 創造出讓依序抽腿成為可能的空間緩衝。",
+    "answer_line": "前臂 frame 頂肩膀與髖部",
+    "distractors": {
+     "plausible": [
+      "先抽腿再建立 frame",
+      "先抓對手的衣領"
+     ],
+     "trap": [
+      "放鬆並吸收對方的體重"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要先抽出內側的腿，再抽外側的腿？",
+    "answer": "內側的腿陷得最深，位在對手底盤下方，也最容易被困住。先抽出它，同時維持外側腿的接觸，能在整個轉換過程中保留某種形式的纏繞。如果先抽外側的腿，你會失去最後一個防守接觸點，讓對手能在控制出現空檔的時候自由推進到 side control。",
+    "answer_line": "先抽內側的腿",
+    "distractors": {
+     "plausible": [
+      "先抽外側的腿",
+      "兩隻腿同時抽出"
+     ],
+     "trap": [
+      "太早放開外側腿的接觸"
+     ]
+    }
+   },
+   {
+    "question": "你的 double jump 進入卡住了，對手開始施加沉重的 crossface 壓力——你該怎麼做？",
+    "answer": "立刻優先用前臂 frame 頂住他們的肩膀來應付這個 crossface 壓力。把這個壓力當成開始逃脫的訊號，而不是硬拚著要完成進入。crossface 代表對手已經成功防守，繼續對抗一個已經建立好的 crossface 只會讓你被壓平。趁 frame 撐住對方體重、保持距離的同時，開始依序抽腿。",
+    "answer_line": "frame 頂肩膀，開始逃脫",
+    "distractors": {
+     "plausible": [
+      "硬撐下去，完成進入",
+      "bridge 然後翻滾離開"
+     ],
+     "trap": [
+      "轉成腹部朝下防守"
+     ]
+    }
+   },
+   {
+    "question": "你如何判斷該繼續進行 double jump 的進入，還是該開始逃脫？",
+    "answer": "如果進入在 2-3 秒內沒有明顯進展，或是對手已經透過 crossface、sprawl 或加寬底盤建立起上半身控制，就應該立刻開始逃脫。進入卡住的關鍵指標包括：髖部無法再往下方深入、上位者的胸口壓力持續增加，以及對手的手已經在你的上半身建立起 grip。",
+    "answer_line": "2-3 秒沒進展就逃脫",
+    "distractors": {
+     "plausible": [
+      "等一個明確的機會出現",
+      "更用力硬推來完成進入"
+     ],
+     "trap": [
+      "不管情況如何都繼續進入"
+     ]
+    }
+   },
+   {
+    "question": "knee shield 在這個逃脫序列中扮演什麼角色？",
+    "answer": "knee shield 是抽出內側腿與完成轉換到 half guard 之間，最關鍵的中間 frame。內側腿收回之後，把你的小腿插進對手軀幹前方，能創造出一個結構性的屏障，防止他們在剩餘的抽腿過程中把髖部壓垮向前。沒有這個中間 frame，就會出現一個危險的空檔，此時雙腿都只完成一半的動作，容易被 pass。",
+    "answer_line": "內側腿抽出後插小腿 frame",
+    "distractors": {
+     "plausible": [
+      "knee shield 要先插入",
+      "跳過 shield，直接進 half guard"
+     ],
+     "trap": [
+      "放掉 shield，去抓對方衣領"
+     ]
+    }
+   },
+   {
+    "question": "在你逃脫的過程中，對手最常嘗試的反制是什麼？你該如何應對？",
+    "answer": "最常見的反制，是在抽腿階段施加沉重的 crossface 壓力，把你壓平，阻止你維持 frame。應對方式是確保在開始抽腿之前先建立好肩膀 frame，用 hip escape 的動作朝遠離 crossface 的方向做出角度，並盡早插入 knee shield，創造出一個他們的 crossface 壓力無法繞過的結構性屏障。",
+    "answer_line": "frame 對抗 crossface，加上 shield",
+    "distractors": {
+     "plausible": [
+      "硬用蠻力頂過 crossface",
+      "縮成 turtle 來擋住 crossface"
+     ],
+     "trap": [
+      "用手撐地，暴露出 back"
+     ]
+    }
+   },
+   {
+    "question": "成功逃脫到 half guard 之後，你的即時優先事項應該是什麼？",
+    "answer": "你的即時優先事項，是建立一個進攻型的 half guard 配置——要嘛在被困腿那一側拿到 underhook，要嘛加強你的 knee shield 以創造距離。到達 half guard 之後不要休息。對手才剛成功防守了你的攻擊，接下來會設法用 passing 的壓力來占便宜。要立刻轉換成一個具威脅性、能威脅 sweep 並阻止對方 pass 的主動 guard。",
+    "answer_line": "拿 underhook 或加強 shield",
+    "distractors": {
+     "plausible": [
+      "休息並重新調整呼吸",
+      "等對手嘗試 pass"
+     ],
+     "trap": [
+      "把身體壓平來恢復"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你該選擇 knee shield 恢復的變化型，而不是標準的 half guard 逃脫？",
+    "answer": "當對手施加非常沉重、有可能在抽腿過程中把你壓平的向前壓力時，就該選擇 knee shield 恢復的變化型。相較於標準的 half guard hooks，knee shield 對抗向前推力提供更優越的結構性防守。當你需要更多時間來鞏固局面時，也適合選擇它，因為 knee shield 創造出更大的距離，避免立即出現讓標準 half guard 難以對抗積極 passer 的胸對胸壓力。",
+    "answer_line": "壓力沉重時需要 shield",
+    "distractors": {
+     "plausible": [
+      "在對抗輕壓力時使用",
+      "只在疲勞時使用"
+     ],
+     "trap": [
+      "放棄 frame，去尋找降伏技"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Escape Double Jump 過程中，下位的人最脆弱的時刻是什麼時候？",
+    "answer": "最脆弱的時刻，是下位的人已經抽出內側腿、但還沒插入 knee shield 的那一瞬間。在這個短暫的窗口內，雙腿都只完成一半的動作，而下位的人還缺乏 knee shield 所提供的結構性 frame。這正是施加 crossface 壓力、backstep pass 或 knee slice pass 的最佳時機，可以利用這個正在重新整理的 guard。",
+    "answer_line": "內側腿抽出，shield 未插入",
+    "distractors": {
+     "plausible": [
+      "在 double jump 進入的過程中",
+      "剛逃到 half guard 之後"
+     ],
+     "trap": [
+      "已經完全進入 half guard 之後"
+     ]
+    }
+   },
+   {
+    "question": "你該如何防止下位的人建立逃脫所需的 frame？",
+    "answer": "一旦你察覺對方的進入已經卡住，立刻施加 crossface 壓力，並保持胸對胸的連結。透過讓你的體重持續透過肩膀壓向他們的臉與胸口，你消除了他們的前臂在你的肩膀與髖部建立 frame 所需的空間。沒有這些 frame，抽腿就不可能在不被壓平的情況下完成。",
+    "answer_line": "施加 crossface，胸貼胸",
+    "distractors": {
+     "plausible": [
+      "緊緊抓住雙手手腕",
+      "先把他們的髖部推開"
+     ],
+     "trap": [
+      "退開重新調整位置"
+     ]
+    }
+   },
+   {
+    "question": "對手成功建立起 frame 並開始抽腿——你最好的應對是什麼？",
+    "answer": "如果 frame 已經建立、抽腿正在進行中，就把重心從阻止逃脫轉為利用這個轉換過程。鎖定內側腿抽出與 knee shield 插入之間的那個瞬間，用 knee slice 或 backstep pass 攻擊。他們的雙腿正在重新整理，此刻正是短暫的脆弱時刻。針對他們正在撤退的 guard 連續進攻，而不要試圖把他們逼回失敗的 double jump 位置。",
+    "answer_line": "趁雙腿重整時 knee slice",
+    "distractors": {
+     "plausible": [
+      "逼他們退回 double jump",
+      "等他們到達 half guard 再說"
+     ],
+     "trap": [
+      "現在去追 guillotine"
+     ]
+    }
+   },
+   {
+    "question": "為什麼下位的人從 double jump 的進攻轉為逃脫，對你反而有利？",
+    "answer": "當下位的人從進攻轉為防守時，他們的心理框架會從主動出擊轉為被動撤退。這種防守心態讓他們變成被動反應，而不是主動出擊，為你創造出主導整個交手過程的機會。抽腿的物理力學也會創造出控制力降低的短暫窗口，這在下位的人全力投入進入動作時是不存在的。逃脫過程中的每一刻，都是潛在的 passing 機會。",
+    "answer_line": "防守讓他們變得被動",
+    "distractors": {
+     "plausible": [
+      "他們身體會更快疲勞",
+      "他們會失去所有的 guard retention 能力"
+     ],
+     "trap": [
+      "放鬆壓力，讓他們恢復"
+     ]
+    }
+   }
+  ]
+ }
+}

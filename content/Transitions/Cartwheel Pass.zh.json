@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Cartwheel Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Cartwheel Pass 的主要目標是什麼？",
+    "answer": "主要目標是完全繞過對手的 inverted guard 結構，直接越過他們抬高的雙腿，完全避開腿部纏繞，並在他們來得及重新組織防守之前，直接落地建立 side control 並立即施加壓力。",
+    "answer_line": "繞過 guard，落地建立 side control",
+    "distractors": {
+     "plausible": [
+      "先困住雙腿再繞過去 pass",
+      "直接落地進 mount"
+     ],
+     "trap": [
+      "先跟腿部纏繞糾纏"
+     ]
+    }
+   },
+   {
+    "question": "你從什麼位置開始執行 Cartwheel Pass？",
+    "answer": "這個技巧是從 Grasshopper Guard Top 開始，具體來說是面對一個已經建立 inverted guard、髖部和雙腿抬高、威脅腿部纏繞或 sweep 的對手時。",
+    "answer_line": "Grasshopper Guard Top",
+    "distractors": {
+     "plausible": [
+      "50-50 Guard Top",
+      "Reverse De La Riva Top"
+     ],
+     "trap": [
+      "Grasshopper Guard Bottom"
+     ]
+    }
+   },
+   {
+    "question": "發動 cartwheel 時，你的雙手應該放在哪裡？",
+    "answer": "雙手必須穩穩撐在對手髖部旁邊的地面上，而不是撐在他們身上。這個位置能在你旋轉時提供穩定的支撐，同時讓你的手臂遠離可能的困陷，並確保整個 pass 過程中軌跡的一致性。",
+    "answer_line": "雙手撐在髖部旁邊的地面",
+    "distractors": {
+     "plausible": [
+      "雙手放在對手的膝蓋上",
+      "雙手放在對手的胸口上"
+     ],
+     "trap": [
+      "抓住對手遠側的腳踝"
+     ]
+    }
+   },
+   {
+    "question": "對手開始追蹤你的動作，跟著旋轉他的 inversion——你該如何回應？",
+    "answer": "放棄這次 cartwheel 的嘗試，立刻繞回你原本那一側。利用他們的旋轉反過來對付他們，攻擊此刻已經暴露出來的另一側角度，因為他們全力追隨你的動作，已經在別處創造了破綻。",
+    "answer_line": "放棄，攻擊另一側的破綻",
+    "distractors": {
+     "plausible": [
+      "加快速度搶在他們旋轉之前",
+      "轉身途中改成 leg drag"
+     ],
+     "trap": [
+      "更用力繼續追著他們的追蹤動作"
+     ]
+    }
+   },
+   {
+    "question": "嘗試 Cartwheel Pass 的最佳時機是什麼？",
+    "answer": "最佳時機是對手已經深深投入他的 inversion，雙腿的方向已經偏離你打算通過的路線。如果在他們還在主動調整、或雙腿朝你伸展過來時嘗試，成功率會大幅降低，反擊的風險也會提高。",
+    "answer_line": "雙腿方向已經偏離通道",
+    "distractors": {
+     "plausible": [
+      "雙腿正在調整、失去平衡時",
+      "guard 一 invert 就馬上做"
+     ],
+     "trap": [
+      "他們雙腿朝你伸展過來時"
+     ]
+    }
+   },
+   {
+    "question": "在 cartwheel 旋轉過程中猶豫，會有什麼後果？",
+    "answer": "猶豫會給對手時間認出這是一次 pass，調整他們的腿部位置，用 hooks 勾住你的髖部，或伸腿攔截你的軌跡，把你拉進腿部纏繞，或設置 sweep。",
+    "answer_line": "被纏繞困住或被 sweep",
+    "distractors": {
+     "plausible": [
+      "失去 pass 機會、重置回 guard",
+      "對手站起來逃脫"
+     ],
+     "trap": [
+      "什麼都不會發生，旋轉照樣安全繼續"
+     ]
+    }
+   },
+   {
+    "question": "完成 cartwheel 之後，你應該如何落地以取得最大控制？",
+    "answer": "先用靠近髖部那側的膝蓋落地，立刻用胸口垂直壓過對手的軀幹。落地的同時建立 crossface，並封堵他們遠側的髖部——鞏固控制必須和觸地在同一瞬間完成。",
+    "answer_line": "膝蓋先落地、crossface、封堵髖部",
+    "distractors": {
+     "plausible": [
+      "雙膝先落地，再做 crossface",
+      "胸口先接觸，再控制髖部"
+     ],
+     "trap": [
+      "先坐回去控制雙腿"
+     ]
+    }
+   },
+   {
+    "question": "在你發動 cartwheel 時，對手朝你伸腿——你該做什麼調整？",
+    "answer": "提高你 cartwheel 的高度和旋轉速度，清開伸展過來的腿，並維持對這次 pass 的投入。或者，如果他們的腿在動作早期就勾住了你，就立刻轉換成 back step pass，而不要硬撐這個做不完整的 cartwheel。",
+    "answer_line": "加快速度，或改成 back step",
+    "distractors": {
+     "plausible": [
+      "把腿壓下去繼續做",
+      "抓住伸展過來的那條腿完成"
+     ],
+     "trap": [
+      "還是硬把旋轉做完"
+     ]
+    }
+   },
+   {
+    "question": "在 cartwheel 旋轉過程中，你應該產生什麼方向的力量？",
+    "answer": "力量應該是側向且向上的，形成一道弧線，帶著你的身體越過並繞過對手的 guard 結構。動量必須足夠完全清開他們抬高的雙腿，同時落地要夠靠近，才能立即建立壓力。",
+    "answer_line": "側向且向上的弧線",
+    "distractors": {
+     "plausible": [
+      "純粹垂直向上跳",
+      "向前施壓推進"
+     ],
+     "trap": [
+      "向下施力壓進雙腿"
+     ]
+    }
+   },
+   {
+    "question": "Cartwheel Pass 如何跟其他對付 inverted guard 的 pass 技巧結合運用？",
+    "answer": "Cartwheel Pass 是一種帶有運動天賦的意外元素，能與 back step 或 leg drag 這類較為按部就班的 pass 互相搭配。它的威脅會讓對手不得不提防空中的 pass，這在他們為此調整防守時，會為地面型的 pass 創造機會。",
+    "answer_line": "威脅能為地面 pass 開路",
+    "distractors": {
+     "plausible": [
+      "取代 back step passing",
+      "只在終結時有用"
+     ],
+     "trap": [
+      "每次嘗試都狂用這招"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "cartwheel pass 正在被設置時，最早的辨識線索是什麼？",
+    "answer": "最早的線索是 pass 的一方開始沿著你 guard 的邊緣側向繞行，而不是直接跟你的雙腿糾纏。這種大範圍的繞行動作，加上脫離腿部接觸，代表他們正在你身體旁邊找一條淨空的通道，準備撐手發動 cartwheel 旋轉。",
+    "answer_line": "大範圍繞行，脫離腿部接觸",
+    "distractors": {
+     "plausible": [
+      "雙手深深抓住兩隻腳踝",
+      "向前壓向髖部"
+     ],
+     "trap": [
+      "突然抓 double leg"
+     ]
+    }
+   },
+   {
+    "question": "對手已經撐手、開始做 cartwheel 了——此時你最好的防守選擇是什麼？",
+    "answer": "到了這個較晚的階段，你最好的選擇是在他們空中的軌跡下方做 Granby roll，翻轉面向他們，並在他們落地時重新建立 guard 接觸。或者，準備在他們落地時用雙腿夾住他們的髖部，在他們鞏固 side control 之前包住 closed guard。此時試圖用腿攔截通常已經太晚了。",
+    "answer_line": "做 Granby roll，落地時迎上",
+    "distractors": {
+     "plausible": [
+      "把髖部壓平做 sprawl 來擋",
+      "追著他們的手抓 grip"
+     ],
+     "trap": [
+      "現在才伸腿去攔截"
+     ]
+    }
+   },
+   {
+    "question": "防守 cartwheel pass 時，為什麼維持髖部抬高這麼重要？",
+    "answer": "髖部抬高能提供旋轉 inversion 角度、朝 pass 的一方伸腿、以及執行 Granby roll 恢復所需的機動性。當你的髖部落到地面上，你就會失去所有旋轉能力，變成一個平坦、靜止的目標，讓 pass 的一方輕易越過你，在毫無抵抗的情況下把你壓制在 side control。",
+    "answer_line": "維持機動性，防止被壓平",
+    "distractors": {
+     "plausible": [
+      "只是加快 hip escape 的速度",
+      "保護膝蓋不受壓力"
+     ],
+     "trap": [
+      "放低髖部增加重量"
+     ]
+    }
+   },
+   {
+    "question": "你該如何擺放雙腿，在不過度投入的情況下阻擋 cartwheel 的通道？",
+    "answer": "伸出一條腿朝向 pass 的一方，作為跟隨他們側向移動的追蹤屏障，同時讓另一條腿維持你的 inversion base，隨時準備換邊。這種分工配置能擋住最可能的 cartwheel 軌跡，同時保留你在他們改變方向或假動作騙向另一側時做出調整的能力。",
+    "answer_line": "一條腿追蹤，一條腿當 base",
+    "distractors": {
+     "plausible": [
+      "雙腿都朝 pass 的一方伸出",
+      "雙腿都收回胸口"
+     ],
+     "trap": [
+      "雙腿都追向同一側"
+     ]
+    }
+   },
+   {
+    "question": "pass 的一方假動作往一側做 cartwheel，接著又切換方向——你要如何避免被這個假動作騙到？",
+    "answer": "當你察覺側向移動時，避免把雙腿都投入同一側。讓一條腿當作可移動的屏障，另一條腿當 base，這樣在方向改變時，你就能快速轉動你的 inversion 角度。要對撐手的動作做出反應，而不是對一開始的繞行動作反應——真正的 cartwheel 需要一隻手確實撐在地上，這比腳步動作更難假裝。",
+    "answer_line": "對撐手反應，而不是對腳步反應",
+    "distractors": {
+     "plausible": [
+      "完全模仿他們的腳步",
+      "提早投入較強的那一側"
+     ],
+     "trap": [
+      "快速追著繞行的動作跑"
+     ]
+    }
+   }
+  ]
+ }
+}

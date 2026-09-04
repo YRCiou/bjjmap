@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Sweep from Outside Ashi.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 outside ashi-garami 發動 counter sweep 的最佳時機窗口是什麼？",
+    "answer": "最佳時機窗口出現在對手於逃脫嘗試中主動轉移體重的時候——具體來說，是他們站起身、往前發力想要 stack，或是側向轉動髖部想要抽出腿的那一刻。sweep 必須在這個移動階段發動，因為體重的位移正是製造技術所需破勢的關鍵。若在對手姿勢穩定的靜態情況下嘗試 sweep，效果會非常有限，因為此時沒有可利用的體重轉移能轉化成 sweep 的動能。",
+    "answer_line": "在對方逃脫轉移體重時發動",
+    "distractors": {
+     "plausible": [
+      "剛進入 ashi 之後立刻做",
+      "等他們完全站起來之後"
+     ],
+     "trap": [
+      "等他們完全站穩後再做"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試 counter sweep 之前，你的 figure-4 配置必須符合什麼條件？",
+    "answer": "figure-4 必須夠緊，才能在 sweep 過程中發揮機械槓桿的作用、固定住對手的腿，但也要夠鬆，才能讓你的髖部保有產生 sweep 力量所需的活動度。你外側的腿跨過他們大腿是主要的槓桿臂，而內側的腿則維持三角式的 hook。如果 figure-4 太鬆，對手會在 sweep 過程中把腿抽出去；如果太緊，你就無法產生足夠的髖部旋轉來製造破勢的力量。",
+    "answer_line": "槓桿要緊，髖部要能動",
+    "distractors": {
+     "plausible": [
+      "盡量夾到最緊",
+      "鬆到可以自由旋轉"
+     ],
+     "trap": [
+      "鎖死它，不管髖部空間"
+     ]
+    }
+   },
+   {
+    "question": "哪一種髖部動作能在 counter sweep 中產生主要的力量？",
+    "answer": "爆發性、向前且帶旋轉的髖部發力，會產生主要的 sweep 力量。髖部的作用就像活塞，撞進對手因逃脫動作而在 base 上留出的空隙。髖伸肌與核心旋轉肌群所產生的力量，遠大於手臂拉扯，這也是為什麼練習者只靠上半身力量時 sweep 會失敗。髖部發力的方向必須與對手體重位移的向量一致，才能發揮最大效果。",
+    "answer_line": "爆發性向前髖部旋轉",
+    "distractors": {
+     "plausible": [
+      "用雙手用力拉",
+      "緩慢穩定地施加髖部壓力"
+     ],
+     "trap": [
+      "用手臂硬把腿扯過來"
+     ]
+    }
+   },
+   {
+    "question": "counter sweep 對上有經驗的柔術選手時，最常見的失敗原因是什麼？",
+    "answer": "最常見的失敗，是在對手已經安頓好 base、體重維持平衡的靜態情況下嘗試 sweep。有經驗的柔術選手會識破 sweep 的佈局，並嚴守自己的逃脫機制，不會提供所需的體重位移。第二常見的失敗，是太早放鬆 figure-4，這會在 sweep 產生任何有意義的破勢之前，就給對手一個抽腿逃脫的機會。",
+    "answer_line": "在靜態姿勢下嘗試 sweep",
+    "distractors": {
+     "plausible": [
+      "太早放鬆 figure-4",
+      "上半身 grip 纏鬥不佳"
+     ],
+     "trap": [
+      "把 figure-4 夾得太緊"
+     ]
+    }
+   },
+   {
+    "question": "在 counter sweep 過程中，你的上半身 grip 發揮什麼作用？",
+    "answer": "上半身的 grip 有兩個關鍵作用：引導對手倒下的軌跡，以及阻止他們撐地恢復 base。近側的 collar tie 或手腕控制，會把對手引向 sweep 的方向，同時阻擋他們空出的手撐地。如果沒有上半身的 grip，對手一感覺到破勢就會立刻撐地，讓 sweep 的力量完全失效。手臂應該用來控制與引導，而不是作為主要的力量來源。",
+    "answer_line": "引導倒下方向，擋住撐地",
+    "distractors": {
+     "plausible": [
+      "先把他們拉向自己",
+      "用 grip 纏鬥爭取 submission"
+     ],
+     "trap": [
+      "放開 grip 改用手臂出力"
+     ]
+    }
+   },
+   {
+    "question": "對手用遠側的手撐地來阻止 sweep——你該如何調整？",
+    "answer": "立刻用 two-on-one grip 或 kimura 威脅來攻擊那隻撐地的手臂。撐地的手臂是伸展且承重的，在結構上容易受到上半身 submission 攻擊。這會製造一個兩難：對手必須在維持防 sweep 的撐地姿勢，與保護自己的手臂之間做選擇。如果他們收回撐地的手來防守 kimura 威脅，他們的 base 就沒了，你就能重新發動 sweep。從 sweep 銜接到手臂攻擊，是這個位置的主要組合技。",
+    "answer_line": "用 kimura 攻擊撐地手臂",
+    "distractors": {
+     "plausible": [
+      "改換另一個 sweep",
+      "更用力推過他們的撐地手"
+     ],
+     "trap": [
+      "放開 grip 重新 sweep"
+     ]
+    }
+   },
+   {
+    "question": "相對於對手的逃脫動作，你應該往哪個方向 sweep？",
+    "answer": "往垂直於對手體重投入方向、或沿著同一個向量的方向 sweep。如果他們往前發力想 stack，就利用你 outside ashi 纏繞的角度，把他們轉向側邊。如果他們向上站起，就往他們下方空出來的空間向前發力。如果他們側向旋轉髖部想抽腿，就朝他們旋轉的方向進一步 sweep 他們。逆著他們體重投入的方向 sweep，等於是撞進他們最穩固的 base，會大幅降低成功機率。",
+    "answer_line": "沿著對方的體重向量 sweep",
+    "distractors": {
+     "plausible": [
+      "永遠往同一側 sweep",
+      "永遠直接往後 sweep"
+     ],
+     "trap": [
+      "撞進他們最穩的 base"
+     ]
+    }
+   },
+   {
+    "question": "如果 counter sweep 失敗、你失去了纏繞的腿，你的立即優先事項是什麼？",
+    "answer": "你的立即優先事項，是從你被壓縮成的 open guard 姿勢中恢復 guard。用前臂在對手肩膀上建立防守性的 frame，把腳插在他們的髖部或二頭肌上創造距離，並設法重新建立腿部纏繞，或是回到標準的 guard 姿勢。不要盲目地掙扎爭取上位——有控制地恢復 guard，能保住你的防守結構，避免在轉換過程中被過腿。",
+    "answer_line": "用 frame 恢復 guard",
+    "distractors": {
+     "plausible": [
+      "turtle 起來拖延時間",
+      "急著衝回去攻腿"
+     ],
+     "trap": [
+      "盲目掙扎爭取上位控制"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從腿部攻擊轉換到 sweep 嘗試，最早能察覺的辨識線索是什麼？",
+    "answer": "最早的線索是對手手臂動作的改變——當他們從控制你的腳跟或威脅 submission，轉變為空出手臂、伸向地墊準備撐地，或伸向你的上半身尋求控制性 grip。這個手臂重新定位，會比髖部發力早出現一段關鍵的時間窗口。此外，他們的髖部角度也可能從垂直、以 submission 為導向的姿勢，轉變為更朝前、以 sweep 為導向的排列。",
+    "answer_line": "手臂空出來準備撐地",
+    "distractors": {
+     "plausible": [
+      "他們的腿先開始動",
+      "他們的髖部角度轉向前方"
+     ],
+     "trap": [
+      "他們收緊對你腳跟的 grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼對手的 figure-4 在他們嘗試 sweep 時必然會鬆開，你要如何利用這一點？",
+    "answer": "對手必須產生髖部活動度才能製造 sweep 的力量，這就要求他們放鬆原本緊夾、屬於有效 outside ashi 控制特徵的 figure-4。最大限度夾緊的 figure-4，會阻止 sweep 所需的髖部旋轉與向前發力。這種鬆動會創造出一個抽腿逃脫的窗口，而這個窗口在他們緊緊纏繞時並不存在。透過在他們發動 sweep 的當下加速抽腿，你就能利用他們 sweep 機制必然要求鬆開原本阻止你逃脫的控制，這個時機來逃脫纏繞。",
+    "answer_line": "他們的 sweep 逼得鎖必須鬆開",
+    "distractors": {
+     "plausible": [
+      "他們鬆開是為了換 submission",
+      "他們鬆開是為了重整 grip"
+     ],
+     "trap": [
+      "等他們重新夾緊再行動"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到對手正從 outside ashi-garami 發動 sweep 時，應該如何調整你的 base？",
+    "answer": "立刻把空出的手撐在 sweep 方向對側的地墊上，加寬你的 base。同時把髖部往後 sprawl，降低你的重心，增加對手完成逆轉所需要推進的距離。讓你的體重分散在寬廣的支撐 base 上，而不是垂直堆疊。如果 sweep 的方向不明確，預設把手撐在遠離對手上半身 grip 的那一側，因為那是最可能的 sweep 軌跡。",
+    "answer_line": "撐寬、髖部壓低 sprawl",
+    "distractors": {
+     "plausible": [
+      "撐在 sweep 方向那一側",
+      "把膝蓋緊緊收攏"
+     ],
+     "trap": [
+      "把體重垂直堆疊"
+     ]
+    }
+   },
+   {
+    "question": "在仍處於腿部纏繞中時，過度投入防 sweep 的最大風險是什麼？",
+    "answer": "過度投入防 sweep 可能會讓你的逃脫進度完全停滯，讓你無限期地被困在 outside ashi-garami 中。對手可以在 sweep 威脅與 submission 威脅之間輪流切換，讓你一直處於被動反應，無法推進你的逃脫序列。最佳的做法是在防 sweep 與持續推進逃脫之間取得平衡——你的逃脫動作應該把防 sweep 的 base 維持融合進去，而不是當成分開、依序執行的任務。",
+    "answer_line": "讓你的逃脫進度停滯",
+    "distractors": {
+     "plausible": [
+      "浪費太多 grip 力氣",
+      "洩漏你下一步動作"
+     ],
+     "trap": [
+      "完全忽略 sweep 威脅"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候在策略上，完全脫離會比原地防守 sweep 更好？",
+    "answer": "當 sweep 已經產生相當大的動能、你的 base 已經無法挽回地被破壞時，策略性脫離是合適的選擇。如果你感覺體重正被壓上對手髖部、卻沒有任何撐地點可用，硬要守住姿勢只會導致對手有控制地把你 sweep 到 side control。爆發性站起並脫離會犧牲你的逃脫位置，但能避免最糟的結果。判斷的關鍵在於：你是否能在對手完成 sweep 之前建立撐地點——如果不行，立刻脫離就是正確的選擇。",
+    "answer_line": "沒有撐地點，base 已被破壞",
+    "distractors": {
+     "plausible": [
+      "守住姿勢對抗撐地",
+      "試圖用力量硬扛 sweep"
+     ],
+     "trap": [
+      "留下來繼續 grip 纏鬥"
+     ]
+    }
+   }
+  ]
+ }
+}

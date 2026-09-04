@@ -1,0 +1,213 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼繞圈式的手肘動作，比直接向後拉更能有效破解 overhook？",
+    "answer": "直接向後拉，正好對抗 overhook 最強的施力軸，也就是下位者透過二頭肌與闊背肌發力、槓桿最大的方向。繞圈動作則攻擊握法最弱的一點：讓手肘穿過 overhook 與你軀幹之間的縫隙旋轉出去，這裡下位者幾乎沒有槓桿可以抵抗。繞圈路徑同時能維持你的前壓與 base，而向後拉則會同時破壞這兩者，還會把機會送給對方的 sweep。",
+    "answer_line": "手肘繞圈穿過縫隙",
+    "distractors": {
+     "plausible": [
+      "直接用力向後拉",
+      "硬把手臂抽出來"
+     ],
+     "trap": [
+      "向後拉，失去 base"
+     ]
+    }
+   },
+   {
+    "question": "對手的 overhook 極深，手已經鎖到你的肩胛骨後方——這時你該優先選哪種破解方式，為什麼？",
+    "answer": "優先選擇「先建立 posture 再施壓」的破解法，或是雙手夾抽（two-on-one peel）。overhook 極深時，標準的手肘繞圈會非常困難，因為根本沒有縫隙可以繞。先建立 posture 的做法，透過最大程度的髖部伸展把對方手臂拉向完全伸直，降低他們的機械優勢，創造出所需的空間。如果只靠 posture 還不夠，雙手夾抽則用兩隻手產生足夠的槓桿，把深鎖的 overhook 從你肩上剝開。",
+    "answer_line": "先建立 posture 或雙手夾抽",
+    "distractors": {
+     "plausible": [
+      "硬做標準手肘繞圈",
+      "雙手夾抽，跳過建立 posture"
+     ],
+     "trap": [
+      "直接把手臂拉直抽出"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試任何破解 overhook 之前，有哪些關鍵的 base 調整？",
+    "answer": "膝蓋至少張開到與肩同寬，建立對抗 sweep 的側向穩定性。把髖部向前推，建立姿態基礎，避免被拉平。頭部放在 overhook 對側，避免被 cross-face 控制。重量透過下半身分散，而不是靠手支撐。這樣的 base 能防止下位者趁你把注意力放在搶手的過程中，趁機發動 sweep。",
+    "answer_line": "膝寬、髖前推、頭轉對側",
+    "distractors": {
+     "plausible": [
+      "窄 base，髖部前推",
+      "頭放在 overhook 那一側"
+     ],
+     "trap": [
+      "重量壓在手上，向前傾"
+     ]
+    }
+   },
+   {
+    "question": "你開始做手肘繞圈，卻感覺對手的腿正跨過你的肩膀——這代表什麼，你該怎麼回應？",
+    "answer": "下位者正利用你手臂開始脫離 overhook 時產生的空間，試圖做 triangle choke。立刻把正在脫困的手肘夾緊肋骨，阻止對方的腿鎖到你的頸部。把 posture 向後撐住，讓頭部遠離即將閉合的 triangle。如果腿已經跨過來了，立刻利用你在破解過程中建立的 posture 做 stack 壓制。在 triangle 威脅解除之前，不要繼續原本的破解動作。",
+    "answer_line": "夾緊手肘，posture 向後撐",
+    "distractors": {
+     "plausible": [
+      "用手把腿推開",
+      "加快手肘繞圈速度"
+     ],
+     "trap": [
+      "繼續穿過去做繞圈"
+     ]
+    }
+   },
+   {
+    "question": "成功脫離 overhook 之後，最關鍵的立即動作是什麼？",
+    "answer": "立刻建立完整的 closed guard 上位 posture，雙手放在對方的髖部或二頭肌上，脊椎打直，並透過胸口維持前壓。最常見的錯誤，是在脫困後停頓下來，這會給下位者一個窗口，讓他們重新建立 overhook 或轉換到其他的 grip。破解動作在你穩定進入具有主導手位的姿態之前，都還沒真正完成，這樣才能防止對方重新搶 grip。",
+    "answer_line": "穩定進入 posture 上位 guard",
+    "distractors": {
+     "plausible": [
+      "停下來喘口氣",
+      "立刻尋找 submission"
+     ],
+     "trap": [
+      "坐回去，放鬆 grip"
+     ]
+    }
+   },
+   {
+    "question": "如何判斷發動 overhook 破解的最佳時機？",
+    "answer": "最好的時機窗口，出現在下位者切換攻勢、調整握法深度，或試圖用髖部製造角度的時候。在這些轉換過程中，overhook 的張力會暫時降低，因為下位者正把力量導向別處。留意他們放開其他 grip 重新搶握、移動髖部準備 sweep，或調整 overhook 手位的時刻。在張力降低的這些窗口發動破解，成功率會遠高於硬碰一個完全鎖死的 overhook。",
+    "answer_line": "趁對方切換 grip 時破解",
+    "distractors": {
+     "plausible": [
+      "overhook 感覺最深時破解",
+      "對方重新加深 grip 時破解"
+     ],
+     "trap": [
+      "等對方完全投入 overhook 再破解"
+     ]
+    }
+   },
+   {
+    "question": "在開始破解之前，你必須先控制 overhook 手臂的哪個部位？在 gi 和 no-gi 之間有什麼不同？",
+    "answer": "在任何繞圈動作開始之前，先用空出來的那隻手控制 overhook 手臂的手腕或前臂。在 gi 中，抓住袖口手腕處，作為不會滑脫的機械式錨點；在 no-gi 中，用沒有大拇指扣住的 C-grip 環住手腕，四指包住關節。這個 grip 能防止對手把 overhook 加深，同時給你一個固定的參考點，引導受困的手肘沿著繞圈路徑脫離糾纏。",
+    "answer_line": "控制手腕：抓袖口或用 C-grip",
+    "distractors": {
+     "plausible": [
+      "抓肱三頭肌，不抓手腕",
+      "先抓 collar 再抓手腕"
+     ],
+     "trap": [
+      "不抓 grip，直接繞手肘"
+     ]
+    }
+   },
+   {
+    "question": "在你決定破解 overhook 而不是繼續防守之前，必須先滿足哪些條件？",
+    "answer": "你需要至少一隻真正空出來的手，沒有被其他 grip 纏住；base 至少部分恢復，雙膝著地以防守 sweep；頭部位於 overhook 對側，避免被 cross-face 控制。如果你的空手還被佔用，或 base 已經崩潰，先恢復這些前提條件——在不具備這些條件時硬做破解，等於是在搶 grip 的過程中，把 sweep 或 submission 的機會拱手讓給下位者。",
+    "answer_line": "先空手、穩 base、頭轉對側",
+    "distractors": {
+     "plausible": [
+      "只要有空手就夠了",
+      "base 恢復了，頭朝哪都行"
+     ],
+     "trap": [
+      "手還被纏住就直接破解"
+     ]
+    }
+   },
+   {
+    "question": "對手每次你一 posture 起來，就把 overhook 重新加深，標準破解一直卡住——這時你該改做什麼，而不是硬幹？",
+    "answer": "不要再在 overhook 最強的軸線上硬碰硬，換一個問題丟給對方。最高機率的做法是站起來保持 base，這樣能拉開胸貼胸的距離，讓 overhook 賴以維持的接觸消失，槓桿隨之瓦解。另外，如果對方重新搶握時手肘外翻，可以直接攻擊那隻手臂，而不是去剝它。繼續死磕一個卡住的手肘繞圈，只會不斷餵養對方的 hip bump 與 overhook sweep 時機。",
+    "answer_line": "站起來保持 base 脫離接觸",
+    "distractors": {
+     "plausible": [
+      "更用力做手肘繞圈",
+      "換成先建立 posture 的破解法"
+     ],
+     "trap": [
+      "繼續磨同一個繞圈更久"
+     ]
+    }
+   },
+   {
+    "question": "破解過程中，你感覺自己的 base 變窄，重心開始往 overhook 那一側偏移——這代表什麼，你該如何回應？",
+    "answer": "這代表下位者正在醞釀 hip bump 或 overhook sweep，趁著你的注意力全放在搶 grip 上發動。立刻把膝蓋張開，把肩膀壓力向下灌到 overhook 那一側，把對方壓平，必要時把空手撐在墊子上抵消 sweep。在恢復穩定 base 之前先不要繼續破解——絕對不要在 base 已經失衡的情況下繼續繞手肘，因為繞圈動作加上狹窄的 base，正好是對方 sweep 所需要的那股能量。",
+    "answer_line": "拉寬 base，壓平對方髖部",
+    "distractors": {
+     "plausible": [
+      "撐空手，繼續繞圈",
+      "加快速度做完破解"
+     ],
+     "trap": [
+      "不理會，繼續完成破解"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "決定你的 overhook 是否容易被標準手肘繞圈破解，最重要的握法深度指標是什麼？",
+    "answer": "關鍵指標在於你的 overhook 手抓在哪裡。如果你的手在對方的闊背肌或肩胛骨上，overhook 就夠深，能抵抗標準的手肘繞圈，因為你的手臂與對方軀幹之間幾乎沒有縫隙。如果你的手滑到肱三頭肌位置，overhook 就偏淺，上位者能輕易找到空間把手肘繞過去。持續監控並重新加深你的 grip，是維持可防守 overhook 控制的關鍵。",
+    "answer_line": "抓闊背肌或肩胛代表夠深",
+    "distractors": {
+     "plausible": [
+      "抓肱三頭肌代表控制夠深",
+      "重點在手肘角度，不是手位"
+     ],
+     "trap": [
+      "抓肱三頭肌就無法被破解"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在對方嘗試破解時反擊，會比單純防守性地保持 grip 更有效？",
+    "answer": "反擊利用了破解嘗試的根本弱點：上位者必須把注意力和身體資源投入搶 grip 的過程，這會破壞他們的 base、分散他們的專注力，並製造破綻。單純防守性地保持 grip，最終還是會失敗，因為上位者可以有條不紊地執行破解機制而不受任何懲罰。反擊會製造一種兩難：嘗試破解就要承擔被 sweep 或 submission 的風險，讓上位者遲疑，讓你能維持 overhook 更久，展開更長的進攻序列。",
+    "answer_line": "反擊讓破解變得有風險",
+    "distractors": {
+     "plausible": [
+      "純粹保持 grip 長期會贏",
+      "只在對方完全投入後才反擊"
+     ],
+     "trap": [
+      "絕不反擊，只顧著抓緊"
+     ]
+    }
+   },
+   {
+    "question": "你感覺上位者開始把髖部向前推，準備先建立 posture 再破解——你該立刻怎麼回應？",
+    "answer": "把 overhook 那隻手肘更用力拉緊貼著你的髖部，腳跟蹬入對方的下背，防止他們的髖部拉開距離。用空出來的那隻手抓住對方後腦或 collar，製造第二個錨點把他們往前拉。如果他們儘管做了這些調整還是持續建立 posture，趁對方重心被抬高時立刻轉換成 hip bump sweep，借力使力。先建立 posture 的破解需要對方製造距離，所以用手臂和腿的合力把他們夾緊，就能封死他們所需要的分離空間。",
+    "answer_line": "拉緊手肘，腳跟蹬下背",
+    "distractors": {
+     "plausible": [
+      "放開 overhook，改抓雙手腕",
+      "把對方髖部推開重來"
+     ],
+     "trap": [
+      "放鬆雙腿，製造混戰空間"
+     ]
+    }
+   },
+   {
+    "question": "防守 overhook 破解嘗試時，你該如何調整腿部的發力？",
+    "answer": "加強腿部主動發力，膝蓋夾緊對方肋骨，腳跟牢牢蹬入對方下背。這會形成一個封閉的動力鏈，配合 overhook 一起阻止上位者建立 posture 所需的髖部伸展。定期用力擠壓雙腿，破壞對方建立的任何 posture 分離。如果對方成功建立部分 posture，用一隻腿勾住他們 overhook 那一側的膝蓋後方，阻止他們拉寬 base 來完成破解。",
+    "answer_line": "夾緊膝蓋，腳跟蹬下背",
+    "distractors": {
+     "plausible": [
+      "拉寬膝蓋增加 base",
+      "雙腿環繞對方腰部"
+     ],
+     "trap": [
+      "放開雙腿，只專注 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Break Overhook Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

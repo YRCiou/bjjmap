@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Frame and Turn.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Frame and Turn 的主要目標是什麼？",
+        "answer": "主要目標是降低脊椎旋轉，恢復到 Turtle 或 Half Guard 這類可防守的位置。透過有系統地建立 frame 並轉向對手，你能把脊椎從被扭轉的不利姿勢重新對齊，消除讓 Twister Control 如此危險的力學優勢。",
+        "answer_line": "把脊椎轉回安全姿勢",
+        "distractors": {
+          "plausible": [
+            "直接逃到 full guard",
+            "立即翻轉對手"
+          ],
+          "trap": [
+            "保持扭轉姿勢硬拚出去"
+          ]
+        }
+      },
+      {
+        "question": "為什麼這個逃脫要轉向對手，而不是轉離對手？",
+        "answer": "轉向對手能讓你的肩膀和髖部重新對齊，降低脊椎的旋轉程度。轉離對手反而會增加脊椎所承受的扭轉力，讓局面更糟，甚至可能加速受傷或被降伏。這個違反直覺的內轉動作，正是這個逃脫技術有效的關鍵所在。",
+        "answer_line": "內轉能降低脊椎旋轉",
+        "distractors": {
+          "plausible": [
+            "兩個方向的負荷是一樣的",
+            "保持不動、只靠 frame 撐住"
+          ],
+          "trap": [
+            "轉離對手"
+          ]
+        }
+      },
+      {
+        "question": "如果你在嘗試 Frame and Turn 時，對手已經鎖緊了降伏技握法，你該怎麼辦？",
+        "answer": "立刻中止轉身動作，回到防禦性 frame。如果降伏技已經完全鎖死，毫不猶豫地拍地投降——脊椎和頸部的安全遠比位置上的考量重要。等對手調整姿勢之後再重新嘗試逃脫，因為在降伏技已鎖死的情況下硬是繼續轉身，會有嚴重受傷的風險。",
+        "answer_line": "中止轉身，鎖死就拍",
+        "distractors": {
+          "plausible": [
+            "重設 frame 並維持位置",
+            "撐著等待，之後再嘗試"
+          ],
+          "trap": [
+            "硬撐過去，把轉身動作做完"
+          ]
+        }
+      },
+      {
+        "question": "執行 Frame and Turn 需要哪些關鍵的握法和 frame？",
+        "answer": "內側手臂在對手的頸部或肩膀建立前臂 frame，防止被進一步壓平。空出來的手則保護頸部，可以護住自己的肩膀，或是擋住 guillotine 的進入路徑。這些 frame 建立起結構性的屏障，阻止對手在你進行逃脫動作時進一步加深控制。",
+        "answer_line": "frame 頸部，手擋 guillotine",
+        "distractors": {
+          "plausible": [
+            "先 underhook 對方遠側手臂",
+            "抓住對方的遠側腿"
+          ],
+          "trap": [
+            "雙手撐地往外推"
+          ]
+        }
+      },
+      {
+        "question": "發動轉身動作的最佳時機是什麼時候？",
+        "answer": "最佳的轉身時機，是對手對腿部的控制稍微鬆動的時候，這通常發生在他們調整握法或轉換攻擊之間。你應該在投入轉身之前，已經建立好 frame 並開始鬆開腿部束縛。絕對不要在腿部控制處於最緊的時候轉身——要等待對手調整所打開的空檔。",
+        "answer_line": "腿部控制鬆動時再轉身",
+        "distractors": {
+          "plausible": [
+            "frame 一設好就立刻轉身",
+            "一接觸就立刻轉身"
+          ],
+          "trap": [
+            "腿部控制最緊時轉身"
+          ]
+        }
+      },
+      {
+        "question": "在 Frame and Turn 中，你如何處理被困住的那條腿？",
+        "answer": "用空出來的腿去推對手控制你的那條腿，一點一點地製造空間，而不是嘗試爆發式抽腿。把膝蓋往外角度移動，削弱對方 leg hook 的效果。維持 frame 的同時做小幅度的動作，只有在感覺到腿部控制鬆動時才投入轉身。",
+        "answer_line": "推腿，膝蓋往外角度移動",
+        "distractors": {
+          "plausible": [
+            "用力猛抽腿",
+            "直接踢腿逃脫"
+          ],
+          "trap": [
+            "在對方緊抓時硬抽腿"
+          ]
+        }
+      },
+      {
+        "question": "成功執行 Frame and Turn 後，可以到達哪些恢復位置？",
+        "answer": "兩個主要的恢復位置是 Turtle（完成轉身、把膝蓋收到身體下方建立底座）或 Half Guard（繼續轉身面向對手並插入 knee shield）。Turtle 較常見、也較容易達成，而 Half Guard 需要更完整的旋轉，但能提供更好的 guard 保持選項。",
+        "answer_line": "Turtle 或 Half Guard",
+        "distractors": {
+          "plausible": [
+            "Full guard 或 mount",
+            "Side control 或 back mount"
+          ],
+          "trap": [
+            "反轉回 Twister Control"
+          ]
+        }
+      },
+      {
+        "question": "在你只建立了部分 frame 的情況下，對手開始尋找 Twister 的完成點——你該如何調整？",
+        "answer": "立即優先保護頸部，加強收下巴的動作，並把空出來的手移到位置防禦頸部扭轉。暫時放棄腿部的解放動作，全心專注於阻止降伏技被鎖死。只有在化解眼前的降伏威脅之後，才恢復執行逃脫動作，因為 Twister 的完成有相當高的受傷風險。",
+        "answer_line": "先護頸，暫停腿部動作",
+        "distractors": {
+          "plausible": [
+            "還是繼續做腿部解放",
+            "加快轉身速度以逃脫"
+          ],
+          "trap": [
+            "不管頸部，硬轉身"
+          ]
+        }
+      },
+      {
+        "question": "執行轉身動作時，力量的關鍵方向是什麼？",
+        "answer": "力量應該透過下方的髖部往地墊方向壓下去，同時上方的髖部旋轉並轉向對手。這會產生一個滾動的動作，降低脊椎旋轉，而不是與之對抗。你的 frame 提供支撐推蹬的支點，而髖部則產生完成轉身到 Turtle 或 Half Guard 所需要的旋轉力。",
+        "answer_line": "下方髖部下壓，上方髖部轉過去",
+        "distractors": {
+          "plausible": [
+            "兩邊髖部同時往前推",
+            "用肩膀而非髖部發力"
+          ],
+          "trap": [
+            "把上方髖部硬壓進地墊"
+          ]
+        }
+      },
+      {
+        "question": "對手跟著你的轉身動作，在你背後建立了安全帶握法——你應該接著使用什麼連續技術？",
+        "answer": "立刻轉換到標準的背後逃脫技術，例如 Back Door Escape。關鍵在於認清一件事：沒有脊椎旋轉的 back control，相較於 Twister Control 已經是相當大的位置改善。先對抗他們正在勒的那隻手，藉由轉向 underhook 那一側讓背部貼地，再有系統地嘗試脫離 hooks。",
+        "answer_line": "使用 Back Door Escape 系列",
+        "distractors": {
+          "plausible": [
+            "從頭重新開始 Frame and Turn",
+            "用 bridge 翻滾逃脫"
+          ],
+          "trap": [
+            "不動，接受 back control"
+          ]
+        }
+      },
+      {
+        "question": "為什麼這個逃脫技術特別強調呼吸控制？",
+        "answer": "Twister Control 會壓迫你的胸腔，脊椎旋轉也會限制正常的呼吸機制。恐慌性的急促呼吸會迅速消耗體力，讓有系統的逃脫變得不可能。有控制的呼吸能維持冷靜，為逃脫動作保留體力，並避免因心理恐慌而做出錯誤的技術判斷。",
+        "answer_line": "保留體力，避免恐慌",
+        "distractors": {
+          "plausible": [
+            "憋氣蓄力準備逃脫",
+            "快速呼吸以加快動作"
+          ],
+          "trap": [
+            "喘氣示意對手放鬆"
+          ]
+        }
+      },
+      {
+        "question": "成功的 Frame and Turn，和讓局面惡化的失敗嘗試，兩者差別在哪裡？",
+        "answer": "成功需要正確的順序：先建立 frame，同時保護頸部，接著鬆動腿部，然後才全力完成轉身。失敗的嘗試通常包含在建立 frame 之前就爆發式移動、轉離對手而非轉向對手、轉身轉到一半就停下，或是忽略頸部防禦。這個技術必須有條理地執行，而不是憑本能反應。",
+        "answer_line": "先 frame、護頸、鬆腿，再完整轉身",
+        "distractors": {
+          "plausible": [
+            "先轉身，再設 frame",
+            "略過護頸，快速轉身"
+          ],
+          "trap": [
+            "立刻爆發式轉身"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正在發動 Frame and Turn 時，最早能察覺到的徵兆是什麼？",
+        "answer": "最早的徵兆是下位者在你的頸部或肩膀建立前臂 frame，而不只是單純防禦頸部。這種結構性的頂撐動作，代表他們正從純粹的生存模式轉為有系統的逃脫，也預告他們接下來會開始處理被困住的那條腿。在這個階段就介入、加大壓力，會比等到轉身動作發生之後才反應有效得多。",
+        "answer_line": "前臂 frame 頂在肩膀上",
+        "distractors": {
+          "plausible": [
+            "下位者開始喘氣",
+            "下位者推你的髖部"
+          ],
+          "trap": [
+            "等到完整轉身才反應"
+          ]
+        }
+      },
+      {
+        "question": "為什麼腿部控制是防守 Frame and Turn 時最優先的重點？",
+        "answer": "腿部控制維持著 Twister Control 賴以成立的脊椎旋轉。被困住的那條腿就像一個錨點，讓下位者的髖部持續偏離肩膀方向旋轉。一旦這條腿被解放，旋轉的束縛就會消失，下位者就能自由轉身進入 Turtle 或 Half Guard。無論上半身壓力再大，都無法彌補失去腿部控制的損失。",
+        "answer_line": "腿部控制是脊椎旋轉的錨點",
+        "distractors": {
+          "plausible": [
+            "上半身壓力才是最重要的",
+            "頸部控制才是最重要的"
+          ],
+          "trap": [
+            "放開腿以重新調整握法"
+          ]
+        }
+      },
+      {
+        "question": "對手已經開始把髖部轉向你，而你無法阻止這個旋轉——最好的應對方式是什麼？",
+        "answer": "跟著轉身動作，在對方旋轉的過程中維持胸口貼背的連結，轉換到 back control。當對手轉到 Turtle 位置時，立刻著手插入 hooks，建立安全帶控制。這是可以接受的位置交換，因為 back control 仍然是進攻上的優勢位置，而硬要對抗已經投入的轉身動作，往往會導致完全失去控制。",
+        "answer_line": "跟著轉身，拿下 back control",
+        "distractors": {
+          "plausible": [
+            "對抗轉身以保住 Twister",
+            "放開所有握法重新開始"
+          ],
+          "trap": [
+            "強行把腿伸直阻止轉身"
+          ]
+        }
+      },
+      {
+        "question": "當下位者的呼吸變得有控制、有節奏時，你應該如何調整自己的壓力？",
+        "answer": "有控制的呼吸代表下位者已經從恐慌轉為有系統地執行逃脫，這意味著他們更加危險。你應該更積極地加大進攻壓力、更凶猛地搜尋降伏機會，逼他們回到被動防禦的狀態。可以在 Twister 完成威脅、guillotine 佈局和 Calf Slicer 進攻之間輪替，避免他們安定下來、按部就班地執行逃脫節奏。",
+        "answer_line": "加大壓力，更凶猛地搜尋降伏",
+        "distractors": {
+          "plausible": [
+            "放鬆讓他們完全恢復",
+            "改成純粹的位置控制"
+          ],
+          "trap": [
+            "放開腿部控制以重整節奏"
+          ]
+        }
+      },
+      {
+        "question": "在對手轉向你的當下嘗試 guillotine，這個風險與回報如何評估？",
+        "answer": "在轉身過程中嘗試 guillotine 屬於中等風險、高回報的選擇。如果成功，你要嘛完成降伏技，要嘛逼對手中止轉身、退回防禦姿勢。如果失敗，對手很可能順利轉到 Turtle，因為你在調整勒頸動作時可能會失去腿部控制。這個決定取決於你 guillotine 握法的深度——只有在轉身過程中確實抓到乾淨的下巴帶或高肘位置時，才值得投入。",
+        "answer_line": "只有握法乾淨扎實才出手",
+        "distractors": {
+          "plausible": [
+            "每次都嘗試 guillotine",
+            "太危險，永遠不要嘗試"
+          ],
+          "trap": [
+            "鬆鬆地抓住以拖慢轉身"
+          ]
+        }
+      }
+    ]
+  }
+}

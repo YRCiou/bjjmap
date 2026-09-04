@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Butterfly Hook Recovery 的主要目標是什麼？",
+    "answer": "主要目標是從防守性的 double unders bottom 位置，透過在自己與過guard者之間插入一隻或兩隻 butterfly hook，轉換回進攻性的 butterfly guard。這從根本上把整個局勢從求生存變成主動進攻，恢復你威脅 sweep、破勢與 submission 的能力。",
+    "answer_line": "插入 hook，重新取得主動",
+    "distractors": {
+     "plausible": [
+      "逃回 closed guard",
+      "立刻 sweep 對手"
+     ],
+     "trap": [
+      "turtle 起來擋住過guard者"
+     ]
+    }
+   },
+   {
+    "question": "Butterfly Hook Recovery 是從什麼位置開始的？",
+    "answer": "這個技巧從 Double Unders Bottom 開始，此時對手雙臂都穿過你的雙腿下方，施加強大的向前壓力以完成過guard。這是一個危機位置，需要立即行動以防止過guard被完成。",
+    "answer_line": "Double unders bottom",
+    "distractors": {
+     "plausible": [
+      "half guard bottom",
+      "knee slice bottom"
+     ],
+     "trap": [
+      "turtle position"
+     ]
+    }
+   },
+   {
+    "question": "Butterfly Hook Recovery 需要的關鍵 grip 是什麼？",
+    "answer": "關鍵是用手臂在對手臉部或頸部做出 framing grip 來製造空間，同時搭配上半身控制 grip（collar、underhook 或 overhook），必須在 hook 卡入的同時建立起來。frame 為插入 hook 製造空間，而上半身 grip 則防止對手再次壓垮你。",
+    "answer_line": "Frame 臉/頸 + 上半身 grip",
+    "distractors": {
+     "plausible": [
+      "雙手都抓 belt",
+      "只有 underhook，沒有 frame"
+     ],
+     "trap": [
+      "抓住對手雙腳踝"
+     ]
+    }
+   },
+   {
+    "question": "對手暫停向前壓力去調整背後的 grip——這時你該立即採取什麼動作以最大化你的 recovery 機會？",
+    "answer": "立即搭配你的 frame，做出強力的 hip escape 以創造最大的髖部移動。這是你的主要時機窗口。當你的髖部移動時，屈起內側膝蓋，趁對手因調整 grip 而重心偏移時，把腳背穿入身體之間。hook 進入的同時立刻確保 collar 或 overhook。",
+    "answer_line": "Hip escape + frame，穿入 hook",
+    "distractors": {
+     "plausible": [
+      "等待更大的空隙",
+      "把對手的髖部推開"
+     ],
+     "trap": [
+      "把髖部往後拉來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "嘗試 Butterfly Hook Recovery 的最佳時機是什麼時候？",
+    "answer": "最佳時機是在向前壓力任何瞬間減弱的時刻：調整 grip、為推進過guard而重心轉移、對手看向別處或調整重心，或是在一次失敗的過guard嘗試之後。這個窗口通常只有 1 到 2 秒。當自然出現的窗口不存在時，透過 frame 壓力與 hip escape 主動創造時機同樣重要。",
+    "answer_line": "在壓力停頓/轉移時",
+    "distractors": {
+     "plausible": [
+      "只在過guard完成之後",
+      "比賽一開始時"
+     ],
+     "trap": [
+      "等對手完全放鬆"
+     ]
+    }
+   },
+   {
+    "question": "身為上位者，你要如何應對 Butterfly Hook Recovery？",
+    "answer": "主要的應對方式是維持持續不間斷的向前壓力，不留下調整 grip 的暫停時間。如果你感覺到對手開始插入 hook，就爆發性地向前施壓，在 hook 卡入之前先困住那條腿。另一個做法是放開 double unders，backstep 到 headquarters 或 knee slice 位置，轉換到另一條過guard路線，而不是直接對抗那個 hook。",
+    "answer_line": "持續施壓，不留暫停",
+    "distractors": {
+     "plausible": [
+      "抓更緊，維持位置",
+      "加快過guard速度"
+     ],
+     "trap": [
+      "放開 grip，往後退"
+     ]
+    }
+   },
+   {
+    "question": "當對手感覺到你開始插入 hook 而向前施壓時，你該如何應變？",
+    "answer": "把對手的向前衝力轉換成 sweep 的動能。與其嘗試完成一個靜態的 hook 插入，不如利用他們的向前能量立刻做 elevation sweep。把 hook 伸入他們的髖部，underhook 住他們較遠的手臂，利用他們自身的動能把他們翻過你的身體。他們積極的反制反而變成了你的 sweep 機會。",
+    "answer_line": "把衝力轉成 elevation sweep",
+    "distractors": {
+     "plausible": [
+      "放棄 hook，往後撤",
+      "以力抗力，陷入僵局"
+     ],
+     "trap": [
+      "放手重新設置 guard"
+     ]
+    }
+   },
+   {
+    "question": "要保有插入 hook 的能力，必須維持什麼樣的關鍵髖部位置？",
+    "answer": "你必須維持髖部側向的角度，而不是讓背部完全貼平。保持一側傾斜的角度能保留 hip escape 的能力，並為 hook 進入創造出角度路徑。背部完全貼平且肩膀被壓死，會讓所有移動的選項消失，無論時機多好，插入 hook 在力學上都會變得不可能。",
+    "answer_line": "保持髖部有角度，別貼平",
+    "distractors": {
+     "plausible": [
+      "髖部正對對手",
+      "把髖部完全轉開"
+     ],
+     "trap": [
+      "貼平背部，壓死肩膀"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在 hook 插入的同時，立刻取得上半身控制如此重要？",
+    "answer": "沒有上半身控制，對手可以直接從你剛插入的 hook 上再次壓垮過來。單靠 hook 缺乏足夠的結構強度來抵抗正面的向前壓力。上半身 grip（collar、overhook、underhook）能構成一套完整的系統，防止對手向前推進，並讓你能威脅 sweep，迫使對手轉為防守姿態。",
+    "answer_line": "阻止再被壓垮，並能威脅 sweep",
+    "distractors": {
+     "plausible": [
+      "光靠 hook 就足夠",
+      "只有做 submission 時才需要"
+     ],
+     "trap": [
+      "放開 grip 以求動作更快"
+     ]
+    }
+   },
+   {
+    "question": "當雙腿都被 double unders 困住時，要如何判斷該把 butterfly hook 插入哪一側？",
+    "answer": "把 hook 插入對手正在把重心移開的那一側。當他們往右移動時，他們的左側就會變輕——就從那裡插入。當他們調整 grip 時，重心通常會短暫地往後或側向轉移。較輕的那一側對 hook 進入的阻力較小。若嘗試插入較重的那一側，hook 會立刻被壓死。",
+    "answer_line": "插入對手較輕的那一側",
+    "distractors": {
+     "plausible": [
+      "永遠插入慣用側",
+      "選離地面最近的一側"
+     ],
+     "trap": [
+      "插入對手較重的那一側"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正開始嘗試 butterfly hook recovery 時，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是感覺到對手的前臂壓在你的下顎或頸部，建立起 cross-face frame。這是整個 recovery 流程的第一步——先 frame，再 hip escape，最後才是插入 hook。在這個階段就反應，向前再次壓垮回去，遠比等到 hook 已經在穿入時才反應有效，因為 frame 是這條鏈裡最弱的一環，用堅決的向前壓力就能把它壓垮。",
+    "answer_line": "前臂在你的下顎/頸部做 frame",
+    "distractors": {
+     "plausible": [
+      "hook 已經在穿入",
+      "對手正抓著你的 belt"
+     ],
+     "trap": [
+      "等到 hip escape 開始才反應"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到對手為了插入 hook 而彎曲膝蓋時，為什麼把髖部往後拉是反效果的？",
+    "answer": "把髖部往後拉會在雙方身體之間製造更多空間，而這正是對手插入 hook 所需要的。hook 需要你大腿內側與對手身體之間有空隙才能穿入。後退等於把那個空隙拉得更大。相反地，把髖部向前向下施壓能縮小空間，阻止膝蓋彎曲到足以完成穿入動作，這樣才能運用你的體重優勢，而不是把它拱手讓出。",
+    "answer_line": "後退會為 hook 製造空間",
+    "distractors": {
+     "plausible": [
+      "這樣會讓你的重心太慢",
+      "這樣會洩漏你的過guard意圖"
+     ],
+     "trap": [
+      "把髖部往後拉來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "儘管你持續施壓，對手仍成功插入一隻 butterfly hook——最佳的戰術反應是什麼？",
+    "answer": "不要浪費力氣試圖用手把已經卡入的 hook 拔掉。相反地，立刻轉換你的過guard方式。繞過那隻 hook backstep 到 headquarters 或 knee slice 位置，在那裡單一個 hook 的效果會比較差。或者，如果你對自己的平衡有信心，可以接受這隻 hook，向前施壓誘使對手嘗試 elevation sweep，然後你可以順勢化解並反制。關鍵在於調整你的過guard策略，而不是硬要奪回 double unders 去對抗一個已經建立起來的 hook。",
+    "answer_line": "backstep 到 headquarters/knee slice",
+    "distractors": {
+     "plausible": [
+      "用手把 hook 拔掉",
+      "無視 hook，繼續向前推"
+     ],
+     "trap": [
+      "硬要奪回 double unders"
+     ]
+    }
+   },
+   {
+    "question": "要如何在對手背後調整 grip，同時不給 hook recovery 留下時機窗口？",
+    "answer": "一次只調整一隻手，同時透過體重與剩下的那隻 grip 維持向前的胸口壓力。絕不要同時放開雙手。胸口貼大腿的連結在任何 grip 調整過程中都必須維持負載。有些頂尖過guard者能在短暫的 grip 轉換期間，純粹靠胸口重量與髖部推進來維持壓力，完全不依賴手部。練習讓你的 grip 調整對下位者來說幾乎察覺不到。",
+    "answer_line": "一次只調整一隻手",
+    "distractors": {
+     "plausible": [
+      "先暫停壓力，再重新抓 grip",
+      "用腿部力量切換 grip"
+     ],
+     "trap": [
+      "同時放開雙手"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候放棄 double unders、轉換到別的過guard方式，會比硬要對抗 hook recovery 更明智？",
+    "answer": "當對手已經同時完成 frame 建立與 hip escape，代表他們已經創造出真正的空間，膝蓋也已經彎曲朝插入方向移動時，就該轉換。到了這個階段，硬壓穿過他們 frame 所耗費的能量，會超過轉換到 headquarters、knee slice 或 leg weave 所需的能量。hook recovery 是個兩階段的過程：如果你錯過了阻止 frame 的窗口，及時止損轉換過guard路線，能保住你的上位與體力，而不是在一場注定要輸的壓力戰中把自己耗盡。",
+    "answer_line": "frame + hip escape 都完成之後",
+    "distractors": {
+     "plausible": [
+      "一感覺到任何 frame 就轉換",
+      "只在 hook 完全卡入之後"
+     ],
+     "trap": [
+      "絕不放棄，繼續硬壓"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Hook Recovery.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

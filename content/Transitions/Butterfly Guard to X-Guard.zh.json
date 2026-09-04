@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 butterfly guard 轉換到 X-Guard 的主要力學原則是什麼？",
+    "answer": "主要的力學原則是利用 butterfly hooks 製造抬升與破勢，逼迫對手把腳向前撐出。這個向前的撐地動作創造出必要的空間與角度，讓你能把髖部滑到對手 base 下方，建立 X-Guard 的 hook。這個轉換之所以成功，是因為對手對 butterfly 抬升的防禦反應，自然會讓他們陷入 X-Guard 入場的位置——他們對一個攻擊的防禦，正好開啟了下一個攻擊的空間。",
+    "answer_line": "抬升逼出對手向前撐腳",
+    "distractors": {
+     "plausible": [
+      "直接把對手往頭頂 sweep",
+      "拉 collar 破壞 posture"
+     ],
+     "trap": [
+      "放開 hook 重新深抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在從 butterfly 到 X-Guard 的轉換過程中，維持 grip 控制如此關鍵？",
+    "answer": "grip 控制發揮多項關鍵作用：控制對手的 posture，防止他們向後退；製造把他們逼到撐腳向前的壓力；在髖部滑動時維持連結，讓他們無法抽腳；並在 X-Guard 建立後立即創造 sweep 機會。如果沒有 grip，對手可以在轉換完成前直接把腳抽走脫離，讓整個流程失敗。",
+    "answer_line": "阻止他們把腳抽走",
+    "distractors": {
+     "plausible": [
+      "只是為了控制 posture",
+      "設下手臂 submission"
+     ],
+     "trap": [
+      "放開 grip 好滑得更快"
+     ]
+    }
+   },
+   {
+    "question": "對手在你 butterfly 抬升後把右腳向前撐出——請描述你需要的確切髖部滑動方向與身體角度？",
+    "answer": "你應該把髖部滑向右側，讓身體與對手右腳呈垂直的 T 字形。你的內側肩膀（左肩）應該指向他們撐出的右腳，作為滑動的方向。這個垂直角度能讓你的雙腿正確形成 X 型結構，發揮最大槓桿力。如果向後直滑或角度錯誤，hook 就會缺乏正確的槓桿力，無法有效控制與 sweep。",
+    "answer_line": "向右滑，垂直 T 字形",
+    "distractors": {
+     "plausible": [
+      "直接向後滑到對手底下",
+      "向左滑，正對對手"
+     ],
+     "trap": [
+      "向右滑但保持貼胸"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在第一個 X-Guard hook 建立之前，你要維持至少一個 butterfly hook？",
+    "answer": "維持一個 butterfly hook 能提供持續的控制，防止對手在轉換過程中後退脫離。這在位置之間建立了一座橋樑，讓你永遠不會失去對他們腿部的控制。如果過早放開兩個 butterfly hook，就會留下空隙，讓對手輕易抽腳完成 pass。butterfly hook 應該是連續動作轉化成 X-Guard 的內側 hook，而不是分成兩個獨立的動作。",
+    "answer_line": "持續控制，不留空隙",
+    "distractors": {
+     "plausible": [
+      "全程保留兩個 hook",
+      "只靠 grip 維持接觸"
+     ],
+     "trap": [
+      "放開雙腿，坐起身"
+     ]
+    }
+   },
+   {
+    "question": "一旦完全建立 X-Guard，你的雙腿會產生哪兩股相反的力量，為什麼這很重要？",
+    "answer": "跨在髖部上的外側腿向外推，而勾在膝蓋後方的內側腿則向你自己拉。這兩股相反的力量能同時把對手的 base 拆成兩個方向，形成強大的破勢效果。這種一推一拉的動態正是 X-Guard 成為有效 sweep 位置的原因，因為對手無法同時對抗兩股力量。正確的 hook 放置並在兩個方向上維持主動張力，是保持這個力學優勢的關鍵。",
+    "answer_line": "推髖、拉膝，破勢",
+    "distractors": {
+     "plausible": [
+      "雙腿一起向外推",
+      "雙腿一起向內拉"
+     ],
+     "trap": [
+      "推膝蓋、把髖部拉進來"
+     ]
+    }
+   },
+   {
+    "question": "對手在你的 hook 還沒鎖上之前，開始把被鎖定的腿向後撤——你的立即反應是什麼？",
+    "answer": "積極地把髖部向前 scoot，追隨他們正在後撤的腿，同時維持剩下的 butterfly hook 與上半身 grip 的接觸。如果他們完全把腿抽走，立刻把目標換成另一條腿，因為他們的重心已經轉移到那個方向。如果兩條腿都無法擒獲，就利用你的 grip 阻止對手建立 pass 位置，回到 seated guard 或 shin-to-shin 的位置。絕對不要平躺在背上硬拚失敗的入場。",
+    "answer_line": "追腿或換邊",
+    "distractors": {
+     "plausible": [
+      "坐回重建 closed guard",
+      "放棄 grip 重新開始"
+     ],
+     "trap": [
+      "平躺著繼續強行進 X"
+     ]
+    }
+   },
+   {
+    "question": "在嘗試從 butterfly 進入 X-Guard 之前，必須具備哪些條件？",
+    "answer": "對手的重心必須向前投入，至少一條腿撐在前方，通常是為了回應你的 butterfly 抬升或 sweep 嘗試。你需要主動的 butterfly hooks 提供控制、強力的上半身 grip 防止脫離，以及對手 base 下方足夠的空間讓你能滑動髖部。如果對手的重心向後或均勻分布時嘗試這個轉換，會浪費體力並讓自己暴露在被 pass 的風險中。如果條件不對，先用 butterfly sweep 逼出對手向前的重心投入。",
+    "answer_line": "重心向前、腳已撐出",
+    "distractors": {
+     "plausible": [
+      "只要 hook 進去就隨時嘗試",
+      "等重心平均或向後"
+     ],
+     "trap": [
+      "在低 base 下強行入場"
+     ]
+    }
+   },
+   {
+    "question": "從 butterfly 進入 X-Guard 的轉換，在 no-gi 和 gi 中有什麼不同，需要哪些 grip 調整？",
+    "answer": "在 no-gi 中，你無法依賴 sleeve 和 collar grip 來控制 posture 與製造向前壓力。相反地，要在同一側建立強力的 underhook，同時保持同側的 butterfly hook。underhook 取代 gi grip 的拉力功能，控制對手的 posture 並防止他們在髖部滑動時後退。另一隻手臂做 wrist control 提供次要連結。抬升與髖部滑動的力學原理完全相同，但因為 no-gi 的 grip 較不牢靠，入場的時間窗口通常較短，需要更爆發性的時機掌握。",
+    "answer_line": "同側 underhook 承擔主力",
+    "distractors": {
+     "plausible": [
+      "只靠 two-on-one wrist control",
+      "用 head-and-arm front headlock"
+     ],
+     "trap": [
+      "不做任何連結，只求快"
+     ]
+    }
+   },
+   {
+    "question": "如果你的初始 butterfly sweep 完全被防住，對手維持著寬、低的 base 且沒有向前撐腳，你該怎麼做，而不是硬拚 X-Guard？",
+    "answer": "當對手維持寬、低的 base 且沒有向前撐腳時，X-Guard 入場的條件並不存在。這時應改用其他能針對寬 base 的 butterfly 攻擊：arm drag 進背後控制，利用他們寬站姿造成的空間；或用 collar drag 把他們拉離中心線。你也可以嘗試針對單側的不對稱抬升，逼出方向性的撐腳，或轉換到 half butterfly 創造新的角度。對一個穩定、平衡的對手硬拚 X-Guard，只會導致入場失敗並浪費體力。",
+    "answer_line": "改做 arm drag 進背後",
+    "distractors": {
+     "plausible": [
+      "拉進 closed guard",
+      "站起來脫離"
+     ],
+     "trap": [
+      "更用力強行同樣的入場"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換中，發動髖部滑動的最關鍵時機窗口是什麼？",
+    "answer": "最佳的時機窗口是對手為了回應你的 butterfly 抬升，把撐出的那隻腳踩實在地面的那一瞬間。在這一刻，他們的重心已經投入到那條腿上，若不失去平衡就無法抽回。這個窗口大約持續一到兩秒，之後他們就會穩住 base，重新獲得後退的能力。過早發動髖部滑動，代表那條腿還沒被完全負重，容易被輕易抽回；過晚則對手已經穩住，能防禦這次入場，或開始自己的 pass 流程。",
+    "answer_line": "腳踩實的那一瞬間",
+    "distractors": {
+     "plausible": [
+      "hook 一設好就立刻",
+      "等對手 base 穩定後"
+     ],
+     "trap": [
+      "在他們 knee cut 時下潛"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守從 butterfly 到 X-Guard 轉換的最關鍵時機窗口是什麼？",
+    "answer": "最關鍵的防守窗口是在對手完成 butterfly 抬升之後、但在他們把內側腿深深穿到你膝蓋後方之前的髖部滑動階段。一旦內側 hook 越過膝關節穩固建立，X-Guard 結構就會變得極難拆解。在髖部滑動階段及早介入，能給你最多的防守選項，包括抽腿、驅膝或髖部 frame，這些選項一旦雙 hook 完全建立就會失效。",
+    "answer_line": "在髖部滑動時、hook 前",
+    "distractors": {
+     "plausible": [
+      "等雙 hook 都鎖定後",
+      "只在被抬升時"
+     ],
+     "trap": [
+      "讓他們 sweep，再拚混戰"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該避免用力硬把腿從已部分建立的 X-Guard hooks 中扯出來？",
+    "answer": "對已建立的 hook 用力硬扯，會讓雙方都有膝蓋和腳踝受傷的風險，因為 X-Guard 的結構是包纏著膝關節的。此外，對手的雙腿結構在那個角度上力學強度也高於你單腿的拉力，所以硬拚蠻力常常也會失敗。應該改用技術性抽腿：用手把對手的內側 hook 往地面推，同時把腿有控制地向後撤，有系統地拆解這個位置，而不是硬碰硬地對抗。",
+    "answer_line": "膝踝受傷風險；硬拚會失敗",
+    "distractors": {
+     "plausible": [
+      "你單腿能拉贏兩腿",
+      "只會損失你的 grip"
+     ],
+     "trap": [
+      "用力扯，hook 一定會斷"
+     ]
+    }
+   },
+   {
+    "question": "你的重心分布如何影響你對從 butterfly 到 X-Guard 轉換的脆弱程度？",
+    "answer": "如果你的重心大量向前投入，一條腿深深撐出，就會創造出對手進入 X-Guard 所需的確切條件。你負重的撐腳無法在不失去平衡的情況下快速抽回，成為容易被擒獲的目標。維持重心均衡分布，髖部後移、重心保持在雙腿之間，代表你偵測到髖部滑動時能立刻抽回任一條腿。對手需要你向前的重心投入才能讓這個轉換成立，所以拒絕這種投入正是最根本的防守方式。",
+    "answer_line": "重心過度前傾風險高",
+    "distractors": {
+     "plausible": [
+      "坐回會引來入場",
+      "寬低 base 才是風險"
+     ],
+     "trap": [
+      "為了施壓而深撐"
+     ]
+    }
+   },
+   {
+    "question": "對手已經開始把髖部滑向你的右腿，但還沒鎖上深膝 hook——你最好的防守選項是什麼？",
+    "answer": "在這個轉換中段的時刻，你有三個依效果排序的主要選項：第一，在內側 hook 穿到膝蓋後方之前，立刻把右腿抽回；第二，把右膝用力壓向地面，衝散 hook 的放置嘗試，並把他們的 guard 壓平；第三，雙手撐在他們的髖部上做 frame，阻止髖部滑動繼續穿到你身下。選擇取決於你的平衡與 grip 狀態，但如果你有足夠的 base 能執行且不會向前跌倒，抽腿是成功率最高的選項。",
+    "answer_line": "在 hook 穿入前先抽腿",
+    "distractors": {
+     "plausible": [
+      "先選擇驅膝",
+      "先選擇 frame 髖部"
+     ],
+     "trap": [
+      "向前推進滑動方向"
+     ]
+    }
+   },
+   {
+    "question": "對手身體姿勢出現什麼變化，能提醒你這是 X-Guard 入場，而不是一般的 butterfly sweep？",
+    "answer": "關鍵的辨識線索是對手身體角度的旋轉。在一般的 butterfly sweep 中，對手會把你直接抬向頭頂或側邊，同時保持正面朝向你。而在 X-Guard 入場中，對手會把肩膀轉成與你撐出的腿垂直，把髖部滑到你身下，而不是把你抬向頭頂。你也會注意到一個 butterfly hook 放開，另一個維持深接觸，他們的上半身則橫向拉動，而不是向上拉。辨識出這種垂直旋轉是判斷 X-Guard 入場而非一般 sweep 最可靠的早期指標。",
+    "answer_line": "肩膀旋轉呈垂直角度",
+    "distractors": {
+     "plausible": [
+      "對手把你抬向頭頂",
+      "對手直接向後拉"
+     ],
+     "trap": [
+      "把 hook 放開視為正常"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Guard to X-Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

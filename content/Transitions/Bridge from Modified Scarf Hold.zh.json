@@ -1,0 +1,125 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge from Modified Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Modified Scarf Hold 執行 bridge 之前，最佳的腳部位置是什麼？",
+    "answer": "雙腳平踩地墊，盡量靠近髖部，大約與肩同寬。這種緊密的姿勢能最大化臀肌與大腿後側肌群的機械優勢，產生最大的向上力量。腳的位置離髖部太遠會顯著降低 bridge 的力量，也會造成角度過淺的 bridge，讓對手輕易跟著你移動而不失去 base。",
+    "answer_line": "雙腳平踩，靠近髖部",
+    "distractors": {
+     "plausible": ["雙腳張開求穩定", "雙腳稍微遠離髖部"],
+     "trap": ["雙腳大開，膝蓋朝外"]
+    }
+   },
+   {
+    "question": "在 Modified Scarf Hold 中，如何判斷該朝哪個方向 bridge 對手？",
+    "answer": "朝對手最弱的支撐角度 bridge，通常是他們手部支撐或 base 最少的方向。感受對手的重心偏向哪一側，然後朝相反方向 bridge。如果他們的手撐在你的遠側，就朝他們的近側 bridge。目標是把力量導向對手結構支撐最少的地方，以防止他們阻擋翻轉。",
+    "answer_line": "朝對手弱側／空檔方向",
+    "distractors": {
+     "plausible": ["朝對手面向的那一側", "遠離對手撐地的手"],
+     "trap": ["朝對手最強的支撐點"]
+    }
+   },
+   {
+    "question": "執行這個 bridge 逃脫時，最關鍵的時機窗口是什麼？",
+    "answer": "最佳的時機窗口出現在對手重心轉移的時候，無論是伸手準備降伏技、調整 grip，或是開始轉換到其他位置。在這些時刻，他們的 base 暫時受到破壞，重心分佈處於不穩定狀態。在對手完全穩定壓制時 bridge 會浪費力氣，也很少成功，因此耐心等待正確時機對有效的體力管理至關重要。",
+    "answer_line": "趁對手動作中轉移重心時",
+    "distractors": {
+     "plausible": ["剛壓制穩定後立刻動作", "壓制一固定就立刻動作"],
+     "trap": ["反覆 bridge 消耗對手體力"]
+    }
+   },
+   {
+    "question": "對手把遠側的手撐寬來阻擋你的 bridge 方向——你該如何調整？",
+    "answer": "立刻把 bridge 方向切換到對手現在缺乏撐地手臂的另一側。他們在一側投入的支撐會在另一側造成弱點。進階的練習者會先假動作朝一個方向 bridge 誘使對手撐手，再瞬間爆發朝相反方向 bridge。核心概念在於，每一個防禦性的投入都會在其他地方創造出破口。",
+    "answer_line": "切換到對手的開放側",
+    "distractors": {
+     "plausible": ["硬闖被擋住的那一側", "等對手的手重新擺位"],
+     "trap": ["直接 bridge 撞向對手撐地的手"]
+    }
+   },
+   {
+    "question": "如果你的 bridge 創造出空間，但沒有完成完整的翻轉，該怎麼辦？",
+    "answer": "如果 bridge 製造出間隔，但未能完成翻滾，要立刻轉換到其他逃脫方式，而不是攤回平躺姿勢。利用這短暫的空間插入 knee shield 以奪回 half guard、轉身進入 turtle 位置，或執行 shrimp 以奪回 full guard。絕對不要浪費 bridge 創造出的空間直接回到平躺起始姿勢，因為你已經花費力氣創造出的機會必須被轉化利用。",
+    "answer_line": "串接 shrimp 或 knee shield",
+    "distractors": {
+     "plausible": ["重置平躺，之後再 bridge", "維持位置，等待時機"],
+     "trap": ["回到平躺起始姿勢"]
+    }
+   },
+   {
+    "question": "執行 bridge 時，你的自由手臂扮演什麼角色？",
+    "answer": "你的自由手臂作為引導 bridge 旋轉方向的 frame，並防止對手重新穩定壓制。將它放在你 bridge 方向那一側對手的髖部或肋骨上，形成一個輔助翻滾動作的槓桿。在 bridge 過程中，這隻手臂與你的髖部發力協調推動，產生最大的旋轉力量。翻滾完成後，這隻手臂立刻轉換為在上位建立控制。",
+    "answer_line": "frame 住對手髖部，作槓桿",
+    "distractors": {
+     "plausible": ["向下壓對手遠側肩膀", "抓對手遠側手臂衣袖"],
+     "trap": ["平貼地墊當支撐"]
+    }
+   },
+   {
+    "question": "如果第一次 bridge 嘗試失敗，你應該如何管理體力？",
+    "answer": "bridge 失敗後，立刻回到防禦性 frame，而不是馬上再嘗試一次 bridge。重新調整呼吸，保護近側手臂，等待下一個時機窗口。反覆失敗的 bridge 消耗體力的速度遠快於等待，也會為上位者創造出越來越危險的反擊機會。一次抓準時機的爆發性 bridge，勝過五次軟弱的嘗試。",
+    "answer_line": "重置 frame，等待再 bridge",
+    "distractors": {
+     "plausible": ["立刻更用力再 bridge 一次", "連續不間斷地 bridge"],
+     "trap": ["一直 bridge 到成功為止"]
+    }
+   },
+   {
+    "question": "對手在維持 Modified Scarf Hold 的同時開始攻擊 americana——你該 bridge 嗎？",
+    "answer": "應該。這是絕佳的時機窗口，因為伸手準備 americana 需要對手放鬆部分控制並將重心轉向你的手臂。趁對手的 base 因降伏技嘗試而受損時爆發式 bridge。americana 的準備動作迫使對手把雙手投入到你的手臂上，可用來阻擋 bridge 的 base 就變少了。不過，在執行 bridge 的同時，也要把被鎖定的手臂貼近身體加以保護。",
+    "answer_line": "應該 bridge，同時保護手臂",
+    "distractors": {
+     "plausible": ["不，先防守 americana", "拖延到對手放鬆 grip"],
+     "trap": ["先硬拉出手臂，再 bridge"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從 Modified Scarf Hold 底部 bridge，最早能察覺的徵兆有哪些？",
+    "answer": "留意腳部重新擺位，這是最主要的徵兆。當對手把雙腳平踩靠近髖部時，代表他們正在為 bridge 蓄力，運用後側鏈肌群。其他徵兆還包括：自由的手臂移動到你的髖部形成 frame，顯示出方向意圖；一個深呼吸預示即將爆發用力；以及頭部轉向一側，確立旋轉的角度。及早辨識這些準備動作，能讓你有時間在 bridge 發動前調整重心與撐地。",
+    "answer_line": "雙腳平踩靠近髖部",
+    "distractors": {
+     "plausible": ["手撐在你的髖部", "動作前的一個深呼吸"],
+     "trap": ["等到髖部抬起才反應"]
+    }
+   },
+   {
+    "question": "當你感覺到對手開始 bridge 時，應該如何調整你的重心分佈？",
+    "answer": "把胸口壓力壓得更低，並將髖部往前推進對手，而不是單純往下壓。把重心轉往對手 bridge 的方向，讓他們必須移位的重量增加。維持踮腳，保持機動性，這樣一旦對手切換方向你也能迅速調整。核心原則是順著 bridge 的力量走、同時維持胸口接觸，而不是單靠靜態的重量去對抗向上的力。",
+    "answer_line": "壓低胸口，推進髖部，加重對手負擔",
+    "distractors": {
+     "plausible": ["直接更用力往下壓", "後撤靠腳跟支撐"],
+     "trap": ["後仰並用手撐地"]
+    }
+   },
+   {
+    "question": "對手爆發式 bridge，你感覺自己的 base 受到威脅——你最好的應對是什麼？",
+    "answer": "如果 bridge 的力道強到足以威脅翻轉，就趁 bridge 創造空間時把膝蓋跨過對手髖部，立刻轉換到 mount。利用對手向上的動能滑入 mount，而不是硬拚維持已經被破壞的 Modified Scarf Hold。這能把潛在的逃脫轉化為位置的推進。如果 bridge 的方向把你帶向前方而非側邊，則轉換到 north-south 以維持上位控制。",
+    "answer_line": "跨膝過髖轉入 mount",
+    "distractors": {
+     "plausible": ["硬拚維持 scarf hold", "後撤把對手壓平"],
+     "trap": ["放開 grip，重置中立位置"]
+    }
+   },
+   {
+    "question": "什麼時候適合利用對手的 bridge 嘗試來推進位置，而不是單純維持 Modified Scarf Hold？",
+    "answer": "當 bridge 在雙方身體之間創造出足夠的空間，讓重新建立 Modified Scarf Hold 需要完全重置位置時，就該推進位置。如果對手的髖部大幅抬升，或造成旋轉，通往 mount 或 north-south 的路徑往往比硬拚回到原本的壓制更短。一般原則是：如果 bridge 過程中你能把膝蓋滑過對手髖部，就拿下 mount；如果對手轉向你、創造出前方空間，就拿下 north-south。",
+    "answer_line": "空間足夠時取 mount／N-S",
+    "distractors": {
+     "plausible": ["只要有 bridge 就推進", "只在過完全 guard 之後"],
+     "trap": ["永遠重置回原本的壓制"]
+    }
+   }
+  ]
+ }
+}

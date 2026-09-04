@@ -1,0 +1,241 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Technical Mount Bottom 發動 hip escape 的最佳時機是什麼時候？",
+    "answer": "最佳時機是上位選手把重心往前移、準備進 armbar 或 triangle 的那一刻。這個前傾動作會減少對你髖部的壓力，創造出 hip escape 所需的空間。你應該會感覺到他們的重心往你的頭肩方向移動，髖部的壓力會瞬間變輕。趁這個重心轉移的瞬間發動 hip escape，利用的是他們短暫的力學劣勢，而不是硬碰硬對抗他們已經穩定的重心。",
+    "answer_line": "趁對方重心前移時逃脫",
+    "distractors": {
+     "plausible": [
+      "在壓力最重時逃脫",
+      "等對方完全posture起來再逃脫"
+     ],
+     "trap": [
+      "放開手臂護手去推髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手開始把重心前移準備設置 armbar，你要如何配合這個動作進行逃脫？",
+    "answer": "維持手臂保護的抓握，把重心前移當作逃脫的觸發訊號。趁對方重心前移時爆發性地 bridge，順著他們的動能往上頂。接著立刻朝他們支撐腳那一側做 hip escape。關鍵在於，他們的前傾動作會讓他們很難跟上你的橫向髖部移動。你正在把他們的垂直重心轉移，轉換成你的橫向逃脫——他們的進攻反而成了你的逃脫窗口。整個過程中絕對不要放開手臂的保護。",
+    "answer_line": "先bridge順勢再逃脫",
+    "distractors": {
+     "plausible": [
+      "先逃脫再bridge",
+      "只bridge，不做hip escape"
+     ],
+     "trap": [
+      "放開抓握好讓bridge更用力"
+     ]
+    }
+   },
+   {
+    "question": "整套逃脫動作過程中，最關鍵的手臂位置是什麼？",
+    "answer": "受威脅的那隻手臂——也就是靠近對方跨步腳那一側——必須全程保持彎曲，手肘緊貼肋骨。手應該抓住自己的衣領、道服領口，或另一側肩膀，形成一個結構性的鎖定，防止手臂被強制拉直。這個姿勢必須從你察覺自己陷入 technical mount 的那一刻起，一直維持到你完全建立 half guard 為止。逃脫過程中只要這隻手臂有一瞬間伸直，就會立刻給上位選手可乘之機進 armbar。",
+    "answer_line": "手肘夾緊，抓自己的領口",
+    "distractors": {
+     "plausible": [
+      "先把對方的髖部推開",
+      "用手臂frame在對方遠側肩膀"
+     ],
+     "trap": [
+      "伸直手臂來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要朝支撐腳那一側做 hip escape，而不是朝反方向？",
+    "answer": "支撐腳是上位選手的重心基礎——它提供穩定性，但也限制了那一側的橫向移動能力。當你朝支撐腳那一側 shrimp 時，上位選手很難跟上你的髖部移動，因為他們的基礎結構限制了那個方向的橫向追擊。相反地，朝勾腳那一側逃脫，會把你帶進他們控制力最強的區域，因為他們可以用連接著的那隻腳跟著你移動。支撐腳那一側同時也是插入膝蓋、卡進身體之間的最佳角度。",
+    "answer_line": "朝支撐腳那一側shrimp",
+    "distractors": {
+     "plausible": [
+      "朝勾腳那一側shrimp",
+      "直接往後shrimp"
+     ],
+     "trap": [
+      "轉成趴姿朝勾腳那一側"
+     ]
+    }
+   },
+   {
+    "question": "逃脫過程中，受威脅的那隻手應該維持什麼樣的抓握，才能避免手臂被孤立？",
+    "answer": "抓住自己胸前的衣領，或抓住自己另一側的肩膀，如果兩隻手臂都受到威脅，則雙手互扣成 gable grip。通常比較建議抓衣領，因為這會形成一個結構性的支點，上位選手必須先破壞這個抓握，才能把你的手臂拉直。這個抓握把手臂保護從一種肌肉出力，轉變成一種結構性的對抗——你是靠布料或骨骼排列來抵抗伸直,而不是單靠二頭肌力量去對抗對方全身的槓桿力量。",
+    "answer_line": "抓自己的領口或肩膀",
+    "distractors": {
+     "plausible": [
+      "緊抓對方的袖子",
+      "推對方的胸口"
+     ],
+     "trap": [
+      "放開抓握去frame對方髖部"
+     ]
+    }
+   },
+   {
+    "question": "對手察覺你的 hip escape，開始轉換去搶 back control——你該如何調整？",
+    "answer": "立刻把重點從持續 hip escape 轉為優先建立 half guard 的勾腿。一旦你感覺到他們跟著你的轉動想去搶 back control，就停止橫向 shrimp，積極把膝蓋插進去、卡住他們的那條腿。half guard——就算只是一個不完整的 half guard——也能阻止他們完全建立 back control，因為它讓他們有一條腿被卡住、無法脫身。如果你已經轉得太過去，那就努力讓背部維持貼地，不要讓對方有乾淨的路徑搶到你的背，同時嘗試插入 butterfly hook 來干擾他們的勾腳。",
+    "answer_line": "插膝蓋，擋住背後偷襲",
+    "distractors": {
+     "plausible": [
+      "繼續朝空間shrimp",
+      "turtle起來保護背部"
+     ],
+     "trap": [
+      "讓對方直接搶到背後"
+     ]
+    }
+   },
+   {
+    "question": "在 hip escape 之前，bridge 扮演什麼角色？為什麼它單獨使用時不足以完成逃脫？",
+    "answer": "bridge 會製造出垂直空間，把對手的重心從你的髖部抬離，打亂他們穩定的基礎，讓接下來的 hip escape 變得可行。然而，單靠 bridge 是不夠的，因為對手只要順著你的 bridge 起伏、等你落地時再重新壓穩即可——technical mount 的不對稱基礎本來就是設計來抵抗 bridge 的。bridge 之後必須立刻接上 hip escape，把暫時的垂直空間轉換成永久的橫向距離。兩者必須組合成一套連貫的動作；面對實力相當的上位選手，單獨使用任何一個動作都會失敗。",
+    "answer_line": "bridge抬起後再靠escape轉換",
+    "distractors": {
+     "plausible": [
+      "光靠bridge就能完全逃脫髖部",
+      "先逃脫，之後再bridge"
+     ],
+     "trap": [
+      "只反覆bridge，不做shrimp"
+     ]
+    }
+   },
+   {
+    "question": "插入 knee shield 之後，你必須立刻做什麼，才能防止上位選手重新過guard？",
+    "answer": "用雙腿鎖住對方最近的那條腿，建立 half guard 的纏鎖，接著立刻爭取被卡那條腿一側的 underhook，或是用小腿橫貼對方軀幹來強化你的 knee shield。你必須側身面對對手，而不是繼續平躺在背上。插腿後的頭兩秒，決定了你會落在一個有效的 half guard，還是一個馬上就會被過guard的破綻位置。在上位選手做出調整之前，先建立好結構性控制——不論是 underhook 還是 knee shield——是讓這次逃脫真正穩固下來的關鍵。",
+    "answer_line": "鎖住雙腿，轉身側對",
+    "distractors": {
+     "plausible": [
+      "維持平躺，固定knee shield",
+      "推開對方，拉開距離"
+     ],
+     "trap": [
+      "先放鬆休息再繼續"
+     ]
+    }
+   },
+   {
+    "question": "你第一次的 hip escape 嘗試失敗，上位選手重新壓穩——你第二次嘗試的策略是什麼？",
+    "answer": "回到你的防護姿勢，手臂收好、frame重新建立起來，而不是立刻硬拚下一次嘗試。每一次失敗的嘗試，都還是會累積出一點微小空間。等待下一次真正的重心轉移，而不是單靠反覆 bridge 硬造出一個。用一種節奏串連每次嘗試——bridge、shrimp、reset、bridge、shrimp——讓每一次逃脫都建立在前一次殘留的空間上。關鍵在於嘗試之間要有耐性，並在重置時持續維持手臂保護，而不是加大單次出力的強度。",
+    "answer_line": "重置、護好手臂、再等待",
+    "distractors": {
+     "plausible": [
+      "第二次嘗試更用力硬拚",
+      "反覆bridge直到成功"
+     ],
+     "trap": [
+      "放棄手臂frame再嘗試一次"
+     ]
+    }
+   },
+   {
+    "question": "bridge 階段和 hip escape 階段之間，出力方向如何改變？",
+    "answer": "bridge 是把力垂直向上作用，讓你的髖部直直往天花板方向頂起，藉此抬起對手的重量、跟地面拉開距離。hip escape 則立刻把力改成橫向作用，讓髖部朝支撐腳那一側遠離對手。這個近乎垂直轉橫向的力量方向變化，正是這套動作有效的原因——垂直的 bridge 打亂對手穩定的重心，橫向的 shrimp 則把這個混亂轉換成距離,搶在對方重新壓穩之前完成。試圖同時混合兩個方向出力,反而會讓兩者的效果都變差。",
+    "answer_line": "先向上bridge再橫向shrimp",
+    "distractors": {
+     "plausible": [
+      "先橫向推，再向上bridge",
+      "兩個方向同時出力"
+     ],
+     "trap": [
+      "直接朝對方髖部推"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定你該選擇 knee shield 的恢復變化式，還是標準的 half guard 進入方式？",
+    "answer": "當上位選手體重較重、很可能在你逃脫後立刻嘗試重新過guard，或是空間不足以做完整纏腿時，選擇 knee shield 恢復方式。knee shield 提供更強的過渡屏障，因為你的小腿橫貼在對方軀幹上，形成一個他們必須先處理掉、才能重新建立 mount 的結構性框架。當你已經創造出足夠空間可以做完整纏腿，而上位選手反應較慢時，就選擇標準的 half guard 進入方式。標準進入方式長期來說更穩定，但需要更多空間才能建立。",
+    "answer_line": "體重重或空間窄就用knee shield",
+    "distractors": {
+     "plausible": [
+      "永遠使用完整纏腿",
+      "永遠優先使用knee shield"
+     ],
+     "trap": [
+      "放開frame，快速站起來"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位選手準備逃向 half guard 時，最早能察覺到的訊號是什麼？",
+    "answer": "最早的訊號是下位選手的遠側腳重新擺位，為 hip escape 蓄積推力。在任何明顯的髖部動作出現之前，那隻腳就會先滑到一個能提供橫向推力的位置。你也可能會感覺到他們在 bridge 時張力增加，這是他們在為爆發性動作蓄力。及早察覺這個準備階段，能讓你有時間加大壓力，或搶先開始自己的轉換，趕在逃脫動作完全展開之前行動。",
+    "answer_line": "留意對方遠側腳的擺位",
+    "distractors": {
+     "plausible": [
+      "先看對方的髖部抬起",
+      "先看對方放開抓握"
+     ],
+     "trap": [
+      "等對方完全hip escape再反應"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位選手開始 hip escape 時，該如何調整你的重心分配？",
+    "answer": "立刻把重心往下壓，讓髖部貼向地面，並在對方逃脫的那一側加大肩對胸的壓力。你的支撐腳應該轉動小腿去擋住他們的髖部移動，切斷他們的 shrimp 路徑。同時收緊手臂控制，維持 armbar 的威脅——加大壓力與提交威脅的組合，會迫使他們放棄逃脫,或是冒著手臂暴露的風險。避免整個人立起來，那會製造出他們需要的空間。",
+    "answer_line": "壓低重心，用小腿擋髖部",
+    "distractors": {
+     "plausible": [
+      "立起來重新建立base",
+      "放開手臂去追對方髖部"
+     ],
+     "trap": [
+      "站起來跟著對方逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手成功把膝蓋插進你們兩人身體之間——你當下最好的立即反應是什麼？",
+    "answer": "在他們建立完整的 half guard 勾腿之前，你還有一個短暫的窗口。第一個選項：積極把髖部頂穿他們的 knee shield，趁他們鎖腿之前清掉那個膝蓋、重新建立 mount。第二個選項：如果那個膝蓋已經卡得太穩、清不掉，就立刻轉換到 half guard top，用強力的 crossface 和 underhook 接受位置改變，但維持上位控制。最糟的反應，是卡在 technical mount 和 half guard 之間的曖昧位置——你必須明確選擇清膝蓋，或是建立起主導性的 half guard top。",
+    "answer_line": "清掉膝蓋或直接拿half top",
+    "distractors": {
+     "plausible": [
+      "坐回去、等對方自己放棄",
+      "推開對方的腿，維持mount"
+     ],
+     "trap": [
+      "卡在中間什麼都不做"
+     ]
+    }
+   },
+   {
+    "question": "在對手嘗試逃脫的過程中，你應該在什麼時機從維持 technical mount 轉為搶 back？",
+    "answer": "當下位選手已經創造出足夠的橫向距離、要把他們壓平回去得花費大量力氣，而且他們在 hip escape 過程中正轉向側身時，就是轉換去搶 back control 的時機。關鍵指標是他們遠側的肩膀離開地面——這個轉動會打開通往他們背部的路徑。放開手臂控制，立刻建立 seat belt 抓握，順著他們的轉動移動。這個決定必須快——猶豫會讓你陷入兩頭空的處境，既失去 technical mount 的控制，也錯過搶 back 的機會。",
+    "answer_line": "遠側肩膀離地就搶背",
+    "distractors": {
+     "plausible": [
+      "髖部一動就立刻搶背",
+      "維持armbar威脅，不管背後"
+     ],
+     "trap": [
+      "猶豫，兩個選項都不放"
+     ]
+    }
+   },
+   {
+    "question": "即使你在 technical mount 已經感覺很穩固，為什麼維持進攻壓力對防止逃脫仍然至關重要？",
+    "answer": "持續的提交威脅會迫使下位選手把注意力和手臂位置分配到防守上，而不是逃脫上。如果你在 technical mount 裡消極地坐著，下位選手就能把全部心力放在算準時機做 hip escape 和插膝蓋，完全不用擔心立即的提交危險。armbar 威脅特別能讓他們受威脅的那隻手臂忙於保護，這意味著他們能用來做 frame 和逃脫動作的肢體就變少了。積極的進攻壓力會製造出一種防守稅，讓逃脫的執行變得明顯更困難。",
+    "answer_line": "維持持續的提交威脅",
+    "distractors": {
+     "plausible": [
+      "mount穩固後就放鬆壓力",
+      "只專注在位置控制上"
+     ],
+     "trap": [
+      "放開手臂威脅來節省體力"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Escape Technical Mount to Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

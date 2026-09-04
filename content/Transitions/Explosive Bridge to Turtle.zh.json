@@ -1,0 +1,217 @@
+{
+ "_meta": {"source": "content/Transitions/Explosive Bridge to Turtle.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {"flashcards": [
+  {
+   "question": "Explosive Bridge to Turtle 的主要目標是什麼？",
+   "answer": "主要目標是從 Mounted Crucifix 底部緊急脫身，轉換到可以恢復的位置。雖然 turtle 不是優勢位置，但它能解除讓 Mounted Crucifix 如此危險的手臂纏繞，恢復你主要的防守工具（雙手），並開啟包括 guard recovery、站起以及 turtle 專屬逃脫在內的多條恢復路徑。它把生存放在位置改善之前優先考慮。",
+   "answer_line": "逃離 crucifix，保住手臂",
+   "distractors": {
+    "plausible": [
+     "改善位置，而不只是生存",
+     "直接翻轉到 top mount"
+    ],
+    "trap": [
+     "被動等待這個位置過去"
+    ]
+   }
+  },
+  {
+   "question": "Explosive Bridge to Turtle 是從什麼位置開始執行的？",
+   "answer": "這個技術從 Mounted Crucifix Bottom 開始，這是 BJJ 中最危險的防守位置之一。在這個位置，對手不僅取得 mount 控制，還用雙腿困住你的一隻或兩隻手臂，讓你失去主要的防守工具，暴露在大量 submission 威脅之下。",
+   "answer_line": "Mounted crucifix bottom",
+   "distractors": {
+    "plausible": [
+     "Mount bottom，手臂自由",
+     "Back mount，雙腳都掛上 hook"
+    ],
+    "trap": [
+     "Side control，手臂被困"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 bridge 必須朝被困手臂那一側橫向發力，而不是直接向上？",
+   "answer": "朝被困手臂方向的橫向 bridge，既能創造出抽出手臂所需的空間，也能產生完成轉身進入 turtle 所需的旋轉動量。直接向上的 bridge 只會暫時把對手抬起，卻無法創造抽出角度或轉身動量。斜向的方向會讓對手的腿部控制在力學上變弱，並為轉入 turtle 位置的自然旋轉鋪路。",
+   "answer_line": "創造空間與轉身動量",
+   "distractors": {
+    "plausible": [
+     "直接向上 bridge 能抬得更高",
+     "朝被困手臂的反方向 bridge"
+    ],
+    "trap": [
+     "朝對手最強壯的那條腿 bridge"
+    ]
+   }
+  },
+  {
+   "question": "當你嘗試 bridge 時，對手把體重壓低並壓平髖部，你該如何調整？",
+   "answer": "等待對方準備進攻，因為任何 submission 嘗試都需要對方把體重前移或調整姿勢，這會犧牲他們的 base。另一個做法是先假動作朝一個方向 bridge 引出對方的體重反應，接著再爆發性地朝相反方向發力。你也可以串連一連串小動作誘導對方反應，等對方的反制姿勢出現破綻時，再發動爆發性嘗試。",
+   "answer_line": "等對方進攻，再爆發反擊",
+   "distractors": {
+    "plausible": [
+     "朝同一方向更用力 bridge",
+     "休息到對方完全放鬆為止"
+    ],
+    "trap": [
+     "強行 bridge 突破對方 base"
+    ]
+   }
+  },
+  {
+   "question": "如果在你嘗試這個逃脫之前，對手已經建立起 choke 的握持，你該怎麼做？",
+   "answer": "在嘗試 bridge 逃脫之前，先處理眼前的 choke 威脅。爆發性 bridge 實際上可能會把你的頸部推向對方的握持，加速血液 choke 的效果。應先透過調整姿勢及手臂能做到的活動範圍，設法解除對方勒頸的握持，或在頸部創造防守空間。只有在立即的 submission 威脅解除之後，才投入位置逃脫的嘗試。",
+   "answer_line": "先解除 choke 的握持",
+   "distractors": {
+    "plausible": [
+     "立刻爆發性地 bridge",
+     "Tap 然後重新開始"
+    ],
+    "trap": [
+     "用力 bridge 來破壞握持"
+    ]
+   }
+  },
+  {
+   "question": "為什麼抽出手臂要與 bridge 同時進行，而不是分成先後兩個步驟？",
+   "answer": "Bridge 會因為破壞對方平衡而創造出一個短暫的窗口，讓對方的腿部控制暫時鬆動。這個窗口會隨著對方恢復而迅速關閉。若把抽出手臂當成獨立的步驟，窗口可能在抽出完成前就已關閉。手臂是透過髖部動作創造出的空間滑出的——同一個動作同時產生兩種效果。把抽出手臂的時機對準 bridge 的頂點，能最大化可用空間與動量輔助。",
+   "answer_line": "一個動作同時完成逃脫",
+   "distractors": {
+    "plausible": [
+     "先 bridge，再把手臂拉出來",
+     "在 bridge 之前先抽出手臂"
+    ],
+    "trap": [
+     "等窗口完全打開才行動"
+    ]
+   }
+  },
+  {
+   "question": "要讓 bridge 的力量發揮到最大，最關鍵的身體姿勢細節是什麼？",
+   "answer": "腳跟必須盡量貼近臀部，腳趾用力抓進地墊，以取得最大的腿部發力槓桿。膝蓋應彎曲成銳角以產生爆發性的髖部伸展。發力從雙腿經髖部啟動，形成一個鞭甩動作，同時產生垂直抬升與橫向方向。核心收緊能把下半身的力量連結到上半身的旋轉。",
+   "answer_line": "腳跟貼臀，腳趾抓地",
+   "distractors": {
+    "plausible": [
+     "雙腿伸直以求最大伸展",
+     "雙膝分寬以取得穩定 base"
+    ],
+    "trap": [
+     "用雙手撐地墊借力"
+    ]
+   }
+  },
+  {
+   "question": "成功抵達 turtle 位置後，接下來應該怎麼做？",
+   "answer": "應立即設法爭取更好的位置，而不是停留在 turtle 休息。可行的選項包括：透過 sit-through 或 granby roll 重建 guard、若對方沒有掛上 hook 就利用摔角式 base 站起來、執行 peek-out 或 switch 等 turtle 專屬逃脫，或者若對方拿到你的背部，就進行背部逃脫的動作序列。Turtle 是過渡位置，不是終點。",
+   "answer_line": "持續移動，重建 guard 或站起",
+   "distractors": {
+    "plausible": [
+     "稍作休息以恢復體力",
+     "維持 turtle 姿勢等待裁判"
+    ],
+    "trap": [
+     "縮成 turtle 等對方動作"
+    ]
+   }
+  },
+  {
+   "question": "嘗試這個爆發性逃脫的最佳時機是什麼時候？",
+   "answer": "最佳時機是在對手轉移體重準備設置 submission 的時候。Choke 攻擊需要對方向前傾身，這會犧牲他們的 base。Armbar 的設置則需要調整姿勢，這會暫時鬆動腿部控制。這些進攻投入的瞬間會在對方的平衡與控制結構上創造短暫的破綻。若對著一個已經穩固落位、控制紮實的對手嘗試逃脫，成功機率會低很多。",
+   "answer_line": "在對手轉移體重進攻時行動",
+   "distractors": {
+    "plausible": [
+     "只要有足夠體力隨時都行",
+     "等對方穩定進入紮實控制時"
+    ],
+    "trap": [
+     "在對方剛拿到 crucifix 後立刻行動"
+    ]
+   }
+  },
+  {
+   "question": "為什麼嘗試這個逃脫時，接受被對方取得 back control 有時也算是成功的結果？",
+   "answer": "手臂自由的 back control 明顯比手臂被困的 mounted crucifix 好得多。在 mounted crucifix 中，因為手臂被纏住，你無法有效防守 submission。在 back control 中，即使對方取得優勢位置，你仍能完整使用防守工具——手部纏鬥、frame，以及執行系統化背部逃脫的能力。這個逃脫等於是把一個幾乎無法逃脫的位置，換成一個困難但仍可逃脫的位置。",
+   "answer_line": "自由的手臂勝過被困的手臂",
+   "distractors": {
+    "plausible": [
+     "Back control 能得更多分數",
+     "比 mount 更容易逃脫"
+    ],
+    "trap": [
+     "力拼奪回完整 mount"
+    ]
+   }
+  }
+ ]},
+ "defender": {"flashcards": [
+  {
+   "question": "對手準備從 mounted crucifix 底部發動爆發性 bridge 時，最早能察覺的徵兆是什麼？",
+   "answer": "最早的徵兆是腳部姿勢的變化——具體來說，底部的人會把腳跟拉近臀部，腳趾用力抓進地墊，為爆發力蓄勢。其他徵兆還包括測試 bridge 角度的細微髖部調整、收下巴並提肩以保護頸部，以及主動抵抗突然停頓，暗示對方正在為單次全力嘗試保留體力。及早辨識這些 bridge 前兆，能讓你有時間在爆發發生前預先調整體重分布。",
+   "answer_line": "腳跟往臀部靠近",
+   "distractors": {
+    "plausible": [
+     "突然劇烈掙扎",
+     "抓你的衣領或袖口"
+    ],
+    "trap": [
+     "呼吸放鬆、身體放軟"
+    ]
+   }
+  },
+  {
+   "question": "對手的 bridge 成功創造出空間，但手臂還沒完全抽出，你的最佳應對是什麼？",
+   "answer": "立刻把膝蓋重新夾緊在還沒完全脫困的手臂上，同時把體重壓回對方軀幹。抽出手臂的窗口很短——如果 bridge 打亂了你的平衡但手臂仍部分被困，積極地重新夾緊膝蓋能在對方完成抽出前重新鎖住 crucifix。同時調整髖部，把體重重新對準對方的胸口。如果儘管如此手臂還是脫困了，應立刻轉換到 back control，而不是嘗試重新困住手臂。",
+   "answer_line": "重新夾緊膝蓋，體重壓下",
+   "distractors": {
+    "plausible": [
+     "放開重新設置完整 mount",
+     "用雙手去追手臂"
+    ],
+    "trap": [
+     "撐起身體確認自己的平衡"
+    ]
+   }
+  },
+  {
+   "question": "在逃脫部分成功時，為什麼順勢轉入 back control 通常比硬要重新建立 mounted crucifix 更好？",
+   "answer": "一旦逃脫已累積足夠動量完成抽臂與旋轉，力學上就對逃脫的一方有利——他們的旋轉動量若不放開控制點就很難逆轉。硬對抗這股動量會浪費你的體力，還可能失去所有控制。反之，順著對方的旋轉轉入 back control，能借用對方的動作來輔助你的轉換，全程保持胸貼背接觸，並保留價值 4 分的優勢位置。Back control 提供相當的 submission 機會，同時也是逃脫軌跡的自然延續。",
+   "answer_line": "順勢跟隨旋轉，動量對你有利",
+   "distractors": {
+    "plausible": [
+     "重新對抗能保住更多分數",
+     "阻擋旋轉重奪 crucifix"
+    ],
+    "trap": [
+     "用蠻力拉回原本的位置"
+    ]
+   }
+  },
+  {
+   "question": "當你察覺到底部選手出現 bridge 前兆時，該如何調整你的體重分布？",
+   "answer": "把體重向前下方轉移，把胸口壓向對方的上胸與臉部區域，同時把髖部朝地墊方向 sprawl 下壓。這會創造出沉重且重心低的姿態，極難被 bridge 撼動。這個向前的角度會把對方的 bridge 力量導向地墊，而不是把你垂直抬起。同時收緊夾住被困手臂的膝蓋，防止任何抽出的機會。避免用手撐地的錯誤做法，那會犧牲手臂控制，而平衡本該來自髖部與胸口的姿勢。",
+   "answer_line": "壓低胸口，髖部沉重下壓",
+   "distractors": {
+    "plausible": [
+     "把體重移回對方髖部",
+     "放鬆握持以保持機動"
+    ],
+    "trap": [
+     "用雙手撐地墊維持平衡"
+    ]
+   }
+  },
+  {
+   "question": "對手先朝一個方向假動作 bridge，再爆發性地朝相反方向發力，你該如何應對這個假動作？",
+   "answer": "關鍵在於不要為了對抗第一個假動作而過度轉移體重。與其橫向轉移去阻擋第一個方向，不如保持置中的體重分布並維持向前的壓力。對假動作的反應應該是透過核心把重心壓得更低，而不是追著對方的方向跑。當真正的 bridge 出現時，你置中的 base 就能吸收來自任何方向的力量。進階練習者能透過髖部投入的質感，分辨出真正投入的 bridge 與假動作的差異——假動作通常投入的全身力度較少。",
+   "answer_line": "保持置中，不追假動作",
+   "distractors": {
+    "plausible": [
+     "轉移體重去擋第一個假動作",
+     "每次都跟著對方的方向"
+    ],
+    "trap": [
+     "用力硬擋假動作"
+    ]
+   }
+  }
+ ]}
+}

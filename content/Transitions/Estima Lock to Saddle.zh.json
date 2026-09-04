@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Estima Lock to Saddle 這個轉換的主要目的是什麼？",
+    "answer": "主要目的是把單一攻擊型態的 footlock 位置（Estima Lock）轉化為更優越的 Saddle（Inside Sankaku）配置，提供多種高勝率的完成選項，包括 inside heel hook、outside heel hook、kneebar 和 calf slicer。這種位置升級會在對手成功防禦原本的 Estima Lock 攻擊時執行。",
+    "answer_line": "升級為多重攻擊的 Saddle",
+    "distractors": {
+     "plausible": [
+      "加快完成 footlock",
+      "重設回中立的 ashi 位置"
+     ],
+     "trap": [
+      "放開腿部纏繞"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 Estima Lock 的過程中，對手開始反向旋轉腳踝——哪些具體訊號告訴你該啟動 backstep？",
+    "answer": "關鍵訊號包括：儘管你維持抓法，腳踝上的壓力卻在減弱；對手的腳開始指向偏離這個鎖的角度；他們的髖部開始製造空間；或是他們的自由腿建立起 frame。這些跡象顯示他們的防禦正在奏效，繼續 Estima Lock 的收益會逐漸遞減，而腿部纏繞的結構仍能透過轉換來利用。",
+    "answer_line": "壓力減弱但抓法仍在",
+    "distractors": {
+     "plausible": [
+      "腳指向鎖的角度內",
+      "等髖部完全轉正再說"
+     ],
+     "trap": [
+      "硬絞過反向旋轉"
+     ]
+    }
+   },
+   {
+    "question": "backstep 動作中，用「踏步」和用「旋轉」有什麼關鍵差異？",
+    "answer": "backstep 應該以髖部旋轉的方式執行，身體繞著被困的腿轉動，而不是雙腿依序踏步。踏步動作緩慢而容易被看穿，會給對手反應、撐地並阻止 Saddle 成立的時間。旋轉動作更快，能對被困的腿維持持續壓力，並產生動能，讓你在對手能建立有效防禦之前就轉到他們的膝蓋線後方。",
+    "answer_line": "髖部繞著被困的腿旋轉",
+    "distractors": {
+     "plausible": [
+      "先踏一腳，再踏另一腳",
+      "繞著你的自由腿轉"
+     ],
+     "trap": [
+      "轉身背對對方硬轉過去"
+     ]
+    }
+   },
+   {
+    "question": "你做 backstep 時對手撐起了他們的自由腳——你該如何調整？",
+    "answer": "加速 backstep 的旋轉，並用你近側的手擋住他們正在撐地的腿，阻止他們建立穩固的 base。如果他們在你能擋下之前就成功撐地了，立刻認清 Saddle 的入位已被破壞，轉而改用 leg drag pass 或 outside ashi-garami，而不是硬撐一個已經失敗的位置。關鍵在於快速決斷，而不是固執地堅持原本的計畫。",
+    "answer_line": "擋住撐地，否則改 pass",
+    "distractors": {
+     "plausible": [
+      "還是硬把 triangle 完成",
+      "放慢速度重新評估抓法"
+     ],
+     "trap": [
+      "放開腿去追撐地的腳"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須讓內側腿穿過對手遠端的髖部之後，才鎖住 triangle？",
+    "answer": "深入的腿部位置能建立更牢固的纏繞結構，讓對手不容易輕易解開你的雙腿。如果 triangle 太淺，你的腳只搆到他們近側的髖部，他們就能把膝蓋向外旋轉、在你建立起有效的 Saddle 控制之前脫身。你的內側腿穿得越深，抽腿就越困難，你的 triangle 夾力也會越緊。",
+    "answer_line": "夠深才能阻止他們抽腿",
+    "distractors": {
+     "plausible": [
+      "搆到近側髖部就快點鎖住",
+      "主要是為了夾得更緊"
+     ],
+     "trap": [
+      "先淺淺鎖住，之後再往內調整"
+     ]
+    }
+   },
+   {
+    "question": "一旦 Saddle 位置確立，你應該建立什麼樣的抓法配置？",
+    "answer": "用雙手控制對手的腳跟——通常用杯狀抓法（手掌朝上、手指在腳跟周圍交扣）來準備 inside heel hook 攻擊，或用交叉抓法配置來準備 outside heel hook 的設置。同時，利用你的 triangle 夾力與身體姿勢控制他們的膝蓋線，阻止那種能破解 heel hook 力學的旋轉逃脫。",
+    "answer_line": "杯狀或交叉抓腳跟，控制膝蓋線",
+    "distractors": {
+     "plausible": [
+      "抓腳趾，不管膝蓋線",
+      "抓小腿，放開 triangle"
+     ],
+     "trap": [
+      "放開腳跟去抓腰帶"
+     ]
+    }
+   },
+   {
+    "question": "在你啟動 backstep 時，對手猛力坐起身並在你髖部上建立 frame——你該中止還是繼續？",
+    "answer": "繼續 backstep，同時用你空出的手游過他們的 frame。事實上，對手坐起的姿勢反而有助於你建立 Saddle，因為這會讓他們的大腿更靠近你正在鎖住的雙腿。他們坐起的動作縮短了你髖部需要移動的距離，一旦你完成繞到他們膝蓋線後方的旋轉，他們的 frame 效果也會隨之減弱。這是威脅性較低的反制動作之一。",
+    "answer_line": "繼續動作，游過他們的 frame",
+    "distractors": {
+     "plausible": [
+      "中止並重設回中立位置",
+      "停下來重新抓 footlock"
+     ],
+     "trap": [
+      "放開腿去對抗 frame"
+     ]
+    }
+   },
+   {
+    "question": "從 Saddle 能取得哪些在 Estima Lock 時無法使用的完成選項？",
+    "answer": "Saddle 能讓你取得 inside heel hook（現代比賽中勝率最高的腿鎖完成技）、透過調整腿部配置取得 outside heel hook、藉由把對手的腿抵著你的髖部伸直來完成 kneebar，以及把你的小腿放在他們膝蓋後方來完成 calf slicer。Estima Lock 只能威脅單一的 footlock 攻擊，而 Saddle 的多樣性讓你能同時攻擊多個關節，並依對方的防禦反應調整攻擊方向。",
+    "answer_line": "能取得 inside heel hook",
+    "distractors": {
+     "plausible": [
+      "這裡 kneebar 才是最佳完成技",
+      "calf slicer 會最先出現機會"
+     ],
+     "trap": [
+      "把雙腳交叉鎖死就完成了"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該完全中止 Saddle 的轉換，改追求其他位置？",
+    "answer": "當對手在你能擋住之前，就成功以穩固的 base 撐起了自由腳；當他們透過爆發性的挺橋製造出明顯空間、破解了你的髖部壓力；或是當他們在轉換的過程中站了起來時，就該中止。在這些情況下，改採 leg drag pass、outside ashi-garami 或站立式 pass，能保留攻勢動能，而不是硬撐一個結構上已經失敗的位置。",
+    "answer_line": "對手撐地、挺橋或站起",
+    "distractors": {
+     "plausible": [
+      "對手抓住你的袖子",
+      "對手呼吸變得急促"
+     ],
+     "trap": [
+      "無論如何都硬轉下去"
+     ]
+    }
+   },
+   {
+    "question": "Rolling Backstep 這個變化式與標準執行方式有什麼不同？什麼時候適合使用？",
+    "answer": "Rolling Backstep 在維持腿部控制的同時，用肩部翻滾的方式旋轉進入 Saddle 位置，動能來自翻滾動作，而不是從穩固 base 出發的髖部旋轉。這個變化式適合用在你已被對手的壓力壓平、無法從站姿執行 backstep 時，或是對手向下的壓迫動作反而創造出能透過翻滾借力使力的機會時。",
+    "answer_line": "用肩部翻滾轉進 Saddle",
+    "distractors": {
+     "plausible": [
+      "從穩固 base 做髖部旋轉",
+      "先站起來再做 backstep"
+     ],
+     "trap": [
+      "放開腿轉身硬轉過去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "Estima Lock to Saddle 這個轉換即將開始的主要辨識線索是什麼？",
+    "answer": "主要線索是攻擊者放鬆或放開了 figure-four footlock 抓法，轉為控制你的小腿或膝蓋線。這種抓法的改變代表他們正在放棄 footlock，準備進行 backstep 旋轉。同時，你會感覺到他們的髖部壓力，從壓向你被困的腿轉為朝反方向旋轉。及早辨識出這個抓法變化，能讓你在 backstep 完成之前，爭取到狹窄的防禦時間窗採取行動。",
+    "answer_line": "抓法從腳轉向小腿／膝蓋",
+    "distractors": {
+     "plausible": [
+      "對手把你的衣領抓得更緊",
+      "對手拍打墊子"
+     ],
+     "trap": [
+      "對手完全放開你的腿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼阻止 Saddle 成立，優先順序比防禦 Estima Lock 還高？",
+    "answer": "Estima Lock 只威脅單一的 footlock 降伏技，完成手段有限，而 Saddle 能讓對手取得 inside heel hook、outside heel hook、kneebar 和 calf slicer——這是一個完成率遠高得多的多重攻擊平台。此外，Saddle 的防禦難度明顯高於 Estima Lock，因為它的 triangle 纏繞會限制你所有的髖部活動。任由 Saddle 轉換成立，會把一個原本可控的防禦局面，變成危機等級的處境。",
+    "answer_line": "Saddle 是多重攻擊平台",
+    "distractors": {
+     "plausible": [
+      "Estima Lock 其實更難逃脫",
+      "兩者都只是單一 footlock 威脅"
+     ],
+     "trap": [
+      "先防禦 Estima Lock 就好"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者把抓法從你的腳轉移到你的小腿——你立即該做的防禦動作是什麼？",
+    "answer": "立刻把你的自由腿撐在墊子上或頂住攻擊者的髖部，擋住他們的旋轉路徑，同時開始把你的髖部朝他們的方向反向旋轉。抓法從腳轉到小腿，是 backstep 即將發生最明確的指標，你大約還有一到兩秒的時間，旋轉就會開始。你的自由腿撐地能實際擋住他們髖部需要移動的路徑，而髖部的反向旋轉則能阻止他們取得 Saddle 所需的垂直交錯角度。",
+    "answer_line": "撐自由腿，反向旋轉髖部",
+    "distractors": {
+     "plausible": [
+      "抓住他們的手腕阻止換抓",
+      "把他們的頭推開"
+     ],
+     "trap": [
+      "伸直被困的腿並放鬆"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者已經完成 backstep，內側腿已經進到你雙腿之間，但 triangle 還沒鎖上——你還能做什麼？",
+    "answer": "用你自由的那隻腳勾住攻擊者遠端的腿，阻止他們合攏 figure-four 的 triangle，同時把你被困的那條腿伸直，把他們的內側腿推回去。用雙手在他們的髖部上建立 frame，製造距離、阻止他們把這個位置收緊。內側腿穿入與 triangle 完成之間的這段狹窄時間窗，是你阻止 Saddle 完全成立的最後機會，一旦錯過，這個位置就會變得明顯更難逃脫。",
+    "answer_line": "勾住遠端的腿，擋住 triangle",
+    "distractors": {
+     "plausible": [
+      "用髖部建立 frame 並 shrimp 後退",
+      "腳趾指開，轉向膝蓋跪地"
+     ],
+     "trap": [
+      "轉成趴姿硬把腿拉出來"
+     ]
+    }
+   },
+   {
+    "question": "在同時防禦 Estima Lock footlock 威脅與阻止 backstep 之間，你該如何取捨？",
+    "answer": "優先阻止 backstep 而不是防禦 footlock，因為 Saddle 的處境遠比 Estima Lock 糟糕得多。維持基本的腳踝反向旋轉來防禦 footlock，但讓你的自由腿保持警覺，隨時準備撐地以對抗 backstep 的嘗試。當你察覺到抓法轉移、代表轉換正在發生時，立刻放棄針對這個鎖的專門防禦，全力投入阻止 backstep。接受同時完美防禦兩種威脅並不現實，並做出優先處理較大危險的策略性選擇。",
+    "answer_line": "先阻止 backstep",
+    "distractors": {
+     "plausible": [
+      "先防禦 footlock",
+      "把注意力平均分配給兩者"
+     ],
+     "trap": [
+      "踢腳掙脫並轉身背對"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Estima Lock to Saddle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

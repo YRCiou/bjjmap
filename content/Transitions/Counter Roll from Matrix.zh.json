@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Roll from Matrix.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼是你應該放棄 Matrix 背後控制、轉而執行 counter roll 的主要指標？",
+    "answer": "主要指標是當你的旋轉動能遇到超出你能力範圍的防守阻力，讓你無法繼續朝背後的弧線前進。這包括對手的 base 明顯變寬、體重下壓在你的髖部、主動 sprawl 讓你的旋轉變平，或是反向旋轉抵消你的動能。關鍵在於盡早讀出這種阻力，而不是硬撐過去，因為硬撐一個正在失敗的 Matrix 會浪費你轉換方向所需要的動能。",
+    "answer_line": "旋轉遇阻力而停滯",
+    "distractors": {
+     "plausible": [
+      "對手開始 sprawl",
+      "等到完全被 stack 住"
+     ],
+     "trap": [
+      "硬撐過阻力"
+     ]
+    }
+   },
+   {
+    "question": "為什麼腿部軌跡的改變必須在連續動作中發生，而不是停下來後再另外執行？",
+    "answer": "暫停翻滾動作來改變方向，會製造出一個你倒立或姿勢受制、卻毫無防守結構的靜止瞬間。任何停頓都會給對手時間，利用 sprawl 壓力、crossface 或過腿嘗試來佔便宜。轉換方向時的連續動作，會利用剩餘的動能來驅動抓腿纏繞，讓整個動作串連成一個流暢的動作，而不是一個對手可以輕易預測並反制的「停止再重新開始」。",
+    "answer_line": "不停頓地轉換方向",
+    "distractors": {
+     "plausible": [
+      "短暫停頓重新調整方向",
+      "轉換前先放慢速度"
+     ],
+     "trap": [
+      "停下來計畫你的抓腿"
+     ]
+    }
+   },
+   {
+    "question": "在 counter roll 過程中，你應該鎖定對手哪一隻腿來建立 half guard 纏繞，為什麼？",
+    "answer": "永遠鎖定對手離你旋轉路徑最近的那隻腿。近側腿需要的額外移動量最少，能讓轉換動作維持效率與速度。若鎖定遠側腿，就必須把翻滾動作延伸超出你最佳的旋轉弧線，造成動作更長、更慢，給對手更多時間反應，往往會導致你完全撲空纏繞，讓自己陷入比單純接受 turtle 更糟的處境。",
+    "answer_line": "鎖定近側腿",
+    "distractors": {
+     "plausible": [
+      "鎖定遠側腿",
+      "先抓上方那隻腿"
+     ],
+     "trap": [
+      "放棄抓腿，直接 turtle"
+     ]
+    }
+   },
+   {
+    "question": "你的 counter roll 成功了，並在 half guard 中纏繞住對手的腿——你必須立刻建立什麼？",
+    "answer": "立刻建立主動的 half guard 結構：爭取被纏住那隻腿一側的 underhook，同時用外側手臂 framing 來阻擋 crossface 與胸貼胸的壓力。你也必須轉到側身，而不是平躺在背上，因為側身能讓你的髖部保有活動度、創造角度，並能從 half guard 銜接 sweep 與背後控制。被動地平躺背朝下的 half guard 很快就會被過腿。",
+    "answer_line": "Underhook、frame、轉側身",
+    "distractors": {
+     "plausible": [
+      "只做 underhook，不 framing",
+      "只 framing，不做 underhook"
+     ],
+     "trap": [
+      "保持平躺背朝下"
+     ]
+    }
+   },
+   {
+    "question": "在整個 counter roll 過程中，你必須維持哪些 grip 或連接點？為什麼它們不可妥協？",
+    "answer": "在轉換方向的整個過程中，你必須至少保持一個與對手的主動連接——通常是抓住他們近側腿或褲管的 grip，或是一個正在成形的鎖腿 hook。沒有這個連接，你就會獨自旋轉，最後與對手分開、沒有任何纏繞，等於是把一個被防守住的 Matrix 換成一場開放的混戰。這個 grip 會把對手的近側腿拉進你正在形成的 half guard 中，確保他們跟著你一起翻滾，而不是眼睜睜看著你轉開、消失在空曠處。",
+    "answer_line": "維持抓住對手腿的 grip",
+    "distractors": {
+     "plausible": [
+      "改抓對手的遠側腿",
+      "任何 grip 都可以，抓住就好"
+     ],
+     "trap": [
+      "放手以轉得更快"
+     ]
+    }
+   },
+   {
+    "question": "擁有可靠的 counter roll，會如何影響你整體 Matrix 背後控制的成功率？",
+    "answer": "擁有可靠的 counter roll 會提升你 Matrix 的成功率，因為它讓你能更積極地投入 Matrix 的進入動作。沒有退路的話，練習者會在旋轉中途猶豫，而這正是 Matrix 失敗的主要原因，因為這個技術要求你全心投入。知道自己能安全地轉換到 half guard，就能消除對於全心投入的恐懼，帶來更快、更有力的初始旋轉，讓對手更難防守。",
+    "answer_line": "消除恐懼，更敢全力投入",
+    "distractors": {
+     "plausible": [
+      "讓你可以安心猶豫",
+      "只對高階段位有用"
+     ],
+     "trap": [
+      "讓你在進入動作時放鬆"
+     ]
+    }
+   },
+   {
+    "question": "如果你在旋轉動能已經完全消散之後才嘗試 counter roll，會發生什麼事？",
+    "answer": "沒有剩餘動能的話，counter roll 會變成從一個劣勢姿勢做出的靜態抓腿動作，而不是動態的轉換。這會給對手時間 sprawl、hip switch，或是從你的抓腿嘗試中 backstep 逃開。如果動能已經完全消失，你應該完全放棄 counter roll，改為回到 turtle 防守、重整姿勢，尋找新的進入機會，而不是硬做一個已經死掉的技術，讓自己暴露在被過腿的風險中。",
+    "answer_line": "放棄它，回到 turtle",
+    "distractors": {
+     "plausible": [
+      "放慢速度再試一次，仍然投入",
+      "直接轉換到 open guard"
+     ],
+     "trap": [
+      "硬做靜態抓腿"
+     ]
+    }
+   },
+   {
+    "question": "對手預判到你的 counter roll 並 backstep 把腿撤開——你的立即反應是什麼？",
+    "answer": "立刻跟上 backstep，用 hip escape 在距離變得太遠之前重新接觸對手的腿。如果 backstep 造成的距離太大，無法直接重新纏腿，就轉換到 butterfly hooks 或 open guard 的 frame，維持一個 guard 姿勢，而不是毫無 guard 結構地被留在背上。關鍵在於絕不被動接受這個距離——即使對手試圖脫離你的纏繞嘗試，你的雙腿也必須主動追求連接。",
+    "answer_line": "Hip escape，追上重新連接",
+    "distractors": {
+     "plausible": [
+      "等對手重新調整",
+      "改抓手腕而不是髖部"
+     ],
+     "trap": [
+      "接受毫無 guard 平躺的處境"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "counter roll 的嘗試，與底方單純接受 turtle 姿勢、完全失敗的 Matrix，兩者有什麼不同？",
+    "answer": "counter roll 的特徵是底方的雙腿主動把軌跡從朝背後的弧線，改變成朝下鎖定你雙腿的路徑，同時維持或轉換了動能。完全失敗的 Matrix 則顯示底方的動能完全消失、沒有任何方向轉換的動作，並且會以髖部貼平、雙腿收回的姿態安頓進 turtle。counter roll 維持連續動作與主動的追腿動作，而失敗的 Matrix 則顯示所有動作明顯停止。",
+    "answer_line": "腿在持續動作中改變方向",
+    "distractors": {
+     "plausible": [
+      "任何一點腿部抽動都算",
+      "動作變慢仍然算數"
+     ],
+     "trap": [
+      "停頓後再重新開始也算"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防守住初始的 Matrix 旋轉後放鬆，對上位者來說是一個嚴重的錯誤？",
+    "answer": "放鬆會製造一個空檔，讓底方可以毫無阻力地轉換到 counter roll。熟練的練習者預期自己的 Matrix 會被防守下來，並會立刻順勢銜接 counter roll，把它當作既定攻擊序列的一部分，而不是臨場反應。放鬆的上位者等於白白把 half guard 的恢復機會送給底方，完全抵消了擋下原始 Matrix 攻擊所帶來的防守成功。",
+    "answer_line": "白白讓對手恢復姿勢",
+    "distractors": {
+     "plausible": [
+      "只有面對高階對手才有風險",
+      "只會浪費一點點時間"
+     ],
+     "trap": [
+      "過腿前先喘口氣"
+     ]
+    }
+   },
+   {
+    "question": "在 counter roll 進行到一半時，對手的雙腿開始纏上你的大腿——你的立即反應是什麼？",
+    "answer": "立刻把被鎖定的那隻腿 backstep 撤離纏繞的嘗試，同時用上半身施加 crossface 壓力，阻止底方跟隨你的腿。如果雙腿已經部分纏上，就爆發性地 hip switch，在纏繞收緊、鎖死你大腿之前把腿抽出。時間非常關鍵——一旦對手雙腿完全夾緊鎖住你的大腿，抽腿就會困難許多，你也會被迫陷入 half guard 過腿的處境。",
+    "answer_line": "腿 backstep，施加 crossface 壓力",
+    "distractors": {
+     "plausible": [
+      "等看看它會不會完全鎖死",
+      "用雙手把腿推開"
+     ],
+     "trap": [
+      "讓它纏上，之後再用力掙脫"
+     ]
+    }
+   },
+   {
+    "question": "面對一個以擅長從 Matrix 反擊 counter roll 聞名的對手，你應該如何調整自己的站位？",
+    "answer": "在整個 Matrix 防守過程中，維持較寬的 base，讓雙腿的位置盡量遠離對手的觸及範圍。把你的近側腿稍微擺得比一般位置更後面，增加對手雙腿在轉換時必須移動的距離。持續保持雙腿的機動性，而不是靜態地固定不動，並且在擋下 Matrix 之後立刻轉為主動過腿，切斷 counter roll 佈局與執行所需要的時間窗口。",
+    "answer_line": "寬 base、腿保持機動、快速過腿",
+    "distractors": {
+     "plausible": [
+      "把腿牢牢固定住",
+      "採用窄而緊的站姿"
+     ],
+     "trap": [
+      "擋下 Matrix 後就放鬆"
+     ]
+    }
+   }
+  ]
+ }
+}

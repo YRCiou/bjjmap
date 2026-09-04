@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame and Extract to Half Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Frame and Extract to Half Guard 的主要目標是什麼？",
+    "answer": "主要目標是安全逃離 Inside Sankaku 的腿部纏鎖，同時保護你的膝蓋不受 inside heel hook 傷害，轉換到 Half Guard，讓你能重整防守結構，並保有拿回 guard、發動 sweep 或站起來的清楚路徑。",
+    "answer_line": "逃離 heel hook，抵達 Half Guard",
+    "distractors": {
+     "plausible": [
+      "改逃到 open guard",
+      "先進攻 heel hook"
+     ],
+     "trap": [
+      "無視 frame，硬把腳扯出來"
+     ]
+    }
+   },
+   {
+    "question": "Frame and Extract to Half Guard 是從什麼位置開始的？",
+    "answer": "這個技巧是從 Inside Sankaku bottom（也就是 Honey Hole 或 411）開始，你的腿被困在對手的 figure-four 結構中，腳跟朝向對方身體中線暴露在外。",
+    "answer_line": "Inside Sankaku（Honey Hole）下位",
+    "distractors": {
+     "plausible": [
+      "Saddle（Inside Heel Hook）下位",
+      "Outside Ashi-Garami 下位"
+     ],
+     "trap": [
+      "heel hook 已經完全鎖死"
+     ]
+    }
+   },
+   {
+    "question": "執行 Frame and Extract to Half Guard 需要的關鍵 frame 有哪些？",
+    "answer": "兩個關鍵 frame 分別是：（1）用你遠側的前臂頂住對手的髖部摺線，作為製造分離的主要屏障；（2）用你近側的手頂住對方的膝蓋或小腿，防止對方收緊纏鎖，並協助你抽腿脫困。",
+    "answer_line": "遠側前臂頂髖，近側手頂膝",
+    "distractors": {
+     "plausible": [
+      "雙手都放在對手的髖部",
+      "近側前臂頂髖部摺線"
+     ],
+     "trap": [
+      "只用遠側的腳推開對方"
+     ]
+    }
+   },
+   {
+    "question": "對手通常會如何反制 Frame and Extract to Half Guard？",
+    "answer": "最有效的反制是趁你向後逃脫時，把髖部往前推進，維持髖部的連結。他們也可能在你 frame 建立之前就先進攻 inside heel hook、在你製造出不當角度時轉換到 Saddle，或是抓住你的褲管或腿部，阻止你的髖部移動。",
+    "answer_line": "把髖部往前推，追著你",
+    "distractors": {
+     "plausible": [
+      "立刻進攻 heel hook",
+      "抓褲管阻止你的髖部移動"
+     ],
+     "trap": [
+      "放手重新架設位置"
+     ]
+    }
+   },
+   {
+    "question": "嘗試 Frame and Extract to Half Guard 的最佳時機是什麼時候？",
+    "answer": "最佳時機是對手還沒在你的腳跟上建立穩固的技鎖抓握、髖部連結暫時鬆動的時候——通常發生在他們調整腿部位置、伸手去抓握，或是調整上半身姿勢的當下。技鎖一旦鎖死，就絕對不要嘗試。",
+    "answer_line": "在腳跟被鎖住前、髖部鬆動時",
+    "distractors": {
+     "plausible": [
+      "他們一抓住你的腳跟就做",
+      "只要髖部維持連結，隨時都行"
+     ],
+     "trap": [
+      "技鎖已經架設完成之後"
+     ]
+    }
+   },
+   {
+    "question": "儘管你已經架好 frame，對手仍維持緊密的髖部連結——你該做什麼調整？",
+    "answer": "連續做多次 hip escape，而不是靠一次大動作解決；用你的自由腿一邊架 frame 一邊主動把對手的髖部踢開；如果對手過度前傾、拚命追你的髖部，就轉換打 Granby roll。關鍵在於不要一次嘗試失敗就停下來。",
+    "answer_line": "連續 hip escape，用自由腿踢開",
+    "distractors": {
+     "plausible": [
+      "只做一次大爆發的 hip escape",
+      "用兩個 frame 更用力推"
+     ],
+     "trap": [
+      "停下來重新架抓握"
+     ]
+    }
+   },
+   {
+    "question": "為什麼抽腿脫困後要轉換到 Half Guard，而不是 open guard？",
+    "answer": "Half Guard 透過 knee shield 和收攏的腿部位置，能立刻提供結構性保護，阻止對手重新進入腿部纏鎖或快速過腿。抽腿脫困後直接進入 open guard，會讓你在沒有明確防守屏障的情況下陷入混戰，而 Half Guard 則提供拿回 guard、發動 sweep 或站起來的明確路徑。",
+    "answer_line": "Knee shield 阻擋重新纏鎖",
+    "distractors": {
+     "plausible": [
+      "Open guard 能發動更多 sweep",
+      "Half Guard 比較容易維持"
+     ],
+     "trap": [
+      "在這個情況下 open guard 比較安全"
+     ]
+    }
+   },
+   {
+    "question": "什麼身體徵兆告訴你逃脫已經不再安全、應該直接拍降？",
+    "answer": "遇到以下情況要立刻拍降：對手已經用 two-on-one 抓穩你的腳跟、手腕像刀刃一樣頂住你的阿基里斯腱；你感覺到腳跟開始有任何旋轉方向的壓力；或是你的腳在對手的抓握中已經無法自由移動。inside heel hook 一旦鎖死，會在幾毫秒內造成毀滅性的傷害。",
+    "answer_line": "腳跟出現旋轉壓力",
+    "distractors": {
+     "plausible": [
+      "腳踝有任何不適感",
+      "對手只是抓了一下你的腳"
+     ],
+     "trap": [
+      "等聽到「啪」一聲再拍降"
+     ]
+    }
+   },
+   {
+    "question": "在 hip escape 階段，你的自由腿被對手控制住了——你該如何恢復局面？",
+    "answer": "如果對手控制住你的自由腿，你就失去了製造 hip escape 距離的主要動力來源。先用雙手剝掉他們對自由腿的控制，再繼續逃脫動作。如果對手同時控制了你的雙腿，就退回腳跟保護姿勢，等他們鬆開其中一個控制點、以便推進技鎖時再行動。一旦他們放開自由腿去抓你的腳跟，立刻恢復 hip escape。",
+    "answer_line": "先剝除自由腿的控制，再逃脫",
+    "distractors": {
+     "plausible": [
+      "硬靠抓握強行做 hip escape",
+      "立刻反攻他們的腳跟"
+     ],
+     "trap": [
+      "放棄腳跟保護姿勢"
+     ]
+    }
+   },
+   {
+    "question": "執行這個技巧的 hip escape 部分時，力量方向的關鍵是什麼？",
+    "answer": "力量必須朝後方並帶一點側向，沿著你被困那條腿的方向把髖部移離對手。若只是直直地向後推、沒有側向角度，你仍會停留在對方最強的控制平面內。這個些微的角度會製造出一條螺旋路徑，幫助你的腿開始脫離 figure-four 結構，同時 frame 能阻止對手跟著你的動作移動。",
+    "answer_line": "向後並帶一點側向",
+    "distractors": {
+     "plausible": [
+      "純粹向後，沒有角度",
+      "純粹側向，沒有向後"
+     ],
+     "trap": [
+      "向前推進對方的髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手開始執行 Frame and Extract to Half Guard，最早能觀察到的辨識線索是什麼？",
+    "answer": "最早的線索是他們遠側的前臂開始朝你的髖部摺線移動，準備建立主要的 frame。這個動作發生在 hip escape 動作之前，是你介入的第一個機會。在這個 frame 承受重量之前，你可以用很小的力氣就把它剝掉。一旦 frame 建立完成並承受了 hip escape 的力量，就會變得難以移除得多。",
+    "answer_line": "遠側前臂伸向髖部",
+    "distractors": {
+     "plausible": [
+      "他們開始做 hip escape 動作",
+      "heel hook 抓握突然收緊"
+     ],
+     "trap": [
+      "等 frame 完全架好再反應"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你的髖部建立起穩固的 frame，並開始製造 hip escape 的距離——你的應對順序是什麼？",
+    "answer": "首先，用你近側的手剝掉或改變他們架 frame 那隻前臂的方向。同時積極把你的髖部往前推，縮短他們正在製造的空間。如果 frame 已經穩固到難以剝除，就用你外側的腿在纏鎖上增加向下的壓力，同時推進髖部。目標是用你的體重壓垮這個 frame，而不是單靠手臂力量硬碰硬。",
+    "answer_line": "剝除 frame，把髖部往前推",
+    "distractors": {
+     "plausible": [
+      "向後拉開，製造自己的空間",
+      "純粹用手臂力量對抗 frame"
+     ],
+     "trap": [
+      "繼續後退，重新拉開距離"
+     ]
+    }
+   },
+   {
+    "question": "對手的逃脫嘗試，如何為你製造出轉換到 Saddle 的機會？",
+    "answer": "當對手側向做 hip escape、製造抽腿角度時，他們的自由腿往往會進入你外側腿的可控範圍。當他們轉開角度時，另一條腿會更靠近你的纏鎖結構。趁著這個側向移動的當下，把你外側的腿穿過他們的自由腿，就能把雙腿一起收進 Saddle 結構之中。對手自己的逃脫動作，正好提供了讓這個轉換成立所需要的角度變化。",
+    "answer_line": "外側腿穿過對方自由腿",
+    "distractors": {
+     "plausible": [
+      "用雙手抓住他們的自由腳踝",
+      "等他們自己站起來"
+     ],
+     "trap": [
+      "放開纏鎖去追腿"
+     ]
+    }
+   },
+   {
+    "question": "在整個逃脫過程中，什麼時候對手的腳跟最容易受到攻擊？",
+    "answer": "腳跟最脆弱的時刻，是在抽腿階段——當對手旋轉並以螺旋方式把被困的腿從你的 figure-four 中抽出時。這個螺旋動作可能會暫時把原本藏在髖部旁的腳跟抬離，製造出一個短暫的 heel hook 進攻窗口。此外，當對手把近側的手從保護腳跟改為建立次要 frame 時，腳跟也會失去防護。",
+    "answer_line": "在螺旋抽腿階段",
+    "distractors": {
+     "plausible": [
+      "他們一開始做 hip escape 的瞬間",
+      "他們第一次抓住你腿的時候"
+     ],
+     "trap": [
+      "只有他們抵達 Half Guard 之後"
+     ]
+    }
+   },
+   {
+    "question": "成功的髖部壓迫應對，和過度投入、反而讓對手打出 Granby roll 反制，差別在哪裡？",
+    "answer": "成功的髖部壓迫會維持較低的重心，把體重透過髖部分配到纏鎖之中，讓底盤保持穩定。過度投入則是把上半身向前、向高處驅動，讓體重轉移到對手髖部的上方，而不是壓進去。當你的重心變高並向前傾時，對手就能利用你的動能，從你身下打出 Granby roll 翻轉。要讓壓力維持在低、重、並集中在髖部連結點上，而不是用軀幹往前撲。",
+    "answer_line": "維持低位，體重透過髖部",
+    "distractors": {
+     "plausible": [
+      "用肩膀用力驅動",
+      "用胸口壓向對方的腿"
+     ],
+     "trap": [
+      "用軀幹高位向前撲"
+     ]
+    }
+   }
+  ]
+ }
+}

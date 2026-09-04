@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Scarf Hold Position.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼標準的 side control shrimping 逃脫方式對 scarf hold 無效？取代它的動作模式是什麼？",
+    "answer": "scarf hold 的垂直角度，代表側向的髖部移動只會沿著對手身體滑動，而不是創造出垂直於對手壓力方向的距離。bridge-and-turn 的機制取代了 shrimping，因為它利用了這個垂直角度，朝對手方向或反方向旋轉，把對手的重量壓到他們肩膀那條線上，那正是他們 base 最弱的地方。",
+    "answer_line": "用 bridge and turn，不是 shrimp",
+    "distractors": {
+     "plausible": [
+      "頂著壓力更用力 shrimp",
+      "直接 shrimp 出空間"
+     ],
+     "trap": [
+      "反覆 shrimp 直到成功"
+     ]
+    }
+   },
+   {
+    "question": "從 scarf hold 下位嘗試爆發性 bridge 之前，你必須先完成什麼？",
+    "answer": "你必須先破壞對手的 base，方法是困住他們的遠側手臂，或消除他們撐地的能力。沒有這個前置動作，對手只要用撐地的那隻手保持穩定，就能輕鬆騎乘你的 bridge。此外，你需要在對手近側的腿上做一個下方腿 hook，防止對手轉入 mount，同時你的防禦性 frame 必須建立好，防止 bridge 過程中被壓制窒息。",
+    "answer_line": "困遠側手臂，hook 近側腿",
+    "distractors": {
+     "plausible": [
+      "先恢復完整 guard",
+      "先控制頭部再 bridge"
+     ],
+     "trap": [
+      "立刻全力 bridge"
+     ]
+    }
+   },
+   {
+    "question": "逃脫嘗試中，對手對你被困的手臂發動 americana——你該如何應對？",
+    "answer": "立刻伸直受威脅的手臂，抓住自己的大腿或腰帶把它固定住，大拇指朝向天花板，避免對手完成 figure-four 鎖法。接著要意識到，americana 攻擊會創造出一個逃脫的空檔，因為對手為了追求這個 submission，必須放鬆一部分頭部控制或位置上的連結。利用這個空檔執行你的逃脫動作，而不是單純防守這個 submission。",
+    "answer_line": "伸直手臂、拇指朝上、趁機逃脫",
+    "distractors": {
+     "plausible": [
+      "硬用蠻力把手臂扯出來",
+      "僵住不動硬撐這個 sub"
+     ],
+     "trap": [
+      "放掉你的 frame 去救手臂"
+     ]
+    }
+   },
+   {
+    "question": "從 scarf hold 執行 bridge-and-roll 逃脫時，bridge 的正確角度是什麼？",
+    "answer": "bridge 應該朝對手被困手臂那一側，以 45 度角施力，而不是直直往上。這個角度會把對手的重量壓到他們肩膀那條線上，那裡的 base 幾乎不存在，讓你有機會把他們從肩膀那側翻過去。如果直直往上 bridge，一旦你回到墊子上，對手就能重新回穩位置。",
+    "answer_line": "朝被困手臂方向 45 度",
+    "distractors": {
+     "plausible": [
+      "直直往上全力頂",
+      "朝手臂反方向 90 度"
+     ],
+     "trap": [
+      "反覆直直往上 bridge"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在嘗試任何 scarf hold 逃脫之前，對對手近側腿做下方腿 hook 至關重要？",
+    "answer": "這個腿 hook 有雙重作用。第一，它能防止對手在你嘗試逃脫時轉入 mount，那會讓你的處境明顯變得更糟。第二，它提供了一個控制點，能在 bridge 階段透過控制對手最靠近的支撐結構來破壞他們的 base。少了這個 hook，逃脫嘗試往往會讓對手轉入 mount，而不是讓你獲得自由。",
+    "answer_line": "擋住 mount，破壞對手 base",
+    "distractors": {
+     "plausible": [
+      "用來直接設置 sweep",
+      "解放你的髖部好 shrimp"
+     ],
+     "trap": [
+      "跳過它直接爆發式 bridge"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge-and-roll 嘗試被對手放寬 base 破解了——接下來你該怎麼做？",
+    "answer": "立刻轉換到 ghost escape 變化型。當對手放寬 base、壓低髖部來反制你的 bridge 時，他們的身體後方就會出現空間。轉身面向對手，跪到他們身後，利用這個背門逃脫路徑。關鍵在於從失敗的 bridge 立刻銜接到下一個技術，而不是重置、失去你已經創造出的位置破壞。",
+    "answer_line": "直接銜接到 ghost escape",
+    "distractors": {
+     "plausible": [
+      "重置後更用力再 bridge 一次",
+      "直接切換去恢復 guard"
+     ],
+     "trap": [
+      "繼續硬做同一個翻滾"
+     ]
+    }
+   },
+   {
+    "question": "長時間被困在 scarf hold 下位時，你應該如何管理體力消耗？",
+    "answer": "即使胸口受到壓迫，也要優先進行有控制的橫膈膜呼吸，用腹式呼吸取代胸腔擴張。逃脫動作要配合對手的重心轉移時機，以戰術性的爆發方式進行，而不是持續掙扎。把逃脫嘗試有效率地串連起來，讓每個失敗的技術直接銜接到下一個，而不是重置。接受 turtle 是一個有效的中繼逃脫姿勢，而不是從劣勢角度硬拚著要恢復 guard，白白耗盡體力。",
+    "answer_line": "腹式呼吸，爆發式逃脫",
+    "distractors": {
+     "plausible": [
+      "持續用最大力氣掙扎",
+      "憋氣硬撐"
+     ],
+     "trap": [
+      "不停硬拚要恢復 guard"
+     ]
+    }
+   },
+   {
+    "question": "從 scarf hold 下位辨識逃脫時機空檔的主要線索有哪些？",
+    "answer": "主要線索是觸覺而非視覺：感覺對手在攻擊 submission 或轉換位置時重心向前轉移，感覺對手調整 grip 時頭部控制鬆動，察覺對手伸手去攻擊時 base 變窄。最可靠的空檔出現在對手放鬆頭部控制、去攻擊你遠側手臂的時候，因為這會暫時釋放你頭部的活動能力，讓你能執行逃脫動作。",
+    "answer_line": "感覺重心轉移、頭部鬆動",
+    "distractors": {
+     "plausible": [
+      "觀察對手的眼神",
+      "等裁判把你們重置"
+     ],
+     "trap": [
+      "無視線索，按固定時間 bridge"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要防止對手逃脫，你必須維持的 scarf hold 控制三大支柱是什麼？",
+    "answer": "三大支柱分別是：透過肋骨施加沉重的髖部壓力，限制對手呼吸與動作；用遠側手臂緊緊控制頭部，防止 bridge-and-turn 逃脫所需要的旋轉角度；以及穩固地孤立對手的近側手臂，消除下位者最有力的防禦工具。當其中一個支柱暫時被破壞時，另外兩個必須加以補償，直到你恢復完整控制。",
+    "answer_line": "髖部壓力、頭部、近側手臂",
+    "distractors": {
+     "plausible": [
+      "腿部控制、grip、posture",
+      "背後控制、髖部、wrist lock"
+     ],
+     "trap": [
+      "頸部扭鎖、髖部壓力、腿部"
+     ]
+    }
+   },
+   {
+    "question": "對手 hook 住你的近側腿，並伸手抓向你的遠側手臂——他們正在設置什麼逃脫方式？你該如何反制？",
+    "answer": "他們正在設置 bridge-and-roll 逃脫，這需要先消除你撐地的能力、控制你的 base，接著朝你被困手臂那一側以 45 度角 bridge。反制方式是立刻伸展後腿放寬你的 base，把髖部壓力更深地壓進對手肋骨，同時把你的遠側手臂從對手的 grip 中抽出來，或者趁對手的 bridge 嘗試創造出跨過去的空間時，直接轉換進入 mount。",
+    "answer_line": "放寬 base、加深髖壓、抽出手臂",
+    "distractors": {
+     "plausible": [
+      "立刻 bridge 逃脫",
+      "shrimp 開創造空間"
+     ],
+     "trap": [
+      "放鬆讓對手完成設置"
+     ]
+    }
+   },
+   {
+    "question": "在逃脫嘗試中，你應該在什麼時機從防守 scarf hold 轉為進攻 mount？",
+    "answer": "當下位者投入轉身遠離你，或朝你被困手臂那一側 bridge，在他們的髖部與你下半身之間創造出空間時，就該轉換進入 mount。最佳時機是在對手投入 bridge 動作、無法臨時改變防守方向的那一刻。在維持上半身控制的同時跨過對手的頭部或身體，把對手的逃脫動能轉換成你的位置進展。",
+    "answer_line": "對手投入 bridge/轉身時",
+    "distractors": {
+     "plausible": [
+      "只要感覺到任何動作就轉換",
+      "只在對手完全逃脫後才轉換"
+     ],
+     "trap": [
+      "改追 submission 而不是位置"
+     ]
+    }
+   },
+   {
+    "question": "當下位者嘗試轉身進入你的背後、跪起身時，你該如何反制 ghost escape？",
+    "answer": "ghost escape 利用的是你重心過度前傾投入的弱點，所以反制的第一步是辨識出這個設置的線索。當你感覺到對手正在轉身朝你背後移動時，立刻把重心往後移，把髖部坐低，消除他們完成轉身所需要的空間。重新建立頭部控制，把他們拉回側身姿勢。如果他們已經部分完成轉身，就改成攻擊他們的 turtle 位置，而不是硬從一個彆扭的角度重新壓回 scarf hold。",
+    "answer_line": "髖部坐後，重新控制頭部",
+    "distractors": {
+     "plausible": [
+      "更用力去追遠側手臂",
+      "朝肩膀方向往前 sprawl"
+     ],
+     "trap": [
+      "硬把角度壓回原本的位置"
+     ]
+    }
+   }
+  ]
+ }
+}

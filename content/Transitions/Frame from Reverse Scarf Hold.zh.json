@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Frame from Reverse Scarf Hold.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從 Reverse Scarf Hold 下位使用前臂 frame，相較於伸直手臂用力推，主要的結構優勢是什麼？",
+        "answer": "前臂 frame 利用骨骼結構（尺骨壓在對手的髖部或肩膀上）建立一個不會疲勞的機械屏障，而伸直手臂推則依賴肌肉力量，在上位者的全身重量下很快就會耗盡。此外，伸直的手臂會讓那隻手暴露在 americana 和 armbar 的攻擊之下，而手肘貼緊身體的前臂 frame 則對降伏技是安全的，能夠長時間維持而不消耗太多體力。",
+        "answer_line": "手肘貼緊，用骨頭不用肌肉",
+        "distractors": {
+          "plausible": [
+            "frame 能吸收更多力道",
+            "frame 比較容易建立"
+          ],
+          "trap": [
+            "伸直手臂更用力推"
+          ]
+        }
+      },
+      {
+        "question": "你建立 frame 時，對手加大了胸口壓力——你應該如何調整，而不是放棄這個技術？",
+        "answer": "不要用你的 frame 直接硬扛加大的壓力。反而應該把 frame 維持在原本的位置，等對手為了發動降伏技或調整姿勢而轉移重心時，趁著這個時機執行 hip escape。如果對手持續維持沉重壓力而不轉移重心，就把 frame 的角度改為橫向推向他們的肩膀而非髖部，或是改試 bridge escape，製造一個逼他們必須應付另一種威脅的兩難局面。",
+        "answer_line": "撐住 frame，等重心轉移再逃",
+        "distractors": {
+          "plausible": [
+            "更用力頂住壓力",
+            "立刻重設 frame 角度"
+          ],
+          "trap": [
+            "放棄 frame，爆發式 bridge"
+          ]
+        }
+      },
+      {
+        "question": "為什麼必須使用連續的 hip escape 而不是一次大動作，通常需要幾次才夠？",
+        "answer": "一次大動作的 hip escape 很容易被對手用一個反應動作跟上，只要轉移重心就能把距離補回來。連續做兩到三次較小的 hip escape，並在每次之間重新調整 frame，能累積出對手無法收回的空間，因為每個階段的成果都會在下一個動作開始之前被 frame 保護住。frame 就像棘輪機制一樣，把每一次進度都鎖住，直到累積出約十五公分的空間，才能插入膝蓋。",
+        "answer_line": "兩到三次小逃脫，frame 像棘輪",
+        "distractors": {
+          "plausible": [
+            "一次爆發式大 hip escape",
+            "先全部逃完，之後再做 frame"
+          ],
+          "trap": [
+            "只靠反覆 bridge，不做 frame"
+          ]
+        }
+      },
+      {
+        "question": "從 Reverse Scarf Hold 搭配 frame 使用的最佳 bridge 角度是什麼，跟翻轉用的 bridge 有什麼不同？",
+        "answer": "搭配 frame escape 使用的 bridge，是一個朝對手支撐腳方向、角度約 45 度、有控制的減壓 bridge，目的是暫時轉移他們的重心分佈，而不是把他們整個翻過去。與追求最大高度和位移的翻轉式 bridge 不同，這個 bridge 力道適中，只是為了製造接下來 frame 會保護住的初始空間增量。過度用力的 bridge 反而可能破壞 frame 的位置。",
+        "answer_line": "45 度朝支撐腳，力道適中",
+        "distractors": {
+          "plausible": [
+            "追求最大高度的翻轉式 bridge",
+            "直接向上、全力 bridge"
+          ],
+          "trap": [
+            "用爆發式 bridge 把對手甩出去"
+          ]
+        }
+      },
+      {
+        "question": "當你開始用 frame 製造空間時，對手轉向 north-south——你的即刻反應應該是什麼？",
+        "answer": "當對手朝 north-south 移動時，他們的重心必然會離開你的胸口，這其實是一個機會。趁他們旋轉的當下，立刻用髖部跟上他們的移動，轉身面向他們並在兩人之間插入膝蓋。從 Reverse Scarf Hold 轉換到 north-south 的過渡瞬間，往往比兩個已經穩定的位置都更容易逃脫，所以一感覺到重心方向轉移就要立刻行動，不要等他們把新位置站穩。",
+        "answer_line": "髖部跟上，插入膝蓋",
+        "distractors": {
+          "plausible": [
+            "先等他們站穩再說",
+            "更用力做 frame 擋住轉身"
+          ],
+          "trap": [
+            "轉身背對以保護背部"
+          ]
+        }
+      },
+      {
+        "question": "在逃脫過程中，什麼時候該插入膝蓋？如果稍微延遲會發生什麼事？",
+        "answer": "一旦你和對手之間累積出大約十五公分的空間，通常是在連續完成兩次 hip escape 之後，就要立刻插入膝蓋。哪怕只延遲一到兩秒，都會讓對手有機會把髖部壓回你剛創造出來的空間，壓垮你的 frame，抹去所有的逃脫進度。插入膝蓋是這個逃脫技術的決勝點，因為一旦建立起來，它所形成的結構屏障會比單靠前臂 frame 更加穩固。",
+        "answer_line": "空間到十五公分立刻插膝",
+        "distractors": {
+          "plausible": [
+            "等到完全恢復 guard 再插",
+            "做完 bridge 之後再插膝"
+          ],
+          "trap": [
+            "先停下來喘口氣"
+          ]
+        }
+      },
+      {
+        "question": "你最初的 frame 在對手沉重的壓力下崩潰了——恢復和重新嘗試的順序應該是什麼？",
+        "answer": "當 frame 崩潰時，先立刻重新建立防禦性手臂姿勢：近側手肘貼緊肋骨，遠側手臂回到靠近身體、準備好做 frame 的位置。重新調整呼吸節奏以避免恐慌反應。接著重新評估對手的位置和重心分佈，再嘗試重建 frame。也可以考慮他們的壓力是否已經轉移，讓 bridge escape 變得更可行。關鍵是絕不要在沒有重設防禦基礎和體力的情況下，連續嘗試失敗的 frame。",
+        "answer_line": "重設手臂、呼吸、再評估",
+        "distractors": {
+          "plausible": [
+            "立刻用同樣方式再試一次",
+            "馬上再做一次 hip escape"
+          ],
+          "trap": [
+            "立刻爆發式做 bridge"
+          ]
+        }
+      },
+      {
+        "question": "Frame escape 和 bridge escape 從 Reverse Scarf Hold 之間如何形成兩難局面？",
+        "answer": "這兩種逃脫方式針對的是相反的底座配置。要抵抗 frame escape，上位者必須維持緊密沉重的胸口壓力，配上狹窄的底座來阻止橫向的位移。要抵抗 bridge escape，他們則需要寬闊撐開的底座來吸收方向性的力道。這兩個需求彼此互斥：為了對抗 bridge 而拓寬底座，會為 frame 型 hip escape 打開缺口；而為了對抗 frame 收緊姿勢，則會削弱對 bridge 的抵抗力。在兩種威脅之間交替，會迫使對手不斷調整，替針對他們當下配置的逃脫方式創造出時機。",
+        "answer_line": "窄底座 vs 寬底座，無法兼顧",
+        "distractors": {
+          "plausible": [
+            "frame 對任何底座寬度都有效",
+            "bridge 只對窄底座有效"
+          ],
+          "trap": [
+            "只反覆用同一種逃脫方式"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "從 Reverse Scarf Hold 下位，對手在你的髖部建立起前臂 frame——你的即刻反應應該是什麼？",
+        "answer": "把重量壓得更低，在對方的 frame 尚未達到完整骨骼對齊之前，直接用髖部壓力頂穿它。稍微調整身體角度，改變施力方向，讓他們的 frame 無法維持結構優勢。如果 frame 已經穩固建立，手肘也貼緊身體了，那就轉為攻擊做 frame 的那隻手臂或近側手臂，而不是單靠壓力去壓垮一個已經結構完整的 frame，那樣只是浪費體力。",
+        "answer_line": "趁它成形前頂穿",
+        "distractors": {
+          "plausible": [
+            "不管三七二十一直接推穿",
+            "等 frame 完全成形再說"
+          ],
+          "trap": [
+            "抓住他們的 frame 手臂拉扯"
+          ]
+        }
+      },
+      {
+        "question": "對手成功完成兩次 hip escape，並開始把膝蓋插進你們兩人之間——你該如何應對？",
+        "answer": "根據膝蓋插入的深度，你有兩個選擇。如果膝蓋還沒越過你的中線，立刻把髖部壓回剛創造出來的空間，並用手把他們的膝蓋往下、往外推開，重新建立胸口接觸。如果膝蓋已經在你軀幹上建立起 shield，就立刻轉換到 north-south，或跨過去到 mount，搶在 half guard 完全確立之前完成轉換，把對手的逃脫進度轉化為你的位置推進，而不是苦守一個逐漸崩壞的 Reverse Scarf Hold。",
+        "answer_line": "擋住膝蓋，或直接推進位置",
+        "distractors": {
+          "plausible": [
+            "永遠死守這個控制位置",
+            "退回去重設位置"
+          ],
+          "trap": [
+            "改去攻擊 leg lock"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候應該放棄 Reverse Scarf Hold、不再繼續對抗 frame escape？",
+        "answer": "當連續 hip escape 所累積的空間，讓重新拉近距離變得非常耗費體力時，也就是你需要花費大量力氣才能頂穿已建立的 frame、恢復胸對胸接觸時，就該轉換位置。判斷的關鍵在於：你能不能比對手插入膝蓋更快地壓垮 frame、補回空間。如果答案不確定，就立刻轉換到 north-south 或 mount。硬撐一個正在瓦解的 Reverse Scarf Hold，只會浪費原本可以用來成功轉換到新優勢位置的體力。",
+        "answer_line": "補回距離太耗力就換位置",
+        "distractors": {
+          "plausible": [
+            "繼續硬撐維持這個控制",
+            "等他們的膝蓋完全穿過去"
+          ],
+          "trap": [
+            "現在硬要逼出降伏技"
+          ]
+        }
+      },
+      {
+        "question": "預先攻擊近側手臂，如何降低對手從 Reverse Scarf Hold 下位發動 frame escape 的效果？",
+        "answer": "用 americana 或 kimura 攻擊近側手臂，會迫使下位者必須把手臂防禦放在優先順位，超過維持 frame。他們必須把近側手臂收回防禦位置，可能還得動用遠側手臂來防守降伏技而不是維持 frame，並放棄 hip escape 的準備動作來應付眼前的威脅。這會完全重設他們的逃脫進度，並在防禦上消耗體力。不過在嘗試降伏技的同時，仍要維持自己的底座，因為如果雙手都投入攻擊而不調整底座，可能會給對方一個孤注一擲做 bridge 逃脫的機會。",
+        "answer_line": "攻擊近側手臂，同時守住底座",
+        "distractors": {
+          "plausible": [
+            "改攻擊遠側手臂做 kimura",
+            "雙手全押，不管底座"
+          ],
+          "trap": [
+            "放開底座去鎖死降伏技"
+          ]
+        }
+      }
+    ]
+  }
+}

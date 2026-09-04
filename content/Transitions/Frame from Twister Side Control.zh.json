@@ -1,0 +1,199 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Frame from Twister Side Control.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "正確的 frame 結構是什麼，為什麼手肘在整個逃脫過程中必須保持彎曲？",
+        "answer": "frame 應該以大約九十度彎曲的手肘、貼緊身體建立起來，形成結構性屏障，而不是靠肌肉硬推。手臂伸直的 frame 會讓你暴露在 kimura、americana 及其他手臂攻擊之下，而且因為依賴肌肉耐力，很快就會疲乏。手肘彎曲的 frame 則透過骨骼結構轉移力量，能長時間維持，並在沉重壓力下更能抵抗崩潰。",
+        "answer_line": "手肘彎曲，貼緊身體",
+        "distractors": {
+          "plausible": [
+            "伸直手臂以求最大伸展距離",
+            "手肘外張以爭取空間"
+          ],
+          "trap": [
+            "用伸直的手臂用力推"
+          ]
+        }
+      },
+      {
+        "question": "建立初始 frame 對抗上位者的最佳時機是什麼時候？",
+        "answer": "最佳時機是上位者把重心往前移，去追求 Twister 降伏技或勒頸攻擊的時候，這會暫時降低他們底座的穩定性以及腿部纏繞的效果。這個重心轉移會創造出一段肩部壓力稍微減輕的短暫空檔，讓下位者比在對方沉重且穩定的控制下更容易插入 frame。",
+        "answer_line": "上位者重心前移時",
+        "distractors": {
+          "plausible": [
+            "剛通過 guard 之後立刻做",
+            "他們沉穩壓下重量時"
+          ],
+          "trap": [
+            "等 Twister 鎖死之後再做"
+          ]
+        }
+      },
+      {
+        "question": "在投入 Frame from Twister Side Control 之前，必須具備哪些條件？",
+        "answer": "你的脊椎不能被鎖在即將完成的 Twister 姿勢中，你至少要有一隻手能擺脫對手的握法控制，而且你應該已經讀出上位者的重心分佈，找出可以做 frame 的目標。如果你的脊椎正承受著主動的旋轉扭力，或雙手都被控制住，應該優先保護脊椎和爭奪握法，而不是嘗試任何 frame 動作。",
+        "answer_line": "脊椎自由，一隻手空出來",
+        "distractors": {
+          "plausible": [
+            "雙手都被困住也沒關係",
+            "在下位的任何時刻都可以"
+          ],
+          "trap": [
+            "脊椎正在被扭轉時也硬上"
+          ]
+        }
+      },
+      {
+        "question": "對手用沉重的壓力壓垮了你的肩部 frame——你該如何應對？",
+        "answer": "不要反覆嘗試同一個已經被壓垮的 frame。改換成更貼近身體的 elbow-knee 連接式 frame，用犧牲分離距離來換取結構上的韌性。或者，利用對方壓垮 frame 時投入的那一瞬間重心，朝反方向執行 hip escape，從不同角度製造空間。根據對方的反壓力調整 frame 類型是關鍵。",
+        "answer_line": "換成 elbow-knee 連接式 frame",
+        "distractors": {
+          "plausible": [
+            "對那個 frame 更用力推",
+            "改在遠側髖部做 frame"
+          ],
+          "trap": [
+            "把手臂強行伸直去推"
+          ]
+        }
+      },
+      {
+        "question": "為什麼腿部解放必須在上半身 frame 建立之後才進行，而不是同時嘗試？",
+        "answer": "在沒有建立上半身 frame 的情況下嘗試腿部解放，會讓上位者趁著髖部動作所製造出來的空間，把肩膀壓進去，讓局面惡化，甚至可能加深腿部纏繞、轉換成 Truck。上半身 frame 能製造出腿部解放時髖部自由移動所需要的分離距離。沒有這個分離距離，腿部的動作就會被上位者的重量壓垮進軀幹而遭到抵銷。",
+        "answer_line": "frame 先製造空間",
+        "distractors": {
+          "plausible": [
+            "手腿同時一起解放",
+            "hip escape 之後再打開 frame"
+          ],
+          "trap": [
+            "在做 frame 之前先解放腿部"
+          ]
+        }
+      },
+      {
+        "question": "恢復 half guard 之後，你應該立刻建立什麼握法，為什麼這一步如此關鍵？",
+        "answer": "立刻建立 knee shield，或是在被困住那條腿的那一側搶奪 underhook。knee shield 能建立一道物理屏障，阻止對手重新建立胸對胸的壓力，並轉換回 Twister Side Control。如果沒有立刻建立保持性的握法，你就容易在 half guard 尚未鞏固之前被重新過腿。",
+        "answer_line": "立刻建立 knee shield 或 underhook",
+        "distractors": {
+          "plausible": [
+            "交叉抓遠側衣領",
+            "overhook 近側手臂"
+          ],
+          "trap": [
+            "先等一下再抓任何握法"
+          ]
+        }
+      },
+      {
+        "question": "在 frame 和 hip escape 的過程中，如何避免背部暴露？",
+        "answer": "在所有 frame 動作和 hip escape 過程中，持續面向對手的髖部。在逃脫的任何階段都絕不要轉身背對對手，因為這等於白送 back control，還可能加深 Twister 的機制。hip escape 應該讓你的髖部移開，同時肩膀和胸口持續面向對手。如果開始出現背部暴露，就停下逃脫動作，重新調整方向再繼續。",
+        "answer_line": "始終面向他們的髖部",
+        "distractors": {
+          "plausible": [
+            "短暫轉身以利 shrimp",
+            "改面向他們的肩膀"
+          ],
+          "trap": [
+            "轉身背對以求更快逃脫"
+          ]
+        }
+      },
+      {
+        "question": "對手用 kimura 握法攻擊你做 frame 的那隻手臂——正確的反應是什麼？",
+        "answer": "立刻把手肘收緊貼向身體、手收到胸前，將處於危險中的手臂撤回。不要用伸直的手臂去對抗 kimura 握法。等手臂安全之後，再從另一側重新建立 frame，或改用較短的 elbow-knee 連接式 frame，避免手臂暴露在孤立攻擊之下。沒有任何一個 frame 值得拿降伏技的風險去換。",
+        "answer_line": "手肘收緊，手收到胸前",
+        "distractors": {
+          "plausible": [
+            "伸直手臂對抗握法",
+            "把手撐地掙脫握法"
+          ],
+          "trap": [
+            "保持 frame 手臂伸直硬撐"
+          ]
+        }
+      },
+      {
+        "question": "你的肩部 frame 一直被壓垮，腿部纏繞又很緊——你接下來應該採取什麼連鎖選項？",
+        "answer": "從伸展式 frame 改為緊湊的 elbow-knee 連接式 frame 以增加結構韌性，如果上位者把重心壓進去想壓垮它，就把那股動能轉化成朝壓力反方向的 hip escape，或是做一個徹底改變交戰角度、轉向 open guard 的 granby roll。原則是要適應 frame 類型和施力方向，而不是反覆硬撐同一個已經被壓垮的結構。",
+        "answer_line": "先用緊湊 frame，再做 hip escape",
+        "distractors": {
+          "plausible": [
+            "伸展式 frame，更用力推",
+            "用蠻力伸直手臂硬撐"
+          ],
+          "trap": [
+            "繼續推同一個已被壓垮的 frame"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "下位者正發動 Frame from Twister Side Control 逃脫，最早能察覺到的徵兆有哪些？",
+        "answer": "最早的徵兆包括下位者的雙手從防禦自己身體的位置，移向你的肩膀或髖部；他們的髖部角度出現細微變化，準備做 shrimp；以及呼吸模式改變，顯示即將發力。他們的近側前臂會開始對著你的肩膀傾斜，你也可能感覺到他們對你腿部纏繞的抵抗稍微減弱，因為他們把注意力和力氣轉移到上半身做 frame 上。",
+        "answer_line": "手移向肩膀，髖部開始轉動",
+        "distractors": {
+          "plausible": [
+            "突然爆發式連續 hip escape",
+            "呼吸放慢並放鬆"
+          ],
+          "trap": [
+            "對 hooks 的抵抗增加"
+          ]
+        }
+      },
+      {
+        "question": "偵測到對方開始建立 frame 時，你該如何調整自己的重量分配？",
+        "answer": "立刻加大肩部壓力，把胸口的重量壓進 frame，搶在它結構成型之前壓垮它。一個尚未完全建立的 frame 遠比一個已經完全成型的 frame 容易壓垮。同時把雙腿夾緊、加強腿部鉤鎖，阻止伴隨 frame 而來的髖部動作。目標是在逃脫剛萌芽時就處理掉，而不是等出現實質的分離距離之後才反應。",
+        "answer_line": "壓下胸口重量，夾緊雙腿",
+        "distractors": {
+          "plausible": [
+            "等 frame 完全建立好再說",
+            "放鬆壓力誘使對方犯錯"
+          ],
+          "trap": [
+            "後退並重設位置"
+          ]
+        }
+      },
+      {
+        "question": "在逃脫嘗試中，什麼時候應該轉換成 back take，什麼時候該壓垮 frame？",
+        "answer": "當下位者已經創造出足夠的分離距離，壓垮 frame 需要你把重心過度投入向前，可能製造出被翻轉的機會時，就該轉換成 back take。如果 frame 還在建立中、腿部纏繞依然緊密，壓垮 frame 是更直接、風險更低的反應。如果下位者已經部分解放腿部並開始轉身，back take 的成功率就會提高。",
+        "answer_line": "有分離距離時再拿 back take",
+        "distractors": {
+          "plausible": [
+            "永遠先壓垮 frame",
+            "永遠立刻拿 back take"
+          ],
+          "trap": [
+            "過度投入重心去壓垮"
+          ]
+        }
+      },
+      {
+        "question": "在下位者嘗試 frame escape 的過程中，你有哪些降伏技機會？",
+        "answer": "當做 frame 的手臂手肘伸展超出安全範圍時，就出現 kimura 的機會。如果下位者在 hip escape 時把頭轉開，頸部可能會暴露出來，讓 darce 或 anaconda choke 有機可趁。如果腿部解放在下半身製造出空間，而上半身控制仍然維持，calf slicer 或 knee bar 的位置也可能打開。認清這些機會，能把防守轉化為進攻。",
+        "answer_line": "攻擊伸展中的 frame 手臂做 kimura",
+        "distractors": {
+          "plausible": [
+            "髖部解放時攻擊 armbar",
+            "他們 shrimp 時攻擊 guillotine"
+          ],
+          "trap": [
+            "攻擊彎曲收緊的手臂"
+          ]
+        }
+      }
+    ]
+  }
+}

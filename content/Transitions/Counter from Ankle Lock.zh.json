@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter from Ankle Lock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "被 straight ankle lock 控制住時，在做任何 grip fighting 之前，你必須採取的第一個動作是什麼？",
+    "answer": "建立 boot defense，立刻把被困住的腳 plantarflex（蹠屈），腳尖朝下，並把腳收到攻擊者腋下後方或下方。這樣能消除完成 submission 所需的 dorsiflexion 角度，並為後續所有反擊工作建立結構基礎。沒有 boot defense 就直接 grip fighting，會讓你暴露在被完成的風險之中。",
+    "answer_line": "腳尖朝下，收到腋下",
+    "distractors": {
+     "plausible": [
+      "先跟對方拚手腕的 grip",
+      "立刻把膝蓋拉向胸口"
+     ],
+     "trap": [
+      "把腳往回拉逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼向攻擊者方向前壓，比向後拉逃離 ankle lock 更有效？",
+    "answer": "向後拉會把你的腳踝伸展到攻擊者所需要的正確斷裂角度，收緊他們的 grip 並增加 submission 的槓桿。向前壓則會壓縮攻擊者的 guard，消除他們完成技巧所需要的拱身空間，並透過堆疊他們的髖部來削弱他們的 grip。向前壓力同時防守了 submission 並啟動了過guard，而向後移動只會幫助攻擊者。",
+    "answer_line": "向前壓，堆疊對方髖部",
+    "distractors": {
+     "plausible": [
+      "向後拉製造空間",
+      "踢動空出的腿破解 grip"
+     ],
+     "trap": [
+      "向後遠離攻擊者"
+     ]
+    }
+   },
+   {
+    "question": "用 two-on-one 時，你應該優先剝除哪一個 grip，為什麼？",
+    "answer": "優先鎖定 heel grip，因為它提供了攻擊者大部分的完成槓桿。抓住腳跟的那隻手控制著 dorsiflexion 的角度，並防止你的腳自由旋轉。就算攻擊者仍維持前臂壓在 Achilles 上，失去 heel grip 也會大幅降低他們產生危險斷裂壓力的能力，也讓剩下的控制更容易被剝除。",
+    "answer_line": "先剝除 heel grip",
+    "distractors": {
+     "plausible": [
+      "先剝除壓在 Achilles 上的前臂",
+      "同時攻擊兩個 grip"
+     ],
+     "trap": [
+      "不管 grip，直接拉腳"
+     ]
+    }
+   },
+   {
+    "question": "你向前壓時，對手開始把內側的腿穿過你膝蓋後方。你該怎麼調整？",
+    "answer": "立刻改變你的髖部角度，把空出的腿側向踏出，而不是繼續直直向前。攻擊者正在轉換成 inside ashi-garami，利用你向前的動能來協助建立更具優勢的纏鎖。側向踏步能在他們完成之前阻斷內側腿的位置。如果內側腿已經穿得很深，就加速你的過guard，在他們鞏固新位置之前完全清開他們的 guard。",
+    "answer_line": "側向踏步，阻斷內側腿",
+    "distractors": {
+     "plausible": [
+      "繼續直直向前壓",
+      "撐住空出的腿並暫停"
+     ],
+     "trap": [
+      "讓腿穿進去，之後再強行通過"
+     ]
+    }
+   },
+   {
+    "question": "從第一階段防守轉換到第二階段進攻，最佳的時機窗口是什麼？",
+    "answer": "這個轉換應該在建立 boot defense 後的 5 到 8 秒內發生。一旦 boot defense 穩固，且 two-on-one 的 grip fighting 已經削弱（不一定要完全剝除）heel grip，就立刻開始向前施壓。等到 grip 完全被剝除才行動，會讓攻擊者有機會調整或轉換。向前的堆疊壓力本身也有助於剝除 grip，所以這兩個階段應該重疊，而不是嚴格依序進行。",
+    "answer_line": "grip 未完全剝除就前壓",
+    "distractors": {
+     "plausible": [
+      "等 grip 完全被解除",
+      "先完全剝除 grip 再前壓"
+     ],
+     "trap": [
+      "先暫停重新調整 grip"
+     ]
+    }
+   },
+   {
+    "question": "如何在向前施壓的同時，維持 boot defense？",
+    "answer": "在整個向前驅動過程中，持續讓 plantarflex 的腳保持主動張力，有意識地收緊小腿並讓腳尖朝下。如果你是靠撐地的空出腿與髖部來驅動，而不是靠推蹬被困住的腳，那麼向前的堆疊動作並不需要腳踝伸展。把被困住的腿想成是被你的髖部驅動所帶動的被動貨物，而不是向前動作中的主動參與者。",
+    "answer_line": "靠髖部驅動，腳保持被動",
+    "distractors": {
+     "plausible": [
+      "用被困住的腳推蹬",
+      "讓被困住的腳短暫放鬆"
+     ],
+     "trap": [
+      "伸展腳踝以取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該選擇 standing 反擊變化，而不是標準的向前壓力反擊？",
+    "answer": "當攻擊者的腿部控制較鬆散，也就是他們還沒完成 leg triangle 或緊密的小腿纏繞在你被困住的腿上時，就選擇 standing 反擊。當你能把空出的腿撐在身下，且髖部活動不受限制時，standing 效果最好。如果攻擊者有緊密的腿部控制，讓你的髖部無法抬升，標準的向前壓力反擊會更合適，因為堆疊動作不需要同等程度的髖部自由度。",
+    "answer_line": "腿控制鬆散時可用 standing",
+    "distractors": {
+     "plausible": [
+      "永遠立刻站起來",
+      "grip 完全剝除後才站起來"
+     ],
+     "trap": [
+      "即使 leg triangle 很緊也站起來"
+     ]
+    }
+   },
+   {
+    "question": "這個反擊的過guard部分，關鍵的機制要求有哪些？",
+    "answer": "過guard需要在剝除 grip 之後不停頓地維持持續的向前壓力，果斷地跨過攻擊者的雙腿並瞄準髖部連線，並在清開 guard 的瞬間立刻建立 crossface。你的膝蓋必須驅動穿過他們的髖部，同時上半身的重量維持堆疊。這個過guard的時機窗口很短，因為攻擊者的雙腿因堆疊壓力而變得混亂，任何猶豫都會讓他們重新 guard 或重新纏鎖。",
+    "answer_line": "跨過髖部，快速 crossface",
+    "distractors": {
+     "plausible": [
+      "剝除 grip 後先暫停",
+      "跨過遠側肩膀"
+     ],
+     "trap": [
+      "猶豫著檢查腿的位置"
+     ]
+    }
+   },
+   {
+    "question": "你的 boot defense 很穩固，但攻擊者改用 figure-four 的 grip 配置。這會如何改變你的反擊方式？",
+    "answer": "Figure-four 的 grip 在結構上更能抵抗 two-on-one 的剝除，但需要攻擊者把雙臂都完全投入，導致他們沒有撐地的手可以用來 base。積極增加向前的堆疊壓力，因為攻擊者無法用框架對抗你的驅動。隨著攻擊者失去拱身的空間，figure-four 的 grip 會在重度堆疊下自然削弱。把重心更多放在向前壓力的部分，較少專注於單獨的 grip fighting。",
+    "answer_line": "加大堆疊壓力",
+    "distractors": {
+     "plausible": [
+      "跟 figure-four 的手拚 grip",
+      "放慢速度重新評估 grip"
+     ],
+     "trap": [
+      "後退以避開這個 lock"
+     ]
+    }
+   },
+   {
+    "question": "成功通過到 side control 之後，你必須立刻建立哪些具體的控制，才能防止對手重新進入腿部攻擊？",
+    "answer": "立刻建立 crossface 壓力，控制對手頭部的方向，防止他們轉身回到你的腿。把髖部重重地壓在他們的髖部連線上，消除他們插入膝蓋或纏鬥腿部的空間。用你近側的手控制他們遠側的手臂，防止他們用框架製造距離。把你的雙腿保持在他們搆不到的範圍，把遠側腿往後 sprawl。Side control 鞏固後的前 3 到 5 秒最為關鍵，因為對手最有可能在這時嘗試立刻重新纏鎖。",
+    "answer_line": "Crossface，重壓髖部，控手臂",
+    "distractors": {
+     "plausible": [
+      "坐回去固定住 pin",
+      "先控制腿再控制頭"
+     ],
+     "trap": [
+      "立刻追求 submission"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將從你的 ankle lock 控制中發動反擊，最可靠的指標是什麼？",
+    "answer": "最可靠的早期指標，是被困住的腳出現 plantarflexion，腳尖收進你的腋下，建立 boot defense。這通常是第一個防守動作，代表一個有系統的反擊序列正在開始，而不只是被動地撐過去。次要指標包括雙手轉換成 two-on-one 配置，以及空出的腿撐地作為向前的 base，但 boot defense 是最早、最可靠的線索。",
+    "answer_line": "Plantarflexion，腳尖收入",
+    "distractors": {
+     "plausible": [
+      "雙手轉換成 two-on-one",
+      "空出的腿撐地作為 base"
+     ],
+     "trap": [
+      "對手變得靜止放鬆"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該放棄完成 ankle lock，改為轉換到 inside ashi-garami？",
+    "answer": "當對手已經建立穩固的 boot defense 並開始向前施壓時就該轉換。他們向前的驅動會把膝蓋帶向你，正好製造出進入 inside ashi 所需要的髖部角度。繼續硬拚已經建立好 boot defense 的 ankle lock 完成，只會浪費力氣與時間。boot defense 建立後的 3 到 5 秒窗口是轉換的最佳時機，因為對手正專注於 grip fighting，可能還沒察覺到你的腿正在穿入。",
+    "answer_line": "放棄 lock，穿入 inside ashi",
+    "distractors": {
+     "plausible": [
+      "更用力硬拚完成技",
+      "等 grip 完全被破解"
+     ],
+     "trap": [
+      "改成 toe hold"
+     ]
+    }
+   },
+   {
+    "question": "對手向前的堆疊壓力，為什麼對你而言反而是機會，而不只是威脅你的位置？",
+    "answer": "向前的堆疊會把對手的髖部與膝蓋帶向你，這正是把你的內側腿穿入以進行 ashi-garami 轉換所需要的位置。他們投入的向前驅動也會製造出他們難以輕易改變方向的動能，讓內側腿的進入更加流暢。此外，向前傾身會伸展他們的身體，在驅動過程中隨著他們的腿伸直，也可能製造出 kneebar 的角度。反擊動作本身就蘊含著你下一步進攻的種子。",
+    "answer_line": "穿入內側腿，取角 kneebar",
+    "distractors": {
+     "plausible": [
+      "撤退重整纏鎖",
+      "把 ankle lock 抓得更緊"
+     ],
+     "trap": [
+      "放開 grip 重新取角"
+     ]
+    }
+   },
+   {
+    "question": "你的 heel grip 正被 two-on-one 剝除。你可以換成哪些替代的 grip 選項？",
+    "answer": "改用 figure-four 的 grip，把雙手扣在一起、前臂仍壓在 Achilles 上，這在結構上更能抵抗 two-on-one 的剝除。或者，改用 S-grip，改變對手需要處理的剝除角度。如果雙手的 grip 都已受損，就把你的進攻重心完全從腳踝轉移到推進腿部纏鎖，在手上的 grip 完全失去之前，用你的雙腿進入 inside ashi。",
+    "answer_line": "換成 figure-four 或 S-grip",
+    "distractors": {
+     "plausible": [
+      "用單手抓得更緊",
+      "改用 overhook grip"
+     ],
+     "trap": [
+      "放手重整兩邊的 grip"
+     ]
+    }
+   },
+   {
+    "question": "你應該做哪些腿部位置調整，才能防止對手完成他們反擊中的過guard階段？",
+    "answer": "讓你的雙腿持續主動纏繞著對手被困住的腿，而不是讓它們變得被動。如果你感覺到對手開始要跨過，用你外側的腿勾住他們膝蓋後方，或用框架抵住他們的髖部，防止跨過完成。把你的內側腿穿得更深，朝向 inside ashi 的位置，這是一個雙重目的的動作，既能阻止過guard，也能推進你的纏鎖。即使手上的 grip 受損，主動的腿部參與仍是讓所有轉換得以進行的基礎。",
+    "answer_line": "勾住對方膝蓋，穿得更深",
+    "distractors": {
+     "plausible": [
+      "把手撐在他們的髖部上",
+      "用手更用力拚 grip"
+     ],
+     "trap": [
+      "讓腿變被動，休息一下"
+     ]
+    }
+   }
+  ]
+ }
+}

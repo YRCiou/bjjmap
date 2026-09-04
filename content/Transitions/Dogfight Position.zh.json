@@ -1,0 +1,255 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "Dogfight Position 過渡的主要目標是什麼？",
+        "answer": "主要目標是透過起身至跪姿並創造中立的纏鬥情境，逃脫半防禦或 leg weave 中的不利下位。與其在仰躺時奮力搶回 guard，不如接受纏鬥並將戰場轉移到跪姿，讓摔角技巧與 underhook 爭奪決定結果。",
+        "answer_line": "起身跪姿，創造纏鬥",
+        "distractors": {
+          "plausible": [
+            "從背後搶回全 guard",
+            "直接爆發衝刺完成 takedown"
+          ],
+          "trap": [
+            "保持平躺並縮成 turtle"
+          ]
+        }
+      },
+      {
+        "question": "當你用手肘 post 起身時，對手開始 sprawl，你該如何應對？",
+        "answer": "利用他們的前衝動能反制他們，改為潛入 deep half guard，而不是繼續頂著他們的 sprawl 壓力往上起身。當他們前衝壓制你的起身時，你的身體其實已經處於能滑入他們底盤下方的位置。這把他們的反制轉化成你的進攻，迫使他們必須應付 deep half 的威脅，而不是順利完成 pass。",
+        "answer_line": "潛入 deep half guard",
+        "distractors": {
+          "plausible": [
+            "硬頂過 sprawl 壓力",
+            "放棄起身並重新回到 guard"
+          ],
+          "trap": [
+            "用手撐地站起來"
+          ]
+        }
+      },
+      {
+        "question": "執行 dogfight 進入時，關鍵的抓握優先順序是什麼？",
+        "answer": "第一優先是頂在對手頸部或肩膀上的 frame，這能防止你被壓平並讓你得以起身。第二優先是起身時搶到的 underhook，這決定了整個 dogfight 的勝負。第三優先是在建立跪姿底盤之前，持續保持你遠側腳的 hook。frame 讓你能起身，underhook 決定結果，而 hook 則能防止被 pass。",
+        "answer_line": "先 frame，再 underhook，最後 hook",
+        "distractors": {
+          "plausible": [
+            "先搶 underhook，frame 其次",
+            "先搶 hook，frame 放最後"
+          ],
+          "trap": [
+            "抓 collar，忽略 underhook"
+          ]
+        }
+      },
+      {
+        "question": "嘗試 dogfight 進入的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手體重往後移，或是他們的雙手往前撐在地墊上的時候。這兩個動作都會降低他們的胸壓與 crossface 的效果。你也可以透過強力的 hip escape 與 frame 來擾亂對方底盤，主動創造這樣的時機。當對手已經沉重壓制並建立穩固 crossface 時，絕對不要嘗試起身。",
+        "answer_line": "體重往後移時",
+        "distractors": {
+          "plausible": [
+            "crossface 鎖死時",
+            "他們剛完成 pass 之後"
+          ],
+          "trap": [
+            "當他們沉重壓制時"
+          ]
+        }
+      },
+      {
+        "question": "在 dogfight 過渡過程中，如何避免背部暴露？",
+        "answer": "在整個過渡過程中，讓你的胸口始終朝向對手——你的肩膀絕不應該轉離對手超過 45 度。起身時持續進行近側的 underhook 爭奪，讓你的手臂擋住對手通往你背後的路徑。頭部緊貼對手的肩膀。起身時要以胸對胸的方式進行，絕不能讓背部轉向對手。",
+        "answer_line": "胸口朝前，肩膀方正",
+        "distractors": {
+          "plausible": [
+            "轉身用背部擋 choke",
+            "先快速起身，之後再調整角度"
+          ],
+          "trap": [
+            "轉身躲避 crossface"
+          ]
+        }
+      },
+      {
+        "question": "當你起身時，對手用力施展 whizzer 並威脅 darce choke，該做什麼調整來防止這個狀況？",
+        "answer": "讓頭部緊貼對手肩膀，並頂著 whizzer 的壓力挺直姿態，而不是任由姿態被壓垮。朝對手 whizzer 那一側繞轉，而不是遠離，這能化解他們施展 darce 的槓桿角度。如果威脅變得嚴重，準備好用 limp arm 的方式抽出被 whizzer 控制的手臂，重新建立 frame。",
+        "answer_line": "頭部貼緊，往 whizzer 側繞轉",
+        "distractors": {
+          "plausible": [
+            "朝 whizzer 反方向繞轉",
+            "壓低姿態並硬撐"
+          ],
+          "trap": [
+            "用力抽手並衝刺起身"
+          ]
+        }
+      },
+      {
+        "question": "達成 dogfight position 之後，接下來的纏鬥由什麼決定勝負？",
+        "answer": "underhook 的爭奪是主要決定因素。誰擁有更深、更具主導性的 underhook，就能主導對手、威脅 single leg，或是拿到背後控制。次要因素包括頭部位置（內側還是外側）、髖部位置（誰的髖部更方正地面對對手），以及摔角底盤（誰的跪姿更低、更穩固）。",
+        "answer_line": "誰的 underhook 更深",
+        "distractors": {
+          "plausible": [
+            "誰的底盤更好",
+            "誰的頭部位置在內側"
+          ],
+          "trap": [
+            "誰先站起來"
+          ]
+        }
+      },
+      {
+        "question": "一旦達成 dogfight position，該如何從中串接進攻？",
+        "answer": "擁有主導 underhook 時：攻擊 single leg、double leg，或將對手驅趕到背部取得上位。若沒有主導 underhook：努力改善 underhook 位置，或利用 collar tie 下壓來取得 front headlock。若對手起身站立，跟著他們的 underhook 一起站起，攻擊摔角 takedown。若他們試圖重新建立半防禦，就往前施壓完成 pass 或拿到背後。",
+        "answer_line": "underhook 主導腿部攻擊",
+        "distractors": {
+          "plausible": [
+            "永遠下壓取得 front headlock",
+            "立刻搶攻背後"
+          ],
+          "trap": [
+            "放開抓握重新回防"
+          ]
+        }
+      },
+      {
+        "question": "對手持續用沉重的 crossface 阻止你進入 dogfight，你應該考慮哪些替代逃脫方式？",
+        "answer": "如果 crossface 持續阻止你進入 dogfight，可以專注於 deep half guard 的切入，這在對抗前衝壓力時效果更好。另外，也可以加強你的 frame，在嘗試起身前創造更多空間。你也可以嘗試 sit-out 的變化型，利用 hip heist 的動作而不是直接撐起身。有時候暫時接受 turtle 並從那裡繼續作戰，會比反覆嘗試失敗的 dogfight 進入更好。",
+        "answer_line": "改採 deep half 切入",
+        "distractors": {
+          "plausible": [
+            "硬頂 crossface 施壓",
+            "繼續等待更長的時機"
+          ],
+          "trap": [
+            "整個人翻身趴下完全 turtle"
+          ]
+        }
+      },
+      {
+        "question": "dogfight 過渡強調哪些身體素質，若不足該如何彌補？",
+        "answer": "這個過渡強調起身動作所需的核心力量、underhook 爭奪所需的肩部柔軟度，以及跪姿纏鬥所需的摔角底盤。若核心力量不足，專注於掌握時機以降低需要克服的阻力。若柔軟度不足，使用 collar tie 的變化型。若摔角技巧不足，專注於拿背或回防，而不是進行長時間的 dogfight 交手。",
+        "answer_line": "核心、肩部柔軟、摔角底盤",
+        "distractors": {
+          "plausible": [
+            "握力比什麼都重要",
+            "速度才是最重要的"
+          ],
+          "trap": [
+            "忽略時機，硬拼力量"
+          ]
+        }
+      },
+      {
+        "question": "dogfight 進入中最關鍵的髖部動作是什麼？角度為何如此重要？",
+        "answer": "最關鍵的動作是初始的 hip escape，朝對手方向創造出 45 度角。這個角度讓你手肘撐地的點正好位於肩膀正下方，提供最大的結構支撐。沒有這個角度，你的支撐點會在對手體重下崩潰，因為施力方向不對齊。這個 hip escape 也能創造足夠空間，讓你順利爭取 underhook，而不會讓手臂被夾在身體下方。",
+        "answer_line": "45 度 hip escape 角度",
+        "distractors": {
+          "plausible": [
+            "髖部直接朝上方正",
+            "先 bridge 髖部，之後再調角度"
+          ],
+          "trap": [
+            "髖部平放時就用手肘撐地"
+          ]
+        }
+      },
+      {
+        "question": "當你起身撐上手肘時，遠側腳的 hook 被部分解除，你該繼續起身還是放棄？",
+        "answer": "這取決於 hook 還剩下多少，以及你是否已經確保 underhook。如果你已擁有深 underhook，而 hook 只是被部分解除，就應該積極繼續起身，因為 underhook 提供了替代的控制點。如果你沒有 underhook，而 hook 正在被解除，就應立即放棄，壓平回去並重新建立 frame。若兩個控制點都沒有還硬要起身，你會在毫無優勢的情況下抵達 dogfight，並承擔背部暴露或立即被 pass 的高風險。",
+        "answer_line": "只有握有 underhook 才繼續",
+        "distractors": {
+          "plausible": [
+            "無論如何都要硬頂過去",
+            "hook 一有變化就馬上放棄"
+          ],
+          "trap": [
+            "不檢查抓握就衝刺起身"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "你感覺到下位者的前臂正頂進你的頸部，開始建立 frame，你的即時反應是什麼？",
+        "answer": "積極把你的 crossface 往前頂過他們的前臂，同時把髖部壓得更低、更沉重地壓在他們的髖部上。crossface 必須贏過他們建立的 frame——如果你能讓肩膀越過他們的前臂並壓上他們的下顎，他們的 frame 就會失效。同時用你近側的手壓住他們遠側的髖部，防止接下來的 hip escape。",
+        "answer_line": "crossface 過 frame，壓低髖部",
+        "distractors": {
+          "plausible": [
+            "把頭往後拉躲開 frame",
+            "立刻抓住雙手手腕"
+          ],
+          "trap": [
+            "後退站起來重新開始"
+          ]
+        }
+      },
+      {
+        "question": "下位者已經用手肘撐地，起身到一半，這時候把他們壓回去比較好，還是趁機利用這場纏鬥？",
+        "answer": "這取決於你的 whizzer 深度以及他們 hook 的狀態。如果你有深的 whizzer，而他們的 hook 正在鬆脫，就趁他們起身時往他們背後繞轉——他們過渡時的轉身動作會暴露背部。如果你的 whizzer 較淺，而他們的 hook 仍然有效，就要立刻用沉重的 crossface 搭配 sprawl 壓力，在他們建立完整跪姿底盤之前把他們壓回去。",
+        "answer_line": "取決於 whizzer 與 hook 深度",
+        "distractors": {
+          "plausible": [
+            "永遠把他們壓回去",
+            "永遠讓纏鬥自然發展"
+          ],
+          "trap": [
+            "放開抓握重新調整位置"
+          ]
+        }
+      },
+      {
+        "question": "對手正在嘗試 dogfight 進入時，最早能辨識的線索是什麼？",
+        "answer": "最早的線索是你的頸部或肩膀上出現強烈的 frame，並搭配 hip escape 創造出角度。這會比實際起身早出現好幾秒。接下來的線索是感覺到他們近側的手臂開始朝你的腋下游動，準備搶 underhook。等到他們的手肘撐到地墊上時，你在反制時機上已經落後了。有效的防守需要在 frame 與 hip escape 出現時就做出反應，而不是等到手肘撐地才反應。",
+        "answer_line": "出現 frame 加上髖部角度",
+        "distractors": {
+          "plausible": [
+            "手肘撐在地墊上",
+            "underhook 已經完全確保"
+          ],
+          "trap": [
+            "等到他們站起來為止"
+          ]
+        }
+      },
+      {
+        "question": "如何有效運用 whizzer，同時不會創造出對下位者有利的空間？",
+        "answer": "whizzer 必須搭配向前施壓的力道，而不是向後拉扯的力量。緊緊纏繞住對手施展 underhook 的手臂來確保 whizzer，同時將胸口壓進他們的肩膀。用 whizzer 把他們的肩膀往地墊方向旋轉，而不是把他們的手臂拉離你的身體。整個過程中持續讓髖部向前施壓——whizzer 是壓制工具，不是分離工具。如果他們開始朝你的 whizzer 那一側繞轉，就順著他們的轉動並利用它來拿背。",
+        "answer_line": "向前施壓，旋轉肩膀向下",
+        "distractors": {
+          "plausible": [
+            "把手臂拉離身體",
+            "把 whizzer 抬高以取得控制"
+          ],
+          "trap": [
+            "向後猛拉創造空間"
+          ]
+        }
+      },
+      {
+        "question": "儘管你努力防守，下位者仍成功達成跪姿 dogfight，你最好的即時策略是什麼？",
+        "answer": "如果他們達成 dogfight，立刻評估 underhook 的爭奪狀況。如果你握有 whizzer，就積極運用它來威脅 darce choke，或是搭配 whizzer 輔助的 crossface 把他們壓回去。如果雙方都沒有明顯的 underhook 優勢，就努力透過向內游動來確保自己的 underhook。作為上位者，你也可以選擇脫離——把髖部後撤 sprawl，重新從站立姿態接觸，這能以更有利的角度重新開始這場 pass 的交手。",
+        "answer_line": "評估 underhook，運用 whizzer",
+        "distractors": {
+          "plausible": [
+            "立刻搶攻 takedown",
+            "拉 guard 重新開始"
+          ],
+          "trap": [
+            "放開所有抓握並站直"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Dogfight Position.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

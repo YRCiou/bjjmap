@@ -1,0 +1,143 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對手發動一個強力的 whip-up，你感覺到自己的重心正橫向偏移，你的第一時間反應該是什麼？",
+    "answer": "立刻把自由腿往掃翻反方向 sprawl 出去，撐寬你的 base，同時把髖部往墊子方向壓低。這會製造出一個更寬的平台，抵抗 whip-up 產生的旋轉力量。同時把肩膀壓進對方胸口，限制他們髖部的推動力。撐手的直覺反應必須被撐寬 base 的動作取代，因為在對方髖部附近撐手會製造出一個槓桿點，讓他們可以拿來做 Old School 掃翻。",
+    "answer_line": "撐寬 base、sprawl、壓低髖部",
+    "distractors": {
+     "plausible": [
+      "在對方髖部附近撐手",
+      "sit through 面向對方"
+     ],
+     "trap": [
+      "轉身逃離這個滾動"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試清除 lockdown 之前，必須先具備哪些條件？",
+    "answer": "只有在你已經建立穩固的寬 base，並且透過 whizzer 或 crossface 化解下位選手的上身控制之後，才應該開始主動清除 lockdown。如果在 base 還很窄、或對方仍有活躍的 underhook 時就嘗試清除 lockdown，會製造出空間和機會，讓對方完成掃翻或推進到 Electric Chair。清除 lockdown 是整個防守流程的最後一個階段，不是第一反應。",
+    "answer_line": "先有 base 和 crossface 再清除",
+    "distractors": {
+     "plausible": [
+      "立刻清除 lockdown",
+      "base 一撐寬就清除"
+     ],
+     "trap": [
+      "在還被 underhook 時就清除 lockdown"
+     ]
+    }
+   },
+   {
+    "question": "防守 Old School 掃翻和防守從 Vaporizer 發動的 rolling back take，兩者最關鍵的差別是什麼？",
+    "answer": "Old School 掃翻運作在一個橫向滾動的平面上，下位選手利用他撐地的那隻腳和 underhook 把你橫向滾過去，防守需要往滾動的反方向撐寬 base。rolling back take 則運作在一個旋轉的平面上，對方試圖旋轉你的身體來暴露你的背部，以進入 Truck。防守需要把你的髖部轉向對方，而不是任由自己被旋轉開。誤判攻擊種類、用錯防守方式，反而會加速對方的技術，而不是阻止它。",
+    "answer_line": "掃翻撐寬 base，旋轉則轉髖迎上",
+    "distractors": {
+     "plausible": [
+      "兩種攻擊都撐寬 base",
+      "兩種攻擊都轉髖"
+     ],
+     "trap": [
+      "保持平躺硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "為什麼清除 Vaporizer 的 lockdown 時要避免爆發性的動作？",
+    "answer": "爆發性的抽離嘗試會觸發下位選手 lockdown 的反射性收緊反應，讓這個糾纏更難脫身。快速的動作也會在你們兩人之間製造出短暫的空間，下位選手可以利用這個空隙調整握法、重新調整髖部角度，或轉換到其他攻擊。控制得宜的循環式動作能一點一點鬆動這個結構，而不會製造這些防守上的破綻。爆發性嘗試消耗的體力也會加速疲勞，而 lockdown 本身只需要極少的體力就能維持。",
+    "answer_line": "緩慢循環，不要用力硬拉",
+    "distractors": {
+     "plausible": [
+      "在收緊前爆發脫身",
+      "用快速抽動跟上節奏"
+     ],
+     "trap": [
+      "用力硬拉扯開"
+     ]
+    }
+   },
+   {
+    "question": "對手的 lockdown 非常緊，你清除不了任何進度，這時該考慮什麼替代方案？",
+    "answer": "如果透過循環動作無法清除 lockdown，就把重心轉移到完全化解對方的上身控制上。透過建立主導性的 crossface 壓力並解除對方的 underhook，就算 lockdown 仍在，也能讓對方失去製造有意義掃翻威脅的能力。這能爭取時間，讓你之後從更安全的位置處理 lockdown。另一個選項是把膝蓋指向墊子、走動自由腳，製造出一個繞過 lockdown 而不是硬穿過它的過腿角度。",
+    "answer_line": "轉而消滅上身控制",
+    "distractors": {
+     "plausible": [
+      "繼續更用力對抗 lockdown",
+      "被動等對方體力耗盡"
+     ],
+     "trap": [
+      "放棄 crossface 空出雙手"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位選手正從 Old School 掃翻轉換到 Electric Chair 嘗試時，你的握法策略該如何改變？",
+    "answer": "當下位選手轉換到 Electric Chair 時，他們需要局部放開 lockdown，並控制你的遠側腿來進行分腿。你的握法重點要從對抗 underhook 的 whizzer 防守，轉為主動夾緊雙膝，並封鎖對方伸向你遠側腿的路徑。用你的雙手控制對方伸向你遠側腿的手腕或前臂。保持髖部低、雙腿夾緊，而不要維持 Old School 防守用的寬 base，因為寬 base 反而會方便 Electric Chair 分腿。",
+    "answer_line": "夾緊雙膝，封鎖遠側腿",
+    "distractors": {
+     "plausible": [
+      "繼續搶 whizzer",
+      "像對付 Old School 一樣撐寬 base"
+     ],
+     "trap": [
+      "撐寬並壓低髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "上位選手撐寬 base、壓低髖部來防守你的 Old School 掃翻——這個防守反應會暴露出什麼攻擊機會？",
+    "answer": "撐寬 base、壓低髖部的姿勢，會直接讓上位選手暴露在 Electric Chair 的降伏和掃翻之下。當他們的膝蓋為了橫向穩定而分開時，他們的遠側腿就變得容易被抓取。刻意放開 lockdown，控制住對方的遠側腿，把你的髖部往上推來分開對方的雙腿。他們用來防禦橫向掃翻的寬防守姿勢，在 Electric Chair 的垂直分腿面前反而成了破綻。",
+    "answer_line": "Electric Chair 分腿",
+    "distractors": {
+     "plausible": [
+      "Truck 背後控制",
+      "從 lockdown 做 Kimura"
+     ],
+     "trap": [
+      "再做一次 Old School 掃翻"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到上位選手開始清除你的 lockdown 時，該如何調整你的攻擊策略？",
+    "answer": "當你透過腿部循環動作或膝蓋位置的變化察覺到 lockdown 正被清除時，立刻升高你的進攻急迫性。要嘛就把雙腿夾緊、進一步伸展對方的腿，收緊 lockdown；要嘛就在 lockdown 退化到失去槓桿力之前，立刻投入一次掃翻嘗試。一個局部被清除的 lockdown 仍能提供足夠的控制力，支撐一次全力投入的掃翻嘗試，但再拖下去，就會徹底失去剩餘的進攻選項。",
+    "answer_line": "收緊 lockdown 或立刻投入掃翻",
+    "distractors": {
+     "plausible": [
+      "等一個更乾淨的機會",
+      "從頭重新架設 lockdown"
+     ],
+     "trap": [
+      "放手重新回到 guard"
+     ]
+    }
+   },
+   {
+    "question": "為什麼連環出招會比全力投入單一一次從 Vaporizer 發動的掃翻更有效？",
+    "answer": "一次全力投入的掃翻很容易被辨識並集中防守。透過連環出招，你逼上位選手必須同時防禦多個方向，而每一個防守的投入都會打開對應的另一個攻擊。防守 Old School 掃翻需要橫向撐寬 base，而這正好打開了 Electric Chair。防守 Electric Chair 需要夾緊雙膝，而這又讓橫向的 Old School 掃翻變得可行。這會製造出一個無解的兩難：防住一個威脅，就必然對另一個威脅門戶大開。",
+    "answer_line": "每個防守都打開另一個攻擊",
+    "distractors": {
+     "plausible": [
+      "把一個掃翻練到極致",
+      "速度勝過連環出招"
+     ],
+     "trap": [
+      "全力投入一個掃翻"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Defend Vaporizer Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

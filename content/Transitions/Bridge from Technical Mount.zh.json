@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge from Technical Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 technical mount 執行 bridge 逃脫的最佳時機是什麼時候？",
+    "answer": "最佳時機是在上位者為了 submission 嘗試（尤其是 armbar 的準備動作）而把重心往前移的時候。當他們把髖部與上半身往前壓、準備完成 swing-over 或調整抓握時，他們施加在你軀幹上的髖部壓力會短暫減輕。這個往前壓的動作會創造出大約一到兩秒的空檔，在這段時間內 bridge 的效果會大幅提升，因為你要移動的是比較不穩定的重量。",
+    "answer_line": "他們為了 armbar 前壓重心時",
+    "distractors": {
+     "plausible": [
+      "mount 一被壓穩就馬上",
+      "只要感覺對方抓緊了"
+     ],
+     "trap": [
+      "在對方完全壓穩、重心沉穩時"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你必須朝對手的 inside leg 而不是 posted leg 的方向 bridge？",
+    "answer": "要朝 inside leg 的方向 bridge，因為那條腿沒有貼地也沒有結構角度支撐，是對手底盤中比較弱的一側。posted leg 的功能像一個穩定的三腳架，小腿垂直於你的身體、腳掌踩在墊子上，能對側向力產生很強的結構性抵抗——朝這條腿的方向 bridge 只是在浪費力氣去對抗對手最強的支撐結構。而勾在你身體下方的 inside leg，因為無法吸收 bridge 的力道，側向抵抗力明顯弱很多。",
+    "distractors": {
+     "plausible": [
+      "改朝 posted leg 的方向",
+      "哪條腿比較近就朝哪邊"
+     ],
+     "trap": [
+      "朝他們穩固的 post 方向 bridge"
+     ]
+    },
+    "answer_line": "朝 inside leg 的方向，底盤較弱"
+   },
+   {
+    "question": "對手的壓力沉重且穩定、完全沒有重心轉移——你應該馬上嘗試 bridge 嗎？",
+    "answer": "不應該——先維持防禦性的 frame，等待對手主動移動，因為對著沉穩的重量 bridge 只是白費力氣。任何 submission 嘗試、抓握變化或姿勢調整都會造成重心轉移，耐心等待可以把力氣保留到 bridge 效果最好的那一刻。對著完全壓穩的沉重壓力 bridge，換來的位移極小，卻要付出最大的體力代價——強行對著穩定重量 bridge，是這個位置下最常見的浪費體力的錯誤。等待的同時持續保護好你的手臂。",
+    "distractors": {
+     "plausible": [
+      "是，馬上 bridge 製造空間",
+      "反覆 bridge 逼出重心轉移"
+     ],
+     "trap": [
+      "用力 bridge 逼對方移動"
+     ]
+    },
+    "answer_line": "不，等待他們重心轉移"
+   },
+   {
+    "question": "在整個 bridge 動作過程中，最關鍵的手臂姿勢是什麼？為什麼？",
+    "answer": "受威脅的那隻手臂（也就是被 stepped leg 壓住的那隻）必須在整段 bridge 過程中保持彎曲，手肘緊貼肋骨。這隻手臂只要一伸直，就會立刻給上位者製造 armbar 機會，讓他們利用 bridge 的動能直接完成 submission。抓住自己的衣領、對側肩膀，或是雙手互扣做 gable grip，用結構上的方式防止手臂在爆發性的 bridge 動作中被拉直。",
+    "answer_line": "手肘緊貼肋骨",
+    "distractors": {
+     "plausible": [
+      "手臂伸直做支撐",
+      "手肘外張借力"
+     ],
+     "trap": [
+      "伸直手臂用來撐地"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 bridge 創造出空間，但對手擋住你插膝準備 recover guard，你接下來該立刻做什麼？",
+    "answer": "立刻朝同一個方向嘗試第二次 hip escape，或是轉身進入 turtle，而不是繼續平躺在背上。從 technical mount 轉進 turtle 是明顯的位置提升，因此可以當作正當的緊急補救手段。避免有了空間卻沒有拿到 guard 就一直平躺——對手會很快把距離補上，重新建立 mount 的壓力。關鍵原則是：絕對不能浪費 bridge 創造出來的空間，要立刻把它轉換成位置上的改變。",
+    "distractors": {
+     "plausible": [
+      "平躺並重新架好 frame",
+      "再試一次同樣的逃脫"
+     ],
+     "trap": [
+      "放鬆平躺在背上"
+     ]
+    },
+    "answer_line": "轉入 turtle，別平躺不動"
+   },
+   {
+    "question": "就在你 bridge 的同時，對手開始做 armbar 的 swing-over——你該如何利用他們這個全力投入的動作？",
+    "answer": "他們投入 armbar 的 swing-over 動作，會讓重心大幅前移、離開你的髖部，創造出目前最大的位移空檔。利用這股動能爆發性地 bridge，並立刻朝他們甩腿離開的那一側做 hip escape。他們一旦全力投入 armbar，就不可能同時維持 mount 的壓力。如果手臂已經被抓住，就把 bridge 的動能轉為 stacking 防守，順著他們的轉動起身跪起。",
+    "answer_line": "爆發式 bridge，往外 hip escape",
+    "distractors": {
+     "plausible": [
+      "定住不動保護手臂",
+      "朝他們甩腿的方向 bridge"
+     ],
+     "trap": [
+      "讓手臂被拉直"
+     ]
+    }
+   },
+   {
+    "question": "成功的 bridge 跟最後被對手抓到背後的 bridge，差別在哪裡？",
+    "answer": "成功的 bridge 會立刻銜接 hip escape 與插膝，藉此拿回 guard，並且在整個逃脫過程中讓背部始終朝向地面。導致背後暴露的 bridge，通常是轉動過頭卻沒有拿回 guard——下位者持續轉動、超過了該停下的時機，卻沒有插入 knee shield，結果把背後直接呈現給對手。關鍵差別在於：這個 bridge 到底是拿回了 guard，還是只是轉動卻沒有帶來位置上的提升。",
+    "answer_line": "bridge 後立刻拿回 guard",
+    "distractors": {
+     "plausible": [
+      "轉動超過該停下的時機",
+      "盡可能地 bridge 到底"
+     ],
+     "trap": [
+      "持續轉動而不插膝"
+     ]
+    }
+   },
+   {
+    "question": "用受威脅的那隻手抓握，會如何影響 bridge 的力學？",
+    "answer": "抓住自己的衣領或對側肩膀，能把受威脅的那隻手肘鎖定在彎曲狀態，讓手臂和軀幹連成一體移動。這個自我抓握有兩個關鍵作用：一是從結構上防止手肘在爆發性的 bridge 動作中被拉直；二是形成一個連結點，讓手臂能跟著身體一起移動，而不是在位移過程中被留在原地。如果沒有這個抓握，手臂在 bridge 的力道下容易被拉直，正好造成這個逃脫技巧原本想避免的手臂暴露。",
+    "distractors": {
+     "plausible": [
+      "抓握只是增加額外力量",
+      "抓握能幫助 posted leg 施力"
+     ],
+     "trap": [
+      "讓受威脅的手臂自由垂放"
+     ]
+    },
+    "answer_line": "自我抓握鎖住手肘，手臂跟著走"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手即將從 technical mount 發動 bridge 時，最早出現的辨識訊號是什麼？",
+    "answer": "最早的訊號是腳的位置與肌肉緊繃程度。注意觀察對手是否把雙腳平踩在墊子上、膝蓋彎曲——這是 bridge 的蓄力姿勢。次要訊號包括：空出來的那隻手推向你的髖部或胸口建立 frame、短暫的憋氣或核心明顯緊繃，以及頭部或肩膀朝著他們預計 bridge 的方向轉動。及早辨識這些訊號，能讓你在爆發性動作開始前就先調整好底盤。",
+    "answer_line": "雙腳平踩，膝蓋彎曲",
+    "distractors": {
+     "plausible": [
+      "突然的髖部爆發動作",
+      "動作前深呼吸"
+     ],
+     "trap": [
+      "他們先放鬆底盤"
+     ]
+    }
+   },
+   {
+    "question": "當對手成功 bridge 並開始轉身時，你應該硬撐著維持 technical mount，還是轉換到別的位置？",
+    "answer": "應該轉換到 back control。在對方已經產生明顯位移的情況下硬撐著維持 technical mount，只會浪費體力，而且常常會失敗。對手在 bridge 過程中的轉動動作，會直接把背後暴露出來——順著這個轉動走，放開 armbar 的抓握，用 seat belt 加上 hooks 建立控制。back control 在位置上明顯優於 technical mount，所以只要你正確辨識，bridge 其實是給了你一個提升位置的機會，而不是真正的逃脫威脅。",
+    "answer_line": "轉換到 back control",
+    "distractors": {
+     "plausible": [
+      "硬撐著維持 technical mount",
+      "重新回到 full mount"
+     ],
+     "trap": [
+      "放開抓握，平躺在背上"
+     ]
+    }
+   },
+   {
+    "question": "在 bridge 過程中，你要如何同時維持手臂控制與底盤？",
+    "answer": "在 bridge 過程中，把保住手腕的抓握視為最優先的一件事。如果可以的話，採用 two-on-one 的配置——一隻手抓手腕，一隻手抓在手肘上方。讓 posted leg 保持寬闊撐住底盤，同時上半身靠抓握力量而不是身體姿勢來維持緊密的手臂控制。如果一定要在底盤和手臂控制之間二選一，寧可短暫犧牲一點底盤也要保住手腕的抓握，因為失去手臂就等於失去你主要的 submission 威脅。",
+    "answer_line": "優先保住手腕的抓握",
+    "distractors": {
+     "plausible": [
+      "只抓手肘，放掉手腕",
+      "縮窄底盤以求控制"
+     ],
+     "trap": [
+      "放開手臂以求解放底盤"
+     ]
+    }
+   },
+   {
+    "question": "對手發動強力的 bridge，讓你的重心大幅偏移——最佳的應對順序是什麼？",
+    "answer": "首先評估自己是否還能維持手臂控制。如果可以，就順著 bridge 的動能走，等 bridge 的力道消散後再重新落穩。如果位移太大、難以舒適地重新落穩，就立刻順著他們的轉動動作進入 back control——放開 armbar 威脅、建立 seat belt 抓握，並插入 hooks。當 back control 這個選項存在時，絕對不要硬頂著動能去搶回 technical mount。關鍵原則是：bridge 造成的位移應該觸發你做出「提升位置」的判斷，而不是陷入「掙扎補救」的狀態。",
+    "answer_line": "順勢而為，或轉進 back control",
+    "distractors": {
+     "plausible": [
+      "硬拚回 technical mount",
+      "放開抓握完全重置"
+     ],
+     "trap": [
+      "平躺不動，任由 bridge 結束"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Body Lock Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在嘗試把對手壓平之前，body lock pass 中最關鍵、必須先建立的要素是什麼？",
+    "answer": "一個完全緊密、你的胸口與對手胸口之間毫無空隙的 body lock。沒有這個連結，對手就能在你們身體之間插入 frame，阻止你把對手壓平，而這正是整個過 guard 流程的基礎。這個連結必須緊密到讓對手完全無法把手或手肘伸進你們的軀幹之間。",
+    "answer_line": "胸貼胸、零空隙的 lock",
+    "distractors": {
+     "plausible": [
+      "雙腿都掛上 hooks",
+      "膝蓋切過對手腰帶線"
+     ],
+     "trap": [
+      "先撐起身體重新抓握"
+     ]
+    }
+   },
+   {
+    "question": "在你來得及固定 body lock 之前，對手先建立了強力的 Knee Shield——你該如何應對？",
+    "answer": "你必須先處理 Knee Shield，才能嘗試 body lock，因為只要對手膝蓋卡在你們之間，胸貼胸就不可能達成。先用 crossface 壓力與 hip 對 hip 的連結繞過 Knee Shield，或是把重心壓進去、用手肘夾住對手膝蓋內側，把 Knee Shield 壓扁。只有在 Knee Shield 被清除或繞過之後，才應該投入去扣住 body lock。",
+    "answer_line": "先清掉 Knee Shield",
+    "distractors": {
+     "plausible": [
+      "站起來破解對手的抓握",
+      "把對手下方那條腿拉出來"
+     ],
+     "trap": [
+      "隔著 Knee Shield 直接扣手"
+     ]
+    }
+   },
+   {
+    "question": "為什麼必須先把對手完全壓平，才能嘗試清出被卡住的那條腿？",
+    "answer": "被壓平的對手 hip 活動度會大幅降低，讓對手更難維持 Knee Shield、Lockdown，或用 butterfly hook 卡住你被困住的那條腿。如果在對手還有角度與 hip 活動空間時就想清腿，對手可能重新建立 guard、插入 hooks、轉換到 deep half，或發動 sweep。把對手壓平能消除這些選項，讓清腿階段的成功率大幅提高。",
+    "answer_line": "扼殺對手的 hip 活動度",
+    "distractors": {
+     "plausible": [
+      "讓你的 hip 貼平墊子",
+      "讓 crossface 變得不必要"
+     ],
+     "trap": [
+      "還在側面時就先清腿"
+     ]
+    }
+   },
+   {
+    "question": "在 body lock pass 過程中，你的頭應該擺在哪裡？如果你抬頭去看被困住的那條腿會發生什麼事？",
+    "answer": "你的頭應該壓向墊子，位置在被困住那條腿的對側，用額頭或太陽穴貼地製造 crossface 壓力。如果你抬頭去看被困住的腿，就會失去 crossface 的效果，讓對手有機會轉身面向你、建立 frame，或展開爭奪 underhook 的對抗。這個過 guard 動作應該靠感覺完成，而不是靠眼睛看。你的頭部位置沒有討價還價的空間。",
+    "answer_line": "額頭貼地，維持 crossface 壓力",
+    "distractors": {
+     "plausible": [
+      "下巴收進自己胸口",
+      "頭放在被困腿的那一側"
+     ],
+     "trap": [
+      "抬頭盯著那條腿看"
+     ]
+    }
+   },
+   {
+    "question": "body lock 應該使用哪種抓握方式？為什麼？",
+    "answer": "在對手背後扣住的 gable grip（掌心對掌心）或 S-grip（手指交扣）能提供最強的連結。gable grip 更受青睞，是因為它能把力量分散在整個手掌上，而不是集中在手指上。避免使用 butterfly grip（四指疊四指），因為它在壓力下很快就會疲勞。抓握位置必須在對手背後，而不是繞在腰際，這樣才能把胸貼胸的接觸最大化。",
+    "answer_line": "在對手背後扣 gable grip",
+    "distractors": {
+     "plausible": [
+      "繞在腰際的 S-grip",
+      "四指疊四指的 butterfly grip"
+     ],
+     "trap": [
+      "扣得太低、卡在對手 hip 下方"
+     ]
+    }
+   },
+   {
+    "question": "在過 guard 過程中，對手對你被困住的腿使用了 Lockdown——正確的應對順序是什麼？",
+    "answer": "首先，停止試圖抽出你的腿，全力集中在用最大的胸口壓力與頭部控制把對手壓平。被壓平的對手透過 Lockdown 能產生的力量會大幅降低。等對手被壓平之後，用一隻手控制對手的遠側膝蓋，阻止對方重新扣緊 Lockdown，然後靠小幅度的 hip 調整，有條不紊地把你被困住的腿解放出來。在壓平對手之前就硬拉腿，只會浪費體力，並創造出對手可以利用的空間。",
+    "answer_line": "先壓平，再解放腿",
+    "distractors": {
+     "plausible": [
+      "先把 Lockdown 撬開",
+      "改換另一種過 guard 方式"
+     ],
+     "trap": [
+      "立刻硬把腿拉出來"
+     ]
+    }
+   },
+   {
+    "question": "清腿階段的 hip walk 是如何運作的？練習者在這個過程中最常犯的錯誤是什麼？",
+    "answer": "hip walk 是一連串細小、漸進的步伐，你把 hip 往被困腿那一側移動，讓你的膝蓋線一公分一公分地越過對手的 guard 結構。最常見的錯誤，是做出過大的 hip 動作，讓上半身抬起、在下方留出空間。每一步都應該又小又受控，全程維持穩定的向下壓力。把它想成一點一點挪動，而不是跨大步。",
+    "answer_line": "小碎步移動，上半身不要抬起",
+    "distractors": {
+     "plausible": [
+      "用空出來的膝蓋撐地移動",
+      "把 hip 轉向天花板"
+     ],
+     "trap": [
+      "大幅抬起 hip 把腿甩出來"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該放開 body lock，轉換成 side control 的抓握？",
+    "answer": "只有在被困的腿完全解放，並且能在同一個動作中立刻建立 side control 抓握時，才放開 body lock。太早放開會產生一個空檔——對手既沒有腿被纏住，也沒有上半身控制把他們壓住，這正是最容易重新建立 guard 的時刻。這個轉換應該感覺像是用一套控制系統無縫替換另一套，中間不能有空隙。",
+    "answer_line": "腿完全解放後才放開",
+    "distractors": {
+     "plausible": [
+      "當對手停止抵抗時",
+      "一越過膝蓋線就放開"
+     ],
+     "trap": [
+      "打開 lock 去抓頭"
+     ]
+    }
+   },
+   {
+    "question": "在你進行 body lock pass 時，對手成功轉向側面並爭奪 underhook——你有哪些選項？",
+    "answer": "根據對手轉身的幅度，你有兩個主要選項。如果對手只是部分轉身，就把 body lock 扣得更緊，用你的頭當楔子，把對手推回壓平，把額頭壓進墊子，逼對手的肩膀往下。如果對手已經大幅轉身並建立了 underhook，就放棄 body lock pass，轉為進攻背後控制，因為對手的轉身動作已經讓背後暴露出來。硬要從深度轉身的狀態把對手壓回平躺，只會浪費體力，成功率很低。",
+    "answer_line": "深度轉身時：放棄 lock，攻背後",
+    "distractors": {
+     "plausible": [
+      "坐後進入腿部纏鬥",
+      "放棄扣手，改走低位過 guard"
+     ],
+     "trap": [
+      "伸手去搶對手的 underhook"
+     ]
+    }
+   },
+   {
+    "question": "相較於其他過 guard 方式，body lock pass 在 no-gi 中特別有效的原因是什麼？",
+    "answer": "在 no-gi 中，body lock 透過身體對身體的連結來建立控制，而不是依賴容易被破解的抓握控制。沒有道服可抓，下位選手能用來製造距離或干擾過 guard 者姿態的手段就少了很多，這讓緊密的 body lock 變得異常難以逃脫。這個過 guard 方式也降低了 no-gi 纏鬥通常偏向的速度與運動能力優勢，把交鋒轉變成一個講求技術與重心配置的、有條不紊的壓制過程。",
+    "answer_line": "身體連結無法被破解",
+    "distractors": {
+     "plausible": [
+      "流汗會讓下位選手滑脫",
+      "比 gi 需要的壓力更少"
+     ],
+     "trap": [
+      "改成手腕抓握對抗"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "防守 body lock pass 最早、也最有效的時機點是什麼？",
+    "answer": "最早、也最有效的防守發生在 body lock 建立之前，做法是主動維持 Knee Shield 或前臂 frame，阻止胸貼胸的接觸發生。一旦 body lock 被緊密扣住，你的防守選項就會大幅減少。透過 frame 來預防，遠比逃脫一個已經完全建立的 body lock pass 更省力、成功率也更高。",
+    "answer_line": "在 lock 形成前先建立 frame",
+    "distractors": {
+     "plausible": [
+      "扣手建立後才破解",
+      "被壓平後才用力 bridge"
+     ],
+     "trap": [
+      "轉成趴姿逃脫"
+     ]
+    }
+   },
+   {
+    "question": "為什麼被壓平躺平對你對抗 body lock pass 的防守位置傷害這麼大？",
+    "answer": "被壓平躺平會消除 hip 活動度，而這正是所有 guard 維持與逃脫機制的基礎。沒有透過 hip 動作創造角度的能力，你就無法重新插入 Knee Shield、發動 hip escape，或產生 sweep 所需的槓桿。躺平的姿勢也會讓過 guard 者的壓力優勢達到最大，因為對手的重心會直直穿過你的軀幹壓進墊子，沒有任何角度上的分散。",
+    "answer_line": "沒有 hip 就沒有 guard 維持",
+    "distractors": {
+     "plausible": [
+      "讓你無法深呼吸",
+      "讓你失去 leg lock 選項"
+     ],
+     "trap": [
+      "維持躺平，等對手犯錯"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立 body lock，並開始把你壓平——優先度最高的防守動作是什麼？",
+    "answer": "優先度最高的是透過積極爭奪 underhook 與 hip 動作，努力維持或恢復你的側身角度。轉身面向過 guard 者，爭奪被困腿那一側的 underhook。即使只維持部分角度，也比完全躺平大幅增加你的防守選項。如果搶不到 underhook，至少要讓你近側的手肘連著膝蓋，維持一定的 frame 結構。",
+    "answer_line": "爭奪 underhook，恢復角度",
+    "distractors": {
+     "plausible": [
+      "立刻施展 Lockdown",
+      "把對手的頭推開"
+     ],
+     "trap": [
+      "躺平並縮成 turtle"
+     ]
+    }
+   },
+   {
+    "question": "對抗 body lock pass 時，什麼時候該施展 Lockdown？施展之後你必須立刻做什麼？",
+    "answer": "當你已經被壓平、過 guard 者開始用 hip walk 清出被困的腿時，就施展 Lockdown。不過，Lockdown 只是暫時的拖延手段。施展之後，你必須立刻利用 Lockdown 的控制創造角度，努力回到側身位置，接著爭奪 frame 與 underhook 位置。只靠 Lockdown 維持躺平，面對有耐心的過 guard 者是輸定的策略。",
+    "answer_line": "施展後立刻搶回側身",
+    "distractors": {
+     "plausible": [
+      "在對手扣手前就先施展",
+      "用它來向下方翻轉"
+     ],
+     "trap": [
+      "躺平靠 Lockdown 拖延"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的防守 frame 結構能有效阻止 body lock 成功建立？",
+    "answer": "用你的小腿斜向頂在過 guard 者軀幹上的 Knee Shield，能完全阻止胸貼胸的接觸。搭配用前臂 frame 頂住對手遠側肩膀來控制距離。這種雙層 frame 結構意味著過 guard 者必須同時處理 Knee Shield 與你的手臂 frame，才能拉近到 body lock 所需的距離。手肘要收緊貼近身體，避免遭受手臂被單獨鎖定的攻擊。",
+    "answer_line": "斜向 Knee Shield 加上 frame",
+    "distractors": {
+     "plausible": [
+      "雙手都抓在對手的 collar 上",
+      "underhook 加 overhook 組合"
+     ],
+     "trap": [
+      "手肘大幅外張"
+     ]
+    }
+   }
+  ]
+ }
+}

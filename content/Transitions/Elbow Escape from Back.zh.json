@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在肘部逃脫（elbow escape）技巧中，做任何 hip escape 動作之前，最優先要做的事情是什麼？",
+    "answer": "必須先透過深下巴內收，並對對手勒頸的手臂建立 two-on-one grip，確實做好頸部防禦，才能開始其他動作。如果沒有先確保頸部安全就嘗試逃脫，會在 hip escape 與轉身這兩個防禦結構正在轉換、最脆弱的階段，暴露在 rear naked choke 的風險之下。",
+    "answer_line": "先下巴內收，抓好 two-on-one grip",
+    "distractors": {
+     "plausible": [
+      "先做 hip escape，再處理頸部防禦",
+      "先用手肘 frame 頂住 hook"
+     ],
+     "trap": [
+      "站起來把 hooks 甩開"
+     ]
+    }
+   },
+   {
+    "question": "要對對手上方的 hook 產生最大槓桿，手肘 frame 應該精準放在哪個位置？",
+    "answer": "手肘應該直接放在對手膝蓋後側或小腿處，也就是 hook 跨過你髖線的位置。這個位置能形成最短的力臂，在 hip escape 過程中對推開 hook 有最大的機械優勢。如果把 frame 放得較高、頂在大腿上，槓桿效果會變差，對手也能輕易重新調整 hook 的深度。",
+    "answer_line": "手肘 frame 頂在膝蓋／小腿線",
+    "distractors": {
+     "plausible": [
+      "把手肘 frame 頂在對手大腿上",
+      "用 frame 推對手的腳"
+     ],
+     "trap": [
+      "抓住 hook 直接把它拉開"
+     ]
+    }
+   },
+   {
+    "question": "逃脫時應該往哪個方向轉身？往反方向轉身為什麼危險？",
+    "answer": "你必須轉身面向對手。往反方向轉身很危險，因為這會讓對手跟著你的轉動重新從背後建立雙邊 hooks，而且往往比之前控制得更緊。轉向對手則能阻擋他們跟進，因為你的身體會形成屏障，而這個轉身動作也會自然讓你被困住的那條腿進入 half guard 的位置。",
+    "answer_line": "轉身面向對手",
+    "distractors": {
+     "plausible": [
+      "轉身離開以製造空間",
+      "哪個方向順手就往哪轉"
+     ],
+     "trap": [
+      "轉開後快速坐起"
+     ]
+    }
+   },
+   {
+    "question": "如果對手鎖的是 body triangle 而不是一般的 hooks，你的逃脫方式要如何調整？",
+    "answer": "遇到 body triangle 時，標準的清 hook 肘部逃脫在解開 body triangle 的鎖之前無法進行。你必須先轉向鎖住腳踝那一側，再想辦法把上方的腳推過下方膝蓋，把 body triangle 的結構拆開。只有先解開 body triangle，才能對已經鬆開的雙腿繼續進行標準的肘部逃脫流程。",
+    "answer_line": "先拆 body triangle，腳推過膝",
+    "distractors": {
+     "plausible": [
+      "照常進行清 hook 逃脫",
+      "轉離鎖住的那隻腳踝"
+     ],
+     "trap": [
+      "試著直接站直起身"
+     ]
+    }
+   },
+   {
+    "question": "在整個 hip escape 過程中，對於對手勒頸的手臂應該維持什麼樣的 grip 配置？",
+    "answer": "應該維持 two-on-one grip，一手控制對手的手腕，另一手控制他們的前臂或肘窩。這樣的配置能阻止對手把勒頸手臂推過你的下巴，同時讓你能把他們的手臂往下、往外帶離你的頸部。這個 grip 必須一直維持，直到你的轉身動作在機械結構上讓這個 choke 完全不可能成立為止。",
+    "answer_line": "控制手腕與肘窩",
+    "distractors": {
+     "plausible": [
+      "只抓緊手腕",
+      "把手臂拉過自己胸前"
+     ],
+     "trap": [
+      "放開手改用雙手做 frame"
+     ]
+    }
+   },
+   {
+    "question": "當你轉身面向對手完成的那一瞬間，最重要必須立刻做的動作是什麼？",
+    "answer": "你必須立刻用雙膝夾緊，把對手剩下的那條腿困在你的雙腿之間，建立 half guard。這是整個逃脫過程中時間壓力最大的瞬間，因為只要一遲疑，對手就能把腳抽走，重新拿回 back control 或推進到 side control。困腿這個動作必須在重新建立 frame 或 grip 之前先完成。",
+    "answer_line": "先困腿進入 half guard",
+    "distractors": {
+     "plausible": [
+      "先重新建立 grip",
+      "推開對手拉開距離"
+     ],
+     "trap": [
+      "手撐地站起來"
+     ]
+    }
+   },
+   {
+    "question": "如果對手每次你開始做 frame 時就重新收緊 hooks，該用什麼方式突破這種被動反應式的防守？",
+    "answer": "用小幅度、漸進的方式做 hip escape，而不是嘗試一次大動作清開。即使對手每次都在反應中收緊 hooks，每一次微小的 hip escape 都能多爭取一點空間。多次小幅逃脫累積起來，最終會讓你的髖部移動到 hooks 無法觸及的位置。耐心與持續的 frame 壓力才能克服對手的反應式收緊。",
+    "answer_line": "用小幅度漸進 hip escape",
+    "distractors": {
+     "plausible": [
+      "一次做出大幅度的 hip escape",
+      "停下來重新建立 grip"
+     ],
+     "trap": [
+      "用雙手硬把 hook 扳開"
+     ]
+    }
+   },
+   {
+    "question": "如果肘部逃脫在清 hook 階段卡住，可以銜接哪個替代逃脫方式？",
+    "answer": "卡住時最主要的替代方案是 back door escape 轉為 turtle。當對手收緊 hooks 阻止你往下做 hip escape 時，他們的上半身控制往往會稍微鬆開，這時就有機會處理 seatbelt，並想辦法把背部貼向地墊，從 back door 逃出成 turtle 姿勢。對手無法同時把 hook 防守與上半身控制都做到最緊。",
+    "answer_line": "改走 back door 逃成 turtle",
+    "distractors": {
+     "plausible": [
+      "直接改做 bridge",
+      "硬拚繼續搶 hook"
+     ],
+     "trap": [
+      "轉身去抓對手的腿"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手開始嘗試肘部逃脫時，最早能察覺到的觸覺線索是什麼？",
+    "answer": "最早的線索是對手開始針對你勒頸的手臂進行 two-on-one grip 爭奪，同時搭配微幅、有控制的向下髖部移動。這種搶 grip 的動作代表他們正在有系統地確保頸部防禦，是進入 frame 階段前的準備動作，而不是缺乏章法的手臂亂揮，那通常代表比較沒有組織的逃脫嘗試。",
+    "answer_line": "搶 grip 加上髖部下移",
+    "distractors": {
+     "plausible": [
+      "突然劇烈地亂揮手臂",
+      "對手把 seatbelt 收緊"
+     ],
+     "trap": [
+      "感覺對手累了，力道變輕"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到有手肘 frame 正對你上方那條腿施壓時，該如何調整你的 hook 深度？",
+    "answer": "主動把腳跟往對手遠側髖部拉，加深 hook，增加肌肉施力來對抗手肘 frame。同時把髖部往前推，維持髖對髖的貼合，消除對手做向下 hip escape 所需要的空間。加深 hook 搭配向前的髖部壓力，能同時抵銷 frame 的槓桿優勢與 hip escape 的方向。",
+    "answer_line": "加深 hook，髖部前頂",
+    "distractors": {
+     "plausible": [
+      "先鬆開 hook 之後再重新調整位置",
+      "現在就改鎖 body triangle"
+     ],
+     "trap": [
+      "放開 hook，去抓對手遠側手臂"
+     ]
+    }
+   },
+   {
+    "question": "在逃脫過程中，什麼時間點你應該轉為爭取 mount，而不是硬拚保住 back control？",
+    "answer": "當對手已經清開一個 hook，而且身體轉動的動能大到你很難在他們完成轉身前重新建立 hook 時，就該轉為爭取 mount。判斷的時間點大約是感覺到對手的髖部已經轉過大約四十五度、正朝向你時。到了這個角度，硬拚保住 back control 的成功率反而比順著他們的轉身拿下 mount 來得低。",
+    "answer_line": "髖部轉過四十五度時",
+    "distractors": {
+     "plausible": [
+      "一個 hook 剛清開就轉換",
+      "兩個 hooks 都清開後才轉換"
+     ],
+     "trap": [
+      "絕不放棄 back，硬拚 hooks"
+     ]
+    }
+   },
+   {
+    "question": "要防止對手在逃脫過程中成功拆掉你的 harness grip，seatbelt 該怎麼調整？",
+    "answer": "把雙手在對手胸口中線緊緊扣在一起，勒頸的那隻手臂繞過他們肩膀，另一隻控制手則穿過腋下。當對手開始想拆你的 grip 時，把胸口壓力往前推進他們的背部，用壓迫感讓他們更難拆開你的 grip。你也可以改用較高位置的 seatbelt，讓勒頸手臂改到橫過他們的喉嚨。",
+    "answer_line": "雙手扣緊，胸口向前施壓",
+    "distractors": {
+     "plausible": [
+      "改用 overhook 抓法",
+      "鬆開 grip 重新調整手的位置"
+     ],
+     "trap": [
+      "放手後再改抓高一點"
+     ]
+    }
+   },
+   {
+    "question": "及早察覺對手在爭奪 two-on-one grip，會如何影響你當下的防守反應？",
+    "answer": "察覺到對手正在爭奪 two-on-one grip，代表這是有系統的肘部逃脫的第一個階段，說明對手已經從慌亂防守轉為有章法的逃脫流程。這應該立刻觸發你收緊所有控制點：加深 hooks、加大向前的髖部壓力、用最大程度的胸背貼合重新確保 seatbelt，並考慮在對手進入 frame 階段前，主動轉為 body triangle。",
+    "answer_line": "收緊 hooks、髖部與 seatbelt",
+    "distractors": {
+     "plausible": [
+      "放鬆控制，先觀察情況",
+      "改換另一種 choke"
+     ],
+     "trap": [
+      "鬆開 grip 重新調整角度"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Elbow Escape from Back.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

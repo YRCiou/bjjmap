@@ -1,0 +1,245 @@
+{
+ "_meta": {"source": "content/Transitions/Extract legs and stand up.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {"flashcards": [
+  {
+   "question": "Extract Legs and Stand Up 的主要目標是什麼？",
+   "answer": "主要目標是安全脫離危險的 bottom 50-50 腿部纏繞位置，重設回站姿，讓你能透過 takedown 或過 guard 在更有利的條件下重新接觸，而不是繼續停留在處於劣勢的 leg lock 交鋒中。",
+   "answer_line": "脫離纏繞，重設站姿",
+   "distractors": {
+    "plausible": [
+     "翻轉到 top 50-50",
+     "從底部過 guard"
+    ],
+    "trap": [
+     "硬要完成 heel hook"
+    ]
+   }
+  },
+  {
+   "question": "Extract Legs and Stand Up 是從什麼位置開始執行的？",
+   "answer": "這個技術從 50-50 Guard Bottom 開始，也就是當你處於對稱腿部纏繞中不利的底部位置，需要逃脫而不是嘗試翻轉或反制 submission 的時候。",
+   "answer_line": "50-50 Guard Bottom",
+   "distractors": {
+    "plausible": [
+     "Inside Ashi-Garami bottom",
+     "Saddle bottom 位置"
+    ],
+    "trap": [
+     "50-50 Guard Top"
+    ]
+   }
+  },
+  {
+   "question": "在開始抽出被困的腿之前，必須先做什麼？",
+   "answer": "在任何抽腿嘗試之前，必須先破壞對手在你腳跟與腳踝上的握持。若在對方握持仍完整時就開始抽腿，你的腿在伸展過程中會變得極度脆弱，創造出最大的 heel hook 完成機會。爭奪握持是抽腿的先決條件。",
+   "answer_line": "先破壞腳跟與腳踝的握持",
+   "distractors": {
+    "plausible": [
+     "先 shrimp 創造空間",
+     "先把膝蓋向內旋轉"
+    ],
+    "trap": [
+     "立刻抽腿"
+    ]
+   }
+  },
+  {
+   "question": "儘管你努力爭奪握持，對手仍維持強力的腳跟握持，你該怎麼做？",
+   "answer": "不要嘗試抽腿。回到或維持防守性的 shell 姿勢，透過膝蓋內旋把腳跟藏好。持續爭奪握持直到成功，考慮翻轉等其他逃脫方式，或認清若在對方仍握持的情況下硬要抽腿，只會導向 submission。",
+   "answer_line": "維持 shell，藏腳跟，重新爭握",
+   "distractors": {
+    "plausible": [
+     "還是硬要抽腿",
+     "改為嘗試翻轉"
+    ],
+    "trap": [
+     "伸直腿用力硬撐脫出"
+    ]
+   }
+  },
+  {
+   "question": "整個抽腿過程中，你的膝蓋應該保持什麼姿勢？",
+   "answer": "從最初的防守姿勢到最終站起，整個抽腿過程中你的膝蓋都應朝對側髖部方向內旋。這個內旋能讓你的腳跟不暴露於 heel hook 之下，即使在創造空間與抽腿的過程中也必須維持。",
+   "answer_line": "膝蓋內旋，藏好腳跟",
+   "distractors": {
+    "plausible": [
+     "膝蓋外旋以取得空間",
+     "膝蓋維持中立，腿伸直"
+    ],
+    "trap": [
+     "把膝蓋朝對手方向伸直"
+    ]
+   }
+  },
+  {
+   "question": "站起動作過程中，撐地的手應該正確放置在哪裡？",
+   "answer": "把撐地的手穩穩壓在髖部後方的地墊上，手指朝身體外側。這隻手為髖部抬升與 technical stand up 的動作提供 base 與槓桿。這隻手應保持撐地，直到你完全站直並取得穩定的運動員站姿為止。",
+   "answer_line": "手撐在髖部後方，手指朝外",
+   "distractors": {
+    "plausible": [
+     "手撐在髖部旁邊，手指朝內",
+     "撐在對方腿上"
+    ],
+    "trap": [
+     "雙手都維持在握持上"
+    ]
+   }
+  },
+  {
+   "question": "當你完成站起動作時，對手撲向 single leg，你該如何應對？",
+   "answer": "一感覺到接觸就立刻 sprawl，把髖部向下向後驅動，同時用 crossface 壓力把對手的頭往地墊方向壓。從 sprawl 出發，可以繞向對方背後建立 back control，或建立 front headlock 控制以進行 submission 或取得位置優勢。",
+   "answer_line": "Sprawl、crossface，拿背部",
+   "distractors": {
+    "plausible": [
+     "坐下拉 guard",
+     "轉身逃跑"
+    ],
+    "trap": [
+     "站得更高並脫離接觸"
+    ]
+   }
+  },
+  {
+   "question": "什麼時候應該選擇抽腿，而不是嘗試從 bottom 50-50 翻轉？",
+   "answer": "當對手明顯取得你無法迅速匹配的 inside position 控制時、面對更擅長 leg lock 的對手時、你的腳跟保護已被破壞時，或是翻轉嘗試所耗費的體力已超過其效益時，選擇抽腿。翻轉需要與對方勢均力敵的 inside position；抽腿則不需要。",
+   "answer_line": "失去 inside position 控制時",
+   "distractors": {
+    "plausible": [
+     "只在完全精疲力竭時",
+     "只對較弱的對手使用"
+    ],
+    "trap": [
+     "永遠先嘗試翻轉"
+    ]
+   }
+  },
+  {
+   "question": "最常導致抽腿嘗試失敗變成 submission 的常見錯誤是什麼？",
+   "answer": "在破壞對手握持之前就嘗試抽腿，是最危險的錯誤。當你在對方腳跟握持仍完整時開始抽腿，你的腿會伸展並暴露在最容易被 heel hook 完成的狀態下。破壞握持必須發生在任何抽腿動作之前。",
+   "answer_line": "握持破壞前就抽腿",
+   "distractors": {
+    "plausible": [
+     "Shrimp 次數太多",
+     "撐地手角度不對"
+    ],
+    "trap": [
+     "太早破壞握持"
+    ]
+   }
+  },
+  {
+   "question": "嘗試抽出被困的腿之前，應該先創造多少髖部空間？",
+   "answer": "在嘗試抽腿之前，透過爆發性的 shrimp 動作創造大約 6 到 12 吋的髖部分離空間。空間不足代表腿無法脫離纏繞，抽腿會失敗，不僅浪費體力，還可能因為對手察覺你的意圖而讓你的位置變得更差。",
+   "answer_line": "6 到 12 吋的髖部分離",
+   "distractors": {
+    "plausible": [
+     "1 到 2 吋就夠了",
+     "需要一整條手臂的長度"
+    ],
+    "trap": [
+     "不需要空間，直接拉就行"
+    ]
+   }
+  },
+  {
+   "question": "抽腿的 shrimp 階段中，關鍵的施力方向是什麼？",
+   "answer": "Shrimp 的力量必須沿著你脊椎的方向朝遠離對手的方向施加，而不是側向。側向 shrimp 無法創造抽腿所需的直線髖部分離，還可能讓你的腳跟暴露在另一個角度的攻擊之下。用自由的那隻腳頂住對方髖部，同時把髖部直接向後驅動，以最大化每一分力氣所創造的空間。",
+   "answer_line": "沿脊椎方向直線向後",
+   "distractors": {
+    "plausible": [
+     "側向遠離雙腿",
+     "朝對手髖部方向"
+    ],
+    "trap": [
+     "直接向上推"
+    ]
+   }
+  },
+  {
+   "question": "你開始創造空間時，對手正轉換進入 Inside Ashi-Garami，你該如何調整抽腿？",
+   "answer": "立刻加速抽腿，因為 Inside Ashi-Garami 比標準 50-50 提供遠更強的控制與腳跟暴露。如果對方的轉換尚未完成，你會有一個窗口，因為對方的 hook 在重新配置期間是鬆動的。如果對方已完成轉換，就中止抽腿，優先處理這個更危險的位置——先在新的配置下重新建立腳跟防守與握持爭奪，之後再重新嘗試。",
+   "answer_line": "轉換未完成時加速抽腿",
+   "distractors": {
+    "plausible": [
+     "忽略並照原計畫繼續",
+     "立刻嘗試站起"
+    ],
+    "trap": [
+     "放慢動作冷靜重新評估"
+    ]
+   }
+  }
+ ]},
+ "defender": {"flashcards": [
+  {
+   "question": "防止對手從 50-50 抽腿逃脫，最重要的單一因素是什麼？",
+   "answer": "維持對腳跟與腳踝的握持控制是最關鍵的因素。沒有握持的話，光靠腿部纏繞本身無法阻止抽腿，因為對方可以收回膝蓋並抽身脫離。腳跟杯狀握持與腳踝握持創造出讓對方腿部持續被困住的力學連結，因此所有防守努力都應優先維持握持與重新爭握，勝過任何其他控制點。",
+   "answer_line": "維持腳跟與腳踝的握持",
+   "distractors": {
+    "plausible": [
+     "維持膝線控制",
+     "維持持續的髖部壓力"
+    ],
+    "trap": [
+     "放開握持，追求更深的 hook"
+    ]
+   }
+  },
+  {
+   "question": "對手開始積極用二打一破解你的腳跟控制，最佳應對是什麼？",
+   "answer": "趁對方雙手都投入破解握持之際，立刻升級你的攻勢威脅，收緊你的 heel hook 完成姿勢。這會創造出競速局面：對方必須在你完成 submission 之前破解你的握持。對方投入二打一爭奪握持，代表他們完全沒有手在防守 heel hook，這讓這個瞬間成為整場交鋒中完成機率最高的窗口。",
+   "answer_line": "收緊 heel hook，搶先完成",
+   "distractors": {
+    "plausible": [
+     "用雙手重新握持",
+     "改換其他 submission"
+    ],
+    "trap": [
+     "放開握持，重設位置"
+    ]
+   }
+  },
+  {
+   "question": "在對手抽腿的過程中，什麼時候該從維持 50-50 轉為爭取 Inside Ashi-Garami？",
+   "answer": "當你發現儘管已盡力爭奪握持並跟隨對方髖部，維持 50-50 仍然失敗時，就該轉換。關鍵指標是對方已破解你主要的腳跟握持，並取得部分髖部分離。與其硬要重新建立已經被破壞的 50-50，不如利用對方抽腿的動量，把你的 hook 重新定位進入 Inside Ashi-Garami 的配置，把一場正在輸掉的維持戰，轉換成位置上的推進。",
+   "answer_line": "主要握持破解、髖部出現空隙時",
+   "distractors": {
+    "plausible": [
+     "比賽一開始就立刻轉換",
+     "只在完全抽腿成功之後"
+    ],
+    "trap": [
+     "絕不轉換，永遠堅守 50-50"
+    ]
+   }
+  },
+  {
+   "question": "當對手成功站起時，你應該準備好什麼應變計畫？",
+   "answer": "在抽腿甚至還沒開始之前，就要準備好立即重新接觸的計畫。優先順序最好的選項是：在對方還在完成站起、尚未取得運動員站姿之前發動 single leg 攻擊；拉 guard 立刻從 open guard 重新建立腿部纏繞；或是站立纏鬥（clinch）以防止對方拉開距離完全重設。若接受中立的站立重設，會浪費掉你先前建立的所有位置優勢。",
+   "answer_line": "Single leg、拉 guard 或 clinch",
+   "distractors": {
+    "plausible": [
+     "重設並繞位準備 takedown",
+     "等對方先進攻"
+    ],
+    "trap": [
+     "後退拉開距離"
+    ]
+   }
+  },
+  {
+   "question": "在對手抽腿嘗試的過程中持續保持進攻壓力，對你的維持策略有什麼幫助？",
+   "answer": "持續的 submission 威脅會逼對方把注意力分散在抽腿力學與 submission 防守之間，大幅拖慢甚至阻止逃脫。一個必須同時破解握持、保護腳跟、創造空間並維持防守性膝蓋內旋的對手，無法以最高效率執行抽腿動作序列。對方每次必須應對的 submission 威脅，都會耗費原本該用於逃脫的時間、體力與專注力。",
+   "answer_line": "分散對方注意力，拖慢逃脫",
+   "distractors": {
+    "plausible": [
+     "讓對方體力耗盡",
+     "逼對方提早 tap"
+    ],
+    "trap": [
+     "讓你在攻擊之間得以休息"
+    ]
+   }
+  }
+ ]}
+}

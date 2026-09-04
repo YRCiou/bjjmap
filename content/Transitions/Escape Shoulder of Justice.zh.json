@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Shoulder of Justice.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "當對手加大肩膀對你下巴的壓力時，最該避免的關鍵錯誤是什麼？",
+    "answer": "最關鍵的錯誤是伸直近側手臂，把對手的肩膀從你臉上推開。這正是 Shoulder of Justice 這個位置刻意設計來引誘出的反應，會立刻讓你的手臂暴露在高成功率的 kimura 攻擊之下，而從平躺姿勢幾乎不可能防守這個攻擊。相反地，把近側手臂緊貼肋骨，只透過前臂的微 frame 創造空間，且這個微 frame 絕不能超出你胸口的中線。",
+    "answer_line": "在肩膀處伸直近側手臂",
+    "distractors": {
+     "plausible": [
+      "把遠側手臂向外伸展",
+      "立刻用力 bridge"
+     ],
+     "trap": [
+      "伸手過去搶 underhook"
+     ]
+    }
+   },
+   {
+    "question": "被困在 Shoulder of Justice 時，為什麼必須用鼻子呼吸，而不是用嘴巴呼吸？",
+    "answer": "鼻子呼吸能啟動副交感神經系統，維持鎮定，防止下巴壓力下嘴巴呼吸所引發的恐慌反應。用嘴巴呼吸會加快心跳、增加皮質醇分泌，導致伸直手臂、亂 bridge 等絕望的反射動作，正好落入上位者的 submission 兩難系統。維持鼻子呼吸能讓你保持足夠的冷靜，去辨識真正的逃脫時機空檔。",
+    "answer_line": "保持冷靜、防止恐慌",
+    "distractors": {
+     "plausible": [
+      "為逃脫保留氧氣",
+      "隱藏你的用力狀態不讓對手察覺"
+     ],
+     "trap": [
+      "用嘴巴呼吸來加強 bridge 力量"
+     ]
+    }
+   },
+   {
+    "question": "什麼具體指標能告訴你，對手的重心已經轉移到足以嘗試 hip escape 的程度？",
+    "answer": "關鍵指標包括對手調整肩膀角度、伸手去建立新的 grip、遠側膝蓋的位置改變，或開始轉換去設置 submission。任何暫時減輕他們髖對髖壓力連結的動作，都會創造出逃脫的空檔。最可靠的指標是感覺到對手的髖部稍微抬起或偏離你的近側髖線，這代表他們的重量已經重新分配到足以讓你的 hip escape 產生有意義距離的程度。",
+    "answer_line": "對手的髖部離開你的髖部",
+    "distractors": {
+     "plausible": [
+      "對手重新抓你遠側的袖子",
+      "對手的肩膀角度改變"
+     ],
+     "trap": [
+      "等下巴壓力減輕"
+     ]
+    }
+   },
+   {
+    "question": "你的前臂微 frame 已經到位，但對手用更重的壓力頂穿它。你該如何應對？",
+    "answer": "不要用蠻力硬撐加大的壓力來對抗，這會導致前臂迅速疲勞，最終讓 frame 崩潰。相反地，透過骨骼對齊維持 frame 的位置，同時吸收這個壓力，等待對手重新調整。對手要施加更重的壓力，就必須把重心往前移，這會暫時減輕他們的髖部連結，創造出你接下來執行 hip escape 所需要的重心轉移空檔。",
+    "answer_line": "撐住 frame，等重心轉移",
+    "distractors": {
+     "plausible": [
+      "用蠻力硬撐 frame",
+      "推開後把 frame 重新放低"
+     ],
+     "trap": [
+      "放開 frame 用力 bridge"
+     ]
+    }
+   },
+   {
+    "question": "逃脫過程中，插入 knee shield 的正確角度是什麼？",
+    "answer": "你的小腿應該以大約 45 度角橫跨對手身體，膝蓋指向對手的遠側肩膀。這個角度創造出結構性的屏障，防止對手重新壓回胸對胸的壓力，同時給你足夠的空間去捕捉對手的腿、建立 half guard。小腿平放的水平角度提供的結構強度較弱，而垂直的小腿則容易被向內壓垮。45 度角能讓你的骨骼結構發揮最大的承重能力。",
+    "answer_line": "小腿 45 度指向遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "小腿平放水平阻擋",
+      "小腿垂直向上"
+     ],
+     "trap": [
+      "不用小腿，直接 hook 對手遠側腿"
+     ]
+    }
+   },
+   {
+    "question": "你成功用 hip escape 創造出空間，但對手開始跨腿要進 mount。你的立即反應是什麼？",
+    "answer": "立刻把 knee shield 重新導向，在對手的腿跨過你身體之前把它擋住。你的膝蓋應該在大腿的高度攔截對手的腿，阻止 mount 的進入。如果你能在對手的腿跨過來時，用雙膝把它困住，你就能直接恢復進入 half guard，同時已經捕捉住對手的腿。knee shield 插入的速度非常關鍵，因為 mount 轉換的時間窗只會維持一到兩秒。",
+    "answer_line": "用膝蓋擋住跨過來的腿",
+    "distractors": {
+     "plausible": [
+      "用 bridge 阻止 mount",
+      "抓住對手遠側的腳踝"
+     ],
+     "trap": [
+      "轉身讓出背後"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 half guard 是主要的逃脫目標，而不是完整的 closed guard 或站起來？",
+    "answer": "half guard 是最容易達成的目標，因為逃脫動作的力學會自然而然地把你帶進 half guard 位置。hip escape 創造出側向距離，同時插膝捕捉住對手的一條腿，自然形成 half guard 的纏鎖。完整的 closed guard 需要明顯更多的空間，且雙腿都要自由，而 technical standup 需要更多的距離，以及 Shoulder of Justice 這個位置所阻止的角度。half guard 能透過 sweep 與背後控制提供立即的進攻選項，只需要極少額外的位置調整。",
+    "answer_line": "逃脫的力學自然帶你到那裡",
+    "distractors": {
+     "plausible": [
+      "攻擊腿部的最佳位置",
+      "最容易站起來的位置"
+     ],
+     "trap": [
+      "改為爭取完整 guard"
+     ]
+    }
+   },
+   {
+    "question": "鞏固 half guard 之後，你必須立刻做什麼，才能防止對手重新建立 Shoulder of Justice？",
+    "answer": "立刻用下方手臂在遠側建立 underhook，並開始威脅 sweep。underhook 能防止對手把你重新壓平、把肩膀壓力再次推回你的下巴，而 sweep 的威脅則會逼對手必須應付你的進攻潛力，而不是專心重新過人。如果你只是被動地維持 half guard、不做任何威脅，對手就能有條不紊地瓦解你的位置，重新建立 Shoulder of Justice，或過人進入 side control。",
+    "answer_line": "遠側 underhook，威脅 sweep",
+    "distractors": {
+     "plausible": [
+      "緊抓對手近側衣領",
+      "壓平身體、原地拖延"
+     ],
+     "trap": [
+      "放手滑向 open guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位者正在準備有計畫的逃脫、而不只是被動硬撐，最早出現的辨識線索是什麼？",
+    "answer": "最早、最可靠的線索是下位者開始有節奏、刻意地用鼻子呼吸。這代表他們已經從恐慌或被動硬撐，轉變為主動的逃脫準備狀態，因為受控制的呼吸是任何從 Shoulder of Justice 系統性逃脫的必要第一步。次要線索包括對手的遠側腳平踩在墊子上，以及近側前臂開始對你的胸口製造出細微的楔形空隙。",
+    "answer_line": "穩定刻意的鼻子呼吸",
+    "distractors": {
+     "plausible": [
+      "突然爆發性的 bridge 嘗試",
+      "先把遠側腳平踩在地上"
+     ],
+     "trap": [
+      "大聲喘氣的呼吸模式"
+     ]
+    }
+   },
+   {
+    "question": "為什麼防止逃脫時，髖對髖的連結比肩膀壓力的強度更重要？",
+    "answer": "髖對髖的連結能實際阻擋主要的逃脫機制，也就是創造側向距離的 hip escape。肩膀壓力會造成不適、引發反應，但真正阻止下位者髖部移開的，其實是髖部連結。一個肩膀壓力中等、但髖部連結極佳的上位者，會比一個肩膀壓力最大、但髖部脫節的上位者更難逃脫，因為下位者不管下巴多不舒服，都還是能 shrimp 開。",
+    "answer_line": "直接阻擋 hip escape",
+    "distractors": {
+     "plausible": [
+      "把不適與恐慌最大化",
+      "控制近側手臂"
+     ],
+     "trap": [
+      "把所有壓力都集中在下巴"
+     ]
+    }
+   },
+   {
+    "question": "下位者建立了前臂微 frame，但沒有伸直手臂。你應該攻擊那隻手臂嗎？",
+    "answer": "不應該；正確的微 frame 會保持在中線之內，所以應該用壓力把它壓垮，而不是嘗試孤立那隻手臂。一個執行正確的微 frame，手臂會保持在下位者的身體中線內，不容易被 kimura 或 americana 攻擊。試圖孤立一隻受到保護的手臂，需要你放鬆壓力並轉移重心——這正是下位者在等待、用來執行 hip escape 的重心轉移。相反地，應該加大你的肩膀壓力角度，並把重量透過微 frame 壓下去，在結構上把它壓垮，同時維持髖部連結。",
+    "answer_line": "不，用壓力壓垮 frame",
+    "distractors": {
+     "plausible": [
+      "應該，孤立手臂搶 kimura",
+      "不應該，等對手 bridge"
+     ],
+     "trap": [
+      "應該，放開髖部去抓手臂"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是轉換進 mount 的最佳時機，而不是重新鞏固 Shoulder of Justice？",
+    "answer": "在對手的 hip escape 創造出雙方身體之間明顯空間之後、但在他們插入 knee shield 之前，立刻進 mount。這個時間窗通常只維持一到兩秒。如果你能在 knee shield 到位之前，把近側腿跨過對手身體、安頓進入 mount，你就把對手的逃脫嘗試轉換成一個更糟糕的位置結果。如果對手的膝蓋已經在跨過你的髖線，重新鞏固原本的控制才是更安全的選擇。",
+    "answer_line": "在 knee shield 插入之前",
+    "distractors": {
+     "plausible": [
+      "等對手完全恢復 guard 之後",
+      "等對手的膝蓋跨過你的髖部之後"
+     ],
+     "trap": [
+      "先等一個更強的 grip"
+     ]
+    }
+   },
+   {
+    "question": "你如何分辨下位者是恐慌反應，還是有計畫的逃脫嘗試？",
+    "answer": "恐慌反應看起來爆發性十足，卻缺乏協調；有計畫的逃脫則會展現受控制的呼吸、細微的 frame，以及刻意的姿勢調整。恐慌的特徵是沒有後續動作的亂 bridge、把整條手臂伸直去推你的肩膀、憋氣後又急促喘氣，以及絕望的轉身動作。有計畫的逃脫嘗試則會展現受控制的呼吸、不伸直手臂的細微 frame 建立、刻意的腳部定位，以及投入之前小幅度的初步髖部試探。恐慌反應比較容易反制，因為它們會創造出較大的破綻；而有計畫的嘗試則需要透過維持連結與監控準備線索，主動加以預防。",
+    "answer_line": "受控呼吸 vs 亂 bridge",
+    "distractors": {
+     "plausible": [
+      "動作快就代表是有計畫的",
+      "憋氣就代表對手在做計畫"
+     ],
+     "trap": [
+      "把所有 bridge 都當作恐慌無視"
+     ]
+    }
+   }
+  ]
+ }
+}

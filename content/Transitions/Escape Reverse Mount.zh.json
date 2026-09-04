@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Reverse Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "當你發現自己處於 reverse mount 下位時，展開任何逃脫動作之前，你的絕對首要任務是什麼？",
+    "answer": "立刻收下巴保護頸部，雙手到位防守衣領與喉嚨區域，手肘緊貼肋骨。這個防禦姿勢必須在任何逃脫動作之前建立，因為 rear naked choke 是這個位置下最立即、最危險的威脅。為了逃脫速度而犧牲頸部防禦，可能會導致被 tap。",
+    "answer_line": "收下巴，防守衣領",
+    "distractors": {
+     "plausible": [
+      "先做 shrimp 把髖部移出去",
+      "先 bridge 頂起來逃脫"
+     ],
+     "trap": [
+      "轉成趴姿逃脫"
+     ]
+    }
+   },
+   {
+    "question": "逃脫 reverse mount 時，為什麼要以角度 bridge 而不是直直往上頂？",
+    "answer": "直直往上 bridge 只會創造暫時的垂直空間，一旦你回到墊子上，對手立刻就能奪回。以 30 到 45 度角、對齊你 hip escape 方向的 bridge，會創造出斜向的位移，幫助你完成轉身，並讓你逐漸從對手的重量下脫身。角度 bridge 是建立在 hip escape 已經創造出的空間之上，而不是獨立運作。",
+    "answer_line": "角度 bridge，不要直上",
+    "distractors": {
+     "plausible": [
+      "先直直往上 bridge",
+      "完成整個轉身後才 bridge"
+     ],
+     "trap": [
+      "往轉身方向的反方向 bridge"
+     ]
+    }
+   },
+   {
+    "question": "當你開始 hip escape 時，對手重重地把重量壓下來——你該如何調整逃脫策略？",
+    "answer": "從較大的 hip escape 動作，改成小而持續的漸進式 shrimp，這種動作光靠重量比較難以壓制。每一個微小的動作都會累積出空間，重量本身無法完全抵消。等對手做出 grip 調整或重心轉移時，再抓準時機 bridge 並轉身。當爆發性動作無法創造足夠位移時，耐心與持續性能夠克服重量上的劣勢。",
+    "answer_line": "小幅 shrimp，等待，再 bridge",
+    "distractors": {
+     "plausible": [
+      "用爆發力直接頂穿重量",
+      "做更大幅度的 hip escape，加大力量"
+     ],
+     "trap": [
+      "停止動作，靜靜等待"
+     ]
+    }
+   },
+   {
+    "question": "這個逃脫動作中，轉身與插膝之間的關鍵時機關係是什麼？",
+    "answer": "插膝與轉身必須同時發生，作為一個連貫的動作，而不是先後進行。在轉身的同時把內側膝蓋插過對手的大腿線，能確保在對手來得及反應方向變化之前，就先建立起 half guard 的纏鎖。如果先轉身、再想辦法困住對手的腿，對手就有機會在你恢復 guard 之前重新 re-mount 或建立 side control。",
+    "answer_line": "轉身同時插膝",
+    "distractors": {
+     "plausible": [
+      "先轉身，再困住對手的腿",
+      "先插膝，再開始轉身"
+     ],
+     "trap": [
+      "先完成整個轉身再防守"
+     ]
+    }
+   },
+   {
+    "question": "在 reverse mount 中，對手看不到你的上半身，這如何為這個逃脫動作創造優勢？",
+    "answer": "在 reverse mount 中，上位的人面朝你的腳，若不轉身就看不到你的頭、肩膀或手臂的動作，這會削弱他們的 base。這代表你的防禦姿勢調整、hip escape 的啟動與 bridge 的準備動作，比起在一般 mount 中對手能看到、感覺到你的上半身準備動作時，更難被察覺與反制。你可以逐步建立逃脫動作，而被提前反制的風險較低。",
+    "answer_line": "隱藏準備動作，對手看不到你",
+    "distractors": {
+     "plausible": [
+      "對手完全感覺不到任何動作",
+      "對手的 base 永遠是弱的"
+     ],
+     "trap": [
+      "提早明顯示意你要轉身"
+     ]
+    }
+   },
+   {
+    "question": "你成功轉身了，但對手在動作過程中設法插入了一個 hook——你該怎麼做？",
+    "answer": "如果只插入一個 hook，要立刻處理它，再完成 guard 的恢復。用你靠近的那隻手，把對手的腳從你的髖部推開，剝除那個 hook，同時繼續在對手另一條腿上鞏固 half guard。如果兩個 hook 都被插入，就放棄恢復 half guard，立刻轉換到 back escape 流程，用 two-on-one 控手並恢復坐姿。一個 hook 還能應付，兩個 hook 就代表情勢已經改變了。",
+    "answer_line": "剝一個 hook，兩個就 back escape",
+    "distractors": {
+     "plausible": [
+      "無視 hook，繼續完成 half guard",
+      "一插入 hook 就放棄 guard"
+     ],
+     "trap": [
+      "拚命剝除兩個 hook"
+     ]
+    }
+   },
+   {
+    "question": "為什麼一旦開始轉身，就必須完全投入這個轉身方向，這對這個逃脫動作為何至關重要？",
+    "answer": "半調子的轉身會讓你陷入比起始點更差的處境——身體轉了一半、背部依然暴露，卻已經失去了一開始建立的防禦屏障。對手可以利用這個未完成的動作，插入 hook 或在你部分暴露的一側取得控制。一個完全投入的轉身，即使技術不完美，也能創造出足夠的姿勢變化，建立起某種形式的 guard；而半途而廢的轉身只會創造弱點，卻沒有帶來任何改善。",
+    "answer_line": "一旦轉身就完全投入",
+    "distractors": {
+     "plausible": [
+      "慢慢轉身以求安全",
+      "轉到一半暫停確認位置"
+     ],
+     "trap": [
+      "遇到阻力就放棄轉身"
+     ]
+    }
+   },
+   {
+    "question": "從這個逃脫動作建立 half guard 之後，最優先的 grip 與 frame 是什麼？",
+    "answer": "立刻用下方那隻手爭取被困住那條腿一側的 underhook，同時用上方那隻手在對手的肩膀或胸口建立 frame。underhook 是從 half guard 通往 sweep 與背後控制的主要進攻路徑，而胸口的 frame 則能阻止對手立刻重新建立壓制性的壓力。這些 grip 必須在建立 half guard 後的幾秒內就確立，趕在對手安頓好過人策略之前。",
+    "answer_line": "underhook 腿，frame 對手胸口",
+    "distractors": {
+     "plausible": [
+      "先 overhook 遠側手臂",
+      "frame 對手的髖部而非胸口"
+     ],
+     "trap": [
+      "延後抓 grip 先喘口氣"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當下位者開始從 reverse mount 做 hip escape 時，最有效的反制方式是什麼？",
+    "answer": "立刻壓低重量，sprawl 你的髖部，壓平對手的逃脫角度。你的重量應該直接透過你的髖部，壓在對手的下背與軀幹上，讓他們難以持續創造側向空間。同時，用雙手在對手髖部附近撐地，控制他們的髖部動作。這能在逃脫動作累積動能之前，就反制其初期階段。",
+    "answer_line": "把重量 sprawl 壓上對手髖部",
+    "distractors": {
+     "plausible": [
+      "用 grip 追著對手的髖部",
+      "拉對手的頭來壓平"
+     ],
+     "trap": [
+      "等對手完成逃脫再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你應該把這次逃脫嘗試視為機會，而不只是對你位置的威脅？",
+    "answer": "下位者在逃脫過程中的轉身動作會暴露他們的背部，創造出平躺時不存在的自然插 hook 空間。他們的轉動動能其實反而能幫助你轉換到背後控制，只要你抓準時機插入 hook。在對手嘗試逃脫時轉換成背後控制，往往比硬撐著維持 reverse mount 的成功率更高，而背後控制本身就是一個明顯更優勢的位置。",
+    "answer_line": "插入 hook，拿下背後控制",
+    "distractors": {
+     "plausible": [
+      "立刻把對手重新壓平",
+      "重新回到基本 reverse mount"
+     ],
+     "trap": [
+      "追腳準備 leglock"
+     ]
+    }
+   },
+   {
+    "question": "你如何分辨下位者的準備動作與真正投入的逃脫嘗試？",
+    "answer": "準備動作是小幅度的髖部調整與重心轉移，逐漸創造出角度——這些是早期的 shrimping 動作。真正投入的逃脫則會出現肩膀轉動、爆發性的 bridge，以及全身投入的轉身方向。在準備階段，用重量調整來反制是最有效的；一旦真正投入的轉身開始，比起硬要把對手壓平，改成插入 hook 拿背後控制反而是命中率更高的反應。",
+    "answer_line": "小幅調整 vs 爆發性轉身",
+    "distractors": {
+     "plausible": [
+      "任何髖部動作都算真正投入",
+      "只等到對手完全靜止"
+     ],
+     "trap": [
+      "等對手逃脫完才反應"
+     ]
+    }
+   },
+   {
+    "question": "有哪些觸覺線索能顯示下位者即將嘗試爆發性的 bridge 逃脫？",
+    "answer": "你身下的核心緊繃感增加、髖部動作出現短暫停頓（像是在為 bridge 蓄力）、以及雙腳穩穩踩在墊子上準備發力。他們的呼吸模式也可能改變，出現急促的吸氣，為即將到來的爆發做準備。察覺這些 bridge 前兆，能讓你提前壓低重量，或準備好在 bridge 後的轉身空檔插入 hook。",
+    "answer_line": "核心緊繃、踩地、吸氣",
+    "distractors": {
+     "plausible": [
+      "任何動作前的大聲呼吸",
+      "突然放鬆後又靜止不動"
+     ],
+     "trap": [
+      "對手的 grip 鬆開、放鬆"
+     ]
+    }
+   }
+  ]
+ }
+}

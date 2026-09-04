@@ -1,0 +1,179 @@
+{
+ "_meta": {"source": "content/Transitions/Escape Leg Hook.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "這個 escape 中，主要抽腿脫離動作的最佳時機是什麼時候？",
+    "answer": "最佳時機是 top 玩家轉移重心去調整位置、或試圖繼續 pass 的時候。在這些轉換的瞬間，他們的 hook 張力會因為重新分配重心而自然降低。此時 bottom 玩家應該已經完成 frame 建立與初步的 hip escape，所以抽腿脫離要利用 hook 壓力暫時減弱的這一刻。若在 top 玩家穩定下來並主動維持最大 hook 張力時嘗試抽腿，成功率會明顯偏低。",
+    "answer_line": "趁對方轉移重心時抽腿",
+    "distractors": {
+     "plausible": [
+      "架好 frame 後立刻抽腿",
+      "在大幅度 bridge 時抽腿"
+     ],
+     "trap": [
+      "趁 hook 最緊的時候抽腿"
+     ]
+    }
+   },
+   {
+    "question": "在啟動 hip escape 之前必須先建立哪些 frame？",
+    "answer": "近側前臂必須以骨骼對位的方式頂住 top 玩家的頸部、肩膀或胸口，防止胸對胸貼死。另一隻手則要控制 top 玩家的遠側髖部或衣袖，限制他們跟隨你 hip escape 的能力。這兩個 frame 合起來會形成一道結構性屏障，在整個 escape 過程中維持空間，並防止 top 玩家單純向前壓垮你的 hip 動作。",
+    "answer_line": "前臂 frame ＋控制遠側髖部",
+    "distractors": {
+     "plausible": [
+      "雙手都放在近側髖部",
+      "先 underhook 再撐地"
+     ],
+     "trap": [
+      "抓住雙手腕，胸對胸貼緊"
+     ]
+    }
+   },
+   {
+    "question": "為抽腿脫離創造空間的關鍵 hip 動作是什麼？",
+    "answer": "沿著垂直於 top 玩家壓力線方向的側向 hip escape（shrimp）是關鍵動作。下方的腳驅動髖部側移，同時 frame 阻止 top 玩家跟上。這會在被 hook 的腿與 top 玩家的 hook 腿之間創造水平間距。這個動作必須是控制且漸進的，而不是爆發式的，因為爆發式 bridge 只會產生垂直方向的抬升，無法創造抽腿所需的側向空間。",
+    "answer_line": "側向 shrimp，而非 bridge",
+    "distractors": {
+     "plausible": [
+      "向上做爆發式 bridge",
+      "直接向後推開"
+     ],
+     "trap": [
+      "用力朝對方胸口 bridge"
+     ]
+    }
+   },
+   {
+    "question": "嘗試這個 escape 時最常見的失敗點是什麼？",
+    "answer": "最常見的失敗是 bottom 玩家在還沒透過 frame 和 hip escape 創造出足夠空間前，就急著抽腿脫離 hook。在沒有空間的情況下，抽腿嘗試會變成一場對抗 hook 的拉鋸戰，而 bottom 玩家通常會輸掉這場拉鋸，這個動作也會給 top 玩家繼續推進 pass 的機會。這個 escape 必須遵循順序：先 frame，再創造空間，接著減弱 hook，最後才抽腿。",
+    "answer_line": "還沒創造空間就急著抽腿",
+    "distractors": {
+     "plausible": [
+      "沒先架 frame 就 escape",
+      "hip escape 做得太急太快"
+     ],
+     "trap": [
+      "試圖用 bridge 把對方頂開"
+     ]
+    }
+   },
+   {
+    "question": "在 escape 的過程中，空出來的那條腿應該如何運用？",
+    "answer": "空出來的那條腿在整個 escape 過程中扮演多重角色。在初期架 frame 的階段，它可以頂住 top 玩家的髖部以創造額外空間。在削弱 hook 的階段，這隻空出來的腳可以頂住 hook 那條腿，幫助創造分離。抽腿脫離之後，這條空出來的腿要立刻插入作為 knee shield 或 butterfly hook，建立 half guard 的結構。若讓空出來的腿一直被動不動，就是浪費了 escape 過程中最有力的工具之一。",
+    "answer_line": "先頂髖、再剝 hook、最後架盾",
+    "distractors": {
+     "plausible": [
+      "只在架 frame 階段推頂",
+      "留到抽腿之後才用"
+     ],
+     "trap": [
+      "空出來的腿全程保持被動"
+     ]
+    }
+   },
+   {
+    "question": "主要的 hip escape 力量應該朝哪個方向施加？",
+    "answer": "hip escape 的力量應該沿著垂直於 top 玩家向前壓力線的方向施加，也就是側向。直接朝遠離 top 玩家的方向移動效果較差，因為他們可以直接向前跟上。側向移動則是利用他們的重心已經投入在前後軸上、難以做側向追擊這個弱點。下方的腳驅動整個動作，同時頂住肩膀的 frame 則阻止 top 玩家轉身跟上你的側向移動。",
+    "answer_line": "垂直於對方的壓力方向",
+    "distractors": {
+     "plausible": [
+      "直直向後，遠離對方",
+      "朝對方背後斜向移動"
+     ],
+     "trap": [
+      "直接推向對方胸口"
+     ]
+    }
+   },
+   {
+    "question": "當你開始做 hip escape 時，top 玩家施加沉重的向前壓力——你該如何調整？",
+    "answer": "當向前壓力阻擋了側向 hip escape 時，改為進入 deep half guard，利用 top 玩家已經投入的重心反過來對付他們。他們向前的動能反而有助於你鑽到他們的底座下方。另一個選擇是切換到 push-kick 抽腿變化式，用空出來的腳頂住他們的髖部，在壓力之下強行創造分離。最糟的反應是在壓倒性的向前壓力下，繼續硬拚 hip escape，這只會耗盡體力卻毫無進展。",
+    "answer_line": "改切入 deep half",
+    "distractors": {
+     "plausible": [
+      "加大 frame 的壓力",
+      "等對方壓力自己減弱"
+     ],
+     "trap": [
+      "繼續硬拚 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "如果直接 escape 被擋住、無法抽腿脫離，你應該接續到什麼技術？",
+    "answer": "首選的接續選項是 Counter Leg Hook，利用爆發性的動作直接轉到 turtle，而不走緩慢的 half guard 回復路線。如果這條路也被擋住，就接續到 Deep Half Entry，從 top 玩家的底座下方鑽過去。第三個選項是在被 hook 的那條腿上建立 Lockdown，先拖住對方的 pass，創造一組新的進攻選項。關鍵在於絕不能在 escape 失敗後，安於停留在靜態的 Leg Hook Bottom。",
+    "answer_line": "接續到 Counter Leg Hook",
+    "distractors": {
+     "plausible": [
+      "直接接續到 Deep Half",
+      "直接接續到 Lockdown"
+     ],
+     "trap": [
+      "安於停留在 Leg Hook Bottom"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "bottom 玩家開始進行 Escape Leg Hook 時，最早出現的辨識徵兆是什麼？",
+    "answer": "最早的徵兆是 bottom 玩家用骨骼對位的方式，在你的頸部或肩膀上建立起結構性的前臂 frame，而不是隨意的手部放置。這種刻意的 frame 建立，代表他們正在建立 hip escape 動作序列的前置結構。及早辨識出這個徵兆，能讓你在 frame 還沒發展成熟、最容易破壞的時候，就加大壓力並瓦解這個 frame。",
+    "answer_line": "出現結構性的前臂 frame",
+    "distractors": {
+     "plausible": [
+      "他們抓住你遠側的衣袖",
+      "他們開始側向移動髖部"
+     ],
+     "trap": [
+      "等到他們完全做完 shrimp 才反應"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到 bottom 玩家開始做 shrimp 時，你應該如何調整重心分配？",
+    "answer": "把重心壓低，並將髖部向前驅動、頂住他們的髖線，同時用自己的髖部調整跟上他們的側向移動。目標是維持髖對髖的接觸，消除他們 shrimp 所創造出來的空間。避免把重心抬高或把髖部往後拉，因為這樣正好會製造出他們需要的分離空間。在他們做 shrimp 的時候，你的胸口壓力應該加大，防止 frame 擴大。",
+    "answer_line": "壓低重心、緊貼髖線",
+    "distractors": {
+     "plausible": [
+      "抬高底座以求控制",
+      "保持不動，維持 hook 深度"
+     ],
+     "trap": [
+      "把自己的髖部往後拉"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄維持 hook，直接推進 pass？",
+    "answer": "當 bottom 玩家已經創造出明顯的側向空間，而且注意力完全投入在抽腿脫離、而不是建立 guard 上時，就該推進 pass。關鍵指標是他們的遠側手正伸向自己的腿，而不是繼續在你上半身維持 frame。這個瞬間，放開 hook 並直接推進到 side control，能利用他們注意力分散的弱點，把他們的 escape 嘗試轉變成更糟的位置結果。",
+    "answer_line": "當對方遠側手伸向自己的腿時",
+    "distractors": {
+     "plausible": [
+      "一開始做 shrimp 就推進",
+      "對方剛架好 frame 時"
+     ],
+     "trap": [
+      "第一次 shrimp 就放開 hook"
+     ]
+    }
+   },
+   {
+    "question": "在防守這個 escape 時，為什麼上半身壓力比 hook 深度更重要？",
+    "answer": "上半身的壓力能阻止啟動整個 escape 序列所需的 frame。沒有有效的 frame，bottom 玩家就無法創造出通往削弱 hook 與抽腿脫離的 hip escape。如果 hook 很深但上半身壓力輕，bottom 玩家就能自由地架 frame，並有系統地一步步完成 escape。相反地，若上半身壓力沉重、hook 深度中等，就能阻止 escape 從一開始就發生，因為 bottom 玩家根本無法建立起必要的結構前提。",
+    "answer_line": "壓力能阻止 frame 成形",
+    "distractors": {
+     "plausible": [
+      "光靠深 hook 就能阻止 escape",
+      "hook 深度才是最重要的"
+     ],
+     "trap": [
+      "只專注在 hook 深度上"
+     ]
+    }
+   }
+  ]
+ }
+}

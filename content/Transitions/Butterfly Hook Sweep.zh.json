@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 butterfly hook sweep 的最佳時機窗口是什麼？",
+    "answer": "最佳窗口會在對手把重心向前壓到你的 hook 上時打開，通常是他們伸手要抓 grip 或嘗試建立 underhook 的時候。此時他們的重心已經超出他們的支撐點之前，hook 上抬配合 grip 拉扯，能以最小的力氣創造最大的破勢力量。若在他們重心前傾之前就發動，你等於在對抗一個重心後坐的對手，成功率會大幅降低。",
+    "answer_line": "重心前壓到 hook 上",
+    "distractors": {
+     "plausible": [
+      "hook 一卡入就立刻做",
+      "grip 一抓穩就立刻做"
+     ],
+     "trap": [
+      "等對手坐直"
+     ]
+    }
+   },
+   {
+    "question": "在成功執行這個 sweep 之前，必須具備哪些條件？",
+    "answer": "你需要一隻已經深深插入對手大腿內側的 butterfly hook、控制對手上半身以便拉扯方向的 grip，並且你的髖部必須是側向有角度，而不是正對對手。此外，對手的重心必須已經壓在你的 hook 上。少了任何一個條件都會大幅降低 sweep 成功率，因為每個要素都各有其力學功能，無法互相取代。",
+    "answer_line": "深入的 hook 加上對手重心",
+    "distractors": {
+     "plausible": [
+      "髖部打平，兩隻手都抓 sleeve",
+      "對手重心後坐在腳跟上"
+     ],
+     "trap": [
+      "轉為腹部朝下以建立重心"
+     ]
+    }
+   },
+   {
+    "question": "執行 sweep 時最關鍵的髖部動作是什麼？為什麼？",
+    "answer": "側向的髖部移動、創造出 sweep 角度，是最關鍵的動作。沒有角度的位移，你的 hook 只能垂直上抬，而對手只要把重心撐寬就能抵抗。這個髖部移動能創造大約 30 到 45 度的偏移，把垂直的 hook 上抬轉換成斜向的 sweep 向量，讓對手側向地翻過他靠近你這一側的支撐點，而不是直直往上翻，讓他能用雙手撐地。",
+    "answer_line": "髖部移動創造 sweep 角度",
+    "distractors": {
+     "plausible": [
+      "用 hook 直直往上頂",
+      "更用力拉 grip 來做上抬"
+     ],
+     "trap": [
+      "保持髖部正對以獲得更多力量"
+     ]
+    }
+   },
+   {
+    "question": "在高階程度中，butterfly hook sweep 失敗最常見的兩個原因是什麼？",
+    "answer": "第一，嘗試 sweep 時角度不足——正對前方而非偏向一側，讓對手能用雙手撐地抵抗上抬。第二，grip 拉扯與 hook 上抬的時機沒有同步，上半身的拉扯發生在腿部上抬之前或之後，而不是同時進行。這兩種錯誤都讓對手能個別化解這兩股力量，而不是同時面對一股壓倒性的合力。",
+    "answer_line": "沒有角度、grip 與 hook 不同步",
+    "distractors": {
+     "plausible": [
+      "髖部移動太慢，重心沒壓上",
+      "hook 沒有插得夠深"
+     ],
+     "trap": [
+      "在上抬 hook 之前先拉 grip"
+     ]
+    }
+   },
+   {
+    "question": "在 gi 與 no-gi 中，哪些 grip 能為 sweep 提供最強的力學優勢？",
+    "answer": "在 gi 中，sweep 那一側深握 collar 搭配控制對側 sleeve 是最強的組合。collar grip 把重心拉到 hook 上，而 sleeve 控制則能防止對手撐地。在 no-gi 中，sweep 那一側的手臂做 overhook 搭配控制對側手腕，能達到相同的作用。做為 sweep 用途，overhook 略優於 underhook，因為它能把對手用來撐地的手臂困在你身體旁，拿掉他們最主要的防守工具。",
+    "answer_line": "gi 用 collar/sleeve，no-gi 用 overhook",
+    "distractors": {
+     "plausible": [
+      "underhook 加上控制對側手腕",
+      "抓兩隻 sleeve，不抓 collar"
+     ],
+     "trap": [
+      "抓住對手雙腳踝來控制"
+     ]
+    }
+   },
+   {
+    "question": "相對於你的身體，主要的 sweep 力量應該朝哪個方向施加？",
+    "answer": "力量應該以大約 45 度斜向跨過你身體、朝 sweep 那一側施加，而不是直直往上或直直橫向。hook 向上並斜向頂出，同時你的 grip 朝 sweep 方向斜向下拉。這會在對手靠近你這一側的支撐點周圍創造出旋轉力。純粹的垂直力量會讓對手能撐地，而純粹的橫向力量則缺乏上抬的高度。斜向的合力兩者兼具，創造出對手光靠重心無法抵抗的位移。",
+    "answer_line": "跨過身體的 45 度斜角",
+    "distractors": {
+     "plausible": [
+      "透過 hook 直直向上",
+      "沿著地墊直直橫向"
+     ],
+     "trap": [
+      "直直往下壓向地墊"
+     ]
+    }
+   },
+   {
+    "question": "對手把較遠的那隻手撐得很開來阻止 sweep——你要如何在動作中途調整？",
+    "answer": "當他們往遠側撐地時，他們的重心會偏離 sweep 方向，但他們靠近你的那一側此時卻毫無防護。立刻把 hook 上抬的方向切換到另一側，讓他們翻過那隻撐地的手臂。或者，放開遠側的 grip，改用 kimura grip 或 arm drag 攻擊靠近的那隻手臂，因為撐地的動作已經在那一側造成結構上的孤立。撐地並不是成功的防守——那是一個反應動作，會打開你應該利用的其他進攻選項。",
+    "answer_line": "換邊，或攻擊靠近的手臂",
+    "distractors": {
+     "plausible": [
+      "朝他們的撐地手更用力推",
+      "放棄 sweep，重新設置 guard"
+     ],
+     "trap": [
+      "放開靠近的 grip，去追撐地的手"
+     ]
+    }
+   },
+   {
+    "question": "sweep 被擋下，對手開始向前施壓要過guard——這時有哪些連續攻擊可以使用？",
+    "answer": "sweep 被擋下後你仍保有 hook 位置，如果對方在嘗試過guard時頭部下垂，你可以立刻威脅 guillotine；如果他們站起來施壓，可以轉換到 X-Guard 或 Single Leg X；如果他們把重心壓向前，可以做 arm drag 進而 back take。你也可以朝反方向重新嘗試 sweep，因為他們的防守反應往往會讓重心轉移，在另一側變得脆弱。",
+    "answer_line": "guillotine、X-guard 或 back take",
+    "distractors": {
+     "plausible": [
+      "重新設置回 closed guard",
+      "換成 De La Riva guard"
+     ],
+     "trap": [
+      "放開 hook 並站起來"
+     ]
+    }
+   },
+   {
+    "question": "支撐用的那條腿（kickstand leg）對 sweep 的力學有什麼貢獻？如果忽略它會發生什麼？",
+    "answer": "沒有做 hook 的那條腿踩在地墊上，把你的髖部推到對手底下並跨越過去，放大 hook 上抬所產生的旋轉力。若沒有這個支撐腿的推進，你就必須單靠做 hook 的那條腿和上半身 grip 來產生所有 sweep 力量，力量會減少大約三成到四成。這條支撐腿還會創造一個推蹬點，防止你在上抬時往後滑，確保你的力量傳到對手身上，而不是把自己推開。",
+    "answer_line": "推進髖部，增加旋轉力",
+    "distractors": {
+     "plausible": [
+      "只是用來穩定平衡",
+      "只在 no-gi 場合才重要"
+     ],
+     "trap": [
+      "踢開對手的支撐腳"
+     ]
+    }
+   },
+   {
+    "question": "你開始上抬時，對手把髖部向後 sprawl——要怎麼立即調整以避免 sweep 失敗？",
+    "answer": "當他們往後 sprawl 時，他們會把重心從你的 hook 上移開，讓那個方向的 sweep 失效。立刻用你的 grip 把他們拉回攻擊範圍，同時把髖部往前挪以縮短距離。如果他們持續後退，就放開一隻 hook，改用單 hook 配置，搭配深握 sleeve 或 collar 控制，順勢建立 collar drag 或跟著他們的髖部轉換到 X-Guard。絕不要用雙 hook 去追一個正在 sprawl 的對手——重新調整位置時至少要保留一個連結。",
+    "answer_line": "把對手拉回來，保留一個 hook",
+    "distractors": {
+     "plausible": [
+      "用雙 hook 往前追",
+      "放開雙 hook，重新設置 guard"
+     ],
+     "trap": [
+      "伸直雙腿去追"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "什麼視覺線索能最早警告你 butterfly hook sweep 正在被發動？",
+    "answer": "最可靠的早期警訊是側向的髖部移動——下位者在保持 hook 接觸的同時，把髖部移向一側。這種角度上的位移必然發生在 sweep 之前，因為它創造出這個技巧所需要的偏心支點。在這個移動之前，hook 只能垂直上抬，很容易抵抗。察覺到這個動作，能讓你有大約一秒的時間在上抬開始前先做反制。",
+    "answer_line": "下位者的側向髖部移動",
+    "distractors": {
+     "plausible": [
+      "collar 的 grip 突然改變",
+      "單純 hook 插得很深"
+     ],
+     "trap": [
+      "對手坐直"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的重心調整能在 sweep 威脅發展之前就將它化解？",
+    "answer": "把重心壓低，讓髖部沉在膝蓋後方，並把重心支撐面撐得比肩寬更寬。這樣能把重量分布在 hook 後方而不是壓在 hook 上，拿掉 sweep 所需要的前壓重心。同時把胸口稍微向前向下施壓，施加肩部壓力，防止下位者坐直建立強勢姿勢。低髖部搭配向前的肩部壓力，這種組合是 sweep 無法克服的。",
+    "answer_line": "髖部後沉降低，撐寬重心",
+    "distractors": {
+     "plausible": [
+      "向前傾以獲得更多壓力",
+      "站姿變窄，膝蓋內收"
+     ],
+     "trap": [
+      "雙手撐得很開，向前傾"
+     ]
+    }
+   },
+   {
+    "question": "對手建立起 overhook 並開始移動髖部——你該立刻採取什麼防守動作？",
+    "answer": "立刻掙脫或 pummel 甩開那個 overhook，因為它困住了你用來撐地的手臂，拿掉了你主要的 sweep 防守工具。把被困住的手臂朝你的髖部方向向下向內畫圓，同時把肩膀向前壓進他們的胸口。如果無法掙脫手臂，就把重心移向 overhook 那一側，讓你的重量壓在他們打算 sweep 的方向後方，逼他們把你 sweep 進你自己的重心，而不是離開它。",
+    "answer_line": "掙脫 overhook，並把重心移向它",
+    "distractors": {
+     "plausible": [
+      "用被困住的手臂硬推",
+      "坐後方以製造空間"
+     ],
+     "trap": [
+      "放棄那隻手臂，改用另一隻手撐地"
+     ]
+    }
+   },
+   {
+    "question": "要如何分配你的重心，才能在避免被 sweep 的同時，還維持過guard的選項？",
+    "answer": "把大約六成的重心維持在 hook 後方的支撐面上，另外四成則透過向前的上半身壓力施加。你的髖部應該坐在膝蓋後方，而不是壓在膝蓋上方。透過上半身施加的重量應該經由胸口與肩膀傳到對手的軀幹，而不是經由容易被對方 grip 改變方向的雙手。這樣的分配能讓你變得難以被 sweep，同時保有足夠的向前接觸來設置過guard。",
+    "answer_line": "六成重心、四成胸口壓力",
+    "distractors": {
+     "plausible": [
+      "雙手平均分擔重量",
+      "重心大多向前，髖部壓在膝蓋上"
+     ],
+     "trap": [
+      "所有重量都透過雙手"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly guard 上位時，讓你最容易被 sweep 的關鍵錯誤是什麼？",
+    "answer": "向前傾、讓重心越過膝蓋、直接壓在對手的 hook 上方。當你的重心壓在他們的 hook 上方時，即使只是小幅度的上抬配合方向性的拉扯，也能形成壓倒性的 sweep 力量，因為你的重心早已被破壞。疲勞常常會讓練習者不自覺地向前坐下休息，因而造成這個錯誤。修正方法是持續留意髖部相對於膝蓋的位置，並定期重新調整姿勢。",
+    "answer_line": "重心越過膝蓋，壓在 hook 上方",
+    "distractors": {
+     "plausible": [
+      "collar 抓得太緊",
+      "太早站起來過guard"
+     ],
+     "trap": [
+      "髖部坐得太後面"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Hook Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

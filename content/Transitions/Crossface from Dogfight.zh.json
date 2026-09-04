@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crossface from Dogfight.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對抗已經進入 Dogfight 位置的對手時，發動 crossface 的理想時機是什麼時候？",
+    "answer": "最佳時機是對手用 underhook 向前推進、把體重與動能投入向你的時候。這一刻他的 base 是向前加載的，後退或改變方向的能力暫時受限。透過 crossface 把他向前的動能導向下方，你等於是用他自己的力量對付他，而不是硬碰硬對抗他已建立的姿態。",
+    "answer_line": "他用 underhook 向前推進時",
+    "distractors": {
+     "plausible": [
+      "Dogfight 位置一形成就立刻做",
+      "他停頓重整之後"
+     ],
+     "trap": [
+      "等他的 base 完全穩固之後"
+     ]
+    }
+   },
+   {
+    "question": "在從 Dogfight 嘗試 crossface 之前，必須先建立哪些 grip 與控制前提？",
+    "answer": "你必須先在對手的 underhook 手臂上建立穩固的 whizzer 或 overhook，並把手肘緊緊拉貼你的肋骨；肩膀要放在對手臉部的近側，能碰到下顎線；並透過空閒手或腿的支撐取得足夠的 base，以產生向前推進的力量。若沒有 whizzer 控制住 underhook，嘗試 crossface 會讓你暴露在被取背或被掃的風險中。",
+    "answer_line": "鎖住 whizzer，手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "先固定他遠側手臂的 underhook",
+      "先抓他遠側的領口"
+     ],
+     "trap": [
+      "放開 whizzer 改用空閒手"
+     ]
+    }
+   },
+   {
+    "question": "做 crossface 時，你身體的哪個部位應該是與對手臉部接觸的主要部位？這個接觸點為什麼重要？",
+    "answer": "你肩胛骨的骨緣應該是與對手下顎線或顴骨接觸的主要部位。這個接觸點之所以重要，是因為骨對骨的壓力會產生集中的力量，遠比軟組織接觸更能破壞結構。肩胛骨就像一個楔子，能以精準的力學方式轉動對方的頭，而這種不適感會逼出反射性的轉頭動作，加速姿態的瓦解。",
+    "answer_line": "肩胛骨壓入下顎線",
+    "distractors": {
+     "plausible": [
+      "用前臂骨橫壓下顎",
+      "用掌根壓顴骨"
+     ],
+     "trap": [
+      "壓在他的鎖骨上"
+     ]
+    }
+   },
+   {
+    "question": "在 Dogfight 中，crossface 無法把對手壓平的最常見原因是什麼？",
+    "answer": "最常見的失敗原因是把 crossface 水平方向施加，而不是朝下方角度施加。當力量朝側邊施加時，對手可以把空閒腿寬寬地 post 出去，撐住這股側向壓力來吸收它。crossface 必須以 45 度向下角度壓入下顎，把肩部壓力結合髖部下沉，借用重力當盟友，才能製造出把對手往地面推的力量。",
+    "answer_line": "水平施力，而非向下",
+    "distractors": {
+     "plausible": [
+      "whizzer 壓力不夠",
+      "頭的位置太高"
+     ],
+     "trap": [
+      "朝正上方壓過去"
+     ]
+    }
+   },
+   {
+    "question": "對手成功用空閒手在你的肩膀上建立 frame，擋下你的 crossface。你該如何調整？",
+    "answer": "把你做 crossface 的手臂從對手的 frame 手臂下方或側邊游過去，完全繞開這個硬撐的手臂。如果他的手臂伸直來做 frame，這正好製造出 kimura 的機會——抓住他伸直的手腕並旋轉他的肩膀。另一個選擇是換角度：把你的支撐腿踩到另一側，從他的 frame 顧不到的新角度發動攻擊。關鍵在於繞過 frame，而不是硬闖過去。",
+    "answer_line": "從 frame 手臂下方游過去",
+    "distractors": {
+     "plausible": [
+      "更用力硬闖過 frame",
+      "改成雙手 underhook"
+     ],
+     "trap": [
+      "放開 underhook 去剝 frame"
+     ]
+    }
+   },
+   {
+    "question": "你應該朝哪個方向施加 crossface 壓力？這和 Dogfight 中對手的 base 有什麼關係？",
+    "answer": "以 45 度向下角度施加 crossface 壓力，把力量導向對手身體遠側的地面方向。這個方向之所以重要，是因為對手在 Dogfight 中的 base 主要靠他髖部下方的膝蓋支撐。向下角度的壓力會把他的頭和肩膀壓到低於髖部的位置，瓦解他的結構，破壞他維持跪姿與產生向前 underhook 壓力所需的垂直對齊。",
+    "answer_line": "45 度角朝地面方向",
+    "distractors": {
+     "plausible": [
+      "直直向下壓他的脊椎",
+      "橫向壓過他的臉"
+     ],
+     "trap": [
+      "向上拉來破壞姿態"
+     ]
+    }
+   },
+   {
+    "question": "對手在你把他壓平之前，就先坐回去做出 knee shield 來防守你的 crossface。你該連鎖到什麼技術？",
+    "answer": "部分成功的 crossface 已經破壞了他的姿態，所以不要浪費力氣試圖重新建立 Dogfight。相反地，跟著他往下沉，維持沉重的胸口壓力，立刻連鎖進 Knee Slice Pass 或 Smash Pass 來對付這個 knee shield。crossface 和這些壓制型過腿分享相同的向前體重分配原則，讓過渡變得順暢。全程保持頭部與肩部壓力，讓 knee shield 無法完全重設他和你之間的距離。",
+    "answer_line": "連鎖進 Knee Slice Pass",
+    "distractors": {
+     "plausible": [
+      "重設回 Dogfight 控制",
+      "改做 double leg takedown"
+     ],
+     "trap": [
+      "放開壓力重新開始"
+     ]
+    }
+   },
+   {
+    "question": "把對手壓平並進入 side control 之後，你要如何立刻把 crossface 的壓力連鎖成進攻？",
+    "answer": "把對手壓平的同一個 crossface，能直接過渡成 side control 的降伏攻擊。維持肩膀與前臂壓在下顎上的壓力，在你沉穩髖部的同時，困住他的近側手臂進攻 Americana；或跨步過去、埋頭進攻 Arm Triangle，此時對手正因壓力而把臉轉開。因為頭部控制從未鬆開，你進入 side control 時就已經在進攻，而不是重新開始，讓對手完全沒有恢復的空檔。",
+    "answer_line": "困住手臂進攻 Americana",
+    "distractors": {
+     "plausible": [
+      "放開頭部控制去找腿",
+      "先重設到 knee-on-belly"
+     ],
+     "trap": [
+      "放開 crossface 換 base"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Dogfight 中，能最早察覺對手即將嘗試 crossface 的觸感線索有哪些？",
+    "answer": "最早的線索是對手的 whizzer 開始收緊、手肘拉近他的肋骨，他的近側肩膀開始朝你的臉部方向轉角，而不再保持中立位置，以及他的髖部微微下沉，預示著即將施加重力壓力。你也可能感覺到他的頭移向你身體的遠側，製造出 crossface 旋轉所需的支點角度。辨識出這些攻擊前的訊號，能給你一到兩秒的時間搶先反應。",
+    "answer_line": "whizzer 收緊、肩膀轉角",
+    "distractors": {
+     "plausible": [
+      "他的髖部高高抬起",
+      "他在爭搶你遠側手腕的 grip"
+     ],
+     "trap": [
+      "他放鬆了 underhook 壓力"
+     ]
+    }
+   },
+   {
+    "question": "當你在 Dogfight 中感覺到 crossface 壓力施加時，最重要的單一防守動作是什麼？",
+    "answer": "最重要的單一動作是把下巴收向你 underhook 那一側，並用額頭頂進對手的胸口或頸部。這能防止 crossface 轉動你的頭——而轉頭正是 crossface 破壞姿態的主要機制。當頭部持續朝 underhook 那一側轉，對手就無法產生把你壓平所需的旋轉力量。這個收下巴的動作必須搭配持續透過 underhook 施加的向前壓力。",
+    "answer_line": "收下巴，額頭向前頂",
+    "distractors": {
+     "plausible": [
+      "空閒手 post 在他的髖部",
+      "把頭轉離壓力方向"
+     ],
+     "trap": [
+      "放開 underhook 去做 frame"
+     ]
+    }
+   },
+   {
+    "question": "你要如何把對手的 crossface 嘗試轉換成取背的機會？",
+    "answer": "當對手大力投入 crossface 時，他會把肩膀向前推、降低重心，這往往會在他身體後方製造出空間。透過把頭鑽到他做 crossface 的肩膀下方，並繞向他的背後，你可以完全繞開這股壓力，開始建立背後控制。關鍵在於把鑽頭動作的時機對準他投入最深的那一刻——也就是他把體重完全加載到 crossface 上、來不及快速改變方向阻止你取背的時候。",
+    "answer_line": "鑽頭繞到他的背後",
+    "distractors": {
+     "plausible": [
+      "推向他的胸口並站起來",
+      "sit out 恢復 guard"
+     ],
+     "trap": [
+      "把他拉緊並拖延時間"
+     ]
+    }
+   },
+   {
+    "question": "在防守 crossface 時，維持 underhook 的深度為什麼至關重要？",
+    "answer": "underhook 是你在 Dogfight 中主要的結構支撐與進攻威脅。如果你放棄它、改用雙手防守 crossface，你就失去了讓你保持直立的力學結構，也失去了逼對手必須顧忌你掃技的進攻威脅。underhook 會製造出一股對抗 crossface 壓力的向前推進向量，而它的深度決定了你能產生多少槓桿。深入到對方遠側肩膀的 underhook 能提供最大抵抗力，而只勾到髖部的淺 underhook 幾乎沒有作用。",
+    "answer_line": "深 underhook 到遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "只勾到髖部的淺 underhook",
+      "雙手都在臉上做 frame"
+     ],
+     "trap": [
+      "放棄 underhook 改用雙手"
+     ]
+    }
+   }
+  ]
+ }
+}

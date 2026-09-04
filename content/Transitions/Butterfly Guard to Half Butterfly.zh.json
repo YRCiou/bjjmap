@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在嘗試清除 butterfly hook 之前，必須先建立上半身控制？",
+    "answer": "上半身控制能防止對手利用你在清除過程中的重心轉移發動 sweep。若沒有 crossface、collar grip 或 underhook 控制對手的 posture 與動作，底位玩家就能轉身面向你、建立主導的 grip，並把你向前的動能導向 sweep。上半身控制也能防止對手在你嘗試清除時，靠移動髖部來維持 hook 的深度。",
+    "answer_line": "阻止你重心轉移引發的 sweep",
+    "distractors": {
+     "plausible": [
+      "讓髖部自由以清除 hook",
+      "讓對手保持平躺"
+     ],
+     "trap": [
+      "跳過控制，先驅膝"
+     ]
+    }
+   },
+   {
+    "question": "你如何判斷要先清除哪一個 butterfly hook？",
+    "answer": "先清除對手上半身控制較弱的那一側 hook。如果對手在你右側有強力的 collar grip，代表他們的左 hook 在該方向的 sweep 上獲得更好的支撐，所以應該先清除右 hook，因為那一側的 grip 支援較弱。也可以施加輕微的向前壓力，感受哪一側 hook 阻力較小，藉此判斷對手的重心分布。阻力較輕的 hook 表示對手的重心偏向另一側。",
+    "answer_line": "清除 grip 較弱的一側",
+    "distractors": {
+     "plausible": [
+      "清除離你最近的 hook",
+      "先清除較強的 hook"
+     ],
+     "trap": [
+      "同時清除兩個 hook"
+     ]
+    }
+   },
+   {
+    "question": "清除 hook 時，膝蓋正確的驅動軌跡是什麼？",
+    "answer": "膝蓋要向前並向下驅動地面，沿著對角路徑穿過對手的雙腿之間，壓縮你大腿下方 hook 所在的空間。方向是向內、向下，而不是向外或向後。這個軌跡利用你的體重與重力壓縮 hook，而不是靠肌肉力量拉扯或推開對手的腳，那樣做效率低，反而會強化 hook 的連結。",
+    "answer_line": "膝蓋向內、向下驅動",
+    "distractors": {
+     "plausible": [
+      "膝蓋只單純向下",
+      "膝蓋先向外再向下"
+     ],
+     "trap": [
+      "用手把腳拉開"
+     ]
+    }
+   },
+   {
+    "question": "對手在你清除 hook 後立刻把髖部往後移，重新插入 hook。你要如何防止這種情況？",
+    "answer": "在整個清除過程中維持持續的向前壓力，讓對手無法創造重新插入所需的髖部距離。清除 hook 時，你的胸口應驅動進入對手的上半身，清除側的髖部貼向地面，用你的小腿固定住他們的腳踝或腳。如果對手仍然重新插入，立刻再次驅動膝蓋向下，而不是接受這次恢復。關鍵在於保持緊貼、沉重，消除空間。",
+    "answer_line": "維持持續的向前壓力",
+    "distractors": {
+     "plausible": [
+      "固定腳踝，放鬆壓力",
+      "等待後再重新驅膝"
+     ],
+     "trap": [
+      "後退創造空間"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換的重心轉移階段，最關鍵的力學細節是什麼？",
+    "answer": "重心轉移必須把壓力加載到清除的那一側，同時在另一側維持橫向 base。你的胸口應該以對角線向前並向清除側驅動，而不是直直向下，那樣會讓重心集中，兩個 hook 都仍能發揮作用。清除側的髖部要貼向地面，另一側的膝蓋則要撐寬以保持穩定。這種對角加載能削弱目標 hook 的槓桿力，同時你寬闊的 base 也能防止剩下的 hook 把你 sweep 掉。",
+    "answer_line": "胸口對角驅向清除側",
+    "distractors": {
+     "plausible": [
+      "重心直直向下",
+      "膝蓋撐寬，髖部不下沉"
+     ],
+     "trap": [
+      "重心轉移到遠側"
+     ]
+    }
+   },
+   {
+    "question": "對手在你開始清除的同時，用雙 hook 發動 butterfly sweep，你的立即反應是什麼？",
+    "answer": "立刻放棄清除的嘗試，處理 sweep 的威脅。雙手撐寬在地面上，髖部向後 sprawl 以消除抬升力，並把胸口向下驅動，重新把底位玩家壓平。不要試圖在 sweep 過程中完成 hook 清除，因為這樣會把你的重心投入到對手正試圖把你 sweep 過去的方向。穩定之後，重新建立上半身控制，等待下一次對手回到中性位置時的清除時機。",
+    "answer_line": "sprawl 髖部、撐手、壓平",
+    "distractors": {
+     "plausible": [
+      "加快完成膝蓋清除",
+      "爭奪 grip，留在 guard"
+     ],
+     "trap": [
+      "向前驅動衝入 sweep"
+     ]
+    }
+   },
+   {
+    "question": "為什麼清除一個 hook 之後的鞏固階段如此關鍵？",
+    "answer": "鞏固階段能把 half butterfly top 建立為後續 pass 的穩定平台。跳過這一步會讓對手立刻重新插入被清除的 hook，或在你建立控制之前轉換到 deep half guard。在鞏固期間，你要固定被清除的腳、穩定重心分布，並建立你的 base。這 2 到 3 秒的投資能把一次短暫的位置優勢轉化為穩定的 pass 平台，大幅提高下一個技術的成功率。",
+    "answer_line": "先固定腳、穩定 base",
+    "distractors": {
+     "plausible": [
+      "轉換 hook 以控制雙腿",
+      "posture 起身破 grip"
+     ],
+     "trap": [
+      "跳過鞏固，直接接下一個 pass"
+     ]
+    }
+   },
+   {
+    "question": "你直接的驅膝清除法一直被對手立即重新插入 hook 破解，有什麼連鎖攻擊能繞過這個問題？",
+    "answer": "改用 Backstep Clear，完全繞過 hook，而不是硬碰硬地清除它。把清除側的腿向後跨步，繞過對手的 hook，經過一個短暫的 backstep 後再settle 進入 half butterfly top。因為你是繞過交會點而不是壓縮它，對手就沒有東西可以重新泵動抵抗。或者也可以用 Hip Switch Clear，讓身體角度偏離 hook 的槓桿線，讓重新插入無法再連接到你的大腿。",
+    "answer_line": "backstep 繞過 hook",
+    "distractors": {
+     "plausible": [
+      "驅膝更用力、更快",
+      "hip switch 遠離 hook"
+     ],
+     "trap": [
+      "強行再做一次相同的清除"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "最早暗示 passer 即將嘗試 hook 清除的辨識線索是什麼？",
+    "answer": "最早的線索是 passer 在同一側建立 crossface 或 collar grip，同時破壞你在那一側的 grip。這種不對稱的 grip 優勢是清除嘗試的前提。在他們轉移重心或驅動膝蓋之前，grip 的建立就已經透露出他們鎖定的目標側。立刻爭奪那一側的 grip，並威脅發動 sweep，藉此打亂他們的布局。",
+    "answer_line": "crossface grip 破壞你那側",
+    "distractors": {
+     "plausible": [
+      "他們的髖部先向前移",
+      "他們把膝蓋撐在 hook 附近"
+     ],
+     "trap": [
+      "等待驅膝動作再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼將 sweep 的時機配合 passer 的重心轉移，會比隨機時機更有效？",
+    "answer": "當 passer 轉移重心以清除 hook 時，他們已經把重心投入到一側。這個承諾意味著他們無法有效抵抗同方向的 sweep，因為他們必須在動作中途逆轉重心分布。配合他們的轉移時機發動 sweep 所需的力量遠小於在平衡的對手身上憑空製造動能，因為你是在重新導向既有的動能，而不是對抗一個平衡的對手。這正是借力使力的基本原則。",
+    "answer_line": "重新導向他們已投入的重心",
+    "distractors": {
+     "plausible": [
+      "總是能讓他們失去平衡",
+      "更能用上你自己的力量"
+     ],
+     "trap": [
+      "在他們轉移重心前就 sweep"
+     ]
+    }
+   },
+   {
+    "question": "你的左 butterfly hook 已被部分清除，但 passer 還沒鞏固位置，你的立即恢復步驟是什麼？",
+    "answer": "用左手臂在 passer 的肩膀或二頭肌上做 frame，創造分離的空間。同時把髖部向後 shrimp，拉開你的腳與 passer 已清除位置之間的距離。把左腳滑回對手大腿下方重新插入 hook，同時你的 frame 能阻止他們跟隨你的髖部動作施加壓力。一旦 hook 重新插入，立刻重新建立上半身 grip，回到主動的 butterfly guard posture。",
+    "answer_line": "frame、shrimp 後退、重插 hook",
+    "distractors": {
+     "plausible": [
+      "橋起身體翻滾恢復",
+      "推開後站起來"
+     ],
+     "trap": [
+      "改抓對手遠側的腿"
+     ]
+    }
+   },
+   {
+    "question": "維持主動的 hook 壓力，與單純把雙腳放在對手大腿下方有什麼不同？",
+    "answer": "主動的 hook 壓力代表你的雙腳透過持續的髖部伸展肌肉收縮向上驅動，形成類似上膛彈簧的效果，抵抗 passer 施加的任何向下力量。被動的 hook 只是簡單地放在大腿下方，沒有向上驅動的力量，很容易被 passer 的驅膝壓縮並清除。主動的 hook 逼迫 passer 必須先克服你的抬升力才能清除，替你爭取反應與反制的時間。差別在於，一個 hook 是主動爭取留住，另一個只是佔據空間。",
+    "answer_line": "主動向上驅動，而非單純放置",
+    "distractors": {
+     "plausible": [
+      "雙腳平放在大腿下",
+      "用手緊抓雙腿"
+     ],
+     "trap": [
+      "放鬆雙腳，保存體力"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Guard to Half Butterfly.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Dogfight 發動 Forward Drive Sweep 的最佳時機是什麼？",
+    "answer": "最佳時機出現在對手重心後移壓到腳跟上、他們的 whizzer 壓力暫時放鬆，或是他們把防守注意力轉移到其他威脅上的時候。透過你的 underhook 讀出這些重心轉移非常關鍵——你應該要感覺到對手在你的前推壓力下變輕。如果在對手正主動向你施壓前推時嘗試這個 drive，反而會適得其反、白白浪費力氣。",
+    "answer_line": "當對手在你的 underhook 上變輕",
+    "distractors": {
+     "plausible": [
+      "當他們的 whizzer 夾得更緊",
+      "一扣住 bodylock 就立刻做"
+     ],
+     "trap": [
+      "在他們向你前推時硬做"
+     ]
+    }
+   },
+   {
+    "question": "在投入 forward drive 之前，你必須在對手遠側建立什麼樣的 grip 控制？",
+    "answer": "在投入這個 drive 之前，你必須用空著的手控制對手遠側的髖部、腰帶線，或遠側膝蓋。這個 grip 能消除他們主要的底盤恢復手段——遠側腿撐地。沒有這個控制，對手可以直接把遠側腿往後或橫向踏出，建立一個難以擊破的三腳架底盤。這個 grip 要夠緊以防止撐地，但位置也要能讓你在整個 drive 過程中維持自己的平衡。",
+    "answer_line": "控制遠側髖部、腰帶或膝蓋",
+    "distractors": {
+     "plausible": [
+      "先抓近側腳踝",
+      "控制 whizzer 那側的手腕"
+     ],
+     "trap": [
+      "放開 underhook 去搆遠側腿"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 drive 的角度必須是斜向，而不是正前方？",
+    "answer": "朝對手被困住那條腿的方向斜向 drive，能利用你的 half guard hook 所造成的結構性弱點。對手無法在你的 hook 控制著他們那條腿的那一側後退，所以朝那一側 drive 會消除他們後退的選項。正前方的 drive 則會讓對手可以直接把遠側腿往後踏，吸收你的壓力，建立一個穩固的底盤，無論你出多少力都能讓這個 sweep 完全失效。",
+    "answer_line": "朝被困腿那一側 drive",
+    "distractors": {
+     "plausible": [
+      "朝他們自由的那條腿 drive",
+      "正面直推把他們壓平"
+     ],
+     "trap": [
+      "翻成趴姿在下位終結"
+     ]
+    }
+   },
+   {
+    "question": "當你發動 forward drive 時，對手建立了很深的 whizzer 並開始把髖部往後 sprawl——你該如何調整？",
+    "answer": "當對手用 sprawl 對抗你的 forward drive 時，他們的防守姿勢會創造出連環攻擊的機會。立刻判斷是要橫向改變 sweep 角度、轉換成 Dogfight Sweep 攻擊他們現在已經伸展開的底盤，還是利用他們 sprawl 的動量鑽到他們下方、進入 Deep Half Guard。關鍵是要在一秒內察覺 forward drive 已經卡住，並果斷轉換方向，而不是繼續硬推一個已經 sprawl 的對手。",
+    "answer_line": "改變角度或鑽入下方",
+    "distractors": {
+     "plausible": [
+      "直線掃，不要橫向",
+      "等 sprawl 穩定下來再說"
+     ],
+     "trap": [
+      "埋頭硬闖向前推"
+     ]
+    }
+   },
+   {
+    "question": "執行 forward drive sweep 時，頭部位置扮演什麼關鍵角色？",
+    "answer": "你的頭部是額外的推進壓力點，也是防止 crossface 的防守屏障。把頭緊貼在對手下巴下方的胸口，能形成一個楔子，透過 underhook 之外的另一個接觸點放大你向前的壓力。如果你的頭抬得太高，對手就能在頭下方做 crossface，把你的推進力量導向側邊。如果你的頭離對手身體太遠，你就會失去壓力放大的效果，也會給對手創造出調整防守的空間。",
+    "answer_line": "楔入下巴下，擋住 crossface",
+    "distractors": {
+     "plausible": [
+      "頭抬高以追蹤對方髖部",
+      "頭離開胸口以留出推進空間"
+     ],
+     "trap": [
+      "抬頭確認終結動作"
+     ]
+    }
+   },
+   {
+    "question": "你的 forward drive 嘗試卡住了，因為對手把遠側腿撐得很寬——你該轉換成哪個連環攻擊？",
+    "answer": "對手把遠側腿撐得很寬，會打開兩種主要的連環攻擊。第一，Dogfight Sweep 會變得可行，因為他們伸展開的遠側腿現在很容易被控制並掃倒。第二，這個寬撐姿勢會打開他們的髖部角度，可能讓背部暴露出來，形成 back take 的轉換機會。要根據他們上半身的位置判斷哪個選項更可行——如果他們的 whizzer 仍然夾緊，就用 Dogfight Sweep 攻擊遠側腿；如果他們的 whizzer 放鬆以維持底盤，就繞到後方進行 back take。",
+    "answer_line": "Dogfight sweep 或 back take",
+    "distractors": {
+     "plausible": [
+      "攻擊近側腿來掃",
+      "whizzer 夾緊時直接拿背"
+     ],
+     "trap": [
+      "低頭蠻力向前衝"
+     ]
+    }
+   },
+   {
+    "question": "在 forward drive 過程中，你該如何維持 half guard hook，防止對手把腿跨過去？",
+    "answer": "在整個 drive 執行過程中，靠夾緊膝蓋來維持 half guard hook 的主動張力。這個 hook 應該控制對手內側腿的膝蓋或更高的位置，而不是容易滑脫的腳踝處。如果你在 drive 過程中感覺 hook 鬆動，就暫停一下前推壓力，先把膝蓋夾得更緊、重新固定好，再繼續。如果在 drive 過程中失去這個 hook，就會失去讓斜向角度發揮作用的結構性弱點。",
+    "answer_line": "夾緊膝蓋維持 hook 緊實",
+    "distractors": {
+     "plausible": [
+      "先暫停 drive，再重新固定",
+      "抓他的褲子，放鬆夾力"
+     ],
+     "trap": [
+      "改勾腳踝，更用力 drive"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定 forward drive 完成後會落在 mount 還是 side control？",
+    "answer": "你 drive 的方向與跟進時髖部的位置，決定了最終的落點。如果 drive 的角度朝對手的身體中線，並且在把對手掀翻的過程中你的髖部跨過他們的軀幹，就會落在 mount。如果 drive 角度太偏向側面，或是在轉換過程中髖部跨越的時機延後，通常會落在 side control 或陷入 scramble。為確保落在 mount，在對手倒下的過程中讓你的髖部直接壓在他們的軀幹正上方，並儘早清開你的內側腿，在他們建立防守 frame 之前就穩定進入 mount。",
+    "answer_line": "髖部跨過對方身體中線",
+    "distractors": {
+     "plausible": [
+      "橫向 drive，髖部維持寬距",
+      "先清開外側腿"
+     ],
+     "trap": [
+      "轉身背對以強行掀翻"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "察覺對手正在從 Dogfight 設置 Forward Drive Sweep 最早的線索是什麼？",
+    "answer": "最早的線索是對手把 underhook 明顯加深，朝向你遠側的肩膀，同時空著的那隻手伸過來控制你的遠側髖部或膝蓋。這些 grip 的變化會比實際的 drive 早一到兩秒發生，代表的正是防守介入最有效的設置階段。抓在近側髖部的淺 underhook 無法產生 forward drive sweep 的力學效果，所以 grip 加深就是最關鍵的早期警訊。",
+    "answer_line": "Underhook 加深到遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "近側髖部的淺 underhook",
+      "空手撐在墊子上"
+     ],
+     "trap": [
+      "等 drive 開始才防守"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立很深的 underhook，並開始加大前推壓力——你當下防守的首要任務是什麼？",
+    "answer": "你當下的首要任務，是在對手產生完整動量之前，透過 sprawl 髖部與遠側腳撐地來建立底盤穩定性。把髖部往後放低，同時把遠側腿撐寬，並加大 whizzer 往下的壓力。目標是在他們發動 forward drive 的頭半秒內，建立一個穩固的三腳架底盤，防止被掀翻。這個階段試圖去撕掉 underhook 太慢了，反而會讓你整個輸掉底盤爭奪戰。",
+    "answer_line": "Sprawl 髖部，遠側腿撐寬",
+    "distractors": {
+     "plausible": [
+      "立刻撕掉 underhook",
+      "拉 guard 重整位置"
+     ],
+     "trap": [
+      "正面硬扛他們的前推壓力"
+     ]
+    }
+   },
+   {
+    "question": "防守 forward drive 和防守 back take 嘗試時，你的 whizzer 位置該如何不同？",
+    "answer": "面對 forward drive 時，你的 whizzer 應該向下、稍微向後拉，以抵消對手透過 underhook 產生的向上向前推力。面對 back take 時，whizzer 必須抓得更緊，並把對手的手臂拉過你的身體，防止他們繞到你背後。這兩種拉力方向本質上完全不同——對抗 forward drive 的 whizzer 要往下拉以消除抬升力，對抗 back take 的 whizzer 則要往內拉以防止髖部被清開。",
+    "answer_line": "向下拉 vs. 把手臂拉過身體",
+    "distractors": {
+     "plausible": [
+      "兩種情況都用同樣的緊 grip",
+      "向上拉可以擋住兩種攻擊"
+     ],
+     "trap": [
+      "放開 whizzer，改在髖部重建 frame"
+     ]
+    }
+   },
+   {
+    "question": "當你成功防下 Forward Drive Sweep 之後，會打開什麼反擊機會？",
+    "answer": "防下這個 sweep 之後，對手會因為前推失敗而暫時失去平衡。這會創造出一個空檔，讓你可以積極做 crossface，把他們壓回攤平的 half guard；或是趁他們還在恢復底盤時試圖撕掉 underhook；或是利用他們姿勢被破壞的狀態，開始向前施壓過他們的 half guard。關鍵是要在他們恢復的階段立刻進攻，而不是讓他們有機會重整回中立的 dogfight 位置，再度嘗試這個 sweep。",
+    "answer_line": "Crossface，把他們壓平推回去",
+    "distractors": {
+     "plausible": [
+      "等他們重整回中立位置",
+      "立刻改攻 submission"
+     ],
+     "trap": [
+      "放鬆壓力讓他們恢復"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Forward Drive Sweep from Dogfight.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

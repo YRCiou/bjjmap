@@ -1,0 +1,152 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Darce choke 與從 turtle position 進行的 guillotine choke，兩者在機制上主要的差異是什麼？",
+    "answer": "Darce choke 利用對手自己被困住的肩膀壓迫一側頸動脈，同時你的前臂壓迫另一側，形成 figure-four 式的血流勒絞。guillotine 則是用你的前臂壓迫頸部前方，由你的髖部或胸口提供反向壓力。Darce 永遠是針對兩側頸動脈的血流勒絞，而 guillotine 則依前臂相對於氣管的位置，可能是血流勒絞，也可能是限制呼吸道。",
+    "answer_line": "被困手臂壓迫頸動脈",
+    "distractors": {
+     "plausible": ["guillotine 也會困住手臂", "兩者都只壓迫氣管"],
+     "trap": ["更用力扳緊，無視頸部角度"]
+    }
+   },
+   {
+    "question": "在從 turtle 完成 Darce 時，為什麼把頭移到對手遠側髖部這麼關鍵？",
+    "answer": "把頭移到遠側髖部，能創造正確的身體角度（大約與對手脊椎呈 90 度），讓你能把肩膀往前推進對手的頸部，同時把握把拉向自己的胸口。這個角度能讓你的肩膀像楔子一樣對齊，把壓迫頸動脈的力量最大化。如果沒有調整這個角度，你就無法產生足夠的肩膀壓力，只能單靠手臂力量，效果差得多，而且很快就會累。",
+    "answer_line": "創造 90 度角，肩膀如楔",
+    "distractors": {
+     "plausible": ["方正對齊以取得更多手臂力量", "頭靠向近側髖部以求控制"],
+     "trap": ["跳過角度調整，直接猛拉握把"]
+    }
+   },
+   {
+    "question": "如果對手成功把遠側手臂從你的 turtle Darce 架設中抽出來，你該怎麼做？",
+    "answer": "立刻放棄 Darce 的嘗試，轉換到 front headlock 系列的其他進攻，例如 guillotine choke、anaconda choke，或 arm-in guillotine。如果對手正在轉身面向你，你也可以利用 front headlock 的控制來 take the back。當遠側手臂已經脫困時，絕對不要浪費體力硬拚 Darce——這個技巧在結構上就是需要被困住的手臂來壓迫第二側頸動脈。",
+    "answer_line": "改打 guillotine 或 anaconda",
+    "distractors": {
+     "plausible": ["硬拚重新困住遠側手臂", "放開 front headlock 重新來過"],
+     "trap": ["夾得更緊硬求完成"]
+    }
+   },
+   {
+    "question": "從 turtle 為 Darce choke 穿引手臂時，正確的深度指標是什麼？",
+    "answer": "你的手應該從對手遠側背闊肌附近冒出來，位於對手背部腋下下方。你整條前臂應該橫越對手的頸部前方，二頭肌位於對手頸部一側，前臂位於另一側。如果你看不到或感覺不到自己的手在對手另一側背闊肌附近，代表你的穿引太淺，無論你夾得多緊，絞技都不會有效。深度比速度更重要。",
+    "answer_line": "手從遠側背闊肌附近冒出",
+    "distractors": {
+     "plausible": ["手從遠側肩膀附近冒出", "二頭肌橫越整個頸部"],
+     "trap": ["求快不求深，快速鎖住"]
+    }
+   },
+   {
+    "question": "對手把手撐在地墊上，開始 sit through 想回到 guard——你該如何調整？",
+    "answer": "如果手臂還沒開始穿引，加大胸口壓力，用空出來的手擋住對手的髖部旋轉，同時把對手往回壓平。如果手臂已經部分穿引，放棄 Darce，順著對手 sit through 的動能，從新的角度轉換到 guillotine 或 anaconda。如果對手完成了 sit through，就利用 front headlock 的控制，在對手轉身時 take the back。最糟的反應就是在對手正往 guard 移動時還硬追 Darce。",
+    "answer_line": "擋住髖部，把對手壓平",
+    "distractors": {
+     "plausible": ["完成穿引，無視 sit-through", "立刻順勢改打 guillotine"],
+     "trap": ["在對手移動時仍硬追 Darce"]
+    }
+   },
+   {
+    "question": "鎖住 Darce 時該使用什麼握法配置？是什麼決定這個選擇？",
+    "answer": "兩種主要握法是掌心對掌心（也稱為 rear naked choke 式握法）以及 gable grip。掌心對掌心能提供最緊的壓迫力，因為它讓你能一邊把手肘夾緊、一邊往胸口拉。gable grip 鎖得比較快，能提供強力的初始控制，但完成的力道稍弱一些。當速度很重要時（對手正在積極逃脫）選 gable grip，當你有時間好好架設時選掌心對掌心。",
+    "answer_line": "掌心對掌心求最大力道",
+    "distractors": {
+     "plausible": ["gable grip 永遠最緊", "掌心對掌心鎖得最快"],
+     "trap": ["用 cross-face 握法完成"]
+    }
+   },
+   {
+    "question": "在 turtle top 時，胸口壓力具體如何幫助手臂穿引的過程？",
+    "answer": "沉重的胸口壓力壓在對手背部，具備多項關鍵作用：讓對手趴平，防止他們 sit through 回到 guard；把對手的下巴壓向胸口，創造讓你的手臂能橫越其外露頸部所需的角度；限制對手的移動，減少防守選項；並在整個架設過程中維持你的優勢位置。如果胸口壓力不持續，對手就能抬頭、挺直身體，或創造空間逃脫。壓力上的任何空隙，都會讓對手有機會重整防守。",
+    "answer_line": "壓平對手，打開頸部角度",
+    "distractors": {
+     "plausible": ["只控制髖部，不控制頸部", "只能防止 sit-through"],
+     "trap": ["放鬆壓力以求更快穿引"]
+    }
+   },
+   {
+    "question": "你的 Darce 握把已經鎖上，但對手用力收下巴阻止絞技完成——你該怎麼做？",
+    "answer": "面對已經正確鎖住的 Darce，對手堅決收下巴時，你需要加大的是結構性壓力，而不是肌肉夾緊。把頭進一步移向對手遠側髖部以改善身體角度，接著專注於擴展胸口，把肩膀像楔子一樣往前推。如果收下巴依然頂住，就轉換到位置上的推進——走位到 mount 或 take the back，把 Darce 握把當作控制工具使用，而不是堅持一定要完成絞技。即使絞技沒能完成，這個握把依然能控制對手。",
+    "answer_line": "調整角度，走位到 mount/back",
+    "distractors": {
+     "plausible": ["隔著收下巴硬夾得更緊", "放開握法，重新架設"],
+     "trap": ["用力把頸部往後扳直"]
+    }
+   },
+   {
+    "question": "如果你從 turtle 最初的 Darce 嘗試被防守掉了，還有哪些連續進攻選項？",
+    "answer": "主要的連續進攻是：如果對手抽出遠側手臂，從維持住的 front headlock 轉打 guillotine 或 anaconda；如果對手 sit through，順勢打 guillotine 或 take the back；如果對手做 granby roll，順著翻滾走並完成絞技，或前進到 mount；如果對手把 turtle 縮得更緊，就針對外露的手臂進入 crucifix。front headlock 位置就是核心樞紐——任何失敗的 Darce 嘗試，都還是會讓你留在 front headlock，擁有多種進攻選項，所以你永遠不會失去進攻主動權。",
+    "answer_line": "front headlock 始終是樞紐",
+    "distractors": {
+     "plausible": ["只能從 turtle top 重新開始", "放棄位置，重回中性"],
+     "trap": ["不管情況都硬求 Darce"]
+    }
+   },
+   {
+    "question": "在穿引手臂的過程中，對手最有可能在什麼時候逃脫？你該如何預防？",
+    "answer": "逃脫機率最高的時刻，是步驟二到三之間，也就是你的纏繞手臂正在穿引中、你暫時放鬆了一些控制以游動穿過的時候。對手可能在這個窗口 sit through、抽出遠側手臂，或做 granby roll。要預防這一點，必須在整個穿引動作中維持最大的胸口壓力，用空出來的手擋住遠側手臂逃脫，同時在纏繞手臂移動時保持髖部壓低，防止對手產生向上的移動。穿引速度越快，這個脆弱窗口就越短。",
+    "answer_line": "穿引中段，步驟二到三",
+    "distractors": {
+     "plausible": ["握法剛鎖上之後", "第一次接觸的瞬間"],
+     "trap": ["穿引時放鬆壓力"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 turtle 被 Darce 攻擊時，最早的辨識線索是什麼？你該立刻怎麼做？",
+    "answer": "最早的線索是感覺到對手的手臂開始從你的腋下游動穿入，同時對手在你背上的胸口壓力增加。立即的反應是把下巴用力收向胸口，把手肘夾緊靠著膝蓋以防止對手穿得更深，並開始把你遠側的手臂拉向自己的中線，避免被困住。及早辨識並反應，能大幅提升逃脫機率，因為此時穿引動作還沒達到有效絞技所需的深度。",
+    "answer_line": "收緊下巴，夾緊手肘",
+    "distractors": {
+     "plausible": ["撐手，快速 sit through", "把頭往後拉，創造空間"],
+     "trap": ["放鬆等著看穿引的深度"]
+    }
+   },
+   {
+    "question": "為什麼你應該朝 Darce choke 的方向靠近，而不是把身體拉開？",
+    "answer": "朝絞技靠近（把身體轉向對手）能減少頸動脈受壓的角度，因為這樣會封閉 figure-four 配置需要用來產生雙側壓力的空間。把身體拉開會把你的頸部拉向絞技，實際上反而會改善對手的絞技角度，讓對手的手臂有更多空間施加壓迫。轉身靠近也可能讓你取得面對對手的內側位置，這會徹底消除 Darce 的角度，並創造混戰逃脫的機會。",
+    "answer_line": "轉身靠近能破壞角度",
+    "distractors": {
+     "plausible": ["拉開能鬆開手臂", "轉身靠近能讓進攻者疲勞"],
+     "trap": ["用力拉開創造空間"]
+    }
+   },
+   {
+    "question": "對手已經鎖住 Darce 握把，正在移動髖部調整完成角度——你該優先採取什麼逃脫方式？",
+    "answer": "當握法已經鎖上時，最好的做法是跟著對手移動髖部的方向一起動，同時努力抽出被困的手臂。用空出來的手抓住自己的手腕，把被困的手臂拉向自己的中線。當對手移動時，這個過程可能會讓握把出現短暫的鬆動，有助於抽手。如果抽手失敗，就朝對手髖部移動的方向嘗試 granby roll，在對手安頓到完成位置之前創造混戰。時間至關重要——對手每調整一秒，你就更接近被降伏。",
+    "answer_line": "跟著髖部動，抽出手臂",
+    "distractors": {
+     "plausible": ["直接對抗髖部移動", "僵住不動，保護頸部"],
+     "trap": ["朝旋轉的反方向拉開"]
+    }
+   },
+   {
+    "question": "被部分鎖住的 Darce control 困住時，你該如何管理呼吸？",
+    "answer": "用鼻子緩慢且有控制地呼吸，以節省氧氣並維持心理上的冷靜。避免用嘴巴呼吸，那會加速恐慌與氧氣消耗。在壓迫稍微減輕的時刻（例如對手調整位置時）進行有控制的吸氣。絕對不要憋氣，這會更快耗盡氧氣並引發恐慌反應。冷靜的呼吸能讓你保持思緒清晰，執行有系統的逃脫動作，而不是浪費體力、還可能讓絞技更緊的爆發性動作。",
+    "answer_line": "緩慢鼻息，保持冷靜",
+    "distractors": {
+     "plausible": ["用嘴巴深呼吸做準備", "在承受壓力時憋氣"],
+     "trap": ["用爆發性呼吸求逃脫"]
+    }
+   },
+   {
+    "question": "面對從 turtle 而來的 Darce，主要的防守目標是什麼？為什麼？",
+    "answer": "主要的防守目標是把被困住的遠側手臂從絞技配置中抽出來。Darce choke 需要你的手臂被困在頸部旁，才能對一側頸動脈產生壓迫，同時對手的前臂壓迫另一側。沒有被困的手臂，整個絞技機制就會失效——它會變成一個鬆散的 headlock，沒有雙側壓迫。一旦手臂脫困，對手手上就只剩一個單純的 front headlock，你可以透過標準的 turtle 逃脫、sit-through，或回 guard 的動作來防守。",
+    "answer_line": "抽出被困的遠側手臂",
+    "distractors": {
+     "plausible": ["防守近側的衣領", "挺直身體以擺脫壓力"],
+     "trap": ["往纏繞的手臂方向推"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Darce from Turtle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

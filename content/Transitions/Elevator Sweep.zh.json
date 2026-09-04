@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Elevator Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Elevator Sweep 的準備階段，為什麼保持坐直的姿勢比向後躺更重要？",
+    "answer": "保持坐直的姿勢非常關鍵，因為這樣才能用你的 hooks 和核心肌群產生向上的抬升力。如果向後躺，你會失去雙腿與核心協同作用的機械優勢，幾乎不可能有效抬起對手的體重。坐直的姿勢也讓你的重心保持機動，更容易創造角度、調整 grips，並在需要時轉換動作。此外，坐直可以防止對手輕易把你壓扁或壓平，那樣會完全封死這個 sweep。",
+    "answer_line": "坐直才能靠 hook 和核心抬升",
+    "distractors": {
+     "plausible": [
+      "向後躺能增加髖部靈活度",
+      "姿勢只影響 grips"
+     ],
+     "trap": [
+      "整個人躺平，等著被 pass"
+     ]
+    }
+   },
+   {
+    "question": "在執行 Elevator Sweep 前創造 15-20 度角的目的是什麼？這個角度該朝哪個方向？",
+    "answer": "這個角度要朝 overhook 那一側創造，目的是攻擊對手底盤的角落，而不是他們最強的正面底盤。如果你直接向後 sweep，對手可以在各個方向平均地防守。透過創造角度，你攻擊的是他們最不穩定的地方——也就是 overhook 控制所創造出的那個角落。這個角度同時也讓你的抬升力方向與 sweep 的方向一致，讓技術更有效率。這個角度本質上是把對手更多的體重壓到你要 sweep 的那一側，讓他們更難用手撐地或恢復平衡。",
+    "answer_line": "角度朝 overhook，打對手的角落",
+    "distractors": {
+     "plausible": [
+      "角度要遠離 overhook",
+      "角度只是增加衝力"
+     ],
+     "trap": [
+      "轉身背對對手，露出後背"
+     ]
+    }
+   },
+   {
+    "question": "在執行 sweep 時，該如何協調 hook 的抬升與上半身的拉動？這種協調為什麼重要？",
+    "answer": "hook 的抬升與手臂的拉動必須同時發動，成為一個統一且爆發性的動作，讓對手來不及同時防守兩者。雙腿向上推並伸展，同時手臂向下拉並朝 sweep 方向旋轉。這種協調非常關鍵，因為單獨任何一個元素都不夠：如果你只用手臂拉，對手可以用雙腿建立 base；如果你只用 hook 抬升，他們可以用手臂撐地或用上半身來抵消你的力量。同時發動的動作會產生一股無法抵抗的力量，完成這個 sweep。",
+    "distractors": {
+     "plausible": [
+      "先抬 hook，再拉手臂",
+      "先拉手臂，再抬 hook"
+     ],
+     "trap": [
+      "把對手往自己身上拉，結果被壓扁"
+     ]
+    },
+    "answer_line": "hook 與拉動同時發動"
+   },
+   {
+    "question": "當你正在進行 Elevator Sweep 時，對手用遠端的手撐地，你該如何調整？",
+    "answer": "當對手用遠端的手撐地時，你有兩個主要的應對方式。第一，你可以立刻對那隻撐地的手做 arm drag，把它拉過對手身體，並轉換成 back take，因為那隻撐地的手臂此刻是伸展且脆弱的。第二，你可以透過調整那一側的 hook 來困住撐地的手，把他的手腕或手肘壓制在地墊上，然後繼續完成 Elevator Sweep，因為他的撐地已經被化解。關鍵在於及早察覺撐地動作，並在對手建立穩固 base 之前做出反應。",
+    "answer_line": "arm drag 或困住撐地的手",
+    "distractors": {
+     "plausible": [
+      "把撐地的手臂往下壓",
+      "立刻換 guard"
+     ],
+     "trap": [
+      "放開 overhook 去抓那隻手"
+     ]
+    }
+   },
+   {
+    "question": "Elevator Sweep 的關鍵 grip 要求是什麼？gi 和 no-gi 之間有何不同？",
+    "answer": "在 gi 中，使用深 overhook 抓住對手的背闊肌或道袍背部；在 no-gi 中，改用 seatbelt grip，雙手在對手肩膀上方、腋下相扣。在 gi 中，另一隻手控制對手的 collar、袖子，或建立 underhook。這兩種配置的目的相同：控制對手上半身的旋轉，並防止他們拉開距離或撐地。grip 必須夠緊，才能在手臂拉動時立刻對對手的軀幹產生旋轉力。",
+    "distractors": {
+     "plausible": [
+      "gi 和 no-gi 都用同樣的衣領 grip",
+      "改用雙手腕控制"
+     ],
+     "trap": [
+      "去抓遠端的 grip，結果被 pass"
+     ]
+    },
+    "answer_line": "gi 用 overhook，no-gi 用 seatbelt"
+   },
+   {
+    "question": "為什麼把頭貼緊對手的胸口對 Elevator Sweep 的成功至關重要？這個動作具體防止了什麼？",
+    "answer": "把頭緊貼在對手胸口的 overhook 那一側，能阻止他們用被 overhook 控制的手臂撐地，這是這個 sweep 最常見的防守方式。當你的頭製造出壓力與連結時，對手無法伸展或用那隻手臂撐地建立 base，也無法創造空間來產生反作用力或調整姿勢。頭貼緊也讓他們更難施展 crossface 或創造角度來 pass 你的 guard。耳朵貼胸骨的連結，讓你的 grips 和 hooks 因為消除了空間而更加有效。",
+    "distractors": {
+     "plausible": [
+      "頭部只是幫助平衡",
+      "收下巴是為了防絞技"
+     ],
+     "trap": [
+      "抬起頭，結果吃了 crossface pass"
+     ]
+    },
+    "answer_line": "頭貼緊，阻止手臂撐地"
+   },
+   {
+    "question": "當對手用力向後 sprawl 而擋住你的 Elevator Sweep 時，最佳的連續攻擊是什麼？",
+    "answer": "面對用力向後的 sprawl，應該連接到 single leg X-guard 或 X-guard，穿過他們抬高的髖部，而不是重新嘗試同一個 sweep。伸出一個 hook 勾住他們遠端的腿做 single leg X，或穿過他們的髖部做 X-guard；如果他們的 sprawl 幅度極大，deep half guard 也會變得可行，可以鑽到他們的身體下方。關鍵在於，sprawl 會讓他們的髖部抬高、重心落在腳跟後方，使得纏腿的進入方式特別有效。永遠不要對一個已經 sprawl 的對手單純重複嘗試 Elevator Sweep。",
+    "distractors": {
+     "plausible": [
+      "改換成 closed guard",
+      "更用力把他們的髖部壓下去"
+     ],
+     "trap": [
+      "硬做下去，結果被 front headlock 制住"
+     ]
+    },
+    "answer_line": "連接到 X-guard 系列進入點"
+   },
+   {
+    "question": "發動 Elevator Sweep 的最佳時機窗口是什麼？該注意哪些體重分布的訊號？",
+    "answer": "在對手的體重向前轉移的那一刻立刻發動 Elevator Sweep，不論是他們自然轉移，或是你透過上半身控制把他們拉向自己。關鍵訊號包括：因為對手體重前移而在你的 hooks 上感受到更大壓力、他們的手伸向你的衣領、頭部前移使重心前傾，或是他們的胸口壓向你。你也可以透過用 grips 把他們拉向前，並在他們體重投入的瞬間立刻抬升，人為製造這個時機。嘗試這個 sweep 最糟的時機，是對手正主動向後坐或把體重壓在髖部後方的時候。",
+    "distractors": {
+     "plausible": [
+      "grips 鎖定後立刻抓時機",
+      "只要 hook 有壓力就進攻"
+     ],
+     "trap": [
+      "趁對手向後坐時抬升，結果被反過來 take down"
+     ]
+    },
+    "answer_line": "趁對手體重前移時進攻"
+   },
+   {
+    "question": "在 Elevator Sweep 中，hooks 該產生什麼方向的力量？這和標準的 butterfly sweep 有何不同？",
+    "answer": "Elevator Sweep 的 hooks 主要向上並略微向前發力，雙腳同時以相同力量伸展，把對手的髖部垂直抬離地墊。這種對稱的抬升動作，會像電梯平台一樣把對手抬起，然後你再把他們翻轉過去。這與標準 butterfly sweep 不同，後者是一隻 hook 對角發力，另一隻可能脫離接觸或扮演次要角色，力量更偏向側向與旋轉。這種「先垂直抬升、再旋轉」的方式，正是 Elevator Sweep 有別於靠衝力驅動的角度型 sweep 的地方。",
+    "distractors": {
+     "plausible": [
+      "一隻 hook 抬升，另一隻固定不動",
+      "hooks 純粹向前發力"
+     ],
+     "trap": [
+      "把雙腿伸開，結果 guard 被 pass"
+     ]
+    },
+    "answer_line": "hooks 向上抬，力量對稱"
+   },
+   {
+    "question": "如果對手在你嘗試 Elevator Sweep 時對你的 overhook 施展 whizzer，你有哪兩種有效的應對方式？",
+    "answer": "面對 whizzer，你可以攻擊他們被旋轉手臂上的肩鎖，或是穿過 whizzer 鑽入，從 half butterfly 進入 electric chair。肩鎖之所以有效，是因為 whizzer 會讓他們的肩膀處於旋轉且脆弱的位置，只要你控制住他們的手腕並施加向內的壓力即可；electric chair 則會困住他們的 whizzer 手臂，同時威脅 sweep 與 calf crush 的降伏技。關鍵在於，雖然 whizzer 能阻止原本的 sweep 方向，實際上卻限制了對手的活動範圍，並創造出新的進攻機會。第三個選項是完全切換 sweep 的方向，改用對側的 underhook。",
+    "distractors": {
+     "plausible": [
+      "拉 guard 重新設定 grips",
+      "把他們的 whizzer 手臂往下壓"
+     ],
+     "trap": [
+      "硬把手臂抽出來，結果被 pass"
+     ]
+    },
+    "answer_line": "攻擊肩鎖或轉入 electric chair"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "讓 Elevator Sweep 生效的三個相互關聯的元素是什麼？為什麼你至少必須破壞其中一個？",
+    "answer": "這三個元素是提供垂直抬升力的深 butterfly hooks、控制上半身旋轉的 overhook 或 underhook，以及防止防守方撐地的緊密頭部控制。你必須至少破壞其中一個，因為這個 sweep 的力量來自三者協調運作。沒有 hooks，就沒有抬升力；沒有 overhook，就沒有旋轉控制；沒有頭部控制，防守方就能撐地建立 base。移除任何一個單一元素，都會大幅降低這個 sweep 的效果，並創造出 passing 的機會。",
+    "answer_line": "hooks、overhook、頭部控制",
+    "distractors": {
+     "plausible": [
+      "只有 overhook 重要",
+      "需要同時破壞兩個元素"
+     ],
+     "trap": [
+      "三個都不管，硬撐髖部"
+     ]
+    }
+   },
+   {
+    "question": "防守 Elevator Sweep 的最佳介入時機是什麼？為什麼提早介入非常關鍵？",
+    "answer": "最佳的介入時機是在 grip 對抗與準備階段，在對手同時建立 overhook 與頭部控制之前。提早介入非常關鍵，因為 Elevator Sweep 遵循一個循序漸進的準備流程：先是 hooks，接著是 overhook，然後是頭部控制，再來是角度，最後才是抬升。每完成一個步驟，防守就會呈指數式變難。在初期 grip 對抗時爭奪 overhook 只需要很少的力氣，但要抵抗一個所有元素都已完全就位的 sweep，無論力量差距多少，都可能是不可能的任務。",
+    "answer_line": "在 grip 對抗階段就提早防守",
+    "distractors": {
+     "plausible": [
+      "只在 overhook 建立後才爭奪",
+      "感覺到 hooks 才 sprawl"
+     ],
+     "trap": [
+      "等到抬升發生再說，結果被 sweep"
+     ]
+    }
+   },
+   {
+    "question": "當對手已經建立 overhook 並把頭壓向你的胸口時，你的即時防守優先順序是什麼？",
+    "answer": "你的即時優先事項是用 frame 在他們的頭與你的胸口之間創造空間，同時設法解除 overhook。用前臂在 overhook 那一側 frame 住對手的下顎或肩膀，把他們的頭推開，然後把肘部緊貼髖部，讓被困住的手臂繞出來。一旦沒有了頭部連結，如果對方嘗試 sweep，你就能伸展並撐地。如果 overhook 太深、來不及快速解除，就把髖部用力向後 sprawl，在抬升發生前先破壞對手的姿勢，接受 overhook 的存在，但破壞抬升的角度。",
+    "answer_line": "frame 頭部，解除 overhook",
+    "distractors": {
+     "plausible": [
+      "先把對方的髖部壓下去",
+      "去抓對方遠端的衣領"
+     ],
+     "trap": [
+      "伸手跨過去，結果被抓 back"
+     ]
+    }
+   },
+   {
+    "question": "你要如何把 Elevator Sweep 的防守轉換成自己的 passing 進攻？",
+    "answer": "每一個防守反應都能創造進攻機會。當你 sprawl 破壞 sweep 時，對手被壓平的姿勢會打開 butterfly smash passing 和 body lock passing 的機會。當你解除 overhook 並建立 crossface 時，可以立刻銜接 knee slice 或 pressure pass。當你撐地阻止 sweep 嘗試時，對手全力拉扯所投入的力量，會創造一個短暫的窗口，讓其中一個 hook 脫離接觸，讓你能建立 half guard top 並開始 knee cut passing。最厲害的防守者，會把 sweep 防守當成 passing 連續動作的第一步，而不是孤立的求生技術。",
+    "answer_line": "sprawl 或解除 overhook 可銜接 passing",
+    "distractors": {
+     "plausible": [
+      "只在對手重新設定後才反擊",
+      "passing 需要全新的準備"
+     ],
+     "trap": [
+      "站起來拉開距離，結果被 X-guard sweep"
+     ]
+    }
+   },
+   {
+    "question": "防守 Elevator Sweep 時，為什麼保持寬且交錯的 base 非常重要？雙腳該如何擺放？",
+    "answer": "寬且交錯的 base 能對抗這種角度型 sweep 的方向，因為 Elevator Sweep 攻擊的是你 base 的角落。雙腳張開時，臨界傾倒點會離你的重心更遠，需要更大的力量才能把你 sweep 倒。前後交錯的站姿代表一隻腳略微在前，讓你能朝 sweep 的方向撐地，並創造出不對稱的抵抗力，讓同步的 hook 抬升更難以克服。雙腳大約與肩同寬，一腳在前約 15-20 公分，膝蓋主動向外撐開以抵抗 hook 的抬升。",
+    "answer_line": "寬站交錯，膝蓋向外撐",
+    "distractors": {
+     "plausible": [
+      "採用窄站姿以增加機動性",
+      "雙腳平行、方正站立"
+     ],
+     "trap": [
+      "雙腳併攏，膝蓋向內夾"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crackhead Control to Mission Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Crackhead Control 轉換到 Mission Control 的主要目的是什麼？",
+    "answer": "主要目的是從高風險、高報酬的進攻位置重置為更穩定的 rubber guard 控制平台。這個轉換讓你能夠脫離背後暴露的危險、在降伏鏈卡關時鞏固優勢，或是在對手已經適應 Crackhead Control 進攻後從不同角度發動攻擊。",
+    "answer_line": "重置為穩定的 rubber guard 控制",
+    "distractors": {
+     "plausible": [
+      "完全逃到 closed guard",
+      "更快完成降伏鏈"
+     ],
+     "trap": [
+      "放掉所有腿部控制以取得空間"
+     ]
+    }
+   },
+   {
+    "question": "握法轉換的關鍵順序是什麼——在放開 overhook 之前必須先做什麼？",
+    "answer": "在任何握法改變之前，必須先確保髖部抬起。抬起的髖部創造出使 Mission Control 得以成立的基礎結構。若在建立髖部抬起之前就放開 overhook，會導致整個位置崩潰，因為對手會恢復完整姿勢，而你已不剩任何控制。",
+    "answer_line": "先確保髖部抬起",
+    "distractors": {
+     "plausible": [
+      "先調整腿的位置",
+      "先抓頭部控制"
+     ],
+     "trap": [
+      "立刻放開 overhook"
+     ]
+    }
+   },
+   {
+    "question": "當你在 Crackhead Control 中，對手開始恢復姿勢，你該如何抓時機進行轉換？",
+    "answer": "應該在對手嘗試恢復姿勢的過程中就啟動轉換，而不是等他們完全恢復之後。他們向上的動作創造了時機窗口——當他們把重心往後移時，你就抬起髖部並重新定位。對手感覺到 overhook 鬆開時的那一瞬間放鬆感，會降低他們的防禦張力，讓 Mission Control 更容易建立。",
+    "answer_line": "在對手起身時行動，而非之後",
+    "distractors": {
+     "plausible": [
+      "等姿勢完全恢復後再行動",
+      "先把他們的姿勢再壓回去"
+     ],
+     "trap": [
+      "放開 overhook 以重置握法"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你放開 overhook 時猛力向前壓，你該怎麼辦？",
+    "answer": "完全放棄 Mission Control 的轉換，改為利用他們的向前壓力進行進攻。向前的驅力有助於 Carni 轉換和 gogoplata 的設置——把他們的動能導向這些攻擊，而不是硬碰硬去建立 Mission Control。他們積極的向前能量會變成你的降伏設置。",
+    "answer_line": "放棄轉換，改攻 Carni/gogoplata",
+    "distractors": {
+     "plausible": [
+      "撐住並強行完成 Mission Control",
+      "重置回中立的 guard"
+     ],
+     "trap": [
+      "把他們推回去重置姿勢"
+     ]
+    }
+   },
+   {
+    "question": "在從 overhook 轉換到頭部控制的過程中，如何維持控制的連續性？",
+    "answer": "這個轉換必須是一個流暢的動作，在放開 overhook 與建立頭部控制之間不能有任何空隙。練習讓放開的那隻手直接游向頭部控制，中途不要停在中立位置。任何控制上的空檔都會讓對手抽出手臂並恢復姿勢，使局勢回到中立。",
+    "answer_line": "一氣呵成，中間不留空隙",
+    "distractors": {
+     "plausible": [
+      "在中立握法處稍作停留",
+      "先放開再快速重新抓握"
+     ],
+     "trap": [
+      "放手並重置兩邊的握法"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在轉換過程中開始抽出手臂，你該如何應對？",
+    "answer": "順著他們抽出的手臂進入 omoplata，而不是硬要重新建立控制。他們抽手的動作其實剛好完美地設置了 omoplata 的旋轉——他們拉扯的方向正好創造出你需要的旋轉角度。把他們的防禦動作變成你的進攻設置。",
+    "answer_line": "順著手臂進入 omoplata",
+    "distractors": {
+     "plausible": [
+      "重新固定 overhook 握法",
+      "追手腕以阻止抽出"
+     ],
+     "trap": [
+      "放開腿部以重新抓手臂"
+     ]
+    }
+   },
+   {
+    "question": "建立 Mission Control 時，腿應該放在哪裡，為什麼？",
+    "answer": "腿必須高高橫跨在對手的上背部與肩胛骨區域，小腿在遠側肩膀上施加向下的壓力。這個高度創造出正確的肩部隔絕——這正是 Mission Control 的核心機制。位置太低、落在中背部的話，會讓對手保有肩膀的活動度並建立防禦性的 frame。",
+    "answer_line": "高高橫跨在遠側肩膀上",
+    "distractors": {
+     "plausible": [
+      "低放在中背部",
+      "壓在近側肩膀上"
+     ],
+     "trap": [
+      "鬆鬆地搭在脖子上"
+     ]
+    }
+   },
+   {
+    "question": "在轉換過程中，自由的那條腿扮演什麼角色，為什麼它很關鍵？",
+    "answer": "自由腿在整個轉換過程中必須持續保持與髖部的主動連結，以防止背後暴露。事實上，在主要控制正在改變的轉換期間，自由腿的施力反而應該加強。這條腿是你主要的安全機制——如果它在握法轉換過程中失去連結，對手就能開始過渡到背後控制。",
+    "answer_line": "保持與髖部的主動連結",
+    "distractors": {
+     "plausible": [
+      "先撐地建立 base，再重新抓握",
+      "在握法改變時放鬆力道"
+     ],
+     "trap": [
+      "踢開以創造空間"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候不應該從 Crackhead Control 發動這個轉換？",
+    "answer": "當仍有可行的 Crackhead 降伏機會時，不要轉換——這會浪費高成功率的機會。同樣地，當對手已經取得雙手 underhooks 時也要避免轉換（此時應改為放棄轉去 closed guard），或是當他們的向前壓力更適合設置 Carni/gogoplata 時也一樣。這個轉換是一種戰略性的重置，不是為了逃避不適而做的動作。",
+    "answer_line": "當 Crackhead 降伏仍可行時",
+    "distractors": {
+     "plausible": [
+      "當對手看起來很冷靜時",
+      "只要握法感覺疲勞就轉換"
+     ],
+     "trap": [
+      "只要對手一起身就轉換"
+     ]
+    }
+   },
+   {
+    "question": "如何把這個轉換用於進攻，而不只是單純的位置性撤退？",
+    "answer": "對手感覺到 overhook 鬆開時的放鬆感會製造出破綻。他們在那個當下降低的防禦張力打開了進攻機會。進階練習者會在轉換本身之中發動進攻——腿的重新定位可以變成 triangle 的入手，控制的短暫轉移可以設置掃技，而對手對轉換的反應則可以被導引成降伏技。",
+    "answer_line": "趁對手放鬆的瞬間進攻",
+    "distractors": {
+     "plausible": [
+      "直接衝向 Mission Control",
+      "重置握法後再重新評估"
+     ],
+     "trap": [
+      "放開一切重新開始"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 Crackhead Control 轉換到 Mission Control 過程中，主要的逃脫窗口是什麼，為什麼會存在？",
+    "answer": "主要的逃脫窗口出現在握法轉換期間——下位選手放開了深 overhook，但還沒建立起 Mission Control 所需的頭部控制。這個窗口之所以存在，是因為下位選手無法同時維持 Crackhead Control 又建立 Mission Control——他們必須暫時犧牲主要的控制機制，因而創造出一段兩種控制都未完全生效的短暫時間。",
+    "answer_line": "overhook 已放開，頭部控制未建立",
+    "distractors": {
+     "plausible": [
+      "Mission Control 頭部鎖定之後",
+      "深 overhook 握法期間"
+     ],
+     "trap": [
+      "當兩種控制重疊時"
+     ]
+    }
+   },
+   {
+    "question": "對手的 overhook 開始鬆開，同時他們的髖部向上頂——這代表什麼，你該如何反應？",
+    "answer": "這表示轉換已經啟動——髖部抬起是放開 overhook 之前的基礎步驟。你應該準備立刻行動。當 overhook 完全放開時，立刻爆發性地恢復姿勢，把頭往上、髖部往後推，或是把被困住的手臂朝外畫圈抽出。不要等到頭部控制建立——overhook 放開與頭部控制建立之間的那一刻，是你最窄但也最有價值的逃脫機會。",
+    "answer_line": "轉換已開始，立刻行動",
+    "distractors": {
+     "plausible": [
+      "等頭部控制鎖定後再行動",
+      "等腿重新定位後再行動"
+     ],
+     "trap": [
+      "放鬆並讓姿勢穩定下來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在抽手臂時直接向後拉是一個嚴重的防禦錯誤？",
+    "answer": "直接向後拉會創造出下位選手進入 omoplata 所需的正確旋轉角度。你拉的方向正好符合他們 omoplata 的旋轉方向，等於幫他們把工作做完了。應該改為朝外、向上畫圈抽出手臂，同時把肩膀轉離下位選手，這樣能破壞 omoplata 所需的角度，並創造出足以打亂整個 rubber guard 結構的距離。",
+    "answer_line": "會助長 omoplata 的旋轉角度",
+    "distractors": {
+     "plausible": [
+      "浪費體力，拖慢逃脫",
+      "失去對他們衣領的抓握"
+     ],
+     "trap": [
+      "設置你自己的 armbar"
+     ]
+    }
+   },
+   {
+    "question": "如何區分真正的轉換嘗試，和專門用來誘使你做出逃脫反應的假動作？",
+    "answer": "真正的轉換會依序出現所有機械上的徵兆：先是髖部抬起，接著腿向肩膀重新定位，然後才是 overhook 鬆開。假動作通常只出現一個徵兆——通常是 overhook 短暫鬆開，但沒有相對應的髖部抬起或腿部動作。如果髖部仍然平貼、腿也沒有移動，那麼 overhook 的變化更可能只是握法調整或誘餌，而不是真正要轉換到 Mission Control。",
+    "answer_line": "先抬髖，再動腿",
+    "distractors": {
+     "plausible": [
+      "先鬆 overhook，再抬髖",
+      "腿在髖抬起前就先重新定位"
+     ],
+     "trap": [
+      "overhook 一鬆開就馬上反應"
+     ]
+    }
+   },
+   {
+    "question": "如果你錯過了轉換窗口，Mission Control 已經完全建立，你該怎麼辦？",
+    "answer": "立刻切換到針對 Mission Control 的專屬防禦程序，而不是繼續對抗已經完成的轉換。專注於用你空出的那隻手剝除握法以防止深頭部控制建立、平均分配體重而不是把重量壓在被困住的肩膀上以維持一定的姿勢，並透過耐心地向外畫圈而非爆發性硬拉來系統性地抽出手臂。要接受這次逃脫現在需要更長、更有條理的過程。",
+    "answer_line": "切換到 Mission Control 專屬防禦",
+    "distractors": {
+     "plausible": [
+      "現在就爆發性地把手臂拉出",
+      "繼續對抗同一個握法"
+     ],
+     "trap": [
+      "把重量壓在被困住的肩膀上"
+     ]
+    }
+   }
+  ]
+ }
+}

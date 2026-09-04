@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從被壓扁的half guard發動deep half entry，最佳的時機視窗是什麼時候？",
+    "answer": "最佳時機出現在上位選手為了推進pass而轉移重心的時候，通常發生在knee slice啟動、grip調整或撐手的瞬間。這個重心轉移會讓對手的髖部短暫離開與你身體的直接接觸，製造出穿越到對手身下所需的空間。絕對不要在對手壓力已經穩定靜止時強行進入，因為這個動作需要的空間只在重心主動轉移的瞬間才存在。",
+    "answer_line": "配合對手的重心轉移時機",
+    "distractors": {
+     "plausible": [
+      "在壓力最重時進攻",
+      "在對手拿到crossface的瞬間"
+     ],
+     "trap": [
+      "在壓力穩定時硬闖"
+     ]
+    }
+   },
+   {
+    "question": "為什麼髖部轉動和穿臂必須同時發生，而不是先後進行？",
+    "answer": "如果只穿臂而不轉髖，你的身體仍然平貼在墊子上，無法滑到對手身下。如果只轉髖而不穿臂，你就沒有錨點把自己拉進位置，上位選手也很容易把你重新壓扁。這個協調動作形成一個複合動作，髖部轉動提供角度，穿臂則提供拉動的方向。",
+    "answer_line": "髖部轉動與穿臂同時進行",
+    "distractors": {
+     "plausible": [
+      "先轉髖，再穿臂",
+      "先穿臂，再轉髖"
+     ],
+     "trap": [
+      "先放開guard的hook"
+     ]
+    }
+   },
+   {
+    "question": "對手施加沉重的crossface壓力，讓你無法轉髖進入——你該嘗試什麼替代方案？",
+    "answer": "當crossface阻止髖部旋轉時，改為進行frame恢復。用micro hip escape一點一點製造空間，把手肘當作楔子插入。逐步重建knee shield。Deep half entry需要的髖部活動度，會被嚴重的crossface壓力抹除，硬做只會讓你卡在比被壓扁half guard更糟的半途位置。",
+    "answer_line": "用micro escape恢復frame",
+    "distractors": {
+     "plausible": [
+      "立刻換成underhook",
+      "被動等待壓力減輕"
+     ],
+     "trap": [
+      "不管三七二十一硬轉髖"
+     ]
+    }
+   },
+   {
+    "question": "在把身體投入這個動作之前，必須先建立的關鍵grip是什麼？",
+    "answer": "繞過遠側腿的深度underhook是關鍵grip。你的近手必須先穿過上位選手的雙腿之間、環繞住對手的遠側大腿，才能把身體投入滑到對手身下的動作。這個grip既是把你拉進位置的錨點，也是最終deep half guard的主要控制機制。沒有它，這個動作就沒有方向也沒有終點。",
+    "answer_line": "深度underhook扣住遠側腿",
+    "distractors": {
+     "plausible": [
+      "overhook近側腿",
+      "先抓領口再進入"
+     ],
+     "trap": [
+      "先鑽進去，grip之後再說"
+     ]
+    }
+   },
+   {
+    "question": "為什麼整個進入過程中要一直維持half guard的hook，而不是提早放開？",
+    "answer": "Half guard的hook是阻止上位選手完成guard pass的最後一道防線。在進入的轉換過程中，有一個脆弱的瞬間——你的frame已經放棄，但deep half還沒建立。這個hook能防止上位選手在這個空檔直接抽身、通過到side control。只有在deep underhook和肩部楔入都確實鎖定之後，才能放開它。",
+    "answer_line": "楔入到位前都不放開hook",
+    "distractors": {
+     "plausible": [
+      "underhook一到位就放開",
+      "早點放開好加快動作"
+     ],
+     "trap": [
+      "放開hook才開始鑽入"
+     ]
+    }
+   },
+   {
+    "question": "你正要開始deep half entry時，對手開始做knee slice——這會如何影響你的執行？",
+    "answer": "Knee slice其實會創造出理想的進入視窗，因為側向的重心轉移會抬高遠側髖部、在身下製造出最大的空間。當對手投入切入的方向時，他們的動能讓他們很難逆轉並反制你的進入。加快你鑽入的時機、配合對手的側向移動，利用對手的重心轉移來協助你滑到對手base之下。",
+    "answer_line": "配合對手的knee slice加速鑽入",
+    "distractors": {
+     "plausible": [
+      "等knee slice做完再說",
+      "暫停重新評估時機"
+     ],
+     "trap": [
+      "遠離knee slice後退"
+     ]
+    }
+   },
+   {
+    "question": "如果你鑽得太深、超過了deep half的位置，會發生什麼事？",
+    "answer": "超過範圍代表你的身體越過了對手的髖部，而不是落定在對手身下。這會讓你失去sweep所需的槓桿，還可能讓你露出後背或落入turtle。要修正，讓你的肩膀對準對手的髖部高度、接觸對手的大腿內側，一感覺到那個楔入點就停止滑動。肩膀對大腿的接觸是判斷正確深度的地標。",
+    "answer_line": "在肩對大腿接觸時停下",
+    "distractors": {
+     "plausible": [
+      "滑到越過對手髖部為止",
+      "以膝對膝接觸為目標"
+     ],
+     "trap": [
+      "一直鑽到完全穿到身下"
+     ]
+    }
+   },
+   {
+    "question": "與其被動等對手轉移重心，你要如何主動製造時機視窗？",
+    "answer": "在表面上威脅做frame恢復或underhook嘗試，逼上位選手做出反應。當對手為了反制你的表面逃脫而加大向前壓力時，對手的髖部會靠得更近、抬得更高，正好製造出deep half entry所需的條件。這種聲東擊西的手法，把對手的防禦反應變成你真正進攻的觸發點，將對手的壓力轉化成你的機會。",
+    "answer_line": "誘使對手嘗試frame恢復",
+    "distractors": {
+     "plausible": [
+      "被動等待對手轉移重心",
+      "立刻嘗試鑽入"
+     ],
+     "trap": [
+      "把對手推開製造空間"
+     ]
+    }
+   },
+   {
+    "question": "在進入的過程中，你的underhook手臂施力的方向是什麼？",
+    "answer": "Underhook手臂把遠側腿拉向你的胸口，同時把自己的身體拉到對手髖部之下。施力方向是斜向的——朝你的中線內收，並向墊子下壓。這會產生一種壓縮力，把腿鎖在你身上，並把你的肩膀拉進對手大腿內側的楔入位置。如果直直往後拉，只會把對手推開，而不是把對手壓上你的槓桿點。",
+    "answer_line": "斜向內收並下壓",
+    "distractors": {
+     "plausible": [
+      "直直往墊子下壓",
+      "往中線內收"
+     ],
+     "trap": [
+      "直直往後拉開"
+     ]
+    }
+   },
+   {
+    "question": "如果進入失敗、你卡在半途——一隻手臂已經穿過但身體還是平貼在地上——恢復的順序是什麼？",
+    "answer": "立刻把手臂收回，重新建立你的half guard frame。不要停留在半穿的位置，因為這會同時破壞你的frame防禦和half guard的hook。把手臂拉回來，重新用手肘楔住對手，恢復成標準的被壓扁half guard防禦。等到更好的時機出現時再嘗試進入，而不是從一個已經妥協的位置硬闖。",
+    "answer_line": "收回手臂，重建half frame",
+    "distractors": {
+     "plausible": [
+      "保持位置耐心等待",
+      "放開hook重新開始"
+     ],
+     "trap": [
+      "硬撐完成整個鑽入動作"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從被壓扁的half guard中，對手正在嘗試deep half entry，最早能察覺的線索是什麼？",
+    "answer": "最早的線索是下位選手的近側髖部開始朝你的雙腿轉動，而不是繼續平貼在墊子上。這個髖部旋轉是整個進入動作的先決條件。沒有它，對手就無法穿臂或滑到你的髖部之下。在穿臂動作開始之前先察覺這個旋轉，能讓你有最多的時間用crossface壓力和髖部sprawl來反制。",
+    "answer_line": "近側髖部朝雙腿轉動",
+    "distractors": {
+     "plausible": [
+      "手臂正穿過雙腿之間",
+      "肩膀碰到你的大腿"
+     ],
+     "trap": [
+      "等看到underhook才反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼提早壓下髖部重心是有效的反制，但太晚做卻反而適得其反？",
+    "answer": "如果在underhook建立之前提早做，壓下髖部重心會移除下位選手穿越所需的髖下空間，讓對手的進入路徑塌陷。如果在underhook和肩部楔入都已到位之後才晚做，你下壓的重心會直接壓上對手的槓桿系統，反而幫助對手完成sweep的力學。肩部楔入會把你向下的壓力轉化成水平的sweep力量。",
+    "answer_line": "要提早壓，不要太晚壓",
+    "distractors": {
+     "plausible": [
+      "晚點壓重心求控制",
+      "全程穩定持續下壓"
+     ],
+     "trap": [
+      "underhook到位後才下壓"
+     ]
+    }
+   },
+   {
+    "question": "對手的手臂已經穿過一半，但肩部楔入還沒建立——你最好的防守反應是什麼？",
+    "answer": "立刻用你的近側手臂對穿入的手臂做whizzer，阻止它更深地環繞你的遠側腿。同時把crossface壓力往前推，並把髖部sprawl回去把下位選手重新壓扁。這個半穿的狀態給了你一個視窗。一旦肩膀越過你的髖部、楔入建立，位置就會大幅對下位選手有利。趁現在還來得及恢復時，先處理手臂控制。",
+    "answer_line": "whizzer手臂、crossface、sprawl",
+    "distractors": {
+     "plausible": [
+      "等確認楔入後再說",
+      "抓住遠側腿去擋"
+     ],
+     "trap": [
+      "等肩膀穿過去再行動"
+     ]
+    }
+   },
+   {
+    "question": "維持crossface壓力具體上是如何阻止deep half entry的？",
+    "answer": "Crossface壓力限制了下位選手轉動髖部的能力，而這正是整個進入動作最基本的第一步。透過把對手的頭部往需要轉動的相反方向逼開，crossface對髖部旋轉形成結構性的對抗。沒有髖部轉動，下位選手就無法取得把身體滑到你base之下所需的角度，等於從根本上就封死了這個進入動作。",
+    "answer_line": "封鎖髖部旋轉的起點",
+    "distractors": {
+     "plausible": [
+      "只封鎖穿臂動作",
+      "只封鎖肩部楔入"
+     ],
+     "trap": [
+      "放鬆crossface節省體力"
+     ]
+    }
+   },
+   {
+    "question": "在deep half entry的嘗試中，什麼時候適合改做backstep pass，而不是把下位選手重新壓扁？",
+    "answer": "當下位選手已經大幅投入這個進入動作時，backstep就是合適的選擇——對手的frame已經放棄，half guard的hook也已經鬆脫。此時對手的投入會製造出一個脆弱視窗，讓你可以把腿抽出來。如果在對手投入之前太早嘗試backstep，只會白白給對手空間，而對手可能反而利用這個空間來恢復frame。",
+    "answer_line": "frame和hook都消失的時候",
+    "distractors": {
+     "plausible": [
+      "對手一開始轉動就做",
+      "underhook做到一半時"
+     ],
+     "trap": [
+      "一有跡象就立刻做"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Deep Half Entry from Flattened.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

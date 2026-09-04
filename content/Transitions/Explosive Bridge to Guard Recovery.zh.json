@@ -1,0 +1,217 @@
+{
+ "_meta": {"source": "content/Transitions/Explosive Bridge to Guard Recovery.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {"flashcards": [
+  {
+   "question": "Explosive Bridge to Guard Recovery 的主要目標是什麼？",
+   "answer": "主要目標是透過爆發性的髖部伸展創造足夠空間，把雙腿插入自己與對手之間，在 North-South 底部重新建立某種形式的 guard（closed guard、half guard 或 butterfly guard）。這會把位置重設成雙腿能作為防守武器的狀態。",
+   "answer_line": "插入雙腿，重建 guard",
+   "distractors": {
+    "plausible": [
+     "Bridge 逃脫到 turtle",
+     "直接 bridge 起身站立"
+    ],
+    "trap": [
+     "用手臂把對手推開"
+    ]
+   }
+  },
+  {
+   "question": "為什麼 bridge 的方向要朝 45 度角而不是正上方？",
+   "answer": "朝對手膝蓋方向的 45 度角能製造出破壞對方 base 的旋轉力，讓對方難以壓制你的 bridge。若直接向上 bridge，對手只需跟著你的髖部往上移動，再以更沉重的壓力壓回來，白白浪費你的力氣卻沒有創造逃脫機會。",
+   "answer_line": "斜角 bridge 破壞對方 base",
+   "distractors": {
+    "plausible": [
+     "為求最大高度直接向上",
+     "45 度角朝對手頭部方向"
+    ],
+    "trap": [
+     "直接朝對手方向向上 bridge"
+    ]
+   }
+  },
+  {
+   "question": "執行這個逃脫的最佳時機是什麼時候？",
+   "answer": "最佳時機是在對手轉移體重、準備進入 mount、設置 submission 或調整 base 位置的時候。在這些微小轉換的瞬間，垂直壓在胸口的壓力會因對方重新分配體重而暫時減輕。Bridge 的時機必須配合這個體重轉移，而不是硬碰對方已經穩固的壓力。",
+   "answer_line": "在對手轉移體重時 bridge",
+   "distractors": {
+    "plausible": [
+     "在壓力最重時 bridge",
+     "對手剛壓穩後立刻 bridge"
+    ],
+    "trap": [
+     "持續不斷地 bridge 消耗對手"
+    ]
+   }
+  },
+  {
+   "question": "完成 bridge 之後需要建立哪些關鍵的 frame？",
+   "answer": "Bridge 創造出空間後，必須立刻用雙手在對手髖部建立撐直的 frame。這些 frame 會把對方的髖部推離你的中線，防止對方壓回來，創造出足以讓你插入雙腿以重建 guard 所需的空間。",
+   "answer_line": "在對手髖部建立撐直 frame",
+   "distractors": {
+    "plausible": [
+     "Underhook 對方遠側手臂",
+     "在對方胸口與頸部建立 frame"
+    ],
+    "trap": [
+     "伸直手臂把對手推開"
+    ]
+   }
+  },
+  {
+   "question": "當你 bridge 時，對手把髖部往後 sprawl 反制，你該如何調整？",
+   "answer": "當對手把髖部向後 sprawl 時，closed guard 已經無法取得。此時應立刻改用 butterfly guard，把雙腳當作 hook 插入對方大腿內側。對方的 sprawl 反而創造了進入 butterfly guard 的空間。當對手已用髖部拉開距離時，不要硬追求 closed guard。",
+   "answer_line": "改用 butterfly guard",
+   "distractors": {
+    "plausible": [
+     "硬追並強行取得 closed guard",
+     "再次 bridge 得更高以構到對方"
+    ],
+    "trap": [
+     "放手轉為 turtle"
+    ]
+   }
+  },
+  {
+   "question": "整個 bridge 過程中需要維持什麼樣的握持或手臂姿勢，為什麼？",
+   "answer": "整個 bridge 過程中雙肘要緊貼肋骨，前臂形成保護性的 frame。這能防止手臂被孤立——如果在逃脫過程中把手臂伸離身體，對手就能輕易困住伸出的手臂做 kimura 或 armbar，把你的逃脫嘗試變成對方的 submission 機會。",
+   "answer_line": "雙肘緊貼肋骨",
+   "distractors": {
+    "plausible": [
+     "雙手撐開以取得 base",
+     "提早 underhook 一隻手臂"
+    ],
+    "trap": [
+     "伸直手臂把對方推開"
+    ]
+   }
+  },
+  {
+   "question": "當你每次 bridge，對手都用 crossface 持續向前壓制，你該用什麼連續攻勢？",
+   "answer": "利用對方向前壓制的動量反制對方，轉換成 bridge 後轉身逃向 turtle。對方的前壓力會創造出你能重新導向的旋轉動量。另一個做法是執行雙重 bridge：第一次 bridge 引出對方的向前反制，第二次 bridge 則利用對方防下第一次嘗試後稍微放鬆的瞬間。",
+   "answer_line": "轉向 turtle 或連續雙重 bridge",
+   "distractors": {
+    "plausible": [
+     "用力氣硬抗 crossface",
+     "朝 crossface 方向更用力 bridge"
+    ],
+    "trap": [
+     "伸手在臉部建立 frame"
+    ]
+   }
+  },
+  {
+   "question": "為什麼只能插入一隻腳時，應該接受 half guard 而不是硬要 closed guard？",
+   "answer": "能插入腿的窗口非常短暫，通常不到一秒。若在只能取得 half guard 時還硬要 closed guard，會拖延你的逃脫，讓對方有時間恢復並壓制你的嘗試。任何 guard 都比停留在 North-South 底部安全。應立即建立 half guard，穩住位置後再設法升級成 closed guard。",
+   "answer_line": "立刻接受 half guard",
+   "distractors": {
+    "plausible": [
+     "堅持等到能取得 closed guard",
+     "等待更大的機會窗口"
+    ],
+    "trap": [
+     "延後 bridge 直到完全脫身"
+    ]
+   }
+  },
+  {
+   "question": "Bridge 過程中的施力方向是什麼，這在生物力學上為什麼重要？",
+   "answer": "力量以大約 45 度朝對手膝蓋方向向上驅動。這個斜向的力矢量會對對方的 base 產生旋轉力臂，而不是對方能輕易吸收的直線抬升力。這股旋轉力會把對方往前朝膝蓋方向拋出，以直向上方的力量無法達成的方式破壞對方的支撐與體重分布。",
+   "answer_line": "朝對手膝蓋方向的斜向力",
+   "distractors": {
+    "plausible": [
+     "純垂直方向的抬升力",
+     "力量瞄準對方肩膀"
+    ],
+    "trap": [
+     "用雙腿直接向上推"
+    ]
+   }
+  },
+  {
+   "question": "這個逃脫技術與 bridge-and-turn to turtle 的逃脫在策略上有什麼不同？",
+   "answer": "Bridge to guard recovery 讓你維持躺姿，以雙腿作為主要防守手段，適合擅長 guard 打法的人。Bridge-and-turn 則會讓你進入 turtle 位置，需要良好的纏鬥（scramble）能力。當你偏好以腿部為主的防守且有插腿空間時，選擇 guard recovery；當對方壓力讓你無法插腿，或你偏好摔角式的纏鬥時，選擇 turtle。",
+   "answer_line": "維持躺姿，以雙腿防守",
+   "distractors": {
+    "plausible": [
+     "兩者最終會到達同一個位置",
+     "Turtle recovery 完全不用腿"
+    ],
+    "trap": [
+     "永遠選擇 turtle 而非 guard"
+    ]
+   }
+  }
+ ]},
+ "defender": {"flashcards": [
+  {
+   "question": "要吸收來自 North-South 底部的爆發性 bridge，最可靠的 base 調整方式是什麼？",
+   "answer": "一感覺到向上的力量，立刻把髖部往後 sprawl 並拉寬雙膝。這會降低你的重心，形成寬闊的 base 來分散 45 度 bridge 產生的旋轉力。把胸口的體重向下壓，而不是直接對抗向上的力量。你的目標是讓對方的 bridge 感覺像在推一個沉重、寬廣的平台，而不是一根狹窄的柱子。",
+   "answer_line": "髖部後 sprawl，拉寬雙膝",
+   "distractors": {
+    "plausible": [
+     "站起來破壞對方姿勢",
+     "把雙膝夾緊"
+    ],
+    "trap": [
+     "追著對方髖部往上壓"
+    ]
+   }
+  },
+  {
+   "question": "對手一再把腳踩穩並蓄力準備 bridge，你如何在 bridge 發生前先阻止它？",
+   "answer": "一感覺到對方把腳踩穩，立刻把體重往前移，並把胸口壓力更用力地壓向對方上半身。也可以考慮轉往 submission 或 mount 的嘗試，逼對方把腿用於防守而非進攻。你也可以用腳勾住對方一條腿來控制它，打亂對方腳的落點，讓對方無法建立有效 bridge 所需的穩定平台。",
+   "answer_line": "加壓胸口體重，勾住一條腿",
+   "distractors": {
+    "plausible": [
+     "等 bridge 發生再應對",
+     "坐回去重設 base"
+    ],
+    "trap": [
+     "把雙手撐在地墊上"
+    ]
+   }
+  },
+  {
+   "question": "如何把對手失敗的 bridge 嘗試轉換成位置推進或 submission 的機會？",
+   "answer": "當對方的 bridge 崩潰、身體落回地墊時，他們會暫時精疲力竭，且手臂可能因為失敗的 frame 嘗試而伸展在外。利用這個窗口把膝蓋滑過對方髖部取得 mount，或孤立其伸展的手臂做 kimura 或 armbar。Bridge 之後的瞬間是對方防守最弱的時刻，因為他們已經投入力氣嘗試逃脫卻失敗，創造出你可以利用的短暫破綻。",
+   "answer_line": "滑向 mount，攻擊手臂",
+   "distractors": {
+    "plausible": [
+     "重設回中立位置重新開始",
+     "等待下一次 bridge"
+    ],
+    "trap": [
+     "退回站立位置"
+    ]
+   }
+  },
+  {
+   "question": "在防止 bridge to guard recovery 上，控制手臂扮演什麼角色？",
+   "answer": "除了 base 的寬度之外，控制手臂是最重要的單一因素。即使對方成功做出強力的 bridge，若沒有用手臂建立髖部的 frame，就無法完成 guard recovery。透過 underhook 或壓制手腕控制至少一隻手臂，就能剝奪對方在 bridge 頂點後維持空間所需的雙側髖部 frame。沒有 frame，一旦你把體重壓回去，bridge 創造出的空間就會崩潰。",
+   "answer_line": "控制一隻手臂，剝奪 frame",
+   "distractors": {
+    "plausible": [
+     "改為控制雙腿",
+     "只專注控制頸部"
+    ],
+    "trap": [
+     "不管手臂，加更多體重"
+    ]
+   }
+  },
+  {
+   "question": "對手強力 bridge 並用雙手撐在你髖部形成 frame，你該如何立即恢復？",
+   "answer": "不要試圖用上半身力量硬推過對方的 frame。而是把髖部像雨刷一樣左右擺動，先讓對方一側的手臂 frame 崩潰，接著立刻把體重壓向 frame 崩潰的那一側。同時把膝蓋往前走過對方的髖線，朝 mount 推進。如果雙側 frame 都很穩固，就繞向一側，用 kimura grip 攻擊近側手臂，逼對方放開 frame 來防守 submission。",
+   "answer_line": "雨刷式擺動，瓦解一側 frame",
+   "distractors": {
+    "plausible": [
+     "用上半身力量硬推過去",
+     "把雙手臂一起往內拉"
+    ],
+    "trap": [
+     "抓住雙手腕往回拉"
+    ]
+   }
+  }
+ ]}
+}

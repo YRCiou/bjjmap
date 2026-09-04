@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Float Passing.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在身體力學上，float passing 和 pressure passing 的根本差異是什麼？",
+    "answer": "Float passing 把重量放在前腳掌，髖部抬高、保持機動性，接觸壓力維持在最小限度，藉此保留隨時改變方向的能力。Pressure passing 則是把重量透過胸部和髖部往下驅動壓進對手身上，用沉重的接觸壓垮對方的防禦結構。關鍵的力學差異在於重心：float passing 讓重心保持高、可機動，方便橫向移動；pressure passing 則把重心壓低、加重，用來產生向前的壓制力量。Float passing 對防守彈性好、guard retention 強的對手更有效，而 pressure passing 對機動性較差的對手效果更好。",
+    "answer_line": "髖部高、接觸輕、可機動",
+    "distractors": {
+     "plausible": [
+      "胸部壓力配合快腳步",
+      "低位 base，用力驅動髖部"
+     ],
+     "trap": [
+      "沉重量、壓垮對方 frame"
+     ]
+    }
+   },
+   {
+    "question": "在 floating 階段中，能顯示通過窗口已經打開的關鍵視覺和觸覺線索有哪些？",
+    "answer": "主要的線索包括：對手在調整 guard 時雙腿分開、出現明顯的空隙；他們的髖部平貼在地墊上，而不是保持角度朝向你；他們的膝蓋 frame 伸得離身體太遠，讓髖部暴露出來；或是他們的上半身 grip 變弱，因為注意力被分散到防守多個角度。在觸覺上，你會感覺到透過 grip 傳來的阻力變小，因為他們的腿不再積極地往回頂。這個窗口通常只維持半秒到一秒，需要立即辨識並果斷投入。",
+    "answer_line": "空隙出現、髖部貼地、grip 變弱",
+    "distractors": {
+     "plausible": [
+      "對手把你的衣領抓得更緊",
+      "他們把髖部擺正、重新調整角度"
+     ],
+     "trap": [
+      "他們用力 shrimp——立刻投入"
+     ]
+    }
+   },
+   {
+    "question": "面對一個強力的 De La Riva guard 玩家時，你該如何調整你的 floating 模式？",
+    "answer": "對抗 De La Riva 時，專注於能防止 DLR hook 建立深度控制的環繞式移動。讓你被勾住的那條腿保持機動，往後撤並繞開 hook 那一側，而不是往前驅動硬闖進去。用更寬的弧線移動，維持在他們 hook 攻擊範圍之外，當你用 backstep 改變方向時，他們投入的 DLR hook 反而變成負擔，因為他們沒辦法輕易換邊。控制他們遠側的袖子或衣領，防止他們用上半身 grip 完成 DLR 的結構。你抓在他們 DLR 那一側褲管的 grip，應該持續把他們的膝蓋往身體中線的另一側推。",
+    "answer_line": "繞開，控制遠側袖子",
+    "distractors": {
+     "plausible": [
+      "直接往 DLR hook 驅動",
+      "把勾住的腿壓平"
+     ],
+     "trap": [
+      "追著 hook 跑、配合他們的角度"
+     ]
+    }
+   },
+   {
+    "question": "你在 floating 時，對手抓到一個很深的衣領 grip，你要如何在不停止移動的情況下處理？",
+    "answer": "立刻用雙手做兩手夾一手（two-on-one）來處理這個衣領 grip，然後在對方能重新抓握之前，立刻重新建立至少一個腿部控制的 grip。如果 grip 太深、無法快速破解，就改變你的高度、降到 combat base，這能降低他們在衣領 grip 上的拉扯槓桿。你也可以反過來利用那個衣領 grip 對付他們——朝 grip 那一側環繞移動，這會讓 grip 鬆弛，並在另一側創造出通過的角度。絕對不要在衣領 grip 深深抓住卻沒處理的情況下繼續 floating，因為那會給他們建立姿勢控制、設置掃技所需要的條件。",
+    "answer_line": "破 grip，快速重抓腿部",
+    "distractors": {
+     "plausible": [
+      "硬撐著、維持相同 grip",
+      "用力挺直姿勢對抗 grip"
+     ],
+     "trap": [
+      "繼續 floating，不理會 grip"
+     ]
+    }
+   },
+   {
+    "question": "在 floating 階段，哪種 grip 配置能在腿部控制和機動性之間取得最好的平衡？",
+    "answer": "最理想的 grip 是雙手都控制在對手褲子的膝蓋線位置，拇指在內側、手指抓住腿部外側的布料。這個位置讓你能把他們的腿往任何方向推，同時保留足夠的鬆弛度，讓你能橫向移動而不被固定住。膝蓋線的 grip 控制的是他們 guard frame 中最關鍵的部分，因為膝蓋是他們腿部防禦結構的支點。在 floating 期間，避免用抓腳踝作為主要控制方式，因為那需要你彎腰太深、破壞你的姿勢，不過抓腳踝可以用來做短暫的方向調整。",
+    "answer_line": "雙手抓膝蓋線的褲管",
+    "distractors": {
+     "plausible": [
+      "雙手抓雙腳踝控制",
+      "一手抓膝蓋、一手抓衣領"
+     ],
+     "trap": [
+      "抓腳踝，深深往前傾"
+     ]
+    }
+   },
+   {
+    "question": "從 floating 轉換到全力投入通過時，正確的施力方向是什麼？",
+    "answer": "施力方向會從 floating 階段以橫向為主，轉變成投入通過時的斜向前方。你要把胸部驅動朝向對手遠側的肩膀，同時髖部橫切過他們近側的髖部線。這個斜向的力向量，能同時清開他們的近側腿，並防止他們轉身面向你。常見的錯誤是直接往前驅動，那樣會正面撞進他們最強的 frame 裡。這個斜向角度，利用的正是 floating 階段所創造出來、他們雙腿之間的空隙，而你的肩膀壓力也會在完成通過的同時自然建立起 cross face。",
+    "answer_line": "斜向遠肩，髖部橫切",
+    "distractors": {
+     "plausible": [
+      "直線往前穿過雙腿",
+      "只走橫向，保持平行"
+     ],
+     "trap": [
+      "直接驅動撞進他們的 frame"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試投入通過，卻遇到對手 knee shield 的強力阻擋，這代表什麼？你該如何反應？",
+    "answer": "遇到 knee shield 的強力阻擋，代表這個通過窗口其實並沒有真正打開。正確的反應是立刻中止這次通過的嘗試，回到 floating，而不是硬要撐過那個 shield。從一個已經投入的位置硬闖過 knee shield，只會浪費體力，而且常常會因為你的重量往前壓進對方 frame 而被掃倒。回到輕盈的 floating 移動，這一次留意 knee shield 放下或轉向偏開的窗口。通常，你中止通過嘗試後的恢復動作本身，就會在另一側創造出一個真正的窗口，因為對方在成功防守之後會鬆懈下來。",
+    "answer_line": "中止，回到 floating",
+    "distractors": {
+     "plausible": [
+      "現在改換成不同的通過技巧",
+      "暫停、重抓 grip 再推"
+     ],
+     "trap": [
+      "硬闖過 knee shield"
+     ]
+    }
+   },
+   {
+    "question": "當你最初的 floating 進攻被防守下來時，要如何把 float passing 銜接到 toreando passing？",
+    "answer": "Float passing 能自然銜接到 toreando，因為兩者都運用站姿的腿部控制 grip。當你 floating 的移動迫使對手必須伸展雙腿去追蹤你的橫向移動時，立刻用強力的 toreando 式推動，把他們的雙腿同時橫向重新導向到一側，同時你繞到另一側。對手已經習慣追蹤你的 floating 移動，所以這個突然的橫向雙腿重新導向，會在他們正在調整時逮住他們。反過來，如果 toreando 的嘗試被防守下來、他們恢復了中線位置，就轉換回 floating，透過移動重新累積壓力。在 floating 的耐心和 toreando 的爆發力之間交替運用，能建立出一套極難持續防守的通過系統。",
+    "answer_line": "重新導向雙腿、toreando、繞步",
+    "distractors": {
+     "plausible": [
+      "重複同樣的 floating 模式",
+      "改用 pressure passing"
+     ],
+     "trap": [
+      "直接從中間硬闖"
+     ]
+    }
+   },
+   {
+    "question": "在你能成功執行 float pass 之前，最關鍵的進入條件是什麼？",
+    "answer": "在開始任何 floating 移動之前，你必須至少對對手的腿有一個牢固的 grip，通常是在膝蓋或腳踝的位置。沒有腿部控制的 grip，橫向的 floating 只是在一個能自由重新調整 guard、插入 hooks 並發動攻擊的人身邊繞圈子而已。這個 grip 提供了連接點，把你的橫向移動轉化成對他們結構的破壞。在還沒先建立 grip 之前就嘗試 float pass，是中階練習者最常見的錯誤之一，他們在確立那個讓移動真正有效的力學連接之前，就已經開始移動了。",
+    "answer_line": "先確立腿部 grip 再移動",
+    "distractors": {
+     "plausible": [
+      "先建立上半身 grip",
+      "先開始繞圈，grip 之後再抓"
+     ],
+     "trap": [
+      "在沒有 grip 的情況下 floating"
+     ]
+    }
+   },
+   {
+    "question": "在 floating 模式快速改變方向時，要如何維持平衡並防止被掃？",
+    "answer": "在改變方向時，維持平衡的方式是讓重量保持在你 base 的中心，膝蓋微彎、髖部維持機動性。在改變方向的當下，短暫地拓寬站姿、降低重心，然後再朝新方向加速。絕對不要在雙腳靠得太近、或其中一腳懸空時改變方向。至少保持一隻手持續與對手的腿維持 grip 連接，這既提供控制，也是你平衡的觸覺參考點。如果你感覺在轉換過程中，重量往任何方向偏移得太多，立刻用空著的那隻手撐地，而不是硬用力量拉回平衡，因為撐地能給你一個穩定的瞬間來重新歸位。",
+    "answer_line": "拓寬站姿、降低髖部、保持 grip",
+    "distractors": {
+     "plausible": [
+      "快速交叉雙腳來換邊",
+      "雙腳併攏加速通過"
+     ],
+     "trap": [
+      "硬用力量拉回平衡，不撐地"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "為什麼防守 float passing 和防守 pressure passing 從根本上就不一樣？",
+    "answer": "對抗 pressure passing 時，防守方用 frame 對抗沉重的體重和驅動力來製造空間。對抗 float passing 時，並沒有沉重的壓力可以用來 frame 對抗，所以防守方必須改為專注在用髖部調整來追蹤通過方移動的橫向動作、透過 grip 和 hooks 維持連接點，並創造出能打亂 floating 節奏的進攻威脅。防守的優先順序，從製造空間轉變成配合移動和維持連接。",
+    "answer_line": "追蹤移動，而非對抗壓力",
+    "distractors": {
+     "plausible": [
+      "用跟對抗 pressure 一樣的 frame 防守",
+      "只專注在上半身 grip"
+     ],
+     "trap": [
+      "被動等待對方施加壓力再 frame"
+     ]
+    }
+   },
+   {
+    "question": "追蹤 float passer 橫向移動最重要的一個身體力學動作是什麼？",
+    "answer": "髖部逃脫（hip escape）以跟隨通過方的方向，是最關鍵的力學動作。你的髖部必須主導所有防守調整，因為它決定了你的雙腿在你和通過方之間的位置。單靠上半身旋轉，無法讓你的 guard 結構跟一個正在繞圈的對手保持對位。透過朝通過方移動方向的那一側做髖部逃脫，你的雙腿會自然維持在他們路徑上的障礙位置。這也是為什麼 float passer 會特別留意防守方髖部停止移動的那一刻，把它當作主要的通過窗口。",
+    "answer_line": "髖部逃脫配合對方移動",
+    "distractors": {
+     "plausible": [
+      "旋轉上半身跟隨",
+      "髖部保持不動，用眼睛追蹤"
+     ],
+     "trap": [
+      "停止髖部移動，硬撐固定"
+     ]
+    }
+   },
+   {
+    "question": "在 float passer 的移動循環中，什麼時候是嘗試掃技的最佳時機？",
+    "answer": "最佳的掃技時機，是在通過方改變方向的那一刻，也就是他們從朝一個方向繞圈轉換到另一個方向的時候。在這個瞬間，他們的雙腳靠攏、base 變窄，體重為了新方向重新分配，而他們的 grip 調整也可能短暫鬆動。在這個轉換時機，用一個順著他們既有動能方向的掃技進攻，能在他們最脆弱的時候逮住他們。在他們穩定繞圈、base 寬、重心平穩的階段嘗試掃技，成功率會低得多。",
+    "answer_line": "在他們改變方向的時候",
+    "distractors": {
+     "plausible": [
+      "在他們穩定繞圈時",
+      "他們剛抓好 grip 之後立刻進攻"
+     ],
+     "trap": [
+      "等他們穩定站定之後再進攻"
+     ]
+    }
+   },
+   {
+    "question": "對手正在 float passing，你完全無法建立任何上半身 grip，這時你最基本可行的防守是什麼？",
+    "answer": "在沒有上半身 grip 的情況下，你最基本可行的防守是用雙腳主動頂住他們的髖部，並持續調整髖部以追蹤他們的移動。把雙腳都放在他們的髖骨上，膝蓋微彎，形成一個能控制距離的推頂 frame。當他們繞圈時，轉動你的髖部，讓雙腳持續對準他們的中線。這能防止他們縮短距離來完成通過。從這個雙腳頂髖的位置，當他們伸手來調整你的腿時，你可以趁機重新建立起對他們袖子或衣領的 grip，把一個求生位置轉換回主動的 guard。",
+    "answer_line": "雙腳頂髖，對準中線",
+    "distractors": {
+     "plausible": [
+      "縮成 turtle 等待撐過去",
+      "抓住他們的腳踝來拖延"
+     ],
+     "trap": [
+      "讓雙腿放鬆，蜷縮防守"
+     ]
+    }
+   },
+   {
+    "question": "當 float passer 從站姿切換到 combat base 時，你應該如何調整你的 guard retention 策略？",
+    "answer": "當通過方降到 combat base 時，他們 floating 的活動範圍會縮小，但距離會拉近。這時你要從距離管理型的防守，轉換成近距離的 retention，插入 knee shield 或脛骨 frame 橫在他們的髖部線上。更積極地建立衣領和袖子的 grip，因為他們現在已經進入你的攻擊範圍內。Combat base 的 floating 比站姿的 floating 更慢、更容易預測，所以你可以用 butterfly hooks 或 lasso guard 創造出他們更難繞開的纏繞控制。他們較低的位置，也讓他們更容易被 collar drag 或 arm drag 攻擊。",
+    "answer_line": "轉近距離：用 knee shield",
+    "distractors": {
+     "plausible": [
+      "維持相同的距離管理型 guard",
+      "推開對方、拉回站姿距離"
+     ],
+     "trap": [
+      "把腿完全伸直、製造空間"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,199 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Frame and Shrimp from S Mount.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "對手用緊密的髖對肩壓力壓住你，你完全做不出 frame 的空間——什麼調整能打開最初的縫隙？",
+        "answer": "用一個短促的向上 bridge（不是完整的 bridge escape）暫時把對手的髖部頂起，在他們的髖與你的肩之間製造出一瞬間的縫隙。你做 frame 的那隻手必須趁 bridge 頂起的當下伸進這個縫隙，而不是等對手沉回去之後才動作。這個 bridge 大概只能爭取到半秒鐘的壓力減輕，但只要時機抓得精準，就足以把你的前臂楔進正確位置。",
+        "answer_line": "短促 bridge，趁頂起瞬間插手",
+        "distractors": {
+          "plausible": [
+            "嘗試完整的 bridge escape",
+            "先推他們的胸口再做 frame"
+          ],
+          "trap": [
+            "等對手放鬆下來"
+          ]
+        }
+      },
+      {
+        "question": "執行 Frame and Shrimp from S Mount 時，最關鍵的髖部移動方向是什麼？",
+        "answer": "把髖部往被困手臂的另一側 shrimp 出去，方向朝著對手的腿和軀幹移動。這個方向能讓你的肩膀與對手的髖部壓力之間拉出最大距離，同時把身體移向能夠插入膝蓋的那一側。往被困手臂那側 shrimp 只會讓你更深陷入對方的關節技設置中，必須完全避免。",
+        "answer_line": "往被困手臂的另一側 shrimp",
+        "distractors": {
+          "plausible": [
+            "往自己頭部方向 shrimp",
+            "直接向上 bridge"
+          ],
+          "trap": [
+            "往被困手臂那側 shrimp"
+          ]
+        }
+      },
+      {
+        "question": "逃脫過程中，對手暫時鬆開你的手腕以重新調整握法——你要如何抓住這個空檔？",
+        "answer": "立刻把被困的手臂拉緊貼向身體，並以最大的決心重新抓回自己的衣領。同時全力爆發式地執行 frame 和 shrimp，因為對手此刻暫時失去了對你手臂的主要控制。這是你最高機率的逃脫時機，通常能爭取到一到兩秒阻力減弱的空檔，之後對方就會重新建立控制。",
+        "answer_line": "重新抓衣領，立刻爆發",
+        "distractors": {
+          "plausible": [
+            "先等更大的縫隙出現",
+            "馬上試著站起來"
+          ],
+          "trap": [
+            "用力把手臂抽出來"
+          ]
+        }
+      },
+      {
+        "question": "在整個逃脫過程中，你被困的手應該保持什麼樣的握法，為什麼？",
+        "answer": "用被困的手抓住自己的衣領或道服前襟，手肘彎曲維持在 90 度以內。這個衣領握法利用道服布料作為結構性的支點，讓對手必須同時克服你的握力和布料的阻力才能把手臂拉直進入 armbar 位置。彎曲手臂的姿勢遠比伸直的手臂難以被攻擊。",
+        "answer_line": "抓自己衣領，手肘彎曲",
+        "distractors": {
+          "plausible": [
+            "改抓對方的袖子",
+            "伸直手臂往外推"
+          ],
+          "trap": [
+            "讓手臂伸直並用來撐地"
+          ]
+        }
+      },
+      {
+        "question": "你的 frame 製造出空間，但對手立刻跟著你的髖部移動並把距離補回來——用什麼連續技術能解決這個問題？",
+        "answer": "在不重新調整 frame 位置的情況下，立刻朝同一個方向再做第二次、第三次 shrimp。連續快速的 shrimp 所累積出的距離，會比對手能跟上的速度更快，因為他們在 S Mount 中狹窄的底座，讓橫向追蹤在機制上非常困難。連續兩到三次快速 shrimp 之後，應該就能打開足夠的空間讓膝蓋插入。",
+        "answer_line": "連續快速 shrimp，同方向",
+        "distractors": {
+          "plausible": [
+            "重新調整 frame，再 shrimp 一次",
+            "改變 shrimp 方向"
+          ],
+          "trap": [
+            "停下來重新抓衣領"
+          ]
+        }
+      },
+      {
+        "question": "你空出來的那隻手應該對準對手的哪個位置做 frame，為什麼這個特定的位置如此關鍵？",
+        "answer": "直接把 frame 放在對手靠近你這側的髂骨（近側髖骨）上，而不是他們的大腿、胸口或上半身。髖骨是他們底座的結構中心，也是重心轉移的起點。在這裡做 frame，能在機制上阻止他們藉由移動髖部來跟上你的 shrimp。如果 frame 放在他們的上半身，他們的髖部仍能獨立調整，完全達不到目的。",
+        "answer_line": "frame 放在近側髖骨上",
+        "distractors": {
+          "plausible": [
+            "frame 放在他們的胸口",
+            "frame 放在他們的近側大腿"
+          ],
+          "trap": [
+            "推對方的遠側肩膀"
+          ]
+        }
+      },
+      {
+        "question": "在嘗試 Frame and Shrimp 逃脫之前，必須具備哪四個條件？",
+        "answer": "第一，被困的手臂必須用衣領握法和彎曲手肘來確保 armbar 防禦。第二，空出來的手必須能夠伸到對手的髖部建立 frame。第三，雙腳必須平踩在地墊上，才能透過蹬腿產生 shrimp 的力量。第四，你必須抓到對手正在調整姿勢或發動攻擊的時機。這四個條件若沒有全部具備就貿然嘗試，逃脫成功率會大幅下降。",
+        "answer_line": "握法、frame、踩地、時機",
+        "distractors": {
+          "plausible": [
+            "只要等對手累了就好",
+            "對手一呼吸就可以動作"
+          ],
+          "trap": [
+            "沒確認握法就直接爆發"
+          ]
+        }
+      },
+      {
+        "question": "如果你的膝蓋插入被擋住，做了多次 shrimp 後仍無法建立 half guard，你的備用計畫是什麼？",
+        "answer": "如果反覆的 shrimp 和插膝嘗試都失敗，趁對手忙著調整以應對你的 shrimp 方向時，改為執行 bridge 類型的逃脫。對手專注於阻止橫向逃脫，往往會讓他們對垂直方向的 bridge 防禦出現破綻。另外，如果已經拉出相當的橫向距離但膝蓋仍插不進去，可以繼續 shrimp 轉向 turtle 姿勢，徹底移除 armbar 的威脅。",
+        "answer_line": "改做 bridge escape 或轉 turtle",
+        "distractors": {
+          "plausible": [
+            "更用力把膝蓋硬塞進去",
+            "坐起來伸手抓握把"
+          ],
+          "trap": [
+            "翻成臉朝下，不管 hooks"
+          ]
+        }
+      },
+      {
+        "question": "相較於標準 mount，Frame and Shrimp 是如何利用 S Mount 特有的結構弱點？",
+        "answer": "S Mount 垂直於身體的角度，讓上位者的底座比標準 mount 胸對胸的正面姿勢要窄。這種窄底座在機制上很難在不犧牲自身穩定性的情況下追蹤橫向的髖部移動。Frame and Shrimp 正是利用 shrimp 製造橫向距離來攻擊這個弱點，這比垂直方向的 bridge 對這種狹窄垂直底座更有效。",
+        "answer_line": "窄底座難以橫向追蹤",
+        "distractors": {
+          "plausible": [
+            "他們的底座怕 bridge",
+            "跟 full mount 是同樣的弱點"
+          ],
+          "trap": [
+            "反覆直接向上 bridge"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手準備嘗試 Frame and Shrimp 逃脫時，最早能察覺到的徵兆是什麼？",
+        "answer": "最早的徵兆通常是他們空出來的手開始伸向你的近側髖部，或是雙腳開始調整成平踩地墊的姿勢。這些準備動作通常會比真正的逃脫早一到兩秒出現，讓你有時間提前收緊控制——把髖部重量壓下去，並更牢牢地控制住他們被困的手臂，搶在 frame 和 shrimp 開始之前。",
+        "answer_line": "空手伸向你的髖部",
+        "distractors": {
+          "plausible": [
+            "他們更用力抓你的衣領",
+            "他們開始推你的胸口"
+          ],
+          "trap": [
+            "等他們開始 shrimp 才反應"
+          ]
+        }
+      },
+      {
+        "question": "當你感覺到對手開始橫向 shrimp 時，應該如何調整自己的重量分配？",
+        "answer": "把重量往前、往下透過髖部壓進他們的肩膀，同時朝他們逃脫的同一方向橫向挪動你的髖部。你的重量應該壓在你的髖部接觸他們肩膀的那個點上，像個追蹤點一樣。避免坐起來或抬起髖部，因為這樣會製造出他們建立 frame、加速逃脫所需要的空間。",
+        "answer_line": "重量壓下，追蹤髖部移動",
+        "distractors": {
+          "plausible": [
+            "坐起來看清楚 shrimp",
+            "用手撐地並往後靠"
+          ],
+          "trap": [
+            "抬起髖部重新調整底座"
+          ]
+        }
+      },
+      {
+        "question": "在逃脫嘗試進行中，什麼時候放棄 S Mount、轉換到其他位置是合適的？",
+        "answer": "如果對手已經製造出足夠空間，讓你垂直的攻擊角度明顯被破壞，但你仍保有上位，這時就該轉換到標準 mount。與其在髖對肩連結已經失去的情況下苦撐一個逐漸瓦解的 S Mount，不如先確保 mount，之後再重新嘗試 S Mount。絕對不要死守一個已經被破壞的 S Mount，否則對手可能趁你掙扎維持不住位置時完成逃脫進入 half guard。",
+        "answer_line": "角度沒了就轉回 mount",
+        "distractors": {
+          "plausible": [
+            "整個退回 guard",
+            "改成 back control"
+          ],
+          "trap": [
+            "死守被破壞的 S Mount 不放"
+          ]
+        }
+      },
+      {
+        "question": "Frame and Shrimp 逃脫會為你的 armbar 攻擊創造出什麼樣具體的空檔？",
+        "answer": "當下位者把空出來的手移過去對你的髖部做 frame 時，他們必須把注意力和身體資源分散在逃脫機制和手臂防禦之間，因而削弱了手臂防禦。如果他們的衣領握法在這個投入的當下稍微鬆動，你就有一個短暫的空檔可以趁他們防禦結構被打破時攻擊 armbar。關鍵在於分辨他們的衣領握法是真的鬆動了，還是故意用鬆動來誘你攻擊 armbar，好藉機拉開逃脫距離。",
+        "answer_line": "衣領握法鬆動就有 armbar 空檔",
+        "distractors": {
+          "plausible": [
+            "他們一做 frame 就立刻攻擊",
+            "不管握法直接攻擊"
+          ],
+          "trap": [
+            "追打明顯的誘餌 armbar"
+          ]
+        }
+      }
+    ]
+  }
+}

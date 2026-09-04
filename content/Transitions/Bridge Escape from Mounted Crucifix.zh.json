@@ -1,0 +1,171 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Mounted Crucifix.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼你必須朝被困手臂那一側 bridge，而不是自由手那一側？",
+    "answer": "朝被困手臂那一側 bridge，能對腿部纏繞造成最大的破壞，因為這會把對方的重心與髖部推離他們控制的錨定點。這個方向正好利用了 crucifix 結構中的力學弱點——負責困住你手臂的那條腿必須持續施壓才能維持控制。若朝反方向 bridge，反而會把纏繞壓得更緊，讓抽手變得更困難，白白浪費爆發的努力。",
+    "answer_line": "朝被困手臂那一側",
+    "distractors": {
+     "plausible": [
+      "朝自由手那一側",
+      "直直往上，不做橫向施力"
+     ],
+     "trap": [
+      "朝反方向，壓得更緊"
+     ]
+    }
+   },
+   {
+    "question": "成功的 bridge 之後，抽手的時間窗大約有多長？",
+    "answer": "抽手的時間窗通常不到一秒——就是 bridge 剛破壞對方平衡、鬆開他們腿部控制的那個瞬間，在對方重新穩住位置之前。正因為這個窗口極其短暫，抽手的動作必須事先規劃好，並且要在 bridge 的同時或緊接著立刻執行，而不是等 bridge 落下穩定後才單獨嘗試。",
+    "answer_line": "不到一秒",
+    "distractors": {
+     "plausible": [
+      "bridge 後幾秒鐘",
+      "好幾秒，慢慢來"
+     ],
+     "trap": [
+      "任何時候都行，等穩定後再抽"
+     ]
+    }
+   },
+   {
+    "question": "你準備 bridge 時，對方發動了勒頸——你要如何調整你的逃脫程序？",
+    "answer": "在投入 bridge 之前，先處理勒頸的威脅。把下巴緊緊收向胸口，肩膀上抬縮小頸部周圍的空隙，並用任何能自由活動的手臂去對抗勒頸的抓握。只有在化解或削弱勒頸威脅之後，才進行 bridge。在勒頸進行中 bridge，反而可能因為脊椎伸展讓下巴上抬，為勒頸的手臂創造更多空間，使降伏更深。",
+    "answer_line": "先化解勒頸",
+    "distractors": {
+     "plausible": [
+      "立刻 bridge，不管勒頸",
+      "先抽手，之後再說"
+     ],
+     "trap": [
+      "用力弓背硬撐過去"
+     ]
+    }
+   },
+   {
+    "question": "從 crucifix 抽出被困手臂之後，你應該立刻做什麼？",
+    "answer": "立刻用剛抽出的手臂在對方髖部或軀幹建立一個 frame，然後把膝蓋插入你與對方之間形成 knee shield。這個從 frame 到 shield 的連續動作，能防止對方重新抓回你的手臂，或對剛解放的肢體展開降伏攻擊。剛抽出的手臂必須直接進入防禦性的結構性 frame——任何延遲都會讓對方有機會重新控制手臂，或攻擊暴露出來的肢體。",
+    "answer_line": "先 frame 手臂，再上 knee shield",
+    "distractors": {
+     "plausible": [
+      "先上 knee shield，之後再 frame",
+      "立刻抓對方的領口"
+     ],
+     "trap": [
+      "把解放的手平貼撐地"
+     ]
+    }
+   },
+   {
+    "question": "當需要多次嘗試 bridge 時，你該如何管理體力？",
+    "answer": "避免連續不斷的爆發性 bridge，因為每一次嘗試都會讓體力呈指數下降。在嘗試之間保持細微持續的髖部動作，防止對方完全穩定下來，但要把真正的爆發力量留給對方重心轉移或發動攻擊的那些時機。每一次 bridge 都應該對準特定的時間窗，而不是隨機亂試。在嘗試之間休息時，專注於位置防守，同時觀察對方接下來的動作，尋找最佳時機。",
+    "answer_line": "小動作，配合時機爆發",
+    "distractors": {
+     "plausible": [
+      "連續爆發式 bridge",
+      "累了就隨機亂 bridge"
+     ],
+     "trap": [
+      "完全靜止不動休息"
+     ]
+    }
+   },
+   {
+    "question": "就身體投入程度而言，成功與失敗的 bridge escape 有什麼區別？",
+    "answer": "成功的 bridge 需要完全的方向性投入，配合最大幅度的髖部伸展與強力朝被困手臂那一側的橫向驅力。猶豫不決、在方向之間搖擺，或髖部沒有完全伸展的 bridge，產生的力量不足以破壞已經建立的 crucifix 控制。上位選手的雙腿形成一種力學上的鎖，只有在正確方向上施加足夠的力量才會鬆開。完全的投入也能確保抽手的時間窗在 bridge 到達頂點時是最寬的。",
+    "answer_line": "完全投入，最大髖部伸展",
+    "distractors": {
+     "plausible": [
+      "只做一半，保留體力",
+      "直直往上 bridge，不做驅力"
+     ],
+     "trap": [
+      "方向猶豫，兩邊都試試"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該接受轉換到 mount 下位，而不是繼續爭取回復 half guard？",
+    "answer": "當你的手臂抽出成功，但無法快速建立 frame 阻止對方重新壓回重心時，就該接受 mount 下位。手臂自由的 mount 下位，明顯優於 mounted crucifix——你重新獲得所有標準的逃脫選項，包括 upa、elbow escape 和 hip escape。若在對方重新建立控制時還繼續硬拚 half guard，可能會冒著再度回到 crucifix 的風險。把握這個位置上的改善，立刻開始標準的 mount 逃脫程序。",
+    "answer_line": "當 frame 來不及建立時",
+    "distractors": {
+     "plausible": [
+      "只有 crucifix 完全破解才接受",
+      "絕不接受，繼續拚 half guard"
+     ],
+     "trap": [
+      "原地不動，等對方累了"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "有哪些主要徵兆能顯示對方即將嘗試 bridge escape？",
+    "answer": "最可靠的徵兆包括：雙腳平貼地面、腳跟拉近臀部；髖部肌肉明顯緊繃、核心啟動；頭部轉向一側顯示 bridge 的方向；呼吸節奏改變顯示正在準備全力一擊；以及任何自由手朝被困手臂那一側移動做準備。及早辨識這些徵兆，能讓你在爆發動作發生之前就主動調整 base，這遠比在 bridge 發動後才被動反應有效得多。",
+    "answer_line": "腳貼地、髖繃緊、頭轉向",
+    "distractors": {
+     "plausible": [
+      "只觀察對方的眼神",
+      "等 bridge 發生了再說"
+     ],
+     "trap": [
+      "忽略徵兆，等 bridge 後再反應"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該放棄 mounted crucifix 控制，改為接受標準 mount？",
+    "answer": "當對方成功抽出一隻手臂，而你無法在不冒著整個位置崩潰風險的情況下重新困住它時，就該轉換到標準 mount。同樣地，如果反覆的 bridge 已經讓你的腿部控制鬆動到需要耗費過多體力才能維持 crucifix，這時把力氣改用在從 mount 進攻上會更划算。維持完整重心控制的標準 mount 仍然值 4 分，並提供多樣的降伏機會，是從已經動搖的 crucifix 退而求其次的堅實選擇。",
+    "answer_line": "手臂已脫困、重新困住風險太高",
+    "distractors": {
+     "plausible": [
+      "只有對方拍降才放棄",
+      "無論如何都要守住 crucifix"
+     ],
+     "trap": [
+      "追著失去的手臂不放，不管 mount"
+     ]
+    }
+   },
+   {
+    "question": "你要如何利用對方的 bridge 嘗試來創造降伏機會？",
+    "answer": "當對方 bridge 時，他們在抽手的過程中經常會暴露手臂，而且因為脊椎伸展、下巴離開胸口，頸部也會變得容易接近。趁對方嘗試抽手時，立刻對暴露的手臂施加 armbar 的壓力，或趁他們下巴上抬的瞬間套入勒頸的手臂。關鍵的時機是在 bridge 到達頂點的那一刻，此時對方最投入於逃脫，也最沒有餘力切換到降伏防守。",
+    "answer_line": "攻擊暴露的手臂或頸部",
+    "distractors": {
+     "plausible": [
+      "等他們完全逃脫再說",
+      "重設位置，重新建立控制"
+     ],
+     "trap": [
+      "放開抓握讓他們 bridge"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到身下有強力的 bridge 正在發動時，最佳的重心分配反應是什麼？",
+    "answer": "立刻放低髖部，把膝蓋擴大形成更穩定的三角形 base。不要撐手撐地，因為這會創造出容易被利用的空間。而是把重心透過骨盆直接壓進對方的腹部。如果 bridge 帶有明顯的橫向力量，稍微把重心朝 bridge 的方向偏移以抵銷力道。目標是像乘浪一樣順著動作走，而不是硬碰硬地對抗，讓你的重心在 bridge 崩潰時自然重新落定。",
+    "answer_line": "放低髖部、擴大 base、不撐手",
+    "distractors": {
+     "plausible": [
+      "撐開雙手求穩定",
+      "站起來重設 base"
+     ],
+     "trap": [
+      "把手平貼撐地"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Seat Belt Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "破解 seat belt control 時，為什麼要先處理肩上那隻手臂，而不是先處理下方那隻手臂？",
+    "answer": "肩上那隻手臂是主要的絞技威脅來源，也是整個 seat belt 結構的關鍵支撐。它創造出向下的斜向力道，與下方手臂的向上力道結合，把整個 grip 鎖死在原位。先破解上方手臂能消除立即的絞技危險，並瓦解這個斜向力道結構，讓下方手臂變得容易處理許多。如果先攻擊下方手臂，絞技的威脅依然存在，斜向結構也依然完整。",
+    "answer_line": "那是正在進行中的絞技威脅",
+    "distractors": {
+     "plausible": [
+      "下方手臂鎖住了整個結構",
+      "下方 grip 較弱，比較好破"
+     ],
+     "trap": [
+      "先清掉下方手臂"
+     ]
+    }
+   },
+   {
+    "question": "對手感覺到你在破 grip，於是立刻收緊 seat belt，並加大胸口壓力——你該如何調整？",
+    "answer": "加入髖部動作來配合破 grip 的動作，而不是單靠手部力量。維持 two-on-one 的 grip 同時執行小幅度的 hip escape，從多個角度同時削弱 seat belt。grip 拉扯加上髖部角度創造的組合，遠比單獨使用其中一種更有效。如果對手大幅收緊，就等待他們下一次重心轉移或發動 submission 的時機，這會暫時削弱他們的 grip 結構，創造出成功率更高的逃脫空檔。",
+    "answer_line": "在破 grip 之外加入 hip escape",
+    "distractors": {
+     "plausible": [
+      "只靠手部力量硬拚",
+      "僵住不動，等對手累"
+     ],
+     "trap": [
+      "完全停止破 grip"
+     ]
+    }
+   },
+   {
+    "question": "嘗試轉成面朝下之前，必須先做的關鍵髖部動作是什麼？",
+    "answer": "一個能在你的背部與對手胸口之間創造出角度分離的 hip escape 或 shrimp。沒有這個髖部角度，你的肩膀會平貼在墊子上，對手的胸口壓力會把肩膀釘死在原地，讓旋轉在任何阻力下都不可能發生。hip escape 會讓你的髖部滑離對手，同時肩膀相對保持不動，創造出完成面朝下轉身所需要的角度槓桿，對抗剩餘的 hook 與 grip 壓力。",
+    "answer_line": "轉面朝下之前先 hip escape",
+    "distractors": {
+     "plausible": [
+      "不做 hip escape 直接轉面朝下",
+      "用推對手胸口的方式創造空間"
+     ],
+     "trap": [
+      "轉身朝向對手"
+     ]
+    }
+   },
+   {
+    "question": "啟動這個逃脫序列的最佳時機窗口是什麼時候？",
+    "answer": "成功率最高的時機出現在背後控制者投入發動 submission 嘗試的時候，尤其是 rear naked choke。當他們放開 seat belt、把絞技那隻手臂滑向頸部時，grip 結構會暫時被破壞。同樣地，當他們調整 hook 或轉移重心來設置攻擊時，他們的控制也會暫時減弱。在這些過渡時刻啟動逃脫，比起在對手完全穩定、沒有進攻時嘗試，成功率能提高 20% 到 30%。",
+    "answer_line": "趁對手攻擊絞技時逃脫",
+    "distractors": {
+     "plausible": [
+      "等對手完全穩定時逃脫",
+      "對手一上 hook 就馬上逃脫"
+     ],
+     "trap": [
+      "在控制最緊的時候逃脫"
+     ]
+    }
+   },
+   {
+    "question": "你成功破了 grip，但無法清掉下方的 hook——你該走哪一條替代路徑？",
+    "answer": "在 seat belt 已破、但下方 hook 仍在的情況下，改為側向逃脫，把髖部往 hook 那一側滑下去，設法從側躺的姿勢面對對手。或者，趁對手上半身控制被破壞的時候，執行 back door escape，把肩胛骨滑過對手的髖部。破掉的 seat belt 只會給你有限的時間窗口，等對手就會重新建立 grip，所以此時必須果斷投入替代方案，而不是繼續硬拚那個 hook。",
+    "answer_line": "側向滑動或 back door escape",
+    "distractors": {
+     "plausible": [
+      "繼續硬拚同一個 hook",
+      "重置位置、重新完整抓 grip"
+     ],
+     "trap": [
+      "轉身直接面對對手"
+     ]
+    }
+   },
+   {
+    "question": "這個逃脫方式和 back door escape，在最佳使用時機上有什麼區別？",
+    "answer": "當對手的 grip 是主要控制手段、hook 可控或已被部分清除時，seat belt 逃脫是最佳選擇。它對高度依賴 harness 結構控制的對手特別有效。當對手的 hook 很深，但 grip 較鬆時，back door escape 是最佳選擇，能讓你做側向滑動。當你能有效破 grip、但髖部無法自由移動時，選 seat belt 逃脫；當你的髖部有活動空間、但對手的 grip 強到難以直接破解時，選 back door escape。",
+    "answer_line": "grip 能拚、髖部卡住時用",
+    "distractors": {
+     "plausible": [
+      "hook 深、grip 鬆時使用",
+      "只對穿 gi 的對手有效"
+     ],
+     "trap": [
+      "技術執行到一半就換逃脫方式"
+     ]
+    }
+   },
+   {
+    "question": "對手跟著你的轉身動作，轉換進入 mount——你的逃脫執行哪裡出了問題？",
+    "answer": "最常見的原因是轉身朝向對手，而不是面朝下轉向 turtle。如果 hook 還部分卡著就轉身朝向對手，等於為上位者鋪好了一條順著你的旋轉進入 mount 的自然路徑。修正方式是確保轉身時胸口朝向墊子、完全面朝下。次要原因是轉身前沒有清掉 hook，因為還卡著的 hook 會在你旋轉時引導對手的腿進入 mount 位置。在開始面朝下轉身之前，至少要先清掉下方的 hook。",
+    "answer_line": "轉錯方向朝向對手，而非遠離",
+    "distractors": {
+     "plausible": [
+      "沒清掉下方的 hook",
+      "序列中轉身太早"
+     ],
+     "trap": [
+      "逃脫過程中完全不轉身"
+     ]
+    }
+   },
+   {
+    "question": "對肩上手臂做 two-on-one 控制時，什麼樣的 grip 配置效果最好？",
+    "answer": "最有效的配置是用靠近你的那隻手以 C-grip 抓住對手的手腕，同時遠側的手在對手手肘附近抓住前臂加強控制。這種雙點控制能為把手臂拉過你身體提供最大的槓桿力量。穿 gi 時，在手腕與手肘處抓袖子能提供更強的控制。避免把手指交扣環繞對手的手臂，因為這會限制你的拉扯方向，一旦最初的破解失敗，也更難轉換到其他 grip。",
+    "answer_line": "C-grip 抓手腕，手肘處加強",
+    "distractors": {
+     "plausible": [
+      "手指交扣環繞手臂",
+      "只抓手腕一個點"
+     ],
+     "trap": [
+      "抓手指而不是手腕"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你感覺到下位者對你肩上的手臂建立 two-on-one grip 時，你的立即反應是什麼？",
+    "answer": "立刻收緊下方手臂的 grip，把它更深地拉過對手身體，同時加大胸口壓力。同時，用受到威脅的肩上手臂嘗試絞技，把前臂往對手頸部推進。這會逼下位者在繼續破 grip 或防守頸部之間做選擇。如果他們持續破 grip，就切換到其他 grip 配置，例如 wrist-on-wrist，或改成抓住對手的遠側肩膀。",
+    "answer_line": "收緊下方手臂，威脅絞技",
+    "distractors": {
+     "plausible": [
+      "立刻把肩上手臂抽出來",
+      "先防守 hook 再顧 grip"
+     ],
+     "trap": [
+      "放開下方手臂重新抓"
+     ]
+    }
+   },
+   {
+    "question": "當下位者開始 shrimp 創造髖部角度時，你該如何反應？",
+    "answer": "立刻跟上他們的髖部動作，讓自己的髖部滑動去配合對手，讓你的胸口與對手背部之間保持零空隙。把你的 hook 壓得更深，防止髖部角度進一步擴大。如果角度變得明顯，可以考慮主動轉換成 body triangle，徹底消除 hip escape 的空間，或開始設置 submission，懲罰對手為了做 hip escape 而必須擺出的手部位置。絕不能讓角度在多次 shrimp 之間持續累積。",
+    "answer_line": "跟著髖部動，把 hook 壓更深",
+    "distractors": {
+     "plausible": [
+      "放鬆 grip 節省體力",
+      "等 shrimp 停下來再說"
+     ],
+     "trap": [
+      "讓角度累積，之後再重新壓制"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你應該主動轉換進 mount，而不是硬撐維持背後控制？",
+    "answer": "當下位者成功破解你肩上的 grip、並開始轉成面朝下時，就該轉換進 mount。這個時候，硬撐維持背後控制的效益已經遞減，因為 grip 結構已經被破壞。順著對手的旋轉、把膝蓋撐過對手的髖部，你就能把一個部分成功的逃脫轉換成 mount，繼續維持你的優勢位置。關鍵的判斷指標，是當你感覺到轉身的動能已經無法單靠 grip 與 hook 壓力阻止的時候。",
+    "answer_line": "順著轉身，撐膝進 mount",
+    "distractors": {
+     "plausible": [
+      "立刻轉換進 mount",
+      "不計代價死守背後控制"
+     ],
+     "trap": [
+      "放開控制，完全重置"
+     ]
+    }
+   },
+   {
+    "question": "你應該為下位者製造什麼樣的兩難，來降低他們逃脫的成功率？",
+    "answer": "逼下位者在防守頸部與拚 grip 之間做選擇。當他們把手從頸部防守移開去拚 grip 時，立刻威脅發動 rear naked choke。當他們優先防守頸部時，就沉穩重量、加強所有控制點。這會創造出一個無解的局面——處理其中一個問題，就會暴露在另一個問題之下。進階的練習者會再疊加 hook 威脅與位置轉換，同時創造出三、四個下位者無法全部解決的問題。",
+    "answer_line": "逼對手在頸防與破 grip 間二選一",
+    "distractors": {
+     "plausible": [
+      "隨時都攻擊頸部",
+      "只專注在破 grip 上"
+     ],
+     "trap": [
+      "讓對手自由選擇，靜觀其變"
+     ]
+    }
+   }
+  ]
+ }
+}

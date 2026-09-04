@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Buggy Choke to Front Headlock.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Buggy Choke 轉換到 Front Headlock 的最佳時機是什麼觸發的？",
+    "answer": "最佳時機是在對手開始朝你勒頸的手臂方向轉身、想要舒緩壓力的時候。這個轉身防禦動作，恰好創造出 Front Headlock 控制所需要的角度與頸部暴露。如果在對手靜止不動或往反方向轉身時嘗試這個轉換，你會失去控制。",
+    "answer_line": "對方朝你的手臂轉身時",
+    "distractors": {
+     "plausible": [
+      "對方朝手臂反方向轉身時",
+      "對方完全放鬆癱軟時"
+     ],
+     "trap": [
+      "你一鎖上勒頸的瞬間"
+     ]
+    }
+   },
+   {
+    "question": "對手剝掉了你深入的衣領抓握，但你還維持著 chin strap 的控制——你該立刻採取什麼行動？",
+    "answer": "立刻開始朝他們的頭部方向繞轉，同時維持 chin strap 的壓力。把這次抓握被剝掉當作轉換的觸發訊號，而不是想重新建立 Buggy Choke 的抓握。只要你立刻行動，chin strap 足以提供完成 Front Headlock 切入所需的控制力。",
+    "answer_line": "繞向頭部，保持 chin strap",
+    "distractors": {
+     "plausible": [
+      "重新建立 Buggy Choke 的抓握",
+      "改用 seatbelt 控制"
+     ],
+     "trap": [
+      "放開 chin strap，重新抓衣領"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，導致完全失去控制的關鍵錯誤是什麼？",
+    "answer": "在建立起 chin strap 或 collar tie 這類次要的頭部控制之前，就先放開了深入的衣領抓握。轉換過程中如果沒有一個錨定點，對手就會完全逃脫。務必在放開主要抓握之前，先確保次要控制已經建立好。",
+    "answer_line": "沒控制好頭部就先放衣領",
+    "distractors": {
+     "plausible": [
+      "太早放開 chin strap",
+      "繞轉時遠離對方頭部"
+     ],
+     "trap": [
+      "放開所有抓握重新開始"
+     ]
+    }
+   },
+   {
+    "question": "從 Buggy Choke 轉換到 Front Headlock 的位置時，你的重心分布應該如何改變？",
+    "answer": "在 Buggy Choke 時，重心是垂直往下壓在對手的背部與近側髖部。轉到 Front Headlock 時，重心要改成朝對手的肩膀方向斜向下壓，同時髖部往外 sprawl，製造出垂直於對方身體的壓力。這個轉換就是從垂直施壓轉為斜向施壓。",
+    "answer_line": "從垂直壓力轉為斜向壓力",
+    "distractors": {
+     "plausible": [
+      "把重心移到他們的髖部上",
+      "保持重心直直往下壓背部"
+     ],
+     "trap": [
+      "抬起重心以便更快繞轉"
+     ]
+    }
+   },
+   {
+    "question": "轉換過程中，對手用力伸出遠側手臂撐地——你該如何調整？",
+    "answer": "把這隻撐地的手臂視為 crucifix 或 arm drag 的機會。可以用雙腿困住伸出的那隻手臂、同時維持頭部控制以切入 crucifix；或是放棄追求 Front Headlock，改做 arm drag 來暴露他們的背後。這個防禦性的撐地動作，反而創造出新的進攻路線。",
+    "answer_line": "攻擊 crucifix 或做 arm drag",
+    "distractors": {
+     "plausible": [
+      "更用力硬做 Front Headlock",
+      "立刻改打 guillotine"
+     ],
+     "trap": [
+      "用手去追撐地的那隻手臂"
+     ]
+    }
+   },
+   {
+    "question": "你繞轉的方向和對手轉身的方向之間有什麼關係？",
+    "answer": "永遠朝對手的頭部方向繞轉，跟他們轉身的方向一致。也就是說，如果他們往左轉，你就往左繞著他們的頭部走。如果朝相反方向繞轉，你會繞到他們身後卻沒有頭部控制，失去位置上的優勢。",
+    "answer_line": "繞轉方向與轉身方向一致",
+    "distractors": {
+     "plausible": [
+      "朝轉身的相反方向繞轉",
+      "朝他們遠側髖部繞轉"
+     ],
+     "trap": [
+      "站著不動，讓他們自己轉"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候應該直接把這個轉換打成 guillotine，而不是先建立 Front Headlock？",
+    "answer": "當對手在轉身過程中把頭壓低時，就直接轉為 guillotine，因為這會立刻創造出 arm-in 或 high elbow guillotine 的機會。頭部壓低的姿勢，讓 guillotine 的成功率比先建立 Front Headlock 再進攻要高。",
+    "answer_line": "對方轉身時把頭壓低",
+    "distractors": {
+     "plausible": [
+      "對方伸出遠側手臂時",
+      "衣領抓握被剝掉時"
+     ],
+     "trap": [
+      "對方一轉身就立刻轉換"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換的 no-gi 版本與 gi 版本有什麼不同？",
+    "answer": "在 no-gi 中，collar tie 取代了衣領抓握，成為次要的控制點。因為沒有衣料可以抓，collar tie 在整個轉換過程中必須維持緊貼。動作機制本身不變，但因為沒有被動的布料控制可依靠，抓握的穩固就需要對頸部施加更主動的壓力。",
+    "answer_line": "collar tie 取代衣領抓握",
+    "distractors": {
+     "plausible": [
+      "動作機制完全改變",
+      "完全省略次要控制"
+     ],
+     "trap": [
+      "抓握放鬆，不需要布料"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換的手臂抽出階段，必須維持什麼樣的抓握配置？",
+    "answer": "在手臂抽出的階段，你在對手頸部近側的 chin strap 或 collar tie 抓握必須牢牢固定住。當穿插的那隻手臂從腋下抽出時，這個抓握就是唯一的錨定點。如果沒有這個抓握，抽手臂的瞬間就會出現控制的空檔，讓對手有機會逃回 turtle 或直接 pull guard。",
+    "answer_line": "鎖住 chin strap／collar tie",
+    "distractors": {
+     "plausible": [
+      "改抓遠側手臂",
+      "放開抓握以便更快穿插"
+     ],
+     "trap": [
+      "短暫放開後再重新抓"
+     ]
+    }
+   },
+   {
+    "question": "如果 Front Headlock 被擋下，對手開始回收 turtle 姿勢，你該接續什麼樣的連續攻擊？",
+    "answer": "如果 Front Headlock 沒能建立起來，立刻根據對手的姿勢重新評估。如果他們縮回緊密的 turtle、下巴內收，就重新穿插嘗試新的 Buggy Choke，或是轉為 seatbelt 控制準備 back take。如果他們伸出一隻手臂，就攻擊 crucifix。這條連鎖攻擊絕不會回到中立狀態——每一個防禦姿勢都會揭露 turtle 攻擊系統中新的切入點。",
+    "answer_line": "重新穿插勒頸或做 seatbelt back take",
+    "distractors": {
+     "plausible": [
+      "重置回中立的 turtle 位置",
+      "永遠硬要做出 Front Headlock"
+     ],
+     "trap": [
+      "放棄攻擊，站起來"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Buggy Choke 轉換到 Front Headlock 的過程中，成功率最高的防禦時機是什麼時候？",
+    "answer": "成功率最高的時機，是在攻擊者從腋下放開深入穿插的手臂、但還沒完全建立起 Front Headlock 的 gable grip 之間的抓握交換階段。在這段短暫的期間，攻擊者的控制力處於絕對最弱的狀態，因為他們正處於兩種抓握配置之間。這個時候用爆發性的動作或剝除抓握，可以讓 Front Headlock 永遠無法成形。",
+    "answer_line": "手臂放開到 gable grip 建立之間",
+    "distractors": {
+     "plausible": [
+      "轉身動作剛開始的瞬間",
+      "Front Headlock 鎖定之後"
+     ],
+     "trap": [
+      "還在 Buggy Choke 底下的時候"
+     ]
+    }
+   },
+   {
+    "question": "攻擊者放開 Buggy Choke 穿插的手臂後，開始朝你的頭部繞轉——你該立刻做出什麼反應？",
+    "answer": "立刻朝相反方向繞轉，同時用雙手剝除剩下的 chin strap 或 collar tie 抓握。反向繞轉會製造出角度上的分離，讓攻擊者更難抵達 Front Headlock 的角度。如果成功剝除抓握，你就能回到中立的 turtle，擁有完整的逃脫選項；就算沒成功，反向繞轉仍然能拖延 Front Headlock 的建立，並可能製造出混戰的機會。",
+    "answer_line": "反向繞轉，剝除抓握",
+    "distractors": {
+     "plausible": [
+      "縮緊 turtle 等待",
+      "朝同方向繞轉"
+     ],
+     "trap": [
+      "伸出遠側手臂阻擋"
+     ]
+    }
+   },
+   {
+    "question": "為什麼用轉身來防禦 Buggy Choke，同時卻也是在幫 Front Headlock 的切入鋪路？",
+    "answer": "用來舒緩 Buggy Choke 壓力的轉身動作，會讓你的身體轉向部分背對攻擊者，而這正是他們建立 Front Headlock 控制所需要的角度。你的轉身會暴露頸部側面，並讓攻擊者的繞轉路線直接對準你的頭部。這也是為什麼你必須在轉身的同時準備好次要防禦——轉身解決了一個問題，但如果你沒有預料到後續的轉換，就會製造出另一個問題。",
+    "answer_line": "轉身把脖子暴露給對方角度",
+    "distractors": {
+     "plausible": [
+      "轉身只是為了舒緩壓力",
+      "轉身能拉開距離逃脫"
+     ],
+     "trap": [
+      "轉身就完全解決了防禦問題"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到攻擊者的胸口重心正從你的背部移向你的近側肩膀——這代表什麼訊號，你該如何回應？",
+    "answer": "這個重心轉移代表攻擊正從 Buggy Choke 的垂直壓力轉換成 Front Headlock 的斜向壓力，攻擊者正從你身後移動到與你身體垂直的位置。你應該立刻用近側手臂架 frame 頂住他們的肩膀，防止他們把斜向的角度壓穩，同時做 sit out 或站起來。一旦這個斜向壓力完全建立，逃脫就會困難得多。",
+    "answer_line": "架住肩膀，立刻 sit out",
+    "distractors": {
+     "plausible": [
+      "等壓力穩定下來",
+      "直接往回頂"
+     ],
+     "trap": [
+      "放鬆接受這個位置"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候接受處於 Front Headlock 下位，會比激烈對抗這個轉換更好？",
+    "answer": "接受 Front Headlock 下位很少是最佳選擇，但當你的剝除抓握與逃脫嘗試都失敗、攻擊者已經用雙手鞏固了強力的頭部控制時，這就會變成損失最小的選項。在這種情況下，繼續掙扎只會浪費體力，還可能進一步暴露你的頸部。這時應該調整成標準的 Front Headlock 防禦姿勢：下巴內收、用手對抗勒頸的手臂，按照標準的 Front Headlock 逃脫程序來處理，而不是繼續打一場已經輸掉的轉換戰。",
+    "answer_line": "逃脫失敗、頭部已被鞏固控制時",
+    "distractors": {
+     "plausible": [
+      "轉換剛開始的當下",
+      "只要開始感到疲累時"
+     ],
+     "trap": [
+      "絕不接受，永遠持續對抗"
+     ]
+    }
+   }
+  ]
+ }
+}

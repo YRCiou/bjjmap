@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Buggy Choke to Side Control 轉換的主要目標是什麼？",
+    "answer": "主要目標是把失敗或被防守掉的 Buggy Choke 嘗試轉換成具支配性的 pass 位置，而不是退回中立位置。這確保了即使 submission 本身被防守下來，Buggy Choke 的位置依然具有威脅性，讓對手陷入兩難：不管接受 choke 還是成功防守，都會落於下風。",
+    "answer_line": "Pass 到 side control，而非回中立位",
+    "distractors": {
+     "plausible": [
+      "回到中立位置",
+      "硬撐著把 choke 完成"
+     ],
+     "trap": [
+      "放棄位置直接站起來"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你該察覺轉換到 side control 比繼續嘗試 choke 更好？",
+    "answer": "當對手把你的 grip 剝到很淺、恢復了明顯的 posture，或建立起能阻止 choke 壓力繼續推進的 frame 時，就該轉換。一般來說，如果搶 grip 纏鬥了 2-3 秒都沒有改善你的位置，轉換就會比硬撐 choke 更有勝算。判斷的關鍵時刻是：對手的防守已經生效，但他的 hip 位置仍然是破綻。",
+    "answer_line": "防守到位，但 hip 仍是破綻",
+    "distractors": {
+     "plausible": [
+      "等對手完全恢復 guard",
+      "grip 一斷馬上切換"
+     ],
+     "trap": [
+      "一直硬磨 choke 下去"
+     ]
+    }
+   },
+   {
+    "question": "放開 Buggy Choke 的 grip 時，必須立刻建立的關鍵控制是什麼？",
+    "answer": "一放開穿繞的手臂，就必須立刻建立控制對手遠側 hip 的 underhook。這個控制能阻止對手轉身面向你來恢復 guard。如果沒有立即控制住 hip，對手就能利用 grip 轉換的空檔恢復防守 posture，或坐起來搶回 guard。",
+    "answer_line": "先 underhook 遠側 hip",
+    "distractors": {
+     "plausible": [
+      "放開 grip 前先做 crossface",
+      "先控制頭部"
+     ],
+     "trap": [
+      "兩個 grip 同時放開"
+     ]
+    }
+   },
+   {
+    "question": "當你放開 Buggy Choke 的 grip 時，對手開始坐起來搶 guard——你該如何調整？",
+    "answer": "改成搶 back take，而不是硬轉 side control。對手坐起來的動作會讓 hip 完全暴露，正好方便你插入 hook。跟著他的 hip 動作走，保持 underhook，並利用他的動能建立 back control。在對手積極搶回 guard 時硬要轉 side control，勝算反而低於接受這個 back take 的機會。",
+    "answer_line": "跟著對手 hip，搶 back",
+    "distractors": {
+     "plausible": [
+      "還是硬轉 side control",
+      "放開 underhook 重新來過"
+     ],
+     "trap": [
+      "再去搶 collar grip"
+     ]
+    }
+   },
+   {
+    "question": "在整個轉換過程中，胸口的壓力扮演什麼角色？",
+    "answer": "在整個轉換過程中，胸口壓力必須全程維持，直到 crossface 和 underhook 都完全鎖定之前都不能減輕。這股壓力能阻止對手製造空間來恢復 guard、坐出、或逃到站立。壓力的施加點會從 Buggy Choke 時的對手背部，轉移到 side control 時的肩部區塊，但在轉換過程中絕不能鬆開。",
+    "answer_line": "整個轉換過程都保持沉重",
+    "distractors": {
+     "plausible": [
+      "換 grip 時放輕壓力",
+      "做完 crossface 後才加重"
+     ],
+     "trap": [
+      "抬起胸口看 hip 位置"
+     ]
+    }
+   },
+   {
+    "question": "就控制功能而言，crossface 和你原本的 collar grip 有什麼不同？",
+    "answer": "Collar grip 主要是對頸部製造 choke 壓力。Crossface 則是用你的肩胛骨頂住對手下巴，把他的臉推開，藉此控制對手的脊椎。這能阻止他轉身面向你，否則他就能恢復 guard。Crossface 處理的是位置控制，collar grip 處理的是 submission 威脅——功能不同，所需的擺位也不同。",
+    "answer_line": "Crossface 控制脊椎，不是頸部",
+    "distractors": {
+     "plausible": [
+      "Crossface 也能勒頸",
+      "Collar grip 控制脊椎"
+     ],
+     "trap": [
+      "放掉 crossface 重新抓 collar"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換中鞏固 side control 時，最理想的 hip 角度是什麼？",
+    "answer": "你的 hip 應該與對手的脊椎呈垂直，胸口貼住對手的胸/肩部區域。這個垂直角度能讓壓力最大化，用靠近對手的那隻膝蓋擋住他的 hip escape，並讓你進入標準 side control 進攻的擺位。角度偏向對手頭部會在 hip 處產生空間；偏向對手 hip 則會在肩部產生空間——兩者都會降低控制力。",
+    "answer_line": "Hip 垂直，胸貼胸",
+    "distractors": {
+     "plausible": [
+      "Hip 偏向頭部",
+      "Hip 偏向腿部"
+     ],
+     "trap": [
+      "Hip 與對手脊椎平行"
+     ]
+    }
+   },
+   {
+    "question": "當你繞行到 side control 時，對手在你的 hip 上做出 frame——你有哪些選擇？",
+    "answer": "保持 underhook 控制，用 knee cut 穿過對手的 frame，或用 leg weave 技巧完成 pass。Underhook 能阻止對手的 frame 演變成完整的 guard 恢復。另一個選項：如果對手的 frame 已經投入很深，就換方向，往對手沒有建立 frame 的那一側 pass。不要放棄 pass 的嘗試——改用具體的 passing 技巧繼續進攻。",
+    "answer_line": "保持 underhook，knee cut 或 weave",
+    "distractors": {
+     "plausible": [
+      "放開 underhook 去清 frame",
+      "撤退重新進攻 choke"
+     ],
+     "trap": [
+      "放棄 pass，回到中立位"
+     ]
+    }
+   },
+   {
+    "question": "從 choke 轉換到 pass 時，什麼樣的 grip 轉換順序成功率最高？",
+    "answer": "先放開穿繞的手臂，立刻在遠側 hip 建立 underhook，因為這是阻止對手恢復 guard 的關鍵控制。之後才把原本抓 collar 的手轉成 crossface。這個順序能確保在脆弱的 grip 轉換空檔中，先鎖住最重要的控制點。順序顛倒會讓 hip 失去控制，讓對手在你建立位置優勢之前就轉身恢復 guard。",
+    "answer_line": "先 underhook 遠側 hip，再做 crossface",
+    "distractors": {
+     "plausible": [
+      "先做 crossface，再 underhook 遠側",
+      "保留穿繞手臂，抓 collar"
+     ],
+     "trap": [
+      "放開所有 grip，直接跳 mount"
+     ]
+    }
+   },
+   {
+    "question": "對手保持緊密的 turtle posture，但你感覺 choke 已經無法繼續推進——你應該立刻轉換，還是繼續處理 choke？",
+    "answer": "一旦察覺 choke 已經停滯，就要立刻轉換。繼續硬撐一個停滯的 choke 只會消耗握力和體力，還給對手時間發展逃脫計畫。轉換最有效的時機，是在你的身體壓力依然沉重、而對手的防守注意力仍集中在 choke 威脅而非恢復 guard 時，果斷執行。拖延轉換會讓對手把防守焦點轉移，並準備反擊動作。",
+    "answer_line": "立刻轉換",
+    "distractors": {
+     "plausible": [
+      "繼續硬拚 choke",
+      "等對手體力耗盡"
+     ],
+     "trap": [
+      "重新抓 grip，重啟 choke"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Buggy Choke to Side Control 這個轉換中，關鍵的防守空檔是什麼時候？",
+    "answer": "關鍵空檔發生在 grip 轉換階段，也就是進攻方放開 choke grip、準備建立 pass 控制的時候。這個空檔通常只有 1-2 秒，也是進攻方壓力最不穩固的時刻——他穿繞的手臂正在抽出、hip 控制還沒建立，胸口壓力也可能暫時偏移。這是製造動作、插入 knee shield，或嘗試恢復 guard 的最高勝算時機。",
+    "answer_line": "Grip 轉換時的 1-2 秒",
+    "distractors": {
+     "plausible": [
+      "Crossface 鎖定之後",
+      "Side control 建立之後"
+     ],
+     "trap": [
+      "Choke 剛鎖上的那一刻"
+     ]
+    }
+   },
+   {
+    "question": "對手放開 collar grip，你感覺到他的手臂正朝你下巴移動準備做 crossface——你該立刻做出什麼反應？",
+    "answer": "立刻用靠近的那隻前臂對著對手來襲的肩膀做 frame，阻止 crossface 深深卡住。同時把內側的膝蓋頂過對手的 hip 線，在他來得及擺出垂直角度前插入 knee shield。Crossface 是阻止你從 side control 恢復 guard 的主要機制，所以提早擋住它非常關鍵。如果讓 crossface 卡穩，你轉身面向對手的能力會大幅下降。",
+    "answer_line": "Frame 住肩膀，插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "轉身背對，暴露背部",
+      "先把對手的頭壓下去"
+     ],
+     "trap": [
+      "抓住對手 collar 拖延時間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼恢復 half guard 在對抗這個轉換時，算是成功的防守結果？",
+    "answer": "Half guard 提供了完整的進攻與防守體系，包括 sweep、back take，以及在完全被壓制的 side control 之下無法使用的 guard 恢復選項。從 half guard，防守方能用 knee shield 管理距離、靠 underhook 爭奪位置優勢，並擁有多條 sweep 路線。Side control 下位的進攻選項少得多，逃脫也需要耗費更多體力。在轉換過程中恢復 half guard，遠比讓對手完全鞏固 side control 要好得多。",
+    "answer_line": "保留 sweep 和 back take 的選項",
+    "distractors": {
+     "plausible": [
+      "跟 side control 下位選項一樣",
+      "保證能完全恢復 guard"
+     ],
+     "trap": [
+      "放棄 hook 去搶 leg lock"
+     ]
+    }
+   },
+   {
+    "question": "在防守這個轉換時，什麼時候該嘗試 granby roll，什麼時候該坐起來搶 guard？",
+    "answer": "當 grip 轉換過程中胸口壓力明顯減輕，且你有空間旋轉、對手又跟不上時，就嘗試 granby roll。當進攻方壓力仍然沉重、但他的 grip 配置正在轉換時，就坐起來搶 guard——這個坐起動作順著重力走，需要的空間也比 granby roll 少。一般來說，當進攻方仍保持身體接觸時，坐起搶 guard 的勝算較高；而當壓力出現片刻空隙、拉出距離時，granby roll 效果較好。要根據轉換過程中你實際感受到的壓力來選擇。",
+    "answer_line": "壓力變輕時就 roll",
+    "distractors": {
+     "plausible": [
+      "永遠先坐起搶 guard",
+      "grip 一斷就馬上 granby"
+     ],
+     "trap": [
+      "翻成趴地逃脫"
+     ]
+    }
+   },
+   {
+    "question": "對手已經在你遠側 hip 建立 underhook，但還沒完成 crossface——你最好的防守選項是什麼？",
+    "answer": "積極用 frame 頂住對手準備做 crossface 的肩膀，阻止它推過你的下巴，同時設法把靠近對手的膝蓋頂過他的 hip 線，做出 knee shield half guard。既然 underhook 已經被建立，完全恢復 turtle 的機率不高，所以你的目標要轉為把位置損害降到最低——恢復 half guard，而不是停留在 turtle。插入 knee shield 加上擋住 crossface，能讓你在對手完全穩定 pass 位置後，擁有最好的防守結構可以運作。",
+    "answer_line": "Frame 住 crossface，插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "嘗試完全恢復 turtle",
+      "推開對手站起來"
+     ],
+     "trap": [
+      "抓住對手遠側 collar"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Buggy Choke to Side Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

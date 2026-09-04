@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Throw from Standing Rear Clinch.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在從 standing rear clinch 發動任何反擊摔法之前，最關鍵的機制要求是什麼？",
+    "answer": "最關鍵的要求是降低重心，讓你的髖部低於對手的髖部連線。這個高度變化製造出摔法運作所需的支點。如果沒有低於對手的重心，你就無法產生足夠的機制優勢來改變他們質量的方向，摔法就會變成一場你很可能會輸給堅定的 rear clinch 控制者的力量對抗。",
+    "answer_line": "重心降到對方髖部以下",
+    "distractors": {
+     "plausible": [
+      "先破解對方的 grip",
+      "轉肩製造角度脫離"
+     ],
+     "trap": [
+      "站得更高以取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "對手用緊密的 body lock 加上強力的向前壓力壓在你背上——哪種摔法變化的成功機率最高？",
+    "answer": "對付緊密的 body lock 加上向前壓力，lateral drop 的成功機率最高。鎖死的 grip 意味著對手在摔的過程中無法撐地或分離，而他們的向前壓力正好提供了動能來源。降低重心，控制住他們扣緊的雙手，並爆發性地 sit through 向一側。他們自己的 body lock 反而成為把他們拉過摔法弧線的機制，把他們的控制力量轉換成你摔法的槓桿。",
+    "answer_line": "Lateral drop，sit through",
+    "distractors": {
+     "plausible": [
+      "髖部旋轉摔",
+      "配合腿部阻擋的 sacrifice throw"
+     ],
+     "trap": [
+      "嘗試扳開鎖死的 grip"
+     ]
+    }
+   },
+   {
+    "question": "為什麼半調子地嘗試反擊摔法，比全力投入或完全不出手都更危險？",
+    "answer": "半調子的投入會造成最糟的結果，因為你已經犧牲了自己站立時的 base 與防守框架，卻沒有產生足夠的力量完成摔法。對手維持住他們的背後角度與 grip，而你卻自願把自己置於更低、更脆弱的位置。這會加速他們從 standing rear clinch 轉換成地面上有 hook 的 back control，而那是遠比你一開始所在的 standing clinch 更差的防守位置。",
+    "answer_line": "讓對方鎖住地面的 hook",
+    "distractors": {
+     "plausible": [
+      "只是白白浪費力氣",
+      "只會提前洩漏摔法意圖"
+     ],
+     "trap": [
+      "仍然比全力投入更安全"
+     ]
+    }
+   },
+   {
+    "question": "你為了 hip throw 開始降低重心時，對手開始把髖部往後 sprawl——你該如何調整？",
+    "answer": "立刻放棄 hip throw，把雙手撐地防止自己被壓趴到墊子上。Sprawl 消除了驅動 hip throw 所需的向前壓力，讓摔法在機制上無法完成。改用能順著向下壓力而非對抗它的 sit-out 或 Peterson Roll 逃脫。或者，如果 sprawl 幅度較淺，可以改為使用 sacrifice throw 的變化，利用這股向下的力量作為摔法機制，而不需要依賴向前的動能。",
+    "answer_line": "放棄，撐手，sit-out",
+    "distractors": {
+     "plausible": [
+      "硬頂過 sprawl",
+      "改用 lateral drop"
+     ],
+     "trap": [
+      "強行完成髖部旋轉"
+     ]
+    }
+   },
+   {
+    "question": "發動任何反擊摔法之前必須建立哪種 grip，這個 grip 為什麼重要？",
+    "answer": "摔之前你必須至少控制住對手的一隻手臂或他們扣緊的雙手。這個 grip 有三個關鍵作用：防止對手用空出的手撐地阻止旋轉；透過讓對手與你的旋轉弧線保持連結來固定摔法方向；並在轉換過程中最脆弱的階段防範 choke 攻擊。沒有這個 grip 控制，摔法的成功率會大幅下降，因為對手可以直接伸出手臂中止旋轉。",
+    "answer_line": "控制一隻手臂或雙手",
+    "distractors": {
+     "plausible": [
+      "建立領口 tie",
+      "抓住他們遠側的腳踝"
+     ],
+     "trap": [
+      "放開 grip 以求動作更快"
+     ]
+    }
+   },
+   {
+    "question": "成功完成反擊摔法落地後，最常見導致練習者失去位置優勢的錯誤是什麼？",
+    "answer": "摔法落地後最常見的錯誤，是落地時就放開 grip 控制。練習者把摔法與建立 mount 當成兩個獨立的技巧，而不是一個連續的動作序列。當落地時 grip 被放開，對手就有機會 scramble 到 turtle、用框架重建 guard，或從地面重新建立 back control。修正方式是把整個「摔法到 mount」的序列當成一個單一動作模式來反覆練習，全程維持 grip，並在做任何 grip 調整之前先建立好 mount。",
+    "answer_line": "落地時放開了 grip",
+    "distractors": {
+     "plausible": [
+      "太急著衝去 mount",
+      "沒有調整腳的位置"
+     ],
+     "trap": [
+      "立刻追求 submission"
+     ]
+    }
+   },
+   {
+    "question": "當對手維持 rear clinch、把重心坐回自己的髖部上時，你要如何激發出反擊摔法所需的向前壓力？",
+    "answer": "發動一次逼真的 grip-fighting 逃脫嘗試，或站立中的假動作切換，迫使對手加強向前壓力以維持控制。當他們向前壓以阻止你逃脫時，他們的重量會壓上你的背，製造出摔法所需的機制條件。關鍵是讓假逃脫足夠逼真以誘發向前驅動的反應，同時保持足夠的冷靜，能在對手向前投入的當下立刻從假逃脫轉換成摔法執行。",
+    "answer_line": "假裝逃脫誘出對方壓力",
+    "distractors": {
+     "plausible": [
+      "直接向他們推進",
+      "等待他們先進攻"
+     ],
+     "trap": [
+      "猛拉對方使其失衡"
+     ]
+    }
+   },
+   {
+    "question": "面對在 standing rear clinch 中明顯較重的對手，你應該優先選擇哪種摔法變化，為什麼？",
+    "answer": "Sacrifice throw（tani otoshi 風格）對付較重的對手最有效，因為它不需要抬起或用髖部承載他們的質量。相反地，你突然放低自己的體重，同時阻擋他們遠側的腿，製造出一個利用重力而非肌肉力量把他們摔過你身體的支點。體重差異對 sacrifice throw 而言反而是一種優勢，因為較重的對手擁有更多可以被改變方向的動能，而一旦他們的 base 被腿部阻擋與你突然降低的重心破壞，就更難恢復平衡。",
+    "answer_line": "Sacrifice throw，擋遠側腿",
+    "distractors": {
+     "plausible": [
+      "用 hip throw 取得槓桿",
+      "側向的 lateral drop"
+     ],
+     "trap": [
+      "嘗試用蠻力硬抬"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 standing rear clinch 中，反擊摔法即將發動時，最早能察覺的跡象是什麼？",
+    "answer": "最早的跡象是下位者深深彎曲膝蓋以降低重心。這個高度變化是每一種摔法變化的機制前提，發生在任何旋轉或方向性投入之前。當你感覺到對手的髖部在你重量壓在他們背上時低於你的髖部連線，很可能正在裝填摔法。這是你透過把自己的髖部坐回去來預防的時機窗口。",
+    "answer_line": "對方膝蓋彎曲，重心下降",
+    "distractors": {
+     "plausible": [
+      "他們迅速收緊 grip",
+      "他們把腳站得更寬"
+     ],
+     "trap": [
+      "他們頭往前傾"
+     ]
+    }
+   },
+   {
+    "question": "為什麼維持髖部偏移角度是防範反擊摔法最有效的預防性防守？",
+    "answer": "髖部偏移角度（大約偏向一側 45 度，而不是正對後方）能防止下位者製造出單一乾淨的摔法支點。大多數摔法變化都需要沿著一條中央軸線承載對手的重量，而偏移會打亂這個對齊。Lateral drop 需要重量正好在背後才能 sit through，hip throw 需要對手重心居中才能旋轉，sacrifice throw 則需要向前的動能。偏移角度同時破壞了這三種變化的起手方式。",
+    "answer_line": "同時破壞所有摔法的支點",
+    "distractors": {
+     "plausible": [
+      "讓對方更難抓 grip",
+      "讓重量離開對方的髖部"
+     ],
+     "trap": [
+      "正對對方以取得更多力量"
+     ]
+    }
+   },
+   {
+    "question": "如果你無法阻止摔法、將被摔倒地面，落地過程中你的防守優先事項應該是什麼？",
+    "answer": "在無法避免的摔法中，你的優先事項是在整個落地過程中維持胸貼背的連結，並保持 hook 與 seatbelt 完好。接受被摔倒，但確保你落地時進入的是地面版本的 back control，而不是完全失去位置優勢。收緊下巴，讓你的 hook 持續向內驅動，並在衝擊過程中維持你的 seatbelt grip。落地時處於地面的 back control，儘管被摔了，仍然是保留大部分優勢的高度主導位置。",
+    "answer_line": "鎖住 seatbelt 與 hook",
+    "distractors": {
+     "plausible": [
+      "收身滾開",
+      "用手臂撐住阻止跌落"
+     ],
+     "trap": [
+      "放手以保護頭部"
+     ]
+    }
+   },
+   {
+    "question": "對手似乎發動了反擊摔法，但立刻切換成反方向的 standing switch 逃脫——你該如何應對？",
+    "answer": "這是常見的組合技，摔法假動作把你的重心引向後方，為 switch 製造出空隙。如果你在投入摔法防守後才察覺到 switch，立刻反轉你的髖部方向，重新向前驅動壓力以阻止 switch 完成。關鍵是不要過度投入任何單一方向的防守。讓你的 base 保持足夠寬，這樣你就能在不失去平衡的情況下把壓力改向任一方向。以你的胸口連結作為不變的基準，而你的髖部角度則應保持可調整。",
+    "answer_line": "反轉髖部，重新前壓",
+    "distractors": {
+     "plausible": [
+      "更用力投入摔法防守",
+      "加寬 base 並靜止不動"
+     ],
+     "trap": [
+      "追著 switch 的方向跑"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 open guard 發動 sweep 時，有哪三個主要跡象顯示對手正準備進攻？",
+    "answer": "三個主要跡象是：(1) grip 變化，對手在你的袖口、領口或姿勢上建立更強的控制；(2) 髖部與肩膀的移動，對手開始製造角度或把髖部抬離地面；(3) 你自己的 posture 被往前破壞或被拉向特定方向，顯示他們正在裝填 sweep 的機制。進階練習者也能察覺到明顯動作發生前那些細微的重心轉移與張力變化。",
+    "answer_line": "Grip、髖部轉移、posture 被破",
+    "distractors": {
+     "plausible": [
+      "只觀察他們的髖部動作",
+      "等他們掃完再反應"
+     ],
+     "trap": [
+      "故意讓自己的 posture 被破壞"
+     ]
+    }
+   },
+   {
+    "question": "在防守 butterfly sweep 時，為什麼把胸口壓低並把髖部往後 sprawl，會比單純加寬 base 更有效？",
+    "answer": "把胸口壓低並 sprawl，攻擊的是 butterfly sweep 依賴用 hook 把你的髖部抬高、同時把你的上半身往前拉的機制原理。把胸口壓向對手的臉與上胸並把髖部往後 sprawl，會製造出一個他們的 hook 無法克服的向下壓力向量，同時拉大你的重心與對方抬升力量之間的距離。單純加寬 base 會讓你的髖部維持抬高、容易被抬升動作攻擊，而 sprawl 則從根本上破壞了他們的 sweep 機制。",
+    "answer_line": "Sprawl，胸壓低，髖往後",
+    "distractors": {
+     "plausible": [
+      "改成加寬 base",
+      "把髖部往前 sprawl 而非往後"
+     ],
+     "trap": [
+      "坐起身尋找空隙"
+     ]
+    }
+   },
+   {
+    "question": "防守 sweep 時，為什麼絕對不該把手撐得離身體很遠？",
+    "answer": "把手撐得離身體很遠，會形成一個直臂姿勢，非常容易被 kimura、armbar 與 triangle 攻擊。當你的手臂在防守 sweep 時伸直並承重，你的肘關節就會被暴露且容易被攻擊。對手可以困住這隻伸展的手臂，直接完成 submission，或利用它增加槓桿來完成 sweep。正確的撐地方式，是把手保持靠近對方身體、肘部收在保護位置，這樣才能同時防守 sweep 並維持 submission 防禦。",
+    "answer_line": "手貼近身體，肘收緊",
+    "distractors": {
+     "plausible": [
+      "把手撐寬以求穩固 base",
+      "伸直手臂以求更遠的觸及"
+     ],
+     "trap": [
+      "撐遠一點把對方頂開"
+     ]
+    }
+   },
+   {
+    "question": "順著 sweep 走與擋下 sweep 的概念有何不同，各自何時適用？",
+    "answer": "擋下 sweep 意味著用你的 base 與壓力直接對抗 sweep 方向，完全停止他們的動能。順著 sweep 走則是跟著他們的 sweep 方向移動，同時維持更優勢的位置——本質上是讓他們把你移動，而你仍保持在上位並掌控全局。當你有強大的 base 且能夠及早察覺 sweep，用最小的力氣就能擋下時，擋下是適當的做法。而當 sweep 已經有動能、擋下需要耗費過多力氣時，或是你想利用他們的動能繞過他們已投入的那條腿時，或是順著走能帶你到比原本更好的位置時，順著走就是更優的選擇。",
+    "answer_line": "有動能就順，早期就擋",
+    "distractors": {
+     "plausible": [
+      "永遠只擋，不順著走",
+      "只在被掃倒後才順著走"
+     ],
+     "trap": [
+      "用力硬撐對抗完整的 sweep"
+     ]
+    }
+   },
+   {
+    "question": "對手從 closed guard 裝填 scissor sweep，你應該優先調整哪些 grip？",
+    "answer": "立即優先剝除控制你姿勢的領口 grip，並解除控制你撐地手臂的袖口 grip。Scissor sweep 需要破壞你的 posture 以及控制住你的撐地手臂才能完成。沒有領口控制，他們就無法把你往前拉入 sweep。沒有袖口控制，你就能自由撐手 base 出去。次要優先是在膝蓋處控制住他們在上方進行剪動作的那條腿，防止剪動作完成。在他們膝蓋附近建立自己的褲管 grip，能讓你有槓桿把他們的腿壓到地上、把他們的髖部壓平。",
+    "answer_line": "剝除領口與袖口 grip",
+    "distractors": {
+     "plausible": [
+      "先控制他們上方的腿",
+      "先把他們的髖部往下壓"
+     ],
+     "trap": [
+      "改抓他們遠側的腳踝"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在防守 sweep 時仍要維持向前壓力，往後退出 guard 的風險是什麼？",
+    "answer": "在防守 sweep 時維持向前壓力，能讓你保持在準備通過的位置，一旦 sweep 被防下就能立刻掌握先機，也能防止對手輕易重建他們偏好的 guard，並維持進攻主動權。往後退出 guard 則會犧牲你的通過位置，給對手時間與空間建立穩固的 guard 結構，讓他們得以選擇最有利的 guard 變化，並在心理層面把主導權轉移到他們那邊。正確的心態是在仍然投入這場交鋒的同時解決 sweep 的問題，而不是退回安全地帶。",
+    "answer_line": "維持壓力，保持投入",
+    "distractors": {
+     "plausible": [
+      "退開重建 guard",
+      "暫停重新評估選項"
+     ],
+     "trap": [
+      "完全撤退到安全距離"
+     ]
+    }
+   },
+   {
+    "question": "對手嘗試 hip bump sweep，你成功撐住了——最佳的立即後續動作是什麼？",
+    "answer": "最佳的後續動作是立刻用胸口向前壓進他們的 guard，同時把髖部轉向一側開始通過 guard。他們的 hip bump 嘗試已經把髖部抬離地面，在背部與地面之間製造出空間。透過立刻向前壓，你能趁他們因失敗的 sweep 而失衡時，把他們壓平回地面。同時，用 knee slice、leg drag 或 toreando 的動作攻擊他們其中一條腿。失敗的 hip bump 會讓他們的 grip 受損、髖部位置錯亂。",
+    "answer_line": "胸口前壓，轉髖通過",
+    "distractors": {
+     "plausible": [
+      "坐回去重建 guard",
+      "抓住雙腿站起來"
+     ],
+     "trap": [
+      "立刻追求 submission"
+     ]
+    }
+   },
+   {
+    "question": "從下位反擊對手的 sweep 時，最常見的時機錯誤是什麼？",
+    "answer": "最常見的時機錯誤，是在對手仍處於防守姿態時就發動你的反擊 sweep，而不是等他們真正投入防守你最初的 sweep 之後再出手。有效的反擊 sweep 需要耐心，先讓自己的第一個 sweep 威脅得足夠具說服力，讓對方把重心、base 或 grip 投入去防守它。只有在他們做出這個防守承諾之後，他們才會對你的反擊產生破綻。在他們投入之前就急著反擊，等於是在嘗試 sweep 一個重心平穩、隨時準備好的對手。",
+    "answer_line": "等待對方投入防守",
+    "distractors": {
+     "plausible": [
+      "guard 一打開就立刻反擊",
+      "威脅 sweep 後太早放棄"
+     ],
+     "trap": [
+      "立刻倉促發動反擊"
+     ]
+    }
+   },
+   {
+    "question": "對手建立了 De La Riva hook 並開始裝填 sweep——你要如何在維持通過位置的同時處理這個狀況？",
+    "answer": "首先，用 two-on-one 破解或把他們的膝蓋往內推過中線，剝除他們固定 De La Riva hook 的那隻遠側腳的褲管 grip。同時，把被勾住的那條腿往後撤，減少他們 hook 的深度，削弱他們的槓桿角度。用膝蓋向前壓穿過他們的 guard，同時建立領口或衣領 grip 控制他們的上半身。關鍵不是從 hook 中撤退，而是一邊維持向前壓力一邊繞過它，這通常能直接轉換成 leg drag 或 knee slice 的過guard機會。",
+    "answer_line": "剝 grip，撤腿，膝蓋前壓",
+    "distractors": {
+     "plausible": [
+      "把腿完全撤離",
+      "只剝除褲管 grip"
+     ],
+     "trap": [
+      "把腿猛拉回來然後脫離接觸"
+     ]
+    }
+   },
+   {
+    "question": "對手用強力的 butterfly hook 把你抬起並開始 sweep——sweep 已經在進行中，你該怎麼做？",
+    "answer": "當 butterfly sweep 已經在進行中時，不要對抗它的方向。相反地，把你的遠側手撐在你被掃向的方向的地面上來順著 sweep 走，接著立刻把髖部轉離他們的 hook，並把胸口壓回他們身上，讓身體的旋轉破壞 hook 的連結。這會把他們的 sweep 動能轉換成你的通過角度。關鍵細節是撐地並轉動，而不是硬撐，因為硬撐對抗一個已經投入的 butterfly sweep 會浪費力氣，通常也會失敗。透過順著走並改變方向，你能把他們消耗的能量反過來用在他們身上。",
+    "answer_line": "撐遠側手，轉髖，壓回",
+    "distractors": {
+     "plausible": [
+      "用力硬撐對抗抬升",
+      "撐近側手並往前推"
+     ],
+     "trap": [
+      "往後仰去對抗重心"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "你的 butterfly sweep 被擋下，因為上位者 sprawl 並把胸口壓進你身上——你的立即恢復程序是什麼？",
+    "answer": "立刻收回你的 butterfly hook，改用雙腳頂住他們的髖部來製造距離。同時把 grip 換回領口與袖口，而不是你用來 sweep 的 underhook。把髖部往後 shrimp 製造空間，並建立中性的 open guard，或轉換到 De La Riva 或 collar-sleeve guard 等其他 guard 系統。最嚴重的錯誤，就是持續嘗試用 hook 重新抬升去對抗他們已經 sprawl 的重量。",
+    "answer_line": "收 hook，shrimp，重建 guard",
+    "distractors": {
+     "plausible": [
+      "改用 overhook，貼近對方",
+      "推開對方試著站起來"
+     ],
+     "trap": [
+      "持續用 hook 重新抬升"
+     ]
+    }
+   },
+   {
+    "question": "第一個 sweep 被擋下之後，如何判斷該連續發動第二個 sweep，還是放棄改為重建 guard？",
+    "answer": "這個判斷取決於上位者的重心投入程度。如果他們為了防守你的第一個 sweep，把 base 過度投入在某一個方向，就連續發動反方向的 sweep，因為他們的重心分布正是破綻所在。如果他們維持重心居中、只是單純化解了你的 sweep 而沒有過度投入，就放棄改為重建 guard，因為對一個重心平穩的對手再發動一次 sweep 成功機率很低，還會進一步破壞你的 guard。判斷他們的髖部位置：髖部偏移就連續進攻，髖部居中就重建。",
+    "answer_line": "髖偏就連招，否則重建",
+    "distractors": {
+     "plausible": [
+      "永遠連續發動下一個 sweep",
+      "每次都重建 guard"
+     ],
+     "trap": [
+      "對重心平穩的 base 連續進攻"
+     ]
+    }
+   },
+   {
+    "question": "你的 sweep 嘗試失敗後，緊接著最大的危險是什麼？",
+    "answer": "最大的危險是被過guard，而不是 submission。sweep 失敗後，你的髖部位置錯亂、grip 被打亂，雙腿也不在最佳的 guard 配置中。上位者最高機率的反應，是立刻通過你已經受損的 guard，通常會用 leg drag 或壓力型過guard，利用你在 sweep 嘗試中身體所形成的角度。這就是為什麼重建 guard 框架必須是你的第一優先，而不是嘗試另一個進攻技巧。",
+    "answer_line": "小心過guard，不是 submission",
+    "distractors": {
+     "plausible": [
+      "留意對方的反擊 choke",
+      "預期對方發動 armbar"
+     ],
+     "trap": [
+      "攻擊另一個 submission"
+     ]
+    }
+   },
+   {
+    "question": "你的 scissor sweep 失敗，因為上位者把腿往後撐住——你的上方腿仍然橫在他們身體上。你該怎麼做？",
+    "answer": "把那條橫在他們身上的腿當作框架使用，而不是 sweep 工具。把膝蓋拉向胸口，把小腿橫過他們的軀幹，轉換成 knee shield。同時用空出來的手重新建立領口 grip，並建立 knee shield half guard 或重建 open guard。就算那條腿作為 sweep 工具失敗了，它仍然是很有用的 framing 資產。絕對不要讓它被動地垂放在他們身上，那樣會被壓制然後被通過。",
+    "answer_line": "把腿轉換成 knee shield",
+    "distractors": {
+     "plausible": [
+      "讓腿維持垂放，重整 grip",
+      "揮動那條腿再試一次 sweep"
+     ],
+     "trap": [
+      "讓那條腿被動地橫在他們身上"
+     ]
+    }
+   },
+   {
+    "question": "sweep 失敗後，什麼時候該選擇製造混戰而不是嘗試乾淨地重建 guard？",
+    "answer": "當上位者已經越過你的腿部框架，開始建立一個讓乾淨重建 guard 在機制上已不可能的過guard位置時，就該選擇混戰。如果他們的肩膀已經越過你的髖部連線，或是他們已經把你的雙腿清到一側，那麼乾淨的重建就需要他們主動後退，而他們不會自願這麼做。這種情況下，像 granby roll、inversion 或 sit-through 這類爆發性動作，能製造混亂讓他們無法鞏固過guard。混戰是系統性 guard 重建已被搶先破壞時的緊急選項。",
+    "answer_line": "重建被擋時就製造混戰",
+    "distractors": {
+     "plausible": [
+      "永遠嘗試乾淨地重建 guard",
+      "等他們自己後退"
+     ],
+     "trap": [
+      "保持靜止重建框架"
+     ]
+    }
+   }
+  ]
+ }
+}

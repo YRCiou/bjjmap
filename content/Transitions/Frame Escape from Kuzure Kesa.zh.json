@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Frame Escape from Kuzure Kesa.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "發動 frame escape 時，bridge 的正確角度是多少？",
+    "answer": "應以 45 度角朝對手支撐地面的那條腿方向 bridge，而不是直直向上。這樣能攻擊對手的底盤結構，並為接下來的 hip escape 製造出方向性的空間。垂直方向的 bridge 只會短暫把對手抬起，並不會製造出有用的空間，因為你落地時對手只會重新坐回原位。",
+    "answer_line": "以 45 度朝支撐腿方向 bridge",
+    "distractors": {
+     "plausible": [
+      "直直向上 bridge，沒有角度",
+      "以 45 度朝支撐腿反方向"
+     ],
+     "trap": [
+      "爆發性 bridge，不先架 frame"
+     ]
+    }
+   },
+   {
+    "question": "在投入 frame escape 之前，要具備什麼樣的進入條件，這個技巧才有實際成功的機會？",
+    "answer": "你的自由手臂必須能對對手的髖部或肩膀建立前臂 frame，被困的手臂必須維持接近九十度彎曲、暫時安全不會被直接 submission，並且要保有足夠的殘餘髖部活動度來 shrimp。當對手的體重是透過髖部接觸傳來，而不是完全的胸貼胸壓迫時，這個逃脫效果最好，因為完全貼平的胸口壓迫會消除你的 frame 需要用來重新導向力量的空間。",
+    "answer_line": "自由手 frame，被困手臂九十度",
+    "distractors": {
+     "plausible": [
+      "等胸口壓力完全消失再動",
+      "先讓被困手臂自由再 frame"
+     ],
+     "trap": [
+      "伸直被困手臂來撐地"
+     ]
+    }
+   },
+   {
+    "question": "當你建立好 frame 時，對手加大了髖部壓力，你該如何調整？",
+    "answer": "不要用你的 frame 直接對抗加大的壓力。而是等對手為了 submission 嘗試或調整姿勢而轉移體重，再利用那個時機窗口執行你的 hip escape。如果對手持續保持沉重壓力、完全不轉移體重，就改用 bridge-and-roll 嘗試，逼對手去應付另一個威脅，打亂他原本的壓迫模式。",
+    "answer_line": "等待對手轉移體重",
+    "distractors": {
+     "plausible": [
+      "用你的 frame 硬拚壓力",
+      "立刻 bridge and roll"
+     ],
+     "trap": [
+      "把胸口推進壓力裡"
+     ]
+    }
+   },
+   {
+    "question": "整個逃脫過程中，你被困的手臂必須維持什麼姿勢？為什麼？",
+    "answer": "被困的手臂必須維持大約九十度彎曲，手肘緊貼肋骨，肩膀略微內旋。這能同時防止需要手臂伸直的 armbar 完成，也防止需要手臂貼向身體崩塌的 americana 完成。維持這個姿勢是不容妥協的，就算因此得暫停逃脫動作也一樣。",
+    "answer_line": "彎曲九十度，手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "手臂伸直、手肘外張",
+      "手臂折疊在胸前"
+     ],
+     "trap": [
+      "讓手臂伸直以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "應該把幾段小的 hip escape 串連在一起？為什麼不要嘗試一次大動作？",
+    "answer": "應該把兩到三個較小的 hip escape 串連起來，每一段之間重新調整 frame。單一次大幅度的爆發性動作很容易被對手跟上，對手只要縮短距離就能化解。搭配 frame 保護的小幅度逐步逃脫，能累積對手無法奪回的空間，因為每一段動作都先靠 frame 保護，才進行下一段動作。",
+    "answer_line": "兩到三段小逃脫，中間重整 frame",
+    "distractors": {
+     "plausible": [
+      "一次爆發性大逃脫",
+      "連續五次以上的微小逃脫"
+     ],
+     "trap": [
+      "一次全力爆發，跳過 frame"
+     ]
+    }
+   },
+   {
+    "question": "在逃脫序列中，什麼時候應該插入膝蓋？如果延遲會發生什麼事？",
+    "answer": "一旦你和對手身體之間出現大約六英吋的空間，就應該立刻插入膝蓋。任何延遲都會讓對手重新縮短這段距離，抹消掉所有逃脫進展。插入膝蓋是這個逃脫動作的決定性時刻，因為一旦建立完成，它會形成比單靠手臂 frame 更難被對手移除的結構性屏障。",
+    "answer_line": "空間約六英吋時插入膝蓋",
+    "distractors": {
+     "plausible": [
+      "等 guard 完全穩固才插入",
+      "一有空隙就馬上插入膝蓋"
+     ],
+     "trap": [
+      "延遲插膝蓋，先加強 frame"
+     ]
+    }
+   },
+   {
+    "question": "你在做 hip escape 時，對手開始把膝蓋滑過你的腹部，你的立即優先事項是什麼？",
+    "answer": "放棄逃脫動作，立刻處理對手轉換到 mount 的威脅。把髖部轉向對手，把內側的膝蓋頂進雙方身體之間，阻擋對手的膝蓋跨過去。防止對手取得 mount 的優先順序絕對高於完成逃脫，因為 mount 比 Kuzure Kesa-Gatame 差得多。等 mount 的威脅解除後，再重新開始逃脫嘗試。",
+    "answer_line": "先擋膝蓋，防止 mount",
+    "distractors": {
+     "plausible": [
+      "繼續硬做 hip escape",
+      "改為壓對手的頭"
+     ],
+     "trap": [
+      "無視威脅，完成 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "對手直接穿透你的 frame，封死你側向的 hip escape，你要銜接到什麼動作？",
+    "answer": "當向前的壓力堵死了 shrimping 的路線時，要換一個威脅，而不是硬拚那個卡住的點。立刻轉換到 bridge-and-roll，利用對手全力投入的向前體重去對付他自己的底盤，或是發動 Granby roll，朝 turtle 或 open guard 方向倒立，因為倒立不需要對手剛封死的側向空間。frame escape 與這些替代方案組成一個雙威脅系統：對手防守其中一個，就會打開另一個。",
+    "answer_line": "改用 bridge-roll 或 Granby 倒立",
+    "distractors": {
+     "plausible": [
+      "更用力頂進對手的 frame",
+      "靜止不動，等待對手洩氣"
+     ],
+     "trap": [
+      "硬是再做一次同樣的 hip escape"
+     ]
+    }
+   },
+   {
+    "question": "你做 frame 的那隻手臂，對付對手的髖部時是用什麼抓握？",
+    "answer": "不使用任何抓握。這個 frame 是前臂對髖部的接觸，用你的尺骨骨面壓在對手的髖骨或腰帶線上。抓握會透過肌肉收縮浪費體力，也會降低 frame 的結構效率。前臂扮演的是靠骨骼排列（而不是抓握力量）維持的剛性支柱，這對在長時間壓力下維持動作的可持續性至關重要。",
+    "answer_line": "不抓握，骨對骨前臂",
+    "distractors": {
+     "plausible": [
+      "緊緊抓住對手腰帶",
+      "用掌心推對手髖部"
+     ],
+     "trap": [
+      "抓住並拉扯對手遠側髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手對你的髖部建立起前臂 frame，你的立即反應是什麼？",
+    "answer": "把體重壓得更低，用角度而不是直直地把髖部壓力透過 frame 傳過去。稍微調整身體角度，改變施力方向，讓對手的 frame 無法維持結構優勢。如果 frame 已經穩固建立，就改為攻擊那隻做 frame 的手臂，而不是單靠壓力去壓垮 frame。",
+    "answer_line": "壓低體重，用角度穿過 frame",
+    "distractors": {
+     "plausible": [
+      "直直頂進對手的 frame",
+      "抓住並硬扯掉對手的 frame"
+     ],
+     "trap": [
+      "後退並繞開"
+     ]
+    }
+   },
+   {
+    "question": "對手成功做出 hip escape，開始把膝蓋穿進你們雙方身體之間，你要如何應對？",
+    "answer": "根據空間大小，你有兩個選擇。如果對手的膝蓋還沒越過你的身體中線，就把髖部往回頂進那個空間，用手把對手的膝蓋往下往外推。如果對手的膝蓋已經在建立防禦屏障，就在 half guard 完全穩固之前，立刻把膝蓋滑過對手腹部轉換到 mount，把對手的逃脫轉變成你自己的位置推進。",
+    "answer_line": "把膝蓋壓下，或滑向 mount",
+    "distractors": {
+     "plausible": [
+      "永遠把膝蓋壓下並固定住",
+      "後退重新完整整理 kesa"
+     ],
+     "trap": [
+      "讓膝蓋穿過去，不做反應"
+     ]
+    }
+   },
+   {
+    "question": "在對手嘗試逃脫時，什麼時候該轉換到 mount，什麼時候該維持 Kuzure Kesa-Gatame？",
+    "answer": "當底部的人在逃脫過程中把髖部轉離你時，要轉換到 mount。他轉身的動作會為你的膝蓋滑過去打開通道。當你能靠重新建立壓力來封死逃脫，而底部的人還沒製造出明顯的側向空間時，就維持 Kuzure Kesa-Gatame。判斷的關鍵在於你能不能比對手插入膝蓋更快地把距離縮短。",
+    "answer_line": "對手髖部轉離時轉換到 mount",
+    "distractors": {
+     "plausible": [
+      "永遠快速轉換到 mount",
+      "無論如何都維持 kesa"
+     ],
+     "trap": [
+      "在對手轉髖之前就急著追 mount"
+     ]
+    }
+   },
+   {
+    "question": "你的頭部位置如何幫助防止 frame escape？",
+    "answer": "把頭部保持在對手身體遠側、超過對手肩線的位置。這能讓對手的任何 bridge 力量橫跨過你的身體，而不是直接作用在你的底盤上，也能防止底部的人利用 frame 對付你的脖子或下顎來取得槓桿。這個頭部位置在對手嘗試用 hip escape 製造角度時，也能提供反向平衡，讓你的體重分布在更寬、更穩定的底盤上。",
+    "answer_line": "頭部超過對手遠側肩膀",
+    "distractors": {
+     "plausible": [
+      "頭部收在對手腋下附近",
+      "頭部在靠近側"
+     ],
+     "trap": [
+      "頭低低地貼近對手脖子"
+     ]
+    }
+   }
+  ]
+ }
+}

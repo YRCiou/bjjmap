@@ -1,0 +1,255 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 double under pass 中，嘗試清除對手雙腿之前，最關鍵要先建立的是什麼？",
+    "answer": "最關鍵的是先建立沉重且持續的胸對胸壓力，同時維持深入的雙側 underhook。沒有這種整合的壓力，對手很容易用 frame 製造空間、重新拿回 guard，或發動 sweep。這股壓力必須壓制到對手的行動力受到嚴重限制，你才能開始橫向移動來清腿。",
+    "answer_line": "胸壓加上深 underhook",
+    "distractors": {
+     "plausible": [
+      "只靠 underhook 就夠了",
+      "先控制腳踝再做 underhook"
+     ],
+     "trap": [
+      "馬上清腿，不需要壓力"
+     ]
+    }
+   },
+   {
+    "question": "在 double under pass 清腿時，為什麼橫向移動比向前移動更好？",
+    "answer": "橫向移動較好，因為它能讓你在有系統地一次清一隻腿的同時，全程維持穩定的胸壓。向前移動則容易產生垂直的堆疊壓力，讓對手有機會 invert、做 granby 翻滾或製造混戰。橫向的步伐能讓對手保持平躺、受到控制，同時有系統地移除他們的防禦 frame 和腿部屏障。",
+    "answer_line": "讓對手平躺，避免堆疊",
+    "distractors": {
+     "plausible": [
+      "向前移動過腿更快",
+      "堆疊能更有效壓平髖部"
+     ],
+     "trap": [
+      "堆高身體以獲得最大壓力"
+     ]
+    }
+   },
+   {
+    "question": "如果對手成功用 frame 頂住你的頭並開始拉開距離，你該怎麼做？",
+    "answer": "壓低你的頭部位置、加大向下的胸壓，同時朝 frame 那一側繞動，直接壓穿他們的 frame。不要讓垂直的空間出現——反而要持續把重量壓在他們身上。必要時，可以在維持 underhook 控制的同時，把頭轉到對手身體的另一側，抵消他們 frame 的力學優勢。",
+    "answer_line": "壓低頭部，壓穿 frame",
+    "distractors": {
+     "plausible": [
+      "把頭拉回重整姿勢",
+      "用力向上推來破壞 frame"
+     ],
+     "trap": [
+      "把身體抬高以製造更多空間"
+     ]
+    }
+   },
+   {
+    "question": "在 double under pass 的流程中，什麼時候放開 underhook 抓握才安全？",
+    "answer": "只有當對手雙腿都已經完全清除、你的身體與對手垂直，並且能立刻建立傳統 side control 控制（cross face 和遠側手臂控制）時，才可以放開 underhook 抓握。過早放開抓握是最常見的錯誤之一，通常會導致對手立刻拿回 guard。",
+    "answer_line": "雙腿都清除之後",
+    "distractors": {
+     "plausible": [
+      "清完第一隻腿就可以",
+      "當對手髖部被堆疊時"
+     ],
+     "trap": [
+      "提早放開去抓 collar"
+     ]
+    }
+   },
+   {
+    "question": "你在開始橫向移動時，對手開始插膝準備重拿 half guard，你該如何調整？",
+    "answer": "立刻停止橫向移動，把髖部往下壓回對手的髖部上，阻止膝蓋進一步插入。降低你的胸壓，用近側的 underhook 控制他們在下方的那隻腿，把它壓制在地墊上。如果膝蓋已經部分插入，就轉換成 half guard 過腿流程：維持 underhook 控制、建立 cross face，並設法清除 half guard 的腳勾，之後再繼續完成過腿。",
+    "answer_line": "停下，壓低髖部，壓制腿",
+    "distractors": {
+     "plausible": [
+      "繼續橫向步伐硬闖過去",
+      "直接改做 toreando pass"
+     ],
+     "trap": [
+      "退後重整位置"
+     ]
+    }
+   },
+   {
+    "question": "在 double under 姿勢中，雙手扣在對手背後時，哪種抓握方式能提供最好的控制？",
+    "answer": "gable grip（掌對掌、手指互扣）能提供最強的連結，是追求最大控制時的首選。這種抓握能讓你把手肘夾緊，收緊 underhook，讓對手完全無法製造空間。gable grip 也方便在需要時轉換成堆疊變化，並在過腿過程中提升手術般抬起或操控對手髖部的控制力。",
+    "answer_line": "gable grip，手掌互扣",
+    "distractors": {
+     "plausible": [
+      "用 S-grip 增加伸展距離",
+      "手指在上方交疊"
+     ],
+     "trap": [
+      "抓握放鬆以節省體力"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該考慮從 double under pass 轉換成 back take，而不是完成過腿到 side control？",
+    "answer": "當對手為了防禦橫向過腿而側身、把背部暴露出來而不是保持平躺時，就該轉換成 back take。這種防禦反應會創造繞到對手背後的機會，同時維持你的 underhook 控制。當對手轉離壓力時，放開一個 underhook 來建立 seat belt 控制（在對手軀幹上做 over-under），並繼續繞動以用腳勾建立 back control。",
+    "answer_line": "當對手轉身、露出背部時",
+    "distractors": {
+     "plausible": [
+      "當對手縮成 turtle 平趴時",
+      "underhook 一建立就馬上轉換"
+     ],
+     "trap": [
+      "放開兩個腳勾去追背"
+     ]
+    }
+   },
+   {
+    "question": "在 double under pass 中，你的髖部相對於對手髖部的最佳高度是什麼，為什麼這很重要？",
+    "answer": "你的髖部應該全程維持在對手髖部同高或更低的位置。這種低髖姿勢能讓你把體重最大限度地分配到對手身上，避免他們把你抬起來做 sweep，也消除了他們重拿 guard 所需的空間。如果你的髖部高過對手，他們就能插入 frame、製造角度，甚至有機會發動 hip bump sweep 或重拿 guard 的嘗試。",
+    "answer_line": "髖部與對手同高或更低",
+    "distractors": {
+     "plausible": [
+      "髖部稍高以維持底盤",
+      "髖部抬高能有更好的底盤"
+     ],
+     "trap": [
+      "抬高髖部以把重量往下壓"
+     ]
+    }
+   },
+   {
+    "question": "從 double under 轉換到 side control 抓握時，如何在不留下重拿 guard 空檔的情況下維持控制？",
+    "answer": "依序放開抓握，而不是同時放開。先用主導手建立 cross face 控制，同時維持遠側的 underhook。你的胸壓在整個過程中必須保持穩定——轉換抓握時不要把體重抬起。只有在 cross face 穩固之後，才放開第二個 underhook，改為建立髖部控制或遠側手臂 underhook。這種依序放開的方式能確保控制不中斷，也不會給對手任何重拿 guard 的空檔。",
+    "answer_line": "先做 cross face，再慢慢放開",
+    "distractors": {
+     "plausible": [
+      "兩個腳勾一次放開",
+      "轉換時把體重抬起"
+     ],
+     "trap": [
+      "立刻放開兩邊的抓握"
+     ]
+    }
+   },
+   {
+    "question": "在你進行 double under pass 時，什麼樣的身體對位能阻止對手做 granby 翻滾或 invert？",
+    "answer": "把你的頭放在對手身體、與你過腿方向相反的那一側，讓耳朵頂進他們的胸口或肩膀。這種頭部位置搭配胸壓，能把對手的上半身壓平，阻止他們做 granby 所需的旋轉。你的體重應該以對角線的方式分布在對手身上，而不是垂直往下壓，這樣在力學上讓他們幾乎不可能產生 invert 或翻滾所需的旋轉動能。",
+    "answer_line": "頭在對側，耳朵頂進去",
+    "distractors": {
+     "plausible": [
+      "頭放在與過腿方向相同的一側",
+      "體重垂直往下壓"
+     ],
+     "trap": [
+      "把頭抬高以獲得更好視野"
+     ]
+    }
+   },
+   {
+    "question": "在你能建立 underhook 之前，對手已經把雙腳頂在你的髖部上，你的進場策略是什麼？",
+    "answer": "控制對手的雙腳踝或褲管膝蓋處，避免他們伸直雙腿拉開距離。把其中一隻腳的膝蓋往旁邊推、壓制在地墊上，同時把同側的腿往前跨，壓縮空間。壓制住第一隻腿之後，立刻把手臂穿到下方建立第一個 underhook，同時把胸口壓到對手剩下的那隻腿上。關鍵在於，要在對手能完全伸展之前，先縮短他們雙腳頂髖防禦與你胸口之間的距離。",
+    "answer_line": "先控制腳踝，壓制一隻腿",
+    "distractors": {
+     "plausible": [
+      "抓住雙腳直接站起來",
+      "先把對手膝蓋推直"
+     ],
+     "trap": [
+      "退後繞圈"
+     ]
+    }
+   },
+   {
+    "question": "一旦 double under 姿勢正確建立，對手會失去哪些主要的防禦工具？",
+    "answer": "一旦 double under 姿勢在正確壓力下建立，對手會失去用雙腿製造有效 frame 的能力，髖部的行動力會受到嚴重限制，也失去坐起或製造向上壓力的能力，以及製造有意義距離的力學優勢。他們單靠雙臂無法產生足夠的力量來對抗胸壓，雙腿又被壓制在你的 underhook 之下，使他們陷入極為不利的防禦處境。",
+    "answer_line": "腿部 frame 與髖部行動力",
+    "distractors": {
+     "plausible": [
+      "手臂 frame 與手部纏鬥",
+      "頭部與姿勢控制"
+     ],
+     "trap": [
+      "仍然能自由 invert 重拿 guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "面對 double under pass 時，最重要的單一防守空檔是什麼，為什麼時機這麼關鍵？",
+    "answer": "最重要的防守空檔，是過腿方在建立第一個 underhook、到雙手扣緊完成第二個 underhook 之間的轉換過程。這個時刻，對手已經把身體壓向前方，但還沒建立讓逃脫變得極度困難的雙側控制。一旦兩個 underhook 都深入、雙手扣緊、胸壓穩定下來，防守成功率會大幅下降，因為過腿方已經同時中和了你的髖部移動和腿部 frame。",
+    "answer_line": "在第二個 underhook 鎖死之前",
+    "distractors": {
+     "plausible": [
+      "雙手扣緊後、堆疊之前",
+      "等胸壓完全穩定之後"
+     ],
+     "trap": [
+      "等兩個 underhook 都建立好再反應"
+     ]
+    }
+   },
+   {
+    "question": "對手已經建立兩個 underhook，正開始橫向跨步，這個階段你勝率最高的防守反應是什麼？",
+    "answer": "趁對手跨步時，把近側膝蓋插過他們的髖線，同時做 hip escape 來製造膝蓋插入所需的角度。這能重拿 half guard 或 knee shield 姿勢，形成一道對手無法直接穿越的屏障。時機非常關鍵——當對手為了橫跨而稍微抬起髖部時，會出現一個小空檔，讓你的膝蓋能滑進兩人身體之間。同時把對手的頭推向遠側，削弱他們對你正在逃脫那側髖部的壓力。",
+    "answer_line": "膝蓋插髖，立刻 hip escape",
+    "distractors": {
+     "plausible": [
+      "等對手完全過腿完成後再處理",
+      "把對手胸口推開製造空間"
+     ],
+     "trap": [
+      "翻成趴姿來防守"
+     ]
+    }
+   },
+   {
+    "question": "防守 double under 壓力時，為什麼把過腿方的頭推向側邊，比把頭推開或壓下去更有效？",
+    "answer": "把頭橫向推開會破壞過腿方的身體對位和重量分配的對稱性，讓他們無法在你的軀幹上均勻施加胸壓。當他們的頭被推向一側，重量也會跟著偏向那一側，在另一側製造出空間，讓你能做 hip escape 並插入防禦屏障。把頭壓下去或推開並不會破壞他們的對位，他們仍然能靠力量硬闖過去，因為他們的胸壓方向和你推的方向是同一條線。",
+    "answer_line": "破壞對手的重量對位",
+    "distractors": {
+     "plausible": [
+      "把頭壓下去能停住所有壓力",
+      "把頭推開能製造更多空間"
+     ],
+     "trap": [
+      "把對手的頭拉下壓到你胸口"
+     ]
+    }
+   },
+   {
+    "question": "在不讓手臂暴露於 submission 風險的前提下，什麼樣的 frame 配置能給你對抗 double under 壓力最好的防禦結構？",
+    "answer": "把前臂橫放在過腿方的二頭肌上，手肘夾緊貼近肋骨，利用骨骼結構而非肌肉力量形成 frame。你的手應該抓住他們道服在二頭肌處的位置，或是控制他們的手腕。這種屈臂配置很難被壓垮，因為力量是透過你的骨骼傳到地墊，而不需要你用力去頂對手的體重。手臂伸直會讓你暴露在 americana 和 kimura 的攻擊風險中，而這種緊湊的 frame 能在製造空間的同時保護你的關節。",
+    "answer_line": "前臂放二頭肌，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "手臂伸直頂住對手胸口",
+      "用雙手在對手頸部做 frame"
+     ],
+     "trap": [
+      "完全伸直手臂來製造空間"
+     ]
+    }
+   },
+   {
+    "question": "當過腿方正在建立 double under 控制時，你如何判斷該嘗試鎖 closed guard，還是 hip escape 到 half guard？",
+    "answer": "決定因素在於對手 underhook 的深度，以及雙手是否已經扣緊。如果你還能在對手鎖緊抓握之前，把雙腿高高纏在他們背後、腳踝交叉，那麼鎖 closed guard 是比較好的選擇，因為這能完全化解這次過腿，並讓你回到進攻位置。如果對手的 underhook 已經很深、雙手也已扣緊，嘗試 closed guard 只會形成鬆散無效、容易被堆疊穿過的 guard。在這種情況下，hip escape 到 half guard 的成功率更高，因為它需要的空間較少，即使面對很深的 underhook 控制也依然有效。",
+    "answer_line": "取決於 underhook 的深度",
+    "distractors": {
+     "plausible": [
+      "永遠先嘗試 closed guard",
+      "永遠立刻 hip escape"
+     ],
+     "trap": [
+      "underhook 已經很深仍嘗試鎖 closed guard"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Double Under Pass.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

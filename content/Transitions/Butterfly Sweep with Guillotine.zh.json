@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "執行 Butterfly Sweep with Guillotine 時，主要的能量來源是什麼？",
+    "answer": "主要的能量來源是對手自己的向前壓力。當他們向前施壓想把你壓平、以舒緩 guillotine 的壓力時，他們的重心會壓到你的 butterfly hook 上。你把這股向前的動能導向一個 sweep 的弧線，而不是靠自己的肌肉去產生力量。這正是為什麼把 sweep 的時機對準他們投入向前壓力的那一刻如此關鍵。",
+    "answer_line": "對手自己的向前壓力",
+    "distractors": {
+     "plausible": [
+      "你自己髖部爆發做出的 sweep",
+      "butterfly hook 上抬的力量"
+     ],
+     "trap": [
+      "用 choke 把他們往下拉"
+     ]
+    }
+   },
+   {
+    "question": "這個技巧會為對手製造出什麼樣的防守困境？",
+    "answer": "對手面臨一個左右為難的局面：如果他們撐開得很寬來防止 sweep，就會創造出完成 guillotine 所需要的空間與姿勢破壞。如果他們向前施壓想把你壓平、逃脫這個 choke，就正好提供了 butterfly sweep 所需要的能量。而後退則會讓你恢復 closed guard，同時 choke 依然有效。無論對手做出什麼防守選擇，都會餵養另一項攻擊。",
+    "answer_line": "每一種防守都會餵養另一項攻擊",
+    "distractors": {
+     "plausible": [
+      "只有 guillotine 才是真正的威脅",
+      "後退能完全化解這個威脅"
+     ],
+     "trap": [
+      "向前施壓去 smash 過guard"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 sweep 的軌跡必須以 45 度角朝向勒頸手臂那一側？",
+    "answer": "朝向你 choke 那隻手臂那一側的 45 度角，能在整個 sweep 過程中維持最佳的 guillotine grip 力學，並確保你最終落在 mount 的正上方，而不是對手身旁。這個軌跡能讓你前臂的骨面維持在對手下巴下方的正確位置，防止旋轉動作中 grip 滑脫。若直接朝側面 sweep，就會失去這個 grip 角度。",
+    "answer_line": "保持 grip 咬緊，讓你落在 mount",
+    "distractors": {
+     "plausible": [
+      "讓你旋轉朝向對手的 open guard",
+      "解放你的髖部以更用力 bridge"
+     ],
+     "trap": [
+      "放開 grip 去撐地並轉身"
+     ]
+    }
+   },
+   {
+    "question": "對手把手撐得很開來阻止 sweep——你要如何利用這一點？",
+    "answer": "當他們撐得很開時，他們的姿勢會被破壞，並在雙方身體之間製造出空間。立刻停止 sweep 嘗試，調整你的髖部角度以優化勒頸的壓力，完成這個 guillotine。他們寬撐的手讓他們無法有效防守這個 choke，同時也拿掉了原本壓在你身上的重量。原本用來救 sweep 的那個撐地動作，反而打開了 choke 的機會。",
+    "answer_line": "停止 sweep，完成 guillotine",
+    "distractors": {
+     "plausible": [
+      "硬是把 sweep 做完",
+      "換成別的 sweep"
+     ],
+     "trap": [
+      "放開 choke 去追那隻撐地的手"
+     ]
+    }
+   },
+   {
+    "question": "發動這個 sweep 的關鍵時機窗口是什麼？",
+    "answer": "sweep 必須在對手向前投入壓力的最高峰時發動，此時他們的重心已完全壓在你的 butterfly hook 上。發動得太早，重量不足以把他們抬起。發動得太晚，他們已經把你壓平，拿掉了你 hook 的槓桿力。理想的時刻，是你感覺到 hook 承受最大壓力、對手的髖部已完全投入越過你身體中線的那一刻。",
+    "answer_line": "他們向前投入壓力的最高峰",
+    "distractors": {
+     "plausible": [
+      "hook 一插入的那一瞬間",
+      "他們一撐地之後立刻"
+     ],
+     "trap": [
+      "等他們把你完全壓平"
+     ]
+    }
+   },
+   {
+    "question": "如果 sweep 機會出現時只有一個 butterfly hook 卡入，你該如何調整？",
+    "answer": "使用單 hook 的變化型，把 hook 放在你 choke 那隻手臂的同一側。這時的 sweep 會比較像是一個上抬式的 hip bump，把對手滾過你的肩膀，而不是傳統的 butterfly 上抬。要在他們拆掉剩下那個 hook 之前立刻執行，用 guillotine 的拉扯來引導他們翻轉的軌跡。這個時機窗口更短，所以動作要果斷。",
+    "answer_line": "在 choke 那一側做單 hook 的 hip bump",
+    "distractors": {
+     "plausible": [
+      "等待插入第二個 hook",
+      "把 hook 換到遠側"
+     ],
+     "trap": [
+      "放棄 sweep，尋找 back take"
+     ]
+    }
+   },
+   {
+    "question": "要在整個 sweep 旋轉過程中維持 choke 的壓力，需要什麼樣的 grip 配置？",
+    "answer": "必須有一個鎖死的 gable grip 或 chin strap 配置，讓你前臂的骨面高高頂在對手下巴下方，這是不可或缺的。這個 grip 必須夠緊，讓旋轉動作不會產生鬆動。你的手肘要一直緊貼身體，而 grip 的鎖定要獨立於執行 sweep 的腿部力學之外運作。",
+    "answer_line": "鎖死的 gable grip，手肘夾緊",
+    "distractors": {
+     "plausible": [
+      "每次旋轉都重新設置的鬆散 grip",
+      "grip 緊緊配合腿部節奏"
+     ],
+     "trap": [
+      "手肘外張以取得更多扭力"
+     ]
+    }
+   },
+   {
+    "question": "對手在 sweep 過程中把頭轉開想逃脫這個 choke——這時會打開什麼樣的轉換機會？",
+    "answer": "他們的轉頭會暴露出背部、創造 back take 的機會。與其硬要維持 guillotine 的角度，不如利用這股動能完成 sweep，但把落點導向 back control 而不是 mount。當你確立 hook 時，guillotine 的 grip 會轉換成 seat belt，用這個 choke 換取一個更優勢的控制位置，並打開 rear naked choke 的機會。",
+    "answer_line": "背部暴露，轉換到 back control",
+    "distractors": {
+     "plausible": [
+      "重新調整角度以保住 guillotine",
+      "改做 arm-triangle"
+     ],
+     "trap": [
+      "追著頭部以維持 choke 鎖定"
+     ]
+    }
+   },
+   {
+    "question": "落在 mount 之後，你的髖部要立刻做什麼才能把成功率最大化？",
+    "answer": "落到 mount 的當下，立刻把髖部推向你 choke 那一側，同時把手肘拉向對側的髖部。這會在頸部產生旋轉扭力，完成這個 submission。你的 mount 位置讓你能用體重與髖部角度、而不是手臂力量來完成這個 choke。維持這個由髖部驅動的壓力時，把膝蓋張開以取得重心。",
+    "answer_line": "髖部推向 choke 側，拉手肘",
+    "distractors": {
+     "plausible": [
+      "先坐後方穩住重心",
+      "不動髖部，光靠手臂夾緊"
+     ],
+     "trap": [
+      "把髖部推離 choke 那一側"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試 sweep 時，對手把髖部往後 sprawl——你接下來的連續攻擊是什麼？",
+    "answer": "伸展你的 hook 跟上他們後退的髖部，並維持對他們頭部向下的拉扯。如果他們製造出太大的距離讓 sweep 無法執行，就轉換到 closed guard、同時保持 guillotine 鎖定，然後重新設置這個困境。從 closed guard 搭配 guillotine 出發，你可以直接威脅完成，或重新插入 butterfly hook 來重新裝填 sweep 的威脅。",
+    "answer_line": "追上髖部，從 closed guard 重新裝填",
+    "distractors": {
+     "plausible": [
+      "不顧距離硬做 sweep",
+      "放手重新伸腿設 hook"
+     ],
+     "trap": [
+      "放開 guillotine 的 grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當你陷入這個組合攻擊時，為什麼向前施壓是最糟糕的反應？",
+    "answer": "向前施壓會把你的重量直接壓到對手的 butterfly hook 上，而這正是他們執行 sweep 所需要的能量來源。你的向前壓力會變成他們 sweep 的力量。你向前壓得越重，上抬就越輕鬆，你就會越徹底地被 sweep 進 bottom mount，並被鎖死一個 guillotine。",
+    "answer_line": "把重量直接餵給 hook",
+    "distractors": {
+     "plausible": [
+      "這樣會讓他們的 guillotine 更快勒緊",
+      "這樣只有陷入僵局的風險"
+     ],
+     "trap": [
+      "向前施壓能逃脫這個 choke"
+     ]
+    }
+   },
+   {
+    "question": "當你辨識出 Butterfly Sweep with Guillotine 的設置時，第一個防守優先事項是什麼？",
+    "answer": "第一個優先事項，是防止你的重心壓到 butterfly hook 上，同時開始處理 guillotine 的 grip。這代表你要控制髖部位置，保持髖部低、支撐面寬，而不是向前施壓。你必須同時應對這兩個威脅，因為只專注處理其中一個，會直接餵養另一個。",
+    "answer_line": "髖部放低、撐寬、卸除 hook 上的重量",
+    "distractors": {
+     "plausible": [
+      "先處理 grip，髖部之後再說",
+      "向前施壓把他們壓平"
+     ],
+     "trap": [
+      "立刻寬撐雙手來阻止它"
+     ]
+    }
+   },
+   {
+    "question": "即使會放棄上位壓力，什麼時候站起來才是正確的防守選擇？",
+    "answer": "當你無法從目前的位置拆掉 guillotine 的 grip、且 butterfly hook 已完全卡入時，站起來是正確的選擇。站起來能徹底拿掉 hook 的槓桿力，把你放在一個 guillotine 完成力學上較弱的位置。接受一個 guillotine 力量被削弱的 closed guard 上位，遠比被 sweep 進 mount、還被鎖死一個 choke 好得多。",
+    "answer_line": "拆不掉 grip、hook 已完全卡入",
+    "distractors": {
+     "plausible": [
+      "只要 hook 一插入就該站起來",
+      "只有在 guillotine 已經很深時"
+     ],
+     "trap": [
+      "絕不站起來，永遠保持重量"
+     ]
+    }
+   },
+   {
+    "question": "要如何利用這個位置所創造出的 Von Flue 反制機會？",
+    "answer": "當你把肩膀壓過對手身體中線、消除 sweep 角度時，你的肩膀能直接在靠近你這一側對他們的頸部施壓，同時他們仍維持著 guillotine。如果他們的 grip 夠鬆，用肩膀壓力壓進靠近你這一側的頸動脈，同時他們自己的 guillotine grip 又困住了自己的手臂，就會形成 Von Flue choke。這需要你先化解 sweep 的角度才行。",
+    "answer_line": "用肩膀壓力壓進被困住的頸部",
+    "distractors": {
+     "plausible": [
+      "先把他們被困住的手臂拉出來",
+      "施壓前先切換髖部"
+     ],
+     "trap": [
+      "先拚命拆掉他們的 grip"
+     ]
+    }
+   },
+   {
+    "question": "對手開始轉動髖部以裝填 sweep 角度——你該立刻做什麼動作來阻止 sweep？",
+    "answer": "把靠近他們 choke 那一側的腳往外跨寬，並把那一側的髖部朝地墊壓下。這能讓你的重心脫離他們的 sweep 軌跡，讓他們在力學上不可能把你朝原定方向抬起。同時開始用手對抗 guillotine 的 grip 來降低勒頸的壓力，讓你的寬支撐面化解這個 sweep。",
+    "answer_line": "跨寬步伐，把髖部壓向 choke 那一側",
+    "distractors": {
+     "plausible": [
+      "立刻直接向後 sprawl",
+      "把髖部改壓向遠側"
+     ],
+     "trap": [
+      "向前施壓頂進他們的髖部"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Sweep with Guillotine.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge to Mount from High Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 high mount 底部執行 bridge 的主要時機是什麼時候？",
+    "answer": "最佳時機是在上位者為了建立抓握或發動 submission 而把重心往前移的時候。這個往前的重心轉移會抬高他們的重心，同時縮窄他們的支撐底盤，讓他們最容易受到爆發性的向上位移影響。如果他們維持靜態的壓力、寬闊的底盤與主動撐地，這時候 bridge 在力學上效率很差，很可能因為力量不足以突破他們像三腳架般的穩定結構而失敗。",
+    "answer_line": "趁他們伸手抓握或找 sub 時",
+    "distractors": {
+     "plausible": [
+      "mount 一被確立就馬上",
+      "當他們壓力最重的時候"
+     ],
+     "trap": [
+      "當他們穩住寬底盤時"
+     ]
+    }
+   },
+   {
+    "question": "從 high mount 執行 bridge 之前，必須具備哪些條件才有機會成功？",
+    "answer": "你至少需要一隻腳平踩在墊子上並盡量靠近髖部、膝蓋彎曲以產生槓桿力，髖部沒有被完全 grapevine 或壓死在墊子上，手臂則收在防禦性的殼型姿勢中，而不是被困住或伸直。最關鍵的是，對手必須正處於重心轉移的過程中——伸手抓握或找 submission——而不是穩穩地停在寬闊的 posted 底盤上。條件不足時 bridge，只會浪費爆發力氣，還洩漏你的意圖。",
+    "answer_line": "腳踩穩、髖部自由、手臂收殼",
+    "distractors": {
+     "plausible": [
+      "腳的位置隨意，手臂收緊即可",
+      "底盤穩固靜止，雙腳站定"
+     ],
+     "trap": [
+      "髖部被壓死時仍用力 bridge"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 bridge 要朝一側角度發動，而不是直直往上？",
+    "answer": "有方向性的 bridge 會產生旋轉式的位移力，上位者無法單純靠往下壓髖部來吸收。若是直直往上的 bridge，對手可以左右對稱地張開膝蓋、把重量往下壓，藉此維持位置。角度式的 bridge 會逼他們只能往一側撐地，造成不對稱的位移，破壞他們膝蓋的位置，逼他們的膝蓋沿著你的軀幹往下滑。",
+    "answer_line": "偏一個角度破壞一側平衡",
+    "distractors": {
+     "plausible": [
+      "直直往上以求最大力量",
+      "左右快速交替"
+     ],
+     "trap": [
+      "用手臂直直往上推"
+     ]
+    }
+   },
+   {
+    "question": "從 high mount 底部執行 bridge 時，你的手臂應該做什麼？",
+    "answer": "手臂必須在整個 bridge 過程中緊貼肋骨，雙手護在下巴與頸部附近。絕對不要伸直手臂去推對手的胸口、臉或肩膀，因為這樣會立刻製造 armbar、americana 和 kimura 的機會。所有 bridge 的力量都要透過髖部伸展與雙腳蹬地產生。手臂在這個動作中只負責防禦，保護你不被 submission 攻擊，力量的工作交給髖部完成。",
+    "answer_line": "收緊護住下巴與頸部",
+    "distractors": {
+     "plausible": [
+      "用來架在他們胸口上",
+      "抓住他們的衣領"
+     ],
+     "trap": [
+      "推壓他們的肩膀"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 成功把對手逼回 regular mount——接下來你該立刻做什麼？",
+    "answer": "立刻無縫銜接標準 mount 的逃脫程序，不要停在 regular mount 裡。建立手肘與膝蓋的連結 frame，接著執行 elbow escape（做 shrimp 插入 knee shield）或 upa escape（困住同側手臂與腳，做爆發性的 bridge and roll）。對手會在幾秒內試圖把膝蓋走回 high mount，所以從 bridge 到逃脫的銜接必須連續不間斷。",
+    "answer_line": "直接銜接逃脫動作",
+    "distractors": {
+     "plausible": [
+      "先停下來重整底盤",
+      "馬上再做一次 bridge"
+     ],
+     "trap": [
+      "放鬆喘口氣"
+     ]
+    }
+   },
+   {
+    "question": "你嘗試 bridge 時對手 grapevine 住你的雙腿——你該如何調整逃脫方式？",
+    "answer": "被 grapevine 住時，完整的 bridge 在力學上會受限，因為你的雙腿無法產生足夠的槓桿力來做爆發性的髖部伸展。這時改用小幅度的 hip bump，搭配前臂在他們髖部上架 frame。用細微的動作逐步把他們的膝蓋往下推。試著用你的腳去勾住他們其中一隻 grapevine 的腳，破壞這個結構，之後再用完整槓桿重新嘗試 bridge。",
+    "answer_line": "小幅 hip bump 加上架 frame",
+    "distractors": {
+     "plausible": [
+      "更用力 bridge 硬闖過去",
+      "等 grapevine 自己鬆開"
+     ],
+     "trap": [
+      "硬做完整的 bridge 闖過去"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的身體訊號告訴你對手正準備從 high mount 伸手抓 submission？",
+    "answer": "對手會稍微放掉一些胸貼胸的壓力，坐得比較挺一點，或是你會感覺到有一隻手離開接觸點，伸向你的衣領、手腕或頭部。他們伸手時重心會往前壓到撐地的那隻手上，膝蓋壓在你肋骨上的壓力可能會有一側短暫變輕。這正是 bridge 的最佳時機，因為他們的底盤此刻不穩，注意力也放在建立抓握上，而不是維持位置。",
+    "answer_line": "伸手時壓力變輕",
+    "distractors": {
+     "plausible": [
+      "他們把膝蓋夾得更緊",
+      "他們把髖部壓得更低"
+     ],
+     "trap": [
+      "他們完全靜止不動"
+     ]
+    }
+   },
+   {
+    "question": "被困在 high mount 等待 bridge 機會時，你該如何管理體力？",
+    "answer": "在每次 bridge 嘗試之間保持身體放鬆，用鼻子呼吸來平穩控制心率。避免在對手底盤穩固時持續掙扎或試探性地小幅 bridge，這只會消耗體力卻沒有任何位置上的改善。保持心理警覺、留意時機出現，同時讓身體維持低耗能的防禦姿勢。每次 bridge 都應該是全力投入的爆發動作，如果沒成功就立刻放鬆，把體力留給下一次嘗試。",
+    "answer_line": "放鬆等待，一次全力爆發",
+    "distractors": {
+     "plausible": [
+      "持續小幅度試探 bridge",
+      "憋氣保持緊繃"
+     ],
+     "trap": [
+      "不停掙扎尋找空隙"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要吸收對手從 high mount 發動的 bridge，最重要的重心調整是什麼？",
+    "answer": "把重心往前壓，讓你的胸口直接壓在對手的上胸口上，髖部往下壓進他們的胸骨。這種向前的重心分布，讓對手的 bridge 必須在力學上處於劣勢，因為向上的力量必須同時克服重力與你的結構性壓制。如果你坐得比較直立，重心會比較高，對手只需要較小的力量就能把你往後位移。",
+    "answer_line": "胸口前壓，髖部下壓",
+    "distractors": {
+     "plausible": [
+      "坐直以求平衡",
+      "重心放在腳跟保持後方"
+     ],
+     "trap": [
+      "身體後仰，雙手撐地"
+     ]
+    }
+   },
+   {
+    "question": "對手雙腳踩穩，你感覺到 bridge 即將發動——你該做什麼樣的預先調整？",
+    "answer": "立刻用一隻手往寬處撐在他們頭部附近建立三角穩定，同時把膝蓋夾得更緊、壓進他們的腋下，限制他們髖部的活動範圍。稍微把髖部壓低，增加他們需要 bridge 位移你的垂直距離。如果可以的話，用空出的手抓住衣領或控制手腕，威脅 submission，逼他們必須先防守，而不是全力投入 bridge。",
+    "answer_line": "手撐寬，膝蓋夾緊",
+    "distractors": {
+     "plausible": [
+      "坐回去放鬆髖部",
+      "雙手緊抓兩隻手腕"
+     ],
+     "trap": [
+      "站起來重新建立底盤"
+     ]
+    }
+   },
+   {
+    "question": "對手的 bridge 部分成功，你的膝蓋開始往下滑——你該如何拿回優勢？",
+    "answer": "與其硬把膝蓋立刻走回原位，不如順著位移的動能，往 bridge 產生空間的那一側轉進 S Mount。一隻膝蓋跨過他們的軀幹，另一隻腿往後伸展做底盤支撐。這樣就能把他們部分成功的逃脫，轉換成對你有利的位置提升，比原本的 high mount 更具威脅性。",
+    "answer_line": "順勢轉進開放側的 S-mount",
+    "distractors": {
+     "plausible": [
+      "硬把膝蓋走回原位",
+      "抓住一條腿做 kimura ride"
+     ],
+     "trap": [
+      "後撤 sprawl 防守腿部"
+     ]
+    }
+   },
+   {
+    "question": "從 high mount 底部，你要如何分辨對手是在做 bridge，還是在做 elbow escape 的準備動作？",
+    "answer": "bridge 的特徵是雙腳都平踩在地、雙側同時向上頂髖，感覺像是直接向上頂在你的髖部與下軀幹上的壓力。elbow escape 的準備動作則是轉向一側，在你的髖部上架 frame，並把一側膝蓋朝髖線方向橫向頂進。這個分辨很重要，因為 bridge 需要靠撐地來拓寬底盤，而 elbow escape 則需要在逃脫的那一側縮小膝蓋與他們髖部之間的側向空間。判斷錯誤會導致你做出錯誤的防禦姿勢。",
+    "answer_line": "雙腳齊頂 vs 單膝架 frame",
+    "distractors": {
+     "plausible": [
+      "感覺到任何髖部動作就當作訊號",
+      "只看抓握是否改變"
+     ],
+     "trap": [
+      "把任何壓力都當成 bridge"
+     ]
+    }
+   }
+  ]
+ }
+}

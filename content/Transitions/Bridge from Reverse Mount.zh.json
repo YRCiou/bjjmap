@@ -1,0 +1,125 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Bridge from Reverse Mount.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 reverse mount 執行 bridge 之前，為什麼建立髖部角度如此關鍵？",
+    "answer": "直直往上 bridge 只會把對手垂直抬起，並不會把他們從你的中線移位，等你落下時對手就會重新落回原本的位置。透過髖部轉移建立角度，能為 bridge 建立方向性的向量，把對手朝他們最弱的 base 點側向移位。這個方向性的力量，才是真正創造出啟動翻身進入 turtle 所需空間的關鍵。",
+    "answer_line": "髖部角度創造方向性力量",
+    "distractors": {
+     "plausible": ["直直往上爆發求抬升", "先推手，再動髖部"],
+     "trap": ["直直往上 bridge，不帶角度"]
+    }
+   },
+   {
+    "question": "從 reverse mount 執行 bridge 的最佳時機窗口是什麼？",
+    "answer": "最佳的時機窗口是上位者在自己動作過程中重心轉移的時候——伸手抓 grip、轉換到不同位置，或調整他們的 base。這些時刻會暫時破壞他們的結構穩定性，讓你的 bridge 用更少的力氣就能更有效。對著一個已經穩定、沉重、且沒有移動的對手 bridge，是機率最低的做法。",
+    "answer_line": "趁對手重心轉移時 bridge",
+    "distractors": {
+     "plausible": ["趁對手重量最重時 bridge", "對手剛穩定就立刻 bridge"],
+     "trap": ["只在對手靜止時 bridge"]
+    }
+   },
+   {
+    "question": "對手成功跟上你第一次的 bridge 嘗試，並重新穩定在 reverse mount——接下來你該怎麼做？",
+    "answer": "立刻朝相反方向執行第二次 bridge，利用對手為了對抗第一次 bridge 而重新分配的重心。他們的 base 會調整成防禦原本的方向，這讓他們在相反角度上變得脆弱。如果雙重 bridge 失敗，就切換到完全不同的逃脫方式，例如 hip escape 或以 frame 為基礎的技巧，避免動作變得可預測。",
+    "answer_line": "再 bridge 一次，方向相反",
+    "distractors": {
+     "plausible": ["重複相同方向的 bridge", "立刻改用 hip escape"],
+     "trap": ["靜止不動，重新調整 grip"]
+    }
+   },
+   {
+    "question": "從 reverse mount 執行 bridge 時，最關鍵的 grip 或手部位置是什麼？",
+    "answer": "在整個 bridge 過程中，至少要有一隻手一直保護頸部與衣領區域，以防止對手在逃脫過程中固定勒頸。下巴必須緊緊內收貼胸。當一隻手保護頸部時，另一隻手可以撐地增加 bridge 力量，或用來輔助轉身，但頸部防禦絕對不能為了 bridge 的力學而被犧牲。",
+    "answer_line": "一手永遠護住頸部",
+    "distractors": {
+     "plausible": ["雙手都撐地求最大力量", "一手抓對手遠側的腿"],
+     "trap": ["放開雙手求更用力 bridge"]
+    }
+   },
+   {
+    "question": "從 reverse mount 的 bridge，在力學上與標準的 mount bridge 逃脫有何不同？",
+    "answer": "在標準 mount 中，你朝對手的頭部方向或 base 被破壞的任一側 bridge，利用抵住對手胸口或髖部的 frame 來創造方向。在 reverse mount 中，對手面朝你的腳，所以他們的 base 方向是反過來的——他們強的 base 在朝向你腿部的方向，弱的 base 則在他們缺乏撐地能力的地方。你必須鎖定這些反轉過的角度，而且無法使用傳統的胸口 frame，因為對手的背是朝向你的。",
+    "answer_line": "鎖定對手反轉的弱側 base",
+    "distractors": {
+     "plausible": ["照慣例朝頭部方向 bridge", "直直往上推求抬升"],
+     "trap": ["伸手到你身後找胸口 frame"]
+    }
+   },
+   {
+    "question": "在 bridge 過程中，當你轉身進入 turtle 時，對手開始插入 hook——你該如何應對？",
+    "answer": "優先完成轉身進入 turtle，而不是停下來對抗 hook。一旦進入 turtle，立刻透過把腿往後往外伸展來剝除第一個 hook，同時手肘緊貼膝蓋以防止第二個 hook。turtle 中的單一 hook 可以透過標準的 turtle 逃脫來處理，但轉身途中停頓來對抗 hook，會讓你陷入比 reverse mount 或 turtle 都更糟的位置。",
+    "answer_line": "先完成轉身，再剝 hook",
+    "distractors": {
+     "plausible": ["停下來對抗第一個 hook", "轉回 reverse mount"],
+     "trap": ["轉身途中僵住去擋 hook"]
+    }
+   },
+   {
+    "question": "成功從 reverse mount bridge 之後，為什麼停留在 turtle 是個錯誤？",
+    "answer": "turtle 是過渡性的防禦位置，不是終點。從 reverse mount 到達 turtle 只是部分改善你的處境——你的背仍然暴露，對手仍在你背後，還有多種攻擊機會，包括背後偷襲、front headlock 降伏技，以及 crucifix 的切入。bridge 到 turtle 只是第一階段；立刻接續執行 granby roll、坐穿或 technical standup，才能完成逃脫、到達真正更安全的位置。",
+    "answer_line": "turtle 只是過渡，繼續移動",
+    "distractors": {
+     "plausible": ["turtle 很安全，維持位置", "到 turtle 代表戰鬥結束"],
+     "trap": ["留在 turtle 喘口氣"]
+    }
+   },
+   {
+    "question": "哪些體型或對手特質會讓從 reverse mount 的 bridge 更有效或更沒效？",
+    "answer": "對於身形較高或較輕、重量分佈在較大範圍、且在 reverse mount 中 base 可能較不緊密的對手，bridge 會更有效。對於較重、較壯碩、能把密集重量沉到你軀幹上的對手，效果則較差。面對較重的對手，可能需要雙重 bridge 的動作序列，或改用 hip escape。無論對手體型如何，把 bridge 時機對準對手的動作，始終是最重要的成功因素。",
+    "answer_line": "任何體型，時機最重要",
+    "distractors": {
+     "plausible": ["只對較輕的人有效", "體型比時機更重要"],
+     "trap": ["對較重的對手硬做 bridge"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "哪些觸覺線索顯示下位者正準備從 reverse mount 執行 bridge？",
+    "answer": "關鍵的觸覺線索包括：下位者在你重量下把髖部轉向一側、雙腳平踩地墊且膝蓋彎曲、透過你坐在對手軀幹上的接觸感受到核心與臀部張力增加，以及在全力爆發嘗試之前先做幾次試探性的頂動或微小 bridge。對手的腳從伸展變成平踩，是即將 bridge 的強烈徵兆。",
+    "answer_line": "雙腳平踩，髖部轉移",
+    "distractors": {
+     "plausible": ["呼吸變快變淺", "抓緊你的衣領"],
+     "trap": ["忽略細微轉移，維持重量"]
+    }
+   },
+   {
+    "question": "為什麼你應該把對手成功的 bridge 移位視為推進位置的機會，而不是失去位置？",
+    "answer": "當下位者成功 bridge 並開始轉身進入 turtle 時，他們的動作實際上會幫助你轉換到背後控制。只要跟上他們的旋轉並維持胸貼背的接觸，你就能在他們轉身的同時插入 hook 並建立 seatbelt 控制。bridge 把你從 reverse mount——本質上是過渡性的位置——直接帶入背後偷襲的動作序列，進而導向更優勢的四點背後控制位置。把它視為機會而非損失，能讓你維持進攻主動。",
+    "answer_line": "跟上旋轉，切入背後偷襲",
+    "distractors": {
+     "plausible": ["抵抗轉身，奪回 mount", "放手，重置到 guard"],
+     "trap": ["硬拚維持 reverse mount"]
+    }
+   },
+   {
+    "question": "當你察覺下位者把髖部轉向一側時，你應該如何調整你的 base？",
+    "answer": "立刻在對手轉移的那一側加寬你的 base，把膝蓋進一步伸展出去。在同一側把手撐在地墊上，建立三角撐地的 base 結構。透過髖部把重量更沉地壓在對手軀幹上，增加他們必須克服的力量。這種預先調整 base 的做法，會讓對手方向性的 bridge 明顯失效，因為你已經預先強化了他們打算利用的那個角度。",
+    "answer_line": "朝轉移方向加寬 base",
+    "distractors": {
+     "plausible": ["朝轉移的反方向加寬 base", "坐後放輕重量"],
+     "trap": ["把手撐在相反的一側"]
+    }
+   },
+   {
+    "question": "當 bridge 嘗試開始時，長時間停留在 reverse mount 而不轉換位置，主要的風險是什麼？",
+    "answer": "reverse mount 本質上是過渡性的，可維持性有限。下位者每一次 bridge 嘗試都會削弱你的位置控制，即使沒有一次完全成功——你的體力消耗會增加，你的 base 會被反覆測試，下位者也會找出你最弱的角度。在第一次 bridge 嘗試之後仍停留在 reverse mount，代表你是在對抗這個位置本身的不穩定性，而不是把它轉化為優勢。在最初幾秒內就轉換到標準 mount 或背後控制，能完全消除 bridge 的威脅。",
+    "answer_line": "快速轉換，不要停留",
+    "distractors": {
+     "plausible": ["維持 reverse mount 消耗對手", "先等更大的破口"],
+     "trap": ["原地不動，承受每一次 bridge"]
+    }
+   }
+  ]
+ }
+}

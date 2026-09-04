@@ -1,0 +1,125 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對抗 Kesa Gatame 上位者時，建立初始 frame 的最佳時機是什麼？",
+    "answer": "最佳時機是在上位者調整姿勢、嘗試 submission，或轉移重心加深控制的時候。任何他們的壓力暫時降低或注意力分散的瞬間，都會為建立 frame 創造機會。你也可以主動製造時機，透過小幅度 bridge 迫使對方調整重心，然後在他們恢復時立刻建立 frame。被動等待完美時機只會浪費體力，讓對方有更多時間鞏固控制。",
+    "answer_line": "趁對方調整或進攻時 frame",
+    "distractors": {
+     "plausible": ["等到完全靜止的瞬間", "壓力一開始就立刻 frame"],
+     "trap": ["等到對方鞏固控制後再說"]
+    }
+   },
+   {
+    "question": "開始這個技術的 hip escape 階段前，必須具備哪些條件？",
+    "answer": "你的遠端手臂必須已經在對手的下顎或頸部建立好結構性的 frame，讓你們的軀幹之間出現明顯空間。近端手臂至少要部分脫離控制，或撐地協助髖部移動。雙腳要平踩地面、膝蓋彎曲，以產生 hip escape 的力量。這三個條件若沒有同時具備，hip escape 的嘗試就會無效，白白浪費原本可以用在其他逃脫方式上的體力。",
+    "answer_line": "遠端 frame、近端手臂鬆、雙腳踩穩",
+    "distractors": {
+     "plausible": ["光是雙腳踩穩就夠了", "近端手臂鬆開，frame 可有可無"],
+     "trap": ["還沒建立 frame 就先逃脫"]
+    }
+   },
+   {
+    "question": "為什麼你的前臂 frame 應該對準對手的下顎，而不是胸口？",
+    "answer": "下顎能創造力學優勢，因為你是對一個較小、較敏感的區域施力，槓桿優勢更大，適中的力道就能造成明顯的位移。胸口 frame 則讓對手可以用體重貫穿，因為較大的接觸面積會把你的力量分散到他們整個身體質量上。此外，頂下顎會造成不適感，促使對手調整姿勢，進而在製造空間之外，額外創造出第二次逃脫機會。",
+    "answer_line": "小目標，大槓桿",
+    "distractors": {
+     "plausible": ["頂胸口，接觸面更大", "下顎比較痛，所以才這樣做"],
+     "trap": ["為求穩定，frame 對準胸口"]
+    }
+   },
+   {
+    "question": "若你用肌肉力量而非骨骼排列來撐 frame，會發生什麼事？",
+    "answer": "在沉重的 Kesa Gatame 壓力下，用肌肉硬撐會在 20 到 30 秒內耗盡手臂力氣，導致 frame 崩潰，讓你的體力狀態比開始前更糟。骨骼排列則是用骨骼結構被動地抵抗力量，可以長時間維持 frame 而不明顯消耗體力。修正方式是讓前臂與施力方向垂直、手腕打直，用身體的位置來產生壓力，而不是靠手臂肌肉。",
+    "answer_line": "用骨骼撐 frame，不是用肌肉",
+    "distractors": {
+     "plausible": ["用力繃緊手臂對抗", "手腕彎曲，靠肌肉硬撐"],
+     "trap": ["只靠手臂力量硬推"]
+    }
+   },
+   {
+    "question": "當你開始 frame 時，對手激烈地向前貫穿，你該如何調整逃脫方式？",
+    "answer": "當對手激烈向前貫穿時，他們的重心會往你的頭部方向移動，這其實會在你的髖部那一側創造出空間。這時要承受 frame 上的向前壓力，同時朝反方向做 hip escape，利用對手向前貫穿在髖部產生的空間。如果向前的力道大到讓你的 frame 完全撐不住，就改用 bridge-and-roll 逃脫，把他們全力投入的向前動能轉換成翻轉的機會。",
+    "answer_line": "撐住 frame，髖部往外逃",
+    "distractors": {
+     "plausible": ["用力頂回去對抗貫穿", "往壓力反方向後退"],
+     "trap": ["放棄 frame，整個人往後拉"]
+    }
+   },
+   {
+    "question": "一旦你製造出足夠的髖部空間，近側膝蓋應該立刻做什麼？",
+    "answer": "你的膝蓋必須立刻穿入你的身體與對手軀幹之間，建立 knee shield。膝蓋指向對手的遠側肩膀，小腿斜向橫跨他們的胸口，腳掌則勾在他們的髖部後方。這會形成一道永久性的機械屏障，阻止對手重新建立胸口壓力。製造出空間後只要稍微猶豫，對手就有機會拉近距離，讓你先前所有的 frame 努力都白費。",
+    "answer_line": "立刻穿入 knee shield",
+    "distractors": {
+     "plausible": ["先等一下，再穿膝蓋", "先頂髖部，膝蓋晚點再說"],
+     "trap": ["先暫停重新抓 grip"]
+    }
+   },
+   {
+    "question": "如果你最初的 frame 逃脫失敗，對手依然維持住位置，你下一步該怎麼做？",
+    "answer": "如果 frame 已經崩潰，立刻轉換到 bridge-and-roll，利用對手為了瓦解你的 frame 所投入的向前壓力。或者也可以改用 ghost escape，轉身背對他們，而不是繼續硬頂。關鍵原則是絕不連續重複同一個失敗的 frame 嘗試，而是要串接到另一種逃脫模式，專門針對對手選擇用來反制你第一次嘗試的方式來下手。",
+    "answer_line": "串接 bridge-roll 或 ghost escape",
+    "distractors": {
+     "plausible": ["用更大力氣重複同一個 frame", "直接改打 submission"],
+     "trap": ["繼續硬頂同一個 frame"]
+    }
+   },
+   {
+    "question": "一旦回復 guard，你應該立刻建立什麼 grip，以防止對手重新過腿？",
+    "answer": "有道服時，用遠端手抓 collar grip、近端手抓 sleeve grip，控制對手的姿勢，防止他脫離去過腿。無道服時，則用一手在對手頸後建立 collar tie，另一手控制手腕。這些 grip 有雙重作用：既能防止對手立刻重新過腿，又能為你的進攻型 guard game 鋪路，展開 sweep 與 submission，把局面從被動的防守回復轉變成主動的進攻。",
+    "answer_line": "Collar 加 sleeve/wrist grip",
+    "distractors": {
+     "plausible": ["雙邊都抓 underhook", "抓腰帶控制髖部"],
+     "trap": ["放手重新調整手部位置"]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從 Kesa Gatame 嘗試 frame escape 時，最早出現的徵兆是什麼？",
+    "answer": "最早的線索是對手的遠端手臂開始朝你的臉或頸部移動，而不是維持在防禦姿勢。你也可能注意到他們雙腳平踩地面、膝蓋彎曲，髖部開始朝外偏轉，或呼吸變得更加控制、刻意，而不是慌亂。要在手臂還沒達到結構性排列之前立刻反應，因為一旦排列完成，frame 就會變得難以破解得多。",
+    "answer_line": "遠端手臂朝你的臉移動",
+    "distractors": {
+     "plausible": ["髖部先偏轉", "雙腳先平踩，手臂才動"],
+     "trap": ["等 frame 完全成形再說"]
+    }
+   },
+   {
+    "question": "當你感覺到 frame 開始頂住你的臉時，該如何調整重心分配？",
+    "answer": "用胸口與肩膀貫穿 frame 向前推進，而不是往後拉開，藉此增加壓力角度，讓對方的 frame 更難維持。同時放低髖部，防止髖部那一側出現空間。你的重心應該向前、向下移動，利用重力在對方 frame 達到結構性排列之前就把它壓垮——一旦排列完成，frame 就會非常穩固，光靠壓力幾乎無法破解。",
+    "answer_line": "向前貫穿，放低髖部",
+    "distractors": {
+     "plausible": ["從 frame 往後拉開", "抬高髖部保持機動"],
+     "trap": ["坐回去、拉開距離"]
+    }
+   },
+   {
+    "question": "對手嘗試逃脫時，你應該在什麼時機放棄 Kesa Gatame、轉換到 mount？",
+    "answer": "當對手已經製造出你無法靠向前貫穿來封閉的不可逆髖部空間時，就該轉換到 mount。具體的觸發時機，是對手的膝蓋開始穿入你們身體之間、準備建立 knee shield 的那一刻。此時 Kesa Gatame 實質上已經失守，最好的選擇是在膝蓋完全建立成屏障之前，跨過對手的近側膝蓋，把他們的逃脫動作轉換成你晉級到 mount 的機會，而不是完全失去位置。",
+    "answer_line": "在膝蓋建立屏障前跨過去",
+    "distractors": {
+     "plausible": ["一有 bridge 就轉打 mount", "等對手完全回復 guard 再說"],
+     "trap": ["繼續施壓維持 kesa gatame"]
+    }
+   },
+   {
+    "question": "過度投入向前壓力去壓垮對手 frame 的風險是什麼？",
+    "answer": "過度向前投入會讓你的重心超過臨界點，讓對手能夠改用 bridge-and-roll 逃脫，利用你向前的動能來完成翻轉反制。他們可以抓住你的遠端手臂，在你重心全押向前時 bridge，把你整個人翻過去。解決方法是拿捏好向前壓力的分寸，既能壓垮對方的 frame，又不會讓重心過度前傾到讓一次配合得當的 bridge 變成有效反制。",
+    "answer_line": "有被 bridge-roll 反制的風險",
+    "distractors": {
+     "plausible": ["frame 崩潰得比較慢", "對手從後門逃脫"],
+     "trap": ["用全身重量向前貫穿"]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Frame to Guard from Kesa Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

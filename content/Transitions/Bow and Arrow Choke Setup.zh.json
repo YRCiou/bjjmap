@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Bow and Arrow Choke Setup.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "從 Gift Wrap 進行 Bow and Arrow Choke Setup 的主要目標是什麼？",
+        "answer": "主要目標是把控制重心從 Gift Wrap 的手臂控制優勢，轉移到 collar grip 優勢，同時建立 Bow and Arrow Choke 完成所需要的垂直髖部角度。這個 setup 利用對手因為手臂被困而防禦能力受限的機會，趁機建立深握的 collar grip，把位置控制優勢轉換成鎖技威脅。",
+        "answer_line": "把手臂控制轉為 collar grip",
+        "distractors": {
+          "plausible": [
+            "改為直接完成 Rear Naked Choke",
+            "先鎖雙鉤再轉角度"
+          ],
+          "trap": [
+            "放開 Gift Wrap 讓雙手空出來"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在建立 collar grip 的階段，必須持續維持 Gift Wrap 的手臂控制？",
+        "answer": "Gift Wrap 困住對手的一隻手臂，等於直接移除他一半的防禦能力，讓他沒辦法在你建立 collar grip 時有效地打 hand fight。如果太早放開 Gift Wrap，就會恢復對手完整的防禦能力，讓 collar grip 的嘗試變成勢均力敵的搶手戰，而不是佔優勢的位置轉換。被困住的手臂正是讓你能安全建立抓握的關鍵空檔。",
+        "answer_line": "讓對手無法雙手防守抓握",
+        "distractors": {
+          "plausible": [
+            "讓對手一直保持平躺",
+            "順勢對被困手臂做 armbar"
+          ],
+          "trap": [
+            "放手好更快抓到領口"
+          ]
+        }
+      },
+      {
+        "question": "就在你剛鎖好 collar grip 的同時，對手開始抽出被困的手臂——你該怎麼反應？",
+        "answer": "立刻加速你的髖部轉換動作。此時 collar grip 已經是你的主要控制，要利用它來阻止對手完成防禦性的恢復。一邊拉緊領口一邊開始轉向垂直角度。對手掙脫手臂的動作，往往反而會產生你能借力加速轉換的動能。不要試圖重新建立 Gift Wrap——應該堅定地投入以 collar grip 為主的控制。",
+        "answer_line": "立刻加速髖部旋轉",
+        "distractors": {
+          "plausible": [
+            "先重新鎖回 Gift Wrap",
+            "暫停重設兩個抓握"
+          ],
+          "trap": [
+            "放開領口去重新抓手臂"
+          ]
+        }
+      },
+      {
+        "question": "在開始髖部轉換之前，collar grip 需要抓到多深？",
+        "answer": "你的四根手指必須深深穿入領口內側，指節要抵在對手後頸附近。這樣的深度能確保在動態的髖部旋轉過程中抓握不會滑脫。如果只是抓在領口邊緣、抓得太淺，在轉換的壓力下很容易被扯開，導致必須重設抓握，也給對手爭取到防禦恢復的時間。在投入髖部動作之前，先用力拉一下測試抓握是否穩固。",
+        "answer_line": "指節深入抵住後頸",
+        "distractors": {
+          "plausible": [
+            "兩根手指抓在領口邊緣",
+            "拇指在內、其餘手指在外"
+          ],
+          "trap": [
+            "改抓 lapel 而不是領口"
+          ]
+        }
+      },
+      {
+        "question": "垂直的髖部角度對完成 Bow and Arrow Choke 有什麼幫助？",
+        "answer": "你的脊椎與對手脊椎之間大約 90 度的角度，形成了「弓」形結構的機械基礎。這個垂直位置讓你的雙腿能朝相反方向伸展，同時軀幹產生弧度，透過 collar grip 產生巨大的槓桿力量。沒有這個角度，就無法製造出能倍增絞勒壓力的弓形張力。setup 必須先達成這個角度，才能讓最後的完成動作成立。",
+        "answer_line": "形成弓形結構的槓桿",
+        "distractors": {
+          "plausible": [
+            "讓雙鉤保持鎖定",
+            "阻止對手轉身"
+          ],
+          "trap": [
+            "保持平行以維持更多控制"
+          ]
+        }
+      },
+      {
+        "question": "對手在髖部轉換過程中猛烈地轉向你——這是問題還是機會？",
+        "answer": "這通常是個機會。對手轉動產生的動能，往往反而能幫助你建立垂直角度。與其硬碰對手的轉動，不如順勢跟隨，同時拉緊 collar grip、用雙鉤控制他的旋轉方向。對手的防禦動作反而可能加速你達成理想位置。不過你必須持續讓胸口貼緊對手後腦，避免他完成整個轉身、進而做出 guard recovery。",
+        "answer_line": "是機會——順勢跟著轉",
+        "distractors": {
+          "plausible": [
+            "是問題——停下重設抓握",
+            "是機會——放開胸口貼合"
+          ],
+          "trap": [
+            "硬頂對手的轉動並重設"
+          ]
+        }
+      },
+      {
+        "question": "從 Gift Wrap 轉換到 Bow and Arrow 的過程中，鉤子的管理有什麼關鍵之處？",
+        "answer": "在整個轉換過程中，至少要維持上方的鉤保持勾住。鉤能防止對手在容易受攻擊的抓握轉移階段逃出 back control。下方的鉤在髖部旋轉時可以稍微靈活調整，但如果兩個鉤都在轉換過程中失去，對手就有機會完全逃離位置。在建立 collar grip 的同時，利用鉤跟隨對手的旋轉防禦，並吸收他的橋身動作。",
+        "answer_line": "至少保留上方的鉤",
+        "distractors": {
+          "plausible": [
+            "兩個鉤都鎖緊不放",
+            "建立 collar grip 前先換鉤"
+          ],
+          "trap": [
+            "放開鉤子讓雙手空出來"
+          ]
+        }
+      },
+      {
+        "question": "什麼時候應該放棄 Bow and Arrow Setup、改選其他攻擊？",
+        "answer": "當對手在你鎖住 collar grip 之前，成功抽出被困的手臂並建立起主動的雙手防禦時，就該放棄這個 setup。此外，如果嘗試多次仍無法抓到足夠深度，也該放棄——太淺的抓握是完成不了絞技的。這時可以改回攻擊 Rear Naked Choke，改攻剛好空出來的手臂做 armbar，或如果對手暴露出破綻，可以推進到 Crucifix。Gift Wrap 的位置能給你時間評估並選擇成功率最高的選項。",
+        "answer_line": "手臂在領口鎖定前就掙脫",
+        "distractors": {
+          "plausible": [
+            "對手先抓住你的領口",
+            "第一次轉髖嘗試之後"
+          ],
+          "trap": [
+            "硬用淺抓握強行完成"
+          ]
+        }
+      },
+      {
+        "question": "在髖部轉換過程中，要如何防止 collar grip 滑脫？",
+        "answer": "在開始動作之前，先讓指節深入抵住對手後頸附近，建立足夠的抓握深度。把領口往自己身體方向拉緊，消除多餘的鬆弛。在髖部旋轉過程中，要持續施加拉力，而不是放鬆抓握。整個轉換期間手肘要貼近對手的頸部。如果感覺抓握開始鬆動，就先暫停髖部動作，重新確保深度後再繼續。抓握必須撐得住轉換過程中的動態力量。",
+        "answer_line": "先抓深、拉緊、持續維持",
+        "distractors": {
+          "plausible": [
+            "先鬆抓，等角度到位再拉緊",
+            "旋轉過程中換手"
+          ],
+          "trap": [
+            "轉髖時放鬆抓握"
+          ]
+        }
+      },
+      {
+        "question": "對手在你進行髖部轉換時選擇整個人趴平防禦——你最好的反應是什麼？",
+        "answer": "對手趴平的姿勢在許多情況下反而會讓你的 Bow and Arrow 角度更好。持續在對手趴平的同時建立垂直位置。不管對手是側身還是趴平，你的 collar grip 與腿部控制都能產生同樣的完成機制。另外，對手趴平的姿勢，也正好給你用同一個 collar grip 完成 Clock Choke 的絕佳機會。不要放開抓握——不管對手做出哪種防禦姿勢，兩種完成方式都仍然可行。",
+        "answer_line": "繼續進攻——Clock Choke 隨之而來",
+        "distractors": {
+          "plausible": [
+            "放開抓握，對手已經逃脫",
+            "改攻 armbar"
+          ],
+          "trap": [
+            "放棄抓握、重設位置"
+          ]
+        }
+      },
+      {
+        "question": "胸口貼緊對手頭部，與防止逃脫之間有什麼關聯？",
+        "answer": "你的胸口壓在對手後腦，能防止他轉身面向你。頭部轉動是對手建立防禦框架、開始 guard recovery 的主要機制。透過胸口壓力控制對手的頭部位置，你就能消除讓他逃脫所需要的角度變化。這個控制必須在整個轉換過程中持續維持——就算只是短暫放開胸口的接觸，也會給對手創造出他會利用的轉身機會。",
+        "answer_line": "阻止對手轉頭逃脫",
+        "distractors": {
+          "plausible": [
+            "控制對手的髖部動作",
+            "防止對手橋起身體"
+          ],
+          "trap": [
+            "放開胸口讓雙手空出來"
+          ]
+        }
+      },
+      {
+        "question": "Bow and Arrow Setup 如何與從 Gift Wrap 發動的 Rear Naked Choke 攻擊互相銜接？",
+        "answer": "這兩種攻擊會製造出「兩難」的局面。當你威脅 Rear Naked Choke 時，對手通常會用手對付你勒頸的那隻手臂、並把下巴收緊來防禦，這個防禦動作正好暴露出領口，方便你建立 Bow and Arrow 的抓握。反過來，當你透過建立 collar grip 威脅 Bow and Arrow 時，對手常常會用雙手去剝除你的抓握，這又讓他的脖子暴露出來給 Rear Naked Choke。在這兩種威脅之間循環，會耗盡對手的防禦能力，最終在其中一邊製造出完成的機會。",
+        "answer_line": "製造出鎖技兩難局面",
+        "distractors": {
+          "plausible": [
+            "一律先完成 Rear Naked Choke",
+            "Bow and Arrow 單獨也能完成"
+          ],
+          "trap": [
+            "全力投入，無視 Rear Naked Choke 的威脅"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "在對手從 Gift Wrap 進行 Bow and Arrow Choke Setup 的過程中，主要的防禦空檔在哪裡？",
+        "answer": "主要的防禦空檔出現在抓握轉移的階段，也就是對手把控制重心從 Gift Wrap 的手臂控制，轉移到 collar grip 的時候。在這個轉換過程中，對手必須暫時放鬆 Gift Wrap 的壓力才能伸手抓領口，這會製造出短暫的破綻，讓你可以選擇恢復被困的手臂、在抓握鎖死之前剝除 collar grip，或發動旋轉逃脫。一旦 collar grip 完全抓深、髖部旋轉開始，防禦選項就會大幅減少。",
+        "answer_line": "在抓握轉移的階段",
+        "distractors": {
+          "plausible": [
+            "等 collar grip 抓深之後",
+            "等髖部旋轉完成之後"
+          ],
+          "trap": [
+            "等絞技開始生效再反應"
+          ]
+        }
+      },
+      {
+        "question": "對手用空出來的手伸向你的領口——你應該優先剝除這個抓握，還是優先保護脖子？",
+        "answer": "你必須同時處理這兩個威脅，而不是只選其中一個。用你空出來的手對付對手伸過來的手，把手推開或把手指從領口上撥開，同時透過收下巴、把絞勒側的肩膀抬高，被動地保護脖子。如果全力投入防守領口，脖子就會暴露在對手改攻 Rear Naked Choke 的風險下；如果全力保護脖子，對手就能不受阻礙地建立 collar grip。",
+        "answer_line": "同時對付抓握和保護脖子",
+        "distractors": {
+          "plausible": [
+            "只保護脖子，不管領口",
+            "只剝除領口，不管脖子"
+          ],
+          "trap": [
+            "什麼都不做，等待破綻"
+          ]
+        }
+      },
+      {
+        "question": "在髖部旋轉的階段，為什麼轉向對手比轉離對手更有效？",
+        "answer": "轉向對手能破壞他建立 Bow and Arrow 結構所需要的垂直髖部角度。對手需要你我脊椎之間大約 90 度的角度，才能產生完成技術所需要的機械力量。當你轉向對手時，會縮小這個角度，甚至可能讓你有機會建立防禦框架或開始 guard recovery。轉離對手反而會幫助對手，因為這會提供他更快達成垂直角度所需要的旋轉動能。",
+        "answer_line": "破壞垂直角度的形成",
+        "distractors": {
+          "plausible": [
+            "轉離能製造逃脫空間",
+            "轉哪個方向都一樣"
+          ],
+          "trap": [
+            "轉離對手來累積動能"
+          ]
+        }
+      },
+      {
+        "question": "在對手嘗試建立 collar grip 的過程中，你感覺被困手臂上的 Gift Wrap 壓力變小了——你該怎麼做？",
+        "answer": "立刻利用肩膀轉動與髖部 shrimp 的動作，設法把被困的手臂救回來。Gift Wrap 壓力減少，代表對手正在把控制重心轉移到 collar grip，這正好給了被困手臂一個恢復的空檔。如果能在 collar grip 完全鎖死之前把手臂救出來，就能恢復雙手防禦的能力，大幅降低對手接下來 collar grip 或絞技嘗試的成功率。這個恢復動作要爆發性地完成，因為空檔非常短暫。",
+        "answer_line": "爆發性地救回被困手臂",
+        "distractors": {
+          "plausible": [
+            "等 collar grip 鎖死再說",
+            "只專注保護脖子"
+          ],
+          "trap": [
+            "放鬆並接受這個位置"
+          ]
+        }
+      },
+      {
+        "question": "對手已經建立深握的 collar grip，並開始轉動髖部——你還剩下什麼防禦選項？",
+        "answer": "到了這個較晚的階段，最好的選擇是處理髖部旋轉，而不是試圖剝除已經鎖死的 collar grip。積極地轉向對手，阻止垂直角度完全形成。同時用空出來的手控制對手遠側的膝蓋或髖部，防止他建立完成 Bow and Arrow 結構所需要的腿部控制。如果無法阻止角度形成，就執行緊急髖部逃脫，轉向 Turtle 位置，在完成動作之前先破壞 back control 的結構。",
+        "answer_line": "轉向對手，控制他的髖部",
+        "distractors": {
+          "plausible": [
+            "剝除已經鎖死的領口抓握",
+            "用力橋身破壞抓握"
+          ],
+          "trap": [
+            "立刻轉 Turtle，不管角度"
+          ]
+        }
+      }
+    ]
+  }
+}

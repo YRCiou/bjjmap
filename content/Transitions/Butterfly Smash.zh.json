@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "過 butterfly guard 時，為什麼向前壓力會比側向移動更有效？",
+    "answer": "向前壓力直接攻擊 butterfly hook 的結構完整性，拿掉它們發揮作用所需要的空間。butterfly hook 依靠製造高度與距離——向前壓力會把對手壓平，拿掉他們 hook 所需要的槓桿力，藉此瓦解這個結構。沒有壓力的側向移動，會讓對手能維持 hook 接觸並隨你旋轉，保持 guard 完整。",
+    "answer_line": "把對手壓平，消滅 hook",
+    "distractors": {
+     "plausible": [
+      "繞圈避開 hook",
+      "速度過guard勝過壓力"
+     ],
+     "trap": [
+      "後退重設距離"
+     ]
+    }
+   },
+   {
+    "question": "要跨過第二個 butterfly hook，最主要的時機指標是什麼？",
+    "answer": "只有在第一個 hook 已完全化解、且已透過 crossface 或 underhook 確立上半身控制之後，才能跨過第二個 hook。太早跨過會讓對手用剩下的那個 hook 恢復 guard 或轉換到 half guard。關鍵訊號是感覺到對手的結構已經崩潰，上半身被壓平，並被你的 crossface 轉開頭部。",
+    "distractors": {
+     "plausible": [
+      "第一個 hook 一拆掉就跨過",
+      "髖部低於對手時就跨過"
+     ],
+     "trap": [
+      "同時跨過兩個 hook"
+     ]
+    },
+    "answer_line": "第一個 hook 已死、crossface 已確立"
+   },
+   {
+    "question": "把手肘貼緊身體如何防止常見的 butterfly guard 攻擊？",
+    "answer": "手肘貼緊的姿勢能防止 arm drag，這是 butterfly guard 最有效的反制之一。當你的手肘伸展或鬆散時，對手能輕易抓住你的手腕或三頭肌，把你的手臂拉過他們身體以取得你的背後。讓手肘貼緊肋骨，會讓他們很難孤立並控制你的手臂來執行 arm drag。",
+    "answer_line": "擋住 arm drag",
+    "distractors": {
+     "plausible": [
+      "維持姿勢挺直",
+      "防止被 sweep"
+     ],
+     "trap": [
+      "雙手撐開以取得重心"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly smash 中，胸口壓力與 hook 有效性之間的關係是什麼？",
+    "answer": "butterfly hook 需要下位者維持挺直或有角度的姿勢，才能產生上抬的力量。胸口壓力會把對手逼向躺平，這會從根本上改變他們髖部與雙腿的角度，讓 hook 在力學上變得虛弱。當對手被壓平時，他們的 hook 就無法產生 sweep 或保留 guard 所需要的高度，讓它們從主動的威脅變成被動的障礙物。",
+    "answer_line": "胸口壓力壓平 hook",
+    "distractors": {
+     "plausible": [
+      "壓力能加快過guard速度",
+      "壓力會讓對手疲勞"
+     ],
+     "trap": [
+      "放鬆壓力以改變角度"
+     ]
+    }
+   },
+   {
+    "question": "你開始施加壓力時，對手把手撐在地墊上——你該如何調整？",
+    "answer": "撐地的手代表對手正試圖在你的壓力下維持坐姿。針對那隻撐地的手臂，把肩膀壓向同一側，瓦解那個支撐點。或者，利用他們一隻手被佔用的機會，在他們另一隻手臂上取得 grip 優勢。絕不要讓那隻撐地的手成功把他們撐起來——重新調整你的壓力角度，直接攻擊那個支撐點。",
+    "answer_line": "把肩膀壓向撐地的手",
+    "distractors": {
+     "plausible": [
+      "先抓住撐地的手腕",
+      "放慢速度、重新調整姿勢"
+     ],
+     "trap": [
+      "讓他們撐地，繞開"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly smash 剛開始接觸時，哪種 grip 配置最為關鍵？",
+    "answer": "在 gi 中使用同側的 collar 加 sleeve grip，在 no-gi 中使用 collar tie 搭配 wrist control，把對手的上半身向後推。關鍵要求是你的 grip 要能把對手的上半身向後推，同時你的手肘要一直貼緊軀幹，在整個接觸過程中防止 arm drag。",
+    "distractors": {
+     "plausible": [
+      "一開始就做雙 underhook",
+      "cross-grip 兩隻 sleeve"
+     ],
+     "trap": [
+      "雙手都抓 collar，手肘打開"
+     ]
+    },
+    "answer_line": "collar-sleeve，手肘貼緊"
+   },
+   {
+    "question": "對手擋下你拆解第一個 hook 的嘗試，並開始上抬準備做 butterfly sweep——你該如何應對？",
+    "answer": "立刻把較遠的那條腿跨開以拓寬支撐面，並把髖部壓得更低，用吸收的方式而不是硬碰硬去對抗這個上抬。暫時把髖部向後 sprawl 來吸收這股上抬的力量，等 sweep 的動能消散後再重新施壓接觸。絕不要試圖硬闖過一個正在進行中的上抬——重設你的壓力角度，改試另一側。",
+    "distractors": {
+     "plausible": [
+      "硬闖過那股上抬力量",
+      "用力撐地、伸直手臂抵抗"
+     ],
+     "trap": [
+      "跟著他們的髖部一起上抬"
+     ]
+    },
+    "answer_line": "拓寬支撐面、sprawl、吸收"
+   },
+   {
+    "question": "把膝蓋壓向對手髖部旁邊地墊時，正確的施力方向是什麼？",
+    "answer": "施力方向應該是朝地墊大約 45 度向前向下，而不是純粹向下或純粹向前。這個角度能同時把對手的大腿壓平，並讓你的身體位置越過他們的 hook 繼續推進。膝蓋緊緊頂著他們的髖骨，形成一個楔子，防止 hook 恢復它的上抬角度。純粹向下的力量無法推進你的位置，而純粹向前的力量則可能被對手改變方向轉成 sweep。",
+    "answer_line": "45 度向前向下，頂住髖部",
+    "distractors": {
+     "plausible": [
+      "直直向下壓大腿",
+      "直直向前越過 hook"
+     ],
+     "trap": [
+      "把膝蓋轉離髖部"
+     ]
+    }
+   },
+   {
+    "question": "你的 butterfly smash 被擋下，對手恢復坐姿並重新抓好 grip——這時還有哪些過guard選項？",
+    "answer": "當 butterfly smash 停滯、對手重新設好強勢的坐姿 butterfly guard 時，不該再硬套同一種過guard。改用其他過guard方式：轉換成 standing toreando pass 徹底改變局勢、若能取得雙 underhook 就切換成 body lock pass，或製造角度嘗試 knee slice pass。關鍵原則是：施壓失敗後應該轉向不同的過guard路線，而不是重複嘗試同一種方式。",
+    "answer_line": "轉換到不同的過guard方式",
+    "distractors": {
+     "plausible": [
+      "等他們力竭",
+      "在他們閉鎖的結構裡耗著"
+     ],
+     "trap": [
+      "更用力重複同一種 smash"
+     ]
+    }
+   },
+   {
+    "question": "在 butterfly smash 中，為什麼必須逐一拆解 frame，而不是同時處理？",
+    "answer": "逐一拆解 frame 能讓你維持持續的壓力與控制，而一次拆掉好幾個則會迫使你放開 grip、製造空間。同時嘗試拆掉多個 frame，需要你放開自己控制性的 grip 與上半身壓力，這會製造出空間，讓對手立刻用來重新建立 guard 結構。你拆掉的每一個 frame，都會降低對手製造距離的能力，讓後續拆解 frame 變得越來越容易。",
+    "distractors": {
+     "plausible": [
+      "依序拆解比較快",
+      "節省你的握力"
+     ],
+     "trap": [
+      "一次拆掉所有 frame"
+     ]
+    },
+    "answer_line": "維持持續不間斷的壓力"
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "要辨別對方發動的是 butterfly smash、而不是其他過guard方式，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是過guard者把額頭壓進你的胸口或胸骨，同時把手肘貼緊身體、把髖部壓低。頭部壓力、貼緊的手肘與低重心這三者的組合，能把 butterfly smash 與站立式過guard或速度過guard區分開來。過guard者是在投入向前壓力，而不是製造距離，這代表他的意圖是瓦解你的結構，而不是繞過你的雙腿。",
+    "answer_line": "額頭壓胸口，手肘貼緊",
+    "distractors": {
+     "plausible": [
+      "雙手抓住兩隻褲管",
+      "站起來繞行 guard"
+     ],
+     "trap": [
+      "往後退製造空間"
+     ]
+    }
+   },
+   {
+    "question": "為什麼維持挺直的坐姿，是對抗 butterfly smash 時單一最重要的防守優先事項？",
+    "answer": "butterfly hook 的 sweep 與防守力量，來自於坐姿所創造的角度——hook 需要向上的槓桿力才能把過guard者抬起。當你完全躺平時，hook 會朝前而不是朝上，失去所有力學優勢。過guard者整個策略就是要把你壓平，因為一個被壓平的對手無法產生 hook 上抬的力量，這會讓拆解 hook 的流程變得輕而易舉。挺直的姿勢是讓其他所有防守選項得以成立的根基。",
+    "answer_line": "挺直姿勢讓 hook 保持有力",
+    "distractors": {
+     "plausible": [
+      "挺直能保護 collar",
+      "挺直有助於 grip 對抗"
+     ],
+     "trap": [
+      "往後靠手肘取得重心"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該放棄保留 butterfly guard、轉換到 half guard？",
+    "answer": "當你的第一個 hook 已被成功拆解、且過guard者已在那一側建立 crossface 或 underhook 控制時，就該轉換到 half guard。到這個階段，要恢復 butterfly hook 所需要製造的空間，在過guard者的壓力下已經不切實際。在 half guard 中立刻用 knee shield 困住過guard者的腿，會是比對抗一個已取得上半身控制且已拆掉一個 hook 的對手、硬要重新插入 hook 更高勝算的防守選項。",
+    "answer_line": "hook 已被拆解、crossface 已確立",
+    "distractors": {
+     "plausible": [
+      "壓力一出現就轉換",
+      "感覺兩個 hook 都鬆動時"
+     ],
+     "trap": [
+      "絕不放棄 hook，繼續纏鬥"
+     ]
+    }
+   },
+   {
+    "question": "主動威脅進攻性的 sweep，如何作為對抗 butterfly smash 的防守工具？",
+    "answer": "當你主動威脅 butterfly sweep、arm drag 和 back take 時，過guard者必須把注意力分散在執行 smash 與防守你的攻擊之間。一個擔心被 sweep 的過guard者，無法把全部重心投入到壓力連續動作中。這種進攻與防守並存的平衡，會迫使過guard者維持較保守的姿勢，拖慢或阻止 smash 所需要的結構瓦解。被動的防守會招來更積極的壓力，因為過guard者能毫無風險地全力投入。",
+    "answer_line": "分散過guard者的注意力",
+    "distractors": {
+     "plausible": [
+      "很快就能讓對手疲勞",
+      "削弱他們的握力"
+     ],
+     "trap": [
+      "完全被動地等待"
+     ]
+    }
+   },
+   {
+    "question": "你的 hook 仍然活著，但過guard者已建立起強勢的 collar grip 並開始向前施壓——你的首要任務是什麼？",
+    "answer": "你的首要任務是在對手把這個 collar grip 轉換成能壓平你姿勢的胸口壓力之前，先破解或化解那個 grip。用雙手剝開手指來拆掉那個 grip，或反抓他們的 sleeve 來改變拉扯的方向。同時加大你 hook 向上的壓力來抵抗他們向前的推進。如果你無法在兩到三秒內破解那個 grip，就在抓 grip 那一側他們的肩膀上建立 frame，同時準備嘗試 sweep 或轉換到其他 guard 位置。",
+    "answer_line": "先拆掉那個 collar grip",
+    "distractors": {
+     "plausible": [
+      "只加大 hook 壓力",
+      "先在肩膀上建立 frame"
+     ],
+     "trap": [
+      "把 guard 拉得更緊，硬撐"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Smash.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

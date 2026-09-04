@@ -1,0 +1,269 @@
+{
+  "_meta": {
+    "source": "content/Transitions/Bow and Arrow Setup from Standing Back.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  },
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "放開 seat belt 去拿 collar grip 的最佳時機是什麼時候？",
+        "answer": "最佳時機是在對手雙手都投入防守 Rear Naked Choke 威脅的時候。此時對手的雙手都被佔用在頸部上方，沒辦法干擾你 collar grip 的轉換。攻擊者應該主動先製造出這個空檔——先威脅 RNC，再趁對手做出防禦反應的時候完成抓握轉換。",
+        "answer_line": "對手雙手都在防 RNC",
+        "distractors": {
+          "plausible": [
+            "一鎖好鉤子就馬上做",
+            "一拿到背後控制就馬上做"
+          ],
+          "trap": [
+            "在威脅絞技之前就先做"
+          ]
+        }
+      },
+      {
+        "question": "為什麼必須在發動 sit-down 摔倒之前，先取得 collar grip？",
+        "answer": "在站立時取得 collar grip 有機械上的優勢，因為在垂直姿勢下領口更容易觸及，而且對手為了維持平衡，手部防禦能力會受到限制。一旦落地，對手可以趴平防禦，並專門用雙手阻止你碰到領口，這會讓建立抓握變得困難許多。",
+        "answer_line": "對手忙著平衡時領口是開的",
+        "distractors": {
+          "plausible": [
+            "先坐下取得穩定底盤",
+            "抓握只有在完成 sweep 後才重要"
+          ],
+          "trap": [
+            "先拉 guard，再追領口"
+          ]
+        }
+      },
+      {
+        "question": "你剛放開 seat belt，對手立刻剝除了你的 collar grip——你該怎麼反應？",
+        "answer": "立刻回到 seat belt 的控制型態，重新取得跨肩與腋下的控制。不要在失去上半身控制的狀態下，還執著於已經失敗的 collar grip 嘗試。重新建立 seat belt，確認胸口貼背的壓力與鉤子安全，然後再次威脅 Rear Naked Choke，重新製造出第二次嘗試 collar grip 的空檔。",
+        "answer_line": "回到 seat belt 控制",
+        "distractors": {
+          "plausible": [
+            "繼續搶回領口",
+            "改抓同側抓握"
+          ],
+          "trap": [
+            "硬是繼續完成摔倒"
+          ]
+        }
+      },
+      {
+        "question": "在摔倒過程中，直接往後倒與坐向髖部之間有什麼關鍵差異？",
+        "answer": "直接往後倒會讓你平躺在地、對手疊壓在你身上，讓鉤子很難維持，也讓對手有機會挺身逃脫。坐向抓握側的髖部會形成大約 45 度的角度，能保住鉤子的位置、避免被疊壓，並立刻建立完成 Bow and Arrow 所需要的身體角度結構。",
+        "answer_line": "坐向抓握側的髖部、呈 45 度",
+        "distractors": {
+          "plausible": [
+            "有控制地直接往後倒",
+            "坐向非抓握那一側"
+          ],
+          "trap": [
+            "直接平躺往後倒"
+          ]
+        }
+      },
+      {
+        "question": "對手感覺到你的 collar grip 後，加寬底盤並壓低重心——你該怎麼調整？",
+        "answer": "與其硬拉對手抵抗他的底盤，不如用 collar grip 把他的姿勢往前、往下破壞。當對手的頭低於髖部時，他寬闊的底盤就變得不重要了，因為重心已經轉移。另外，也可以用鉤子執行側向的絆摔，同時維持 collar grip，把他往側邊破勢——他寬闊的站姿在這個方向完全沒有防禦力。",
+        "answer_line": "往前破壞姿勢，而非往後拉",
+        "distractors": {
+          "plausible": [
+            "更用力地往後拉",
+            "改用 underhook 摔法"
+          ],
+          "trap": [
+            "硬蠻力做後拋摔"
+          ]
+        }
+      },
+      {
+        "question": "有效的 Bow and Arrow collar grip 需要抓多深，要怎麼確認？",
+        "answer": "四根手指都必須穿過第二指節深入領口布料，抓握位置要在對手下顎高度或更高，抓在遠側的領口上。發動摔倒之前，先對領口稍微往下拉一下確認深度——如果布料會滑動、手指沿著布料滑走，就代表抓得太淺，必須重新抓深才能繼續。",
+        "answer_line": "四指穿過第二指節",
+        "distractors": {
+          "plausible": [
+            "指尖勾在胸口高度",
+            "拇指深抓近側領口"
+          ],
+          "trap": [
+            "隨便鬆鬆抓一下就直接摔"
+          ]
+        }
+      },
+      {
+        "question": "落地進入 grounded back control 之後，為什麼一定要控制住對手的褲腳？",
+        "answer": "褲腳的抓握能產生 Bow and Arrow 絞技機制所需要的反向槓桿。沒有這個抓握，單靠 collar grip 只會產生壓力小很多的普通領口絞。腿部的抓握能防止對手轉向攻擊者，讓他的身體被拉直、延伸出絞勒的路徑，並在兩個抓握點反向拉開時，產生把領口收緊在脖子上的對抗力量。",
+        "answer_line": "產生收緊絞技的反向槓桿",
+        "distractors": {
+          "plausible": [
+            "阻止對手站起來",
+            "額外的平衡控制點"
+          ],
+          "trap": [
+            "放開領口，改抓雙腿"
+          ]
+        }
+      },
+      {
+        "question": "你已經完成 setup、落地進入帶著 collar grip 的 grounded back control，但 Bow and Arrow Choke 一直沒能讓對手 tap——有哪些銜接攻擊可以用？",
+        "answer": "如果 Bow and Arrow 卡住了，放開褲腳、轉為標準的 Rear Naked Choke 嘗試，同時把 collar grip 當作 cross-collar choke 的威脅持續維持。或者，也可以利用 collar grip 把對手防禦的手臂困在領口旁邊，把腿甩過對手頭部，設置 armbar。collar grip 也能讓你在對手轉向 Turtle 時銜接 Clock Choke，或者放棄領口、改用 Gift Wrap 控制孤立一隻手臂，銜接 Crucifix 或 armbar。",
+        "answer_line": "銜接 RNC、armbar、Clock Choke",
+        "distractors": {
+          "plausible": [
+            "用同一個領口抓握硬凹",
+            "重設並重新開始 setup"
+          ],
+          "trap": [
+            "把雙腳交叉扣住對手"
+          ]
+        }
+      },
+      {
+        "question": "在有控制的 sit-down 過程中，透過 collar grip 施力的方向應該是哪裡？",
+        "answer": "collar grip 的力量應該以斜線方式往下、往抓握側的髖部方向施加，而不是直接往後拉。這個斜向拉力會把對手的姿勢往前破壞，同時在下坐的過程中把他的重量壓在你的胸口上。underhook 那隻手臂則往相反方向施力——往上、往橫向，形成一個交叉的力量，把對手從底盤上螺旋帶離，進入有控制的摔倒路徑。如果直接往後硬拉，只會變成一場拔河，對手只要壓低重心就能抵抗。",
+        "answer_line": "斜向下、朝抓握側髖部",
+        "distractors": {
+          "plausible": [
+            "直接往後倒",
+            "直接往下壓向地墊"
+          ],
+          "trap": [
+            "用力直接往後硬拉"
+          ]
+        }
+      },
+      {
+        "question": "在實戰中，要怎麼判斷該用 cross-collar 還是 same-side 的 collar grip 變化型？",
+        "answer": "當遠側領口可以觸及、對手的雙手都投入高位防守 Rear Naked Choke 時，選擇 cross-collar grip，因為這能製造出最深的絞勒角度、最高的完成機率。當對手在你跨越的那隻手臂上做出強力的 two-on-one 防禦，或正在積極剝除你遠側的抓握，或速度比抓握深度更重要時，就選擇 same-side collar grip。同側抓握因為不需要跨過中線，取得速度更快，但槓桿臂較短。在抓握轉換的那一刻，觀察對手的手部位置來做出這個判斷。",
+        "answer_line": "依對手手部位置判斷",
+        "distractors": {
+          "plausible": [
+            "一律先用 cross-collar",
+            "依自己慣用側選擇"
+          ],
+          "trap": [
+            "硬是穿過對手的阻力去抓"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "防守這個 setup 時，最重要、必須辨識出來的那個瞬間是什麼？",
+        "answer": "就是對手放開 seat belt 跨肩的那隻手、伸向領口的那一刻。這是他上半身控制從兩隻手降到一隻手的瞬間，會產生最大的防禦空檔。及時辨識出這個訊號，能讓防守者剝除 collar grip 的嘗試，或利用對手控制力下降的機會逃離背後暴露的位置。錯過這個空檔，就得從明顯更差的位置開始防守。",
+        "answer_line": "seat belt 那隻手放開的瞬間",
+        "distractors": {
+          "plausible": [
+            "鉤子第一次插入的時候",
+            "RNC 威脅開始的時候"
+          ],
+          "trap": [
+            "等落地後才反應"
+          ]
+        }
+      },
+      {
+        "question": "對手已經抓到深握的 collar grip，但還沒開始 sit-down——你的防禦優先順序是什麼？",
+        "answer": "立刻用 two-on-one 手部控制剝除 collar grip，搶在對手發動摔倒之前完成。用雙手抓住他抓握的手腕，把手指從領口布料上撥開，同時聳肩、收下巴，讓抓握更難維持。如果抓握剝不掉，就加寬底盤來抵抗 sit-down，並準備在無可避免的摔倒嘗試中轉向對手。",
+        "answer_line": "立刻用 two-on-one 剝除抓握",
+        "distractors": {
+          "plausible": [
+            "加寬底盤等待",
+            "轉開身體破壞角度"
+          ],
+          "trap": [
+            "直接往後拉開身體"
+          ]
+        }
+      },
+      {
+        "question": "你已經被摔倒在地、對手的 collar grip 仍然抓著——你應該先處理什麼？",
+        "answer": "對付對手正在伸向你褲腳的那隻空手。Bow and Arrow Choke 需要 collar grip 與腿部抓握兩者兼備才能產生完整的完成壓力。只要能阻止褲腳控制建立，就能把這個絞技降級成效果差很多的單純領口拉扯，更容易撐過去、也更容易逃脫。同時要開始把髖部轉向對手，展開逃脫的動作。",
+        "answer_line": "阻止對手抓到褲腳",
+        "distractors": {
+          "plausible": [
+            "先剝除領口抓握",
+            "縮成 Turtle 保護脖子"
+          ],
+          "trap": [
+            "用力推開製造距離"
+          ]
+        }
+      },
+      {
+        "question": "在摔倒的轉換過程中轉向攻擊者，為什麼比直接抵抗摔倒更有效？",
+        "answer": "直接抵抗摔倒會變成一場力量的拔河，而這對擁有重力與 collar grip 槓桿優勢的攻擊者更有利。轉向攻擊者則能利用他向下的動能來驅動你的旋轉，讓你在對手處於站立與落地之間、控制力最弱的時候，掙脫背後暴露的狀態，也能讓你更有機會恢復 guard，而不是被摔進 grounded back control。",
+        "answer_line": "利用對手的動能來逃脫",
+        "distractors": {
+          "plausible": [
+            "力量對拚會贏",
+            "拖延到對手體力耗盡"
+          ],
+          "trap": [
+            "撐住並直接往後推"
+          ]
+        }
+      },
+      {
+        "question": "收下巴、聳肩這個動作，具體上是怎麼防禦這個 setup 的？",
+        "answer": "收下巴與聳肩會製造出一道實體屏障，縮小脖子周圍可以被抓到的領口空間。對手需要把四根手指深深插入下顎高度的領口，而當你的肩膀抬高、下巴壓低時，領口會被壓緊貼在你的脖子與肩膀上，讓對手在機械上根本不可能達到有效絞技所需要的抓握深度。這能為主動的 grip fight 防禦爭取時間。",
+        "answer_line": "阻擋抓握達到足夠深度",
+        "distractors": {
+          "plausible": [
+            "保護脖子不被打擊",
+            "讓頭部離開地墊"
+          ],
+          "trap": [
+            "抬頭看清楚抓握的位置"
+          ]
+        }
+      },
+      {
+        "question": "對手佯攻 Rear Naked Choke，卻立刻轉為嘗試抓 collar grip——這會如何改變你的防禦優先順序？",
+        "answer": "這個假動作代表對手是用 RNC 的威脅，引誘你把雙手舉高防守，再趁機轉攻領口。這時不要把雙手都完全投入絞技防禦，要留一隻手保持在能攔截 collar grip 轉換的位置。培養對攻擊者跨肩那隻手路徑的敏感度——如果它朝你的領口移動，而不是伸向下巴，就要立刻把防禦的手改去攔截 collar grip。透過觸覺分辨 RNC 進攻與伸向領口的差異，能防止這個假動作創造出對手需要的破綻。",
+        "answer_line": "留一隻手準備防領口",
+        "distractors": {
+          "plausible": [
+            "雙手都投入防絞技",
+            "忽略假動作，只防 RNC"
+          ],
+          "trap": [
+            "放下雙手去確認是不是假動作"
+          ]
+        }
+      },
+      {
+        "question": "你第一次的 two-on-one 剝抓失敗了，對手已經抓到深握的 collar grip——你下一層防禦是什麼？",
+        "answer": "立刻把防禦重心從剝抓握，轉移到抵抗摔倒與利用轉換空檔逃脫。加寬底盤、壓低重心來抵抗 sit-down。同時開始把身體轉向對手 collar grip 那一側，這樣當摔倒無可避免地發生時，你已經在朝對手轉身了。剝抓失敗代表你必須接受這個抓握的存在，把重心放在阻止對手進入能完成絞技的落地位置。用一隻手繼續對付領口抓握，另一隻手用來維持底盤與轉身的機制。",
+        "answer_line": "加寬底盤、轉向抓握側",
+        "distractors": {
+          "plausible": [
+            "繼續剝同一個抓握",
+            "直接往後 sprawl"
+          ],
+          "trap": [
+            "轉離領口那一側"
+          ]
+        }
+      },
+      {
+        "question": "你已經落地，對手抓著 collar grip，但你成功阻止了他抓到褲腳——接下來你該怎麼做？",
+        "answer": "沒有褲腳抓握，對手就無法產生完整的 Bow and Arrow 完成壓力。要利用這個空檔積極逃脫，而不是只是維持現狀。積極把髖部轉向對手，同時用你自由的雙腿推抵對手的髖部或大腿，製造朝向對手的旋轉。趁對手的空手還沒能固定住你的腿，現在就用 two-on-one 剝除 collar grip。目標是完全轉身面對攻擊者、恢復 guard，搶在他放棄領口、改攻 Rear Naked Choke 之前完成逃脫。",
+        "answer_line": "轉髖，立刻逃脫",
+        "distractors": {
+          "plausible": [
+            "維持位置、拖延時間",
+            "等對手自己失去抓握"
+          ],
+          "trap": [
+            "保持趴平，縮成 Turtle"
+          ]
+        }
+      }
+    ]
+  }
+}

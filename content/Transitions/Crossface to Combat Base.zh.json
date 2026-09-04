@@ -1,0 +1,255 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crossface to Combat Base.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼要過渡到 Combat Base，而不是直接從 half guard 過腿？",
+    "answer": "Combat Base 提供一個穩定的過腿平台，擁有最多的進攻選項。與其在 half guard 中就投入單一過腿方式，Combat Base 讓你能觀察對手的防守反應，再從 toreando、knee slice、long step、壓制型過腿等多種路徑中選擇。這種按部就班的做法能降低風險，並透過全程維持位置穩定性來提高整體過腿成功率。",
+    "answer_line": "穩定 base，多種過腿選項",
+    "distractors": {
+     "plausible": [
+      "鎖定最快的單一過腿方式",
+      "省去控制遠側手臂的需求"
+     ],
+     "trap": [
+      "放開 crossface 重新開始"
+     ]
+    }
+   },
+   {
+    "question": "在這個過渡中，抽出被困住的腿的正確動作是什麼？",
+    "answer": "用一個弧形的圓弧動作抽腿：先把膝蓋向上、向後帶，再向下、向外帶。這個弧形路徑順著對手腿部纏繞的自然結構前進，讓他在力學上難以維持他的纏鎖。直直向後拉只會讓纏鎖變得更緊，讓抽腿變得更困難。這個圓弧動作也有助於在整個抽腿過程中維持 crossface 的向前壓力。",
+    "answer_line": "弧形動作：膝蓋上、後、外",
+    "distractors": {
+     "plausible": [
+      "用力把腿直直往後拉",
+      "先把膝蓋直直向下推"
+     ],
+     "trap": [
+      "硬拉出腿，放掉 crossface"
+     ]
+    }
+   },
+   {
+    "question": "為什麼必須在整個過渡過程中維持 crossface 壓力？",
+    "answer": "crossface 是你主要的控制機制，能阻止對手跟上你的髖部移動、轉身面對你、建立 frame，或恢復 guard。任何一次放鬆 crossface 壓力，都會製造出讓對手反制這個過渡的空間與機會。crossface 必須持續保持沉重，直到你已完全建立好 Combat Base，並固定適當的 grip 控制為止。",
+    "answer_line": "阻止跟隨、建 frame 與恢復 guard",
+    "distractors": {
+     "plausible": [
+      "只在一開始重要",
+      "腿一開始移動就可以放鬆"
+     ],
+     "trap": [
+      "放開 crossface 以求更快速度"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在這個過渡過程中對你被困的腿建立了 lockdown，你該如何應對？",
+    "answer": "在嘗試抽腿之前，先處理 lockdown。選項包括：把腳向外轉動游出來、雙手 post 住並把髖部向後走以在鎖上製造鬆動，或改用能借用 lockdown 動能對付對方的 whip-up pass。硬對抗一個已經建立的 lockdown 來強行抽腿，只會浪費力氣，而且往往會失敗。",
+    "answer_line": "解放腳、走髖部，或用 whip-up pass",
+    "distractors": {
+     "plausible": [
+      "硬把腿從鎖中拉出來",
+      "放棄過腿，重設 guard"
+     ],
+     "trap": [
+      "用力把膝蓋直直往後拉"
+     ]
+    }
+   },
+   {
+    "question": "在特定情況下，Combat Base 為什麼會比直接從 half guard 完成過腿更優越？",
+    "answer": "相較於投入單一過腿方式，Combat Base 提供了位置穩定性、多種過腿選項，以及更低的風險。從 Combat Base 出發，你能觀察對手的防守位置，為當下特定情況選出成功機率最高的過腿方式。如果你最初的過腿嘗試被防下，你仍處在一個穩定位置，能立刻連鎖到其他過腿方式，而不必重設或失去位置優勢。",
+    "answer_line": "穩定、有選項、風險較低",
+    "distractors": {
+     "plausible": [
+      "永遠比直接過腿更快",
+      "會強迫立即降伏成功"
+     ],
+     "trap": [
+      "完全投入單一過腿路線"
+     ]
+    }
+   },
+   {
+    "question": "你開始抽腿時，對手用遠側手臂 post 在你的二頭肌上——你該如何調整？",
+    "answer": "把你 underhook 的手臂游過他的 frame 手臂上方，剝掉這個 post，或用你的空閒手抓住他的手腕，把它拉過他的身體，同時維持 crossface 壓力。關鍵是持續保持向前的肩部壓力，讓他的 frame 缺乏結構完整性。如果他改成高位 post 在你頭上，把額頭頂進他的胸口，利用角度變化瓦解這個 frame，再繼續抽腿。",
+    "answer_line": "游過去，剝掉 post",
+    "distractors": {
+     "plausible": [
+      "直直向後拉對抗這個 post",
+      "立刻換邊"
+     ],
+     "trap": [
+      "放開 crossface 空出手來"
+     ]
+    }
+   },
+   {
+    "question": "在抽腿階段，最關鍵的髖部動作是什麼？",
+    "answer": "最關鍵的動作是被困膝蓋的圓弧動作：先向上抬，再一個連續動作向後、向外掃出。這個動作繞開了對手的腿部夾鎖，走的是阻力最小的路徑，而不是直接對抗他的握力。你的髖部應該全程保持向 crossface 那一側加載，只有在腿已抽出、你 post 進 Combat Base 之後，才把體重轉移到後方。",
+    "answer_line": "膝蓋先上，再向後、向外",
+    "distractors": {
+     "plausible": [
+      "先把髖部向後，再抬膝蓋",
+      "膝蓋直直向後拉"
+     ],
+     "trap": [
+      "放掉 crossface 以加載髖部"
+     ]
+    }
+   },
+   {
+    "question": "在發動抽腿階段之前，你需要什麼樣的 grip 配置？",
+    "answer": "你需要一個穩固的 crossface，用你的前臂骨緣壓過對手的下顎與頸部，把他的頭轉離。你的另一隻手則必須透過穿過他腋下的 underhook，或把他的手固定在他胸口或地面的腕部釘制，來控制他的遠側手臂。這兩項控制都必須在你開始走動空閒腳、製造抽腿角度之前建立好，因為若沒有遠側手臂控制就嘗試抽腿，會讓他有機會建 frame 並跟上你。",
+    "answer_line": "crossface 加遠側手臂控制",
+    "distractors": {
+     "plausible": [
+      "只要 crossface 就足夠",
+      "只要 underhook，不需要 crossface"
+     ],
+     "trap": [
+      "放開遠側手臂以空出一隻手"
+     ]
+    }
+   },
+   {
+    "question": "做 crossface 時力量的方向是什麼？在整個過渡過程中它會如何改變？",
+    "answer": "crossface 的力量以斜向穿過對手臉部，朝他遠側的地面方向施加，把他的頭轉離、把他的肩膀壓平。在抽腿階段，這股力量會略微加強，以補償髖部的移動。一旦建立好 Combat Base，力量就會從 crossface 前臂轉移到 grip 型的控制上——有道服時抓領口與褲管，無道服時控制頭部與手腕——把力量從釘制向量轉為距離管理向量，讓對手保持壓平，同時你維持直立姿態。",
+    "answer_line": "斜向釘制，轉為 grip 控制",
+    "distractors": {
+     "plausible": [
+      "力量全程保持不變",
+      "力量在接近尾聲時變輕"
+     ],
+     "trap": [
+      "直直向下壓，然後放手"
+     ]
+    }
+   },
+   {
+    "question": "你在抽腿時，對手開始做 hip escape 來跟上你的移動——你該怎麼做？",
+    "answer": "立刻加大 crossface 肩部向下的壓力，把他的遠側肩膀釘在地面上，再用你的空閒手把他的近側髖部塞回地面。這個跟隨髖部的動作必須在形成動能之前就被阻止。如果他已經明顯轉身，暫時放棄 Combat Base 的過渡，用沉重的胸口壓力把他重新壓平，重新建立 crossface 與遠側手臂控制，再重新開始抽腿。強行對抗一個正在主動跟隨的髖部來完成過渡，通常會讓你完全失去這個位置。",
+    "answer_line": "釘住遠側肩膀，塞住髖部",
+    "distractors": {
+     "plausible": [
+      "立刻加快抽腿速度",
+      "改換對側過腿"
+     ],
+     "trap": [
+      "放鬆 crossface 去追髖部"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初建立 Combat Base 的嘗試被對手插入 knee shield 擋下，有哪些連鎖攻擊可以用？",
+    "answer": "面對 knee shield 的插入，你有幾個連鎖選項：把髖部下沉、壓平他橫過身體的膝蓋，硬闖過 knee shield 做 smash pass；把空閒腿踩到他 knee shield 後方並轉向 north-south，改做 backstep pass；或重新施加 crossface 壓力壓平 knee shield，重新嘗試進入 Combat Base。你也可以利用 knee shield 的接觸點當槓桿，把空閒腿寬寬踩出去、完全繞過他的 guard，做 long step pass。",
+    "answer_line": "smash、backstep，或重新壓平",
+    "distractors": {
+     "plausible": [
+      "放棄過腿，回到 guard",
+      "硬闖過 shield 建立 base"
+     ],
+     "trap": [
+      "放開 crossface 重新開始"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候你會選擇這個過渡，而不是直接完成像 knee slice 或 crossface pass 這樣的直接過腿？",
+    "answer": "當對手對直接過腿防守得很好，但你已握有穩固的 crossface 控制時；當你想在投入特定過腿方式之前先評估他的防守位置時；當對手的 guard 恢復能力很強、你需要一個穩定平台來防止他重新拉回 guard 時；或當你想建立擁有多種選項的過腿連鎖，而不是把賭注壓在單一技術上時，就選擇這個過渡。",
+    "answer_line": "防守強或有重拉 guard 風險",
+    "distractors": {
+     "plausible": [
+      "每次 half guard 過腿都這樣做",
+      "只在對手疲累時才這樣做"
+     ],
+     "trap": [
+      "在你缺乏遠側手臂控制時"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對抗這個過渡最早、最有效的防守動作是什麼？",
+    "answer": "最早也最有效的防守，是在對手建立 crossface 之前，先在被困腿那一側贏得 underhook 爭奪戰。underhook 能阻止壓平、讓你能轉身面對對手，並提供掃技與取背的進攻路徑。一旦 crossface 已被固定、你也已被壓平，之後所有的防守動作都會變得明顯更困難、成功機率更低。",
+    "answer_line": "先贏得 underhook",
+    "distractors": {
+     "plausible": [
+      "在 crossface 手臂上建 frame",
+      "立刻做 hip escape"
+     ],
+     "trap": [
+      "平躺以吸收壓力"
+     ]
+    }
+   },
+   {
+    "question": "在防守這個過渡時，為什麼維持側身角度至關重要？",
+    "answer": "維持側身角度能阻止 crossface 發揮最大效果，並讓你的髖部保持靈活，得以跟上對手的移動。當你平躺仰臥時，crossface 會借助重力把你的頭與肩膀釘在地面上，讓你幾乎不可能建立 frame 或跟上他的抽腿動作。側身時，你能產生 hip escape 的動作、維持 frame 結構，並威脅掃技，逼上位者不得不處理你的進攻。",
+    "answer_line": "保持髖部靈活，削弱 crossface",
+    "distractors": {
+     "plausible": [
+      "主要是為了防禦取背",
+      "為了設置 armbar 攻擊"
+     ],
+     "trap": [
+      "轉為平躺以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "如果你察覺抽腿已經開始，你該怎麼做？",
+    "answer": "如果抽腿已經開始，立刻朝對手移動的相同方向做 hip escape，跟上他的髖部，避免分離。同時夾緊你的腿部夾鎖，試圖用你上方的腳勾住他的膝蓋後方，重新纏住他的腿。如果儘管你努力，腿仍然被抽出，立刻把腳插到他的髖部上，或建立 butterfly hooks，阻止他鞏固 Combat Base，恢復到 open guard 位置。",
+    "answer_line": "跟著他做 hip escape，重新夾鎖",
+    "distractors": {
+     "plausible": [
+      "把腿往回拉對抗他",
+      "保持不動，靜待情勢"
+     ],
+     "trap": [
+      "推開以製造距離"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候用 lockdown 是合適的防守反應，而不是去爭搶 underhook？",
+    "answer": "當你已經輸掉 underhook 爭奪戰、且已部分被壓平，來不及及時恢復 underhook 時，lockdown 就是合適的選擇。lockdown 是最後手段的纏鎖，能完全阻止抽腿，並為你爭取時間，回到更好的位置。然而，如果你仍有能力爭搶 underhook，那永遠是更優的選擇，因為 underhook 能提供進攻選項，而 lockdown 主要只是一種拖延機制，只能延遲而無法逆轉這個位置。",
+    "answer_line": "underhook 永遠勝過 lockdown",
+    "distractors": {
+     "plausible": [
+      "先做 lockdown，再爭 underhook",
+      "兩者進攻性相同"
+     ],
+     "trap": [
+      "放棄 underhook 改做 lockdown"
+     ]
+    }
+   },
+   {
+    "question": "對手已建立 crossface，並開始把空閒腳朝你的頭部方向走動——這代表什麼，你該如何應對？",
+    "answer": "他正在透過調整身體位置來製造抽腿角度，為抽出被困住的腿產生力學優勢。應對方式是立刻夾緊你的腿部夾鎖，朝他做 hip escape 以縮小他正在製造的角度，並用你的遠側手臂在他的二頭肌或肩膀上建立 frame，阻止他向前推進。如果可能，利用角度的變化，把你近側的膝蓋悄悄插進去當 shield。腳步的走動是抽腿即將發生最明確的訊號。",
+    "answer_line": "夾緊夾鎖，縮小角度",
+    "distractors": {
+     "plausible": [
+      "任由發生，他反正被困住了",
+      "只有接近降伏時才重要"
+     ],
+     "trap": [
+      "放鬆腿部夾鎖以重新調整"
+     ]
+    }
+   }
+  ]
+ }
+}

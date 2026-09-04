@@ -1,0 +1,157 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在穿入 figure-four 之前必須先收攏對手的手肘？",
+    "answer": "手臂伸直時很容易從肩鎖中滑脫，因為沒有彎曲的角度可以鎖住關節，對手能輕易把手臂抽走。把手肘往你的胸口方向拉並收攏，能縮短槓桿長度、孤立肩關節，並形成 figure-four 所需的折疊結構，讓鎖法能控制肩膀的旋轉，形成真正具威脅性的 submission。",
+    "answer_line": "收攏手肘以孤立肩膀",
+    "distractors": {
+     "plausible": [
+      "先低位抓 wrist",
+      "保持手臂伸直，快速鎖定"
+     ],
+     "trap": [
+      "直接鎖定伸直的手臂"
+     ]
+    }
+   },
+   {
+    "question": "對手自己的動作如何促成從 butterfly 進入 Williams Guard 的入場？",
+    "answer": "這個入場方式仰賴對手主動把手臂往前伸。當他們伸手抓你的 collar、把手撐在地上防禦 sweep，或向前施壓 pressure 你的 butterfly guard 時，就會把那隻手臂直接送進你的 overhook 範圍。讓這些反應自然把手臂送過來，比在對方收手防禦時強行鎖定成功率更高。",
+    "answer_line": "讓對手主動把手臂送來",
+    "distractors": {
+     "plausible": [
+      "積極爭奪 overhook",
+      "等對手後退"
+     ],
+     "trap": [
+      "強行穿過 guard 抓 overhook"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你完成 figure-four 之前就把手臂抽出來，你該怎麼做？",
+    "answer": "不要追逐正在脫離的手臂，因為過度延伸會讓你暴露在被 pass 的風險中。改為重新抓回 overhook，或換成同側的 underhook，重新建立你的 butterfly hooks 與 frame，並維持 butterfly guard。失敗時的結果應該永遠是回到安全的 guard，而不是陷入讓你失去上位的混戰。",
+    "answer_line": "回到 butterfly，不要追",
+    "distractors": {
+     "plausible": [
+      "追手臂重新抓 grip",
+      "換成 closed guard"
+     ],
+     "trap": [
+      "拚一次混戰 sweep"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在鎖定之後，你要把髖部轉離對手的自由手臂？",
+    "answer": "轉離自由手臂能加深肩膀的孤立效果，消除對手挖 underhook 防禦的空間，並讓你的雙腿對齊，準備威脅 sweep 和 omoplata。如果保持正對，對手就能向前驅動並挖到 underhook，這會使肩鎖失效，並阻斷你的進攻。",
+    "answer_line": "加深孤立，阻擋 underhook",
+    "distractors": {
+     "plausible": [
+      "正對以控制雙臂",
+      "轉向自由手臂那側"
+     ],
+     "trap": [
+      "壓平身體向前驅動"
+     ]
+    }
+   },
+   {
+    "question": "figure-four 的 grip 應該放在哪裡，為什麼 grip 的高度很重要？",
+    "answer": "figure-four 應該高位環繞在對手上臂靠近肩關節的位置，而不是低位抓 wrist 或前臂。高位的 grip 能控制肩膀的旋轉，形成真正的關節威脅；而低位的 grip 只能困住前臂，讓對手能自由旋轉肩膀脫身，鎖法就無法形成 Williams Guard 特有的兩難局面。",
+    "answer_line": "高位，靠近肩關節",
+    "distractors": {
+     "plausible": [
+      "低位抓 wrist",
+      "抓前臂中段以取得槓桿"
+     ],
+     "trap": [
+      "低位抓握以困住前臂"
+     ]
+    }
+   },
+   {
+    "question": "如何確保入場的安全性，讓失敗的肩鎖不會讓你失去 guard？",
+    "answer": "在整個入場過程中，至少維持一個主動的 butterfly hook 或腿部 frame，而不是把雙腿都投入到控制手臂上。只要還有 hook 或 frame 在管理距離，被拒絕的肩鎖頂多讓你回到 butterfly guard，所以最差的實際結果只是重置，而不是被壓平並被 pass。",
+    "answer_line": "保持一個 hook 或 frame 主動",
+    "distractors": {
+     "plausible": [
+      "雙腿都投入控制手臂",
+      "放開 hook 以孤立手臂"
+     ],
+     "trap": [
+      "放棄 hook，困住雙腿"
+     ]
+    }
+   },
+   {
+    "question": "這個入場方式在 no-gi 對抗中特別有價值的原因是什麼？",
+    "answer": "Williams Guard 是靠肩鎖控制，而不是靠 collar 與 sleeve 的 grip，所以在汗水和沒有布料的情況下，傳統靠抓握控制的 guard 會失效，但這個位置的威脅性不受影響。從 butterfly 進入的方式提供了一條不依賴 grip 的入場路徑，通往一個能同時控制與進攻的平台，讓你能把一個中性的 no-gi 交鋒升級成 submission 導向的控制核心。",
+    "answer_line": "不靠布料，不依賴 grip",
+    "distractors": {
+     "plausible": [
+      "依賴 collar 和 sleeve",
+      "只在強力 gi grip 下有效"
+     ],
+     "trap": [
+      "依賴強力的 collar grip"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "當一個 butterfly 對手正在進入 Williams Guard，而不只是單純 sweep 時，最明顯的早期跡象是什麼？",
+    "answer": "最明確的線索是對手在你的一隻手臂上建立深 overhook，同時把髖部轉離你的自由手臂。一般的 butterfly 交換著重在 hook 和抬升，但一個緊緊的 overhook 把你的手肘往他們胸口方向折疊，同時他們 shrimp 轉向偏離的角度，這代表肩鎖入場正在發生，你只有很窄的時間窗口可以在 figure-four 鎖上之前掙脫 grip。",
+    "answer_line": "深 overhook 加上髖部轉離",
+    "distractors": {
+     "plausible": [
+      "緊 underhook 加平髖",
+      "只有積極的 hook 爭奪"
+     ],
+     "trap": [
+      "雙手都抓著你的 collar"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要把被困住的手臂直直往你自己的髖部方向抽回，而不是繞圈拉出？",
+    "answer": "figure-four 肩鎖需要的是旋轉動作，所以把手肘繞圈或斜拉過身體，正好餵給鎖法它想要的旋轉，可能反而把 omoplata 或 armbar 送給對手。沿著最短路徑把手肘直直拉回你自己的髖部，是順著關節結構走，能在肩膀被孤立之前把手臂抽出。",
+    "answer_line": "把手肘直拉向你的髖部",
+    "distractors": {
+     "plausible": [
+      "向側邊繞圈手肘",
+      "把手肘推過胸口"
+     ],
+     "trap": [
+      "用力旋轉手臂扯脫"
+     ]
+    }
+   },
+   {
+    "question": "防禦肩鎖入場的動作，如何同時創造出 pass 的機會？",
+    "answer": "當鎖法只部分建立時，挖一個深的自由手 underhook 並向前驅動胸口，能消除肩鎖所依賴的髖部角度。同樣的壓力也會把底位玩家的 butterfly hooks 壓平，所以一個果斷的防守動作，既能阻斷孤立效果，也能打開通往上位的 pass 路徑，把防守轉化為進攻。",
+    "answer_line": "挖 underhook 驅動，消除角度",
+    "distractors": {
+     "plausible": [
+      "推開後重回 butterfly",
+      "抓 collar tie 後撐地"
+     ],
+     "trap": [
+      "拉 guard 重置距離"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Butterfly Guard to Williams Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

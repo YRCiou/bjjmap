@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crackhead Control to New York.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在 Crackhead Control 轉換到 New York 的整個過程中，什麼東西必須絕對保持不變？",
+    "answer": "深 overhook 必須在整個轉換過程中都保持鎖定，手抓在對手肩胛骨或闊背肌後方。overhook 是位置的錨點，維持著對手手臂受困、姿勢受控——如果在腿部重新定位時鬆脫，整個 rubber guard 結構就會崩潰，對手就能抽出手臂並過腿。",
+    "answer_line": "全程保持 overhook 鎖定",
+    "distractors": {
+     "plausible": [
+      "全程保持自由腿的 hook 鎖定",
+      "隨時保持小腿握法緊實"
+     ],
+     "trap": [
+      "放開 overhook 以重新抓小腿"
+     ]
+    }
+   },
+   {
+    "question": "當你開始重新定位腿部時，對手猛力向前壓——你該如何應對？",
+    "answer": "接受這股向前的驅力，立刻轉換到 Carni 或 Chill Dog 的設置，而不是硬要完成 New York。他們向前的動能其實有助於這些轉換，因為會把他們的頭帶得更近，也壓縮出設置 gogoplata 所需的空間。逆著他們的動能硬要完成 New York 只會浪費體力並製造不必要的位置風險。",
+    "answer_line": "順勢轉入 Carni 或 Chill Dog",
+    "distractors": {
+     "plausible": [
+      "硬撐著完成 New York",
+      "收回雙腿重置 guard"
+     ],
+     "trap": [
+      "頂回去對抗他們的驅力"
+     ]
+    }
+   },
+   {
+    "question": "這個轉換在 Crackhead Control 與 New York 之間創造的主要機制差異是什麼？",
+    "answer": "Crackhead Control 讓控制的那條腿橫跨在對手的脖子或上背部，施加最大的向下壓力並深深穿透 overhook，能創造高密度的降伏機會，但也伴隨相當程度的背後暴露。New York 則把小腿橫跨在肩胛骨上，壓力略小但穩定性更好。這個轉換用即時的降伏威脅去換取位置的持續性，並取得像是 Invisible Collar、Zombie 和 Carni 這類不同的攻擊鏈。",
+    "answer_line": "以降伏威脅換取穩定性",
+    "distractors": {
+     "plausible": [
+      "New York 的 overhook 更深",
+      "Crackhead 是更穩定的位置"
+     ],
+     "trap": [
+      "New York 更容易暴露背後"
+     ]
+    }
+   },
+   {
+    "question": "在主腿重新定位的轉換瞬間，如何避免背後暴露？",
+    "answer": "你的自由腿必須透過 butterfly hook、頂住對手的髖部，或勾住他們的腿來持續保持與髖部的主動連結。這條腿在轉換期間會成為主要的安全機制。要在放開小腿握法之前先建立這個連結，並在整個腿部重新定位的動作中持續維持。如果失去了髖部連結，對手就能立刻開始繞向背後控制。",
+    "answer_line": "自由腿保持髖部連結",
+    "distractors": {
+     "plausible": [
+      "動作中把小腿抓得更緊",
+      "加快速度快速完成轉換"
+     ],
+     "trap": [
+      "放開自由腿以加快移動"
+     ]
+    }
+   },
+   {
+    "question": "為什麼你會選擇轉換到 New York，而不是繼續從 Crackhead Control 尋找降伏機會？",
+    "answer": "戰略性的理由包括：對手已經對 Crackhead 降伏建立起防禦的時機感，並在你延伸時威脅要偷背；你的髖屈肌因為 Crackhead 的積極姿勢而開始疲勞；你想取得從 New York 更容易進入的攻擊鏈，像是 Invisible Collar 或 Zombie；或是對手恢復姿勢讓 Crackhead 降伏變得困難，但他們仍然容易受到 New York 的攻擊。",
+    "answer_line": "對手在適應，或你已疲勞",
+    "distractors": {
+     "plausible": [
+      "固定時間到就一定要切換",
+      "只在降伏成功一次後才切換"
+     ],
+     "trap": [
+      "持續攻擊同一個降伏技"
+     ]
+    }
+   },
+   {
+    "question": "腿重新定位到 New York 後，重新建立小腿控制時正確的握法位置是什麼？",
+    "answer": "用整手包握的方式，抓在腳踝與小腿肚下段之間。抓得太低、靠近膝蓋的話，對手很容易就能剝除控制並恢復姿勢。靠近腳踝的握法能提供最大槓桿，也讓對手更難剝除握法。手應該完整包住小腿，而不是只用手指抓。",
+    "answer_line": "在靠近腳踝處抓小腿",
+    "distractors": {
+     "plausible": [
+      "在靠近膝蓋處抓小腿",
+      "只用手指抓握"
+     ],
+     "trap": [
+      "讓小腿懸空不抓"
+     ]
+    }
+   },
+   {
+    "question": "你注意到對手在你轉換過程中試圖建立雙手 underhooks——你的立即反應是什麼？",
+    "answer": "雙手 underhooks 在轉換期間代表嚴重危險，不論轉換進行到哪個階段，都必須立刻放棄該位置。停止 New York 的轉換，放開 overhook、收攏雙腿回到 closed guard，或是啟動技術性起身。雙手 underhooks 會讓 stack pass 和偷背變得極高成功率，凌駕於任何進攻考量之上。",
+    "answer_line": "立刻放棄該位置",
+    "distractors": {
+     "plausible": [
+      "加快完成 New York 的轉換",
+      "用力量對抗 underhooks"
+     ],
+     "trap": [
+      "繼續尋找降伏機會"
+     ]
+    }
+   },
+   {
+    "question": "在較長的 guard 交手中，於 Crackhead Control 與 New York 之間循環切換時，如何管理體力消耗？",
+    "answer": "用 Crackhead Control 進行需要最大髖屈肌與核心參與的積極降伏爆發，接著轉換到 New York 做位置上的鞏固並短暫恢復。New York 更具持續性的控制結構讓你能在維持進攻威脅的同時降低肌肉張力。這種循環能避免持續維持 Crackhead Control 所造成的疲勞,同時讓對手持續承受壓力。",
+    "answer_line": "Crackhead 爆發，New York 休息",
+    "distractors": {
+     "plausible": [
+      "全程都停留在 Crackhead",
+      "在 Crackhead 休息、在 NY 進攻"
+     ],
+     "trap": [
+      "隨時把兩邊握法都抓到最緊"
+     ]
+    }
+   },
+   {
+    "question": "當你試圖在 New York 重新建立小腿握法時，對手剝除了你的小腿握法——這創造了什麼進攻機會？",
+    "answer": "他們為了剝除你的小腿控制而進行的握法對抗，恰好創造出設置 triangle 的完美破綻。當他們伸手去抓你的腿時，把你重新定位的那條腿甩過他們的肩膀，同時讓 overhook 把他們的手臂困在裡面。他們防禦性的手部動作，其實正好把他們的手臂放進你 guard 的內側，創造出 triangle 的角度。能立刻威脅降伏的時候，永遠不要陷入握法對抗。",
+    "answer_line": "甩腿過肩設置 triangle",
+    "distractors": {
+     "plausible": [
+      "把小腿抓得更緊",
+      "改攻 armbar"
+     ],
+     "trap": [
+      "追著他們剝握法的手"
+     ]
+    }
+   },
+   {
+    "question": "完成腿部重新定位、要建立正確的 New York 控制後，必須立刻做出什麼髖部調整？",
+    "answer": "把髖部稍微轉向 overhook 那一側，建立出 New York 特有的角度。這個髖部旋轉會打開通往 Invisible Collar、Zombie 和 Carni 轉換的路徑，而這些是髖部平貼時無法取得的。若沒有這個調整，這個位置就只會變成不穩定的 closed guard，而不是正確的 New York，失去讓這個轉換有價值的那些進階攻擊鏈。",
+    "answer_line": "把髖部轉向 overhook 那一側",
+    "distractors": {
+     "plausible": [
+      "讓髖部保持平貼、方正",
+      "把髖部轉離 overhook 那一側"
+     ],
+     "trap": [
+      "把髖部抬離地面"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Crackhead Control 轉換到 New York 的過程中，成功率最高的逃脫時機是什麼時候？",
+    "answer": "就是下位選手放開小腿握法、開始重新定位腿部的那一刻。在這短短一到兩秒的窗口中，他們控制的那條腿沒有任何固定握法在維持位置，他們的核心力量被轉去支援這個動作，注意力也分散在多項任務之間。這會讓他們的 guard 結構出現最大的破綻，你可以用爆發性的姿勢恢復或向前壓力來加以利用。",
+    "answer_line": "他們放開小腿握法的瞬間",
+    "distractors": {
+     "plausible": [
+      "在自由腿 hook 建立時",
+      "New York 鎖定完成後立刻"
+     ],
+     "trap": [
+      "轉身背向壓力"
+     ]
+    }
+   },
+   {
+    "question": "對手開始把控制的那條腿從你的脖子滑向你的肩胛骨——你應該往前壓還是往後拉？",
+    "answer": "往前壓，因為向前的壓力會壓縮他們的腿重新定位所需要的空間，打亂那個滑動的動作。往後拉反而會創造出空間，實際上幫助了他們腿部重新定位，也讓 overhook 有更大的槓桿來控制你的姿勢。向前壓還能在 New York 鞏固之前打開把他們壓平的機會，如果他們把你的壓力導引去設置 Carni 或 Chill Dog，你也能從結構更穩固的位置去應付那些威脅。",
+    "distractors": {
+     "plausible": [
+      "往後拉創造空間",
+      "保持中立、靜觀其變"
+     ],
+     "trap": [
+      "後退以打開 guard"
+     ]
+    },
+    "answer_line": "頂著壓力向前壓"
+   },
+   {
+    "question": "你感覺到下位選手的自由腿在轉換過程中收緊了勾在你髖部上的 hook——這代表什麼訊號，你該如何反應？",
+    "answer": "自由腿壓力增加代表下位選手正在補償主控腿重新定位所造成的不穩定。這證實了轉換正在進行中。應對方式是先處理自由腿的 hook——用同側的手剝除或擋住那個 hook，同時把體重向前推壓。移除這個安全機制會迫使下位選手放棄轉換，否則就要冒著完全失去髖部控制的風險，這可能導致整個 guard 崩潰。",
+    "answer_line": "先剝除自由腿的 hook",
+    "distractors": {
+     "plausible": [
+      "推穿中心軸線",
+      "抓住他們的腳踝往回拉"
+     ],
+     "trap": [
+      "無視它繼續起身"
+     ]
+    }
+   },
+   {
+    "question": "如果你太晚察覺這個轉換，New York 的小腿握法已經重新建立，你的防禦方式會有什麼改變？",
+    "answer": "一旦 New York 已經鞏固，就要從打斷轉換改為系統性地逃脫這個已經完全建立的位置。轉換的窗口已經關閉，所以要放寬你的 base、開始跟控制小腿的那隻手進行握法對抗以削弱封閉的動力鏈，並透過把手肘往髖部方向收回來努力抽出被 overhook 困住的手臂。這種逃脫比在轉換當下介入要困難、費時得多，這也是為什麼提早察覺如此關鍵。",
+    "distractors": {
+     "plausible": [
+      "急著做一次快速的姿勢爆發",
+      "等他們犯錯"
+     ],
+     "trap": [
+      "試圖重新進入已關閉的窗口"
+     ]
+    },
+    "answer_line": "跟小腿握法對抗，抽出手臂"
+   },
+   {
+    "question": "為什麼即使會犧牲你的 base，在後期用空出的那隻手去爭奪小腿的重新抓握，仍然是一種可行的防禦？",
+    "answer": "拒絕讓對方抓到小腿，等於拿掉了 New York 的關鍵支點，讓那條腿無法橫跨在你的肩胛骨上而滑落。少了那個完成控制結構的握法，重力和你恢復姿勢的努力會逐漸把那條腿剝落，因為小腿握法正是把鬆散的腿部位置轉變成穩定控制平台的關鍵。雖然伸手去爭奪會暫時犧牲你的 base，但阻止 New York 鞏固的價值高過被掃技擊倒的風險，尤其是因為一旦握法被拒絕，你能立刻恢復 base。",
+    "distractors": {
+     "plausible": [
+      "能立刻鎖定一次逃脫",
+      "只有雙手一起用才有效"
+     ],
+     "trap": [
+      "放棄姿勢去抓兩條腿"
+     ]
+    },
+    "answer_line": "拒絕握法，讓腿滑落"
+   }
+  ]
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在執行 Flower Sweep 之前，用髖部製造角度的主要目的是什麼？",
+    "answer": "製造角度（約 30-45 度）會把掃技的方向從正後方改成斜向，這讓對手更難防守。當你斜向掃翻時，對手必須同時防守多個方向——他們無法單純把膝蓋或手往正後方一撐就解決。這個角度也讓你的 butterfly hook 能更有效地當作槓桿，並產生這個 sweep 特有的旋轉動量。",
+    "answer_line": "斜向掃更難防",
+    "distractors": {
+     "plausible": [
+      "讓 hook 插得更深",
+      "改善你的 guard 保持"
+     ],
+     "trap": [
+      "正對對手以求最大力量"
+     ]
+    }
+   },
+   {
+    "question": "如果對手在你嘗試 Flower Sweep 時把手撐在墊子上，你該如何應對？",
+    "answer": "對手撐手其實是絕佳的進攻機會，而不是問題。你應該立刻轉守為攻，攻擊那隻撐地的手臂——維持袖口的 grip 並把腿跨過去做直臂 armbar、轉換成 triangle，或是設置 omoplata。另外，如果對手把重心完全壓在撐手上，你也可以改變方向掃向另一側。關鍵在於把撐手看成對手把手臂送給你，而不是一種防守。",
+    "answer_line": "攻擊撐地的手臂",
+    "distractors": {
+     "plausible": [
+      "放棄 sweep，重整 guard",
+      "換 grip，同側再試一次"
+     ],
+     "trap": [
+      "放開袖口去抓撐地的手"
+     ]
+    }
+   },
+   {
+    "question": "為什麼 Flower Sweep 被視為基礎 guard 進攻系統的一環，而不是獨立技術？",
+    "answer": "Flower Sweep 是一套環環相扣系統中的一部分，這套系統還包含 Hip Bump Sweep、Kimura、Triangle 和 Armbar。這些技術使用相似的 grip 與身體位置，形成一張攻擊網——防住其中一個就會被另一個抓到破綻。例如，用撐手防守 Hip Bump 會創造出 Flower Sweep 的機會；用撐手防守 Flower Sweep 又會創造出 armbar 的機會。這種系統化的打法會不斷把對手逼進兩難局面，遠比單靠任何一招單打獨鬥有效。",
+    "answer_line": "與 Kimura、Triangle、Armbar 連動",
+    "distractors": {
+     "plausible": [
+      "同一個技術只是換個名字",
+      "只是 sweep 失敗時的備案"
+     ],
+     "trap": [
+      "最適合單獨使用"
+     ]
+    }
+   },
+   {
+    "question": "在執行 Flower Sweep 時，你撐地的那隻腳扮演什麼角色？",
+    "answer": "撐地的那隻腳（沒有做 butterfly hook 的那隻）對產生力量與抬升至關重要。它要用力蹬地，把你的髖部完全抬離地面，同時提供身體旋轉的支撐點。沒有這隻撐地腳的強力驅動，你就無法產生足夠的動量把對手掃翻。把它想成發射台——它應該在整個掃技過程中持續用力蹬，而不只是一開始。",
+    "answer_line": "蹬地驅動髖部發力",
+    "distractors": {
+     "plausible": [
+      "平衡體重、防止翻滾",
+      "固定角度，不負責出力"
+     ],
+     "trap": [
+      "放鬆它，讓 hook 出力就好"
+     ]
+    }
+   },
+   {
+    "question": "哪種 grip 組合能讓 Flower Sweep 成功率最高？每個 grip 又各自扮演什麼角色？",
+    "answer": "成功率最高的組合是同側袖口的 grip，搭配交叉領口 grip 或是控制對手頸後的 head control。袖口 grip 能防止對手在被掃的那一側撐手，這正是對抗這個 sweep 的主要防守方式。領口或 head grip 則會把對手的姿勢往前破壞，讓他們的重心壓到你的髖部上方，這正是這個 sweep 最有效的位置。兩個 grip 都必須在整個過程中持續施加拉力——只是被動抓著布料而沒有方向性力量的 grip，會大幅降低這個 sweep 的效果。",
+    "answer_line": "同側袖口 + 交叉領口",
+    "distractors": {
+     "plausible": [
+      "雙手都抓袖口控制",
+      "領口加腰帶 grip"
+     ],
+     "trap": [
+      "交叉領口加對側袖口"
+     ]
+    }
+   },
+   {
+    "question": "對手保持強勢直立姿勢並抵抗你破壞姿勢的嘗試——你要如何創造出 Flower Sweep 的條件？",
+    "answer": "面對強勢的姿勢，你應該先用 Hip Bump Sweep 進攻，逼對手撐出一隻手。當他們撐手時，重心會前移、底盤變窄，正好創造出 Flower Sweep 所需的條件。另外，你也可以用 collar drag 把他們拉離中心，或是威脅 triangle 逼他們把手臂收進來，這樣會破壞他們的底盤。關鍵原則是：Flower Sweep 最適合當作連環攻擊裡的第二招或第三招，而不是對著姿勢良好的對手直接開場使用。",
+    "answer_line": "先用 hip bump 逼對方撐手",
+    "distractors": {
+     "plausible": [
+      "立刻更用力拉領口",
+      "等對手放鬆再出手"
+     ],
+     "trap": [
+      "開 guard 直接冷攻"
+     ]
+    }
+   },
+   {
+    "question": "打開 closed guard 的時機如何影響 Flower Sweep 的效果？",
+    "answer": "太早打開 guard 會洩漏你的意圖，讓對手有時間建立防守底盤、降低重心並準備應對你的攻擊。guard 應該一直保持關閉，直到你準備好出手的那一刻，這時打開、製造角度和插入 hook 應該一氣呵成、迅速完成。這種出其不意，加上對手來不及準備，會大幅提高你的成功率。進階練習者可以稍微提早打開 guard，但前提是已經完全破壞了對手的姿勢。",
+    "answer_line": "在最後一刻才開 guard",
+    "distractors": {
+     "plausible": [
+      "提早打開以製造角度",
+      "只在完全破勢後才開"
+     ],
+     "trap": [
+      "立刻開 guard，慢慢掃"
+     ]
+    }
+   },
+   {
+    "question": "在掃技過程中，對手開始把髖部往後 sprawl——你該如何調整才能讓 sweep 繼續有效？",
+    "answer": "當對手 sprawl 時，他們的髖部會遠離你，但由於你的 grip 控制，他們的上半身重量仍然壓在前方。加快你的髖部旋轉，並用你插入的那隻腳追著他們後退的髖部，把腿伸得更遠以維持槓桿。同時更用力拉領口，讓他們的上半身持續壓在你身上，而你撐地的腳則要更用力蹬。如果 sprawl 造成的距離太大，讓 hook 失去作用，就立刻轉換成 armbar 或 triangle，因為他們的 sprawl 已經伸展了手臂、創造出這些攻擊所需的角度。最大的錯誤是感覺到對手 sprawl 時就停頓——你必須更堅決地完成 sweep，或是立刻轉換攻勢。",
+    "answer_line": "伸長 hook，追著髖部",
+    "distractors": {
+     "plausible": [
+      "放鬆力道，重整底盤",
+      "改用 Pendulum Sweep"
+     ],
+     "trap": [
+      "停下來觀察對手反應"
+     ]
+    }
+   },
+   {
+    "question": "你的 butterfly hook 應該施力的方向是什麼？角度為什麼重要？",
+    "answer": "butterfly hook 的施力方向應該是朝掃技那一側斜向上方（朝天花板），而不是垂直向上。單純垂直上抬只會把對手抬起來，卻不會產生旋轉動量，讓他們落地時能重新站穩底盤。斜向的力量搭配你的 grip 拉力，會形成一個螺旋，把對手的身體從你的肩膀上方翻過去。你的膝蓋應該朝外，與身體中線大約成 45 度角。這個斜向的力量向量，結合拉力型 grip 與撐地腳的驅動，會形成一個力學上非常難以抵抗的三點受力系統，即使面對體型較大的對手也一樣。",
+    "answer_line": "斜向上方，朝天花板",
+    "distractors": {
+     "plausible": [
+      "垂直向上以求最大抬升",
+      "側向以求更快旋轉"
+     ],
+     "trap": [
+      "垂直上抬後就放手"
+     ]
+    }
+   },
+   {
+    "question": "如果 sweep 卡在一半，雙方陷入 scramble，你最好的選擇是什麼？",
+    "answer": "如果 sweep 卡在雙方都側身在半路的狀態，你的首要任務是維持 grip 並持續往前推進，而不是重整回 guard。用胸口壓向對手，同時繼續控制袖口。從這個中途位置，你通常可以靠撐出空著的那隻手並往前推而完成 sweep。如果無法完成，就立刻轉攻被控制的那隻手臂做 kimura，或是如果能把頭抬到對手頭部上方，就轉換成 front headlock 位置。最糟的選擇是放棄 sweep、退回 closed guard，因為你已經花了力氣也打開了 guard——應該利用這個 scramble 的機會，而不是放棄。",
+    "answer_line": "維持 grip，持續前推",
+    "distractors": {
+     "plausible": [
+      "推開對手，重新開始 sweep",
+      "換 guard，之後再試"
+     ],
+     "trap": [
+      "放棄 grip，重整 guard"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "在 Flower Sweep 的整個流程中，你能防守介入的最早時機是什麼？該採取什麼行動？",
+    "answer": "最早的介入時機是在 grip 建立階段，也就是對手伸手抓你同側袖口的時候。積極對抗這個 grip：轉動你的手腕、把手肘往回收，或用另一隻手在對方抓穩之前先把 grip 破壞掉。沒有袖口的 grip，對手就無法阻止你撐手，這樣就消除了這個 sweep 主要的收招機制。這比在 grip、角度和 hook 都已經建立之後才防守要有效得多。",
+    "answer_line": "及早對抗袖口 grip",
+    "distractors": {
+     "plausible": [
+      "阻擋 hook 插入",
+      "防守角度的建立"
+     ],
+     "trap": [
+      "等到 hook 插入後再防守"
+     ]
+    }
+   },
+   {
+    "question": "對手已經插入 butterfly hook，你感覺到 sweep 正要開始——你最好的緊急應對是什麼？",
+    "answer": "在被掃的那一側把手撐在墊子上，手肘保持彎曲（絕對不要鎖死伸直），同時把對側的髖部往下壓、拉寬你的底盤。這個三點支撐姿勢能吸收旋轉的力量。不過你要立刻開始規劃下一步動作，因為這隻撐地的手臂現在很脆弱——要嘛用撐地那隻手把對手的袖口 grip 破壞掉以脫身，要嘛轉換成站立。不要在撐地姿勢停留太久，因為經驗豐富的 guard 玩家會立刻轉去攻擊你這隻撐地的手臂。",
+    "answer_line": "撐彎手臂，拉寬底盤",
+    "distractors": {
+     "plausible": [
+      "手臂鎖死伸直、硬撐",
+      "抓遠側領口、往後拉"
+     ],
+     "trap": [
+      "撐地時手肘鎖死伸直"
+     ]
+    }
+   },
+   {
+    "question": "為什麼站起來往往是對抗持續 Flower Sweep 嘗試最安全的長期防守策略？",
+    "answer": "站起來能讓你完全脫離 Flower Sweep 運作所需的掃技平面。這個 sweep 需要你的膝蓋在地上，且髖部要在對手能勾住的範圍內才能產生旋轉槓桿。當你站起來，下位者的 hook 就失去了力學優勢，他們的角度變得無關緊要，grip 也必須整個重新調整。站起來還能開啟破 guard 與過guard的機會，讓下位者轉為守勢。關鍵在於用正確的技術站起來——雙手控制對手的腿、姿勢挺直，並往後退步以破解 ankle lock，而不是直接在guard裡站得筆直。",
+    "answer_line": "站起來，離開掃技平面",
+    "distractors": {
+     "plausible": [
+      "sprawl 髖部把 hook 壓扁",
+      "雙手撐地、坐回去"
+     ],
+     "trap": [
+      "在 guard 裡直接站得筆直"
+     ]
+    }
+   },
+   {
+    "question": "從防守者的角度，你要如何分辨 Flower Sweep 的準備動作和 Pendulum Sweep 的準備動作？",
+    "answer": "關鍵差異在於腿部位置與施力方向。在 Flower Sweep 中，對手把 butterfly hook 插入你大腿內側，並用圓弧動作把你斜向掃過他的肩膀。在 Pendulum Sweep 中，對手會把外側那條腿大幅甩出去，形成一個大幅度的鐘擺弧線，把你橫向掃倒，通常還會搭配 underhook。grip 的組合也不同——Flower Sweep 主要靠同側袖口控制，Pendulum Sweep 則常用領口加 underhook。留意對方啟動的是哪一條腿，以及最初破勢的方向，就能判斷該用哪種防守。",
+    "answer_line": "內側 hook 對比大幅甩腿",
+    "distractors": {
+     "plausible": [
+      "只靠 grip 類型分辨",
+      "只看翻滾的方向"
+     ],
+     "trap": [
+      "兩者機制完全相同"
+     ]
+    }
+   },
+   {
+    "question": "對手把 Hip Bump Sweep 直接連接到 Flower Sweep——你該如何調整防守？",
+    "answer": "Hip Bump 連接 Flower Sweep 的連環技，利用的正是你對 Hip Bump 的防守反應（把手往後撐）會創造出 Flower Sweep 所需的確切條件。當你察覺到 Hip Bump 時，用胸口向前推來抵抗它，而不是把手往後撐。如果你必須撐手，一旦 Hip Bump 的威脅過去就立刻收回手。關鍵的認知是：Hip Bump 有可能只是引誘你撐手的虛招——如果你能不撐手就防住 Hip Bump（靠持續向前的髖部壓力），Flower Sweep 的後續攻擊就會失去它主要的優勢。",
+    "answer_line": "別撐手，向前施壓",
+    "distractors": {
+     "plausible": [
+      "先撐手，再快速收回",
+      "立刻把腿往後 sprawl"
+     ],
+     "trap": [
+      "手掌平貼撐地、硬撐"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Flower Sweep.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

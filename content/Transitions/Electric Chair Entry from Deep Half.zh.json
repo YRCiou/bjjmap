@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "當對手在 deep half top 時，穿 lockdown 的最佳時機窗口是什麼時候？",
+    "answer": "最佳時機是對手嘗試把體重往前移、要建立 crossface 壓力，或正在調整他們的 base 之後立刻進行。在這些體重轉移的瞬間，他們靠近你的那條腿會暫時變輕、移動力也變差，這樣比較容易把 lockdown 穿進去，而不會被對手把腿抽走。如果在對手靜止且平衡的狀態下嘗試穿 lockdown，反而給了他們最大的機會察覺並阻止這個配置。",
+    "answer_line": "趁對手轉移體重或 base 時",
+    "distractors": {
+     "plausible": [
+      "確保 underhook 之後立刻進行",
+      "等對手安定進入 crossface 之後"
+     ],
+     "trap": [
+      "只在對手靜止不動時進行"
+     ]
+    }
+   },
+   {
+    "question": "要從 deep half 開始 Electric Chair 轉換，必須先滿足哪些入場條件？",
+    "answer": "必須滿足四個條件：你的 deep underhook 必須確實建立，並把對手遠側的腿拉緊貼向你的胸口；你的頭部位置必須低於對手的髖線，避免他們有效施展 crossface；對手靠近你的那條腿必須沒有阻礙、可以在你雙腿之間取得；而且你的髖部必須有足夠的活動度，能在 lockdown 建立之後伸展開來。只要缺少其中任何一個條件，都應該先處理這個缺口，再嘗試進場。",
+    "answer_line": "Deep underhook＋低頭＋腿可取得",
+    "distractors": {
+     "plausible": [
+      "只要有 underhook 就夠了",
+      "頭部位置高於對手髖線"
+     ],
+     "trap": [
+      "underhook 還沒建立就先穿 lockdown"
+     ]
+    }
+   },
+   {
+    "question": "在 Electric Chair 的進場過程中，最關鍵的髖部動作是什麼？",
+    "answer": "最關鍵的動作是垂直於對手方向的髖部伸展。lockdown 確立之後，你的髖部必須朝遠離對手的方向推出，同時 underhook 把他們的上半身與遠側腿往相反方向拉。這個動作會形成定義 Electric Chair 的分裂力（splitting force）。少了這個垂直伸展，這個位置就既沒有 sweep 的槓桿，也沒有關節技的威脅，很容易被防守。",
+    "answer_line": "髖部垂直向外伸展",
+    "distractors": {
+     "plausible": [
+      "髖部直直向後拉",
+      "髖部轉向對手方向"
+     ],
+     "trap": [
+      "保持髖部平貼、方正"
+     ]
+    }
+   },
+   {
+    "question": "導致 Electric Chair 進場失敗最常見的關鍵點是什麼？",
+    "answer": "最常見的三個失敗點是：因為注意力全部轉到腿上，在穿 lockdown 的過程中失去 deep underhook；在對手把靠近的腿抽走之前，沒能完成 lockdown 的 figure-four 鎖定；以及沒有做出垂直角度，因為底部選手保持身體平貼而沒有旋轉。這三個失敗點分別對應這個技巧裡的一個步驟，因此嚴格按照順序、逐步練習這個轉換，就能同時解決這三個問題。",
+    "answer_line": "按順序逐步練習每個步驟",
+    "distractors": {
+     "plausible": [
+      "只專注在 lockdown 上",
+      "所有步驟一次趕著做完"
+     ],
+     "trap": [
+      "重視速度勝過 underhook"
+     ]
+    }
+   },
+   {
+    "question": "完整建立 Electric Chair 位置需要什麼樣的具體 grip 配置？",
+    "answer": "需要同時維持三個控制：deep underhook 環繞住對手遠側大腿，並伸向他們遠側的髖部或背闊肌；在他們靠近的那條腿上做出 lockdown 的 figure-four，你的小腿橫過他們的小腿，雙腳形成三角固定；再用你空出來的手控制他們遠側的腳踝，把它拉向你靠近的髖部。三者必須協調運作——underhook 阻止對手往上逃脫，lockdown 阻止靠近的腿被抽走，而腳踝控制則能把分裂角度拉到最大。",
+    "answer_line": "underhook、lockdown、腳踝控制",
+    "distractors": {
+     "plausible": [
+      "只要 lockdown 加 underhook",
+      "雙手都抓在腳踝上"
+     ],
+     "trap": [
+      "放開 underhook 去抓 grip"
+     ]
+    }
+   },
+   {
+    "question": "在 Electric Chair 進場過程中，你應該施力的主要方向是什麼？",
+    "answer": "主要方向是一個分裂向量，讓兩股相反的力量同時作用。lockdown 把對手靠近的腿往下、往身體外側帶開，而 underhook 與腳踝控制則把遠側的腿拉向你的胸口。此外，你的髖部要垂直於對手方向伸展，製造出側向的分離。這種三維方向的施力方式，正是 Electric Chair 比起單方向施力的簡單 sweep 更難防守的原因。",
+    "answer_line": "分裂雙腿，垂直伸展",
+    "distractors": {
+     "plausible": [
+      "只單純往後拉",
+      "把腿直直往下推"
+     ],
+     "trap": [
+      "直直向前施壓"
+     ]
+    }
+   },
+   {
+    "question": "對手把遠側的手撐在地墊上、伸直手臂來抵抗這個 sweep，你該怎麼調整攻勢？",
+    "answer": "對手撐地的那隻手等於少了一隻手可以防守分裂，這時應該立刻加大關節技壓力，把 lockdown 伸展得更用力，並更積極地拉腳踝。他們撐地的那隻手同時也很容易被 kimura 攻擊——暫時放開腳踝，改成對撐地手臂做 two-on-one，再用 kimura 的威脅逼他們的手撐不住，順勢完成這個 sweep。對手沒辦法同時撐地防守 sweep 又防守這個關節技。",
+    "answer_line": "改抓 two-on-one，威脅 kimura",
+    "distractors": {
+     "plausible": [
+      "只是把 lockdown 拉得更用力",
+      "持續拉住腳踝的 grip"
+     ],
+     "trap": [
+      "完全放開 lockdown"
+     ]
+    }
+   },
+   {
+    "question": "對手靠推 crossface 成功防守了 Electric Chair，這時有哪些銜接攻勢可以用？",
+    "answer": "如果 crossface 讓你做不出 Electric Chair 的角度，就放開 lockdown，利用手上原有的 deep underhook 改做 Waiter Sweep，這個 sweep 其實還會因為對手向前的 crossface 壓力而變得更好做。或者，也可以放棄穿 lockdown，改用 underhook 向後翻滾做 Old School sweep。如果這兩個 sweep 都做不出來，deep half 這個位置本身仍然可以用來抓 back take，趁對手過度投入 crossface 方向時反擊。",
+    "answer_line": "改做 Waiter Sweep",
+    "distractors": {
+     "plausible": [
+      "硬拚爭回角度",
+      "放棄 underhook，之後再試"
+     ],
+     "trap": [
+      "硬做 Electric Chair"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正嘗試從 deep half 做 Electric Chair 進場，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是感覺到對手外側的腿正以穿越的動作越過你靠近的那隻小腿。在標準的 deep half 中，他們的腿會停留在你被困住的那條腿的下方與後方。一旦有一條腿越到你小腿上方，就代表他們正在穿 lockdown。這發生在 figure-four 完成之前，給你一個關鍵的時間窗口把腿抽回，阻止 lockdown 建立成功。",
+    "answer_line": "腿越過你的小腿上方",
+    "distractors": {
+     "plausible": [
+      "他們確立了 deep underhook",
+      "他們把體重往前移"
+     ],
+     "trap": [
+      "等 lockdown 完全鎖死再反應"
+     ]
+    }
+   },
+   {
+    "question": "為什麼向前的 crossface 壓力是對抗 Electric Chair 進場的主要防守工具？",
+    "answer": "向前的 crossface 壓力同時能發揮三個防守作用：它會把對手壓平，讓他們做不出 Electric Chair 所需要的垂直髖部角度；它會限制對手 underhook 的深度，讓他們碰不到你遠側的腳踝；而且它會把你的體重壓在他們的上半身，阻止驅動分裂機制所需要的髖部伸展。沒有其他單一的防守動作能同時處理 Electric Chair 威脅的這三個要素。",
+    "answer_line": "壓平、擋 underhook、壓體重",
+    "distractors": {
+     "plausible": [
+      "只能阻止 underhook",
+      "只能擋住髖部角度"
+     ],
+     "trap": [
+      "推開對手拉開距離"
+     ]
+    }
+   },
+   {
+    "question": "對手已經完整建立 Electric Chair 位置，包含 lockdown、underhook 與腳踝控制，你最好的逃脫策略是什麼？",
+    "answer": "在 Electric Chair 完全建立的情況下，優先破解這條鎖鏈中最弱的一環。先處理腳踝的 grip，用你空著的那隻手把對手的手從你遠側的腳踝上剝開。沒有腳踝控制，分裂的壓力會大幅減弱。接著，對你被困住的腿使用 limp leg 的概念，開始向前壓，把對手壓平。最後，有條理地破解 lockdown 的三角固定。如果在你來得及逃脫之前，關節技的壓力變得危險，寧可拍手投降，也不要冒膝蓋或鼠蹊部受傷的風險。",
+    "answer_line": "先剝開腳踝的 grip",
+    "distractors": {
+     "plausible": [
+      "先破解 lockdown",
+      "什麼都不做先把對手壓平"
+     ],
+     "trap": [
+      "硬把被困住的腿抽出來"
+     ]
+    }
+   },
+   {
+    "question": "如果你成功防守了 Electric Chair，要怎麼防止對手轉換到 Truck 位置？",
+    "answer": "在防守 Electric Chair 時，要留意對手可能放棄分裂攻勢，改用 lockdown 的控制把你翻滾進 Truck 位置，方法是在你雙腿之間插入一個 hook。要防止這件事，讓你被困住那條腿的膝蓋緊貼地墊，不要讓對手從你身下翻過去。如果他們開始翻滾，立刻把髖部下沉（sprawl），並用你自由的那條腿大幅度撐開，阻止導向 Truck 進場的旋轉。",
+    "answer_line": "膝蓋貼地，被翻就 sprawl",
+    "distractors": {
+     "plausible": [
+      "撐地時腿收窄以擋住翻滾",
+      "把膝蓋抬離地墊"
+     ],
+     "trap": [
+      "先讓他們翻過去，之後再反制"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Electric Chair Entry from Deep Half.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

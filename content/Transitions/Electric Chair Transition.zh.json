@@ -1,0 +1,241 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Electric Chair Transition 主要靠什麼機械動作來驅動？",
+    "answer": "髖部伸展是主要的機械驅動力。underhook 與腳踝的 grip 負責維持控制，但真正製造出把對手被困住的腿抬升進入 Electric Chair 位置的力量，是強力的髖部伸展。如果改用手臂力量而不是髖部伸展，會很快沒力，位置壓力也會變弱，讓對手容易抵抗。",
+    "answer_line": "靠髖部伸展的力量",
+    "distractors": {
+     "plausible": [
+      "靠 underhook 帶動抬升",
+      "靠腳踝的 grip 拉腿"
+     ],
+     "trap": [
+      "用手臂力氣硬把腿扯上來"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在伸手去抓腳踝時，必須維持 lockdown 的張力？",
+    "answer": "在換 grip 的過程中放掉 lockdown 的張力，會讓對手把被困住的腿抽出來、過腿到 side control。lockdown 是能讓整個 Electric Chair 機制成立的基礎控制。沒有持續的 lockdown 壓力，就沒有可以產生槓桿的支點，也沒有任何機制能阻止對手立刻逃脫。",
+    "answer_line": "固定槓桿支點、阻止逃脫",
+    "distractors": {
+     "plausible": [
+      "維持 underhook 抓得穩",
+      "維持上位優勢姿態"
+     ],
+     "trap": [
+      "放開它以加快換 grip 速度"
+     ]
+    }
+   },
+   {
+    "question": "你開始抬升時，對手把遠側的手撐在地墊上，你最好的兩個選擇是什麼？",
+    "answer": "選擇一：用你空著的手控制他們撐地的那隻手臂，抓住手腕把它拉過對手身體，讓他們失去 base。選擇二：改打 Old School sweep，因為他們撐地時體重已經投入，這讓他們容易被向後翻滾放倒。要根據哪一個 grip 比較容易抓到、以及對手的體重分布來決定選哪一個。",
+    "answer_line": "拆撐地手，或改打 Old School",
+    "distractors": {
+     "plausible": [
+      "硬頂過他們撐地的手",
+      "直接改攻 armbar"
+     ],
+     "trap": [
+      "放開 lockdown 去追那隻撐地的手"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，你的身體應該做出什麼樣的角度？為什麼？",
+    "answer": "完成完整伸展時，你的身體應該與對手呈約四十五度角。這個垂直於對手的姿勢，能把 lockdown 這個槓桿的機械優勢發揮到最大，並創造出對他們被困住的腿施加分裂壓力的最佳角度。如果角度沒抓對，壓力就會偏向單一直線方向，而不是讓 Electric Chair 難以防守的多方向施力。",
+    "answer_line": "約四十五度，分裂被困的腿",
+    "distractors": {
+     "plausible": [
+      "轉到與對手呈九十度方正對齊",
+      "維持同一直線做直線拉扯"
+     ],
+     "trap": [
+      "轉身背對，硬扭膝蓋"
+     ]
+    }
+   },
+   {
+    "question": "當對手用被困住的那條腿做 windshield wiper 甩動想逃脫時，這會創造出什麼樣的轉換機會？",
+    "answer": "這個 windshield wiper 的甩動動作會暴露出 crab ride 的位置，並立刻創造出進入 Truck 的機會。與其硬拚著逆著對手的旋轉去維持 Electric Chair 的路線，不如順著他們的動作轉換進入 Truck。他們的防守性旋轉，反而幫助你進入另一個同樣危險的進攻位置。",
+    "answer_line": "順旋轉進入 Truck",
+    "distractors": {
+     "plausible": [
+      "硬撐著維持 Electric Chair",
+      "改打 Old School sweep"
+     ],
+     "trap": [
+      "全部放開重新開始"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定啟動 Electric Chair Transition 的正確時機？",
+    "answer": "當對手的體重已經往前投入、輕到可以被 lockdown 抬升時，就是啟動的時機。其他的絕佳時機，是當他們正忙著防守你的 underhook 或上半身攻勢而分心時，或是你剛破壞掉他們姿勢的那一刻。對一個姿勢良好、base 穩固的對手嘗試，通常會失敗。這個轉換在對手已經在被動反應你的 lockdown 壓力、而不是正在建立防守姿態時，效果最好。",
+    "distractors": {
+     "plausible": [
+      "當他們坐回並建立 base 時",
+      "grip 爭奪剛開始時"
+     ],
+     "trap": [
+      "對姿勢穩固的對手硬做"
+     ]
+    },
+    "answer_line": "體重已經往前投入時"
+   },
+   {
+    "question": "在啟動髖部抬升之前，underhook 必須挖多深？",
+    "answer": "underhook 必須繞過對手的背部，直到你的手抓到他們遠側的背闊肌或腰帶位置。你的肩膀應該楔進他們的腋下，形成緊密的連結。如果 underhook 太淺、只碰到脊椎，槓桿力就不夠，會讓對手能把身體立起來離開，讓轉換成功率降低四到五成。",
+    "answer_line": "手抓到遠側背闊肌或腰帶",
+    "distractors": {
+     "plausible": [
+      "手只碰到對手脊椎",
+      "前臂橫過對手胸口"
+     ],
+     "trap": [
+      "放開 lockdown 去伸手抓深一點"
+     ]
+    }
+   },
+   {
+    "question": "你建立 underhook 時，對手用力向前壓上他們的體重，你該怎麼因應？",
+    "answer": "利用他們向前的動能加速這個轉換，在他們向前壓的同時立刻伸展你的髖部。他們投入的體重其實反而有助於抬升他們被困住的那條腿。如果他們壓得非常用力，也可以改用結合他們前壓動能與你伸展動作的 whip-up 變化型，或者往下鑽進去改抓 Deep Half Guard。",
+    "answer_line": "順著動能加速轉換",
+    "distractors": {
+     "plausible": [
+      "停下來重新調整 grip",
+      "退回 base 對抗他們的施壓"
+     ],
+     "trap": [
+      "硬頂對抗他們向前的壓力"
+     ]
+    }
+   },
+   {
+    "question": "在這個轉換過程中，哪三個控制點必須協調配合？",
+    "answer": "這三個協調的控制點是 lockdown 的張力、深度足夠的 underhook，以及對靠近那條腿的腳踝 grip。lockdown 的張力控制住被困的腿並形成槓桿，深度足夠的 underhook 拉伸對手上半身、阻止他們恢復姿勢，而腳踝 grip 則把靠近的腿拉向你的髖部，製造出分裂效果。三者必須協調運作——只要失去任何一個控制點，整個轉換就會被破壞，讓對手有機會逃脫。",
+    "distractors": {
+     "plausible": [
+      "underhook、crossface、髖部",
+      "腳踝 grip、knee shield、frame"
+     ],
+     "trap": [
+      "有兩個 grip 就夠了，可以省一個"
+     ]
+    },
+    "answer_line": "lockdown、underhook、腳踝 grip"
+   },
+   {
+    "question": "Electric Chair Transition 是如何讓防守方陷入兩難的？",
+    "answer": "這個轉換會逼對手做出選擇：如果撐地防守抬升，就會暴露在 Old School sweep 之下；如果任由轉換繼續，就會面對 Electric Chair 關節技的威脅。如果他們專注在把腿抽出來，又會暴露出 Truck 的進場機會。這種多重威脅的特性，意味著任何一種防守選擇都會打開另一個進攻機會，讓這個轉換很難被完全擋下來。",
+    "answer_line": "每種防守都會打開新攻勢",
+    "distractors": {
+     "plausible": [
+      "只有撐地才有風險",
+      "撐地永遠是最好的防守"
+     ],
+     "trap": [
+      "把腿抽出來很安全"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "從 lockdown 開始啟動 Electric Chair Transition，最早能察覺到的線索是什麼？",
+    "answer": "最早的線索是底位選手建立起 deep underhook，手繞過你的背部伸向你遠側的背闊肌或腰帶位置。這個換 grip 的動作，代表他們打算從一般的 lockdown 維持轉為 Electric Chair 的攻勢流程。及早察覺並爭奪這個 underhook，是你最好的防守機會，因為後續所有的 Electric Chair 機制都仰賴這個上半身控制先建立起來。",
+    "answer_line": "deep underhook 伸向遠側背闊肌",
+    "distractors": {
+     "plausible": [
+      "先出現腳踝的 grip",
+      "先開始髖部抬升"
+     ],
+     "trap": [
+      "不管 grip，只看腿的動作"
+     ]
+    }
+   },
+   {
+    "question": "為什麼坐回或往後靠來躲避壓力，是對抗 Electric Chair 最糟糕的防守反應？",
+    "answer": "向後靠會製造出空間，讓底位選手能做出完整的髖部伸展，以及讓分裂壓力最大化的垂直角度。Electric Chair 的機制需要進攻方抬升你被困住的腿，並讓身體轉出角度——只要你製造出距離，這兩個動作都會變得更容易做到。反過來，向前施壓會壓縮他們的空間，限制髖部伸展，並阻止讓這個位置變得危險的角度形成。",
+    "answer_line": "給了對方做髖部伸展的空間",
+    "distractors": {
+     "plausible": [
+      "會失去上半身控制",
+      "會讓腳踝的 grip 被打開"
+     ],
+     "trap": [
+      "能拉出安全的逃脫距離"
+     ]
+    }
+   },
+   {
+    "question": "對手已經確立 underhook，正伸手要抓你的腳踝，這一瞬間你最好的防守動作是什麼？",
+    "answer": "這個換 grip 的瞬間，是進攻方最脆弱的時刻，因為他們放掉了上半身的控制去伸手抓腳踝。立刻用力向前推 crossface 壓力把他們壓平，同時把你靠近那隻腳抽離他們伸過來的手。如果你能在維持向前壓力的同時擋下腳踝的 grip，Electric Chair 就會失去分裂的作用，退回成一般的 lockdown 對抗，這樣你就有機會逃脫。",
+    "answer_line": "向前壓 crossface，抽回腳",
+    "distractors": {
+     "plausible": [
+      "坐回去拉開距離",
+      "抓住他們的手腕往回拉"
+     ],
+     "trap": [
+      "放手往後挪動"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候該嘗試用 windshield wiper 的方式把腿抽出來？這會有什麼風險？",
+    "answer": "當這個轉換已經進行到剝 grip 已經不可行的階段——也就是 underhook 和腳踝 grip 都已經確立、但還沒完全抬升起來的時候，適合嘗試 windshield wiper。主要的風險是這個旋轉動作會暴露出 crab ride 的 hook 位置。如果底位選手察覺並順著你的旋轉走，而不是硬撐著維持 Electric Chair 的路線，他們就能直接轉換進入 Truck，那會帶來同樣危險的一連串關節技威脅。",
+    "answer_line": "後期階段，會有進 Truck 的風險",
+    "distractors": {
+     "plausible": [
+      "grip 都還沒建立的早期階段",
+      "已經完全抬升之後"
+     ],
+     "trap": [
+      "隨時都可以，沒什麼風險"
+     ]
+    }
+   },
+   {
+    "question": "limp leg 的概念是如何幫助防守 Electric Chair Transition 的？",
+    "answer": "limp leg 的概念是刻意放鬆你被困住的那條腿，而不是用力對抗 lockdown。僵硬的腿會給進攻方一個堅硬的槓桿，放大他們 lockdown 伸展的力量，讓抬升更容易、關節技的壓力也更有效。放鬆的腿能吸收力量，降低 lockdown 這個槓桿的機械優勢，也能在逃脫機會出現時，為繞圈式的抽腿動作創造更多活動空間。",
+    "answer_line": "放鬆腿，破壞槓桿作用",
+    "distractors": {
+     "plausible": [
+      "用力把腿硬踢出來",
+      "用 frame 頂住對手髖部逃脫"
+     ],
+     "trap": [
+      "把腿繃緊，助長槓桿效果"
+     ]
+    }
+   },
+   {
+    "question": "對手開始抬升你的腿，你感覺到分裂壓力越來越大，你有系統的逃脫順序應該是什麼？",
+    "answer": "第一步，用力把你的胸口體重向前壓，阻止角度繼續形成。第二步，用你空著的手攻擊腳踝的 grip，掰開他們的手指，或把你的腳抽開。第三步，把你自由那條腿的膝蓋往 lockdown 那一側的地墊壓下去，抵銷抬升的力量。第四步，用膝蓋壓力對抗他們的三角固定，設法把他們 lockdown 的雙腳分開。關鍵是依序處理這些步驟，而不是慌亂地全部一起做，因為每一步都能逐漸削弱這個位置的效果。",
+    "answer_line": "胸口、腳踝、膝蓋，最後雙腳",
+    "distractors": {
+     "plausible": [
+      "先處理腳踝 grip，再壓胸口",
+      "先分開雙腳，再壓胸口"
+     ],
+     "trap": [
+      "同時慌亂地全部一起做"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Electric Chair Transition.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

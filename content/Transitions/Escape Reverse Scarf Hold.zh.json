@@ -1,0 +1,171 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Escape Reverse Scarf Hold.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 reverse scarf hold 下位開始逃脫時，你要做的第一個動作是什麼？",
+    "answer": "第一個動作是保護靠近對手那側的手臂，把手肘緊貼肋骨，手放在對側肩膀附近。這能在任何逃脫動作展開之前，先消除 americana 與 kimura 的威脅。只有在手臂確保安全之後，才建立遠側的 frame，開始 shrimping 動作序列。從保護手臂開始，能防止上位者把你的逃脫嘗試轉換成 submission 的機會。",
+    "answer_line": "先護住近側手肘貼肋骨",
+    "distractors": {
+     "plausible": [
+      "先建立遠側 frame 再護手肘",
+      "立刻 shrimp 髖部"
+     ],
+     "trap": [
+      "伸直近側手臂做 frame"
+     ]
+    }
+   },
+   {
+    "question": "為什麼從 reverse scarf hold 開始 hip escape 動作之前，必須先轉成側身？",
+    "answer": "轉成側身能大幅增加 hip escape 的移動距離與效果。平躺時，shrimping 動作只能移動一到兩英吋，因為你整個背部貼著墊子，髖部的活動範圍受限。側身時，同樣的 shrimping 動作能產生六到八英吋的距離，因為你的髖部能在更大的弧度中自由轉動。側身姿勢也能創造出角度，打開平躺時不可能出現的逃脫路徑。",
+    "answer_line": "側身才能發揮完整髖部活動範圍",
+    "distractors": {
+     "plausible": [
+      "能減少對手胸口的壓力",
+      "只是為了設置 bridge 逃脫"
+     ],
+     "trap": [
+      "保持平躺，加大力氣 shrimp"
+     ]
+    }
+   },
+   {
+    "question": "當對手感覺到你開始 shrimp 時，壓低身體並放寬 base——你該如何調整？",
+    "answer": "當對手壓低並放寬 base 來反制你的 hip escape 時，改成嘗試 bridge 逃脫。他們放低的姿勢雖然降低了重心，卻也降低了他們抵抗有方向性 bridge 向上力道的能力。朝對手背部方向做角度 bridge，利用他們壓低姿勢所產生的弱軸。這種 bridge 接 shrimp 的連鎖，創造出讓對手左右為難的逃脫困境系統——防守其中一種方式，就會對另一種方式露出破綻。",
+    "answer_line": "朝對手背部方向做角度 bridge",
+    "distractors": {
+     "plausible": [
+      "繼續用力 shrimp 硬闖",
+      "直直往正中央 bridge"
+     ],
+     "trap": [
+      "直接往上頂想站起來"
+     ]
+    }
+   },
+   {
+    "question": "遠側的 frame 在整個逃脫動作序列中扮演什麼角色？",
+    "answer": "遠側 frame 是整個逃脫動作的結構基礎。它創造並維持你的身體與對手胸口之間的初始空間，防止對手在每次 shrimp 之間重新壓回壓制性的壓力。這個 frame 必須在整個逃脫序列中持續保持接觸，隨著你身體的移動調整角度與位置，但絕不能完全放開。如果沒有持續的 frame 壓力，上位者會在每次 shrimp 之後重新壓回你的胸口，抵消掉所有已累積的空間。",
+    "answer_line": "持續保持 frame，絕不放開",
+    "distractors": {
+     "plausible": [
+      "frame 只需要在一開始用",
+      "frame 可以取代 shrimp 的需要"
+     ],
+     "trap": [
+      "放開 frame 好加快 shrimp 速度"
+     ]
+    }
+   },
+   {
+    "question": "你如何辨識在逃脫過程中插入 knee shield 的最佳時機？",
+    "answer": "插膝的最佳時機，是當你的 shrimping 已經在你的軀幹與對手身體之間創造出約莫一個大腿寬度的空隙時。你可以透過 frame 手臂感覺到——壓在上面的力道減少，前臂與自己身體之間的距離增加。這個空間一出現，就必須立刻插膝，因為這個時間窗通常只維持一到兩秒，上位者就會做出調整。透過反覆訓練，才能培養出自動抓住這個時間窗的辨識能力。",
+    "answer_line": "出現大腿寬空隙就立刻插膝",
+    "distractors": {
+     "plausible": [
+      "等對手完全放鬆再說",
+      "在 shrimp 開始前就插膝"
+     ],
+     "trap": [
+      "先等到完整的 guard 空間出現"
+     ]
+    }
+   },
+   {
+    "question": "逃脫嘗試中你的近側手臂被部分困住，對手開始建立 kimura 的 grip——你該如何應對？",
+    "answer": "立刻中止逃脫動作序列，處理這個 submission 威脅。把身體轉向被困住的手臂那側，縮小 kimura 可利用的角度。伸直手臂，同時把手肘往自己髖部方向拉回，破壞對手的手臂控制。如果可以，抓住自己的腰帶、短褲或道服，防止手臂被分離。只有在 kimura 的威脅完全解除之後，才能重新調整防禦手臂的位置，恢復逃脫序列。如果手臂還部分被困住就繼續 shrimp，會冒著把完成這個 submission 所需槓桿讓給對手的風險。",
+    "answer_line": "轉身內收、伸直手臂、抓道服",
+    "distractors": {
+     "plausible": [
+      "頂著這個 grip 繼續 shrimp",
+      "把手肘往身體外拉開"
+     ],
+     "trap": [
+      "用力 bridge 把手臂扯出來"
+     ]
+    }
+   },
+   {
+    "question": "從 reverse scarf hold 做 hip escape，跟標準的 side control hip escape 有什麼不同？",
+    "answer": "主要差異在於相對於上位者朝向的逃脫方向。在標準 side control 中，對手面朝你的頭部，所以 hip escape 是遠離對手胸口、朝腿部方向移動。在 reverse scarf hold 中，對手面朝你的腿部，所以壓力角度相反，shrimping 必須考慮不同的 base 配置。遠側 frame 是頂在對手的髖部或下背，而不是頸部或胸口。此外，上位者 base 的弱點方向也不同，使得 bridge-shrimp 困境的角度計算，跟標準 side control 逃脫不一樣。",
+    "answer_line": "frame 頂髖部，不是頸部",
+    "distractors": {
+     "plausible": [
+      "方向跟 side control 一樣",
+      "朝對手頭部方向 shrimp"
+     ],
+     "trap": [
+      "frame 頂在對手頸部"
+     ]
+    }
+   },
+   {
+    "question": "你成功插入了膝蓋，但無法建立完整的 half guard 纏鎖——你有哪些替代方案？",
+    "answer": "如果無法鎖住完整的 half guard，就把插入的膝蓋當成 butterfly hook 使用，把腳放在對手的大腿內側，抬高創造更多空間，讓另一條腿也能介入。另一個方法是把 knee shield 延伸成 open guard 的 frame，同時抓住對手的衣領或袖口保持距離。第三個選項是利用這個部分空間，撐起遠側手，做一個 technical stand-up 站起來。關鍵原則是絕不放棄 shrimp 已經創造出來的空間。任何你能建立的 guard 結構，都可以作為進一步改善的平台。",
+    "answer_line": "butterfly hook 或 open guard",
+    "distractors": {
+     "plausible": [
+      "不管如何都強行鎖 half guard",
+      "放開膝蓋重新回到平躺"
+     ],
+     "trap": [
+      "把膝蓋整個抽回去"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手準備從 reverse scarf hold 下位做 hip escape 時，最早出現的辨識線索有哪些？",
+    "answer": "最早的線索是對手在你的髖部或下背建立遠側前臂 frame，以及開始從平躺轉向側身的髖部旋轉動作。你可以透過髖部區域感受到的壓力察覺這個 frame，而髖部旋轉則會表現為胸口接觸模式的改變。次要線索包括對手把雙腳往髖部靠近，以及遠側手肘向外傾斜以建立結構支撐。及早辨識這些線索，能讓你在 shrimping 序列開始之前，壓垮對手的 frame，把對手壓平。",
+    "answer_line": "髖部有 frame＋開始轉側身",
+    "distractors": {
+     "plausible": [
+      "等對手完整 shrimp 完才反應",
+      "只留意 bridge 嘗試"
+     ],
+     "trap": [
+      "無視 frame，等 bridge 出現"
+     ]
+    }
+   },
+   {
+    "question": "對手已經成功轉成側身，並完成了兩次明顯創造出空間的 shrimp——你應該硬撐維持 reverse scarf hold，還是轉換位置？",
+    "answer": "應該轉換而不是硬撐。一旦對手已經取得側身姿勢，並完成多次成功的 shrimp，reverse scarf hold 的控制已經被大幅削弱。想要重新壓制回原本的姿勢，需要對抗對手已建立的 frame 與累積的空間，耗費體力卻成功率不高。取而代之，利用對手創造出的空間跨過去進入 mount，把對手的逃脫努力轉換成你的位置進展。mount 提供更優越的控制、submission 機會，以及四點壓制，比起不確定能否恢復被削弱的 reverse scarf hold，是更好的結果。",
+    "answer_line": "跨過去進入 mount",
+    "distractors": {
+     "plausible": [
+      "硬撐重新壓回 scarf hold",
+      "重置回中立位置"
+     ],
+     "trap": [
+      "現在直接撲上去搶 kimura"
+     ]
+    }
+   },
+   {
+    "question": "面對 hip escape 的防守反應，跟面對從 reverse scarf hold 逃脫的 bridge 反應有什麼不同？",
+    "answer": "面對 bridge 逃脫，主要防守是放寬 base、壓低髖部，吸收爆發性的向上力道，也可以選擇順著 bridge 的動能騎乘到 mount。面對 hip escape，主要防守是在 shrimping 產生有意義的距離之前，阻止對手轉成側身、壓垮對手的 frame。bridge 防守是對突發爆發性動作的反應，而 hip escape 防守則必須主動應對一個漸進的過程。bridge 需要即時的 base 調整；hip escape 則需要持續維持壓力並留意 frame。理解這個差異，能避免對錯誤的逃脫類型使用錯誤的反制方式。",
+    "answer_line": "主動出擊：提早阻止轉身",
+    "distractors": {
+     "plausible": [
+      "兩種逃脫都用放寬 base",
+      "只在髖部動了之後才反應"
+     ],
+     "trap": [
+      "被動等待，再 base out"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "對抗 mounted triangle 時，執行 bridge 的最佳時機是什麼？",
+    "answer": "最佳時機是對方把重量向前壓來完成 triangle，或調整角度讓 choke 收得更緊的時候。這時他們把重量向前投入，會降低他們向後撐地吸收 bridge 向上力量的能力。你會感覺到胸口和頸部的壓力增加，同時對方的髖部微微抬起以製造收緊的角度。趁這個重量投入的窗口做 bridge，能抓到他們 base 最脆弱的時刻。",
+    "answer_line": "趁對方重量前壓時做 bridge",
+    "distractors": {
+     "plausible": [
+      "triangle 一鎖上就做",
+      "腿一擺好就立刻做"
+     ],
+     "trap": [
+      "等 choke 完全鎖死之後"
+     ]
+    }
+   },
+   {
+    "question": "為什麼要用角度做 bridge，而不是直接向上？",
+    "answer": "直接向上做 bridge，會讓對方利用重力把重量重新沉下去，抵消你的努力。四十五度角則攻擊 mounted triangle base 最弱的一點，通常是對方撐地那條腿結構支撐較弱的那一側。不對稱的 triangle 配置永遠會產生一個較弱的方向，那裡的 base 較少、難以抵抗側向力，這使得角度 bridge 在破壞這個位置上明顯更有效。",
+    "answer_line": "45° 攻擊 base 較弱的一側",
+    "distractors": {
+     "plausible": [
+      "直上力量比較大",
+      "角度可避免手肘受傷"
+     ],
+     "trap": [
+      "直接向上 bridge 拉滿力量"
+     ]
+    }
+   },
+   {
+    "question": "整個 bridge 過程中，最關鍵要維持的防守 posture 元素是什麼？",
+    "answer": "收下巴是最關鍵的單一元素。整個 bridge 動作過程中，下巴都必須收緊貼胸，頭轉向被困手臂那一側。如果沒有收下巴，爆發式的向上 bridge 動作反而可能讓 triangle choke 收得更緊，因為會讓更多頸部暴露在腿的配置之中。收下巴能減少可用的鎖喉角度，避免 bridge 動作弄巧成拙。",
+    "answer_line": "下巴收緊、轉向被困手臂",
+    "distractors": {
+     "plausible": [
+      "挺胸打開",
+      "把視線移開 choke"
+     ],
+     "trap": [
+      "把頭往後仰以取得槓桿"
+     ]
+    }
+   },
+   {
+    "question": "bridge 過程中，如何保護被困手臂不被轉換成 armbar？",
+    "answer": "整個逃脫過程中，把被困手臂維持在大約九十度彎曲，gi 中抓自己的 collar，no-gi 中抓自己對側的二頭肌，或抓住對方的腿。絕不能讓手臂在 bridge 動作中伸直。手臂彎曲的姿勢能防止對方在 triangle 被破壞、局面轉為混亂時，趁機孤立這隻手臂做 armbar。如果你感覺對方轉向要做 armbar，積極朝他們轉身，同時把手肘夾緊。",
+    "answer_line": "手臂彎曲，抓緊 collar",
+    "distractors": {
+     "plausible": [
+      "先把手臂拉出來再 bridge",
+      "用被困手臂推開對方"
+     ],
+     "trap": [
+      "伸直手臂以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "對手在 bridge 那一側寬撐吸收了你的 bridge——你緊接著該做什麼？",
+    "answer": "立刻銜接到對側的 hip escape。當對方寬撐吸收你的 bridge 時，他們的重量會投入到那條撐地的腿上，讓身體另一側出現空間。利用這個不對稱，往對方重量投入的反方向做 hip escape。這種 bridge 接 shrimp 的連鎖動作，比重複做 bridge 更有效，因為對方為了吸收 bridge 而調整的 base，正好為 hip escape 創造了破綻。",
+    "answer_line": "往空出的一側做 hip escape",
+    "distractors": {
+     "plausible": [
+      "同方向再做一次 bridge",
+      "現在就把被困手臂拉出來"
+     ],
+     "trap": [
+      "直接推向對方的撐地點"
+     ]
+    }
+   },
+   {
+    "question": "成功的 bridge 破壞了 triangle 配置之後，你應該立刻做什麼？",
+    "answer": "立刻銜接進 guard 恢復，不要停頓。把靠近一側的膝蓋插過對方的髖部建立 half guard，或繼續做 hip escape 拉開距離、恢復完整的 guard。任何停頓都會讓對方有機會重新建立 triangle，或轉換到其他優勢位置。成功 bridge 創造的空間是暫時的，隨著對方調整，一到兩秒內就會消失，所以立即接續動作，才能把這次破壞轉換成有意義的位置逃脫。",
+    "answer_line": "直接銜接進 guard 恢復",
+    "distractors": {
+     "plausible": [
+      "停下來檢查對方的 grip",
+      "先重整 base 再前進"
+     ],
+     "trap": [
+      "先停下來，把 posture 建立好"
+     ]
+    }
+   },
+   {
+    "question": "如何判斷該用 bridge 防守，還是用 frame-based 的方式逃脫 mounted triangle？",
+    "answer": "當對方正主動把重量向前投入準備收尾、triangle 還沒完全鎖死、你也還有足夠體力做爆發動作時，使用 bridge 防守。當對方維持穩定壓力但不急於收尾、triangle 已經深鎖使破壞的可能性很低，或你的體力已經不足以做爆發動作時，使用 frame-based 逃脫。bridge 是高風險高報酬的選項，而 frame-based 逃脫則提供較穩定但較慢的逃脫路徑。",
+    "answer_line": "早做 bridge，深鎖時改用 frame",
+    "distractors": {
+     "plausible": [
+      "先做 frame，之後一律 bridge",
+      "疲累時才做 bridge"
+     ],
+     "trap": [
+      "完全鎖死時做 bridge 最有效"
+     ]
+    }
+   },
+   {
+    "question": "在你決定從 mounted triangle 執行 bridge 防守之前，必須具備哪些進入條件？",
+    "answer": "你需要至少一隻腳平踩在靠近髖部的位置以產生驅動力，triangle 尚未收緊成深鎖的 figure-four，被困手臂彎曲並受到保護不被伸直，還要有足夠的體力儲備做一次爆發動作。grip 的要求是空出一隻手，抓住對方撐地那隻手腕，或撐在對方髖部做 frame。bridge 在鎖還沒收緊之前成功率最高；面對已經完全深鎖穩定的 triangle，改用 frame-based 逃脫，因為爆發式破壞的成功率會變得很低。",
+    "answer_line": "腳踩穩，triangle 尚未鎖死",
+    "distractors": {
+     "plausible": [
+      "先把雙腳寬撐好",
+      "triangle 收緊、手臂伸直"
+     ],
+     "trap": [
+      "手臂伸直的狀態下做 bridge"
+     ]
+    }
+   },
+   {
+    "question": "對手把你第一次的 bridge 頂住，收緊 triangle 並向前壓——你在這連鎖動作中下一步該攻什麼？",
+    "answer": "不要繼續死磕同一個被頂住的 bridge。重新收好下巴、恢復防守 posture，讓對方的向前壓與收緊消耗他們的體力。接著銜接到往對方重量投入反方向的 hip escape，或在他們下一次收尾動作時再試一次 bridge。他們過度向前投入的那一刻，正是他們向後的 base 最弱的時候，所以趁他們疲勞時做第二次、時機更好的 bridge，或往他們撐地腿讓出的空間做 shrimp，都比重複做已被擋住的動作更有效。",
+    "answer_line": "重整 posture，再做 shrimp",
+    "distractors": {
+     "plausible": [
+      "同方向更用力做 bridge",
+      "頂向他們收緊的力量"
+     ],
+     "trap": [
+      "繼續死磕被頂住的 bridge"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "如何判斷下位者會從 mounted triangle 往哪個方向做 bridge？",
+    "answer": "留意他們的腳位與髖部蓄力的模式。bridge 會針對你 base 最弱的一點，通常是 triangle 配置中你撐地那條腿的那一側。你可以透過他們髖部的張力，以及腳掌重新平踩貼近髖部的動作感覺到準備動作。他們空出來的那隻手，也可能伸向預期 bridge 方向你的撐地手。辨識這些訊號能讓你有時間預先拉寬 base。",
+    "answer_line": "留意腳位與髖部蓄力訊號",
+    "distractors": {
+     "plausible": [
+      "先注意拍打訊號",
+      "等 bridge 開始後再說"
+     ],
+     "trap": [
+      "完全不理會腳位變化"
+     ]
+    }
+   },
+   {
+    "question": "在 bridge 嘗試中，什麼時候該放開 mounted triangle 轉換到 back control？",
+    "answer": "當 bridge 產生足夠的動能，讓你的 mounted triangle 位置變得不穩定、難以維持時，就放開並轉換。關鍵指標是下位者的身體在 bridge 動作中開始明顯轉動，暴露出背部。與其苦撐一個不穩定的 triangle 打一場必輸的仗，不如放開鎖，建立 seat belt grip，順勢流轉進 back control。這能把對方的逃脫嘗試，轉換成同樣具有優勢的位置。",
+    "answer_line": "背部暴露時就放開",
+    "distractors": {
+     "plausible": [
+      "鎖死的 triangle 絕不放開",
+      "對方一動就放開"
+     ],
+     "trap": [
+      "抓更緊，硬抗轉身"
+     ]
+    }
+   },
+   {
+    "question": "當你預期下位者會做 bridge 時，主要的 base 調整是什麼？",
+    "answer": "把預期 bridge 方向那一側的撐地腿拉寬，降低你的 base 更貼近地面，拉開支撐點之間的距離。這樣能建立更寬的結構基礎，吸收角度 bridge 的側向力。同時，用空出來的手控制對方頭部，把頭往地面壓，限制他們脊椎伸展與頭部動作，降低他們產生完整 bridge 力量的能力。",
+    "answer_line": "拉寬撐點，把頭壓向地面",
+    "distractors": {
+     "plausible": [
+      "用窄 base 求快速反應",
+      "緊抓對方遠側的腿"
+     ],
+     "trap": [
+      "身體離開對方胸口向後仰"
+     ]
+    }
+   },
+   {
+    "question": "如何防止下位者把 bridge 連鎖成對側的 hip escape？",
+    "answer": "在單側寬撐吸收第一波 bridge 之後，立刻把重心重新歸中，調整撐地腳的位置以應對相反方向。hip escape 連鎖是頂住 bridge 之後最危險的後續動作，因為你的重量在調整撐地姿勢時會投入到單一側。應對方式是保持髖部靈活，在 bridge 消散後迅速重新安頓，而不是長時間維持寬撐姿勢，讓另一側暴露出破綻。",
+    "answer_line": "吸收後立刻重新歸中",
+    "distractors": {
+     "plausible": [
+      "維持寬撐守住陣地",
+      "改追被困手臂"
+     ],
+     "trap": [
+      "整個重心壓在單側撐地"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Bridge Defense from Mounted Triangle.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

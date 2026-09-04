@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "從 Kesa Gatame 發動 bridge escape 的最佳時機是什麼？",
+    "answer": "最佳的窗口，出現在上位者轉移重量嘗試 submission（例如伸手做 Americana）、抬起髖部調整位置，或短暫降低胸口壓力以重新調整頭部控制的時候。這些時刻會讓向下的壓力暫時減弱，讓你的 bridge 能產生最大的位移。對一個已經沉穩壓實、base 很重的對手做 bridge，成功率會大幅降低。",
+    "answer_line": "趁對方壓力鬆懈時",
+    "distractors": {
+     "plausible": [
+      "對方一坐穩就立刻做",
+      "做完 crossface 後馬上做"
+     ],
+     "trap": [
+      "kesa 一鎖上就立刻做"
+     ]
+    }
+   },
+   {
+    "question": "為什麼控制對方遠側手臂是最關鍵的前置步驟？",
+    "answer": "對方的遠側手臂是他們吸收 bridge 力量的主要撐地工具。如果沒有這隻手可以撐地，一次方向正確的 bridge 就能移動他們的整個重量，因為他們在弱側沒有結構上的支撐。如果撐地的手臂是自由的，即使是強力的 bridge 也很容易被吸收——對方只要把手臂伸到墊子上，整個 bridge 過程中都能維持 base，讓逃脫幾乎不可能，無論你的 bridge 有多強。",
+    "answer_line": "拆掉他們吸收 bridge 的撐點",
+    "distractors": {
+     "plausible": [
+      "解放你的髖部好做 shrimp",
+      "阻止他們把你的腿疊起來"
+     ],
+     "trap": [
+      "讓你能攻擊他們的近側手臂"
+     ]
+    }
+   },
+   {
+    "question": "你該往哪個方向做 bridge？這為什麼重要？",
+    "answer": "朝你被困手臂那一側，用四十五度角做 bridge——由於在 Kesa Gatame 中對方是垂直對齊的，這是他們 base 最弱的方向。對方的重量沿著一條線分布，從撐地那條腿延伸到控制頭部那一側。朝被困手臂那一側做 bridge，是垂直攻擊他們的 base 線，那裡的結構抵抗力最小。直接向上或朝撐地腿方向做 bridge，則是攻向他們最強的 base。",
+    "answer_line": "45° 朝被困手臂那一側",
+    "distractors": {
+     "plausible": [
+      "直接向上頂向他們胸口",
+      "朝他們撐地腿那一側"
+     ],
+     "trap": [
+      "朝被困手臂的反方向"
+     ]
+    }
+   },
+   {
+    "question": "對方感覺到你的腳掌平踩之後把 base 拉寬——你該如何調整逃脫策略？",
+    "answer": "當對方預先把 base 拉寬時，bridge escape 的效果會明顯降低，因為他們張開的雙腿能吸收側向力。這時立刻銜接到 ghost escape 或 back take 嘗試，因為他們拉寬的 base 會讓背部暴露出來，方便轉身逃脫。你也可以假動作做 bridge 引誘對方拉寬 base 的反應，然後在他們注意力放在防守 bridge 方向時，立刻銜接到 ghost escape。",
+    "answer_line": "改做 ghost escape 或 back take",
+    "distractors": {
+     "plausible": [
+      "更用力頂向他們的 base 做 bridge",
+      "等他們再次放鬆"
+     ],
+     "trap": [
+      "硬把 bridge 做完"
+     ]
+    }
+   },
+   {
+    "question": "bridge 創造出空間之後，緊接著必須做什麼？",
+    "answer": "你必須在 bridge 頂點出現空間的那一瞬間，把靠近一側的膝蓋插過對方的髖線。這個空間窗口極短——一旦你的 bridge 到達頂點，對方的重量就會開始回落。膝蓋插入與 bridge 動作應該像一個連續動作，而不是兩個分開的動作。bridge 頂點與膝蓋插入之間的任何停頓，都會讓對方重新安頓、把空間關閉。",
+    "answer_line": "把近側膝蓋插過對方髖部",
+    "distractors": {
+     "plausible": [
+      "撐遠側手重新歸位",
+      "轉身改做 ghost escape"
+     ],
+     "trap": [
+      "停下來喘口氣"
+     ]
+    }
+   },
+   {
+    "question": "bridge escape 與 Kesa Gatame 的 ghost escape 如何互補？",
+    "answer": "bridge escape 透過壓向對方（朝對方方向轉身）攻擊他們的 base，而 ghost escape 則透過轉身離開對方，攻擊他們暴露的背部。這會製造一個雙向的逃脫兩難：如果對方為了防守 ghost escape 而重壓坐回去，他們在你胸口的重量就會變輕，更容易受到 bridge 攻擊。如果他們為了防止 bridge 而向前壓重，他們的背部就會更進一步暴露給 ghost escape。同時訓練這兩種逃脫，會迫使對方必須同時防守兩種相反的威脅。",
+    "answer_line": "製造雙向逃脫兩難",
+    "distractors": {
+     "plausible": [
+      "兩者都攻擊同一個角度",
+      "ghost escape 是用來設置 grip 的"
+     ],
+     "trap": [
+      "只練其中一種，不練另一種"
+     ]
+    }
+   },
+   {
+    "question": "你的 bridge 嘗試失敗，對方再次把你壓平——你緊接著該做什麼？",
+    "answer": "不要立刻再嘗試第二次 bridge，因為你會體力耗盡，而對方也已經有所準備。反而應該立刻銜接到其他逃脫方式——嘗試轉身離開對方做 ghost escape，或用 frame 製造空間，朝 guard 恢復方向做 hip escape。失敗的 bridge 可能已經造成一些微小的位置變化，讓其他逃脫方式變得更可行。回到你的 frame，稍微恢復呼吸，換一個角度進攻，而不是重複同一個失敗的嘗試。",
+    "answer_line": "銜接到不同的逃脫方式",
+    "distractors": {
+     "plausible": [
+      "立刻更用力再做一次 bridge",
+      "躺平休息到完全恢復"
+     ],
+     "trap": [
+      "再重複同一個 bridge"
+     ]
+    }
+   },
+   {
+    "question": "在對方遠側手臂上，你該優先建立什麼 grip？為什麼？",
+    "answer": "在 gi 中，抓袖口手腕處，能用最少的力氣把撐地手臂控制到最大程度——袖口 grip 提供穩固的機械優勢，很難被掙脫。在 no-gi 中，用雙手夾抓手腕能取得最好的控制，不過如果 bridge 時機抓得準，單手抓手腕也有效。避免抓在手肘以上，因為那樣前臂和手掌仍然能有效撐地。你控制的位置越靠近手掌，就越能徹底剝奪他們撐地的能力。",
+    "answer_line": "抓袖口／手腕，不抓手肘以上",
+    "distractors": {
+     "plausible": [
+      "改抓手肘以上",
+      "抓對方遠側的肩膀"
+     ],
+     "trap": [
+      "讓遠側手臂保持自由"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位者正在準備 bridge escape 的最早跡象是什麼？",
+    "answer": "最早的跡象是下位者把雙腳平踩在墊子上、靠近髖部（蓄力準備 bridge），空出來的手伸過你的身體，鎖定你遠側的手腕或袖口，以及核心肌肉明顯收緊。通常搶你遠側手臂的 grip 戰是第一個指標——如果下位者積極尋找你的遠側手臂，而不是試圖建立 frame，他們很可能是在準備 bridge escape，而不是 shrimping escape。",
+    "answer_line": "腳已踩穩，搶你的手腕",
+    "distractors": {
+     "plausible": [
+      "雙手在你髖部做 frame",
+      "雙腿正在做 shrimp 遠離你"
+     ],
+     "trap": [
+      "grip 放鬆，呼吸沉重"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到爆發式 bridge 即將發生時，該如何調整你的 base？",
+    "answer": "立刻把遠側撐地的腿拉寬，把髖部壓低，靠重力而不是肌肉力量把你的重量沉入對方胸口。如果遠側手還沒被對方控制，就撐在墊子上。把肩膀壓力壓向對方臉部，限制他們的旋轉能力。關鍵在於，在 bridge 達到最大力量之前，先降低你的重心並拉寬你的支撐 base。",
+    "answer_line": "拉寬 base，壓低髖部並撐手",
+    "distractors": {
+     "plausible": [
+      "抓更緊，坐得更高",
+      "立刻把膝蓋壓過去"
+     ],
+     "trap": [
+      "站起來重整 base"
+     ]
+    }
+   },
+   {
+    "question": "下位者成功做出 bridge，開始朝你轉身——你該如何利用這個動作？",
+    "answer": "把他們的旋轉當作進到 mount 的機會。當他們做 bridge、把髖部轉向你時，這個動作會自然為你打開一條路徑，讓你可以把遠側的腿跨過他們的身體。在維持頭部控制的同時把腿掃過去，隨著他們的旋轉把髖部帶到你身下，穩穩進入 mount。這樣就把他們的逃脫嘗試，轉換成位置上的推進，而他們自己 bridge 的動能反而幫助了這個轉換，而不是阻礙它。",
+    "answer_line": "跨腿轉進 mount",
+    "distractors": {
+     "plausible": [
+      "後撤回到 kesa gatame",
+      "追遠側手臂做 kimura"
+     ],
+     "trap": [
+      "放開頭部控制，脫離接觸"
+     ]
+    }
+   },
+   {
+    "question": "當對手從 Kesa Gatame 嘗試 bridge escape 時，上位者最常犯的錯誤是什麼？",
+    "answer": "最常見的錯誤，是維持一個重心偏高、base 狹窄的姿勢。許多練習者在 Kesa Gatame 中會挺直坐著、雙腿併攏，這對爆發性的定向 bridge 幾乎沒有抵抗力。等他們對 bridge 做出反應時，重量早已被移動到無法恢復的程度。主動維持 base——在任何逃脫嘗試發生之前，就保持髖部低、遠側腿寬撐——才是能防止 bridge 產生足夠位移的根本防守。",
+    "answer_line": "坐姿挺直、base 狹窄",
+    "distractors": {
+     "plausible": [
+      "過度專注控制手臂",
+      "太早追求 submission"
+     ],
+     "trap": [
+      "base 撐得太寬、太低"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Bridge Escape from Kesa Gatame.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

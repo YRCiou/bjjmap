@@ -1,0 +1,199 @@
+{
+  "attacker": {
+    "flashcards": [
+      {
+        "question": "發動 Double Jump to Mount 過渡的最佳時機是什麼時候？",
+        "answer": "最佳時機是對手已經從 turtle 姿勢完全壓平底盤，把髖部壓向地墊，膝蓋不再積極承重的時候。這種俯臥防守姿態讓傳統的拿背變得困難，但由於對手的髖部已經貼地、底盤已被消除，無法抵抗重量轉移，因此容易受到 step-over mount 過渡的攻擊。",
+        "answer_line": "對手髖部壓平貼地",
+        "distractors": {
+          "plausible": [
+            "hook 一確保就立刻進行",
+            "對手開始坐起時"
+          ],
+          "trap": [
+            "對手正在積極轉身時"
+          ]
+        }
+      },
+      {
+        "question": "在嘗試 mount 過渡之前，Double Jump 位置必須具備哪些條件？",
+        "answer": "你必須已經在對手大腿內側建立雙側 hook、透過 harness 或 crossface 持續控制上半身，並且對手必須處於壓平或受限的 turtle 底盤、髖部貼地的狀態。對手不應該正在積極坐起搶 guard 或轉身，因為這些動作代表他們仍有足夠的機動性能反制 step-over，此時應改為追求背後控制。",
+        "answer_line": "雙 hook、harness、turtle 壓平",
+        "distractors": {
+          "plausible": [
+            "只要有一個強力 hook 就夠了",
+            "對手正坐起搶 guard"
+          ],
+          "trap": [
+            "對手已經在轉身，立刻行動"
+          ]
+        }
+      },
+      {
+        "question": "在抽出 hook 的階段，最關鍵的力學細節是什麼？",
+        "answer": "最關鍵的細節是一次只抽出一個 hook，同時透過胸口與肩膀的連結持續維持上半身壓力。同時抽出兩個 hook 會一次消除所有下半身控制，製造出讓對手能轉身、shrimp 或搶回 guard 的空隙。依序抽出能確保整個過渡過程中至少有一個控制點始終有效。",
+        "answer_line": "一次只抽一個 hook",
+        "distractors": {
+          "plausible": [
+            "讓胸壓保持輕鬆鬆散",
+            "先抽出 hook，再加壓"
+          ],
+          "trap": [
+            "同時抽出兩個 hook"
+          ]
+        }
+      },
+      {
+        "question": "練習者為何常在 step-over 階段丟失位置？",
+        "answer": "最常見的失誤發生在練習者於 step-over 過程中把髖部抬得太高，在自己身下製造出空間，讓對手能夠塞入膝蓋、hip escape 到半防禦，或發動纏鬥。step-over 必須在髖部盡可能貼低的情況下執行，整個動作過程中持續把重量向下驅動，以杜絕對手用來塞入防守動作所需的空間。",
+        "answer_line": "髖部貼低，重量向下驅動",
+        "distractors": {
+          "plausible": [
+            "加快速度以搶在逃脫之前",
+            "用膝蓋撐地保持平衡"
+          ],
+          "trap": [
+            "抬高髖部以取得空間"
+          ]
+        }
+      },
+      {
+        "question": "在整個過渡過程中，必須持續維持哪種上半身抓握？",
+        "answer": "從最初的 Double Jump 位置到最終鞏固 mount 為止，必須不間斷地持續維持 crossface、seatbelt harness 或 overhook 的連結。這個上半身控制能防止對手拉開距離、轉身面對你，或在下半身控制暫時減弱的 hook 抽出與 step-over 這段脆弱階段重新恢復 turtle 姿勢。",
+        "answer_line": "crossface、harness 或 overhook",
+        "distractors": {
+          "plausible": [
+            "過渡途中換抓握",
+            "改抓腰帶以取得額外控制"
+          ],
+          "trap": [
+            "放開抓握以加快速度"
+          ]
+        }
+      },
+      {
+        "question": "在 step-over 到 mount 的過程中，你的重量應該朝哪個方向分布？",
+        "answer": "在整個 step-over 過程中，重量應該向下並稍微向前分布，透過胸口與肩膀驅動壓向對手的上背部。這能防止對手透過 bridging 或 shrimping 製造空間，並確保你的髖部在 step-over 完成的瞬間立即落定成 mount 壓力，而不是懸在對手上方製造可被利用的空隙。",
+        "answer_line": "向下並向前壓向背部",
+        "distractors": {
+          "plausible": [
+            "重量放在腳跟方向",
+            "左右平均分布重量"
+          ],
+          "trap": [
+            "先懸空再落定"
+          ]
+        }
+      },
+      {
+        "question": "當你抽出第一個 hook 時，對手開始轉身面向你，你該如何調整？",
+        "answer": "如果對手在 hook 抽出過程中轉身面向你，就放棄 mount 過渡，立即順著他們的轉身動作改為拿背或進入 crab ride。他們的動作其實更有利於這些替代過渡方式。硬要對正在積極轉身的對手完成 mount，通常會落入半防禦或纏鬥，而順著他們的動作走，則能達到同等或更具主導性的位置。",
+        "answer_line": "順勢拿背或進入 crab ride",
+        "distractors": {
+          "plausible": [
+            "把抽出的 hook 重新塞回去",
+            "停下並重置回 Double Jump"
+          ],
+          "trap": [
+            "硬要把 mount 過渡完成"
+          ]
+        }
+      },
+      {
+        "question": "如果你的 mount 過渡嘗試被對手恢復底盤所阻擋，你應該追求哪些替代進攻？",
+        "answer": "當 mount 被阻擋時，根據對手的防守反應立刻連鎖到 Double Jump 的其他進攻選項。如果他們恢復 turtle，就重新建立 hook 追求背後控制。如果他們轉向側身，就進入 crab ride。如果他們為了逃離壓力而翻滾，就跟進 truck position。mount 過渡只是 Double Jump 廣泛三線進攻系統中的一個選項，這個系統會消除對手所有安全的防守選擇。",
+        "answer_line": "連鎖到拿背、crab ride、truck",
+        "distractors": {
+          "plausible": [
+            "重複同一個 mount 嘗試",
+            "永遠預設改追求背後控制"
+          ],
+          "trap": [
+            "脫離並重置回中立位置"
+          ]
+        }
+      }
+    ]
+  },
+  "defender": {
+    "flashcards": [
+      {
+        "question": "對手正從 Double Jump 過渡到 mount 時，最早能辨識的線索是什麼？",
+        "answer": "最早的線索包括感覺到一個 leg hook 開始從你大腿內側抽離，同時上半身壓力透過你的背部增加；hook 移除後，攻擊者的腳平貼在你髖部旁的地墊上；以及抓握配置從以 hook 為主的髖部控制，轉變為更緊密的 crossface 或 harness 連結。這些線索合在一起代表 mount 過渡即將發生。",
+        "answer_line": "hook 抽離，壓力增加",
+        "distractors": {
+          "plausible": [
+            "突然加快向前的速度",
+            "對手抓住你遠側腳踝"
+          ],
+          "trap": [
+            "攻擊者的體重突然離開"
+          ]
+        }
+      },
+      {
+        "question": "在 mount 過渡的哪個階段，防守動作最有可能成功？",
+        "answer": "最有效的防守時機是在 hook 抽出階段，具體來說是第一個 hook 被移除到 step-over 開始之間的短暫瞬間。在這個階段，攻擊者的下半身控制處於最弱點，只剩下一個 hook 或完全沒有 hook 影響你的腿。hip escape、恢復 turtle，以及搶回 guard 的嘗試，在這段過渡的脆弱期成功機率最高。",
+        "answer_line": "在 hook 抽出的窗口期",
+        "distractors": {
+          "plausible": [
+            "在 step-over 本身進行時",
+            "在 hook 尚未插入之前"
+          ],
+          "trap": [
+            "mount 已完全確立之後"
+          ]
+        }
+      },
+      {
+        "question": "你的對手已經抽出一個 hook 並正在 step over，你的即時防守反應是什麼？",
+        "answer": "立刻朝被抽出 hook 的那一側發動 hip escape，同時轉身面向對手，並塞入膝蓋以建立 frame 或半防禦位置。這個髖部動作會製造出實體屏障，防止 step-over 順利完成。時機至關重要，因為 hip escape 必須在 step-over 動作進行中就開始，趕在攻擊者把重量落定成 mount 之前。",
+        "answer_line": "朝被抽 hook 那側 hip escape",
+        "distractors": {
+          "plausible": [
+            "直接 bridge 上去翻過",
+            "用雙手推開"
+          ],
+          "trap": [
+            "保持平躺並等待過去"
+          ]
+        }
+      },
+      {
+        "question": "為什麼在這個過渡過程中保持平躺被動是最糟糕的防守策略？",
+        "answer": "保持平躺會讓攻擊者毫無阻礙地完成整個 step-over 動作，並以完整的重力壓力落定成穩固的 mount，從那裡逃脫需要更多的體力與技術執行。過渡階段提供了攻擊者控制力減弱的短暫窗口，一旦 mount 鞏固，這個窗口就會完全消失。平躺姿勢也會消除你的髖部機動性，而這正是干擾 step-over 的主要力學工具。",
+        "answer_line": "讓 mount 完全鞏固",
+        "distractors": {
+          "plausible": [
+            "為之後的逃脫保留體力",
+            "讓對手的抓握維持鬆散"
+          ],
+          "trap": [
+            "為之後保留髖部機動性"
+          ]
+        }
+      },
+      {
+        "question": "如何利用攻擊者在 step-over 過程中的重量轉移來製造逆轉？",
+        "answer": "在 step-over 過程中，攻擊者的重量會不對稱地轉移到一側，因為他們的腿正橫掃過你的身體。這會製造出短暫的側向平衡失衡瞬間，可以透過抓準時機、朝 step-over 方向 bridge 來利用，借力使力反制對手的動能。搭配對著跨越那一側施加 frame，這會製造出足夠的干擾，往往能讓你搶回半防禦，而不是讓對手乾淨俐落地建立 mount。",
+        "answer_line": "朝 step-over 方向 bridge",
+        "distractors": {
+          "plausible": [
+            "朝 step-over 反方向 bridge",
+            "對近側手臂施加 frame"
+          ],
+          "trap": [
+            "直接向上推把對手頂開"
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "source": "content/Transitions/Double Jump to Mount.json",
+    "lang": "zh-TW",
+    "scope": "flashcards",
+    "translator": "code",
+    "complete": true
+  }
+}

@@ -1,0 +1,185 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "為什麼在嘗試清除 lockdown 之前，必須先化解對方的 underhook？",
+    "answer": "lockdown 的攻擊力來自腿部纏繞與 underhook 所提供的上半身槓桿之間的協同作用。underhook 讓 whip-up 動作得以施展，也是讓上位者的重心持續側向偏移的拉力來源。若在 underhook 仍然有效的情況下試圖清除 lockdown，腿部動作所製造出的空間，會立刻被下位者用來發動 sweep。用 whizzer 化解 underhook，能移除 Vaporizer 大約 70% 的攻擊能力，讓接下來的 lockdown 抽腿明顯更安全、更容易成功。",
+    "answer_line": "先化解 whizzer，再清 lockdown",
+    "distractors": {
+     "plausible": [
+      "先清 lockdown 再處理 whizzer",
+      "同時對抗兩種抓法"
+     ],
+     "trap": [
+      "硬拉腿掙脫，無視 underhook"
+     ]
+    }
+   },
+   {
+    "question": "對手發動強力的 whip-up，你感覺重心正被帶往一側——你的立即反應是什麼？",
+    "answer": "立刻拓寬你的 base，把空出的那條腿以 45 度角向外撐開，並把肩膀壓力向下壓進對手的胸口。不要試圖用上半身力量去對抗這股側向力量——利用結構性的姿勢，製造出更寬、更低的重心，讓 whip-up 無法撼動。避免把手撐在對手髖部附近，因為這會為 Old School sweep 創造出可利用的槓桿點。只有在 base 穩定、whip-up 動作已透過姿勢化解之後，才能重新展開逃脫動作。",
+    "answer_line": "撐寬 base，肩膀下壓",
+    "distractors": {
+     "plausible": [
+      "用蠻力硬撐 whip-up",
+      "縮窄 base，降低重心"
+     ],
+     "trap": [
+      "把手撐在對手髖部附近"
+     ]
+    }
+   },
+   {
+    "question": "要清除一個鎖得很緊的 lockdown，正確的腿部動作是什麼？為什麼爆發式硬拉會失敗？",
+    "answer": "正確的技巧是膝蓋畫圈：把被困的膝蓋指向下方以縮小腿部輪廓，接著做出小幅度的旋轉弧線，逐漸在 figure-four 的配置中製造出鬆動空間。爆發式硬拉之所以會失敗，是因為當力量直接作用在 figure-four 上時，它會反射性地鎖得更緊，就像中國指銬一樣。下位者對拉扯動作的自然反應就是夾得更緊，而爆發動作瞬間製造出的空間，反而會給他們發動 sweep 的動能。畫圈之所以有效，是因為旋轉動作能逐步瓦解這個鎖的結構，而不會觸發夾緊反射。",
+    "answer_line": "小幅膝蓋畫圈，不要硬拉",
+    "distractors": {
+     "plausible": [
+      "把膝蓋指向上方以縮小輪廓",
+      "緩慢穩定地直線拉扯"
+     ],
+     "trap": [
+      "爆發式硬拉把腿扯出來"
+     ]
+    }
+   },
+   {
+    "question": "你開始畫圈抽出被困的腿，對手把外側腳撐地準備發動 Old School sweep——你該如何調整？",
+    "answer": "立刻暫停 lockdown 的畫圈動作，先處理 sweep 的威脅。把 base 朝著預期被 sweep 的反方向拓寬，並加大 crossface 壓力以限制對方的挺橋力量。Old School sweep 需要對手從 underhook 那一側挺橋——沉重的 crossface 能阻止這個挺橋產生足夠的力量。等 sweep 的威脅被化解後，再重新展開 lockdown 逃脫。接受這個延遲是必要的；維持上位控制的優先順序絕對高於逃脫的進度。",
+    "answer_line": "拓寬 base，加重 crossface",
+    "distractors": {
+     "plausible": [
+      "繼續畫圈，無視 sweep",
+      "立刻換成 whizzer"
+     ],
+     "trap": [
+      "放掉 crossface 以求更快逃脫"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的抓法配置，能給你最好的機會成功抽出被困的腿？",
+    "answer": "在對手 underhook 的那隻手臂上打入深 whizzer，並搭配 crossface 的肩膀壓力，是抽腿的最佳控制配置。whizzer 能阻止 underhook 產生側向槓桿力，而 crossface 則能固定對方的頭部並限制髖部活動。你的另一隻手應該撐寬以支撐 base，而不是去抓自己的腿或對手的腿。這種配置能持續對對手施壓，同時讓你被困的腿保持自由，能執行畫圈動作，不會有任何一隻手被綁在會犧牲你 base 的任務上。",
+    "answer_line": "深 whizzer 加 crossface",
+    "distractors": {
+     "plausible": [
+      "抓住自己被困的那條腿",
+      "雙手都去控制對方的腿"
+     ],
+     "trap": [
+      "改抓對方的腿，放掉 whizzer"
+     ]
+    }
+   },
+   {
+    "question": "在你逃脫的過程中，對手突然放開了 lockdown——這通常代表什麼？你該如何回應？",
+    "answer": "主動放開 lockdown 通常代表對手正準備過渡到背後控制、Truck 或 butterfly sweep。不要因為腿自由了就鬆懈——立刻把髖部轉向對手，處理他們正在啟動的位置轉換。如果還沒有 whizzer，就立刻建立，把肩膀壓力壓向他們的頭部，阻止他們取得背後控制所需的角度。lockdown 放開的瞬間會產生短暫的混戰，而有準備的一方會佔上風。如果你早已預料到這次放開並維持住上半身控制，就可以立刻推進到 pass 的位置。",
+    "answer_line": "轉身面對，阻止背後控制",
+    "distractors": {
+     "plausible": [
+      "放鬆，反正腿已經自由了",
+      "立刻站起來"
+     ],
+     "trap": [
+      "慶祝一下，去追腿鎖"
+     ]
+    }
+   },
+   {
+    "question": "在一場拖到 45 到 60 秒的長時間逃脫嘗試中，該如何管理體力消耗？",
+    "answer": "全程使用結構性壓力而不是肌肉出力。透過正確的姿勢讓體重替你做工——胸口重壓在對方軀幹上、髖部壓低撐寬、whizzer 的壓力靠手臂位置維持而不是不斷用力夾緊。保持穩定的呼吸節奏，在畫圈嘗試時避免憋氣。逃脫是一個磨的過程，不是一個爆發的過程。在逃脫過程中短暫停頓、只維持位置並呼吸，是完全可以接受的，只要你持續施加結構性壓力，阻止下位者改善他們的控制。",
+    "answer_line": "用結構性壓力，不靠蠻力",
+    "distractors": {
+     "plausible": [
+      "在休息之間爆發式衝刺",
+      "畫圈時憋氣"
+     ],
+     "trap": [
+      "不斷用力夾緊，無視呼吸"
+     ]
+    }
+   },
+   {
+    "question": "把腿從 lockdown 中抽出之後，在嘗試 pass 之前，你最優先要做的事是什麼？",
+    "answer": "你最優先要做的是防止 lockdown 被重新建立。把抽出的腿踩向對手髖部外側，而不是留在對方雙腿之間讓他們有機會重新纏繞。同時把 whizzer 換成 crossface 來控制對方頭部，阻止他們轉身面向你恢復 guard。只有在完成這兩個動作——腿放到外側、建立 crossface——之後，才能開始展開 pass 的動作。花了 30 秒逃脫卻又被重新 lockdown，對士氣與體力儲備都是毀滅性的打擊，所以這個預防步驟沒有商量餘地。",
+    "answer_line": "腿放外側，換成 crossface",
+    "distractors": {
+     "plausible": [
+      "立刻 pass 以維持氣勢",
+      "保留 whizzer，跳過 crossface"
+     ],
+     "trap": [
+      "把腿留在對方雙腿之間"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "上位者在你的 underhook 上建立了強力的 whizzer——這會如何改變你從 Vaporizer 發動攻擊的策略？",
+    "answer": "whizzer 會降低你的 underhook 對 whip-up 動作與側向 sweep 的有效性，但也創造出發動 Electric Chair 的條件。當上位者把手臂投入 whizzer 時，他們的防禦注意力會被分散在上半身控制與維持 lockdown 之間。加大 lockdown 的延伸，把他們被困的腿抬高，同時用另一隻沒有被 underhook 佔用的手控制他們的另一條腿。他們投入 whizzer 的這個動作，反而讓他們無法防禦 Electric Chair 所需的分腿。另一個選項是維持 lockdown 壓力，等他們把注意力轉回 lockdown 時，再趁 whizzer 鬆動的瞬間重新啟動 whip-up。",
+    "answer_line": "轉打 Electric Chair",
+    "distractors": {
+     "plausible": [
+      "繼續磨 whip-up sweep",
+      "放棄 lockdown，站起來"
+     ],
+     "trap": [
+      "硬用 whip-up 突破 whizzer"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到上位者開始成功畫圈抽出被困的腿，在 lockdown 中製造出鬆動——你最高勝率的應對方式是什麼？",
+    "answer": "主動反制他們的畫圈動作，把膝蓋夾緊，並把被困的腿朝反方向旋轉伸展。同時加大 underhook 的拉力以破壞他們的 base，讓他們的注意力在維持 whizzer 與繼續畫圈之間被分散。如果 lockdown 儘管做了這些調整仍持續瓦解，就立刻轉換成 sweep 或背後控制，而不是死守一個正在弱化的控制點。趁你還保有部分控制時主動轉換位置，效果會遠比完全失去 lockdown 後被 pass 好得多。",
+    "answer_line": "反向夾緊，再轉換攻勢",
+    "distractors": {
+     "plausible": [
+      "撐著不放，寄望它重新鎖緊",
+      "放開抓法，重設位置"
+     ],
+     "trap": [
+      "不計代價死守 lockdown"
+     ]
+    }
+   },
+   {
+    "question": "在上位者的逃脫過程中，什麼時候是嘗試 Old School sweep 的最佳時機？",
+    "answer": "最佳時機是上位者在 lockdown 畫圈時把重心側移，或是把 base 撐到最大寬度時。這兩個動作都會製造出 Old School sweep 可以利用的側向重心失衡。他們的 base 撐得越寬，你能撐過的槓桿臂就越長——弔詭的是，他們為了防禦而撐寬 base 的動作，反而改善了你的 sweep 力學。把外側腳撐地，穿過 underhook 發力，並朝著他們展開的 base 方向挺橋。他們全心投入逃脫，意味著他們對 sweep 的防禦反應，會因為注意力被分散在抽腿與維持 base 之間而延遲。",
+    "answer_line": "他們撐寬 base 時就 sweep",
+    "distractors": {
+     "plausible": [
+      "他們一開始畫圈就立刻 sweep",
+      "等他們 base 最穩時再 sweep"
+     ],
+     "trap": [
+      "趁他們 base 窄的時候 sweep"
+     ]
+    }
+   },
+   {
+    "question": "上位者幾乎已經清除了 lockdown——你應該死守重新建立它，還是轉換成別的攻勢？",
+    "answer": "幾乎在所有情況下都應該轉換，而不是硬拚重新鎖住。試圖重新鎖住一個已經幾乎清空的 lockdown 勝率很低，而且會把你帶進一場上位者佔有動能優勢的混戰。相反地，利用你手上還留有的任何控制——即使只是鬆散的 hook 或 underhook——轉換到背後控制、butterfly sweep 或坐姿 guard。這個轉換應該在你察覺 lockdown 正在失守的當下就啟動，而不是等它完全清空之後。underhook 是你在這個轉換過程中最有價值的資產；不計代價維持住它，並用它來建立你的下一個攻擊位置。",
+    "answer_line": "轉換攻勢，別硬重鎖",
+    "distractors": {
+     "plausible": [
+      "立刻混戰搶回重新鎖住",
+      "等它完全清空才行動"
+     ],
+     "trap": [
+      "放開 underhook，去追腿"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Escape from Vaporizer.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Counter-entangle to 50-50 Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "Counter-entangle to 50-50 Guard 的主要目標是什麼？",
+    "answer": "主要目標是把 Leg Knot Bottom 的防守危機，轉化成雙方互相威脅腿鎖的中性位置。你不只是單純逃脫，而是在化解對手的位置優勢的同時，在對稱的 50-50 配置中為自己創造 submission 機會。",
+    "answer_line": "把危機變成互相威脅的 50-50",
+    "distractors": {
+     "plausible": [
+      "逃脫到完全中性的位置",
+      "退回 Leg Knot Bottom"
+     ],
+     "trap": [
+      "放棄雙腿並站起來"
+     ]
+    }
+   },
+   {
+    "question": "Counter-entangle to 50-50 Guard 是從什麼位置開始的？",
+    "answer": "這個技巧從 Leg Knot Bottom 開始，此時你的腿被纏在對手的 leg knot 配置中，但對手還沒取得像 Saddle 或 Inside Ashi-Garami 那樣的優勢位置。你的自由腿必須有足夠的活動空間來執行穿插動作。",
+    "answer_line": "Leg Knot Bottom，Saddle 成形之前",
+    "distractors": {
+     "plausible": [
+      "從 Saddle Bottom 位置",
+      "從 Inside Ashi-Garami"
+     ],
+     "trap": [
+      "對手鎖住 Saddle 之後"
+     ]
+    }
+   },
+   {
+    "question": "執行 Counter-entangle to 50-50 Guard 需要哪些關鍵抓握？",
+    "answer": "執行過程中不需要特定的抓握——靠雙腿完成動作。不過在開始之前，雙手應該保護你的腳跟並控制自己的腳。取得 50-50 之後，立刻在對手近側的腳上建立 two-on-one 抓握控制，製造 heel hook 威脅並防止對手再次進攻。",
+    "answer_line": "沒有，進位之後才 two-on-one",
+    "distractors": {
+     "plausible": [
+      "先抓對手的領口",
+      "穿插之前先鎖住腳踝"
+     ],
+     "trap": [
+      "太早放開腳跟保護"
+     ]
+    }
+   },
+   {
+    "question": "身為上位者，該如何應對 Counter-entangle to 50-50 Guard？",
+    "answer": "身為上位者，最有效的應對方式是及早察覺對方的意圖，把髖部往後 sprawl，同時用手擋住正在穿插的那條腿。你也可以在對方展開反纏之前加速轉換到 Saddle，或是在穿插動作使腳跟短暫暴露時，積極進攻 heel hook。",
+    "answer_line": "Sprawl 髖部，擋住穿插的腿",
+    "distractors": {
+     "plausible": [
+      "等對方完全投入再反應",
+      "拉回 guard 重新設定位置"
+     ],
+     "trap": [
+      "放開所有抓握並脫離"
+     ]
+    }
+   },
+   {
+    "question": "什麼時候是嘗試 Counter-entangle to 50-50 Guard 的最佳時機？",
+    "answer": "最佳時機是在對手轉換動作的過程中——當他們放開抓握進行調整、嘗試從 Leg Knot 推進到 Saddle，或是伸手去抓 heel hook 的時候。不要在對手已經穩定建立強勢控制、抓握都已固定的靜態控制階段嘗試。",
+    "answer_line": "在對手轉換動作的時候",
+    "distractors": {
+     "plausible": [
+      "剛鎖上 Leg Knot 之後",
+      "當他們加強控制時"
+     ],
+     "trap": [
+      "在他們靜態的強勢控制期間"
+     ]
+    }
+   },
+   {
+    "question": "當你開始穿插動作時，對手開始把髖部往後 sprawl，你該如何調整？",
+    "answer": "把對方的 sprawl 當作施力點，在繼續穿插動作的同時往反方向做 hip escape。他們 sprawl 所創造的額外空間，其實可以幫助你從不同角度完成穿插。如果 sprawl 完全擋住了穿插路線，就放棄 50-50，利用製造出來的空間轉換到 Single Leg X-Guard 回收。",
+    "answer_line": "Hip escape 並繼續穿插",
+    "distractors": {
+     "plausible": [
+      "立刻切換到 Saddle",
+      "完全放棄那條腿，撤退"
+     ],
+     "trap": [
+      "硬把腿穿插進 sprawl 裡"
+     ]
+    }
+   },
+   {
+    "question": "成功完成 counter-entangle 所需的關鍵髖部動作是什麼？",
+    "answer": "關鍵的髖部動作是朝對手方向旋轉，同時搭配向前的穿插動作。你的髖部必須轉向對手（而不是轉離對手），這樣才能在轉換過程中保護腳跟，也才能製造出讓你的腿順利穿過對方結構的正確角度。轉離對手會暴露你的腳跟，並讓穿插動作在幾何上變得不可能完成。",
+    "answer_line": "把髖部旋轉朝向對手",
+    "distractors": {
+     "plausible": [
+      "髖部與對手保持平行",
+      "只是把髖部直直往前推"
+     ],
+     "trap": [
+      "把髖部轉離對手"
+     ]
+    }
+   },
+   {
+    "question": "如果你的 counter-entangle 失敗，退回 Leg Knot Bottom，此時的首要任務是什麼？",
+    "answer": "立刻在對手的髖部重新建立自由腿的框架，防止對方位置推進。把雙手放回去保護被困那條腿的腳跟。評估你這次失敗的嘗試是否讓對手取得更好的位置（更接近 Saddle），並據此調整你的防守優先順序。也要考慮其他逃脫路線，因為對手會預期你再次嘗試 counter-entangle。",
+    "answer_line": "重建髖部框架，再次保護腳跟",
+    "distractors": {
+     "plausible": [
+      "立刻再嘗試同樣的穿插",
+      "抓住對手的領口來控制"
+     ],
+     "trap": [
+      "放開腳跟保護，重設抓握"
+     ]
+    }
+   },
+   {
+    "question": "為什麼半途投入 counter-entangle 特別危險？",
+    "answer": "半途投入會讓你陷入一個比起始的 Leg Knot Bottom 或目標的 50-50 都更糟的混合位置。你的自由腿失去了防守框架的能力，但你也還沒得到 50-50 的互相威脅優勢。對手可以同時進攻你部分穿插的腿，並繼續進行原本的腿鎖序列。你必須完全投入完成動作，或是維持你的防守位置。",
+    "answer_line": "失去框架，卻沒換到 50-50 的安全",
+    "distractors": {
+     "plausible": [
+      "會變慢但還算安全",
+      "只是冒著失去位置分數的風險"
+     ],
+     "trap": [
+      "投入到一半再安全地重新評估"
+     ]
+    }
+   },
+   {
+    "question": "如果對手防守住 50-50 的進入，你應該準備哪些連續進攻？",
+    "answer": "如果穿插動作被擋住，立刻轉換到：（1）利用穿插動作的動能進入 Single Leg X-Guard，（2）如果對方的防守反應創造出空間，就完全抽腿轉換到 Half Guard，或（3）回到防守框架，等待下一次轉換窗口。準備好這些替代方案，可以避免你一再強行使用已經失敗的技巧。",
+    "answer_line": "Single Leg X、half guard，或框架",
+    "distractors": {
+     "plausible": [
+      "立刻撤退回 full guard",
+      "直接切換成 heel hook"
+     ],
+     "trap": [
+      "持續強行進入被擋住的路線"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正在設置 counter-entangle to 50-50 時，最早的辨識訊號是什麼？",
+    "answer": "最早的訊號是對手把自由腿從你的髖部框架收回，並把膝蓋往胸口帶。這個蜷曲動作就是穿插前的準備階段。再加上他們的髖部開始朝你（而不是遠離你）旋轉，這幾乎可以確定對手即將嘗試 counter-entangle。在這個階段就做出反應，可以讓你有最多時間來擋住或推進位置。",
+    "answer_line": "他們蜷膝靠胸，髖部轉入",
+    "distractors": {
+     "plausible": [
+      "他們把膝蓋頂進你的髖部",
+      "他們抓住你遠側的領口"
+     ],
+     "trap": [
+      "他們把手撐在地墊上"
+     ]
+    }
+   },
+   {
+    "question": "對手已經把腿穿插了一半——現在阻止 50-50 是不是已經太遲？",
+    "answer": "不一定，但你的選項會明顯變少。用你的空手抓住對方正在穿插的那條腿的腳踝，在他們鎖住腳踝之前把腿推出去。同時把髖部往前推，減少他們完成配置所需要的空間。如果對方的腿已經過了一半，並伴隨強力的髖部旋轉，你最好的選擇會轉為在腳跟因旋轉而暴露時立刻進攻 heel hook，或是在他們鎖住 ankle lock 之前加速搶進 Saddle。",
+    "answer_line": "抓住腳踝，把髖部往前推",
+    "distractors": {
+     "plausible": [
+      "立刻放開抓握，撤退",
+      "等對方完成穿插"
+     ],
+     "trap": [
+      "放手並嘗試重新結 guard"
+     ]
+    }
+   },
+   {
+    "question": "為什麼加速搶進 Saddle 是應對 counter-entangle 威脅的有效方式？",
+    "answer": "Saddle 位置因為其垂直對位角度和更緊密的腿部配置，完全排除了 counter-entangle 的可能性。在 Saddle 中，由於 figure-four 結構以及你橫跨對方身體的髖部位置，對手的自由腿無法從你的雙腿之間穿插。此外，對手在設置 counter-entangle 時朝你旋轉髖部的動作，反而會幫助你進入 Saddle 的角度，讓對方的進攻動作反過來對他們不利。",
+    "answer_line": "Saddle 的角度擋住穿插路線",
+    "distractors": {
+     "plausible": [
+      "Saddle 會鬆開對他們腿的控制",
+      "Saddle 會消除所有腳跟暴露"
+     ],
+     "trap": [
+      "Saddle 會讓他們完成穿插"
+     ]
+    }
+   },
+   {
+    "question": "當你察覺到 counter-entangle 的嘗試時，該如何調整髖部壓力？",
+    "answer": "把髖部壓力加大，向前推進對方被困住的腿。這有雙重效果：既能縮小對手穿插所需的雙腿間空間，也能固定住對方的髖部，讓 counter-entangle 所需要的旋轉動作更難完成。絕對不要在面對 counter-entangle 威脅時減少髖部壓力，因為這正好會創造出這個技巧成功所需要的轉換窗口。",
+    "answer_line": "向前施壓，固定對方髖部",
+    "distractors": {
+     "plausible": [
+      "維持壓力不變",
+      "坐後方以取得更好角度"
+     ],
+     "trap": [
+      "放鬆壓力來休息"
+     ]
+    }
+   },
+   {
+    "question": "成功擋住 counter-entangle 的嘗試之後，你應該立刻做什麼？",
+    "answer": "利用對方失敗的嘗試立刻推進你的位置。對手的自由腿在穿插動作被擋下之後，現在處於不利位置，代表他們的主要防守框架已經消失。利用這個窗口推進到 Saddle、加強你的 Leg Knot 控制，或是進攻 submission。不要只是回到原本的僵局，因為對手一旦重新建立自由腿框架，就會再次嘗試 counter-entangle。",
+    "answer_line": "立刻推進，不要重設局面",
+    "distractors": {
+     "plausible": [
+      "回到中性的 Leg Knot 控制",
+      "先等待並重新評估再行動"
+     ],
+     "trap": [
+      "放開被困的腿來重設"
+     ]
+    }
+   }
+  ]
+ }
+}

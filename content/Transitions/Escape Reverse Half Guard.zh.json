@@ -1,0 +1,179 @@
+{
+ "_meta": {"source": "content/Transitions/Escape Reverse Half Guard.json", "lang": "zh-TW", "scope": "flashcards", "translator": "code", "complete": true},
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在啟動這個 escape 的髖部旋轉之前，最關鍵的前提條件是什麼？",
+    "answer": "在對手的髖部建立起穩固的 frame 是最關鍵的前提條件。如果沒有 frame 在你的髖部與對手身體之間創造空間，旋轉會在半途停滯，讓你卡在一個脆弱的中間位置，背部部分暴露。這個 frame 必須創造出足夠的空間，讓你的髖部能完成完整的旋轉，轉到面對對方的位置。",
+    "answer_line": "在髖部建立 frame",
+    "distractors": {
+     "plausible": [
+      "先取得 underhook",
+      "先用遠側手臂撐地"
+     ],
+     "trap": [
+      "立刻旋轉髖部"
+     ]
+    }
+   },
+   {
+    "question": "相對於對手的重心分布，你應該如何抓準 escape 的時機？",
+    "answer": "在對手把重心投入向前、轉換位置準備攻擊、或在換握法時壓力短暫減輕的時候執行這個 escape。這些瞬間會創造出暫時的空隙，讓他們對你旋轉的阻力降到最低。若在對方重心平衡、穩定不動時嘗試 escape，會遇到最大的阻力，白白耗費體力卻毫無位置上的收穫。",
+    "answer_line": "趁對方重心轉移時 escape",
+    "distractors": {
+     "plausible": [
+      "趁壓力最重時 escape",
+      "等對方完成整個 guard pass"
+     ],
+     "trap": [
+      "在對方重心平衡時硬拚 escape"
+     ]
+    }
+   },
+   {
+    "question": "如果你在髖部旋轉過程中放開對腿的控制，會發生什麼事？",
+    "answer": "在旋轉過程中放開對腿的控制，會讓對手立刻抽出被困住的腿，完成他們的 guard pass、轉換到 side control。half guard 的 hook 必須在整個旋轉序列中持續扣緊，才能避免這個結果。用雙腿保持主動夾緊的壓力，能確保對手無法利用這個轉換的空檔抽腿脫身。",
+    "answer_line": "對手抽腿脫困、完成 pass",
+    "distractors": {
+     "plausible": [
+      "對手重置回中立位置",
+      "你更快完成旋轉"
+     ],
+     "trap": [
+      "你趁機拿到 back"
+     ]
+    }
+   },
+   {
+    "question": "在你嘗試 escape 的過程中，對手從後方建立起強力的 crossface——你該如何應對？",
+    "answer": "立刻停止旋轉，先處理這個 crossface。用你內側的手頂住對方的 crossface 手臂建立 frame，創造出足夠的空間把他們的手臂移過你的頭部。只有在化解 crossface 控制之後，才恢復旋轉。試圖在強力的 crossface 之下硬拚旋轉，只會被壓平，喪失這個位置上所有的進攻能力。",
+    "answer_line": "先架 frame 處理 crossface",
+    "distractors": {
+     "plausible": [
+      "硬拚旋轉衝過去",
+      "先爭取 underhook"
+     ],
+     "trap": [
+      "不管三七二十一繼續旋轉"
+     ]
+    }
+   },
+   {
+    "question": "完成旋轉、面對對手之後，你應該立刻做什麼？",
+    "answer": "立刻建立標準的 half guard 結構，插入 knee shield 或在被困那條腿那一側爭取 underhook。旋轉與建立 guard 結構必須是一個連續不間斷的序列。旋轉完之後若停頓、沒有立即建立防守結構，會讓對手把你壓平，並從標準 half guard top 重新建立優勢的 pass 壓力。",
+    "answer_line": "立刻插入 knee shield",
+    "distractors": {
+     "plausible": [
+      "停下來喘口氣",
+      "立刻進攻 sweep"
+     ],
+     "trap": [
+      "暫時放鬆控制"
+     ]
+    }
+   },
+   {
+    "question": "在你啟動旋轉時，對手開始插入 hook 準備爭取 back control——你的應對方式是什麼？",
+    "answer": "把手肘收緊貼身，立刻處理這個 hook，再繼續旋轉。用手把 hook 挖出來並向下推，同時繼續保持對他們被困那條腿的控制。如果對手已經插入一個 hook，你必須先清除它才能完成旋轉，因為帶著已建立的 hook 繼續旋轉，會讓你直接轉進 back control 的劣勢處境。",
+    "answer_line": "先挖出並清除 hook",
+    "distractors": {
+     "plausible": [
+      "加快旋轉速度盡快脫困",
+      "用腿夾住那個 hook"
+     ],
+     "trap": [
+      "不管 hook，繼續旋轉"
+     ]
+    }
+   },
+   {
+    "question": "從 reverse half guard 轉換到標準 half guard 時，握法需要做哪些調整？",
+    "answer": "在旋轉的過程中，你的 frame 會從在對手後方頂住他們的髖部，轉變成面對對手時的標準 half guard frame。你的內側手臂會從保護頸部的防守姿勢，轉變成嘗試 underhook 或頂住對手胸口與肩膀的前臂 frame。你的外側手則會從髖部 frame，轉變成抓衣領或控制頭部，以進行標準 half guard 的進攻。",
+    "answer_line": "頂髖轉為頂胸的 frame",
+    "distractors": {
+     "plausible": [
+      "維持同樣的護頸握法",
+      "直接切換成抓衣領"
+     ],
+     "trap": [
+      "轉換過程中放開所有握法"
+     ]
+    }
+   },
+   {
+    "question": "如果你最初的 escape 嘗試失敗了，你緊接著應該採取什麼行動？",
+    "answer": "重新建立你的防守基線，收下巴、保護頸部，然後立刻評估這次嘗試為什麼失敗。如果是時機問題，就等待下一次重心轉移的機會。如果對手已經明顯收緊控制，就考慮 deep half entry、invert 或轉 turtle 等其他選項，而不是一再強行重複同一套失敗的 escape 模式。",
+    "answer_line": "重整基線、評估失敗原因",
+    "distractors": {
+     "plausible": [
+      "立刻重複同一套 escape",
+      "下次更用力硬拚"
+     ],
+     "trap": [
+      "轉 turtle，暴露頸部"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "bottom 玩家即將嘗試 reverse half guard escape 時，最早出現的徵兆是什麼？",
+    "answer": "最早的徵兆是在被困那條腿那一側，於你的髖部建立起 frame，並開始做遠離你身體的初步 hip escape 動作。這些準備動作會創造出旋轉所需的空間，並且會比實際的 escape 早一到兩秒發生。若感覺到頂在你髖部上的推力增加，就應該立刻觸發防守反應，趕在旋轉開始之前。",
+    "answer_line": "髖部出現 frame、開始 hip escape",
+    "distractors": {
+     "plausible": [
+      "突然爆發性地踢腿",
+      "深度爭取抓衣領的握法"
+     ],
+     "trap": [
+      "等旋轉結束後再處理"
+     ]
+    }
+   },
+   {
+    "question": "在對方嘗試 escape 時，你什麼時候該追求 back take，什麼時候該完成 guard pass？",
+    "answer": "當 bottom 玩家的軀幹開始旋轉、背部在轉換過程中暴露到最大程度時，就追求 back take，因為這正是插入 hook 的理想窗口。相反地，當 bottom 玩家在旋轉過程中放鬆對腿的控制、創造出你抽出被困那條腿並推進到 side control 的機會時，就改為完成 guard pass。",
+    "answer_line": "背部暴露就取 back，否則就 pass",
+    "distractors": {
+     "plausible": [
+      "永遠優先追求 back take",
+      "永遠優先完成 guard pass"
+     ],
+     "trap": [
+      "放開控制、重新開始"
+     ]
+    }
+   },
+   {
+    "question": "停留在 reverse half guard top 卻不推進，最主要的風險是什麼？",
+    "answer": "保持被動會讓 bottom 玩家有無限次機會去找到 escape 的正確時機。即使你的控制很強，bottom 玩家終究會找到一次重心轉移或壓力短暫減輕的機會加以利用。reverse half guard top 應該被當成一個過渡位置，必須立即推進到 back control 或完成 guard pass。",
+    "answer_line": "對手會找到 escape 的時機",
+    "distractors": {
+     "plausible": [
+      "被動能保留體力",
+      "被動是安全、可控的做法"
+     ],
+     "trap": [
+      "讓 bottom 玩家自己耗盡體力"
+     ]
+    }
+   },
+   {
+    "question": "如果 bottom 玩家開始 invert，而不是正常旋轉，你該如何調整你的壓力？",
+    "answer": "如果 bottom 玩家開始 invert，把你的重心轉向他們的髖部，並把雙腿向後 sprawl，消除他們 invert 所需要的空間。把你的胸口壓力向下、朝地墊方向壓，而不是向前。這能阻止 invert 的切入，逼他們回到以旋轉為基礎的標準 escape 模式，這種模式更容易預測，也更容易從你的位置反制。",
+    "answer_line": "sprawl 髖部、胸口向下壓",
+    "distractors": {
+     "plausible": [
+      "追著他們的 invert 旋轉",
+      "後撤創造空間"
+     ],
+     "trap": [
+      "讓 invert 完整發展"
+     ]
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "什麼樣的條件顯示你應該放棄 Zombie lockdown 的進攻，開始執行逃脫？",
+    "answer": "關鍵指標包括：儘管你不斷調整張力，lockdown 仍被系統性地鬆開；對手已經建立起主導性的 crossface，讓你的 underhook 失去效果；你的 Old School Sweep 和 Electric Chair 嘗試不斷被防守化解；以及對手正持續推進他們的過guard進度。轉折點是當維持 Zombie 所耗費的體力，超過它所能換來的進攻威脅——到了那個地步，繼續防守 lockdown 只是延後不可避免的過guard，卻沒有創造任何逃脫機會。",
+    "answer_line": "防守成本已超過收穫",
+    "distractors": {
+     "plausible": [
+      "crossface正在過你的guard",
+      "sweep一直被擋下"
+     ],
+     "trap": [
+      "硬撐lockdown到力竭"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在放開 lockdown 之前，先建立 frame 至關重要？",
+    "answer": "lockdown 是你在 Zombie 裡主要的控制機制。你一放開它，上位選手被纏住的那條腿就自由了，他們能立刻向前推進、完成過guard或搶背。frame 會製造出一個空間緩衝，在轉換過程中取代 lockdown 的控制功能。沒有 frame，放開 lockdown 就等於放棄了你唯一的防守工具、卻沒有建立替代方案，讓你在逃脫最脆弱的階段完全毫無防備。",
+    "answer_line": "frame取代lockdown的控制功能",
+    "distractors": {
+     "plausible": [
+      "爭取時間喘口氣",
+      "讓髖部維持正對對手"
+     ],
+     "trap": [
+      "先放開lockdown再做frame"
+     ]
+    }
+   },
+   {
+    "question": "對手預判到你要逃脫，就在你開始放開 lockdown 時加大肩膀壓力——你要如何調整？",
+    "answer": "如果 frame 撐不住，就中止逃脫，暫時重新建立 lockdown。如果決定繼續逃脫，就把你的 frame 從他們的胸口改到他們肩膀下方，利用向上的角度把他們的推進壓力導向你的頭頂上方，而不是導向你的身體。同時執行更積極的 hip escape，搶在他們壓力逼近之前更快製造距離。關鍵是絕不正面對抗他們的前壓——永遠把它導向側邊或向上。",
+    "answer_line": "frame頂肩膀下方，角度朝上",
+    "distractors": {
+     "plausible": [
+      "直接推向他們的胸口",
+      "先重新underhook再做frame"
+     ],
+     "trap": [
+      "正面迎擊這股壓力"
+     ]
+    }
+   },
+   {
+    "question": "執行這個逃脫時，最常見的位置性失敗模式是什麼？",
+    "answer": "最常見的失敗，是在從 Zombie 轉換到 turtle 的過程中暴露背部，讓對手建立起 seatbelt 控制、轉換成完整的 back control。要預防這一點，需要在整個轉身動作中把手肘緊貼肋骨，進入 turtle 時立刻弓背，並收緊下巴防止絞技攻擊。這個轉換動作應該感覺像是在頸部和軀幹周圍闔上一個保護殼，而不只是單純翻身而已。",
+    "answer_line": "背部暴露，被拿到seatbelt",
+    "distractors": {
+     "plausible": [
+      "太早失去lockdown",
+      "轉向turtle的速度太慢"
+     ],
+     "trap": [
+      "伸直手臂把對方推開"
+     ]
+    }
+   },
+   {
+    "question": "什麼因素決定你該逃向 turtle，還是直接從 Zombie 嘗試 Granby roll？",
+    "answer": "這個決定取決於對手的重心位置和你可用的空間。如果對手的重心高、壓在你肩膀上且帶有前壓，Granby roll 能反過來利用他們的動能，甚至可以完全跳過 turtle，直接恢復到 guard。如果對手的重心較低、壓在你的髖部，或他們有良好的base，Granby 需要太多空間才能執行，這時 turtle 是比較安全的中間步驟。此外，如果對手很擅長追蹤 Granby roll，先建立 turtle 能給你一個受控的base,讓你能選擇接下來的逃脫方式。",
+    "answer_line": "由重心和空間決定",
+    "distractors": {
+     "plausible": [
+      "為求安全永遠先turtle",
+      "覺得累就做Granby"
+     ],
+     "trap": [
+      "對方重心低又重時做Granby"
+     ]
+    }
+   },
+   {
+    "question": "你要如何防止對手在轉換過程中拿到 seatbelt 抓握？",
+    "answer": "整個轉換過程中，把手肘緊貼身體，不留任何空間讓對手把手臂穿過你的腋下或搭上你的肩膀。當你轉向 turtle 時，主動把肩膀往後壓向他們的胸口，消除本來會出現 seatbelt 的空隙。如果你感覺到他們正伸手要拿 seatbelt，立刻用雙手抓住他們伸過來的手臂、在他們雙手合扣之前把它剝開。轉換的速度也很關鍵——快速、果斷的逃脫,能留給他們更少時間建立抓握。",
+    "answer_line": "手肘夾緊，剝開伸來的手臂",
+    "distractors": {
+     "plausible": [
+      "轉身遠離他們的胸口",
+      "先抓住他們遠側的手腕"
+     ],
+     "trap": [
+      "雙手撐寬以建立base"
+     ]
+    }
+   },
+   {
+    "question": "成功到達 turtle 之後，你最優先要做的動作是什麼？",
+    "answer": "立即行動是最優先的事。turtle 姿勢本身是過渡性且脆弱的——靜止不動會讓對手建立起沉重的胸口壓力、插入勾腳，或設置 front headlock 攻擊。評估對手相對於你的位置：如果他們在你背後，就透過 sit-through 或 Granby roll 開始恢復 guard；如果他們在你側邊，考慮 technical standup；如果他們的重量重壓在上方，就製造橫向髖部移動來打亂他們的重心位置。這個逃脫要一直到你從 turtle 轉換到一個更能持續的位置,才算真正完成。",
+    "answer_line": "立刻移動，不要停滯",
+    "distractors": {
+     "plausible": [
+      "先觀察他們的位置再動",
+      "先喘口氣再移動"
+     ],
+     "trap": [
+      "靜止不動、緊緊縮成turtle"
+     ]
+    }
+   },
+   {
+    "question": "從 Zombie 側躺姿勢轉換到 turtle，哪種髖部動作模式最有效？",
+    "answer": "關鍵的髖部動作，是一個遠離對手的強力 hip escape，搭配遠側髖部立即向下朝地墊旋轉。這會形成一個兩段式的動作：先移動髖部製造空間，接著利用這個空間把身體從側躺轉為俯臥。這個 hip escape 必須是爆發性的，因為緩慢的動作會讓對手輕易跟上。旋轉動作必須連貫，不能在中間位置停頓。把它想像成一個流暢的整體動作——你的遠側髖部往地墊下壓，同時近側髖部推離對手，產生建立 turtle base 所需的轉動力。",
+    "answer_line": "爆發hip escape後接旋轉",
+    "distractors": {
+     "plausible": [
+      "緩慢平穩滾成俯臥",
+      "先用雙手撐地推開"
+     ],
+     "trap": [
+      "轉身前先停頓對正"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "下位選手放棄他們的 Zombie 打法、準備逃脫時，最早能出現的訊號是什麼？",
+    "answer": "最早的訊號是抓握優先順序和身體姿勢的改變。下位選手會從爭奪 underhook（進攻性）轉為在你胸口建立 frame（防守性逃脫準備）。他們 lockdown 的張力，會從主動伸展、爭取 sweep，轉變為被動維持。他們遠側的手臂，會從攻擊你的手腕轉為保護自己的頸部。這些細微的變化，會在實際逃脫之前一到兩秒出現，給你一個關鍵的反應窗口，讓你能中止逃脫或準備你的反制。",
+    "answer_line": "frame出現，停止爭抓握",
+    "distractors": {
+     "plausible": [
+      "lockdown張力增加",
+      "遠側手臂抓你的手腕"
+     ],
+     "trap": [
+      "突然爆發嘗試sweep"
+     ]
+    }
+   },
+   {
+    "question": "下位選手開始逃脫時，你應該努力維持 Zombie top，還是轉換去搶背？",
+    "answer": "這取決於時機。如果你在早期就抓到逃脫的嘗試——在建立 frame 、lockdown 尚未放開之前——你應該壓垮他們的 frame、重新建立沉重的壓力，維持 Zombie top。然而，一旦 lockdown 已經放開、下位選手正在轉身，繼續嘗試維持 Zombie top 就是白費力氣，因為這個位置的控制結構已經被打破。此時，應該立刻轉換到搶背模式，趁他們最脆弱的階段穿入 seatbelt、尋找勾腳的機會。",
+    "answer_line": "早壓垮，晚搶背",
+    "distractors": {
+     "plausible": [
+      "永遠更久維持lockdown",
+      "先等等，改拿mount"
+     ],
+     "trap": [
+      "lockdown放開後還追Zombie"
+     ]
+    }
+   },
+   {
+    "question": "你要如何在施壓阻止逃脫，和避免過度投入而讓對方有機會做 Granby roll 之間取得平衡？",
+    "answer": "以對角線方向施壓，而不是直直向前。用一個角度把肩膀壓向他們的臉和胸口，這個角度既能壓垮他們的 frame，又能維持你自己的橫向base。把你遠側的膝蓋撐寬，防止被翻滾帶動。如果你感覺到他們開始任何滾動動作，立刻把髖部移到對側，朝垂直於他們滾動方向的角度施壓。把你的壓力想成一個楔子,而不是一個攻城槌——它應該要能同時阻止多個方向的移動。",
+    "answer_line": "對角楔形壓制，不要直推",
+    "distractors": {
+     "plausible": [
+      "用力直直向前推",
+      "膝蓋撐窄以建立base"
+     ],
+     "trap": [
+      "全力壓肩膀硬拚"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到 lockdown 正在放開時，你應該做出什麼樣的抓握調整？",
+    "answer": "lockdown 放開時，立刻從以過guard為導向的抓握（crossface、underhook、褲管控制）轉換成以控制為導向的抓握（seatbelt準備、近側underhook、遠側衣領或肩膀控制）。當他們轉身時，你近側的手臂應該立刻設法穿過他們的腋下，去拿 seatbelt。你遠側的手應該控制他們遠側的肩膀或頸部，防止他們完整、有防禦力地完成 turtle 旋轉。抓握的轉換，應該和 lockdown 的放開同步發生。",
+    "answer_line": "把crossface換成seatbelt抓握",
+    "distractors": {
+     "plausible": [
+      "保留crossface再加underhook",
+      "先控制腰帶，之後再管髖部"
+     ],
+     "trap": [
+      "把褲管抓得更緊"
+     ]
+    }
+   },
+   {
+    "question": "如果下位選手不顧你的反制、成功到達 turtle，你該怎麼做？",
+    "answer": "立刻把你的策略從 Zombie top 控制轉為 turtle 攻擊動作序列。立刻建立胸貼背的壓力，開始尋找 seatbelt 抓握，把手臂穿過他們近側的腋下，同時控制他們遠側的肩膀。不要停下來重整——搶背的機會窗口，在他們建立 turtle 之後的頭三到五秒最為開放，那時他們還來不及開始自己的逃脫動作序列。如果拿不到 seatbelt，就繞向他們的頭部轉換成 front headlock 控制，這會開啟不同的提交和控制路徑。",
+    "answer_line": "在頭3-5秒內攻擊turtle",
+    "distractors": {
+     "plausible": [
+      "重新規劃過guard策略",
+      "等他們先動再反應"
+     ],
+     "trap": [
+      "停下來重新規劃策略"
+     ]
+    }
+   }
+  ]
+ },
+ "_meta": {
+  "source": "content/Transitions/Escape Zombie Control.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ }
+}

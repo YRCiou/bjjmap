@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "source": "content/Transitions/Crab Ride Escape to Guard.json",
+  "lang": "zh-TW",
+  "scope": "flashcards",
+  "translator": "code",
+  "complete": true
+ },
+ "attacker": {
+  "flashcards": [
+   {
+    "question": "在這個逃脫過程中，卸除 crab ride hook 的最佳時機窗口是什麼？",
+    "answer": "最好的時機是對手調整上半身抓握，或是把重心前移準備威脅 choke 或完成 back take 的時候。這些轉換時刻需要對手重新分配注意力與體力，暫時降低維持 hook 深度的作用力。留意胸口壓力減輕，或對手雙手移動到新抓握位置的瞬間——這些是你卸除 hook 成功率最高的時機窗口。",
+    "answer_line": "抓握改變或重心前移時",
+    "distractors": {
+     "plausible": [
+      "一感覺到 hook 就立刻動作",
+      "當他們重心往後沉時"
+     ],
+     "trap": [
+      "在胸口壓力最重的時候"
+     ]
+    }
+   },
+   {
+    "question": "在開始逃脫動作的髖部旋轉階段之前，必須先滿足哪些條件？",
+    "answer": "必須滿足三個條件：頸部防守要做好，下巴收緊並控制住準備 choke 的那隻手；crab ride hook 必須被卸除或明顯鬆開，才不會跟著你的旋轉；而且你必須至少空出一隻手來撐地維持轉身時的平衡。三個條件缺一不可，否則就會暴露在 back take 或 submission 的風險之下。這三者中，最常被忽略的是把 hook 卸除，結果對手就順著你的轉身直接完成 back control。",
+    "answer_line": "頸部安全、hook 卸除、空出一手",
+    "distractors": {
+     "plausible": [
+      "先撐一隻手，再卸除 hook",
+      "只做頸部防守和空出一手"
+     ],
+     "trap": [
+      "hook 一卸除就立刻旋轉"
+     ]
+    }
+   },
+   {
+    "question": "為什麼在逃脫旋轉時必須轉向對手而不是轉離對手？",
+    "answer": "轉向對手能讓你的雙腿進入你們身體之間，這正是 guard 位置的基礎。轉離對手會暴露你的背部，並製造出對手用 hooks 和 seatbelt 完成 back take 所需要的正確角度。此外，轉向對手能縮短你的腿到達 guard 接觸位置所需的距離，而轉離對手則會拉長這個距離。這背後的生物力學原理是：朝對手轉動會建立防守屏障，而轉離對手則會拆除這道屏障。",
+    "answer_line": "轉向對手，雙腿插入中間",
+    "distractors": {
+     "plausible": [
+      "轉向對手，但先坐起來",
+      "轉向對手，雙手先行"
+     ],
+     "trap": [
+      "轉離對手以製造空間"
+     ]
+    }
+   },
+   {
+    "question": "如果你在成功卸除 crab ride hook 之前就嘗試旋轉，會發生什麼事？",
+    "answer": "由於 hook 仍然固定在你的髖部下方，它會跟著你的旋轉一起移動。當你轉身時，對手的勾腿會自然地從 crab ride hook 轉換成 back control 的 hook，對方幾乎不需要做什麼調整。你等於是幫對手完成了 back take，提供了他們需要的旋轉，讓他們把 hook 完整插入。這是這個逃脫技巧最常見的失敗模式，也是為什麼「先卸 hook 再轉身」的順序必須嚴格遵守。",
+    "answer_line": "hook 變成了 back-take 的 hook",
+    "distractors": {
+     "plausible": [
+      "逃脫停滯，沒有實質損失",
+      "對手必須重新插入 hook"
+     ],
+     "trap": [
+      "你獲得了 scramble 優勢"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的抓握配置能讓你同時保護頸部並處理 hook？",
+    "answer": "你靠近對手選擇 choke 那一側的手，扣住對手的手腕或前臂，藉此防止對方建立領口抓握或 rear naked choke 的位置，維持頸部防守。你另一側的手則伸過去，從內側抓住勾腿那隻腳的腳踝或腳跟。這樣的分工讓每隻手各自負責一項關鍵任務。如果兩隻手都去處理 hook，你就失去頸部防守；如果兩隻手都留在防守上，你就永遠處理不了 hook。這樣的分工能讓兩項任務同時並行推進。",
+    "answer_line": "上方手抓手腕，下方手抓腳踝",
+    "distractors": {
+     "plausible": [
+      "雙手都控制對方 choke 的那隻手臂",
+      "雙手先攻擊 hook"
+     ],
+     "trap": [
+      "同時 underhook 對方兩隻手臂"
+     ]
+    }
+   },
+   {
+    "question": "當你開始逃脫序列時，對手加深 hook 並施加沉重的胸口壓力——你該如何調整？",
+    "answer": "暫停卸除 hook 的動作，回到強勢的防守 turtle 姿勢，雙手保護頸部。不要用最大力氣硬拚對抗加深的 hook。反而要等待對手的下一次調整——他們無法同時維持最大 hook 壓力，又推進上半身的進攻。當他們把注意力轉向抓握或 choke 設置時，hook 的壓力會自然減輕。利用這些壓力起伏，一點一點卸除 hook，而不是在對方壓力最大時投入一次性的硬拚。",
+    "answer_line": "暫停、防守頸部、等待時機",
+    "distractors": {
+     "plausible": [
+      "硬拚著把 hook 卸除",
+      "立刻換到另一側"
+     ],
+     "trap": [
+      "用力 bridge 把對方頂開"
+     ]
+    }
+   },
+   {
+    "question": "要卸除 crab ride hook，你應該把對手的勾腳往哪個方向推？",
+    "answer": "把勾腳往地墊方向、遠離你髖部的方向推——相對於你的身體，是一個向下且向外的方向。如果把腳直直推回對手，或只是單純往上拉，都會讓它重新固定在你的髖線下方。同時朝同方向做髖部側移，配合向下且向外的推力，能把腳從你的髖部剝離，移除對手接下來旋轉時所需要的固定點。真正提供大部分卸除力量的是髖部的側移，而不只是靠手。",
+    "answer_line": "向下且向外，搭配髖部側移",
+    "distractors": {
+     "plausible": [
+      "直直往對手方向推回去",
+      "把腳直直往上拉"
+     ],
+     "trap": [
+      "把腳往前推過你的髖部"
+     ]
+    }
+   },
+   {
+    "question": "你卸除了 hook，但對手的胸口壓力擋住了你完整轉入 closed guard——接下來要連接什麼？",
+    "answer": "放棄取得 closed guard 的目標，改為轉向 half guard 或 butterfly guard，這兩者需要的旋轉幅度都比較小。做一個 sit-through，把對手靠近你的那條腿夾在你雙腿之間以建立 half guard，或是在轉身的同時把 butterfly hooks 插入對方大腿下方。這兩個選項都利用了卸除動作已經創造出的空間，而不是硬拚去爭取幅度更大的 closed guard 旋轉。與其為了完美的 closed guard 而拖延、讓對手重新鞏固 crab ride 控制，不如先建立任何一種 guard。",
+    "answer_line": "連接到 half guard 或 butterfly guard",
+    "distractors": {
+     "plausible": [
+      "硬推進 closed guard",
+      "等待 closed guard 自然打開"
+     ],
+     "trap": [
+      "放開抓握，重設回中性位置"
+     ]
+    }
+   },
+   {
+    "question": "你感覺到對手在你旋轉時威脅要插入第二個 hook——你該如何應對？",
+    "answer": "加速旋轉，立刻把對手拉進你的 guard，而不是停下來用手擋住即將插入的 hook。從 crab ride 到完整 back control 之間的窗口，是你最後的機會，所以要全力投入拉 guard 的動作。把你的髖部插到對方下方，並讓雙腿都參與進來，這樣第二個 hook 就變得無關緊要；反之，如果停下來對抗那個 hook，通常會給對手足夠的時間和角度來完成 back take。",
+    "answer_line": "加速，拉入 guard",
+    "distractors": {
+     "plausible": [
+      "停下來擋住那隻抓 hook 的手",
+      "放慢旋轉，防守 hook"
+     ],
+     "trap": [
+      "中止旋轉，回到 turtle"
+     ]
+    }
+   }
+  ]
+ },
+ "defender": {
+  "flashcards": [
+   {
+    "question": "對手正從 crab ride bottom 展開拉 guard 逃脫，最早的辨識訊號是什麼？",
+    "answer": "最早的訊號是他們同側的手伸向你勾腳那隻腳的腳踝。這個動作會先於所有其他逃脫動作出現，因為下位者必須先處理 hook 才能旋轉。次要訊號包括髖部側向移動，以及積極收緊下巴。只要辨識出他們的手伸向你 hook 的動作，你就能在逃脫序列取得動能之前，加深 hook 並加大胸口壓力。",
+    "answer_line": "他們的手伸向你的 hook",
+    "distractors": {
+     "plausible": [
+      "他們的髖部先側向移動",
+      "他們先收緊下巴"
+     ],
+     "trap": [
+      "他們放鬆並停止動作"
+     ]
+    }
+   },
+   {
+    "question": "當你感覺到下位者對你腳踝施加卸除壓力時，該如何調整你的 hook？",
+    "answer": "把腳跟捲向對方髖部的遠側，並讓小腿更緊密地壓在對方大腿內側，藉此把勾腳插得更深。不要只靠腳的力量單純去抵抗對方的拉扯。同時加大你的胸口壓力，限制對方產生卸除力量的能力。如果 hook 正從內側被卸除，就旋轉你的腳，改變施壓方向，逼對方調整抓握，為你爭取時間重新建立深度。",
+    "answer_line": "腳跟捲得更深，小腿內壓",
+    "distractors": {
+     "plausible": [
+      "只加大胸口壓力",
+      "改用 overhook"
+     ],
+     "trap": [
+      "只靠腳的力量硬抗"
+     ]
+    }
+   },
+   {
+    "question": "在對方逃脫的過程中，什麼時候是從 crab ride 轉換到完整 back control 的最佳時機？",
+    "answer": "最佳的轉換窗口，是下位者的髖部已部分旋轉，但還沒在你們身體之間建立任何腿部屏障或 guard 框架的那一刻。他們的旋轉正好製造出你第二個 hook 需要的髖部角度，而他們專注於完成轉身，也意味著他們暫時沒有防守 hook 的插入。在這兩到三秒的窗口內，插入第二個 hook 並建立 seatbelt，全力完成 back take。",
+    "answer_line": "旋轉中段、guard 尚未成形時",
+    "distractors": {
+     "plausible": [
+      "hook 剛被卸除的當下",
+      "等他們進入 closed guard 之後"
+     ],
+     "trap": [
+      "當他們雙手撐地穩住重心時"
+     ]
+    }
+   },
+   {
+    "question": "什麼樣的抓握調整能阻止下位者完成髖部旋轉逃脫？",
+    "answer": "在對方遠側手臂建立 overhook，並在近側配合控制領口或頭部。這樣的抓握配置會形成一個旋轉固定點，阻止對方肩膀轉向你。當對方嘗試旋轉時，你在遠側的 overhook 會像剎車一樣抑制他們的轉動。此外，把胸口的重量壓向對方遠側肩膀，而不是單純垂直往下壓，會讓他們的旋轉在力學上變得困難許多，因為他們旋轉時必須連你的重量一起抬起來。",
+    "answer_line": "遠側 overhook，控制頭部",
+    "distractors": {
+     "plausible": [
+      "近側 overhook，抓腰帶",
+      "雙手同時 underhook 對方兩隻手臂"
+     ],
+     "trap": [
+      "抓住雙手手腕，拉向胸口"
+     ]
+    }
+   }
+  ]
+ }
+}
